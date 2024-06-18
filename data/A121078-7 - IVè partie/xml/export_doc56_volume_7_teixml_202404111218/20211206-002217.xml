@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:07.117632+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002217.tif
+IMAGE WIDTH: 2494
+IMAGE HEIGHT: 3972
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>tombe sur le bâtiment, incendie, inondation, la plupart
+          <lb/>des gens périssent).
+          <lb/>Bibl. Centrale de Zurich.
+          <lb/>1901
+          <lb/>GESCHICHT : Ein wunderbarlich gantz warhafft geschicht...
+          <lb/>von dryen gesellen. Voir: WIRRY, Heinrich n° 3550.
+          <lb/>GESCHICHTE der sieben Weisen. Voir : MEISTER, die sieben
+          <lb/>weisen.
+          <lb/>GESCHICHTEN: Wunderbarliche Geschichten die da geschehen
+          <lb/>synt von geystlichen wybspersonen... — [Strasbourg,
+          <lb/>Barth. Kistler] 1502, in-4°.
+          <lb/>Kristeller 109; Schmidt IV, p. 9, n° 21; Weller, Rep. 230,
+          <lb/>Panzer, Annalen, Zusätze 101 mentionne une nouvelle éd. de
+          <lb/>1505.
+          <lb/>1902
+          <lb/>GESCHICHTEN der Römer. Voir: MEISTER, die sieben weisen.
+          <lb/>GESICHT : Im M.D.LIIII Jar, den XI. tag Brachmonats
+          <lb/>ist disz gesicht oder zeychen zum Blech fünff meyl
+          <lb/>von Nürnberg gelegen, von vilen menschen gesehen
+          <lb/>worden wie hernach folgt. — Strasbourg, Thiébaud
+          <lb/>Berger 1564, placard in-fol.
+          <lb/>Bibl. Centrale Zurich.
+          <lb/>1903
+          <lb/>GESTA, Romanorum. Voir : MEISTER (die sieben weisen).
+          <lb/>GIFTHEIL, Joachim : In materiam de Cœna Domini commune¬
+          <lb/>factio... — Strasbourg, Nic. Wyriot 1580, in-8°.
+          <lb/>Bibl. St. Guillaume, Strasbourg. (Giftheil, voir aussi : Ritter,
+          <lb/>Rép. n° 1013 : Ein Predigt über das Finsternusz des Monds.
+          <lb/>Strasbourg, Nic. Wyriot 1580).
+          <lb/>1904
+          <lb/>GILDELEIANUS, Isaac Mauritius: Propemptikon Ad nobiles
+          <lb/>et optimarum artium studiis eruditos viros Andream
+          <lb/>et Gulielmum Dresselberg: fratres Germanos: studiorum
+          <lb/>gratia Tübingam ituros. Scriptum ab Isaaco Mauritio
+          <lb/>215
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

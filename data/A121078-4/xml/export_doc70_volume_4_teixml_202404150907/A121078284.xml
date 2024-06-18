@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:50.806595+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078284.tif
+IMAGE WIDTH: 2308
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1170
+          <lb/>A la fin: Sermones... impressi ac diligenter revisi per
+          <lb/>indu- strium Henricum Gran: in imperiali oppido Hage¬
+          <lb/>naw expensis ac sumptibus providi Johannis Ryn- man
+          <lb/>finiunt feliciter Anno salutis nostrae Millesimo quingente¬
+          <lb/>simo quarto. quinto Nonas Octobris.
+          <lb/>In-4°, car. goth., 2 col., 264 ff. non ch. dont le dernier blanc, sign.
+          <lb/>a–2, a–K, titre courant, init. d’attente coloriées en rouge. Après les
+          <lb/>8 premiers ff. (table) nouveau titre : Sermones Pomerii de Tem  pore
+          <lb/>Hyemales et Estivales. Fol. a Ib: Prologus.
+          <lb/>R10.344 (1). Prov.: Trubner (Vente Zimberlin), Strasbourg 29/IV
+          <lb/>1886, 12 M. Notes mes. Au recto du f. de garde:,Ad usum R. P. Fr.
+          <lb/>Joannis Martini Rötigch Selestadiani ord. F. Fr. PP. Sacerdoti. 1621. Ad
+          <lb/>Conventum B Fr. Wilecensem.&amp;quot; Rel, anc.
+          <lb/>Proctor II Sectio I n° 11.622: Londres, British Museum; BM
+          <lb/>Strasbourg.
+          <lb/>1823
+          <lb/>PELBARTUS DE THEMESWAR
+          <lb/>Haquenau, H. Gran 1505
+          <lb/>Sermones Quadragesimales Pomerii fratris Pelbarti
+          <lb/>de! Themeswar divi ordinis sancti! Francisci.
+          <lb/>A la fin: Sermones... diligenter emendati expensis
+          <lb/>providi Joannis Rynman in im- periali oppido Hagenaw
+          <lb/>per industriosum Hen-ricum Gran Finiunt feliciter Anno
+          <lb/>salutis nostrae Mil lesimo quingentesimo quinto, xxiiï, die
+          <lb/>mensis Aprilis. (Verso blanc.)
+          <lb/>In-fol., car. goth., 2 col., 90 f. non ch., sign. a—p, titre courant,
+          <lb/>init. d’attente, coloriées en rouge.
+          <lb/>R10.344 (2). Prov.: Trubner (Vente Zimberlin), Strasbourg 29/IV
+          <lb/>1886. Rel. anc.
+          <lb/>Proctor II Sectio I n° 11626: Londres, Brit. Museum; BM
+          <lb/>Strasbourg.
+          <lb/>1824
+          <lb/>PELBARTUS DE THEMESWAR
+          <lb/>Haguenau, H. Gran 1505
+          <lb/>Sermones Pomerii de Sanctis! Hyemales et Estivales
+          <lb/>editi per Fratrem Pelbartum de Theme-war divi Ordi¬
+          <lb/>nis sancti Francisci. (Verso blanc.) Après 10 ff. de table et 1 f.
+          <lb/>blanc, nouveau titre: Sermones Pomerii de San! ctis Hyemales et Esti¬
+          <lb/>vales. Au verso, Prologus.
+          <lb/>A la fin, avant «Historia sancti Joannis elemosynarii»:
+          <lb/>Sermones Pomerii de sanctis... impressi ac diligenter revisi
+          <lb/>per industriumHenricum Gran in imperiali oppido Ha¬
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

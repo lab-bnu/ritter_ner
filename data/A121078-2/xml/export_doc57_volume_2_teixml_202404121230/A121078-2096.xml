@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:29.213270+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2096.tif
+IMAGE WIDTH: 2328
+IMAGE HEIGHT: 3830
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>98
+          <lb/>seum.
+          <lb/>BN Paris, Rés. R. 221 et Rés. R. 361; Londres, Britisch Mu¬
+          <lb/>Walter, N° 1404: BM Sélestat.
+          <lb/>Manque chez Schmidt; GPB: Berlin SB, Breslau, Bonn, Münster;
+          <lb/>156
+          <lb/>BARTHOLOMEUS Coloniensis
+          <lb/>Haguenau. H. Gran, 1514.
+          <lb/>Dialogus mytholo- gicus Bartholomaei Coloniensis dul¬
+          <lb/>cibus io- eis, iucundis salibus, concinnisque sententiis
+          <lb/>refertus, atque diligenter elaboratus.
+          <lb/>M. G. Konitz distichon, (1 distique.)
+          <lb/>Quorundam vocabulorum diffi cilium explanationem
+          <lb/>in cal- ce libelli inuenies.
+          <lb/>A la fin: Hagenau Domino Joanne Rynmann de Orin¬
+          <lb/>gaw es impendente: Hen- ricus Gran excudere fecit:
+          <lb/>mense Octobris Anno! saluationis nostrae! M. d.xiiij.
+          <lb/>In-4°, car, rom. et goth., 17 ff. non ch., sign. A-C, initiale ornée A,
+          <lb/>titre encadré. (H&amp;amp;B, Planche LXIV, NO 2.)
+          <lb/>Au verso du titre:... Antonio Witchin,, Georgius Adal¬
+          <lb/>berti Witchin bonarum ar- tium baccalaureus patri suo ama¬
+          <lb/>tissimo. S.P.D... — Ex Lipcensi Gymnasio pridie Idus mensis
+          <lb/>Junij. Anno domini. M.D.IIII.
+          <lb/>R100.874. Prov.: Th. Ackermann, Munich, 30. III. 1886; 2 M.
+          <lb/>Notes mss.
+          <lb/>157
+          <lb/>BARTHOLOMAEUS Coloniensis
+          <lb/>Haguenau, Th. Anshelm, 1516.
+          <lb/>Dialogus Mythologi! cus Bartholomaei Coloniensis dul¬
+          <lb/>ci! bus iocis, iucundis salibus, con cinnisque sententiis
+          <lb/>refertus atque diligenter ela boratus.
+          <lb/>G. Konitz distichon, (1 distique.)
+          <lb/>Jo. Knoder distichon, (1 distique.)
+          <lb/>Quorundam uocabulorum difficilium ex- planationem
+          <lb/>in calce libelli inuenies.
+          <lb/>A la fin: Hagenaw apud Thomam Anshelmum mense
+          <lb/>Nouembri. M.D.XVI. (Verso blanc.)
+          <lb/>In-40, car. rom., 22 ff. non ch., sign. A-E, titre encadré. (H. 8 B.,
+          <lb/>Planche LXI, N° 1.)
+          <lb/>Au verso du titre: Studiosis adulescentulis Philippus! Me¬
+          <lb/>lanchthon. (1 p.)
+          <lb/>R102.055. Prov.: Don de Fidelis Butsch fils, antiquaire à Augs¬
+          <lb/>bourg, 1871.
+          <lb/>GPB: Berlin SB.
+          <lb/>158
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

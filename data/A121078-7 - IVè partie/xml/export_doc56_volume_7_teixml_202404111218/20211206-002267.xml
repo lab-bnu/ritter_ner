@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:08.751574+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002267.tif
+IMAGE WIDTH: 2530
+IMAGE HEIGHT: 3954
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>JOBIN, Bernhard : Das Ander Buch Newerlesener Künstlicher
+          <lb/>Lautenstück, von allerhand Musicartlichen Passomezo,
+          <lb/>Gailliarden... — Strasbourg, Bernard Jobin 1573, in-fol.
+          <lb/>Vogeleis, p. 321/2; Hauffen: Fischart I, p. LIX-LXIII. 2147
+          <lb/>JOHANN, Georg (Herzog von Brandenburg). Voir : FRANZ von
+          <lb/>Kriechingen n° 1764.
+          <lb/>JOHANNES, Apostolus : Evangelium Johannes verdeütscht...
+          <lb/>Für die einseitigen ungelerten. Martinus Luther. —
+          <lb/>(Strasbourg, Jean Prüss 1522), in-4°,
+          <lb/>Schmidt III, p. 38, n° 32; Weller 2149. — S. Gall (Stifts-
+          <lb/>bibliothek).
+          <lb/>2148
+          <lb/>JOHANNES, Apostolus : Die heimliche Offenbarung Johannis...
+          <lb/>— (Strasbourg, Jérôme Greff 1502), in-fol.
+          <lb/>Schmidt IV, p. 15; Weller 238. — BN Munich.
+          <lb/>2149
+          <lb/>JOHANNES de Burgo. Voir: BURGO, Joh. de.
+          <lb/>JOHANNES, Campensis. Voir: PSMalMi n° 3030.
+          <lb/>JOHANNES de Capua. Voir: BUCH der Weisheit nos 1184 et
+          <lb/>suiv.
+          <lb/>JOHANNES, Chrysostomus : Ein hüpsch schön Büchlin des
+          <lb/>heiligen Joannis Chrysostomi Bischoffs zuo Constan¬
+          <lb/>tinopel, vor elff hundert Jaren gepredigt uber das
+          <lb/>Apophthegma und kurtzen Spruch: Es wirt niemant
+          <lb/>geschedigt dann von im selbs. Jetz neülich auszgangen
+          <lb/>unn verteütscht durch M. Matthiam Erbium, Predicant
+          <lb/>zuo Rychenwyr. — Mulhouse, P. Schmid (1559), in-8°.
+          <lb/>Werner, p. 89, n° 2.
+          <lb/>2150
+          <lb/>JOHANNES, Chrysostomus. Conciones sex de providentia
+          <lb/>divina. — Haguenau, J. Secer (juin 1533), in-8°. A la
+          <lb/>suite de HEGENDORF, Enarrationes novae, n° 1974.
+          <lb/>2151
+          <lb/>265
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:32.350305+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2194.tif
+IMAGE WIDTH: 2294
+IMAGE HEIGHT: 3828
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>190
+          <lb/>R100.976. Prov.: L. Rosenthal, Munich, 19/x. 1892; 18 M. Au
+          <lb/>haut du titre:, Joannis Bernardini Raibelli&amp;quot;, au bas:, F. Nicolaus
+          <lb/>Alexius Commius (2) S. J. 1570.&amp;quot; Rel. anc.
+          <lb/>BM Strasbourg, Oxford. Bibl. Bodleiana. Roth, loco citato N° 34:
+          <lb/>BM Mayence, BU Leipzig, BN Vienne. GPB: Breslau BU, Kœnigs¬
+          <lb/>berg BU, Munster BU.
+          <lb/>293
+          <lb/>BRUNFELS Otto
+          <lb/>(Strasbourg, G. Ulricher, vers 1533.]
+          <lb/>IATRION ME] DICAMENTORVM SIMPLICI! um, continens
+          <lb/>remedia omnium morborum, quae tam hominibus quàm
+          <lb/>pecudibus, accidere possunt, opus sane praeclarum atque
+          <lb/>in- signe, cuique hactenus par in lucem non prodijt,
+          <lb/>digestum in Li! bros quatuor, quorum materia uersa
+          <lb/>pa- gina docetur.
+          <lb/>Marque typographique d’Ulricher d’Andlau. (HEB, Planche
+          <lb/>XXII, No 3; Silvestre, N° 735.)
+          <lb/>Au-dessous: Per Othonem Brunfelsium Medicinae! Doc¬
+          <lb/>torem.
+          <lb/>In-80, car, rom., Livre I: 32 ff. non ch., 240 ff. ch., Lìvre II.
+          <lb/>267 ff. ch., Livre III.: 203 ff. ch., Livre IV: 120 ff. ch., titre courant,
+          <lb/>réclames, notes marginales, petites initiales à fig.
+          <lb/>Chaque livre a un titre avec la même marque typographique
+          <lb/>d&amp;#x27;Ulricher qu’au titre du Ier livre, cette marque se trouve aussi au
+          <lb/>verso du dernier f. de chaque livre, à l&amp;#x27;exception du 4e livre avec la
+          <lb/>marque typographique d’Ulricher qui se trouve ches HEB, Planche
+          <lb/>XXII, No 6; Silvestre, No 737.
+          <lb/>Livre II: IATRIONI-NCES MEDICAMENTORVM SIM-
+          <lb/>plicium, Liber Secundus, continens ea quae ad pectus,
+          <lb/>uentrem in-teraneaque attinent Othone Brunfelsio
+          <lb/>authore. (Verso blanc.)
+          <lb/>Livre III: IATRIONI- CES MEDICAMENTORVM SIM- plicium
+          <lb/>Liber Tertius, continens ea quae infernis corporis par
+          <lb/>tibus accidunt, ulcerum item omnis generis, &amp;amp; uulnerum
+          <lb/>re- media. Othone Brunfelsio authore. (Verso blanc.)
+          <lb/>Livre IV: IATRIONI- CES MEDICAMENTORVM SIM- plicium
+          <lb/>Liber Quartus, continens febrium, morborum mulie
+          <lb/>brium, &amp;amp; omnium ue nenorum remedia. Othone Brun¬
+          <lb/>felsio authore.
+          <lb/>Au verso du titre principal: LECTORI Salutem. (14 lignes.)
+          <lb/>fol. A 2a non ch.:... LAV-rentio Schenckbecher.
+          <lb/>Ecclesiae Diui Thomae apud Argentoratum prae posito,
+          <lb/>Otho Brunfelsius.... — Argen torati 18. Marcij. Anno
+          <lb/>1533. (Dédicace de 2 pages et demie.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

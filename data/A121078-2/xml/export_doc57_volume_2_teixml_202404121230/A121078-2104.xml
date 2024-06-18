@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:29.362242+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2104.tif
+IMAGE WIDTH: 2322
+IMAGE HEIGHT: 3824
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>100
+          <lb/>In-4°, car, rom., 54 ff. non ch., sign. A-I, titre courant, initiales
+          <lb/>d’attente.
+          <lb/>Au verso du titre: VOLFGANGVS BEBELIVS IN LIBEL- LVM
+          <lb/>FRATRIS. (5 distiques.)
+          <lb/>Au-dessous: HENRICVS BEBELIVS AD LECTOREM.... —
+          <lb/>Ex Tubinga die Mauritij. Anno. M. D. XI.
+          <lb/>Au-bas: Ad... Ioannem Salicetum alias Vuidman, eius¬
+          <lb/>que filios vtriusque iu- ris doctores. Beatum ducalem se¬
+          <lb/>natorem. atque Ambrosium Tubingensem praepositum
+          <lb/>epistola Bebelij... — Tubingae. XV. Kalendas Iulias. Anno
+          <lb/>M. D.VI.
+          <lb/>Fol. A 2b: Ad... Ioannem Salicetum alias Vuidman,
+          <lb/>princi- pis nostri Vdalrici medicum, carmen Henrici Be¬
+          <lb/>belij de nuptiis filiae eius cum doctore lacobo Kurser,
+          <lb/>cancellario Badensi. Anno. M. D. IIII. (24 distiques.)
+          <lb/>Fol. A 3a : ITERVM BEBELIVS AD LECTOREM.
+          <lb/>*R101.625. Prov.: Bibl. Ch. Schmidt, I0/IV. 1895.
+          <lb/>Schmidt VIII, No 103 cite d’après son exemplaire; Zapf, Bebel
+          <lb/>p. 160-166: UB Ingolstadt.
+          <lb/>168
+          <lb/>BEBELIUS Henricus
+          <lb/>Strasbourg, M. Schürer, 1513.
+          <lb/>Ars versificandi et carminum! condendorum cum quan¬
+          <lb/>titatibus syllabarum! Henrici Bebelij Iustingensis poetae
+          <lb/>laureati...
+          <lb/>Même titre, même nombre de pages que dans l’édition précédente
+          <lb/>de la même année. Les deux éditions commencent par le même mot et
+          <lb/>finissent par le même mot; mais dans R101.626 la deuxième ligne du
+          <lb/>titre a: syllabarû, tandis que RIOI.625 a: svllabarum; plus bas:
+          <lb/>Hex. I. Hybphantici au lieu de Hexastichon loh. Hyphantici;
+          <lb/>de même les caractères de cette édition sont un peu plus petits que dans
+          <lb/>R101.625, en outre il y a des différences dans l’écriture de quelques
+          <lb/>mots et l’explicit ne désigne pas l’imprimeur, il y a seulement:
+          <lb/>T.O. Impressum Argentinae Anno M. D. XIII. RE¬
+          <lb/>GNANTE IMPERATORE CAES. MAXIMILIANO P. F.1 AVG. P. P.
+          <lb/>In-4°, car. rom., 54 ff. non ch., sign. A-I, titre courant, initiales
+          <lb/>d’attente.
+          <lb/>Les vers et les préfaces sont les mêmes que dans RI01.625.
+          <lb/>*R101626. Prov.: Rosenthal, Munich, I/V. 1885. 9 M.
+          <lb/>Schmidt VIII, NO 104: Bibl, cantonale de Zürich.
+          <lb/>169
+          <lb/>BEBELIUS Henricus
+          <lb/>Strasbourg, M. Schürer, 1513.
+          <lb/>Commentaria epistolarum con ficiendarum Henrici Be¬
+          <lb/>belij Iustingensis, poetae laureati, poeticam &amp;amp; oratoriam
+          <lb/>publice profitentis in studio Tubingensi.... (17 lignes don¬
+          <lb/>nant le contenu.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

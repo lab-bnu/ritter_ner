@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:32.763490+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2208.tif
+IMAGE WIDTH: 2284
+IMAGE HEIGHT: 3824
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>204
+          <lb/>fol. 4a-18b: Table.
+          <lb/>La pagination recommence avec chiffre IX; de nombreux erreurs
+          <lb/>de pagination.
+          <lb/>Beaucoup de gravures, entre autres un grand nombre d’appareils
+          <lb/>de laboratoire, souvent répétés; plusieurs planches anatomiques.
+          <lb/>fol. 2a et 139a: Le poète lauréat du,, Liber Philomusi&amp;quot;, qui re¬
+          <lb/>vient en petit format fol. 188b.
+          <lb/>fol. 6b, 48b, 141a, une pharmacie, dans celle-ci trois hommes et
+          <lb/>un garçon qui pile dans un mortier, comme dans le Liber pestil. 1500.
+          <lb/>fol. 9a, un professeur de médecine et 4 étudiants, comme dans
+          <lb/>l&amp;#x27;édition de 1500.
+          <lb/>fol. 13b, un malade couché, auprès de lui 4 médecins.
+          <lb/>fol. 16b, 339a, une pharmacie avec un maître et un élève, comme
+          <lb/>dans l’édition de 1505.
+          <lb/>fol. 47b, 49a, un professeur et sept élèves debout.
+          <lb/>fol. 93a, 139b, 317 a, un marchand de thériac avant sa table sur
+          <lb/>une place publique et un acheteur.
+          <lb/>fol. 113a, 201a, un professeur en chaire, 6 élèves assis sur des bancs.
+          <lb/>fol. 195a, 299b, un malade couché, 3 médecins comme dans l’édi¬
+          <lb/>tion de 1500.
+          <lb/>fol. 267 a, la gravure du titre de la Chirurgie de 1497, avec l’ad¬
+          <lb/>dition d’un bois: un médecin.
+          <lb/>fol. 283a, 4 personnes chez un médecin endormi à sa table.
+          <lb/>fol. 326b, un homme ventousé.
+          <lb/>37 petites gravures, divers personnages, plusieurs fois répétés, dont
+          <lb/>quelques uns sont tirés du Térence de 1496.
+          <lb/>Edition complètement remaniée, sans la traduction du traité de
+          <lb/>Marsile Ficinus, mais avec addition comme 5e livre, du Micarius Medi¬
+          <lb/>cinae vel Thesaurus pauperum oder das bûch Schatz der Armen Arteny
+          <lb/>(fol. 283-344.)
+          <lb/>FR10.417. Prov.: Bibliotheca Hämmeriana. Ex Ebner. Norib.
+          <lb/>1816.
+          <lb/>Au bas du titre:,Ioachimo Jacobo Fil. Camerario.,,
+          <lb/>Rel. anc.
+          <lb/>BM Strasbourg; Schmidt I. N° 123: BM Colmar et BN Paris,
+          <lb/>qui en possède trois exemplaires. GPB: Berlin SB, Berlin BU,
+          <lb/>Kœnigsberg BU, Munich SB. Brunet I15, 1301: La plupart des ré¬
+          <lb/>impressions reproduisent le petit Destillierbuch et non le grand, lequel
+          <lb/>ne reparaît que dans les éditions de Strasbourg, Jo. Grüninger, 1519,
+          <lb/>et de Strasbourg, Barth. Grüninger, 1537, in-fol.
+          <lb/>309
+          <lb/>BRUNSCHWIG Hieronymus
+          <lb/>Strasbourg, J. Grüninger, 1519.
+          <lb/>Das buch zu distillieren die zusamen gethonen ding
+          <lb/>Composi- ta genant, durch die eintzige ding, vnd das
+          <lb/>bûch Thesaurus pau perum, für die armen, durch ex¬
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

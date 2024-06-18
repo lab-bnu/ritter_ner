@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:08.353517+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002259.tif
+IMAGE WIDTH: 2506
+IMAGE HEIGHT: 3976
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>(Strasbourg, Jacques Cammerlander vers 1535/38), in-4°.
+          <lb/>Böcking XXXV, 9; Goedeke II, p. 231, n° 34 (h); Wenzel:
+          <lb/>Cammerlander, n° 40; Benzing, Hutten, n° 169: B U Fribourg,
+          <lb/>Brit. Mus. Londres, B N Munich, Strasbourg, Vienne, etc.
+          <lb/>2104
+          <lb/>HUTTEN, Ulr. : Endtschuldigung Ulrichs von Hutten Wyder
+          <lb/>etlicher unwarhafftiges auszgeben von ym als solt er
+          <lb/>wider alle geystlicheit und priesterschafft sein... —
+          <lb/>(Strasbourg, Martin Flach 1521), in-4°.
+          <lb/>Böcking XLIV, 1; Weller 2104; Benzing, Hutten n° 160;
+          <lb/>B U Bâle, L B Dresde, B N Florence.
+          <lb/>2105
+          <lb/>HUTTEN, Ulr : Epistolae Obscurorum Virorum : nil preter
+          <lb/>Lusum continentes et Jocum in paleas ; feces ; quis¬
+          <lb/>quilias... — Pars 2. (Strasbourg, Jean Grüninger après
+          <lb/>1517), in-4°,
+          <lb/>Böcking, Suppl. II, n° 5; Ebert 6851; Panzer IX, 174, 127;
+          <lb/>Proctor 9943; Benzing, Hutten, n° 244 : B M Augsbourg,
+          <lb/>Bibl. Rég. Stuttgart, B N Vienne, etc.
+          <lb/>2106
+          <lb/>Exclamatio in incendium Lutheranum... — (Strasbourg,
+          <lb/>Jean Schott 1521), in-4°. Schmidt II, n° 56 dit 1520.
+          <lb/>Böcking, XXXIII A 3; Schmidt II, n° 56; Kuczynski 1107;
+          <lb/>Neufforge, p. 379; Hohenemser 2752; Proctor 10.294;
+          <lb/>Panzer IX, 128, 202; Benzing, Hutten, n° 151: B M Augsbourg,
+          <lb/>BU Erlangen, B M U Francfort-s.-M. etc. BN Strasbourg, etc.
+          <lb/>2107
+          <lb/>HUTTEN, Ulr. (Expostulatio cum Erasmo) : Ulrichi ab
+          <lb/>Hutten cum Erasmo Roterodamo... Expostulatio.
+          <lb/>A priore depravatione vindicata iam. Othonis Brunfelsii
+          <lb/>Pro Ulricho Hutteno defuncto ad Erasmi Roteroda.
+          <lb/>Spongiam, Responsio... — (Strasbourg, Jean Schott
+          <lb/>1524), in-80.
+          <lb/>Benzing, Hutten, n° 189: BN Paris : note ms. Schott 1524.
+          <lb/>2108
+          <lb/>257
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

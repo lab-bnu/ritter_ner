@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:38.589743+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2408.tif
+IMAGE WIDTH: 2372
+IMAGE HEIGHT: 3824
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>404
+          <lb/>Au-dessous: M. LEONHARDVS ENGELHARTVS,Paedagogar¬
+          <lb/>cha Stutgardianus, de Grammaticis recentibus... — Stut¬
+          <lb/>gardià 20. Ianuar.M. D. LXXXVI. (3 distiques.)
+          <lb/>p. 356: M. LEONHARDVS ENGEL-HARTVS, (5 distiques.)
+          <lb/>p. 357-363: MARTINVS CRVSIVS AEQVO LECTORI S.
+          <lb/>p. 364-367: TAMHAION  Mœortvoy Kovotov. (30 vers grecs
+          <lb/>suivis de la traduction latine. Au-dessous: faciebat! M. Frischli¬
+          <lb/>nus suo Praeceptori co- lendissimo. 12. Aug. 1567. Ess¬
+          <lb/>lingae.
+          <lb/>R 102.119. Prov.: Librairie Lippert, Halle, 8/XII. 1887. Note
+          <lb/>mss. au bas du tître : «totus liber compingentus valet 10 bz, sed hic
+          <lb/>meus a bibliopola 13 bz.» A l&amp;#x27;intérieur de la couverture, ex-libris; 2 en¬
+          <lb/>fants cueillant des fruits dans une corbeille, à côté d’eux, un génie ailé
+          <lb/>tenant un violon; à gauche en haut les lettres O. J, en bas les mots:
+          <lb/>&amp;quot; Inter folia fructus.»
+          <lb/>GPB: BU Halle.
+          <lb/>Bibliographie de M. Crusius: Schottenloher I, N° 3508-3520.
+          <lb/>602
+          <lb/>CRÜTZGANG
+          <lb/>(Strasbourg) 15...
+          <lb/>Vff (Zinstag) nehstkünfftig sanct Lux tag würt der grosz
+          <lb/>Crützgangk der durch Mei- ster vnd Rat der statt Straszburg
+          <lb/>angesehen vnd erkandt ward, der grusamen vnd erschröck¬
+          <lb/>lichen Erdtbydemen halb die hye zu Straszburg, zu Basel,
+          <lb/>vnd inn allen Teütschen landen geschahen vff sant Lux
+          <lb/>tag des jores als man zalt drytzehenhun- dert fünfftzig vnd
+          <lb/>sechs jor... Deszhalb setzt en die Räte der statt Strasz¬
+          <lb/>burg vff einen Crützgangk, den man jarlich zu ewigen
+          <lb/>zyten vff sant Lux tag thûn solt...
+          <lb/>Placard, in-4e, 1 f., car. goth. (verso blanc).
+          <lb/>R100.635/a), Provenance inconnue; au bas du fol. autographe de
+          <lb/>Sebastien Brant.
+          <lb/>2e Exemplaire, R 100.635/b), plus large et une initiale V au com¬
+          <lb/>mencement, en outre, légères différences d’orthographie.
+          <lb/>603
+          <lb/>CURIO Iacobus
+          <lb/>Strasbourg, Chr. Mylius, 1555.
+          <lb/>ERVDITA IVXTA AC PIA CON- FABVLATIO DE HONESTA¬
+          <lb/>rum Artium (Studijs, Praecipuè de Nu-merorum, figura¬
+          <lb/>rum, &amp;amp; Astronomi- ces necessariò ad Philosophiam usu,
+          <lb/>deque pernitioso earundem ipsarum contemptu, &amp;amp; in Scho¬
+          <lb/>~
+          <lb/>næ¬
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

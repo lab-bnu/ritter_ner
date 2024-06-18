@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:35.704211+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2311.tif
+IMAGE WIDTH: 2314
+IMAGE HEIGHT: 3818
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>307
+          <lb/>A la fin: Getruckt zû Strasburg bey Thiebolt Berger.
+          <lb/>(Verso blanc.)
+          <lb/>In-8°, car, goth., 32 ff. non ch., sign. A-D, titre courant, réclames,
+          <lb/>titre rouge et noir, encadré de 4 pièces d’ornement, toutes les pages ont
+          <lb/>un encadrement (ornements). Au-dessus de chacun des 10 commandements,
+          <lb/>une petite gravure sur bois.
+          <lb/>R100.639b: Prov.: Adolphe Auberlen, curé à Harsfelden, sans
+          <lb/>ind. du prix. Rel. anc.
+          <lb/>467
+          <lb/>CATECHISMUS
+          <lb/>Strasbourg, S. Emmel, 1560.
+          <lb/>Der Kleyne Catechismi für die Gemeyne Pfarrherr
+          <lb/>vnd Prediger, gebes-sert durch D. Martin Luther.! Ein sehr
+          <lb/>Christlich vnnd breüchlich Bettbüchlin, für allerley beson¬
+          <lb/>dervnnd gemeyn anligen der lie-ben Christen. Ge¬
+          <lb/>mehret mit vil schönen Biblischen Gebetten vnd Psalmen,
+          <lb/>wie du an seinem ort zûsehen hast. Mit zierlichen
+          <lb/>figuren, hin vnd wider gesetzet.
+          <lb/>Getruckt zû Straszburg bey! Samuel Emmel, Anno
+          <lb/>M. D. LX.
+          <lb/>A la fin: Getruckt zû Straszburg, bey Samuel Emmel,
+          <lb/>Anno M. D. LX. (Verso blanc.)
+          <lb/>In-8°, car. goth., 8 ff. non ch., CLVI ff. ch. commençant avec
+          <lb/>chiffre IX, donc en tout 156 ff. — 3 ff. non ch. (Table); titre cou¬
+          <lb/>rant, réclames, titre rouge et noir, 22 gravures coloriées.
+          <lb/>R102.398. Prov.: Rosenthal, Munich, 4/II. 1899, 36 M. 30.
+          <lb/>Sur lès 2 ff. de garde notes mss.: E. Forsman, Stud. theol,, notices
+          <lb/>bibliographiques sur les éditions du Catéchisme en langue néerlandaise.
+          <lb/>468
+          <lb/>CATO, Vita. Voir: WIMPHELING, Epithema rerum Germanicarum.
+          <lb/>Strasbourg, J. Prüss, 1505.
+          <lb/>CATO Dionysius
+          <lb/>Strasbourg, M. Schürer, 1515.
+          <lb/>CONTENTA IN HOC! opere sunt haec.
+          <lb/>Catonis præcepta moralia recognita atque interpre¬
+          <lb/>tata ab ErasmoRoterodamo. Mimi Publiani. Septem
+          <lb/>sapientum illustres sententiae. Institutio hominis chris¬
+          <lb/>tiani uersib.exametris, per Erasm. Roteradamum.
+          <lb/>Isocratis Paraenesis ad Demonicum! Rudolpho Argricola
+          <lb/>inter- prete, recognita per Mar tinum Dorpium.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

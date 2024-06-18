@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:39.483862+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu156.tif
+IMAGE WIDTH: 2446
+IMAGE HEIGHT: 3844
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>126, 130, 132-135, 137-144, 146-
+          <lb/>410-413, 416-421, 424, 426,
+          <lb/>161, 168, 173, 174, 176,
+          <lb/>429, 432-437, 439-442, 444-449.
+          <lb/>179-181, 183, 184, 186, 187,
+          <lb/>451-457.
+          <lb/>459-468,
+          <lb/>472-482,
+          <lb/>189-192, 194, 262, 267, 342,
+          <lb/>485-496.
+          <lb/>383, 386, 387, 440, 441, 454,
+          <lb/>Protzer 64, 148.
+          <lb/>496.
+          <lb/>Puder 99.
+          <lb/>Pellechet: Colmar 1, 7-9, 12a,
+          <lb/>13. 30, 33-35, 37-39, 42-44.
+          <lb/>Quedlinbourg 311.
+          <lb/>47, 48, 50, 56, 63, 66-68,
+          <lb/>Quentel 15.
+          <lb/>71-73, 76, 78, 79, 81, 87, 89,
+          <lb/>93, 96, 99, 101-103, 108, 109,
+          <lb/>114, 121-126, 130, 132, 137-139,
+          <lb/>Ramsau 105, 228.
+          <lb/>141-144, 147, 150, 152, 155,
+          <lb/>Ranschburg 196, 458.
+          <lb/>157, 158, 167, 176, 171, 176,
+          <lb/>Ranshofen 139, 142, 197, 198,
+          <lb/>179-181, 183, 191, 193, 196,
+          <lb/>211, 270, 271, 318, 353, 358,
+          <lb/>197, 200, 201, 205, 208, 209,
+          <lb/>363, 416, 445, 455.
+          <lb/>216, 217, 219-222, 224, 227-230,
+          <lb/>Rastatt 344.
+          <lb/>232, 235, 239, 240, 242-244,
+          <lb/>Ratisbonne 190.
+          <lb/>248, 252-254, 257, 261, 262,
+          <lb/>Rauthe Oscar 127, 248, 468.
+          <lb/>264, 265, 269, 274-276, 284-287,
+          <lb/>Regner Eust. 373.
+          <lb/>290-292, 297, 302, 304, 365, 310,
+          <lb/>Reichard Joh. 262.
+          <lb/>316, 321, 323, 326, 328, 329,
+          <lb/>Reichenhall 187
+          <lb/>336. 337, 344-348, 351-353,
+          <lb/>Reichlin 199, 258, 259, 449.
+          <lb/>355, 360, 370, 374, 383-386,
+          <lb/>Reichlin: Doctrinale 16-19.
+          <lb/>392. 393, 395, 400, 404, 410,
+          <lb/>Reiner Adam 171.
+          <lb/>417, 418, 421, 426, 429, 436,
+          <lb/>Reinhardus Marc 200.
+          <lb/>439-441, 443,444, 447, 448,
+          <lb/>Reintgens 312.
+          <lb/>450, 452, 455-457, 460, 463,
+          <lb/>Reuchlin 115.
+          <lb/>465, 467, 468, 480, 487, 493.
+          <lb/>Reuss Ed. 84, 87, 88, 90, 92, 296,
+          <lb/>Pellechet: Lyon 58.
+          <lb/>386, 396, 404, 496.
+          <lb/>Pfleger Lucien 8.
+          <lb/>Reyser Georgius 104, 217, 391.
+          <lb/>Pittwitz v. 428.
+          <lb/>Reyser Henr. 310.
+          <lb/>Pocci 118.
+          <lb/>Reyser Joh. 310.
+          <lb/>Polain: Belgique 423, 492.
+          <lb/>Rhodes 45.
+          <lb/>Pollingen 3, 137, 178, 181, 212.
+          <lb/>Rhot (2) Henry 322.
+          <lb/>Porckmaier Mart. 230.
+          <lb/>Richier J. 153.
+          <lb/>Porta Cœli 8.
+          <lb/>Riegger 493, 494.
+          <lb/>Prague 361.
+          <lb/>Ritter Fr. 425.
+          <lb/>Prantl (Präntelius) G. 144, 367.
+          <lb/>Ropperswiller 237.
+          <lb/>Probst 63.
+          <lb/>Rosenthal 10, 100, 117, 163, 325,
+          <lb/>365, 414, 462.
+          <lb/>Proctor: Londres 1-3, 5-15,
+          <lb/>Rottenbuch (Ammergau) 103.
+          <lb/>20-21, 23, 25-39, 41-48, 50-64.
+          <lb/>Ruch Joh. 481.
+          <lb/>66-80, 83-94, 96-115, 117-121,
+          <lb/>Rynmann 445.
+          <lb/>123-126, 128-154, 156-161,
+          <lb/>163-168, 172, 173, 176-187,
+          <lb/>189-191, 193-204, 206-268, 211,
+          <lb/>Saint Goar Isaac 225.
+          <lb/>212, 214-217, 219-222, 225,
+          <lb/>Salem 481.
+          <lb/>227-235, 238, 239, 242-246,
+          <lb/>Sandrog 337.
+          <lb/>248, 249, 251, 253-258, 260-267,
+          <lb/>Saverne 39, 92, 213, 339, 405,
+          <lb/>269-272, 274-279, 281-286, 289,
+          <lb/>460, 496.
+          <lb/>290, 292, 293, 295, 297-300,
+          <lb/>Schadæus Elias 156.
+          <lb/>302-305, 308, 309, 311, 312,
+          <lb/>Scherding 102, 244, 274, 443.
+          <lb/>314-324, 326-338, 340, 342-348,
+          <lb/>Scheyen 93, 435.
+          <lb/>350, 351, 356, 357, 360-361,
+          <lb/>Schmidt Charles (Provenance)
+          <lb/>368, 370-373, 375, 376, 378,
+          <lb/>115, 119, 124, 156, 321, 412,
+          <lb/>381-395, 398-401,
+          <lb/>403-408,
+          <lb/>426, 489, 490.
+          <lb/>126
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

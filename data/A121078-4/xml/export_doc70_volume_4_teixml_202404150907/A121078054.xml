@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:44.136261+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078054.tif
+IMAGE WIDTH: 2346
+IMAGE HEIGHT: 3844
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>940
+          <lb/>en 2 colonnes, d’un côté le titre grec, de l’autre le titre latin. (Pater
+          <lb/>noster. Ave Maria etc.)
+          <lb/>Supradictis adnexae sunt, sententiae illustres, septem
+          <lb/>sapientum Graeciae. Et de Inuidia, scitu quaedam dignis¬
+          <lb/>sima.
+          <lb/>Johannes Schottus Argentinensis praelo litterario ex¬
+          <lb/>cussit. 1515.
+          <lb/>In-40, car, rom. et grecs, 16 ff. non ch., sign. a-d. (Verso du
+          <lb/>dernier f. blanc.), texte grec et traduction latine en regard, la plupart
+          <lb/>des pages grecques ont une bordure.
+          <lb/>Au verso du titre: Othomarus Nachtgall, Iohanni Schotto! munici¬
+          <lb/>pio suo. S. D.... — Ex viridario sancti Iohannis Argentinensi.
+          <lb/>*RI00.034. Prov.: Noiriel, Strasbourg 8/X 1882; 10 M. Proctor
+          <lb/>II Sectio I n° 10.276: Londres Brit. Museum; Schmidt II n° 32 cite
+          <lb/>d’après son exemplaire, qui est maintenant comme Bème exemplaire à la
+          <lb/>BN de Strasbourg: R 102.420.
+          <lb/>Bibliographie, voir: Schottenloher n° 16234-16247.
+          <lb/>1410
+          <lb/>LUSCINIUS Ottomar: Senarii Graecanici... 1515. Voir: STO¬
+          <lb/>BAEUS.
+          <lb/>LUSCINIUS Ottomar : Summa Roselle de casibus conscientie...
+          <lb/>Voir: TROVAMALA Baptista, 1516.
+          <lb/>LUSCINIUS Ottomar, Voir: PLUTARCHUS: Problema. Strasbourg,
+          <lb/>J. Schott 1519.
+          <lb/>LUSCINIUS Ottomar
+          <lb/>Strasbourg, J. Knobloch 1521
+          <lb/>(Feuille de lierre.) PROGY: (Feuille de lierre.) MNASMATA.
+          <lb/>Graecae literaturae ab Ottomaro Luscinio Argen-] tino iure¬
+          <lb/>consul. cum accessione auctarii quo! docetur, qua ratione
+          <lb/>citrà praecepto ris operam graecae discere pos- sis, plu¬
+          <lb/>rimis in locis iam! recentiore foe- tura locu- pletata.
+          <lb/>Nuncupatoria epistola de utilitate graecarum litera! rum
+          <lb/>&amp;amp; praefracta cervice quorundam Mataeologorum qui iis
+          <lb/>contemptis, ac in publieis concionibus theonino dente
+          <lb/>laceratis, falso sibi scientiae opinionem induerunt.! Xogía
+          <lb/>póvn tov κrnuátov dbávatov.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

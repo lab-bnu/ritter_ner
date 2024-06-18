@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:05.090484+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002132.tif
+IMAGE WIDTH: 2494
+IMAGE HEIGHT: 3988
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>werden... — (Strasbourg, Wolfg. Köpfel 1542), in-8°,
+          <lb/>(Marque typ. de Köpfel au verso du dernier f. blanc).
+          <lb/>Bibl. S. Guillaume, Strasbourg.
+          <lb/>1446
+          <lb/>CORVINUS, Ant. Voir aussi : RITTER, Rép, nos 589-594.
+          <lb/>CORVINUS, Laurentius : Latinum idioma... — (Strasbourg,
+          <lb/>Mathias Hupfuff) vers 1506, in-4°,
+          <lb/>Schmidt V, n° 49 : S. Gall (Stiftsbibl.).
+          <lb/>1447
+          <lb/>CORVINUS, Laur. : Hortulus Elegantiarum... — (Strasbourg,
+          <lb/>Martin Flach 1512), in-4°.
+          <lb/>Schmidt VI, p. 26, n° 28: B N Strasbourg (ex. manque).
+          <lb/>1448
+          <lb/>CORVINUS, Laur. : (Idem). — (Strasbourg, Jean Knobloch
+          <lb/>28-IV-1516), in-40
+          <lb/>Panzer 6, 77, 423 et 9, 367, 423; Schmidt VII, n° 113; Catal.
+          <lb/>Tross 1875, VI, p. 386.
+          <lb/>1449
+          <lb/>CORVINUS, Laur. : (Idem). — Strasbourg, Jean Knobloch
+          <lb/>2.X1.1518, in-4°.
+          <lb/>Panzer 6, 88, 511; Schmidt VII, n° 163.
+          <lb/>1450
+          <lb/>CORVINUS, Mathias. Voir: CORTESIUS, Thomas Al, n° 1439.
+          <lb/>CORVUS, Andreas : Ein schönes Büchlin Der kunst Chiro¬
+          <lb/>mantia... — (Strasbourg, Jean Grüninger 1515), in-8°.
+          <lb/>B N Strasbourg R 102.577.
+          <lb/>1451
+          <lb/>COSMOGRAPHIA. Voir: WALDSEEMÜLLER, Martin n° 3455/6.
+          <lb/>COTTALAMBERGIUS. Joh. Fr. Voir: (PIRCKHEIMER, Willibald]
+          <lb/>n° 2912.
+          <lb/>CRATO a Crafftheim, Johannes : Oratio funebris de divo
+          <lb/>Maximiliano II imperatore... — Strasbourg, Nicolas
+          <lb/>Wyriot 1577, in-40,
+          <lb/>BN Paris M. 3379/4).
+          <lb/>1452
+          <lb/>130
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

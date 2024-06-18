@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:11.044279+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002363.tif
+IMAGE WIDTH: 2508
+IMAGE HEIGHT: 3966
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>MELUSINE : (Idem). — Strasbourg, Christian Müller (Mylius)
+          <lb/>1577, in-80.
+          <lb/>Goedeke II2, p. 355, n° 15; Schorbach, n° 24; Heitz-Ritter,
+          <lb/>n° 458. [Une éd. Knobloch 1516 voir Ritter : Rép. n° 1564l.
+          <lb/>2666
+          <lb/>MERULA, Georgius : Opera. A la suite de : Gregorius Tifernas,
+          <lb/>Opuscula. — Strasbourg 1508, in-4° (n° 1929).
+          <lb/>2667
+          <lb/>MESSAHALA (ou Macha-Allah) : Tractatus de compositione
+          <lb/>astrolabii. — Strasbourg, Jean Grüninger 1512, in-4°.
+          <lb/>Graesse IV, p. 503.
+          <lb/>2668
+          <lb/>MESSE : Teutsche Mess und Tauff wie sye yetzund zu
+          <lb/>Straszburg gehalten werden. — (Strasbourg, Wolfgang
+          <lb/>Köpfel 1524), in-80.
+          <lb/>Goedeke IIa, p. 162, n° 5; Hubert, n° 1 : Copenhague, Jena,
+          <lb/>Lindau.
+          <lb/>2669
+          <lb/>MESSE : Deutsche Mess wie sye yetzundt zu Straszburgk
+          <lb/>gehalten würt. Item Betbüchlein sampt vil andren, so
+          <lb/>in volgendem blatt verzeichnet ist. — [Strasbourg)
+          <lb/>(3 septembre 1524), in-240.
+          <lb/>Hubert, n° 4 : « Verloren».
+          <lb/>2670
+          <lb/>MESSE : The Resurrection of the Masse. With the wonder
+          <lb/>full Vertues of the same newly set forth unto the hartes
+          <lb/>ease, joye and comforte of all the Catholykes by Hugh
+          <lb/>Hilarie. — Strasbourgh in Elsas 1554, in-160.
+          <lb/>Graesse, p. 437 : exemplaire unique à la Bibl. de Grenvill. 2671
+          <lb/>MESSIAS, Petrus : Schöne Historie, Exempel, Underweisungen.
+          <lb/>Auch viler natürlicher dingen Ursachen, Herrlicher
+          <lb/>Philosophen Sententz, Disputationes und Argumenta,
+          <lb/>durch Petrum Messiam, Sicilianischen Edelmann erstlich
+          <lb/>zusamen gelesen. Jetzunder aber Aus Tuscanischer, und
+          <lb/>etlichs aus Castilianischer sprach ins Deutsch gebracht.
+          <lb/>361
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

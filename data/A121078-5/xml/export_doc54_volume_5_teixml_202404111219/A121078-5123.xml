@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:53.558218+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5123.tif
+IMAGE WIDTH: 2348
+IMAGE HEIGHT: 3858
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1431
+          <lb/>A la fin : Volendet vnnd getruckt diser new!! Layenspiegel
+          <lb/>mit seinen Additionen!! Jn der Kaiserlichen freyen !! statt
+          <lb/>Straszburg Anno Il M. CCCCC. xviij.
+          <lb/>In-fol., car. goth., 8 ff. ch., 4 ff. non ch. (Table)—170 ff. ch. 38 belles
+          <lb/>gravures.
+          <lb/>R. 10.244. Prov. : Bibl. Heitz, Strasbourg.
+          <lb/>Annotations mss. A l’intérieur du 1er plat : « Herausgegeben vom
+          <lb/>D. Seb. Brand. s. am Schluss der Vorrede in Versen, Strasbourg 1518.
+          <lb/>Manque chez Schmidt; Proctor II, Sectio I, N° 10.121 : Londres,
+          <lb/>British Museum. Kristeller 399. Rosenthal, Munich, Catalogue 135 (1914),
+          <lb/>No 2300: 150 M; Baer, Francfort s. M. Catalogue 500 (1907), Nos 1295 et
+          <lb/>1296; 36 M.
+          <lb/>2276
+          <lb/>TENGLER Udalricus
+          <lb/>Strasbourg, J. Knobloch, 1527
+          <lb/>Der Neü Layenspiegel von rechtmässigen ordnungen in
+          <lb/>Burgerlichen vnd pein- 1 lichen Regimenten. Mit Addition.
+          <lb/>Auch der Güldin! Bulla Küniglich Reformation, landfriden.
+          <lb/>Auch  bewarung gemainer recht vnd anderm antzaigen.
+          <lb/>Gravure sur bois : l’empereur sur le trône, à sa droite les
+          <lb/>électeurs ecclésiastiques, à sa gauche les électeurs laïques,
+          <lb/>devant lui à genoux l’auteur, plus bas des chevaliers à cheval.
+          <lb/>La gravure est répétée fol. 2a, 21a, 39a, 57a,
+          <lb/>A la fin : Gedruckt zu Straszburg durch! Johannem
+          <lb/>Knobloch, Am letsten tag Augusti.Jar der geburt
+          <lb/>Christi vnsers herrn.M. CCCCC. xxvij. (Verso blanc.)
+          <lb/>In-fol., car. goth., 8 ff. non ch., CLI ff. ch., 1 f. blanc, 4 ff. non ch.
+          <lb/>à 2 col. (Index.), titre courant, réclames, notes marg. init. à fig. et init.
+          <lb/>ornées; fol. 4a non ch. : grande gravure d’une page, comme la gravure du
+          <lb/>titre du Richterlich Clagspiegel de Séb. Brant, édition Hupfuff 1516.
+          <lb/>Les autres gravures sont presque toutes empruntées à des éditions anté¬
+          <lb/>rieures du Leyenspiegel. Les préfaces sont les mêmes que dans l’édition
+          <lb/>de 1518.
+          <lb/>R. 10.245. Prov. : Weiss &amp;amp; Neumeister, Leipzig (Catal. 9, N° 1028),
+          <lb/>22/VI, 1880; 10 M. Annotations mss.; au bas du titre : « Dr C. G. Waechter
+          <lb/>Lips. m. Mart. 1836 Donum viri peritt. D. Blümner.»
+          <lb/>Schmidt VII, N° 315.
+          <lb/>2277
+          <lb/>TENGLER Udalricus
+          <lb/>Strasbourg, J. Knobloch fils, 1530
+          <lb/>Layenspiegel.Von rechtmässigen ordnungen in Burger¬
+          <lb/>lichenn vnd Peinlichen Regimenten. Mit Additionen
+          <lb/>vrsprüngklicherrechtsprüchen. Auch der Güldin Bulla
+          <lb/>Künigklicher Refor-mation Landtfriden &amp;amp; c. Sampt
+          <lb/>bewärungen gemainer] rechten, vnd anderm anzaigen.
+          <lb/>Newlich getruckt] Anno M. D. XXX.
+          <lb/>Grande gravure sur bois : la même que celle du titre du
+          <lb/>Richterlich Clagspiegel de Séb. Brant, édition Hupfuff 1516.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

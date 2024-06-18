@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:13.394485+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3399.tif
+IMAGE WIDTH: 2410
+IMAGE HEIGHT: 3856
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>JACOBAEUS Nikolaus
+          <lb/>Strassburg, Chr. Mylius 1558
+          <lb/>DECLAMATIO NICOLAI JACOBAEI LO-] THARINGI: HABITA
+          <lb/>ARGEN- tinae, De laudibus artium, &amp;amp; disciplinarum.
+          <lb/>Anno,! M. D. LVIII.
+          <lb/>IOANNIS SAPIDI] tetrasticon. (2 lat. Dist.)
+          <lb/>ARGENTORATI APVD! Christianum Mylium.
+          <lb/>80, Kursiv, 12 unn. Bll., Sign. A-B. Kust.
+          <lb/>Auf der Rücks, des Titelbl.: Ad... optimum Regis Galliae
+          <lb/>Praefe- ctum militarem, Dominum genero- sum loannem
+          <lb/>Philippum, Rheni &amp;amp; Salmoniarum Comitem, Nicolai! Jaco¬
+          <lb/>baei praefatio... — Luteciae pri- die Calendas Septemb.
+          <lb/>Anno 1559. (2S.
+          <lb/>R100.858. Prov.: Friedrichs-Gymnasium, Frankfurt a. M. 14.
+          <lb/>XII. 1888.
+          <lb/>1252
+          <lb/>JACOBUS Comes Purliliarum
+          <lb/>Strassburg, Joh. Schott 1510
+          <lb/>DE LIBERORVM EDV CATIONE.
+          <lb/>Am Schluss: ARGENTORATI! Ex officina Ioannis Schotti:
+          <lb/>Impensis vero egregij I. V. Doctoris GEORGH Maxilli (al’s
+          <lb/>übelin) episcopaliscuriae Argentinensis. Signatoris. IIII
+          <lb/>idus Augusti anno... D. M. X (!) [M. D. Xl. Darunter Schotts
+          <lb/>Kenn-Leiste mit dem Hasen.
+          <lb/>&amp;quot;
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:38.697011+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu129.tif
+IMAGE WIDTH: 2422
+IMAGE HEIGHT: 3852
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>VALASCUS DE TARENTA. Voir: Valescus de Tarenta.
+          <lb/>VALERIUS MAXIMUS: Commentarii. Voir: Dionysius de
+          <lb/>Burgo.
+          <lb/>VALERIUS MAXIMUS: Facta et dicta memorabilia. (Stras¬
+          <lb/>bourg, J. Mentelin, 15 juin 1470), in-fol.
+          <lb/>Hain 15773, Madsen 4055, Proctor 204 (met anno 1471 avec
+          <lb/>point d’interrogation), Voulliéme: Berlin 2108, Schorbach:
+          <lb/>Mentelin N° 17; pas après le 14 juin?
+          <lb/>K 3674. Prov.: Librairie Trübner, Strasbourg, 27. IX. 1887,
+          <lb/>600 M. Au haut du 1er f.: In Usum Beronicensium fratrum.»
+          <lb/>A la marge, cachet: Bibliotheca Regia Monacensis; le même
+          <lb/>cachet à la fin.
+          <lb/>472
+          <lb/>VALESCUS DE TARENTA: Tractatus de epidemia et peste.
+          <lb/>Haguenau, H. Gran, 23 nov. 1497, in-4°.
+          <lb/>Hain 15.247, Proctor 3190, Voulliéme: Berlin 1178.
+          <lb/>K 3668. Prov.: Don de Fid. Butsch fils, Augsbourg, 1872.473
+          <lb/>VALLA LAURENTIUS: De libero arbitrio. (Strasbourg,
+          <lb/>G. Husner, vers 1475), in-fol.
+          <lb/>Hain 15830 (2), Proctor 355, Voulliéme; Berlin 2207.
+          <lb/>K 3685. Prov.: Don de la Bibl. Univ. de Leipzig, 1872. 474
+          <lb/>VERDENA. Voir: Johannes de Verdena.
+          <lb/>VINCENTIUS BELLOVACENSIS: Speculum doctrinale. [Stras¬
+          <lb/>bourg, imprimeur R. (— Ad. Rusch), vers 1472), in-fol.
+          <lb/>Madsen 4155, Proctor 252, Voulliéme: Berlin 2129, Walter:
+          <lb/>Sélestat 496.
+          <lb/>K3727. Proy.: Don de la ville de Trèves, 1871. A l’extérieur
+          <lb/>du 1er plat sur une fiche blanche: «Bibliothecae Conventus
+          <lb/>Trevirensis Ord. P. P. Eremitarum S. P. Augustini». Au haut
+          <lb/>du 1er fol.: «Bibliothecae ff. Eremit. Sti Augustini Treuir».
+          <lb/>Au-dessous,, d’une autre main: «Bibl. publ. civ. Trev. 1803»,
+          <lb/>et en bas, cachet de la B U de Trèves. Rel. anc.
+          <lb/>475
+          <lb/>VINCENTIUS BELLOVACENSIS : Speculum historiale, Pars I-IV.
+          <lb/>(Strasbourg, J. Mentelin, 4 déc. 1473), in-fol.
+          <lb/>Copinger 6246, Madsen 4157, Proctor 212, Voulliéme: Berlin
+          <lb/>2084, Walter; Sélestat 497, Schorbach: Mentelin N° 31.
+          <lb/>«onale
+          <lb/>Stasbaur
+          <lb/>99
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

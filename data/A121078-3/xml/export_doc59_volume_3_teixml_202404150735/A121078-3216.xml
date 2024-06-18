@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:08.712823+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3216.tif
+IMAGE WIDTH: 2322
+IMAGE HEIGHT: 3852
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>660
+          <lb/>Grosse Init. D mit dem Sämann aus der Parabel, der Initial¬
+          <lb/>serie des Evangelibuches von 1515 entlehnt, Jesus u. den Sämann
+          <lb/>darstellend.
+          <lb/>Am Schluss der Emeis Bl. 66a: Ein vber geschrifft der
+          <lb/>begrebnisz doctor Johannis keisersperg durch Sebastia¬
+          <lb/>num brant gesetzt. (52 Verse.)... Starb vff den zehenden tag
+          <lb/>des mertzen vff mit fast zû mittem tag Anno domi- ni
+          <lb/>M. d. X.
+          <lb/>Darunter: Item disz bûch das ist geruckt (!) vnd sel¬
+          <lb/>liglich geendet durch Johannem Grienin- ger, In der stat
+          <lb/>Straszburg vff freitag vor der Herren fastnacht inn dem
+          <lb/>iar M. d. xvi. (Rücks, leer.)
+          <lb/>II. Teil: Her der küng ich diente gernAlso ist dis
+          <lb/>büchlin genant. vnd haltet inn funffzehen schöner nutz¬
+          <lb/>licher leer vnd predig, auszgelegt von dem hochgelerten
+          <lb/>gotzförchtigen doctor Johannes Geiler von Keisersperg,
+          <lb/>predicant der stat straszburg der zeit in dem ho- hen
+          <lb/>stifft. Jetz neuw auszgangen, etc.
+          <lb/>Holeschn.: Ein König, umgeben von 9 Hofleuten, mitten in einem
+          <lb/>Säulensaal (entlehnt aus Virgil 1502 Bl. 378a).
+          <lb/>Am Schluss:. vnd ist disz bûch getruckt in der Kei¬
+          <lb/>serlichen friien statt Straszburg, von Johannes Grie¬
+          <lb/>ninger vnd geendet vff sant Mathisabent in dem iar
+          <lb/>von der geburt vnsers herren Jesu Cristi. M. d. Xvi.
+          <lb/>(Rücks, leer.)
+          <lb/>2°, Got., 2sp., XC Bll., Sign. A-P. Kopft., Init., Titel der Emeis rot
+          <lb/>u. schware, 25 Holeschn, verschiedener Grösse; 4 sind entlehnt aus Virgil
+          <lb/>1502; andere stellen biblische Szenen dar; diejenigen von Bl. 41a und
+          <lb/>51b tragen das Monogramm eines unbekannten Meisters; die Holzschn.
+          <lb/>rühren von verschiedenen Künstlern her u. haben ungleichen Wert.
+          <lb/>R10.100. Prov.: Bibl. Ch. Schmidt mit seinem Exlibris u. No¬
+          <lb/>tizen von seiner Hand über einige Holeschn. u. Paginierungsfehler.
+          <lb/>Dacheux, Geiler S. CXXXXIV, Kristeller 100, Proctor II Sectio 1
+          <lb/>Nr. 9938: London, Brit. Museum; Schmidt I Nr. 149: Ehemalige Strass¬
+          <lb/>burger Bibl., Bibl. Wilh, u. Stadtbibl. Strassburg; GK: SB Berlin,
+          <lb/>UB Berlin, Göttingen, Münster.
+          <lb/>974
+          <lb/>GEILER Johannes
+          <lb/>Strassburg, Joh. Grüninger 1517
+          <lb/>Die Emeis Dis ist das bûch von der Omeissen. vnnd
+          <lb/>auch Herr der Künnig ich diente! gern... (Text u. Holzschn.
+          <lb/>wie in der vorhergehenden Ausg. 1516.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

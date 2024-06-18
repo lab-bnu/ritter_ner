@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:06.267778+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie075.tif
+IMAGE WIDTH: 2482
+IMAGE HEIGHT: 3952
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>MELBER, Johannes : Vocabularius praedicantium. —
+          <lb/>(Strasbourg, Martin Flach, 1494), in-4°.
+          <lb/>Hain 11044; Schmidt VI, p. 11, no 55.
+          <lb/>467
+          <lb/>MELIBEUS : Disz ist der Brunn des radts. — (Strasbourg,
+          <lb/>Jean Grüninger 1500), in-4°.
+          <lb/>Hain 11047; Ritter, Rép. Inc. 365; Schmidt I, n° 46; BN
+          <lb/>Munich.
+          <lb/>468
+          <lb/>MELUSINE. — (Strasbourg, Henri Knoblochtzer), 1478,
+          <lb/>in-fol.
+          <lb/>Hain 11065; Schorbach, p. 71-72; Heitz-Ritter n° 436 :
+          <lb/>Verschollen; Ein Ex. besass Breitkopf (Leipzig). (Traduit par
+          <lb/>Thüring von Ringeltingen en allemand sur demande de
+          <lb/>Rodolphe de Hochberg).
+          <lb/>469
+          <lb/>MELUSINE. — (Strasbourg, Jean Prüss vers 1480), in-fol.
+          <lb/>Graesse III, 456; Kristeller n° 35; Schmidt III, n° 1;
+          <lb/>Voulliéme : Berlin 2386; Heitz-Ritter n° 439 : Berlin,
+          <lb/>Fribourg en Br.
+          <lb/>470
+          <lb/>MELUSINE (Idem). — Strasbourg, Martin Schott 1483, in-fol.
+          <lb/>Schorbach n° 8 : Édition disparue; Édouard Schröder «zwei
+          <lb/>altdeutsche Rittermaeren p. XXXIV a encore eu un ex. à sa
+          <lb/>disposition. Heitz-Ritter n° 442.
+          <lb/>471
+          <lb/>MELUSINE (Idem). — (Strasbourg, Henri Knoblochtzer vers
+          <lb/>1483), in-fol.
+          <lb/>Kristeller n° 8; Proctor 375, Schorbach, n° 18; Heitz-Ritter
+          <lb/>n° 441 : Berlin, Karlsruhe, Londres, Stuttgart.
+          <lb/>472
+          <lb/>MENNICKEN : Carolus. Formulae epistolarum. — (Strasbourg,
+          <lb/>Jean Grüninger), 1485, in-4°.
+          <lb/>Hain 10667; Proctor 444.
+          <lb/>473
+          <lb/>MENNICKEN, Carolus : Formulae epistolarum. — (Strasbourg,
+          <lb/>Jean Grüninger), 1486, in-40.
+          <lb/>Hain 10669; Voulliéme : Berlin 2275.
+          <lb/>474
+          <lb/>73
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:05.949156+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002166.tif
+IMAGE WIDTH: 2470
+IMAGE HEIGHT: 3982
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>ERB, Mathias: Von sauffen und fressen, den zweyenn greu¬
+          <lb/>lichen lasteren, wie die durch den heiligen Chrysos¬
+          <lb/>tomum, Hieronymum... in jren predigen sind gestrafft
+          <lb/>worden, zusammen geläsen und verteutscht...
+          <lb/>(Mulhouse, J. Schirenbrand et P. Schmid) 1559, in-8°.
+          <lb/>Coudre p. 80, n° IX; Werner p. 83, n° 10.
+          <lb/>1633
+          <lb/>(ERB, Mathias): Nunc dimittis. Der lobgesang des heiligen
+          <lb/>Simeons, Luce am andern, zu trost geschrieben, denen,
+          <lb/>so hoffnung haben, der Seligkeit und wartend Gottes
+          <lb/>beruffung ausz disem Jamerthal... — Mulhouse, Pierre
+          <lb/>Schmid 1562, in-8°.
+          <lb/>Ritter: B M Strasbourg n° 911; Werner p. 99, n° 17. 1634
+          <lb/>ERB, Mathias. Voir aussi FRIES, L., n° 1784; JOHANNES Chry¬
+          <lb/>sostomus, n° 2150.
+          <lb/>ERNST (Herzog): Hertzog Ernst. In gesangs weyse (grav.)
+          <lb/>Getruckt zu Strasburg bey Th. Berger am Barfüsser
+          <lb/>platz s. d., in-8° (vers 1560).
+          <lb/>Heitz p. 67 : « nirgends verzeichnet ». Heitz-Ritter n° 94. 1635
+          <lb/>ERYTHRAEUS, Valentinus : Commentarii Notationis Artificii
+          <lb/>Rhetorici, ac Dialectici, in Orationem M. T. Ciceronis,
+          <lb/>quam habuit pro Aulo Licinio Archia poeta... Eiusdem
+          <lb/>Erythraei Commentariolus in Orationem Ciceronis pro
+          <lb/>M. Marcello. (Marque typ. de l’impr.). — Argentorati
+          <lb/>Per Wendelinum Rihelium. Anno M. D. L., in-80,
+          <lb/>Bibl. Grand Sém. Strasbourg, B D 267.
+          <lb/>1636
+          <lb/>ERYTHRAEUS, Val. : Diagrammata [en lettres grecques]
+          <lb/>Hoc est Tabulae Tertii, et Quarti libri partitionum
+          <lb/>dialecticarum Joannis Sturmii. I. De Logices altera parte...
+          <lb/>II. De Sophistarum reprehensionibus... III. De Collo¬
+          <lb/>catione Dialectica, &amp;amp; de Disquisitione... Autore Valen¬
+          <lb/>tino Erythraeo Lindaviensi. — Strasbourg, Christian My¬
+          <lb/>lius (1555), in-fol.
+          <lb/>Bibl. St. Guillaume, Strasbourg.
+          <lb/>1637
+          <lb/>164
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

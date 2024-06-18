@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:11.897278+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3342.tif
+IMAGE WIDTH: 2372
+IMAGE HEIGHT: 3858
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>784
+          <lb/>verwaltern, vnd Regenten des weltlichen Schwerdts vnd
+          <lb/>Regi- ments nutzlich zû lesen. Ettwan durch den Wol¬
+          <lb/>gebor- nen Herren Herr Jacob Freyherr von Liechten¬
+          <lb/>berg, auss jhrer gefengknuss erfaren, vnd jetzt durch
+          <lb/>ein gelerten Doctor zûsammen bracht, vnd weit-! leüffiger
+          <lb/>beschriben &amp;amp;c.
+          <lb/>40, Got., 21 unn. Bll., Sign. A-F, Kopft., Kust., Marg., Init. W.
+          <lb/>1164
+          <lb/>R102.085. Prov.: Bibl. Böcking.
+          <lb/>HEYNVOGEL Konrad, Siehe: VIELFELD Jacobus : Sphera mate¬
+          <lb/>rialis. Strassburg, J. Cammerlander 1533.
+          <lb/>HIEMEIER David
+          <lb/>Strassburg, A. Bertram 1589
+          <lb/>CARMEN DE IESV CHRISTO VERO Messia vnico nostro
+          <lb/>Seruatore, IN HONOREM ET I GRATIAM PRO FELICI HVIVS
+          <lb/>NOVI INEVNTIS ANNI AVSPICIO, QVI) EST A SALVTARI SALVA¬
+          <lb/>TORIS NOSTRI] IESV CHRISTI NATALI] CIO. IO. XIC. AMPLIS¬
+          <lb/>SIMIS, CLARISSIMIS, PRV-] dentissimisque; viris, pietate, sa¬
+          <lb/>pientia, doctrina &amp;amp; autoritate! praestantibus Dominis Cons.
+          <lb/>&amp;amp; Senatoribus Inclytae Reipu- blicae Nörlingensis, Mecœ¬
+          <lb/>natibus Patronis et Dominis! suis, perpetua obseruantia
+          <lb/>&amp;amp; debita fide colendis, gratitudinis ergò inscriptum, dedi¬
+          <lb/>catum, atque publicè recitatum à Dauide Hiemeiero
+          <lb/>Nörlingensi Academiae Argentinensis alumno celeberrimae.
+          <lb/>Druckerm. Bertrams (H e B Tafel XLIV Nr. 2; Sulvestre Nr.
+          <lb/>1022. Darunter: Argentorati, Excudebat Antonius Bertramus.
+          <lb/>M. D. LXXXIX. (Rücks, leer.)
+          <lb/>40, Kursiv, 7 unn. Bll. Sign. A-B, Kust., jede Seite hat einen
+          <lb/>Zierrahmen.
+          <lb/>Bl. A 2; 18 Dist. vom Verfasser. Auf dem letzten Bl. : Dauid
+          <lb/>Hiemeier Nörlingensis, Academiae Argentoratensis alumnus.
+          <lb/>R 100.979. Prov.: L. Rosenthal, München 6. VII. 1891; 3 M.
+          <lb/>1165
+          <lb/>HIENERER Adamus. Siche: OBRECHT Georgius : Disputatio de
+          <lb/>patrimonio mulierum. Strassburg, A. Bertram 1586. R10.552.
+          <lb/>HIENERER Adamus: Breves commentarii. Siche: OBRECHT
+          <lb/>Georgius: Selectissimae disputationes ex juris civilis ma¬
+          <lb/>teriis. Strassburg, A. Bertram 1599. R 10.548.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:12.146316+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002417.tif
+IMAGE WIDTH: 2482
+IMAGE HEIGHT: 4000
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>sit locus? Ex symposiacis eiusdem Ottomaro Luscinio
+          <lb/>interprete. — (Strasbourg, Jean Schott 1519), in-4°.
+          <lb/>Panzer 6, 91; Schmidt II, n° 51. — B M Colmar, Bibl. Centr.
+          <lb/>Zurich.
+          <lb/>2955
+          <lb/>PLUTARCHUS : Aliquot commentarii iam recens ab Ottomaro
+          <lb/>Luscinio è Graeco versi... — (Strasbourg, Jean Knobloch
+          <lb/>(I.IX.] 1522), in-4°.
+          <lb/>Panzer 6, 99, 621; Schmidt VII, n° 239; Bibl. publique
+          <lb/>Stuttgart.
+          <lb/>2956
+          <lb/>PLUTARCHUS : De immodica verecundia. A la suite de
+          <lb/>Erasmus : Familiarium Colloquiorum formulae. —
+          <lb/>Strasbourg, janvier 1530, in-8°.
+          <lb/>2956a
+          <lb/>PLUTARCHUS : Sytliche Hoff Sprüche der alten Künigen,
+          <lb/>Fürsten, Herren und weissen Philosophen. Mit vedes
+          <lb/>Spruchs summarischen ynnhalt H. von Eppendorffs
+          <lb/>und daruff etlicher kurtzer uszleg Erasmi Roterod.
+          <lb/>Durch H. von Eppendorff verteütscht. — Strasbourg,
+          <lb/>Jean Schott 1534, in-fol.
+          <lb/>Scott, (Schmidt II, Suppl.) p. 16, n° 23. — Catal (n° 244)
+          <lb/>de Martin Nijhoff (La Haye).
+          <lb/>2957
+          <lb/>PLUTARCHUS : Ankunft, Leben und Wesen... frommer und
+          <lb/>unfrommer, hoher, fürtrefflicher Manns-und Frauen¬
+          <lb/>Personen... — Colmar, Barth. Grüninger 1547, in-fol.
+          <lb/>(C’est l’édition de 1541 avec changement de date en
+          <lb/>1547).
+          <lb/>BN Paris : Rés. J. 878.
+          <lb/>2958
+          <lb/>PLUTARCHUS : Tugendspiegel der Hoch und weltweisen von
+          <lb/>löblichen guten Sitten und Wandel. XXI Bücher...
+          <lb/>durch H. Eppendorf verteutscht. — [Strasbourg) 1551,
+          <lb/>in-fol.
+          <lb/>Graesse V, p. 365.
+          <lb/>2959
+          <lb/>415
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

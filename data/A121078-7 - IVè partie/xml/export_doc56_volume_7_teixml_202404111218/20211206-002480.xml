@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:13.533998+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002480.tif
+IMAGE WIDTH: 2486
+IMAGE HEIGHT: 4006
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>den gantzen grundt Christliches wesens... — [Strasbourg,
+          <lb/>Jean Schott après 1522), in-4°.
+          <lb/>Flugschriften aus den ersten Jahren der Reformation, vol. III,
+          <lb/>fasc. 7, p. 19.
+          <lb/>3278
+          <lb/>STIFEL, Michael : (Idem). — (Strasbourg (?), Konrad
+          <lb/>Kerner (?) avant 1525), in-40.
+          <lb/>Flugschriften aus den ersten Jahren der Reformation, vol. III,
+          <lb/>fasc. 7, p. 18; Götze, Die hoch-deutschen Drucker der Reforma¬
+          <lb/>tion, p. 43.
+          <lb/>3279
+          <lb/>STIFEL (Styfel), Michael: Das Evangelium von dem verlornen
+          <lb/>Sun. Luce XV... (Strasbourg, Mathias Schürer hér. 11524,
+          <lb/>in-40. — Benzing : Schürer n° 28, Wolfenbüttel. 3279a
+          <lb/>STIGELIUS, Johannes : Warhafftiger Bericht, wie... Hans
+          <lb/>Friederich, der Elter. Hertzog zu Sachsen, und geborner
+          <lb/>Churfürst von diser Welt abgescheyden. Ausz einem
+          <lb/>Sendbrieff Johannis Stigelii 1554. — Strasbourg, Jacques
+          <lb/>Frölich 1554, in-40.
+          <lb/>Kuczynski, n° 220.
+          <lb/>3280
+          <lb/>STRASSBURG (Stadt), Wie sye uff ist kommen. Voir: LIED
+          <lb/>(ein hübsches), n° 2314, n° 2350, n° 2407.
+          <lb/>STROTSCHIUS, Ibrahim : Türckischer botschafft Ebrahim
+          <lb/>Strotschen gebornen Polecken anbringen, so er auff
+          <lb/>disen Wahltag alhie in Francfort Anno M.D.LXII.
+          <lb/>den xxvii. Novembris für Keyser, König, Chur und
+          <lb/>Fürsten in Schlavonischer Spraach gethan. Item von
+          <lb/>seinen herrlichen Geschencken, Keyserlicher Mayestat
+          <lb/>presentiert. Auch ein kurtze Verzeychnuss seiner Diener,
+          <lb/>Rossen, Gezeug und Camelthieren. — Strasbourg, am
+          <lb/>Kornmarckt (1562), in-80.
+          <lb/>Schottenloher 43.473 l.
+          <lb/>3281
+          <lb/>STRAUSS, Jacobus : Ein Sermon Jn dem deütlich angezeygt
+          <lb/>und gelert ist die pfaffen Ee, in Evangelischer leer nit
+          <lb/>478
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

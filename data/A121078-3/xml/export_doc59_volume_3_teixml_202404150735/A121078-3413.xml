@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:13.588538+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3413.tif
+IMAGE WIDTH: 2414
+IMAGE HEIGHT: 3854
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Eine neue Vorrede von 14 S. vor dem 2. Teil, mit Widmung an
+          <lb/>&amp;quot;den alten verord-netten des Kriegs in der statt Strasz¬
+          <lb/>burg, genant die Dreyzehener&amp;quot;,
+          <lb/>Vorrede des 3. Teiles von Hedio, mit Widmung an, Jacobus
+          <lb/>Sturm, Niclauszen Kniebisz, vnd Jacoben Mayer, der
+          <lb/>freystatt Strasz- burg Schûlhern&amp;quot;.
+          <lb/>R10.531. Herkunft unbekannt. Handschr. Eintragung auf dem
+          <lb/>Titelbl. : &amp;quot;hic liber emptus 23 Julij 1670 a me Daniele Klebeisen pro
+          <lb/>12 assibus et pro Domo selestadiensi ordinis S. Joannis Hierosolymitani.&amp;quot;
+          <lb/>1270
+          <lb/>JOSEPHUS Flavius
+          <lb/>Strassburg, Balth. Beck 1535
+          <lb/>JOsephi des hochbe! rümpten vnd vast nutzlich-] en
+          <lb/>Historici. Zwentzig bücher von den alten geschichten
+          <lb/>nach den alten Exemplarn fleissig corrigiert vnd gebessert.
+          <lb/>Siben bücher von dem Jüdischen krieg vnd der zerstörung
+          <lb/>Hierusalem, nach den Griechischen exemplarn besichtigt
+          <lb/>vnd verstendiger gemacht. Zwey bücher wider Appionem
+          <lb/>Grammaticum durch zûsatz etlicher blet- ter ausz Grie¬
+          <lb/>chischen büchern gemöret vnd gebessert. Von meister¬
+          <lb/>schafft der Vernunfft, oder von den Machabeern ein bûch
+          <lb/>durch den Hochgelerten D. Erasmum von Roterodam im
+          <lb/>Latein wider be- sichtigt.! [Ubersetst von Caspar Hedio.] Zûm
+          <lb/>Leser. Hie findestu über erzölten innhalt vast nützliche
+          <lb/>Vorreden veder bücher, darzû Scholien vnd erklerungen
+          <lb/>etlicher schweren Capitel, yetz neülich hinzûtruckt sampt
+          <lb/>dem entscheid viler sententz Chaldaischer, Hebreischer,
+          <lb/>vnd Griechisch- er &amp;amp;c. wörter, dem leser-hoch dienstlich...
+          <lb/>(7 Zeilen.) Darunter: Straszburg. M. D. XXXV. im Mayen.
+          <lb/>(Rücks, leer.)
+          <lb/>Am Schluss vor dem Register: End der bücher Flauuii Jo¬
+          <lb/>sephi... Anno XXXV. den fünffzehenden! Maij. Gedruckt
+          <lb/>zû Straszburg durch Balthassar Beck.
+          <lb/>2°, Got., 14 unn., CCCXXIX num. Bll., 1 leeres u. 18 unn. 2sp.
+          <lb/>Bll, für die 20 Bücher der Geschichte der Juden; 10 unn., CLXXVI
+          <lb/>num. u. 8 unn. 2sp. Bll. für den Rest; Kopft., Kust., Marg., Init.
+          <lb/>Bl. a 2a:... dem Meyster vnd Radt! vnd den Ein vnd
+          <lb/>zwentzigen der freystatt Straszburg... Geben Straszburg
+          <lb/>den XV. tag Maij. Anno. M. D. XXXV.Caspar Hedio,
+          <lb/>Doctor im Münster. (Vorrede, 11 S.)
+          <lb/>2. Teil, Titelbl.: FLauuij Josephi vom Krieg! der Juden
+          <lb/>vnd der Zerstörug Hieru salem Siben bücher nach den
+          <lb/>855
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

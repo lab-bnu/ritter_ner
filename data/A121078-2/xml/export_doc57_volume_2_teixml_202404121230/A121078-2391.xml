@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:38.031196+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2391.tif
+IMAGE WIDTH: 2374
+IMAGE HEIGHT: 3824
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>387
+          <lb/>Adiecto insignium factorum eiusdem Catalo-go in
+          <lb/>prioribus nusquàm uiso. Tu Lector, Eme, Lege &amp;amp; Cona¬
+          <lb/>tum nostrum probabis
+          <lb/>M. D. XXX. (Verso blanc.)
+          <lb/>A la fin: ARGENTORATI APVD( Paulum Gotzium, Anno)
+          <lb/>Domini M. D. XXX.! Mense Nouembri.
+          <lb/>In-40, car. goth., 3 col., 370 ff. non ch. (dont le dernier blanc),
+          <lb/>sign. a-2, 4-2, aa-pp; Suivent 94 ff. (dernier f. blanc) non ch., sign.
+          <lb/>44-90 pour les CONCORDANTIAE PARTIVM SIVE DICTIONVM
+          <lb/>indeclinabilium totius Bibliae; titre courant, réclames, notes mar¬
+          <lb/>ginales, initiales à fig. C., Q. encadrement du titre, appartenant à H.
+          <lb/>Gran, Haguenau. (HEB, Planche LXVII, NO 4.)
+          <lb/>Au verso du titre de la 2e partie: SACRAE PAGINAE (entre 2 f.
+          <lb/>de lierre) DOCTORIS EXIMII JOHANNIS DE SECVBIAin Con¬
+          <lb/>cordantias partium siue dictionum indeclinabilium! PRoLO¬
+          <lb/>Gvs... (2 p.)
+          <lb/>Nouvelle édition des Concordantiae du frère Conrad de Halberstadt.
+          <lb/>R 10.526. Prov.: Don de la B U Kœnigsberg, 1872. A l’intérieur
+          <lb/>du Ier plat ex-libris encadré du texte suivant: «A celsissimo Principe,
+          <lb/>Domino Boguslao Radzivilio Bibliothecae, quae Regiomonti est, electorali
+          <lb/>legato donata. 1671.» Au-dessus de l’ex-libris: «Anno domini 1548 meus
+          <lb/>verus et legitimus est possessor Jacobus a Trziebygkow propositus Sue¬
+          <lb/>binyciensis. (?)» Rel. anc.
+          <lb/>GPB: BU Breslau, Kœnigsberg.
+          <lb/>578
+          <lb/>CONSILIUM delectorum Cardinalium. Voir: POLE Reginalt.
+          <lb/>CONSTITUTION
+          <lb/>Strasbourg, 1529.
+          <lb/>Constitution vnd Satzung eins loblichen Raths, der
+          <lb/>fryen statt Strasz-burg, Wie das Gotslestern, Flûchen,
+          <lb/>frawen schwechen, Hürerey vnd Cop- lerey, in jrer Statt
+          <lb/>vnd Oberkeit, 1 gestrafft werden soll. ! M. D. XXIX.
+          <lb/>Au-dessous, armoiries de la ville de Strasbourg. (Verso blanc).
+          <lb/>A la fin: Actum et decre tum Mitwoch den. XXV.
+          <lb/>Augusti Anno. &amp;amp;c. xxix. (Verso blanc.)
+          <lb/>In-fol., car. goth., 9 ff. non ch., 1 f. blanc, sign. A-B, init.
+          <lb/>ornée W.
+          <lb/>fol. A 2a: Wyr Peter Elnhart der Mei ster vnd der
+          <lb/>Rath zû Straszburg. Thûn kundt, Wiewol wir vergangne
+          <lb/>Jor, mer mol die schweren laster vnd miszhandlung des
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

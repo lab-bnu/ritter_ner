@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:36.885960+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu036.tif
+IMAGE WIDTH: 2384
+IMAGE HEIGHT: 3840
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>ANDREAE JOHANNES: Quaestiones Mercuriales super regulis
+          <lb/>juris. (Strasbourg, H. Eggestein), 1475, in-fol.
+          <lb/>G W 1735, Hain 1056, Madsen 185, Pellechet 652, Proctor 266,
+          <lb/>Voulliéme: Berlin 2140.
+          <lb/>K 257. Prov, inconnue. Initiales coloriées. A la fin écusson
+          <lb/>avec un écureuil dans le plan supérieur, dans le plan inférieur:
+          <lb/>dliber est d. d. ratplatz» (2)
+          <lb/>23
+          <lb/>ANDREAE JOHANNES : Speculum judiciale G. Durantis, Additio¬
+          <lb/>nes. (Strasbourg, G. Husner, avant le 25 mars 1475),
+          <lb/>in-fol.
+          <lb/>G W 1675, Hain 1083, Pellechet 670, Voulliéme: Berlin 2196.
+          <lb/>K 265. Prov.: Don de la ville de Trèves, 1871. Rel. anc. Cachet
+          <lb/>de la B M de Trèves, fol. Ia.
+          <lb/>24
+          <lb/>ANDREAE JOHANNES: De sponsalibus et matrimoniis. (Stras-
+          <lb/>bourg ou Bâle, M. Fllach, vers 1473/5), in-fol.
+          <lb/>G W 1751, Hain 1068, Pellechet 662, Proctor 7542, Voulliéme:
+          <lb/>Berlin 415, 7. Hain et Pellechet mettent Strasbourg, les autres:
+          <lb/>Bâle.
+          <lb/>K 262. Prov.: BN Munich, 4 IV. 1874, 1 M.
+          <lb/>25
+          <lb/>ANDREAS HISPANUS DE ESCOBAR. Voir; Escobar.
+          <lb/>AENEAS SYLVIUS. Voir: Pius II, Papa.
+          <lb/>ANGELUS DE CLAVASIO: Summa angelica de casibus conscien¬
+          <lb/>tiae. Strasbourg, Mart. Flach, 31 octobre 1489, in-fol.
+          <lb/>G W 1929, Hain 5388, Pellechet 3818, Proctor 682, Schmidt VI,
+          <lb/>22. Voulliéme: Berlin 2485; Walter: Sélestat 22.
+          <lb/>K 272a. Prov.: Don de la Bibl. Univ. de Gœttingue, 1871. Au
+          <lb/>bas du f. 2a, cachet rond: Ex Bibliotheca regia acad. Georgiae
+          <lb/>Aug.
+          <lb/>26
+          <lb/>ANGELUS DE CLAVASIO: Summa angelica de casibus cons¬
+          <lb/>cientiae. Strasbourg, Mart. Flach, 1er déc. 1491, in-fol.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

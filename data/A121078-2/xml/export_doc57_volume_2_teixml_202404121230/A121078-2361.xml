@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:37.186441+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2361.tif
+IMAGE WIDTH: 2342
+IMAGE HEIGHT: 3824
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>62 ff. non ch. pour Lambinus, titre courant, réclames, notes marginales
+          <lb/>In-8°, car. ital., 272 p. ch. et 11 ff. non ch. pour les Fragmenta,
+          <lb/>en car. rom., initiales ornées.
+          <lb/>Au verso du titre: Index Orationum.
+          <lb/>Wol. VI: EPISTOLARVM M. T. CICERO-NIS ad Familia¬
+          <lb/>Reis, (sie) Libri XVI. Eiusdem epistolarum ad M. Brutum,
+          <lb/>liber singularis. Eiusdem epistolarum, quae non exstant,
+          <lb/>fragmenta. Ex DIONYS. LAMEINI EMENDATIONE.
+          <lb/>Marque typ. de J. Dupuys et I. Rihel. (HAB, Planche XXXIII,
+          <lb/>No 1.)
+          <lb/>CvM Priuilegijs Caesareae Mtis. &amp;amp; Regis Galliae.
+          <lb/>ARGENTORATI! Impensis Iacobi Dupuys, &amp;amp; Iosiae Rihe¬
+          <lb/>lij. M. D. LXXXI. (Verso blane.)
+          <lb/>In-80, car ital, 290 ff. non ch. — 50 ff. non ch. (Annotations
+          <lb/>de Lambinus et index), titre courant, réclames, notes marginales, initia¬
+          <lb/>les ornées.
+          <lb/>[Vol. VI]: EPISTOLARVM M. T. CICERO-NS AD ATTI¬
+          <lb/>CVM, Libri XVI. Eiusdem epistolarum ad Q. Fratrem,
+          <lb/>lib. IIl. Incerti auctoris epistola ad Octauium. non est
+          <lb/>enim Ciceronis.T. Pomponij Attici vita, per Cornelium
+          <lb/>Nepotem. Ex EMENDATIONE D. LAMBINI.
+          <lb/>Marque typ. de I. Rihel. (H &amp;amp; B. Planche XXXII, No 14.)
+          <lb/>CvM Priuilegijs Caesareae Mtis.Regis Galliae.
+          <lb/>ARGENTORATI! Impensis Iosiae Rihelij &amp;amp; lacobi Du¬
+          <lb/>puys. M. D. LXXXI. (Verso blanc.)
+          <lb/>In-80, car. ital., 312 ff. ch. (dernier f. numéroté par erreur 311),
+          <lb/>98 ff. non ch. (annotations de Lambinus et index), 2 ff. blancs; titre
+          <lb/>courant, réclames, notes marginales, initiales ornées.
+          <lb/>(Vol. VIII: M. T. CICERO- NIS PHILOSOPHI CORVM LI¬
+          <lb/>BRORVM PARS PRIMA. ID EST, ! Academicarum quaestionum
+          <lb/>editionis secundae,! liber primus, Ad Varronem.! Academ.
+          <lb/>quaest. editionis primae, lib. 2. qui a Nonio quartus ! nu¬
+          <lb/>meratur simpliciter: à nonnullis inscribitur, Lucullus:
+          <lb/>rectè. De Finibus bonorum &amp;amp; malorum LiBri V.Tuscu¬
+          <lb/>lanarum quaestionum LIBRI V. Ex DIONYS. LAMEINI EMEN¬
+          <lb/>DATIONE.
+          <lb/>Marque typ. de Iosias Rihel, (H&amp;amp; B, Planche XXXII, No 14).
+          <lb/>Au-dessous: CvM Priuilegijs Caesareae Mtis. &amp;amp; Regis
+          <lb/>Galliae.
+          <lb/>ARGENTORATI Impensis Iosiae Rihelij &amp;amp; lacobi Du¬
+          <lb/>puys. M. D. LXXXI.
+          <lb/>357
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

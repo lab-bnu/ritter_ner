@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:53.461687+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078363.tif
+IMAGE WIDTH: 2340
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Au verso du titre: PRAEFATIO AD Lectorem. (2 pp.)
+          <lb/>Fol. 2b: ANNOTATIVNCVLA. (1 p.)
+          <lb/>Fol. 3b: INDEX PSALMORVM SECVNDVM VETEREM trans¬
+          <lb/>lationem. (3 pp.)
+          <lb/>Fol. Aa: IO DANTISCI) B. C. EPIGRAMMA, (11 dist.)
+          <lb/>R101.078. Prov.: Don de la ville de Heilbronn. En bas du titre:
+          <lb/>Johannes Lauterbachius Poeta Laureatus.&amp;quot; Rel, anc.
+          <lb/>1955
+          <lb/>PSALTERIUM DAVIDIS. Voir: SPANGENBERG Conrad : Der
+          <lb/>Heylige Psalter... 1560.
+          <lb/>PSALTERIUM
+          <lb/>Strasbourg, W. Rihel vers 1550
+          <lb/>Der Psalter! in gebett gestellt, sampt! anderen an¬
+          <lb/>gehenckten, und zûgethanen gebetten, an vil! orten ge¬
+          <lb/>bessert mit Ti! telen und evnem Register, (Petite grav, sur
+          <lb/>bois : Le roi David agenouillé, les mains levées, en prière.)
+          <lb/>Uffs new zû Straszburg bey Wendel Rihel! getruckt.
+          <lb/>Petit in-8°, car. goth., CXXVI ff. ch. pour les psaumes = LX
+          <lb/>ff. ch. qui ont un nouveau titre: Bekantnisz der sünden, mit
+          <lb/>etlichen be- trachtungen und nutz- lichen gebetten, zu
+          <lb/>Lignitz in Schle- sien zûsamen getra gen. Jetz, auffs
+          <lb/>new ubersehen und gedruckt — 6 ff. non ch. (table), réclames,
+          <lb/>titre rouge et noir, les titres des chapitres sont aussi en rouge. Au verso
+          <lb/>du titre: Vorrehd in den Psalter, (Préface de 4 pp.)
+          <lb/>R 101.997. Prov.: Hess a Cie, Munich 11/1I1 1896; 25 M. An¬
+          <lb/>notations mes. : en bas du titre: Seiner lieben Schwester verehret dieses
+          <lb/>kleine Büchlin ihr Bruder Joh. Philipp Ehlich 1740. A la fin, prière ms.:
+          <lb/>Wie Eheleut sich Gott täglich befelhen sollen; au-dessous : 1576. David
+          <lb/>von Kirch (?) 27 September.
+          <lb/>1956
+          <lb/>1249
+          <lb/>PTOLEMAEUS Claudius
+          <lb/>Strasbourg, J. Schott 1513
+          <lb/>Claudii Ptolemei! viri Alexandrini Mathematicae
+          <lb/>disciplinae Philosophi! doctissimi Geographiae opus no¬
+          <lb/>vissima traductione e Graeco-rum archetypis castigatis¬
+          <lb/>sime pressum: caeteris ante lucubratorum multo prae¬
+          <lb/>stantius.
+          <lb/>Pro prima parte continens Cl. Ptolemei Geographiam
+          <lb/>per octo libros partitam... (suivent 17 lignes.)
+          <lb/>R.79
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

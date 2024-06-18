@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:10.979564+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3303.tif
+IMAGE WIDTH: 2356
+IMAGE HEIGHT: 3856
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>745
+          <lb/>Bl. b 4a: Getruckt zû Straszburg bey Wolff Köphlin
+          <lb/>in verlegung des Ersamen vnd Fürsichtigen Herren, Herr
+          <lb/>Jo-(hann Herwagen Burgern zu Baszel, Mit Keys. May.
+          <lb/>Priuilegio in fünff jaren nit nach zû Trucken,! laut inhalt
+          <lb/>des Priuilegiums. (Rücks. leer.)
+          <lb/>20, Got., 2sp., 24 unn., CCCOXI num. Bll., Kopft., Kust., Marg.,
+          <lb/>Imnit.
+          <lb/>Bl. 2a: ... Herrn Hermann Erztbischoffen zû Cölln...
+          <lb/>— Straszburg.x tag Martij M. D.XLV.Casper Hedion.
+          <lb/>(Vorrede, 8 Bll.) Darunter: Zûm Leser Caspar Hedion, (12 Z.)
+          <lb/>Anschliessend Index, 13 Bll. u. 1 leeres Bl.
+          <lb/>Die Chronik des Eusebius hat 97 Bll.; der 2. Teil mit neuem Titel
+          <lb/>(Hystoria Ecclesiastica tripartita) geht bis Bl. COXL; der 3. Teil von
+          <lb/>Bl. CCXLI bis Bl. CCCCXI.
+          <lb/>Bl. 99b : ... Herrn Diete-richen Kömmerer von Würms,
+          <lb/>gnandt von Dal- berg, meinem gebietenden sunders! gün¬
+          <lb/>stigen herrn. Caspar Hedion... — Geben Straszburg
+          <lb/>M. D. xxix. Jar. (Vorrede, 2 S.)
+          <lb/>Bl. 241: Vorrede Hedio’s zu Teul III; Bl. 293a: Holeschn.:
+          <lb/>Orients Auffgang.
+          <lb/>R10.571. Prov.: Bibl. W. Menzel. Auf der Innens, des Einbands:
+          <lb/>1574. Wills Gott wer wenndts? Gebhardt Bastberger, Darunter: Mors
+          <lb/>ultimus Medicus. Daneben: Von meinem lieben Gebhardt Bastberger selig
+          <lb/>hab ichs Heinrich Orther 1681. Alter Einband mit der Jahreszahl 1546.
+          <lb/>1099
+          <lb/>HEDIO Kaspar. Siche: PLATINA Barthol.: Historia von der Bäpst.
+          <lb/>Strassburg, 1546. R 10.361.
+          <lb/>HEDIO Kaspar
+          <lb/>Strassburg, W. Köpfel 1558
+          <lb/>CHRONICA] der Alten Christ- lichen Kirchen... (Wie
+          <lb/>in der Ausgabe von 1545.)
+          <lb/>Das Explicit Bl, 4a fehlt.
+          <lb/>20, Got., 10 unn. Bll. (Vorrede), CCCOLXXXY num. Bll., 8 unn.
+          <lb/>(Index), Kopft.. Rust., Marg., Init.
+          <lb/>Bl. 2a: Vorrede der Auegabe von 1545.
+          <lb/>Die Chronik des Eusebius umfasst 108 Bll., die Historia Ecclesia¬
+          <lb/>stica tripartita geht von Bi. 109-246; der 3. Teil gcht von Bl. 300-485.
+          <lb/>(Bl. 247-299 fehlen.)
+          <lb/>R10.572. Prov.: K. Th. Völcker, Frankfurt a. M. 22. I1. 1883;
+          <lb/>5 M. Handschr. Eintragung: Inservio Bibliothecae Laurentii Glaseri.
+          <lb/>Anno 1675.
+          <lb/>Stadtbibl. Strassburg 1192.
+          <lb/>1100
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

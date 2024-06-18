@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:38.661381+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2412.tif
+IMAGE WIDTH: 2380
+IMAGE HEIGHT: 3822
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>408
+          <lb/>m
+          <lb/>titre: Ex Libris: FF Minorum strictae Observantiae Pforzhaim, Au-dessous:
+          <lb/>R10.464. Prov.: Beck, Nördlingen, 4/1I. 1884; 5 M. Au bas de
+          <lb/>&amp;quot;Ex Conventu Fratrum Minorum Recollect. Premerpergensi.» Rel. anc.
+          <lb/>Kiel, Kœnigsberg.
+          <lb/>GPB: BN Berlin, B U Breslau, Gœttingue, Greifswald, Halle,
+          <lb/>607
+          <lb/>CYBELEUS Valentinus
+          <lb/>Haguenau, Th. Anshelm, 1517.
+          <lb/>Opusculum De Laudi bus &amp;amp; uituperio Vini &amp;amp; Aquae
+          <lb/>Va lentini Cybelei, Canonici Eccle siarum Quinqueeccle¬
+          <lb/>sien.  Alben. (Verso blanc.)
+          <lb/>A la fin: Hagenau ex Academia Thomae Anshelmi
+          <lb/>mense Julio. Anno M. D. XVII.
+          <lb/>In-4°, car, rom., 27 ff. non ch., sign. A-G, notes marginales.
+          <lb/>fol. A2a:... GEORGIO EPISCOPO QVINQVEECCLESIEN.
+          <lb/>Cancellario Regio, Valentinus Cybeleius Ca nonicus Eccle¬
+          <lb/>siae Alben... — Ex Alba Regali. Pridie Idus Ianuar.
+          <lb/>(Préface de 2 pages.)
+          <lb/>R101.800. Prov.: Don de Fid. Lutsch fils, antiquaire à Augs¬
+          <lb/>bourg, 1871.
+          <lb/>BN Paris, R 6013; Proctor II, Sectio I, N° 11.686: Londres,
+          <lb/>British Museum; GPB: BN Berlin, BU Bonn; Walter: Sélestat
+          <lb/>No 1070.
+          <lb/>Rosenthal, Munich, Catalogue 135 (1914). N0 650; 120 M. Il dit:
+          <lb/>28 ff. (le dernier blanc).
+          <lb/>608
+          <lb/>CYPRIANUS. Voir: HEDiO Caspar, Chronica, 1530.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

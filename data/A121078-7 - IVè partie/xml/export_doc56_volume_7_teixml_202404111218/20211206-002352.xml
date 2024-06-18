@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:10.889234+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002352.tif
+IMAGE WIDTH: 2470
+IMAGE HEIGHT: 4008
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>MARGARITA, Medicinae. Voir : TOLLAT, Joh, nos 3344/5.
+          <lb/>MARLIANUS, Ludovicus Mediolanensis : Epistola qua calam¬
+          <lb/>itosa Philippi Hispaniae regis in Hispaniam navigationem
+          <lb/>describitur. Strasbourg, Jean Grüninger 1514, in-4°.
+          <lb/>Graesse IV, p. 404; Ritter, B M Strasbourg, n° 1287. 2602
+          <lb/>MAROT, Clément : Cinquante psaumes de Marot par
+          <lb/>Guillaume Franck. — Strasbourg 1545, in-8°.
+          <lb/>Vogeleis, p. 254.
+          <lb/>2602a
+          <lb/>MAROT, Cl. Voir: LOBWASSER, Ambr., n° 2412; Pseaulmes,
+          <lb/>n° 3051.
+          <lb/>MARSCHALCK, H. : Von dem weyt erschollen Namen Luther,
+          <lb/>waz er bedeut unnd wie er wirt miszbraucht... Marschalck
+          <lb/>Straszburg. — (Strasbourg (?)] 1523, in-4°.
+          <lb/>Kuczynski, n° 1893.
+          <lb/>2603
+          <lb/>MARSUS, Petrus. Voir : TERENTIUS, no 3319.
+          <lb/>MARTIANUS, Cariolanus (episcopus). Voir : EURIPIDES,
+          <lb/>n° 1660.
+          <lb/>MARTYR, Christian : Wahre Historia und Geschicht, wie
+          <lb/>Valentin Paceus... Prädicant weiland zu Leipzig, einen
+          <lb/>Tod und ein End genommen, welcher von der wahren
+          <lb/>Erkenntnis des heiligen Evangelii ist abgefallen. —
+          <lb/>Strasbourg, Blaise Fabricius 1558, in-4°.
+          <lb/>Kuczynski, n° 1034.
+          <lb/>2604
+          <lb/>MATHESIUS. Voir: AESOPUS, n° 758.
+          <lb/>MATHIS (Pfarrherr). Voir : BÜLLHEIM, Stephan, n° 1227.
+          <lb/>MAXIMILIAN I. Voir: EINREITUNG Maximilians I, n° 1535.
+          <lb/>MAXIMILIAN I. Mandat die Büchseu betreffend. — Stras¬
+          <lb/>bourg, 4 Nov. 1518; Schürer hér. 1518. Einblattdreck.
+          <lb/>Benzing: Schürer n° 1.
+          <lb/>2604a
+          <lb/>350
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

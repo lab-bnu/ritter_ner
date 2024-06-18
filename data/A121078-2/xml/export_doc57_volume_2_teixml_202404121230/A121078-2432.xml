@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:39.159822+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2432.tif
+IMAGE WIDTH: 2390
+IMAGE HEIGHT: 3824
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>428
+          <lb/>Vocabulaire en trois lan- gues, a sçauoir Latine, Fran¬
+          <lb/>coyse &amp;amp; Allemande, auec vne instruction ou formule vti¬
+          <lb/>le à parler. Vocabular Lateinisch, Frantzö- sisch vnd
+          <lb/>Teutsch, sampt einem Gesprâch, vnnd Formulen zu re¬
+          <lb/>den, für ein jeden, so dieser Sprachen vnerfahren, zu
+          <lb/>eim anfang fast nützlich, vnnd gut, newlich mit vielen
+          <lb/>Wörtern gemehret, auch jetzt hin vnd wider Corrigiert
+          <lb/>vnd gebessert.
+          <lb/>Gedruckt zu Straszburg, durch Antonium Bertram
+          <lb/>M. D. LXXXX.
+          <lb/>non ch., sign. A-F., réclames, titre rouge et noir.
+          <lb/>In-80, car. ital. et goth., 3 col., jusqu’à Dri, puis 2 col., 48 ff.
+          <lb/>R102.414.(2) Prov.: Lippert, Halle, 7/XII 1886. Rel. anc. 642
+          <lb/>DICTIONARIUS
+          <lb/>Strasbourg, J. Knobloch, 1516.
+          <lb/>Dictiona rius pauperum omnibus vbi diuini Predi¬
+          <lb/>catoribus pernecessarius in quo mirabili artificio perstrin¬
+          <lb/>guntur ma terie seu sermones singulis festiuitati bus
+          <lb/>totius anni. tam de Tempore, quam de Sanctis accommo¬
+          <lb/>dan de. vt in Fabula huius operis facile et lu! cide
+          <lb/>cogno scetur.Ad lectorem. Te Lector rogitat tener
+          <lb/>libellus Hec munuscula parua. sed diserta Mansuetis
+          <lb/>oculis legas et ore.
+          <lb/>A la fin: ... Impressa Argentine in domo Johannis Knob
+          <lb/>louch calchographi. Anno... M. D. XVI die XXVj. mensis
+          <lb/>Maij.
+          <lb/>In-8°, car. goth., CCI ff. ch. — 10 non ch., titre courant, initiale
+          <lb/>ornée D et initiales d’attente, titre rouge et noir.
+          <lb/>R101347. Prov.: BN Munich, 22/1. 1880; 060 M.
+          <lb/>Schmidt VII, No 114.
+          <lb/>643
+          <lb/>DICTIONARIUS
+          <lb/>Strasbourg, J. Knobloch, 1518.
+          <lb/>DIctiona rius pauperum vbi diuini Predicatoribus
+          <lb/>pernecessarius in quo mirabili artificio perstringuntur
+          <lb/>ma- terie seu sermones singulis festiuitati bus totius
+          <lb/>anni, tam de Tempore quam de Sanctis accommodan
+          <lb/>de. vt in Fabula huius operis facile et lu cide cogno
+          <lb/>scetur.Ad lectorem. (3 lignes comme dans l’édition de 1516.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:35.993261+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2319.tif
+IMAGE WIDTH: 2314
+IMAGE HEIGHT: 3820
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>CHRYSOSTHOMUS Johannes
+          <lb/>Strasbourg, J. Grüninger, 1514.
+          <lb/>Ein tröstliche predig Sant iohanns! Chrisostomi, ge¬
+          <lb/>nante (!) mit dem guldin mund. von dem, das kein mensch
+          <lb/>geletzt, mag werden dan von im selbs.
+          <lb/>A la fin: ... vnd ist getruckt in der loblichen freien
+          <lb/>stat Straszburg, durch Johannes Grü ninger. Jm iar der
+          <lb/>geburt Christi. M. d.xiij. vff vnser Frawen liechtmesz
+          <lb/>abent.
+          <lb/>Marque typ. de J. Grüninger, (HE B, Planche I, n° 4.)
+          <lb/>In-fol., car. goth., XVIII ff. ch., 2 col,, titre courant, initiales
+          <lb/>D, I A, V, N. Bel encadrement du titre: au haut un feston attaché
+          <lb/>à une sorte d’écusson sur lequel se trouve le titre; à droite en haut,
+          <lb/>buste de la Vierge avec l’enfant Jésus, au-dessus de la Vierge un ange,
+          <lb/>plus bas une fontaine sortant d’un rocher et coulant dans un bassin,
+          <lb/>au-dessus du rocher 2 aigles et un cigne au-dessus de la fontaine; au
+          <lb/>bas à gauche S. Jean assis, occupé à écrire, devant lui un aigle. Au
+          <lb/>verso du titre une autre gravure, représentant une forêt, à droite une
+          <lb/>femme drappée, vers le milieu un chasseur sonnant du cor, à gauche un
+          <lb/>homme barbu, nimbé, entrant en rampant dans une cabane.
+          <lb/>fol. 2a. Dem Edlen... Herrn Iohans Bock von Gerszheim,
+          <lb/>ritter der loblichen vnd hoch von got begabter stat Strasz¬
+          <lb/>burg Stett- meister meinem günstigen lieben herren. Em¬
+          <lb/>büt ich Jacob wimphelling der heiligen geschrifft licentiat
+          <lb/>meinen willigen dienst... — Datum Freiburg vf den letsten
+          <lb/>tag des monats May von Cristus geburt, tausent fünffhun¬
+          <lb/>dert vnd neun Jare.
+          <lb/>R10.093. Prov.: Bibliothèque de Charles Schmidt avec son ex¬
+          <lb/>libris et une note de sa main que l’encadrement du titre se retrouve aussi
+          <lb/>chez Geiler: Evangelia und Vsslegung fol. 74b et que fol. XVII est
+          <lb/>marqué par erreur XVI.
+          <lb/>2 ex. R 10.092. Prov.: Librairie Trübner, Strasbourg, 9.11.1887;
+          <lb/>30 M.
+          <lb/>Schmidt I, No 132; BM Sélestat et son exemplaire que possède
+          <lb/>maintenant la BN de Strasbourg R 10.093; Walter: Sélestat No 54;
+          <lb/>GPB: BN Berlin, BU Gettinque.
+          <lb/>477
+          <lb/>315
+          <lb/>CHRYSOSTOMUS Johannes, Contio Ioannis Chrysostomi de
+          <lb/>magistratibus, &amp;amp; potestatibus, Voir: NONNUS Panopolitanus,
+          <lb/>In evangelium sancti Iohannis paraphrasis Graeca. Haguenau,
+          <lb/>J. Secer, 1528. R 100.476.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

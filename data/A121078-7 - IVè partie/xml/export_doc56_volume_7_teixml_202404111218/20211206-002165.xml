@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:05.933082+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002165.tif
+IMAGE WIDTH: 2470
+IMAGE HEIGHT: 3982
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>niores ex Erasmi Roterodami Colloquiis, cum aliis in
+          <lb/>puerorum usum decerptae. S. L. — Strasbourg, Jacques
+          <lb/>Frölich 1549, in-80.
+          <lb/>Van der Haeghen, Colloquia p. 25 : B U Bâle.
+          <lb/>1628
+          <lb/>ERASMUS (De Studiis) : De ratione studii... — (Strasbourg,
+          <lb/>Mathias Schürer, janvier 1518), in-4°.
+          <lb/>Panzer 6, 88, 517; Schmidt VIII, no 228 : B M Zurich. [éd.
+          <lb/>Schürer, juillet 1512, août 1513, août 1514, avril 1516, juin
+          <lb/>1519 : Ritter, Rép. nos 709, 712, 717, 725, 740l.
+          <lb/>1629
+          <lb/>ERASMUS (De Studiis) : De ratione studii... Concio de puero
+          <lb/>Jesu in schola. Coietina Landini instituta pronuncianda.
+          <lb/>Eiusdem Expostulatio Jesu ad mortales. Eiusdem
+          <lb/>Carmina scholaria. — (Strasbourg, Jean Knobloch,
+          <lb/>novembre 1521), in-80.
+          <lb/>Panzer 6, 96, 594; Schmidt VII, n° 220 : B M Zurich. [éd.
+          <lb/>Prüss, mai 1520 : Ritter, Rép. n° 748l.
+          <lb/>1630
+          <lb/>ERASMUS (De Studiis) : Ratio seu methodus compendio per¬
+          <lb/>veniendi ad veram Theologiam. — (Strasbourg, Jean
+          <lb/>Knobloch, décembre 1522, in-80.
+          <lb/>Kuczynski, n° 740; Ritter: B M Strasbourg, no 905; Schmidt
+          <lb/>VII, n° 248. Aarau, Bibl, cantonale. Panzer 6, 99, 634. 1631
+          <lb/>ERASMUS (De Studiis) : Ratio seu methodus... — (Strasbourg,
+          <lb/>Jean Knobloch, octobre 1523), in-8°.
+          <lb/>Panzer 6, 103, 655; Schmidt VII, n° 264. [éd. sans impr.
+          <lb/>1526 : Ritter, Rép. n° 782l.
+          <lb/>1632
+          <lb/>ERASMUS. Voir aussi: ALBERUs, n° 786; ARNobIUs, n° 858;
+          <lb/>BRUNFELS, n° 1107; BUCER, n° 1158; CATO, nos 1316,
+          <lb/>1318; EOBANUS Hessus, n° 1550; EPPENDORF, n° 1558;
+          <lb/>HEGENDORF, n° 1971; HILSPACH, n° 2019; HUTTEN,
+          <lb/>n° 2108; LANG, n° 2271; LUTHER, n° 2496 et 2569;
+          <lb/>PLUTARCH, n° 2957; SCHOTTENIUS, n° 3192; RITTER,
+          <lb/>Rép. nos 705-793; TESTAMENTUM NOVUM nOS 3330,
+          <lb/>3332/3.
+          <lb/>163
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

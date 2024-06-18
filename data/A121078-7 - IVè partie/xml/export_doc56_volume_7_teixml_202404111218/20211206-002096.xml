@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:03.951042+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002096.tif
+IMAGE WIDTH: 2472
+IMAGE HEIGHT: 4012
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>BUSCH, Hermann : Carmen saphicum de contemnendo
+          <lb/>mundo. — Haguenau, Thomas Anshelm 1517.
+          <lb/>Goedeke II2, p. 420 (6).
+          <lb/>1246
+          <lb/>BUSCH, Hermann. Voir aussi : SENECA n° 3217.
+          <lb/>BUSCHMANN, Arnold. — Voir : MIRACKEL n° 2688/9.
+          <lb/>BUSTIS, Bernardinus de : Secunda pars Rosarii sermonum. —
+          <lb/>Haguenau, H. Gran pour J. Rynman (27 mail 1503,
+          <lb/>in-fol.
+          <lb/>Ritter B M Strasbourg, n° 639; Burg, n° 118. (Voir aussi:
+          <lb/>Ritter, Rép. n° 344 ; éd. Gran, pars I, août 1503; n° 346:
+          <lb/>Gran 1508.
+          <lb/>1247
+          <lb/>BUSTIS, Bernardinus de : Rosarii sermonum pars secunda. —
+          <lb/>Haguenau, H. Gran pour Rynman (1er août) 1513,
+          <lb/>in-fol.
+          <lb/>Burg, n° 125.
+          <lb/>1248
+          <lb/>BUSTIS, Bernardinus de : Rosarium sermonum praedica¬
+          <lb/>bilium. Pars 1. 2. — Haguenau, Henri Gran pour
+          <lb/>Rynman 1518, in-4°.
+          <lb/>Panzer VII, p. 84, n° 139; Klosterneuenburg 94; Burg, nos 128
+          <lb/>et 130.
+          <lb/>1249
+          <lb/>BUSTIS, Bernardinus de : Mariale... — Haguenau, Henri Gran
+          <lb/>2-VIII-1519, in-fol.
+          <lb/>Panzer VII, p. 87, n° 159; Burg, n° 130a. (Ritter, Rép. n° 342 :
+          <lb/>éd. M. Flach 1502, n° 345 : Gran 1506, n° 347 : Gran 1513.)
+          <lb/>1250
+          <lb/>BUSTIS, Bernardinus de : Defensorium Montispietatis. —
+          <lb/>Haguenau, H. Gran pour J. Rynman, 7 septembre 1513,
+          <lb/>in-fol.
+          <lb/>Burg, n° 127. (Voir aussi : Ritter, Rép. n° 343 ; éd. Gran 1503).
+          <lb/>1251
+          <lb/>94
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

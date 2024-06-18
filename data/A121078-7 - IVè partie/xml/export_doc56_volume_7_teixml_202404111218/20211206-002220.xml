@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:07.175953+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002220.tif
+IMAGE WIDTH: 2494
+IMAGE HEIGHT: 3970
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>zugetragen, beschriben durch... Johann Gölitzschen des
+          <lb/>Orts christlichen Seelsorger... — Strasbourg, Thiébaud
+          <lb/>Berger 1564 (en vers).
+          <lb/>Wickersheimer, E. : Catalogue des Folia naturales res
+          <lb/>spectantia. Dans : Revue des Bibliothèques n° 11-12 (1925),
+          <lb/>n° 99. Bibl. Centrale Zurich.
+          <lb/>1915
+          <lb/>GOLDFADEN (Der). Voir: WICKRAM n° 3496.
+          <lb/>GOLDRICH, Georg. Voir : FISCHART, n° 1697.
+          <lb/>GOLIUS, Theophilus : Educationis puerilis linguae graecae
+          <lb/>pars prima pro Schola Argentinensi. Fabellae quaedam
+          <lb/>Aesopi Graecae, ad puerilem educationem in gymnasio
+          <lb/>Argentoratensi selectae... M.D.LXXII. — Strasbourg,
+          <lb/>Josias Rihel 1572, in-80.
+          <lb/>Ritter : B M Strasbourg, n° 1130.
+          <lb/>1916
+          <lb/>GOLIUS, Theophilus : Educatio puerilis linguae graecae... —
+          <lb/>Strasbourg, Josias Rihel 1593, in-4°. (Nouvelle éd. de
+          <lb/>1572 en plus : Grammaticae sive Educationis puerilis
+          <lb/>pars altera pro schola Argentinensi conscripta, &amp;amp; iam
+          <lb/>denuo recognita atque aucta...].
+          <lb/>Ritter: B M Strasbourg, n° 1131.
+          <lb/>1917
+          <lb/>GOLIUS, Theophilus : Onomasticon latino-germanicum in
+          <lb/>usum scholae Argentinensis. — Strasbourg 1578.
+          <lb/>Schmidt, Charles: Strassburger Gassen-und Häuser-Namen
+          <lb/>im Mittelalter, p. 25 : « Die erste Ausgabe ist von 1578.» 1918
+          <lb/>GOLIUS, Theophilus : Epitome doctrinae moralis, ex decem
+          <lb/>libris Ethicorum Aristotelis ad Nicomachum Collecta,
+          <lb/>pro Academia Argentinensi... (Marque typ. de l’impr.). —
+          <lb/>Argentorati (Josias Rihel] M.D.XCVII (1597), in-8°.
+          <lb/>Bibl. Grand Sém. Strasbourg AV 45.
+          <lb/>1919
+          <lb/>GOLIUS, Theophilus. Voir: ARISTOTELES, n° 851/2. (RITTER,
+          <lb/>Rép. nos 1015-1022l.
+          <lb/>218
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

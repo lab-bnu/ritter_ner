@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:38.361904+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu117.tif
+IMAGE WIDTH: 2410
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>REUCHLIN JOHANNES: Vocabularius breviloquus. Strasbourg,
+          <lb/>impr. du Jordanus (G. Husner)), 12 janvier 1493,
+          <lb/>in-fol.
+          <lb/>Copinger 6296, Madsen 3492, Voulliéme: Berlin 2447.
+          <lb/>K 3160d. Prov.: L. Rosenthal, Munich, 28/III. 1891, 24 M.
+          <lb/>Notes mss. Rel. anc.
+          <lb/>414
+          <lb/>REUCHLIN JOHANNES: Vocabularius breviloquus. Strasbourg,
+          <lb/>(G. Husner), 30 sept. 1496, in-4°.
+          <lb/>Voulliéme: Berlin 2528.
+          <lb/>K 3160e. Prov.: Baer 8 Co., Francfort s. M., 18/x. 1883, 24 M.
+          <lb/>Au-dessus du titre: «Frater Melchior est possessor hujus libri
+          <lb/>possessione Conventus Wimpinensis ordinis praedicatorum».
+          <lb/>Rel. anc.
+          <lb/>415
+          <lb/>ROLEWINCR WERNER: Fasciculus temporum. Strasbourg,
+          <lb/>J Prüss, 1487, in-fol.
+          <lb/>Hain 6936, Madsen 3527, Proctor 523, Schmidt III, 13, Schrei¬
+          <lb/>ber 5117, Voulliéme; Berlin 2345.
+          <lb/>Schramm, Bilderschmuck XX, grav. N° 1212-1224.
+          <lb/>K 3191. Prov.: Don de Fid. Butsch fils, Augsbourg, 1872. Au¬
+          <lb/>dessous du titre: «Can. Reg. in Ranshouen». Rel. anc. 2e ex.
+          <lb/>K 58, 2. Prov.: Bernard, Strasbourg, 1879. A la suite de Aero¬
+          <lb/>pus, Fabulae. K 58, 1.
+          <lb/>416
+          <lb/>ROLEWINCK WERNER: Fasciculus temporum. Strasbourg,
+          <lb/>J. Prüss, 1488, in-fol.
+          <lb/>Hain 6937, Madsen 3528, Proctor 533, Schmidt III, 18, Schrei¬
+          <lb/>ber 5118, Voulliéme: Berlin 2350, Pellechet: Colmar 608,
+          <lb/>Walter: Sélestat 418; Schramm, Bilderschmuck XX, grav.
+          <lb/>N° 1212-1224.
+          <lb/>K 3192. Prov.: Baer &amp;amp; Co., Francfort s. M., 3/VI. 1879, 36 M.
+          <lb/>Au bas du titre: «Sum Georgij Leonhardi Modelij vindicis
+          <lb/>ab interitu meo A. E. C. V. 1685». Au recto du f. de garde:
+          <lb/>«Delius».
+          <lb/>417
+          <lb/>ROLEWINCK WERNER: Fasciculus temporum. Strasbourg,
+          <lb/>J. Prüss, vers 14902), in-fol.
+          <lb/>Hain 6916, Pellechet: Colmar 603, Proctor 563, Schreiber
+          <lb/>5119, Voulliéme: Berlin 2390.
+          <lb/>K 3183. Prov.: Don du prince de Bentheim, 1872. Rel. anc.
+          <lb/>418
+          <lb/>87
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

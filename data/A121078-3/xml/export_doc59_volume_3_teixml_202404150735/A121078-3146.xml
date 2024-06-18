@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:06.963356+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3146.tif
+IMAGE WIDTH: 2314
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>590
+          <lb/>Bl. A 2b Holzschn, mit Uberschrift : Von dem Gold, 2 Männer
+          <lb/>an einem Tische sitzend, der ältere stütet den Arm auf den Tisch und
+          <lb/>lauscht dem jüngeren, welcher auf einer Harfe spielt.
+          <lb/>Bl. A 3a Holeschn mit der Uberschrift: Argentum das ist Silber.
+          <lb/>Ein Mann vor einem Schmelzofen stehend, einen Blasebalg in der Hand.
+          <lb/>R 10.408. Geschenk der UB Göttingen 1872. Auf der Rücks, des
+          <lb/>Titelbl. Stempel: Ex Bibliotheca Acad. Georgiae Augustae.
+          <lb/>Stadtbibl. Strassburg. GK: SB Berlin; UB Göttingen, Halle;
+          <lb/>Schmidt I Nr. 169; SB München; Kristeller 102.
+          <lb/>890
+          <lb/>FRIES Lorenz
+          <lb/>Strassburg, J. Grüninger 1519
+          <lb/>Tractat der Wildbeder natuer wirckung vnd eigent¬
+          <lb/>schafft mittsampt vnderweisung wie! sich ein veder be¬
+          <lb/>reiten sol ee er badet, auch wie man baden, vnd ettliche
+          <lb/>zûfell der badenden wenden sol, Gemacht mit! grossem
+          <lb/>fleisz durch Laurentium Phriesen der freien kunst vnnd
+          <lb/>artzney doctorem. Neptunus.
+          <lb/>Cum priuilegio.
+          <lb/>Holeschn.; 5 Personen in einem Bade, neben ihnen ein Mann mit
+          <lb/>einer Narrenkappe, auf einer Geige spielend.
+          <lb/>Am Schluss: Getruckt vnd seliglich vollendet in der
+          <lb/>keiser lichen stat Straszburg, vff sant Jacops abent von
+          <lb/>Johannem Grieningern! Im jar der geburt Cristi, 1519.
+          <lb/>40, Got., 20 unn. Bll., von denen das letste leer, Sign. A-E,
+          <lb/>Kopft., Init.
+          <lb/>Bl. A 2a: Begrif dises büchlins... Laurentius Phriess
+          <lb/>entbütet dem leser heil.
+          <lb/>Bl. C3: Von Gebersweiler IM Elsas...
+          <lb/>R 101719. Prov.: Versteigerung Reiber, Strassburg 11.-16. VI.
+          <lb/>1896, ohne Preisangabe.
+          <lb/>GK: UB Erlangen, SB München, UB Strassburg; Proctor II
+          <lb/>Sectio I Nr. 9951: London, Brit. Museum; Schmidt I Nr. 165: SB
+          <lb/>München; Kristeller 102.
+          <lb/>891
+          <lb/>FRIES Lorenz
+          <lb/>Strassburg, J. Grüninger 1520
+          <lb/>Ein kurtze... (Siehe Titelblatt, Abb. S. 591.) (Rücks, leer.)
+          <lb/>Am Schluss: Getruckt zu Straszburg von Johanne Grü¬
+          <lb/>ninger, vff mitwoch vor sant An- dreas tag. Jn dem iar.
+          <lb/>Tusent. CCCCC. XX. (Rücks, leer.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

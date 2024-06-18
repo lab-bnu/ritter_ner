@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:10.555994+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3285.tif
+IMAGE WIDTH: 2348
+IMAGE HEIGHT: 3858
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>HAINAUT Jean de
+          <lb/>Strassburg 1565
+          <lb/>L’ESTAT DE L’EGLISE, DEZ LE TEMPS DESAPOSTRES,
+          <lb/>IVSQVES à L’an present: AvecVn recueil des troubles
+          <lb/>auenus en France, sous le Roy Francoys II. et Charles
+          <lb/>IX. Reueu, augmenté, &amp;amp; couché en! breues Annales.
+          <lb/>Item vn traité de la religion &amp;amp; République des luifs,
+          <lb/>depuis le retour de l’exil de Babylone, ius- ques au der¬
+          <lb/>nier saccagement de lerusalem.
+          <lb/>A STRASBOURG, M. D. LXV. (Rücks, leer.)
+          <lb/>80, Antiq., 36 unn. Bll. (Vorrede Crespin&amp;#x27;s u. Index), 565 S.,
+          <lb/>Kopft., Kust., Marg., Init.
+          <lb/>R 101480. Prov. : Bibl. Ch. Schmidt mit seinem Exlibris und
+          <lb/>Notiz von seiner Hand: Faussement attribué à Crespin; celui-ci n’a
+          <lb/>écrit que la préface; fo bb, 4a il nomme l’auteur: Jean de Hainaut, mi¬
+          <lb/>nistre de Saconex. A la suite: L’estat de la Rel. et Rép. du peuple judaï¬
+          <lb/>que, par Paul Eber, Lyon 1564.
+          <lb/>Im GE steht dies Werk unter CRESPIN Jean. Diese Ausgabe fehlt.
+          <lb/>1069
+          <lb/>HAN Jacobus. Siche: BREVIARIUM argentinense Nr. 270
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

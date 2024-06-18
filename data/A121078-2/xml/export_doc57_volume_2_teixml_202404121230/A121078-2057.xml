@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:27.849359+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2057.tif
+IMAGE WIDTH: 2356
+IMAGE HEIGHT: 3820
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>53
+          <lb/>fol. 4a: Guielmus canonicus diui Aurelii Augustini Flo
+          <lb/>rentio suo illustri Baroni Iselsteyno....
+          <lb/>Au verso: Petri Egidii Antuerpiani Endocasyl- labon,
+          <lb/>ad Lectores. (21 vers.)
+          <lb/>R100.114 (5). Prov.: Pasteur Hartter, Luizhausen 22/x. 1877;
+          <lb/>1M.
+          <lb/>Cette édition manque chez Schmidt. Londres, British Museum.
+          <lb/>94
+          <lb/>AESOPUS
+          <lb/>Strasbourg, M. Schürer, 1516.
+          <lb/>FABVLARVM OVAE! hoc libro continentur in-[terpretes
+          <lb/>atque autho res Sunt hi.
+          <lb/>Guilielmus Goudanus. Hadrianus Barlandus Erasmus
+          <lb/>Roterodamus! Aulus Gellius! Angelus Politianus! Petrus
+          <lb/>Crinitus. Ioannes Antonius Campanus Plinius Secundus
+          <lb/>Nouocomensis! Nicolaus, Gerbellius Phorcensis. Aesopi
+          <lb/>Vita ex Max. Planu-de excerpta, &amp;amp; aucta.
+          <lb/>In Libera Argentina apud Matthiam Schurerium.
+          <lb/>A la fin: Argentorati, ex Aedibus Matthiae Schu-rerij,
+          <lb/>Mense Decembri. Anno a Chri sto nato. M. D.XVI.Dij
+          <lb/>cepta secundent. Regnante imperatore Caes. Maxi-miliano.
+          <lb/>P. F. Avg. P. P.
+          <lb/>In-40, car, rom., 38 ff. non ch., sign. A-F., titre encadré comme
+          <lb/>dans l’exemplaire R 100.035 (No 93) mais avec les lettres M. S. dans
+          <lb/>l’écusson. (H &amp;amp; B, Planche XIII, NO 6.)
+          <lb/>Au recto du dernier f. marque typographique de M. Schürer.
+          <lb/>(H &amp;amp; B, Planche XIII, N° 5; Silvestre No 692.)
+          <lb/>Les préliminaires des 4 premiers ff. sont identiques à ceux de
+          <lb/>l&amp;#x27;édition de 1515.
+          <lb/>*R 100.037. Prov.: Trübner, Strasbourg, I0/VL. 1887. (Catalogue
+          <lb/>Trübner 47); 6 M.
+          <lb/>De nombreuses annotations mss. dans le texte et au verso du der¬
+          <lb/>nier f. Au recto du titre une annotation au crayon mentionne une édition
+          <lb/>du mois de juin 1516. Voir le numéro précédent.
+          <lb/>Schmidt VIII, No 199: Bibl, cantonale Aarau et Jadis Bibl. Stras¬
+          <lb/>bourg, Incun. N° 26.
+          <lb/>95
+          <lb/>AESOPUS
+          <lb/>Strasbourg. M. Schürer, 1518.
+          <lb/>FABVLARVM QVAE] hoc libro continentur inter-pretes,
+          <lb/>atque autho-res Sunt hi.
+          <lb/>Même titre et même encadrement que dans l&amp;#x27;édition précédente: les
+          <lb/>préliminaires des 4 premières ff. sont aussi les mêmes.
+          <lb/>A la fin: Argentorati, ex Aedibus Matthiae Schu-rerij,
+          <lb/>Mense Octobri. Anno a Chri sto nato. M.D.XVIII.Dj
+          <lb/>cepta secundent. Regnante imperatore Caes. Maxi-miliano.
+          <lb/>P. F. AVG. P. P.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

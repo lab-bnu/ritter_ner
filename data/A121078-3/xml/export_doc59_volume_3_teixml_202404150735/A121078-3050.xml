@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:05.527381+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3050.tif
+IMAGE WIDTH: 2336
+IMAGE HEIGHT: 3842
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>494
+          <lb/>ERASMUS : Epistolae
+          <lb/>Strassburg, M. Schürer, 1519
+          <lb/>ALIOVOT Epistolae sane quam elegantes ERASMI Ro¬
+          <lb/>TERODA Mi, ad hunc aliorum erudi tissimorum hominum,
+          <lb/>Quarum titulos in proxima pagella lector reperies.
+          <lb/>Am Schluss: ARGENTORATI APVD SCHV- RERIVM, MENSE
+          <lb/>FEBRVA- RO Anno M. D. XIX. (Rückseite leer.)
+          <lb/>angeführt), letzte Ziffer 103 statt 203, Kopftitel, Init. N, Titeleinfassung
+          <lb/>4°, Antiq. u. Griech., 203 S. (nur die ungeraden Ziffern sind
+          <lb/>(Siehe S. 490, mit dem Unterschied, dass der untere Leisten von S. 490
+          <lb/>oben angebracht ist und umgekehrt).
+          <lb/>Auf der Rückseite des Titelbl.: Index (2sp.).
+          <lb/>S. 4. CLARISSIMO D. ANTONIO CLAVAE CONSILIARIO FLAN¬
+          <lb/>DRIAE, PE- TRVS AEGIDIVS,... — Antuer- piae tertio No¬
+          <lb/>nas Mar-tias. An. M.D. XVII.
+          <lb/>S. 5: (Epheublatt) EXIMIO THEO LOGO GVOLPHGANGO FA¬
+          <lb/>BRITIO CAPITONI HAGENOIO TRI- VM LINGVARVM PERI¬
+          <lb/>TISSIMO, ERASMVS ROTERODA MVS... — Antuerpiae. IIII.
+          <lb/>calendas! Martias. Anno M. D. XVI.
+          <lb/>R100.107. Prov. : J. Schneider, Basel, 17. II. 1888; 7 M 50.
+          <lb/>Einige handschr. Notizen im Text.
+          <lb/>GK: SB Berlin; BN Paris, 40 2-986 (1); Schmidt VIII, Nr. 241
+          <lb/>schreibt versehentlich 103 ff. statt 203 Seiten.
+          <lb/>739
+          <lb/>ERASMUS: Institutio hominis Christiani. Siche: CATO, Catonis
+          <lb/>praecepta moralia
+          <lb/>ERASMUS : De ratione studiorum
+          <lb/>Strassburg, M. Schürer, 1519
+          <lb/>ERASM ROTERODAMI De ratione studij, ac legendi
+          <lb/>interpretandique authores! libellus aureus. Officium disci¬
+          <lb/>pulorum ex Quintiliano.Qui primo legendi, ex eodem.
+          <lb/>ERASMI Concio de puero IESU in schola! Coletica Lon¬
+          <lb/>dini instituta pronuntianda. EIVSDEM EXPOstulatio IESU
+          <lb/>ad mortales. EIVSDEM CARmina scholaria.
+          <lb/>Am Schluss: Argentorati, Ex Aedibus Matthiae Schu¬
+          <lb/>rerij. Mense Iunio, Anno M. D. XIX.T.O.
+          <lb/>40, Antig., XXIII num. Bll., 1 unn. Bl. mit der Druckermarke
+          <lb/>Schürer&amp;#x27;s auf der Vorderseite (H è B Tafel XIII Nr. 5), Kopftitel,
+          <lb/>Titeleinfassung (Siehe Nr. 97).
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

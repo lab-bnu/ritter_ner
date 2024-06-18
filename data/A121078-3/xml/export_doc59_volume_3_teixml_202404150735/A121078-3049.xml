@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:05.511419+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3049.tif
+IMAGE WIDTH: 2336
+IMAGE HEIGHT: 3842
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Am Schluss: Hagenoae, in aedibus Thomae Anshelmi
+          <lb/>Badensis.! Anno M. D. XIX. Mense Decembri.
+          <lb/>Darunter: Druckermarke Anshelm&amp;#x27;s (H &amp;amp; B Tafel LXII Nr. 2.
+          <lb/>Silvestre Nr. 771). (Rückseite leer.)
+          <lb/>40, Antiq., 6 unn., LXXII num. u. 5 unn. Bll. (Epistola Erasmi),
+          <lb/>Kopftitel, schöne Init., Titeleinfassung (Siche Nr. 256).
+          <lb/>Bl. 2a: (Epheublatt) DESYDERIVS ERAS MVS ROTTERODA¬
+          <lb/>MVS, MATTHIAE! Schurerio Stlezestano (!)... — Basileae.
+          <lb/>Anno M. D. XIIII. Ad Idus Octobris. (Folgen 8 S. Index und
+          <lb/>2 Dist.: Sebastiani Murrhonis Iunioris ad Lectorem.)
+          <lb/>Bl. 6a: (Epheublatt) DESYDERIVS ERAS mvs Roterodamus
+          <lb/>Ioanni Coleto, Decano Sancti! Pauli apud Londinum... —
+          <lb/>Londini Anno M. D. XII. iii Calendas Maias.
+          <lb/>R 100.103. Prov.: Pfarrer Cromer, Zabern, 23. VII. 1879.
+          <lb/>Titelblatt unten: Pro Conventu Franciscanorum Tabernensium.
+          <lb/>Einige handschr. Notizen im Texte.
+          <lb/>737
+          <lb/>GK: SB Berlin, UB Breslau; Rest S. 50.
+          <lb/>493
+          <lb/>ERASMUS : Enchiridion militis
+          <lb/>Strassburg, M. Schürer, 1519
+          <lb/>ENCHDON MiLITIS CHEISTIA-ni, saluberrimis prae¬
+          <lb/>ceptis re! fertum, autore Des. Eras mo Roterodamo.
+          <lb/>Cui accessit noua mireque vtilis Praefa- tio. Et Basilij
+          <lb/>in Esaiam commentario- lus, eodem interprete.
+          <lb/>Cum alijs quoque sequentis Elenchus indicabit.
+          <lb/>Am Schluss: ARGENTORATI, APVD SCHV- rerium Mense
+          <lb/>Ianuario, Anno M. D. XIX. (Rückseite leer.)
+          <lb/>40, Antiq., 9 unn., 303 num., 8 unn. Bll., Kopftitel, Init., Titel¬
+          <lb/>einfassung: oben: David, Esaias, Paulus und Johannes; links : Hiero¬
+          <lb/>nymus, Ambrosius; rechts: Augustinus und Gregorius; unten: in der
+          <lb/>Mitte leerer Schild, von 2 Genien gehalten, umgeben von einem Schrift¬
+          <lb/>band mit dem Namen Hermann.
+          <lb/>Auf der Rückseite des Titelbl.: ELENCHVS HUIUS OpERIS.
+          <lb/>Bl. 2a:... PAVLO VOLZIO RELIGIOSISSIMO ABBATI MONA¬
+          <lb/>STERII QVOD VVL GO DICITVR CVRIA HVGONIS, Des. Eras¬
+          <lb/>mvs... — Basileae, pridie Virginis matris assumptae.
+          <lb/>An. M. D. XVIIl, (Vorrede, 9 S.)
+          <lb/>Darunter: LIBELLVS LOOVITVR. (3 Dist.)
+          <lb/>R 100.517. Prov.: Bibl. Böcking. Zahlreiche handschr. Notizen.
+          <lb/>Stadtbibl. Strassburg 446a; GK: SB Berlin, UB Kiel. Schmidt VIII
+          <lb/>Nr. 240: Bibl. Wilh. Strassburg; Rest S. 51.
+          <lb/>738
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

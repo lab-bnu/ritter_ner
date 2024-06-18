@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:07.985339+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3192.tif
+IMAGE WIDTH: 2324
+IMAGE HEIGHT: 3852
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>686
+          <lb/>20 Antig., 26 unn. Bll., Sign. A-D, Marg., Init., 26 blattgrosse
+          <lb/>Holeschn., 24 davon mit Monogr. von Urs Graf; die Auferstehung D6́a
+          <lb/>v. D 7a. Auf der Rücks, des vorletsten Bl.: Christus, der Schmerzens¬
+          <lb/>mann; Bl. C5b enthält oben das Wappen der Stadt Strassburg u. das¬
+          <lb/>jenige der Familie Schott; Schmidt VII Nr. 22 folgert hieraus, dass
+          <lb/>Schott die Holzschn, von Urs Graf anfertigen liess, dass er die nötigen
+          <lb/>Mittel zum Drucke nicht besass u. sie deshalb an Knobloch abtrat.
+          <lb/>Auf der Rücks, des letzten Bll.: Brief Ringmanns an Wimpfeling
+          <lb/>u. lat. Gedicht Petrarka’s auf Maria Magdalena, das Geiler von Mar¬
+          <lb/>seille mitgebracht hatte. (36 Verse.)
+          <lb/>R 10.114. Prov.: Bibl. Ch. Schmidt mit seinem Exlibris u. handschr.
+          <lb/>Notizen von ihm.
+          <lb/>2. Ex. R 10.533. Herkunft unbekannt.
+          <lb/>Dacheux, Geiler S. LXXXVIII, Schmidt VII Nr. 22; Katal.
+          <lb/>Rosenthal, München 1877, 160 M.
+          <lb/>947
+          <lb/>GEILER Johannes
+          <lb/>Strassburg, Joh. Knobloch 1506
+          <lb/>Der, text des passions oder leydens christi ausz den
+          <lb/>vier euangelisten zûsammen in ein sinn bracht mit schö¬
+          <lb/>nen figuren.
+          <lb/>Deutsches Akrostichon von Ringmann: Regier dein hertz durch
+          <lb/>ware lieb’...
+          <lb/>Am Schluss: ... Getruckt vun Johannes Knoblouch zû
+          <lb/>Straszburg. Anno, millesimo quingentesimo sexto.
+          <lb/>20, Got., 34 unn. Bll., Sign. A-F. Marg., Init. Holeschn, wie in
+          <lb/>der lat. Ausgabe, mit Ausnahme desjenigen der Auferstehung, der durch
+          <lb/>ein ahnliches Motiv nach Wächtelin ersetet worden ist. Auf der Rücks.
+          <lb/>des leteten Bl.: der Schmerzensmann.
+          <lb/>R 10.115. Prov. : Bibl. Ch. Schmidt mit seinem Exlibris.
+          <lb/>Dacheux, Geiler S. XCII, Proctor II Sectio I Nr. 10.050: London
+          <lb/>British Museum, Schmidt VII Nr. 24: Bibl, roy. de Stuttgart u. Jadis
+          <lb/>Bibl. de Strasbourg, Inkun. Nr. 3640a; Catal. Ch. Louis Fière, 2e vente,
+          <lb/>14-17 juin 1937, Nr. 363:Ce précieux volume, l’un des plus beaux
+          <lb/>livres allemands du 16e siècle, est illustré de 26 grandes figures sur bois
+          <lb/>de Urse Graf, signées de son monogramme...&amp;quot;
+          <lb/>948
+          <lb/>GEILER Johannes
+          <lb/>Strassburg, M. Schürer 1508
+          <lb/>Fragmenta passionis domini nostri Jesu Christi. A
+          <lb/>celeberrimo (diuini eloquij! oratore) domino. Joanne Geiler
+          <lb/>ex Keisersberg Theo! logo, sub typo placente melee predi¬
+          <lb/>cate. Per Jacobum! Ottherum familiarem eius in hunc
+          <lb/>modum collecta.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

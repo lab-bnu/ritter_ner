@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:05.623097+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie029.tif
+IMAGE WIDTH: 2484
+IMAGE HEIGHT: 3898
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Bibl. 226 — 369 — 371; Bohatta: Parma 211; Schreiber 3619;
+          <lb/>Schottenloher : Regensburg p. 6 f., 79 f. Hall, Londres, BN
+          <lb/>Munich etc.
+          <lb/>158
+          <lb/>BREVIARIUM Spirense sur commande de Louis de Helmstedt,
+          <lb/>évêque de Spire. — (Strasbourg, Jean Grüninger 1491,
+          <lb/>après le 10 févrierl, in-8°.
+          <lb/>G W 5465; Schwarzau (Parma); Copinger 1316; Proctor
+          <lb/>2386; Brit. Mus. Cat. II, 498; Bohatta : Lit. Bibl. 500;
+          <lb/>Bohatta: Parma 430.
+          <lb/>159
+          <lb/>BREVIARIUM Spirense. — (Strasbourg, Jean Prüss vers 1500),
+          <lb/>5 parties in-80.
+          <lb/>G W 5466 : Bibl. H M Spire.
+          <lb/>160
+          <lb/>BREVIARIUM Teutonicorum dominorum. — (Strasbourg,
+          <lb/>J. Prüss) 1500, 6 parties in-80.
+          <lb/>G W 5237; Günther 3945. — Bibl. Rég. Altenbourg, B U
+          <lb/>Munich, Tübingen.
+          <lb/>161
+          <lb/>BREVIARIUM Teutonicorum dominorum. — (Strasbourg,
+          <lb/>J. Prüss après 1500 (?)), I. Pars hiemalis, II. Pars
+          <lb/>aestivalis, in-8°.
+          <lb/>G W5238; Copinger 1319; Proctor 3270; Brit. Mus. Cat. III,
+          <lb/>860; Bohatta : Lit. Bibl. 508; Voulliéme : Berlin 2701. BN.
+          <lb/>Berlin, B U Cologne, Brit. Mus. Londres etc.
+          <lb/>162
+          <lb/>BREVIARIUM Vratislaviense. — (Strasbourg, J. Grüninger
+          <lb/>vers 1485), 5 parties in-fol.
+          <lb/>G W 5511 ; Bohatta : Lit. Bibl. 42. — Neise (Bibl. du
+          <lb/>Gymnase), Ratisbonne (Bibl. du presbytère).
+          <lb/>163
+          <lb/>BREVIARIUM Wormatiense. — (Strasbourg, J. Grüninger
+          <lb/>vers 1490), 4 parties in-8°.
+          <lb/>G W 5515; Reichling 95; Bohatta : Lit. Bibl, 552. — Bibl.
+          <lb/>Rég. Carlsruhe.
+          <lb/>164
+          <lb/>27
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

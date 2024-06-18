@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:36.366209+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2332.tif
+IMAGE WIDTH: 2320
+IMAGE HEIGHT: 3816
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>328
+          <lb/>fol 3a : Getruckt zû Strassburg bei M. Jacob Cammer¬
+          <lb/>lander.
+          <lb/>In-4°, car. goth., 3 ff. non ch. —XXVII ff. ch., verso du dernier
+          <lb/>f. blanc, titre encadré de 4 pièces juxta-posées, gravures fol. 3 non ch.
+          <lb/>recto et verso, fol. 22a: 2 portraits.
+          <lb/>R101.680. Prov.: A. Cohn, Berlin, 29/xII. 1877; 3M.
+          <lb/>GPB: BN Berlin, BU Breslau, Gœttingue, Kœnigsberg.
+          <lb/>En réalité ce n’est pas une traduction de Cicéron, mais un ouvrage
+          <lb/>de Jac. Vielfeld. Voir: B. Wenzel, Cammerlander u. Vielfeld. Diss.
+          <lb/>Rostock. Berlin 1891.
+          <lb/>501
+          <lb/>CICERO, Epitome in rhetoricam. Voir: No° 324. BUCOLDIANUS,
+          <lb/>. De Inventione oratoria. Strasbourg, J. Albrecht, 1534.
+          <lb/>CICERO, Oratio pro Quinto. Voir: STURM Johannes, De amissa
+          <lb/>dicendi ratione. Strasbourg, W. Rihel, 1538.
+          <lb/>CICERO
+          <lb/>Strasbourg, Cr. Mylius, 1539.
+          <lb/>M. T. CICERONIS ORATIO! PRO A. CECINNA CVM ENARRA¬
+          <lb/>TIONIBVS BAR) tholomaei Latomi nunc primum aeditis.! Atque
+          <lb/>iterum ab ipso autore reco- gnitis, &amp;amp; genuino candori
+          <lb/>restitutis.
+          <lb/>Marque typ. de Cr. Mylius. (HEB, Planche XXVII, NO 5.)
+          <lb/>ARGENTORATI.M. D. XXXIX. (Verso blanc.)
+          <lb/>A la fin: ARGENTORATI APVD CRATONEM MYLIVM mense
+          <lb/>sept. ANoM. D. XXXIX, (Feuille de lierre.) (Verso blanc.)
+          <lb/>In-8n, car, rom. et ital., 131 p. ch, 4 fl. blancs dont le premier
+          <lb/>contient l’explicit au recto, titre courant, réclames, notes marginales,
+          <lb/>initiale à fig. S.
+          <lb/>p. 3-6.. MATHIAE HE-do, Sacri Roma. Imperij per
+          <lb/>Germaniam Vice cancellario, Bartholomaeus Latomus
+          <lb/>Arlunensis S. D.... — Calend. Maij. Lutetiae Anno.
+          <lb/>M. D. XXXIX. (Epistola dedicatoria).
+          <lb/>R 102.145(2). Prov.: Hahn (Vente Fœringer), Munich, 28/VII.
+          <lb/>1880. Notes mss. Rel anc.
+          <lb/>502
+          <lb/>CICERO
+          <lb/>Strasbourg, W. Rihel, 1540.
+          <lb/>M. T. CICERONIS ORATIONVM VOLVMINA TRIA. Post
+          <lb/>postremam Naugerianam, &amp;amp; Victo-rianam, correctionem
+          <lb/>emendata a loan. Stvrmio Omnia &amp;amp; paginarum &amp;amp; uersuum
+          <lb/>numero atque longi-tudine Aldinis respondent.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

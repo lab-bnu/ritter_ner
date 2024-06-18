@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:27.264920+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2034.tif
+IMAGE WIDTH: 2376
+IMAGE HEIGHT: 3828
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>30
+          <lb/>AMADISROMAN
+          <lb/>Strasbourg, L. Zetzner, 1596.
+          <lb/>Schatzkammer Schöner, zier-licher Orationen, Send¬
+          <lb/>briefen, Gesprächen, Vor-trägen, Vermahnungen, und der¬
+          <lb/>gleichen. Ausz den vier und zwen-tzig Büchern des
+          <lb/>Amadis von Franckreich zusal men gezogen.! Und allen
+          <lb/>derselben Liebhabern, vnnd sonderlich denen so sich Teut¬
+          <lb/>scher Sprach Lieblichkeit und zierd ] befleissigen, zu gutem
+          <lb/>inn! Truck gegeben.
+          <lb/>Marque typ. de Latzarus Zetener, (H&amp;amp;B, Planche XLIX, n° 21)
+          <lb/>Au-dessous:... Getruckt zu Straszburg, inverlegung
+          <lb/>Lazari Zetzners. (Verso blanc.)
+          <lb/>in-8°, car. goth., 5 ff. non ch., 2 ff. blancs, 491 ff. ch., titre cou¬
+          <lb/>rant, réclames, init, ornée E.
+          <lb/>fol. 2a non ch.: Préface de Lazarus Zetzner, Buchhand-]ler
+          <lb/>und Burger daselbst. Datée de Strasbourg, 7 Juillet 1596. (8 pages.)
+          <lb/>Cd 112796. Prov.: Butsch fils, Augsbourg, 23/VII. 1877. 10 M.
+          <lb/>Reliure ancienne, en haut MBL, en bas 1597.
+          <lb/>Au milieu du titre:,,Sum Johannis Glockij. Moeno-Nort¬
+          <lb/>heimensis. 1612. Sum ex libris A. Bernardi.&amp;quot;
+          <lb/>46
+          <lb/>AMERBACH Vitus
+          <lb/>Strasbourg, Crato Mylius, 1541.
+          <lb/>Antipara doxa cvm dvabus ora-tionibus, altera de
+          <lb/>Laudibus pa-triae, altera de Ratione stu-diorum, Viti
+          <lb/>Amer-I bachii.
+          <lb/>Marque typ. de Crato Mylius (HAB, Planche XXVII, n° 6; Sil¬
+          <lb/>vestre, 626.)
+          <lb/>Argentorati! M. D. XLI.
+          <lb/>in-80, car, rom. et ital., 71 ff. non ch., sign.A-J, init. à fig. M, S, T.
+          <lb/>La marque typ. du titre se trouve aussi au verso du dernier f.
+          <lb/>Cd 100875. Prov.: L. Rosenthal, Munich, 14/VII. 1890, 6 M.
+          <lb/>Walter, N° 585: BM Sélestat; GPB III, 10885: Berlin, Munich,
+          <lb/>Vienne, Halle, Göttingen, Greifswald.
+          <lb/>47
+          <lb/>AMERBACH Vitus
+          <lb/>Strasbourg, Cr. Mylius, 1542.
+          <lb/>Viti Amer! bachii quatuor li- bri de Anima.
+          <lb/>Marque typ. de Mylius. (H&amp;amp; B, Planche XXVII, no 8).
+          <lb/>Cum gratia &amp;amp; priuilegio Imperiali &amp;amp; Regio.]Anno
+          <lb/>M. D.XLII.
+          <lb/>A la fin: Argentorati apvd Cra tonem Mylivm An.
+          <lb/>M. D. XLII.! Mense Septembri.
+          <lb/>in-80, car, rom. et ital., f. du titre — 325 pages ch. —37 ff. non
+          <lb/>ch. et 3 ff. blancs, sign. A-Z, a-b, titre courant, réclames, initiales à fig.
+          <lb/>S,D,A, H; au verso du dernier f. blane, marque typ. de Mylius.
+          <lb/>(H&amp;amp;B, Planche XXVIII, n° 11; Silvestre, No 1266.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

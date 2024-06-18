@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:13.571789+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3412.tif
+IMAGE WIDTH: 2412
+IMAGE HEIGHT: 3852
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>854
+          <lb/>Argentorati, Jacobus Cammerlander excudebat. An.
+          <lb/>M. D. xInj. (Rücks, leer.)
+          <lb/>Am Schluss: Argentorati excudebat Jacobus! Cammer¬
+          <lb/>lander Moguntinus. Anno M. D. XXXIIII. (Rücks, leer.)
+          <lb/>80, Antiq., 87 Bll., Kopft., Kust., Init. Am Schluss Druckerm.
+          <lb/>Cammerlanders. (H&amp;amp; B Tafel XXIV Nr. 1, Silvestre Nr. 816.)
+          <lb/>R101.3673. Prov.: Gymnasialbibl. Heilbronn 2. IV. 1878; gegen
+          <lb/>Tausch.
+          <lb/>1269
+          <lb/>JOSEPHUS Flavius
+          <lb/>Strassburg, Mich. Meyer u. B. Beck 1531
+          <lb/>JOsephus! Deutsch. (Druckerm. Becks. H a B Tafel XV Nr. 1.)
+          <lb/>Links von der Marke: Im Jar,, rechts : M. D. XXXI.
+          <lb/>Darunter: Mit nutzlichen Scholien vnd auszlegungen
+          <lb/>der schweren sententzen, Chaldeisch Hebreisch vnd Griechi
+          <lb/>schen. &amp;amp;c. wörter, dem Lateinischen vnnd Teütschen leszer
+          <lb/>hoch dienstlich, sampt der jarzal durch die ge- burten
+          <lb/>von Adam an bisz auff Christum, mit Catalogen der Rich¬
+          <lb/>ter, Künig, vnd Bischoffen, &amp;amp;c. alles leer hafftig on zanck
+          <lb/>vnd ordenlich. Darzû auch zwey Reiche Register, welche
+          <lb/>summa-ry des gantzen wercks in jnen begreiffen. Durch
+          <lb/>D. Caspar Hedion. Ausz Keiserlicher Freyheit, das solch
+          <lb/>Bûch in vier jaren nieman nach drucken soll, bey peen.
+          <lb/>x. marck golds, vnd verlierung der Bucher.
+          <lb/>Am Schluss vor dem Register: Gedruckt vnnd vollendt zû
+          <lb/>Straszburg durch Michael Meyer vnd Balthassar Beck,
+          <lb/>am! Holtzmarck, am xxiij. tag des Hornungs, in dem Jar
+          <lb/>der geburt Jhesu Christi vnsers Herren. M. D. XXXI.
+          <lb/>2°, Got., 18 unn., CCCLXXI num. Bll. (20 Bücher, Geschichte
+          <lb/>der Juden), 22 unn. Bll., 2sp. (Register); hiernach neuer Titel: F. Jo¬
+          <lb/>sephi vom Krieg der! Juden vnnd der Zerstörung! Hieru¬
+          <lb/>salem. VIl. Bücher... (10 unn. - CLII num. Bll.); neuer Titel:
+          <lb/>vom alten herkum men der Juden wider Appionem...
+          <lb/>(Bl. CLIV-CXC.); zuletzt 10 unn. Bll., 2sp. (Register); Kopft., Kust.,
+          <lb/>Marg., Init.
+          <lb/>Auf der Rücks. des Titelbl.: Innhalt dises gantzen wercks.
+          <lb/>Bl. 2a: ... dem Meister vnd Radtvnd den Ein vnd
+          <lb/>zwentzigen der freystatt Straszburg... — Geben zû Strasz¬
+          <lb/>burg den xiiij, tag des Hornungs. jm Jar M. D. XXXI....
+          <lb/>Caspar Hedio, Doctor im Münster. (Vorrede, 13 S.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

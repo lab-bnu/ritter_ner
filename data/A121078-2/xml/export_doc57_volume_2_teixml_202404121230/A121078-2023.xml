@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:26.919759+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2023.tif
+IMAGE WIDTH: 2386
+IMAGE HEIGHT: 3828
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>A la fin: Getruckt zû Straszburg bei M. Jacob! Cam¬
+          <lb/>merlander! Anno. M. D. XLviij. Au verso du dernier f.: marque
+          <lb/>typ. de Cammerlander (H &amp;amp; B, Planche XXIV NOI; Silvestre, N° 816):
+          <lb/>tiij. Begerih Martis
+          <lb/>19
+          <lb/>IE murt el diß brautsist gut tũ dem sohmergen
+          <lb/>Aoes baupts, dan der Diderist dae baus (artie,
+          <lb/>2 ii
+          <lb/>in-4°, car. goth., 4 ff. non ch. (titre et registre) — LXVIII ff. ch.;
+          <lb/>de nombreuses grav. (17 fœtus, beaucoup de plantes).
+          <lb/>1102287. Prov. : O. Weigel, Leipsic, 17/xI. 1888, 18 M.
+          <lb/>GPB II, 9796: BU Breslau. (Incomplet.)
+          <lb/>31
+          <lb/>ALBUCASI, Feldtbûch der Wund-Artzney, 1540. Voir: GERS¬
+          <lb/>DORF Hans, von.
+          <lb/>ALBUCASI, Chirvrgicorvm... lib, tres. Voir: OCTAVIANUS
+          <lb/>HORATIANUS, Rerum Medicarum lib. Quatuor.
+          <lb/>ALCHORAN. Voir: DIONYSIUS CARTHUSIANUS von Rickell.
+          <lb/>O
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

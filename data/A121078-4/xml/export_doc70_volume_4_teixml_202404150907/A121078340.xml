@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:52.698072+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078340.tif
+IMAGE WIDTH: 2332
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1226
+          <lb/>PONTUS ET SIDONIA
+          <lb/>Strasbourg, S. Bun 1539
+          <lb/>Evn rhûmreich zierlich, unnd fast frucht- bar Hi¬
+          <lb/>stori, von dem Edlen, Ehrn-reichen, unnd mannhafftigen
+          <lb/>RitterPonto, des Künigs sun ausz Galicia, Auch von
+          <lb/>der schönen Sidonia, küni gin ausz Britannia, geschmuckt
+          <lb/>mitgrosser zucht und schamm, auch höflichen sitten,
+          <lb/>hüpschen leeren, schönen ex-emplen und gleichnüssen,
+          <lb/>der Rittermässigen jugent, und Adlichen gemü¬ern fast
+          <lb/>dienstlich, darausz sie vil gûtter nutzlicher leer und un¬
+          <lb/>derweisung nemmen mögen, bei Fürsten und Herren sich
+          <lb/>rittermässig und höflich zuhalten.
+          <lb/>En caractères plus petits: Auch was trefflichen Ritterspils
+          <lb/>er getriben und wie er sein mannheyt gegen den Heyden
+          <lb/>geübt und bewisen, dardurch auch Britanniam und En¬
+          <lb/>gelland vor dem Soldan erhalten, und Galiciam sein
+          <lb/>vatterland wider erlediget hat, dannenher er zû letzt die
+          <lb/>schön Sidonia erworbenund in Künigkliche ehr und
+          <lb/>regierung gesatzt worden ist. Durch die hochgeborne
+          <lb/>fraw Heleonora, künigin ausz Schottenland, Ertzhertzogin
+          <lb/>zû Oestereich, ausz Frantzösischer zungen in das Teutsch
+          <lb/>bracht. (Grav. de l’éd, précédente. Verso blanc.)
+          <lb/>A la fin : Getruckt zû Straszburg bei Sigmund Bun,
+          <lb/>Und vollendet am ersten Tag des Mertzes, Im Jar M. D.
+          <lb/>XXXIX.
+          <lb/>In-fol., car. goth., 63 ff. non ch., sign. AL, init. goth. E, V,
+          <lb/>32 grav. dont plusieurs répétées, surtout celle du titre, en partie assez
+          <lb/>primitives; quelques-unes sont composées de deux bois; d’autres sont
+          <lb/>très bien exécutées; les bois sont pris de Gruninger: Hug Schapler
+          <lb/>1500 et 1508, quelques-uns admettent Heinrich Vogtherr comme auteur des
+          <lb/>gravures.
+          <lb/>R 10.041. Prov. : Trubner, Strasbourg 12/XI1 1884; 160M.
+          <lb/>Traduit du français par la duchesse Eleonore d’Autriche et donné
+          <lb/>à l&amp;#x27;impression après sa mort par son époux, l’archiduc Sigismond, chez
+          <lb/>Hans Schœnsperger à Augsbourg, qui la réimprima en 1485, 1491, 1498.
+          <lb/>A Strasbourg elle fut imprimée en 1509 par Martin Flach. Cf. Heitz
+          <lb/>&amp;amp; Ritter, Die deutschen Volksbücher, Strasbourg 1924, p. 140ff. Brunet
+          <lb/>IV2, 812.
+          <lb/>Bœr, Francfort-s.-M., Catal. 500 (1907), n° 1153; 40 M. : Mit
+          <lb/>31 fast halbseitigen Holzschnitten.
+          <lb/>1916
+          <lb/>POPPIUS Gothefr. Voir: CALAMINUS Georg n° 396.
+          <lb/>PORCIA Jacobus Comes Purlillarum. Voir: JACOBUS COMES
+          <lb/>PURLILLARUM
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

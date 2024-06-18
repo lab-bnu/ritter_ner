@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:30.151312+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2127.tif
+IMAGE WIDTH: 2310
+IMAGE HEIGHT: 3828
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>123
+          <lb/>BIRCK Sixte
+          <lb/>Strasbourg, 1586.
+          <lb/>Judith, Ein schöne Hi- story, in Spyls weisz für
+          <lb/>die Augen gestelt, Wie man in Kriegsleüffen, be- sonders
+          <lb/>so man von wegen der ehr Gottes ange-fochten würt,
+          <lb/>vmb hêlff zu Gott dem! Herren flehend râffen soll.
+          <lb/>Gravure sur bois: Judith devant le lit de Holopherne, auquel elle
+          <lb/>vient de couper la tête, qu’elle tient dans sa main gauche, dans sa main.
+          <lb/>droite elle tient le glaive, elle parle à une femme de sa suite, qui tient
+          <lb/>un sac ouvert pour y recevoir la tête, au fond une ville.
+          <lb/>Durch Xystum Betuleium, Augustanum.
+          <lb/>A la fin: Gedruckt zû Strasz-burg jm Jahr M. D.
+          <lb/>LXXXVI. (Verso blanc)
+          <lb/>In-8°, car. goth., 64 ff. non ch., sign. A-H, verso du dernier f.
+          <lb/>blanc, réclames.
+          <lb/>Au verso du titre: Die Nammee der Personen in diser
+          <lb/>Tragedi.
+          <lb/>Fol. A 24: An ein Junge Bur-grschafft. (24 distiques.)
+          <lb/>Fol. A 3a: Vorrede diser Tragedi, (20 distiques.)
+          <lb/>R100.217. Prov.: Don de Babette Bordérieux, Sélestat; 1871.
+          <lb/>Au bas du titre: Daniel Widenman.
+          <lb/>206
+          <lb/>BLONY (Nicolaus de). Voir: NICOLAUS DE BLONY.
+          <lb/>BLUTHANDEL Geistlicher, Voir: HUTTEN Ulr., 1525.
+          <lb/>BOCATIUS seu Boccasius. Voir: BOCCACCIO.
+          <lb/>BOCCACCIO Giovanni
+          <lb/>Strasbourg, J. Grüninger, 1519.
+          <lb/>Cento NouellaHundert neuwer Historien die in
+          <lb/>einem grossen sterben zu florentz gesagt wurden, von
+          <lb/>etlichen kürtzweiligen menschen die da vsz der stat hin
+          <lb/>vff das land fluhen ir leben zû erretten vnd da ir ordnung
+          <lb/>machten ein küng vnder in der zû gebieten het was zû
+          <lb/>fröden dient, vnd ist wol beglimpfet.
+          <lb/>Au-dessous, gravure sur bois: au fond une ville au bord de la mer,
+          <lb/>au premier plan une campagne avec une société de 3 jeunes gens et de
+          <lb/>8 jeunes femmes, qui s’entretiennent. (Verso blanc.)
+          <lb/>A la fin: Getruckt vnd loblichen volendet in der kei¬
+          <lb/>serlichen stat Straszburg, an vnser lieben! frawen abent
+          <lb/>der verkündung Durch Jo! hannem grüninger. Jm iar Fünff¬
+          <lb/>zehen-hundert vnd Nünzehen.
+          <lb/>In-fol., car. goth., COXXXVI ff. ch. à deux colonnes, titre cou¬
+          <lb/>rant, de nombreuses petites initiales ornées. Chaque chapitre est précédé
+          <lb/>d’une gravure, en tout 176, mais beaucoup reviennent plusieurs fois, de
+          <lb/>sorte qu’il n’y a que 82 différentes. L’exemplaire de Berlin, que Schmidt
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

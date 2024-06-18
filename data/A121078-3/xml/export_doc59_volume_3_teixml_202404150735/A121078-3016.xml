@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:05.005028+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3016.tif
+IMAGE WIDTH: 2360
+IMAGE HEIGHT: 3840
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>460
+          <lb/>Die Abwveichung des Datums am Schlusse von demjenigen des Titel¬
+          <lb/>blattes ist schaver su erklären. Schmidt II, Nr. 25 ist der Ansicht, dass
+          <lb/>das Datum des Explieit von dem Neudruck 1514, den er in Nr. 28 an¬
+          <lb/>führt, entnommen ist; er kann sich jedoch auch nicht erklären, vie dieses
+          <lb/>Datum sich am Schlusse einer Ausgabe befinden kann, die im Oktober
+          <lb/>oder November 1513 erschienen sein muss, da die Vorrede vom 14. Oktober
+          <lb/>1513 datiert ist.
+          <lb/>Auf der Rückseite des Titelbl.: IOANNES SCHOTTVS pressor
+          <lb/>Argentinensis, humanitatis! studio vacantibus S. D.... — Ex
+          <lb/>Argenti- na. 14. Octobris. Anno Christi opt. max. M. D. XIII.
+          <lb/>R101.606. Prov.: H-B München 28/xII. 1883.
+          <lb/>Schmidt II, Nr. 25 nach seinem persönlichen Ex. GK: UB Breslau.
+          <lb/>685
+          <lb/>ENEAS Silvius. Siche: PIUS II
+          <lb/>ENGELBRECHT Philippus
+          <lb/>Strassburg, J. Schott, 1515
+          <lb/>Friburgica PHILIPPI ENGELBRECHTEngentini: floren¬
+          <lb/>tissimae urbis FRI BVRGI apud Brisgoicos, descriptionem
+          <lb/>complectens. ad Hieronymum Huszer Plu- denti- num.
+          <lb/>Ioannes Zuick Constantinus ad Lectorem. (Distiche.)
+          <lb/>Ioannes Schottus Argen.pressit.155
+          <lb/>40, Antig., 10 unn. Bll., 1 leeres Bl., Sign. a-b, Kopftitel.
+          <lb/>Auf der Rückseite des Titelbl.: Clarissimis almae academiae
+          <lb/>Friburgensis Recto ri... Philippus Engelbreht Engentinus
+          <lb/>SPD.... — Friburgi Nonis Martijs, Anno a partu virgineo.
+          <lb/>M. D. XV.
+          <lb/>R102.121. Prov.: Bibl. Böcking.
+          <lb/>Stadt-B Strassburg 694. Schmidt II. Nr. 33. GK. SB Berlin.
+          <lb/>Bibliographie des Ph. Engelbrecht: Schottenloher I, Nr. 5439-5440.
+          <lb/>686
+          <lb/>ENGELHARD Joseph
+          <lb/>Strassburg, A. Bertram, 1599
+          <lb/>DISPVTATIO DE COMMODATO, QVA VIS ET NATURA
+          <lb/>HVIVS! Contractus &amp;amp; actionis breui methodo ! explicatur:
+          <lb/>Proposita ANNIVERSARII EXERCITII Loco in inclyta Argen¬
+          <lb/>toratensium Academia à GEORGIO OBRECHTO LL. Pro¬
+          <lb/>fessore: Respondebit M. Josephus Engelhardus Eppin¬
+          <lb/>gensis.
+          <lb/>Druckermarke Bertrams. (H C B. Tafel IV, Nr. 2; Silvestre
+          <lb/>Nr. 1022.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

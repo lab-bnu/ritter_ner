@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:09.006194+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3224.tif
+IMAGE WIDTH: 2328
+IMAGE HEIGHT: 3854
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>668
+          <lb/>von den früchten des wolsterbens. Angeschriben von
+          <lb/>einer ersamen iunckfrawen vnd die erbe! ten das sie
+          <lb/>sollchs in den druck gelasen hat, in hoffnung zù gût allen
+          <lb/>menschen.
+          <lb/>Holeschn.: Oben, auf der Spitze eines Berges, der auferstandene
+          <lb/>Heiland; unten, Landschaft mit Bäumen u. einer Stadt; vorn, die drei
+          <lb/>Marien mit Balsamgefässen auf dem Arme, in der Nähe des Grabes,
+          <lb/>das man jedoch nicht sieht.
+          <lb/>Am Schluss: Seliglich geendet vnd getruckt von Jo¬
+          <lb/>hannes Grieninger in der keiserlichen statt Straszburg
+          <lb/>auff mit fasten im iar! 1520. (Rücks, leer.)
+          <lb/>26, Got., 2sp. LX Bll. (Paginationsfehler), Kopft., Init., 5 Holeschn.
+          <lb/>ausser dem Titelholzschn,, alle früheren Werken entlehnt. Bl. 34a (Mess-
+          <lb/>opfer: Wandlung) mit Monogr. Baldung Griens aus,Sünden des
+          <lb/>Munds&amp;quot;.
+          <lb/>*R10.126. Prov.: Trübner, Strassburg 11. 1. 1891; 38 M.
+          <lb/>Dacheux, Geiler S. CLXIV, Kristeller 102; Proctor II Sectio I
+          <lb/>Nr. 9954: London Brit. Museum; Schmidt I Nr. 170: Berlin und
+          <lb/>983
+          <lb/>sein Ex. GK: SB Berlin, UB Berlin, Münster.
+          <lb/>GEILER Johannes
+          <lb/>Strassburg, Joh. Grüninger 1521
+          <lb/>Das buoch! Arbore humana Von dem menschlichen
+          <lb/>baum, Geprediget von dem hochge- lerten Doctor Johan¬
+          <lb/>nes Key sersperg, darin geschick- lich vnd in gottes lob
+          <lb/>zû lernen ist, des holtzmey! ers des dotz, frölich
+          <lb/>warten, Einem veden menschen nutz vnd gut. ! etc.
+          <lb/>(Rücks. leer.)
+          <lb/>Am Schluss: Datum in dem iar M. D. Xx. Vff sant
+          <lb/>Gregorien tag ge- truckt z6 Straszburg von Johan! ne
+          <lb/>grieninger mit Keyserlich-er Maiestat, Priuilegien, daz
+          <lb/>bei pen lut des origi- nals in fyer iaren nie mans nach
+          <lb/>soll trucken. (Rücks. leer.)
+          <lb/>20, Got., 2sp., CLXXXVI Bll. (fehlerhafte Pagination), Kopft.,
+          <lb/>Init., Titelumrahmung (Blätterwerk u. Arabesken), 6 Holeschn.: Toten¬
+          <lb/>tanzszenen, von denen 4 der lat. Ausg. von 1515 entnommen sind,
+          <lb/>Holeschn. der Auferstehung Bl. LII mit Monogr. (Siche Muther I, 217.)
+          <lb/>Bl. VIIa: Da man zalte nach der ge burt vnsers
+          <lb/>herren Ihesu cristi fierhun- dert nüntzig vnd fünff iar,
+          <lb/>vff der herren fastnacht, was der erste tag des Mertzen.
+          <lb/>Fieng an der gotzförchtig wirdig doctor Johannes Geiler,
+          <lb/>genant Keisersperger, in dem loblichen hohen stifft zû
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

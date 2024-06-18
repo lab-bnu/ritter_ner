@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:04.484229+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002113.tif
+IMAGE WIDTH: 2506
+IMAGE HEIGHT: 3988
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>eiusdem... — (Strasbourg, Mathias Schürer juillet 1512),
+          <lb/>in-4°.
+          <lb/>Panzer 6, 56, 257 ; Schmidt VIII, n° 78 : Colmar, Bibl. du
+          <lb/>Consistoire. Communication de M. Rest : B U Fribourg-en-Br.
+          <lb/>D 5977.
+          <lb/>1340
+          <lb/>CICERO (De amicitia) : De amicitia. De senectute.
+          <lb/>Paradoxa. T. O. — (Strasbourg, Mathias Schürer mai
+          <lb/>1515), in-4°.
+          <lb/>Panzer 6, 76, 416; Schmidt VIII, n° 156: B U Bâle. 1341
+          <lb/>CICERO (De amicitia) : (Idem). — Strasbourg, Mathias
+          <lb/>Schürer août 1516, in-40.
+          <lb/>B U Fribourg-en-Br. : D 5977m. (Communication de M. Rest);
+          <lb/>Schmidt VIII, n° 192 : B M Colmar; Panzer 6, 81, 458.
+          <lb/>1342
+          <lb/>CICERO (De amicitia) : (Idem). — (Haguenau, Thomas
+          <lb/>Anshelm octobre 1519), in-40.
+          <lb/>B U Fribourg-en-Br. : D 5977r (Communication de M. Rest);
+          <lb/>Burg, no 143.
+          <lb/>1343
+          <lb/>CICERO (De amicitia): (Idem). — (Strasbourg, Jean Knobloch
+          <lb/>et Paul Götz, novembre 1520), in-4°.
+          <lb/>B U Fribourg-en-Br. : D 5978 (Communication de M. Rest);
+          <lb/>Schmidt VII, n° 203 : Bibl. Cantonale Aarau; Panzer 6, 93,
+          <lb/>567.
+          <lb/>1344
+          <lb/>CICERO (De amicitia) (Idem). — Strasbourg, Mathias Schürer,
+          <lb/>juin 1521, in-8°.
+          <lb/>B U Fribourg-en-Br. : D 5978P (Communication de M. Rest).
+          <lb/>1345
+          <lb/>CICERO (De amicitia) : (Idem). — (Strasbourg, Jean Knobloch
+          <lb/>et Paul Gœtz, septembre 1522), in-8°.
+          <lb/>Panzer, 6, 99, 622; Schmidt VII, n° 242 : B M Mayence;
+          <lb/>Weislinger, Catal. 70.
+          <lb/>1346
+          <lb/>111
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

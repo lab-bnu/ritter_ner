@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:36.350109+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2331.tif
+IMAGE WIDTH: 2320
+IMAGE HEIGHT: 3816
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>327
+          <lb/>Au verso du titre: PHILIPPVS ENGENTINVS HO) spes Secerij
+          <lb/>in Vandalos. (11 distiques en car. ital.)
+          <lb/>fol. 2-4: ARGVMENTVM QVID CONFE RAT LECTIO LIBRO
+          <lb/>RVM DE OFFICHS: PHIL. MELAN.... (en car, ital.)
+          <lb/>R 102.233(2). Prov. : B N Munich, 9/III. 1878, 0.50 M. Notes
+          <lb/>mss. Rel, anc.
+          <lb/>499
+          <lb/>CICERO
+          <lb/>Haguenau, J. Secer, 1525.
+          <lb/>M. CICERO NIS DE ORATORE DIA LOGI TRES, A PHIL.
+          <lb/>MELAN.passim notis quibusdam illustrati, unà cum
+          <lb/>Scholijs in fronte adiectis,! quibus loci obscuriores! ex¬
+          <lb/>plicantur.
+          <lb/>Haganoae excudebat lohan. Secer.Anno. M. D. XXV.
+          <lb/>(Verso blanc.)
+          <lb/>A la fin: Haganoae, excudebat Iohan. Secer. Anno
+          <lb/>M. D. XVII.
+          <lb/>Au-dessous; marque typ. de J. Secer (H eè B, Planche LXX.
+          <lb/>n° 7; Silvestre, N° 683.)
+          <lb/>In-8u, car. ital., 8 ff. non ch.— 163 ff. ch. — 1 f. non ch. (verso
+          <lb/>blanc.), titre courant, réclames au verso des ff., notes marginales, initia¬
+          <lb/>les à fig. P, M, I.
+          <lb/>fol. 2a non ch: Argvmen vm Phil. Mel. [anchthonis).
+          <lb/>R101.668. Prov.: L. Rosenthal, Munich, 17/II. 1897; 6M.
+          <lb/>Notes mss.; fol. 1 chiffré qui manquait, a été complété à la main,
+          <lb/>BN Paris, 8 X. 11583(1).
+          <lb/>500
+          <lb/>CICERO
+          <lb/>Strasbourg, J. Cammerlander, [vers 15301l.
+          <lb/>FINES BONORVM ET! MALORVM M. T. C. [Ciceronis).
+          <lb/>Von der alten Phi- losophen Seligkait. Paradoxa
+          <lb/>sechsz, sampt ihrer probierung vnd schlussreden von der
+          <lb/>Seligkait... (5 lignes.) Item ein schöner Dialogus desz spöt¬
+          <lb/>tischen! Luciani. Vom todten Schiflein, da wir all vn! ser
+          <lb/>hab vnd gut müssen dahinden lassen, soll vns der Cha¬
+          <lb/>ron vberfuren zum garten der Seligen.
+          <lb/>Leiplicher lust, weltliche ehr,
+          <lb/>Auch zeitlich gût, sag ich dir mer,
+          <lb/>Halten das wort nit in der hut,
+          <lb/>Sie fürent vns in ewig glut.
+          <lb/>Alles lustig vnd kurtzweilig zû lesen. (Verso blanc.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

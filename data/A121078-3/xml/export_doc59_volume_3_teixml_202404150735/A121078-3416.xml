@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:13.797524+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3416.tif
+IMAGE WIDTH: 2416
+IMAGE HEIGHT: 3852
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>858
+          <lb/>ARGENTORATI, ANNO SALVTIS: M. D. L. I MENSE IVLIO.
+          <lb/>(Rücks. leèr).
+          <lb/>Am Schluss: ARGENTORATI in aedibus lacobi Ju- cundi,
+          <lb/>Anno, M. D. L.
+          <lb/>80, Kursiv, 8 unn. Bll., 219 S., 1 leeres Bl., Kopft., Kust., Init.
+          <lb/>Bl. a 2a:... FRIDE- richo, Iacobo, &amp;amp; Petro Sturmijs
+          <lb/>fratribus, Reip. Argent. Sena- toribus... — Dauid Kybe¬
+          <lb/>rus. Argent. (Epheubl.; Widmung von 13 S.)
+          <lb/>R101.483. Prov.: J. Halle, München 27. 11.1895, 8 M. Handschr.
+          <lb/>Eintragung: Jos. Schuler, und Exlibris, Domini Joannis Philippi Ep.
+          <lb/>Princ. Herbipolensis&amp;quot;, gezeichnet: ¿Jo. Salver fec. Herbip.&amp;quot;
+          <lb/>1274
+          <lb/>JOSEPHUS Flavius
+          <lb/>Strassburg, Samuel Emmel 1553
+          <lb/>Flauuij Jo- sephi des Hochberuempten! Histori be¬
+          <lb/>schreibers alle Bücher, Nämlich zwentzig! von den Alten
+          <lb/>geschichten der Juden. Syben vom Jüdischen krieg,! vnd
+          <lb/>Zerstörung Hierusalem. Zwey wider Appionem Grammati¬
+          <lb/>cum vom Alten Herkummen der Juden. Eins von Mey¬
+          <lb/>sterschafft vnd der vernunfft vnd der Ma-chabeer Mar¬
+          <lb/>tyrung. Item Beschreibung des lebens Flauuij Iosephi,
+          <lb/>so vormals in Teütscher Spraach nicht auszgangen ist.
+          <lb/>AllesDurch D. Caspar Hedion verteütscht. Vnd jetz¬
+          <lb/>undt Von neüwem auffs fleyssigst nach den Alten Grie¬
+          <lb/>chischen Exemplaren restituiert, vnd an vilen or- ten
+          <lb/>trefflich gebessert vnd gemehret.Mit Kayserlicher frey¬
+          <lb/>heit auff zehen Jar.
+          <lb/>Getruckt zû Straszburg.! M. D. LIII. (2 Epheublätter.)
+          <lb/>Am Schluss vor dem Register: End der Bücher Flauuii Jo¬
+          <lb/>sephi... Anno M. D. LIII. Hinter dem Register: Getruckt zû
+          <lb/>Straszburg bey Samuel Emmel M. D. LIII.
+          <lb/>20, Got., 12 unn., CCCLXXXVI num., 18 unn. Bll. (20 Bücher
+          <lb/>Geschichte der Juden); 12 unn., CLXXXIII num. u. 8 unn. Bll. für
+          <lb/>die übrigen Bücher; Kopft., Kust., Marg., Init., Titel rot u. schwara.
+          <lb/>Auf der Rücks. des Titelbl.: Der Bûchtrucker an den Christ¬
+          <lb/>lichen Leser. Es wird darin mitgeteilt, dass Caspar Hedio während
+          <lb/>des Druckes, am 17. Oktober 1552 gestorben ist u. dass sein Sohn Euse¬
+          <lb/>bius Hedion die Arbeit für ihn weiter führt.
+          <lb/>Vorreden der früheren Ausgaben.
+          <lb/>Bl. CLXXIIIa des 2. Teiles: Flauuij Josephi: von meyster¬
+          <lb/>schafft der vernunfft, ein fast Edels bûch, da-rinn der
+          <lb/>Machabeer marter auszgestrichen vnd abgemalet würt.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:37.418024+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu074.tif
+IMAGE WIDTH: 2384
+IMAGE HEIGHT: 3840
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>GUIDO DE MONTE ROTHERII: Manipulus curatorum, Stras¬
+          <lb/>bourg, (Mart. Flach), 10 mai 1487, in-4°.
+          <lb/>Hain 8194, Madsen 1842, Proctor 671, Voullième: Berlin 2478, 5.
+          <lb/>K 1835. Prov.: B N Munich, 16. XII. 1879, 1 M. Annotations
+          <lb/>mss. à l’encre rouge, à la marge des pages.
+          <lb/>202
+          <lb/>GUIDO DE MONTE ROTHERH: Manipulus curatorum, Stras¬
+          <lb/>bourg, (Mart. Flach), 9 février 1489, in-4°.
+          <lb/>Hain 8197, Proctor 680, Schmidt V, 20, Voullième: Berlin 2483.
+          <lb/>K1836. Prov.: BN Munich, 16. XHI. 1879, 0,50 M.
+          <lb/>203
+          <lb/>GUIDO DE MONTE ROTHERII: Manipulus curatorum, Stras¬
+          <lb/>bourg (imprimeur du Jordanus (— G. Husner)), 29 no¬
+          <lb/>vembre 1490.
+          <lb/>Hain 8199, Proctor 658, Voulliéme: Berlin 2441.
+          <lb/>K 1837. ProV.: B N Munich, 16. XII. 1879, 1 M. Au-dessus
+          <lb/>du titre: «Sum ex Libris Con. Hartmanni Th. 1652». A l’in¬
+          <lb/>térieur du 1er plat: Exlibris, au-dessous: «Ex Electorali
+          <lb/>Bibliotheca Sereniss. utriusque Bavariae Ducum». Au recto
+          <lb/>du dernier f. en bas: «Heinricus Aaltenndorffer de Sedems¬
+          <lb/>pach (?) vicarius in Haslach anno 1527. Michaël Lörch junior
+          <lb/>Passauiae Capellanus in Nidernburg Pasauiae 1594. Conradus
+          <lb/>Hartmannus Passauiensis 1599.»
+          <lb/>204
+          <lb/>GUIDO DE MONTE ROTHERH: Manipulus curatorum, Stras¬
+          <lb/>bourg (imprimeur du Jordanus (— G. Husner)), 1493,
+          <lb/>in-4.
+          <lb/>Hain 8205, Pellechet: Colmar 708, Voulliéme: Berlin 2495, 7.
+          <lb/>K 1840. Prov.: B. N. Munich, 16. XII. 1879, 1 M. Au verso
+          <lb/>du f. de garde; «Wolfgangus Bücheler».
+          <lb/>205
+          <lb/>GUIDO DE MONTE ROTHERII: Manipulus curatorum. Stras¬
+          <lb/>bourg, (Mart. Flach), 1499, in-4°.
+          <lb/>Hain 8212, Madsen 1846, Proctor 715, Voulliéme: Berlin
+          <lb/>2509,8.
+          <lb/>K 1841. Prov.: Don de Fid. Butsch fils, Augsbourg, 1872.
+          <lb/>Rel. anc.
+          <lb/>206
+          <lb/>44
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

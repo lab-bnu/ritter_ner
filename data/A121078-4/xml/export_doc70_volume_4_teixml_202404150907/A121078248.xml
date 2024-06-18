@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:49.556840+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078248.tif
+IMAGE WIDTH: 2304
+IMAGE HEIGHT: 3844
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1134
+          <lb/>oecumenicis, EPITOME, EX PRAECIPVIS SCRI] ptoribus eccle¬
+          <lb/>siasticis collecta, stu-dio &amp;amp; opera IOHANNIS PAPPI Docto¬
+          <lb/>ris Theologi. Cum Indicibus Rerum &amp;amp;̀ Persona-! rum
+          <lb/>memorabilium. (Marque typ. de B. Jobin. H &amp;amp; B Planche XXXVIII
+          <lb/>no 8.)
+          <lb/>Argentorati per Bernhardum Iobinum.Anno 1584.
+          <lb/>(Verso blanc.)
+          <lb/>In-8°, car, rom., 8 ff. non ch., 370 pp., 21 ff. non ch. à 2 col.
+          <lb/>(table), titre courant, réclames, init. ornées V, E, C.
+          <lb/>Fol. 2a non ch.: ... Domino D. Georgio! Gustavo, Comiti Palatino
+          <lb/>Rhe- ni, Duci Bavariae... — Argentorati, Calend. Aprilis, anno Do¬
+          <lb/>mini... 1584. Iohannes Pappus. (Préface de 7 pp.) Bande ornem.
+          <lb/>Fol, 5b non ch.: Lectori Candi- do... (6 pp.) Bande ornem.
+          <lb/>R 101481. Prov. : Lindner, Strasbourg (Vente Stœber n° 446)
+          <lb/>27/11 1891; 2 M. Notes mss.
+          <lb/>1757
+          <lb/>Oxford, Ribl. Bodleiana.
+          <lb/>PAPPUS Johannes
+          <lb/>Strasbourg, A. Bertram 1586
+          <lb/>DE MONARCHIIS, sive quatuor summis Imperiis.! CA¬
+          <lb/>PITA DISPVTA- TIONIS PVBLICAE, PROPOSITA  IN SCHOLIS THEO¬
+          <lb/>LOGORVM ACA- demiae argentoratensis, A! IOHANNE PAPPO
+          <lb/>DOCTORE ] theologo.Respondebit, Christo Servatore iu¬
+          <lb/>vante, 7 &amp;amp; 14. Mai. M. TOBIAS SPECCERVS ARGEN- tora¬
+          <lb/>tensis. (Marque typ. d’Ant. Bertram. H 4 B Planche XLIV n° 1;
+          <lb/>Silvestre n° 1023.)
+          <lb/>ARGENTORATI Excudebat Antonius Bertramus. M. D.
+          <lb/>LXXXVI. (Verso blanc.)
+          <lb/>In-4°, car. ital., 8 ff. non ch. dont le dernier blanc, sign. A-B,
+          <lb/>réclames, init. ornée M; à la fin vign.
+          <lb/>R101.127. Prov. : Bibl, paroissiale de la ville de Schleiz ?/VI
+          <lb/>1876.
+          <lb/>1758
+          <lb/>PAPPUS Johannes
+          <lb/>Strasbourg, Ch. Kieffer 1588
+          <lb/>DE LITERA ET SPIRITV,] THEMATA DISPVTATIONIS] THEO¬
+          <lb/>LOGICAE: PROPO-SITA A IOHANNE PAPPO doctore. Respon¬
+          <lb/>debit de his, CHRiSTo Servatore iuvante, MAG. AMBROSIVS
+          <lb/>SpEC( cerus Argentinensis, viI. De- cembris. (Vign.)
+          <lb/>Argentorati Typis Caroli Kiefferi, 1588. (Verso blanc.)
+          <lb/>In-4°, car. ital., 8 ff. non ch., sign. AB, réclames, init. ornée T,
+          <lb/>titre encadré de 2 lignes, entre lesquelles se trouvent des ornements.
+          <lb/>R 101.866. Prov. inconnue.
+          <lb/>1759
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

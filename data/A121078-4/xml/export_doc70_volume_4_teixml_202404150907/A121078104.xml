@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:45.455425+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078104.tif
+IMAGE WIDTH: 2318
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>990
+          <lb/>MARULLUS Michael
+          <lb/>Strasbourg, M. Schurer 1509
+          <lb/>Beati Rhenani Helvetensis Ad Lectorem Paraenesis.
+          <lb/>MICHAELIS TARCHANIO TAE MARVLLI CON STANTINOPOLI TANI
+          <lb/>EPI GRAMMATA! ET] HYMNI.
+          <lb/>A la fin: Argentoraci in aedibus Matthiae Schürerii
+          <lb/>Artium doctoris Iulio Mense. An. M. D. VIIII. REGNANTE
+          <lb/>IMP. CAES. MAXIMILIANO P. F. AVG. PO PVLIQVE LIBE RATORE.
+          <lb/>In-4°, car. rom., 78 ff. non ch., sign. a–o, au verso du dernier f.:
+          <lb/>marque typ. de Matth. Schurer. (H e B Planche XII n° 1; Silvestre
+          <lb/>n° 1237.) Au verso du titre: Beati Rhenani ad lectorem Taogivscie...
+          <lb/>M. D. VIII.
+          <lb/>R101.019. Prov.: Trubner, Strasbourg I0/VI 1887; 8M.
+          <lb/>n° 22.
+          <lb/>BM Strasbourg, BN Paris, Rés, m. Ye 891 (1) ; Schmidt VII
+          <lb/>1496
+          <lb/>MASSARIUS Hieronymus
+          <lb/>Strasbourg, P. Messerschmidt 1564
+          <lb/>HIPPOCRATIS! DE NATV! RA HOMINIS LI! ber Latine ver¬
+          <lb/>sus: Paraphrasi ex- plicatus. Ab Hieronymo Mas¬
+          <lb/>sario Vincentino Me dico, Professore scho- lae Argenti¬
+          <lb/>nensis. (Feuille de trèfle.)
+          <lb/>ARGENTORATI EX OFFICI na Pauli Machæropœi, Anno
+          <lb/>M. D. LXIIII. (Verso blanc.)
+          <lb/>A la fin: ARGENTORATI EXCVDEBAT Paulus Machæro¬
+          <lb/>pœus. M. D. LXHII.
+          <lb/>In-80, car, rom. et grecs, 64 ff. non ch., dont le dernier blanc,
+          <lb/>sign. A-H, titre courant, réclames, init. ornées.
+          <lb/>Fol. A 2a : Nobilissimis... viris D. Henrico à Milheym : Carolo
+          <lb/>Miegio: Friderico Gottesheymio, scho! lae Argentinensis Praefectis...
+          <lb/>Hieronymus Mas-] sarius... Argentorati Anno salu- tis M. D. LXIIII.
+          <lb/>Mense Augu! sto. (Epistola nuncupatoria, 9 pp.)
+          <lb/>Fol. A 6b : Praefatio... (4 pp.)
+          <lb/>R101.875 (1). Prov.: Ancienne Faculté de médecine de Strasbourg;
+          <lb/>à l’intérieur de la couverture, ex-libris, au-dessous: « Johannes Bœclerus
+          <lb/>Phil. atque Med : Dr Chym. : Botan: reliquaeque Mater : Med. Prof: Publ.
+          <lb/>Ord.»
+          <lb/>Une feuille détachée contient l’annotat, ms. suivante: « Hieronimus
+          <lb/>Massarius natione Italus fuit: Patria Vicentinus. Professus Physicam et
+          <lb/>Medicinam. In lingua hebrœa probè versatus. In Collegio Thomano sub¬
+          <lb/>missarius. Vanitatibus mundi relictis transiit ad domicilium beatorum anno
+          <lb/>1564 die 1 Augusti, peste infectus. Joh. Sturmius (rector Academiae) C. 1
+          <lb/>epistolarum dat illi testimonium hominis docti et medici literati.
+          <lb/>Cf. appendicem Chronologicon ad Melchior Sebizii Dr et Prof. Medici
+          <lb/>ord., ... orationem saecularem habitam anno 1638 jubilaeo scholarum Ar¬
+          <lb/>gentinensium.»
+          <lb/>1497
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

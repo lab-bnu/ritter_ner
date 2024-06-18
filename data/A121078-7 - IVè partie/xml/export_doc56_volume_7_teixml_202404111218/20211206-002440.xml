@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:12.826013+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002440.tif
+IMAGE WIDTH: 2500
+IMAGE HEIGHT: 3966
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>REFORMATION : des geistlichen, unnd weltlichen stands,
+          <lb/>durch keyser Sigismunden... fürgenummen, unnd doch
+          <lb/>ausz ursachenn, wie auff dysenn tag verhindert. —
+          <lb/>(Strasbourg, 20 décembre 1520), in-40.
+          <lb/>Ritter: B M Strasbourg, n° 1787, Grand Sém. Strasbourg,
+          <lb/>n° 411; B M Colmar; Kuczynski 2218; Benziz : Schürer 5.
+          <lb/>3080
+          <lb/>REGIMEN sanitatis : Excellentissimi Magnini Mediolanensis
+          <lb/>Medici famosissimi Regimen sanitatis. — (Strasbourg,
+          <lb/>Jean Prüss 1503), in-4°.
+          <lb/>Schmidt III, n° 41; Choulant; Handbuch, p. 270. [Une éd.
+          <lb/>de Hupfuff 1506 et une de 1513 : Ritter, Rép., nos 1980/1).
+          <lb/>3081
+          <lb/>REGIMENT : Hje... vindest du Ein gut regiment für dye
+          <lb/>Pestilentz... — (Strasbourg, Math. Hupfuff 1502), in-4°.
+          <lb/>Graesse VI, p. 64 : « Ce n’est pas le même livre que celui en
+          <lb/>vers intitulé : Ein tractat contra pestem Praeservative und
+          <lb/>Regiment, Strasbourg, Barth. Kistler 1500, in-4° ». Schmidt V,
+          <lb/>n° 20; Weller, Rep. 217. — B U Fribourg-en-Br.
+          <lb/>3082
+          <lb/>REGIMENT : Kurtz Regiment für das grausam Hauptweh
+          <lb/>und Breune für die Gemein und armes heuflin hin und
+          <lb/>wider im Wasgau und Westerreich. — Strasbourg,
+          <lb/>Georges Messerschmidt 1544.
+          <lb/>3083
+          <lb/>Ritter, Hist. impr. p. 214.
+          <lb/>3083
+          <lb/>REGIOMONTANUS, Johannes : Des weltberümten M. Johannen
+          <lb/>Künigspergers Natürlicher kunst d’Astronomei, kurtzer
+          <lb/>begriff. Von natürlichen influss der gestirn, Planeten
+          <lb/>und Zeychen... Auffs kürtzest in xxxvii. Artikel verfasst...
+          <lb/>— Strasbourg, Christian Egenolph 1528, in-4°.
+          <lb/>Zinner 1365, ne pense pas que l’ouvrage soit de Regiomon¬
+          <lb/>tanus, quoiqu’il y figure comme auteur, Benzing : Egenolff,
+          <lb/>n° 3; Hohenemser Flugschriften G. Freitag, n° 60. B M
+          <lb/>Francfort-s.-M.
+          <lb/>3084
+          <lb/>REGIOMONTANUS, Johannes : Natürlicher kunst der Astro¬
+          <lb/>438
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

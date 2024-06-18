@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:09.748870+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3252.tif
+IMAGE WIDTH: 2340
+IMAGE HEIGHT: 3858
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>696
+          <lb/>GRASECCIUS Paulus
+          <lb/>Strassburg, A. Bertram 1591
+          <lb/>DISPVTATIO! DE OBLIGATIONIBVS ] IN GENERE EARVMOVE
+          <lb/>SPE- (CIEBVS NATVRA ET CAVSIS. Quam DIVINA FAVENTE
+          <lb/>GRATIA, L PRAESIDE AVTHORE, PAVLO GRASECCIO I. V. D.
+          <lb/>&amp;amp; Professore in inclyta Argentoratensium Academia, pu¬
+          <lb/>blicè exercitij gratia, ad XX. Martij hora &amp;amp; loco con¬
+          <lb/>suetispro ingenij tenuitate defendendam suscepit.
+          <lb/>M. ANDREAS BAYER, Stutgardianus. (Druckerm. Bertrams. HEB
+          <lb/>Tafel XLV Nr. 1; Silvestre Nr. 1023.)
+          <lb/>ARGENTORATI excudebat Antonius Bertramus, Anno
+          <lb/>M. D. XCI. (Rücks, leer.)
+          <lb/>4°, Kursiv, 14 unn. Bll., Sign. A-D, Kust., Init., Schlussvign.
+          <lb/>R 10.550. Herkunft unbekannt.
+          <lb/>1026
+          <lb/>GRASECCIUS Paulus
+          <lb/>Strassburg, A. Bertram 1591
+          <lb/>THESES DE VERBORVM OBLIGATIONE SIVE! DE STIPV¬
+          <lb/>LATIONIBVS, PRI- mum in genere. deinde DE FIDEIVSSORIA
+          <lb/>STIPVLA- tione in specie. Quas Auspice Christo PRAESIDE
+          <lb/>clarissimo viro d. PAV- LO GRASECCIO L. V. D. ET PROFES¬
+          <lb/>SORE in inclyta Argentoratensium Academia ordinario,
+          <lb/>mense lunio, exercitij causa, pro ingenij sui tenuitate,
+          <lb/>defendere cona- bitur. IOHANNES DINLINGIVS IGLAVIENSIS
+          <lb/>Morauus. (Vign.)
+          <lb/>ARGENTORATI, Excudebat Antonius Bertramus M. D.
+          <lb/>XCI. (Rûcks, leer.)
+          <lb/>40, Kursiv, 10 unn. Bll. (letztes Bl. leer), Sign. A-B, Kust., Init.
+          <lb/>R10.560. Prov.: Geschenk von A. Kuceynski, Augsburg 16. II.
+          <lb/>1875.
+          <lb/>1027
+          <lb/>GRASECCIUS Paulus
+          <lb/>Strassburg, A. Bertram 1592
+          <lb/>CONCLVSIONES... (Siehe Titelblatt, Abb. S. 697.)
+          <lb/>40, Antig., 8 unn. Bll., Sign. A-B, Kust., Titelumrahmung, Zier¬
+          <lb/>leiste Bl. A 2a, Schlussvignette (Abb. S. 698).
+          <lb/>Auf der Rücks, des Titelbl. (Titelumrahmung wie auf dem Titelbl.):
+          <lb/>...D. DANIELI SCHAD. Inclytae rei Vlmensis publicae prae¬
+          <lb/>tori: D. Iopoco SCHAD. Illustrissimi principis ac Domini.
+          <lb/>D. Philippi Ludovici Comitis Palatini ad Rhenum, Dueis
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

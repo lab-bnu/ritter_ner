@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:03.228664+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002069.tif
+IMAGE WIDTH: 2482
+IMAGE HEIGHT: 3982
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Confectionen, Lattwergen, Oel, Pillulen... wie, wann und
+          <lb/>warzu man jedes brauchen soll, ein kurtzer Bericht. —
+          <lb/>Strasbourg, Jacques Cammerlander s. d., in-4°,
+          <lb/>Ritter: B M Strasbourg n° 599.
+          <lb/>1100
+          <lb/>BRUNFELS, Otto (Betbüchlein) : Biblisch Bettbüchlin der
+          <lb/>Altväter und herrlichen Weiberen beyt Alts und Newes
+          <lb/>Testaments... — Strasbourg, Jean Schott 1528, in-8°.
+          <lb/>Scott (Schmidt II, Supplément) p. 14, n° 14; Kristeller 473. —
+          <lb/>Bibl. S. H. Scott, Oxford. (Ed. lat. Schott 1528 : Ritter, Rép.
+          <lb/>n° 282, éd. allemande Schott 1531; Rép. n° 288. 1101
+          <lb/>BRUNFELS, Otto : Loci omnium... Evangelii secundum
+          <lb/>Mathacum, Marcum, Lucam, Ioannem. — Strasbourg,
+          <lb/>Jean Schott 1529, in-80.
+          <lb/>Schmidt II, n° 106.
+          <lb/>1102
+          <lb/>BRUNFELS, Otto (Catechesis) : Catechesis puerorum in fide, in
+          <lb/>litteris et in moribus ex Cicerone, Quintiliano... Per
+          <lb/>Othonem Brunfels. — Strasbourg, Christian Egenolph
+          <lb/>1529, in-80.
+          <lb/>Panzer VI, 117, 804; Benzing : Egenolff, n° 36.
+          <lb/>1103
+          <lb/>BRUNFELS, Otto (Confutatio) : Confutatio Sophistices et
+          <lb/>quaestionum Curiosarum ex Origine, Cypriano, Nan¬
+          <lb/>zianzeno... — Sélestat, Lazare Schürer mai 1520, in-4°.
+          <lb/>Ritter, B M Strasbourg n° 601; Walter, n° 821. 1104
+          <lb/>BRUNFELS, Otto (Dioscorides) : In Dioscoridis Historiam
+          <lb/>Herbarum certissima adaptatio cum eorumdem Iconum.
+          <lb/>Der Kreüter recht warhafftige Contrafactur, erkannt¬
+          <lb/>nüssz und Namen Kreychisch, Latinisch und Teutsch...
+          <lb/>— Strasbourg, Jean Schott 1543, in-fol.
+          <lb/>Schmidt II; Supplément p. 19 n° 30.
+          <lb/>1105
+          <lb/>BRUNFELS, Otto (Huss) : Geistlicher Bluthandel Johanns
+          <lb/>67
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:04.953822+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3012.tif
+IMAGE WIDTH: 2362
+IMAGE HEIGHT: 3844
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>456
+          <lb/>ELUCIDARIUS. Siche: LUCIDARIUS
+          <lb/>ELUCIDARIUS CARMINUM. Siehe: TORRENTINUS
+          <lb/>EMILIANO CIMBRIACO. Siche: AEMILIANUS QUINTUS
+          <lb/>EMMEL Helferich
+          <lb/>Strassburg, Th. Rihel, um 1592.
+          <lb/>NOMENCLATOR LATINVS PRO- PRIORVM VOCABVLORVM,
+          <lb/>vt Regionum, Insularum, Marium, Fluuiorum, Syluarum,
+          <lb/>Lacuum, Montium, Populorum,! Vrbium, Vicorum, &amp;amp; simi¬
+          <lb/>lium. Auctore! M. Helfrico Emmelio Wombacensi, scholae
+          <lb/>Alzenanae Rectore. Druckermarke des Theodosius Rihel. (HEB,
+          <lb/>Tafel XXXI, Nr. 11.) Darunter: Cum gratia &amp;amp; Priuilegio Caesa¬
+          <lb/>reo. ARGENTORATI Excudebat Theodosius Rihelius. (Rück¬
+          <lb/>seite leer.)
+          <lb/>8°, Griech., Got., Antiq., 2sp., 52 unn. Bll., Sign. A-G., Zier¬
+          <lb/>init. N.
+          <lb/>Bl. A2a: Vorrede des Verfassers an den Leser. (5 S.)
+          <lb/>R100.8826). Prov.: H. Kerler. Ulm, 28/IV. 1879.
+          <lb/>Stadt-B Strassburg O 2815b(t). GK: UB Breslau.
+          <lb/>680
+          <lb/>EMMEL Helferich
+          <lb/>Strassburg, Th. Rihel, 1592
+          <lb/>NOMENCLATOR QVADRILINGVIS, GERMANICOLATINO¬
+          <lb/>GRAECOGALLICVS, IN CLASSES IIlI DISTINCTVS. Auctore
+          <lb/>M. Helfrico Emmelio Wombacensi, schole Alzenae Rec¬
+          <lb/>tore.
+          <lb/>Druckermarke des Theodosius Rihel. (H e B, Tafel XXXI, Nr. 11.)
+          <lb/>Darunter: Cum gratia &amp;amp; Priuilegio Caesareo. ARGENTORATI.
+          <lb/>Excudebat Theodosius Rihelius. (Rückseite leer.)
+          <lb/>80, Griech., Antiq., Got., 2sp., 144 unn. Bll.; letztes Bl. leer;
+          <lb/>Kopftitel, Kustoden, Zierinit. R.
+          <lb/>Bl. A2a:... IOHANNI GERNANDO, WET-terano Hasso...
+          <lb/>Helfericus Emmelius Wombacensis ad Wetterim... — Alze¬
+          <lb/>nae, Cal. Septemb.Anno Christi 1592. (5S.)
+          <lb/>R 100.882(t). Prov.: H. Kerler, Ulm, 28/IV. 1879.
+          <lb/>Stadt-B Strassburg O 2815b(s). GK. UB Breslau, Kônigsberg.
+          <lb/>681
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:48.428032+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078208.tif
+IMAGE WIDTH: 2302
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1094
+          <lb/>Actum uff Mitwuchen Sanct Iohanns Baptiste obent &amp;amp;c.
+          <lb/>Anno xxix. (Verso blanc.)
+          <lb/>Placard, in-8°, car. goth., 17 lignes, init. à fig. A.
+          <lb/>R22 (13). Prov.: Bibl. Heitz, Strasbourg 1871. Note ms. au dessus
+          <lb/>du texte: Frucht und Wein Verkauff.
+          <lb/>1688
+          <lb/>ORDONNANCE
+          <lb/>Strasbourg 15291
+          <lb/>Underschidliche straf des Gotslesterns: Schwerens,
+          <lb/>und Flûchens. WElcher Gott dem allmechtigen, userm Herrn
+          <lb/>Iesu Christo, oder synem heiligen wort, flûcht, oder an
+          <lb/>seiner gotheit, oder glory lestert... der sol an sym leben
+          <lb/>ge- strafft werden... — (Verso blanc.)
+          <lb/>Placard, in-4°, car. goth., 29 lignes, init, ornée V.
+          <lb/>R 22 (17). Prov.: Bibl. Heitz, Strasbourg 1871. Note ms. au verso
+          <lb/>blanc: ¿Straf des Gotteslästerns und Fluchens. N. 640. 1529.&amp;quot;
+          <lb/>1689
+          <lb/>ORDONNANCE
+          <lb/>Strasbourg 1629
+          <lb/>WIr Peter Elnhart der Meister, und der Rath zu Strasz¬
+          <lb/>burg, Empiet ten allen und yeden unsern Burgern, ange¬
+          <lb/>herigen und verwandten inn Statt und Land, geistlichen,
+          <lb/>und weltlichen, zuvernemen. Nach dem uns mehr mal an¬
+          <lb/>gelangt, wie das dise geschwinde theürung, so in der
+          <lb/>frucht diser zeyt erwachsen, der mehrertheil ausz dem
+          <lb/>vortheiligen und eygennützigen fürkauff, so nit allein in
+          <lb/>auszgetroschener frucht, auch inn stro beschicht, harkom¬
+          <lb/>men und fliessen soll... So gepieten wir euch allen und
+          <lb/>yeden in sonders, das ewer keiner, er sey wer er wöll,
+          <lb/>harinn niemand auszgenommen, weder in auszgetroschener
+          <lb/>frucht, noch in dem stro, kauffen oder verkauffen sollen,
+          <lb/>... Sonder so einer zuverkauffen, oder zu kauffen hett, oder
+          <lb/>wollt, das der sollichs, auff die umb- ligende merckt in
+          <lb/>Stett und Flecken... zu fevlem unnd gemeynem! kauff
+          <lb/>füren, und darauff kauffen soll.... —
+          <lb/>Erkant auff Sampstag nach Matthei Apostoli, Anno
+          <lb/>M. D. xxix. (Verso blanc.)
+          <lb/>Placard, in-4°, car. goth., 22 lignes, init. ornée W.
+          <lb/>R 21 (3). Prov.: Bibl. Heitz, Strasbourq 1871.
+          <lb/>2ème ex.: R 22 (5). Même provenance. A la marge : Verordnung
+          <lb/>wegen dem Fruchtverkauf.
+          <lb/>1690
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:38.246996+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2404.tif
+IMAGE WIDTH: 2372
+IMAGE HEIGHT: 3824
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>400
+          <lb/>Au-dessous 4 vers:
+          <lb/>Vsz worem brunnen fleüssz ich här,
+          <lb/>Vnd trag nit fabel, lug noch mär.
+          <lb/>Mein erster Auctor kennt mich wol,
+          <lb/>Hab minder nit, binn wie ich sol.
+          <lb/>1518.
+          <lb/>A la fin: Gedruckt zû Straszburg durch Joannem Schott,
+          <lb/>in verleg vnd expensz der für sichtigen Joannis knob¬
+          <lb/>lauch, vnnd Pauli Götz, vnd vollendt am freytag vor
+          <lb/>Jnuocauit. Anno Christi. M. CCCCC. xviij. jar.
+          <lb/>In-fol., car. goth., 2 col., 6 ff. non ch. (Das Register), CLXIX ff.
+          <lb/>ch. et 1 f. blanc, titre courant, initiales ornées et initiales d’attente,
+          <lb/>titre rouge et noir.
+          <lb/>fol. a 5b non ch.: grande gravure sur bois dans le style de Jean
+          <lb/>Baldung: le paradis terrestre, entouré d’un rond qui figure le ciel avec
+          <lb/>les astres, à gauche et en dehors du rond. le Créateur; à droite, Adam
+          <lb/>et Eve chassés par l’ange; au haut, la Jérusalem céleste, entourée d’un
+          <lb/>mur avec des portes et ayant au centre la fontaine de vie; au-dessus,
+          <lb/>sur les nuages, le Père, le Fils et le St. Esprit (en forme de colombe),
+          <lb/>à gauche la Ste. Vierge en prière, à droite, trois Pères ou docteurs.
+          <lb/>Cette gravure est enpruntée à Chelidonius, Passio Jesu Christi,
+          <lb/>Knobloch 1506.
+          <lb/>En outre, 157 petites gravures, scènes de la vie rurale, plantes, ar¬
+          <lb/>bres, ces dernières d’un dessin très médiocre; quelques unes sont répétées
+          <lb/>plusieurs fois (de sorte qu’il y en a en tout 235).
+          <lb/>Au verso du titre: Gemeine Vorred in disz Bâch.
+          <lb/>C&amp;#x27;est la traduction allemande de Petrus de Crescentiis, Liber rura¬
+          <lb/>lium commodorum, qui parut déjà au 15 siècle cing fois avec des gra¬
+          <lb/>vures.
+          <lb/>R10.386. Prov.: Bibliotheca Hammeriana. Rel, anc.
+          <lb/>BN Paris, Rés. O2 f. 391/2); Proctor II. Sectio I. No 10,286;
+          <lb/>Londres British Museum; Schmidt II, No 42 et VII, NO 153; BM
+          <lb/>Colmar. GPB: BN Berlin. Catalogue Louis Fière (2e vente, Paris
+          <lb/>14-17 juin 1937), No 358: Grande figure allégorique du style de Hans
+          <lb/>Burgmair au verso du dernier f. préliminaire. Rosenthal, Munich, Cata¬
+          <lb/>596
+          <lb/>logue 135 (1914), N° 633; 200 M.
+          <lb/>CRESCENTHS, PETRUS DE
+          <lb/>Strasbourg, J. Knobloch jun. 1531.
+          <lb/>Vom Ackerbaw, Erdtwûcher, vnd Bawleüten. Von
+          <lb/>natur, art, gebrauch vnd nutzbarkeit aller gewechsz, Früch
+          <lb/>ten, Thyeren, sampt allem dem so dem Menschen dyenst¬
+          <lb/>lich in Speysz vnd Artzeneyung.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

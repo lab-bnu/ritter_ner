@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:35.663261+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2308.tif
+IMAGE WIDTH: 2302
+IMAGE HEIGHT: 3818
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>304
+          <lb/>CAESAR Julius
+          <lb/>rulius per erfte Romisch
+          <lb/>Reiser pon semem leben uno
+          <lb/>Rriegen erstmals vb dem latein in tũt soh gebracbt puo
+          <lb/>mil anorer oronung oer capittel vnd nil zũsehznix getruct
+          <lb/>Strasbourg, J. Grüninger, 1508.
+          <lb/>Gravure sur bois: L’empereur Jules César, galopant sur un che¬
+          <lb/>val, dont la housse est ornée de l’aigle impériale.
+          <lb/>A la fin: Gedruckt in der lobli- chen freyen statt
+          <lb/>Straszburg durch Joannem! Grüninger, vff sant Adolffs des
+          <lb/>heiligen bischoffs tag im Jar. M. CCCCC. Viii. (Verso blanc.)
+          <lb/>In-fol,, car. goth., 2 col,, 148 ff. non ch., sign. A-Z, Zz, titre
+          <lb/>courant, initiales à fig, init, ornées et init. d’attente, chacun des 11
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:49.092113+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078229.tif
+IMAGE WIDTH: 2304
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1115
+          <lb/>In-fol., car. goth., 6 ff. non ch. dont le dernier blanc, sign. A,
+          <lb/>init, ornée W.
+          <lb/>Fol. A 2a-4 5b: Abgehörte Kundtschafft Wegen deren, uber
+          <lb/>den in verlauffnem 81 iar! gefangenen Häringen, angebener, jedoch un¬
+          <lb/>er- findtlicher Infection. (Rapport de 43 témoins de la ville de Cologne.)
+          <lb/>R 22 (29). Prov, : Bibl. Heitz, Strasbourg 1871. Au-dessus du
+          <lb/>titre: Widerlegung des sonderbaren Häring Verkauffs. 14 Febr. 1582
+          <lb/>und geschreys gegen den Häring.
+          <lb/>1727
+          <lb/>ORDONNANCE
+          <lb/>Strasbourg 1588
+          <lb/>WIr Hans Philips von Kettenheim, der Meyster, und
+          <lb/>der Raht di-ser Freyen Reichs Statt Straszburg, Sampt
+          <lb/>unsern Freunden den Einundzwentzigen, thun kundt. Nach
+          <lb/>dem uns nicht allein zû mehrmahlen glaublich angelangt,
+          <lb/>Sondern es auch ein gute zeither an underschidlichen Orten
+          <lb/>diser Statt, der Augenschein ge- nûgsam zûerkennen ge¬
+          <lb/>geben, was massen die Frembde Metziger, das kleine Fleisch,
+          <lb/>so sie zû gûtem theil, auff dem allhieigen Marckt ein¬
+          <lb/>kauffen, bey etlichen unsern Burgern heimlich stechen,
+          <lb/>Und dann durch ire oder andere Weibspersonen, an ge¬
+          <lb/>wissen orten feil haben, und auch in die Heuser! umb¬
+          <lb/>tragen lassen, Wir aber befunden, mit was nachtheil und
+          <lb/>schaden, nicht allein eines Ehrsamen Metziger Handwercks,
+          <lb/>sonder auch gemeiner! Burgerschafft, ein solches biszhero
+          <lb/>beschehen...So setzen, ordnen, unnd wöllen wir, Das
+          <lb/>hinfüro kein frembder Metziger, auff dem allhieigen Marckt,
+          <lb/>weder Kölber, Schaaf, Böck...... einzukauffen macht
+          <lb/>haben... —
+          <lb/>Actum et decretum Montag den drey und zwentzigsten
+          <lb/>Septembris... Ein Tausent, Fünffhundert Achtzig und Acht
+          <lb/>Jar. (Verso blanc.)
+          <lb/>Placard, in-fol., car. goth., 37 lignes, init. ornée W.
+          <lb/>R22 (7). Prov.: Bibl. Heitz, Strasbourg 1871. Au verso blanc:
+          <lb/>Mandat die frembde Metzger betreffend de 1588.
+          <lb/>1728
+          <lb/>ÓRDONNANCE
+          <lb/>Strasbourg 1590
+          <lb/>WIr Sebastian Mueg der Elter der Meister, und der
+          <lb/>Raht, diser Frey-en Reichs Statt Straszburg, Thun hie¬
+          <lb/>mit Meniglich zûwisen, Ob wol in gemeinen beschribenen
+          <lb/>Rechten unnd Reichs Constitutionibus, fürnemlich aber
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

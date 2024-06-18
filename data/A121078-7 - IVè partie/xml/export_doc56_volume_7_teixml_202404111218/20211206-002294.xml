@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:09.313091+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002294.tif
+IMAGE WIDTH: 2486
+IMAGE HEIGHT: 3958
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>LIBELLUS : Absolutissimus de octo orationis partium
+          <lb/>Constructione libellus... — (Strasbourg, Jean Prüss)
+          <lb/>1515, in-4°.
+          <lb/>Schmidt III, p. 33, n° 13 : Bibl. St. Guillaume, Strasbourg et
+          <lb/>Bibl. cantonale Aarau.
+          <lb/>2281
+          <lb/>LIBELLUS : (Idem). — (Strasbourg, Mathias Schürer,
+          <lb/>novembre 1515), in-4°.
+          <lb/>Panzer 6, 75, 405; Schmidt VIII, n° 169 : B U Fribourg.
+          <lb/>2282
+          <lb/>LIBELLUS : Libellus Militantis: postillationes paucae &amp;amp; piae
+          <lb/>super Epistolas &amp;amp; Euangelia, quae... in diebus Dominicis
+          <lb/>super Missam faciendum, recitantur... nunc primum
+          <lb/>editae et excusae. — Strasbourg, J. Cammerlander
+          <lb/>1538, in-8°.
+          <lb/>Londres, Brit. Museum 847. k. 17.
+          <lb/>2283
+          <lb/>LIBRI : Gynaeciorum Libri sive de mulierum tum commu¬
+          <lb/>nibus, tum gravidarum, parientium et puerperarum
+          <lb/>affectibus et morbis libri Graecorum, Araborum, Latino¬
+          <lb/>rum veterum et recentium quotquot extant. Opera et
+          <lb/>studio J. Spachii. Partim nunc primum editi, partim
+          <lb/>vero denuo recogniti... — Strasbourg, Lazare Zetzner
+          <lb/>1597, in-fol.
+          <lb/>L’Art Ancien, Zurich, Catal, 27.
+          <lb/>2284
+          <lb/>LICHTENBERGER, Johannes. Voir : PRACTICA n° 2976.
+          <lb/>LIED : Von Evangelischer Lehr, ein neüw Lied... —
+          <lb/>(Strasbourg, Th. Berger s. d.), in-8°.
+          <lb/>Vogeleis, p. 315; BN Vienne.
+          <lb/>2285
+          <lb/>LIED: Von dem tod ein geystlich lied zu singen. — Strasbourg
+          <lb/>s. d., in-8°.
+          <lb/>Wackernagel II, p. 1062.
+          <lb/>2286
+          <lb/>292
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

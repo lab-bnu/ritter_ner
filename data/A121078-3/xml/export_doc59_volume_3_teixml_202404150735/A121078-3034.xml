@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:05.290698+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3034.tif
+IMAGE WIDTH: 2346
+IMAGE HEIGHT: 3838
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>478
+          <lb/>Am Schluss: Argentorati, Ex Aedibus Matthiae Schü¬
+          <lb/>rerij. Mense Augusto, Anno M. D. XIIII. T.O. REGNANTE
+          <lb/>MAGNANIMO IMP. CAES. MAXIMILIANO. P. F. AVG. P. O. P.
+          <lb/>4°, Antiq., 21 num. Bll. (römische Ziffern), Kopftitel, Marginalien,
+          <lb/>Zierinit. P. S. C.
+          <lb/>Auf der Rückseite des Titelbl.: Erasmus Roterodamus Petro
+          <lb/>Viterio, liberalium disciplinarum professori eximio, S. D.
+          <lb/>(1 Seite.)
+          <lb/>Neudruck der Ausgabe von 1513.
+          <lb/>R100942. Prov.: Rosenthal, München, 15. VII. 1885;7M.
+          <lb/>GK: SB Berlin; Schmidt VIII Nr. 39; Rest S. 60.
+          <lb/>717
+          <lb/>ERASMUS: Adagia
+          <lb/>Strassburg, M. Schürer, 1515
+          <lb/>Collectanea Ada- giorũ veterum Desyderii Eras- mi
+          <lb/>Roterodami Germaniae! decoris.! Ad Lectorem! Inuenies
+          <lb/>hic candide Lector Adagia illa Eras! mi Roterodami, multo
+          <lb/>emendatiora, multo integriora, quam in prioribus impres¬
+          <lb/>sioni- bus. Dictiones praeterea graecas sparsim! huic opus¬
+          <lb/>culo insertas cûm apicibus suis, ac spiritibus, artifici opera
+          <lb/>fabrefactis, qui in aliis huc-usque sunt neglecti.Addita
+          <lb/>est tabula in ipsius operis calce, a Schurerio condita,
+          <lb/>quo dicto citius quaerenti quoduis occurrat. LECTOR
+          <lb/>EME, LEGE, ET PROBABIS.Tempus obserua.
+          <lb/>Am Schluss: Argentorati Matthias Schurerius Se- lestensis
+          <lb/>stanneis calamis exscripsit, Mense Aprili Anno a Christo
+          <lb/>nato M. D. XV.
+          <lb/>Darunter Druckermarke Schürer&amp;#x27;s (HŒ B Tafel XII, Nr. 4) mit
+          <lb/>der Anmerkung: VSVI STVDIOSORVM.
+          <lb/>40. Antig., 4 unn., LXVII num. u. 7 unn. Bll. (Index), Kopftitel,
+          <lb/>Zierinit., Titeleinfassung (Siehe Nr. 97 S. 55).
+          <lb/>Auf der Rückseite des Titelblattes: Praefatio... Desyderius
+          <lb/>Erasmus Roterodamus Guilielmo Mo- nioio Comiti... Vale.
+          <lb/>Parrisiis.
+          <lb/>Bl. 4 4b: MATTHIAS SCHVRERIVS. SELESTENSIS LEC¬
+          <lb/>TORI ... Argentorati. xiiij. Calendas Iulij. Anno, a Christo
+          <lb/>na to. M. D.IX.
+          <lb/>*R100.096. Prov.: Rosenthal, München, 9. II. 1884; 8M.
+          <lb/>GK: SB Berlin; Schmidt VIII Nr. 155: Bibl. Wilh. und alte
+          <lb/>Stadtbibl. Strassburg Inkun. 1742; Schmidt setst 47 statt 57 num. Bll.,
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:07.845561+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3183.tif
+IMAGE WIDTH: 2320
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>GEBER
+          <lb/>Strassburg, A. Farckal 1530
+          <lb/>Das buoch geberi... (Siche Titelbl., Abb. S. 626.) (Rücks, leer.)
+          <lb/>Am Schluss: Hie endet sich das Bûch Geberi.Vnnd
+          <lb/>ist getruckt zû Strasz burg vonn Amandum Farckal,
+          <lb/>vnnd in! Johannes Grü-ningers ko sten im jar nach
+          <lb/>der geburt Chri-sti. M. D. XXX. auff den Palm abent.
+          <lb/>20, Got., 2sp. LXVI Bll. (zahlreiche Paginationsfehler), Kopft.,
+          <lb/>einige Holaschn. von alchemistischen Apparaten.
+          <lb/>RI0.1r63.
+          <lb/>Die lateinischen, unter dem Namen Geber gehenden chemischen Werke
+          <lb/>werden wohl mit Unrecht dem berühmtesten arabischen Alchimisten Gábir
+          <lb/>Ibn Hajján zugeschrieben, der um 900 n. Chr. gelebt haben soll.
+          <lb/>GK: Dresden LB.
+          <lb/>Schmidt I Nr. 245.
+          <lb/>936
+          <lb/>GEBER
+          <lb/>Strassburg, Joh. Grüninger 1531
+          <lb/>GEBERI PHILOSOPHI AC ALCHIMISTAE MAXIMI, DE AL¬
+          <lb/>CHIMIA LIBRI TRES.
+          <lb/>Eiusdem liber inuestigationis perfecti magisterij, artis
+          <lb/>Alchimicae. lis additus liber trium verborum. Epistola
+          <lb/>item Alexandri imperatoris, qui primus regnauit in Graecia.
+          <lb/>Persarum quoque extitit imperator: Super eadem re.
+          <lb/>Holeschn. der vorhergehenden Ausgabe.
+          <lb/>Am Schluss: Excusum est hoc praeclarum Alchimicum
+          <lb/>Geberi opusculum Argentoragi, arte &amp;amp; impensa solertis
+          <lb/>viri Iohannis Grieninger. Anno a virgineo partu M. D.
+          <lb/>XXXI. vigesimonono Augusti. CVM PRIVILEGIO AD TRIEN¬
+          <lb/>NIVM. (Rücks, leer.)
+          <lb/>20, Antiq. LX Bll., Kopft., Init., Zierleisten. Bl. 1a: Brunn der
+          <lb/>Warheit: ein Brunnen, an demselben 4 Personen. Einige alchimistische
+          <lb/>Apparate.
+          <lb/>&amp;quot;R10.462. Prov.: Rosenthal, München 47. 1. 1896,; 45 M.
+          <lb/>Handschr. Notizen. Autogr.: Françoys Guérin a. Fremeyn apothi¬
+          <lb/>caire. Die leeren Bll, enthalten Sentenzen aus der h. Schrift u, aus den
+          <lb/>Schriften profaner Autoren von der Hand Guérin’s, welcher selbst den
+          <lb/>Stein der Weisen suchte. Auf der Innens, des Vorderdeckels mit Blei¬
+          <lb/>stift: La seconde partie est dediée à un Dauphinois (de Valence).
+          <lb/>Schmidt I Nr. 251: BN Paris, dieses Ex. soll nach Schmidt 66 Bll.
+          <lb/>haben. Brunet I15, 1517 fuhrt eine Ausgabe Grüninger’s an aus dem
+          <lb/>Jahre 1529.
+          <lb/>937
+          <lb/>627
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

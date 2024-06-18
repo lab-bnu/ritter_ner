@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:14.035110+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002503.tif
+IMAGE WIDTH: 2496
+IMAGE HEIGHT: 3998
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>VERSTAND : Warer verstand von des herren Nachtmal. Uff
+          <lb/>die weysz zu singen: Es ist das hayl uns komen her &amp;amp;. —
+          <lb/>(Strasbourg, Wolfgang Köpfel (?) 1527), in-8°. (Enca¬
+          <lb/>drement avec la date 15271.
+          <lb/>Vogeleis, p. 221; Hubert, n° 20; Wackernagel, p. 98 : « dem
+          <lb/>Anschein nach nicht von Köpfel».
+          <lb/>3400
+          <lb/>[VERSTEGHE), Johannes Athanasius : Kort Bericht in allen
+          <lb/>principalen puncten des Christengeloves... genant der
+          <lb/>Leken Wechwyser. Auth. Joan. Anastasio Velvano... —
+          <lb/>Ghedruckt zu Straisburg im Elsas durch Balthasar von
+          <lb/>Klarenbach, den xij in April. Anno M. D.Liiij, in-8°.
+          <lb/>(Abdruck in Bibliotheca reformatorica Neerlandica IV (1906),
+          <lb/>p. 81-376). Ex. : BN Berlin, Amsterdam Ev. — Luth. Sem.
+          <lb/>Voir : Borsching-Claussen, Niederdeutsche Bibliographie
+          <lb/>(1931/37), n° 1631 D. — A Strasbourg, il n’y a pas eu d’imprimeur
+          <lb/>du nom de Klarenbach, il y a probablement une mystification.
+          <lb/>P. Bockmühl dans : Theologische Arbeiten, Neue Folge 13
+          <lb/>(1912), p. 110-128 admet que l’imprimeur était Joos Lambrecht
+          <lb/>à Wesel.
+          <lb/>3401
+          <lb/>VERWARNUNG : der diener des worts und der Brüder zu
+          <lb/>Strasburg. An die Brüder von Landen und Stetten,
+          <lb/>gemayner Eydgnoschafft. Wider die Gotslesterige Dispu¬
+          <lb/>tation bruder Conradts Augustiner Ordens Provincial.
+          <lb/>M. D.xxuiii. — (Strasbourg, Wolfgang Köpfel) 1524,
+          <lb/>in-40.
+          <lb/>Ritter: B M Strasbourg, n° 2163.
+          <lb/>3402
+          <lb/>VERWARNUNG : (Idem)... Am inngang des Aprilis M. D.xxiiiï.
+          <lb/>.— (Strasbourg, Wolfgang Köpfel) avril 1524, in-4°.
+          <lb/>Ritter : B M Strasbourg, n° 2164.
+          <lb/>3403
+          <lb/>VERZEICHNIS: Holtzkunst. Verzeichnusz der figuren und
+          <lb/>neuwen ofen, von der ersparung der neuwen erfundenen
+          <lb/>Holtzkunst. — Mulhouse, Pierre Schmid 1564, in-fol.
+          <lb/>Fac-similé à la B N de Strasbourg R 10.152. Graesse III,
+          <lb/>501
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

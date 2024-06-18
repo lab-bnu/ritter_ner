@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:05.657019+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3059.tif
+IMAGE WIDTH: 2328
+IMAGE HEIGHT: 3840
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>503
+          <lb/>ARGENTINAE APVD IOAN. [ KNOBLOVCHIVM, AN- NO M. D.
+          <lb/>XXII. (Rückseite leer.)
+          <lb/>Am Schluss: Fi- nis. Mense Augusto Anno M. D. XXII.
+          <lb/>Auf der Rückseite, zuoischen 4 Epheubll. die Devise: Veritas odium
+          <lb/>parat.
+          <lb/>80, Kursiv, 80 unn. Bll., Sign. A-E, Kopftitel, Kustoden, Zier¬
+          <lb/>init. M, C.
+          <lb/>Bl. A2a: ERASMVS ROTERODAMVS IOAN-N LAPIDO
+          <lb/>Svo S. ! D. L... (Vorrede, 4 S.)
+          <lb/>Neudruck der Knobloch&amp;#x27;schen Ausgabe von 1521.
+          <lb/>R100.919. Prov.: L. Rosenthal, München, 2. XI. 1888, 12 M.
+          <lb/>GK: SB Berlin, UB Breslau; Rest S. 47; Beauxlieux S. 114,
+          <lb/>Nr. 1041: BU Paris; Paris BN 8 Yc 652(2); Schmidt VII Nr. 238;
+          <lb/>Van der Haeghen II, S. 77: Breslau, Brüssel, Dresden, Erfurt, Frei¬
+          <lb/>burg i. Br., Gent, München, Oxford (Brasen. Coll.), Rom (B. Casan.),
+          <lb/>Rostock, Tours.
+          <lb/>756
+          <lb/>ERASMUS: Apologia contra J. Lopim Strassburg, U. Morhard, 1522
+          <lb/>ERASMI ROTERODAMI IN IA- cobum Lopim Stunicam
+          <lb/>non ad- modum circumspectum calum- niatorem Apologia.
+          <lb/>ITEM. APOLOGIA EIVS- dem de loco taxato qui est in epi
+          <lb/>stola Pauli ad Corinthios pri-re Cap. XV. Omnes qui
+          <lb/>dem Resurgemus &amp;amp;c.
+          <lb/>Argentorati apud Hulderichum Morhardum! AN. M. D.
+          <lb/>XXII. pridie Cal. Augusti. (Rückseite leer.)
+          <lb/>Am Schluss: ARGENTORATI EX AEDIBVS Hulderichi Mor¬
+          <lb/>hardi, Mense Augusto. Anno M. D. XXII. (Rückseite leer.)
+          <lb/>40, Antiq,, LXXVI Bll. Kopftitel, Kustoden, Init. O, H. Titel¬
+          <lb/>einfassung (H æ B Tafel XXI Nr. I.)
+          <lb/>*R100.465. Herkunft unbekannt.
+          <lb/>Rest S. 47; Schmidt IV S. 30 Nr. 10 kannte kein Ex., er zitiert
+          <lb/>757
+          <lb/>nach Panzer 6, 100.
+          <lb/>ERASMUS: Colloquia
+          <lb/>Strassburg, J. Knobloch, 1522
+          <lb/>FAMILIA RIVM COLLOQVIORVM  Formulae, per D. ERAS¬
+          <lb/>MVM Ro! terodamum, multis adiectis, non tantum! ad lin¬
+          <lb/>guam puerilem expoliendam utiles, uerumetiam ad! uitam
+          <lb/>institu-endam. (Rückseite leer.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

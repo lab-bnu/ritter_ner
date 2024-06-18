@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:42.772224+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078008.tif
+IMAGE WIDTH: 2382
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>892
+          <lb/>In-8°, car. rom. et ital., 144 ff. ch., titre courant, réclames, belles et
+          <lb/>grandes init. à fig. A, I, de nombreuses pièces d’ornement, au commen¬
+          <lb/>cement et à la fin des chapitres. Titre encadré: ornements (fleurs), en
+          <lb/>bas, à gauche Minerve avec un instrument de musique, à droite Mer¬
+          <lb/>cure; tous les deux sont assis.
+          <lb/>Au verso du titre: Ad Lothorin, dvcem... D. Antonio, Dei
+          <lb/>gratia Calabriae, Lothoringiae, &amp;amp; Barri Duci... Franciseus
+          <lb/>Lambertus... (Dédicace de 13 pp.)
+          <lb/>R101.147 (2). Prov.: Bibl. Ch. Schmidt, Strasbourg, Jème ex.:
+          <lb/>R 101.148. Prov. inconnue. Ex-libris: Bibliotheca Palatina. Au recto du
+          <lb/>f. de garde: «Ex Libris Joh. Nic. Weisslinger, 1738., 3ème ex.: RI01.449 (2).
+          <lb/>Prov.: Bibl. Ed. Reuss, Strasbourg 1891. A l&amp;#x27;intérieur de la couverture:
+          <lb/>1327
+          <lb/>W. Jackson.
+          <lb/>LAMBERTUS Franciscus
+          <lb/>Commentarii in! Micheam Naum, et Abacuc. Argen¬
+          <lb/>torati J. Herwagen 1525. In-80, A la suite de: LAMBERTUS
+          <lb/>Avenionensis Franciseus; Commentarii in Amos, Abdiam
+          <lb/>et Ionam. Argentorati 1525.
+          <lb/>LAMBERTUS Franciscus
+          <lb/>Strasbourg, J. Herwagen 1525
+          <lb/>In Diui Lucae Euange! lium commentarii, nunc se
+          <lb/>cundo recognitae ac! locupletati. (Feuille de lierre.) ARGEN¬
+          <lb/>TORATI.
+          <lb/>A la fin: APVD JOHANNEM HERVA! GIVM QVARTO NO I NAS
+          <lb/>IANVA-RI ANNO M. D. XXV.
+          <lb/>In-80, car, rom. et ital., 270 ff. ch., titre courant, réclames, notes
+          <lb/>marg., belles init. à fig. Q et L, titre encadré.
+          <lb/>Au verso du titre:... Georgio Spalatino... Franciseus
+          <lb/>Lambertus Auenionensis... — Wittembergae! Mense No¬
+          <lb/>uembri. M. D. XXIII. (6 pages.)
+          <lb/>RI01.226 (1). Prov.: Recteur Muller, Quedlinbourg 15/V 1889.
+          <lb/>Au haut du titre: alias Ioh. Setranus; au milieu: Iohann Samuel Zettel;
+          <lb/>au bas: Iohannis Ephraim Scheibel Vrat. CIO I9 CCLXXXI. 2ème ex.:
+          <lb/>R101.225 (1). Prov.: Bibl. Ed. Reuss, Strasbourg 1891, avec son ex¬
+          <lb/>libris et un autogr. Halle 1855, 2 fr.
+          <lb/>1328
+          <lb/>LAMBERTUS Franciscus
+          <lb/>In primum duodecim prophetarum, nempe Oseam Fran¬
+          <lb/>cisci Lamberti Avenionensis Commentarii. Eiusdem libellus
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:11.383090+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3320.tif
+IMAGE WIDTH: 2364
+IMAGE HEIGHT: 3856
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>762
+          <lb/>Darunter Holeschn.: Glücksrad, das ein Mann mit Hilfe eines
+          <lb/>andern Mannes besteigt, während ein dritter schlafend am Boden lieot;
+          <lb/>ausserdem ein König, der soeben vom Rade herunterstürzt.
+          <lb/>Am Schluss: Argentine Ioannes gruniger imprimebat
+          <lb/>M. D. VIIII. Adelpho castigatore. (Rücks, leer.)
+          <lb/>40, Got., 4 unn. Bll.
+          <lb/>Auf der Rücks. des Titelbl.:... Chri- stophoro Baroni de
+          <lb/>Suartzenbergo: et illustri poetae Henri! co Bebelio: Iaco¬
+          <lb/>bus Henrichmannus Sindelfingensis. S. P. d.... — ex Suertz¬
+          <lb/>lochio: vndecimo Kalendas Martias: Anno! octauo vltra
+          <lb/>sesquimillesimum.
+          <lb/>R 101166. Herkunft unbekannt.
+          <lb/>1127
+          <lb/>BN Paris, Rés. Y2 923. Schmidt I Nr. 113: Basel.
+          <lb/>HENRICHMANN Jakob
+          <lb/>Hagenau, H. Gran 1510
+          <lb/>GRAMMATICE INSTITVTIONES ! IACOBI HENRICHMANNI SIN¬
+          <lb/>DELFINGENSIS ] CASTIGATAE DENVO ATQVE DILI ] GENTER ELA¬
+          <lb/>BORATAE. Ars condendorum carminum Henrici Bebelij
+          <lb/>IustingensisPoetae laureati.Syllabarum quantitates.
+          <lb/>Racemationes &amp;amp; exquisitiores! obseruationes eiusdem.
+          <lb/>Inuenies hic studiose lector Henrici Bebelij carminum
+          <lb/>artem emendatam &amp;amp; auctam quibusdam in locis.! Ex qua
+          <lb/>priorem a nobis editam castiges velim.
+          <lb/>Am Schluss: Impen! sis prouidi viri domini Ioannis
+          <lb/>Knoblauch ciuis Argentinensis in officina in- dustrij Hen¬
+          <lb/>rici Gran in oppido Imperiali Hagenau impresse Anno
+          <lb/>gra- tie M. D. X. in vigilia Conversionis sancti Pauli finiunt
+          <lb/>feliciter.
+          <lb/>40, Antiq, 125 unn. Bll., Sign. a—2, A, Kopft., Init.
+          <lb/>Auf der Rücks. des Titelbl.: Io. HILTEBRANT LECTORI S. D. P.
+          <lb/>Bl. A 2a: IN GRAMMATICAM IACOBI HEN-richmanni
+          <lb/>Henricus Bebelius... (3 Dist.) &amp;amp; Versiculi Sebastiani Kefer
+          <lb/>...in grammaticam lacobi Henrichmanni preceptoris sui.
+          <lb/>(6 Dist.) Darunter: Henrico Bebelio... Iacobus Henrichman¬
+          <lb/>nus... Tubingae... decimo Kalendas Apriles. Anno M. D. VI.
+          <lb/>*RI01583. Prov.: W. Hausknecht, St. Gallen 17. X.1882,7M.
+          <lb/>Handschr. Notizen.
+          <lb/>Fehlt bei Schmidt.
+          <lb/>1128
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

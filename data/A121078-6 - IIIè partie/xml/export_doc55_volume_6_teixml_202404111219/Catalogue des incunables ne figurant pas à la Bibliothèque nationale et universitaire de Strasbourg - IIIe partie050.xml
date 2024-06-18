@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:05.909446+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie050.tif
+IMAGE WIDTH: 2456
+IMAGE HEIGHT: 3930
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>GESTA Romanorum. Voir aussi : MEISTER (die sieben
+          <lb/>weisen) nos 460, 461.
+          <lb/>GHERARDINI, Voir: ANGELUS n° 77.
+          <lb/>GOUDA, Guilelmus de : Expositio mysteriorum Missae. —
+          <lb/>Strasbourg, J. Knobloch (1500 ?), in-4°.
+          <lb/>Hain 7829 : Voulliéme : Berlin 2555.
+          <lb/>296
+          <lb/>GRAMMATELLUS cum glosa germanica. — (Strasbourg, pas
+          <lb/>après 1493), in-4°.
+          <lb/>Pellechet 5294; Polain 1670; Voulliéme: Berlin 2543,5. 297
+          <lb/>GRATIANUS : Decretum Gratiani... — (Strasbourg,
+          <lb/>H. Eggestein s. d.].
+          <lb/>Hain 7921.
+          <lb/>298
+          <lb/>GRATIANUS : Decretum cum apparatu. — Strasbourg,
+          <lb/>Jean Grüninger) 19. I. 1490, in-4°.
+          <lb/>Hain 7909; Pellechet 5330.
+          <lb/>299
+          <lb/>GREGORIUS, Magnus (pape) : Dialogus. — Strasbourg 1496,
+          <lb/>in-40.
+          <lb/>Hain 7965.
+          <lb/>300
+          <lb/>GREGORIUS Magnus (pape) : Dialogi. — (Strasbourg,
+          <lb/>Georges Eber vers 1481), in-fol.
+          <lb/>Hain 7959; Proctor 509; Pellechet 5356; Voulliéme : Berlin
+          <lb/>2335; Baer (Francfort s. M.), Catal, 500 (1905), n° 337. 301
+          <lb/>GREGORIUS Nazianzenus : Apologeticus. — Strasbourg,
+          <lb/>J. Knobloch 1500.
+          <lb/>Hain 7995. Voir : Ritter : Hist. de l’imprimerie p. 196
+          <lb/>« affirmation erronée de Schoepflin».
+          <lb/>302
+          <lb/>GRESEMUNDUS, Theodoricus: Oratio ad sanctum synodum
+          <lb/>48
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

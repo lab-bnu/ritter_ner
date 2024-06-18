@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:20:02.764917+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5333.tif
+IMAGE WIDTH: 2404
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>ABRÉVIATIONS
+          <lb/>I. MOTS ABRÉGÉS
+          <lb/>App. = appendice.
+          <lb/>litt. — littéraire.
+          <lb/>anc. poss. = ancienne possession.
+          <lb/>loc. cit. — loco citato.
+          <lb/>Bibl. — Bibliothèque.
+          <lb/>marg. — marginal.
+          <lb/>BM = Bibliothèque Municipale.
+          <lb/>ms. = manuscrit.
+          <lb/>BN — Bibliothèque Nationale.
+          <lb/>mss.= manuscrits.
+          <lb/>BU — Bibliothèque Universitaire.
+          <lb/>Brit. Mus. — British Museum.
+          <lb/>NF = Neue Folge.
+          <lb/>car. = caractères.
+          <lb/>p. — page; pp. — pages.
+          <lb/>Cat. — Catalogue.
+          <lb/>P. = Pars, partie.
+          <lb/>ch. — chiffré.
+          <lb/>pl. — planche.
+          <lb/>col. — colonne.
+          <lb/>prov. — provenance.
+          <lb/>dict. = dictionnaire.
+          <lb/>Rel. anc. — reliure ancienne.
+          <lb/>Rép. — Répertoire.
+          <lb/>éd. —= édition.
+          <lb/>rom. — romain.
+          <lb/>ex. — exemplaire.
+          <lb/>S. — Seite.
+          <lb/>f. = folio; ff. = folios.
+          <lb/>s. d. = sans date.
+          <lb/>s. 1. — sans lieu.
+          <lb/>goth. — gothique.
+          <lb/>s. 1. n. d. = sans lieu ni date.
+          <lb/>grav. = gravure.
+          <lb/>sign. — signature.
+          <lb/>hrsg. — herausgegeben.
+          <lb/>ss. — suivant.
+          <lb/>hist. — historique.
+          <lb/>T. — Tome.
+          <lb/>impr. = imprimé.
+          <lb/>typ. — typographique.
+          <lb/>init. — initiale, à fig. — à figure.
+          <lb/>vign. — vignette.
+          <lb/>ital. — italien.
+          <lb/>vol. = volume.
+          <lb/>lat. — latin.
+          <lb/>Zeitschr. — Zeitschrift.
+          <lb/>II. TITRES ABRÉGÉS
+          <lb/>Beaulieux — Beaulieux Charles: Catalogue de la Réserve XVIe siècle (1501-1540)
+          <lb/>de la Bibliothèque de l’Université de Paris... — Paris 1910.
+          <lb/>Benzing — Benzing, Josef : Buchdruckerlexikon des 16. Jahrhunderts... —
+          <lb/>Franfurt a. M. 1952.
+          <lb/>BMC — British Museum Catalogue of printed books in the 15th century, now
+          <lb/>in the British Museum... — London 1908 ss.
+          <lb/>Brunet — Brunet, J. Ch. : Manuel du Libraire et de l’amateur de livres. —
+          <lb/>Paris 1810; 5e éd. 1860-65.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

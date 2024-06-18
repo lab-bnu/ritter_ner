@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:11.117017+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002368.tif
+IMAGE WIDTH: 2518
+IMAGE HEIGHT: 3968
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>MISSALE Benedictinum: denuo diligentissime castigatum
+          <lb/>et revisum Ordinis Sancti Benedicti reformatorum
+          <lb/>nigrorum monachorum Burfeldensium. — (Haguenau,
+          <lb/>Thomas Anshelm, janvier 1518), in-fol.
+          <lb/>Ritter : Grand Sém. Strasbourg, n° 337; Weale-Bohatta,
+          <lb/>Bibl. Liturgica, n° 1683; Vogeleis, p. 200; Burg, n° 325. 2695
+          <lb/>MISSALE Bremense : Missale secundum ritum ecclesiae
+          <lb/>Bremensis. — Strasbourg, René Beck pour Caspar de
+          <lb/>Mellerstat 12.1X.1511, in-fol.
+          <lb/>Weale-Bohatta : Bibliographia Liturgica, n° 202; Ritter,
+          <lb/>Hist. Impr., p. 222.
+          <lb/>2696
+          <lb/>MISSALE Cracoviense. — Strasbourg, Jean Knobloch pour
+          <lb/>Nicolas Schickewich 14.x.1510, in-fol.
+          <lb/>Weale-Bohatta : Bibliographia Liturgica 337.
+          <lb/>2697
+          <lb/>MISSALE Hamburgense : per Albertum Krantz castigatum. —
+          <lb/>(Strasbourg, Jean Prüss aux frais de Hermann
+          <lb/>(Barkhusen) d’Emden 1509, in-fol.
+          <lb/>Panzer 6, 45; Schmidt III, p. 22, n° 76; Weale-Bohatta,
+          <lb/>n° 420; Vogeleis, p. 171.
+          <lb/>2698
+          <lb/>MISSALE itinerantium : seu Misse peculiares. — Strasbourg
+          <lb/>Jean Knobloch (?)1 1517, in-8°.
+          <lb/>Weale-Bohatta : Biographia Liturgica, no 473; Vogeleis,
+          <lb/>p. 199. (B N Strasbourg R101.967 : Rép. n° 1583).
+          <lb/>2699
+          <lb/>MISSALE Ordinis s. Joh. Hierosolymitani. — (Strasbourg,
+          <lb/>Jean Prüss 1505), in-fol.
+          <lb/>Panzer 6, 32; Ritter, Grand Sém. Strasbourg, n° 338;
+          <lb/>Schmidt III, n° 50; Weislinger 251; Weale-Bohatta 1932;
+          <lb/>Vogeleis, p. 165. — Jadis Bibl. de Strasbourg, Incun, n° 3413.
+          <lb/>2700
+          <lb/>MISSALE Moguntinum. — (Strasbourg, Jean Prüss après
+          <lb/>1500), in-fol.
+          <lb/>Weale-Bohatta 628.
+          <lb/>2701
+          <lb/>366
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

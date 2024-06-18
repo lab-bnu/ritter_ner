@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:08.178524+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002249.tif
+IMAGE WIDTH: 2498
+IMAGE HEIGHT: 3938
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>HORTULUS animae. — (Strasbourg, Jean Knobloch (21.I.)
+          <lb/>1507), in-80.
+          <lb/>Panzer, Annalen I, 277; Schmidt VII, n° 27 : B N Munich;
+          <lb/>Catalogue Didot, juin 1882, p. 100.
+          <lb/>2058
+          <lb/>HORTULUS animae. — (Strasbourg, Jean Knobloch (27.V.)
+          <lb/>1507), in-80.
+          <lb/>Panzer 6, 38, 96; Schmidt VII, n° 2:BN Munich (incomplet).
+          <lb/>2059
+          <lb/>HORTULUS animae : (Getruckt und geendet zu Straszburg
+          <lb/>Durch Johannem Knoblouch am donrstag nach sant
+          <lb/>Sebastiansztag. Nach gottes geburt fünffzehundert und
+          <lb/>syben iar.) (Marque typ. de Knoblochl.
+          <lb/>Bibl. S. Guillaume Strasbourg, très bien conservé avec les
+          <lb/>armoiries du prince d’Essling sur les 2 plats de la reliure.
+          <lb/>2059a
+          <lb/>HORTULUS animae. — (Strasbourg, Jean Knobloch (9.II.]
+          <lb/>1508), in-80.
+          <lb/>Schmidt VII, n° 37; Bibl. Cantonale Aarau, Couvent de
+          <lb/>Muri.
+          <lb/>2060
+          <lb/>HORTULUS animae : Ortulus anime. Der selengärtlin werde
+          <lb/>ich genent. Von dem latein man mich noch kent. Zu
+          <lb/>Straszburg in seynn vatterlant. Hat mich Sebastianus
+          <lb/>Brant Besehen und vast corrigiert. Zu teüsch (!) auch
+          <lb/>vil transferiert... — (Strasbourg, Jean Knobloch (24 mail
+          <lb/>1508, in-8°.
+          <lb/>Panzer, Annalen 1, 289, 607; Schmidt VII, n° 328: Darmstadt.
+          <lb/>2061
+          <lb/>HORTULUS animae :.. denuo diligentissime per S. Brant et
+          <lb/>Wymphelingium castigatus. — (Strasbourg, Jean
+          <lb/>Knobloch (3.I1.] 1509), in-80.
+          <lb/>Kristeller 360; Schmidt VII, n° 55; Proctor 10.068; Londres,
+          <lb/>Brit. Mus.; Baer (Francfort-s.-M.) Catal, 500 (1907), n° 960:
+          <lb/>180 M. « Mit 80 reizvollen Holzchnitten.»
+          <lb/>2062
+          <lb/>247
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

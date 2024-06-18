@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:15.016070+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002546.tif
+IMAGE WIDTH: 2496
+IMAGE HEIGHT: 4006
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Hertzogen von Parma an ihn abgangenes schreiben,
+          <lb/>in welchem er von dem König zu Franckreich und
+          <lb/>Navarren abfellig und Spanisch zu werden ermanet
+          <lb/>worden. Auss dem Frantzösischen verteutschet.
+          <lb/>M.D.LXXXXI. — (Strasbourg, Bernard Jobin) 1591,
+          <lb/>in-4°.
+          <lb/>Weller, Zeitungen, n° 732. Ritter, Histoire de l’imprimerie.
+          <lb/>p. 558, app. 344 (10).
+          <lb/>3616
+          <lb/>ZEITUNG : Warhafftige Newe zeytung, von dem Türcken,
+          <lb/>Wie er die Stadt Molach eingenommen. Auch alle Christen
+          <lb/>darinnen ermordet und umgebracht, Letzlichen die stadt
+          <lb/>angezündet und verbrand. Geschehen den 6. des
+          <lb/>Hornungs anno 1591... — Erstlich Gedruckt zu Strass-
+          <lb/>burg, bei Nicolaus Walde, 1591, in-4°.
+          <lb/>Weller, Zeitungen, n° 734.
+          <lb/>3617
+          <lb/>ZEITUNG : Zwo Warhaffte Newe Zeittung, auch kurtzer
+          <lb/>bericht, Die erste, Das jetzige Strassburgische Kriegs¬
+          <lb/>wesen betreffende, und sonderlich, von ubergebung und
+          <lb/>auffnemung der Statt Moltzheim, auch was gestalt die
+          <lb/>Strassburger sich mit den darin ligenden Soldaten und
+          <lb/>Garnison im aufgeben und abzug verhalten, so beschehen,
+          <lb/>den 15. Novembris, dises zu end lauffenden Jars 1592.
+          <lb/>Die ander Zeittung auss Reussen unnd Lifflandt, was
+          <lb/>sich alda mit dem Wütterischen Moscovitter dises 92.
+          <lb/>jars verloffen und zugetragen hat. — Strasbourg,
+          <lb/>Jost Martin 1592, in-4°.
+          <lb/>Weller, Zeitungen, n° 756.
+          <lb/>3618
+          <lb/>ZEITUNG : Seltzam unerhörte Zeytung. Wz gestalt Georg
+          <lb/>Hanober von Olmitz, vermeinter Alchimist, mit dem
+          <lb/>Strang ist hingerichtet worden. — Strasbourg 1597,
+          <lb/>in-40.
+          <lb/>Goedeke II2, p. 313, n° 304.
+          <lb/>3619
+          <lb/>ZEITUNG, neüw, so zu Kyngszburg in Preussen fürgangen.
+          <lb/>Voir : DÖRING, J., n° 1518.
+          <lb/>544
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

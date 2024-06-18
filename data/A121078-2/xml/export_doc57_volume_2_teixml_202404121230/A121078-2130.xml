@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:30.207512+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2130.tif
+IMAGE WIDTH: 2310
+IMAGE HEIGHT: 3826
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>126
+          <lb/>In-fol., car. goth., 3 ff. non ch. (Index) et CCXXXI ff. ch., à partir
+          <lb/>de fol. V verso, 2 colonnes. La plupart des gravures ne sont plus com¬
+          <lb/>posées de 2 pièces comme dans les autres éditions, mais d’une seule,
+          <lb/>n’occupant plus la largeur du f. mais de la colonne seulement, elles sont
+          <lb/>presque toutes prises des éditions précédentes, mais plus fines dans l’exé¬
+          <lb/>cution.
+          <lb/>R 10.035. Prov.: Gilhofer, Vienne, 6/III,, 1895, 45 flor.
+          <lb/>GPB. Berlin, Marbourg.
+          <lb/>210
+          <lb/>BOCK Hieronymus
+          <lb/>Strasbourg, W. Rihel, 1539.
+          <lb/>NEW Kreütter Bâch von! vnderscheydt, würckung vnd
+          <lb/>namen der kreüt ter so in Teütschen landen wachsen.
+          <lb/>Auch der selbigen eygent- lichem vnd wolgegründtem ge¬
+          <lb/>brauch in der Artznei, zû behal- ten vnd zet fürdern leibs
+          <lb/>gesuntheyt fast nutz vnd tröst- lichen, vorab gemeynem
+          <lb/>verstand. Wie das ausz dreien Registern hienach ver¬
+          <lb/>zeychnet ordenlich zûfinden. Beschriben durch Hieronv¬
+          <lb/>mum Bock ausz lang-wiriger vnnd gewisser erfarung,
+          <lb/>vnnd gedruckt zû Straszburg, durch Wendel Rihel. Im
+          <lb/>jar M. D. XXXIX.
+          <lb/>Armoiries.
+          <lb/>Mit Keyserlicher freiheyt auff vij.vd Königlicher
+          <lb/>auff vi. jar.
+          <lb/>In-fol., car. goth,, 10 ff. non ch., CLXXIV ff. ch. pour la tre et
+          <lb/>LXXXVIII ff. ch. pour la 2e partie, 2 ff. non ch., titre courant, réclames,
+          <lb/>notes marg., init. goth.
+          <lb/>Au verso du titre: Wendel Rihel bûchtrucker, wünschet
+          <lb/>dem leser... heyl... Wysse lieber Leser, das ich lang in
+          <lb/>wil- lens gewesen, für disz new kreütter Bûch, newe figu¬
+          <lb/>ren von den frischen kreüttern abmalen zûlassen, vnnd
+          <lb/>bei evn vedes kraut sein warhafftig abbildung zû trucken.
+          <lb/>Welches mein vorhaben, Herren! Hieronymum den schrei¬
+          <lb/>bern nit hat für gût angesehen, sunder hat mir geratten,
+          <lb/>das ich keyn arbeyt anwendet, die den kauffer am gelt
+          <lb/>beschwe- ret, vnnd am verstand den leser nit vil fürde¬
+          <lb/>ret... — Geben Straszburg. (1 page.)
+          <lb/>Fol. 2a non ch.:... frawen Eliza-bethen, Psaltzgreffin (!)
+          <lb/>beim Rhine, Hertzogin in Bayern... Hieronymus Bock... —
+          <lb/>Datum Hornbach den er- sten tag Januarij, Anno! M. D.
+          <lb/>XXXIX. (2 p.)
+          <lb/>Fol. 3a non ch.: Vorrede... (2 ff.). Suivent 12 pages de table
+          <lb/>à 2 col.
+          <lb/>R 10.502. Prov.: M. Hauptvogel, Gotha, 5/1x. 1898, 30 M.
+          <lb/>Au haut du titre: Ad Dominum Metgethen; au bas, auto¬
+          <lb/>graphe Voigt.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

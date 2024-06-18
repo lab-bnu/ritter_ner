@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:56.109179+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5189.tif
+IMAGE WIDTH: 2356
+IMAGE HEIGHT: 3858
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1499
+          <lb/>VERGILIUS Polydorus
+          <lb/>Strasbourg, M. Schürer, 1511
+          <lb/>Polidori Vergilii Urbi-natis Praesbyteri Prouerbiorum
+          <lb/>liber, quo paroemiae insigniora omniumfere scriptorum
+          <lb/>luculentissi-ma enarratione expli- cantur.
+          <lb/>Lector, Eme, Lege, Et Probabis.
+          <lb/>A la fin : ... MatthiasSchürerius Heluetensis Argentorati!
+          <lb/>venustissimis formis emenda-tissime denuo excudit. Mense
+          <lb/>Nouembri An. hu!! manae salutis,  M. D. XI.
+          <lb/>Imp. Caes. MaximilianoP. F. Aug. Imperium Romanum
+          <lb/>Mo-] derante. (Verso blanc.)
+          <lb/>In-4°, car. rom., 6 ff. non ch., XLVII ff. ch., 1 f. non ch., titre courant,
+          <lb/>init. d’attente. Les préfaces comme au n° précédent.
+          <lb/>R. 102.023. Prov. : Bibl. Böcking.
+          <lb/>2e ex. R. 100.114 (4). Prov. : Hartter, pasteur à Luizhausen, 22/x,
+          <lb/>1877; sans indic. du prix.
+          <lb/>Schmidt, VIII, No 58, Bibl. St. Guillaume et jadis Bibl. de Strasbourg.
+          <lb/>Incun. No 4741.
+          <lb/>Ritter, BM Strasbourg, No 2180.
+          <lb/>2396
+          <lb/>VERGILIUS Polydorus
+          <lb/>Strasbourg, M. Schürer, 1512
+          <lb/>Polydori Vergilii UrbinatisDe Inventoribus Rerum
+          <lb/>Libri Tres.
+          <lb/>M. Antonii Sabellici de Ar tium Inventoribus! ad Bassum
+          <lb/>carmen! elegantissi-mum.!
+          <lb/>Ad Lectorem. (7 lignes.)
+          <lb/>Ex Secunda Recognitione.
+          <lb/>A la fin : Argentorati, in officina Mathiae Schurerii! Seles¬
+          <lb/>tensis. Art. Doct. Menseunio. Anno!! M. D. XII.
+          <lb/>Regnante Caes.Maximiliano P. F. Aug.(Verso blanc.)
+          <lb/>In-4°, car, rom., 4 ff. non ch., LXIIII ff. ch., titre courant, notes marg.,
+          <lb/>init. d’attente.
+          <lb/>Au verso du titre : Praefatio.!Polydori Vergilii Urbinatis ad Il
+          <lb/>Lodouicum Octavium Patauinum Praefatio (3 pp.).
+          <lb/>Suivent 4 pp. de table.
+          <lb/>&amp;quot;R. 102.058. Prov. : Rosenthal, Mumich, 20/XII, 1884; 10M.
+          <lb/>Schmidt, VIII, No 74, Bibliothèque du Consistoire de Colmar.
+          <lb/>2397
+          <lb/>VERGILIUS Polydorus
+          <lb/>Strasbourg, M. Schürer (1515)
+          <lb/>Polydori Vergilii vrbinatis.De! Inventoribus Rerum
+          <lb/>Libri Tres.
+          <lb/>M. Antonii Sabellici De Ar tium. Inventoribus. [ ad
+          <lb/>Bassum carmen elegantissi!! mum.
+          <lb/>Ad Lectorem. (6 lignes.) Sans explicit.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

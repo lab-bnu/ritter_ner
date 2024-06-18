@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:54.683365+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078404.tif
+IMAGE WIDTH: 2376
+IMAGE HEIGHT: 3834
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1290
+          <lb/>écu blanc et 2 lions.
+          <lb/>In-4°, car, goth., 12 ff. non ch., réclames, notes marg., init. D avec un
+          <lb/>R. 101.958. Prov. : Donation Cunitz, 1886.
+          <lb/>Ritter, Catal. BM Strasbourg, N° 1812; Bibl. St. Guillaume, Strasbourg,
+          <lb/>BM Colmar.
+          <lb/>2013
+          <lb/>RHEMNIUS Fannius Palaemon O., De Ponderibus et Mensuris.
+          <lb/>Voir: CELSUS, De re medica.
+          <lb/>Haguenau, J. Secer, 1528
+          <lb/>RHENANUS Beatus Bild. Voir : BEATUS RHENANUS (devrait
+          <lb/>figurer à RHENANUS).
+          <lb/>RHOMANN Gallus. Voir: HAWENREUTER Joh. Lud., Psycho¬
+          <lb/>logia.
+          <lb/>Strasbourg, A. Bertram, 1591
+          <lb/>RICARDUS Anglicus
+          <lb/>Strasbourg, B. Jobin 1581
+          <lb/>I. Correctorium Alchymiae Richardi Anglici.Das ist
+          <lb/>Reformierte Al-chimy, oder Alchimeibesse-rung, und
+          <lb/>Straffung der Alchimisti-] schen Miszpräuch : vom Alten und
+          <lb/>längst-berümten Medico, Richardo aus Engelland
+          <lb/>beschriben.
+          <lb/>II. Raimundi Lulli Aperto-rum &amp;amp; Accuratio Vegeta¬
+          <lb/>bilium.Von eröffnung und entdeckung wach-sender
+          <lb/>Sachen, und des Philosophischen steyns,  des Wolbekannten
+          <lb/>Philosophi und Eremi- (I ten Raimundi Lulli Tractat.
+          <lb/>III. Des Königs Gebers ausz Hispanien Secretarium,
+          <lb/>dessen sich die Venetianer hoch austhun.Alles nun erstmals
+          <lb/>zu dienst und nutz allen Rey-ner und Geheymnuszreicher
+          <lb/>Artznei ubenden!! und beliebenden inn Truck gefärtigt.
+          <lb/>Zu Straszburg, bei Bernhart Jobin!! Anno M. D. LXXXI.
+          <lb/>(Verso blanc.)
+          <lb/>In-8°, car. goth., 8 ff. non ch., 151 ff. ch. et 1 f. blanc, titre courant,
+          <lb/>réclames, notes marg., init. goth.
+          <lb/>fol. A 2a : Vorwarnung] an den Gönstig Gutherzi- gen Kunstlie¬
+          <lb/>benden Leser von!! Achtung der Alchimei. (Préface.)
+          <lb/>R. 101.2592. Provenance inconnue.
+          <lb/>Au verso du dernier f. annotations mss.
+          <lb/>2014
+          <lb/>RICCIUS Bartholomaeus
+          <lb/>Strasbourg, M. Apiarius, 1535
+          <lb/>Apparatus! Latinae Lo- cutionis.E M. T. Cicerone,
+          <lb/>Caesare, Sallustio, Terentio,!! Plauto, ad Herennium, Asconio,
+          <lb/>Celso ac de Re!! rustica, per Bartholomaeum!! Riccium
+          <lb/>Lugiensem in suum or- dinem descriptus.His Accessit
+          <lb/>index in Ciceronem Et alia nonnulla, ut suo lo-co videbis.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

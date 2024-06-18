@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:06.685990+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie105.tif
+IMAGE WIDTH: 2490
+IMAGE HEIGHT: 3936
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>VOCABULARIUS Exquo. (fol. 1b, ligne 17 : nam habebunt). —
+          <lb/>(Strasbourg, Georges Husner s. d.), in-4°.
+          <lb/>Voulliéme : Berlin 2535.
+          <lb/>684
+          <lb/>VOCABULARIUS Exquo. (fol. 1b ligne 16 : vitam aeternam
+          <lb/>habebunt). — (Strasbourg, Georges Husner s. d.],
+          <lb/>in-4°.
+          <lb/>Voulliéme : Berlin 2536.
+          <lb/>685
+          <lb/>VOCABULARIUS Exquo. — (Strasbourg, Martin Flach] 30.
+          <lb/>IX. 1490, in-40.
+          <lb/>Voulliéme : Berlin 2491.
+          <lb/>686
+          <lb/>VOCABULARIUS Exquo. (fol. 1b, ligne 17 bebunt). —
+          <lb/>(Strasbourg, Georges Husner vers 1498), in-40.
+          <lb/>Voulliéme: Berlin 2537; Rosenthal (Munich), catal. 135 (1914),
+          <lb/>n° 2474.
+          <lb/>687
+          <lb/>VOCABULARIUS praedicantium. Voir: MELBER, Joh. nos 462¬
+          <lb/>467.
+          <lb/>VOCABULARIUS rerum. Voir : BRACK Wenceslaus 128-130.
+          <lb/>VOCABULARIUS super terminos juris. — (Strasbourg (?) typis
+          <lb/>Reyserianis avant 14791, in-fol.
+          <lb/>Copinger III, 6356; Walter n° 505/506.
+          <lb/>688
+          <lb/>VOCABULARIUS (teutonicus-latinus) : Vocabularius incipiens
+          <lb/>teutonicum ante latinum. — (Strasbourg, Jean Grü¬
+          <lb/>ninger s. d.), in-4°.
+          <lb/>Voulliéme : Berlin 2330.
+          <lb/>689
+          <lb/>VOCABULARIUS (Idem). — [Strasbourg, Jean Grüninger
+          <lb/>s. d.], in-40.
+          <lb/>Voulliéme : Berlin 2331.
+          <lb/>690
+          <lb/>103
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

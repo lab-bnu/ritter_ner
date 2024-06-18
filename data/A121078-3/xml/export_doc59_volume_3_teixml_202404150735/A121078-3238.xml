@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:09.373901+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3238.tif
+IMAGE WIDTH: 2332
+IMAGE HEIGHT: 3854
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>682
+          <lb/>gine&amp;#x27;s, Kunst der Chiromantzey&amp;#x27; vom Jahre 1523, CXLV S. — S. 94:
+          <lb/>Bildnis des Ingadine.
+          <lb/>Bl. 4b: Disz Bâch zûm Leszer, (18 deutsche Dist.) Anno M. D. XL.
+          <lb/>R 10.2602. Prov.: Bibl, der alten Strassb, medizinischen Fakultät.
+          <lb/>Schmidt II Nr. 139. GK: SB Berlin, UB Göttingen, Marburg.
+          <lb/>1092
+          <lb/>Münster.
+          <lb/>GERSON Johannes
+          <lb/>Strassburg, M. Flach junior 1502
+          <lb/>Quarta pars operum Johan-nis Gerson prius non
+          <lb/>impressa. Ad lectorem Hexasticon in opus quartum
+          <lb/>Gersonis:
+          <lb/>Quod fuit infectum tetra rubigine quondam
+          <lb/>Mathias Schürer clarificavit opus
+          <lb/>Jam dudum e cecis dat bibliopola tenebris
+          <lb/>Wimphelinge opera magne Jacobe tua
+          <lb/>Nunc quicunque stifum vult lector habere politum
+          <lb/>Calcographi Flacci non nisi nomen emat.
+          <lb/>Am Schluss: Finit quarta pars operum Johannis ger
+          <lb/>son; que prius non fuere impressa: Jam vero prodeunt
+          <lb/>feliciter ex officina Mar tini flacci iunioris Argen, exac¬
+          <lb/>tissima Mathie schurer Sletstatini consobri ni eius opera.
+          <lb/>iij. kal. Martij. Anno, 1502.
+          <lb/>20, Got., 2sp., 306 unn. Bll., Sign. aa-bb, a-2, A-T, Kopft., Init.
+          <lb/>Auf der Rücks. des Titelbl. blattgrosser Holeschn.: Gerson in
+          <lb/>Pilgertracht.
+          <lb/>Bl. aa 2a: Prologus... — Ex heremitorio diui Guil
+          <lb/>hermi in suburbano Argentinensi: kal. Decembris Anno
+          <lb/>christi, 1501. (Vorrede Wimpfelings, 1 S.) Die 3 ersten Teile aaren
+          <lb/>1494 erschienen bei Martin Flach sen.
+          <lb/>K 1703. Prov.: Stadtbibl. München 22. 1. 1880; 2 M. 50. Hand¬
+          <lb/>schriftl. Notiz: Iste liber attinet Venerabili Cenobio S. Nicolai Monasterij
+          <lb/>Anndex Ordinis S. Benedicti.
+          <lb/>Hain 7625; Schmidt VI Nr. 7; Proctor II Sectio I Nr. 10139:
+          <lb/>London Brit. Museum. GK: UB Greifswald, Münster.
+          <lb/>1003
+          <lb/>GERSON Johannes
+          <lb/>Strassburg, J. Grüninger 1505
+          <lb/>Joannes Garson de miseria humana.
+          <lb/>Am Schluss: Joannes Grüninger, quarto nonas Martij
+          <lb/>Anno M. D. V. Argentine imprimebat.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

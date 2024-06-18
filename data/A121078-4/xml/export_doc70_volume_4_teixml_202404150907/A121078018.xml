@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:42.940858+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078018.tif
+IMAGE WIDTH: 2372
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>902
+          <lb/>an mitwochen nach sant Bartholomeus tag des heiligen
+          <lb/>zwelffbotten des iares da man zalt nach christi geburt
+          <lb/>M. ccccc. vnd vii. 1 iar. (Verso blanc.)
+          <lb/>In fol., car. goth., 2 col., CXCIIII ff. ch., titre courant, initiales
+          <lb/>à fig. et init, ornées.
+          <lb/>dont 123 se répètent, sont en partie nouvelles, mais traduites dans le
+          <lb/>C&amp;#x27;est la 8e édition de ce livre; les gravures, au nombre de 328,
+          <lb/>genre nouveau d’illustration; les paysages y jouent un grand rôle; beau¬
+          <lb/>coup sont empruntées au Heiligenleben de 1498 et aux Evangelia 1498.
+          <lb/>Grandeur ordinaire, hauteur 75, largeur 35 mm.
+          <lb/>*R10.329. Prov.: Fréd. Cohen, Bonn 15/XI 1897; 21 M. 50.
+          <lb/>Schmidt I n° S0. BN Munich.
+          <lb/>1345
+          <lb/>LEBEN DER ALTVÄTER
+          <lb/>Strasbourg, M. Hupfuff 1513
+          <lb/>Das Bûch der Alltuäter wie sie ir heiliges leben
+          <lb/>volbracht haben in der einöde; was wunder zeichen sie
+          <lb/>gewirckt haben, auch ire sprüch vnd byspil so sie vns
+          <lb/>menschen geben haben, zu einer vnderweiszung vnd lere.
+          <lb/>(Gravure sur bois: différentes scènes de la vie des ermites dans le dé¬
+          <lb/>sert, au fond deux églises. Verso blanc.)
+          <lb/>A la fin: Gedruckt vnd volendet in der keiser- lichen
+          <lb/>Freyen statt Straszburg durch fleisz Mathisen Hupfuff,
+          <lb/>an zinstag Paulus Bekerung des heiligen martrers tag.
+          <lb/>Des iares da man zalt nach Christi geburt. M.CCCCC.
+          <lb/>vnd Xiii. iar.
+          <lb/>In-fol., car. goth., 2 col., 6 ff. non ch., CLXXXVII ff. ch., titre
+          <lb/>courant, init, ornée S; 176 gravures, en partie très mauvaises, beaucoup
+          <lb/>sont empruntées à des ouvrages antérieurs.
+          <lb/>R10.313. Prov.: Dr Th. de Liebenau, Berne 23/X1 1874; 7 M. 50.
+          <lb/>Au verso du f. de garde: «In usum Joannis Rudolphi Sonnenberg Lucer¬
+          <lb/>nensis, et Amicorum. Anno 1600.»
+          <lb/>Proctor II Sectio I n° 10.034: Londres Brit. Museum; Schmidt V
+          <lb/>n° 103.
+          <lb/>1346
+          <lb/>LEBEN DER ALTVATER
+          <lb/>Strasbourg, J. Grüninger 1516
+          <lb/>Der heilgen Altuater leben! Nüw getruckt wie sie ir
+          <lb/>Heiliges leben volbracht haben. Jn der einöde was wun¬
+          <lb/>derzeichen sie gewircket haben, auch jre sprüch! vnd
+          <lb/>beyspil so sie vns menschen geben haben zû einer vnder
+          <lb/>weisung vnd gûten ler. (Même gravure que dans l’édition de 1507.
+          <lb/>Verso blanc.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

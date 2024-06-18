@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:55.558597+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5173.tif
+IMAGE WIDTH: 2350
+IMAGE HEIGHT: 3856
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>UFFENBACH Petrus. Voir : SPACH Israel, Theses medicae.
+          <lb/>Strasbourg, A. Bertram, 1594. R 101.564 (14)
+          <lb/>ULRICH St.
+          <lb/>Haguenau, Th. Anshelm, 1521
+          <lb/>Sant Ulrichs desheiligen Bischoffs zu Aug-spurg
+          <lb/>verteutschte cristliche schrifft, oder antwort an! Bapst
+          <lb/>Nicolaum, der sich vnderstund nitmit recht sonder
+          <lb/>vnbillich, nit ordenlich,sonder vnbescheidenlich, ] den
+          <lb/>geystlichen eelicheweyber wider gottes! ordnung zuuer
+          <lb/>bie ! ten.
+          <lb/>A la fin : Gedruckt zu Hagenaw durch Tho-[ man Anszhelm
+          <lb/>in dem hornung, Nach der gepurt vnsers !l hern Christi
+          <lb/>Tausent fünffhundert vnd einvnzwen ]] zig iar. (Verso
+          <lb/>blanc.)
+          <lb/>In-4°, car. goth., 6 ff. non ch., sign. A, init. à fig. H, titre encadré,
+          <lb/>au haut deux griffons, tenant chacun une corne d’abondance, des piliers
+          <lb/>ornés sur les bordures latérales, au milieu de la bande inférieure 5 génies
+          <lb/>dont l’un sonne la trompette, tirant un sixième, couché sur un plat.
+          <lb/>R. 101.447. Prov. : J. Bensheimer, Strasbourg (Catal. 43, No 662),
+          <lb/>30/VII, 1879; 8 M.
+          <lb/>2e ex. R. 101.959. Prov. : Bibl. Böcking.
+          <lb/>Schmidt III, p. 36, n° 26, cite une édition du mois de mai 1521, imprimée
+          <lb/>par J. Prüss à Strasbourg et qui se trouve à la Bibl. St. Guillaume de
+          <lb/>Strasbourg.
+          <lb/>2365
+          <lb/>ULSTADIUS Philippus
+          <lb/>Strasbourg, J. Cammerlander, 1536
+          <lb/>Cœlum Philosophorum.Von heymlicheyt der Natur, das
+          <lb/>ist, wie man nit alleyn ausz wein, sonder auch ausz allen
+          <lb/>metallen, früchten,feysch, ayern, wurtzlen, kreuttern,
+          <lb/>vnd ausz vil anderen dingen mer, sol distilliren Aquam Vite,
+          <lb/>zu erhaltung der gesundtheyt menschliches cörpers, Eyn
+          <lb/>kurtz kla res vnd nützlichs Buch, durch fleisz Philippi Ulstadij
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:29.750321+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2116.tif
+IMAGE WIDTH: 2314
+IMAGE HEIGHT: 3824
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>112
+          <lb/>R101.332. Prov.: Bibliothèque Heitz.
+          <lb/>Proctor II, Sectio I, N° 10.193: Londres, British Museum: Schmidt
+          <lb/>VIII, No 62, Walter, No 762; BM Sélestat; GPB: Breslau, Gœttingue.
+          <lb/>189
+          <lb/>BEROALDUS Philippus
+          <lb/>Strasbourg, J. Prüss père, 1501.
+          <lb/>Declamatio Philippi be roaldi de tribus fratribus
+          <lb/>ebrioso; scortatore et lusore.
+          <lb/>Germania Jacobi Wimpffe- lingij ad Rempublicam Ar¬
+          <lb/>gentinensem.
+          <lb/>Ad vniuersitatem heydelbergensem! Oratio Ja. wimpfe.
+          <lb/>S. de an! nuntiatione angelica.
+          <lb/>Distichon ad Lectorem. (1 distique.)
+          <lb/>A la fin: Impressa per industri! um Iohannem prüsz
+          <lb/>Ciuem Argentinensem Tredecimo ka! lendas Ianuarij.
+          <lb/>Anno Mille! simo quingentesimo primo.
+          <lb/>In-4°, car. rom., 44 ff. non ch., sign. a-h, titre courant, notes mar¬
+          <lb/>ginales, initiales d’attente; 2 gravures sur bois: fol. c 6b, les armoiries
+          <lb/>de la ville de Strasbourg, encadrées de branches d’arbre; fol. d Ia, la
+          <lb/>Vierge avec l’enfant, assise sur un trône et étendant les mains, comme
+          <lb/>patronne de la ville de Strasbourg, au dessus d’elle banderole avec la
+          <lb/>devise: Virgo roga prolem: quod plebem seruet et vrbem.
+          <lb/>Cette devise se trouve aussi sur l’ancien sceau de la ville de Strasbourg.
+          <lb/>Au verso du titre: Declamatio! In declamationes Philippi
+          <lb/>Beroaldi Ioannes gallinarius, (7 distiques.) Au-dessous: Iacobus
+          <lb/>wimpfelingius Sletstati nus lacobo Sturm bone indolis ac
+          <lb/>nobilis prosapiae adolescenti S. P. D.... — Ex Heremitorio
+          <lb/>diui Guilhelmi in suburba- no Argen, xiiij kalendas De¬
+          <lb/>cembris. Anno. 1501.
+          <lb/>Fol. a 2b: Declamatio ad... Sigismundum Gossin ge¬
+          <lb/>rum Ecclesiae wratislauiensis Canonicum Philip pi Beroaldi
+          <lb/>bononiensis Epistola...
+          <lb/>*R100085. Prop.: Don de F. Butsch, Augsbourg, 13/XI. 1877.
+          <lb/>Annotations mss. dans le texte.
+          <lb/>2e ex. R102.271. Prov.: Bibliothèque Ch. Schmidt, qui l’avait acquis
+          <lb/>en 1855 à la vente Meusebach à Berlin.
+          <lb/>Proctor II, Sectio I, Ne 9960. Londres, British Museum; Schmidt
+          <lb/>111 p. 9, N° 32: Jadis Bibl. de Strasbourg Incun. No 789a, 4867 et
+          <lb/>son exemplaire; Walter, N° 2421: BM Sélestat; GPB: Berlin, Bonn,
+          <lb/>Kœnigsberg, Marbourg.
+          <lb/>190
+          <lb/>BEROALDUS Phil., De nomine imperatorio. Voir: NEPOS, Vita
+          <lb/>Catonis. Strasbourg, J. Prüss, 1505.
+          <lb/>BEROALDUS Phil.
+          <lb/>Strasbourg, M. Schürer, 1510.
+          <lb/>OPVSCVLVM PHILIPPI BERO) ALDI De Terraemotu &amp;amp; Pe¬
+          <lb/>stilen tia. Cum Annotamentis! GALENI.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

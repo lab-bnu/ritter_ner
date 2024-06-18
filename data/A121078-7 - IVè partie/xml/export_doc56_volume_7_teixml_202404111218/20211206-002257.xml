@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:08.314930+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002257.tif
+IMAGE WIDTH: 2506
+IMAGE HEIGHT: 3988
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>HUTTEN, Ulr. (Clag) : Ain clag über den brandt der Lutheri¬
+          <lb/>schen bücher zu Mentz... — [Sélestat, Nicolas Küffer
+          <lb/>1521), in-4°.
+          <lb/>Böcking XXXIIIB5; Weller 1788; Benzing, Hutten, n° 156:
+          <lb/>«BU Bâle; BN Munich, Strasbourg, Bibl. Centr. Zurich, etc.
+          <lb/>« Dieser Druck (no 156) ist, wie auch das Neu Lied» Huttens
+          <lb/>(siche n° 179) eindeutig ein Druck von Nicolaus Küffer in
+          <lb/>Schlettstadt.
+          <lb/>« Zum Typenvergleich verweise ich (Benzing) auf die in der
+          <lb/>Weimarer Lutherausgabe verzeichneten Drucke Küffers (VI 613
+          <lb/>C, VII, 156 I u. K). Bis heute sind uns 7 Drucke Küffers, u.
+          <lb/>zwar nur aus dem Jahre 1521 bekannt; darunter auch ein
+          <lb/>Druck mit der Jahreszahl 1526 : Beclagung Tütscher Nation...
+          <lb/>Gedruckt zu Schnerszheim an dem Kochersberg in dem
+          <lb/>... Jahr M. D. XXVI, in-40, 14 Bll. Die Jahreszahl M. D. XXVI
+          <lb/>ist dem Original Lamentationes Germanicae Nationis
+          <lb/>(M. D. XXVI), in-4°, entnommen, der als Druck von Lazarus
+          <lb/>Schürer zu Schlettstadt von Ende 1520 stammen muss. Dass
+          <lb/>letzterer am 13.1.1521 im Druck vorlag vgl. Amerbach¬
+          <lb/>korrespondenz 2 p. 276/7. Küffer kann nur eine dürftig einge¬
+          <lb/>richtete Presse gehabt haben; er besass nur eine einzige Type.
+          <lb/>Charakteristisch ist das Rubrum, das oben links ein klein
+          <lb/>wenig ladiert ist.»
+          <lb/>2098
+          <lb/>HUTTEN, Ulr. (Contre la papauté): Clag und vormanung
+          <lb/>gegen dem übermässigen unchristlichem gewalt des
+          <lb/>Bapstes zu Rom und der ungeistlichen geistlichen... In
+          <lb/>reimens weise beschriben. Iacta est alea. Ich habs
+          <lb/>gewagt. — Strasbourg, Jean Knobloch fin 1520, in-4°,
+          <lb/>Böcking XXXIV, 2; Hohenemser 2741; Proctor 10.134;
+          <lb/>Roth, Schöffer, p. 95, n° 26; Weller 1418; Benzing, Hutten,
+          <lb/>n° 145 : B M Bern. Brit. Museum Londres. B N Munich,
+          <lb/>Strasbourg et autres.
+          <lb/>2099
+          <lb/>HUTTEN (Contre la papauté) : Clag und vormanung gegen
+          <lb/>dem übermässigen... gewalt des Bapsts zu Rom... —
+          <lb/>(Strasbourg, Jean Schott, octobre-novembre 1520),
+          <lb/>in-40.
+          <lb/>Böcking XXXIV, 1. Schmidt II, Suppl. p. 12, n° 9. Weller,
+          <lb/>1416 ; Proctor 10.296; Brit. Museum, Londres;
+          <lb/>255
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

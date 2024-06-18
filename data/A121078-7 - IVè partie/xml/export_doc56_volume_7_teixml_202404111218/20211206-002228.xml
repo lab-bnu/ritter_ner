@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:07.570897+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002228.tif
+IMAGE WIDTH: 2490
+IMAGE HEIGHT: 3942
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>fürsten und herren Hertzug (sic) Friderich von Sachsen,
+          <lb/>Die Mesz betreffend. — (Strasbourg, Martin Flach
+          <lb/>1521l, in-40.
+          <lb/>Bibl. S. Guillaume, Strasbourg.
+          <lb/>1953
+          <lb/>HANNENBEIN, Georg. Voir: LIED (Neu Klaglied der Bauern)
+          <lb/>n° 2340.
+          <lb/>HANOBER, Georg. Voir: ZEITUNG (seltzam unerhörte) n° 3619.
+          <lb/>HANS FRIEDRICH (der Altere), Herzog zu Sachsen. Voir:
+          <lb/>STIGELIUS, Joh, n° 3280.
+          <lb/>HARTLIEB, Jacobus : De fide meretricum. — [Strasbourg,
+          <lb/>Mathias Hupfuff] 30. VIII. 1505, in-4°.
+          <lb/>Schmidt V, n° 39. Exemplaire de Ch. Schmidt : « Vers sati¬
+          <lb/>riques contre Ringmann et sa maîtresse Elsa im Tummen¬
+          <lb/>loch. »
+          <lb/>1954
+          <lb/>HARTMANN, Justus. Voir : SCHNEIDEWIN, Joh, n° 3182.
+          <lb/>HASLACH (en Alsace). Voir : ANZEIGUNG (des Mordes zu
+          <lb/>Haslach im Breuschtal) n° 831.
+          <lb/>HAUSRAT: Hie in finstu zu einem neüwen Jar Einen Huszrat...
+          <lb/>— (Strasbourg, Mathias Hupfuff vers 1511), in-4°.
+          <lb/>Schmidt V, n° 88 : Grand Sém. Strasbourg.
+          <lb/>1955
+          <lb/>HAWENREUTER, Johannes : Oratio illustris et generosi
+          <lb/>Domini Johannis Hawenreuteri... — Strasbourg, Nicolas
+          <lb/>Wyriot 1581, in-4°.
+          <lb/>Ritter, Hist. Impr., p. 570, app. 393 (4a).
+          <lb/>1956
+          <lb/>HAWENREUTER, Joh. Ludovicus : Theses ex praecipuis
+          <lb/>philosophiae partibus, in Academia Argentoratensi pri¬
+          <lb/>vatis disputationibus propositae &amp;amp; disputate...
+          <lb/>—
+          <lb/>Argentorati, Excudebat Antonius Bertramus M.D.XCIII
+          <lb/>11593), in-8°.
+          <lb/>Bibl. S. Guillaume, Strasbourg.
+          <lb/>1957
+          <lb/>226
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

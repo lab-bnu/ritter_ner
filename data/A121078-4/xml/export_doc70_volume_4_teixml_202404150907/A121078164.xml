@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:47.355381+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078164.tif
+IMAGE WIDTH: 2308
+IMAGE HEIGHT: 3842
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1050
+          <lb/>MURNER Thomas
+          <lb/>Strasbourg, J. Gruninger 1521
+          <lb/>Der kei serlichen stat re chten ein ingang! und wares
+          <lb/>fundament. Mei! ster und rädten tütscher na! tion von Doc¬
+          <lb/>tor Thomas Murner gegabet und zû ge fallen vertütschet.
+          <lb/>(Verso blanc.)
+          <lb/>A la fin: Getruckt und volendet! in der stat Strasz¬
+          <lb/>burg von Johan-ni Grieninger uff sant Micha! els abent
+          <lb/>in dem iar nach der gebürt Cristi.M. D. und xxi.
+          <lb/>(Verso blanc.)
+          <lb/>In-4°, car. goth., 154 ff. non ch., sign. A-Z, a-o, titre courant,
+          <lb/>de nombreuses init, ornées; titre rouge et noir, encadré (voir n° 1610).
+          <lb/>Fol. 2 2b: grande grav. de 2 pp.: Von den graden der sipschafft.
+          <lb/>(Arbre généalogique.)
+          <lb/>Fol. 2a: Vorred Dem strengen erenfesten her ren Hansen Bock
+          <lb/>Ritter, Heil und uff! gang der Keiserlichen rechten... (Préface de 6 pp.)
+          <lb/>Fol. B 1a: Vorred, (53 vers allemands.)
+          <lb/>Remaniement avec un nouveau titre du livre de Murner: Insti¬
+          <lb/>tuten, ein warer ursprung und fundament des Keyserlichen rechtens.
+          <lb/>Basel, Adam Petri, 1519, in-4°.
+          <lb/>*R 100.602. Prov.: J. Bensheimer, Strasbourg (Catal. 40 n° 551)
+          <lb/>28/11 1879; 45 M. Au verso du f. de garde:,Aüsserst selten. Panzer
+          <lb/>und den Bibliographen unbekannte Ubersetzung.&amp;quot;
+          <lb/>Schmidt I n° 185: Berlin.
+          <lb/>1614
+          <lb/>MURNER Thomas
+          <lb/>Strasbourg, J. Gruninger 1521
+          <lb/>Wie doctor. M. Luter usz falsch en ursachen bewegt
+          <lb/>Daz geistlich recht ver brennet hat. (Verso blanc.)
+          <lb/>A la fin: Getruckt zû straszburg durch Ioannem grien¬
+          <lb/>niger! in dem iar m. d. xxi. uff den mondag invocavit.
+          <lb/>In-4°, car. goth., 16 ff. non ch., sign. A-D, titre courant, de
+          <lb/>nombreuses init. ornées; titre encadré (voir n° 1610).
+          <lb/>R100.448. Prov.: Bibl. Ed. Bœcking.
+          <lb/>Schmidt I n° 184.
+          <lb/>1615
+          <lb/>MURNER Thomas
+          <lb/>Strasbourg, J. Gruninger 1522
+          <lb/>Ob der Künig usz engelland ein lügner sey oder
+          <lb/>der Luther, (Armoiries du roi d’Angleterre, avec les mots : Henricus
+          <lb/>Rex Anglie.)
+          <lb/>A la fin: Zu lob und ere got dem almechti! gen, zû nutz
+          <lb/>und fürstand cristlichem glauben, und den hei- ligen Sa¬
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

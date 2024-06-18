@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:45.438125+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078103.tif
+IMAGE WIDTH: 2318
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>init, ornées B, S, vign. (Erreurs de pagination: 284 et 285 pour 384, 385.)
+          <lb/>In-8°, car. ital., 8 ff. non ch., 491 pp., titre courant, réclames,
+          <lb/>Fol, 2a non ch.: M. VAL. MARTIALIS (VITA EX PETRO
+          <lb/>CRINITO. (4 pp.)
+          <lb/>Fol. 3b non ch.: PLINIVS IVNIOR CORNELIO PRISCO SA¬
+          <lb/>LVTEM. (2 pp.)
+          <lb/>phus. 1595.
+          <lb/>La table (266 ff. non ch.) a un titre spécial. Voir: LANG Jose¬
+          <lb/>R101730(1). Prov. : Dr Halm, Bibliothécaire en chef, Munich
+          <lb/>II/XII 1875; 1 M. 25. Notes mss.; au milieu du titre: « Ex-libris
+          <lb/>C. Haitinger 1815.»
+          <lb/>BN Paris, Ye. 7288-7289; Oxford, Bibl. Bodleiana. 1493
+          <lb/>MARTYROLOGIUM
+          <lb/>Haguenau, H. Gran 1508
+          <lb/>Martyrologium seu! Viola Sanctorum. (Verso blanc.)
+          <lb/>A la fin: Impensis providi Iohannis Knoblouch civis
+          <lb/>argen. In imperiali opido Hagnaw per industrium Henri¬
+          <lb/>cum gran finit feliciterAnno... Millesimo quingente! simo
+          <lb/>octavo; quarta die Septembris.
+          <lb/>In-4°, car. goth., 10 ff. non ch. (table), CXIII ff. ch., titre cou¬
+          <lb/>rant, notes marg., init. d’attente.
+          <lb/>TR101.404. Prov.: BN Munich T/V 1877; 1M. A lintérieur
+          <lb/>de la couverture, ex-libris avec la légende: «Ad Bibliothecam Fratrum
+          <lb/>Alderspacentium.»
+          <lb/>1494
+          <lb/>MARTYROLOGIUM
+          <lb/>Strasbourg, M. Hupfuff 1516
+          <lb/>MARTYROLOGIVM! Viola Sancto! rum. (Verso blanc.)
+          <lb/>A la fin: Viola sanctorum finit feliciter. Anno domini
+          <lb/>M. D. XVI. Impressum Argentine, per honestum virum
+          <lb/>Matthiam hupfuff, Civem Argentinensem. Laus deo.
+          <lb/>In-40, car. goth., 6 ff. non ch. (table à 2 col.), XCIX ff. ch., titre
+          <lb/>courant, notes marg., init, ornées S. C. E. R. bande d’ornement après
+          <lb/>la table, titre encadré. (H &amp;amp; B Planche VII n° 2, Silvestre n° 659.)
+          <lb/>R100.899(5). Prov.: Échange de la Bibl. du Lycée de Heulbronn
+          <lb/>2/IV 1878. Note ms. au milieu du titre: «Convent. Friburg. Ord. Praed.»
+          <lb/>2ème ex.: R 102.154. Prov.: BN Munich 7/V 1877,1M.
+          <lb/>Proctor II Sectio I n° 10.043: Londres, Brit. Museum; Schmidt
+          <lb/>V n° 137: jadis Bibl. de Strasbourg, incun. n° 3437; Walter: Sélestat
+          <lb/>n° 838.
+          <lb/>Bœr, Francfort-s.-M., Catal, 500 (180r) n° 596; 30 M.; Gilhofer
+          <lb/>4 Ranschburg (Wien), Catal. n° 260 (1936) offre un ex, pour 20 frs.
+          <lb/>suisses.
+          <lb/>1495
+          <lb/>989
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

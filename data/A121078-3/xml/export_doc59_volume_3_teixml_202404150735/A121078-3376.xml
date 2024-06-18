@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:12.730584+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3376.tif
+IMAGE WIDTH: 2394
+IMAGE HEIGHT: 3858
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>818
+          <lb/>Cum Gratia &amp;amp; Priuilegio Caes. Maiestatis:
+          <lb/>Argentorati Excudebat Bernhardus Iobin.Anno M. D.
+          <lb/>XXCVI. (Rücks, leer.)
+          <lb/>8°, Antiq., 164 unn. Bll., Sign. A-V, Kopft., Kust., Init. B, D, P,A.
+          <lb/>Bl. 2a: ... Principi... Ioanni E- piscopo Argentinensi
+          <lb/>&amp;amp; Alsatiae Landtgrauio, Badenae Marchiae Calen dis Iunij,
+          <lb/>anni... M. D. XXCII.... Wolphgangus Hungerus. Praefatio.
+          <lb/>Bl. 5b:... Ludouico Grempio à Freudenstein! Reipubl:
+          <lb/>Argentinensis Aduoca-] to... Badenae Marchiae. xiij. Ca¬
+          <lb/>lend; Februarij. Anno Chri! sti M. D. XXCIIl.... Volphgan¬
+          <lb/>gus Hunge-rus. Bl. 6a: Antwort des Gremp von Freudenstein an
+          <lb/>W. Hunger, datiert Ettlingen 28. Januar M. D. LXXXIII.
+          <lb/>Bl. Aa: VOLPHGANGI HVN- GERI BAIOARII, IVRE CON¬
+          <lb/>sulti, in Caroli Bouilli Samarobrini Theologi Parrhisiensis
+          <lb/>vocum Gallicanarum tabulas, notae.
+          <lb/>R100.188. Prov.: UB Göttingen 1872.
+          <lb/>BN Paris, X. 15080. Brunet II15, 380: L’auteur cherche à prouver
+          <lb/>qu’un grand nombre de mots de la langue française ont une origine ger¬
+          <lb/>manique, en quoi il ne réussit pas toujours. Néanmoins son livre est cu¬
+          <lb/>rieux, et, de plus, il est rare. Il faut le joindre à celui de Bovelle (De
+          <lb/>differentia vulgarium linguarum).
+          <lb/>Bibliographie Hungers: Schottenloher I Nr. 9118-9124. 1215
+          <lb/>HUNNIUS Agidius
+          <lb/>Strassburg, A. Bertram 1597
+          <lb/>JOSEPHVS. COMŒDIA SACRA,AVTORE EGIDIO HVNNIO,
+          <lb/>Sacrae THEOLOGIÆ DOCTORE ET PRO-] fessore in Acade¬
+          <lb/>mia Wit-tebergensi. Pro Argentinensi Theatro. (Druckerm.
+          <lb/>Bertrams. HEB Tafel XLIV Nr. 1.)
+          <lb/>ARGENTORATI, Excudebat Antonius Bertramus. (Rücks.
+          <lb/>leer.)
+          <lb/>Nach dem 5. Akt neuer Titel: PROLOGVS ET EPILOGVS
+          <lb/>Cum argumentis singulorum Actuum Co- moediae Sacrae
+          <lb/>JOSEPHI venditi: à D. Egi- dio Hunnio latinè conscriptae,
+          <lb/>&amp;amp; in Theatro Argentinensi publi- cè actae, Anno 1597.
+          <lb/>mense Iulio.
+          <lb/>Das ist,!Vorrede vnnd Beschlusz... (7 Zeilen, deutscher
+          <lb/>Titel.)
+          <lb/>Getruckt zu Straszburg, durch Antoni Bertram.
+          <lb/>Anno! 1597.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

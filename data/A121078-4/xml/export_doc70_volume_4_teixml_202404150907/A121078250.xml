@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:49.763131+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078250.tif
+IMAGE WIDTH: 2304
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1136
+          <lb/>Historicarum Academiae Argentora-tensis collectae, &amp;amp; IN¬
+          <lb/>DICE re- rum atque verborum accu- rato exornatae à
+          <lb/>IOHANNE PAPPO D. AVTHORVM, e quibus Descriptiones istae
+          <lb/>excerptae sunt, ELENCHVM! proxima post Praefationem ex¬
+          <lb/>hibet pagina. (Vign.)
+          <lb/>ARGENTORATI, Excudebat Antonius Bertramus, M. D.
+          <lb/>XCI. (Verso blanc.)
+          <lb/>In-8°, car. ital. et grecs, 8 ff. non ch., 199 pp., 15 ff. non ch.
+          <lb/>à 2 col. (table), titre courant, réclames, init. ornées.
+          <lb/>Fol, 2a non ch. : ... Comiti, D. Friderico Magno... Argentorati,
+          <lb/>3. Id. Martii, an- no Christi Salvatoris M. D. XCI.Iohannes Pappus.
+          <lb/>(Préface de 11 pp. et demie.)
+          <lb/>Fol. 8a : Liber ad Lectorem, (9 dist, de Iosephus Langius Caesa¬
+          <lb/>remontanus.)
+          <lb/>RI01773. Prov.: BN Munich 28/XII 1877; 040 M. Note ms.
+          <lb/>au milieu du titre: P. W. I. Fladt.
+          <lb/>BM Colmar; BM Strasbourg; Oxford, Bibl. Bodleiana. 1762
+          <lb/>PAPPUS Johannes, Voir: SPACH Israel: Themata mediça. Stras-
+          <lb/>bourg, A. Bertram 1591. R101.564 (7).
+          <lb/>PAPPUS Johannes
+          <lb/>Strasbourg, A. Bertram 1592
+          <lb/>Eine Christliche Predigt, Von dem Ampt, Tugenden,
+          <lb/>und!Wahl eines Christlichen Bischoffs.!Vor der Wahl
+          <lb/>desz Hoch- würdigen, Durchleuchtigen unnd Hochge¬
+          <lb/>bornen Fürsten und Herrn, Herrn Johann Georgen,
+          <lb/>Postulirten Administratoris der Stifft zu Straszburg, Land¬
+          <lb/>graven! zu Elsasz, Marggraven zu Brandenburg, in Preus¬
+          <lb/>sen, zu Stetin, Pommern, der Cassuben und Wenden,
+          <lb/>auch in Schlesien zu! Crossen, &amp;amp;c. Hertzogen, Burggraffen
+          <lb/>zu Nürnberg, und Fürsten zu Rügen &amp;amp;c. Gehalten zu
+          <lb/>Straszburg im Münster, Samb- stags den 20. Maii. Anno
+          <lb/>Christi 1592. Durch Johannem Pappusz D. (Armoiries épi¬
+          <lb/>scopales.)
+          <lb/>Getruckt zu Straszburg, bei Antonio Bertram. (Verso
+          <lb/>blanc.)
+          <lb/>In-40, car. goth., 4 ff. non ch., 38 pp., titre courant, réclames,
+          <lb/>notes marg., init. goth. H, G. E, D.
+          <lb/>Fol. A 2a non ch. : Dédicace de Pappus au prince Johann Georg,
+          <lb/>datée du 25 mai 1592. (5 pp.) A la fin vign.
+          <lb/>R102.263. Prov. : Bibl. Heitz, Strasbourg.
+          <lb/>BM Strasbourg.
+          <lb/>1763
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

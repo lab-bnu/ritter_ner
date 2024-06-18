@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:36.999374+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu044.tif
+IMAGE WIDTH: 2380
+IMAGE HEIGHT: 3840
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>AURIFABER AEGIDIUS. Voir: Speculum exemplorum.
+          <lb/>AVICENNA: Canonis libri V. [Strasbourg, imprimeur R
+          <lb/>(— Adolphe Rusch), avant 1473), in-fol.
+          <lb/>G W 3114, Hain 2197, Pellechet 1657, Proctor 245, Voulliéme:
+          <lb/>Berlin 2110.
+          <lb/>K 510. Prov.: B N Munich, 24. V. 1877. Les 5 premiers ff. sont
+          <lb/>endommagés. Livres III et V manquent. Rel. anc.
+          <lb/>62
+          <lb/>BALBUS JOHANNES: Catholicon. [Strasbourg, Adolphe Rusch
+          <lb/>(imprimeur R) vers 1470), in-fol.
+          <lb/>G W 3185, Hain 2251, Pellechet 1699 (l’attribue à J. Mentelin),
+          <lb/>Pellechet: Colmar 2251, Proctor 246, Voulliéme; Berlin 2111.
+          <lb/>K 531. Prov.: B N Munich, 22. I. 1880, 20 M. Notes mss. Au
+          <lb/>verso du f. de garde: Anno 1622 legavit Rds Dominus Jacobus
+          <lb/>Probst, parochus zu unsrer lieben fraun cum alijs. 600.» Au
+          <lb/>haut du f. 1a: S. Georgii Augustarum. A côté: «Joannes Probst
+          <lb/>rerum sacrarum administrator.» Rel. anc.
+          <lb/>63
+          <lb/>BALDUNG HIERONYMUS: Aphorismi compunctionis theologi¬
+          <lb/>cales. Strasbourg, J. Grüninger, 6 janvier 1497, in-4°.
+          <lb/>(Gravures).
+          <lb/>GW 3211, Hain 2270, Madsen 496, Pellechet 1720, Proctor
+          <lb/>477, Schreiber 3400, Voullième: Berlin 2299.
+          <lb/>Schramm, Bilderschmuck XX, gray N° 340-345.
+          <lb/>K 534. Prov.: J. Noiriel, Strasbourg, 8. x. 1882, 12 M. Note
+          <lb/>mss. au-dessous du titre: «Johannes Protzer.»
+          <lb/>64
+          <lb/>BALDUS DE UBALDIS. Voir: Ubaldis.
+          <lb/>BARBATIA ANDREAS: Consilium si Eugenius papa potest
+          <lb/>facere duos episcopos in una dioecesi. (Strasbourg,
+          <lb/>G. Husner, s. d.), in-4°.
+          <lb/>Hain 2452, Pellechet 1839; Voullième: Berlin 2560. GW 3349
+          <lb/>met: Strasbourg, imprimeur du Barbatia, Consilium si Euge¬
+          <lb/>nius papa vers 1490/95.
+          <lb/>K 564. Prov.: Don de la ville de Heilbronn, 1871.
+          <lb/>65
+          <lb/>14
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:14.104399+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002507.tif
+IMAGE WIDTH: 2490
+IMAGE HEIGHT: 3990
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>VIRDUNG, Laurentius. Voir : COLER, Christophorus, n° 1418.
+          <lb/>VIRDUNG, Paulus : Theses physicae de mundi partibus... sub
+          <lb/>praesidio Jo. Ludovici Hawenreuter... — Strasbourg,
+          <lb/>Jost Martin 1591. — (Ritter, Rép, n° 1086).
+          <lb/>3418
+          <lb/>VIRDUNG, Paulus : De fato studiosorum cum primis Mathema¬
+          <lb/>ticorum Trœogivegis. ad... Dn. Petrum Pithoeum Savoiae
+          <lb/>Dn. &amp;amp; Jurisconsultum &amp;amp; Dn. Nicolaum Fabrum... —
+          <lb/>Strasbourg, Jost Martin 1594, in-4°.
+          <lb/>Ritter: B M Strasbourg, n° 2172.
+          <lb/>3419
+          <lb/>VIRDUNG, Paulus. Voir aussi: COLER, Christophorus, n° 1418.
+          <lb/>VIRGILIUS : Opera. — (Strasbourg, Jean Knobloch,
+          <lb/>octobre 1520), in-8°.
+          <lb/>B M Colmar. Panzer 6, 93, 566; Schmidt VII, n° 200: B M.
+          <lb/>Colmar [éd. Grüninger 1502, Knobloch 1527 : Ritter, Rép.
+          <lb/>nos 2411 et 2422l.
+          <lb/>3420
+          <lb/>VIRGILIUS : Opuscula cum familiari expositione. —
+          <lb/>Strasbourg, Jean Knobloch, 27 avril 1509, in-4°.
+          <lb/>Schmidt VII, n° 56: B U Fribourg.
+          <lb/>3421
+          <lb/>VIRGILIUS (Aeneis) : Aeneidos Libri Duodecim... —
+          <lb/>(Strasbourg, Mathias Schürer, juin 1515), in-4°.
+          <lb/>Panzer, 6, 74, 398; Schmidt VIII, n° 159 : Bibl. cantonale
+          <lb/>Aarau; Rosen, Auktion XXVII (1956), Teil II, n° 2130 :
+          <lb/>48 M.; [éd. Knobloch 1509 et 1515 : Ritter, Rép, nos 2413 et
+          <lb/>2418l.
+          <lb/>3422
+          <lb/>VIRGILIUS (Aeneis). — (Strasbourg, Mathias Schürer, juillet
+          <lb/>1520), in-4°,
+          <lb/>Panzer 6, 94, 577; Schmidt VIII, n° 258 : Bibl. Donaueschingen.
+          <lb/>3423
+          <lb/>VIRGILIUS (Aeneis) : Aeneidos Libri duodecim... — Strasbourg,
+          <lb/>(Jean Knobloch) 1525, in-4°.
+          <lb/>Schmidt VII, no 305 : Bibl, royale Dresde.
+          <lb/>3424
+          <lb/>505
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

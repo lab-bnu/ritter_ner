@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:54.240667+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078388.tif
+IMAGE WIDTH: 2360
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1274
+          <lb/>REISCH Gregorius
+          <lb/>Strasbourg, J. Grüninger 1515
+          <lb/>Margarita Phi-! losophica nova Cui annexa! sunt se¬
+          <lb/>quentia. Grecarum literarum institutiones! Hebraicarum
+          <lb/>literarum rudimenta...
+          <lb/>Grüningerus operis excussor et optat et precatur. Ex! Argentoraco veteri
+          <lb/>A la fin: ... Cum quo te [lectorl bene valere in- dustrius vir Joannes
+          <lb/>Nono kalendas Februarias. Anno redemptionis nostrae! decimo quinto
+          <lb/>supra mille quingentos.
+          <lb/>Suit: Appendix Ma-theseos in Margaritam phi-losophicam.)
+          <lb/>Sequuntur nonvatim (!) que! in hac appendice complectuntur Grecarum
+          <lb/>literarum institutiones... (14 lignes comme dans l’édition de 1512)
+          <lb/>A la fin: Completum est hoc opus per virum industrium Joannem
+          <lb/>grüninger Ex Argentoraco veteri. Decimo quarto kalendas! Aprilis. Anno
+          <lb/>redemptionis nostre. 15 supra mille quingentos.
+          <lb/>In 4°, car. goth., sign. A-Z, a-k (pour la fère partie, AB-O pour
+          <lb/>l’appendice). Mêmes gravures et même encadrement de titre que dans
+          <lb/>l&amp;#x27;édition de 1512; l&amp;#x27;appendice n’a pas d’encadrement de titre.
+          <lb/>*R102.453. Prov. Don de la Bibl, de l’Observatoire de Stres¬
+          <lb/>bourg, 19-4-1936. Au verso du f. de garde ex-libris, en forme de croix,
+          <lb/>avec les lettres J. N. R. J. I-Jesus Naz. Rex Judaeoruml, en haut; en
+          <lb/>bas: Io. Michael Schmidlin. Incomplet: fol. e8- f. 8 manquent, on a
+          <lb/>intercallé des ff. blancs, il manque de même fol. M. 5 à O. Rel, anc.
+          <lb/>Schmidt I., Ne 142.
+          <lb/>1987
+          <lb/>REPPUSIUS Caspar
+          <lb/>Strasbourg, Nic. Wyriot 1581
+          <lb/>Conversio D. Pauli Apostoli carmine conscripta: &amp;amp; in
+          <lb/>celeberrima Argentoratensium academia recitata. a Casparo
+          <lb/>Reppusio Eckhardhusiano. (Marque typ. de Wyriot. H. OB.
+          <lb/>planche XLIII n° 3.)
+          <lb/>Argentinae, Nic. Wyriot 1581.
+          <lb/>In-40, car, rom, et ital., 14 ff. non ch., sign. A-D, init., vign.,
+          <lb/>titre encadré.
+          <lb/>R 102.961. Prov. inconnue.
+          <lb/>Ritter: Cat. B M Strasbourg, n° 1797.
+          <lb/>1988
+          <lb/>RESPONSIO
+          <lb/>Strasbourg, Chr. Mylius 1556
+          <lb/>RESPONSIO CHRIS- ] TIANORUM JURISCON- ] SULTORUM AD
+          <lb/>FR. DUARENI! Commentarios de Ministeriis Ecclesiae atque
+          <lb/>Beneficiis, &amp;amp; alias eius Declamationes. PAPINIANUS:
+          <lb/>Hominis est hominem beneficio afficere. (Feuille de lierre.)
+          <lb/>ARGENTORATI EXCUDE-BAT CHRISTIANUS MYLIUS.
+          <lb/>M. D. LVI. (Verso blanc.)
+          <lb/>In-8°, car. ital., 160 pp., réclames, init. J avec 2 aigles.
+          <lb/>R102.198. Prov.: Bibl, du Gymnase de Heilbronn, 2-1V1878. 1080
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

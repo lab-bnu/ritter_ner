@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:48.943606+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5011.tif
+IMAGE WIDTH: 2426
+IMAGE HEIGHT: 3900
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1319
+          <lb/>Argentorati per Vuendelinum Rihelium. Mense Sep¬
+          <lb/>tembri. 1) Anno M. D. XXXIX. (Verso blanc.)
+          <lb/>A la fin : Argentor. Ca- Il lend. Septemb. 1539. Au verso
+          <lb/>marque typ. de W. Rihel. (H. &amp;amp; B. Planche XXIX, n° 45;
+          <lb/>Silvestre, n° 741.)
+          <lb/>In-12, car. ital., 48 ff. ch., titre courant, réclames à toutes les pages,
+          <lb/>init. ornée C au commencement.
+          <lb/>R. 101.556 (1). Prov. : Bibl. Reuss, 12/XII, 1887; BN Paris; D2 3585.
+          <lb/>2057
+          <lb/>SAG ODER RED von dem Rock Jhesu. Voir: ADELPHUS Müling
+          <lb/>SALICETUS Nicolaus de
+          <lb/>Strasbourg, J. Grüninger, 1503
+          <lb/>Anthidotarius animae.
+          <lb/>A la fin avant la table: diligenti adhibita examinatione
+          <lb/>impensis pro-di uiri magistri Johannis reynardi (alias
+          <lb/>grüninger in insigni ciuitate Argentinensi vbi completus
+          <lb/>extitit Anno dominice incarnationis M. ccccliij (1443 !)
+          <lb/>pridie vero kalendas Juliarum. (En rouge.)
+          <lb/>In-8°, car. goth., 248 ff. non ch., sign. A-Y, Aa-Ii, titre des chapitres
+          <lb/>en rouge, faute d’impression dans la date, Panzer 6, 39, prend le I pour
+          <lb/>un i et admet omission d’un c, c’est-à-dire 1504; Schmidt I, n° 68, prend
+          <lb/>le 1 pour un c et lit 1503.
+          <lb/>R. 101.426. Prov. : Baillieu, Paris, 28/V, 1883; 15 M.
+          <lb/>A la fin 10 ff. de mss, prières latines. Feuille du titre manque. Schmidt I,
+          <lb/>n° 63.
+          <lb/>2058
+          <lb/>SALICETUS Nicolaus de
+          <lb/>Strasbourg, J. Grüninger, 1513
+          <lb/>Liber medita tionum ac ora! tionum deuota rum
+          <lb/>Qui An! thidotarius anime dicitur Cum! tabula insertus
+          <lb/>(Verso blanc).
+          <lb/>A la fin: diligenti!) ad hibita examinatione impensis !! prouidi
+          <lb/>viri magistri Johannis Reynardi (alias grünynger in insigni
+          <lb/>ciuitate Argentinensi II vbi completus extitit Anno domini!! ce
+          <lb/>incarnationis M ccccc x iijquarto vero nonarum Marcij.
+          <lb/>(Verso blanc.)
+          <lb/>In-8°, car. goth., 2 col., CXLVI ff. ch., init. d’attente.
+          <lb/>Les titres des chapitres sont en rouge.
+          <lb/>fol. IIa : Nicolai Saliceti ar !! tium et medicine doctoris : ab- [! batis
+          <lb/>monasterij beate marie de!! Pomerio (alias Bomgart) or- [] dinis Cister¬
+          <lb/>ciensis. Argenti- nensis dyocesis in anthidotari !! um anime prefaciun¬
+          <lb/>cula...
+          <lb/>&amp;quot;R 101.427. Prov. : Mlle Eser, Stuttgart, 19/III, 1874; 16 M.
+          <lb/>Annotations mss.
+          <lb/>Manque chez Schmidt.
+          <lb/>2059
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

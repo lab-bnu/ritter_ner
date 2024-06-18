@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:06.418271+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002184.tif
+IMAGE WIDTH: 2500
+IMAGE HEIGHT: 3970
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>[FISCHART, Johannes) (Contre les Jésuites) : Fides Jesu et
+          <lb/>Jesuitarum. Hoc est. Collatio Doctrinae... Jesu, cum
+          <lb/>doctrina Jesuitarum... Item Juramentum Pii Papae IIII
+          <lb/>continens capita Pontificiae Religionis cum confuta¬
+          <lb/>tione eiusdem : per Donatum Gotuisum Trivonensem...
+          <lb/>(Excusum Christlingae per Gnadrichum Gotwinum
+          <lb/>(— Bernard Jobin, Strasbourg), 1573, in-8°.
+          <lb/>Goedeke II2, p. 493, n° 12 (a).
+          <lb/>1720
+          <lb/>FISCHART, Joh. (Contre les Jésuites) : Gorgoneum caput.
+          <lb/>Ein new seltzam Meerwunder ausz den Newen erfundenen
+          <lb/>Inseln, von ettlichen Jesuitern an jre gute günner
+          <lb/>geschickt... (87 vers). — [Strasbourg, Bern. Jobin vers
+          <lb/>1570-73l. Nouv. éd. vers 1575 et en 1577.
+          <lb/>Hauffen, Fischarts Werke I, p. LXXV et éd. 1577, p. 417-422.
+          <lb/>Ex. Berlin B N et Kupferstichkabinett.
+          <lb/>1720a
+          <lb/>(FISCHART, Joh.] (Jesuiter-Hütlein) : Die Wunderlichst,
+          <lb/>Unerhörtest Legend und Beschreibung. Des Abgeführten
+          <lb/>Quartirten Gevierten und Viereckechten Vierhörnigen
+          <lb/>Hütleins : Samt Ursprungs derselbigen Heyligen Quadri¬
+          <lb/>cornischen Suiterhauben und Cornutschlappen... Alles
+          <lb/>durch Jesuwalt Pickart, den Unwürdigen Knecht der
+          <lb/>Societet der Glaubigen Christi. (Grav.). M.D.LXXX.
+          <lb/>A la fin : Getruckt zu Laufannen, Bei Gangwolf Such¬
+          <lb/>nach. M. D.LXXX. — (Strasbourg, Bernard Jobin 1580),
+          <lb/>in-80.
+          <lb/>Hauffen, loc. cit., p. XXXIX-XLVII et éd. p. 229-262. 1721
+          <lb/>FISCHART, Joh. (Lob der Laute) : Ein Artliches lob der lauten.
+          <lb/>J. F. G. M. [Johann Fischart genannt Mentzer). A la
+          <lb/>suite de : JOBIN, Bern., Das Erste Buch Newerleszner
+          <lb/>Lautenstück. — Strasbourg 1572.
+          <lb/>Hauffen, loc. cit., p. LVI-LXIII.
+          <lb/>1722
+          <lb/>FISCHART, Joh. : Malleus maleficarum. — Strasbourg,
+          <lb/>Laz. Zetzner 1582.
+          <lb/>182
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

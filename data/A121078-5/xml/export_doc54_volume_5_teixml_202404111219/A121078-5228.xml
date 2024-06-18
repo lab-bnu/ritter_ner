@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:57.502993+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5228.tif
+IMAGE WIDTH: 2370
+IMAGE HEIGHT: 3858
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1538
+          <lb/>A la fin : Gedruckt zu Strassburg,! Inn Knoblochs Drucke¬
+          <lb/>rey. M. D. Ivj.
+          <lb/>In-4°, car. goth., 4 ff. non ch., XCVI ff. ch., titre courant, réclames,
+          <lb/>notes marg., titre rouge et noir, 31 grav., dont quelques-unes reviennent
+          <lb/>deux, même trois fois, elles sont en partie empruntées à d’autres ouvrages
+          <lb/>de Wickram ou à d’autres livres imprimés chez Knobloch.
+          <lb/>fol. A 2a. Dem ersamen... Caspar Hanschelo, burger vnd goldtschmidt¬
+          <lb/>handtwercks zu Colmar, meinem lieben gevattern, zuvor... — Datum
+          <lb/>Burckhaim den andren tag januarii... tausent fünffhundert fünfftzig vnd
+          <lb/>sechs jar... Georg Wickram.
+          <lb/>fol. A 3b : Von guter nachbaurschafft, zum leser.
+          <lb/>fol. B 1a : Von Guter vnd Böser nachbaurschafft. 11 Wie ein Reicher
+          <lb/>Kauff ]! man, so zu Antdorff gesessen, mit ei I] nem seinem nach¬
+          <lb/>bauren zu vnfriden ward,  von wegen jrer bayder kind, was grossen
+          <lb/>vn- I1 rhats darausz erwachsen thet.
+          <lb/>Grav. sur bois : deux hommes en conversation.
+          <lb/>R. 100.401. Prov. : Prof. E. Martin, Strasbourg, 11/II, 1911. Le titre
+          <lb/>et 3 ff. du fol. A manquent; j’ai cité d’après l’exemplaire de Berlin. D’autres
+          <lb/>exemplaires se trouvent à Gôttingen, München, Schaffhausen, Wien et
+          <lb/>Wolfenbüttel.
+          <lb/>2461b
+          <lb/>WICKRAM Georg. Voir : MURNER Thomas, Die Narrenbesch¬
+          <lb/>werung. Strasbourg, imprimerie Knobloch, 1556 et 1558;
+          <lb/>nos 1618 et 1619.
+          <lb/>WICKRAM Georg
+          <lb/>Strasbourg, imprimerie Knobloch, 1557
+          <lb/>Von Guten vnd Bösen Nachbaurn... (comme au n° précé¬
+          <lb/>dent). Wer zu weg baut, etc. (4 vers comme dans l’édition
+          <lb/>1556.)
+          <lb/>Gedruckt zu Strassburg, Jn! Knoblochs Druckerey. (Verso
+          <lb/>blanc.)
+          <lb/>In-4°, car. goth., 4 ff. non ch., XCVI ff. ch., titre courant, réclames,
+          <lb/>notes marg., titre rouge et noir.
+          <lb/>Réimpression presque ligne par ligne de l’édition 1556; les mêmes
+          <lb/>grav.
+          <lb/>R. 100.404. Prov, inconnue.
+          <lb/>2461c
+          <lb/>WICKRAM Georg
+          <lb/>Strasbourg, imprimerie Knobloch, 1568
+          <lb/>Die Siben Haupt-laster sampt jren schönen früchten
+          <lb/>vnd eygenschafften... (comme dans l’édition de 1556). (Verso
+          <lb/>blanc.)
+          <lb/>Gedruckt zu Strassburg, In!! Knoblochs Druckerey. (Verso
+          <lb/>blanc.)
+          <lb/>A la fin : Gedruckt zu Strassburg, in Knoblochs druckerey,
+          <lb/>Im jar, M. D. LVIII.
+          <lb/>In-40, car. goth., 9 ff. non ch., CVI ff. ch. et 1 fol. blanc, titre courant,
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

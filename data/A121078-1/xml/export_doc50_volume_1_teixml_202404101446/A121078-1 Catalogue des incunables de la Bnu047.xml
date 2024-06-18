@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:37.038213+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu047.tif
+IMAGE WIDTH: 2380
+IMAGE HEIGHT: 3842
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>BERNARDINUS SENENSIS: De contractibus et usuris. (Stras¬
+          <lb/>bourg, typ. du Henricus Ariminensis, pas après 1474),
+          <lb/>in-fol.
+          <lb/>GW 3881, Hain 2835, Madsen 595, Pellechet 2085, Proctor
+          <lb/>317. Voulliéme: Berlin 2161, 5.
+          <lb/>K 629. Prov.: B N Munich, 22. I. 1880, 4 M. A l&amp;#x27;intérieur du
+          <lb/>premier plat, exlibris avec les mots: «Conventus Monacensis;?
+          <lb/>fol. Ia, en bas: Conventus Monacensis Carmelitarum Discal¬
+          <lb/>ceatorum.» Rel, anc.
+          <lb/>75
+          <lb/>BERNARDUS CLARAVALLENSIS: Epistolae. (Strasbourg, H. Egge¬
+          <lb/>stein, circa 1475), in-fol.
+          <lb/>G W 3923, Hain 2870, Madsen 604, Pellechet 2104, Pellechet:
+          <lb/>Colmar 292, Proctor 285, Voulliéme: Berlin 2144.
+          <lb/>K 643. Prov.: Don de la Bibl. Univ. Gœttingue, 1872. Rel. anc.
+          <lb/>76
+          <lb/>BERNARDUS CLARAVALLENSIS (Pseudo-Bernardus): Medita¬
+          <lb/>tiones de interiori homini. Strasbourg, s. typ., 1492.
+          <lb/>in-8°.
+          <lb/>G W 4033, Hain, 2884, Madsen 628, Pellechet 2120, Proctor
+          <lb/>5696 A. Le G W dit «Strasbourg, vielmehr Venedig, Bernardi¬
+          <lb/>nus Benalis, 1492.
+          <lb/>K 650a. Prov.: Ermanno Loescher, Torino, 14. XII, 1882, 4 M.
+          <lb/>BERNARDUS CLARAVALLENSIS et GILBERTUS DE HOGLANDIA:
+          <lb/>Sermones super Cantica canticorum. Strasbourg, Mart.
+          <lb/>Flach, 1497; in-fol.
+          <lb/>G W 3937, Hain 2859 (2858a?), Copinger 2735, Madsen 613,
+          <lb/>Pellechet 2098, Pellechet: Colmar 290, Proctor 707, Schmidt
+          <lb/>VI, 64, Voulliéme: Berlin 2505; Walter: Sélestat 88 et 89.
+          <lb/>K 640. Prov.: Don de la Ville de Heilbronn, 1871. Au milieu
+          <lb/>du titre: «Monasterii Eremitanensis.» Rel. anc.
+          <lb/>78
+          <lb/>BERNARDUS PARMENSIS: Casus longi super decretales. Stras¬
+          <lb/>bourg, [typ. du Jordanus (— G. Husner) ), 1484, in-fol.
+          <lb/>G W 4095, Hain 2932, Madsen 637, Pellechet 2194, Pellechet:
+          <lb/>Colmar 298, Proctor 589, Voulliéme: Berlin 2400, 5.
+          <lb/>K 668. Prov.: B N Munich, 22. L. 1880, 1 M. Rel. anc. 79
+          <lb/>R.2
+          <lb/>17
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:12.782646+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3379.tif
+IMAGE WIDTH: 2398
+IMAGE HEIGHT: 3858
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>HUS Johann
+          <lb/>[(Strassburg, J. Schott 1525)
+          <lb/>SERMONVM IOANNIS HVSS AD POPVLVM, TOMVS
+          <lb/>TER-TIVS. Respondens priori, de Anatomia, Regno
+          <lb/>&amp;amp; populo Anti- christi. Audite haec Sacerdotes, quoniam
+          <lb/>laqueus facti estis speculationi. &amp;amp;c. Osee. v. (Rücks, leer.)
+          <lb/>Rolzschn. Bl. 4b: Hus predigt dem Volke.
+          <lb/>40, Antiq., 4 unn., LI num. Bll,, 1 unn. Bl., Kopft., Marg., Init. A.
+          <lb/>Bl. 2a: MARTINO LVTHERO Ecclesiasti Vuittenbergensi,
+          <lb/>Otho Brunnfelsius... (Widmung 2 S.)
+          <lb/>Bl. 3b: EPITOME omnium! Capitum huius Tomi! Ter¬
+          <lb/>tij
+          <lb/>IOHANNIS Hvss.... (3 S.)
+          <lb/>R101.393(3). Prov.: Bibl. Heitz, Strassburo 1871.
+          <lb/>Stadtbibl. Strassburg; BN Paris, D2, 2132; Schmidt II Nr. 96.
+          <lb/>1221
+          <lb/>HUS Johann. Siche: HUTTEN Ulrich: Geistlicher Bluthandel.
+          <lb/>Strassburg, J. Schott 1525.
+          <lb/>HUS Johann. Siehe: PROCESSUS Consistorialis Martyrii Joh. Hus.
+          <lb/>[Strassburg, J. Schott 1525.]
+          <lb/>HUS Johann
+          <lb/>Strassburg, W. Rihel 1537
+          <lb/>Etliche Briefe Iohan nis Hus des Heyligen Mer¬
+          <lb/>terers, ausz dem gefängniisz zû Co stentz an die Bohe¬
+          <lb/>men geschriben.Mit eyner Vorrhede Doct. Mart. Lu¬
+          <lb/>thers. (Rücks. leer.)
+          <lb/>Am Schluss : Getruckt zû Straszburg durch! Wendel
+          <lb/>Rihel. ! M. D. xxxvij.
+          <lb/>40, Got., 16 unn. Bll., Sign. A-D, Kust., Marg., Init.
+          <lb/>Bl. A 2a: Vorrhede Mart.! Luthers, (2 S.)
+          <lb/>R 101.384. Prov.: Bibliothek Bauer, Strassburg 1879.
+          <lb/>Bibl. Wilh., Strassburg.
+          <lb/>1222
+          <lb/>HUSS Johannes. Siche: HUS Johann
+          <lb/>HUTTEN Ulrich
+          <lb/>Strassburg, [Joh. Knoblochl o. J.
+          <lb/>Herr Ulrichs von Hutten anzöig Wie allwegen
+          <lb/>sich die Röm ischen Bischöff, oder Bäpst! gegen den
+          <lb/>teütschen Kaysz-eren gehalten haben, vff daz! kürtzst
+          <lb/>vsz Chronicken vnd Historien gezogen, K. ma- iestät
+          <lb/>fürzubringen. Ich habs gewogt.
+          <lb/>821
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

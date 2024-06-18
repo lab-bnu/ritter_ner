@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:58.166334+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5247.tif
+IMAGE WIDTH: 2400
+IMAGE HEIGHT: 3860
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1557
+          <lb/>A la fin : Impressum Argentine per Matthiam! Hupffuff.
+          <lb/>Anno domini. M. D. xv.  Laus Deo.
+          <lb/>In-4°, car. goth., 4 ff. non ch., LXVIII ff. ch. (verso du dernier f. blanc),
+          <lb/>notes marg., init. ornées E, P, R; titre encadré (H. &amp;amp; B., Planche VII,
+          <lb/>No 2; Silvestre No 659).
+          <lb/>Au verso du titre : Philippus Furstenbergius!(Ringauiensis ad pueros
+          <lb/>&amp;amp; ephebos in adolescen- Il tiam wimphelingij... (9 dist.).
+          <lb/>Suivent 2 dist. de Crato Udenheim et 2 de Mathias Ringmann Philesius.
+          <lb/>En outre 2 ff. de table.
+          <lb/>&amp;quot;R. 100.173 (1). Prov. : Trübner, Strasbourg (Vente Zimberlin), N° 720,
+          <lb/>29/IV, 1886; 7 M. 50.
+          <lb/>A l’intérieur de la couverture ex-libris d’Ant. Georgius Zimberlin, 1818,
+          <lb/>Au bas du titre : « B. M. V. de Luce Nast (?)», quelques annotations mss.
+          <lb/>dans le texte et au verso blanc du dernier f.
+          <lb/>2 ex. R. 101.067. Prov. : Bibl. Heitz. Note ms. au recto du f. de garde:
+          <lb/>«Vide Amoenitates Friburgenses, p. 205 ».
+          <lb/>Proctor II, Sectio I, N° 10.041 : Londres, British Museum; Schmidt V,
+          <lb/>No 119 : Bibliothèque d’Aarau; Walter: Sélestat 2420.
+          <lb/>2493
+          <lb/>WIMPHELING Jacobus
+          <lb/>Strasbourg, J. Knobloch, 1515
+          <lb/>Adolescentia Jacobi!! wimphelingij cum nouis quibusdam
+          <lb/>additionibus per Gallinarium denuo reuisa ac elimata...
+          <lb/>(Le reste du titre comme dans l’édition de 1508.)
+          <lb/>A la fin : Impressum Argentinae per industrium chalco¬
+          <lb/>graphum!! Joannem Knoblouch ciuem Argen. Anno salu !! tis
+          <lb/>nostrae Millesimo quingentesimodecimo quinto. In die!
+          <lb/>sancti Pauli.
+          <lb/>In-4°, car. goth. ; 4 ff. non ch., LXXVII ff. ch., 1 f. blanc, titre courant,
+          <lb/>notes marg., init. d’attente. Les gravures des éditions 1505 et 1508
+          <lb/>manquent.
+          <lb/>Mêmes dédicaces et préliminaires comme dans l’édition de 1508.
+          <lb/>R. 101.066. Prov. : Bibl. Ch. Schmidt avec son ex-libris; Schmidt VII,
+          <lb/>No 94 : BN de Paris et son exemplaire; Proctor II, Sectio I. No 10.338;
+          <lb/>Londres, British Museum; Catalogue de la Bibliothèque Ch. Louis Fière,
+          <lb/>2e vente, Paris, 14-17 juin 1937, N° 367 : « Réimpression de l’édition donnée
+          <lb/>par le même imprimeur en 1505; c’est la plus complète de ce traité péda¬
+          <lb/>gogique»; Rosenthal, Munich, Catalogue 135 (1914), No 2551 : 39 M.
+          <lb/>2494
+          <lb/>WIMPHELING Jacobus
+          <lb/>Strasbourg, M. Hupfuff, 1515
+          <lb/>Jacobi wim!] pfelingij Schletstaten!! sis elegantie maiores...
+          <lb/>(comme l’éd. de 1513).
+          <lb/>A la fin : Impressum argentine per Mathiam Hupfuff.
+          <lb/>Anno domini. M. D. XV. (Verso blanc.).
+          <lb/>In-4°, car. goth., 28 ff. non ch., sign. A-E, titre courant, init. d’attente;
+          <lb/>titre encadré (H. &amp;amp; B, Planche VII, N° 2 ; Silvestre, N° 659, mais sans
+          <lb/>encadrement).
+          <lb/>Même dédicace qu’à l’éd. de 1513.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

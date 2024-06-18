@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:05.440278+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002152.tif
+IMAGE WIDTH: 2498
+IMAGE HEIGHT: 3976
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>EOBANUS Hessus Helius : Bucolicorum idyllia XII nuper
+          <lb/>anno demum decimo octavo a prima aeditione recognita,
+          <lb/>ac dimidia plus parte vel aucta, vel concisa... His
+          <lb/>accessere ex recenti aeditione Idyllia Quinque... —
+          <lb/>(Haguenau, J. Secer août 1528), in-80.
+          <lb/>Burg, n° 160.
+          <lb/>1547
+          <lb/>EOBANUS Hessus Helius : In Virgilii Bucolica et Georgica
+          <lb/>Adnotationes ac loci omnes maxime Theocriti, tum
+          <lb/>etiam Hesiodi quidam, quibus usus est Virgilius, latine
+          <lb/>redditi... — (Haguenau, J. Secer 1529), in-8°.
+          <lb/>Burg, n° 161.
+          <lb/>1548
+          <lb/>EOBANUS Hessus Helius : Bonae valetudinis conservandae
+          <lb/>praecepta. — Strasbourg, Henri Sybold 1530.
+          <lb/>Ritter, Hist. impr. p. 316.
+          <lb/>1549
+          <lb/>EOBANUS, Hessus Helius: In funere Erasmi Roterodami
+          <lb/>epicedion. Item aliud Joan. Gygantis. — Strasbourg,
+          <lb/>Jacobus Jucundus (Jacques Frölich] 1537, in-8°.
+          <lb/>Schottenloher 5508.
+          <lb/>1550
+          <lb/>EOBANUS, Hessus Helius. Voir : DRACONITES, Johannes
+          <lb/>n° 1524; RITTER, Rép, nos 691-694; PSALMI n° 3029;
+          <lb/>PSALTERIUM n° 3047.
+          <lb/>EPHEMERIS, coelestium motuum anni 1582. Voir: FINK,
+          <lb/>Thomas n° 1695.
+          <lb/>EPHREM, Syrus, Johannes : Sermones... per Ambrosium
+          <lb/>Camaldulensem latinitate donati. — (Strasbourg, Mathias
+          <lb/>Schürer, mars 1509), in-40.
+          <lb/>Schmidt VIII, n° 15 : Bibl. Bâle et St. Gall. Vadiana; BN
+          <lb/>Strasbourg R 101.300. Weislinger, Catal. 65.
+          <lb/>1551
+          <lb/>EPICEDIA : Epicedia in obitum... Erasmi Marbachii... qui
+          <lb/>placide in Domino expiravit, XV. Calend. Martij... 1593,
+          <lb/>Aetatis 45. Professionis 19. — Strasbourg sans nom
+          <lb/>d’imprimeur (1593), in-4°.
+          <lb/>1552
+          <lb/>150
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

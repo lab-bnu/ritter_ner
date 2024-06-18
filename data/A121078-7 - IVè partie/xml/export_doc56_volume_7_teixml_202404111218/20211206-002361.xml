@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:11.012160+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002361.tif
+IMAGE WIDTH: 2504
+IMAGE HEIGHT: 3978
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>proverbia Salomonis Filii Davidis. Cum adnotationibus
+          <lb/>Melanchthonis. — Haguenau, J. Secer s. d., in-8°.
+          <lb/>Burg, n° 291 et n° 292. (Ritter, Rép. n° 1523 : Solomonis
+          <lb/>sententiae versae ad Hebraicum veritatem. J. Secer 1525).
+          <lb/>2655
+          <lb/>MELANCHTHON, Phil. (Proverbia Salom.) : Nova scholia in
+          <lb/>Proverbia Salomonis ad iusti pene commentarij modum
+          <lb/>conscripta. — Haguenau, J. Secer (mai) 1529, in-80,
+          <lb/>Burg, n° 303. (Ritter, Rép. n° 1532 ; éd. Secer 1531). 2656
+          <lb/>MELANCHTHON, Phil. (Psalmi) : In Psalmos aliquod Davidicos
+          <lb/>Enarrationes doctissimae. — Haguenau, J. Secer (août)
+          <lb/>1528, in-80.
+          <lb/>Burg, n° 301.
+          <lb/>2657
+          <lb/>MELANCHTHON, Phil. (Rhetorica). — Strasbourg, Christian
+          <lb/>Egenolff 1529, in-8°.
+          <lb/>Benzing, Egenolff, n° 11.
+          <lb/>2658
+          <lb/>MELANCHTHON, Phil. (Rhetorica) : Elementorum Rhetorices
+          <lb/>Libri duo, recens recogniti ab auctore. — Strasbourg,
+          <lb/>Crato Mylius 1543, in-8°,
+          <lb/>Ritter, Hist. Impr. app. 260 (Rép. n° 1545 ; éd. Crato Mylius
+          <lb/>1546).
+          <lb/>2659
+          <lb/>MELANCHTHON, Phil. (Schrift, die Heilige) : Die Haupt artikel...
+          <lb/>der gantzen heiligen schrifft. — (Strasbourg, Jean
+          <lb/>Knobloch (1523]), in-4°.
+          <lb/>Schmidt VII, n° 252; Weller, Rep. 2215. — B N Berlin et
+          <lb/>Wernigerode, Fürstlich Stolberg. Bibl.
+          <lb/>2660
+          <lb/>MELANCHTHON (De votis monasticis) : De tribus votis
+          <lb/>monasticis Epistola. De Castitate. De Obedientia. De
+          <lb/>Paupertate. — (Strasbourg, Herwagen 1523), in-80.
+          <lb/>(Encadrement propre à Herwagen).
+          <lb/>Bibl. St. Guillaume, Strasbourg.
+          <lb/>2661
+          <lb/>359
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:48.776580+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078219.tif
+IMAGE WIDTH: 2302
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>volck inn den Herbergen, Würtzheusern, und auff den Stu¬
+          <lb/>ben sitzt zû essen und zû trincken, und darzâ mit singen
+          <lb/>und schreien ein unbillich unfûr hatt und treibt.... Dem¬
+          <lb/>nach haben unsere Her ren Maister unnd Rhat sampt den
+          <lb/>Einundzwentzigen,... erkant, gebieten und verbieten auch,
+          <lb/>allen... das kein Gasthalter, Würt oder Hauptkann,
+          <lb/>weder visch noch fleisch, gesotten noch gepraten, sonder
+          <lb/>allein... wein, brot, keesz, und obs geben sollen... —
+          <lb/>Actum et decretum Montag den fünffzehenden Iunii,
+          <lb/>Als man zalt... Thausent, Fünffhundert, Viertzig und
+          <lb/>fünff jar. (Verso blanc.)
+          <lb/>Placard, in-fol., car. goth., 22 lignes, init. ornée N.
+          <lb/>R 21 (20). Prov.: Bibl. Heitz, Strasbourg 1871.
+          <lb/>2ème ex. R 22 (53). Même provenance. Au verso blanc : Wirts¬
+          <lb/>1710
+          <lb/>haus Verordnung am Sonntage.
+          <lb/>ORDONNANCE
+          <lb/>Strasbourg 1545
+          <lb/>WIr Philips von Kageneck, der Maister und der Rhat
+          <lb/>zû Straszburg, Thun kundt, Demnach vil jar her, die
+          <lb/>leuff gar geschwind, sorglich und gefarlich gewesen und
+          <lb/>noch, Derwegen unsere vorfahren!und wier nuhn viel¬
+          <lb/>mal, und sonderlich des jüngst verchinenen drei und viertzig¬
+          <lb/>sten jars, allen unsern burgern angehörigen und zûge¬
+          <lb/>wandten inn Statt und Landt, bei iren Eiden und Eeren,
+          <lb/>auch verlierung ihrer hab und güter, gepieten und ver¬
+          <lb/>bieten las- sen, das ihren keiner jung oder alt, one unser,
+          <lb/>und unser freünd der Einundzwentzig, wissen, willen und
+          <lb/>erlaubnis, In keinen krieg weder zû Rosz noch zû Fusz
+          <lb/>ziehen, ... sollen... —
+          <lb/>So gebieten unnd verbieten wier harauff... !... das
+          <lb/>keiner...nichts practicieren, keine knecht besprechen,
+          <lb/>... soll... —
+          <lb/>Actum et decretum Sambstag den sibenden Martii,
+          <lb/>als man zalt nach Christi geburt Tausent Fünffhundert
+          <lb/>Viertzig unnd fünff jar. (Verso blanc.)
+          <lb/>Placard, in-fol., car. goth., 19 lignes, init, ornée W.
+          <lb/>R 22 (29). Prov.: Bibl. Heitz, Strasbourg 1871. Au verso blanc:
+          <lb/>Verbot in den Krieg zu ziehen.
+          <lb/>1711
+          <lb/>R. 70
+          <lb/>1105
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

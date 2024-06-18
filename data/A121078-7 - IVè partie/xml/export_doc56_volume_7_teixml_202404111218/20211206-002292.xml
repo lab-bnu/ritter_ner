@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:09.288403+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002292.tif
+IMAGE WIDTH: 2496
+IMAGE HEIGHT: 3966
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>LANTZKRON, Aug. Voir: TESTAMENT (der zwölf Patriarchen)
+          <lb/>n° 3341.
+          <lb/>LASDENUS, Baptista. Pseudonyme de Sleidanus, Johannes.
+          <lb/>LASSo, Orlando de. Voir: ORLANDO de Lasso.
+          <lb/>LASTER (der Drunkenheit) : Wider das grausam Laster der
+          <lb/>wüsten trunckenheit. — Mulhouse, P. Schmid 1560,
+          <lb/>in-80.
+          <lb/>Werner, p. 92, n° 6.
+          <lb/>2272
+          <lb/>LATOMUS, Bartholomaeus : Nenia in obitum divi Maximi¬
+          <lb/>liani... — (Strasbourg, Jean Knobloch) (1519), in-4°.
+          <lb/>Panzer 6, 90, 537; Schmidt VII, n° 181 : Bâle.
+          <lb/>2273
+          <lb/>LATOMUS, Bartholomaeus : Oratio pro Cecinna cum enarra¬
+          <lb/>tioni. — Strasbourg, Crato Mylius 1539, in-8°.
+          <lb/>Ritter : Hist. Impr. appendice, n° 262.
+          <lb/>2274
+          <lb/>LATOMUS, Bartholomaeus : Scripta duo adversaria. Latomi
+          <lb/>et Buceri. — Strasbourg, W. Rihel 1544. (BN Strasbourg
+          <lb/>R101.856: Ritter, Rép. n° 13371.
+          <lb/>2275
+          <lb/>LATYMER. Voir: REYDLEY N. &amp;amp; M. H. LATYMER.
+          <lb/>LAURIN : Dis biechlin saget von dem Rosengarten künig
+          <lb/>Laurins... — (Strasbourg, Mathias Hupfuff) (16.III.]
+          <lb/>(1509), in-4°.
+          <lb/>Kristeller, n° 115; Schmidt V, n° 75, Weller, 476. —
+          <lb/>Musée germ. Nuremberg.
+          <lb/>2276
+          <lb/>LAUTENBACH, Conrad. Voir : MoliToris, Ulricus n° 2711.
+          <lb/>LAUTERBECK, G. Voir : MYCeNIUs, Joh, n° 2748.
+          <lb/>LAYENSPIEGEL. Voir : TENGLER, Ulrich nos 3313-3318.
+          <lb/>290
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

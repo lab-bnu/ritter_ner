@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:12.538371+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002432.tif
+IMAGE WIDTH: 2520
+IMAGE HEIGHT: 3966
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>bungen mit seynem Register. — Strasbourg, Wolfgang
+          <lb/>Köpfel (1538), in-8°. (Encadrement et marque typ. de
+          <lb/>Köpfell.
+          <lb/>(B N Strasbourg, R 102.604 (2) Ritter, Rép, n° 1948). 3035
+          <lb/>PSALTER : mit aller Kirchenübung die man bey der Christ¬
+          <lb/>lichen Gemein zu Straszburg und anders pflägt zu singen...
+          <lb/>— Strasbourg, Wolfgang Köpfel (1539), in-120. (Encadre¬
+          <lb/>ment et marque typ. de Köpfell.
+          <lb/>Hubert, n° 30 : Bibl. S. Guillaume, Strasbourg; Wackernagel,
+          <lb/>p. 155.
+          <lb/>3036
+          <lb/>PSALTER : Der gantze Psalter Davids... Gesangsweise gefasset
+          <lb/>durch M. Cyriacum Spangenberg... — Gedruckt zu
+          <lb/>Frankfurt a. M. 1582 bei Christoff Raben in Verlegung
+          <lb/>Bernhard Jobins, Buchhändler in Strassburg, in-80.
+          <lb/>Vogeleis p. 347.
+          <lb/>3037
+          <lb/>PSALTERIUM correctum et hymni. — (Strasbourg, Jean Prüss
+          <lb/>1502), in-120.
+          <lb/>Panzer 11, 356; Schmidt III, n° 35; Vogeleis, p. 163. 3038
+          <lb/>PSALTERIUM : Cantica et hymni. Cum carmine Johannis
+          <lb/>Gallinarii. — (Strasbourg, Jean Prüss 1504), in-4°.
+          <lb/>Schmidt III, n° 48. — Jadis bibl. de Strasbourg, Incun.
+          <lb/>n° 3949.
+          <lb/>3039
+          <lb/>PSALTERIUM : cum apparatu vulgari firmiter appresso. —
+          <lb/>(Strasbourg, Mathias Hupfuff 1506), in-4°,
+          <lb/>Vogeleis, p. 166. (B N Strasbourg R 101.082 (2) et R.102.156:
+          <lb/>Ritter, Rép. n° 1942l.
+          <lb/>3040
+          <lb/>PSALTERIUM : cum apparatu vulgari... Lateinisch Psalter
+          <lb/>mit dem teutschen dabey getruckt. — Strasbourg,
+          <lb/>Jean Knobloch 1508, in-4°.
+          <lb/>Schmidt VII, n° 41; Consistoire Colmar; Baer (Francfort
+          <lb/>s. M.) Catal, 500 (1907), n° 1163 ; 60 M. ; Vogeleis, p. 169;
+          <lb/>Ritter: B M Strasbourg, n° 1765.
+          <lb/>3041
+          <lb/>430
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

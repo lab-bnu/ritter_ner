@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:06.135487+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie066.tif
+IMAGE WIDTH: 2450
+IMAGE HEIGHT: 3948
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>LAPIDE, Johannes de : Resolutorium dubiorum circa celebra¬
+          <lb/>tionem missae. — [Strasbourg, Jean Grüninger s. d.),
+          <lb/>in-40.
+          <lb/>Hain-Copinger 9900, Proctor 1812; Madsen 2455; Ritter,
+          <lb/>Grand Sém. n° 304.
+          <lb/>405
+          <lb/>LAPIDE, Johannes de : Resolutorium dubiorum cirça celebra¬
+          <lb/>tionem missarum occurrentium. — (Strasbourg, Martin
+          <lb/>Flach 1493), in-40.
+          <lb/>Hain 9907; Schmidt VI, p. 9, n° 49.
+          <lb/>406
+          <lb/>LAPIDE, Johannes de : Dialogus de arte punctuandi. A la
+          <lb/>suite de : REUCHLIN, Joh., Vocabularius breviloquus.
+          <lb/>Strasbourg 1495, nos 601-603.
+          <lb/>407
+          <lb/>LASKO, Oswald de. Voir: MICHAEL de Ungaria n° 485.
+          <lb/>LAURIN : Dis büchlin saget von dem rosengarten künig
+          <lb/>laurin und von den rysen wie si mit einander stryten... —
+          <lb/>(Strasbourg, Mathias Hupfuff (5. IX] 1500), in-4°.
+          <lb/>Copinger 5171, Schmidt V, n° 10, Voulliéme : Berlin 2543,
+          <lb/>Weller, Rep, n° 180. — B N Berlin.
+          <lb/>408
+          <lb/>LEGENDA aurea. Voir: JAcoBus de Voragine nos 360-372.
+          <lb/>LEGENDAE : Legendae sanctorum Regni Hungariae in
+          <lb/>Lombardica historia non contentae. — (Strasbourg,
+          <lb/>Jean Prüss s. d.), in-fol.
+          <lb/>Hain 9996; Proctor 527 ; Madsen 2461.
+          <lb/>409
+          <lb/>LEGENDAE sanctorum regni Hungariae... — Strasbourg
+          <lb/>1486, in-fol.
+          <lb/>Hain 9997.
+          <lb/>410
+          <lb/>LEGENDE : Burgundische Legende... — [Strasbourg, Heinrich
+          <lb/>Knoblochtzer 1477), in-80.
+          <lb/>Hain 8344; Schorbach-Spirgatis, H. Knoblochtzer n° 2 :
+          <lb/>64
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

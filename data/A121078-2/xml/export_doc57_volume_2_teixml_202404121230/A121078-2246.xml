@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:34.085496+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2246.tif
+IMAGE WIDTH: 2292
+IMAGE HEIGHT: 3818
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>242
+          <lb/>fol. a 4a non ch.: PRAEFATIO AD PIVM LECTOREM...
+          <lb/>(10 pages) Suit un Index de 8 pages à 2 col.
+          <lb/>R10.217. Prov.: Bibl. Ed. Reuss, Strasbourg, 14/IV. 1891.
+          <lb/>Notes mss., au bas du titre : J. Lorck, Pastor Hafniensis, au verso
+          <lb/>du f. de garde:, Hunc Commentarium à Bucero sub, nomine Aretij Felini
+          <lb/>editum esse, disco ex oratione Iosiae Simleri de vita et obitu Petri Mar¬
+          <lb/>tyris. Ed. Reuss 1851. b. Heberle fr. 2,50.
+          <lb/>Bibl. St. Guillaume, Strasbourg. GPB: Berlin SB où l’ouvrage
+          <lb/>figure sous Psalmi.
+          <lb/>363
+          <lb/>Manque chez Mente.
+          <lb/>BUTZER Martin
+          <lb/>Strasbourg, M. Apiarius, 1533.
+          <lb/>Furbereytung zum Concilio, wie alle recht Gotsz¬
+          <lb/>fortigen (!)von beden, yetz fürnemmen theylen, so man
+          <lb/>alt vnd new gleu bige, Bapsttische, vnd Lutherische
+          <lb/>nennet, zu einigkeit Christ! licher kirchen kommen, vnnd
+          <lb/>sich darinn vnbewegt hal- ten mögen, etliche freundtliche
+          <lb/>Gotsförchtige gespräch, von fürnemmen stucken Christ
+          <lb/>licher lere, deren halb man yetz! im missuerstand ist.
+          <lb/>Zu end des bûchs findestu dise stuck noch! ordnung
+          <lb/>verzeychnet. Getruckt zû Straszburg durch Mathiam Apia¬
+          <lb/>rium, Jm jarD.M. XXXIII.
+          <lb/>In-4°, car. goth., 58 fr. non ch, sign. A-O, titre courant, récla¬
+          <lb/>mes, notes marginales.
+          <lb/>Au verso du titre:...Wilhelmen, Grauen zu Nassaw,
+          <lb/>8c. vnd Herr Wilhelmen! Grauen zu Newen Ar 8c... —
+          <lb/>Martin Butzer prediger zu Straszburg. (Préface de 7 pages.)
+          <lb/>R101491. Prov. Bibliothèque Böcking.
+          <lb/>Incomplet, ne contient que la préface et le titre, le reste manque.
+          <lb/>GPB: Berlin SB, Kœnigsberg BU, Marbourg BU.
+          <lb/>Baum No 28; Mentz NO 31.
+          <lb/>364
+          <lb/>BUTZER Martin
+          <lb/>Strasbourg, M. Apiarius, 1533.
+          <lb/>Handlung inn dem offentlichen gesprech zù Strafs¬
+          <lb/>burg iüngst imm Synodo gehalten, gegen Melcchior (!) Hoff¬
+          <lb/>man, durch die Prediger daselbet, von vier für-nemen
+          <lb/>stucken Christlicher leere vnd haltung sampt getrewen
+          <lb/>dar geben, auch der gründen, darauff Hoffman seine
+          <lb/>irthumben setzet.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

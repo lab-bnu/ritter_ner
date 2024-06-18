@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:02.970553+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002052.tif
+IMAGE WIDTH: 2508
+IMAGE HEIGHT: 3918
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>(BÈZE, Théodore de). Voir : (BARNAUD, Nicolas), n° 927;
+          <lb/>LOBWASSER n° 2412.
+          <lb/>BIBLIA : Biblia Sacrae Scripturae... Vol. I-VI. — (Strasbourg,
+          <lb/>Jean Knobloch 15221, 6 vol. in-8°.
+          <lb/>Schmidt VII, 241; Panzer 6, 99, 620. — B U Fribourg-en-Br.
+          <lb/>1001
+          <lb/>BIBLIA (en allemand). — Haguenau, Guillaume Seltz, aux
+          <lb/>frais de Paul Götz 1529, in-fol.
+          <lb/>Ritter, Hist, impr. p. 402.
+          <lb/>1002
+          <lb/>BIBLIA : Das ist die gantze Heilige Schrifft deutsch... —
+          <lb/>Strasbourg, Wendelin Rihel 1535.
+          <lb/>Bibl. Budapest : Bibl. 168. (Communication de Mme Soury,
+          <lb/>Strasbourg). (La même année parut l’édition de Wolfgang
+          <lb/>Köpfel. Voir : Ritter, Rép. n° 200).
+          <lb/>1003
+          <lb/>BIBLIA : Die gantz Heylige Schrift. Deütsch. Doctor Martin
+          <lb/>Luther... — Strasbourg, Wolfgang Köpfel 1537, in-fol.
+          <lb/>British Museum Catal. 3041. aa. 2.
+          <lb/>1004
+          <lb/>BIBLIA : Das ist : die gantz Heylige Schrifft... Verteutscht
+          <lb/>durch D. M. Luther... Mit zwey hundert Figuren... —
+          <lb/>Strasbourg, Wolfgang Köpfel 1544 (à la fin : Getruckt zu
+          <lb/>Strassburg 1547), in-fol.
+          <lb/>Baer (Francfort-s.-M.), Catal, 500 (1907), n° 1348; «150 M. ».
+          <lb/>1005
+          <lb/>BIBLIA : Die gantz Heylige Schrifft... Verteütscht durch
+          <lb/>D. M. Luther... — Strasbourg, Wolfgang Köpfel 1547,
+          <lb/>in-fol.
+          <lb/>Baer, Francfort-s.-M. : Catal, 500 (1907) no 1348; Nagler III,
+          <lb/>p. 668 n° 1595, attribue les gravures à Vogtherr, d’autres les
+          <lb/>attribuent à Weiditz.
+          <lb/>1006
+          <lb/>BIBLIA. Voir aussi: RITTER, Rép, nos 198-200.
+          <lb/>50
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

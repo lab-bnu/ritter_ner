@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:12.976601+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002451.tif
+IMAGE WIDTH: 2482
+IMAGE HEIGHT: 3988
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>RUELLIUS, Joh. Voir : Brunrels, n° 1123.
+          <lb/>RUFINUS. Voir: GREGORIUS Naziancenus, n° 1927.
+          <lb/>RULANDUS, Martinus (Frisingensis) : De emendata linguae
+          <lb/>Graecae structura, Libri II. Unus... de constructione.
+          <lb/>Alter, De omnibus phrasibus ac Graece loquendi modis...
+          <lb/>qui ad puram, ornatam, &amp;amp; elegantem orationis composi¬
+          <lb/>tionem sunt planè necessarij... Anno M.D.L.IX. —
+          <lb/>(Argentorati, Excudebat Josias Rihelius. Anno M.D.LIX.
+          <lb/>115591, in-80.
+          <lb/>Bibl. S. Guillaume, Strasbourg.
+          <lb/>3129
+          <lb/>RULANDUS, Martinus : Medicina practica recens et nova,
+          <lb/>continens omnes totius humani corporis morbos, quibus
+          <lb/>addita medicamenta omnia. — Argentor., Josias Rihelius
+          <lb/>1564, in-80.
+          <lb/>Nijhoff (La Haye), Catal, 487, n° 404 : 15 florins.
+          <lb/>3130
+          <lb/>RUNGE, Paulus. Voir: ZEITUNG (Neue warhafftige) n° 3587.
+          <lb/>RUOr, Jacobus: Ein schön nützlich Spil, von dem frommen...
+          <lb/>mann Job, mit schönen figuren. Welchs von einer
+          <lb/>löblichen Burgerschafft zu Strasburg im jar 1558 gespilt
+          <lb/>worden ist. — Strasbourg, Thiébaud Berger après 1558,
+          <lb/>in-80.
+          <lb/>Goedeke II2, p. 346, n° 57 (c).
+          <lb/>3131
+          <lb/>RUTILIUS, Lupus : De figuris sententiarum ac verborum
+          <lb/>libri II... — Strasbourg, Wolfgang Köpfel 1539, in-8°.
+          <lb/>Graesse VI, p. 196; « Texte de R. Estienne avec quelques
+          <lb/>changements dus à l’édition de 1521 (Basel, Froben 1521).
+          <lb/>La préface de l’éditeur est la même que celle de l’édition de
+          <lb/>1530 (Paris, Rob. Estienne) à quelques changements près
+          <lb/>(v. Ebert, n° 19.632».
+          <lb/>3132
+          <lb/>RYDLEY N. et M. H. LATYMER : Certe godly, learned and
+          <lb/>449
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

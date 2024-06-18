@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:12.481737+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002429.tif
+IMAGE WIDTH: 2498
+IMAGE HEIGHT: 3982
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>D. Mar. Luthers. Auch viler anderer gotseliger Männer...
+          <lb/>auffs neuest zusammengetragen. — Strasbourg, Bernard
+          <lb/>Jobin 1573, in-80.
+          <lb/>Hoburg, p. 108, Vogeleis, p. 323; Wackernagel IV (p. 1127),
+          <lb/>n° 600.
+          <lb/>3018
+          <lb/>PSALMEN : geistliche Lieder... (Idem). — Strasbourg, Bernard
+          <lb/>Jobin 1575, in-8°.
+          <lb/>Vogeleis, p. 329.
+          <lb/>3019
+          <lb/>PSALMEN : geistliche Lieder (Idem). — Strasbourg, Bernard
+          <lb/>Jobin 1576.
+          <lb/>Ritter, Hist. impr. app. 340.
+          <lb/>3020
+          <lb/>PSALMEN mit vier Stimmen in Kirchen und Schulen zu
+          <lb/>singen. — Strasbourg 1577, in-40.
+          <lb/>Goedeke II2, p. 175, n° 25.
+          <lb/>3021
+          <lb/>PSALMEN und Geistliche Lieder, welche in Kirchen und
+          <lb/>Schulen gesungen werden. — Strasbourg, Nicolas Wyriot
+          <lb/>1578, in-120.
+          <lb/>Vogeleis, p. 342; Wackernagel, p. 395.
+          <lb/>3022
+          <lb/>PSALMEN : Psalmen, geystliche Lieder und Lobgesänge
+          <lb/>sambt etlichen Gebetten. Doktor Luth... — Strasbourg
+          <lb/>(Theodosius Rihel 1578), in-120.
+          <lb/>Hoburg, p. 108; Wackernagel, 957; Vogeleis, p. 342. 3023
+          <lb/>PSALMEN : (Idem). — Strasbourg (Theodosius Rihel) 1581,
+          <lb/>in-8°.
+          <lb/>Hoburg, p. 108; Wackernagel I, p. 515.
+          <lb/>3024
+          <lb/>PSALMEN und Geistliche Lieder, welche in Kirchen und
+          <lb/>Schulen des Fürstenthumbs Zweibrücken gesungen
+          <lb/>werden. — Strasbourg, Bernard Jobin 1587, in-8°.
+          <lb/>Goedeke II2, p. 175, n° 22; Vogeleis, p. 357.
+          <lb/>3025
+          <lb/>PSALMEN : Psalmen, Geystliche Lieder und Lobgesänge.
+          <lb/>427
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:10.512921+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3282.tif
+IMAGE WIDTH: 2348
+IMAGE HEIGHT: 3856
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>724
+          <lb/>Darunter: Cautum Priuilegio Caroli Imp. Aug. QVINTI
+          <lb/>ne quis hoc Opus denuo ad Quinquennium edat, sub
+          <lb/>poena. V. Marcarum auri puri.! M. D. XXXI.
+          <lb/>Bt. a 2a: Ad... CAES. FERDINAN- DVM... Iacobi Spiegel
+          <lb/>Sele stadiensis Epistola... — Ex Selestadio Pridie Calen.
+          <lb/>Februa. M. D. XXXI. (Widmung, 3 S.)
+          <lb/>Bl. a 3a: CENSVRA IAC. SPIE- gelij de Autore Carminis
+          <lb/>Ligvrini.
+          <lb/>II. Teil : Austrias.
+          <lb/>Bl. 1a: ... Domino Matthaeo... Cardinali Gurcen. Eccle¬
+          <lb/>siae Salisburgensis coadiutori... Ioachimus Vadianus Helue¬
+          <lb/>tius foelicitatem optat... Viennae Austriae, Pri- die
+          <lb/>Nonas Octobris AN. M. D. XV. (2 S.)
+          <lb/>Bl. 2a: Io. FRANCISCVS PICVSRiccardo Bartholino
+          <lb/>suo... Ex hospitio apud! Licum. XIIII. Calendas Octobris.
+          <lb/>Darunter:... IOANNI FRAN-cisco Pico Mirandulae Principi,
+          <lb/>Riccardus Bartholinus foelicitatem D.... Ex Augusta Vin¬
+          <lb/>delicia.
+          <lb/>S. 353b: ... Principi Dn.  GEORGIO ab Austria, Brixi¬
+          <lb/>nensi Episcopo,! lacobus Spiegel Selestadiensis S. D.... —
+          <lb/>Selestadij Anno ab orbe redempto. M. D. XXXI. Calendas
+          <lb/>Augusti.
+          <lb/>Auf dem letsten Bl.: Io. SCHOTTVS! librarius, Lectori....
+          <lb/>(11 Zeilen. Anschliessend Text des kais. Privilegs, 2 S.)
+          <lb/>R10.4611. Prov.: Bibl. F. A. Menke, Bremen 1873. Mit Auto¬
+          <lb/>graph Menbé&amp;#x27;s und Jahreszahl 1830.
+          <lb/>GK: SB Berlin, UB Bonn, Breslau, Göttingen, Halle, Königs-
+          <lb/>berg, Marburg, Münster. BN Paris, Fol. Yc. 4; Rés. g. Yc. 567 u. 596.
+          <lb/>Schmidt II Nr. 118: Stadtbibl. Strassburg. Röttinger, Weidite 104, 83.
+          <lb/>Rosenthal, München, Katalog 500(1907) Nr. 1039, 36 M.: »Erste
+          <lb/>Ausgabe.&amp;quot;
+          <lb/>1065
+          <lb/>GÜRTLER Hieronymus
+          <lb/>Strassburg 1519
+          <lb/>HIERONYMI CINGVLARII AVRIMONTANI tersissima latini
+          <lb/>eloquij Synonymorum collecta- nea: non modo epistolas:
+          <lb/>uerum etiam carmina cude! re uolentibus oppido idonea:
+          <lb/>ex multiiugis &amp;amp; quidem luculentissimis tum Oratorum
+          <lb/>tum Poetarum scriptis studiosa re cognitione ueluti quae¬
+          <lb/>dam per! gymnasmata eruta vernaculoque suout in¬
+          <lb/>uentu! sint faciliora accommodata, ac denuo secundum
+          <lb/>alphabeti seriem deprompta atque concinnata.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

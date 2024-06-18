@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:31.886967+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2176.tif
+IMAGE WIDTH: 2292
+IMAGE HEIGHT: 3826
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>172
+          <lb/>BRENTIUS Iohannes
+          <lb/>Strasbourg, S. Emmel, 1560.
+          <lb/>Auszlegung des Predigers Sa lomonis, durch Herr¬
+          <lb/>en Joan. Bren-nMit einer Vorred D. Martin
+          <lb/>Luthers an den Christlichen! Leser.Jetzundt von
+          <lb/>neüwem vber-lesen vnnd gebessert. Sampt einem
+          <lb/>orden- lichen Register.
+          <lb/>Getruckt zû Straszburg bey Samuel Emmel, Anno
+          <lb/>M. D. LX. (Verso blanc.)
+          <lb/>In-8°, car. goth., CCXXVII ff. ch. --5 ff. non ch. (Table à 2 col.).
+          <lb/>titre courant, réclames, notes marginales, titre rouge et noir.
+          <lb/>fol. 2a: An Christlichen Leser! D. Martin Luther.
+          <lb/>fol. 3b: Johannes BrentzEcclesiastes zû Schwä¬
+          <lb/>bischen Hall, dem Christlichen Leser... — Datum zû
+          <lb/>Hall am xiiij, tag des Jenners Anno! M. D. XXVII. (Préface.)
+          <lb/>R101.132. Prov.: Bibl, du prof. Fr. Hommel, Munich, 9/1. 1901.
+          <lb/>Bibl. St. Guillaume, Strasbourg; Köhler W., Bibliographia Bren¬
+          <lb/>tiana N° 366: Wolfenbüttel.
+          <lb/>269
+          <lb/>BREVIARIUM, Strasbourg, J. Prüss père, 16 nov. 1510 et 1 mars 1511.
+          <lb/>Breuiarium argentinense! [I.] Pars hyemalis.
+          <lb/>Impedimenta horarum rite dicendarum... ¡ Syncopa,
+          <lb/>discursus, vaga mens, &amp;amp; mixta loquela: [Sunt quae cano¬
+          <lb/>nicas obstant dicentibus horas! Cum gratia &amp;amp; priuilegio.
+          <lb/>(Gravure sur bois représentant la Vierge couronnée, avec le sceptre
+          <lb/>et l&amp;#x27;enfant Jésus, au bas armoiries de l’évêque Guillaume de Honstein
+          <lb/>avec la mytra au-dessus.)....
+          <lb/>I.] Pars estiualis.... (Même texte et même gravure qu’au
+          <lb/>titre de la fère partie).
+          <lb/>A la fin: Ex commissione... ! Guilhelmi argentinensis
+          <lb/>episcopi breuiarium hoc impri- mis ab egregio doctore
+          <lb/>lacobo Han.... partim a Jaco bo Wimphelin... reui¬
+          <lb/>sum! Dehinc per subtilissimum calchographie artificem
+          <lb/>loannem bryse [Prüss! (qui sua industria rem literariam
+          <lb/>pluri mum adauxit) paucis demptis quaternionibus trans
+          <lb/>scriptum quo defuncto sue etatis anno Ixiij, die, XVj.
+          <lb/>Nouembris Anno vero domini. 1510. tandem successores
+          <lb/>sui! consummauerunt : prima die Martij. Ann. domini.
+          <lb/>1511.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

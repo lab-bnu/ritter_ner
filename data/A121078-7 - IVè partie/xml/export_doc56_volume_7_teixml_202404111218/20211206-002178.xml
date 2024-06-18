@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:06.299963+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002178.tif
+IMAGE WIDTH: 2510
+IMAGE HEIGHT: 3952
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Johan Baptista Badweiler nennt, zu hohn und schmach
+          <lb/>dem in Franckreich newlichsten volbrachten zug, der
+          <lb/>Teutschen, hat aussprengen dörffen. Darinnen ein
+          <lb/>Vorspiegelung von unerhörter Badenfart der Spanischen
+          <lb/>Armada gen Niderbaden zum gesaltzenen Weywasser,
+          <lb/>in dem Engeländischer Meer und Abgrund vorgenom¬
+          <lb/>men... Durch Georg Goldrich Saltzwasser von Badborn
+          <lb/>(Fischart] zusammen getragen. — Erstlich gedruckt zu
+          <lb/>Strassburg (Bernard Jobin) im Jahr 1589.
+          <lb/>Berlin, Dresden, Wolfenbüttel, Zurich; Weller, Neue
+          <lb/>Originalpoesien Fischarts p. 25.
+          <lb/>Ritter; B. M. Strasbourg n° 991.
+          <lb/>1697
+          <lb/>(FISCHART, Joh.) (Idem): Erstlich getruckt zu Straszburg
+          <lb/>vers 1600.
+          <lb/>Hauffen : Fischart Studien dans Euphorion X, p. 7:
+          <lb/>« Wahrscheinlich späterer Nachdruck (von 1589) aus zirka
+          <lb/>1600. Der Text, abgesehen von orthographischen Abwei¬
+          <lb/>chungen, übereinstimmend mit der ersten Fassung». 1698
+          <lb/>FISCHART, Joh. (Barfüsserstreit) : Der Barfüsser Secten und
+          <lb/>Kuttenstreit. Anzuzaigen die Römisch ainigkait. —
+          <lb/>(Strasbourg, Bern. Jobin 1570 ou 1571), in-8°. Nouvelle
+          <lb/>éd. 1577.
+          <lb/>Hauffen, Fischarts Werke I, p. LXXI-LXXV et éd. p. 409-416.
+          <lb/>1698a
+          <lb/>(FISCHART, Joh.) (Bericht aus Mailand) : Ein ausz Meyland
+          <lb/>uberschribener Bericht, inn was gestalt der Schweitze¬
+          <lb/>rischen Catholischen Sechs Ortten Gesanten von des
+          <lb/>Königs ausz Spanien Legaten zu Meyland im Meyen des
+          <lb/>jetzlaufenden &amp;amp;c. 88 Jares stattlich seind Empfangen
+          <lb/>Und endlich die zwischen dem König ausz Spanien unnd
+          <lb/>gemelten Schweitzerischen Ortten angefangene Bündnisse
+          <lb/>vollzogen und bekrefftigt worden. Sampt einer Rede,
+          <lb/>so ein Ritter und Doctor Tiburtius Vicegraff genant,
+          <lb/>bey dem Actu hat gehalten... Ausz dem Lateinischen
+          <lb/>gezogen und summarisch ins Teutsche gebracht. Im
+          <lb/>176
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:05.177923+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002137.tif
+IMAGE WIDTH: 2510
+IMAGE HEIGHT: 3978
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>CURA pastoralis... — Strasbourg, Mathias Hupfuff 1504,
+          <lb/>in-120.
+          <lb/>Schmidt V, n° 36; Panzer 6, 31.
+          <lb/>1471
+          <lb/>CURSUS : beatae Mariae Virginis. — (Strasbourg, impr. des
+          <lb/>Chartreux), 1533, in-4°. (Avec suppl. : Septem Psalmi
+          <lb/>penitentiales secundum ritum, morem Carthusiensium
+          <lb/>1532).
+          <lb/>Benzing, Die Presse der Kartäuser zu Strassburg (1518-1533),
+          <lb/>dans : Stultifera navis 14 (1957) n° 3/4, où il dit par mégarde
+          <lb/>que je n’ai pas parlé de l’imprimerie des Chartreux dans mon
+          <lb/>Histoire de l’imprimerie alsacienne; j’en ai traité longuement
+          <lb/>p. 41/42, en affirmant qu’ils avaient eu une imprimerie. 1472
+          <lb/>CURTIUS, Matthaeus : Cum neotericis medicis de venae in
+          <lb/>pleuritide sectione erudita disceptatio. A la suite de :
+          <lb/>FUCHS, Léonard, Apologia. — Haguenau 1534.
+          <lb/>1473
+          <lb/>CURTIUS, O. Voir : HUrTeN n° 2112.
+          <lb/>CUSPINIANUS, Johannes (Spiesshaymer) : De Caesaribus
+          <lb/>atque Imperatoribus romanis opus insigne. Dedicatio
+          <lb/>operis ad... Carolum Quintum per Christophorum Scheurle.
+          <lb/>Vita Joannis Cuspiniani et de utilitate hujus historiae
+          <lb/>per D. Nicolaum Gerbelium... — (Strasbourg 1550),
+          <lb/>in-fol.
+          <lb/>BN Paris: Rés. J. 875. (Ritter, Rép. n° 606 ; éd. Crato Mylius
+          <lb/>1540; n° 607, éd. allemande, Cr. Mylius 1541).
+          <lb/>1474
+          <lb/>CYNTHOLTZ, Johannes : Arbores Consanguinitatis. Affinitatis.
+          <lb/>Cognationis spiritualis atque legalis. Una cum clarissimis
+          <lb/>commentariis Joannis Cyntholtz... — (Strasbourg, Jean
+          <lb/>Schott) 1516, in-fol.
+          <lb/>Proctor 10.280; Scott, (Schmidt II, Suppl.) p. 9, n° 2. —
+          <lb/>Londres, Brit. Mus. et Oxford, Bibl. S. H. Scott.
+          <lb/>1475
+          <lb/>CYPRIANUS, S. : Ein heilsamer tractat... Von einfaltigkeit
+          <lb/>135
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

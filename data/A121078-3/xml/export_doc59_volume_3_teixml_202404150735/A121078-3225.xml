@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:09.023035+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3225.tif
+IMAGE WIDTH: 2326
+IMAGE HEIGHT: 3856
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Straszburg (da er predieant was) zu predigen, von! dem
+          <lb/>menschlichen baum...
+          <lb/>R10.102. Prov.: Bibl. Heite, Strassburg 1871. Handschr. No¬
+          <lb/>tizen: Iohannes Theodosius Seibling Argentinensis. Anno Domini 1633
+          <lb/>Den 15. Maij. Auf dem Schutabl. Notizen von Ch. Schmidt uber die
+          <lb/>Holeschn. u. die Fehler der Paginierung.
+          <lb/>Priesterseminar Strassburg Inc. C 23 u. O 24. Dacheux, Geiler
+          <lb/>S. CLXVI; Kristeller 103, Schmidt I Nr. 182: Ehemalige Strassburger
+          <lb/>Bibl. Inc. 1998, Stadtbibl. Basel u. sein Ex.
+          <lb/>GK: SB Berlin, UB Göttingen.
+          <lb/>984
+          <lb/>GEILER Johannes
+          <lb/>Strassburg, Joh. Grüninger 1521
+          <lb/>Sermones et varii Tractatus Keiserspergii jam re¬
+          <lb/>cens excusi; quorum Indicem versa pagella videbis.
+          <lb/>Endecasyllabum Ottomari Luscinij Ju-rispontificii Docto¬
+          <lb/>ris. In laudem operum doctissimi Keiserspergij primi
+          <lb/>Argentinensis concionatoris. (14 lat. Verse auf Geiler.)
+          <lb/>Cum priuilegio Im. (periali.] (Rücks. leer.)
+          <lb/>Am Schluss:... Ea qua potu it diligentia ex veris ori¬
+          <lb/>ginalibus Exem- plaria congessit. Et in luces prodeunda
+          <lb/>sol licito Joanni Grüninger calcographo in- genuo tra¬
+          <lb/>didit: In quibus facile videbitur, quan to intervallo
+          <lb/>languida illa, et mendicitus, consarcinata a vera et in¬
+          <lb/>com parabili auunculi sui phra si distent. Anno resti
+          <lb/>tute salutis. 15 21. Kalen dis. Au gusti
+          <lb/>20, Got., 2sp., CLX Bll. (beginnt mit Ziffer VII; fehlerhafte
+          <lb/>Paginierung), Kopft., Init., Titel rot u. schwarz, Titelumrahmung (Blät¬
+          <lb/>terwerk u. Arabesken), 4 Holeschn. : Bl. 4b : Geiler die Leichenrede für
+          <lb/>den Bischof Robertus von Strassburg haltend, Bl. 23a: Weihe des Bi¬
+          <lb/>schofs Wilhelm im Chor des Münsters, Bl. 33b: Jüdischer Hohepriester
+          <lb/>in gewölbtem Saal; Bl. 42b: Baum, der sich auf dem Titelbl. des Alpha¬
+          <lb/>bets von 1518 befindet.
+          <lb/>Bl. A 2b:... Domino Alberto familiae Thumensis dei
+          <lb/>gratia. Preposito Eluacensi dignissimo Petrus Wickgram
+          <lb/>sacrae Theologiae magister, et in maiori Ecclesiae Argen¬
+          <lb/>tinensi diuini eloquij preco immeritus et declamator. S. D.
+          <lb/>Bl. 4 3b:... Domino Joanni Geiler de Keisersperg sa¬
+          <lb/>crae Theologiae Doctori dignissimo preceptori suo colen¬
+          <lb/>dissimo. Fridericus Episcopus Augustensis vester disci¬
+          <lb/>pulus.... Datum Nie renberge! in vi- gilia ascensio
+          <lb/>nis domini: Anno domini) 1485.
+          <lb/>669
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

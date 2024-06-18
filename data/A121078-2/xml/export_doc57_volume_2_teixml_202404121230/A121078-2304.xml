@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:35.602679+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2304.tif
+IMAGE WIDTH: 2304
+IMAGE HEIGHT: 3820
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>300
+          <lb/>CARMINA GRATULATORIA
+          <lb/>Strasbourg, Nie. Waldt, 1585.
+          <lb/>PHILIPPO NAGELIO WINSSEMIO: DOCTO CVM-PRIMIS
+          <lb/>ET HONESTO IV- [ VENI: CVM EI IN CELEBERRIMA) Argen¬
+          <lb/>toratensium Academia magisterij honos decerneretur:
+          <lb/>Magnifico D. Rectore M. Melchiore Iunio:! spectabili Decano
+          <lb/>D. M. Henningo Oldendorpio, He-braicae linguae pro¬
+          <lb/>fessore: 28 Octobr. Anno re- paratae salutis humanae.
+          <lb/>CIO. ID. XVC. (Vignette).
+          <lb/>ARGENTORATI, Excudebat Nicolaus Syluanus.
+          <lb/>suivantes sont encadrés de 4 pièces d’ornement.
+          <lb/>In-4°, car. rom., 4 ff. non ch., sign. A. le titre ainsi que les pages
+          <lb/>Poésies de Paulus Crusius Molendinus, Tobias Speccerus Argen¬
+          <lb/>tinensis, Matthaeus Stein Wansouiensis Silesius, Wolffgangus Lepus¬
+          <lb/>culus Meiningensis Francus, Christophorus Kirchnerus Schmalkadensis,
+          <lb/>G. H. F. Veteris ami-citiae ergò F.
+          <lb/>R 102.288(10). Prov.: Bibliothèque Ch. Schmidt, Strasbourg.
+          <lb/>457
+          <lb/>CARMINA GRATULATORIA
+          <lb/>Strasbourg, A. Bertram, 1585.
+          <lb/>CARMINA GRATVLATORIA,  IN GRATIAM ET HONOREM
+          <lb/>PII CVM PRIMIS! ET DOCTI IVVENIS IOANNIS HOFMANNI ! Clein¬
+          <lb/>langheimensis Franci, cùm ei Magisterij honos in illustri
+          <lb/>Argentoratensium Academia à clarissimo viro! M. Henningo
+          <lb/>Oldendorpio Academiae Decano spectabili decerneretur.
+          <lb/>Anno 1585. ( die 28. Octobris.
+          <lb/>Marque typ. d’Ant. Bertram, (H e B, Planche XLIV, NO I;
+          <lb/>Silvestre, No 1023.) Verso blanc.
+          <lb/>In-4°, car. ital., 4 ff. non ch., sign. A, réclames, initiales ornées.
+          <lb/>Poésies de M. Leonhartus Hutterus Ulmensis, Ioachimus Fische¬
+          <lb/>rus Burgensis Saxo, Ioannes Leonhardus Fridel Neoburgense, Hie¬
+          <lb/>ronymus Treutlerus.
+          <lb/>R 102.288(11), Prov.: Bibliothèque Ch. Schmidt, Strasbourg.
+          <lb/>458
+          <lb/>CAROLOSTADIUS. Voir: KARLSTADT.
+          <lb/>CARRICHTER Bartholomæus
+          <lb/>Strasbourg, Christ. Müller, 1575.
+          <lb/>Practica, ausz den fürne mesten Secretis, weiland
+          <lb/>des Edlen vnnd Hochgelerten Herren Bartholomei Carrich¬
+          <lb/>ters, der Röm. Kai. May. Herrn Maximilian des Andern,
+          <lb/>vnsers aller gnedigsten Herren, &amp;amp; Hoff-Doctors.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

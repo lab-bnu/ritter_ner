@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:05.662549+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie032.tif
+IMAGE WIDTH: 2484
+IMAGE HEIGHT: 3950
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>(Aussi séparément chez Rusch). — (Strasbourg, impr.
+          <lb/>du R bizare — Ad. Rusch, pas après 1475). in-fol.
+          <lb/>G W 6046; Hain-Copinger 4470, Copinger 1454, Pellechet¬
+          <lb/>Polain 3279 et 3279 A; Proctor 236, Brit. Mus. Cat. I, 63;
+          <lb/>Voulliéme : Berlin 2116. B N Berlin, Munich, B M Besançon etc.
+          <lb/>175
+          <lb/>CARACCIOLUS, Robertus: Sermones quadragesimales de
+          <lb/>poenitentia. — Strasbourg, (Jean Grüninger) (3. II.)
+          <lb/>1497, in-40.
+          <lb/>G W 6079; Hain 4437; Pellechet-Polain 3254, Proctor 478A;
+          <lb/>Voulliéme : Berlin 2299, 5. B M Avignon, B N Berlin,
+          <lb/>Munich etc.
+          <lb/>176
+          <lb/>CARACCIOLUS, Robertus: Sermo de praedestinato numero
+          <lb/>damnatorum. — Strasbourg, 1497, in-fol.
+          <lb/>GW VI, col. 141 : « Offenbar irrtümliche Angabe Copingers.
+          <lb/>Druckort und Jahr wohl nach GW 6079. Titelfassung
+          <lb/>Copinger nur in den Opera rara GW (nos 6039-6044 und
+          <lb/>no 6072). Ein vollständiger Druck dieses Sermo ist nicht
+          <lb/>nachweisbar; die Abdrucke GW 6061, 6068 und 6069 haben
+          <lb/>andere Titel. » Copinger 1452.
+          <lb/>1
+          <lb/>CARMINA de sanitatis regimine. Voir: REGIMEN sanitatis,
+          <lb/>nos 596-598.
+          <lb/>CAROLUS IV: Die güldin bulle und Kynigclich reformation. —
+          <lb/>Strasbourg, Jean Prüss 1485, in-fol.
+          <lb/>Hain 4081, (671?); Proctor 515. — Jadis bibl. de Strasbourg
+          <lb/>incun, 1271, BN Munich; Schmidt III, 10; Kristellor 45. 178
+          <lb/>CATO : vulgo Disticha Catonis [avec commentaire : Summi
+          <lb/>deus largitor proemii. — (Strasbourg, Jean Grüninger
+          <lb/>vers 1488), in-8°.
+          <lb/>G W 6304; Hain-Copinger 4729, Proctor 498; Brit. Mus.
+          <lb/>Cat. I, 105; Voulliéme : Berlin 2321, Gilhofer und Ranschburg
+          <lb/>(Vienne), Cat. 261 (1936), n° 171 : 240 fr. suisses. B N Berlin,
+          <lb/>Munich (2 ex.), Cambridge etc.
+          <lb/>179
+          <lb/>30
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

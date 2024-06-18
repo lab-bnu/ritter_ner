@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:06.493852+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3116.tif
+IMAGE WIDTH: 2306
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>560
+          <lb/>FISCHART Johann
+          <lb/>Strassburg, Bern. Jobin 1573
+          <lb/>Eygenwissenliche vnnd wolgedenckwürdige Contrafey¬
+          <lb/>tungen oder Antlitzgestaltungen der Römischen Bäpst von
+          <lb/>der Zahl 28. von dem 1378. Jar, bisz auff den heut Stul¬
+          <lb/>fähigen, künstlich angebildet... erstlich inn Latein, nach¬
+          <lb/>mals durch verdolmetschung J. Fischart G. M. Teutsch be¬
+          <lb/>schriben. In: PANVINIUS Onufrius, Accuratae effigies pon¬
+          <lb/>tificum maximorum...
+          <lb/>GK. SB Berlin; UB Breslau, Göttingen, Halle, Kiel, Münster.
+          <lb/>Goedecke, 112, S. 493 Nr. 11; Hauffen II, 165-167.
+          <lb/>850
+          <lb/>FISCHART Johann
+          <lb/>Strassburg, Bern. Jobin 1574
+          <lb/>Eygentliche Fürbildung vnd Beschreibung des Newen
+          <lb/>Kunst-reichen Astronomischen Urwerck zu Straszburg
+          <lb/>im Münster, Disz M. D. LXXiiij. Jar vollendet.
+          <lb/>Mit Rö. Keyserlicher May.Freiheit auff zehen Jar.
+          <lb/>Anno M. D. LXXIIII.
+          <lb/>Einblattdruck, gross-2°, in der Mitte das Strassburger Münster,
+          <lb/>gez. von Tobias Stimmer. Oben, links u. rechts von der Uhr, 2 Qua¬
+          <lb/>dranten, wovon der eine die sich an der Uhr befindenden Sprüche der
+          <lb/>h. Schrift enthält; auf dem andern steht:,, Calculiert, inns Werck
+          <lb/>ge- richt vnd verfertigt, durch Con radum Dasypodium,
+          <lb/>Vhrenmacher! vnnd durch Thobiam Stimmer ge- mahlet.
+          <lb/>308 deutsche Verse, wovon die letsten vier:
+          <lb/>Auff das nun jdem wird bekant
+          <lb/>Sein einhalt, wäsen vnd verstand
+          <lb/>Hat Bernhart Jobin solcher masen
+          <lb/>Hiemit es Euch förmalen lassen, &amp;amp;c.
+          <lb/>J. F. G. M. [— Johann Fischart Genannt Menzerl.
+          <lb/>R 96. Herkunft unbekannt.
+          <lb/>Hauffen II, S. 172-176 u. 411. S. 175:» Die Breite dieser Dar¬
+          <lb/>stellung schädigte den Vertrieb. Diese Fassung wurde nicht wieder auf¬
+          <lb/>gelegt.&amp;quot;
+          <lb/>851
+          <lb/>FISCHART Johann
+          <lb/>Strassburg, Bern. Jobin [kurz nach 1574]
+          <lb/>Aigentliche Fürbildung vnd Beschreibung des Neuen
+          <lb/>Künstlichen Astronomi- schen Urwerkes, zu Strasburg im
+          <lb/>Mönster, das M. D. LXXiiij. Jar vollendet, zu sehen.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

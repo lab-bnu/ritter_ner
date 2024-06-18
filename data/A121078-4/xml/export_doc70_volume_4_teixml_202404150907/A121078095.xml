@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:45.309786+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078095.tif
+IMAGE WIDTH: 2320
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>MARBACH Johannes
+          <lb/>Strasbourg, Chr. Muller 1565
+          <lb/>Drey Christlicher Pre- digen, von Christi unsers Hey¬
+          <lb/>lands himelfart, ausz dem Ersten Capitel der! Apostel
+          <lb/>geschicht, gethon im Münster zû! Straszburg, durch Johann
+          <lb/>Mar-bach, der Heyligen Schrifft Doctor, &amp;amp;c. (Feuille de
+          <lb/>lierre.)
+          <lb/>Getruckt zû Straszburg am Korn- markt, bey Chri¬
+          <lb/>stian Mül- ler. Anno 1565.
+          <lb/>In-40, car. goth., 97 pp. ch., réclames, notes marg., initiales goth.
+          <lb/>Au verso du titre : Hieronymus in Epistola ad Cthesiphontem
+          <lb/>adversus Pelagianos, Tom 2, fol. 256.
+          <lb/>Fol. A 2a: Der... Gemein und Burgerschafft zû Strasz- burg,
+          <lb/>wünschet Johann Marbach... Gnad... es seind diese Franckfurter Herpst
+          <lb/>Mesz, etliche schmachbüchlin wider! mich, in offnem truck auszgangen,
+          <lb/>und zum theyl euch Straszburgern dediciert unnd zûgeschriben wor¬
+          <lb/>den.... (6 pp.)
+          <lb/>R 102.045. Prov.: Bibl. Heitz, Strasbourg 1871.
+          <lb/>2ème ex.: R 102.389. Prov. : Bibl. du Gymnase de Heilbronn
+          <lb/>2/IV 1878, contre échange.
+          <lb/>1480
+          <lb/>MARBACH Johannes
+          <lb/>Strasbourg, Chr. Muller 1566
+          <lb/>Christlicher und war hafftiger Underricht, von den
+          <lb/>Worten der Einsatzung des heyligen Abendtmols Jhesu
+          <lb/>Christi, unsers Heylands, sampt gründtlicher widerle¬
+          <lb/>gung der Sacramentierer hievon irri- gen Lehr, und mey¬
+          <lb/>nung.
+          <lb/>Gestellet durch Johan Marbach, der h. Schrifft Doc¬
+          <lb/>torn, und der Kirchen zû Straszburg Superintendenten.
+          <lb/>Grav, sur bois: la sainte cène.
+          <lb/>Mit etlichen zâ anfang und ende des Bûchs nutzli¬
+          <lb/>chen Registern.
+          <lb/>A la fin: Getruckt zû Straszburg am Kornmarckt,! bey
+          <lb/>Christian Müller, Jm Jar 1566. (Vign.) Verso blanc.
+          <lb/>In-4°, car. goth., 16 ff. non ch., 596 pp. ch., 22 ff. non ch. (table),
+          <lb/>titre courant, réclames, notes marg. Au verso du titre, armoiries.
+          <lb/>Fol. a 2a non ch.:... Herrn Wolffgang, ( Pfaltzgraven bei Rhein...
+          <lb/>— Datum Strasz- burg, den 25. Martii, Anno ChristiM. D. LXV.
+          <lb/>Johan Marbach. (Préface, 6 ff.)
+          <lb/>Fol. b 4a non ch.: Dem Christlichen Leser... Geben Anno1565.
+          <lb/>Sontags, den 25. Martii... Die Pfarrherrn, und Helffer der Christlichen
+          <lb/>Gemeyn zû Straszburg. (2 ff.)
+          <lb/>981
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

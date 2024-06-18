@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:43.707798+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078038.tif
+IMAGE WIDTH: 2362
+IMAGE HEIGHT: 3828
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>922
+          <lb/>titre: «Erhardus Schreiber.»
+          <lb/>R10.489. Prov.; BN Munich 15/IV 1879, 4 M. 50. En bas du
+          <lb/>75 frs.; Bœr, Francfort s. M., Catal. 500 (1907) n° 1273; 50 M.
+          <lb/>Olschki, Florence, Catal. LXXXI (1912) n° 116 avec 2 facsimilés;
+          <lb/>1381
+          <lb/>LOBARTUS Johannes, Voir: STURM Johannes: Commentarii in
+          <lb/>artem poeticam Horatii. Strasbourg, Nic. Wyriot 1576.
+          <lb/>LOCHER lacobus: Carmen de nocte, vino et muliere. Voir: Wim¬
+          <lb/>pheling: Adolescentia. Strasbourg, M. Hupfuff 1515.
+          <lb/>LOCHMAIR. Voir: LOCHMEYER
+          <lb/>LOCHMEYER Michael
+          <lb/>Haguenau, H. Gran 1501
+          <lb/>Celeberrimi sacre theologie necnon iurispontificii doc¬
+          <lb/>toris: et artium magistri, ac ecclesie! Pataviensis Cano¬
+          <lb/>nici domini Michaelis lochmair sermones! de sanctis peru¬
+          <lb/>tiles; cum vigintitribus sermonibus magistri Pauli wann
+          <lb/>annexis feliciter incipiunt. (Verso blanc.)
+          <lb/>A la fin: Sermones... Expensis provi di viri Johannis
+          <lb/>Rynman: diligenter re visi et emendati. Jmpressique in
+          <lb/>imperiali op pido Hagenaw per Henricum Gran fini-unt
+          <lb/>feliciter, xxiiïï. die mensis Martij. An no salutis post Mil¬
+          <lb/>lesimum quingentesi- mum.
+          <lb/>In-fol., car. goth., 2 col., 251 ff. non ch., sign. a-, A-I, titre
+          <lb/>courant, init. d’attente.
+          <lb/>Fol. a 2a: Tabula. (22 pp.)
+          <lb/>R10.331. Prov.: BN Munich 15/IV 1879; 2 M. Notes mss.;
+          <lb/>à l&amp;#x27;intérieur de la couverture, armoiries avec la date 1587.
+          <lb/>1382
+          <lb/>LOCHMEYER Michael
+          <lb/>Haguenau, H. Gran 1507
+          <lb/>Celeberrimi sacre theologie... Michaelis lochmair ser¬
+          <lb/>mones... (Même titre que dans l&amp;#x27;édition de 1501. Verso blanc.)
+          <lb/>A la fin: Sermones... Expensis pro- uidi viri Joannis
+          <lb/>Rynman: diligenter re- uisi et emendati. Jmpressique in
+          <lb/>imperiali oppido Hagenaw per Jndustrium Henri! cum
+          <lb/>Gran finiunt feliciter. Anno salutis! nostre Millesimo quin¬
+          <lb/>gentesimo septimo! xiiii, die mensis Martii.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

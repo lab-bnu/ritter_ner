@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:43.602318+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078032.tif
+IMAGE WIDTH: 2360
+IMAGE HEIGHT: 3836
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>916
+          <lb/>rische bü- cher der Bibel.Nämlich: Josua der Richter
+          <lb/>Ruth Samuelis! der Künig. Chronica! Essra! Nehemis
+          <lb/>Esther Hiob..
+          <lb/>Getruckt zû Straszburg, bey Balthassar Beck. Anno
+          <lb/>M. D. XLV.
+          <lb/>In-4°, car. goth., 4 ff. non ch., CCXCII ff. ch., titre courant,
+          <lb/>réclames.
+          <lb/>Au verso du titre:... Herrn Albrechten Marckgra! fen zû Branden¬
+          <lb/>burg... — Datum Nürnberg. 10. Junii, anno. 1544. E. F. G. (dienst¬
+          <lb/>williger Cappellan Wentzeslaus Linck. D.
+          <lb/>R101152 (2). Prov.: F. A. Brockhaus, Leipaig 22/XII 1890;
+          <lb/>1370
+          <lb/>20 M. Notes mss. marg.
+          <lb/>LINK Wenceslaus
+          <lb/>Strasbourg, S. Emmel 1555
+          <lb/>Das erst theyl des alten Testaments. Annotation in
+          <lb/>die fünff bücher Mosi...
+          <lb/>A la fin: Getruckt zû Straszburg durch Samuel Emmel.
+          <lb/>M. D. LV.
+          <lb/>In-4°, car. goth., 8 ff. non ch., COLXIX ff. ch., titre courant,
+          <lb/>réelames.
+          <lb/>Fol. 2a: Vorred D. Martini Lutheri. (Préface de 5 pp.)
+          <lb/>Fol. 4b:... Herrn Johans Friderichen Churfürsten, und Herr Jo¬
+          <lb/>hans Ernesten, gebrü dern, Hertzogen ztt Sachsen... — Datum Nürn-!
+          <lb/>berg, den XX. Ju- lii, Anno.XLIII. (Dédicace de 9 pp.)
+          <lb/>R101153 (1). Prov.: Don de M. Ensfelder, curé à Riquewihr
+          <lb/>24/V 1886.
+          <lb/>1371
+          <lb/>LITHUS Simon. Voir: STEN Simon
+          <lb/>LIVIUS Titus
+          <lb/>Strasbourg, J. Gruninger 1507
+          <lb/>Römische History usz T. Livio. (Grande gravure: l&amp;#x27;empereur
+          <lb/>Maximilien assis sur le trône, le sceptre dans la main droite; un alobe
+          <lb/>surmonté d’une croix dans la main gauche; à ses côtés les électeurs,
+          <lb/>chacun avec ses armoiries; au fond et dans la bordure inférieure des
+          <lb/>hommes d’armes et des écuyers; en outre dans la bordure inférieure le
+          <lb/>traducteur, accompagné de deux clercs, présentant un livre à l’empereur.)
+          <lb/>A la fin: Getruckt und vollendet in der loblichen und
+          <lb/>fry en statt Straszburg dureh sunderlichen fleisz! Joannis
+          <lb/>Grüninger am dry unnd zwenzigsten tag des monds Mar¬
+          <lb/>cii... tusent fünffhundert und süben iar.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

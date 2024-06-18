@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:53.236051+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5115.tif
+IMAGE WIDTH: 2338
+IMAGE HEIGHT: 3852
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1423
+          <lb/>blouchij. Argento !! rati septimo Kalendas Martias!! elaboratum
+          <lb/>est. Anno!! M. D. XX. (Verso blanc.).
+          <lb/>In-4°, car, goth., 6 ff. non ch., 108 ff. ch., titre courant, init. ornées
+          <lb/>P, I; titre encadré, composé de 4 pièces juxtaposées (ornements).
+          <lb/>Au verso du titre le prologue de Surgant de 1502, suivi de 5 ff. de table.
+          <lb/>R. 101.437. Prov. : BN Munich, 10/IV, 1882; 0 M. 50.
+          <lb/>Annotations mss. A l’extérieur de la couverture : « 1550 Georg Waser.
+          <lb/>M. O. V. ».
+          <lb/>Schmidt VII, No 194 : Jadis Bibl. de Strasbourg, Incun. No 4363.
+          <lb/>Proctor II, Sectio I, N° 10.127: Londres, British Museum. 2260
+          <lb/>SUSSANEAU Hubert
+          <lb/>Strasbourg, Josias Rihel, 1576
+          <lb/>Connubium! Adverbiorum,!! Id Est!! Elegans Adverbio¬
+          <lb/>rum Ap-] plicatio, &amp;amp; mirificus usus ex omnibus Ciceronis
+          <lb/>operibus, ordine Alphabeti demonstra- tus, locis unicuique
+          <lb/>as- (I signatis. !! Ab Huberto Sussannaeo.
+          <lb/>Marque typ. de Josias Rihel. (H. &amp;amp; B. Planche XXXII.
+          <lb/>No 14.
+          <lb/>A la fin : Argentorati Excudebat Iosias Rihelius.
+          <lb/>M. D. LXXVI.
+          <lb/>In-8°, car, rom., 2 col., 8 ff. non ch., 118 ff. ch., titre courant, réclames,
+          <lb/>init. ornée A.
+          <lb/>fol. a 2a : Iohannes!! Crato a Craft- ]! heim Archiatrus !! Caesareus,
+          <lb/>Iohanni Baptistae !] Filio S... — Pragae ex Regia Imperatoris : !! Kal.
+          <lb/>Iunij Anni Christi... M. D. LXXV. (Préface de 6 pp., suivie d’un f. blanc.)
+          <lb/>R. 101.905 (2). Prov. : Rosenthal, Munich, 17/XII, 1883.
+          <lb/>Note mss. Carthusiae in Buxheim »
+          <lb/>2261
+          <lb/>SUSSANNEAU Hubert.
+          <lb/>Strasbourg, Josias Rihel, 1585
+          <lb/>Connubium adverbiorum... (Comme dans l’éd. précé¬
+          <lb/>dente).
+          <lb/>Marque typ. de Josias Rihel. (H. &amp;amp; B. Planche XXXII,
+          <lb/>No 16.)
+          <lb/>Cum Privilegio. ! M. D. LXXXV. (Verso blanc.)
+          <lb/>A la fin : Argentorati Excudebat Iosias Rihelius.
+          <lb/>M. D. LXXXV.
+          <lb/>In-8°, car. ital., 2 col., 4 ff. non ch., 96 ff. ch., titre courant, réclames,
+          <lb/>init. ornée A.
+          <lb/>fol. a 2a non ch. : Iohannes!! Crato a Crafft- Il heim Archiatrus Cae¬]]
+          <lb/>sareus Iohanni Baptistae!! Filio... — Pragae ex Regia Impera- Il toris :
+          <lb/>Kal. Iunij... M. D. LXXV. (Vignette.)
+          <lb/>R. 101.906 (2). Prov. : Friedrichs-Gymnasium, Francfort-s.-M., 14/XII,
+          <lb/>1888; sans indic. du prix.
+          <lb/>2262
+          <lb/>SYLVIOLUS Antonius, Chilias de triumphali atque insigni Christia¬
+          <lb/>nissimi Francorum regis Ludovici duodecimi in Venetos
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

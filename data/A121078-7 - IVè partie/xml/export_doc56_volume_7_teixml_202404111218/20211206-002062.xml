@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:03.130123+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002062.tif
+IMAGE WIDTH: 2478
+IMAGE HEIGHT: 3958
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>BRANT, Séb. : Stultifera navis... per Jacobum Locher... in
+          <lb/>latinum traducta, eloquium. — Strasbourg, Jean Prüss
+          <lb/>1502, in-fol. (avec préface de Wimpheling, janvier 1502).
+          <lb/>Goedeke I2, p. 387.
+          <lb/>1053
+          <lb/>BRANT. Voir aussi: AEsOpUs n° 746. CATo nos 1309, 1311;
+          <lb/>HORTULUS animae n° 2061/2; FACETUS n° 1685;
+          <lb/>MORETUS n° 2724; RELMICIUS n° 3095; TENGLER
+          <lb/>n° 3313. RITTER, Rép, nos 236-249.
+          <lb/>BRASSICANUS, Johannes : Grammaticae institutiones denuo
+          <lb/>accurate revisae... — Strasbourg, Jean Prüss 1512,
+          <lb/>in-40.
+          <lb/>Schmidt III, p. 29, n° 3. [Une éd. Prüss 1508, 1509, Schürer
+          <lb/>1512, Prüss 1513, Beck 1518, Haguenau Anshelm 1518,
+          <lb/>Prüss 1519 : Ritter, Rép, nos 250-256l.
+          <lb/>1054
+          <lb/>BRASSICANUS, Joh. : Grammaticae institutiones. —
+          <lb/>Strasbourg (Mathias Schürer) août 1519, in-40.
+          <lb/>Panzer 6, 92, 554; Schmidt VIII, n° 248.
+          <lb/>1055
+          <lb/>BRASSICANUS Joh. : Institutiones grammatice. — (Haguenau,
+          <lb/>H. Gran pour J. Rynman 16 mai 1517), in-4°.
+          <lb/>Burg n° 96.
+          <lb/>1056
+          <lb/>BRASSICANUS, Johannes : Paedotribae Institutiones gram¬
+          <lb/>maticae elimatissimae... — (Strasbourg, René Beck
+          <lb/>janvier 1517), in-4°.
+          <lb/>Panzer 6, 86; Schmidt IV, p. 24, n° 25. Jadis Bibl. de
+          <lb/>Strasbourg, Incun, n° 1197 et BN Strasbourg (?, manque).
+          <lb/>(Une éd. Prüss 1519: Ritter, Rép. n° 256).
+          <lb/>1057
+          <lb/>BRASSICANUS, Johannes Alexander (dit Kohlburger) : De
+          <lb/>statu domus Dei libri quinque (éd. Potho, presbyter
+          <lb/>Pruniensis). — Haguenau 1532, in-80.
+          <lb/>BN Paris : C. 4271.
+          <lb/>1058
+          <lb/>60
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

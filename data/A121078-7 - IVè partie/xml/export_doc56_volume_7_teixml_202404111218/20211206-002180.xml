@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:06.340123+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002180.tif
+IMAGE WIDTH: 2508
+IMAGE HEIGHT: 3960
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>FISCHART, Johann. (Bullinger) : Eigentliche Conterfahtung
+          <lb/>Heinrichen Bullingers... — Strasbourg, Bernard Jobin
+          <lb/>1571.
+          <lb/>Goedeke II2, p. 491, nos 3, 1.
+          <lb/>1704
+          <lb/>FISCHART, Joh. (Cantiques) : 130 Cantiques). Dans : Gesang¬
+          <lb/>1705
+          <lb/>[FISCHART, Joh.) : Catalogus Catalogorum perpetuo durabilis.
+          <lb/>Newlich durch Artwisum von Fischmentzweiler erdi¬
+          <lb/>tricht, abgelöst und an Tag gebracht... — Getruckt zu
+          <lb/>Nienendorff bei Nirgendsheim im Mentzergrund M.D.XC.
+          <lb/>(Strasbourg, Bernard Jobin) 1590, in-40.
+          <lb/>Hauffen, Neue Fischart-Studien, p. 10.
+          <lb/>1706
+          <lb/>(FISCHART, Joh.] : Declaration oder Erklärung Kön. Maj. zu
+          <lb/>Franckreich und Navaren... (14 lignes). — Strasbourg,
+          <lb/>Bernard Jobin 1590, in-4°. (Quelques-uns l’attribuent
+          <lb/>à Fischart).
+          <lb/>Goedeke II2, p. 503, n° 54,2; Vilmar, Fischart-Studien, p. 38;
+          <lb/>Hauffen, Fischart-Studien dans Euphorion X, p. 19/20.
+          <lb/>Breslau, München.
+          <lb/>1707
+          <lb/>[FISCHART, Joh.) : Discours. Ein... Bedencken und wol
+          <lb/>erwogenes Urtheil von heutigem zustand Franckreichs...
+          <lb/>Durch ein fürneme, Gelehrte, Weise und der beschaffen¬
+          <lb/>heit Frantzösischer sachen wohlerfarene Person, erstlich
+          <lb/>Frantzösisch gestellet und nun seines Nutzes halben
+          <lb/>durch verdolmetschung auch dem Teutschen gemeyn
+          <lb/>gemacht. [J. Fischart). — Getruckt durch Haloyonium
+          <lb/>Windstill zur kleinen Rhuwart, 1589. — (Strasbourg,
+          <lb/>Bernard Jobin) 1589, in-4°.
+          <lb/>Hauffen, Fischart-Studien, Euphorion III, VI, p. 647/9 et
+          <lb/>Fischarts Werke I, p. LXIX.
+          <lb/>1708
+          <lb/>(FISCHART, Joh.] (Discours) : Warhafftiger Discours und
+          <lb/>178
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

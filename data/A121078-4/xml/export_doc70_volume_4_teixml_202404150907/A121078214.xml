@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:48.697082+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078214.tif
+IMAGE WIDTH: 2304
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1100
+          <lb/>Placard, in-40, car. goth., 16 lignes, init. ornée A.
+          <lb/>R21 (10). Prov.: Bibl. Heitz, Strasbourg 1871. Note ms. : Kü¬
+          <lb/>nigreich, Kolben und andere Zehrung, Zechen und Prassen verbotten.
+          <lb/>2ème ex.: R 22 (50). 3ème ex.: R 22 (51). A la marge : Wirts¬
+          <lb/>1700
+          <lb/>hausordnung 1533. Tous les 3 ex. ont la même provenance.
+          <lb/>ORDONNANCE
+          <lb/>Strasbourg 1537
+          <lb/>ALs nun eyn zeit her, ettlich burger und auch frembde,
+          <lb/>so sie selbst oder den iren hochzeit gehalten ausserthalb
+          <lb/>der Statt und an andern orten, da man die kirchen preüch
+          <lb/>und Ceremonien nach Bäpstlicher insatzung pflegt zu¬
+          <lb/>brauchen, zû kirchen gangen, und sich oder die iren da¬
+          <lb/>selbst ein- segnen lassen, Aber nit destominder von sol¬
+          <lb/>chem kirchgang und einsegnen in die statt Strasz-burg
+          <lb/>gefaren, ire hochzeit mit irem Uppichem pracht, Essens,
+          <lb/>Trinckens, Dantzens, und anderm allhie voltzogen unnd
+          <lb/>vollend haben. Damit nit alleyn die Kirchen ordnung, so
+          <lb/>inn diser statt nach Evangelischer gegründter warheyt
+          <lb/>fürgenomen unnd geübt werden, schendlich verle- stert...
+          <lb/>Demnach so haben unsere Herrn Meyster und Rath sampt
+          <lb/>den Eyn und zweintzigen erkant, Das hinfuro keyn bur¬
+          <lb/>ger... der hinfüro sein, oder der seinen kirchgang uszer¬
+          <lb/>halb diser statt thûn... die selben ir hochzeit inn diser
+          <lb/>stattStraszburg nit haben oder halten soll, bei eyner
+          <lb/>straaff Fünff Pfund pfenning... —
+          <lb/>Decret. Montag den zwölfften Fe! bruarii. Anno &amp;amp;c.
+          <lb/>xxxvii. (Verso blanc.)
+          <lb/>Placard, in-4°, car. goth., 17 lignes, init. ornée A.
+          <lb/>R 21 (9). Prov.: Bibl. Heitz, Strasbourg 1871. Note ms. au verso
+          <lb/>blanc: 12. febr. 1537. Hochzeit in der Statt zu halten, wann der Kirch¬
+          <lb/>gang auszer der Statt gehalten worden, Verbot.
+          <lb/>2ème ex. R 22 (27); 3ème ex. R 22 (28). Même provenance.
+          <lb/>1701
+          <lb/>ORDONNANCE
+          <lb/>Strasbourg 1539
+          <lb/>WIr Egenolph Röder von Thiersperg, der Maister, und
+          <lb/>der Rhat zû Straszburg, Thânt khundt, Al! unsere vor¬
+          <lb/>faren, und wir, nûn gûte zeit, und eben vil jar här, bei
+          <lb/>namhafften peenen gebotten unnd verbot ten, Das nieman
+          <lb/>unser eingesessenen burger... in dhei nen krieg ziehen,
+          <lb/>noch sich von einichem... bestellen lassen, sonder anhaï¬
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:11.043247+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3307.tif
+IMAGE WIDTH: 2356
+IMAGE HEIGHT: 3856
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>HEGENDORF Christoph
+          <lb/>Hagenau, Joh. Setzer 1529
+          <lb/>COMPEN DIARIAE TITVLO rum Codicis Iustini! ani
+          <lb/>Exegeses. Authore Christophoro Hegendorphino.
+          <lb/>Haganoe apud Ioh. Sec. Anno M. D. XXIX.
+          <lb/>Am Schluss: Haganoe in aedibus lohannis Secerij,
+          <lb/>Anno M. D. XXIX. Mense Augusto. (Darunter: Druckerm.
+          <lb/>Setzers. HB Tafel LXXI Nr. 9; Silvestre Nr, 567.)
+          <lb/>80, Antig., 115 unn. Bll., Sign. A-P, Kopft., Kust., Init., Titel¬
+          <lb/>umrahmuug (H&amp;amp; B Tafel LXIX Nr. I.)
+          <lb/>Bl. A2a: CLARISSI- MO IVRISCONSVLTO LVDOVICO FAC¬
+          <lb/>CHO, PRAE ceptori suo charissimo Christophorus He gen¬
+          <lb/>dorphinus S. D. P. (3 S.)
+          <lb/>R 100.9651. Prov.: E. Lindner, Strassburg (Auktion Stöber, Nr.
+          <lb/>1033);8 M. 50.
+          <lb/>1107
+          <lb/>HEGENDORF Christoph
+          <lb/>Hagenau, Joh. Setzer 1529
+          <lb/>INTEGRAE DIALECTICES INSTI TVTIONES, A CHRISTO
+          <lb/>phoro Hegendorphino con scriptae, &amp;amp; in rem stu! diose
+          <lb/>iuuentutis iam editae....
+          <lb/>Haganoae per lohan. Secerium Anno M. D. XXIX.
+          <lb/>Am Schluss: EXCVDEBATVR HA-ganoe apud Iohan. Sec.
+          <lb/>Anno M. D. XXIX.
+          <lb/>Auf der Rücks. Druckerm. Setzers. (HRB Tafel XXI Nr. 9; Sil¬
+          <lb/>vestre Nr. 567.)
+          <lb/>80, Antiq., 59 unn. Bll., 1 leeres Bl., Kopft., Kust., Init.
+          <lb/>Auf der Rücks, des Titelbl.: EPISTOLA... GEORGIO] à Brei¬
+          <lb/>tenbach... Christopho-rus Hegendor-phinus S. D. (3S.)
+          <lb/>R101.207. Prov.: SB München 7. V. 1877; ohne Preisangabe.
+          <lb/>BN Paris, 8° X. 119474.
+          <lb/>1108
+          <lb/>749
+          <lb/>HEGENDORF Christoph
+          <lb/>Hagenau, Joh. Setzer 1529
+          <lb/>ORATIO DE ARTIBVS, FVTV RO IVRISCONSVLTO &amp;amp; ne¬
+          <lb/>cessariis &amp;amp; frugi- feris, compa randis. ITEM. CONSILI¬
+          <lb/>VM DE COMPENDI aria discendi lura Ciui lia, ratione.
+          <lb/>Authore Christophoro! Hegendorphino.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:12.392646+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002423.tif
+IMAGE WIDTH: 2492
+IMAGE HEIGHT: 3948
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>PRIERIAS, Silvester de : Super Evangelia totius anni expositio
+          <lb/>seu rosa aurea. — Haguenau, Henri Gran aux frais de
+          <lb/>Rynman 1500, in-40.
+          <lb/>Graesse V, p. 442.
+          <lb/>2985
+          <lb/>PRIERIAS, Silvester de : Aurea Rosa id est praeclarissima
+          <lb/>expositio super evangelia totius anni de Tempore
+          <lb/>et de Sanctis secundum ordinem Predicatorum... —
+          <lb/>(Haguenau, H. Gran pour J. Rynman, 8 octobre 1508),
+          <lb/>in-40.
+          <lb/>Burg n° 388; Graesse V, p. 442. [Une éd. Gran 1516 : Ritter,
+          <lb/>Rép. n° 1924).
+          <lb/>2986
+          <lb/>PRIERIAS, Silvester de : Rosa aurea. — Haguenau, Henri
+          <lb/>Gran pour Jean Rynmann 31.X.1510, in-4°.
+          <lb/>Ritter, Grand Sém. Strasbourg, n° 433, Burg n° 389. 2987
+          <lb/>PRIERIAS, Silvester de : Summa summarum que Sylvestrina
+          <lb/>dicitur... — Haguenau 1519, in-fol.
+          <lb/>Schmidt, Hist. litt. II, p. 415, n° 291. (Une éd. Grüninger
+          <lb/>1518 : Ritter, Rép. n° 1925l.
+          <lb/>2988
+          <lb/>PRISCIANUS, Theodorus : Octavii Horatiani. Rerum medica¬
+          <lb/>rum libri quatuor. I. Logicus, de curationibus omnium
+          <lb/>ferme morborum corporis humani... Il. De acutis et
+          <lb/>chronicis passionibus... III. Gynecia... IV. De physica
+          <lb/>scientia, experimentorum liber. Per Heremanum, comi¬
+          <lb/>tem a Neuenar integro candori nuper restitutus autor.
+          <lb/>Albucasis... Libri tres... — Strasbourg, Jean Schott
+          <lb/>26.11.1532, in-fol.
+          <lb/>Schmidt II, n° 123; Graesse V, p. 448 ; « Première éd. dans
+          <lb/>laquelle le texte a été souvent hardiment changé. La Diaeta
+          <lb/>n’y est pas ». — B N Berlin, B N Paris, B M Montauban 2401.
+          <lb/>2989
+          <lb/>PRISCIANUS, Theodorus : De curationibus omnium ferme
+          <lb/>morborum homini accidentium. De acutis et chronicis
+          <lb/>421
+          <lb/>14-1
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

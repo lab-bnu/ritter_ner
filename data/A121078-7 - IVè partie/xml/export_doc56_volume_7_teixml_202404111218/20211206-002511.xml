@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:14.165531+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002511.tif
+IMAGE WIDTH: 2482
+IMAGE HEIGHT: 3968
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>VOGEL, Nic. Voir: LIED (ein schönes, neues, geistliches von
+          <lb/>dem verlornen Sohn), n° 2369.
+          <lb/>Vogr, V. Voir: LIED (ein schönes, neues, geistliches), n° 2369.
+          <lb/>VOGTHERR, Heinrich : Anathomia oder abconterfettung
+          <lb/>eines Weybs leib wie er inwendig gestaltet ist... —
+          <lb/>Strasbourg, H. Vogtherr 1537.
+          <lb/>Bibl. Bâle. Voir : Pfister, Arnold : Uber Anfänge und erste
+          <lb/>Entwicklung des Druckes medizinischer Werke in Basel.
+          <lb/>Dans : Festschrift für Dr. J. Brodbeck-Sandreuter, 1942,
+          <lb/>p. 349-363.
+          <lb/>3442
+          <lb/>VOGTHERR, Heinrich : Anathomia, oder abconterfettung
+          <lb/>eines Mans leyb, wie er innwendig gestaltet ist,... eines
+          <lb/>Weybs leyb, wie er innwendig gestaltet ist. — Getruckt
+          <lb/>zu Straszburg durch Heinrichen Vogtherren 1539, in-fol.
+          <lb/>Choulant-Frank, p. 158.
+          <lb/>3443
+          <lb/>(VOGTHERR, H.] : Anatomia interiorum partium humani
+          <lb/>corporis ac eorundem situs, figura, numerus, positio,
+          <lb/>haud iniucunda cognitu. Anatomiae perutilis interiorum
+          <lb/>muliebris partium cognitio ac eorundem... cognitio. —
+          <lb/>Argentorati, apud Jacobum Jucundum (Frölich) 1551,
+          <lb/>in-fol. Nouv. éd. 1552.
+          <lb/>Choulant-Frank, p. 159.
+          <lb/>3444
+          <lb/>VOGTHERR, Heinrich : Ein Newes hochnuczlichs Büchlin
+          <lb/>von erkantnus der kranckheyten der Augen, Sampt
+          <lb/>einer figur oder Anathomia einès augs... — Strasbourg,
+          <lb/>Henri Vogtherr 1538, in-4°.
+          <lb/>Walter, n° 2401.
+          <lb/>3445
+          <lb/>VOGTHERR, Heinrich (Kunstbüchlein) : Ein frembds und
+          <lb/>wunderbars kunstbüchlein... — Strasbourg, Henri
+          <lb/>Vogtherr 1537, in-40,
+          <lb/>Goedeke II2, p. 179, n° 9; Graesse IV, p. 235.
+          <lb/>3446
+          <lb/>509
+          <lb/>17
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

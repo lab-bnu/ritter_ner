@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:47.489886+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078173.tif
+IMAGE WIDTH: 2304
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>NEPOS Cornelius
+          <lb/>Strasbourg, M. Schurer 1511
+          <lb/>AEMILII PROBI VITAE EXCEL] LENTIVM IMPERATORVM] TITO
+          <lb/>POMPONIO ATTI! CO DEDICATAE. TI. POMPONII ATTICI VITA
+          <lb/>PER] CORNELIVM NEPOTEM DESCRIPTA. Plutarchi liber de
+          <lb/>illu! strium mulierum virtutibus. Eiusdem Parallelia.
+          <lb/>A la fin : Argentorat. In Aedibus Schurerianis. Ann.
+          <lb/>M. D. VI. XII. Kal. April.
+          <lb/>In-4°, car. rom., 100 ff. non ch., sign. A-O, init. d’attente.
+          <lb/>R101731. Prov, inconnue. Annotation ms. latine au titre:,Ar¬
+          <lb/>gentorati in aedibus Schurerianis M. D. VI. Dubitatur de hoc anno, quum
+          <lb/>Schurerius primum anno 1508 primitias suae officinae obtulisse dicatur.&amp;quot;
+          <lb/>Et au recto du dernier f. :,Quum Schürerius primum a. 1508 die 8. Iunii
+          <lb/>primitias officinae Athanasii in Psalmos opusculum c. aliis emiserit, hic
+          <lb/>annus 115061 non potest esse verus. Legendum est M. D. XI. aut M. D.
+          <lb/>XVI, quo anno mense Martio Philostrati Vitas Soph. ediderat.“ On a donc
+          <lb/>ou bien oublié le X devant V, ou bien V est une erreur pour X. de
+          <lb/>sorte qu’on a ou bien M. D. XVI ou bien M. D. XI. Schmidt VIII
+          <lb/>n° 51 admet 1511:¿La date 1506, dit-il, est une faute... Wolfgang
+          <lb/>Angst, dans sa préface au Commentarius Hieroclis Stoici philosophi in
+          <lb/>aurea Pythagorae carmina (21 février 1511), annonce qu’Aemilius Probus
+          <lb/>est sous presse, il est donc aussi de 1511, il parut un mois après Hiero¬
+          <lb/>clès.
+          <lb/>BM Strasbourg. Proctor II Sectio I n° 10.186: Londres, British
+          <lb/>Museum; Schmidt VIII n° 51.
+          <lb/>1625
+          <lb/>NESTOR Dionysius. Voir: DIONYSIUS NESTOR
+          <lb/>NIAVIS. Voir: SCHNEEVOGEL
+          <lb/>NICOLAUS DE BLONY
+          <lb/>Strasbourg, M. Flach 1508
+          <lb/>Tractatus sacerdotalis de sacramentis deque di- vinis
+          <lb/>officiis; et eorum admi nistrationibus. (Verso blanc.)
+          <lb/>A la fin avant la table: ... Impressus Argentine per Marti.
+          <lb/>flach. Anno domini. M. ccccc. iii.
+          <lb/>In-40, car. goth., 2 col., 110 ff. non ch., sign. a-q, titre courant,
+          <lb/>init. d’attente. Fol. A 3a: Prologus.
+          <lb/>*R101.341. Prov.: Don de Fid. Butsch, antiquaire à Augsbourg
+          <lb/>1871; avec annotations mss. Au dessus du titre: Stephani A Pognarii
+          <lb/>Sum. Au milieu : Sum ex libris Georgii Obermairii Anno 55. Au-dessous:
+          <lb/>Ex Libris Emmanuelis Joannis Pogner Vicarii Mamkirchii 1720, dein Pa¬
+          <lb/>storis ad S. Petrum 1731.
+          <lb/>1059
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

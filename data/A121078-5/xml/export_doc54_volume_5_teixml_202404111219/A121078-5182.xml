@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:55.965989+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5182.tif
+IMAGE WIDTH: 2354
+IMAGE HEIGHT: 3858
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1492
+          <lb/>VALLA Laurentius
+          <lb/>Strasbourg, M. Schürer, 1512
+          <lb/>Laurentij Valle de lingua latina quam optime meriti,
+          <lb/>Eleganti-arum libri sex, deque reciprocatione libellus, cum
+          <lb/>Anto-nij Mancinelli lima suis locis apposita. Et cum
+          <lb/>Iodoci Badij Ascensij epitomatis singu- lis capitibus ante¬
+          <lb/>positis, &amp;amp; subin-de non contemnendis ex-planationibus.
+          <lb/>Adnotationes eiusdem in Antonium Raudensem.Apologus
+          <lb/>seu actus scaenicus in Pogium Florentinum.
+          <lb/>Ad Lectores. (8 lignes.)
+          <lb/>A la fin : Argentorati. Ex Aedibus Ma-thiae Schurerij
+          <lb/>Mense Martio!! Anno christi! M. D. XII. ! Tempus obserua.
+          <lb/>Regnante Imperatore Maximiliano. P. F. A. (Verso blanc.)
+          <lb/>In-4°, car. rom., 4 ff. non ch., CCXXVI ff. ch., 11 ff. non ch., dont les
+          <lb/>10 derniers contiennent l’Index à 3 col.; suivent XXXII ff. ch., dont le
+          <lb/>verso du dernier blanc: In Antonium Raudensem (27 ff.) et in Poggium
+          <lb/>(5 ff.); titre courant, notes marg., init. d’attente.
+          <lb/>fol. 2a non ch. : Iodocus Badius Ascensius studiose iuuentuti... — Ex
+          <lb/>of ]]ficina nostra literaria rursus, ad Calendas Octobres. M. D. IX.
+          <lb/>fol. 3a non ch. : Laurentij Vallensis viri clarissimi, ad Ioannem Tortel¬
+          <lb/>lium Epistola...
+          <lb/>fol. 3b non ch. : Iodoci Badij Ascensij proœmij Laurentiani epitome
+          <lb/>atque explanatio...
+          <lb/>R. 101.592. Prov. : BN Munich, 28/xII, 1883; 1 M. 20; avec annota¬
+          <lb/>tions mss : au haut du titre : « Leonhardus de Tegernsee est possessor
+          <lb/>hujus Libri»; au bas : « Monasterij Schurensis; au verso du titre, timbre:
+          <lb/>« Bibliotheca Regia Monacensis ».
+          <lb/>Le 14 octobre 1935 l’antiquaire J. Halle à Munich a offert un exemplaire
+          <lb/>pour 40 M.
+          <lb/>Schmidt, VIII, No 69 cite en outre : Bibl, cantonale de Zürich.
+          <lb/>2385
+          <lb/>VALLA Laurentius
+          <lb/>Strasbourg, M. Schürer, 1517
+          <lb/>Laurentii Val  lae Elegantiarum libri sex..., etc. (comme
+          <lb/>au n° précédent).
+          <lb/>A la fin : Argentorati denuo vigilantiori cura. Ex Aedibus
+          <lb/>Mat-  thiae Shurerij (!) Mense Augusto Anno Christi.
+          <lb/>M.D. XVII.
+          <lb/>Conrado Duntzenhemio III. Dicta-ore Argentora¬
+          <lb/>tensi. Regnante Imperatore Ma- ximiliano. P. F. A. P. P.
+          <lb/>(Verso blanc.)
+          <lb/>In-4°, car. rom., 12 ff. non ch. (table), CCXX ff. ch. pour les Elegan¬
+          <lb/>tiarum libri, XXXV ff. ch. pour les deux autres traités; titre courant,
+          <lb/>notes marg.; titre encadré de 4 pièces juxtaposées (ornements d’architec¬
+          <lb/>ture, des colonnes dans les bordures latérales, en bas écusson vide au
+          <lb/>milieu, tenu par un génie ailé, du côté gauche, génie debout, tandis que
+          <lb/>celui de droite est assis; 10 ff. à 3 col.) (Index).
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:37.444636+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu076.tif
+IMAGE WIDTH: 2384
+IMAGE HEIGHT: 3844
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Hain 8281, Proctor 635, Voulliéme: Berlin 2449.
+          <lb/>K 1869. Prov.; B N Munich, 22. I. 1880, 2 M. Au-dessous du
+          <lb/>titre; «Monasterii Polling.»; à côté, d’une autre main: — emit
+          <lb/>illam postillam quinque solidis. A l’intérieur du 1r plat,
+          <lb/>exlibris: Franciscus Praepositus S. Salvatoris Pollingae.
+          <lb/>Anno 1744.»
+          <lb/>212
+          <lb/>GUILELMUS PARISIENSIS: Postilla super epistolas et evan¬
+          <lb/>gelia. Strasbourg, Mart. Flach, 1er août 1500, in-4°.
+          <lb/>Hain 8299, Schmidt VI, 77, Schreiber 4163, Schramm, Bilder¬
+          <lb/>schmuck XX, grav. N° 1686.
+          <lb/>K. 1872. Prov.; Gény, Saverne, 8. IV. 1922, 200 frs. Notes mss.
+          <lb/>au f. du titre ainsi qu’aux 4 dernières pages. Au recto du f.
+          <lb/>de garde: «Ex bibliotheca D. Joannis Cole (?) praesbyteri ac
+          <lb/>vicarii Anno M. D. CII.» 1 f. manque.
+          <lb/>213
+          <lb/>GUILELMUS PARISIENSIS: Tractatus super passione Christi.
+          <lb/>Haguenau, H. Gran, 16 février 1498, in-4°.
+          <lb/>Hain 8320, Proctor 3193, Voulliéme: Berlin 1180.
+          <lb/>K 1879. Prov.: Don du prince de Bentheim, 1871. Notes mss.
+          <lb/>Rel. anc.
+          <lb/>214
+          <lb/>GUILERMUS, Voir: Guilelmus.
+          <lb/>HASELBACH THOMAS DE. Voir Thomas de Haselbach.
+          <lb/>HASSIA. Voir; Henricus de Hassia.
+          <lb/>HEMMERLIN FELIX: Variae oblectationis opuscula. (Stras¬
+          <lb/>bourg, J. Prüss, s. d.), in-fol.
+          <lb/>Hain 8425, Madsen 1904, Proctor 581, Schreiber 4199,
+          <lb/>Schramm, Bilderschmuck XX, grav. N° 1327, Voulliéme: Ber¬
+          <lb/>lin 2378.
+          <lb/>K 1894. Prov.; BN Munich, 14. IV. 1880, 3 M. Au bas du titre:
+          <lb/>Collegio Societatis Jesu Monachij s. Baptistae.
+          <lb/>215
+          <lb/>HEMMERLIN FELIX: De nobilitate et rusticitate dialogus.
+          <lb/>(Strasbourg, Joh. Prüss, s. d.), in-fol.
+          <lb/>Hain 8426, Madsen 1902, Pellechet: Colmar 733, Proctor 582,
+          <lb/>Voulliéme: Berlin 2379.
+          <lb/>K 1895a. Prov.; Don de la Ville de Nördlingen, 1872. Rel. anc.
+          <lb/>216
+          <lb/>46
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

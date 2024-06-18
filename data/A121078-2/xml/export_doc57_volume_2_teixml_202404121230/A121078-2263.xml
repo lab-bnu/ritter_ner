@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:34.559808+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2263.tif
+IMAGE WIDTH: 2302
+IMAGE HEIGHT: 3814
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>259
+          <lb/>weis nun, das deine Gerichte recht sind...Anno M. D.
+          <lb/>XLVII. (Verso blane.)
+          <lb/>(S. l. n. impr.]
+          <lb/>In-4°, car. goth., 16 ff. non ch., sign. A-D; réclames.
+          <lb/>R102.353. Prov.: Bibliothèque Heitz, Strasbourg.
+          <lb/>2 ex. R 102.354. Prov.: Bibliothèque Ch. Schmidt, avec son ex¬
+          <lb/>libris. Le premier exemplaire a comme sign au fol. 2: Bij au lieu de
+          <lb/>Aij.
+          <lb/>BM Strasbourg; BU Fribourg en Br. N 2539; GPB: Berlin
+          <lb/>BN.
+          <lb/>Baum No 83, Mentz No 75.
+          <lb/>NB. Mes remerciements à M. Rest, directeur de la BU de Fri¬
+          <lb/>bourg en Br. qui veut bien me signaler à l’avenir les ex. de cette Bibl.
+          <lb/>390
+          <lb/>BUTZER Martin
+          <lb/>Strasbourg, Th. Berger, 1561.
+          <lb/>NOVA VE TERA QVATVOR EV- CHARISTICA SCRIPTA
+          <lb/>SVM- MI &amp;amp; acutissimi Theologi, Docto-ris MARTINI BV¬
+          <lb/>CERI Argentoratensis. JOANNIS STVRMII VE- TVS, RENO¬
+          <lb/>VATVS DO-lor de hoc dissidio Eu- charistico.
+          <lb/>AD D. ANTONIVM COOKVM Equitem Anglum.
+          <lb/>ARGENTORATI, M. D. LXI. (Verso blanc.)
+          <lb/>A la fin: ARGENIINAE, EX OFFICINA Theobaldi Bergeri,
+          <lb/>Anno Sa- lutis humanae M. D. LXI. Mense Martio.
+          <lb/>In-8°, car, rom,, 12 ff. non ch., 39 ff. ch., sign. A-F, titre cou¬
+          <lb/>rant, réclames, initiale ornée H.
+          <lb/>fol. A 2a: IOANNIS STVRMII AD D. ANTONIVM] Cookum
+          <lb/>Praefatio. (Préface de 10 ff.)
+          <lb/>fol. a 44: CVNRADVS HVBERTVS! Lectori S. (2 pages.)
+          <lb/>R 101754. Prov.: Bibliothèque du Prof. Baum, 20. 11.1879.
+          <lb/>Bibl. St. Guillaume Strasbourg; B N Paris, De 3572(3); Walter:
+          <lb/>Sélestat No 982.
+          <lb/>Baum No 93; Mente No 83.
+          <lb/>301
+          <lb/>BUTZER Martin
+          <lb/>Strasbourg, Th. Rihel, 1579.
+          <lb/>Bekandtnusz der Vier Frei vnnd Reichstätt, Strasz¬
+          <lb/>burg, Costentz, Memmingen, vnd Lindaw, in deren sie
+          <lb/>Keys. Maiestat auff dem Reichstag zu Augsburg, im
+          <lb/>XXX. Jar gehalten, jhres Glaubens vnd fürhabens, der
+          <lb/>Religion halb, rechenschafft ge- than haben.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

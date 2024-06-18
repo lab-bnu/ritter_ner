@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:26.462854+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2008.tif
+IMAGE WIDTH: 2400
+IMAGE HEIGHT: 3824
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Au verso du titre: Joannes Adelphus Argentinus Physicus:
+          <lb/>Joanni! Eneo (alias Enheim) presbytero innocentissi-Imo...
+          <lb/>apud] Tre ueros viuenti... — Ex Argentina: Idibus Decem¬
+          <lb/>bribus : An! no domini. M. CCCCC. XII.
+          <lb/>Fol, a 2a: De sequentijs. J. W. [Jacobus Wimpheling.];
+          <lb/>au bas: Tetrastychon Jacobi Merstetter (2 distiques.)
+          <lb/>Au verso: Sequentiarum index! alphabeticus, (2 col.)
+          <lb/>Le livre contient en outre une seconde partie qui manque dans
+          <lb/>mon exemplaire et que je complète d’après Schmidt, VII, No 82:
+          <lb/>2e partie: Hymni de tem pore et de sanctis: in eam
+          <lb/>formam qua a suis autori bus scripti sunt denuo! redacti:
+          <lb/>et sym legem carminis diligenter emendati atque! interpre
+          <lb/>tati.
+          <lb/>Anno Domini M. D. XIII.
+          <lb/>A la fin: Hymni... Impressi per Jo annem Knoblouch:
+          <lb/>insignem Argentinorem impresso rem: ultima die Martii:
+          <lb/>Anno salutis nostre! Millesimo quingentesimo ] tertio decimo.
+          <lb/>in-4°, car. goth., 3 ff. non ch., 80 ff. ch., même encadrement du
+          <lb/>titre que dans la ire partie.
+          <lb/>Fol. Ia : grande initiale P avec la sainte Vierge à genoux devant
+          <lb/>l&amp;#x27;enfant Jésus dans l&amp;#x27;étable. Comme cette initiale et celle de la Ire partie
+          <lb/>se retrouvent dans des publications faites par J. Schott, qui a aussi
+          <lb/>employé l’encadrement dès 1510 (Refugium advocatorum et autres),
+          <lb/>Schmidt admet comme probable que Schott a imprimé le volume pour
+          <lb/>Knobloch.
+          <lb/>*R100469. Prov.: Don de Fidelis Butsch fils, antiquaire à Augs¬
+          <lb/>bourg, en 1871. La 2e partie manque; il se peut que les deux parties
+          <lb/>aient aussi paru séparément.
+          <lb/>Schmidt, VII, No 82: Jadis Bibl. de Strasbourg, Incun. No 99
+          <lb/>et son exemplaire.
+          <lb/>GPE, I, 10502: Berlin, München, Wien, Münster, Göttingen. 6
+          <lb/>Strasbourg, M. Flach, 1513.
+          <lb/>ADELPHUS Johannes
+          <lb/>D Je Türkisch Chronica! Von irem vrsprung anefang
+          <lb/>vnd regiment, bisz vff dise zeit, sampt yren kriegen vnd
+          <lb/>streyten mit den chri sten begangen. Erbämr (!) -klich
+          <lb/>zu lesen.
+          <lb/>Au-dessous, gravure sur bois: cinq Turcs armés, à cheval, traver¬
+          <lb/>sant un paysage. (Verso blanc.)
+          <lb/>A la fin: Getruckt zu Straszburg! durch den fürsich¬
+          <lb/>tigen! Martin Flach, Im iar! des herren. M. CCCC (!), xiij.
+          <lb/>(1413 au lieu de 1513) Uff sant Gregorien tag! des grossen
+          <lb/>heiligen bapsts!..
+          <lb/>Au-dessous: marque typ. de Martin Flach (H&amp;amp;B, Planche VI, N°I
+          <lb/>Silvestre, No 1212).
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

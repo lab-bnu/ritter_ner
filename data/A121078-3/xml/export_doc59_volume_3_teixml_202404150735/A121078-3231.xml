@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:09.272079+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3231.tif
+IMAGE WIDTH: 2328
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>TENVM uersa pagella. lo. Alexandri Brassicani distichon.
+          <lb/>(Lat. u. griech.)
+          <lb/>Am Schluss: ARGENTINAE IN AEDIBVS KNOB! LOCHIIS, IM¬
+          <lb/>PENSIS COM MVNIBVS PAVLI GOETZ ET IOANNIS KNOB.
+          <lb/>MENSE MARTIO. ANNO. M. D. XXI.
+          <lb/>80, Kursiv, 24 unn., 336 num. u. 44 unn. Bll., Kopft., Kust.,
+          <lb/>Init., Titelumrahmung (H &amp;amp; B Tafel X Nr. 5).
+          <lb/>Auf der Rücks, des Titelbl. : Ottmari Lyscinii Argentini
+          <lb/>iuris- consul. De Auli Gellii laudibus, ad Vldri- cum
+          <lb/>Hvttenvm eqvitem. (38 lat. Dist.)
+          <lb/>Bl. AA 3a: Ad Ottmarvm Lyscinivm.. Alexandri
+          <lb/>Brassi- cani Adolescentis ysòwœopa. (10 lat. Distich.)
+          <lb/>Bl. A4 3b: Index.
+          <lb/>Bl. C° 7b: ... Ottmaro suo! Luscinio. Ioannes Alexan¬
+          <lb/>der Brassicanus... S. P. D.
+          <lb/>R101716. Prov.: Bibl. Böckel, Strassburq.
+          <lb/>GK: SB Berlin, UB Breslau, Göttingen, Halle, Königsberg,
+          <lb/>Münster. Schmidt VII Nr. 213. - BN Paris Rés. Z. 2050.
+          <lb/>993
+          <lb/>675
+          <lb/>GEMIGGER von Heinfelt (Lux)
+          <lb/>[Strassburg, B. Beck um 1520l
+          <lb/>Ob einer wissen wolt wie der hiesz
+          <lb/>Der dissen spruch ausz gen liesz
+          <lb/>Das hat gethon ein freyer student
+          <lb/>Ausz vrsach Das man luther seine bücher
+          <lb/>hat verbrent.
+          <lb/>Am Schluss: Ich habs gewogt es dreff was es wöl zum
+          <lb/>nechsten wil ich besseren Lux gemigger von heinfelt.
+          <lb/>O. O. u. I. Welter Nr. 2073 u. einige andere schreiben es Joh.
+          <lb/>Prüss zu; den Schriftzeichen nach eu urteilen, dürfte es eher von Bal¬
+          <lb/>thasar Beck sein.
+          <lb/>40, Got, 6 unn. Bll., Sign. a.
+          <lb/>Auf der Rücks. des Titelbl.: Zu eren, Martine Luther vnd
+          <lb/>der gantzen christenhiet (!) Der sacht vns das heilig Ewan¬
+          <lb/>gelium vnd gantze wohrheyt.
+          <lb/>R 100.265. Prov.: Bibl. Böcking, Strassburg.
+          <lb/>GK: SB Berlin.
+          <lb/>994
+          <lb/>GEMMA GEMMARUM. Siche: VOCABULARIUS GEMMA GEM¬
+          <lb/>MARUM
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

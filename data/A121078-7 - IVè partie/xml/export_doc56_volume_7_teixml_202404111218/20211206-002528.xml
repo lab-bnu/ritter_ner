@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:14.585742+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002528.tif
+IMAGE WIDTH: 2494
+IMAGE HEIGHT: 3992
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>darin befindlichen Lieder in deutscher und lateinischer
+          <lb/>Sprache.»
+          <lb/>3529
+          <lb/>WIMPHELING, Jac. (Diatriba) : Diatriba... De proba institu¬
+          <lb/>tione puerorum in trivialibus: et adolescentum in univer¬
+          <lb/>salibus gymnasiis. De interpretandis ecclesie collectis.
+          <lb/>Regule xVj. De ordine vite sacerdotalis... — (Haguenau,
+          <lb/>Henri Gran aux frais de Conrad Hist, août 1514), in-40.
+          <lb/>Goedeke I2, p. 412, n° 52; Kuczyński 2794. Ritter B M
+          <lb/>Strasbourg, n° 2234.
+          <lb/>3530
+          <lb/>WIMPHELING, Jac. (De Episcopis) : De vita et moribus
+          <lb/>episcoporum aliorumque praelatorum &amp;amp; principum
+          <lb/>Libellus... Ad Guilhelmum III. Episcopum Argenti¬
+          <lb/>nensem. Breve seu Epistola Gregorii magni Papae de
+          <lb/>castiganda incontinentia &amp;amp; impudicitia sacerdotum. —
+          <lb/>(Strasbourg, René Beck (18. IIIl, 1512), in-4o.
+          <lb/>Ritter : B M Strasbourg, n° 2231. Schmidt IV, p. 16, n°5. 3531
+          <lb/>WIMPHELING, Jac. (Elegantiae majores) : Elegantiae majores.
+          <lb/>Rhetorica eiusdem pueris utilissima. Multa invenies hic
+          <lb/>addita aliorum impressioni, multa castigata &amp;amp; in ordine
+          <lb/>longe faciliorem redacta. — Haguenau s. d., in-40.
+          <lb/>Goedeke 12, p. 408, n° 10 (x) ; [éd. Knobloch 1513, 1516;
+          <lb/>Hupfuff 1515: Ritter, Rép. nos 2490, 2495/6l.
+          <lb/>3532
+          <lb/>WIMPHELING (Elegantiae majores) : (Idem). — Strasbourg,
+          <lb/>Math. Hupfuff 1511, in-40.
+          <lb/>Schmidt, Hist. litt. II, p. 319.
+          <lb/>3533
+          <lb/>WIMPHELING, Jacobus (Elegantiae majores) : (Idem). —
+          <lb/>Haguenau, (Th. Anshelm 1519), in-40.
+          <lb/>Walter, n° 2416.
+          <lb/>3534
+          <lb/>WIMPHELING, Jac. (Elegantiae majores) : (Idem). —
+          <lb/>(Haguenau, Thomas Anshelm 1519), in-4°.
+          <lb/>Probablement double du numéro précédent.
+          <lb/>3535
+          <lb/>526
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

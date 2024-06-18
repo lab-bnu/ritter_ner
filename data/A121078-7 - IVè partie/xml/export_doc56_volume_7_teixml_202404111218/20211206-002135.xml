@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:05.143906+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002135.tif
+IMAGE WIDTH: 2504
+IMAGE HEIGHT: 3948
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Panzer II 1512; Kück : Cronberg (Neudrucke des XVI u.
+          <lb/>XVHI. Jhd. fasc. 154-157), p. XXXVII. Exempl. Berlin, Dresden,
+          <lb/>Göttingen, Halle, Leipzig, München, Zürich (Stadtbibl.)
+          <lb/>Zwickau.
+          <lb/>1462
+          <lb/>CRONBERG, Hartmuth von : Ein schrifft und Christlich ver¬
+          <lb/>manung an die Strengen, vesten Ersamen und weisen
+          <lb/>Meister unnd Rath zu Strassburgk.., geschriben Anno
+          <lb/>im XXIII. — (Strasbourg, Jean Schott 1523), in-4°.
+          <lb/>Schottenloher 26.961 ; Ritter : B M Strasbourg n° 788. Kück:
+          <lb/>Cronberg (Neudrucke des XVI. u. XVII. Jhd., fasc. 154-157),
+          <lb/>D. XLIII. Augsburg, Berlin, Dresden, Halle, etc.
+          <lb/>1463
+          <lb/>CRONBERG, Hartmuth von. Voir aussi: LUTHER (Missive)
+          <lb/>n° 2522.
+          <lb/>CRUCIGER, Caspar : Oratio in promotione magistrorum.
+          <lb/>A la suite de MELANCHTHON, Phil. : Orationes aliquot. —
+          <lb/>Haguenau 1553.
+          <lb/>1464
+          <lb/>CRUCIGER, Caspar : In Evangelium Joannis Apostoli Enarra¬
+          <lb/>tio Caspari Crucigeri recens edita. (Marque typ. de
+          <lb/>Sam. Emmel). — Argentorati. Apud Samuelem Emmel.
+          <lb/>Anno M. D. LXIIII (1564), in-80,
+          <lb/>Bibl. S. Guillaume, Strasbourg.
+          <lb/>1465
+          <lb/>CRUCIGER, Caspar. Voir aussi: RITTER, Rép, nos 598-601.
+          <lb/>CRUSIUS, Georg : Descriptio Bredenbergae (Breitenburg),
+          <lb/>quae est arx in Holsatia sita, condita primum a Joanne
+          <lb/>Rantzovio et nunc ab ejus filio Henrico, regis Danorum
+          <lb/>consiliario et in ducatibus Holsatiae, Slesvici atque
+          <lb/>Dithmarsiae vicario, novis aedificiis eleganter instaurata
+          <lb/>ornataque. Cum praefatione Joachimi Camerarii. —
+          <lb/>Strasbourg, Bernard Jobin 1573, in-8°.
+          <lb/>Schottenloher 23.946a.
+          <lb/>1466
+          <lb/>133
+          <lb/>5–1
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

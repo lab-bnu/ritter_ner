@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:54.363839+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078396.tif
+IMAGE WIDTH: 2362
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1282
+          <lb/>ont fait les gravures et que Nicolas Reusner, professeur à l’Université
+          <lb/>de Strasbourg, a fait les vers.
+          <lb/>R. 100.683. Prov. Lindner (Vente Stöber, N° 477). Strasbourg, 27 février
+          <lb/>1891; 8 M.
+          <lb/>Incomplet, les ff. 8, 10, 15, 20, 21, 28, 29, 41, 47, 48, 59-62, 64, 90-96
+          <lb/>manquent. Note mss. au verso du titre : « Zu sonderlichen ehren, und
+          <lb/>wohlgefallen auch immerwehrender gedächtnus thut hiermit verehren
+          <lb/>disz Contrafactur-Büchlein, etlicher weitberümbten undt hochgelerten
+          <lb/>Männer dem Ehrenfesten Wohlgelehrten und Wohlvornehmen herrn
+          <lb/>Johann Sahlbecher Kurf. Hess. Wohlverordneten Zentgraven desz
+          <lb/>Stiefftes Fulda, meinem groszen Patron Johann Hubert Schluckh, den
+          <lb/>25. Martii an. 1634 ». Un peu au-dessous : Henricus Schmaltz.
+          <lb/>1998
+          <lb/>REUSNER Nicolaus
+          <lb/>Strasbourg, B. Jobin, 1584
+          <lb/>Nicolai Reusneri Leorini Silesii Januarius Sive!!
+          <lb/>Fastorum Sacrorum Et HistoricorumLiber Primus.
+          <lb/>Magnae illius Ephemeridis, sive Mensium historiae, quae
+          <lb/>perpetui Diarii loco esse poterit, specimen quod - dam,
+          <lb/>et quasi praeludium.Cum Mensis eiusdem digestione
+          <lb/>historica, per Eliam Reusnerum Leorinum. Marque typ.
+          <lb/>de B. Jobin. (H &amp;amp; B, Planche XXXVIII, No8).
+          <lb/>Argentinae Apud Bernhardum Jobinum. Il M. D. XVI C.
+          <lb/>(Verso blanc.)
+          <lb/>A la fin : Argentinae Apud Bernhardum Jobinum.
+          <lb/>M. D. XXCIV (verso blanc.)
+          <lb/>In-8°, car. ital., 8 ff. non ch. 61 ff. ch., 2 ff. non ch., titre courant,
+          <lb/>réclames, init. ornée F, de nombreuses bandes ornem., fol. 468 armoiries
+          <lb/>de N. Reusner, encadrées de 2 bordures latérales et entourées de l’inscrip¬
+          <lb/>tion suivante : Fortitudo Et Laus Et Salus mea Dominus.
+          <lb/>fol. a 2a non ch. : Ad... Principem, D. Ludovi- Il cum Ducem Wirtem¬
+          <lb/>bergium &amp;amp; Tec-!! cium, Comitem Mompelgardium... Eliae Reusneri Leo¬
+          <lb/>rini Praefatio- (6 pages.)
+          <lb/>fol. a 7a non ch. : Elias Reusnerus! Lectori...
+          <lb/>R. 102.021. Prov. : Pasteur R. Hartter, Luizhausen, 22/x, 1877;
+          <lb/>0, M. 50.
+          <lb/>Bibliographie. Voir : Schottenloher II, N° 17894-17897. Oxford, Bibl.
+          <lb/>Bodleiana.
+          <lb/>1999
+          <lb/>REUSNER Nicolaus
+          <lb/>Strasbourg, B. Jobin, 1585
+          <lb/>Nicolai Reusneri Leori-Il ni Silesii-!! De Italia, Re-]l gione
+          <lb/>Europae! Nobilissima!! Libri Duo. !! Quorum Primus Regio¬
+          <lb/>num, () alter urbium Italiae descriptiones continet.Cum brevi
+          <lb/>notatione omnium ] fere Italiae populorum, provinciarum,
+          <lb/>insularum, urbium, oppidorum, castrorum... (4 lignes de texte.)
+          <lb/>Item] Elogia in urbes Italiae Poetica, &amp;amp; oratoria. Marque
+          <lb/>typ. de B. Jobin. (H &amp;amp; B, Planche XXXVII, No 5.) Argentinae
+          <lb/>Apud Bernardum Jobinum. Privilegio Caesareo. ] M. D. XVC.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

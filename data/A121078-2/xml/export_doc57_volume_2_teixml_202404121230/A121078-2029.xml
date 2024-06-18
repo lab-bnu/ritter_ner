@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:27.005748+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2029.tif
+IMAGE WIDTH: 2378
+IMAGE HEIGHT: 3826
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>25
+          <lb/>virgine pariente. MCCCCC. viij, et a: Gregorio Rvese-lin
+          <lb/>Schorndorffensi amico... Fol. CVIIb: Ad lectorem.
+          <lb/>C133418. Pror.: BN Munich, 28/xIl. 1883; 0,80 M.
+          <lb/>GPB III, 7203: Munich, Breslau, Halle, Marbourg, Kiel. 38
+          <lb/>ALTENSTAIG Johannes
+          <lb/>Haguenau, H. Gran, 1512.
+          <lb/>Joannis Altenstaig Mindel-haimensis.
+          <lb/>Opus pro conficiundis epistolis. fo. j. De generibus
+          <lb/>epistolarum. fo. xiiij.... (10 lignes.) (Verso blanc.)
+          <lb/>A la fin:... Impensis circumspecti viri Joannis Ryn¬
+          <lb/>man de Oringaw, per industrium Henri- cum gran impe¬
+          <lb/>rialis opidi Hagenaw ciuem! accurate impressum: in vigilia
+          <lb/>Nati-uitatis beatae virginis Mariae anno domini M. D. xij.
+          <lb/>Finit feliciter.
+          <lb/>in-40, car. goth. et rom., 4 ff. non ch. — CXLVIII ff. ch. Erreurs
+          <lb/>de pagination; titre courant, init. à fig. D, N. De fol, 57 à 112 deux
+          <lb/>colonnes.
+          <lb/>Fol. A 2a non ch.: Joannes Altenstaig.., adolescenti Joanni
+          <lb/>fruntsberger ca nonico... — Ex Pollinga. iiij. Idus octobres.
+          <lb/>Anno.., vndecimo supra sesquimillesimum. Au-dessous:
+          <lb/>Joannes Altenstaig... patri Joanni zingiesser; antistiti
+          <lb/>mona- sterij in Pollingen.... — Ex Pollinga. iij. Idus
+          <lb/>octobres. Anno. M. D. XI.
+          <lb/>Fol. A 3a non ch.: Ad fratres religioni pietatique deditis¬
+          <lb/>simos... ordi nis diui Augustini canonicorum regularium
+          <lb/>in! Pollingen. Joannis Altenstaig ex Mindelhaim! epistola
+          <lb/>... — Ex Pollingen pridie idus octobres Anno virginei pa¬
+          <lb/>riente. M. D. Xl. (Verso blanc.)
+          <lb/>Bh 113736. Prov.: Trübner, Strasbourg, 9/1I. 1887; 4 M.
+          <lb/>GPB III, 7199. Munich, Breslau, Greifswald.
+          <lb/>39
+          <lb/>ALTENSTAIG
+          <lb/>Haguenau, H. Gran, 1515.
+          <lb/>Vocabularius Joan nis Altenstaig Mindelhaimensis
+          <lb/>Vocum que in opere grammatico plurimorum continentur:
+          <lb/>breuis et vera interpretatio.
+          <lb/>Opus emendatum et denuo reui- sum ab ipso operis
+          <lb/>auctore: eum ad- ditione quorundam quae alij non habent.
+          <lb/>Henrici Bebelij Epigramma. (4 distiques.)
+          <lb/>A la fin: Henricus Gran chalcographus Hage! nauensis
+          <lb/>in officina sua: expensis circumspecti viri Joan-[nis Ryn¬
+          <lb/>man de Oringaw archibibliopole: impressit. An-no gratie.
+          <lb/>M. d. XV. Die quinto mensis Martij.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

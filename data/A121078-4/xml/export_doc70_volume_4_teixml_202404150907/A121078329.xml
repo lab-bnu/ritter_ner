@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:52.328445+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078329.tif
+IMAGE WIDTH: 2324
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>den yedes Spruchs Summarisch- em vnnhalt Henrichs von
+          <lb/>Eppendorffs, und daruff et-licher kurtzer uszleg Erasmi
+          <lb/>Roterodami. Eym yed-en so sich in Tugenden begert zû
+          <lb/>üben, hoc! nutzlich fürgebyldet.
+          <lb/>Usz Plutarcho durch Henrich von Eppendorff ver¬
+          <lb/>teütscht.
+          <lb/>Mit Keysz. Maiestat Freyheyt ernewert uff Fünff
+          <lb/>jar. Anno Christi M. D. XLIIII.Z6 Straszburg bey Hans
+          <lb/>Schotten. (Verso blanc.)
+          <lb/>A la fin: Mit Keysz. Maiestät frey-heyt uff Fünff jar.
+          <lb/>Zà Straszburg bei Hans! Schotten! M. D. XXXV.
+          <lb/>In-fol,, car. goth., Ière partie (4 livres), 4 ff. non ch., DXCII pp.,
+          <lb/>10 ff. non ch. à 3 col. (table) et 1 f. blane; IIème partie (21 livres),
+          <lb/>CCXCV pp., 3 ff. non ch. à 3 col. (table) et 1 f. blanc; titre courant,
+          <lb/>notes marg., grandes et belles init. à fig.; bandes ornem., feuilles de lierre.
+          <lb/>La première partie est une réimpression littérale de l&amp;#x27;édition de
+          <lb/>1534. Plutarchi von Cheronea unnd anderer Kurtzweise
+          <lb/>und höfliche Sprüch, chez Hans Schott, mais l&amp;#x27;encadrement du titre
+          <lb/>de l’édition 1534 et les armoiries de Strasbourg y manquent.
+          <lb/>La préface est aussi la même, mais la fin: Datum Straszburg
+          <lb/>etc. manque.
+          <lb/>*R10454. Prov.: Butsch, antiquaire à Augsbourg 12/VI 1883;
+          <lb/>23 M. 50. En bas du titre: ¿Constat i Daler.
+          <lb/>Cette édition manque chez Schmidt.
+          <lb/>1897
+          <lb/>PLUTARCHUS
+          <lb/>Strasbourg, Aug. Fries 1555
+          <lb/>Plutarchus von Cheroneader aller namhafftigst,
+          <lb/>Griechisch! geschichtschreiber, von den Leben und Ritter¬
+          <lb/>lichen thaten, ! der aller durchleüchtigsten Männer, Grie¬
+          <lb/>chen und Römer, Künig, Bürgermeister, und Hauptleüten,
+          <lb/>als namlich Tesei Künig z6̂ Athen, Romuli und Remi &amp;amp;c.
+          <lb/>Deren sechs und viertzig underscheidenlich nach einander,
+          <lb/>mit iren leben (und wo es die noturfft erfordert) mit
+          <lb/>figuren anzeigt. Nam- lich, durch den Fürnemen und
+          <lb/>weisen Herrn HIERONYMVM BONER der zeyt Stettmeyster,
+          <lb/>der löblichen Reichstatt! Colmar, imm Elsasz, ausz Latein
+          <lb/>in das nachfolgendt Teutsch, gemeinem nutz zû gût ver¬
+          <lb/>wendt. (Vign.)
+          <lb/>Au-dessous: Zâ Straszburg bey Augustin Friesz. M.D.
+          <lb/>LV, (Verso blanc.)
+          <lb/>A la fin: Zû Straszburg bey Augustin Friesz.
+          <lb/>1215
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

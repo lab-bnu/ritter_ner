@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:08.598455+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3210.tif
+IMAGE WIDTH: 2322
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>654
+          <lb/>milesimo quadringentesimo. (!) decimo 4. In vigilia Anuntia¬
+          <lb/>tionis mariae.
+          <lb/>Die Strassburger Univ.-u. Landesbibl, besitet 2 andere Ex. dieser
+          <lb/>Ausgabe (R 10.333 u. R 10.334) mit gekürztem Titel: Sermones
+          <lb/>prestan! tissimi sacrarum litterarum doctoris Joannis
+          <lb/>Geileri keiserspergii Concionatoris Argentinensis fructuo¬
+          <lb/>sissimi de tempore nec non de Sanctis et fe- stiuitatibus
+          <lb/>principalioribus per totum annumCum Priuilegio. (Das
+          <lb/>Druckpriv. befindet sich auf der Rücks, des Titelbl u. ist datiert: ad.
+          <lb/>kal. Feb. Anno. christi. 1514.)
+          <lb/>Am Schluss des Ex. R 10134 heisst es: Sermones... quos
+          <lb/>Joannes Grüninger! vir circumspectus ac prouidus. Argen¬
+          <lb/>tine im- pressit. Anno milesimo quingentesimo. decimo 4.
+          <lb/>In vigilia Anuntiationis mariae.
+          <lb/>Schmidt I Nr. 135 folgert hieraus, dass man, als man den Druck¬
+          <lb/>fehler der Jahreszahl 1414 im Explicit bemerkte, den leteten Bogen neu¬
+          <lb/>druckte mit Verbesserung 1514, u. dass man ausserdem einen gekùrzten
+          <lb/>Titel voranschickte mit Erwähnung des Druckprivilegs u. dessen Datie¬
+          <lb/>rung 19. Januar 1514. Die Schlussfolgerung Schmidts hâtte eine geroisse
+          <lb/>Berechtigung, wenn nicht das Ex. R10.133 der Univ.- u. Landesbibl.,
+          <lb/>das den gekùrzten Titel mit dem Druckprivileg 1514 enthält, in seinem
+          <lb/>Explicit ebenfalls den Druckfehler 1414 aufuveisen würde. Ausserdem
+          <lb/>scheint Schmidt übersehen su haben, dass der erste Druck mit dem voll¬
+          <lb/>ständigen Titel u. der falschen Jahreszahl 1414 auch bereits auf der
+          <lb/>Rücks, des Titelbl, das Druckprivileg mit der Jahreszahl 1514 aufaveist.
+          <lb/>Auf alle Fälle zeigt diese Verschiedenheit in 3 Ex, einer Ausgabe im
+          <lb/>gleichen Jahre treffend, mit welcher Nachlässigkeit in der Druckerei
+          <lb/>Grüningers um jene Zeit gearbeitet wurde, deren Drucke eine Unmenge
+          <lb/>von Fehlern aufroeisen.
+          <lb/>Nach dem Lexicon Universalis Bd. 10 S. 636 (Geiler von Kei¬
+          <lb/>sersberg) hätten einige die Meinung geäussert, die Jahreseahl 1414 vare
+          <lb/>ein Druckfehler für 1482; dies ist jedoch noch unhaltbarer, da das
+          <lb/>Druckprivileg die Jahreszahl 1514 aufwveist.
+          <lb/>20, Got., 2sp., 6 unn., CLXXXII num. Bll. (die Pagination be¬
+          <lb/>ginnt in allen 3 Ex, mit der Ziffer XIII; in allen dreien befinden sich
+          <lb/>folgende Paginationsfehler: Bll. XX für 21, LXI für 59, LXII fur
+          <lb/>61, LXXIIII fur 73, LXXXVII für 91; in allen dreien fehlen die
+          <lb/>Ziffern CxI u. CXII), Kopft., Init. Die 2 Ex, mit dem geküreten Titel
+          <lb/>enthalten ausserdem den Traktat: De dispositione ad facilem mortem,
+          <lb/>mit eigener Numerierung, XL Bll., 2sp. Im Ex. R 10.133 befindet er
+          <lb/>sich am Schluss hinter den Sermones, im Ex. R 10.134 hingegen 2wischen
+          <lb/>Bt. 142 u. 143.
+          <lb/>Das Ex. mit vollständigem Titel R 10.135 hat auf einem einge¬
+          <lb/>fügten Bl. einen schônen Holeschn.: Visio Danielis de arbore Christi
+          <lb/>Danie, iiii... Christus an einen Baumstamm genagelt, von dem auf beiden
+          <lb/>Seiten Zwveige herunterhängen; unten 4 Personen, wvelche Früchte pflücken;
+          <lb/>zu den Füssen Christi 2 Engel, die sich am Baumstamm festhalten;
+          <lb/>oben in den Asten Vogel, unten ein Hirsch u. Wildschueine.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

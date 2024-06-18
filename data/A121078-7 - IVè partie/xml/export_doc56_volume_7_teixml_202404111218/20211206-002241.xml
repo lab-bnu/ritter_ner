@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:07.791070+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002241.tif
+IMAGE WIDTH: 2506
+IMAGE HEIGHT: 3952
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>HILDEGARD S. : De praesenti clericorum tribulatione. —
+          <lb/>Haguenau, Guillaume Seltz 1529, in-40.
+          <lb/>Schmidt, Hist. litt. II, p. 411, n° 272; Bibl. St. Guillaume,
+          <lb/>Strasbourg.
+          <lb/>2018
+          <lb/>HILDEGARD S. (Eine schöne Comedien). Voir : FRISCHLIN,
+          <lb/>Nicodemus n° 1792. Voir aussi (RITTER, Rép, n° 1168:
+          <lb/>HILDEGARD, Physica. Strasbourg, J. Schott 1533).
+          <lb/>HILSPACH, Michael : Isagogicum in literas latinas pro elemen¬
+          <lb/>tariis pueris... in hanc longe breviorem quam antea
+          <lb/>formulam redactum. Donatus, Christiani hominis institu¬
+          <lb/>tum. Erasmo Roterodamo autore. Examen. Construc¬
+          <lb/>tionis aliquot ordines. — (Haguenau, Th. Anshelm)
+          <lb/>115201, in-80.
+          <lb/>Burg, n° 221.
+          <lb/>2019
+          <lb/>HILSPACH, Michael : Primitium seu incunabula Latinae
+          <lb/>Linguae... in hanc (ut vides) formulam redactam. —
+          <lb/>(Haguenau, Th. Anshelm 15201, in-80.
+          <lb/>Burg, n° 222.
+          <lb/>2020
+          <lb/>HILTEBRANT. Voir : DIETRICH von Bern no 1509.
+          <lb/>HIMMELFAHRT: Das ist die hymelfart unser lieben frawen. —
+          <lb/>(Strasbourg, Martin Flach 1508), in-8°,
+          <lb/>Schmidt VI, p. 22, n° 17; Wackernagel, 16; Weller 437. —
+          <lb/>Erlangen.
+          <lb/>2021
+          <lb/>HIOBSPIEL. — (Mulhouse, J. Schirenbrand et P. Schmid,
+          <lb/>entre 1557 et 15591.
+          <lb/>Coudre, p. 65/66, n° XXXII : « Histoire de Job, qui donna
+          <lb/>naissance à un drame joué à Zurich en 1535 et réimprimé
+          <lb/>à Mulhouse.»
+          <lb/>2022
+          <lb/>HIPPOCRATES. Voir: HOLLERUS n° 2038. Voir aussi (RITTER,
+          <lb/>Rép. nos 1170-11711.
+          <lb/>239
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

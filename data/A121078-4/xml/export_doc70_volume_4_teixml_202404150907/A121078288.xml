@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:50.867649+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078288.tif
+IMAGE WIDTH: 2310
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1174
+          <lb/>PELBARTUS DE THEMESWAR
+          <lb/>Haguenau, H. Gran 1507
+          <lb/>Tertius Liber Rosarii Theo logie aurei: ad Sententia¬
+          <lb/>rum ter tium librum accommodatissimus. Per Religiosum
+          <lb/>devotumque Patrem sacre pagine! Professorem ac divul¬
+          <lb/>gatorem affectuosissimum: Fratrem Pelbartum de The¬
+          <lb/>meswar Ordinis Minorum de ob- servantia: nisu summo
+          <lb/>christifidelibus administratus. (Verso blanc.)
+          <lb/>A la fin: Rosarii... Tertius liber... impensis circum
+          <lb/>specti viri archibibliopole Joannis Rynman de Oringaw
+          <lb/>officina industrii Henrici Gran; ci! vis in oppido imperiali
+          <lb/>Hagenaw impressus. Anno! virginei partus, 1507., secunda
+          <lb/>die mensis Augusti finit feliciter.
+          <lb/>In-fol., car. goth., 2 col., 166 ff. non ch., sign. a-y, titre courant,
+          <lb/>notes marg., init. d’attente.
+          <lb/>Fol. a 2a : Prologus...
+          <lb/>R10.351(3). Prov. : Butsch fils (Vente Bibl. Buxheim), Augs-
+          <lb/>bourg 12/x 1883; sans indic. du prix. Note ms, en haut du titre:
+          <lb/>Carth. Buxheim.
+          <lb/>Beaulieux, p. 224: Bibl. de l’Université de Paris (Réserve 120);
+          <lb/>BM Strasbourg.
+          <lb/>1832
+          <lb/>PELBARTUS DE THEMESWAR
+          <lb/>Haguenau, H. Gran 1508
+          <lb/>Quartus Liber Rosarii The ologie aurei: ad Senten¬
+          <lb/>tiarum! quartum librum accommodatis! simus.
+          <lb/>A la fin: Rosarii... quartus liber... per fratrem Osval¬
+          <lb/>dum de Lasko: divi ordinis sancti Francisci de obser¬
+          <lb/>vantia:tunc provincie Hungarie vicarium (Fratre Pel¬
+          <lb/>barto defuncto) consummatus : in regia civitate Budensi
+          <lb/>impressusque impensis circumspecti viri archibiblio pole
+          <lb/>Joannis Rynman de Oringaw: in offici- na industrii Hen¬
+          <lb/>rici Gran: civis in opido imperia li Hagnaw Finit felici¬
+          <lb/>ter Anno salutis nostre mil- lesimo quingentesimo octavo.
+          <lb/>ii. die Decembris.
+          <lb/>In-fol., car. goth., 2 col., 180 ff. non ch. dont le dernier f. blanc,
+          <lb/>sign. a-2, A-C, titre courant, notes marg., init. d’attente.
+          <lb/>Fol. a 2a: Prologus.
+          <lb/>R10351 (4). Prov.: Butsch fils (Vente Bibl. Buxheim), Augs¬
+          <lb/>bourg 12/x 1883; sans indic. du prix. En haut du titre: Cartusiae
+          <lb/>Buxheim.
+          <lb/>BM Strasbourg.
+          <lb/>1833
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

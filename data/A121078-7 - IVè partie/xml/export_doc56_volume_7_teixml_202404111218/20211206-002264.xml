@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:08.698434+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002264.tif
+IMAGE WIDTH: 2522
+IMAGE HEIGHT: 3964
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>ISIDORUS, Hispalensis : Contenta in hoc libello. Ysidorus de
+          <lb/>sectis et nominibus haereticorum. Divi Augustini libellus
+          <lb/>aureus de fide &amp;amp; operibus. S. Hieronymi liber de perpetua
+          <lb/>gloriosae Virginis Mariae virginitate. Epistola eiusdem
+          <lb/>contra vigilantium de venerandis sanctorum reliquiis. —
+          <lb/>(Strasbourg, Jean Grüninger, 12 mars 1523), in-4° [éd.
+          <lb/>Jérôme Gebwilerl.
+          <lb/>Ritter : B M Strasbourg, n° 1285; Schmidt I, no 196; Olschki
+          <lb/>(Florence), Catal. 81 (1912), n° 105 : 300 francs. — B M et
+          <lb/>Bibl. Saint-Guillaume, Strasbourg; Burg, no 188.
+          <lb/>2130
+          <lb/>ISIDORUS, Hispalensis : De Sectis et nominibus haereticorum...
+          <lb/>— Strasbourg, 12 mars 1523, in-4°. (Double de no
+          <lb/>21301.
+          <lb/>BN Paris, 2 ex. : C. 1970(1) et Rés. C. 2203.
+          <lb/>2131
+          <lb/>ISIDORUS, Hispalensis : Etymologiarum libri xX. — Haguenau
+          <lb/>1529, in-4°.
+          <lb/>Zinner 1381. [En 1529 aussi chez J. Secer : De nativitate
+          <lb/>Domini, etc. Voir Ritter, Rép. n° 1249).
+          <lb/>2132
+          <lb/>ISOCRATES : In hoc libello... continentur. Isocratis, De regno
+          <lb/>gubernando ad Nicolaum Liber a Martino Philetico
+          <lb/>interprete... ad D. Jac. de Bannissis. Quintii Haemiliani
+          <lb/>Cimpriaci Poetae... Epicedion Tetracolon in Fridericum
+          <lb/>III Impe. Ad Maximilianum Ro. Regem cum epistola
+          <lb/>Jacobi Spiegel... ad Sebast. Sperantium... — (Strasbourg,
+          <lb/>Jean Prüss fils 1514), in-40.
+          <lb/>Walter, nos 1636-1637; Ritter : B M Strasbourg, n° 1287;
+          <lb/>Schmidt III, p. 31, n° 8; le 12.X1.1935 Emil Schwarzschild
+          <lb/>a offert à la BN de Strasbourg un ex. pour 35 florins. 2133
+          <lb/>ISOCRATES : Oratio adversus sophistas. Haguenau, J. Secer
+          <lb/>1528, in-8°. A la suite de CICERO, De partitione oratoria
+          <lb/>In° 1380).
+          <lb/>2134
+          <lb/>262
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

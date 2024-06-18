@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:51.728035+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078310.tif
+IMAGE WIDTH: 2318
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1196
+          <lb/>Schmidt VII n° 20: Bibl. St. Guillaume, Strasbourg, avec la re¬
+          <lb/>marque que d’après les signatures les Theoremata font suite aux Opera
+          <lb/>de Picus (voir le n° suivant) qui parurent chez Knobloch, le 31 janvier
+          <lb/>1507; sur le titre de cette édition, les Theoremata sont indiqués comme
+          <lb/>premier numéro du recueil, dont l’explicit est au f. O Ta, l&amp;#x27;ordre des
+          <lb/>1870
+          <lb/>signatures est donc renversé.
+          <lb/>PICUS a MIRANDOLA Johannes 4 Strasbourg, J. Knobloch 1507
+          <lb/>IOANNIS FRANCISCI PICI MIRANDVLAE DOMINI ET CON¬
+          <lb/>CORDIAE CO- MITIS, DE RERVM PRAE- NOTIONE LI- BRI
+          <lb/>No- VEM. PRO VERITATE RELIGIONIS, CONTRA SVPERSTI¬
+          <lb/>TIOSAS VANITA! TES EDITI.... (Titre des traités au nombre de neuf.)
+          <lb/>A la fin (fol. O Ta): ... Argentoraci Pridie Kalen. Februa¬
+          <lb/>rias, ANN. M. D. VII. IVLIo. ii. Ponti. Maxi. » MAXIMiliano
+          <lb/>Caesare Augusto... Ioannes Knob lochus Imprimebat : Re¬
+          <lb/>cognovit! Mathias Schüre-[rius. (Verso blanc.)
+          <lb/>In-fol., car, rom., 156 ff. non ch., sign. A-V, a—o, titre courant,
+          <lb/>init. d’attente. Au verso du titre : Table (3 pp.).
+          <lb/>Fol. 3a non ch. : Proemium (4 pp.). Fol. O 7a : Mathias Schüre¬
+          <lb/>rius, artium doctor, Studioso lectori. Salutem...
+          <lb/>*R10.335 (1). Prov.: BN Munich 31/1 1878; 2 M. 50. Notes
+          <lb/>mss. En haut du titre: Societatis Iesu professae in Superiore Germania.
+          <lb/>Depositus Landsperge.
+          <lb/>2ème ex. *R 10.336 (1). Prov. : Don de la Bibl. de Gœttingue.
+          <lb/>3ème ex. *R 10.219. Prov. : Bibl. Bœcking. Notes mss. En haut
+          <lb/>du titre : Ex Bib. monasterii S. Ernonis Ordinis S. Benedicti; au¬
+          <lb/>dessous, timbre de la Fürstl. Leiningische Hof-Bibliothek; au verso du
+          <lb/>f. de garde:»Die Reihenfolge der im Titel genannten Schriften ist in
+          <lb/>diesem Exemplar folgende : 1. De rerum praenotione libri Novem. 2. De
+          <lb/>morte Christi Libri tres. 3. De studio div. et hum. philosophiae : Duo.
+          <lb/>4. De divini amoris imaginatione: Unus. 5. Vita patrui a defensio de uno
+          <lb/>et ente etc. 6. Justini tralatio. 7. Expositio sex. Decreti de con. dis. Hi¬
+          <lb/>larii, 8. Staurostichon de mysteriis Germaniae Heroico carmine. 9. De
+          <lb/>fide theoremata. 10. Epistolarum libri Quattuor.&amp;quot;
+          <lb/>Les divers traités ont aussi paru séparément, et ils ne se suivent
+          <lb/>pas dans tous les exemplaires.
+          <lb/>On ne s’explique pas comment les Theoremata qui ont paru en
+          <lb/>1506, peuvent avoir les sign. p-u, vu qu’ils ont été imprimés déjà en
+          <lb/>1506.
+          <lb/>BN Paris, Rés. Z. 303.
+          <lb/>Beaulieux, p. 233: Bibl. de la Sorbonne, Rés, n° 119; Proctor II
+          <lb/>Sectio I n° 10.052: Londres, British Museum; Schmidt VII n° 28:
+          <lb/>Jadis Bibl. de Strasbourg, incun. n° 3864, BN Paris, BM Colmar,
+          <lb/>1871
+          <lb/>Bibl. Bâle; Walter: Sélestat n° 1882.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

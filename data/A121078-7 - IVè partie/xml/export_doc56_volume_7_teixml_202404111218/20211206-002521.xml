@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:14.481301+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002521.tif
+IMAGE WIDTH: 2494
+IMAGE HEIGHT: 3962
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Graesse III, p. 20; Goedeke I12, p. 480, n° 4 a; Heitz-Ritter,
+          <lb/>n° 176a : Nüremberg, Germ. Museum.
+          <lb/>3489
+          <lb/>WICKRAM, Jörg (Galmy) : (Idem). — (Strasbourg,
+          <lb/>Jacques Frölich 1540), in-4°.
+          <lb/>Goedeke II2, p. 460, n° 4 a; Heitz-Ritter, n° 177 : Berlin,
+          <lb/>Göttingen.
+          <lb/>3490
+          <lb/>WICKRAM, Jörg (Galmy) : (Idem). — Strasbourg,
+          <lb/>Jacques Frölich 1548, in-4°.
+          <lb/>Heitz-Ritter, n° 178 : Bibl. Wolfenbüttel.
+          <lb/>3491
+          <lb/>WICKRAM, Jörg (Galmy) : (Idem). — Strasbourg,
+          <lb/>Jacques Frölich 1550, in-40.
+          <lb/>Graesse III, p. 20; Heitz-Ritter, Nachträge, p. 215 : Galmy,
+          <lb/>n° 3 ; Bolte, Wickrams Werke I, p. XXI (D) mentionne que la
+          <lb/>Bibl. Roy. de Copenhague et la B M de Leipzig possèdent des
+          <lb/>éditions incomplètes de Galmy.
+          <lb/>3492
+          <lb/>WICKRAM, Jörg (Galmy) : (Idem). Strasbourg, Jacques
+          <lb/>Frölich 1554, in-40.
+          <lb/>Bolte, Wickrams Werke I, p. XXII (E) : Vienne. Heitz-Ritter,
+          <lb/>Nachträge, p. 215: Galmy, n° 4.
+          <lb/>3493
+          <lb/>WICKRAM, Jörg (Galmy) : Eine schöne und liebliche History
+          <lb/>von dem edlen und theüren Ritter Galmien... —
+          <lb/>Strasbourg 1588, in-8°,
+          <lb/>Goedeke II2, p. 460, n° 4 h; Graesse III, p. 20; Heitz-Ritter,
+          <lb/>n° 183.
+          <lb/>3494
+          <lb/>WICKRAM, Jörg (Georgius u. Casparus) : Eine Warhafftige
+          <lb/>History, von einem ungerahtnen Son, in ein Dialogum
+          <lb/>gestellet, zweyer guten Freundt, Georgius (Wickram),
+          <lb/>Casparus (Hanschelo). — Strasbourg, Jacques Frölich,
+          <lb/>in-40.
+          <lb/>Goedeke IIa, p. 463, n° 12.
+          <lb/>3495
+          <lb/>519
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

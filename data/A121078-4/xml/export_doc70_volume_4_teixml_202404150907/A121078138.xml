@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:46.571383+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078138.tif
+IMAGE WIDTH: 2304
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1024
+          <lb/>MICHAEL DE UNGARIA
+          <lb/>Haguenau, H. Gran 1506
+          <lb/>Quadragesima le Bige salutis.
+          <lb/>A la fin: Quadragesimale... sumptibus providi viri
+          <lb/>Joannis ryn- man per industrium Henricum Gran in im¬
+          <lb/>periali oppido Hagenaw ubi incola diligentissime im¬
+          <lb/>pressum ac emendatum! Finit feliciter Anno..&amp;quot; Millesimo
+          <lb/>quingentesimo sexto quarta die novembris.
+          <lb/>In-4°, car. goth., 2 col., 207 ff. non ch., sign. a—2, titre courant,
+          <lb/>init. d’attente.
+          <lb/>Au verso du titre: Prefatio! in sermones Quadrage- simales Bige
+          <lb/>salutis : a quodam fratre ordinis Minorum de observantia fami- lie Hun¬
+          <lb/>garie comportatos.
+          <lb/>RI01.391. Prov.: BN Munich 24/V 1877, 1 M. 20. Au milieu
+          <lb/>du titre: Monasterii Fürstenvelt.
+          <lb/>Rosenthal, Munich, Catal. 135 (1914) n° 1300; 90 M. 1571
+          <lb/>MICHAEL DE UNGARIA
+          <lb/>Haguenau, H. Gran 1507
+          <lb/>Quadragesimale Gemma fidei intitulatum, tractans
+          <lb/>de sacrosan cta orthodoxaque fide catholi ca conpilatumes
+          <lb/>per quemdam fratrem! Hungariae ordinis Minorum de ob¬
+          <lb/>servantia ex conventu Pesthien. (Verso blanc.)
+          <lb/>A la fin: Impressum ac emendatum a solerti ac indu¬
+          <lb/>strio Hen rico Gran calcographo in Hagenaw expensis
+          <lb/>viri Joannis rynman de Orin gaw... Anno... 1507 die
+          <lb/>vero sexta mensis Junii.
+          <lb/>In-4°, car. goth., 2 col., 305 ff. non ch., sign. a-2, A-O; titre
+          <lb/>courant, de nombreuses init, ornées.
+          <lb/>Fol. a 2a: Prologus ad summi principis christianeque! fidei auc¬
+          <lb/>toris...
+          <lb/>R101365. Prov.: Don de Fidelis Butsch fils, antiquaire à Augs¬
+          <lb/>bourg 1871. En haut du titre: Monasterii Ranshouen.
+          <lb/>2ème ex.: R 101.392. Prov.: BN Munich 24/V 1877; 1 M. 30.
+          <lb/>1572
+          <lb/>MICHAEL DE UNGARIA
+          <lb/>Haguenau, H. Gran 1515
+          <lb/>Quadragesima le Bige salutis.
+          <lb/>A la fin: Impensis at que sumptibus providi viri
+          <lb/>Joannis ryn man: per industrium Henricum Gran in
+          <lb/>imperiali oppido Hagenaw inibi in-colam diligentissime
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

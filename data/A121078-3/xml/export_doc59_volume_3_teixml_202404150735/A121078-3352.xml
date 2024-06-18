@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:12.208392+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3352.tif
+IMAGE WIDTH: 2382
+IMAGE HEIGHT: 3852
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>794
+          <lb/>*R102.371. Herkunft unbekannt.
+          <lb/>Ficker, Kreuzbüchlein, Strassburg, K. J. Trübner 1912, 80
+          <lb/>S. XXXVII.
+          <lb/>Von dieser Ausgabe erschien im gleichen Jahre ein Neudruck o. O.
+          <lb/>u. J. [Augsburg, Heinrich Steyner), wovon die UB Strassburg ebenfalls
+          <lb/>ein Ex, besitst, unter Sign. R 102.372.
+          <lb/>1180
+          <lb/>reuts bucblin
+          <lb/>Oòer ermanung òcs pol
+          <lb/>gebornẽ Merm Sigmunden Grauen oon Dobenloe/ &amp;amp; bum¬
+          <lb/>dechan Shohen Stifft;ù Strafiburg (nacy astem ber¬
+          <lb/>Fomensbescheben an dic Biearien ond Chorß per
+          <lb/>manten daselbst.
+          <lb/>ME
+          <lb/>MR
+          <lb/>Domine
+          <lb/>—Væ mundo
+          <lb/>quis credi¬
+          <lb/>ab offendi¬
+          <lb/>dit sermo¬
+          <lb/>aibus no¬
+          <lb/>stris.
+          <lb/>Matth.40.
+          <lb/>Mar.2.
+          <lb/>Bucæ 9.
+          <lb/>(Zu Nr. 1180)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

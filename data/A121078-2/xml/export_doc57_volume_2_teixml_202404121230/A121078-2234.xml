@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:33.676956+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2234.tif
+IMAGE WIDTH: 2296
+IMAGE HEIGHT: 3820
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>230
+          <lb/>fol. A 2a: ... Alexandro sexto: sedis apostolicae pontifi¬
+          <lb/>ci maximo: frater Bernardinus de Busti...
+          <lb/>Suivent 12 ff. de table alphabétique.
+          <lb/>R 10.306. Prov.: Tregaskis, Londres, 3/XII. 1896; 16 M.
+          <lb/>BN Paris, Rés. D. 1320; Proctor II. Sectio I, No 11630: Lon¬
+          <lb/>dres, British Museum. GPB: Breslau BU, Marbourg BU, Munster
+          <lb/>345
+          <lb/>BU.
+          <lb/>Haguenau, H. Gran, 1508.
+          <lb/>BUSTIS BERNARDINUS DE
+          <lb/>Rosarium Sermonum predicabi lium ad faciliorem
+          <lb/>predicantium commoditatem nouissime compilatum : Jn
+          <lb/>quo quicquid praeclarum et vtile in cunctis sermonarijs
+          <lb/>vsque in hodier- num editis continetur: hic ingeniose
+          <lb/>enucleatum! atque sollerti cura collectum inuenies.
+          <lb/>(I) Pars prima Rosarii.
+          <lb/>A la fin: Prima pars sermonum praedicabilium Rosarij
+          <lb/>Impressa &amp;amp; diligenter reuisa im Jmperiali oppi do Hage¬
+          <lb/>naw per industrium Henricum Gran ini- bi incolam : Jm¬
+          <lb/>pensis &amp;amp; sumptibus prouidi Joan nis Rynman de Oringaw
+          <lb/>Anno salutis Mil! lesimo quingentesimo octauo, viij. kal.
+          <lb/>Maij Finit feliciter.
+          <lb/>Au verso du titre : Epistola... patri domino d. Bernar¬
+          <lb/>dino... Cardinali dignissimo: Frater Bernar- dinus de
+          <lb/>Busti de Mediolano...
+          <lb/>fol. 2a : Pulcra carmina in commenda tionem hujus
+          <lb/>operis Exhortatio fratris Bernardini de Busti ad lecto¬
+          <lb/>rem... (10 distiques.)
+          <lb/>Au-dessous: Fratris illuminati Nouariensis ordinis prae¬
+          <lb/>dicatoris ad lectores... (16 distiques.)
+          <lb/>fol. 2b:... Fratris Sa muelis de Cassinis ordinis
+          <lb/>Mi norum obseruantiae...ad fratrem Bernardinum de
+          <lb/>Busti... (26 vers et 4 distiques.)
+          <lb/>(H.) Secunda pars Rosarii Bernardini de Bustis,
+          <lb/>(Verso blanc.)
+          <lb/>A la fin:... Jmpressum ac diligenter reuisum expen¬
+          <lb/>sis prouidi Joannis Rynman de Orin gaw: per industrium
+          <lb/>Henricum Gran: in Jmperiali op- pido Hagenaw finit feli¬
+          <lb/>citer Anno salutis nostre Millesimo quingentesimo octauo.
+          <lb/>iiij. Kal. Au gusti.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:07.757471+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002239.tif
+IMAGE WIDTH: 2508
+IMAGE HEIGHT: 3960
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>HESSUS, Simon: Anzaygung das die Römisch Bull merck¬
+          <lb/>lichen Schaden in gewissen manichen menschen gebracht
+          <lb/>hab und nit Doctor Lutters leer durch Henricum
+          <lb/>Phoeniceum von Roschack... Anno M.D.XXII. —
+          <lb/>(Strasbourg, Jean Prüss) 1522, in-4°.
+          <lb/>Bibl. S. Guillaume Strasbourg; Weller 2249.
+          <lb/>2008
+          <lb/>HESSUS, Simon : Ob einer Oberkeyt gezyme die widerteüffer
+          <lb/>oder andere ketzer, zum rechten Glauben zu dringen...
+          <lb/>und sie mit dem Schwert zu richten. — Strasbourg,
+          <lb/>Jacques Frölich 1538.
+          <lb/>Ritter, Hist. impr., app. 370. (B N Strasbourg R 101.958 à
+          <lb/>Rhegius Urbanus, n° 2013; Rhegius Urbanus, voir Rép.
+          <lb/>nos 2010-2013).
+          <lb/>2009
+          <lb/>HESSUS, Simon : Underricht Wie ein Christen mensch got
+          <lb/>seinem herren teglich beichten soll... M.D.xxij. —
+          <lb/>(Strasbourg, Martin Flach 1522), in-4°.
+          <lb/>Schmidt VI, p. 36, n° 66; B N Strasbourg (introuvable);
+          <lb/>Weller 2250, 2251.
+          <lb/>2010
+          <lb/>HETZER, Ludwig. Voir: BLARER, Th. n° 1018; LIEDER
+          <lb/>(zwei schöne, neue geistliche : Soltu bey Gott dein
+          <lb/>wonung han) n° 2395.
+          <lb/>HEURING, Simon : Pronostica (pour l’année) 1551. —
+          <lb/>[Haguenau, Sigismond Bund (?) 1 1550, in-40.
+          <lb/>Zinner, n° 2016; Hellmann, Repertorium col. 201. 2011
+          <lb/>HEYDEN, Sebald : Der Passion oder das Leiden Jhesu Christi
+          <lb/>inn gesangweise gestelt, inn der melodey des Psalmen Es
+          <lb/>sind doch selig alle die... — Strasbourg, Jacques Frölich
+          <lb/>[vers 1530), in-8°.
+          <lb/>Vogeleis, p. 225.
+          <lb/>2012
+          <lb/>HEYDEN, Sebald : Der Passion Ausz den vier Evangelisten
+          <lb/>gezogen... Darbey auch der xlvj. Psalm. Ein veste burg
+          <lb/>237
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

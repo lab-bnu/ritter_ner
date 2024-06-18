@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:11.534610+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3329.tif
+IMAGE WIDTH: 2372
+IMAGE HEIGHT: 3856
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>771
+          <lb/>IOAN. STVRMII DE EDVCATIO- ne Principum; ad illu¬
+          <lb/>strem Principem Guliel- mum, Ducem Iuliacensium, Cliuen¬
+          <lb/>sium, &amp;amp;c. ROGeRI ASCHAMI ET IOAN- nis Sturmij Epistolae
+          <lb/>duae, de nobilitate ANGLICANA.
+          <lb/>ARGENTORATI. ! M. D. LI. (Rücks, leer.)
+          <lb/>Am Schluss: ARGENTORATI Vuendelinus Rihelius
+          <lb/>excudebat. Anno M. D. LI.
+          <lb/>80, Kursiv, 16 unn., 51 num. Bll., Kopft., Kust., Marg., Init.
+          <lb/>Auf der Rücks. des letzten Bl. Druckerm. Rihels. (H a B Tafel
+          <lb/>XXIX Nr. 3; Silvestre Nr. 740.)
+          <lb/>Bl. a 2a: AD... PRINCIPEM GVLIEL-mum, Ducem Iulia¬
+          <lb/>censium... Ioannis Sturmij de educatione Principis...
+          <lb/>(Vorrede, 14 Bll.)
+          <lb/>R101.868. Prov.: Wilh. Köbner, Breslau, Katal. 171 Nr. 1340,
+          <lb/>2.II1. 1885, 1M.
+          <lb/>BN Paris: 22. 3380 u. X. 18384.
+          <lb/>Uber Herésbach cf.: Lebermann Bruno: Die pädagogischen An¬
+          <lb/>schauungen Konrad Heresbachs. Diss. Würaburg. Hamburg 1906. 80,
+          <lb/>144 S. Siehe auch: Schottenloher I Nr. 8252-9262.
+          <lb/>1141
+          <lb/>HERLINUS Christianus
+          <lb/>Strassburg, J. Rihel 1566
+          <lb/>ANALYSEIS GEO-] metricae sex librorum Euclidis.
+          <lb/>PRIMI ET QVINTI FACTAEA CHRISTIANO HERLINO: RELIQVAE
+          <lb/>VNA CVM Com- mentariis, &amp;amp; Scholiis perbreuibus in eos¬
+          <lb/>dem sex libros Geo-metricos: à Cunrado Dasypodio.
+          <lb/>CVM Indice yoρiσράrων κὰ λημμάτων: item aliarum rerum
+          <lb/>atque uerborum memorabilium.] PRO SCHOLA ARGENTI¬
+          <lb/>NENSI. (Druckerm. Rihels. H &amp;amp; B Tafel XXXI Nr. 12.)
+          <lb/>2°. Antig. u. Griech., 2sp., 4 unn., XCVIII num. u. 1 unn. Bl.
+          <lb/>(Index), Kopft., Kust., Init. Q, Zierleist., zahlr. geometrische Figuren.
+          <lb/>Auf der Rücks, des Titelbl.: Ioan. Sturmivs Lectori, (4 Z.)
+          <lb/>Bl. a 2a: Amplissimo Senatorum OrdiniReipublicae
+          <lb/>Scaphusianae Dominis prudentissimis, Cunradus Dasypo¬
+          <lb/>dius... (Vorrede, 3 S.)
+          <lb/>R10.436. Prov.: J. Jolowicz (Katal. 69, Nr. 519); 10. 1.1882, 4M.
+          <lb/>Stadtbibl. Strassburg O 2831.
+          <lb/>1142
+          <lb/>HERMANNUS Guilhelmus. Siche: GUILHELMUS de Gouda
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

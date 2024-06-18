@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:13.427948+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3402.tif
+IMAGE WIDTH: 2408
+IMAGE HEIGHT: 3856
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>844
+          <lb/>Auf der Rücks.: Wappen der Stadt Strassburg.
+          <lb/>Bl. 1a: Die Vorrede.
+          <lb/>Bl. 3a: Jacobus von Theramo priester, ! den lesern dises gericht¬
+          <lb/>handels.
+          <lb/>Ubersetzung aus dem Lateinischen, 15. Ausgabe des Belial mit 33
+          <lb/>Holeschn. früherer Ausgaben.
+          <lb/>R100.130. Prov.: Brissel (Katal. 152 Nr. 304), München 2. III.
+          <lb/>1875; 4 M. 50. Handschr. Notiz: S. Fanzer No 604. In diesem Exem¬
+          <lb/>plar ist das 71.ste Blatt handschriftlich ergänzt. Darunter: Titel, Bl. 71
+          <lb/>und Schlusschrift des Druckers handschriftlich ergänzt.
+          <lb/>Proctor 9985: London Brit. Museum; Schmidt III S. 20 Nr. 70.
+          <lb/>Baer, Frankfurt a. M., Kat. 500 (1907) Nr. 1300; 150 M. Am 14.X.
+          <lb/>1935 bot J. Haller, München der Bibliothek ein Exemplar an fur 200 M.
+          <lb/>1255
+          <lb/>JACOBUS DE VORAGINE
+          <lb/>Strassburg (Drucker der Jordanus — Georg Husnerl 20. Dez, 1502
+          <lb/>Lombardica historia que a plerisque Aurea legenda
+          <lb/>sanctorum appellatur. (Rücks, leer.)
+          <lb/>Am Schluss: Expliciunt quorum- dam sanctorum legende
+          <lb/>adiuncte post! Lombardicam historiam. Impresse! Argen¬
+          <lb/>tine. Anno Domini. M. ccccc. secundo. Finite in vigilia
+          <lb/>sancti Tho-me apostoli.
+          <lb/>Bl. H 5a: Explicit legenda! Lombardica Jacobi de vo¬
+          <lb/>ragine! ordinis predicatorum episcopi Januensis! Impressa
+          <lb/>Argentine, anno domini M. ceccc. ij. Finita in vigilia sancti
+          <lb/>Thome apostoli.
+          <lb/>20, Got., 2sp., 258 unn. Bll., Sign. a-2, A-N, Kopft., Init.,
+          <lb/>215 Legenden.
+          <lb/>R10.326. Prov.: Baer e Co., Frankfurt a. M. 20. 1. 1880;
+          <lb/>15 M. Handschr. Eintragung auf dem Titelbl.: Certo me comparavit
+          <lb/>Michael Weckerlin de Warendorf quem dominum agnosco 1519. — Pro
+          <lb/>Parochia Eschach. — Monasterij Weissenaw.
+          <lb/>Proctor II Sectio I Nr. 9998. London, British Museum; Stadt¬
+          <lb/>bibl. Strassburg 347.
+          <lb/>1256
+          <lb/>JACOBUS DE VORAGINE
+          <lb/>Hagenau, H. Gran 1810
+          <lb/>Longobardica historia....
+          <lb/>Am Schluss: Expensis circum! specti viri Joannis Ryn¬
+          <lb/>man de Oringau archibibliopole: in officina industrij Hen
+          <lb/>rici Gran imperialis opidi Hagenawensis, ciuis accurate
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

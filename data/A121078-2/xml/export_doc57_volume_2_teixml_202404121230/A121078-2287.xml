@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:35.146794+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2287.tif
+IMAGE WIDTH: 2296
+IMAGE HEIGHT: 3816
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>CAOURSIN Guillaume
+          <lb/>Strasbourg, M. Flach, 1513
+          <lb/>Historia Von Rhodis! Wie ritterlich sie sich gehalten
+          <lb/>mit dem Tyrrannischen Keiser Machomet usz Türckyen,
+          <lb/>lustig vnd lieplich zû lesen.
+          <lb/>Grande gravure sur bois; le grand-maître de l’ordre St. Jean sur
+          <lb/>un champ de bataille, au fond la ville de Rhodes au bord de la mer.
+          <lb/>(Verso blanc.)
+          <lb/>A la fin: Getruckt zû straszburg durch! den fürsichti¬
+          <lb/>gen Martinum flach, vff sant Paulus bekö! rung tag, Im
+          <lb/>jar nach der ge burt Christi Jesu vnsers herren Tausent
+          <lb/>fünffhundert vnnd! dreizehn.
+          <lb/>Marque typ. de Martin Flach. (HE B, Planche VI, No 1, Sul¬
+          <lb/>vestre N° 1212.)
+          <lb/>In-fol., car. goth., 2 col., 68 ff. non ch., sign. A-L, titre courant,
+          <lb/>34 gravures sur bois, outre celle du titre, 11 sont de l’édition latine de
+          <lb/>Ulm 1496; les autres se réduisent à I7, l’une d’elle étant répétée deux
+          <lb/>fois et deux autres chacune 3 fois; au verso de l’avant dernier f. gra¬
+          <lb/>vure plus petite représentant St. Jean Baptiste avec l&amp;#x27;agneau de Dieu,
+          <lb/>tiré d’un ouvrage antérieur.
+          <lb/>C&amp;#x27;est la traduction allemande par J. Adelphus de l’ouvrage latin
+          <lb/>de Guillaume Caoursin, chancellier de Rhodes,, Obsidionis Rhodiae
+          <lb/>urbis descriptio, Ulm 1496 avec quelques additions.
+          <lb/>fol. 2*: Herren Maximyn, genant Schmassmann, von
+          <lb/>Rap-polstein, herren z6 Hohennack vnd Geroltzeck ¡m
+          <lb/>waszgaüw. Ro. K. M. Oberster hauptman vnd lantuogt in
+          <lb/>ober elsas... — Geben zû Straszburg Am Ersten tag
+          <lb/>Octobris, Jm jar nach der geburt Christi vnsers herren,
+          <lb/>fünffzehen hun dert vnnd zwölff... gehorsamer diener
+          <lb/>Johannes Adelphus Argen tinensis Physicus.
+          <lb/>R10.082. Prov : Baer, Francfort s./M., I/V. 1884; 90 M.
+          <lb/>Annotatation mss. au haut du titre: Ad. Biblioth.; aul. Eysfeltensem.
+          <lb/>BN Paris, Rés. K. 90; Proctor II, Section I. N° 10.147. Londres,
+          <lb/>Britisch Museum; Kristeller 512; Schmidt VI, p. 26, N° 32; GPB:
+          <lb/>Berlin BN, Breslau BU.
+          <lb/>Brunet 15, col. 1556; 41 flor. et 39 flor. (2 ex.) Butsch, et 1 en
+          <lb/>mar. r. 3 liv. Labri, en 1859,
+          <lb/>Olschki, Florence, Catalogue LXXXI, No 55; 600 frs.; Rosenthal,
+          <lb/>Munich, Cataloque 135 (1914), Ne 474: 350 M. Von den Holzschnitten,
+          <lb/>35 an der Zahl, gehören 34 zwei unbekannten deutschen Meistern an.
+          <lb/>Ein kleiner Holzschnitt ist von Hans Baldung-Grien. Baer, Francfort s./M.,
+          <lb/>Catalogue 500 (1907), N° 705; 360 M.:»Die erste deutsche Gesamt-
+          <lb/>ausgabe der berühmten Bücher.
+          <lb/>427
+          <lb/>283
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

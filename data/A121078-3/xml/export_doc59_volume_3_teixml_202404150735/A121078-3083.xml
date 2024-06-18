@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:05.999176+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3083.tif
+IMAGE WIDTH: 2314
+IMAGE HEIGHT: 3842
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>527
+          <lb/>Kopft., Kust., Marg., Init. D.
+          <lb/>80, Griech., Antig. u. Kursiv, 8 unn. Bll, 339 S. u. 5 unn. Bll.,
+          <lb/>Auf der Rücks. des Titelbl.: ARGVMENTVM ORA-] TIONIS
+          <lb/>PRO L. MANILIA, JOAN. SAMBVCI. (13 Dist.)
+          <lb/>Bl. A 2a: ... ADOLESCENTI, DOMINOPaulo, Comiti à
+          <lb/>Salm &amp;amp;c. Valentinus Ery-thraeus S. P. D.... — Argen¬
+          <lb/>tinae tertio Calendas Septemb. 1556. (Praefatio.)
+          <lb/>R1012042. Geschenk der Mainger Stadtbibl., 1871.
+          <lb/>Oxford, Bibl. Bodleiana.
+          <lb/>799
+          <lb/>ERYTRAEUS Valentinus: Axoonpató¬ z. Siche:
+          <lb/>CICERO: Epistolarum libri tres. Strassburg, Chr. Mylius 1560.
+          <lb/>R101.647. Nr. 518.
+          <lb/>ERYTHRAEUS Valentinus
+          <lb/>Strassburg, Chr. Mylius 1561
+          <lb/>VALENTI- NI ERYTHRAEI! Lindauiensis de Gram! ma¬
+          <lb/>ticorum figuris, tam singulorum, quàm! constructorum ver¬
+          <lb/>borum, &amp;amp; de periodis, libri quatuor, correcti, &amp;amp; aucti.
+          <lb/>ITEM, Liber vnus de vitijs o- rationis, antehac nun¬
+          <lb/>quàm editus, eodem Erythraeo autore.Adiectum est iudi¬
+          <lb/>cium! Ioachimi Camerarij de Orthographia.
+          <lb/>Argentine imprime- bat Christianus Mylius. (Rück¬
+          <lb/>seite leer.)
+          <lb/>Am Schluss: Argentinae in foro fru- mentario excude¬
+          <lb/>bat Christianus Mylius, Anno 1561. (Rücks, leer.)
+          <lb/>80, Griech., Antiq., Kursiv, 16 unn. Bll. (Vorrede des Verfassers
+          <lb/>u. Inhaltsverzeichnis), 509 num. S., 1 unn. Bl., Kopft., Kust., Marg.,
+          <lb/>Init. A, D.
+          <lb/>Bl. a 2a-a 8b: ..ANTONIO MASSOW( Pomerano, Valen¬
+          <lb/>tinus Erythraeus Lindauiensis... — Argen tinae, M. D. LXI.
+          <lb/>XII. Calendas Iulij. (Praefatio.)
+          <lb/>R101.229. Prov.: Lippert, Halle, 8. XII. 1886.
+          <lb/>GK: SB Berlin, UB Göttingen, Königsberg; BN Paris, x. 17986.
+          <lb/>800
+          <lb/>ERYTHRAEUS Valentinus
+          <lb/>Strassburg, Chr. Mylius 1561
+          <lb/>XXHMATIXMOI THE AIAAEKTIKHE, HOC EST, TABVLAE
+          <lb/>VALENTINI ERYTHRAEI LIN- DAVIENSIS, in OVATVOR LI- bros
+          <lb/>Dialecticarum Partitionum IOAN-NIS STVRMII, ab authore
+          <lb/>correctae, atque locupletatae. (Vign.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

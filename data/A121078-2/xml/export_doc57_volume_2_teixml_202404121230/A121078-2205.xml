@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:32.709490+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2205.tif
+IMAGE WIDTH: 2282
+IMAGE HEIGHT: 3824
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>20t
+          <lb/>courant, réclames, initiales à fig., titre rouge et noir.
+          <lb/>In-fol., car. rom., 2 col., 182 ff. non ch., sign. a-2, aa-Ek, titre
+          <lb/>fol. a 2a: LECTORI AEQVO OTHO BRVN- felsius Medi¬
+          <lb/>cinae professor... — Bernae. 11. Februarij. Anno à Nato
+          <lb/>Christi M. D. XXXIIII.
+          <lb/>Suivent 8 pages d’Index à 3 col.
+          <lb/>Nouvelle édition de celle du 14 avril 1534.
+          <lb/>R 10.430. Prov : Bibl. Hermanniana, Strasbourg.
+          <lb/>Notes mss.: Hallerus in Meth. Stud. Med. librum hunc
+          <lb/>non habet. Non vulgaris hodie liber. Passim continet quae
+          <lb/>alibi frustra quaeras: praecipue etiam nomina plantarum
+          <lb/>germanica, quae in Mentzelii Lexico polyglotto non reperio
+          <lb/>ibi inserenda.
+          <lb/>An a Mentelino descendit Schottus, quod insignibus
+          <lb/>ejus gentilitiis usus est?
+          <lb/>Au milieu du titre: Johannes Conradus Geblerus Richen¬
+          <lb/>villanus me possidet.
+          <lb/>Schmidt II, No 144.
+          <lb/>305
+          <lb/>BRUNFELS Otto
+          <lb/>Wittemberg, Cl. Schleich e A. Schöne, 1570.
+          <lb/>LoCI omnium ferme Capitum Euangelij sacundum(!)
+          <lb/>Matthaeum. Marcum. Lucam.
+          <lb/>Argentorati apud Io- annem Schottum.! Ot. Br.
+          <lb/>(Verso blanc.)
+          <lb/>A la fin: Bande d’ornement, au-dessous: WITEBERGAE Excu¬
+          <lb/>debant Clemens Schleich &amp;amp;Antonius Schöne. Ao
+          <lb/>M. D. LXX.
+          <lb/>In-8°, car. ital., 27 ff. non ch. pour Mathaeus, sign. a-d, 28 ff.
+          <lb/>non ch, pour Marcus, sign. a-d, 40 ff. non ch., pour Lucas, sign. a-e,
+          <lb/>titre courant, notes marginales, titre encadré, encadrement propre à Schott.
+          <lb/>(HeB, Planche IV, No 8.)
+          <lb/>Les parties II et III ont un titre spécial, dont charun est encadré
+          <lb/>I. LI MARCVM. OTH. BR. Encadrement, au haut, 2 genies
+          <lb/>ailés sonnant la trompette, bordures latérales, ornements avec un enfant
+          <lb/>nu de chaque côté, bordure inférieure, au milieu écusson avec le mono¬
+          <lb/>gramme de Schott, l’écusson est tenu par 2 griffons. IIl. LOCIIN
+          <lb/>LVCAM. OTH. BR. Encadrement: Divers sujets de l’Ecriture sainte.
+          <lb/>R 102.027. Prov.: Hugo Barbeck, Wurebourg, 30/VII. 1880, 2M.
+          <lb/>Réimpression des Loci de Schott qui n’appartient pas proprement
+          <lb/>ici. Je l’ai pris parce que le titre marque Strasbourg J. Schott avec son
+          <lb/>encadrement, mais en réalité c’est une impression (Nachdruck) faite à
+          <lb/>Wittenberg par Schleich et Schöne.
+          <lb/>306
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:38.149560+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2398.tif
+IMAGE WIDTH: 2376
+IMAGE HEIGHT: 3824
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>394
+          <lb/>CORDUS Valerius
+          <lb/>Strasbourg, I. Rihel, 1563.
+          <lb/>VALERII CORDI SI- mesusij, Stirpium descriptionis li¬
+          <lb/>ber Quintus: qua in Italia sibi uisas describit: in prœce¬
+          <lb/>dentibus uel omnino intactas, uel parciùs descriptas. Hunc
+          <lb/>autem morte prœuentus, perficere non potuit.
+          <lb/>DE MORBO ET OBITV VALERII CORDI, EPISTOLA HIERONY¬
+          <lb/>MI! Schreiberi Norimbergensis.
+          <lb/>IN EIVSDEM obitum Casparis Crucigeri Elegia.
+          <lb/>EMENDATIONES QVAEDAM ET ADDITIONES IN OPERA VA¬
+          <lb/>LERII Cordi, Argentinae excusa apud Iosiam Rihelium,
+          <lb/>Anno M. D. LX.
+          <lb/>Marque typographique de Josias Rihel. (H CB, Planche XXXI,
+          <lb/>N° 12.
+          <lb/>Cum gratia &amp;amp; priuilegio Caesareo ad annos octo.
+          <lb/>ARGENTORATI EXCVDEBAT IOSIAS! Rihelius, Anno M.D.
+          <lb/>LXIII.
+          <lb/>In-fol., car. rom,, 13 ff. ch., et 2 ff. blancs, titre courant, réclames,
+          <lb/>initiales ornées.
+          <lb/>fol. 2a: Praeclaro viro Vuolfgango Meu- RERO, PHILO¬
+          <lb/>SOPHO ET MEDICO... CONRADVS GESNERVS... — In Thermis
+          <lb/>Helueticis ad Limagum fluuium, Augusti die Xiij. Anno
+          <lb/>Sa! lutis M. D. LXH.
+          <lb/>fol. 9b: DE MORBO ET OBITV VALERII CORDI, HIERONYMI
+          <lb/>SCHREI-beri Norimbergensis (qui aegrotanti fere semper
+          <lb/>adfuit), ad Cl. V.Vuolfgangum Meurerum Epistola... —
+          <lb/>Calend.Decembris, Anno 1544. (4 pages.)
+          <lb/>fol. 12a: DOMINO HIERONYMO SCHREIBER GERMANO AMI¬
+          <lb/>CO IN PRI- mis colendo Caspar Cruciger... — Pridie no¬
+          <lb/>nas lIanuarii, Anno 1545. (Distiques, 2 pages.)
+          <lb/>fol. 134: EPITAPHIVM VALERII CORDI, QVI SEPVLTVS est
+          <lb/>Romae in aede D. Mariae de anima, regione Parionis.
+          <lb/>Au-dessous: CONRADVS GESNERVS LE-ctori..
+          <lb/>R10414(2) Prov.: Bibliotheca Hermanniana. Notes mes. 588
+          <lb/>CORNARIUS Johann H. : Quarum artium ac linguarum cogni¬
+          <lb/>tione medico opus sit. Praefatio ante Hippocratis aphoris¬
+          <lb/>morum initium per Janum Cornarium... habita Rostochii.
+          <lb/>Voir: HIPPOCRATES, Aphorismi graece. — Haganoae, apud
+          <lb/>Johan. Secerium, s. d. (vers 1527), in-8°.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

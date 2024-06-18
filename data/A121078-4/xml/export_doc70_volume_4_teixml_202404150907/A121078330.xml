@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:52.345931+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078330.tif
+IMAGE WIDTH: 2324
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1216
+          <lb/>In-fol, car. goth., 5 ff. non ch., CCCOLXXXIV ff. ch. et 1 f.
+          <lb/>non ch. (table); à la suite avec nouvelle pagination CLXI ff. ch. (com¬
+          <lb/>mençant avec la vie d’Alexandre et finissant avec celle de Caton); titre
+          <lb/>courant, réclames, notes marg., grandes init. goth.; mêmes grav. que
+          <lb/>dans l&amp;#x27;édition de Barth. Gruninger, Colmar 1541; même dédicace et
+          <lb/>même privilège impérial, titre rouge et noir.
+          <lb/>R10.455. Prov.: A. Bielefeld, Carlsruhe 12/VII 1871; 16 M.
+          <lb/>BM Strasbourg.
+          <lb/>1898
+          <lb/>POETAE
+          <lb/>Strasbourg, J. Schott 1546
+          <lb/>POETAE HISTORICI ITEM GERMANI] aliquot celebres,
+          <lb/>singulis Disti- chis descripti.! Cum quibusdam aliis lectu
+          <lb/>non indignis Opus- culis : quorum Argumenta, pagina
+          <lb/>sequens ostendit. ! AVTHORIBVS GERARDO FAVSTO.) GEOR¬
+          <lb/>GIO FABRICIO. ] EÖBANO HESSO. ] ANTONIO CARCHESIO.] ANTO¬
+          <lb/>NIO VICEDOMINO.
+          <lb/>Argentorati apud IOANNEM SCHOT- TVM. Cum Caes.
+          <lb/>Maiestatis Privilegio ad Quinquennium. M. D. XLVI.
+          <lb/>In-4°, car. rom., 20 ff. non ch., sign. a-e, titre courant. Au verso
+          <lb/>du titre: Index.
+          <lb/>Fol. a 2a: Faustus Pisoni suo... — Vale. Ad Confluentes. Anno
+          <lb/>M. D. XLVI. mense Februario. Suivent 6 dist, lat. à Pison.
+          <lb/>Corps de l’ouvrage: fol. a 3b-e Ib: Poetae Germani per Gerar¬
+          <lb/>dum Faustum Confluentinum. (Noms de 92 poètes avec un distique sur
+          <lb/>chacun). Après les poètes viennent les historiens au nombre de 45 par
+          <lb/>G. Fabricius avec un dist. sur chacun d’eux.
+          <lb/>Fol. e Ib-e 3a: Catalogus Poetarum secundum ordinera literarum,
+          <lb/>additis etiam patriae nominibus. (en tout 92, entre autres : Burchardus
+          <lb/>Anuilensis, Alsatius, Eques; Jacobus Micyllus, Argentoratensis; Joannes
+          <lb/>Sapidus, Selestadiensis.)
+          <lb/>Fol. e 3b : Catalogus Historicorum. (entre autres : Beatus Rhena¬
+          <lb/>nus, Selestadiensis, Jacobus Wimphelingus Selestadiensis, Sebastianus
+          <lb/>Murrho, Colmariensis, Hieronymus Gebvilerus.)
+          <lb/>*RI00.848. Prov.: Rosenthal, Munich I0/IX 1897; 18 M. Note
+          <lb/>ms. en bas du titre : Ex libris Joannis Ritelii (?).
+          <lb/>Walter: Sélestat n° 2072.
+          <lb/>1899
+          <lb/>POGGIO Giovanni
+          <lb/>Strasbourg, J. Knobloch 1510
+          <lb/>Poggii Florentini Ora- toris clarissimi: ac se-CRE¬
+          <lb/>TARII APOSTOLICI HISTO RIAE CONVIVALES DISCEPTATIVAE
+          <lb/>ORATIONES INVECTIVAE EPISTOLAE ( DESCRIPTIO- NES
+          <lb/>QVAE- DAM: ET Fa- cecia¬ rum Liber.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

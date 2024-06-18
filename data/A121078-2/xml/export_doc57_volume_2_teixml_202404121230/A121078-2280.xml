@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:35.011639+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2280.tif
+IMAGE WIDTH: 2300
+IMAGE HEIGHT: 3818
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>276
+          <lb/>A la fin des Mirabilia Romae: Gedruckt zu Rom durch
+          <lb/>Meister Steffan Planek von Passaw, in demJar alsz
+          <lb/>man zalt M. D. zu der zeit desz Papsts Alexanders des
+          <lb/>sechsten in seinem neundten Jar. (Verso blanc).
+          <lb/>R 102.482. Prov.: Hugo Barbeck, Nurembera, 21. V. 1882, 25M.
+          <lb/>GPB: Berlin BN, Breslau BU, Gœttingue RU, Greifswald BU,
+          <lb/>416
+          <lb/>Kœnigsberg B U, Munster BU.
+          <lb/>[Strasbourg, B. Jobinl, 1594.
+          <lb/>CALVIN
+          <lb/>Der Heilig BrotkorbDer H. Römi- schen Reliquien,
+          <lb/>oder Wür- digen Heiligthumbs Pro- cken: Das ist,
+          <lb/>IOANNIS CALVINI Notwendige vermanung, von der Pa¬
+          <lb/>pisten Heiligthumb: Darausz zusehen, was damit für
+          <lb/>Abgötterey vnnd Betrug getriebenworden, dem Christ¬
+          <lb/>lichen Le- ser zu gute verteutscht.
+          <lb/>Sampt beigethanen Wunders Wun- dern in der Statt
+          <lb/>Rom.
+          <lb/>Même gravure que dans les 3 éditions précédentes.
+          <lb/>Getruckt zu Christlingen, Bey Vrsi- no Gutwino, 1594.
+          <lb/>(Verso blanc).
+          <lb/>A la fin: ANNO (Vignette) M. D. LXXXXHIII.
+          <lb/>In-8°, car. goth., 24 ff. non ch. (Préface de J. Eysenberg et vers
+          <lb/>de Fischart), 85 ff. ch., 3 ff. non ch. (Index), titre courant, réclames,
+          <lb/>init. ornées, titre rouge et noir.
+          <lb/>R 102.483. Prov.: C. H. Beck, Nordlingen (Catalogue 151, N° 581),
+          <lb/>23. V.1881, 4 M.50.
+          <lb/>Notes mss. au verso du titre: Zu Erdtfurt in der Kirchen zu S.
+          <lb/>Maria stehen diese Versz:
+          <lb/>Hac non vade via, nisi dixeris Ave Maria,
+          <lb/>Omnis spes veniae venit ex merito Mariae.
+          <lb/>Zu Sommershausen am Main ober Würtzburg gelegen, ist an einem
+          <lb/>altar gemalt gewesen Maria mit ihrem ausgebraiten Rock, darin viel Men¬
+          <lb/>schenköpff vnd Bilder gewesen mit der Vberschrifft: Venite ad me omnes,
+          <lb/>qui laboratis et onerati estis, Ego reficiam vos : Welche Gottslesterung
+          <lb/>die Wolgeborne Heerschafft Limpurg nit leiden wollen vnd daz Gemält
+          <lb/>gantz auslöschen lassen.
+          <lb/>A la fin: S. APPollonien Zän. Eduardus (VI) König in Engellandt,
+          <lb/>hat ein grossen Zanweethumb gehabt, derowegen befohlen daz man alle
+          <lb/>Zän S. Appollonien aus dem gantzen Königreich zusammen pringen solte,
+          <lb/>do sein ein solcher grosse hauffen Zäne zusampracht worden, das man
+          <lb/>etzlich tonnen damit hat füllen können.
+          <lb/>Anno 1609 im Martio hat die Infante Isabella Clara Eugenia Ertz¬
+          <lb/>hertzogs zu Brüssel Gemahl em schön Rock oder Mantel mit 3000 Dia¬
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

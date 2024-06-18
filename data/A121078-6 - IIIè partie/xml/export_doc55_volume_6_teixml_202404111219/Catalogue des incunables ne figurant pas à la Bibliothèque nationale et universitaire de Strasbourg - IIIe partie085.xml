@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:06.412213+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie085.tif
+IMAGE WIDTH: 2484
+IMAGE HEIGHT: 3932
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>OTTo von Passau: Die vierundzwanzig Alten... — (Strasbourg,
+          <lb/>Jean Prüss vers 1484), in-80.
+          <lb/>Hain 12127; Kristeller n° 84; Schmidt III, n° 3; Voulliéme:
+          <lb/>Berlin 2388. — BN Berlin.
+          <lb/>538
+          <lb/>OVIDIUS : Hie hebt sich an das buch Ovidij die liebe zu
+          <lb/>erwerben. Und auch die liebe zu verschmerzen. Als
+          <lb/>doctor Hartlieb von latin zu tütsch bracht... —
+          <lb/>(Strasbourg, Martin Schott (23. IIII 1484, in-fol.
+          <lb/>Hain 995; Panzer, Annalen I, 154; Schmidt II, n° 5. —
+          <lb/>Bibl. M. P. S. Paris.
+          <lb/>539
+          <lb/>PAEBSTE : Hie wirdet gesagt von allen Bästen, und was
+          <lb/>sich by ir yedem begeben hat bisz uff babst Pyum
+          <lb/>den sechsten. — (Strasbourg 1470), in-4°.
+          <lb/>Copinger II, 4823.
+          <lb/>539a
+          <lb/>PALUDANUS, Petrus: Sermones thesauri novi dominicales.—
+          <lb/>Strasbourg, Martin Flach 1487, in-fol.
+          <lb/>Voulliéme : Berlin 2477.
+          <lb/>540
+          <lb/>PALUDANUS, Petrus (Idem). — Strasbourg, Martin Flach
+          <lb/>1489, in-fol.
+          <lb/>Voulliéme : Berlin 2482, 5. Cop. 5426, Proctor 684. 541
+          <lb/>PALUDANUS, Petrus (Idem). — Strasbourg, Martin Flach
+          <lb/>1490, in-fol.
+          <lb/>Voulliéme : Berlin 2488, 5.
+          <lb/>542
+          <lb/>PALUDANUS, Petrus : Sermones quadragesimales thesauri
+          <lb/>novi. — Strasbourg (imprimeur du Paludanus) 1485,
+          <lb/>in-fol.
+          <lb/>Copinger 5431; Ritter : B M Strasbourg n° 223.
+          <lb/>543
+          <lb/>PALUDANUS, Petrus : Sermones thesauri novi quadragesi¬
+          <lb/>males. — Strasbourg, (Martin Flach) 1491, in-fol.
+          <lb/>Copinger 5435; Ritter: B M Strasbourg no 225 et Inc. 353, 544
+          <lb/>83
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

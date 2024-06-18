@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:04.421140+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002109.tif
+IMAGE WIDTH: 2518
+IMAGE HEIGHT: 3988
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>CATO : Catonis Disticha Moralia cum Erasmi Roterodami
+          <lb/>Scholijs. Adiunctis libellis alijs, quorum titulos sequens
+          <lb/>pagina indicat. Omnibus nunc castigatius, quàm antea
+          <lb/>editis. (Apopthegmata (sic) Erasmi. Eadem ab Ausonio.
+          <lb/>Publius Mimus, etc.). (Marque typ. de Christian Mylius).
+          <lb/>— Argentorati, Anno 1574, in-8°.
+          <lb/>Bibl. Grand Sém. Strasbourg.
+          <lb/>1318
+          <lb/>CATo: (Idem). [Marque type de l’imprimeur). — Argentorati
+          <lb/>(Christian Mylius) Anno 1578, in-8°.
+          <lb/>Bibl. Grand Sém. Strasbourg.
+          <lb/>1319
+          <lb/>CATo : Moralia instituta. Strasbourg, Jean Knobloch (1515l.
+          <lb/>A la suite de : HESIODUS : In hoc opere continentur:
+          <lb/>Hesiodi duo libri Georgicon (n° 2004).
+          <lb/>1320
+          <lb/>CATO. Voir aussi: RITTER, Rép. nos 469-472.
+          <lb/>CATOLOGUS : authorum omnium qui in sacros libros scrip¬
+          <lb/>serunt. — Strasbourg, Nicolas Wyriot 1572.
+          <lb/>Ritter, Hist. impr. p. 344.
+          <lb/>1321
+          <lb/>CELLARIUS, Johannes: Isagogicon in hebraeas literas... —
+          <lb/>Haguenau, Thomas Anshelm (1518), in-4° (Ex Neoaca¬
+          <lb/>demia).
+          <lb/>Rosenthal, Munich, Catal. 135 (1914), n° 508 : « paraît être le
+          <lb/>seul exemplaire connu »; Burg, n° 140.
+          <lb/>1322
+          <lb/>CELLARIUS, Martinus : De operibus Dei. — Strasbourg, 1527.
+          <lb/>Hartmann III, 1210; Staehelin, n° 508.
+          <lb/>1323
+          <lb/>CELLARIUS, Martinus (Borrhans) : Elementale cosmogra¬
+          <lb/>phicum, quo totius astronomiae et geographiae rudimenta
+          <lb/>certissimis brevissimis docentur apodixibus.
+          <lb/>Strasbourg, Crato Mylius 1539.
+          <lb/>—
+          <lb/>Ritter, Hist. Impr. p. 252.
+          <lb/>1324
+          <lb/>107
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

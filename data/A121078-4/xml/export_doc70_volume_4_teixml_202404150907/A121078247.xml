@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:49.541177+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078247.tif
+IMAGE WIDTH: 2304
+IMAGE HEIGHT: 3844
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>PAPPUS Johannes
+          <lb/>Strasbourg, Nic. Wyriot 1579
+          <lb/>De Autoritate Patrum, ! sive Scriptorum Ecclesi- asti¬
+          <lb/>corum CAPITA DISPVTATIONIS ORDINA-riae, proposita in
+          <lb/>inclyta Academia Ar- gentoratensi, à Doct. IOHANNE
+          <lb/>PAPPO, Ecclesiae Cathedralis! Pastore, &amp;amp; Professore Theo¬
+          <lb/>logo. Respondebit de his, CHRISTO SERVATORE iuvante,
+          <lb/>V. Calend. pridie Non. &amp;amp; III. Id. April. M. DANe SCHAp
+          <lb/>SENFTEBERGENSIS. (Marque typ. de N. Wyriot. HEB Planche XLIII
+          <lb/>n° 2; Silvestre n° 763.)
+          <lb/>ARGENTORATI! Excudebat Nicolaus Wvriot, M. D.
+          <lb/>LXXIX. (Verso blanc.)
+          <lb/>In-fol., car, rom., 8 ff. non ch., sign. A-B, réclames.
+          <lb/>R 100.551. Prov. : Bibl. paroissiale de la ville de Schleiz ?/VI
+          <lb/>1876. Annotation ms. en bas du titre avec autogr. de l’auteur:. Vene¬
+          <lb/>rendo et clarissimo viro, D. Doct. Iohanni Brentio, domino et amico suo
+          <lb/>observando Ioh. Pappus D.&amp;quot;
+          <lb/>Voir: Horning, Wilhelm : Dr. Johann Pappus von Lindau 1549—
+          <lb/>1610... Strassburg, J. H. Ed. Heitz 1891, in-8°, 323 pp.
+          <lb/>Bibliographie de J. Pappus, voir : Schottenloher I n° 16832—
+          <lb/>16838a.
+          <lb/>1755
+          <lb/>1133
+          <lb/>PAPPUS Johannes
+          <lb/>Strasbourg, Nic. Wyriot 1582
+          <lb/>Christliche Leichpredig Ausz dem Neundten Capitel
+          <lb/>der Apostel Geschichte, Bey der Begrebnisz der Edlen
+          <lb/>unnd Tugendt-reichen Frawen, Veronica Stürmerin, wel¬
+          <lb/>che den 9. Decembris, Anno 1581. in Christo sälig ent¬
+          <lb/>schlaffen. Gehalten den 12. Decembris, Und jetzo der
+          <lb/>Ab- gestorbnen Frawen, zù lobwürdiger Gedechtnisz, Auch
+          <lb/>ihren Adelichen Verwandten und Erben, zu dienstlichem
+          <lb/>gefallen, in Truck verfertigt, Durch Iohannem Pappum
+          <lb/>Doctorem, Pfar- rer im Münster zû Straszburg. (Vign.)
+          <lb/>Gedruckt zu Straszburg, bey Niclausz Wyriot. M. D.
+          <lb/>LXXXII. (Verso blanc.)
+          <lb/>In-4°, car. goth., réclames, notes marg.
+          <lb/>R102.323. Prov.: Vente Rettig, Strasbourg 2/X1 1894. Incom¬
+          <lb/>plet, n’a que les 12 premiers ff., sign. A-C.
+          <lb/>1756
+          <lb/>PAPPUS Johannes
+          <lb/>Strasbourg, B. Jobin 1584
+          <lb/>HISTORIAE ECCLESIASTICAE,! DE CONVERSIONIBVS GEN¬
+          <lb/>TIVM, PERSECVTIONIBVS EC-] clesiae, Haeresibus, &amp;amp; Conciliis
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

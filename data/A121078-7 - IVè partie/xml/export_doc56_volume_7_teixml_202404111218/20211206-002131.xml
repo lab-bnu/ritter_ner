@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:05.073235+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002131.tif
+IMAGE WIDTH: 2494
+IMAGE HEIGHT: 3988
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>CORVINUS, Antonius : Postilla in epistolas et evangelia cum
+          <lb/>de Tempore, tum de Sanctis, totius anni, per ipsum
+          <lb/>Autorem denuo recognita et locupletata, ut sequens
+          <lb/>indicat pagella... — (Strasbourg, Wolfgang Cephaleus
+          <lb/>Köpfel] 1543, in-40.
+          <lb/>Ritter : B M Strasbourg n° 782.
+          <lb/>1441
+          <lb/>CORVINUS, Ant. : Postilla... In Epistolas et Evangelia, cum
+          <lb/>de Tempore, tum de Sanctis, totius anni, per ipsum
+          <lb/>Authorem denuo recognita &amp;amp; locupletata... — (Argento¬
+          <lb/>rati apud Vuolffgang Cephaleum (Köpfell. Anno M. D.
+          <lb/>XLVIII (1548), in-4°. (Au verso du dernier f. marque
+          <lb/>typ. de Köpfel, f. du titre encadré].
+          <lb/>Bibl. Grand Sém. Strasbourg A G 253.
+          <lb/>1442
+          <lb/>CORVINUS, Ant. : Postilla. Oder auszlegung Aller Sontags
+          <lb/>Evangelien und Epistelen. Auch der Hochzeitlichen
+          <lb/>Fest und Heyligen, durch das gantz jarausz für die
+          <lb/>armen Pfarrherren gestellet... Ein yedes theyl mit seinem
+          <lb/>Register 1553. — (Strasbourg, W. Köpfel (?) 1 1553, in-8°.
+          <lb/>Bibl. S. Guillaume, Strasbourg.
+          <lb/>1443
+          <lb/>CORVINUS, Ant. : Colloquia theologica quibus iam tertius
+          <lb/>liber accessit, antehac non aeditus... ad temporis
+          <lb/>praesentis statum accommodata. — Strasbourg, Wolfg.
+          <lb/>Köpfel 1538, in-80.
+          <lb/>Bibl. S. Guillaume, Strasbourg. (Voir aussi : Ritter, Rép.
+          <lb/>n° 589).
+          <lb/>1444
+          <lb/>CORVINUS, Ant. : Kurtze auszlegung der Evangelien, so auff
+          <lb/>die Sontag von Ostern bisz auff das Advent gepredigt
+          <lb/>werden... — (Strasbourg, Wolfg. Köpfel 1539), in-8°.
+          <lb/>Bibl. S. Guillaume, Strasbourg.
+          <lb/>1445
+          <lb/>CORVINUS, Ant. : Kurtze auszlegunge der Evangelien, so an
+          <lb/>den Fürnemsten Festen im gantzen jar geprediget
+          <lb/>129
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

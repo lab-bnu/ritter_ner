@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:32.692463+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2204.tif
+IMAGE WIDTH: 2282
+IMAGE HEIGHT: 3826
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>200
+          <lb/>BRUNFELS Otto
+          <lb/>[Tome L.]
+          <lb/>HERBA RVM OTH. BRUNFELSII, TOMIS TRIBVS! Exacto
+          <lb/>tandem studio, opera &amp;amp; ingenio, candidatisMedicinae
+          <lb/>Simplicis absolutum.Quorum contenta, Index cuiusque
+          <lb/>Tomorum suo loco explicat. Cum Caes. Maiest. diui
+          <lb/>CAROLI. V.Priuilegio ad Sexennium.
+          <lb/>ARGENT, apud Ioannem Schottum. M. D. XXX IX.
+          <lb/>(Verso blanc.)
+          <lb/>In-fol., car. rom., 4 ff. non ch., 266 pp. ch, 3 ff. non ch. à 2 col.
+          <lb/>(table), titre courant, notes marg., init, à fig. A. P. Mêmes gravures
+          <lb/>et même encadrement p. 1 que dans l’édition de 1532, l’encadrement du
+          <lb/>titre manque, même préface et distiques de J. Sapidus.
+          <lb/>Réimpression de l’édition de 1532.
+          <lb/>Après p. 19 il y a un f. blanc, puis la pagination continue au f.
+          <lb/>suivant avec p. 21.
+          <lb/>*R 10 505. (1) Prov.: Bibl. de l&amp;#x27;Ancienne Faculté de Médecine de
+          <lb/>Strasbourg.
+          <lb/>2 ex. *R 10.411.(1) Prov.: Bibliothèque du Gymnase de Heilbronn,
+          <lb/>1878. Rel. anc. Notes mss.
+          <lb/>Cette édition manque chez Schmidt, II; Schreiber, loco citato, p.
+          <lb/>304
+          <lb/>XXXII.
+          <lb/>Strasbourg, J. Schott, 1539.
+          <lb/>BRUNFELS Otto
+          <lb/>Strasbourg, J. Schott, 1544.
+          <lb/>ONOMA ETIKON] seu Lexicon Medicinae Simplicis,
+          <lb/>OTHO- NIS BRVNFELSH primùm ingenio, tùm Amicorum
+          <lb/>post se recognitione &amp;amp; studio, iustiore lime repurgatum,
+          <lb/>auctumque: Ad- dita uocum quarundam Germanica ex¬
+          <lb/>positione, iuxta uerio-rem Dio-SCORIDIS Historiam.
+          <lb/>Gravure sur bois: armoiries de Mentel, (HEB, Planche II, NOI)
+          <lb/>entourées de la légende: INSIGNE SCHOTTORVM Familiae, ab
+          <lb/>FRIDERICO ROM. IMP. III. Io MENTe-lin primo Typographiae
+          <lb/>Inuentori, ac SVIS concessum. ANNo CHRISTI Millesimo,
+          <lb/>Quadringentesimo, Sexagesimo sexto.
+          <lb/>Au-dessous: Diui CAROLI V. Priuilegio ad Quin- quen¬
+          <lb/>nium. ANNO CHRISTI! M. D. XLIII.
+          <lb/>Argentorati IOANNES SCHOT-TVS aere perennius dedit.
+          <lb/>(Verso blanc.)
+          <lb/>A la fin: ARGENTORATI apud lo. Schottum. 21. Martij,
+          <lb/>1.
+          <lb/>Anno Christi 1544. fi-nem sortitum opus, denuò recogni¬
+          <lb/>tum. &amp;amp; locupletatum. (Verso blanc.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:46.586199+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078139.tif
+IMAGE WIDTH: 2308
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1025
+          <lb/>impressum ac emen datum... Anno... Millesimo quin¬
+          <lb/>gen- tesimo decimo quinto, mense Decembri.
+          <lb/>init. ornée E au commencement du premier sermon, titre encadré
+          <lb/>In-4°, car. goth., 2 col., 173 ff. non ch., sign. a-x, titre courant,
+          <lb/>(H e B Planche LXIV n° 2.)
+          <lb/>Au verso du titre : Prefatio in sermones Quadrage! simales Bige
+          <lb/>salutis : a quodam fratre ordinis Minorum de observantia fami- lie Hun¬
+          <lb/>garie comportatos.
+          <lb/>RI01393. Prov.: BN Munich 24/V 1877; 1 M. 20.
+          <lb/>BN Paris, Rés. D. 8141; Proctor II Sectio I n° 11668: Londres,
+          <lb/>British Museum.
+          <lb/>Rosenthal, Munich, Catal. 135 (1914) n° 1299: 100 M. 165 ff.
+          <lb/>1573
+          <lb/>MICHAEL DE HUNGARIA
+          <lb/>Strasbourg, J. Knobloch 1516
+          <lb/>Evagatorium. In presenti libel lo continentur hec
+          <lb/>infra per ordinem! notata. Optimus modus predicandi.
+          <lb/>Sermones xiii. Michaelis de Hungaria univer sales...
+          <lb/>Sermones electissimi de Rosario beate virginis! Marie, et
+          <lb/>de sancta Anna eius matre.Passio domini nostri Jesu
+          <lb/>Christi cum sermone eiusdem post cenam habito: ex
+          <lb/>quatuor Evangeli- stis diligentissime collecta.
+          <lb/>A la fin: Impres si Argentine sumptibus honesti viri
+          <lb/>Joannis Knoblouch. Anno domini Millesimo quingente¬
+          <lb/>simo decimo sexto. Die undecima Novembris.
+          <lb/>In-4°, car. goth., 187 ff. non ch., sign. AX et a-b, titre courant,
+          <lb/>titre rouge et noir.
+          <lb/>RI01406. Prov.: BN Munich 24/V 1877; 0,50 M. En haut du
+          <lb/>titre : In Usum FF. Mettensium. A l’intérieur de la couverture 1558, le
+          <lb/>reste illisible.
+          <lb/>Schmidt VII n° 122 cite en outre Jadis Bibl. de Strasbourg,
+          <lb/>Incun. n° 1811 et Bibl. Cantonale d’Aarau: (Couvent de Muri).
+          <lb/>Bœr, Francfort-s.-M., Catal. 500 (1907) n° 1099 (1); 35 M.
+          <lb/>176 ff. non ch.
+          <lb/>1574
+          <lb/>MICYLLUS Jacobus. Voir: AUSONIUS : Icones, 1544.
+          <lb/>MILLICHIUS Jacobus
+          <lb/>Haguenau, P. Brubach 1535
+          <lb/>COMMENTARII IN LIBRVM SECVNDVM HISTO- RAE MVNDI
+          <lb/>C. PLINII CON scripti a lacobo Milichio professo! re Mathe¬
+          <lb/>R.65
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:31.978208+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2182.tif
+IMAGE WIDTH: 2286
+IMAGE HEIGHT: 3826
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>178
+          <lb/>BRUNFELS Otto
+          <lb/>Strasbourg, J. Schott, 1527.
+          <lb/>CATALO G1) Virorum illustrium Veteris &amp;amp; no ui
+          <lb/>Testamenti. Virorum obscurorum utriusque Test.! Illus¬
+          <lb/>trium item Mulierum. Obscurarum dein Mulierum. De
+          <lb/>Bellis, uictoria, &amp;amp; triumphisustorum contra Impios.
+          <lb/>Orationes, exhortationes, obsecra- tiones, Patrum, Prophe¬
+          <lb/>tarum, Re gum &amp;amp; uirorum Illustrium. De Tyrannide et
+          <lb/>Bellis Impiorum contra lustos.Othonis Brunfelsij.
+          <lb/>A la fin: Argentorati apud loannem Schottum. Anno.
+          <lb/>1527.
+          <lb/>Au-dessus de l’explicit: marque typographique de J. Schott.
+          <lb/>(H æ B, Planche IV, No 9.)
+          <lb/>In-80, car. ital., 38 ff. ch., 2 f. non ch. (Index à 2 col.), titre
+          <lb/>courant, notes marginales, initiale ornée A; titre encadré: au haut. deux
+          <lb/>faunes ayant des ailes au lieu des bras et chacun une trompette à la
+          <lb/>bouche; au bas, deux nymphes, tenant un écusson avec le monogramme
+          <lb/>de Schott; (HEB, Planche IV, N° 8.)
+          <lb/>Au verso du titre: OTHO Brunfelsius Lectori... — Argen¬
+          <lb/>torati. 16. kalend. Marcij.Anno, 1527.
+          <lb/>R 101.124.(2) Prov.: Bibl. Ed. Cunite, Strasbourg, 1886. Rel. anc.
+          <lb/>Roth, loco cit. No 18, 1: Darmstadt Hosbibl, Leipaig Univ. Bibl.;
+          <lb/>Schmidt II, N° 101: BM Zurich.
+          <lb/>279
+          <lb/>BRUNFELS Otto
+          <lb/>Strasbourg, J. Schott, 1527.
+          <lb/>PANDE CTARVM Veteris &amp;amp; Noui Testa-menti. Libri
+          <lb/>XII. Othonis Brunfelsii.
+          <lb/>Argentorati, apud Ioan- nem Schottum. 1527.! Deo
+          <lb/>gloria. (Verso blanc.)
+          <lb/>A la fin: Marque typographique de J. Schott. (H  B. Planche
+          <lb/>IV, No 9.)
+          <lb/>In-8°, car. ital,, 20 ff. ch. au bas des feuilles — 207 ff. ch. (Schmidt
+          <lb/>II, No 100 dit 277), et 1 f. non ch. (Erreurs de pagination), titre
+          <lb/>courant, notes marginales, initiale ornée A, titre rouge et noir, de même
+          <lb/>l&amp;#x27;encadrement du titre, qui est formé de diverses scènes de l’Ancien
+          <lb/>Testament par H. Wechtelin.
+          <lb/>R101.424.(1) Prov.: Bibl. Ed. Cunite, Strasbourg, 1886. Rel. anc.
+          <lb/>Roth, loco citato N° 18: Wernigerode, Wien Hofbibl., Leipzig
+          <lb/>Univ. Bibl.; Schmidt II, NO 100: BM Zurich. GPB: Berlin. 280
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

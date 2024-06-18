@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:55.592530+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5175.tif
+IMAGE WIDTH: 2344
+IMAGE HEIGHT: 3840
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1483
+          <lb/>Au verso du dernier f. : De Cordo Urceo, a quo haec per I] fecta est
+          <lb/>comoedia, hoc elegans Vergilii porti!! Mutinensis epithaphium notatur
+          <lb/>(12 vers).
+          <lb/>R. 101.742. Prov. inconnue.
+          <lb/>Schmidt VIII, N° 52.
+          <lb/>2367
+          <lb/>URTEIL
+          <lb/>Strasbourg, H. Vogtherr, 1538
+          <lb/>Eyn kunstreichs warhafftigs vnd wolgegründtes urteil
+          <lb/>und Secret büchlin, ] des harns, von allerlei farben, zirck
+          <lb/>len, wolcken, zeychen vnnd vnderstand, vom ge-schmack,
+          <lb/>auch underscheid, des alters vnnd! der jungen, auch der
+          <lb/>weiber, dez men-schen vnd des vihs, ausz den aller
+          <lb/>hochberümbtesten der artz-ney lerern, zusammen ge! zogen
+          <lb/>vnd gepra ] ticieret wor- den.
+          <lb/>Auch der aller höchst grund, aller einfachen vnd zu !
+          <lb/>sammen gesetzten artzneyen, dem gantzen menschlichen!
+          <lb/>cörper, hochnützlich vsz bruderlicher lieb an den tag geben.
+          <lb/>Marque typ. de H. Vogtherr (H. &amp;amp; B. Planche XXXIV,
+          <lb/>Getruckt zu Straszburg Anno. M. D. XXXVIII. (Verso
+          <lb/>blanc.)
+          <lb/>A la fin : Getruckt zu Straszburg durch Heinrich Vogt
+          <lb/>herren, M. D. XXXVIII.
+          <lb/>In-4°, car. goth., 42 ff. non ch., sign. A-K, réclames; plusieurs fioles.
+          <lb/>R. 101.140. Don du Prof. Ad. Kussmaul, Heidelberg, 9/VII, 1902.
+          <lb/>2e ex. R. 101.120. Prov. : Rosenthal, Munich, 4/IV, 1893; 36 M.
+          <lb/>3e ex. R. 100.623 (2). Prov. : Théodore Ungerer, Strasbourg, 17/XI,
+          <lb/>1919; 35 fr. Rosenthal, Munich, Catalogue 135 (1914), N° 2381 : 120 M.
+          <lb/>Vogtherr est probâblement l’auteur.
+          <lb/>2368
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

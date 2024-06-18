@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:09.344706+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3236.tif
+IMAGE WIDTH: 2330
+IMAGE HEIGHT: 3852
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>680
+          <lb/>Am Schluss: Zâ Straszburg bey Hans Schotten zûm
+          <lb/>Thyergarten. Darüber: Druckerm. Schotts. (HA B Tafel IV Nr. 9.)
+          <lb/>Darunter: Gottseligkeit ist zû allen dingen gût. s. Tim. iiij.
+          <lb/>40, Got., 6 unn., CV num. Ell. u. 1 unn. Bl., 2sp. von Bl. 57 an;
+          <lb/>Kopft., Marg., Init,, zahlreiche Vign. u. Holeschn.
+          <lb/>Bl. 2a: Meister Hans von Gerszdorff, genant Schylhans,
+          <lb/>burger vnd wundartzet zu Straszburg, allen denen so diss
+          <lb/>bûch mit danck leszen, entbeijt er sein willigen dienst
+          <lb/>vnd alles gûts.... — Mit Keyserlicher maiestat Freyheit
+          <lb/>vff sechs jor nit noch! zûtrucken, bey pen Zehen marck
+          <lb/>golds, getruckt durch Joannem Schott zû Straszburg im
+          <lb/>Thyergarten. Anno Christi M. D. XXViij.
+          <lb/>Bl. 22: Was Kalende, None, Idus! Die Zal vnd namen
+          <lb/>aller tag der zwölff monat noch der alten Römer rech¬
+          <lb/>nung.
+          <lb/>*R101.298. Prov. : Bibl. der alten Strassburger medizinischen
+          <lb/>Fakultät. Handschr. Notizen; Exlibris von Thomas Lauth.
+          <lb/>GK: UB Breslau, Göttingen, Marburg, Münster.
+          <lb/>1000
+          <lb/>GERSDORFF Hans von
+          <lb/>Strassburg, J. Schott 1530
+          <lb/>Feldtbûch der Wundartzney, newlich getruckt, vnd
+          <lb/>gebessert. Anno. M. D. XXX. (Holeschn.: im oberen Teil eine
+          <lb/>erstürmte Festung; im unteren ein verwundeter Krieger, der von einem
+          <lb/>Chirurgen behandelt wird. (Rücks. leer.)
+          <lb/>Am Schluss: Zû Straszburg bey Hans Schotten! Zûm
+          <lb/>Thyergarten. Darüber Druckerm. Schotts (H æ̀ B Tafel IV Nr. 9).
+          <lb/>40, Got., 6 unn., CVI num. Bll., (von Bl. 57 an 2sp.), Kopft.,
+          <lb/>Marg., Init., Zierleisten, zahlr. Holeschn. (Anatomie u. Chirurgie);
+          <lb/>Bl. 6b Titelumrahmung. (H e B Tafel V Nr. 10.)
+          <lb/>Bl. 2a: Meister Hans von Gerszdorff, genant Schylhans,
+          <lb/>burger vnd wundartzet zâ Straszburg, allen denen so disz
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

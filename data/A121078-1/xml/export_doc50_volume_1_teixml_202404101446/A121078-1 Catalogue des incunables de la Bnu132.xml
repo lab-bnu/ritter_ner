@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:38.747313+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu132.tif
+IMAGE WIDTH: 2426
+IMAGE HEIGHT: 3858
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Vocabularius utriusque juris. Strasbourg, (impr. du Jor¬
+          <lb/>danus (— G. Husner)), 16 sept, 1486, in-fol.
+          <lb/>Copinger III. 6366, Proctor 604, Voulliéme: Berlin 2412.
+          <lb/>K 3786. Prov.: Don de Fid. Butsch fils, Augsbourg, 1871. A
+          <lb/>la suite de Formularium, Memmingen, Alb. Kuhn, s. d. K 1642.
+          <lb/>485
+          <lb/>Vocabularius utriusque juris. Strasbourg, (Georg Husner),
+          <lb/>27 mai, 1500, in-fol.
+          <lb/>Proctor 748.
+          <lb/>K 3790. Prov.: Don du prof. Witte, Halle, 1872. Au dessus du
+          <lb/>titre: «Jeronimus Schersnin (?) ad meyningenn (?) est posses¬
+          <lb/>sor huius libri.»
+          <lb/>486
+          <lb/>VORAGINE. Voir: Jacobus de Voragine.
+          <lb/>WANN PAULUS: Sermones de tempore. Haguenau, H. Gran,
+          <lb/>1497, in-fol.
+          <lb/>Hain 16145, Madsen 4225, Pellechet: Colmar 1379, Proctor 3191,
+          <lb/>Voulliéme: Berlin 1175, 8.
+          <lb/>K 3794. Prov.: Don de la ville de Heilbronn, 1872. Rel. anc.
+          <lb/>487
+          <lb/>WANN PAULUS: Voir Lochmeyer: Sermones de sanctis,
+          <lb/>cum viginti sermonibus magistri Pauli Wann annexis.
+          <lb/>Haguenau, H. Gran, 1500, N° 289.
+          <lb/>WIMPHELING JAÇORUS: Adolescentia. Strasbourg, Martin
+          <lb/>Flach, 27 août 1500, in-4°.
+          <lb/>Hain 16190, Proctor 718, Kristeller 493, Schmidt VI, 78, Schrei¬
+          <lb/>ber 5471, Voulliéme: Berlin 2510, Walter; Sélestat 527.
+          <lb/>Schramm, Bilderschmuck XX, grav. N° 1687-1689.
+          <lb/>K 3826. Prov.; B N Munich, 15. XII. 1879, 0,50 M. Notes mss.
+          <lb/>488
+          <lb/>WIMPHELING JACOBUS: Agatharchia. Strasbourg, Martin
+          <lb/>Schott, 21 nov. 1498, in-4°.
+          <lb/>Hain 16169, Madsen 4230, Proctor 411, Schmidt II, 16, Voul¬
+          <lb/>liéme: Berlin 2238, 5, Schreiber 5472, Walter: Sélestat 516
+          <lb/>et 517; Schramm, Bilderschmuck XIX, grav. N° 887.
+          <lb/>K 3808. Prov.; Bibliothèque Ch. Schmidt, Strasbourg, 10. IV.
+          <lb/>1895.
+          <lb/>489
+          <lb/>102
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

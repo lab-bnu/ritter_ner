@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:12.947161+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002449.tif
+IMAGE WIDTH: 2482
+IMAGE HEIGHT: 3986
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>ROESSLIN, Eucharius : (Idem). — Strasbourg, Balth. Beck
+          <lb/>1529, in-40,
+          <lb/>Graesse VI, p. 105. (B N Strasbourg R 101.579 : Ritter,
+          <lb/>Rép. n° 2028l.
+          <lb/>3122
+          <lb/>ROESLIN, Helisaeus : Theoria nova Coelestium METE(OPION,
+          <lb/>in qua ex plurium cometarum phaenomenis epilogisticos
+          <lb/>quaedam afferuntur, de novis tertiae cuiusdam mira¬
+          <lb/>culorum Sphaerae circulis et regularissimo ad superio¬
+          <lb/>ribus annis conspectam Stellam, tanquam ad Cygni
+          <lb/>suram progressus, Harmoniam singulorum undique ad
+          <lb/>Mundi cardines habuit, maxime vero medium Europae
+          <lb/>et exacte Germaniae Horizontem non sine numine certo
+          <lb/>respexit. — Strasbourg, Bernard Jobin 1578, in-4°.
+          <lb/>Zinner 2849. (Éd. Jobin hér. en allemand 1597 : Ritter,
+          <lb/>Rép. n° 2028).
+          <lb/>3123
+          <lb/>ROHRAFFE. Voir : LIED (ein altes), n° 2303; WARNUNG,
+          <lb/>n° 3471.
+          <lb/>ROLLWAGENBÜCHLEIN. Voir: WICKRAM, nos 3509-3512.
+          <lb/>ROQUETAILLADE, Jean de. Voir : ULSTADIUS, Phil., n° 3378.
+          <lb/>RORICH, Georg — Calaminus, G.
+          <lb/>ROSARIUM Sermonum. Voir: BusTis, Bernardinus, nos 1247¬
+          <lb/>1249.
+          <lb/>ROSENBERG, Albrecht von. Voir : Ein schön neüw Lep, der
+          <lb/>Markgraf schiffet über den Rhein, n° 2356.
+          <lb/>ROSENKRANZ : Der Rosenkranz von U. L. Frawen unnd
+          <lb/>Uszlegung des Psalters. Das ist ein huppsches Lied...
+          <lb/>von Maria... — Strasbourg, s. d., in-12°.
+          <lb/>Graesse VI, p. 164; Panzer, Zusätze, p. 7, n° 332.
+          <lb/>3124
+          <lb/>ROSENZWEIG, Lorenz. Voir : Ein neüw LIep von der Schlacht
+          <lb/>447
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

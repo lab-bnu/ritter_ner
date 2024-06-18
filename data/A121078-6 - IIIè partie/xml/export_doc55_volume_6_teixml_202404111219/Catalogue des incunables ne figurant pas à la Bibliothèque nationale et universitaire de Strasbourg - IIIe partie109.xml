@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:06.746278+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie109.tif
+IMAGE WIDTH: 2488
+IMAGE HEIGHT: 3916
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>WIMPHELING, Jacobus: In laudem et defensionem Philippi
+          <lb/>Comitis Rheni Palatini Bavariae ducis. — (Strasbourg),
+          <lb/>(Martin Schott (XIII. Kal. Decembris) 1498, in-40.
+          <lb/>Goedeke 12, p. 408, n° 15.
+          <lb/>712
+          <lb/>WIMPHELING, Jacobus : Laudes Ecclesiae Spirensis. —
+          <lb/>(Strasbourg (?)] 1486.
+          <lb/>Hain 16189; Walter n° 526.
+          <lb/>713
+          <lb/>WIMPHELING, Jac. : Ad illustris domini Ludovici Comitis in
+          <lb/>Leuenstein filium primogenitum D. Wolfangum Adoles¬
+          <lb/>centia Wymphelingii. — Strasbourg, Martin Flach, 27,
+          <lb/>VIII. 1500, in-40.
+          <lb/>Hain 16190; Schmidt : VI, 78; Ritter, Rép. Inc. 488. 714
+          <lb/>WIMPHELING, Jac. : Epistola ad Philippi comitis Palatini
+          <lb/>filios. A la suite de : Hervicus de Amsterdamis : Oratio
+          <lb/>funebris in Fridericun Bavariae Ducem, no 330. 715
+          <lb/>WINCKEL, Joh. Voir: THOMAS de Aquino, De potentia Dei
+          <lb/>n° 646.
+          <lb/>WOLF DIETRICH. Voir : HELDENBUCH, n° 319.
+          <lb/>WOLFF, Thomas (junior) : Miserere, dum morbo Gallico
+          <lb/>laboraret ad deum non sine lachrymis effusum.
+          <lb/>R. Philesius. — [Strasbourg, Jean Grüninger s. d. in-80.
+          <lb/>(Probablement 16e s. ).
+          <lb/>Schmidt I, n° 90 ; vers 1508; Ritter B M Strasbourg n° 2251.
+          <lb/>716
+          <lb/>WOLFGANG, Sankt : Historie und Leben Sankt Wolfgangs. —
+          <lb/>(Strasbourg avant 1500), in-40.
+          <lb/>Proctor 773.
+          <lb/>717
+          <lb/>WOLFRAM von Eschenbach : Parsival. — (Strasbourg,
+          <lb/>Jean Mentelin) 1477, in-fol.
+          <lb/>107
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

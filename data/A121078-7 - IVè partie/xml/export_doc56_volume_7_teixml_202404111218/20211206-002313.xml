@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:09.739004+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002313.tif
+IMAGE WIDTH: 2504
+IMAGE HEIGHT: 3948
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Das ander Lied, Vom wesen und leben eins waren
+          <lb/>Christen... (grav.). — (Strasbourg, Th. Berger s. d.),
+          <lb/>in-80.
+          <lb/>Heitz, p. 46; Wackernagel V, 784.
+          <lb/>2389
+          <lb/>LIEDER (zwei schöne geistliche) : Zwey schöne geistliche
+          <lb/>Lieder, Das erst, von der liebe Gottes, Jetz heb ich an on
+          <lb/>allen spott... Das ander Lied, Ausz den Evangelio Mathei
+          <lb/>am XX. Cap. Wie unns Gott in seinen Weingarten berufft...
+          <lb/>(grav.). — (Strasbourg, Th. Berger s. d.), in-8°.
+          <lb/>Heitz, p. 40.
+          <lb/>2390
+          <lb/>LIEDER (zwei schöne geistliche) : Zwey schöne geistliche
+          <lb/>Lieder... — Strasbourg, 1550, in-80.
+          <lb/>Vogeleis, p. 284; B N Munich.
+          <lb/>2391
+          <lb/>LIEDER (zwei schöne neue geistliche) : Zwey schöne newe
+          <lb/>Geistliche Lieder, Das erst, Kumpt her zu mir spricht
+          <lb/>Gottes Son... Das ander, Ich armer Sünder klag mich
+          <lb/>seer... (grav.). — [Strasbourg, Th. Berger s. d.), in-8°.
+          <lb/>Heitz, p. 48; Wackernagel III, 1464 : G. Grünwald. 2392
+          <lb/>LIEDER (zwei schöne neue geistliche) : Zwey schöne neüwe
+          <lb/>Geistliche Lieder, Das erste, Ich ruff dich Himmlischer
+          <lb/>Vatter an, wölst meinen Glauben stercken... Das ander
+          <lb/>Lied. O Herr und Gott, von Sebaoth, zu dir schreien
+          <lb/>wir Armen, &amp;amp;c. (grav.). — (Strasbourg, Th. Berger
+          <lb/>s. d.], in-8°,
+          <lb/>Heitz, p. 33; Wackernagel III, 554 : Johannes Botzheim.
+          <lb/>2393
+          <lb/>LIEDER (zwei schöne neue geistliche) : Zwey schöne newe
+          <lb/>Geistliche Lieder, Das erst, Die Son die steht am
+          <lb/>höchsten, die welt hat sich verkert &amp;amp;c. Das ander, von
+          <lb/>diser trübsalen letsten zeit... (grav.). — [Strasbourg,
+          <lb/>Th. Berger s. d.], in-8°.
+          <lb/>Heitz, p. 16; Wackernagel III, 892: Wolff Gernold et III,
+          <lb/>1160.
+          <lb/>2394
+          <lb/>311
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

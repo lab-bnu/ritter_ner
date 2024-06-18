@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:07.638382+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002232.tif
+IMAGE WIDTH: 2520
+IMAGE HEIGHT: 3956
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>HEGESIPPUS :... Fünff Bücher : Vom Jüdischen Krieg und
+          <lb/>endlicher zerstörung der Heyligen und gewaltigen Statt
+          <lb/>Jerusalem. Jetz newlich ausz dem Latein auffs trew¬
+          <lb/>lichest verteutschet... M. D.LXXVI. — Strasbourg,
+          <lb/>Théodose Rihel 1576, in-fol.
+          <lb/>Ritter: B M Strasbourg, n° 1180. (Voir aussi Hegesippus :
+          <lb/>Ritter, Rép. nos 1111-1118).
+          <lb/>1976
+          <lb/>HEILIGENLEBEN. Voir : BRANT, Sebastian nos 1042-1046.
+          <lb/>HEINRICH VIII. Voir : HENRICUS VIII.
+          <lb/>HEINRICH (Hertzog von Braunschweig). Voir: ERZAHLUNG
+          <lb/>(Warhafftige) n° 1642.
+          <lb/>HEINRICH der Löwenritter. Voir : HISTORY von Herzog
+          <lb/>Heinrich n° 2033.
+          <lb/>HELBACH, Wendelin. Voir : MYCENIUS, Joh, n° 2748.
+          <lb/>HELIANUS, Ludovicus : De bello suscipiendo adversus
+          <lb/>Venetianos &amp;amp; Turcas oratio... — (Strasbourg), M[athias)
+          <lb/>S[chürer] 1510, in-4°.
+          <lb/>Schmidt VIII, n° 34; B M Colmar; Walter, n° 1478. 1977
+          <lb/>HELIODORUS : Aethiopica Historia. Ein schöne unnd Liebliche
+          <lb/>Histori von einem groszmütigen Helden aus Griechenland
+          <lb/>und einer uberschönen Junckfrawen, eines Königs
+          <lb/>dochter der schwartzen Moren (der Jüngling Theagenes
+          <lb/>unnd die Junckfraw Chariclia genant)... Aus dem
+          <lb/>Griechischen ins Latin (von Stanislaus Warschewiczki,
+          <lb/>Basel, Oporin 1552, in-fol.] und yetzundt newlich ins
+          <lb/>Teutsch bracht... [von Joh. Zschorn). — (Strasbourg,
+          <lb/>Paul Messerschmidt) 1559, in-80.
+          <lb/>Goedeke II2, p. 474, n° 3; Heitz-Ritter, n° 648 : Berlin,
+          <lb/>Darmstadt, Giessen, Wolfenbüttel.
+          <lb/>1978
+          <lb/>230
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

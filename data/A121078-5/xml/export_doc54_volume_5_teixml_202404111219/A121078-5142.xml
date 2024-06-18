@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:54.236735+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5142.tif
+IMAGE WIDTH: 2344
+IMAGE HEIGHT: 3856
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1450
+          <lb/>fol. A 2a : Vorred auff die Epi-II stel sancti Pauli zuo den Rômern.
+          <lb/>(Préface de 10 ff.).
+          <lb/>Traduction du N. T. de Luther avec des variations dialectiques.
+          <lb/>R. 100.988. Prov. : Bibliothèque du prof. Edouard Reuss, Strasbourg,
+          <lb/>1891, avec son autographe, « Basel, 1865, 3fr. »
+          <lb/>2e ex. R. 100.676. Prov. : Bibl. Prof. Ed. Reuss, Strasborug 28/IV,
+          <lb/>1891. Incomplet. ff. 50, 51 et titre de la lettre aux Romains manquent.
+          <lb/>Schmidt, II, No 69.
+          <lb/>Londres, British Museum C. 51. b. 11; Ritter, Catal. BM Strasbourg
+          <lb/>N° 2064.
+          <lb/>2308
+          <lb/>TESTAMENTUM NOVUM (en allemand)
+          <lb/>Strasbourg, J. Knobloch, 1524
+          <lb/>DAS neuw Testament recht ! grüntlich teutscht. Mit
+          <lb/>schönen vorreden,vnd der schweresten orteren! kurtz,
+          <lb/>aber gut, auszlegung.
+          <lb/>Und Register, wo man die Epistlen vnd Euangelien! des
+          <lb/>gantzen jars in disemTestament finden soll.
+          <lb/>Darzu der auszlendigenwortter auff vnser teutsch
+          <lb/>anzeygung.
+          <lb/>Getruckt zu Straszburg durchJohan Knoblouch. Im
+          <lb/>jar M. D. xxiiij.
+          <lb/>In-fol., car. goth., 24 ff. non ch. à 2 col., CXCVI ff. ch., titre courant;
+          <lb/>réclames, notes marg., grandes init. à fig., init. ornées et init. goth., titre
+          <lb/>rouge et noir, encadré. L’encadrement est composé des diverses scènes
+          <lb/>de la conversion du serviteur de la reine Candace par l’apôtre Philippe,
+          <lb/>Actes des apôtres 8, 26 et suiv. Le serviteur est habillé en gentilhomme du
+          <lb/>temps de Maximilien Ier.
+          <lb/>42 petites grav., se rapportant au texte, plusieurs sont répétées.
+          <lb/>Traduction du N. T. de Luther.
+          <lb/>Au verso du titre : Vorred...
+          <lb/>Fol. a3a-e4a (Table).
+          <lb/>R. 10.265 (1). Provenance inconnue.
+          <lb/>Schmidt VII, No 287 ; Londres, British Museum 3035, C. 13.
+          <lb/>2307
+          <lb/>TESTAMENTUM NOVUM (en allemand)
+          <lb/>Strasbourg, Jean Knobloch, 1525
+          <lb/>Das neüw! Testament Recht gründtlich teutscht.
+          <lb/>Mit schönen vorreden, vnd der schweresten örteren kurtz,
+          <lb/>aber gut, auszlegung.Und Register, wo man die Epistelen
+          <lb/>vnd Euangelien des gantzen jars in disem Testa-ment
+          <lb/>finden soll.Der zu der vszlendigenwörter auff vnser
+          <lb/>teutsch  anzeygung.
+          <lb/>Getruckt zu Straszburg durch! Johan Knoblouch.! Jm
+          <lb/>Jar. M. D. XXV.
+          <lb/>In-fol., car. goth., 24 ff. non ch., CXCV ff. ch., 2 ff. blancs, titre courant,
+          <lb/>réclames, manchettes, init. à fig. et init. ornées, titre rouge et noir,
+          <lb/>encadré comme dans l’édition de 1524; de même, les grav.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

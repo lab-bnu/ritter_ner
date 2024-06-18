@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:05.421905+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002151.tif
+IMAGE WIDTH: 2498
+IMAGE HEIGHT: 3976
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>ENCHIRIDION : geistlicher gesenge, so man yetzt (Gott zu
+          <lb/>lob) yn der kirchen syngt. Getzogen ausz der heyligen
+          <lb/>geschrifft... und mit etzlichen gesengen gemehrt, gebessert
+          <lb/>und mit fleysz Corrigyert mit einer Vorrede Docto.
+          <lb/>Martini Lutheri. Wittenberg M. D.XXV. — (Strasbourg
+          <lb/>1525), in-80.
+          <lb/>D’après Wackernagel 174 ce n’est pas une impression de
+          <lb/>Wittenberg, mais de Strasbourg.
+          <lb/>1543
+          <lb/>ENCHIRIDION: oder eyn Handbüchlein, eynem yeglichen
+          <lb/>Christen fast nutzlich bey sich zu haben... Der ander
+          <lb/>theyl. Straszburger Kirchengesang. Das vatter unser,
+          <lb/>der glaub... Das dritt theyl. Straszburger kirchenampt...
+          <lb/>— (Strasbourg, Wolfgang Köpfel 1525), in-80.
+          <lb/>Vogeleis p. 214.
+          <lb/>1544
+          <lb/>ENTDECKUNG : Gründtliche. Entdeckung der Kron
+          <lb/>Franckreich gegen jren Inwonern, und besonders den
+          <lb/>Parisern, aller der Anreitzungen und Ursachen, auch
+          <lb/>Unheils verderben und... untergangs, so alle Frantzosen,
+          <lb/>zuvörderst aber die Pariser, bey dieser jrer Rebellion..
+          <lb/>wider den König... allbereit erlebt und forter wo sie sich
+          <lb/>nicht bekehren werden, unzweiffelig zugewarten haben...
+          <lb/>aus dem Frantzösischen ubergesetzt. Erstlich gedruckt
+          <lb/>zu Strassburg (Bernard Jobin) anno 1590, in-4°.
+          <lb/>Rosenthal (Munich), Catal. 89 (1929), n° 113: « Aufforderung
+          <lb/>an die Pariser sich nicht den Spaniern, sondern Heinrich IV
+          <lb/>anzuschliessen ». Vilmar, Fischart-Studien p. 38.
+          <lb/>1545
+          <lb/>EOBANUS Hessus Helius : Hoc in libello haec continentur.
+          <lb/>Helii Eobani Hessi, ad Huldericum Huttenum, ut
+          <lb/>Christianae Veritatis caussam &amp;amp; Lutheri iniuriam, armis
+          <lb/>contra Romanistas prosequatur, Exhortatorium. Hulde¬
+          <lb/>richi Hutteni ad Helium Eobanum Hessum pro eadem
+          <lb/>responsorium. Elegiaco carmine... — (Strasbourg,
+          <lb/>Jean Schott, en été 1521), in-4°.
+          <lb/>Böcking XXXIX, 1; Benzing, Hutten n° 178: B U Göttingen,
+          <lb/>Bibl. Centr. Zurich.
+          <lb/>1546
+          <lb/>149
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

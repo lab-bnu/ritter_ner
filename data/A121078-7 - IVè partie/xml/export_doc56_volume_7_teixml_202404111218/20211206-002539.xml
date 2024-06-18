@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:14.757278+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002539.tif
+IMAGE WIDTH: 2502
+IMAGE HEIGHT: 3960
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>ZEITUNG : Warhafftige neüwe zeitung, eines wunderbarlichen
+          <lb/>gesichts, gesehen durch einen Burger zu Schonauw,
+          <lb/>Paulus Runge genant. Anno M.D.LVII. — Strasbourg,
+          <lb/>Jacques Frölich 1557, placard in-fol. (Vision de Runge,
+          <lb/>l’exhortant à prêcher aux hommes la pénitence) (Une
+          <lb/>variante la même année, avec la seule souscription:
+          <lb/>Getruckt zu Strassburg).
+          <lb/>Weller, Zeitungen, n° 221; Zurich, Bibl. Centrale II, 4/1.
+          <lb/>3587
+          <lb/>ZEITUNG : Neue Zeitung von der Kirchen im eussern Moren¬
+          <lb/>landt. — Strasbourg, Th. Berger 1561.
+          <lb/>B M Colmar.
+          <lb/>3588
+          <lb/>ZEITUNG : Ein dritt New Zeitung vom XXI, tag Augusti
+          <lb/>auss Wien, wie Jula wiederumb von den Türcken hefftig
+          <lb/>belegert und beschossen ist worden. Auch wie der
+          <lb/>Türckisch Keyser drey seiner Obersten hat jamerlich
+          <lb/>tödten lassen, darumb das sie von Jula und Vesperia
+          <lb/>abzogen seind. Und wie er mit den Christen, Mann,
+          <lb/>Weib und Kind also unbermherzig umbgeht und hinweg
+          <lb/>fürt. — Strasbourg, Pierre Hug (1566), in-4° (2 éd. de
+          <lb/>Hans Zimmermann à Augsbourg avec la date du
+          <lb/>21 août 1566).
+          <lb/>Weller, Zeitungen, n° 305. Bibl. Centrale Zurich.
+          <lb/>3589
+          <lb/>ZEITUNG : Die vierdt New Zeittung, Welcher gestalt die
+          <lb/>Römisch Key. Maj mit... Ertzhertzog Ferdinanden zu
+          <lb/>Osterreich... den zwölfften Augusti ausz Wien wieder
+          <lb/>den Türckischen Feind ausgezogen und Was sich bis
+          <lb/>auff den XXI Augusti zugetragen hat. — Strasbourg,
+          <lb/>Thiébaud Berger 1566, in-4°.
+          <lb/>3590
+          <lb/>ZEITUNG : Die sibend new Zeittung aus der Kay. Mayest.
+          <lb/>Feldleger in Ungarn, jetz bei Gamorra den 4 September
+          <lb/>1566. — Strasbourg, Pierre Hug 1566, in-40.
+          <lb/>Weller, Zeitungen, n° 313. Bibl. Centrale Zurich.
+          <lb/>3591
+          <lb/>537
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

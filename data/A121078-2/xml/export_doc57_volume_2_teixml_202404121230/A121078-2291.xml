@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:35.222078+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2291.tif
+IMAGE WIDTH: 2292
+IMAGE HEIGHT: 3814
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>CAPITO Wolfgang Fabricius
+          <lb/>[(Strasbourg. W. Köpfel ?), 1524.
+          <lb/>Der varnunq (der dientex
+          <lb/>bes morts /onò der Druber sũ
+          <lb/>Strafburg,An oic Daüoer
+          <lb/>von t anden pnò Gtet¬
+          <lb/>ten gemayner ÆEyò
+          <lb/>gnoschaffe.
+          <lb/>M
+          <lb/>287
+          <lb/>Midet ote Gotelestertqe
+          <lb/>Disputation brûber Con¬
+          <lb/>raots Mugustiner Oi¬
+          <lb/>oens Piouincial.
+          <lb/>HH. D. rrtitp
+          <lb/>Je ne me souviens pas avoir rencontré cet encadrement ni chez
+          <lb/>Köpfel ni chez un autre imprimeur alsacien. Voir ci-dessus.
+          <lb/>In-4°, car. goth., 16 ff. ch., sign. A- D, fol. Diïj par erreur
+          <lb/>Ciij., initiale ornée G, titre encadré. Schottenloher, Ph. Ulhart p. 12 f
+          <lb/>l’attribue à Ulhart avec la remarque que Gœtze N° 111 l’attribue faus¬
+          <lb/>sement à Köpfel.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

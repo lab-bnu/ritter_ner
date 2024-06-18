@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:36.543324+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu012.tif
+IMAGE WIDTH: 2392
+IMAGE HEIGHT: 3844
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>ADOLPHE RUSCH (14..—1489)
+          <lb/>né à Ingwiller en Alsace, Rusch travailla d’abord comme
+          <lb/>ouvrier imprimeur chez Mentelin dont il devint l’associé
+          <lb/>après avoir épousé sa fille Salomé comme on vient de le
+          <lb/>voir. Après la mort de Mentelin, il hérita son officine dans
+          <lb/>la maison «Zum Thiergarten». Vu l’insuffisance de ses
+          <lb/>presses, il donna de l’ouvrage aux petits imprimeurs de la
+          <lb/>ville et exploita ainsi une grosse affaire comme imprimeur
+          <lb/>et libraire en même temps. Il exécutait aussi des comman¬
+          <lb/>des pour Antoine Koberger à Nuremberg et Jean Amer¬
+          <lb/>bach à Bâle. Il suivit avec intérêt les tendances humanistes
+          <lb/>et fut très lié avec Rodolphe Agricola ainsi qu’avec le jeune
+          <lb/>chanoine Pierre Schott. Il demeurait dans la maison «Zum
+          <lb/>Bild», située dans la Grand’rue*) et s’était fait construire
+          <lb/>une villa «la Ruschenburg» à Ingwiller, où il avait coutume
+          <lb/>de passer la belle saison. Sa santé débile le força au prin¬
+          <lb/>temps de 1489 à faire une station balnéaire à Baden-Baden;
+          <lb/>pendant son absence il chargea son beau-frère, l’imprimeur
+          <lb/>Martin Schott, de gérer ses affaires; mais il revint presque
+          <lb/>mourant de Baden-Baden à la suite d’une inflammation et
+          <lb/>décéda peu de temps après le 26 mai 1489.
+          <lb/>Comme il avait l’habitude de ne pas mentionner son
+          <lb/>nom sur les livres sortis de ses presses, il resta longtemps
+          <lb/>presque oublié; car il était très difficile de reconnaître avec
+          <lb/>certitude les ouvrages qui provenaient de son officine. Par
+          <lb/>une heureuse trouvaille dans les Archives, Dziatzko**) a
+          <lb/>pu prouver que les nombreux livres imprimés avec un R
+          <lb/>particulier à cette presse qu’on connaissait jusqu’alors sous
+          <lb/>la désignation de R bizarre, provenaient des presses de
+          <lb/>Rusch, de sorte que celui-ci est aujourd’hui classé parmi
+          <lb/>les imprimeurs alsaciens les plus actifs du 15e siècle.
+          <lb/>*) Schorbach: Mentelin p. 118: Die Angabe bei Ch. Schmidt
+          <lb/>(Strassburger Gassen- und Häusernamen 2. A. 4888 p. 131), dass
+          <lb/>er schon 1451 das Haus zum Bild in der Oberstrasse besessen habe,
+          <lb/>ist irrig, denn nicht einmal im Jahre 1466 war er dessen Eigen¬
+          <lb/>tümer, wie aus dem alten Strassburger Almendbuch für dieses
+          <lb/>Jahr hervorgeht.»
+          <lb/>**) Sammlung bibliothekwissenschaftlicher Arbeiten. Halle a.
+          <lb/>S. 1904. Heft 17, p. 13-24.
+          <lb/>XII
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:01.711549+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002006.tif
+IMAGE WIDTH: 2514
+IMAGE HEIGHT: 3974
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>ACTA Academiae Lovaniensis : (Idem). — (Strasbourg,
+          <lb/>Jean Prüss 1520l.
+          <lb/>GKI, 7403: B N Berlin, Breslau, B U Halle.
+          <lb/>739a
+          <lb/>ACTA und Handlungen der Kais, naher Straszburg verord¬
+          <lb/>neter Commissarien, belangend der Evang. Capitularn
+          <lb/>auss und abschaffung, in zwey Theyl getheylet. —
+          <lb/>(Strasbourg ?1 1586, in-40.
+          <lb/>Ritter B M Strasbourg nos 352 et 353; GKI, 7756 (sans lieu):
+          <lb/>BN Berlin, Vienne, B U Breslau etc.
+          <lb/>740
+          <lb/>ACTEN und gerichtshandlung zwischen Graven Philipssen
+          <lb/>von Strazsburg dem Cleger an eynem, und Meyster und
+          <lb/>Rath der statt Straszburg Antwortern am anderen teyl.
+          <lb/>Den zug gen Willstetten und Felix Ichers gefengnus,
+          <lb/>belangend &amp;amp; c. Am Key. Cammergericht geübt und
+          <lb/>ergangenn. — Datum Straszburg den 23 Maii 1539, in-fol.
+          <lb/>Ritter: B M Strasbourg n° 354.
+          <lb/>741
+          <lb/>ACTES de la conférence tenue à Paris en 1566 entre deux
+          <lb/>docteurs de Sorbonne et deux ministres de Calvin. —
+          <lb/>(Strasbourg] 1568, in-80.
+          <lb/>Bibl. Mun. de Montauban 7482. (Ritter, Rép. n° 3 ; éd.
+          <lb/>Strasbourg, P. Estiart 1566l.
+          <lb/>742
+          <lb/>ADELPHUS, Johannes. Voir: MUELICH, Johannes Adelphus.
+          <lb/>[Ritter, Rép. nos 4-11.]
+          <lb/>AEGIDIUS, Petrus : Lamentatio in obitum Caesaris Maximi¬
+          <lb/>liani. — (Strasbourg, Jean Schott 1519), in-4°.
+          <lb/>GKII, 317; Walter n° 540/541; Schmidt II, n° 46. — B M
+          <lb/>Colmar et Sélestat.
+          <lb/>743
+          <lb/>AEGIDIUS Romanus. Voir: COLUMNA, Aegidius.
+          <lb/>AEGINETA, Paulus. Voir: PAULUS Aegineta.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

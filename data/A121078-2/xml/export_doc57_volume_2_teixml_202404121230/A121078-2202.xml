@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:32.478911+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2202.tif
+IMAGE WIDTH: 2282
+IMAGE HEIGHT: 3826
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>198
+          <lb/>Au v° du dernier f. non ch.: Io. SCHOTTVS Librarius Lec¬
+          <lb/>tori S.
+          <lb/>Brunfels mourut vers la fin de 1534 sans avoir terminé le 3ème
+          <lb/>tome; à la demande de Schott, il fut completé par le médecin Michel
+          <lb/>Herr, d’après un catalogue de plantes que Brunfels avait laissé.
+          <lb/>R10.506.(3) Prov, inconnue.
+          <lb/>2. Ex. R 10.505.(3) Prov. : Faculté de médecine de Strasbourg.
+          <lb/>3. Ex. R 10.410.(8) Prov. : Bibl. Hermann, Strasbourg.
+          <lb/>4. Ex. R 10.411.(3) Prov.: Bibl. du Gymnase de Heilbronn, 1878.
+          <lb/>Rel, ane.
+          <lb/>L’ouvrage complet forme 3 volumes (R10.504(1), R10.504(2) et
+          <lb/>10.506(8)); ils contiennent ensemble 229 gravures de plantes médicinales,
+          <lb/>culinaires et autres, dessinées d’après nature avec une rare exactitude
+          <lb/>par Jean Weydite, dont Sapidus nous révèle le nom par ces vers:
+          <lb/>Nunc &amp;amp; Ioannes pictor Guidictus ille! Clarus Appeleo non
+          <lb/>minus ingenio, Reddidit adfabras acri sie arte figuras,
+          <lb/>Ut non nemo Herbas dixerit esse meras.
+          <lb/>Schmidt II, N0 136. Roth, Nachgelassene Schriften Brunfels, No 2:
+          <lb/>BN Vienne. GPB: Berlin, Greifswald BU.
+          <lb/>Schreiber, Kräuterbücher, p. XXX b: Haben wir bisher von
+          <lb/>Strassburg ein recht wenig befriedigendes Bild erhalten, so werden
+          <lb/>wir dies nunmehr als den Ort kennen lernen, von dem ein vollstän¬
+          <lb/>diger Umschwung der botanischen Wissenschaft ausging. Zu derselben
+          <lb/>Zeit als Beck, Grüninger und Knoblouch ihrem Publikum noch Illus¬
+          <lb/>trationen boten, deren Alter zwischen 30 und 45 Jahren schwankte,
+          <lb/>erschien bei ihrem Kollegen Hans Schott das Kräuterbuch des Otto
+          <lb/>Brunnfels, das textlich und künstlerisch alle seine Vorgänger bei
+          <lb/>weitem überragte.... Brunnfels Werk erschien unter dem Titel
+          <lb/>,Herbarum vivae icones&amp;quot; zunächst in lateinischer Sprache und um¬
+          <lb/>fasste zwei dickleibige Bände, die wahrscheinlich erst 1532 in die
+          <lb/>Offentlichkeit gelangt sind, trotzdem die Vorrede zum ersten von 1530,
+          <lb/>diejenige zum zweiten Band von 1531 datiert. Beide Teile zusammen
+          <lb/>enthalten 100 ganzseitige (etwa 250 mm hohe) und 75 kleinere Ab¬
+          <lb/>bildungen, die, wie sich aus der Vorrede ergibt, von Hans Weyditz
+          <lb/>herrühren. Sie sind recht gut gezeichnet und sehr sauber geschnitten,
+          <lb/>aber ohne jegliche Schraffierung und geben nur die Umrisse wieder...
+          <lb/>diese genügten wohl dem Fachmann; aber der Laie konnte davon
+          <lb/>nicht befriedigt sein; für ihn bedurften die Bilder unbedingt der
+          <lb/>Illuminierung, und diese erhöhte natürlich den Preis ganz wesent¬
+          <lb/>lich. Dementsprechend konnte der Verleger wohl einen von dem
+          <lb/>inzwischen verstorbenen Verfasser hinterlassenen Ergänzungsband,
+          <lb/>welcher mit 65 blattgrossen und 40 kleineren Bildern geschmückt
+          <lb/>ist, 1537 in lateinischer Sprache herausgeben, auch die beiden ersten
+          <lb/>lateinischen Bände 1539 beziehungsweise 1540 nochmals auflegen,
+          <lb/>dagegen verkaufte sich die deutsche Ausgabe so schlecht, dass der
+          <lb/>Ergänzungsband überhaupt nicht in deutscher Ubersetzung erschie¬
+          <lb/>nen ist.
+          <lb/>302
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

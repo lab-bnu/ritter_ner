@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:14.557385+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002526.tif
+IMAGE WIDTH: 2490
+IMAGE HEIGHT: 3966
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>WIDMANN, Joh. : Regimen... wie man sich in Pestillentzischem
+          <lb/>lufft halten sol. — (Strasbourg (Mathias Schürer) 1519),
+          <lb/>in-40.
+          <lb/>Schmidt VIII, n° 254 : B M Colmar.
+          <lb/>3517
+          <lb/>WIDMANN, Johannes : Rechnung uff allen Kauffmann¬
+          <lb/>schafften. — (Haguenau, Thomas Anshelm 1519),
+          <lb/>in-80.
+          <lb/>Baer (Francfort-s.-M.), Catal, 500 (1907), n° 1144; 100 M;
+          <lb/>Burg, n° 449.
+          <lb/>3518
+          <lb/>WIGALOIS : Ein gar schöne liepliche und kurtzweilige History
+          <lb/>von dem edlen herren Wigalois vom Rade. Ein Ritter
+          <lb/>von der Tafelrunde... — (Strasbourg, Jean Knobloch
+          <lb/>1519), in-4°.
+          <lb/>Kristeller, n° 412; Schmidt VII, n° 191; Heitz-Ritter, n° 727 :
+          <lb/>Berne, Darmstadt, Vienne, Wolfenbüttel.
+          <lb/>3519
+          <lb/>WIGAND, Johannes : Catechisticae Explicationes, breviter
+          <lb/>et methodice recitatae in Enarratione Catechismi
+          <lb/>Lutheri, in Academia Jenensi... Accessit explicatio
+          <lb/>Psalmi CXLV &amp;amp; CXLVII. Item rerum et verborum...
+          <lb/>Index. — Strasbourg, Bernard Jobin 1576, in-8°.
+          <lb/>Bibl. S. Guillaume, Strasbourg.
+          <lb/>3520
+          <lb/>WILLICHIUS, Jodocus : Erotematum Dialectices libri tres.
+          <lb/>(Marque typ. de Crato Mylius). — (Argentorati, apud
+          <lb/>Cratonem Mylium) Anno M.D.XL (mense Januario),
+          <lb/>(1540), in-8°. (Préface de Willichius à Melchior Winsius,
+          <lb/>datée de Francfort 15371.
+          <lb/>Bibl. S. Guillaume, Strasbourg.
+          <lb/>3521
+          <lb/>WILLICHIUS, Jodocus : Commentaria in utramque ad Timo¬
+          <lb/>theum Pauli Epistolam. — Strasbourg, Crato Mylius
+          <lb/>1542, in-8°.
+          <lb/>Walter, n° 2410.
+          <lb/>3522
+          <lb/>524
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

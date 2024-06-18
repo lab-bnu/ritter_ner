@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:53.258008+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5116.tif
+IMAGE WIDTH: 2338
+IMAGE HEIGHT: 3852
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1424
+          <lb/>victoria. Voir : Baptista MANTUANUS, De Francisci Mar¬
+          <lb/>chionis Carmen.
+          <lb/>Strasbourg, M. Schürer, 1510
+          <lb/>SYLVIUS AENEAS. Voir : PIUS II.
+          <lb/>SYMMACHUS
+          <lb/>Strasbourg, J. Schott, 1510
+          <lb/>Symmachi Cons. Ro. Epistolae familiares. Item
+          <lb/>Laudini!! Equitis hierosolymitani in epistolas!! Turci magni
+          <lb/>traductio. (Suivent 4 hexamètres sur Symmaque.)
+          <lb/>A la fin : Argentoraci Ex officina Ioannis Schotti:!
+          <lb/>Impensis vero egregij I. V. Doctoris Georgii Maxilli (alias
+          <lb/>übelin episcopalis ! curiae Argentinensis Signatoris. III. idus!
+          <lb/>Augusti, anno a natali Christi. Il M. D. X.
+          <lb/>In-4°, car. rom., 56 ff. non ch., sign. a-h (46 ff.) pour Symmachus, et
+          <lb/>AB (10 ff.) pour Laudinus, titre courant.
+          <lb/>fol. A 1a : Laudini Bovitis !! hierosolymitani ad Franciscum Beltran!!
+          <lb/>dum Comitem in epistolas magni II Turci Praefa !! tio.
+          <lb/>R. 101.770. Prov. inconnue. Notes mss.
+          <lb/>Ritter, BM Strasbourg, n° 2043; Schmidt II, 15 : Jadis Bibl. de
+          <lb/>Strasbourg, Incun. No 4378 et BM Colmar; Brunet Vs, 612.
+          <lb/>Sur Symmachus voir : J. E. Dunlap, The earliest editions of the letters
+          <lb/>of Symmachus. Dans : Classical Philology 32 (1937, fasc. 4), p. 329-340.
+          <lb/>2263
+          <lb/>SYMMACHUS
+          <lb/>Strasbourg, J. Grüninger, 1510
+          <lb/>Symmachi Cons. RO. Epistolae Familiares.
+          <lb/>Lavdini Equitis Hierosolymitani in epistolas!! Turci
+          <lb/>Magni tradu-ctio.
+          <lb/>Marci Bruti!! Romani Epistolae. (4 vers lat.).
+          <lb/>A la fin : Argentoraci Ex Officina litteraria Io! annis
+          <lb/>Grueniger. Die. IX. OctobrisAnno virgineipartus
+          <lb/>M. D. X. Regnante Dn. Imperato !! re Maximiliano.
+          <lb/>P. F. Aug.
+          <lb/>In-4°, car. rom., 61 ff. non ch., sign. a-i, titre courant, init. d’attente.
+          <lb/>*R101.772. Prov. : Rosenthal, Munich, 22/IV, 1897; 24 M.
+          <lb/>2e ex. : R. 101.926. Prov. : Bibl. Baum, 1879, incomplet, ne contient
+          <lb/>que les lettres de Symmachus.
+          <lb/>Schmidt I. N° 117 : BM Colmar.
+          <lb/>2264
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

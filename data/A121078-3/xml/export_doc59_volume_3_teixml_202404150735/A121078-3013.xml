@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:04.967939+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3013.tif
+IMAGE WIDTH: 2364
+IMAGE HEIGHT: 3838
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>EMMEL Helfrich
+          <lb/>Strassburg, Th. Rihel, 1592
+          <lb/>NOMENCLATOR QVADRILINGVIS, LATINO GERMANICO¬
+          <lb/>GRECO GALLICVS, IN CLASSES IIII DISTINCTVS.Auctore
+          <lb/>M. Helfrico Emmelio Wombacensi, scholaeAlzenanae
+          <lb/>Rectore.
+          <lb/>Druckermarke des Theodosius Rihel (H d B, Tafel XXXI.
+          <lb/>Nr. 11).
+          <lb/>Darunter: Cum gratia &amp;amp; priuilegio Caesareo.! ARGEN¬
+          <lb/>TORATI.1 Excudebat Theodosius Rihelius, (Rückseite leer.)
+          <lb/>80, Griech., Got., Antiq., 2sp., 135 unn. Bll., Kopftitel, Kustoden,
+          <lb/>Zierinit. R; am Schlusse: Vign.
+          <lb/>Bl. A2a:.. IOHANNI GERNANDO, WET terano Hasso...
+          <lb/>Helfricus Emmelius Wombacensis ad Wetterim... — Alze¬
+          <lb/>nae, Cal. Septemb. Anno Christi 1592. (5 S.)
+          <lb/>Bl. A 5a: Rerum omnivm in nomenclatore ex- plica¬
+          <lb/>tarum Capita. (3 S.)
+          <lb/>R 100.88262), Prov.: H. Kerler, Ulm, 28/IV 1879.
+          <lb/>Stadt-B Strassburg O 2815b(). GK: UB Breslau.
+          <lb/>682
+          <lb/>457
+          <lb/>Strassburg, Th. Rihel, 1592
+          <lb/>EMMEL Helfrich
+          <lb/>SYLVA QVINQVELINGVIS) VOCABVLORVM ET! PHRASIVM
+          <lb/>GERMANICAE,( Latinae, Graecae, Hebraicae, Gallicae linguae,
+          <lb/>in v- sum studiosae iuuentutis, facili me- thodo disposita
+          <lb/>per M. Helfricum Emmelium Wombacensem, scho lae
+          <lb/>Alzenanae Rectorem.
+          <lb/>Druckermarke des Theodosius Rihel. (H d B, Tafel XXXI,
+          <lb/>Nr. 11.)
+          <lb/>Darunter: Cum gratia &amp;amp; priuilegio Caesareo.AGen¬
+          <lb/>TORATI! Excudebat Theodosius Rihelius. (Rückseite leer.)
+          <lb/>80, Griech., Got., Antiq, 2sp., 306 unn. Bll. Sign. A-Z, Aa-Ss,
+          <lb/>Kopftitel, Kustoden, Zierinit.
+          <lb/>Bl. A 2a: Widmung Emmel’s an Ludwig Culmann, da¬
+          <lb/>tiert: Alzenae, Calend. Septemb. 1592. (5 S. Antiq.)
+          <lb/>Bl. 44b: Vorrede des Verfassers an den Leser, 1592. (5 S. Kursiv.)
+          <lb/>R100.882(t). Prov.: H. Kerler, Ulm (Katal, 27, Nr. 273), 28/IV.
+          <lb/>1879, 9 M.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

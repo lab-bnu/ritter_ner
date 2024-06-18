@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:10.210064+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3271.tif
+IMAGE WIDTH: 2342
+IMAGE HEIGHT: 3858
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>GUARNA Andreas
+          <lb/>Strassburg, M. Schürer 1512
+          <lb/>GRAMMATICALE BELLVM. No- minis &amp;amp; Verbi Regum,
+          <lb/>de principalitate orationis inter se contendentum.
+          <lb/>Hieronymi Eonduli Cremonensis Exasticon! Ad Lec¬
+          <lb/>torem. (3 Dist.) Darunter: T. O. (— Tempus Observa.)
+          <lb/>Am Schluss: Argentorat. Ex aedibus Schu rerianis,
+          <lb/>Anno. M. D. XII. Cal. Septemb.
+          <lb/>40, Antig., 16 unn. Bll., Sign. A-D, Marg., Init.
+          <lb/>Auf der Rücks, des Titelbl.: PAVLO CESIO... ANDREAS GVAR¬
+          <lb/>NA SALERNITA- NVS. SAL. D....
+          <lb/>R100.971. Prov.: A. Cohn, Berlin 31. x. 1882; 4 M.
+          <lb/>Proctor II Sectio I Nr. 10.203: London Brit. Museum; Schmidt
+          <lb/>VIII Nr. 84: «Jadis Bibl. de Strasbourg. Incun. N° 622.2 GK: SB
+          <lb/>Berlin, UB Gôttingen.
+          <lb/>Siehe Andrea Guarnas Bellum grammaticale u. seine Nachahmungen
+          <lb/>hrsg. von Johannes Bolte. Berlin, A. Hofmann &amp;amp; Co., 1908, 8°, 307 S.
+          <lb/>[— Monumenta Germaniae Paedagogica. Bd. 43).
+          <lb/>1051
+          <lb/>713
+          <lb/>GUEVARA Antonio
+          <lb/>Strassburg, B. Jobin nach 1572
+          <lb/>Missiue, oder Sendbrieffe. Des Hochwürdigen, Hoch¬
+          <lb/>gelerten Herrn, Herrn, Anthonij von Gueuara, Bischoffen
+          <lb/>zû Mondoneto, an den Edlen, Gestrengen Herrn Moises
+          <lb/>Pusch von Valentz, Rit- tern etc. In welcher, wie vnnd
+          <lb/>was gestalt, sich die Ehepersonen, gegen einander ver¬
+          <lb/>halten sollen, der länge nach, tractiert vnd angezeigt würt,
+          <lb/>Nicht allein lustig vnnd kurtzweilig, sonder auch den
+          <lb/>Eheleuten,! vnd ledigsstands Personen, sehr nutzlich! vnnd
+          <lb/>dienstlich ẑ lesen. Auss Tusca-nischer jetzmals inn
+          <lb/>Teütsche Spraach verdolmet-schet vnd trans- ferie¬
+          <lb/>ret, Durch den Edlen vnd VestenJohann Beat Grass
+          <lb/>ge- nandt Vayen.
+          <lb/>Am Schluss: Datum Granata, den 4. tagMeyens.
+          <lb/>1524. (..) Zû Strassburg, Durch Bernhart Jobin Form¬
+          <lb/>schneider.
+          <lb/>80, Got., 38 unn. Bll., Sign. A-E, Kopft., Kust., 10 schöne Holeschn.
+          <lb/>von Tobias Stimmer, Titelumrahmuno (H e B Tafel XXXIX Nr. 11).
+          <lb/>RI01.189. Prov.: Trübner, Strassburg 9. VI. 1881; 15 M. Hand¬
+          <lb/>schriftl. Notiz auf einem eingeklebten Bl.: Die Holzschn. dieses hübschen
+          <lb/>Werkchens gehören dem Gevatter des Bernhard Jobin, Tobias Stimmer,
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

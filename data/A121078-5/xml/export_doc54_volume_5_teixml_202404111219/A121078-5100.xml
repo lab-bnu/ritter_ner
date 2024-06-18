@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:52.736641+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5100.tif
+IMAGE WIDTH: 2342
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1408
+          <lb/>8 Copulensem, &amp;amp;c. Eiusdem!! De educatione Principum,
+          <lb/>libellus! scriptus ad Illustrissimum Principem Gulielmum:
+          <lb/>Ducem Cliuensium &amp;amp;c.
+          <lb/>Marque typ. de Nic. Wyriot. (H. &amp;amp; B. Planche XLIII, No 4.)
+          <lb/>Argentorati Excudebat Nicolaus Wyriot, Anno
+          <lb/>M. D. LXXXI.
+          <lb/>In-4°, la première partie en car, rom., la seconde en ital., 18 ff. non
+          <lb/>ch., sign. A-D, titre courant, réclames, annot, marg., init, ornées S, E;
+          <lb/>à la fin, vignette.
+          <lb/>Au verso du titre : portrait de Jean Sturm, au-dessus: Ioannis Sturmii,
+          <lb/>¡] de literarum studijs annos iam 48 optimè me-rentis : &amp;amp; Argentinae,
+          <lb/>olim Scholae, nunc !! Academiae, Rectoris perpetui,!! vera effigies.!
+          <lb/>Anno aetatis LXVIII. Au bas dist. latin.
+          <lb/>R. 101.378. Prov. : Trübner, Strasbourg, 29/XII, 1894; 2 M. 50.
+          <lb/>Ritter, BM Strasbourg, n° 2022.
+          <lb/>2234
+          <lb/>STURM Johannes
+          <lb/>Strasbourg, N. Wyriot, 1581
+          <lb/>Ioannis Sturmij! Linguae La-tinae resoluendae ratio.
+          <lb/>Tradita in celebri Reipublicae Argentoratensis Aca
+          <lb/>demia: Anno septuagesi- mo tertio.! EtNunc primùm
+          <lb/>in lucem edita : studio IoannisLobarti Borussi : Iuris
+          <lb/>utrius-que Licenciati.
+          <lb/>Marque typ. de N. Wyriot. (H. &amp;amp; B. Planche XLIII (No 3).
+          <lb/>Argentorati.(Excudebat Nicolaus Wyriot,) M. D. LXXXI.
+          <lb/>(Verso blanc.)
+          <lb/>In-8°, car. ital., 8 ff. non ch., 156 pp. ch., 10 ff. non ch. dont le dernier
+          <lb/>blanc, titre courant, réclames, notes marg., init. ornées.
+          <lb/>fol. 8b non ch. : Grav. sur bois, portrait de Jean Sturm, au-dessus,
+          <lb/>Ioannis Sturmii, De!! literarum studijs anno iam XLVIII, opti- (I mè
+          <lb/>merentis: &amp;amp; Argentinae, olim Scholae, nunc Academiae, Rectoris per¬
+          <lb/>petui, vera effigies. ! Anno aetatis LXVIII.
+          <lb/>fol. 2a non ch. :... Ioanni et Nico- [l lao, Fratribus Germanis, Comitib.
+          <lb/>ab 1! Ostrorog. in Krilow, Grodzis- Il ko &amp;amp; Miedzichod, heredibus... —
+          <lb/>Argentorati. 13 Februarij. Anno 1581. 11 Ioannes Lobartus !! Borussus
+          <lb/>I. V. L. (Préface de 12 pp. et demie).
+          <lb/>R. 101.901. Prov. : Bibl. Ch. Schmidt, avec son ex-libris et des notes
+          <lb/>mss. de sa main : « Inséré dans le t. I des Institut. liter, publ. à Thorn,
+          <lb/>1586, 4°. Réimprimé en 1704, à Iéna, in-8°, par les soins de I. Ioch ».
+          <lb/>A la suite se trouvent : « Hier. Wolf, Questiones... librorum Ciceronis
+          <lb/>de officiis praecepta complectentes. Bâle, 1579. Idem. Carmina de chris¬
+          <lb/>tianae classis victoria contra Turcas. 1572».
+          <lb/>Bibl. St. Guillaume, Strasbourg.
+          <lb/>2235
+          <lb/>STURM Johannes
+          <lb/>Strasbourg, Josias Rihel, 1584
+          <lb/>Poeticum Primum volu- men.Cum lemmatibus
+          <lb/>Ioannis Sturmiji!! Sextae Curiae scholarum!! Argentinensium.
+          <lb/>Marque typ. de J. Rihel. (H. &amp;amp; B. Planche XXXI, N° 9;
+          <lb/>Silvestre, N° 599.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

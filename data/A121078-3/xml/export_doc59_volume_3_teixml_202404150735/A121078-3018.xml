@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:05.036282+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3018.tif
+IMAGE WIDTH: 2360
+IMAGE HEIGHT: 3840
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>462
+          <lb/>40. Got., 7 unn. Bll., Sign. a-b, Zierinit. Hu. Z.
+          <lb/>R 101.552. Prov.: L. Rosenthal, München, 17/V. 1890;8M.
+          <lb/>Am Schluss: Handschr. Eintragung: Strassburg, Balthasar Beck,
+          <lb/>c. 1524.
+          <lb/>GK: SB Berlin.
+          <lb/>690
+          <lb/>EOBANUS HESSUS Helius
+          <lb/>Hagenau, J. Setzer, 1523
+          <lb/>ECCLESIAE AFFLICTAE EPI! STOLA AD LVTHERVM! Eo¬
+          <lb/>bano Hesso uiro pio ac docto autore.
+          <lb/>Haganoae, ex Neacademia Seceriana.
+          <lb/>Am Schluss: Haganoae, ex aedibus Iohannis Secerii
+          <lb/>Lauchensis. An no M. D. XXIII.
+          <lb/>4°, Antiq., 9 unn. Bll., Sign. A-B, Zierleisten auf der Rückseite
+          <lb/>des Titelbl. u. auf Bl. Ae, Kopftitel, Zierinit. P; Titeleinfassung: oben
+          <lb/>2vvei Greife, jeder mit einem Füllhorn; links u. rechts Säulen mit Orna¬
+          <lb/>menten; unten 5 Knaben zerren u. stossen einen 6., welcher auf einer
+          <lb/>Platte sitst; einer der fünf Knaben bläst die Trompete.
+          <lb/>Auf der Rückseite des Titelbl.: D. Nicolao Gerbelio,! Iohan¬
+          <lb/>nes Secerius.... — Iohanni Lonicero salutem dicito. Haga¬
+          <lb/>noae. (14 Zeilen.)
+          <lb/>R100.977. Prov.: Sammlung Böcking mit seinem Exlibris.
+          <lb/>Oxford, Bibl. Bodleiana. GK: UB Königsberg.
+          <lb/>Bibliographie des Eobanus: Schottenloher, Nr. 5464-5487.
+          <lb/>691
+          <lb/>EOBANUS HESSUS Helius
+          <lb/>Hagenau, J. Setzer, 1532
+          <lb/>HELII EOBANI HESSI Heroidum Libri! Tres.! Nuper
+          <lb/>ab Authore recogniti, ab aeditionis prioris iniuria uin¬
+          <lb/>dicati.
+          <lb/>Haganoae, ex Officina Seceriana. Anno M. D. XXXII.
+          <lb/>(Rückseite leer.)
+          <lb/>Auf der Rückseite des letzten Bl.: Haganoae ex Officina Se¬
+          <lb/>ceriana Anno M. D. XXXII.
+          <lb/>Darunter: Druckermarke Setzers. (H d B, Tafel LXX, Nr. 7;
+          <lb/>Silvestre Nr. 683.)
+          <lb/>80, Kursiv, 82 unn. Bll., Sign. A-L, Kopftitel, Kustoden, Zier¬
+          <lb/>init., Titeleinfassung (H d- B, Tafel LXIX, Nr. 2.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

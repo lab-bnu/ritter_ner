@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:53.962831+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078382.tif
+IMAGE WIDTH: 2358
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1268
+          <lb/>ubelin) episcopalis cu riae Argentinensis Signatoris. XV.
+          <lb/>kalendas! Decembris A natali Christiano.! M. D. X. (Verso
+          <lb/>blanc.)
+          <lb/>In-4°, car. goth., 136 ff. non ch., sign. A-I, a-r, titre courant,
+          <lb/>init. d’attente, titre rouge et noir, encadré. (Voir n° 6 et 9.)
+          <lb/>Au verso du titre:... Vuilhelmo Sesster curiarum eccle¬
+          <lb/>siasticarum Argen. advocato: Georgius ubelin... — Ar¬
+          <lb/>gentoraci.. kalendas Decembris Anno a natali chri¬
+          <lb/>stiano M. D. X.
+          <lb/>Fol. a— fol. 1 4b : Summa Hermanni, dédié à Job Vener.
+          <lb/>Fol. m-r6: In arborem iudiciorum... Joannis de grassis.
+          <lb/>*R102.211. Prov. : Don de Fidelis Butsch, Augsbourg 1871.
+          <lb/>Schmidt II n° 17: Bibl. du Consistoire, Colmar.
+          <lb/>1979
+          <lb/>REGIMEN sanitatis
+          <lb/>Rpquupllafatig
+          <lb/>44
+          <lb/>Strasbourg, M. Hupfuff 1506
+          <lb/>Dis ist ein Regunent der gesuntbeyt durc
+          <lb/>ale Monabt des ganten Jates  vic
+          <lb/>man sib baltẽ sot mit essen vnò
+          <lb/>auch mit trinclen vñ saget
+          <lb/>auco von aberlossen.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

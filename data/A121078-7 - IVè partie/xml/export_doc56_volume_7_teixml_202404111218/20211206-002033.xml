@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:02.417726+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002033.tif
+IMAGE WIDTH: 2476
+IMAGE HEIGHT: 3966
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>AVENARIUS, Johannes : Precationes in singulos septima¬
+          <lb/>nae dies. Ex Joh. Avenarii Germanice publicatis precibus
+          <lb/>in Latinum conversae... — Strasbourg, Bernard Jobin
+          <lb/>1582, in-80.
+          <lb/>Ritter : B M Strasbourg no 451. (G K VIII, 10958 mentionne
+          <lb/>une édition de Jobin de 1579 et une de 1584 ; Ritter, Rép.
+          <lb/>n° 120 une de Jobin 15911.
+          <lb/>892
+          <lb/>AVENTINUS, Johannes. Voir: TURMAIR, Joh, n° 3376.
+          <lb/>AVIANUS, Flavius. Voir: AEsopus n° 746.
+          <lb/>AVICENNA : ... De universali ratione medendi per M. Jacob
+          <lb/>Mantinum medicum Hebreum latinitate, Denuo Germanis
+          <lb/>typis nuper multo emendatior in lucem edita. —
+          <lb/>Haguenau (Valentin Kobian) septembre 1532, in-12°.
+          <lb/>Burg, n° 78.
+          <lb/>893
+          <lb/>AVICENNA. Voir aussi : Buechlein (ein hüpsch) n° 1200.
+          <lb/>AVISAMENTA : Sequuntur aliqua Avisamenta ad quae Caesar
+          <lb/>&amp;amp; illustrissimi principes, praelati et civitates imperii
+          <lb/>attendere debent... — [Strasbourg vers 1505), in-4°.
+          <lb/>GKVIII, 11792: BN Berlin, Munich.
+          <lb/>894
+          <lb/>BABEL (Turm de Babel). Voir : THOMANUS, Johannes n° 3342.
+          <lb/>BACKER, Nicolaus : Privatarum disputationum, ex quatuor
+          <lb/>Institutionum libris... partes 2. P. 1. 2. — Strasbourg,
+          <lb/>J. Martin 1595, in-8°.
+          <lb/>GKIX, 4676: BN Berlin, Bamberg etc.
+          <lb/>895
+          <lb/>BADENFAHRT : Eyn newe Badenfart... — Strasbourg,
+          <lb/>Jacques Cammerlander [vers 1540), in-8°.
+          <lb/>GKIX, 6315: BN Berlin, Munich, etc.
+          <lb/>896
+          <lb/>BADER, Johannes : Ad illustrem Principem D. Ludovicum
+          <lb/>31
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:39.826679+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu164.tif
+IMAGE WIDTH: 2458
+IMAGE HEIGHT: 3844
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>N° 455: GW 9173 à Ebendorfer.
+          <lb/>N° 472:; Schorbach: Mentelin N° 17; Ein Exemplar in der U E
+          <lb/>Upsala trägt den Rubr.-Vermerk: Anno domini 1470 In
+          <lb/>lipszk... Neuerdings wurde im Buchhandel in dem Züri¬
+          <lb/>cher Katalog L’Art ancien 1929, Bulletin XVII N° 123 ein
+          <lb/>Ex. für 7.500 Fr. angeboten.
+          <lb/>N° 476: Schorbach: Mentelin N° 31; in diesem Jahr (1930) bietet
+          <lb/>Antiquar J. Halle, München nur einen Band (Pars III /IV)
+          <lb/>für 2000 M. aus.
+          <lb/>N° 478: Schorbach; Mentelin N° 37: Ganz vereinzelt kommt nur
+          <lb/>in wenigen Abdrucken das sog, bizarre R aus Rusch’s
+          <lb/>Type I vor (z. B. Colmar St. B., Solothurn Kant. B., Strass-
+          <lb/>burg St. u. U B)... Die Veröffentlichung der Enzyklopädie
+          <lb/>des Vincentius war offenbar ein gemeinsames Verlags¬
+          <lb/>unternehmen von Mentelin u. Rusch.
+          <lb/>N° 495: Schorbach: Mentelin N° 40; Pseudo-Wolfram von Eschen¬
+          <lb/>bach. Der jüngere Titurel. Ueberarbeitung der Titurel¬
+          <lb/>Lieder Wolframs... verfasst vor 1272 von einem unbekann¬
+          <lb/>ten gelehrten Dichter. (Nicht Albrecht von Scharfenberg.)
+          <lb/>134
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:05.478081+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002154.tif
+IMAGE WIDTH: 2498
+IMAGE HEIGHT: 3972
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Reuchlin ex urbe Roma allata, idque paucis ab hinc
+          <lb/>diebus. — (Haguenau, Thomas Anshelm, après mai
+          <lb/>1518), in-4°.
+          <lb/>Panzer VII 422.112; Neufforge p. 376, Benzing : Hutten,
+          <lb/>n° 61: B N Strasbourg (oublié au Rép.), B N Vienne, Steinfeld
+          <lb/>(Schlüchtern).
+          <lb/>1557a
+          <lb/>EPPENDORF, Henricus : Ad D. Erasmi Roterodami libellum,
+          <lb/>cui titulus, adversus Mendacium &amp;amp; Obtrectationem
+          <lb/>utilis admonitio, Justa Querela. — Haguenau, Jean Secer,
+          <lb/>février 1531, in-80.
+          <lb/>Walter, n° 1155; Burg, n° 166.
+          <lb/>1558
+          <lb/>EPPENDORF, Henricus. Voir aussi : AccOLTI, Benedetto
+          <lb/>n° 733; PLUTARCHUS, nos 2959, 2960, 2957; FLORUS,
+          <lb/>L. A. n° 1740; RITTER, Rép, nos 703-704.
+          <lb/>ERASMUS, Alberus. Voir: ALBERUS, Erasmus.
+          <lb/>ERASMUS, Roterodamus (Annotationes) : in Leges Pontificias
+          <lb/>et Caesareas. De Haereticis. Epistolae aliquot Gerardi
+          <lb/>Noviomagi. De re Evangelica &amp;amp; Haereticorum poenis.
+          <lb/>Ad Carolum Quintum. Ad Germanorum Principes, in
+          <lb/>conventu Spirens. Ad Carolum Gelriorum Ducem. Ad
+          <lb/>Philippum Hessorum Principem. — Strasbourg, Christian
+          <lb/>Egenolph 1529, in-8°.
+          <lb/>Van der Haeghen II p. 31 et suiv. : Berne, Bologne, Breslau,
+          <lb/>Copenhague, Dresde, Paris, etc.; Benzing: Egenolff, n° 9.
+          <lb/>1559
+          <lb/>ERASMUS : Antibarbara. — Strasbourg, Math. Schürer vers
+          <lb/>1518, in-80.
+          <lb/>Rest : Erasmus p. 47 : B U Fribourg-en-Br.
+          <lb/>1559a
+          <lb/>ERASMUS (Antibarbara) : (Idem). — Strasbourg, Jean
+          <lb/>Knobloch, juillet 1527, in-80.
+          <lb/>Van der Haeghen II, 79 : Erlangen, Madrid, Vesoul. (Ritter,
+          <lb/>Rép, n° 741 : Knobloch 1520, Knobloch 1521 (Rép. 750),
+          <lb/>Knobloch 1522 (Rép. 756)).
+          <lb/>1560
+          <lb/>152
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

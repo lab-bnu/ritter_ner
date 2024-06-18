@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:28.143250+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2062.tif
+IMAGE WIDTH: 2354
+IMAGE HEIGHT: 3822
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>58
+          <lb/>In-8°, car, grecs et rom. (texte grec et trad. lat.) sign. a-y. 22 ff.
+          <lb/>non ch. et 1 f. blanc avec la marque typ. de Rihel au verso. (HAB
+          <lb/>Planche XXIX, No 2; Silvestre, N° 742.), titre courant, réclames.
+          <lb/>R 101.248(3), Prov.: L. Rosenthal, Munich, 26. III. 1887; 4 M.
+          <lb/>102
+          <lb/>AESOPUS
+          <lb/>Strasbourg, Chr. Mylius, 1572.
+          <lb/>FABELLAE AESOPI PHRYGIS QUAE- DAM NOTIORES, Et
+          <lb/>in Scholis vsitate.
+          <lb/>Cum omnium fabularum Indice ad! finem libri adiecto.
+          <lb/>Marque typ. de Christ. Mylius (H &amp;amp; B, Planche XXVIII, No 2.)
+          <lb/>ARGENTINAE Excudebat Christianus Mylius.) M. D. LXXII.
+          <lb/>In-8°, car. ital., 333 pages ch., 19 pages non ch. (Index), titre
+          <lb/>courant, réclames, initiale ornée A, de nombreuses petites gravures,
+          <lb/>illustrant les fables.
+          <lb/>Au verso du titre: PETRI AEGIDH ANTWERpiani Ende¬
+          <lb/>casyllabon) ad Lectores, (21 vers.)
+          <lb/>p. 3-9: Aesopi Vita breuissime, ex Maximo Planude.
+          <lb/>R101.270. Prov.: Welter, Paris, 5. VI. 1895; 7 frs.
+          <lb/>Annotations mss.: au haut du titre: Di Niccolo Galice. — Au
+          <lb/>recto du f. blanc qui précède le titre: Sum Fiderici Galice Rhoeti...
+          <lb/>Tigurini Anno Domini: MDLXXVII.
+          <lb/>103
+          <lb/>ATHANASIUS
+          <lb/>Strasbourg, M. Schürer, 1508.
+          <lb/>SVBNOTATA HIC CONTINENTVR! Magni Athanasij in psal¬
+          <lb/>mos opusculum.! Enchiridion Epicteti stoici. Basilij oratio
+          <lb/>de inuidia. Plutarchus de differentia inter odium &amp;amp; inui¬
+          <lb/>diam. Tabula Cebetis Thebani.
+          <lb/>A la fin: Mathias Schürerius artium doctor! id libelli
+          <lb/>veluti primitias ex officina sua impressoria foeliciter
+          <lb/>emisit. Dieviij. Junij. Anno M. D. VIII.
+          <lb/>In-4°, car, rom., 43 ff. non ch., sign. A-J, titre courant, notes
+          <lb/>marginales, initiales d’attente.
+          <lb/>Au verso du titre: Thomas Vuolphius iunior D. doctor
+          <lb/>Jacobo Schmidhuser praesbytero digniss. amico non vulgari.
+          <lb/>S. P. D.... — Argentoraci cursim idibus Maij. M. D. VIII.
+          <lb/>(15 hignes.)
+          <lb/>Les Psaumes d’Athanase occupent 7 ff.
+          <lb/>Fol. J 3a. Beati Arnoldi Schletstatini Ad lectorem De
+          <lb/>vtilitate libriHendecasyl- labon. (30 vers.)
+          <lb/>R101283. Prov.: Bibl. Ch. Schmidt avec son exlibris.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

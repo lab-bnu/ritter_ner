@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:11.129319+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3313.tif
+IMAGE WIDTH: 2362
+IMAGE HEIGHT: 3854
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Rücks. leer.
+          <lb/>Am Schluss (nach Schmidt I Nr. 189, da das Explicit in meinem
+          <lb/>Ex. fehit): Getruckt zû Straszburg von Johannes grieni¬
+          <lb/>ger vff den abent der geburt Marie anno, 1522.
+          <lb/>40, Got., LXXXVIII Bll., Sign. A-Y, Kopft., Marg, Init.
+          <lb/>Bl. A2a: Die vorred... Herrn Leoni den. X. dem
+          <lb/>höchsten bischoff Heinricus! von gottes gnaden künig zû
+          <lb/>Engelland vnd Franck-reich, vnd ein her zû Hibernien,
+          <lb/>ewige seligkeit... (Vorrede, 3 S.)
+          <lb/>R 101.946. Prov.: K. J. Trübner, Strassburg 6. VI. 1883; 28M.
+          <lb/>Unvollst.; das Explicit fehlt,
+          <lb/>Oxford, Bibl. Bodleiana; Schmidt I Nr. 189: Stadtbibl. Luzern.
+          <lb/>1119
+          <lb/>HEINRICH VON HAGENAU
+          <lb/>Strassburg, R. Beck 1512
+          <lb/>De vita et moribus episcoporum aliorumque prelato¬
+          <lb/>rum &amp;amp; principum Li-bellus, etiam priuatis personis
+          <lb/>vtilis, lectuque iu-cundus. Ad Guilhelmum. III. Episco
+          <lb/>pum Argentinensem.
+          <lb/>Breue seu Epistola Gre gorij magni Papae de casti¬
+          <lb/>ganda ! incontinentia &amp;amp; impudi! citia sacerdotum.
+          <lb/>Am Schluss: Excussum Argentinae in edibus (vulgo)
+          <lb/>zum thier garten per Renatum Beck. Anno. M. D. XII.
+          <lb/>Deci! moquinto Kal’. Aprilis. (Druckerm. Becks. HEB Tafel XV
+          <lb/>Nr. 2.)
+          <lb/>4°, Antig., 16 unn. Bll., von denen das letzte leer, Sign. A-D,
+          <lb/>Kopft., Marg., Init. I. Auf der Rücks. des Titelbl.: seitengrosser
+          <lb/>Holeschn. Unter einem Bogen die gekrönte Jungfrau Maria mit dem
+          <lb/>Kinde Jesu auf den Armen, 2u Füssen ein leerer Schild, rechts ein
+          <lb/>Kaiser, unten kniend ein vor der Jungfrau ins Gebet versunkener Bi¬
+          <lb/>schof. (Siche Abb. S. 756.)
+          <lb/>Bl. a 2a: Excelso et pio Argentinensi Antistiti Guilhel¬
+          <lb/>mo. III. Ex Comitibus Hoensteinis Al- satiae Comiti pro¬
+          <lb/>uinciali; ac principi illustri Iacobus wymphelingius
+          <lb/>suorum sacerdotum minimus &amp;amp; peccator sese commen
+          <lb/>dat et subijeit... — Ex castello wickgermi. Pri die nonas
+          <lb/>octobris: Anni nostrae salutis vndecimi post. M. D.
+          <lb/>Bl. a 2b: ... domino Nycholao dei gratia Episcopo Spi¬
+          <lb/>ren si: Henricus de Hagenoia Theologus &amp;amp; Capellanus
+          <lb/>minimus... — Ex gymnasio Hei delbergensi.
+          <lb/>755
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

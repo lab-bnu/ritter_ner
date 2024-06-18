@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:26.883864+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2021.tif
+IMAGE WIDTH: 2382
+IMAGE HEIGHT: 3828
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>17
+          <lb/>ALBERTUS Magnus
+          <lb/>Strasbourg, M. Hupfuff, 1510.
+          <lb/>Albertus magnus De secretis mulierum et virorum.
+          <lb/>Gravure sur bois: ville et paysage; un maître debout, un élève
+          <lb/>assis, tenant un livre sur ses genoux.
+          <lb/>A la fin. Jmpressum Argentine per Mathiam Hüpfuff
+          <lb/>Anno Millesimo quingentesimo decimo.
+          <lb/>in-40, car, goth. et rom., 28 ff. non ch., sign. A-F, verso du dernier
+          <lb/>f. blanc.
+          <lb/>Fol. A 2a: Prologus in Albertum ma gnum... (1 page.)
+          <lb/>*1102291. Prov.: L. Rosenthal, Munich, 10/xII. 1898, 8 M. 25.
+          <lb/>Schmidt V, No 79: B M Colmar.
+          <lb/>GPB II, 10092. Vienne.
+          <lb/>28
+          <lb/>ALBERTUS Magnus
+          <lb/>Strasbourg, M. Schürer, 1515.
+          <lb/>Habes in hac pagina, Amice lector, AL-BERTI MAGNI
+          <lb/>Germani principis ! philosophi, De natura locorum Li brum
+          <lb/>mira eruditione, &amp;amp; singula ri fruge refertum, &amp;amp; iam pri¬
+          <lb/>mum summa diligentia reuisum, in! lucem aeditum, quem
+          <lb/>leges! diligentius, vel si Cosmo graphia vel Physica pro¬
+          <lb/>fecisse te vo lueris.
+          <lb/>A la fin: Argentorati. Ex aedibus Matthiae Schurerij,
+          <lb/>Mense Ianuario. M. D. XV. Ductu Leonhardi, &amp;amp; Lucae
+          <lb/>Alantse fratrum.
+          <lb/>Au-dessous: marque typ. des frères Alansee (H&amp;amp; B, Planche
+          <lb/>XIII, N° 1).
+          <lb/>in-4°, car, rom., 3 ff. non ch., XLIII ff. ch., verso du dernier f.
+          <lb/>blanc, titre courant, initiales ornées, titre encadré, composé de quatre
+          <lb/>pièces jusxtaposées, au milieu de la pièce supérieure plaquette vide,
+          <lb/>dans chaque coin un génie nu, tenant les extrémités d’une guirlande
+          <lb/>reliée à la plaquette; dans les pièces latérales et la pièce inférieure,
+          <lb/>arabesques. Encadrement propre à Schürer, manque chez I&amp;amp; B.
+          <lb/>Au verso du titre: REVERENDO PATRI DOMINO HIE ronymo
+          <lb/>Balbo... Georgius Tannstetter Collimitius, artium ! &amp;amp; Me¬
+          <lb/>dicinae Doctor... — Viennae Nono kalen. Decembris. Anno
+          <lb/>Christiano. M. D. XIII.
+          <lb/>Fol. A2a: Ad... D. Hiero! nymum Balbum, Ioachimi Va¬
+          <lb/>diani! Heluetij Epigramma. (8 distiques.)
+          <lb/>Au verso: SEBASTIANVS BVNDERLIVS GEOR gio Collimitio...
+          <lb/>(8 vers) et en outre 3 vers de Nic. Gerbellius.
+          <lb/>R 100412. Prov.: BN Munich, 15/VIII. 1873; 5 M.
+          <lb/>Au-dessous du titre, timbre: Bibliotheca Regia Monacensis.
+          <lb/>Schmidt, VIII, N° 150; BN Paris, Rés. R 833; GPB II, 10004:
+          <lb/>Berlin, Munich, Vienne, Breslau, Bonn, Göttingen.
+          <lb/>29
+          <lb/>R.2
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

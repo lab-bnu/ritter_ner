@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:03.676686+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002080.tif
+IMAGE WIDTH: 2514
+IMAGE HEIGHT: 3992
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>defenduntur criminibus, quae in illos Erasmi Roterodami
+          <lb/>Epistola ad Vulturium Neocomum, intendit... —
+          <lb/>(Strasbourg) (Pierre Schöffer et Jean Apronianus) 1530,
+          <lb/>in-80.
+          <lb/>Mentz, n° 26; Stupperich, n° 30: Wolfenbüttel et Bibl. Centrale
+          <lb/>Zurich.
+          <lb/>1158
+          <lb/>BUCER, Martin (Erhaltung) : Erhaltung christlicher Leer
+          <lb/>bitzhär zu Straszburg gepredigt. Jnnhaltend Grund,
+          <lb/>gewalt, und ansehen göttlicher Schrift und der Kirchen...
+          <lb/>(Strasbourg, Jean Schott? 1524), in-4°.
+          <lb/>Mentz, n° 7a; Stupperich, n° 7a.
+          <lb/>1159
+          <lb/>BUCER, Martin (Erklärung) : Kurtze schrifftliche für die
+          <lb/>kinder und angohnden. Der gemeinen artickeln unsers
+          <lb/>christlichen glaubens. Der zehen gebott. Des Vatter
+          <lb/>unsers... Durch die Prediger und Diener der gemein zu
+          <lb/>Straszburg. — (Strasbourg, Mathias Apiarius 1534),
+          <lb/>in-4°.
+          <lb/>Stupperich, no 48a; manque chez Mentz.
+          <lb/>1160
+          <lb/>BUCER, Martin (Gespräch): Etliche gesprech aus götlichem
+          <lb/>und geschribnen Rechten vom Nürnbergischen fride¬
+          <lb/>stand, der streitigen Religion halb, Anno &amp;amp;c. 32.
+          <lb/>Franckfortischen anstand, jüngst im Aprilen dises. 39.
+          <lb/>jars uffgericht. Künftiger handlung gon Nürnberg
+          <lb/>angesehen, den span der Religion hinzulegen... (Gedruckt
+          <lb/>zu Freiberg durch Johann Gutman), probablement
+          <lb/>(Strasbourg, Wendelin Rihel 1539), in-4°.
+          <lb/>Mentz, n° 44; Bibl. S. Guillaume et Bibl. Nationale, Strasbourg
+          <lb/>D 144.857; Stupperich, n° 64 : B N Augsbourg; B U Bâle,
+          <lb/>Heidelberg, etc.
+          <lb/>1161
+          <lb/>BUCER, Martin (Grund und Ursach) : Grund und ursach ausz
+          <lb/>gotlicher schrifft d’ neüwerungen, an dem nachtmal des
+          <lb/>herren, so man die Mess nennet, Tauff, Feyrtagen,
+          <lb/>78
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

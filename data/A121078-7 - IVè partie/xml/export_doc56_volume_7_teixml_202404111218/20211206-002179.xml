@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:06.319967+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002179.tif
+IMAGE WIDTH: 2508
+IMAGE HEIGHT: 3960
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Jahr M.D.LXXXVIII. — (Strasbourg, Bernard Jobin
+          <lb/>1588), in-40.
+          <lb/>Hauffen, Fischart-Studien dans Euphorion VI, p. 640.
+          <lb/>Breslau, Zurich.
+          <lb/>1699
+          <lb/>FISCHART, Joh. : Binenkorb des Heyl. Römischen Imen¬
+          <lb/>schwarms... — Christlingen (Strasbourg, Bernard Jobin)
+          <lb/>1579, in-80.
+          <lb/>Ritter: B M Strasbourg, n° 987. Hiersemann (Leipzig), Catal.
+          <lb/>n° 557, n° 169 [éd. Jobin 1580 : Ritter, Rép, n° 855). 1700
+          <lb/>[FISCHART, Joh.) (Idem). — (Strasbourg, Bernard Jobinl,
+          <lb/>in-8° (4e éd. ; la 2e est de 1581].
+          <lb/>Vilmar : Zur Literatur Fischarts. Frankfurt-a.-M. 1865,
+          <lb/>p. 3 (C’est une traduction du Biencorb de Philippe van Marnix
+          <lb/>avec quelques additions). (B N Strasbourg R 102.485 : Ritter,
+          <lb/>Rép. n° 856; éd. Jobin 1586: Ritter, Rép. n° 859].
+          <lb/>1701
+          <lb/>FISCHART, Joh. : Bienenkorb des Heiligen Römischen Imen¬
+          <lb/>schwarms... M. D. L. xxxviij. — [Strasbourg, Bernard
+          <lb/>Jobin) 1588 (7e éd.). Art Ancien, Catal. 46, n° 46:
+          <lb/>250 fr. suisses; Vilmar p. 7 : « Genau eingerichtet wie die
+          <lb/>erste Ausgabe von 1588 mit welcher sie Blatt für Blatt,
+          <lb/>auch in der fehlerhaften Bezifferung der Blätter
+          <lb/>übereinstimmt ». Voir Ritter: B M Strasbourg n° 990
+          <lb/>1588).
+          <lb/>Bibl. St. Guillaume, Strasbourg.
+          <lb/>1702
+          <lb/>FISCHART, Joh. (Bildnis) : Uraltes Bildnis eines fränkischen
+          <lb/>Krigsmans in seiner Rüstung. — (Strasbourg, Bern.
+          <lb/>Jobin s. d.], in-8°.
+          <lb/>Hauffen, Fischarts Werke I, p. LXVI et éd. 393/4.
+          <lb/>1702a
+          <lb/>(FISCHART, Johannes) (Bullinger) : Lateinisches Bildergedicht
+          <lb/>auf Heinrich Bullinger. — (Strasbourg, Bernard Jobin
+          <lb/>15711.
+          <lb/>1703
+          <lb/>Ritter, Hist. impr. p. 296.
+          <lb/>177
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

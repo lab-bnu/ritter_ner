@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:42.860003+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078013.tif
+IMAGE WIDTH: 2372
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Au verso du titre: EPISTOLA. PROBATISSIMO VIRO IOANNI
+          <lb/>Morino, primario Grammaticorum in colle gio Nauarrae,
+          <lb/>Bart. Latomus Regius professor S. D.... — Calen dis
+          <lb/>Iunii.Anno. M. D. XXXVIII. (4 pp.)
+          <lb/>R102.145 (1). Prov.: Hahn (Vente Fœringer), Munich 28/VII
+          <lb/>1880. Les 3 ff. de garde contiennent 14 strophes de 6 vers latins à
+          <lb/>l&amp;#x27;éloge de Cicéron.
+          <lb/>1336
+          <lb/>LATOMUS Bartholomaeus
+          <lb/>Strasbourg, W. Rihel 1544
+          <lb/>SCRIPTA DVO ADVERSARIA D. BARTHO LOMAEI LATOMI
+          <lb/>LL. DOCTORIS, L ET MARTINI BVCERI! THEOLOGI.
+          <lb/>Dispensatione Sacramenti Eucharistiae.
+          <lb/>Invocatione Divorum.
+          <lb/>Coelibatu Clericorum
+          <lb/>Communione.
+          <lb/>DE (Ecclesiae 8 Episcoporum (Authoritate.
+          <lb/>Potestate.
+          <lb/>Criminationibus arro¬
+          <lb/>gantiae, schismatis, &amp;amp; sacrilegii, quae sunt in¬
+          <lb/>tentatae Statibus, qui vocantur Protestantes.
+          <lb/>OMNIA EX AVTHORITATE NON ]. Scripturae tantum, sed
+          <lb/>etiam traditionum Apostolicarum, Canonum, &amp;amp; S.! Patrum.
+          <lb/>Respondetur etiam PIGHII, &amp;amp;&amp;#x27; ALPHON-SI, atque depu¬
+          <lb/>tatorum Coloniensi-um argumentis.
+          <lb/>ARGENTORATI IN AEDIBVS! WENDELINI RIHELH. M. D.
+          <lb/>XLIIII. (Verso blanc.)
+          <lb/>In-4°, car. rom., titre ★ 262 pp., titre courant, réclames, notes marg.,
+          <lb/>init. à fig. M, C,A.
+          <lb/>p. 1-6: PRAEFATIO MART. BVCERI! AD PIVM LECTOREM...
+          <lb/>Datum Argento! rati, xij. Martij. Anno! M. D. XLIIII. (6 pp.)
+          <lb/>R101.856. Prov.: BN Munich A/IV 1874; 12 M.
+          <lb/>BM Strasbourg; BN Paris D2 1729; Oxford, Bibl. Bodleiana;
+          <lb/>Walter: Sélestat n° 1683.
+          <lb/>1337
+          <lb/>897
+          <lb/>LATOMUS Bartholomaeus: Epistolae duae duorum amicorum,
+          <lb/>Bartolomaei Latomi &amp;amp; Joannis Sturmii, de dissidio peri¬
+          <lb/>culoque Germaniae. Argentorati 1567. Voir: STURM Johan¬
+          <lb/>nes: Epistolae duae.
+          <lb/>R.57
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

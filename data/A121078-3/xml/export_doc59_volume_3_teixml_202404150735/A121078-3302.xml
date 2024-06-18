@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:10.963730+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3302.tif
+IMAGE WIDTH: 2356
+IMAGE HEIGHT: 3854
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>744
+          <lb/>Zù Straszburg den XX.! Hornung, Jm iar M. D. XLIII. Ca¬
+          <lb/>spar Hedio Doctor im Münster zû Straszburg. (Vorrede, 8 S.)
+          <lb/>Bl. aa: Der erste teyl der Auszerles-nen Chronick...
+          <lb/>Vorrede D. Caspars Hedions, (2 S.)
+          <lb/>Bl. aa 2b: Der erste teyl Von der Geburt des Himels
+          <lb/>vnd der Erden. (21S.)
+          <lb/>Bl. ce ia: Dem Durchleuchtigen...! Fürsten vnd Herrn
+          <lb/>Rupert Pfaltzgrafen bey Rhein... Datum Witteberg Anno
+          <lb/>M. D. XXXIX. Philippus Melanchthon. (Vorrede, 7 S.)
+          <lb/>Bl. 1 des 2. Teiles : Dem Frommen...! Herrn Mathis Pfar¬
+          <lb/>herr, regierendem Ammeister zû Straszburg... Caspar
+          <lb/>Hedio... Straszburg, den ersten Martij in dem iar M. D.
+          <lb/>XXXIX.
+          <lb/>Auf der Rücks.: Beschreibung etlicher ge- legenheit
+          <lb/>Teutsches lands, an wasser, berg, stetten vnd grenzen...
+          <lb/>R10.292. Herkunft unbekannt. Handschr. Notiz : On trouve à la
+          <lb/>fin de cette chronique : Eyn Chronik über Deutschland zuvor des Landes.
+          <lb/>Elsass und der lôblichen Stadt Strasburg durch Sebastian Brandt gesammelt.
+          <lb/>2. Ex. R10297. Prov.: Mlle de Schauenbourg, Geudertheim,
+          <lb/>22. XII. 1880. Handschr. Notiz auf dem letzten Bl.: 613 Hertzoge
+          <lb/>Ernest aus Beyern.
+          <lb/>Stadtbibl. Strassburg 1151.
+          <lb/>1098
+          <lb/>HEDIO Kaspar
+          <lb/>Strassburg, W. Köpfel, 1545
+          <lb/>CHRONICA der Alten Christ- lichen Kirchenn. (Diese
+          <lb/>drei Eeilen sind von 4 Zierleisten eingefasst, mit einem Engelskopf,
+          <lb/>Köpfels Zeichen, in der oberen Leiste.)
+          <lb/>Darunter: i. Historia Ecclesiastica Euse bij Pamphili
+          <lb/>Caesariensis xj. Bücher.j. Hystoria Ecclesiastica Tri¬
+          <lb/>partita, Sozomeni, Socratis vnd Theo doreti xij. Bücher.
+          <lb/>iij. Hystoria Ecclesiastica, sampt andern trefflichen Ge¬
+          <lb/>schiechten die zuuor in! Teutscher sprach wenig&amp;#x27; gelesen
+          <lb/>sind auch xij. Bücher. Von der zeyt an, da die Hy storj
+          <lb/>Ecclesiastica Tripartita auff höret, das ist von der Jarzal
+          <lb/>an CCCC. nach Christi geburt, bisz auff das Jar M. D.
+          <lb/>xlv.! Durch Caspar Hedion Doctor im ! Münster zâ Strasz¬
+          <lb/>burg, verteudtscht, zûsa- men getragen vnd geordnet.
+          <lb/>Getruckt mit Keys. Mayest. Freyheit. M. D. xlv.
+          <lb/>(Rücks, leer.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

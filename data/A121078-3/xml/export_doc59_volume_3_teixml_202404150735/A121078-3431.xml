@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:14.194145+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3431.tif
+IMAGE WIDTH: 2428
+IMAGE HEIGHT: 3852
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>tinorum historiographûm moni-mentis ita concinnata:
+          <lb/>vt maxime me- morabilia, scituque digniora Romanorum
+          <lb/>facinora, ab ipsa Vrbis fundatione, ad Reges vsque, ex¬
+          <lb/>pulsos, in Theatro exhibeat.
+          <lb/>In Theatro Argentinensi publicè exhibita, Anno M. D.
+          <lb/>XCIX. Mense Augusto. (Vign.)
+          <lb/>Argentorati, Excudebat Antonius Bertramus.
+          <lb/>8°, Kursiv, 60 unn. Bll., Sign. A-H, Kust.
+          <lb/>Auf der Rücks, des Titelbl. (Zierleiste): Illvstri... CAROLO
+          <lb/>BARONI à KITLITZ,Domino in Malnitz &amp;amp; Eisen-berg...
+          <lb/>Hasce tragoediarum suarum! primitias!... dedicat &amp;amp; nun¬
+          <lb/>cupat M. Samuel Junius Suebusinas Silesius.
+          <lb/>Bl. A 2a (Bierleiste): EPISTOLA NVNCV- PATORIA... —
+          <lb/>Datum Sprembergae Idibus Maij Anno 1599.M. Samuel
+          <lb/>Junius. (6 Bu.)
+          <lb/>R 102.302 (1). Prov.: K. Theod. Völeker, Frankfurt a. M. 3.X.
+          <lb/>1900; 12 M.
+          <lb/>1299
+          <lb/>873
+          <lb/>JUSTINIANUS Laurentius
+          <lb/>Strassburg, J. Prüss 1509
+          <lb/>Von der vnderrychtung eins volkomnes vnd geistli¬
+          <lb/>chen lebens : Gemacht von dem hoch würdigen herren,
+          <lb/>herren Laurentzen Justinia-ni Patriarchen.
+          <lb/>Am Schluss: Getruckt durch Johannem Prüss! burgern
+          <lb/>zû strassburg. Zûm Thiergarten. In dem M. CCCCC. vnd
+          <lb/>ix. iar nach der geburt christi.
+          <lb/>40, Got., 182 unn. Bll., Sign. A-X, a-k, Init. Bl. A 4b Holeschn.:
+          <lb/>Die Jungfrau Maria vor dem Leichnam Christi; Bl. E: Jesus am
+          <lb/>Kreuze, eu Füssen Maria u. Johannes, sovie swei Soldaten, von denen
+          <lb/>der eine eine Lanze, der andere einen Bandstreifen hält, mit den Worten:
+          <lb/>Vere, Vere, Filius dei erat ille.* Am Schluss: Druckerm, von Prüss.
+          <lb/>(HAB Tafel VIII Nr. 2.)
+          <lb/>R101387. Prop. : Fidelis Butsch, Antiquariat Augsburg 1871.
+          <lb/>Titelbl. souie letstes Bl. mit Druckerm. fehlen.
+          <lb/>Proctor II Sectio I Nr. 9990: London Brit. Museum, Kristeller
+          <lb/>Nr. 66, Schmidt III S. 23 Nr. 77.
+          <lb/>1300
+          <lb/>JUSTINUS. Siche: HEDIO Caspar; Chronica, 1530.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

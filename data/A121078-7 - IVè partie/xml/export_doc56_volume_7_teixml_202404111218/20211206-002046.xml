@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:02.879171+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002046.tif
+IMAGE WIDTH: 2508
+IMAGE HEIGHT: 3982
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>BEDA, Venerabilis : Historia ecclesiastica gentis Anglorum. —
+          <lb/>Haguenau, Henri Gran 1 sept. 1521, in-40.
+          <lb/>Walter n° 746.
+          <lb/>973
+          <lb/>BEDROTUS. Voir : FLORUS Luc. Aen, n° 1739.
+          <lb/>BEHAM, H. S. Voir : PEUTINGER, Conr, n° 2885.
+          <lb/>BENEDETTI, Al. Voir: BRUNFELS, Otto n° 1098.
+          <lb/>BENEDICTUS, Brixianus. Voir : BARLETTA, Gabriello no 926.
+          <lb/>BENTIUS, Johannes : De Figuris libri duo... — Strasbourg,
+          <lb/>Josias Rihelius 1594, in-40.
+          <lb/>BN Paris : X. 8717.
+          <lb/>974
+          <lb/>BENTZIUS, Joh. : Thesaurus pure loquendi, et scribendi
+          <lb/>Graecolatinus novus : Ex Isocratis, Demosthenis et
+          <lb/>Ciceronis, aliorumque scriptorum probatorum locuple¬
+          <lb/>tibus copijs... (8 lignes. Marque typ. de Zetzner). —
+          <lb/>Exstat Argentinae, Apud Lazarum Zetznerum. Anno
+          <lb/>M. D. XCIIII (1594), in-fol.
+          <lb/>Bibl. Grand Sém. Strasbourg (2 exempl.). [Une éd. Jobin 1596:
+          <lb/>Ritter, Rép. n° 181).
+          <lb/>975
+          <lb/>BENTZIUS, Joh. Voir aussi: RITTER, Rép. nos 181-182.
+          <lb/>BERENGARIO, Jacopo: Isagoge breves in Anatomiam humani
+          <lb/>corporis per ill, medicum Carpum (— Jacobus Beren¬
+          <lb/>garium) in inclito Bononiensi Gymnasio ordinarium
+          <lb/>chirurgiae professorem (éd. H. Sybold). — Strasbourg,
+          <lb/>Henri Sybold 1530, in-80.
+          <lb/>BN Paris Ta° 15.
+          <lb/>976
+          <lb/>BERENGARIO, Jacopo (Idem). — Strasbourg 1533, in-8°.
+          <lb/>Choulant-Frank p. 140; Panzer VI, 123, 849.
+          <lb/>977
+          <lb/>BERGREIEN : Ein neüwer Bergreyen, Vom Künig Ludwig ausz
+          <lb/>44
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

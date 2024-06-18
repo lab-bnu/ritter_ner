@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:13.893934+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3422.tif
+IMAGE WIDTH: 2412
+IMAGE HEIGHT: 3852
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>864
+          <lb/>80, Kursiv, 8 unn., 415 num. Bll., Kopft., Kust., Init.
+          <lb/>Bl. 412-415: Benedicti Varchii! ad Pavlum Iovium...
+          <lb/>Epistola. (Lat. Verse.)
+          <lb/>TOMI SECVNDI PARS) altera. Anno. M. D. LVI. (Buch
+          <lb/>36-45.)
+          <lb/>80, Kursiv, 296 num., 14 unn. 2sp. Bll. (Index), Kopft., Kust.,
+          <lb/>Init. Bd. I1 Teil I fehlt. Unter Standortnummer D 106,949 besitat die
+          <lb/>Bibliothek diesen Teil mit der Jahreszahl 1555.
+          <lb/>R101109. Prov. : Buchhandlung Lindner, Strassburg (Auktion
+          <lb/>Stöber Nr. 1468) 27. II. 1891; 6 M. Handschr. Vermerk:,Ex Biblio¬
+          <lb/>theca Conventus S. Adalberti Wratislaviensis Fratrum Ordinis Praedica¬
+          <lb/>1285
+          <lb/>torum.&amp;quot;
+          <lb/>JOVIUS Paulus
+          <lb/>Strassburg, B. Jobin 1589
+          <lb/>PAVLI JOVII! Berümter, Fürtrefflicher Leut Leben,
+          <lb/>handlung vnd Thaten,! Mit neben einführung sonst an¬
+          <lb/>derer mehr Alter vnd Newer,! zum theyl bey noch Men¬
+          <lb/>schen gedencken ergangener Merckwürdiger! Historien
+          <lb/>vnd Geschichten. Jnsonderheyt, der rhümlich, fern er¬
+          <lb/>kandten vnd weitleuffigen! Züge vnnd Kriege im Hertzog¬
+          <lb/>thumb Mayland vnnd Königreich Neaples. Darzwischen
+          <lb/>die Statt Rom mit Gewalt erobert, geplündert, Bapst vnd
+          <lb/>Cardinäl da- selbst wie auch der König ausz Franckreich
+          <lb/>im Thiergarten vor Pauy gefangen, vnd gantz Welsch¬
+          <lb/>land in schrecken des Zwangs zum vhralten Gehorsam
+          <lb/>gegen! den Römischen Keysern gebracht.Welches alles,
+          <lb/>Nächst Gottes hülffe, durch sonderliche löbliche Mannhaffte
+          <lb/>vnd dapffere Ritter Thaten des Teutschen Kriegsvolcks
+          <lb/>verrichtet vnd er- halten worden,! Erster Thevl.! Hie¬
+          <lb/>beuor in Teutscher Spraach noch nie auszgangen. Jetzo
+          <lb/>aber durch Georgen Klee von Manszfeld, geliebtem Vatter¬
+          <lb/>land zu nutz! vnd Ehren in eitel Teutsch versetzt, Guter
+          <lb/>hoffnung, dasz wie es mit reîchem nutz lustig zu lesen,
+          <lb/>Also auch jhrer viel, zu erstattung vnd fortsetzung jhrer
+          <lb/>Vorfahren löblichen! Namens, sich darnach achten vnd
+          <lb/>richten werden. (Druckerm. Jobin&amp;#x27;s. HÆB Tafel XXXVII Nr. 7.)
+          <lb/>Getruckt zu Straszburg, bei Bernhart Jobin. Jmjar
+          <lb/>Christi M. D. LXXXIX. (Rücks, leer.)
+          <lb/>2°, Got., 11 unn. Bll. COCCLI S., 13 unn. 2sp. Bll. (Index),
+          <lb/>Kopft., Kust., Marg., Init., Titel rot u. schwarz; 12 Abb. (Bildnisse
+          <lb/>von Fürsten).
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

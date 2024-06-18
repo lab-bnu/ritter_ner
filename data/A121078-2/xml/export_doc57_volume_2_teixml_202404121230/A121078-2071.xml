@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:28.297356+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2071.tif
+IMAGE WIDTH: 2348
+IMAGE HEIGHT: 3820
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>In-fol., car. goth., 5 ff. non ch., sign. A, initiales goth.
+          <lb/>fol. A 2a: Wir Hans Philips! von Kettenheim der Meyster
+          <lb/>vnnd der Rhat... Thun hiemit kundt...
+          <lb/>R. 75. Prov.: Bibl. Ch. Schmidt, 10. IV. 1895. Notes mss.
+          <lb/>GPB. Berlin SB, München SB, Göttingen UB.
+          <lb/>119
+          <lb/>AVENARIUS Johannes
+          <lb/>Strasbourg, B. Jobin, 1591.
+          <lb/>D. JOHANNIS AVENARI PRAECATIO-] NES SACRAE IN
+          <lb/>SINGV- LOS SEPTIMANAE DIES) distributae, &amp;amp; vario con¬
+          <lb/>scri- ptae carmine à] M. ANDREA WUNSTIO WIMPINATE,
+          <lb/>ECCLESIAE CHRI- sti apud Bischofshemianos in Greich-goia
+          <lb/>pastore.
+          <lb/>Lucae 18. (1 ligne en car. grecs.)
+          <lb/>Marque typ. de B. Jobin. (H&amp;amp; B, Planche XXXVIII, NO 10, mais
+          <lb/>sans l’encadrement.)
+          <lb/>ARGENTORATI Apud Bernhardum Jobinum. Anno
+          <lb/>M. D. XCI. (Verso blanc.)
+          <lb/>In-8°, car. ital., 60 ff. non ch., sign. A-H, réclames, initiales
+          <lb/>ornées E., M., titre en rouge et en noir, encadré de simples lignes,
+          <lb/>toutes les pages ont l’encadrement du titre.
+          <lb/>fol. A 2a: .. PRINCIPI, DO MINO JOANNI, COMITI PA¬
+          <lb/>LATINO RHENI, DVCI BAVARIAE... Andreas Wunstius ! Wim¬
+          <lb/>pinensis... - Bischofshemij Graichgojae! Calend.: Januarij.
+          <lb/>Anno 1591. (5 pages.)
+          <lb/>R 101996(1). Prov.: Rud. Hönisch, Leipsic, 2. VIII. 1917; 18M.
+          <lb/>Notes mss. A l’intérieur de la couverture: Johannes Bochmerus
+          <lb/>Pastor, anno 1694; avant le titre, 2 ff. de garde avec des prières mss.
+          <lb/>120
+          <lb/>AVERROIS, De simplicibus medicinis. Voir; SERAPION, De sim¬
+          <lb/>plicibus medicinis. Strasbourg, G. Ulricher, 1531.
+          <lb/>AVISAMENTUM de concubinariis. Voir: WIMPHELING, Avi¬
+          <lb/>samentum, 1507.
+          <lb/>AVITUS Alcimus
+          <lb/>Strasbourg, J. Grüninger, 1507.
+          <lb/>ALCIMI AVITI VIENNEN] SIS EPISCOPI POETAE CHRIS¬
+          <lb/>TIANISSIMI LIBRI VI. De origine mundi De originali peccato
+          <lb/>De sententia dei! De diluuio mundi de transitu Maris
+          <lb/>Rubri De Virginitate.
+          <lb/>Marque typ. de J. Grüninger. (H &amp;amp; B Planche I, No 3.)
+          <lb/>A la fin: Foeliciter impressum Anno virginei par! tus
+          <lb/>MCCCCC. vij. feria quinta post Bartholomei. (Verso blanc.)
+          <lb/>67
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

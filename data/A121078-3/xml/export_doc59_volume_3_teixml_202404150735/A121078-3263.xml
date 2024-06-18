@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:10.085255+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3263.tif
+IMAGE WIDTH: 2334
+IMAGE HEIGHT: 3852
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>705
+          <lb/>Schmidt VIII Nr. 72: «Bibl, du consistoire de Colmar et Jadis
+          <lb/>Bibl. de Strasbourg, Incun. No 2285.» Ein Ex. BN Paris, Rés. C930;
+          <lb/>Beaulieux S. 154; BU Paris; Walter: Schlettstadt Nr. 1439. Gk:
+          <lb/>SB Berlin, UB Bonn, Breslau, Göttingen.
+          <lb/>1037
+          <lb/>GREGORIUS TIFERNAS Publius
+          <lb/>Strassburg, M. Schürer 1509
+          <lb/>Hoc volvmine haec! continen! tvr. P. Gregorij Tiferni
+          <lb/>poetae illustris Opuscula. Francisci Octavij (Cleophilil
+          <lb/>poetae Elegiae. Eiusdem epistolae amorum ad Iuliam.
+          <lb/>Sulpitiae carmina. IxX. (quae fuit Dominitiani! temporibus)
+          <lb/>nuper Georgij Me rulae opera, in lucem edita.
+          <lb/>Cornelij Galli poete tum clarissimi! tum vetustissimi
+          <lb/>Elegiarum Fragmenta. Pomponij Gaurici Neapolitani
+          <lb/>Elegiacon.
+          <lb/>Am Schluss: Argentoraci ex officina Schvreriana mense
+          <lb/>Iulio M. D. VIIIl. (Druckerm. Schürers. H a B Tafel XII Nr. 2.)
+          <lb/>40, Antiq., 50 unn. Bll., Sign. A-K, Init.
+          <lb/>Bl. Ab: Mathias Schurerius Hel ! vetensis! Artium Doctor! Lectori.
+          <lb/>R 100.966. Prov.: Geschenk von Butsch Sohn, Augsburg 18ri.
+          <lb/>BN Paris, Rés, m. Yc. 724; Proctor II Sectio I Nr. 10.171:
+          <lb/>London Brit. Museum; Schmidt VIII Nr. 21: Stadtbibl. Strassburg;
+          <lb/>Walter: Schlettstadt Nr. 2329. GK: SB Berlin, UB Breslau.
+          <lb/>Davis de Orioli, London, Katalog 79 (1937) Nr. 51; «A rare vo¬
+          <lb/>lume of newly discovered classical fragments of Renaissance verse.»
+          <lb/>Brunet II5, 1732: «Vend. 13 fr. m. bl. Méon.»
+          <lb/>1038
+          <lb/>GREMP VON FREUDENSTEIN Ludwig Strassburg, S. Emmel 1567
+          <lb/>ANAAYZIE. Resolutio Dialectica QVATVOR LIBRORVM
+          <lb/>Institutionum Imperialium. Vnà CVM QVARVNDAM VTI¬
+          <lb/>lium Quaestionum luris ex- plicatione.! CVM PRAEFATIONE
+          <lb/>CLARISSIMI] uiri &amp;amp; prudentissimi Iureconsulti D. Lu¬
+          <lb/>douici Gremp. NVNC PRIMVM IN] lucem emissa. (Druckerm.
+          <lb/>Emmels. HŒ B Tafel XXXV Nr. 2; Silvestre Nr. 1238.)
+          <lb/>Cvm gratia et privile-gio Caesareae Maiestatis ad
+          <lb/>Annos octo.
+          <lb/>Am Schluss: ARGENTORATI SAMVELEmmel exprime¬
+          <lb/>bat. M. D. LXVII. (Rûcks, leer.)
+          <lb/>80, Antig. u. Kursiv, 8 unn., 411 num., 18 unn. Bll. (Index),
+          <lb/>Kopft., Kust., Marg., Init.
+          <lb/>R.45
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

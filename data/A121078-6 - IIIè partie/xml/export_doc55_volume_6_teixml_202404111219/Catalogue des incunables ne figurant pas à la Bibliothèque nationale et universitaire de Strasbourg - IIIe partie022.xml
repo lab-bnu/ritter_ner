@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:05.519438+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie022.tif
+IMAGE WIDTH: 2486
+IMAGE HEIGHT: 3926
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>BIBLIA (lat.) : — (Strasbourg, Jean Grüninger) 1483, in-fol.
+          <lb/>et in-4°.
+          <lb/>G W 4252; Hain-Copinger 3088, Pellechet 2315, Proctor 437.
+          <lb/>B U Bâle, Copenhague. B N Munich, B M Colmar, etc. 117
+          <lb/>BIBLIA (lat) : — (Strasbourg, impr. des Vitas patrum) 1485,
+          <lb/>in-fol.
+          <lb/>G W 4257; Hain-Copinger 3092, Pellechet 2319, Proctor 424;
+          <lb/>Voulliéme : Berlin 2255. B N Berlin, Munich, Vienne etc. 118
+          <lb/>BIBLIA (lat.) — (Strasbourg, Jean Prüss) 1489, in-fol.
+          <lb/>G W 4265, Hain 3104, Pellechet 2326, Proctor 543; Walter
+          <lb/>n° 100, Ritter, Grand Sém, n° 59; Voulliéme : Berlin 2356, 7;
+          <lb/>Brit. Mus. Cat. I, 122. — BN Berlin, B M Colmar, BN Munich,
+          <lb/>Vienne etc.
+          <lb/>119
+          <lb/>BIBLIA (en allemand) : — [Strasbourg, J. Mentelin avant le
+          <lb/>27 juin 1466), in-fol.
+          <lb/>G W 4295 : L’ex. de la B N de Munich a la date manuscrite
+          <lb/>27 juin 1466; Bolchert 17; Schorbach : Mentelin, Anhang
+          <lb/>no 3 met pas après 1461; Hain-Cop. 3130; Pellechet 2368,
+          <lb/>Proctor 198. Brit. Mus. Cat. I, 52; Voullième : Berlin 2099,
+          <lb/>B M Colmar, BN Munich, Vienne etc.
+          <lb/>120
+          <lb/>BIBLIA pauperum. Voir : NICOLAUS de Hanapis n° 520.
+          <lb/>BIGA salutis. Voir: MicHael de Ungaria n° 483.
+          <lb/>BOETHIUS : De consolatione philosophiae, Avec le commen¬
+          <lb/>taire du Pseudo-Thomas d’Aquin. En plus : Compendiosa
+          <lb/>Consolationis resumptio. — Strasbourg, (J. Prüss avant
+          <lb/>le 3 mars 1491), in-4°.
+          <lb/>G W 4550. Hain 3367; Copinger 1102, Pellechet-Polain 2497,
+          <lb/>Proctor 7649; Voulliéme : Berlin 478, 2. B N Berlin, Munich,
+          <lb/>Vienne etc.
+          <lb/>121
+          <lb/>BOETHIUS : — Von dem trost der weiszheit. (En allemand
+          <lb/>20
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

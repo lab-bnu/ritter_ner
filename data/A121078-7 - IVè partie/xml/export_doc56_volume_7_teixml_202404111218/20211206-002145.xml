@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:05.312658+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002145.tif
+IMAGE WIDTH: 2512
+IMAGE HEIGHT: 3958
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>DIONYSIUS Aeropagita. Voir : JANUS a Swolta n° 2145;
+          <lb/>ROBERTUS episcopus Lincolensis n° 3117; RITTER, Rép.
+          <lb/>n° 655.
+          <lb/>DIOSCORIDES : In Dioscoridis Historiam Herbarum clarissima
+          <lb/>adaptatio, cum earundem Iconum. Nomenclaturis.
+          <lb/>Graecis, Latinis &amp;amp; Germanicis. Der Kreüter rechte
+          <lb/>warhafftige Contrafactur... nach der beschreibung Dios¬
+          <lb/>coridis... — Strasbourg, Jean Schott 1543, in-fol.
+          <lb/>[Avec la fausse mention Io. Mentelino primo Typographo
+          <lb/>inventori dans les armoiries de Mentelinl. GKI n° 10.010:
+          <lb/>BN Berlin, Munich; Brunet 5e éd. I, 1295; Scott (Schmidt
+          <lb/>II, Suppl.), n° 30. — Bibl. Scott, Oxford. Stübler p. 252. 1515
+          <lb/>DIOSCORIDES. Voir: BRUNFELS nos 1105, 1123; LUSITANUS,
+          <lb/>Amatus n° 2454; RITTER, Rép, nos 658-659.
+          <lb/>DISCIPULUS : de eruditione Christi fidelium. — Strasbourg,
+          <lb/>Martin Flach 1509, in-40.
+          <lb/>Schmidt VI, p. 24, n° 22. Ritter, Rép. 1156 à Herolt. 1516
+          <lb/>DISCOURS. Voir: FISCHART n° 1708/9.
+          <lb/>DIVINATIO : Astrologica Divinatio des Newen Cometen im
+          <lb/>Monat Julio dieses 1596 Jars erschinen... — Strasbourg,
+          <lb/>Jost Martin 1596, in-8°.
+          <lb/>Zinner 3666.
+          <lb/>1517
+          <lb/>DOBNECK, Johannes (Cochlaeus). Voir: COCHLAEUS, Johannes.
+          <lb/>DOERING, J. : Neuw zeytung so kürtzlich disz Jars. Anno
+          <lb/>xxiiii zu Kyngsburg in Preussen fürgangen... —
+          <lb/>Strasbourg, Jean Schwan 1524, in-4°.
+          <lb/>Kuczynski, n° 604.
+          <lb/>1518
+          <lb/>DOGMA moralium. Voir : CLICHTOVAEUS, Jodocus n° 1399.
+          <lb/>DOLET, Étienne : Phrases et formulae linguae latinae elegan¬
+          <lb/>tiores. — Strasbourg 1596.
+          <lb/>143
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

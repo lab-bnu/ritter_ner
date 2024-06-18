@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:14.847067+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002545.tif
+IMAGE WIDTH: 2496
+IMAGE HEIGHT: 4006
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>ZEITUNG : Klägliche newe Zeitung. Wie zu Theuren zwen
+          <lb/>Evangelische prediger, Vatter unnd Sohn umb bekandt¬
+          <lb/>nuss Christlicher Lehre, seind erbärmlich enthaupt
+          <lb/>worden... — Strasbourg, Nicolas Waldt (1583), in-80.
+          <lb/>Vogeleis, p. 349 : Augsbourg; Weller, Zeitungen, n° 689. 3612
+          <lb/>ZEITUNG : Wunder newe Zeitung, und warhaffte Geschicht.
+          <lb/>Von der Nunnen heiligkeit und reinigkeit, welches sich
+          <lb/>zugetragen in einem Kloster im Etschlandt gelegen,
+          <lb/>genannt Münster im Münsterthal, beschehen im Christ¬
+          <lb/>monat desz 1583. Jars.... Ein ander Lied, der Bapst ruft
+          <lb/>König und Keyser an &amp;amp;c... — Getruckt zu Christlingen
+          <lb/>(Strasbourg, Bernard Jobin] 1583, in-8°.
+          <lb/>Wackernagel, Kirchenlied I, p. 531.
+          <lb/>3613
+          <lb/>ZEITUNG : Warhaffte... neüwe Zeittung von dem erschreck¬
+          <lb/>lichen Feuerzeichen und Erdbidem so inn diesem 84.
+          <lb/>Jar im Schweitzerland im Berner gebiet... geschehen...
+          <lb/>— Strasbourg, Thiébaud Berger 1584, in-4°,
+          <lb/>Ritter, Hist. de l’impr, app. 383, n° 6.
+          <lb/>3614
+          <lb/>ZEITUNG : Zeittung Von dess Königs Navarra auss Franck¬
+          <lb/>reich gesandten, Herrn Jacobi Segurii Pandelliani
+          <lb/>Schreiben, an etliche Chur und Fürsten... auff Petri und
+          <lb/>Pauli, dieses 87, jars zur Naumburg ubergeben. Darinnen
+          <lb/>er, die wider den König der Religion halben erregten
+          <lb/>widerleget und ablehnt... Darumb er bey iren Chur,
+          <lb/>und F. G. er entlich umb hülffe ansuchet. — Strasbourg,
+          <lb/>Nicolas Waldt M.D.LXXXVII, in-4°.
+          <lb/>Weller, Zeitungen, n° 650.
+          <lb/>3615
+          <lb/>ZEITUNG : Newe Zeitung auss Franckreich. Was schreck¬
+          <lb/>lichen Jamers zu Pariss, in noch werender Belägerung
+          <lb/>sich zugetragen, wie eine reiche Fraw zwey ihrer eigenen
+          <lb/>Kinder gessen, von den gifftigen Thieren so täglich zu
+          <lb/>Pariss sich erzeigen, zweier Mönch ihre deutung. Dann
+          <lb/>des Herrn De la Nova schrifftlich antwortt, auff des
+          <lb/>543
+          <lb/>E
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

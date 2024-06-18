@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:02.363330+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002030.tif
+IMAGE WIDTH: 2472
+IMAGE HEIGHT: 3958
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>3. Von warer unschuld. 4. Von Natur und gnad. 5. Von
+          <lb/>fürsehung der heiligen. 6. Wie ein gutt ding sey umb
+          <lb/>beharlichkeit. Alles durch D. Caspar Hedion... neüwlich.
+          <lb/>verteütscht. — Straszburg (Balthasar Beck). Anno
+          <lb/>M. D.XXXIII, in-fol.
+          <lb/>GKVIII, n° 5487: BN Berlin, Munich etc. Bibl. S Guillaume
+          <lb/>et Bibl. Grand Sém. Strasbourg. Ritter, Rép, n° 110; éd. Beck
+          <lb/>1532.
+          <lb/>872
+          <lb/>AUGUSTINUS, Aurelius : Libellus aureus de fide &amp;amp; operibus. —
+          <lb/>Strasbourg, Jean Grüninger 12 mars 1523, in-4°.
+          <lb/>¡A la suite de : Isidorus De sectis et nominibus haereticoruml.
+          <lb/>n° 2130.
+          <lb/>GKVIII, 6054; Ritter: B M Strasbourg no 444.
+          <lb/>873
+          <lb/>AULUS, Sab. Voir : SABINUS, Aulus.
+          <lb/>AURELIUS, Victor Sextus : C. Plinii Secundi Junioris Liber
+          <lb/>illustrium virorum... C. Suetonii Tranquilli De gramma¬
+          <lb/>ticis et rhetoribus claris libellus. Ex castigatione Philippi
+          <lb/>Beroaldi. — (Strasbourg, Mathias Schürer 1510), in-4°.
+          <lb/>GKVIII, 7160: BN Munich, B U Göttingen.
+          <lb/>874
+          <lb/>AURELIUS, Victor Sextus: Illustres viri : quos qui Cornelio
+          <lb/>Nepoti vendicant... (éd. Dominicus Machaneus). —
+          <lb/>(Strasbourg, Jean Knobloch 1510), in-40.
+          <lb/>GKVIII, 7159: BN Berlin, Munich, Vienne etc.
+          <lb/>875
+          <lb/>AURELIUS, Victor Sextus : Liber illustrium virorum (éd.
+          <lb/>Dominicus Machaneus). — (Strasbourg, Mathias Schürer
+          <lb/>1512), in-4°.
+          <lb/>GKVIII, 7161 : B.N Berlin, Munich etc.; Schmidt VIII,
+          <lb/>n° 93; Panzer 6, 58, 268.
+          <lb/>876
+          <lb/>AURELIUS, Victor Sextus : (Idem). — (Strasbourg, Mathias
+          <lb/>Schürer 1513), in-4°.
+          <lb/>GKVIII, 7162: BN Berlin, Munich, B U Breslau.
+          <lb/>877
+          <lb/>28
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

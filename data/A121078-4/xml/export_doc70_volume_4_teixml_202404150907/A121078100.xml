@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:45.391289+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078100.tif
+IMAGE WIDTH: 2320
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>986
+          <lb/>Fol. LXI (2ème traité): Bruder marcus von Weida predigerordens,
+          <lb/>der heiligen geschrifft leszmeister zâ sant Paulus zu leipsick... hab ich
+          <lb/>dis büchlin inn sechsz capitel... geteilt. L’auteur du second traité est
+          <lb/>donc le dominicain Marc de Weida, tandis que celui du décalogue est le
+          <lb/>frère mineur Marc de Lindau. La publication fut faite d’après une
+          <lb/>copie fournie à Gruninger par Jean de Windeck, à la demande du comte
+          <lb/>Bernard d&amp;#x27;Eberstein, d’après la préface.
+          <lb/>La pagination jusqu’au fol. XII est inexacte, chiffres V et VI
+          <lb/>manquent, puis viennent VII, 1 f. sans chiffre, IX, X. XI; de même
+          <lb/>2 fois fol. XVI, puis 2 fois XIX; LII au lieu de LVI.
+          <lb/>R10.097. Prov.: Don du magistrat de la ville de Nœrdlingen 1871.
+          <lb/>Dacheux CLXXXI, Kristeller 99, Schmidt I n° 152.
+          <lb/>1488
+          <lb/>(MARCUS VON WEIDA): Ein nütz lich leer und underweisung
+          <lb/>was und wy man betten soll. Und Auszlegung des heili¬
+          <lb/>gen Pater nosters. Voir: MARCUS VON LINDAU: Die zehe
+          <lb/>gebot in disem büch erclert... (Bème partie.) Strasbourg, Jean
+          <lb/>Gruninger 1516.
+          <lb/>MARGARITA FACETIARUM
+          <lb/>Strasbourg, J. Gruninger 1508
+          <lb/>MARGARITA FACETIARVM Alfonsi Aragonum Regis Va¬
+          <lb/>fredicta Proverbia Sigismundi &amp;amp; Friderici tertii Ro. Im¬
+          <lb/>peratorum.) Scomata Joannis Keisersberg concionatoris Ar¬
+          <lb/>gentinensis. Marsilii Ficini Florentini de Sole opusculum.
+          <lb/>Hermolai Barbari Orationes.! Facetiae Adelphinae. (Verso
+          <lb/>blanc.)
+          <lb/>A la fin: Impressum per honestum Iohannem grüninger
+          <lb/>Anno nostrae redemptionis octavo supra Mille quingen¬
+          <lb/>tos. Argentinae.
+          <lb/>In-4°, car. rom., 100 ff. non ch., sign. A-Q, dernier f. blanc;
+          <lb/>init, ornées.
+          <lb/>Fol. A 2a: Ad... Leo! nardum Nusbachium Curiae Trevirensis
+          <lb/>Oratorem clarissimum. Joannis Adelphi Mülingi Argentinensis Epistola,
+          <lb/>datée de Strasbourg Calendas Martias 1508.
+          <lb/>R100.850. Prov.: Bibl. du Gymnase de Heulbronn 2/IV 1878
+          <lb/>en échange.
+          <lb/>BN Paris, Rés. p. Z. 521; Schmidt I n° 97 : Bibl. du Grand
+          <lb/>Séminaire et St. Guillaume, Strasbourg.
+          <lb/>Brunet III5, 1411: «Recueil peu commun, vend. en mar. r. 78 fr.
+          <lb/>Solar, et sous la date de 1509, 14 fr. mar. r. Courtois; 12 sh. Heber.»
+          <lb/>1489
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

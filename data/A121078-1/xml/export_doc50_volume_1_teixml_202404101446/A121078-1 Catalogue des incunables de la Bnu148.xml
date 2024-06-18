@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:39.340576+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu148.tif
+IMAGE WIDTH: 2446
+IMAGE HEIGHT: 3858
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>s. d.
+          <lb/>s. d.
+          <lb/>1497.
+          <lb/>Seneca: Proverbia. 431.
+          <lb/>Statuta provincialia. 442.
+          <lb/>RUCH DE DUMBACH Frédéric
+          <lb/>Missale Warmiense. 325.
+          <lb/>Imprimeur R (— Ad. RUSCH)
+          <lb/>[avant le 20. 7.
+          <lb/>14671.
+          <lb/>Rabanus Maurus: De sermonum proprietate. 405.
+          <lb/>[vers 1469).
+          <lb/>Dionysius de Burgo: Commentarii in Valerium
+          <lb/>Maximum. 147 (pas après 1475).
+          <lb/>[vers 1469).
+          <lb/>Magni Jac.: Sophologium. 293.
+          <lb/>[vers 1470).
+          <lb/>Balbus: Catholicon, 63.
+          <lb/>[vers 14701.
+          <lb/>Pius II (Papa): Epistolae familiares. 395.
+          <lb/>[vers 1470).
+          <lb/>Plutarchus: Vitae virorum illustrium. 398.
+          <lb/>[vers 1470).
+          <lb/>Vincentius Bellovacensis: Speculum naturale. 479.
+          <lb/>[vers 14721.
+          <lb/>Vincentius Bellovacensis: Speculum doctrinale.
+          <lb/>Lavant 14731.
+          <lb/>475.
+          <lb/>Avicenna: Canonis libri V. 62.
+          <lb/>(pas après 1473]. Petrarca: Secretum de contemptu mundi. 381.
+          <lb/>[vers 1475).
+          <lb/>Bollanus: De conceptione B. V. Mariae. 101.
+          <lb/>[vers 14751.
+          <lb/>Silvaticus: Pandectae medicinae. 437.
+          <lb/>s. d.
+          <lb/>Durandus: Rationale divinorum officiorum. 150.
+          <lb/>s. d.
+          <lb/>Dondi: Aggregator Paduanus de medicinis sim¬
+          <lb/>plicibus. 149.
+          <lb/>s. d.
+          <lb/>Herolt Joh.: Sermones discipuli. 222.
+          <lb/>s. d.
+          <lb/>Magni Jac.: Sophologium. 292.
+          <lb/>d.
+          <lb/>Modus legendi abbreviaturas. 326.
+          <lb/>s. d.
+          <lb/>Seneca: Epistolae ad Lucilium. 429.
+          <lb/>s. d.
+          <lb/>Vincentius Bellovacensis: Speculum historiale.
+          <lb/>417.
+          <lb/>RUSCH Adolphe
+          <lb/>Tavant 1470). Biblia latina. 86.
+          <lb/>[peu après
+          <lb/>le 23. 9. 1481). Biblia latina. 87.
+          <lb/>1498.
+          <lb/>118
+          <lb/>SCHAFFENER Guillaume
+          <lb/>Hortulus animae. 237.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

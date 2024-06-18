@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:36.873547+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2353.tif
+IMAGE WIDTH: 2332
+IMAGE HEIGHT: 3818
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>349
+          <lb/>A la fin: ARGENTORATI PER IOSIAM RI-! helium, Anno
+          <lb/>Salutis humanae! M. D. LXVIII. Mense! Maio.
+          <lb/>In-80, car. ital., 11 ff. non ch., 262 p. ch., 5 ff. non ch. (Index
+          <lb/>à 2 col.), titre courant, réclames, initiales ornées.
+          <lb/>Au verso du titre: TYPOGRAPHVS ! Lectori S.... — Datum
+          <lb/>ex officina nostra Anno salutis 1568. (1 page.)
+          <lb/>fol. a 2a non ch.: AD ADAMVM CA-]ROLVM REGIVM CON¬
+          <lb/>siliarium, Ioannis Sturmij! Praefatio, (4 p.)
+          <lb/>fol. a 4a non ch.: ALDI P. M. AD AN-DREAM NAVGERIVM,
+          <lb/>PATRICIVM Venetum, compatrem suum, in li- bros de
+          <lb/>arte Rhetorica Praefatio, (15 p.)
+          <lb/>R101654(t). Prov.: Bibl. F. A. Menke, Brême, 1873. Notes mes.
+          <lb/>Au milieu du titre: «Ex haereditate me habet Orth. Schultes...
+          <lb/>Bremensis, 1656 25 Junii.»
+          <lb/>Au-dessous: «Ex liberali donatione me possidet Iohannes Blume
+          <lb/>Anno 1664.» A l’extérieur du Ier plat, la justice personnifiée avec glaive
+          <lb/>et balance; à l’extérieur du dernier plat, Lucrèce avec la légende: Casta
+          <lb/>tulit magnam forma Lucretia laudem facta. Rel. anc.
+          <lb/>Bibl. St. Guillaume, Strasbourg. GPB: BU Kœnigsberg, Mar¬
+          <lb/>bourg.
+          <lb/>528
+          <lb/>CICERO
+          <lb/>Strasbourg, J. Rihel, 1569.
+          <lb/>(Vol. L.] M. T. CICERONIS ORATIONVM VO-] LVMINA
+          <lb/>TRIA.! POST POSTREMAM NAVGERIA- nam, &amp;amp; Victorianam
+          <lb/>correctionem emendata à IOANNE STVRMIO. Omnia &amp;amp;
+          <lb/>paginarum, &amp;amp; uersuum numero atque lon- gitudine Aldi¬
+          <lb/>nis respondent. ACCESSIT HVIC EDITIONI ELEN-  chus
+          <lb/>uariarum lectionum.
+          <lb/>Marque typ. de Iosias Rihel. (HEB, Planche XXXI, No 8;
+          <lb/>Silvestre, N° 821.)
+          <lb/>Au-dessous: Cum gratia &amp;amp; priuilegio Caesareo ad annos
+          <lb/>decem. (Verso blanc.)
+          <lb/>A la fin, avant l’Elenchus: ARGENTORATI PER Io- siam
+          <lb/>Rihelium. ANNo M. D. LXIX.
+          <lb/>In-8°, car. ital., 17 ff. non ch. — 305 ff. ch. — 19 ff. non ch.
+          <lb/>(Index et Elenchus), dernier f. blanc, titre courant, réclames, initiale à
+          <lb/>fig. F, le reste initiales d’attente.
+          <lb/>fol. a 2a: Préface de Jean Sturm au prince Guillaume, duc de
+          <lb/>Gueldre. (10 p.)
+          <lb/>fol. a 7a: Librarivs.
+          <lb/>fol. a 8a: LEONI X. PONTIFICI MAXIMO ANDREAS NAV¬
+          <lb/>GERIVS, (14 p.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

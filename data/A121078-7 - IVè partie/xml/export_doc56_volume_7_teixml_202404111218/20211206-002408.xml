@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:12.022770+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002408.tif
+IMAGE WIDTH: 2510
+IMAGE HEIGHT: 3976
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>PICTORIUS, Georgius : Durch was mittel und ordnung ein
+          <lb/>yeder vor dem Gries oder Nierenstein mög gesichert
+          <lb/>werden oder so er solchen hette oder überkäme, wie
+          <lb/>jm möge geholfen werden... — Mulhouse, J. Schirenbrand
+          <lb/>et P. Schmid s. d., in-8° (La dédicace est datée de 15571.
+          <lb/>Werner, p. 76, n° 1. [Une éd. Schirenbrand-Schmidt 1560:
+          <lb/>Ritter, Rép. n° 1866).
+          <lb/>2905
+          <lb/>PICTORIUS, Georgius : Büchlein vom Griess und Nierenstein. —
+          <lb/>Mulhouse (Pierre Schmid] 1559, in-8°.
+          <lb/>Graesse V, p. 283 (?).
+          <lb/>2906
+          <lb/>PICTORIUS, Georgius : Ein gantz fruchtbare ordnung gegen¬
+          <lb/>wirtige gesundtheit zu erhalten und zukünfftige krankheit
+          <lb/>zu vermeiden. — Mulhouse, Pierre Schmid 1561, in-8°.
+          <lb/>Schottenloher 37.325.
+          <lb/>2907
+          <lb/>PICTORIUS, Georgius : Enchiridion oder ein sehr nutzlich
+          <lb/>Handbüchlein, von den sieben dingen, so die Artzt
+          <lb/>natürlich ding nennent... Auch ein klarer bericht, ob
+          <lb/>die Christen von den Juden und Mercktartzet etc.
+          <lb/>vertrewliche artzney gebrauchen mögen... — Mulhouse,
+          <lb/>P. Schmid 1563, in-8°.
+          <lb/>Werner, p. 105, n° 26. [D’autres ouvrages de Pictorius voir:
+          <lb/>Ritter, Rép. nos 1865-1868).
+          <lb/>2908
+          <lb/>PIGHIUS, Albertus. Voir : BUCER, n° 1173.
+          <lb/>PILGERSCHAFT : Der Christen Bilgerschaft oder walfart, wie
+          <lb/>und auff was strassen ein rechtschaffner Christ wandlen
+          <lb/>soll, das er ins Himmlisch Hierusalem und vatterlandt
+          <lb/>mit gnaden mög ankommen... Ein ander Geistlich Lied.
+          <lb/>Ein schöne Tageweysz, Wach auff meins hertzen ein
+          <lb/>schöne (grav.). — (Strasbourg, Th. Berger s. d.), in-80.
+          <lb/>Heitz, p. 20; Wackernagel III, 587 et III, 82. Auteur : Hans
+          <lb/>Sachs.
+          <lb/>2909
+          <lb/>406
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:49.478850+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078243.tif
+IMAGE WIDTH: 2306
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>PACATIUS Josephus
+          <lb/>[Strasbourg, J. Herwagenl 1523
+          <lb/>NVM RECTE DICTVM SIT A CONCIONATO-RIBVS ARG.
+          <lb/>NIHIL NOBIS TRIBVAS, NIHIL NOBIS AVFERAS, IOSEPHI PA¬
+          <lb/>CATH IVDI CIVM. * (Feuille de lierre.)
+          <lb/>A la fin: ARABIAE APVD IVDAEOS RV BROS, OLIMPIADE
+          <lb/>TER] TIA, TRIGINTA DIEBVS A IERVSA- LEM.
+          <lb/>(Argentin. Ioh. Hervagen 1523.
+          <lb/>In-8°, car. rom., 11 ff. non ch., sign. A-B, réclames, grande et
+          <lb/>belle init. P (tenue par un ange).
+          <lb/>Au verso du titre: Iosephus Pacatius! Orgelo cariss.! fratri suo,
+          <lb/>S.... — M. D. XXIII. (12 lignes.)
+          <lb/>R102.391. Prov.: BN Munich 30/X1 1877.
+          <lb/>Walter: Sélestat 1974, l&amp;#x27;attribue à J. Herwagen.
+          <lb/>1749
+          <lb/>PALAEMON. Voir: RHEMNIUS
+          <lb/>PALAEPHATUS
+          <lb/>Strasbourg, M. Schurer 1517
+          <lb/>PALAEPHATI scriptoris Graeci Opusculum! de non
+          <lb/>credendis fabulo- sis narrationibus, Inter- prete Philippo
+          <lb/>Pha- sianino Bono- niensi.&amp;quot;,
+          <lb/>Cum Gratia &amp;amp; privilegio
+          <lb/>Impe-riali, ad sexennium.
+          <lb/>A la fin: Argentorati ex Aedibus Matthiae Schurerii
+          <lb/>Mense Ianuario. Anno M. D. XVII. (Verso blanc.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

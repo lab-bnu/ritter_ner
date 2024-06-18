@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:33.743633+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2238.tif
+IMAGE WIDTH: 2296
+IMAGE HEIGHT: 3818
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>234
+          <lb/>BUTZER Martin
+          <lb/>Strasbourg, [J. Schott ?] 1524.
+          <lb/>Ein kurtzer warhafftiger bericht, von Disputationen,
+          <lb/>vnd gantzen hand el, so zwischen Cûnrat Treger, Prouin
+          <lb/>cial der Augustiner, vnd den predigern des Euangelij zû
+          <lb/>StraBburg sich begeb en hat.
+          <lb/>Sein, des Tregers Sendtbrieff, an den Bischoff zû
+          <lb/>Losan. Vnd hundert Paradoxa, oder Wunderreden, vom
+          <lb/>gewalt der Schrifft, Kirchen, vnnd! Concilien, verteütscht.
+          <lb/>Schrifftlich verantwortung vnd widerlegung der selbigen.
+          <lb/>Durch Martin Butzer.
+          <lb/>Au recto du dernier f. avant les Errata: Zù Strasszburg.
+          <lb/>XX. Octobris M. D. xxiiij.
+          <lb/>In-4°, car. goth., 64 ff. non ch., sign. A-Q, titre courant, notes
+          <lb/>marginales, initiale goth. W, titre encadré: La destruction du veau d’or,
+          <lb/>le feu du ciel descendant sur le sacrifice de Moïse, encadrement qui
+          <lb/>revient fréquemment chez Schott.
+          <lb/>R 102.355. Prov.: Baer e Co., Francfort s. M., 22. XII. 1903;
+          <lb/>36 M.
+          <lb/>BN Paris. Rés. D2 15982. Schmidt II, No 86: Bibl. St. Guil¬
+          <lb/>laume. GPB. Berlin SB, Marbourg BU. Dr Benzing (Berlin)) m’écrit
+          <lb/>que Schwan pourrait aussi être l&amp;#x27;imprimeur.
+          <lb/>Baum N° 6, Mentz No 7: Bibl. St. Guillaume, Strasbourg. Jena,
+          <lb/>Kiel, Walter: Sélestat N° 354.
+          <lb/>352
+          <lb/>BUTZER Martin
+          <lb/>Strasbourg, W. Köpfel, 1526.
+          <lb/>Grund vnd vrsach ausz gotlicher schrifft die neü¬
+          <lb/>werungen, an dem nachtmal des herren, so man die Mess
+          <lb/>nennet, Tauff, Feyrtagen, bildern vnd gesang, in der ge¬
+          <lb/>mein Christi, wann die zûsamen kompt, durch vnnd auff
+          <lb/>das! wort gottes, zû̀ Straszburg! fürgenommen.
+          <lb/>Ein sendtbrieff an den durch- leüchtigen hochgeboren
+          <lb/>fürsten vnd herrn Frid-reich Pfaltzgraue &amp;amp;c. in dem ein
+          <lb/>jede Christliche! oberkeit ermanet würt, den genanten geist¬
+          <lb/>lichen keins wegs gehellen, einig leer oder predig, so
+          <lb/>man sich vff die schrifft berûfft, vnuerhört zû verdam
+          <lb/>men, mitt ablenung irer losen nichtigen einreden.
+          <lb/>Martinus Butzer,1 1525.
+          <lb/>A la fin, marque typ. de W. Köpfel. (HEB, Planche XVI
+          <lb/>No 2; Silvestre, No 941).
+          <lb/>In-4°, car. goth., 60 ff. non ch., sign. A-P, quelques notes mar¬
+          <lb/>ginales, init, ornées.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

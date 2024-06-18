@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:12.630471+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3369.tif
+IMAGE WIDTH: 2390
+IMAGE HEIGHT: 3856
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>HUG Johann
+          <lb/>Strassburg, J. Grüninger 1504
+          <lb/>Quadruuium Ecclesie Quatuor prelatorum officium
+          <lb/>Quibus omnis anima subjicitur. (Holeschn. Siehe Abb. S. 812.)
+          <lb/>Am Schluss: Exaratum est opus hoe salubre In incli¬
+          <lb/>tissima Helueciorum vrbe Argentina per Ioannem grü¬
+          <lb/>niger Calcographiae artificem! ipso die Inuentionis protho¬
+          <lb/>martiris stephani Anno! salutis Millesimo Quingentesimo
+          <lb/>Quarto.
+          <lb/>Auf der Rücks.: Emendationes literales in hoc opus.
+          <lb/>(Druckerm. Grüningers. H &amp;amp; B Tafel I Nr. 1.)
+          <lb/>Auf dem nâchsten Bl.: Protestatio de non quitquam (!)
+          <lb/>scripsisse quot est contra ecclesiam ad (!) Imperium etc...
+          <lb/>Auf dem folgenden Bl. (Imprimatur des Bischofs): Et ego Vdal¬
+          <lb/>ric Stro¬ mar de augusta publica sacra apostolica et
+          <lb/>imperiali auctoritatibus ac ve- nerabilis Curiae proposi¬
+          <lb/>turae insignis ecclesiae Argentinensis Notarius...
+          <lb/>2°, Antiq., LX num., 2 unn. Bll., Kopft., Marg., Init., zahlr.
+          <lb/>Paginationsfehler; 15 schöne, meist blattgrosse Holeschn. (Päpste, Bi¬
+          <lb/>schöfe; Kaiser; Reichsadler, kaiserliche Insignien).
+          <lb/>Bl. 3a: Ad. R. Cardi. Raymn. Guren.., capellanus in¬
+          <lb/>dignus Iohannes Hu-gonis de Sletstat; vicarius parochiae
+          <lb/>Sancti Stephani Argen-tinensis....
+          <lb/>Bl. 4a:... Berchtoldo de Hennenberg Sanctae sedis
+          <lb/>Moguntinensis Archiepiscopo.... Capellanus indignus Io¬
+          <lb/>hannes Hugonis de! Sletstat...
+          <lb/>Bl. 54: Ad Maximilianum regem Romanorum... Iohan¬
+          <lb/>nes Hugonis de Sletstat...
+          <lb/>Der Verfasser ist Joh. Hug aus Schlettstadt, Pfarrer von
+          <lb/>St. Stephan in Strassburg. Die Protestation S. 50, vom 13. Märs 1498
+          <lb/>datiert, ist notariell beglaubigt.
+          <lb/>R 10.1332. Herkunft unbekannt.
+          <lb/>2. Ex. R10.147. Prov.: Bibl. Ch. Schmidt mit scinem Exlibris
+          <lb/>u. handschr. Notizen von seiner Hand. Dieses Exemplar hat in der
+          <lb/>3. Zeile des Titels: Quibus omnis status tum Secularis! tum vero Eccle¬
+          <lb/>siasticus subjicitur.
+          <lb/>BN Paris, Rés. D. 1813; Proctor II Sectio I Nr. 9892: London
+          <lb/>British Museum; Schmidt I Nr. 67: Jadis Bibl. de Strasbourg, Incun.
+          <lb/>Nr. 2080; Walter: Schlettstadt Nr. 1561.
+          <lb/>Baer, Frankfurt a. M., Kat. 500 (4907), Nr. 968. 120 M.; Nr.
+          <lb/>969: 60 M.
+          <lb/>Brunet III5, 366: Livre recherché à cause des gravures. 37 fr.
+          <lb/>2e catal. Quatremère. Il y a nne édition de Paris, Guil. Eustace, MDIX,
+          <lb/>in 4°.
+          <lb/>1208
+          <lb/>811
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

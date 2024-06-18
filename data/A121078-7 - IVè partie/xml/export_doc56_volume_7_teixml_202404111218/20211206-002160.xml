@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:05.856874+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002160.tif
+IMAGE WIDTH: 2462
+IMAGE HEIGHT: 3992
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Schmidt VII, n° 249; Panzer 6, 100, 631. (éd. Knobloch 1521:
+          <lb/>Ritter, Rép, n° 753].
+          <lb/>1592
+          <lb/>ERASMUS (Idem). — Strasbourg, Jean Knobloch 1523, in-80.
+          <lb/>Panzer 6, 103, 658; Schmidt VII, n° 268.
+          <lb/>1593
+          <lb/>ERASMUS (Epistola) : Epistola ad archiepiscopum Mogun¬
+          <lb/>tinum de causa M. Lutheri. — Sélestat, Lazare Schürer
+          <lb/>aux frais de Nic. Kieffer 1520.
+          <lb/>Rest p. 53 : B U Fribourg-en-Br. Goedeke 12, p. 412, n° 57.
+          <lb/>1594
+          <lb/>ERASMUS (Epistola) : Epistola nuncupatoria ad Carolum
+          <lb/>Caesarem Exhortatio ad studium Evangelicae lectionis.
+          <lb/>Paraphrasis in Evangelium Matthaei... nunc denuo
+          <lb/>recognita. Epistola ad R. D. Matthaeum Cardinalem
+          <lb/>Sedunensem. — Haguenau, Th. Anshelm, octobre 1522,
+          <lb/>in-80.
+          <lb/>Burg, n° 171. [éd. Knobloch, janvier 1523 : Ritter, Rép.
+          <lb/>n° 7681.
+          <lb/>1595
+          <lb/>ERASMUS (Epistola) : Epistola. Imago reipublicae Argen¬
+          <lb/>tinensis, Strasbourg, (Crato] Müller (Mylius) 1643 (sic).
+          <lb/>(Sans doute 1543).
+          <lb/>Rest p. 54 : B U Fribourg-en-Br.
+          <lb/>1596
+          <lb/>ERASMUS (Epistolae) : Epistolae apostolicae Pauli, Jacobi,
+          <lb/>Petri, Johannis et Judae. — Colmar, Amand Farckal
+          <lb/>1523, in-40.
+          <lb/>Ritter, Hist. impr. p. 422.
+          <lb/>1597
+          <lb/>ERASMUS (Epistel) : Eine schone auch Christenliche Epistel...
+          <lb/>wider ettliche, so sich fälschlicher beruemen, dasz sie
+          <lb/>Evangelisch seyen hievor zu Latein, yetzt kürtzlichen
+          <lb/>auch zu Teutsch auszgangen (trad, par Hier. Gebwiler)
+          <lb/>(La dédicace est du Ier mars 1530, Haguenau) [fol. H 1b:
+          <lb/>158
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:06.139304+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3093.tif
+IMAGE WIDTH: 2320
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>EUCLIDES
+          <lb/>Strassburg, Chr. Mylius 1564
+          <lb/>EYKAEIAOY TON HENTE KAI AEKA XTOI-XEION...
+          <lb/>(7 griech. Zeilen.)
+          <lb/>Id est, EUCLIDIS QVINDECIM elementorum Geometriae
+          <lb/>secundum; ex Theonis commentarijs Graecè, &amp;amp; Latinè.
+          <lb/>Item,! Barlaam monachi Arithmetica demonstra- tio
+          <lb/>eorum, quae in secundo libro elementorum! sunt in lineis
+          <lb/>&amp;amp; figuris planis demonstrata.
+          <lb/>Item,! Octo propositiones Stereometricae, eiusdem cum
+          <lb/>prae- cedentibus argumenti. Per Cunradum Da sypodium,
+          <lb/>scholae Argentinen- sis Professorem. (Rücks, leer.)
+          <lb/>Am Schluss: ARGENTORATI APVD Christianum Mylium.
+          <lb/>1564.
+          <lb/>80, Griech. u. Antiq., 8 unn. Bll., 126 S., Kopft., Kust.. Init.,
+          <lb/>Vign., geometr. Figuren.
+          <lb/>Bl. A 2a: ILLVSTRISSIMO PRINCIPI... NICOLAO CHRI¬
+          <lb/>STOPHERO RADZIWIL, DV- CI OLICAE ET NIESWISI... Con¬
+          <lb/>radus Dasypodius... — Calend : Iunij. Anno 1564... Cun¬
+          <lb/>radus Dasy- podius. (Vorrede, 13 S.)
+          <lb/>R 101.319. Geschenk der Univ. Tübingen 1871. Alter Lederein¬
+          <lb/>band mit Jahreszahl 1564.
+          <lb/>Stadtbibl. Strassburg O 28302, GK: LB Dresden, UB Tübingen.
+          <lb/>812
+          <lb/>EUCLIDES
+          <lb/>Strassburg, Chr. Mylius 1564
+          <lb/>PROPOSITIO- nes reliquorum Libro- rum Geometriae
+          <lb/>Euclidis, Grae- cè, &amp;amp; Latinè, in vsum eorum, qui volu¬
+          <lb/>mine Eucli- dis carent.Per Cunradum Dasypodium,
+          <lb/>scholae Argentinensis professorem. (Vign.)
+          <lb/>ARGENTORATI APVD! Christianum Mylium. M. D. LXIIII.
+          <lb/>(Rücks, leer.)
+          <lb/>80, Griech., Antiq. u. Kursiv, 8 unn. Bll., 205 S., 2 unn. Bll.,
+          <lb/>letztes Bl. leer, Kopft., Kust., Init. D.
+          <lb/>Bl. a 2. DOMINO NICOLAO CHRISTOPHORO RADZEWIL...
+          <lb/>COMITI IN SCHIDLOWIEZ... Cunradus Dasypodius, (Vorrede, 13 S.)
+          <lb/>Buch III-XIII der Euclidschen Geometrie.
+          <lb/>R101320. Geschenk der Univ. Tübingen 1871. Auf dem Vorder¬
+          <lb/>deckel: 1564 TL. ET.
+          <lb/>BN Paris, V. 18121. Stadtbibl. Strassburg O 28303.
+          <lb/>813
+          <lb/>537
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

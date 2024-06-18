@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:10.874068+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002351.tif
+IMAGE WIDTH: 2470
+IMAGE HEIGHT: 4008
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>MARBACH, Johannes : Ein Vermanung an die jungen Knaben
+          <lb/>und Töchterlin in der Vorbereitung, wann sie... das
+          <lb/>Hochw. Sacrament Jesu Christi entpfahen wöllent. —
+          <lb/>Strasbourg, Samuel Emmel 1552, in-4°. (Nouv. éd. 1554l.
+          <lb/>Ritter, Hist. impr. app. 387.
+          <lb/>2597
+          <lb/>MARBACH, Johannes : Christlicher und warhaffter underricht,
+          <lb/>von den worten der einsatzung des heyligen Abendmals
+          <lb/>Jesu Christi unsers Heylannts, sampt gründtlicher
+          <lb/>widerlegung der Sacramentierer hievon irrigen Lehr
+          <lb/>und meynung... — Strasbourg, Christian Müller (Mylius)
+          <lb/>1565, in-80.
+          <lb/>Ritter: B M Strasbourg, n° 1458.
+          <lb/>2598
+          <lb/>MARBACH, Joh. : Christlicher und warhafftiger Underricht
+          <lb/>von den Worten der Einsetzung des heyligen Abendt¬
+          <lb/>mals Jesu Christi, unsers Heylands, sampt gründtlichen
+          <lb/>widerlegung der Sacramentierer... — (Strasbourg,
+          <lb/>Christian Müller (Mylius) 1566, in-4°.
+          <lb/>Bibl. St. Guillaume, Strasbourg. (B N Strasbourg R 101.859 :
+          <lb/>Ritter, Rép. n° 1481l.
+          <lb/>2599
+          <lb/>MARBACH, Joh. : Von dem Bischofflichen Ampt unnd eines
+          <lb/>Bischoffs Tugenden... an die Hoch unnd Wolgebornen
+          <lb/>Herren des Hohen Stiffts zu Straszburg, da die Wahl eines
+          <lb/>newen Bischoffs daselbst angehen solt. Geschehen im
+          <lb/>Münster zu Straszburg... Mittwoch den XXVI. Jenners
+          <lb/>dises M.D.LX.IX. Jars... 1569. — (Strasbourg, Josias
+          <lb/>Rihel) 1569, in-4°.
+          <lb/>Bibl. St. Guillaume, Strasbourg.
+          <lb/>2600
+          <lb/>MARBACH, Joh. Voir: ABSCHIED, n° 731. Voir aussi RITTER,
+          <lb/>Rép. nos 1479-1485).
+          <lb/>MARCUS von Lindau : Frag und Antwurt der zehen gebott. —
+          <lb/>Fol. 60 (Strasbourg, Jean Grüninger (27.III1 1520), in-fol.
+          <lb/>Dacheux, Geiler, p. CLXXXIII; Schmidt I, no 171 : Ulm;
+          <lb/>Weller, Rep. 1384. — Ulm. [Éd. Grüninger 1516, voir : Ritter,
+          <lb/>Rép. n° 1488).
+          <lb/>2601
+          <lb/>349
+          <lb/>12
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

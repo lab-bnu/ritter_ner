@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:11.180298+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3317.tif
+IMAGE WIDTH: 2362
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>2°, Got., 2sp., 213 unn. Bll., 1 leeres Bl., Sign. a-2, A-M.
+          <lb/>Auf der Rücks, des Titelbl, grosser Holeschn, mit sieben der wich¬
+          <lb/>tigsten Helden, die in dem Buche vorkommen, im ganzen 229 Holeschn.,
+          <lb/>von denen mehrere eu verschiedenen Malen aiederkehren, so dass es
+          <lb/>eigentlich nur 143 sind, von denen ungefähr 90 neu, im Stile der
+          <lb/>Holeschn, wie sie bei dem Drucker Kistler vorkommen.
+          <lb/>Bl. 87b: Das ist mir gar wol kund
+          <lb/>Mir wolffaram dem werden
+          <lb/>Meyster von eschenbach.
+          <lb/>R10.038. Prov.: A. Cohn, Berlin 29. XII. 1877; 180 M.
+          <lb/>Schmidt VII Nr. 59; Brunet 1115 86: Les figures de cette édition
+          <lb/>sont des copies réduites de l’édition d’Augsbourg (G. Zainer s. d.). 1123
+          <lb/>HELDEN-BUCHLIN, Siche: BRUNFELS Otto
+          <lb/>HELIUS Eobanus. Siche: EOBANUS Helius Hessus
+          <lb/>HEMBUCHE. Siche: HENRICUS DE HASSIA
+          <lb/>HEMMINGIUS Nicolaus. Siche: HEMMINGSEN Niels
+          <lb/>759
+          <lb/>HEMMINGSEN Niels
+          <lb/>Strassburg, Th. Rihel 1586
+          <lb/>COMMENTARIA IN] OMNES EPISTO- LAS APOSTOLORVM,
+          <lb/>PAVLI, PETRI, IVDAE, IOHANNIS, IACOBI, ET IN EAM QVAE
+          <lb/>AD HEBRAEOS! inscribitur: scripta, recognita, emenda- ta
+          <lb/>&amp;amp; alicubi aucta à Nicolao Hemmingio. (Druckerm. Rihels.
+          <lb/>H &amp;amp; B Tafel XXXII Nr. 17.)
+          <lb/>In Praefatione summa doctrinae Ecclesiarum Danica¬
+          <lb/>rum breuissimè indicatur.
+          <lb/>ARGENTORATI] Excudebat Theodosius Rihelius, Anno
+          <lb/>M. D. LXXXVI. (Rücks, leer.)
+          <lb/>Am Schluss: IMPRESSVM ARGEN-! torati, apud Theodosium
+          <lb/>Rihe- lium. (Druckerm, wie auf dem Titelbl.) Darunter: M. D.
+          <lb/>LXXXVI. (Rücks, leer.)
+          <lb/>2°. Antiq., 8 unn. Bll. (Vorrede), 981 S., 42 unn. Bll. (Index,
+          <lb/>3sp.), Kopft., Kust., Init.
+          <lb/>Bl. a 2a: ... PRINCIPI ET DOMINO D. FRIDERICO, EIVS
+          <lb/>NOMINIS SECVNDO, DANIAE, NORVEGIAE, SLAVORVM ET GOT¬
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

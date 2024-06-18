@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:06.339521+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie080.tif
+IMAGE WIDTH: 2480
+IMAGE HEIGHT: 3918
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Mopus legendi abbreviaturas. — Strasbourg 1487, in-fol.
+          <lb/>Hain 11468.
+          <lb/>503
+          <lb/>Mopus legendi abbreviaturas cum aliis tractatibus juridicis.
+          <lb/>— Strasbourg, (impr. du Jordanus — Georges Husner)
+          <lb/>3 mars 1488, in-fol.
+          <lb/>Hain 11484, Polain 2752, Proctor 615, Voulliéme : Berlin 2421.
+          <lb/>504
+          <lb/>MOLITORIS, Johannes. Tabula Summae theologicae Antonini
+          <lb/>Florentini. — (Strasbourg, Jean Grüninger 1490),
+          <lb/>in-fol.
+          <lb/>G W2191, Hain-Copinger 1248, Schmidt I, n° 12; Walter no 31.
+          <lb/>505
+          <lb/>MOLITORIS, Ulricus : De laniis et phytonicis mulieribus. —
+          <lb/>(Strasbourg, Jean Prüss s. d.), in-40.
+          <lb/>Hain 11535; Proctor 562, Voulliéme : Berlin 2386, 5. 506
+          <lb/>MONTEVILLA, Johannes von : Itinerarius (en allemand). Von
+          <lb/>seltsamen Wundern und erfarnen Ländern. (Traduit
+          <lb/>vers 1470 d’après des textes latins et français par
+          <lb/>Otto von Diemeringen, chanoine à Metz). — Strasbourg,
+          <lb/>Jean Prüss, vers 1483, in-fol.
+          <lb/>Heitz-Ritter n° 375. — Baer (Francfort) Catal. 179 (1886);
+          <lb/>Brambach dans Centralbl. IV (1887) p. 427 mentionne un
+          <lb/>ex. dans la Bibl. de Carlsruhe.
+          <lb/>507
+          <lb/>MONTEVILLA, Joh. von (Idem). — Strasbourg, Jean Prüss
+          <lb/>1484, in-fol.
+          <lb/>Graesse IV, p. 361 ; Hain 10649, Proctor 512, Kristeller n° 44,
+          <lb/>Schmidt III, n° 8 ; Heitz-Ritter n° 376 : Augsbourg,
+          <lb/>Hannover, Londres, Stuttgart, Wolfenbüttel.
+          <lb/>508
+          <lb/>MONTEVILLA, Joh. von (Idem). — (Strasbourg, Barth.
+          <lb/>Kistler (2. IX] 1499), in-fol.
+          <lb/>Hain 10651; Kristeller n° 108; Schmidt IV, p. 4, n° 4; Heitz¬
+          <lb/>Ritter n° 378 : Dresde, Göttingen, Munich, Stockholm.
+          <lb/>509
+          <lb/>78
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

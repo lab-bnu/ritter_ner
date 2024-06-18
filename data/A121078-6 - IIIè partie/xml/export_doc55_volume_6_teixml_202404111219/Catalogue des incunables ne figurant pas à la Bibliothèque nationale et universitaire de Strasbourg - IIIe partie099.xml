@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:06.592797+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie099.tif
+IMAGE WIDTH: 2470
+IMAGE HEIGHT: 3934
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>TERENTIUS : Comoediae. — (Strasbourg, Jean Mentelin pas
+          <lb/>après 1470), in-fol.
+          <lb/>Brunet V, 762; Copinger III, 5736; Proctor 206; Schorbach:
+          <lb/>Mentelin n° 16; Braunschweig, B M Florence, B U Göttingen,
+          <lb/>Londres, Manchester, Oxford (Bodl.) B N Vienne, Wolfen¬
+          <lb/>büttel.
+          <lb/>640
+          <lb/>TERENTIUS. Voir aussi : DONATUS, Aelius no 211.
+          <lb/>TEXTOR de Aquisgrano, Guilelmus : Sermones tres de passione
+          <lb/>Christi. Avec : Anselmus Cantuarensis : Dialogus de
+          <lb/>passione Jesu Christi et Bernardus Claravallensis;
+          <lb/>De planctu B. Mariae. — (Strasbourg, impr. des Vitas
+          <lb/>Patrum (?) s. d.), in-fol.
+          <lb/>Polain 3674.
+          <lb/>641
+          <lb/>TEXTOR (Idem). — (Strasbourg, Martin Flach] 1490, in-40.
+          <lb/>Copinger 5777, Polain 3675, Proctor 686.
+          <lb/>642
+          <lb/>TEXTOR (Idem). — Strasbourg, (impr. du Jordanus —
+          <lb/>Georges Husnerl 11. II. 1496, in-40.
+          <lb/>Hain 1140, Polain 3676; Voullième : Berlin 2460.
+          <lb/>643
+          <lb/>THOMAS de Aquino : Summa theologica Secundae partis,
+          <lb/>pars secunda. — [Strasbourg, impr. du Henricus
+          <lb/>Ariminensis s. d.], in-fol.
+          <lb/>Hain 1455; Pellechet 1046, Polain 3752, Proctor 323;
+          <lb/>Voulliéme : Berlin 2178,5.
+          <lb/>644
+          <lb/>THOMAS de Aquino : De arte et vero modo predicandi. —
+          <lb/>(Strasbourg, impr. des Casus breves — Georges Husner
+          <lb/>vers 1494), in-4°.
+          <lb/>Madsen 3882, Pellechet 970.
+          <lb/>645
+          <lb/>THOMAS de Aquino: Questiones de potentia Dei, de unione
+          <lb/>verbi incarnati, de malo, de spiritualibus creaturis, de
+          <lb/>virtutibus, omnia a Johanne Winckel. O. P. edita. —
+          <lb/>(Strasbourg, Martin Flach 23, II, 1500), in-fol.
+          <lb/>97
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

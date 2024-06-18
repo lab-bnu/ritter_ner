@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:05.160320+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002136.tif
+IMAGE WIDTH: 2504
+IMAGE HEIGHT: 3948
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>CRUSIUS, Martinus : Scholia in primam, secundam ac tertiam
+          <lb/>Virgilii eclogam Sturmiana. — Strasbourg, Blaise
+          <lb/>Fabricius 1556, in-80.
+          <lb/>BN Paris: Yc. 5338.
+          <lb/>1467
+          <lb/>CRUSIUS, Martinus : Salomoni Schweigkero Sultzensi, qui
+          <lb/>Constantinopoli in aula legati Imperii Romani aliquot
+          <lb/>annos ecclesiasta fuit et in Aegypto, Palestina, Syria
+          <lb/>peregrinatus est, gratulatio. — Strasbourg, Nicolas
+          <lb/>Wyriot 1582, in-4°.
+          <lb/>Schottenloher 19.563.
+          <lb/>1468
+          <lb/>CRUSIUS, Mart. Voir aussi: XENOPHON n° 3573. RITTER,
+          <lb/>Rép. n° 602.
+          <lb/>CRUSIUS, Paulus: Collatio de formis loquendi, quibus utimur
+          <lb/>in descriptione peccati originalis : unâ cum Zoznrúgel
+          <lb/>De bonis operibus : Veritatis eruendae gratia scripta
+          <lb/>à M. Paulo Crusio Coburgensi... Nunc demum recognita,
+          <lb/>&amp;amp; in lucem edita, à M. Paulo Crusio, Pauli filio, Molen¬
+          <lb/>dino, H. Guilhelmitanae Argentinensium Ecclesiae
+          <lb/>Diacono; C. S. C. Addita praefatione iudicium continente
+          <lb/>... D. Ioannis Pappi... — Argentorati, typ. Iodoci
+          <lb/>Martini. M.D.XCVIII (1598), in-8°,
+          <lb/>Grand Sém. Strasbourg Z 342.
+          <lb/>1469
+          <lb/>CUBICULARIUS, Ulricus : Cerva matutina, H. E. [hoc est)
+          <lb/>Psalmi XXII. Deus meus, etc. Paraphrasis : Authore
+          <lb/>D. Ulrico Cubiculario Pfaffenhofensis... Opera &amp;amp; studio
+          <lb/>M. Pauli Crusii Molendini, Guilhelmitani Argentinensium
+          <lb/>templi Diaconi, edita. Cum praefatione ad Generosum
+          <lb/>Dominum D. Ioannem Joachimum, Liberum Baronem
+          <lb/>à Zinzendorff &amp;amp;c. — Argentinae excudebat, Antonius
+          <lb/>Bertramus M. D. LXXXX (1590), (répété à la fin avec
+          <lb/>la marque typ. de Bertram.), in-80.
+          <lb/>Grand Séminaire Strasbourg Z 342.
+          <lb/>1070
+          <lb/>CULSAMERUS. Voir : USINGEN, Bartholomaeus n° 3387.
+          <lb/>134
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

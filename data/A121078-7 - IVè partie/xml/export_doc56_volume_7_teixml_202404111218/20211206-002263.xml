@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:08.681315+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002263.tif
+IMAGE WIDTH: 2522
+IMAGE HEIGHT: 3964
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>INSTRUCTIO: manductionem praestans in cartam itinerariam
+          <lb/>Martini Hilacomili cum luculentiori ipsius Europae
+          <lb/>enarratione a Ringmanno Philesio descripta. —
+          <lb/>(Strasbourg, Jean Grüninger, avril 1511), in-4°,
+          <lb/>Panzer 6, 92; d’Avezac 135; Schmidt I, n° 121. — Paris
+          <lb/>B N et Bibl. Mazarine.
+          <lb/>2124
+          <lb/>INSTRUCTIO: Europae seu Cartae itinerariae... instructio... —
+          <lb/>(Strasbourg, Jean Grüninger 24.VI.1527), in-4°,
+          <lb/>Schmidt I, n° 234; Ritter, B M Strasbourg, n° 1276.
+          <lb/>2125
+          <lb/>INTRODUCTORIUM : Elementale Introductorium in... declina¬
+          <lb/>tiones graecas. — Strasbourg (Mathias Schürer) 1512,
+          <lb/>T. O. (Tempus Observa), in-40.
+          <lb/>Schmidt VIII, n° 90; Walter, n° 1128. (Ritter, Rép. nos 673¬
+          <lb/>676 ; éditions Schürer 1513, 1514, 1515, 1517).
+          <lb/>2126
+          <lb/>INTRODUCTORIUM : (Idem). — Strasbourg, Jean Knobloch
+          <lb/>1523, in-40.
+          <lb/>Schmidt VII, n° 271.
+          <lb/>2127
+          <lb/>INTRODUCTIO Cosmographiae. Voir: WALDSEEMÜLLER,
+          <lb/>Martin n° 3456.
+          <lb/>IRSAMER, Andreas : Kurtze und eygentliche Beschreibung,
+          <lb/>welcher gestalt im auszgang des vergangenen 1583 und
+          <lb/>dises jetzt lauffenden 84. Jars die frembden und unbe¬
+          <lb/>kandten Vögel im Westerreich mit einem unmenschlichen
+          <lb/>hauffen geflogen sein... sampt einer kurtzen vermahnung
+          <lb/>an alle frommen Christen. — Strasbourg 1584, in-4°.
+          <lb/>Rosenthal (Munich), Catal. 89 (1928), n° 828 ; 15 M. « Der
+          <lb/>Verfasser war Pfarrer in Pfalzburg».
+          <lb/>2128
+          <lb/>ISAACUS, Monachus : Scholia in Euclidis Elementorum
+          <lb/>geometriae sex priores libros... [éd. et trad. par Conrad
+          <lb/>Dasypodius). — Strasbourg 1579, in-8°.
+          <lb/>BN Paris V 18.140.
+          <lb/>2129
+          <lb/>261
+          <lb/>9-1
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

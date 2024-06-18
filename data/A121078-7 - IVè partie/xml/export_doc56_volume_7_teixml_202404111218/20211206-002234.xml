@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:07.672508+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002234.tif
+IMAGE WIDTH: 2504
+IMAGE HEIGHT: 3990
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>aliorum Impressionibus est neglecta. — Haguenau,
+          <lb/>(Thomas Anshelm mars 1518), in-4°,
+          <lb/>Burg, n° 212.
+          <lb/>1984
+          <lb/>HENRICHMANN, Jacobus. Voir: FRISCHLIN, Nicodemus
+          <lb/>n° 1793. (RITTER, Rép, nos 1125-1131).
+          <lb/>HENRICUS VIII : Assertio septem sacramentorum adversus
+          <lb/>Martinum Lutherum... — (Strasbourg, Jean Grüninger.
+          <lb/>(9 août) 1522), in-4°.
+          <lb/>Panzer 6, 98; Schmidt I, n° 188 : Bibl. Bâle. (L’édition
+          <lb/>allemande voir Ritter, Rép. n° 1119 et Schmidt I, n° 189l.
+          <lb/>1985
+          <lb/>HENRICUS VIII. Hoc libello continentur Articuli D. Mar.
+          <lb/>Luther ex eiusdem captivitate babilonica excerpti per
+          <lb/>Henricum Angliae regem in assertionum libro pro maiori
+          <lb/>parte improbati... — (Strasbourg, Jean Grüninger 15221,
+          <lb/>in-40.
+          <lb/>Breslauer (Berlin), Katal. III (1908), n° 508 : 40 M. 1986
+          <lb/>HENRICUS VIII : Wer Küniglicher Maiestet des Reichs stende
+          <lb/>und der Landschafft Engellandt will und meynung ist
+          <lb/>des Conciliums halb so Bapst Paulus der dryt zu Mantua
+          <lb/>auff dem xxiiï tag Maij zuhalten fürgeben. —
+          <lb/>Strasbourg, Wendelin Rihel 1537.
+          <lb/>Ritter : Hist. Impr., p. 264.
+          <lb/>1987
+          <lb/>HENRICUS VIII. Voir aussi: LUTHER nos 2465/6; POLUS,
+          <lb/>Regin, n° 2967.
+          <lb/>HENRICUS DE HASSIA : Plantator gymnasii Vienensis in
+          <lb/>Austria contra disceptationes et contrarias predicationes
+          <lb/>fratrum mendicantium super conceptione beatissime
+          <lb/>Marie Virginis et contra maculam sancto Bernhardo
+          <lb/>mendaciter impositam... — (Strasbourg, René Beck
+          <lb/>1516), in-4°.
+          <lb/>232
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

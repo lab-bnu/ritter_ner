@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:05.879495+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3074.tif
+IMAGE WIDTH: 2322
+IMAGE HEIGHT: 3842
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>518
+          <lb/>Ca-pito... — Geben zu Straszburg am) 10 tag Octobris,
+          <lb/>anno 1533. (Vorrede, 14 S.)
+          <lb/>Bl. b 1a: Dem edlen herren Julien pflûg entbeüt sein
+          <lb/>grûsz Desid. Erasmus. von Roterdam... — Geben
+          <lb/>Freiburg, am letsten tag des monats Julij. 1533.
+          <lb/>Handschr. Notizen. Auf dem Titelbl.: Dem frommen lieben Herrn Lux
+          <lb/>R101776. Prov.: L. Rosenthal, München, 24. 1. 1887; 18M.
+          <lb/>Müller in Augspurg.
+          <lb/>GK: SB Berlin, UB Marburg; Oxford. Bibl. Bodleiana. 786
+          <lb/>ERASMUS: De conscribendis epistolis Strassburg, J. Albrecht 1534
+          <lb/>D. ERASME ROTERODAMI OPVS DE CON] scribendis epi¬
+          <lb/>stolis recognitum denuo ab autore &amp;amp; lo cupletatum.
+          <lb/>BREVISSIMA, MAXIMEOVE COM] pendiaria conficiendarum
+          <lb/>epistolarum for- mula, ante annos aliquot per eun dem
+          <lb/>autorem aedita.
+          <lb/>METHODVS CONSCRIBENDI EPI- stolas, autore Christo¬
+          <lb/>phoro Hegendorphino, propter studiosorum utili- tatem
+          <lb/>adiecta.
+          <lb/>ARGENTINAE EX OFFICINA! IOAN. ALBERTI. Anno M. D.
+          <lb/>XXXIIII. MENSE MAR. (Rücks, leer.)
+          <lb/>80, Kursiv, 7 unn. Bll., 477 num. S., Kopft., Kust., Marg., Init.
+          <lb/>Bl. a 2a: ERASMVS ] ROTERODAMVS NICO- LAO BERALDO
+          <lb/>S. D.... — Basileae VIII. Calen. IuniasAnno. M.D.
+          <lb/>XXII. (3 S.) Folgt ein Index von 7 S.
+          <lb/>Bl. A7a: AD SODALES ERASMO ROTERO. ! consuetudine
+          <lb/>iunctissimos. Ioannes! Sapidus Selestadiensis! Germanus...
+          <lb/>(lateinische Verse, 3 S.).
+          <lb/>Der erste Traktat geht bis 430; der zweite von 431-450, der dritte
+          <lb/>(Methodus conscribendi epistolas von Hegendorf) von 451–477.
+          <lb/>Titel des 2. Traktates: BREVISSI MA MAXIMEQVE com¬
+          <lb/>pendiaria Conficiendarum epistola¬ rum formula, per eun¬
+          <lb/>dem! Erasmum Rotero- damum. Titeleinfassung: Siehe Nr. 788.
+          <lb/>Auf der Rücks.: D. ERASMVS ROTE-RODAMVS PETRO
+          <lb/>PALVDANO. (4S.)
+          <lb/>R102.0111. Prov.: G. Lissa, Berlin, 27. IV. 1894, 10 M.
+          <lb/>Auf der Rücks. des Schutablattes: Antonio Lanini.
+          <lb/>787
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:05.988937+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3082.tif
+IMAGE WIDTH: 2320
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>526
+          <lb/>ERYTHRAEUS Valentinus
+          <lb/>Strassburg, Chr. Mylius 1556
+          <lb/>VALENTINI ERY- THRAEI IN ORATIONEM M. T. C. PRO
+          <lb/>LEGE MANILIA, de Pompeii laudibus An-notationes veyvo¬
+          <lb/>ALEI
+          <lb/>TINIERY.
+          <lb/>thræi Lindauiensis
+          <lb/>~
+          <lb/>22
+          <lb/>VNVS de Grammaticorum
+          <lb/>320
+          <lb/>figuris, tam singulorum, quan
+          <lb/>coniunctorumuerborum:
+          <lb/>Et de Periodis.
+          <lb/>ALTER Rei Tôy PoxoN
+          <lb/>hoc est, de Modis, qui sunt partim
+          <lb/>in uerbo, partim in
+          <lb/>Cum gratia &amp;amp; Priuilegio
+          <lb/>oratione.
+          <lb/>ARGENTORATI APVD
+          <lb/>Cæsarço.
+          <lb/>Vuolfium Cephalæum.
+          <lb/>4
+          <lb/>9.
+          <lb/>Aoyixαì VNA CVM ORATIO- NE CICERONIANA EMENDATA,
+          <lb/>&amp;amp; Incisorum, Membrorum, atque Periodorum notis di¬
+          <lb/>stincta.
+          <lb/>ARGENTORATI EXCVDEBAT CHRISTIANVS MYLIVS.) M. D.
+          <lb/>LVI. (Kleebl.)
+          <lb/>Zu Nr. 798 (S. 525).
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

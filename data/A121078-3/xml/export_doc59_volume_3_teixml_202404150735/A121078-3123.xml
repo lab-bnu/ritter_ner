@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:06.605093+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3123.tif
+IMAGE WIDTH: 2314
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>FISCHART Johann
+          <lb/>Strassburg, Bern. Jobin 1588
+          <lb/>Ordenliche Beschreibung Welcher gestalt die Nach¬
+          <lb/>barliche Bündnusz vnd Verain der dreyen! Löblichen Freien
+          <lb/>Stätt! Zürich, Bern vnd Straszburg, dieses gegen- wertigen
+          <lb/>1588. Jars, im Monat Maio ist er- newert, bestättigt vnd
+          <lb/>vollzogen worden.! Sampt etlichen Poetischen Glückwün¬
+          <lb/>schungen vnd sonsten Nötige! Erinnerung vnd Vorred,
+          <lb/>Auch Figuren, vnd der gemelten drey Stätt Contrafac¬
+          <lb/>turen. (.)
+          <lb/>Holeschn.: Landschaft, im Hintergrund der Sankt Gotthard, 2u
+          <lb/>dessen Füssen: Rhein, Limat u. Aar; im Vordergrund, links ein Löwe,
+          <lb/>rechts ein Bär, in der Mitte in einem Garten: 3 Lilien.
+          <lb/>Getruckt zu Straszburg, turch Bernhart Jobin. Anno
+          <lb/>M. D. LXXXVIII. (Rücks, leer.)
+          <lb/>40, Got., 4 unn. Bll., 3 gefaltete Doppelbll, mit den Abbild, von
+          <lb/>Strassburg, Zürich u. Bern; 20 num. Bll. (1-20), 24 num. S. (21-45,
+          <lb/>falschlich 45 statt 44), Kopft., Kust., Marg., Init., Titel rot u. schuvara.
+          <lb/>Unn. Bl. 2a: Den... Er- samen... Freyen Stätt
+          <lb/>Zürich, Bern, vnnd Straszburg, zur... Bundeserneuwerung...
+          <lb/>1588.
+          <lb/>Unn. Bl. 2b: Widmung... Datum in Straszburg den zwei¬
+          <lb/>ten Se-ptembris, Anno M. D. LXXXVIII.... Bernard Jobin.
+          <lb/>Unn. Bl. 3b: Kurtze Erklerung vorgesetzter Figuren von
+          <lb/>der Straszburgischen Bündnüsz mitt den beyden Stätten
+          <lb/>Zürich, vnd Bern... (53 Verse, die sich auf den Holzschn, bezichen.
+          <lb/>Es folgen 3 Ansichten von Eurich, Bern u. Strassburg, mit deutschen
+          <lb/>Versen darunter.
+          <lb/>Bl. 1-11a: Wolmeinende Erinne-rung... (Vorrede.)
+          <lb/>Bl. 16-20b: Beschreibung Straszburgischer Bündnüsz
+          <lb/>mit Zürich vnd Bern.
+          <lb/>Bl. 19a: 4 Medaillons, wovon 2 mit dem Datum: 1588.
+          <lb/>S. 21-28, 2sp.: PoemataZu Ehren der Straszburgischen
+          <lb/>Bündnusz. Carmen... scriptum à Mavritio Disdorpio
+          <lb/>Holsato. (Lat. Gedicht.) Folgen weitere lat. u. deutsche Gedichte.
+          <lb/>R102.270. Prov.: Baer é Co., Frankfurt a. M. 1871.
+          <lb/>GK: SB Berlin; UB Breslau, Göttingen, Konigsberg; Baer,
+          <lb/>Frankfurt a. M., Katal, 500 (1907) Nr. 805; 150 M.
+          <lb/>Goedeke II2, S. 501 Nr. 48. Hauffen I, 67; II, 50-56, 241, 278-9,
+          <lb/>346-7, 349, 359, 383.
+          <lb/>860
+          <lb/>567
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

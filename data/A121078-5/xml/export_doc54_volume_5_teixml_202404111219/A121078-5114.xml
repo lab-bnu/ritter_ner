@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:53.225194+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5114.tif
+IMAGE WIDTH: 2344
+IMAGE HEIGHT: 3858
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1422
+          <lb/>il ibai Porimi
+          <lb/>Arboris predicatorie erplanatio breuis,
+          <lb/>¶&amp;#x27;Predicatio arborisil iestbema er radice sumt. Dò in stipitener
+          <lb/>ascensuz osequit Salutatio ppli Zbemad resumptio. Introdu¬
+          <lb/>ctio eiusdẽ. Diuini auril q̃ imploratio. Diuisio, partiũ oiuisionis
+          <lb/>psecutio z amplificatto - Conctusio, Rami aũt arboris vtrinq:
+          <lb/>sunt: Subdiuisio,z diplificatio,
+          <lb/>SURGANT Iohannes Ulricus Strasbourg, J. Knobloch, 1520
+          <lb/>Manuale Cu ratorum predicandi prebens modum...
+          <lb/>(Comme dans l’édition précédente).
+          <lb/>A la fin: Preuium curatorum a mendorum iniuria vindica¬
+          <lb/>tum, in officina chalcographica, solertis vi ri Joannis Kno¬
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

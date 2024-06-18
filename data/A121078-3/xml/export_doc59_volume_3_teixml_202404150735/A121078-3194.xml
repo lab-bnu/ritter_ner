@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:08.180384+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3194.tif
+IMAGE WIDTH: 2320
+IMAGE HEIGHT: 3852
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>688
+          <lb/>GEILER Johannes
+          <lb/>Strassburg, M. Schürer 1509
+          <lb/>Celeberrimi sacrarum litte rarum Doctoris Joannis
+          <lb/>Geiler Keisersbergij: Argentinensium Concionatoris bene
+          <lb/>me- riti. De oratione dominica Sermones.Per Jacobum
+          <lb/>Ottherum Neme- tensem hac forma. Collecti. (Rücks, leer.)
+          <lb/>Am Schluss: Mathias Schürerius Argentoraci emisit.
+          <lb/>iiij Kalendas Junias. Anno M. D.ix.
+          <lb/>Druckerm. Schürers. (H e B Tafel XII Nr. 1; Silvestre Nr. 1237.)
+          <lb/>40, Got., 82 unn. Bll., Sign. A-P, Init.
+          <lb/>Bi. 2: Iodoco Gallo ex Rubeaco... in Spiro Canonico
+          <lb/>Joannique Vigilio... Kathedralis Vangionum ecclesiae Cano¬
+          <lb/>nico... Jacobus Otthe-rus.... Ex Argentina. xvi Kalen¬
+          <lb/>das Juni. M. D. IX. Folgt ein Index von 17 S.
+          <lb/>R101.355. Prov.: Hirsch, München 10. VIII. 1907; 18M.
+          <lb/>2. Ex. R101.3622. Prov. : Bibl. Ch. Schmidt.
+          <lb/>Dacheux, Geiler CII; Schmidt VIII Nr. 17. Im GK: 11 num.
+          <lb/>Bogen. Ex, nur in Berlin SB; (Original 2. At, nicht benutzbar, daher
+          <lb/>nicht nacheuprufen, ob identisch).
+          <lb/>951
+          <lb/>GEILER Johannes
+          <lb/>Strassburg, Joh. Knobloch 1509
+          <lb/>Der Text des passions oder Iydens christi,! ausz den
+          <lb/>vier ewangelisten zûsammen yn eyn synn bracht mit
+          <lb/>schönen figuren. Akrostichon von 10 deutschen Versen:,Regier
+          <lb/>dein hertz durch ware lieb etc.&amp;quot; wie in der ersten deutschen
+          <lb/>Ausg. von 1506. (Nr. 948.)
+          <lb/>Am Schluss:... Getruckt von Johannes Knoblouch! zù
+          <lb/>Straszburg, In dem jar als man zalt M. ccccc. ix.
+          <lb/>20, Got, 34 unn. Bll., Sign. A-F, Kopft., Marg,, grosse Init. E,
+          <lb/>D,V, M, P, A, Joh. Schott zugehörig. Neudruck der Ausg. von 1507,
+          <lb/>(Schmidt VII Nr. 35.) mit den Holeschn. der Ausg. von 1506. (Nr. 948.)
+          <lb/>R10.117. Prov. : Bibl. Heitz, Strassburg 1871.
+          <lb/>Dacheux, Geiler XCIII, Schmidt VII Nr. 60, Proctor II Sectio I
+          <lb/>Nr. 10.070. London Brit. Museum
+          <lb/>952
+          <lb/>GEILER Johannes
+          <lb/>Strassburg, M. Schürer um 1510
+          <lb/>Das irrig Schaf... (Siehe Titelblatt, S. 639.)
+          <lb/>Am Schluss: Hie endent sich disze siben tractat.... Vnd
+          <lb/>ge truckt durch magistrum Mathiam Schürer.
+          <lb/>40, Got. 7 Stücke, von denen jedes ein eigenes Titelbl, besitet.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

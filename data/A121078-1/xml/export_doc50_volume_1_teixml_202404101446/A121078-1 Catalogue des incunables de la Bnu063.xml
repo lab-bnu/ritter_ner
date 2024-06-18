@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:37.263673+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu063.tif
+IMAGE WIDTH: 2378
+IMAGE HEIGHT: 3844
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>DIRECTORIUM statuum. (Strasbourg), J. Prüss pour Pierre
+          <lb/>Attendorn (après le 25 octobre 1489), in-4°.
+          <lb/>G W 8476, Hain 6274, Madsen 1421, Pellechet 4343, Proctor
+          <lb/>542, Schmidt IV, p. 2, Schreiber 3831, Voulliéme: Berlin
+          <lb/>2370; Schramm, Bilderschmuck XX, grav. N° 1261-1262.
+          <lb/>K 1449. Prov.: J. Noiriel, Strasbourg, 8/x. 1882, 14 M. Au¬
+          <lb/>dessous du titre: «Johannes Protzer».
+          <lb/>148
+          <lb/>DIRECTORIUM vitae humanae. Voir: Johannes de Capua.
+          <lb/>DISCIPULUS. Voir: Herolt.
+          <lb/>DONDUS Jacobus de: Aggregator Paduanus de medicinis sim¬
+          <lb/>plicibus. (Strasbourg, A. Rusch, (typ. R., vers 1470.)
+          <lb/>G W 9042, Hain 6395, Pellechet 4435, Proctor 248, Voullième:
+          <lb/>Berlin 2119.
+          <lb/>K 1461. Prov. inconnue. Au verso du 2e f. de garde: Iste liber
+          <lb/>pertinet ad monasterium sti. Albani prope treueri ordinis
+          <lb/>Carthusien. Au-dessous d’une autre main: «Imprimé à Stras¬
+          <lb/>bourg vers 1470 avec les caractères goth. de Jean Mentelin.
+          <lb/>(Brunet au nom de Dondis). Rel, anc.
+          <lb/>149
+          <lb/>DURANDUS Guillelmus: Rationale divinorum officiorum.
+          <lb/>(Strasbourg, Ad. Rusch (typ. R) s. d., in-fol.
+          <lb/>Hain 6461. Pellechet 4487, Pellechet: Colmar 564, Proctor 230.
+          <lb/>K 1474. Prov.; Baer 8 Co., Francfort s. M. 7/II. 1883, 40 M.
+          <lb/>Notes mss. Au verso du f. de garde: Liber hicce Durandi
+          <lb/>saepius quidem excusus, et tamen non ubivis obvius. Prodiit
+          <lb/>primum Moguntiae 1459, deinde soepius. Repetitis tamen
+          <lb/>hisce editionibus, non obstantibus infrequens est Durandus,
+          <lb/>imprimis editio praesens, quae Argentinae ex officina Mente¬
+          <lb/>lini prodiit, et Panzero in Annalibus typograph. Vol. I. p. 79
+          <lb/>exunde summa ejus raritas elucescit. Rel. anc.
+          <lb/>150
+          <lb/>DURANDUS Guillelmus: Rationale divinorum officiorum.
+          <lb/>(Strasbourg, G. Husner, vers 14702), in-fol.
+          <lb/>Hain 6466, Pellechet 4480, Proctor 363.
+          <lb/>K 1478. Prov.: Baer 8 Co., Francfort s. M., 15/xI. 1888, 20 M.
+          <lb/>Notes mss., exlibris à l’intérieur du 1er plat. Rel. anc. 151
+          <lb/>33
+          <lb/>R.3
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

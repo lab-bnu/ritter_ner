@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:11.550618+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3330.tif
+IMAGE WIDTH: 2372
+IMAGE HEIGHT: 3856
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>172
+          <lb/>HERMANNUS DE BARE: Summa Hermanni centum libellorum.
+          <lb/>In: REFUGIUM advocatorum. Strassburg, Joh. Knobloch 1518.
+          <lb/>1143
+          <lb/>HERMANNUS, comes a Neüenar, Censurae aliae Herbarum.
+          <lb/>In: BRUNSFELS Otto: Novi Herbarii Tomus Il. Strassburg,
+          <lb/>J. Schott 1536. Nr. 301.
+          <lb/>1144
+          <lb/>HERMAS Pastor
+          <lb/>Strassburg, Joh. Schott 1522
+          <lb/>PASTO RIS NVNCII POENITENTIAE Visiones quinque,
+          <lb/>Mandata duodecim, Similitudines uero decem, in qui! bus
+          <lb/>apparuit &amp;amp; locutus est HErMae, discipulo PAVLI apostoli.
+          <lb/>Cui etiam in principio apparuit ECCLESIA in uarijs figuris.
+          <lb/>ORIGINES alias saepe, tum etiam in commentarijs super
+          <lb/>lesum Na-ue libelli Pastoris, testimonium citat.! Eius
+          <lb/>meminit &amp;amp; ATHANASIVS in libro de incarnatione Christi,
+          <lb/>his uerbis, ille sane PASTORIS perquam utilis liber... (9 Z.)
+          <lb/>Am Schluss: Argentorati, apud Ioannem Schottum.
+          <lb/>M. D. XXII.
+          <lb/>20, Antiq., 31 unn., 3 leere Bll., Sign. a-e, Kopft., Marg., Init. Q.
+          <lb/>Auf der Rücks, des Titelbl.: NICOLAVS Gerbellius, pro Lec¬
+          <lb/>tori S.... — ARGENTOR.mense Martio, Anno M. D. XXII.
+          <lb/>(Vorrede, 31 Zeilen.)
+          <lb/>R 10.522. Prov.: Bibl. Ed. Reuss, Strassburg 1891. Handschr.
+          <lb/>Eintragungen:, Ex bibliotheca Rœhrichiana 18606. Daneben Autograph
+          <lb/>Ed. Reuss&amp;quot;. Auf der ausseren Einbanddecke:,Pastoris Nuntii peniten¬
+          <lb/>tiae mandata ac similitudines, ed. Nic. Gerbelius Arg. 1522*, von der
+          <lb/>Hand des Nicolaus Wurmser nach Mitteilung von Prof. Ficker, Strass-
+          <lb/>burg Februar 1907. Die handschr. Anmerkungen im Innern des Buches
+          <lb/>sind nach Prof. Ficker ebenfalls von Wurmser.
+          <lb/>Bibl. Wilh. Strassburg; BN Paris, O 2377 u. Rés. O 222.
+          <lb/>Schmidt II Nr. 67.
+          <lb/>1145
+          <lb/>HERMOGENES Tarsensis
+          <lb/>Strassburg. Joh. Rihel 1555
+          <lb/>(2 Zeilen griech. Text.) HERMOGENIS DE] FORMIS ORATIONVM
+          <lb/>Tomi duo. (Druckerm. Rihels. H&amp;amp; B Tafel XXIX Nr. 5; Silvestre
+          <lb/>Nr. 757.)
+          <lb/>ARGENTORATI apud) haeredes Vuendelini Ri helii.
+          <lb/>Anno 1555.
+          <lb/>80, Griech., 4 unn., 115 num. Bll., Kopft., Kust., Init.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

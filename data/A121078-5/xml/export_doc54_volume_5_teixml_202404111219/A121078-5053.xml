@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:50.714243+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5053.tif
+IMAGE WIDTH: 2382
+IMAGE HEIGHT: 3860
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1361
+          <lb/>fol. a 6a non ch. : Epicedium Ioannis Sleidani per!! Ioannem Sapidum.
+          <lb/>(10 dist.).
+          <lb/>Au verso un dist. de Jean Sturm et deux poésies de Iacobus Fabricius
+          <lb/>Chemnicensis.
+          <lb/>R. 10.478. Prov. : Bibl. Prof. Baum, 1879.
+          <lb/>De nombreuses annotations mss dans le texte. Au bas du titre : Sum
+          <lb/>Philippi Ghelii Argentinensis et amicorum. Au verso du f. de garde:
+          <lb/>« Ghelius germanice Geiger jetz in Lahr. Au recto : De Sleidano cf. Sagit¬
+          <lb/>tarii Introd. in hist. Eccles. T. I. p. 105 sq. &amp;amp; Schmidii supplem. T. 2,
+          <lb/>p. 114-115».
+          <lb/>Histoire de la Réformation ou Mémoire sur l’État de la Religion et
+          <lb/>de la République pour l’Empire de Charles Quint de Jean Sleidan, trad.
+          <lb/>par Pierre François le Courrayer, à la haye, 1767. 3 T. 4°, Versteigerung
+          <lb/>Lichtenberger, constat 6 fr. 25 c. Ioh. Baum stud. Theologiae April 1832 ».
+          <lb/>Au-dessous : Nonnulla ex mss. vel aliis fontibus fide dignis et additi
+          <lb/>&amp;amp; emendavi Bing.
+          <lb/>Oxford, Bibl. Bodleiana.
+          <lb/>2142
+          <lb/>SLEIDANUS Johannes
+          <lb/>Strasbourg, Josias Rihel, 1561
+          <lb/>Ioan. Sleidani, de sta-u Religionis et Reipublicae,
+          <lb/>Carolo Quinto, Caesare, 11 Commentariorum libri XXVI.
+          <lb/>Viginti Quinque Libris, Praeter Accu-rationem totius
+          <lb/>operis recognitionem, etiam nunc primùm ui-gesimus sextus
+          <lb/>accessit, quem author ipse post primam editio-nem conscri¬
+          <lb/>bere coepit, &amp;amp; usque ad profectionem Caesaris in Hispaniam
+          <lb/>perduxit.
+          <lb/>Vna cum Apologia ab ipso authore conscripta, &amp;amp; Indice!
+          <lb/>locupletissimo.
+          <lb/>Marque typ. de Jos. Rihel. (H. &amp;amp; B. Planche XXXI, No 8.)
+          <lb/>M. D. LXI.
+          <lb/>A la fin : Argentorati, per Iosiam Rihelium.M. D. LXI.
+          <lb/>In-8°, car. ital., 8 ff. non ch., 513 ff. ch., 13 ff. non ch, à 2 col. (Index),
+          <lb/>titre courant, réclames, notes marg., init. ornées.
+          <lb/>Au verso du titre : Author Lectori... (1 p.).
+          <lb/>La préface de 1555 et l’apologie comme dans les éditions précédentes.
+          <lb/>R. 101.847. Prov. : Don de la BM de Mayence, 1871.
+          <lb/>Notes mss., au milieu du titre, « Christianus Theodorus Westphal
+          <lb/>emit Coloniae Agrip. 1720 ».
+          <lb/>A l’intérieur de la couverture : « Ioannes Ursinus Spirensis me sibi
+          <lb/>vendicat Anno 1676 ».
+          <lb/>Au bas: «NB : Hic liber non ab omnibus, sed aliquibus et caute
+          <lb/>legendus ». Ritter, Catal. BM Strasbourg, n° 1934 et Bibl. St. Guillaume,
+          <lb/>Strasbourg.
+          <lb/>2143
+          <lb/>SLEIDANUS Iohannes
+          <lb/>Strasbourg, Théodose Rihel, 1566
+          <lb/>Ioannis Sleidani!! Commentario- rum de statu religio- nis
+          <lb/>&amp;amp; Reipublicae, Carolo Quinto! Caesare, Libri XXVI. (] Vnà
+          <lb/>cum Apologia ab ipso Authore conscripta,! &amp;amp; Indice locuple¬
+          <lb/>R. 86
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

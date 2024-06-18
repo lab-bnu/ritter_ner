@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:13.547646+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002481.tif
+IMAGE WIDTH: 2476
+IMAGE HEIGHT: 3986
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>zu der freyheit des fleyschs und zu bekrefftigen den alten
+          <lb/>Adam... (9 lignes). Doctor Jacobus Strausz Ecclesiastes
+          <lb/>zu Eyssenach. M. D.XXiij. — [Strasbourg] 1523, in-4°.
+          <lb/>Bibl. S. Guillaume, Strasbourg.
+          <lb/>3282
+          <lb/>STURM, Hugo : Wir Hugo Sturm der Meister und der Raht
+          <lb/>diser freyen Reichs Statt Straszburg. Thun kundt
+          <lb/>menniglich: Als unsere nechste Vorfahren und wir
+          <lb/>unter dato den xxïii. tag Februarii, des verschienen
+          <lb/>Neun und Achtzigsten Jars durch ein offen im Truck
+          <lb/>auszgangen, und publicirt Mandat, statuiert,... Dasz
+          <lb/>niemand einige Müntzen... auff oder einwechseln soll...
+          <lb/>verbieten hierauff allen unsern Burgern... solche frembde
+          <lb/>Müntzen... forthin auff oder einwechseln... (Actum &amp;amp;
+          <lb/>Decretum Mitwochs den X.Octob. 1593). —
+          <lb/>(Strasbourg) 1593, placard in-fol.
+          <lb/>Ritter: B M Strasbourg, n° 1988.
+          <lb/>3283
+          <lb/>STURM, Hugo : (Idem). — (Actum &amp;amp; Decretum Montag
+          <lb/>den XVII. Decembris... 1593. — (Strasbourg) 1593,
+          <lb/>placard in-fol.
+          <lb/>Ritter : B M Strasbourg, n° 1989.
+          <lb/>3284
+          <lb/>STURM, Joh. : De amissa dicendi ratione, &amp;amp; quomodo ea
+          <lb/>recuperanda sit, Libri duo... (Marque typ. de l’impr.). —
+          <lb/>Excudebat Theodosius Rihel, s. d., in-8°. A la suite de
+          <lb/>Sturm Joh., In partiones oratorias Ciceronis... s. d.
+          <lb/>Bibl. Grand Sém. Strasbourg B D 269. Ritter, B M Strasbourg,
+          <lb/>n° 1995 [des éd. de W. Rihel 1538, 1543 : Ritter, Rép. nos 2199
+          <lb/>et 2205).
+          <lb/>3285
+          <lb/>STURM, Joh. : In partitiones oratorias Ciceronis Dialogi
+          <lb/>quatuor, ab ipso Authore emendati &amp;amp; aucti. Nunc vero
+          <lb/>capitibus distincti, et castigatiores editi... — Strasbourg,
+          <lb/>Théodose Rihel [s. d.] in-8°.
+          <lb/>Ritter: B M Strasbourg, n° 1995 ; Bibl. Grand Sém. Strasbourg
+          <lb/>BD 269. (B N Strasbourg : Ritter, Rép. n° 2198).
+          <lb/>3286
+          <lb/>479
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

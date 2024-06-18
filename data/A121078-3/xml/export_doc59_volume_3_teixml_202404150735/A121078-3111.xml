@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:06.414502+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3111.tif
+IMAGE WIDTH: 2314
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>2 Abbildungen, unter einander: oben Marsilius sitzend, in der
+          <lb/>Mitte ein junger Edelmann, links davon ein anderer Mann (wie in der
+          <lb/>vorigen Nr. 839); der untere Holeschnitt ist ebenfalls dort entnommen.
+          <lb/>Am Schluss: Getruckt zû Straszburg vonJohan Grü¬
+          <lb/>niger. Im iarTüsent fünffhundert vnd neün.
+          <lb/>20, Got., 2sp., OXXX unn. Bll., Kopft., Zierinit., zahlreiche Ab¬
+          <lb/>bildungen von Pflanzen u. Instrumenten zum Distillieren.
+          <lb/>Auf der Rücks, des Titelbl.: Index.
+          <lb/>Bl. 2a: Die vorred.
+          <lb/>R 10.4261. Prov.: Carl Beck, Leipeig 12. VIII. 1907. Es fehlen
+          <lb/>840
+          <lb/>Bl. 20, 21, 29 u. 30. Handschr. Notizen.
+          <lb/>FICINUS Marsilius
+          <lb/>Strassburg, Joh. Schott 1511
+          <lb/>Marsilius Ficinus! Florentinus de triplici vita: scilicet
+          <lb/>sa- na, longa et celitus, vna cum textu seu regimine
+          <lb/>sani tatis Salerni. (Rücks. leer.)
+          <lb/>Am Schluss: Ex officina Joannis Schotti Argentinensis
+          <lb/>sexta Martij. Anno gratie. M. D. XI.
+          <lb/>40, Antiq., 97 num. Bll., Kopft,, leerer Raum für Init.
+          <lb/>Bl. 1-3a: Proemium... ad magnanimum Laurentium
+          <lb/>Medicem pa- trie seruatorem.
+          <lb/>Bl. 88b-92a : Apologia... xvi. Septembris. M. CCCC.
+          <lb/>I xxxix. in agro caregio.
+          <lb/>Bl. 92b-97b: Regimen sanitatis saler! nitanum: necnon
+          <lb/>et magistri Arnoldi de noua vil la feliciter incipit...
+          <lb/>R101779. Prov.: Bibl. Ch. Schmidt mit seinem Exlibris auf der
+          <lb/>Innenseite des Einbands. Auf dem 1. Schutebl.:,C. Schmidt, Juin 1886.
+          <lb/>Paris.&amp;quot;
+          <lb/>Stadtbibl. Strassburg 582. GK: SB Berlin, UB Göttingen, Kiel;
+          <lb/>Proctor II Sectio I Nr. 10.270: London, British Museum; Schmidt II
+          <lb/>Nr. 19; M. Kam. Schlumberger, Rappoltsweiler besitst ein Ex.; Gil¬
+          <lb/>hofer &amp;amp; Rauschburg, Wien (Versteigerung aus der Bibl. Dr. A. H.)
+          <lb/>1937, Nr. 8 bietet ein Ex. für 24 Mk. an, er erwähnt ein leeres Bl. am
+          <lb/>Schluss, das in unserm Ex. fehlt.
+          <lb/>841
+          <lb/>FICINUS Marsilius
+          <lb/>Strassburg, Joh. Grüninger 1515
+          <lb/>Das buoch des lebens. Marsilius ficinus von Flo¬
+          <lb/>rentz zû dem gesunden vnd langen leben der rechten
+          <lb/>artzneien von latin erst nüw zâ tütsch gemacht, vnd an¬
+          <lb/>derwert emendiert, vnd gebes- sert, mit vil neüwen zû
+          <lb/>555
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

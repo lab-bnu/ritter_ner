@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:06.838758+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002201.tif
+IMAGE WIDTH: 2504
+IMAGE HEIGHT: 3966
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>GALLINARIUS. Voir: LUcIaNus n° 2431; PSALTERIUM n° 3039;
+          <lb/>WIMPHELING no 3525.
+          <lb/>GALLUS, Jodocus. Voir : RELMISIUS, Georgius, no 3095.
+          <lb/>GALMY (Ritter). Voir: WICKRAM, nos 3489-3494.
+          <lb/>GAMELIA sive Symbola Nuptialia clarorum Germaniae
+          <lb/>virorum virtuti et honori nobilium conjugum Jeremiae
+          <lb/>Reusneri... et Elisabethae Wilandinae. — Strasbourg,
+          <lb/>Charles Kieffer 1586, in-8°.
+          <lb/>Ritter, Hist. impr. app. 400 (2).
+          <lb/>1810
+          <lb/>GARDINER, Stephan : Stephani Wintonensis Episcopi Angli,
+          <lb/>de vera obedientia. — Strasbourg, Wendelin Rihel 1536.
+          <lb/>Ritter : Hist. Impr., p. 264.
+          <lb/>1811
+          <lb/>GARNIER, Jean : Brieve et claire Confession de la Foye
+          <lb/>chrestienne. — Strasbourg, Jacques Poullain et Antoine
+          <lb/>Reboul 1558, in-8°.
+          <lb/>BrunetII?, col. 1489. [Ritter, Rép. n° 933; éd. 1555, Strasbourg,
+          <lb/>Poullain et Houdouyn).
+          <lb/>1812
+          <lb/>GART, Thiebolt : Joseph. Eine schöne... Comedia... —
+          <lb/>(Strasbourg, Sigismond Bund 1540), in-8°.
+          <lb/>Vogeleis, p. 242; Wackernagel 422; Martin, Ernst éd. dans:
+          <lb/>Elsässische Literaturdenkmäler des 14-17 Jahrh. vol. II
+          <lb/>(1880). (Ritter, Rép. n° 934 ; éd. 1546, J. Frölich).
+          <lb/>1813
+          <lb/>GART, Thiebolt : (Idem). — Strasbourg, Jacques Frölich
+          <lb/>1546, in-8°.
+          <lb/>Vogeleis, p. 242.
+          <lb/>1814
+          <lb/>GART, Thiebolt : (Idem). — Strasbourg, Christian Müller
+          <lb/>(Mylius) 1559, in-8°.
+          <lb/>Vogeleis, p. 242.
+          <lb/>1815
+          <lb/>199
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:07.139190+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3157.tif
+IMAGE WIDTH: 2316
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>GK: SB Berlin, UB Bonn, Breslau, Greifswald, Königsberg.
+          <lb/>Einige Exemplare haben S. 5 abweichend: AVTORIS AD LECTO¬
+          <lb/>REM aequum admonitio. Da die Seitenzahl der Exemplare des GK
+          <lb/>nicht angegeben ist, liess sich nicht feststellen, ob die Ex, zu Nr. 904
+          <lb/>oder 905 gehören.
+          <lb/>BN Paris, Yc. 8997; Oxford, Bibl. Bodleiana.
+          <lb/>904
+          <lb/>FRISCHLIN Nikodemus
+          <lb/>Strassburg, Bern. Jobin 1580
+          <lb/>PRISCIANVS VAPVLANS.  NICODEMI FRISCHLINI ALEMAN
+          <lb/>NI COMŒDIA LEPIDA, FACE- ta &amp;amp; utilis... (Gleicher Titel und
+          <lb/>Holeschnitt wie in vorhergehender Nummer.)
+          <lb/>ARGENTORATI. Apud Bernhardum Iobinum. ANNo
+          <lb/>M. D. LXXX. (Rücks, leer.)
+          <lb/>80, Kursiv, 69 unn. Bll., Sign. A-G, Kust., Marg., Init,, ohne die
+          <lb/>5 Textholeschn. der vorhergehenden Ausgabe.
+          <lb/>Bl. 2a: ILLVSTRISSIMO PRIN CIPI AC DOMINO, D. FRIDERI¬
+          <lb/>co, Comiti Vvirtenbergensi &amp;amp; Mompel- gardensi... Domino
+          <lb/>suo Clemen tissimo. S. D.... — Tu-bingae, 1579. Idib.
+          <lb/>Bl. 5b: DAVID SIGMVNDVS CASso! uiensis Hungarus L.
+          <lb/>S.... — Tubingae. Cal:Maij 1579. (3 Epheublätter.) (11S.)
+          <lb/>Der Text ist verschieden von demjenigen der vorigen Ausgabe, ob¬
+          <lb/>schon die Titel die gleichen sind, nur ist der letste ganz schwarz gedruckt.
+          <lb/>R 102.0r83. Prov.: Pfarrer Hartter, Luitzhausen 22. X. 1877;
+          <lb/>0,20M.
+          <lb/>Brunet II5, 1401.
+          <lb/>905
+          <lb/>FRISCHLIN Nikodemus
+          <lb/>Strassburg, Bern. Jobin 1585
+          <lb/>OPERVM POETICORVM! NICODEMI FRISCHLINI POETAE,
+          <lb/>ORATORIS ET PHILOSO- phi, pars scenica: in qua sunt,
+          <lb/>COMOEDIAE QVINQVE, REBECCA, SVSANNA, HILDEGARDIS,
+          <lb/>IVLIVS REDIVIVVS, PRISCIANVS VAPVLANS, TRAGOEDIAE
+          <lb/>DVAE, VENVS,  DIDO. Ex recentissima auctoris emenda¬
+          <lb/>tione.
+          <lb/>Druckerm. Jobins. (HEB Tafel XXXVII Nr. 1). Darunter:
+          <lb/>Cum Priuilegio Caesario.Apud Bernhardum Iobinum.
+          <lb/>Anno 1585. (Rücks. leer. Jede Komödie hat einen eigenen Titel,
+          <lb/>Kursiv.)
+          <lb/>Widmung Frischlins: Pietate, pru-dentia, et vera no¬
+          <lb/>bilitate ornatissimis viris: Vlmae, civitatis Imperialis,
+          <lb/>601
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:07.222213+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3162.tif
+IMAGE WIDTH: 2310
+IMAGE HEIGHT: 3844
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>606
+          <lb/>80, Kursiv, 8 unn. Bll., 519 S., 1 unn. Bl., Kopft., Kust.,
+          <lb/>Marg., Init., Holeschnitte S. 354, 373 u. 432. Bl. 8 Porträt Frischlins
+          <lb/>(Siche Nr. 920).
+          <lb/>Bl. 2a: Frischlin:... Christiano IIII. Friderici II. Filio,
+          <lb/>Christiani III. Nepoti, Friderici I. Pronepoti: Designato
+          <lb/>Regi Daniae, Norue giae Vandalorum et Gottorum... —
+          <lb/>Brunsuuige, Cal. April. Anno 1589. (20 lat. Dist.)
+          <lb/>Bl. 5: Praefatio lectori; Bl. 7-8: Prologus.
+          <lb/>R100.9491. Prov.: Bibl. Böcking. Handschr. Notizen.
+          <lb/>GK: SB Berlin, UB Breslau, Göttingen, Greifswald, Königsberg,
+          <lb/>Marburg (def.).
+          <lb/>912
+          <lb/>FRISCHLIN Nicodemus
+          <lb/>Strassburg, Bern. Jobin 1589
+          <lb/>HELVETIO- GERMANI, COMOEDIA NOVA, NEQVE ILLEPIDA
+          <lb/>ET LECTV, ACTVQVE iu! cunda, atque: utilis. ! AVCTORE! Ni¬
+          <lb/>codemo Frischlino.
+          <lb/>Druckerm. Jobins (HÈB Tafel XXXVII Nr. 5 mit den Worten:
+          <lb/>Sapientia! Constans).
+          <lb/>Darunter: ARGENTORATI, Excudebat Bernhardus Iobi¬
+          <lb/>nus! Anno M. D. LXXXIX. (Rücks, leer.)
+          <lb/>Am Schluss: ARGENTORATI.Apud Bernhardum Iobinum
+          <lb/>Anno M. D. LXXXIX. (Vign.)
+          <lb/>80, Kursiv, 118 S., 1 unn. Bl., Kopft., Kust., Marg., Init.
+          <lb/>S. 3-4:... IACOBO CVRTIO. S. Caes. Maiestati à secre¬
+          <lb/>tissimis consilijs, suo Domino &amp;amp; amico in comparabili
+          <lb/>S. P. D. Nicodemus Frischlinus, (22 lat. Dist.) S. 4-7. PRo¬
+          <lb/>LOGVS. (lat. Verse.) S. 111-118. 2 Elegien in lat. Versen. De Bello
+          <lb/>Helvetico.
+          <lb/>R100.9492. Prov.: Bibl. Böcking. Handschr. Notizen. 913
+          <lb/>FRISCHLIN Nikodemus
+          <lb/>[Strassburg, B. Jobins Erbenl 1592
+          <lb/>PHASMA:Hoc est:! COMOEDIA POSTHVMA, NOVA
+          <lb/>ET SACRA : DE VARHS HAERESIBVS  ET HAERESIARCHIS; QVI
+          <lb/>CVM LVCErenascentis per Dei gratiam Evangelijhisce
+          <lb/>novissimis temporibus! extiterunt. AvCTORE! NICODEMO
+          <lb/>FRISCHLINO, DOCTORE... (32.) (Vign.)
+          <lb/>IMPRESSVM IN IAZYGIBVS. ME-TANASTIS, Anno CHRISTI¬
+          <lb/>NATI 1592.) Antichristi verò revelati 75.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

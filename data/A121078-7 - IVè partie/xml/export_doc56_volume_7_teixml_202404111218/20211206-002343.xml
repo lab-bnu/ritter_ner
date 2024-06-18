@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:10.448136+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002343.tif
+IMAGE WIDTH: 2500
+IMAGE HEIGHT: 3974
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Doctor Martini Lutheri... — [Strasbourg, Martin Flach)
+          <lb/>1520, in-40.
+          <lb/>Schmidt VI, p. 32, n° 50 : Bibl. Centrale Zurich.
+          <lb/>2554
+          <lb/>LUTHER (Sermon vom Bann) : (Idem). — (Strasbourg,
+          <lb/>Martin Flach] 1520, in-4°.
+          <lb/>Schmidt VI, p. 31, n° 44; Weller, Rep. 1546. — Bâle. 2555
+          <lb/>LUTHER (Sermon von den Bildnissen) : Ein Sermon...
+          <lb/>Geprediget vonn den Bildtnüssen. Im Jar 1522. —
+          <lb/>(Colmar, Am. Farckall] 1522, in-4°. Benzing : Schürer
+          <lb/>n° 17.
+          <lb/>Weller 2187. Bibl. St. Guillaume, Strasbourg.
+          <lb/>2556
+          <lb/>LUTHER (Sermon von der Busse) : Ein Sermon von dem
+          <lb/>Sacrament der busz. — [Strasbourg, Martin Flach
+          <lb/>1520), in-4°.
+          <lb/>Horning, n° 3; Schmidt VI, p. 32, n° 48 : Bibl. S. Guillaume,
+          <lb/>Strasbourg.
+          <lb/>2557
+          <lb/>LUTHER (Sermon, Von den Concilien) : Ein Sermon Kürtzlich
+          <lb/>gepredigt... Unnd darbey den verstandt, wie vil krafft
+          <lb/>die heyligen Evangelia über die Concilia habent. —
+          <lb/>(Colmar, Am. Farckall 1523), in-40.
+          <lb/>Bibl. St. Guillaume.
+          <lb/>2558
+          <lb/>LUTHER (Sermon von der Ehe) : Ein Sermon von dem Elichen
+          <lb/>standt. — (Strasbourg, Jean Knobloch 1519), in-4°.
+          <lb/>Horning, n° 4; Schmidt VII, n° 180 : Bibl. S. Guillaume.
+          <lb/>Benzing: Schürer no° 16 : une éd. 1522: [Strasbourg, Math.
+          <lb/>Schurer hér.]
+          <lb/>2559
+          <lb/>LUTHER (Sermon vom Gebet) : Ein Sermon von dem gebeet
+          <lb/>und procession yn der Creützwochen... — (Strasbourg,
+          <lb/>Martin Flach 1520), in-4°.
+          <lb/>Schmidt VI, p. 32, n° 53 : Bibl. S. Guillaume, Strasbourg.
+          <lb/>2560
+          <lb/>341
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

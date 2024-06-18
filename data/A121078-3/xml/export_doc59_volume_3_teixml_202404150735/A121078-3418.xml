@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:13.831541+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3418.tif
+IMAGE WIDTH: 2416
+IMAGE HEIGHT: 3854
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>860
+          <lb/>JOSEPHUS Flavius
+          <lb/>Strassburg, Samuel Emmel 1564
+          <lb/>Flauij Io- sephi Des Hochberuempten! Histori be¬
+          <lb/>schreibers alle Bücher. Nemlich zwentzig von den alten
+          <lb/>geschichten der Juden. Syben vom Jüdischen krieg,! vnd
+          <lb/>zerstörung Hierusalem. Zwey wider Appionem Grammati¬
+          <lb/>cum, vom alten Herkommen der Juden, Eins von Mey¬
+          <lb/>sterschafft der vernunfft, vnd der Ma-chabeer Martyrung.
+          <lb/>Item. Beschreibung des lebens Flauij losephi,! so vor¬
+          <lb/>mals in Teütscher spraach nicht auszgangen ist.! Alles
+          <lb/>Durch D. Caspar Hedion verteutscht.Vnd jetzundt Von
+          <lb/>neüwem auffs fleissigst nach den Alten Griechischen
+          <lb/>Exemplaren restituiert, vnd an vie- len orten trefflich ge¬
+          <lb/>gebessert vnd gemehret. Mit Röm. Key. Mayestat Frei¬
+          <lb/>heyt! auff zehen Jar.
+          <lb/>Getruckt z6 Straszburg bey! Samuel Emmel. M. D.
+          <lb/>LXIIII. (Epheubl. ; Rücks, leer.)
+          <lb/>20, Got., 12 unn., CCCLVI aum., 18 unn. 2sp. Bll. (Index),
+          <lb/>Kopft., Kust., Marg., Init., Titel rot u. schwarz.
+          <lb/>Bl. A 2a:... dem Meyster I vnd Raht, vnd den Ein
+          <lb/>vnd zwentzigern, der Frey- statt Straszburg... Geben zû̀
+          <lb/>Straszburg den xv. Maij. Anno M. D. XXXV... Doctor Ka¬
+          <lb/>spar Hedio. (Vorrede, 5 Bll.)
+          <lb/>R 57 (1). Geschenk von Dr. Rothe, Dessau 27. x. 1881. Handschr.
+          <lb/>Eintragungen auf dem vorderen Einbanddeckel.
+          <lb/>1278
+          <lb/>JOSEPHUS Flavius
+          <lb/>Strassburg, Th. Rihel 1574
+          <lb/>Flauij Josephi, des Hochberühmten Jüdi- schen Ge¬
+          <lb/>schichtschreibers, Historien vnd Bücher: Von alten Jü¬
+          <lb/>dischen Geschich! ten, zwentzig, sambt evnem von seinem
+          <lb/>Leben: Vom jüdischen Krieg, vnd der Statt Jerusalem,
+          <lb/>vnnd des gantzen Lands zerstörung, siben: Von der
+          <lb/>Juden altem Herkommen wider Apionem! Grammaticum,
+          <lb/>zwei: Von Meysterschafft der!Wernunfft, vnd der Macha¬
+          <lb/>beer! Marter evns. Alles ausz dem Griechischen Exem¬
+          <lb/>plar, sammt! aller Bücher vnd Capitel Summarischer Inn¬
+          <lb/>halt, mit ! höchstem fleisz von newem verteutscht vnnd
+          <lb/>zugerichtet darzu mit Biblischen Concordantzen, Jar¬
+          <lb/>rechnung, or- dentlichem Register, vnnd schönen Figuren,
+          <lb/>deszgleichen! vorhin im Truck nie auszgangen,! gezieret.
+          <lb/>Mit Römischer Key. Maiest. Freiheyt. M. D. LXXIIII.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

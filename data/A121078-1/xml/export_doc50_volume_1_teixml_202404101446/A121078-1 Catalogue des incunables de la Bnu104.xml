@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:38.172277+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu104.tif
+IMAGE WIDTH: 2400
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>OTTO VON PASSAU: Die vierundzwanzig Alten. Strasbourg,
+          <lb/>J. Schott, 28 mars 1500, in-fol.
+          <lb/>Hain 12130, Madsen 2973, Proctor 762, Schreiber 4883, Voul¬
+          <lb/>liéme: Berlin 2561; Schramm, Bilderschmuck XIX, grav.
+          <lb/>N° 772-775.
+          <lb/>K 2765a. Prov.; J. Steinkopff, Stuttgart, 31. x. 1888, 36 M.
+          <lb/>Notes mss. Le dernier f. en facsimilé.
+          <lb/>350
+          <lb/>PALUDANUS PETRUS: Sermones thesauri novi quadragesi¬
+          <lb/>males. Strasbourg, (Martin Flach), 1487, in-fol.
+          <lb/>Copinger III. 5432, Proctor 675, Pellechet: Colmar 1192,
+          <lb/>Voulliéme: Berlin 2478.
+          <lb/>K 3310. Prov.: S. Kende, Vienne, 16. VI. 1888, 4 M. 351
+          <lb/>PALUDANUS PETRUS: Sermones thesauri novi quadragesi¬
+          <lb/>males. Strasbourg, (Martin Flach), 1488, in-fol.
+          <lb/>Copinger III. 5434, Schmidt V, 15, Pellechet: Colmar 1193,
+          <lb/>Voulliéme: Berlin 2481.
+          <lb/>K 3311. Prov.: Don de Fid. Butsch fils, Augsbourg, 1872. A la
+          <lb/>suite de Paludanus, Sermones thesauri novi de sanctis,
+          <lb/>Strasbourg, 1488. K 3305. Rel. anc.
+          <lb/>352
+          <lb/>PALUDANUS PETRUS: Sermones thesauri novi quadragesi¬
+          <lb/>males. Strasbourg, (Martin Flach), 1491, in-fol.
+          <lb/>Copinger 5435, Madsen 3008, Pellechet: Colmar 1194,
+          <lb/>Schmidt VI, 39, Voulliéme: Berlin 2492, 5.
+          <lb/>K 3312. Prov.: Don de Fidelis Butsch fils, Augsbourg, 1872.
+          <lb/>Au haut du titre: «Monasterij Ranshouen.» Rel. anc.
+          <lb/>353
+          <lb/>PALUDANUS PETRUS: Sermones thesauri novi de sanctis.
+          <lb/>Strasbourg, (impr. des Vitas patrum), 1485, in-fol.
+          <lb/>Copinger 5422, Madsen 3013, Voulliéme: Berlin 2256.
+          <lb/>K 3303b. Prov.: Fregaskis, Londres, 9. XII. 1895, 22 M. Au¬
+          <lb/>dessus du titre: «Jacobus aemilius montfordensis possessor
+          <lb/>meus». Au recto du f. de garde: «Jacobus Verberckt 1836
+          <lb/>van Antwerpen.»
+          <lb/>354
+          <lb/>PALUDANUS PETRUS: Sermones thesauri novi de sanctis.
+          <lb/>Strasbourg, (impr. des Vitas patrum), 1486, in-fol.
+          <lb/>296 ff.
+          <lb/>74
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

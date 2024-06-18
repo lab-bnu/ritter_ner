@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:38.764567+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2419.tif
+IMAGE WIDTH: 2380
+IMAGE HEIGHT: 3822
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>415
+          <lb/>In-4°, car, rom. et goth., 2 col., 231 ff. non ch., sign. a-2, A-Z,
+          <lb/>Aa- Ll, tître courant, réclames, initiales à fig.
+          <lb/>fol. 2a: STVDIOSIS LITERARVM ADOLESCEN tibvs per
+          <lb/>Germaniam Iacobus Bedrotus... (1 page.)
+          <lb/>Au verso: PETRVS DASY-PODIVS AEQVO LECTORI Salu¬
+          <lb/>tem... — Argentorati quinto Kalendas Mar tij anno...
+          <lb/>1535. (2 pages.)
+          <lb/>fol. 3b: IOANNES LVDOVICVS VIVES DE tradendis disci¬
+          <lb/>plinis libro tertio. (I1 lignes.)
+          <lb/>fol. 4a: IOANNES SAPIDVS luuentuti Germanicae. (3 dis¬
+          <lb/>tiques.) (Verso blanc.)
+          <lb/>Au verso du dernier f.: PETRVS DASYPODIVS! Lectori.
+          <lb/>RI01.903. Prov.: Bibliothèque Ch. Schmidt, avec son ex-libris.
+          <lb/>Notes mss., au haut du titre, Bartholomaeus Husman me possidet 1584;
+          <lb/>au verso du titre : Donum Samsonis Müller zu bern. Au bas du dernier
+          <lb/>f. verso, Bartholomaeus Husemanus Landauiensis.
+          <lb/>GPB: BN Berlin, BU Halle.
+          <lb/>617
+          <lb/>DASYPODIUS Petrus
+          <lb/>Strasbourg, W. Rihel, 1536.
+          <lb/>DICTIONARIVM LATINO GERMANICVM, VOCES PROPE¬
+          <lb/>modum uniuersas in autoribus Latinae linguae probatis,
+          <lb/>ac uulgò receptis occurrentes Ger- manicè explicans, magno
+          <lb/>labore pridem concinnatum, nunc autem reuisum, ca¬
+          <lb/>stigatum &amp;amp; auctum non mediocri- ter, Petro Dasypodio
+          <lb/>autore.
+          <lb/>GERMANICAE DICTIONES IVXTA SERIEM literarum diges¬
+          <lb/>tae... NOMINA LOCORVM ET AMNIVM IN Germania, prae¬
+          <lb/>terea Mensuram, Ponderum, Numi-smatum, atque id
+          <lb/>genus rerum aliarum, uti uersa pagel la recensentur sub
+          <lb/>suo quaque titulo, interpretata.
+          <lb/>ARGENTORATI PER Wendelinum Rihelium. Anno M. D.
+          <lb/>XXXVI.
+          <lb/>Cum Priuilegio Regio ad quinquennium.
+          <lb/>A la fin: ARGENTORATI apud Vuendelinum Rihelium,
+          <lb/>Anno XXXVI. Mense Martio.
+          <lb/>In-4°, car. rom. et goth., 2 col.. 4 ff. non ch., 487 ff. ch., titre
+          <lb/>courant, réclames, initiales blanches sur fond noir.
+          <lb/>fol. 2a non ch: IOANNES LVDOVICVS VIVES DE traden¬
+          <lb/>dis disciplinis libro tertio. Au verso: Stvdiosis Literarvm
+          <lb/>Adolescen- tibvs per Germaniam lacobus Bedrotus...
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

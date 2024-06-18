@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:26.854361+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2019.tif
+IMAGE WIDTH: 2384
+IMAGE HEIGHT: 3828
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>15
+          <lb/>iam! demum grandi labore et impensa Doctorum: Licen¬
+          <lb/>tiatorum! sacre theologie et Magistrorum: gymnasium quod
+          <lb/>Bur sam Laurentij vocant in florenti studio Coloniensi
+          <lb/>re-[gentium emendatum; et in lucem editum. (Verso blanc.)
+          <lb/>A la fin: Impressum accuratissima dili-gentissima ex¬
+          <lb/>pensis Circumspecti vi ri archibibliopole Joannis Ryn-man
+          <lb/>de Oringaw: Jn oppido Jm-periali Hagenaw: Jndustrij
+          <lb/>Hen-[rici Gran; ibidem Ciuis in officina.! Finemque, xvi.
+          <lb/>kal. Aprilis Anno! virginei partus Millesimo quin- gente¬
+          <lb/>simo et quinto sortitum est.
+          <lb/>In-fol, car. goth., 2 col., 20 ff. non ch. dont le dernier blanc
+          <lb/>(Table), COXI ff. ch., titre courant, initiales d’attente.
+          <lb/>Fol. A 2a: In magnum Albertum... Epitaphium! Jllus¬
+          <lb/>tris ac magnificus dominus Rudolphus Langius eccle-sie
+          <lb/>Monasteriensis Canonicus... 1 Scripsit, (25 distiques.)
+          <lb/>Au-dessous: Ad vrbem Agrippinen sem sanctum Colo¬
+          <lb/>niensem ciuitatem. (2 distiques.)
+          <lb/>Au verso: Ad lectorem Joannis de B. Brabantini Epi¬
+          <lb/>gramma. (20 distiques.)
+          <lb/>E11529a. Prov.: Don de F. Butsch, antiquaire à Augsbourg, 1883.
+          <lb/>Au haut du titre: Cartusiae Buxiae; au recto du f. blanc qui
+          <lb/>précède le titre: Liber Cartusiensis in Buchshaim prope Me¬
+          <lb/>mingen comparatus per priorem Jacobum continens postil¬
+          <lb/>lam super Mathei &amp;amp; Marci Euangelia, Alberti Magni Epis¬
+          <lb/>copi Ratisponensis, ord. predicatorum.
+          <lb/>2e exemplaire E 11530a, donné par la ville de Heilbronn en 1871;
+          <lb/>A Pintérieur de la couverture: Ex legato Egregij viri Artium
+          <lb/>ac sacrae Theol, doctoris domini Joannis krener ex Scher¬
+          <lb/>ding Concionatoris Heilpronensis.
+          <lb/>BN Paris, Rés. A 1178; GPB, II, 10057: Breslau, Halle, Bonn. 25
+          <lb/>ALBERTUS Magnus
+          <lb/>Haguenau, H. Gran, 1505.
+          <lb/>Super marci Euange liare Postilla Venerabilis domini:
+          <lb/>Domini Al[berti magni Ratisponensis quondam! Episcopi.
+          <lb/>Ordinis Predicatorum.
+          <lb/>A la fin: Jmpressum accuratissima dili-gentissima ex¬
+          <lb/>pensis Circumspecti vi ri archibibliopole Joannis Ryn-man
+          <lb/>de Oringaw: Jn oppido Jm periali Hagenaw: Jndustrij
+          <lb/>Hen! rici Gran: ibidem Ciuis in officina. Finemque. xvi.
+          <lb/>Kal. Aprilis Anno virginei partus Millesimo quin- gente¬
+          <lb/>simo et quinto sortitum est. (Verso blanc.)
+          <lb/>in-fol,, car. goth., 2 col., 6 ff. non ch. dont le dernier blanc, XCIX
+          <lb/>ff. ch. et 2 ff. blancs, titre courant, initiales d’attente.
+          <lb/>Après les 6 ff. non ch. le titre est répété.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

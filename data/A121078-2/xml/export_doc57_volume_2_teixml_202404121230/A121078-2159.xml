@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:31.397649+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2159.tif
+IMAGE WIDTH: 2298
+IMAGE HEIGHT: 3826
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>BRANT Sebastian
+          <lb/>Haquenau, Guill. Seltz 1529.
+          <lb/>DEr richterlich clagspiegel Eyn nutzlicher begriff, wie
+          <lb/>man setzen vnd formieren sol nach ordnung der Rechten,
+          <lb/>eyn yede klag, antwort, vnd ausz sprechene vrteylen,
+          <lb/>gezogen ausz geystlichen vnd weltlichen rechten, da durch
+          <lb/>sich ein yeder, er sey Clager, antworter, oder Richter in
+          <lb/>recht geschickt machen, das selbst üben, brauchen, vnd
+          <lb/>dargegen vor vnrechter that, anfechtung, vnd fürnemen
+          <lb/>verhüten mag.Mit mererm fleisz wider durchsichtiget
+          <lb/>vnd von neüwem zûm theyl gebessert &amp;amp;c.
+          <lb/>Au-dessous, gravure sur bois semblable à celle des autres éditions,
+          <lb/>mais changements dans les figures des personnages, les instruments de
+          <lb/>torture ne sont plus dans le coin gauche, mais dans celui de droite.
+          <lb/>Au-haut, au milieu entre 2 feuilles de treffle la date 1529.
+          <lb/>A la fin: Getruckt vnd zum vierdten mal Reuidiert
+          <lb/>durch den Ersamen Guilhelmum Seltz, Bürger zu Hagenaw,
+          <lb/>Jnn verlegung vnd Expensz des fürsichtigen herren Pauli
+          <lb/>Götzen vnd vollendet am Sampstag nach sant Bartholo¬
+          <lb/>meus tag, Des jars, als man zalt nach der geburt Christi.
+          <lb/>M. D. XXIX. Re gnante diuo Carolo Impe- ratori felicis¬
+          <lb/>simo &amp;amp;c.Anno imperijeiusdem se- cun- do.
+          <lb/>In-fol., car. goth., 8 ff. non ch., OLI ff. ch. et 1 f. non ch.,
+          <lb/>dont le verso blanc, titre courant, notes marginales, initiales à fig. N,
+          <lb/>A, W.
+          <lb/>Fol. A 8b: gravure d’une page: couronnement de la Vierge en
+          <lb/>haut; au-dessous, l’auteur à genoux présentant son livre à l’empereur
+          <lb/>assis sur le trône, et entouré de ses conseillers. Fol. 115b gravure d’une
+          <lb/>demi-page:,De acusationibus et inquisitionibus&amp;quot;, au-dessus, 3 pièces
+          <lb/>d’encadrement. Ces 2 gravures sont empruntées aux éditions précédentes.
+          <lb/>Les vers, préfaces, dédicace, table et vers du dernier f. recto
+          <lb/>sont les mêmes que dans l’édition de 1518. Les vers de S. Brant au
+          <lb/>verso du titre sont encadrés de 6 pièces d’encadrement. Au-dessous des
+          <lb/>vers du dernier f, recto, se trouve la marque typographique de G.
+          <lb/>Seltz. (HE B, Planche LXXI, NoI; Silvestre, No 662.)
+          <lb/>R10.234. Prov.: Don des héritiers de Bethmann Hollwveg, Berlin,
+          <lb/>10/V 1878.
+          <lb/>A l&amp;#x27;intérieur du premier plat, autographe Johan Steffan; au bas
+          <lb/>du f. A 2a, cachet avec l’inscription: Achilles Augustus Lersner.
+          <lb/>Rel. anc.
+          <lb/>GPB. Göttingen UB.
+          <lb/>244
+          <lb/>155
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

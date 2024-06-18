@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:51.203485+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078294.tif
+IMAGE WIDTH: 2312
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1180
+          <lb/>PELBARTUS DE THEMESWAR
+          <lb/>Haquenau, H. Gran 1521
+          <lb/>Pomerium Sermonum Fratris Pelbarti de Themes¬
+          <lb/>war ordinis Minorum de observantia: sacreque pagi ne,
+          <lb/>professoris dignissimi: opus uti- lissimum: verbaque dei
+          <lb/>seminan-tibus materiam per anni circulum copiosis¬
+          <lb/>sime mini- strans. Has quatuor partes continet. De
+          <lb/>Tempore dominicales. De Sanctis. Quadragesimale tri¬
+          <lb/>plex.Stellarium beate virginis. Unicuique parti suus
+          <lb/>Index adhibitus.
+          <lb/>A la fin: Pomerium sermonum de! Tempore... im¬
+          <lb/>pressum ac diligenter revisum per industrium! Henricum
+          <lb/>Gran: in imperiali oppido Ha-genau; expensis ac sump¬
+          <lb/>tibus providi viri Joannis Rynman Finit feliciter.
+          <lb/>Anno salutis nostre. M. D. XXI. quint- ta die Februarii.
+          <lb/>In-fol., car. goth., 2 col., 202 ff. non ch., sign. a-2, Aa-Ee, titre
+          <lb/>courant, notes marg., init. ornées, titre encadré. (H aB Planche LXIII
+          <lb/>n° 1.
+          <lb/>Au verso du titre: Prologus. Suivent 9 pp. de table à 2 col.
+          <lb/>R10.358. Prov.: BN Munich 28/XII 1877, 3 M. Note ms.
+          <lb/>1845
+          <lb/>PELLICANUS Conrad. Voir: PSALTERIUM Davidis, Strasbourg
+          <lb/>1527, n° 1947.
+          <lb/>PELLISSON Johannes
+          <lb/>Strasbourg, J. Albrecht 1583
+          <lb/>MODVS] EXAMINANDAE CON structionis in Oratione,
+          <lb/>Ioanne! Pellisone Condrien- si autore. (4 feuilles de trèfle.)
+          <lb/>EX OFFICINA KNOBLOV- CHIANA, MENSE IV  NIO, ANNO
+          <lb/>M. D. XXXIII.
+          <lb/>A la fin: IMPRESSVM ARGENTORATT PER IOANNEM AL¬
+          <lb/>BRECHT, Mense Iulio, Anno! M. D. XXXIII. (Verso blanc.)
+          <lb/>In-8°, car. ital., 31 pp. ch., titre courant, réclames, notes marg.,
+          <lb/>init. à fig. O, M, D.
+          <lb/>Au verso du tître: Iacobus Aemylius Ba! siliensis, Ioanni Knoblou¬
+          <lb/>chiot Iuniori... Datum! Argentorati,! Calendis Iuniis, Anno! M. D.
+          <lb/>XXXIII.
+          <lb/>p. 4-5: Ioannes Pellisso Con- driensis... Claudio à Turnone, Viva¬
+          <lb/>riensi! Episcopo... — E Coqueretio V. Non. Octob.(Anno! M. D. XXIX.
+          <lb/>R101.899. Prov. inconnue. Notes mss.
+          <lb/>1846
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

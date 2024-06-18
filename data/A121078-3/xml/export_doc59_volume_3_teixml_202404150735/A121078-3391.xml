@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:13.127862+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3391.tif
+IMAGE WIDTH: 2398
+IMAGE HEIGHT: 3856
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>secundum legem carminis diligenter emendati atque
+          <lb/>interpre- tati.
+          <lb/>Anno domini M. D.XIII.
+          <lb/>Am Schluss: Et sic terminantur hymni vniuersales per
+          <lb/>anni circulum... Impressi per Io-annem knoblouch:
+          <lb/>insignem Argentinorum impresso-rem: Vltima die Martij:
+          <lb/>Anno salutis nostre Millesimo quingentesimo tertio¬
+          <lb/>decimo. (Rücks, leer.)
+          <lb/>80, Got., 4 unn., LXXX num. Bll., Kopft., Init. L, A, P (Maria
+          <lb/>u. Josef vor dem Kinde Jesu im Stalle zu Bethlehem, daneben Ochs
+          <lb/>u. Esel), Titeleinfassung (Siche Nr. 9).
+          <lb/>Auf der Rücks. des Titelbl. : ... professori : domino Jo. Vi¬
+          <lb/>gilio! vulgo wacker Posennio: illustrissimi principis Phi¬
+          <lb/>lippi! Lo. Rheni pala. &amp;amp;c consiliario; nouorumque iurium
+          <lb/>pontificiorum gymnasij Heidelbergensis ordinario lectori
+          <lb/>vigilantissimo: Jacobus Vuym. [phelingus! Sletstatinus....
+          <lb/>ex edi bus meis philosophciis (!) Heidelberge : kal. Sep¬
+          <lb/>tembris: Anno salutis hu! mane. M. cccc. xeix.
+          <lb/>Bl. C2a: De origine hymnorum.
+          <lb/>Bl. C3a:... Baptistae Mantuani Carmelitae: theologi:
+          <lb/>ad dominum Falconem protonotarium! Endecasyllabum de
+          <lb/>prisca hymnorum origine, (31 Verse.)
+          <lb/>&amp;quot;RI01,969, Prov.: Baer è Co., Frankfurt a. M., 22. XI. 1878.
+          <lb/>Doublette der Hofbibl. Darmstadt.
+          <lb/>Stadtbibl. Strassburg; fehlt bei Schmidt, der nur den Druck von
+          <lb/>1516 verzeichnet.
+          <lb/>1239
+          <lb/>883
+          <lb/>HYMNI DE TEMPORE
+          <lb/>Strassburg, J. Knobloch 1516
+          <lb/>Hymni de tempore et de sanctis, in eam formam
+          <lb/>qua a suis autoribus scripti sunt denuo reda-cti, &amp;amp; se¬
+          <lb/>cundum legem carminis diligen ter emendati atque in¬
+          <lb/>terpretati.
+          <lb/>Anno domini M. D. XV.
+          <lb/>Am Schluss: Impressum Argentine per loannem kno¬
+          <lb/>blouchAnno domini M. D. XVI. Prima die lulij.
+          <lb/>40, Antiq, 4 unn., XXXIII num. Bll., Kopft., Init., Titelein¬
+          <lb/>fassung mit Monogramm Baldung Griens. (Butsch, Bücherromantik I,
+          <lb/>Tafel 71 u. nicht 68 vie bei Schmidt.)
+          <lb/>Auf der Rücks. des Titelbl.: Sequentes hymni sunt versus
+          <lb/>archilochici iambici.
+          <lb/>R. 58
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

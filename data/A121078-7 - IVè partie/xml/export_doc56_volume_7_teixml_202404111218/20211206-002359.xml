@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:10.983395+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002359.tif
+IMAGE WIDTH: 2506
+IMAGE HEIGHT: 3956
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>MELANCHTHON, Phil. (Grammatica graeca) : Integrae graecae
+          <lb/>grammaticae institutiones... Atque pluribus in locis
+          <lb/>auctae Joa. Secerius. — (Haguenau, Thomas Anshelm,
+          <lb/>août 1522), in-8°,
+          <lb/>Vogeleis, p. 207; Burg, n° 282.
+          <lb/>2643
+          <lb/>MELANCHTHON, Phil. (Grammatica graeca) :Grammaticae
+          <lb/>Graecae institutiones integrae... pluribus in
+          <lb/>auctae... — Haguenau, J. Secer (1525), in-8°.
+          <lb/>locis
+          <lb/>Burg, n° 293.
+          <lb/>2644
+          <lb/>MELANCHTHON, Phil. (Grammatica graeca) : Grammatica
+          <lb/>graeca. — Haguenau, Pierre Brubach 1536, in-8°.
+          <lb/>Ritter, Hist. impr. p. 399. (Ritter, Rép. n° 1533 : Grammatica
+          <lb/>graeca iam denuo recognita. Haguenau, J. Secer 1533]. 2645
+          <lb/>MELANCHTHON, Phil. (Institutiones rhet.) : Institutiones
+          <lb/>rhetoricae. — Haguenau (Th. Anshelm, octobre 1521),
+          <lb/>in-40,
+          <lb/>Burg, n° 280.
+          <lb/>2646
+          <lb/>MELANCHTHON, Phil. (Institutiones rhet.) : (Idem). —
+          <lb/>(Haguenau, Th. Anshelm, décembre 1522), in-8°.
+          <lb/>Burg, n° 283. (Ritter, Rép. n° 1512 ; éd. J. Herwagen, janvier
+          <lb/>1523.
+          <lb/>2647
+          <lb/>MELANCHTHON, Phil. (Loci communes) : Loci communes
+          <lb/>rerum theologicarum seu hypotyposes theologicae. —
+          <lb/>(Haguenau, Th. Anshelm, février 1522), in-8°.
+          <lb/>Burg, n° 281. (Ritter, Rép. n° 1513/14; éd. J. Herwagen, janvier
+          <lb/>1523 et juin 1523l.
+          <lb/>2648
+          <lb/>MELANCHTHON, Phil. (Loci communes) : Loci communes
+          <lb/>seu hypotyposes theologicae... — (Strasbourg, Jean
+          <lb/>Knobloch, février 1525), in-80.
+          <lb/>Panzer 6, 107, 699; Schmidt VII, n° 290 : B U Bonn. (Ritter,
+          <lb/>Rép. n° 1535 : Strasbourg, J. Albrecht, 1536).
+          <lb/>2649
+          <lb/>357
+          <lb/>12-1
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:47.342467+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078163.tif
+IMAGE WIDTH: 2308
+IMAGE HEIGHT: 3842
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Fol. A 2a: Ein vorred zu einnem ersammen weiszen Rat der
+          <lb/>loblich, ! en statt Bern.
+          <lb/>*R100.317. Prov.: Bœr e Co. (Vente Karajan n° 58), Franc¬
+          <lb/>fort-s.-M. 2/V1 1875; 15 M. 50. Ex-libris de Karajan.
+          <lb/>Au verso du f. de garde : Den 8. April 1855 bei Schratt um I fl....
+          <lb/>Diese Schrift Murners gehört zu den grössten Seltenheiten.
+          <lb/>Pème ex.: *R 100.318. Prov.: Bibl. Ch. Schmidt avec son ex-libris,
+          <lb/>les signatures fol. C et 12 sont différentes de celles de l’ex. R100.317.
+          <lb/>Liebenau : Murner. [— Erläuterungen zu Janssens Geschichte des
+          <lb/>deutschen Volkes IX] 1913 p. 177 dit que le livre a été imprimé en 1521
+          <lb/>à Strasbourg par Jean Pruss.
+          <lb/>1613
+          <lb/>Mistury Mun dru firr bruren Prtuiger
+          <lb/>ordens der ob seruanz juà Mern mm Oßßweyger lano
+          <lb/>verbzants in de jar nocb Ccbausti geburt. W.CC
+          <lb/>CC.ix. vff oẽnehitẽ donderstag nob pfinastẽ.
+          <lb/>1049
+          <lb/>1521
+          <lb/>Rench vue¬
+          <lb/>— Hocbsleat,
+          <lb/>tin
+          <lb/>Doct. Iesus
+          <lb/>—Due ac lestor
+          <lb/>cnus luutb
+          <lb/>et cet
+          <lb/>pon Ber
+          <lb/>PAIRON
+          <lb/>LIBERIATIS.
+          <lb/>Conciliabulii malignantium.
+          <lb/>CEin hurtzer brgriff unhillicber frrurt
+          <lb/>handlung Nochitrate, Murnars, Doctoz Ipesue¬
+          <lb/>vn irer anbend er /mider den Christlicben
+          <lb/>Poctoz Martin Autbers pon alle
+          <lb/>lacbhaber kuangclisther lere,
+          <lb/>(Voir p. 1048, n° 1613)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

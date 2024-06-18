@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:47.774516+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078179.tif
+IMAGE WIDTH: 2304
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>NIDER Johannes
+          <lb/>Strasbourg, J. Knobloch 1517
+          <lb/>Formicarius! Joannis Nyder theologi profun! dissimi,
+          <lb/>pulcherrimus Dialogus ad vitam christia nam exemplo
+          <lb/>conditionum Formice in citativus : historiis quam Germa
+          <lb/>nie refertissimus. Mentionem passim faciens de Princi¬
+          <lb/>pibus, Episcopis, Prelatis, Sacerdotibus, Monachis, Monia¬
+          <lb/>libus, Beguinis et beghardis, Rebuspublicis, civilibus, coniu¬
+          <lb/>gatis, viduis, Virginibus, Maleficis, Necromanticis, Incubis
+          <lb/>et succubis, Mania ac ceteris lectu dulcibus et utilibus.
+          <lb/>1517.
+          <lb/>Au recto du dernier f.: Lettre de Wimpfeling à Wernher de
+          <lb/>Ursirupe (Berenfels) et Epicedion in Agnetam abbatissam
+          <lb/>divi Stephani argentinen.
+          <lb/>A la fin : Sumptibus providor. Jo. Knoblouchi et Pauli
+          <lb/>Götz, Johannes Schottus prelo suo Argentine restituit.
+          <lb/>In-40, car. goth., 4 ff. non ch., XCI ff. ch.4 2 non ch., titre cou¬
+          <lb/>rant, init, ornées V, P au commencement du 4er chapitre, et init. d’at¬
+          <lb/>tente; titre rouge et noir.
+          <lb/>R101411. Prov.: Bibl. Ch. Schmidt; au recto du f. de garde
+          <lb/>annotations de Ch. Schmidt: f° 21a Histoire de Jean Mulber, dominicain
+          <lb/>à Colmar etc.; au milieu du titre: Justus Bertramus.
+          <lb/>BN Paris, Rés. D. 8971; Proctor II Sectio I n° 10.282: Londres,
+          <lb/>British Museum; Schmidt II n° 39: Jadis Bibl. de Strasbourg, Incun.
+          <lb/>n° 3561; Walter: Sélestat n° 1926.
+          <lb/>BM Strasbourg 670.
+          <lb/>Voir: SCHIELER Karl 1885: Magister Johannes Nider. Mainz 1885.
+          <lb/>WEINRICH Norbert: Joh. Nider - Diss. Münster i. W.
+          <lb/>1636
+          <lb/>1065
+          <lb/>NIFO Agostino. Voir: NIPHUS Augustinus
+          <lb/>NIGRINUS Georgius. Voir: HYPERIUS Andreas: Ein trewer und
+          <lb/>Christlicher Rath. 1562. No 1242.
+          <lb/>NIGRINUS Georgius, Voir: SIGONIUS Georgius: Deutschen Rö¬
+          <lb/>mischen Reichs Hoch-Achtung, 1548.
+          <lb/>NIPHUS Augustinus
+          <lb/>Strasbourg, H. Sevbold s. d.
+          <lb/>(Feuille de lierre.) AVGVSTI] NI NYPHI SVESSANI MEDI-ICI
+          <lb/>AC ASTROLOGI EX cellentissimi de diebus Criticis seu
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:56.850094+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5208.tif
+IMAGE WIDTH: 2362
+IMAGE HEIGHT: 3860
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1518
+          <lb/>urbis Epigramma (20 vers) et Ad lectorem (4 dist.).
+          <lb/>Au-dessous : Antonij liberi Susatensis in laudem inclyte Colonorum
+          <lb/>R. 101.607 (1). Prov. : Bibl. Böcking.
+          <lb/>Annotations mss. : au haut du titre : « Anno 1583 Emi hunc librum
+          <lb/>a Reverendo Domino Matthia. Hofmiller in Gruestet. In Usum fratris
+          <lb/>Tobiae Huober Ordinis. S. Dominici» en bas : « Samuel Hergheim ist
+          <lb/>das Puech».
+          <lb/>Proctor II, Sectio I, No 11.634 : Londres, British Museum.
+          <lb/>2431
+          <lb/>VOCABULARIUS Gemma gemmarum Strasbourg, J. Prüss, 1508
+          <lb/>Vocabularius Gemma! gemmarum. Quia per in sertionem
+          <lb/>multorum vo! cabulorum emendatus est !! ideo merito
+          <lb/>Gemma gem- marum appelatur.
+          <lb/>A la fin : Vocabularius... diligenter reuisus et castigatus:
+          <lb/>perque circumspectum Ioannem Prusz in Ar-] gentinorum
+          <lb/>urbe : ac edibus Zum Thier! garten impressus : finit feliciter.
+          <lb/>Diexviij. Mensis Marcij Anno salutis humanae.
+          <lb/>M. CCCCC. viij. (Verso blanc.)
+          <lb/>In-4°, car. goth., 2 col., 152 ff. non ch., sign. a-z, A-E, titre courant,
+          <lb/>init. ornée A.
+          <lb/>Prologue, épigrammes et dist. comme au n° précédent.
+          <lb/>&amp;quot;R. 101.623. Prov. : Bibl. Böcking.
+          <lb/>Schmidt, III, p. 19, N° 67 : Jadis Bibl. de Strasbourg, Incun. No 1557.
+          <lb/>2432
+          <lb/>VOCABULARIUS Gemma gemmarum Haguenau, H. Gran, 1510
+          <lb/>Vocabularius Gemmagememarum (!) Quia per in
+          <lb/>sertionem multorum vocabu! lorum emendatus est ideo
+          <lb/>merito Gemma gemma-rum appellatur.
+          <lb/>A la fin : Vocabulari- Gemmagemmarum diligenter
+          <lb/>reuisus et ca! stigatus impressusque in imperiali oppido!
+          <lb/>Hagenaw per industrium Henricum Graninibi incolam.
+          <lb/>impensis ac sumptibus cir- cumspecti viri archibibliopole
+          <lb/>Joannis! Rynman de Oringaw finit feliciter.Anno virginei
+          <lb/>partus. M. D. X in vi! gilia Petri et Pauli. (Verso blanc.)
+          <lb/>In-4°, car. goth., 2 col., 156 ff. non ch. sign. a-z, A-E, titre courant,
+          <lb/>init. d’attente.
+          <lb/>Au verso du titre : Prologue et 4 dist. au lecteur.
+          <lb/>R. 101.624. Prov. : Baer, Francfort-s.-M., 23/V, 1879; 15 M.
+          <lb/>Annotations mss. : au haut du titre « Wilhelmus Anderson 1516»;
+          <lb/>au milieu : « Patricius Scotus Anno 15.4.3 et Joannes Valkar Scotus».
+          <lb/>Ritter; BM Strasbourg n° 2188.
+          <lb/>2433
+          <lb/>VOCABULARIUS Gemma gemmarum Strasbourg, R. Beck, 1511
+          <lb/>Vocabularius Gemma gemmarumnouiter impressus.
+          <lb/>additioneque multa rum dictionum ex ornatus.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

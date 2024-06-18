@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:36.778096+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu027.tif
+IMAGE WIDTH: 2382
+IMAGE HEIGHT: 3840
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>la Scala coeli de Johannes Junior, parue en 1483 qui con¬
+          <lb/>tient une gravure assez remarquable (Schramm, vol. XX,
+          <lb/>N° 910).
+          <lb/>Ajoutons pour terminer qu’il y a un assez grand nombre
+          <lb/>d’ouvrages Strasbourgeois dont le nom de l’imprimeur ne
+          <lb/>nous est pas parvenu, mais que Proctor, grâce à sa profonde
+          <lb/>connaissance des caractères du 15e siècle a pu répartir en
+          <lb/>quelques groupes, imputables chacun au même imprimeur.
+          <lb/>Ce sont: 1) l’imprimeur du Henricus Ariminensis, dont les
+          <lb/>produits se repartissent sur les années 1468 à 1479. Il s’y
+          <lb/>rattache un sous-groupe à caractères plus grands, égale¬
+          <lb/>ment d’origine Strasbourgeoise, désignés comme Typi Rey¬
+          <lb/>seriani *) ou Eustadiani du nom de l’imprimeur Michael
+          <lb/>Reyser d’Eichstädt; 2) l’imprimeur CW en qui les uns ont
+          <lb/>voulu reconnaître un certain Clas Wenker, d’autres Conrad
+          <lb/>Wolfach. Les livres de cet imprimeur remontent aux années
+          <lb/>1473 et 1474; 3) l’imprimeur de la Legenda aurea. Sous cette
+          <lb/>dénomination Proctor a réuni aux numéros 412–417, six
+          <lb/>publications dont deux désignent Strasbourg comme lieu
+          <lb/>d’impression; cinq sont datées entre 1481 et 1483; de l’im¬
+          <lb/>primeur lui-même on n’a aucune connaissance.; 4) sur l’im¬
+          <lb/>primeur des Vitas Patrum, dont le B M C signale 13 et
+          <lb/>Proctor 18 ouvrages, règne la même incertitude que sur
+          <lb/>celui de la Legenda aurea, tout au plus sait-on que son
+          <lb/>activité s’étend sur les années 1483 à 1486. Ici, également
+          <lb/>apparaît un sous-groupe, celui de l’imprimeur du Paludanus
+          <lb/>caractérisé par des différences constantes quoique petites,
+          <lb/>permettant de conclure à un changement de propriétaire
+          <lb/>de la presse des Vitas Patrum.
+          <lb/>*) Schorbach: Mentelin p. 126: Bekanntlich ist die Frage, ob
+          <lb/>der Typograph Georg Reyser, ehe er seine Presse im Herbst 1479
+          <lb/>in Würzburg aufstellte, schon vorher in Strassburg gedruckt und
+          <lb/>dort die Burgundisch Hystorie des Hans Erhard Tüsch (Strassburg
+          <lb/>1477) und das Breviarium Argentinense (12. Jan. 1478) heraus¬
+          <lb/>gebracht habe, bisher noch immer nicht sicher beantwortet wor¬
+          <lb/>den... Ob Michael Reyser eine Zeitlang in Strassburg verblieben ist,
+          <lb/>um seine dortige Werkstatt aufzulösen, bleibt unbekannt. Der An¬
+          <lb/>fang seiner Druckertätigkeit in Eichstätt fällt erst in das Früh¬
+          <lb/>jahr 1484...»
+          <lb/>XXVII
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

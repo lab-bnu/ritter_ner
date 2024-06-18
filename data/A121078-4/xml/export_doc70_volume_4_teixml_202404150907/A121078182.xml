@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:47.821550+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078182.tif
+IMAGE WIDTH: 2304
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1068
+          <lb/>Ioan. Zelius Troianus Francus.
+          <lb/>F. 3a : Dédicace de l’auteur; puis 40 dist. lat. Ad Lectorem...
+          <lb/>libris de Johannes Bœclerus.
+          <lb/>R101.507. Prov.: Faculté de Médecine de Strasbourg avec l&amp;#x27;ex¬
+          <lb/>gr. et lat. Strasbourg, 1568,... quoique très rare, est à bas prix. 1640
+          <lb/>BN Paris, 80T d28, 56. Brunet IV2, 100: La première édition
+          <lb/>NUÑEZ Petrus Johannes
+          <lb/>Strasbourg, Th. Rihel vers 1592
+          <lb/>EPITHETA, ANTITHETA ET] ADIVNCTA,) EX ] M. T. CICE¬
+          <lb/>RONE collecta. (Marque typ. de Theodosius Rihel. H d B Planche
+          <lb/>XXXI n° 11.) Au-desous: Cum Gratia et Privilegio Caesareo.
+          <lb/>Argentorati. Excudebat Theodosius Rihelius, (Verso blanc.)
+          <lb/>In-80, car, rom. et ital., 2 col., 66 ff. non ch., à la fin vign., verso
+          <lb/>du dernier f. blanc; titre courant, réclames.
+          <lb/>R100.882 (5). Prov.: H. Kerler, Ulm 28/IV 1879.
+          <lb/>1611
+          <lb/>NUNNESIUS. Voir: NUÑEZ
+          <lb/>NYSE Nicolaus de. Voir: NICOLAUS DE NYSE
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

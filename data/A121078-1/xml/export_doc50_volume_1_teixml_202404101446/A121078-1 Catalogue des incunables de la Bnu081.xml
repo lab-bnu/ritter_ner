@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:37.515667+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu081.tif
+IMAGE WIDTH: 2388
+IMAGE HEIGHT: 3842
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>HORTULUS animae: Strasbourg, J. Grüninger, 1498, in-8°.
+          <lb/>Hain 8037, Kristeller N° 80, Schmidt I, 40.
+          <lb/>K 2052a. Prov.: Albert Cohn, Berlin, 2. XII. 1890, 320 M. 236
+          <lb/>HORTULUS animae: Strasbourg, W. Schaffener de Roppers¬
+          <lb/>willer, 13 mars 1498, in-8°.
+          <lb/>Hain 8936, Schmidt IV, p. 10, N° 1: la plus ancienne impres¬
+          <lb/>sion de Schaffner; Schreiber 4242; Schramm, Bilder¬
+          <lb/>schmuck XX, grav. N° 2211-2284.
+          <lb/>K 2052. Prov.: Bibliothécaire Müller, Strasbourg, 10. X. 1883,
+          <lb/>25 M. Rel. anc.
+          <lb/>237
+          <lb/>HORTULUS animae: Strasbourg, J. Grüninger, 31 jan¬
+          <lb/>vier 1500, in-8°.
+          <lb/>Hain 8937, Proctor 491, Schmidt I, 47, Voulliéme; Berlin
+          <lb/>2307, 5; Schreiber 4245; Schramm, Bilderschmuck XX, grav.
+          <lb/>N° 581-646.
+          <lb/>K 2053. Prov.: Bernard Karrer, Wattwiller, 12. XI. 1895,
+          <lb/>20 M. Au-dessus du titre et à l’intérieur du 1er plat: «Bernard
+          <lb/>Karrer».
+          <lb/>238
+          <lb/>HRABANUS MAURUS. Voir: Rabanus.
+          <lb/>HUGO DE PRATO FLORIDO. Voir: Hugo Pratensis.
+          <lb/>HUGO PRATENSIS: Sermones et epistolae. (Strasbourg,
+          <lb/>G. Husner, s. d.), in-fol.
+          <lb/>Hain 8996, Proctor 363, Voulliéme: Berlin 2204; Pellechet:
+          <lb/>Colmar 799.
+          <lb/>K 2075. Prov.: Don de la ville de Trèves, 1871. Au bas du
+          <lb/>1er f., cachet de la B M de Trèves. Rel. anc.
+          <lb/>239
+          <lb/>HUGO PRATENSIS: Sermones de tempore. (Strasbourg,
+          <lb/>H. Eggestein, s. d.), in-fol.
+          <lb/>Hain 8995, Pellechet: Colmar 798.
+          <lb/>K 2074. Prov.: B N Munich, 14. IV. 1880, 2 M. Les 4 premiers
+          <lb/>ff. sont endommagés A la fin, au crayon: «N. B. Foliis indicis
+          <lb/>octo commutatio est hoc 409 folium.» Rel. anc.
+          <lb/>240
+          <lb/>51
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

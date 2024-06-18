@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:29.576550+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2106.tif
+IMAGE WIDTH: 2322
+IMAGE HEIGHT: 3824
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>102
+          <lb/>Cahier Dd: De paedotriba. I. H. Bebelius Salutem...
+          <lb/>fol. Dd 2a: Lettre de Michael Coccinius Tubingensis à Bebel:
+          <lb/>... Ex Mutina, Pridie Kalendas Ianuarij. M. D. XI et réponse
+          <lb/>de Bebel.
+          <lb/>*R101.272 Prov.: Albert Cohn, Berlin, 26/1x. 1882. 4M.
+          <lb/>Londres, British Museum; GPB: Berlin, Breslau, Halle, Kœnigsberg,
+          <lb/>Schmidt VIII, No 102; exemplaire Ch. Schmidt. Autre exemplaire:
+          <lb/>Marbourg.
+          <lb/>171
+          <lb/>BEBELIUS Henricus
+          <lb/>Strasbourg, M. Schürer, 1514.
+          <lb/>IN HOC LIBRO CONTINENTVR HAECBebeliana opuscula
+          <lb/>noua &amp;amp; adolescentiae labores.
+          <lb/>Epistola ad Petrum Iacobi Arlunensem de laudi-bus,
+          <lb/>&amp;amp; auctoribus facetiarum.! Libri facetiarum iucundissimi,
+          <lb/>atque fabulae admo- dum ridendae.! Epistola ad Cancel¬
+          <lb/>larium de laudibus, &amp;amp; philo-sophia veterum Germanorum.
+          <lb/>Prouerbia germanica in latinitatem reducta. Mitho¬
+          <lb/>logia, hoc est fabula contra hostem poetarum. Elegia in
+          <lb/>obitum doctoris Henrici Starrenuadel prae! teritorum vati¬
+          <lb/>cinatoris etc. (17 lignes.)
+          <lb/>Haec omnia per auctorem correcta, cum quibusdam
+          <lb/>additionibus.
+          <lb/>A la fin: Argentorati, denuo Ex Aedibus Matthiae! Schu¬
+          <lb/>rerij. Mense Augusto, Anno M.D.XIIII.
+          <lb/>REGNANTE IMPE. CAES.MAXIMILIANO. P. F. AvG.
+          <lb/>(Verso blanc.)
+          <lb/>In-40, car. rom., 165 ff. non ch., sign. Aa-Zz, a-e, titre courant,
+          <lb/>titre rouge et noir; initiales ornées C, P, S, I.
+          <lb/>Au verso du titre: FACETIAE BEBELIANAE AD Do-! minvm
+          <lb/>Petrum Iacobi Arlunensem balneantem. Ad lectorem.
+          <lb/>Liber. H. B. (4 distiques.)
+          <lb/>Au-dessous: MAXIMILIANI TRANSSYLVANI( Bruxellensis ad
+          <lb/>lectorem in commendationem! facetiarum Bebelianarum.
+          <lb/>(5 distiques.)
+          <lb/>Fol. A 2a: ... Petro Iacobi Arlunensi Praepo- sito
+          <lb/>Baccknangensi canonico Stutgardiano...! Henricus Bebe¬
+          <lb/>lius. S. D.  Tubingae, sexto Idus MaiasAnno.
+          <lb/>M. D.VI.
+          <lb/>&amp;quot;R100.888. Prov.: L. Rosenthal, Munich, 26/I1I. 1887; 18 M.
+          <lb/>De nombreuses notes mes, en latin et en allemand.
+          <lb/>Schmidt VIII, No *138 n’a pas connu d’exemplaire, il cite le com¬
+          <lb/>mencement du titre d’après Zapf 197 et Panzer 6, 67, 336.
+          <lb/>Londres, British Museum; GPB. Berlin, Bonn, Gœttingue. Zapf,
+          <lb/>Bebel p. 197-203.
+          <lb/>172
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

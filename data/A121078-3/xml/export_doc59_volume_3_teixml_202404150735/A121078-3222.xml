@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:08.971930+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3222.tif
+IMAGE WIDTH: 2328
+IMAGE HEIGHT: 3854
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>666
+          <lb/>in maiori Ecclesie Argentin, diuini eloquij preco imme¬
+          <lb/>ritus et decla- mator. S. D.... (2 S.)
+          <lb/>Bl. A 3b: Egregio viro domino Joanni Gei ler de Kei¬
+          <lb/>sersperg sacre Theologie Doctori dignissimo preceptori
+          <lb/>suo colendissimo. Fridericus Episco pus Augustensis vester
+          <lb/>discipulus sin- ceram in domino Salutem... — Datum.
+          <lb/>Nie renberge in vi- gilia! ascensio nis domini. Anno
+          <lb/>domini. 1485. (2 S.)
+          <lb/>*R102,217. Prov.: Bibl. Heite, Strassburg. Handschr, Notizen.
+          <lb/>Auf einem eingeklebten Bl.: Cet ouvrage contient aussi un sermon du
+          <lb/>docteur Pierre Wickgram — La vie de Keisersperg par Beatus Rhenanus
+          <lb/>et une autre par Jacques Wimpheling. Ces sermons sont illustrés par
+          <lb/>4 gravures très bien fol. VII, XXIII, XXXIII et XCIII, et contiennent
+          <lb/>une quantité d’initiales.
+          <lb/>Dacheux, Geiler S. CLXI; Schmidt I Nr. 159: Stadtbibl., Bibl.
+          <lb/>Wilh. u. Ehemalige Strassburger Bibl. Incun. 1947. GK: SB Berlin,
+          <lb/>980
+          <lb/>UB Bonn, Göttingen, Halle, Münster.
+          <lb/>GEILER Johannes
+          <lb/>Strassburg, Joh. Grüninger 1519
+          <lb/>Sermones! Johannis! geileri de Keiserspergii! Argen¬
+          <lb/>tinensis, praedica- toris fructuosissimi.
+          <lb/>De arbore Humana De, xij. excellecijs arboris cruci¬
+          <lb/>fixi. De, xij. fructibus spiritussancti. De morte sub typo
+          <lb/>maioris villa ni arborum cesoris. De morte virtuali.
+          <lb/>De dispositione ad felicem mortem! sub literis alphabeti
+          <lb/>contenta. De. xxiiij. obsequijs mortuis im- pendendis.
+          <lb/>Cum priuilegio.
+          <lb/>Am Schluss: Sermones... quos Ioannes Grüniger vir
+          <lb/>cir! cumspectus ac prouidus, Ar gentinae impressit. An
+          <lb/>no Millesimo quin! gentesimo, deci mo nono. In! vigilia
+          <lb/>Purificatio! nis Mariae virginis.
+          <lb/>2°, Got., 2sp., 6 unn., CC num. Bll. (Paginationsfehler), Kopft.,
+          <lb/>Init., Titel rot u. schwarz, Titelumrahmung: Kinder, von denen einige
+          <lb/>spielen, andere musizieren u. einige sich baden; in der Mitte der unteren
+          <lb/>Bordüre eine Sirene, von beiden Seiten je ein Mann bei einer Säule,
+          <lb/>an einem Seile ziehend, an dem eine Guirlande befestigt ist.
+          <lb/>Auf der Rücks, des Titelbl.: Widmung und Druckprivileg wie in
+          <lb/>der Ausgabe von 1514.
+          <lb/>R10.1371. Prov.: Bibl. Ch. Schmidt mit seinem Exlibris u. No¬
+          <lb/>tizen von seiner Hand. Auf dem Titelbl.: Si quis forte rogat cujus liber
+          <lb/>iste sit, ecce Pertinet ad Fratres Sancti-modò pagina Magni. Darunter:
+          <lb/>Sancti Magni in Fuessen.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

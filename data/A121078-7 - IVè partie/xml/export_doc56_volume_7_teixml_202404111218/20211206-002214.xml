@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:07.061780+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002214.tif
+IMAGE WIDTH: 2512
+IMAGE HEIGHT: 3934
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>GESANGBUCH : Das gross [Strassburger! Kirchengesangbuch.
+          <lb/>— Strasbourg, Th. Berger 1572, in-fol.
+          <lb/>Goedeke II2, p. 162, n° 5. « Exemplaire unique à la Kreis¬
+          <lb/>bibliothek de Ratisbonne».
+          <lb/>1887
+          <lb/>GESANGBÜCHLEIN : Ein New Auserlesen Gesangbüchlin in das
+          <lb/>die besten verteudschten Psalmen, Hymni, und ander
+          <lb/>Chorgesenge und Geistliche Lieder, aus den bewertisten
+          <lb/>Kirchen Gesangbüchlin mit etlichen newen Psalmen und
+          <lb/>geistlichen Liedern... zusammen gebracht sind. —
+          <lb/>(Strasbourg, Wolfgang Köpfel 1545), in-8° (Avec préface
+          <lb/>de Bucer).
+          <lb/>Mentz, n° 68; Vogeleis, p. 254; Hubert n° 39; B M Nürnberg;
+          <lb/>Stupperich, n° 71.
+          <lb/>1888
+          <lb/>GESANGBÚCHLEIN : Ein New Anserlesen Gesangbüchlin... —
+          <lb/>Strasbourg, Wolfgang Köpfel 1547, in-8° (Encadrement
+          <lb/>du titre). (Préface de Bucerl.
+          <lb/>Mentz, n° 68 a; Hubert, n° 40.
+          <lb/>1889
+          <lb/>GESANGBÜCHLEIN : Das Newer und gemehret Gesangbüchlein,
+          <lb/>Darinn Psalmen, Hymni, Geistliche Lieder, Chorgesenge,
+          <lb/>Alte und newe Festlieder, sampt etlichen angehenckten
+          <lb/>Schrifftsprüchen und Collect gebetlin, besonders fleisses
+          <lb/>zusamen bracht. Auch hin und wider mit schönen
+          <lb/>Figuren gezieret und Reimensart gestellet. —
+          <lb/>Strasbourg, Th. Berger 1559, in-80,
+          <lb/>Mentz, n° 68 b; Vogeleis, p. 296 ; « Zu Grunde liegt das
+          <lb/>Strassburger Gesangbuch von 1545, ist aber um 15 Stücke
+          <lb/>gemehrt ». Wackernagel p. 291; Hubert, n° 42 : B N Munich.
+          <lb/>1890
+          <lb/>GESANGBÜCHLEIN : (Idem). — Strasbourg, Th. Berger 1560,
+          <lb/>in-8° (2 éd.].
+          <lb/>Vogeleis, p. 296.
+          <lb/>1891
+          <lb/>212
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

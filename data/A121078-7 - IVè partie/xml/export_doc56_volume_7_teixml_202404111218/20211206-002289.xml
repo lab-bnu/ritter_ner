@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:09.248620+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002289.tif
+IMAGE WIDTH: 2494
+IMAGE HEIGHT: 4002
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>KÜCHENMEISTEREI (Idem). — (Strasbourg, Jean Knobloch
+          <lb/>1519), in-40.
+          <lb/>Schmidt VII, n° 190; Weller, Rep. 1204. — S. Gall (Bibl.
+          <lb/>Vadiana).
+          <lb/>2258
+          <lb/>KULMANN, Petrus : Disputatio XXIIX. Ethica. De continen¬
+          <lb/>tiae et incontinentiae ut &amp;amp; tolerantiae ac mollitiae
+          <lb/>Objectis, Speciebus &amp;amp; Collatione cum temperantia &amp;amp;
+          <lb/>intemperantia. Ex Septimi Aristotelis ad Nicomachum
+          <lb/>Ethicorum Libri C. 4-10 desumpta. Quam C. F. N. In
+          <lb/>Inclyta Argentoratensium Academia sub praesidio
+          <lb/>M. Laurentii Thomae Wallisseri Argentinensis. Privati
+          <lb/>Exercitii causa. Respondendo tuebitur Petrus Kulmann,
+          <lb/>Holsatus. Mense Novembri. — Strasbourg, Antoine
+          <lb/>Bertram 1597, in-40,
+          <lb/>Ritter: B M Strasbourg, n° 1350.
+          <lb/>2259
+          <lb/>KULMANN, Petrus : Disputatio XXXVII. Ethica. De multi¬
+          <lb/>tudine et numero amicorum;... Ex Noni Ethicorum
+          <lb/>Aristotelis ad Nicomachum scriptorum Libri C. 10, 11
+          <lb/>&amp;amp; 12 excerpta. Quam C. F. N. In Inclyta Argentora¬
+          <lb/>tensium Academia sub praesidio M. Laurentii Thomae
+          <lb/>Wallisseri Argentinensis: Privati Exercitii causa, Respon¬
+          <lb/>dendo tuebitur Petrus Kulman, Holsatus. Mense
+          <lb/>Januario. — Strasbourg, Antoine Bertram 1598, in-4°.
+          <lb/>Ritter: B M Strasbourg, n° 1351.
+          <lb/>2260
+          <lb/>KUNSTBÜCHLEIN : Kunstbüchlein, Stahel und Eysen künstlich
+          <lb/>weych unnd hart zu machen, schrifft und Bildwerck
+          <lb/>darein zu etzen. Gold und Silber farben auff ein jedes
+          <lb/>Metal mancherley weysse zu machen... M.D.L.XXXIII.
+          <lb/>— Strasbourg, Christian Müller (Mylius) héritiers, 1583.
+          <lb/>Darmstaedter, p. 100.
+          <lb/>2261
+          <lb/>LALEBUCH : Das Lalebuch. Wunderseltzame, Abentheur¬
+          <lb/>liche, unerhörte, und biszher unbeschriebene Geschichten
+          <lb/>und Thaten der Lalen zu Laleburg. Jetzund also frisch...
+          <lb/>287
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

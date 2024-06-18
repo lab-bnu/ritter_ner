@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:56.554576+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5200.tif
+IMAGE WIDTH: 2362
+IMAGE HEIGHT: 3860
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1510
+          <lb/>notes marg., init. ornée V.
+          <lb/>In-4°, car. rom., XLII ff. ch., 3 ff. non ch. à 3 col. (Table.), titre courant,
+          <lb/>Torrentini II commentarij... (2 pp.).
+          <lb/>fol. IIa : Proemium!! In. P. Virgilij Maronis Bucolica!! Hermanni
+          <lb/>L’explication est intercallée dans le texte en caractères plus petits.
+          <lb/>&amp;quot;R. 101.815. Prov. : Harrwitz, Berlin, 6/1. 1897; 7 M. 20. Notes mss.
+          <lb/>Proctor II, Sectio I, No 10.076 : Londres, British Museum; Schmidt
+          <lb/>VII, No 71 : Bâle.
+          <lb/>2414
+          <lb/>VIRGILIUS Maro Publius
+          <lb/>Strasbourg, J. Knobloch, 1512
+          <lb/>Bucolica. P. Wirgilii!! Maronis... (comme au n° précédent).
+          <lb/>A la fin : Impressum Argenti! ne per Ioannem knob( louch
+          <lb/>Anno domini!! M. D. XII.
+          <lb/>In-4°, car, rom., XLII ff. ch. -3 ff. non ch. à 2 col. (Tabula), titre
+          <lb/>courant, notes marg., init. ornées B, V.
+          <lb/>fol. Aij : Proemium!! In P. Vergilij Maronis Buccolica!! Hermanni
+          <lb/>Torrentini!! Commentarij. (2 pp.).
+          <lb/>R. 101.009 (2). Prov. : J.-M. Haeberle, Cologne, 20/III, 1891.
+          <lb/>Schmidt VII, No 79 : Jadis Bibl. de Strasbourg, Incun. No 4819.
+          <lb/>2415
+          <lb/>VIRGILIUS MARO Publius
+          <lb/>Strasbourg, J. Knobloch, 1513
+          <lb/>P. Vergilii Maronis Georgi corum libri cum nouo absolu¬
+          <lb/>tissimoque! commentario Hermanni Tor [I rentini multo
+          <lb/>accuratio ri opera nuper recogniti.
+          <lb/>Ioannis Niblingii TribotiniHexasticon ad Lectorem.
+          <lb/>(3 dist.).
+          <lb/>A la fin: Argentinae per Ioannem knoblouch quo potu-it
+          <lb/>exactiori studio e- laboratum. M. d. xiij. (Verso blanc.)
+          <lb/>In-4°, car, rom., LXXXI ff. ch., 3 ff. non ch. à 3 col. (Tabula), titre
+          <lb/>courant, notes marg.
+          <lb/>&amp;quot;R. 101.814. Prov. : J. Halle, Munich, 13/111, 1895; 10 M.
+          <lb/>Manque chez Schmidt.
+          <lb/>2416
+          <lb/>VIRGILIUS MARO Publius
+          <lb/>Strasbourg, J. Knobloch, 1513
+          <lb/>Georgicorum. P. 1l Virgilij Maronis liber cum no! uo com¬
+          <lb/>mentario Hermanni tor ! rentini zuollensis... (3 dist.).
+          <lb/>A la fin : Impressum per Ioannem!! Knoblouch quo potuit
+          <lb/>exactiori! studio elaboratum, M. D. XIII.
+          <lb/>In-4°, car. rom., LXXXI ff. ch., 3 ff. non ch. (Tabula), titre courant,
+          <lb/>notes marg., init. G.
+          <lb/>R. 101.009 (3). Prov. : J. M. Haeberle, Cologne, 20/III, 1891; le dernier
+          <lb/>f. manque, notes mss.
+          <lb/>Schmidt VII, No 86a : Jadis Bibl. de Strasbourg, Incun. No 4819.
+          <lb/>2417
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:36.040888+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2322.tif
+IMAGE WIDTH: 2318
+IMAGE HEIGHT: 3820
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>318
+          <lb/>R 100.835. Prov, inconnue.
+          <lb/>BN Paris, G 12283(1) et 2 10548; GPB: BN Berlin, BU
+          <lb/>Breslau, Gœttingue, Greifswald.
+          <lb/>Bibliographie de Chytraeus. Voir: Schottenloher I. No 2877-2898.
+          <lb/>481
+          <lb/>CHYTRAEUS David
+          <lb/>Strasbourg, Chr. Mylius, 1565.
+          <lb/>De Lectione HISTORIARVM RECTE INSTI- TVENDA.
+          <lb/>ET Historicorum ferè omni-um SERIEs, &amp;amp; ARGUMENTA,
+          <lb/>breuiter, &amp;amp; perspicuè ex- posita, à DAVIDE CHYTRAEO.
+          <lb/>ADDITA EST CHRONOLOGIA Historiae Herodoti, Thucy¬
+          <lb/>didis, Xeno-phontis, Diodori Siculi, Cornelij Ta- citi,
+          <lb/>Procopij &amp;amp;c.
+          <lb/>ARGENTINAE APVD Christianum Mylium.) 1565.
+          <lb/>A la fin: Argentorati Christianus Mylius excudebat.
+          <lb/>(Verso blanc.)
+          <lb/>In-8°, car. ital, 56 ff. non ch., sign. A-G, titre courant, réclames,
+          <lb/>vignette à la fin.
+          <lb/>Au verso du titre: Dédicace de l’auteur «Antonio Colero,
+          <lb/>Patricio Lubecensi.»
+          <lb/>fol. G 6b: Dodecastichon Carmen Matthiae Hvebneri;
+          <lb/>Schnebergensis.
+          <lb/>R101.094. Prov.: Astmann, Strasbourg, 31/V. 1877; 1M 20.
+          <lb/>BN Paris, G 32565 et 32642; BM Strasbourg O 2683a.
+          <lb/>GPB: BU Muenster.
+          <lb/>482
+          <lb/>Strasbourg, B. Jobin, 1590.
+          <lb/>CHYTRAUS David
+          <lb/>DAVIDIS CHYTRAEI SYLVA CRONICI SAXONIAE ET
+          <lb/>VICINI OR- bis Arctoi. Ab anno Chisti M. D. LXXX.
+          <lb/>Vsque ad M. D. XC. (Vignette).
+          <lb/>ARGENTINAE. Excudebat Bernhard Iobinus, Anno
+          <lb/>M. D. LXXXX.
+          <lb/>In-80, car, rom., 359 p. ch. et 7 ff. non ch. (Index à 2 colonnes),
+          <lb/>titre courant, réclames, notes marginales, initiales ornées, titre encadré,
+          <lb/>avec la marque de Jobin au bas. (HAB, Planche XXXIX, n° 11.)
+          <lb/>Au verso du titre, gravure sur bois représentant l’auteur, un livre
+          <lb/>en main, avec la légende : In Effigiem Reveren-di et Clariss.
+          <lb/>viri, Davidis Cythraei Theologi &amp;amp; historici celeberr.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

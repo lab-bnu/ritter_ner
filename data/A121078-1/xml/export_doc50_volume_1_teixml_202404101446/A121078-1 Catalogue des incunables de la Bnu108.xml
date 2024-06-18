@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:38.226913+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu108.tif
+IMAGE WIDTH: 2398
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>PASSIONAL oder LEBEN der Heiligen. (Strasbourg, J. Prüss,
+          <lb/>vers 1480), in-fol.
+          <lb/>Copinger 6504, Schreiber 4308, Schramm, Bilderschmuck XX,
+          <lb/>grav. N° 1272-1326, sous Jacobus de Voragine, où ce numéro
+          <lb/>devrait figurer.
+          <lb/>K 2349. Prov.: Don de la Bibl. Univ. de Leipzig, 1871. Au¬
+          <lb/>dessus du 1er f.; «1726 Dem Kloster zu Sancta Maria Magda¬
+          <lb/>lena ordinis S. Dominici in Speyr überlassen.» Rel. anc. 369
+          <lb/>PAULUS DE S. MARIA BURGENSIS: Scrutinium scripturarum.
+          <lb/>(Strasbourg, J. Mentelin, vers 1471), in-fol.
+          <lb/>Hain 10763, Pellechet: Colmar 952, Proctor 209, Voulliéme:
+          <lb/>Berlin 2106, 5, Schorbach: Mentelin N° 19; vers 1470.
+          <lb/>K 2828a. Prov.: F. Butsch, Augsbourg, 12. X. 1883, 21 M. Au
+          <lb/>bas du f. 1: «Carthusiae in Buxheim». Au-dessous, cachet:
+          <lb/>«Bibl. Buxheim». Rel. anc.
+          <lb/>370
+          <lb/>PAULUS DE S. MARIA BURGENSIS: Scrutinium scripturarum.
+          <lb/>(Strasbourg, J. Mentelin, vers 1474), in-fol.
+          <lb/>Hain 10762, Madsen 3060, Proctor 223 A, Voulliéme: Berlin
+          <lb/>2106, Schorbach: Mentelin N° 34.
+          <lb/>K 2828. Prov.: Don de la ville de Nördlingen, 1872. Au recto¬
+          <lb/>du f. de garde: «Vide Panzeri Annal. typographici, T. I, p. 72,
+          <lb/>N° 4009. Rel, anc.
+          <lb/>374
+          <lb/>PELBARTUS DE THEMESWAR: Sermones Pomerii. Haguenau,
+          <lb/>H. Gran, 27 juillet 1498, in-4°.
+          <lb/>Hain 12551, Proctor 3195, Voulliéme: Berlin 1180, 5.
+          <lb/>K 2839. Prov.: Don de Fid. Butsch fils, Augsbourg, 1871. Rel.
+          <lb/>anc.
+          <lb/>372
+          <lb/>PELBARTUS DE THEMESWAR: Sermones Pomerii. (Haguenau,
+          <lb/>H. Gran, 20 février 1499), in-4°.
+          <lb/>Hain 12555 (Pars I), Proctor 3197. Voulliéme: Trier 836, Voul¬
+          <lb/>liéme: Berlin 1181, 10.
+          <lb/>K 2842. Prov. inconnue. Notes mss. Au-dessous du titre:
+          <lb/>Eustachius Regner (?). Au bord: «Pelbartus Osvaldus, Hunga¬
+          <lb/>rus, ordinis Minorum, concionator eximius, claruit anno 1501.
+          <lb/>Vide. Henr. Wharton, app. H. L. Wil. Can. p. 158». Rel. anc.
+          <lb/>373
+          <lb/>78
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

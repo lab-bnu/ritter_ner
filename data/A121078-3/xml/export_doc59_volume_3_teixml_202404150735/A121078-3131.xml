@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:06.729307+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3131.tif
+IMAGE WIDTH: 2306
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Am Schluss: Getruckt zu Straszburg von Amandus
+          <lb/>farckal in Johannes gruningers kosten Am abent! vnser
+          <lb/>lieben frawen geburt tag Do man zalt nach! Christus ge¬
+          <lb/>burt Tausent funffhundert vnd XXX. (Rücks, leer.)
+          <lb/>20, Got., 4 unn. u. OXI num. Bll.; das letste Bl. ist mit der Ziffer
+          <lb/>92 gezeichnet, verschiedene Zahlen sind ausgelassen, so I-LXIX, dann
+          <lb/>L-LXIV, LXXXXIII-CIV, im ganzen 66 Holeschn, mit dem T&amp;#x27;itel¬
+          <lb/>bild, nach der Ausgabe des C. Hochfeder in Metz 1500.
+          <lb/>R10.055. Prov.: Trübner, Strassburg 19. X. 1881; 230M.
+          <lb/>GK: UB Königsberg.
+          <lb/>869
+          <lb/>FLORES Peter
+          <lb/>Strassburg, M. Schürer 1813
+          <lb/>PETRI FLORES HISPANI EPISCO pi Castellimaris lu.
+          <lb/>vtriusque doctoris, oratio! habita Romae in basilica prin¬
+          <lb/>cipis Apo stolorum ad sacrum Collegium Sacro- sancte
+          <lb/>Roma. Ecclesie Card, de! summo pont. eligendo Iulij II.
+          <lb/>Pontific. Ma-. successore. Lector eme, lege, &amp;amp; gau¬
+          <lb/>debis.
+          <lb/>Am Schluss: Argentorati, Ex aedibus Schurerianis,
+          <lb/>Mense Maio, An. M. D. XIII.
+          <lb/>40, Antiq., 9 unn. Bll., Sign. A-B.
+          <lb/>Auf der Rücks, des Titelbl.: Reverendissimo... archi- epi¬
+          <lb/>scopo Toletano... Petrus Flores...
+          <lb/>R101.353. Prov.: L. Rosenthal, München 2. V. 1892, 10M.
+          <lb/>BN Paris, Rés. X. 1139, Schmidt VIII Nr. 101.
+          <lb/>870
+          <lb/>FLORETUS
+          <lb/>Strassburg, J. Knobloch 1510
+          <lb/>FLoretus theolo gicus carmine descri ptus: subscri
+          <lb/>pta conti! nens.
+          <lb/>De fide catholica Et credendis De preceptis decem
+          <lb/>tabularum Moysi De peccatorum discrimine &amp;amp; eisdem
+          <lb/>vitandis De sacramentis ecclesie christi De virtutibus
+          <lb/>moralibus &amp;amp; theologicis De morte eiusque sequela.
+          <lb/>(Rüeks. leer.)
+          <lb/>Am Schluss: Impressum Argentine per honestum virum
+          <lb/>Joan- nem Knoblouchum feria secunda post! Iudica
+          <lb/>Anno domini Millesi mo quingentesimo! decimo.
+          <lb/>4°, Antiq., 63 unn. Bll., Sign. A-H, Init. E.
+          <lb/>R100.947. Prov.: Butsch Sohn, Augsburg 12. x. 1883; 3 M. 50.
+          <lb/>Schmidt VII Nr. 69: Ehemal. Strassburger Bibl., Inkun. Nr. 736.
+          <lb/>GK: SB Berlin.
+          <lb/>871
+          <lb/>575
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

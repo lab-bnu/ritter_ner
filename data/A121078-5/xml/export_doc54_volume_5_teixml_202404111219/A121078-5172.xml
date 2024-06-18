@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:55.541767+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5172.tif
+IMAGE WIDTH: 2350
+IMAGE HEIGHT: 3854
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1480
+          <lb/>Anno gratie. M. D. X. Nonis Nouembribus.Maximiliani!
+          <lb/>Cesaris semper Au-uti priuilegio! munitum!! opus.
+          <lb/>In-fol., car. goth., 2 col., 225 ff. ch., 3 ff. non ch. dont le dernier blanc
+          <lb/>(index), titre courant, init. d’attente, titre rouge et noir, encadré par
+          <lb/>Wechtelin: à gauche une tige de houblon, à droite un cep de vigne, s’entre¬
+          <lb/>laçant dans la bordure supérieure, où, sur un feston suspendu à deux
+          <lb/>branches est perchée une chouette.
+          <lb/>Au verso du titre :... Ioanni Sigrist diuae aedi II s. Thomae Argentin.
+          <lb/>canonico &amp;amp; Cantori... Georgius Maxil-I! lus alias übelin... Argentinae
+          <lb/>Nonis Nouembribus. Anno... M. D. X.
+          <lb/>R. 10.362. Prov. : BN Munich, 11/XII, 1875; 1 M.
+          <lb/>A l’intérieur du ler plat, ex-libris (armoiries) avec les mots : Ex Electorali
+          <lb/>Bibliotheca Sereniss. Utriusque Bavariae Ducum.
+          <lb/>Proctor II, Sectio I, No 10.268, British Museum; Schmidt II, No 16.
+          <lb/>2363
+          <lb/>TURLERUS Hieronymus
+          <lb/>Strasbourg, B. Jobin, 1574
+          <lb/>De Pere! grinatione et Agro Neapolitano Libri II.
+          <lb/>Scripti ab Hieronymo (I Turlero.
+          <lb/>Omnibus peregrinantibus vtiles!! ac necessarii : ac in eorum
+          <lb/>gratiam nunc primum editi.
+          <lb/>Marque typ. de B. Jobin qui manque chez H. &amp;amp; B., regard
+          <lb/>à droite.
+          <lb/>Per Bernhardum Iobinum Argentorati.Ano M. D.
+          <lb/>LXXIIII. (Verso blanc.)
+          <lb/>A la fin : Argentorati!! Excudebat Bernhar-dus Iobinus.
+          <lb/>Anno. M. D. LXXIIII.
+          <lb/>In-8°, car. ital., 8 ff. non ch., 107 pp. ch., titre courant, réclames, init.
+          <lb/>ornées G, D, P.
+          <lb/>fol. A 2b : Epistola Dedicatoria !]... Baronibus, Domi // no Georgio,
+          <lb/>Hugoni, &amp;amp; Vito, fra!I tribus germanis, antiquae familiae Schonbur¬
+          <lb/>giorum, Dominis in Glaucha &amp;amp; Wal!! denburgk, Hieronimus Tur¬
+          <lb/>lerus... (3 ff.).
+          <lb/>fol. A 5a-Abb : Typographus Lectori... (2 ff.).
+          <lb/>R. 101.508. Prov. : Collection Baum, 1879.
+          <lb/>Oxford, Bibl. Bodleiana; Ritter, Catal. BM Strasbourg, N° 2120.
+          <lb/>2364
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

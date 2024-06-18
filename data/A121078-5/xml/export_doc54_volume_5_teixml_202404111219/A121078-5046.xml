@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:50.259735+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5046.tif
+IMAGE WIDTH: 2406
+IMAGE HEIGHT: 3868
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1354
+          <lb/>Au verso, marque typ. de Cr. Mylius, semblable à H. &amp;amp; B.
+          <lb/>Planche XXVII, NO 9.
+          <lb/>In-4°, car. rom., 88 ff. non ch., sign. A-Y, titre courant, réclames,
+          <lb/>init. à fig. E, V, et init. ornée I.
+          <lb/>fol. A 2a : Ioannes Sleidanus !] Lectori... Argentorati, II septimo
+          <lb/>Calendas Iulij !! Anno 1I M. D. XLIIII.
+          <lb/>R. 101.823. Prov. : BN Munich, 11/VII, 1879; 1 M.
+          <lb/>Annotation au crayon : « erste lateinische Ausgabe der beiden Reden ».
+          <lb/>Oxford, Bibl. Bodleiana.
+          <lb/>2128
+          <lb/>SLEIDANUS Johannes
+          <lb/>Strasbourg, W. Rihel, 1555
+          <lb/>Joan. Sleidani, (De Statv Re- ligionis et! Reipublicae,
+          <lb/>Carolo!! Quinto, caesare, !l Commentarii.
+          <lb/>Marque typ. de W. Rihel. (H. &amp;amp; B. Planche XXX, No 6.)
+          <lb/>Cum Indice luculentissimo. ! M. D. LV.
+          <lb/>A la fin : Argentorati Excudebat Vuendelinus Rihelius.
+          <lb/>Anno!! M. D. LV. (Verso blanc.)
+          <lb/>In-fol., car, rom., 4 ff. non ch., 470 ff. ch., titre courant, réclames,
+          <lb/>init. ornées. Edition princeps.
+          <lb/>Au verso du titre : Avthor Typographis. S.
+          <lb/>fol. a 2a : Illvstrissimo! Principi Augusto Electori Sa-[] xoniae Duci...
+          <lb/>Ioannes Sleidanus! S. P. D... — Dat. decimo Cal. April. I1 M. D. LV.
+          <lb/>(Préface de 6 pp.)
+          <lb/>R. 10.468. Proy. Don du Prof. Flathe, Meissen, 1871.
+          <lb/>Au recto du f. de garde on a collé un portrait de J. Sleidan. Au-dessus:
+          <lb/>« Höchst seltene Ausgabe, siehe Vogt, Cat. libr. rar., n° 630, p. 209b »,
+          <lb/>au bas E. Wörner 5/7 1860».
+          <lb/>2e ex. R. 10.469. Prov. : Bibl. Heitz, Strasbourg.
+          <lb/>Annotations mss, au recto du f. de garde: « Extrait des Mélanges histor.
+          <lb/>de V. Colomier, p. 22 :
+          <lb/>« Parlant un jour à Mr Vossius de Sleidan et lui louant cet historien
+          <lb/>comme fort fidèle il me dit que l’emp. Charles V l’accusait d’avoir dit
+          <lb/>beaucoup de faussetés. L’auteur de l’apothéose de Ruard Tapper, Chan¬
+          <lb/>celier de l’Université de Louvain, p. 87, de l’édit de Francker, (?) dit, que
+          <lb/>Charles V rendait un témoignage tout contraire à Sleidan. Joh. Franck,
+          <lb/>1783. Johannes David Rullin. Sur quoi répliquant à Mr. Vossius que.
+          <lb/>nous ne savions cela que par le rapport du Jésuite Pontanus dans la
+          <lb/>note sur Cantacusene, p. 990. Cela est vrai me répondit-il, et je pensais
+          <lb/>être le seul qui eusse trouvé cette rareté ».
+          <lb/>A l’intérieur du 1er plat, au haut autographe Joh. Val. Hübner, au
+          <lb/>milieu : Ex libris Emanuel Braunwald, 1824. Ritter, Catal. BM Stras¬
+          <lb/>bourg, n° 1926; Walter, BM Sélestat, n° 2242.
+          <lb/>2129
+          <lb/>SLEIDANUS Johannes
+          <lb/>Strasbourg, W. Rihel hér,, 1555
+          <lb/>Joan. Sleidani, De Statu Re-Il ligionis... Réimpression de
+          <lb/>l’édition précédente par les héritiers de W. Rihel, avec quelques
+          <lb/>variantes, avec la même marque typogr. au milieu du titre.
+          <lb/>A la fin : Argentorati! Per Haeredes Vuendelini Rihelij.
+          <lb/>Anno !! M. D. LV.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

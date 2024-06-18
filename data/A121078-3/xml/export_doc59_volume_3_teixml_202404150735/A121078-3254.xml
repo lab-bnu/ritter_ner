@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:09.779559+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3254.tif
+IMAGE WIDTH: 2340
+IMAGE HEIGHT: 3858
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>698
+          <lb/>Auf der Rücks. des letzten Bl.: Epigramma Caspari Schallii (3 Dist.),
+          <lb/>Aliud Bernhardi Praetorii (4 Dist.) a. Conradi Diede in Fürstenstein
+          <lb/>(2 Dist.).
+          <lb/>R 10.563. Prov.: Geschenk von Fid. Butsch Sohn, Augsburg 1871.
+          <lb/>1028
+          <lb/>4
+          <lb/>GRASSIS Johannes de. Siehe: JOHANNES DE Grassis
+          <lb/>(Zu Nr. 1028)
+          <lb/>GRATAROLO Guglielmo
+          <lb/>Strassburg 1563
+          <lb/>GVLIELMI GRA- TAROLI BERGOMATIS MEDI-] CI, &amp;amp; rei me¬
+          <lb/>dicae ordinarij professoris in Acade- mia Marpurgensi
+          <lb/>praefationes duae publicè ha- bitae, Anno 1562. Quarum
+          <lb/>contenta sequens! pagina indicabit.
+          <lb/>ITEM, Oratio luculenta, in qua sunt laudes! Agricul¬
+          <lb/>turae eiusque cum urbana uita collatio. ITEM, Leges de
+          <lb/>rustica, tum ex lustiniano sacratiss. Imperatore, tum ex
+          <lb/>alijs sumptae. Dialysis quatuor librorum Virgilij in Geor¬
+          <lb/>gicis, generalis. Accedunt experimenta multa rei rusticae
+          <lb/>&amp;amp; hor- tensis. Et denique scriptorum eius argumenti
+          <lb/>catalogus. Accesserunt, Declamatio doctiss. &amp;amp; elegans de
+          <lb/>laudibus &amp;amp; usu omnis Philosophiae, habita aliâs! à docto
+          <lb/>iuuene quodam. ITEM, Physicae propositiones: &amp;amp; de exer¬
+          <lb/>citijs corporalibus piorum: alias scriptae à Philippo
+          <lb/>Melanchthone.
+          <lb/>ARGENTORATI. M. D. LXIII.
+          <lb/>80, Antiq., 131 S., Kust.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

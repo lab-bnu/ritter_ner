@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:38.783363+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2420.tif
+IMAGE WIDTH: 2380
+IMAGE HEIGHT: 3822
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>416
+          <lb/>fol. 3a non ch.: PETRVS DASY- PODIVS AEQVO LECTORI...
+          <lb/>— Argentorati sexto Calen- das Martij. Anno M.D.XXXVI.
+          <lb/>Dasypodius (7 vers), Ioannes Hospiniani Steinanus (10 distiques.)
+          <lb/>Au verso: Vers latins de Joannes Sapidus (3 distiques) Petrus
+          <lb/>R101.902. Prov.: BN Munich, 22/1. 1880,1M.
+          <lb/>fol. 266 manque, ainsi que la moitié de fol. 267.
+          <lb/>GPB: B U Marbourg.
+          <lb/>618
+          <lb/>DASYPODIUS Petrus
+          <lb/>Strasbourg, W. Rihel, 1539.
+          <lb/>Aextzov. GRAECOLA TINVM IN VSVM IV-) uentutis
+          <lb/>Graecarum literarum studio sae, diligenter congestum.
+          <lb/>Opera Petri Dasypodii.
+          <lb/>Marque typ. de W. Rihel, (H et B, Planche XXIX, NO 4; Sil¬
+          <lb/>vestre, No 741.)
+          <lb/>Au-dessous: IMPRESSVM ARGENTO RATI in Officina Vuen¬
+          <lb/>delini Rihelij. Mense Martio. Anno M. D. XXXIX.
+          <lb/>Cum privilegio Caesareo ad septem, &amp;amp; Regio ad sex
+          <lb/>Annos, (Verso blanc.)
+          <lb/>A la fin: IMPRESSVM ARGENTO rati in Officina Vuen¬
+          <lb/>delini Rihelij. Mense Martio. ANNo M. D. XXXIX.
+          <lb/>In-4°, car, rom. et grecs, 295 ff. ch., 2 col., titre courant, récla¬
+          <lb/>mes, de nombreuses initiales blanches sur fond noir.
+          <lb/>fol. 2a: PETRVS DASIPO DIVS STVDIOSIS LI terarum
+          <lb/>adolescentibus...
+          <lb/>R101.252. Prov.: B N Munich, 22/1. 1880; 1M. 20.
+          <lb/>Ex-libris: « Ex Electorali Bibliotheca Sereniss. Vtriusque Bauariae
+          <lb/>Ducum» à l’intérieur du premier plat.
+          <lb/>GPB: B U Breslau, Gœttingue, Greifswald, Kœnigsberg. 619
+          <lb/>DASYPODIUS Petrus
+          <lb/>Strasbourg, W. Rihel, 1554.
+          <lb/>DICTIONARIVM LATINOGERMANICVM ET VI- ce uersa Ger¬
+          <lb/>manicolatinum, ex optimis Latinae linguae scriptoribus
+          <lb/>concinnatum. ACCESSERVNT NOMINA Loco- rum &amp;amp; Am¬
+          <lb/>nium in Germania, &amp;amp; alia quaedam, ut sequen-te pagina
+          <lb/>indicatur. Authore Petro Dasypodio. IAM QVARTO RECO¬
+          <lb/>GNITVM ET MVL- tis uocabulis locupletatum per Authorem
+          <lb/>&amp;quot;ipsum, generibus nominum,uerborumque praeteritis &amp;amp;
+          <lb/>supinis adiectis. PRAETEREA, adiecta sunt Forensia, ac
+          <lb/>seorsim sub unum titu- lum redacta.
+          <lb/>Marque typ. de Wendelin Rihel (HEB, Planche XXIX, No5;
+          <lb/>Silvestre, No 757.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

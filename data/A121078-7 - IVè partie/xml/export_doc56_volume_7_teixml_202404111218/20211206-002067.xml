@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:03.199935+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002067.tif
+IMAGE WIDTH: 2458
+IMAGE HEIGHT: 3968
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>BRENTIUS, Joh. (Moses) : Das ander Buch Mosi, Exodus
+          <lb/>genant... verteutscht durch Sebastian Coccium. —
+          <lb/>Haguenau (Valentin Kobian) 1540, in-4o.
+          <lb/>Köhler, n° 109.
+          <lb/>1089
+          <lb/>BRENTIUS, Joh. (Ruth) : Auszlegung über das Buch Ruth,
+          <lb/>aus dem Latein verdeutscht durch Erasmum Alberum...
+          <lb/>— Haguenau, Valentin Kobian (1536), in-8°.
+          <lb/>Köhler, no 92.
+          <lb/>1090
+          <lb/>BRENTIUS, Joh. (Salomon) : Der Prediger Salomon. —
+          <lb/>(Haguenau, J. Secer 1528), in-80.
+          <lb/>Köhler, n° 26; Burg, n° 102; Bibl. Budapest Exeg. 1719
+          <lb/>(communication de Madame Soury, Strasbourg). [Une éd. lat.
+          <lb/>Secer 1528: Ritter, Rép. n° 263l.
+          <lb/>1091
+          <lb/>BRENTIUS, Joh. (Salomon) : Der Prediger Salomon... —
+          <lb/>Haguenau, Jean Secer (1529), in-8°.
+          <lb/>Köhler, n° 34 : Stuttgart, Wernigerode. Bibl. Budapest:
+          <lb/>Exeg. 1719. (Communication de Mme Soury, Strasbourg);
+          <lb/>Burg, n° 104.
+          <lb/>1092
+          <lb/>BRENTIUS, Joh. (Sermo) : Zwo Christenliche Sermon... —
+          <lb/>(Strasbourg) 1527, in-4°.
+          <lb/>Köhler, n° 24 : Dresden, Fribourg.
+          <lb/>1093
+          <lb/>BRENTIUS, Joh. : Ex vetustis orthodoxorum patrum Cypriani,
+          <lb/>Hilarii, Ambrosii... de genuino eucharistiae negocii
+          <lb/>intellectu et usu libellus ex divinis scripturis, ab iisdem
+          <lb/>dexterrime conflatus... — Haguenau, Jean Secer 1528,
+          <lb/>in-80.
+          <lb/>Bibl. Budapest Th. n° 687 (Communication de Mme Soury,
+          <lb/>Strasbourg).
+          <lb/>1094
+          <lb/>BRENTIUS, Joh. Voir aussi: BUCER n° 1144; LIEDER n° 2403;
+          <lb/>LUTHER n° 2480; MELANCHTHON n° 2662; Te Deum
+          <lb/>n° 3312; (RITTER, Rép, nos 261-269).
+          <lb/>65
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

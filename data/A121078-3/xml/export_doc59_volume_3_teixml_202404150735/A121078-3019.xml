@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:05.051058+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3019.tif
+IMAGE WIDTH: 2350
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Bl. A 2a: Ad... Paulum Baronem a Suartzenberg &amp;amp;c.
+          <lb/>Her bipolensis ac Bambergensis Ecclesia- rum Canoni¬
+          <lb/>cum... Helij Eobani Hessi, Heroidum! Christianorum
+          <lb/>De- dicatio... (Distiche, 6 S.)
+          <lb/>R102.122. Prov.: Bibl. Bernhard. Vrat.
+          <lb/>692
+          <lb/>GK. UB Breslau, Göttingen, Münster.
+          <lb/>EOBANUS HESSUS Helius
+          <lb/>Hagenau, P. Brubach, 1535
+          <lb/>HELII EOBA NI HESSI SYLVARVM LIBRI VI.Nuper pri¬
+          <lb/>mum aediti Anno M. D. XXXIII. (Epheubl.)
+          <lb/>Lectori (6 lateinische u. 7 griech. Verse.) Rückseite leer.
+          <lb/>Auf der Vorderseite des letzten Bl.: HAGANOAE EX OFFICI! NA
+          <lb/>PETRI BRV BACHII Anno Domini Millesimo Quingentesimo
+          <lb/>trice! simo quinto, Mense Iulio. Auf der Rückseite: Drucker¬
+          <lb/>marke Brubachs. (H æ B, Tafel LXIX, Nr. 4.)
+          <lb/>80, Kursiv, 128 unn. Bl., Sign. Ad-Pp, Init. S.C, I. P, O.
+          <lb/>N. E.
+          <lb/>Bl. Aa 2: Widmung des Verfassers «Ioanni Dantisco Episcopo
+          <lb/>Culmensi,» datiert aus Nürnberg. März 1533.
+          <lb/>R100.975. Prov.: Sammlung Böcking.
+          <lb/>Beaulieux, S. 113: UB Paris, Rés. 1157. GK: UB Halle, Kö¬
+          <lb/>nigsberg.
+          <lb/>693
+          <lb/>EOBANUS HESSUS Helius. Siehe auch: 1) PSALTERIUM Davidis
+          <lb/>u. 2) VIRGILIUS, Bucolicorum explicatio
+          <lb/>EOBANUS HESSUS Helius
+          <lb/>Strassburg, Chr. Mylius, 1561
+          <lb/>IN P. VER- gilij Maronis Bucolica, ANNOTATIONES
+          <lb/>H. EOBANI HESSI.
+          <lb/>SCHOLIA I- tem Leonardi Kulmanni, quibus artificium
+          <lb/>Rhetori- cum explicatur.
+          <lb/>Am Schluss: ARGENTINAE EXCVDE- bat Christianus My¬
+          <lb/>lius. Anno 1561.
+          <lb/>80, Kursiv, Griech. u. Antiq., 39 unn. Bll., Sign. A-E, Kopf¬
+          <lb/>titel, Kustoden, Marginalien, Zierinit. A, Titeleinfassung.
+          <lb/>(HE B, Tafel XXV, Nr. 3.)
+          <lb/>463
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

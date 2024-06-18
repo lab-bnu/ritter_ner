@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:05.804859+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002157.tif
+IMAGE WIDTH: 2486
+IMAGE HEIGHT: 3964
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>genant ausz den Colloquiis Erasmi genummen und mit
+          <lb/>reymen, doch inn den sententz nach verteütscht. M. D.
+          <lb/>XXXVII. — Strasbourg, Jacques Frölich 1537, in-8°.
+          <lb/>Van der Haeghen, Bibl. Erasm. Traduction p. 426: BN
+          <lb/>Vienne.
+          <lb/>1574
+          <lb/>ERASMUS (De duplici copia) : De duplici copia verborum
+          <lb/>ac rerum. Eiusdem commentarioli duo de Ratione studio¬
+          <lb/>rum : &amp;amp; pueris instituendis. Concio quoque de puero
+          <lb/>Jesu Londini pronunciata. Aphtonii quoque progymnas¬
+          <lb/>mata &amp;amp; praeexercitationes rhetorum a Jo. Mario
+          <lb/>Cataneo latinitate donata. — (Strasbourg, à la fin de
+          <lb/>l’introduction); ex aedibus Schürerii 1515, in-4°.
+          <lb/>D’après la fiche du catalogue méthodique de la BN de Stras¬
+          <lb/>bourg, où le livre a disparu. [éd. Schürer 1513 : Ritter Rép.
+          <lb/>n° 711; Schürer 1514: Rép, n° 713).
+          <lb/>1575
+          <lb/>ERASMUS (Idem). — Strasbourg, Mathias Schürer vers 1515,
+          <lb/>in-40.
+          <lb/>Rest p. 50 : B U Fribourg-en-Br.
+          <lb/>1576
+          <lb/>ERASMUS (De duplici copia)... Item Epistola Erasmi ad Wim¬
+          <lb/>phelingium... Item Erasmi Roterodami Parabolae, sive
+          <lb/>Similia, e physicis, pleraque ex Aristotele et Plinio. —
+          <lb/>(Strasbourg, Mathias Schürer, février 1516), in-4°.
+          <lb/>Panzer 6, 80, 443; 11, 363; Schmidt VIII, n° 180 : Bibl.
+          <lb/>S. Guillaume, Strasbourg. [éd. Schürer, décembre 1514,
+          <lb/>octobre 1516 : Ritter, Rép, nos 714 et 721; décembre 1518
+          <lb/>(Rép. n° 730)).
+          <lb/>1577
+          <lb/>ERASMUS : De duplici copia... — Sélestat, Lazare Schürer
+          <lb/>1519, in-40.
+          <lb/>Rest p. 50: B U Fribourg-en-Br. [éd. U. Morhard 1519, Ritter,
+          <lb/>Rép. n° 736; Thomas Anshelm 1519 : Rép. n° 737). 1578
+          <lb/>ERASMUS (Idem)... — Strasbourg, Jean Knobloch 1521,
+          <lb/>in-80.
+          <lb/>155
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

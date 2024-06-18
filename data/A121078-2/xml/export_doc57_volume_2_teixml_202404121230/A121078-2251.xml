@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:34.173821+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2251.tif
+IMAGE WIDTH: 2296
+IMAGE HEIGHT: 3816
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>247
+          <lb/>ARGENTORATI PER WENDELINVM! Rihelium. Mense Mar¬
+          <lb/>tio. Anno! M. D. XXXVI. (Verso blanc.)
+          <lb/>A la fin: EXCVSVM ARGENTORATI APVD WENDE- linum
+          <lb/>Rihelium, Mense Martio. Anno M. D. XXXVI. (Verso blanc.)
+          <lb/>In-fol, car, rom., 2 col., 6 ff. non ch. (Préface), 507 pages ch.,
+          <lb/>(erreurs de pagination) — 1 f. blanc, titre courant, réclames, notes
+          <lb/>marginales; initiales à fig. et initiales ornées.
+          <lb/>fol. 2a non ch :... D. THOMAE CRANME-R Archiepis-
+          <lb/>copo Cantuariensi, primati Angliae, Martinus Buce¬
+          <lb/>rus... — Argent. VIII. Calend. Aprileis,Anno M. D. XXXVI.
+          <lb/>(Préface de 9 pages.) Verso blanc.
+          <lb/>R10.293(2). Prov.: Bibl. Baum, 20/II. 1879. Notes mss. Rel. anc.
+          <lb/>Oxford, Bibl. Bodleiana; Bibl. St. Guillaume, Strasbourg.
+          <lb/>GPB: Berlin SB, Bonn BU, Breslau BU, Gœttingue BU,
+          <lb/>Greifswald BU, Kœnigsberg BU.
+          <lb/>Baum No 38; Mente No 40.
+          <lb/>371
+          <lb/>BUTZER Martin
+          <lb/>Strasbourg, W. Rihel, 1538.
+          <lb/>Von der waren Seel sorge, unnd dem rechten Hir ten¬
+          <lb/>dienst wie der selbige inn der Kirch- en Christi bestellet,
+          <lb/>unnd ver- richtet werden solle. durch Martin Bucer.
+          <lb/>Hierinn findestu die eygentlichen mittel, durch welche
+          <lb/>wir von diser so jämerlichen, und ver- derblichen spal¬
+          <lb/>tung vnd zertrennung der Religion, wider zà warer ey¬
+          <lb/>nigkeyt der Kirchen, und der selbigen gûter Christlicher
+          <lb/>ordnung! kommen mœgen.
+          <lb/>Nit alleyn den gemeynden Christi, sonder auch den
+          <lb/>pfar-rern, vnd obren seer nutzlich zu wissen. Die für¬
+          <lb/>nemsten articul disz bûchs besehe am nachgonden blatt.
+          <lb/>Zà Straszburg bei Wendel Rihel.) Anno M.D.XXXVIII.
+          <lb/>A la fin: Durch M. Bucer ausz befelch seiner mitarbeiter
+          <lb/>am! wort des Herren in der Kirchen zû Straszburg.
+          <lb/>(Verso blanc.)
+          <lb/>In-4°, car. goth., 6 ff. non ch. CXVI ff. ch., titre courant, récla¬
+          <lb/>mes, notes marginales, initiales goth.
+          <lb/>fol. A 2a non ch.: Allen gleubigen vnsers Her- ren Jesu
+          <lb/>Christi, Gnade vnd frid...Martinus Bucer eyn diener
+          <lb/>des heyligen Euan- geli in der Kirchen zu Straszburg.
+          <lb/>(Préface de 4 ff.)
+          <lb/>R 100.748(2). Prov, inconnue. Notes mss.
+          <lb/>BM Strasbourg; GPB: Berlin SB, Bonn BU, Breslau RU,
+          <lb/>Gœttingue BU, Greifswald BU, Kœnigsberq B U, Munster BU. Wal¬
+          <lb/>ter: Sélestat 869.
+          <lb/>Baum No 49; Mente No 42.
+          <lb/>372
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

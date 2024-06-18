@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:37.209743+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu059.tif
+IMAGE WIDTH: 2380
+IMAGE HEIGHT: 3840
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>CATo Dionysius: Cato moralissimus cum commento Roberti
+          <lb/>de Euromodio, vulgo Disticha Catonis. Strasbourg,
+          <lb/>Martin Flach), 20 sept. 1487, in-4°.
+          <lb/>G W 6286, Hain 4721, Proctor 672, Voulliéme: Berlin 2479.
+          <lb/>K 1122. Prov.; B N Munich, 16/xIl. 1879, 1 M. 20.
+          <lb/>129
+          <lb/>CHAIMIS Bartholomaeus de: Confessionale. (Strasbourg,
+          <lb/>imprimeur de l’Ariminensis, vers 1476/8), in-fol.
+          <lb/>G W 6542, Hain 2478, Pellechet 1856, Pellechet: Colmar 249,
+          <lb/>Proctor 307, Voulliéme; Berlin 2161, 2.
+          <lb/>K 572 Prov.: Librairie Trübner, Strasbourg, 11/x. 1888, 28 M.
+          <lb/>130
+          <lb/>CHRYSOPOLITA Zacharias. Voir: Zacharias Chrysopolitanus.
+          <lb/>CHRYSOSTOMUS. Voir: Johannes Chrysostomus.
+          <lb/>CINUS DE PISTORIO: Lectura super codicem. Strasbourg,
+          <lb/>H. Eggestein, vers 1475), 2 vol. in-fol.
+          <lb/>G W 7045, Hain 13022, Madsen 1204, Proctor 279, Voulliéme:
+          <lb/>Berlin 2150.
+          <lb/>K 1351. Prov.: Don de la Bibl. Univ. de Goettingue, 1872. Le
+          <lb/>2e vol. avec rel. anc.
+          <lb/>131
+          <lb/>CLAG, Antwort. (Richterlich Klagspigel). Voir: Brant Seb.
+          <lb/>CLEMENS V (Papa): Constitutiones. (Strasbourg, H. Egge-
+          <lb/>stein, vers 1470), in-fol.
+          <lb/>G W 7079, Hain 5407, Pellechet 2725, T. 2. Pellechet: Colmar
+          <lb/>502. Proctor 272, Voulliéme: Berlin 2149.
+          <lb/>K 1269. Prov.; Albert Cohn, Berlin, 26/1x. 1882, 30 M. 132
+          <lb/>CLEMENS V (Papa): Constitutiones. Strasbourg, H. Egge¬
+          <lb/>stein, 21 nov. 1471, in-fol.
+          <lb/>G W 7081, Hain 5413, Pellechet 3838, Proctor 260, Voulliéme:
+          <lb/>Berlin 2135; Walter: Sélestat 151.
+          <lb/>K1272. Prov.; BN Munich, 22/1. 1880, 9 M. Notes mss. Rel. anc.
+          <lb/>133
+          <lb/>COLUMNA Guido de: Historia destructionis Trojae. [Stras¬
+          <lb/>bourg, typ. des Vitas patrum, vers 1485), in-fol.
+          <lb/>29
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

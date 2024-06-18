@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:13.508382+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002478.tif
+IMAGE WIDTH: 2484
+IMAGE HEIGHT: 3992
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>gespilt... 1564. — Strasbourg, Th. Berger 1564, in-4°.
+          <lb/>Ritter, Hist. impr. app. 384.
+          <lb/>3268
+          <lb/>SPIEL : Ein schön kurtzweilig Spyl von einem Vatter und
+          <lb/>einer Mutter, wie sie ihre Kinder zur Schul thun. —
+          <lb/>Strasbourg, Th. Berger [après 1566), in-80,
+          <lb/>Goedeke II2, p. 390, n° 319; Vogeleis, p. 315.
+          <lb/>3269
+          <lb/>SPIESSHAYMER. Voir : CUSPINIANUS, Joh., n° 1474.
+          <lb/>SPORER, Thomas. Voir: SAPIDUS, Joh., n° 3164.
+          <lb/>SPRUCH : Ein schöner spruch wie sich ein mensch bey seinem
+          <lb/>leben soll schicken zum sterben (grav.). — [Strasbourg,
+          <lb/>Th. Berger s. d.], in-8°.
+          <lb/>Heitz, p. 47.
+          <lb/>3270
+          <lb/>SPRUCH : Ein schöner spruch Von zweyen Junckfrawen vom
+          <lb/>Adel zu Delden drey meyl von Deventer verbrannt. —
+          <lb/>Strasbourg, Jacques Frölich vers 1546, placard in-fol.
+          <lb/>Il s’agit de Marie et Ursule de Beken à Delde près
+          <lb/>Deventer brûlées pour leur adhésion à la Réformel.
+          <lb/>Fehr, p. 98; Weller, Annalen II, 118. Zurich, Bibl. Centrale
+          <lb/>II, 1/2.
+          <lb/>3271
+          <lb/>STAGEMANN, Adam. Voir : MoRrp (Obernai), n° 2723.
+          <lb/>STARKERFELSER, Henricus : Practica (prédications pour
+          <lb/>l’année 1578). — Strasbourg, Nicolas Wyriot (15771,
+          <lb/>in-40.
+          <lb/>Hellmann, Repertorium col. 476.
+          <lb/>3272
+          <lb/>STATIUS, Publius Papinius : Achilleidos, Libri Duo. Item.
+          <lb/>Vita Authoris a Petro Crinito descripta. — (Strasbourg,
+          <lb/>Mathias Schürer, juin 1515), in-40.
+          <lb/>Schmidt VIII, n° 157 : Bibl. cantonale Aarau; Panzer 6, 74,
+          <lb/>397; 11, 362.
+          <lb/>3273
+          <lb/>476
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:06.717106+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002194.tif
+IMAGE WIDTH: 2500
+IMAGE HEIGHT: 3986
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>FREY, Jakob : Ein Andächtig, Biblisch... spiel, Wie Abraham
+          <lb/>Isaac seinen sun auffopffern solte, und von austreibung
+          <lb/>der Agar der magd samt Ismahelen ihrem sun. Auch von
+          <lb/>der verderbung Sodome und Gomorre... — Strasbourg,
+          <lb/>Paul Messerschmid (vers 1556), in-8°.
+          <lb/>Graesse III, p. 31; Vogeleis, p. 291; Goedeke 12, p. 466,
+          <lb/>n° 4.
+          <lb/>1770
+          <lb/>FREY, Jacob : Ein New hübsches und schimpflichs büchlin,
+          <lb/>genant, Die Garten Gesellschafft, darinn vil... Historien
+          <lb/>und Fabeln gefunden werden... Neulich durch Jacoben
+          <lb/>Freyen, Stattschreiber zu Maurssmünster. — (Mulhouse,
+          <lb/>Schirenbrand-Schmid) vers 1559, in-8°. (Der ander Teil
+          <lb/>des Rollwagens.)
+          <lb/>Heitz-Ritter, n° 188: B N Berlin; Coudre p. 79.
+          <lb/>1771
+          <lb/>FREY, Jacob. Voir aussi : RITTeR, Rép. nos 886-887.
+          <lb/>FRIDERICUS II (rex Daniae). Voir: DASYPODIUS, Conr.
+          <lb/>n° 1482.
+          <lb/>FRIEDENSARTIKEL : Friedens Articul Angebracht, bewilligt
+          <lb/>und beschlossen inn der Versamlung und Thädtigung
+          <lb/>zu Flex bei der Statt Saincte-Foy, zwischen... dem
+          <lb/>Hertzogen von Anjou, Königlicher May, eyntzigem
+          <lb/>brudern... und auch dem König von Navarr sammt
+          <lb/>beistand der Deputirten von der Fürgegebenen Refor¬
+          <lb/>mirten Religion... Ausz dem Frantzösischen Exemplar
+          <lb/>treulich Teutsch gegeben (par Joh. Fischart).
+          <lb/>–
+          <lb/>Strasbourg, Bernard Jobin 1581, in-4°.
+          <lb/>Ritter : B M Strasbourg, n° 1020; Hauffen, Fischart-Studien
+          <lb/>dans Euphorion VI, p. 559. Munich, Halle (Marienbibliothek).
+          <lb/>1772
+          <lb/>FRIEDRICH, Barbarossa (empereur). Voir: LUTHER n° 2528.
+          <lb/>FRIEDRICH III. Voir CHARLES VIII.
+          <lb/>FRIEDRICH von Sachsen. Voir: HANDLUNG der Universität zu
+          <lb/>Wittenberg n° 1953.
+          <lb/>192
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:47.454810+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078171.tif
+IMAGE WIDTH: 2304
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>A la fin: Getruckt zu Straszburg bei Jost Martin am
+          <lb/>Korn-marckt. 1597. (Au-dessus: marque typ. de M. Jost. H EB
+          <lb/>Planche XLIV n° 1.)
+          <lb/>ainsi que toutes les pages encadrés d’ornements; titre rouge et noir.
+          <lb/>In-8°, car. goth., 23 ff. non ch., sign. A-C, titre courant, titre
+          <lb/>R102.404. Prov.: Lindner, Strasbourg 4/VIII 1901; 2M. Le
+          <lb/>dernier f. (blanc) manque.
+          <lb/>1622
+          <lb/>NEMESIANUS. Voir: CALPURNIUS : Ludi literarii. Strasbourg 1519.
+          <lb/>NEPOS Cornelius
+          <lb/>Strasbourg, J. Cammerlander vers 1535
+          <lb/>(Bande d’ornement entre 2 feuilles de lierre.) Cornelius Nepos.
+          <lb/>Vom ursprung des Römischen Reichs, den Sieben! küni¬
+          <lb/>gen, wie die regiert, auch wie sie zûletst vertrieben seind
+          <lb/>wor- den, und das Burgermaisterthumb angefangen. Dar
+          <lb/>nach folgt das leben und thaten ettlicher waidlicher und
+          <lb/>herlicher Burger maister bisz uff Gn. Pom! peium Ma¬
+          <lb/>gnum. Item, C. Crispus Salustius Von der zúsammen
+          <lb/>Rottung Catiline, wie die Cicero erfaren unnd gestrafft.
+          <lb/>Zûletst findest du auch den krieg der Römer wider Ju¬
+          <lb/>gurtham, der Numidier künig, wie der vom Mario und
+          <lb/>L. Sylla gefürt, auch ein end hat genummen durch ver¬
+          <lb/>reterey Bocchi, der Moren künig, darumb Jugurtha ge¬
+          <lb/>fangen, gen Rom ge- fürt, und im gefencknus mit dem
+          <lb/>strick gericht worden.Alles von newem verteutscht,
+          <lb/>und lustig zûlesen. (Grav, sur bois, répétée fol. 16b, 34a: 2 quer¬
+          <lb/>riers à cheval, des deux côtés des guerriers.) Au-dessous: Getruckt
+          <lb/>zû Straszburg bey M. Jacob Cammerlandern von Mentz.
+          <lb/>S. d. (Cammerlander a imprimé entre 1532-1548.) (Verso blanc.)
+          <lb/>Au verso du dernier f. blanc, marque typ. de J. Cammerlander.
+          <lb/>(H a B Planche XXIV n° 1; Silvestre n° 816.)
+          <lb/>In-fol., car. goth., 4 ff. non ch. dont le dernier blanc, XLI ff. ch.
+          <lb/>et 1 f. blane avec l’explicit au verso, titre courant, réclames, notes marq.,
+          <lb/>init. goth., 18 grav., dont quelques-unes à 2 bois, plusieurs reviennent
+          <lb/>2 à 3 fois.
+          <lb/>Fol. 2a non ch.: Vorred. [ Jacobus Cammerlander wünschet dem
+          <lb/>Leser alles gût.... — Datum Straszburg kal. Septembres.
+          <lb/>R10.496. Prov.: Treuttel e Wurtz, Strasbourg 6/x 1894; 45 M.
+          <lb/>Annotation ms. au crayon :,sehr selten.&amp;quot;
+          <lb/>BM Strasbourg.
+          <lb/>Bœr, Francfort-s.-M., Catal, 500 (1907) n° 1355; 75 M. : Uber¬
+          <lb/>setzung des Aurelius Victor. Die vorzüglichen Holzschnitte sind teilweise
+          <lb/>R.67
+          <lb/>1057
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

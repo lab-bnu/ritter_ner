@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:05.193845+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002138.tif
+IMAGE WIDTH: 2510
+IMAGE HEIGHT: 3978
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>der Prelaten... [traduit par Cochlaeus). — Strasbourg
+          <lb/>Jean Grüninger 4.XI.1524, in-4°.
+          <lb/>Schmidt I, n° 216; Weller, 2844. — B N Munich. 1476
+          <lb/>CYPRIANUS. Voir aussi : BRENTIUS, Joh. n° 1094; BRUNFELS
+          <lb/>n° 1104.
+          <lb/>DANKROTZHEIM. Voir: CONRAD von Dankrotzheim.
+          <lb/>DASYPODIUS, Conradus (De Cometis) : Ein Richtiger und
+          <lb/>kurtzer Bericht über den Wunder Sternen oder besondern
+          <lb/>Cometen, so nun mancher Monatszeit disz 1572 und
+          <lb/>1573 zu sonderern Warnungszeichen diser letzten zeit
+          <lb/>ist erschienen... — Strasbourg, Bernard Jobin 1573,
+          <lb/>placard in-fol.
+          <lb/>Bibl. Centrale Zurich; Archenbold n° 5, Drugulin no 435.
+          <lb/>1477
+          <lb/>DASYPODIUS, Conr. (De Cometis) : Von Cometen und ihrer
+          <lb/>würckung. — Strasbourg, Nicolas Wyriot 1578, in-4°.
+          <lb/>Zinner 2816; Schottenloher 39.184, o.
+          <lb/>1478
+          <lb/>DASYPODIUS, Conr. : Brevis doctrina de Cometis &amp;amp; Cometarum
+          <lb/>effectibus... — Strasbourg, Nic. Wyriot 1578, in-4°.
+          <lb/>Ritter: B M Strasbourg n° 804; Zinner 2815 ; Schotten¬
+          <lb/>loher 39184 p.
+          <lb/>1479
+          <lb/>DASYPODIUS, Conr. (De Corpore luminoso) : Brevis et
+          <lb/>succincta descriptio corporis luminosi, quod nunc aliquod
+          <lb/>mensibus apparuit. — Strasbourg, Bernard Jobin 1572,
+          <lb/>placard in-fol. (Description de l’étoile apparue dans la
+          <lb/>Cassiopeia au mois de novembre 1572l.
+          <lb/>Bibl. Centrale Zürich.
+          <lb/>1480
+          <lb/>DASYPODIUS, Conr. (Idem): Brevis et succinta descriptio
+          <lb/>Corporis luminosa, quod nunc aliquod mensibus apparuit.
+          <lb/>— Strasbourg, Bernard Jobin 1572, 2 placards in-fol.
+          <lb/>(l’un en latin, l’autre en allemandl.
+          <lb/>Ritter, Hist. impr., app. n° 342.
+          <lb/>1481
+          <lb/>136
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

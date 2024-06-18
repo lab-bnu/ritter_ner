@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:35.916779+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2313.tif
+IMAGE WIDTH: 2312
+IMAGE HEIGHT: 3818
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>CATO Dionysius
+          <lb/>Strasbourg, M. Schürer, 1519.
+          <lb/>CONTENTA! IN HOC OPERE] sunt haec.
+          <lb/>Catonis praecepta moralia recogni-ta, atque inter¬
+          <lb/>pretata ab Eras- mo Roterodamo. Mimi Publiani. Septem
+          <lb/>sapientum illustres sententiae. Institutio hominis Chris¬
+          <lb/>tiani versi- bus hexametris, per Erasmum Roterodamum.
+          <lb/>Isocratis Paraenesis ad Demoniacum Ru- dolpho Agricola
+          <lb/>interprete, reco- gnita per Martinum Dorpium. Epicteti
+          <lb/>Stoici Enchiridion.Plutarchi libellus de odio &amp;amp; inuidia.
+          <lb/>A la fin: Impressum Argentinae Mense Augusti M.D.XIX.
+          <lb/>In-4°, car. rom, 56 ff. non ch., sign. A-K, en partie titre courant,
+          <lb/>initiale ornée S., titre rouge et noir.
+          <lb/>Au verso du titre: Praefatio in Catonem. Erasmus Rote¬
+          <lb/>rodamus. M. Io- anni Neuio Hondiscotano Lilianorum
+          <lb/>Louanij Gymnasiarchae. S. D. P.... — Louanij. An no.
+          <lb/>M. D. XIIII. Kalen. Augusti.
+          <lb/>fol. F 2b: Rudolphus agricola loanni Agricolae suo
+          <lb/>fratri S. D. P....
+          <lb/>*R101642, Prov.: J. Windprecht, Augsbourg, 9/1. 1879; 1M40.
+          <lb/>Schmidt VIII, No 251: Olim Bibl. Arg. 17. D’après lui, il v a
+          <lb/>au bas du titre : Arg., Schurer impressit. 1519. Dans mon exemplaire
+          <lb/>le titre est incomplet. Schmidt ne signale pas l’explicit. GPB: BN
+          <lb/>Berlin.
+          <lb/>471
+          <lb/>309
+          <lb/>CATO Dionysius
+          <lb/>Strasbourg, J. Knobloch, 1520.
+          <lb/>CONTENTA IN HOC opere sunt haec.
+          <lb/>Catonis præcepta moralia reco-gnita atque interprae¬
+          <lb/>tata ab! Erasmo Roterodamo.! Mimi publiani.Septem
+          <lb/>sapientum illustres sententiae. Institutio hominis Chris¬
+          <lb/>tiani uersi.hexametris, per Erasmum Roterodamum.
+          <lb/>Isocratis Paraenesis ad Demonicum Rudolpho agricola
+          <lb/>interpre! te, recognita per Marti-num Dorpium.
+          <lb/>A la fin: ARGENTINAE APVD IOANNEM] KNOBLOVCHIVM
+          <lb/>TERTIO ! IDIBVS IVLIAS. ANNO! M. D. XX. (Verso blanc.)
+          <lb/>In-4°, car, rom., 54 ff. non ch., sign. A-I, titre courant, titre
+          <lb/>encadré, composé de 4 pièces juxta-posées (feuillage).
+          <lb/>Au verso du titre: Cato &amp;amp; Musa sermones conserunt lo.
+          <lb/>Herwagio Watertingio autore. (13 distiques.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

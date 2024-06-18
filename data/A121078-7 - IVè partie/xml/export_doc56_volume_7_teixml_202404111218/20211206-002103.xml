@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:04.321433+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002103.tif
+IMAGE WIDTH: 2516
+IMAGE HEIGHT: 3950
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>CAPELLA, Galeacius. Voir: GALEACIUS Capella n° 1806/7;
+          <lb/>RITTER, Rép, nos 428-429.
+          <lb/>CAPITo, Wolfgang Fabricius : Dr. Capito, Mathis Zellen und
+          <lb/>anderer Predikanten zu Strassburg warhafftige Verant¬
+          <lb/>wortung auf eines Gerichteten Vergicht, jüngst zu
+          <lb/>Zabern ausgegangen. Item von Hans Jakob. —
+          <lb/>(Strasbourg, Wolfgang Köpfel vers 1526), in-8°,
+          <lb/>Schottenloher 27.005.
+          <lb/>1287
+          <lb/>CAPITO, Wolfgang Fabr. : Eine wunderbare Geschichte, so
+          <lb/>sich an einem Wiedertäufer, genannt Claus Frey zuge¬
+          <lb/>tragen. — Strasbourg, Mathias Apiarius 1534, in-8°.
+          <lb/>Schottenloher 6586.
+          <lb/>1288
+          <lb/>CAPITO, Wolfgang Fabr. : Responsio de missa, matrimonio
+          <lb/>et jure magistratus in religionem... — Strasbourg,
+          <lb/>Wendelin Rihel 1537, in-8°, pièces liminaires et 207 ff. ch.
+          <lb/>BN Paris: D2 3363.
+          <lb/>1289
+          <lb/>CAPITO, Wolfgang Fabr. : (Idem). — (Strasbourg, Wendelin
+          <lb/>Rihel 1540), in-8°.
+          <lb/>Ritter : B M Strasbourg, n° 685.
+          <lb/>1290
+          <lb/>CAPITO, Wolfgang. Voir aussi: BERICHT : Der nüwen zeytung,
+          <lb/>n° 980; LUTHER n° 2496; RITTER : Rép. nos 431-444.
+          <lb/>CAPNIO, Johannes. Pseudonyme pour : REUCHLIN, Johannes.
+          <lb/>CARACCIOLUS, M. Voir : HUTTEN n° 2090.
+          <lb/>CARAPHA, Joh. Petrus : Consilium de emendanda
+          <lb/>ecclesia. Authore Io. Petro Carapha neapolitano,
+          <lb/>olim Cardinali Theatino, nunc sub Pauli quarti nomine
+          <lb/>Pontifice Romano. Dicunt &amp;amp; non faciunt. Anno salutis
+          <lb/>M. D. LV. — (Argyropoli, apud Christophilum Theo¬
+          <lb/>dosium (— Strasbourg, Théodose Rihell 1555, in-4°.
+          <lb/>I01
+          <lb/>4—1
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

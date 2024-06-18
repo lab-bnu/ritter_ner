@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:57.416163+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5223.tif
+IMAGE WIDTH: 2372
+IMAGE HEIGHT: 3860
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Em Schon Bue
+          <lb/>Nuglics Siblisdie Spit,
+          <lb/>von dembeyligen vnd Gottsforchtigen To¬
+          <lb/>bia. Allen frummen Gottoseligen Chaisten
+          <lb/>Jung vnò AIten gantz frudbtbarlid zũ lesen.
+          <lb/>Viem gespilt/ Don einer Ærsamen Burger¬
+          <lb/>scafft sin oer lõblichen Rerxbastatt Col¬
+          <lb/>mar òen vn. vnò vin. Apzilis. Ge¬
+          <lb/>didt durd Jorgen Micfram
+          <lb/>Burger zù Colmar.
+          <lb/>1533
+          <lb/>M. D.
+          <lb/>LI.
+          <lb/>(Voir n° 2458).
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

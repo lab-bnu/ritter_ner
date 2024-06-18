@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:30.669661+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2142.tif
+IMAGE WIDTH: 2316
+IMAGE HEIGHT: 3828
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>138
+          <lb/>p. 759-767: Determinatio Pa- risiis facta per al! mam
+          <lb/>facultatem Theolo- gicam. Anno Domini M. CCCXCVIII.
+          <lb/>su- per quibusdam superstitionibus noui! ter exortis.
+          <lb/>(en car. rom.)
+          <lb/>RIOL636. Prov.: Bibl. Ch. Schmiat. Au verso blanc du dernier
+          <lb/>f. et au f. blanc suivant, index mss. Rel. anc.
+          <lb/>2e ex. R 101.170. Prov.: Bibl, de la ville de Heilbronn. Rel, anc.
+          <lb/>3e ex. R 101.71. Prov. : R. Sandrogs, Berlin. Notes mss. au verso
+          <lb/>du f. de garde.:,Ex bibliotheca faustiana Dr. Ed. Sabell. Berlin 1867.
+          <lb/>Die erste Ausgabe dieses Buches erschien Basel, 1581, dies ist die
+          <lb/>zweite Ausgabe, die dritte erschien ebenda bei B. Jobin 1591 in-fol.
+          <lb/>Die erste Ausgabe enthält nur IV libri.&amp;quot; Rel. anc.
+          <lb/>222
+          <lb/>BODIN Joh.
+          <lb/>Strasbourg, B. Jobin, 1591.
+          <lb/>DE MAGORVM DAEMONOMANIA. Vom Auszgelas! nen
+          <lb/>Wütigen Teüffelsheer! Allerhand Zauberern, Hexen vnnd
+          <lb/>Hexenmeistern, Vnholden, Teuffelsbeschwerern, Warsa¬
+          <lb/>gern, Schwartzkünstlern, Vergifftern, Augen- verblendern,
+          <lb/>&amp;amp;c.Wie die vermög aller Recht erkant, eingetrieben,
+          <lb/>gehin- dert, erkündigt, erforscht, Peinlich ersucht vnd
+          <lb/>ge-! strafft werden sollen.
+          <lb/>Gegen des Herrn Doctor J. Wier Buch von der Geister
+          <lb/>verführun-gen, durch den Edlen vnd Hochgelehrten
+          <lb/>Herrn Johann Bodin, der Rechten D.! vnd des Parlements
+          <lb/>Rhats inn Franckreich auszgangen.
+          <lb/>Und nun erstmals durch den auch Ernvesten vnd
+          <lb/>Hochgelehrten H. Jo-hann Fischart, der Rechten D. &amp;amp;c.
+          <lb/>ausz Frantzösischer sprach trewlich in Teutsche gebracht,
+          <lb/>vnd nun zum andernmahl an vilen enden vermehrt vnd
+          <lb/>erklärt.
+          <lb/>Marque typographique de B. Jobin. (H. 4 B., Planche XXXVII,
+          <lb/>No 7
+          <lb/>Mit Röm: Key: May: Freyheit auff zehen Jar.
+          <lb/>Getruckt zu Straszburg, bei Bernhart Jobin. 1591.
+          <lb/>(Verso blanc.)
+          <lb/>A la fin, avant la table: Getruckt zu Straszburg, durch
+          <lb/>Bernhart Jobin. (2 feuilles de lierre)! M. D.LXXXXI. (Le tout
+          <lb/>entre 2 larges bandes d’ornement.)
+          <lb/>In-fol., car. goth., 2 col, 12 ff. non ch., 336 pages ch., 6 ff. non
+          <lb/>ch. (table), titre courant, réclames, notes marginales, initiales goth.,
+          <lb/>plusieurs bandes d’ornement, titre rouge et noir.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

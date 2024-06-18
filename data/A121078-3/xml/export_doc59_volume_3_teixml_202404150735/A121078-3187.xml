@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:07.899067+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3187.tif
+IMAGE WIDTH: 2320
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>sese commendat... — Argentorati ex aedibus nostris. Idib.
+          <lb/>Iulij, Anno dominice natiuitatis M. D. undeuigesimo. (4 S.)
+          <lb/>Bl. a 3b: Germania Gallum alloquitur. (6 lat. Dist.)
+          <lb/>Bl. a 4a: Series Regum Francorum Germanorum, qui ex
+          <lb/>ordine Gallis imperarunt. Meroueorum! stirps. (16 Könige),
+          <lb/>Carlingorum stirps. (12 Könige), im ganzen die Namen von 28
+          <lb/>Konigen.
+          <lb/>Bl. a 4b: Portrât Karls V. (Siche Abb. S. 630.)
+          <lb/>R101739. Prov.: Bibl. Böcking.
+          <lb/>2. Ex. R100.628: Geschenk von Ign. Chauffour, Kolmar 1871.
+          <lb/>Auf der Innens, des Vorderdeckels: Exlibris von Eduard Dollfus.
+          <lb/>Stadtbibl. Strassburg u. Kolmar; GK: SB Berlin, UB Bonn,
+          <lb/>Göttingen. BN Paris, Rés. M 314, 581 u. Rés, p. M 78; Proctor II
+          <lb/>Sectio I Nr. 10288: London, Brit. Museum; Schmidt II Nr. 52: Stadt-
+          <lb/>bibl. Zürich; Walter: Schlettstadt Nr. 1358.
+          <lb/>941
+          <lb/>GEBWEILER Hieronymus
+          <lb/>Strassburg, Joh. Prüss 1521
+          <lb/>PANEGIRIS CARO lina continens Hecatosthicon ele
+          <lb/>giacum carmen in sacratissime! Caesareae atque catholicae
+          <lb/>Ma iestatis praeconium a Hieroni mo Gebuilero lusum
+          <lb/>ad- iunctis eodem authore! scholijs quibus sequen! tia
+          <lb/>lectu non iniucun da obiter inserun tur. (Epheubl.)
+          <lb/>Am Schluss: Excusum Argentinae per loannem Prüsz
+          <lb/>Anno M. D. XXI. Mense Augusto. (Rücks, leer.)
+          <lb/>40, Antig., 6 unn., XXII num. Bll., Kopft., Kust. Marg., Init. S,
+          <lb/>Titelumrahmung: oben: 2wei Kaiser mit dem Szevter in der Hand.
+          <lb/>Seitenbordüren: Kolonnen, unten: Wappen der Stadt Strassburg von
+          <lb/>2 Löwen gehalten.
+          <lb/>Auf der Rücks, des Titelbl: 4 lat. Verse.
+          <lb/>Neudruck im Jahre 1641. (M. 768.]
+          <lb/>R 102.242. Prov. : K. I. Trübner, Strassburg 6. VI. 1883; 6M.
+          <lb/>Schmidt III, S. 37 Nr. 27: Stadtbibl. Kolmar. Im Gk: Panigiris
+          <lb/>Carolina nobili ac magnifico viro domino Ioanni Hannart... Hieronymus
+          <lb/>Gebvilerius alsata S. D. (Arg. 1521 : Prüss) XXII Bl. 4° (Kopft.). Vor¬
+          <lb/>handen in Marburg UB.
+          <lb/>942
+          <lb/>GEBWEILER Hieronymus
+          <lb/>Strassburg, Joh. Grüninger 1527
+          <lb/>Keiserlicher vnd Hispanischer Mt. (Majestät)auch
+          <lb/>Fürstlicher durchlüchtikeit, vnd aller hieuor, Ertz hertzogen
+          <lb/>vnd hertzogen von österreich, Dar zû der fürst lichen
+          <lb/>grauen von Habsburg, alt künglich harkumen mit namen,
+          <lb/>gar nahe vff zweitusent Jar. Durch Hieronimum gebweiller
+          <lb/>631
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

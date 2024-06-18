@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:03.855083+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002090.tif
+IMAGE WIDTH: 2506
+IMAGE HEIGHT: 3976
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Von den Lobgsängen, Bettgsängen, Leergsängen... —
+          <lb/>Strasbourg, Jacques Frölich 1536, in-8°.
+          <lb/>Ritter, Hist. impr. app. n° 370.
+          <lb/>1209
+          <lb/>BÜCHLEIN (Papst-Lied) : Das büchlin darin ein lied entgegen
+          <lb/>dem Bapst gedruckt und zu und daran gehenkt. —
+          <lb/>Strasbourg, 9.1x.1523, in-8°.
+          <lb/>Vogeleis, p. 208; Séb. Brant, Annales XIX, p. 66 : « Den
+          <lb/>setzer in thurn und befragen, wer das gesetzt und gedicht. »
+          <lb/>1210
+          <lb/>BÜCHLEIN (S. Pauls Leben) : Das biechlein saget von S. Pauls
+          <lb/>leben... — Strasbourg, Jean Knobloch 1517, in-4°.
+          <lb/>Schmidt VII, n° 149 : Olim bibl. Arg. 3084.
+          <lb/>1211
+          <lb/>BÜCHLEIN (Peinen der Hölle) : Disz büchlin saget von den
+          <lb/>peinen so den bereyt seind allen denen di do sterbent in
+          <lb/>tod sünden... — (Strasbourg, Kistler 1506), in-40.
+          <lb/>Schmidt IV, p. 10, n° 25; Weller 354.
+          <lb/>1212
+          <lb/>BÜCHLEIN (Peinen der Hölle) : (Idem). — (Strasbourg,
+          <lb/>(Barth. Kistler) 1509), in-40.
+          <lb/>Schmidt IV, p. 10, n° 26 ; Bâle.
+          <lb/>1213
+          <lb/>BÜCHLEIN (Pferdartzneien) : Dis büchlin sagt wie man
+          <lb/>pferdartzneyen erkennen soll... — (Strasbourg, Mathias
+          <lb/>Hupfuff 1502), in-4°.
+          <lb/>Schmidt V, n° 21 : Dresde.
+          <lb/>1214
+          <lb/>BÜCHLEIN (Pferdarzneien) : (Idem). — (Strasbourg, Mathias
+          <lb/>Hupfuff 1511), in-40.
+          <lb/>Panzer, Annalen, Zusätze 121 ; Schmidt V, n° 91. 1215
+          <lb/>BÜCHLEIN (Bruder Rausch) : Dys biechlin saget. Von Bruder
+          <lb/>Rauschen und Was wunders er getriben hat, in einem
+          <lb/>Closter darin er syben jar sein zeit vertriben und
+          <lb/>88
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

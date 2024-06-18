@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:06.577164+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3121.tif
+IMAGE WIDTH: 2312
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Vollen wol- beschreiten Helden vnd Herren Grandgusier,
+          <lb/>Gargantua vnd Panta- gruel, Königen inn Vtopien, Jede¬
+          <lb/>welt vnd Nienen reich, Soldan der Neuen Kannarrien vnd
+          <lb/>Oudyssen! Inseln: auch Grossfürsten im Nubel Nibel Ne¬
+          <lb/>belland, Erbvögt auff Nichilburg vnd Niderherren zu Nul¬
+          <lb/>libingen, Nul- lenstein vnnd Niergendheym.
+          <lb/>Etwan von M. Frantz Rabelais Frantzösisch ent¬
+          <lb/>worfen: Nun aber vberschrecklich lustig inn einen Teut¬
+          <lb/>schen Model vergossen, vnd vngefärlich obenhin, wie man
+          <lb/>den Grindigen lausst, in vnser Muter Lallen vber oder
+          <lb/>565
+          <lb/>drunder gesetzt. Auch zu disem Truck wi- der auff den
+          <lb/>Amposs gebracht, vnd dermassen Pantagruelisch ver¬
+          <lb/>posselt, verschmidt vnd verdängelt, dass Nichts ohn ein
+          <lb/>Eisen Nisi dran mangelt: Durch Huldrich Elloposcleron.
+          <lb/>Si laxes erepit:
+          <lb/>Si premas erumpit.
+          <lb/>Zu Luck entkriechts:
+          <lb/>Ein Truck entziechts.
+          <lb/>Darunter: Holeschn.: Im Fischen.
+          <lb/>Gilts Wischen.
+          <lb/>Getruckt zur Grensing im Gänsserich, 1582.
+          <lb/>80, Got., 286 unn. Bll., Sign. A-Z, Aa-Mm, Kust,, zahlreiche
+          <lb/>Holeschnitte.
+          <lb/>R101.639. Prov.: Heerdegen &amp;amp; Barbeck, Nürnberg 30. VII. 1879;
+          <lb/>33M.
+          <lb/>GK: SB Berlin. (2 Ex., davon eins mit Druckvarianten.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

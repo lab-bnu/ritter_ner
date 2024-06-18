@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:36.821726+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu031.tif
+IMAGE WIDTH: 2378
+IMAGE HEIGHT: 3842
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>ACCURSIUS FRANCISCUS: Casus in terminis super novem
+          <lb/>libris Justiniani Codicis. [Strasbourg, typ. des Vitas
+          <lb/>Patrum, vers 14851, in-fol.
+          <lb/>G W 188, Hain 69, Pellechet 41, Proctor 430, Voulliéme: Berlin
+          <lb/>2261, Pellechet: Colmar 1, Walter: Sélestat 1.
+          <lb/>K 16. Prov.: Alb. Cohn, Berlin, 27 XI. 1896, 10 M. Notes
+          <lb/>mss. Rel. anc.
+          <lb/>ACKERMANN VON BÖHMEN: Red und widerred eins ackermans.
+          <lb/>Strasbourg, Jean Schott, 1500, in-4°.
+          <lb/>G W 203, Copinger 23, Proctor 764 A. Schmidt II, 5, Schreiber
+          <lb/>3010; Schramm, Bilderschmuck XIX, grav. N° 887.
+          <lb/>K3118. Prov.: J. Baer et Co., Francfort-s.-M., 15 III. 1879, 1 M.
+          <lb/>ACTA CONSTANTIENSIS CONCILH: Haguenau, H. Gran, 11 avril
+          <lb/>1500, in-4°.
+          <lb/>— G W 7287, Hain 5609, Pellechet 4174, Proctor 3203, Voul¬
+          <lb/>liéme: Berlin 1184.
+          <lb/>K 19. Prov.: B N Munich, 7. VI. 1873; M. 0.20. A l’intérieur
+          <lb/>du premier plat, exlibris, avec la légende suivante: Francis¬
+          <lb/>cus Praepositus S. Salvatoris Pollingae Anno 1744, Rel. anc.
+          <lb/>AGENDA parochialium ecclesiarum Argentinensis diocesis.
+          <lb/>(Strasbourg, J. Grüninger, après 1500?), in 4°.
+          <lb/>Copinger 129-159, G W 460 met Bâle, Michael Furter? ou
+          <lb/>Strasbourg, Grüninger.
+          <lb/>K 60. Prov.: Don de la B U de Heidelberg, 1871. Note mss.
+          <lb/>Rel. anc.
+          <lb/>R.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

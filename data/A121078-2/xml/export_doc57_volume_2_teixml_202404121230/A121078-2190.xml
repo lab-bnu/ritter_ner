@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:32.294010+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2190.tif
+IMAGE WIDTH: 2292
+IMAGE HEIGHT: 3820
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>186
+          <lb/>A la fin, avant le registre: Hans Schott bûch- drucker
+          <lb/>zûm Leser... (20 lignes.)
+          <lb/>R10427.(2) Prov.: Bibl. de l’Ancienne Faculté de Médecine de
+          <lb/>Strasbourg. Rel, anc.
+          <lb/>Roth, loco cit. Ne 33; Nürnberg german. Museum, Wien Hofbibl.,
+          <lb/>Frankfurt a. M. Senckenberg’sche Bibl., Berlin Bibl. Nat, (ohne das leere
+          <lb/>Blatt am Ende); Schmidt II, N°125; GPB. Berlin. Schreiber. Die Kräuter¬
+          <lb/>bücher des 15. und 16. Jhd. p. XXXI. Im Jahre 1532 erschien unter
+          <lb/>der Bezeichnung, Contrafayt Kreuterbuch” eine deutsche
+          <lb/>Ubersetzung, welche viel handlicher als die lateinische ist, da
+          <lb/>sie zwar dieselben Bilder (wie die Herbarum vivae icones,
+          <lb/>15301 aber nur 332 Seiten Text und ein 6 Kolonnen um¬
+          <lb/>fassendes Register enthält.
+          <lb/>289
+          <lb/>BRUNFELS Otto
+          <lb/>Strasbourg, J. Schott, 1532.
+          <lb/>HERBA- RVM VIVAE EICONES! ad naturae imitatio¬
+          <lb/>nem, summa cum diligentia &amp;amp; artificio effigiatae, una
+          <lb/>cum EFFE-] CTIBVS earundem, in gratiam ue- teris illius,
+          <lb/>&amp;amp; iamiam renascentis! Herbariae Medicinae,) PER OTH.
+          <lb/>BRVNF. recens editae. M. D. XXXII.... Comme dans l’édition
+          <lb/>de 1530, avec le même encadrement.
+          <lb/>A la fin: ARGENT, per lo. Schottum. CA- ROL. Imp.
+          <lb/>V. Anno. 12. CHRI-STI uero Seruatoris, 1552. Au-dessus,
+          <lb/>les vers de Nic. Prugner.
+          <lb/>In-fol., car, rom., 4 ff. non ch., 266 pp. ch., par erreur la pagi¬
+          <lb/>nation saute ici aussi de 18 à 21, mais il y a un f. blanc, intercallé;
+          <lb/>3 ff. non ch. (table à 2 col.), suivie d’un appendice sans pagination 29 ff.
+          <lb/>non ch, sign. A-G et 1 f. blanc, titre courant, notes marg., init. à
+          <lb/>fig. A, V, P. Mêmes gravures et mêmes encadrements que dans l&amp;#x27;édition
+          <lb/>de 1530, dont c’est une réimpression. Titre et arm. de la ville de Stras¬
+          <lb/>bourg entièrement en noïr.
+          <lb/>fol. C 3b de l’Appendice: Argent., apud loannem Schot¬
+          <lb/>tum, M. D. XXXII.
+          <lb/>fol. A 2a non ch.: Inclytae urbis ARGENT, prudentissimo
+          <lb/>Se- natui, OTHO BRVNFEL- sivs S. D... — Ex libera
+          <lb/>Argentina Nonis Martij, Anno redempti orbis! M. D. XXX.
+          <lb/>(3 pp.)
+          <lb/>fol. A 4a non ch.: IOANN. SAPIDVS Lectori S. (12 distiques
+          <lb/>entre 2 bandes d’orn.), au verso, arm. de la ville de Strasbourg.
+          <lb/>R10.506.(1) Prov. inconnue. Au milieu du titre:,,Imbert&amp;quot;.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:55.688586+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5181.tif
+IMAGE WIDTH: 2354
+IMAGE HEIGHT: 3858
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1491
+          <lb/>Florence, Catalogue LXXXI (1912), No 234 ; 50 fr., daté de 1520, mais
+          <lb/>tous les imprimées de Sybold que je connais ont paru entre 1528 et 1530.
+          <lb/>2382
+          <lb/>VALLA Georgius
+          <lb/>Strasbourg, H. Sybold, 1528
+          <lb/>(Feuille de lierre) Geor! gii viri clariss. de simplicium
+          <lb/>natura! liber unus,
+          <lb/>Argentinae per Henricum Sybold. (Verso blanc.)
+          <lb/>A la fin, avant les Errata : Argentinae per Henricum
+          <lb/>Sybold, Anno M. D. XXVIII.Mense Augusto.
+          <lb/>In-8°, car, rom., 104 ff. non ch., sign. A-N, notes marg., souvent avec
+          <lb/>car, grecs, titre encadré, bordure supérieure, au milieu, écusson avec
+          <lb/>monogramme de l’imprimeur, l’écusson est tenu par deux génies ailés;
+          <lb/>bordures latérales, colonnes qui forment aussi en même temps les parties
+          <lb/>extérieures de la bordure inférieure, celle-ci contient au milieu le buste
+          <lb/>d’une femme qui joue de la guitarre. Cette marque typ. ainsi que l’enca¬
+          <lb/>drement manquent chez H. &amp;amp; B, qui ne signale pas l’imprimeur Sybold.
+          <lb/>fol. A 2a : Henricus Sybold artis medi!] cae professor, lecto !] ri
+          <lb/>salutem... (2 pp.).
+          <lb/>R. 102.204. Prov. : Jacques Reinbold Spielmann avec son ex-libris à
+          <lb/>l’intérieur du 1er plat, exécuté par Striedbeck. Au bas de l’ex-libris:
+          <lb/>« J. Striedberk del. et sculp. Argent. « Note ms. au verso du f. de garde:
+          <lb/>Pertractat primum plantas, dein mineralia. De animalibus nihil habet».
+          <lb/>2383
+          <lb/>VALLA Georgius
+          <lb/>Strasbourg, H. Sybold, 1529
+          <lb/>Georgii Vallae Placentini Viri Clarissimi!! De uniuersi
+          <lb/>corporis purgatione.
+          <lb/>Argentinae per Henri-cum Sybold.
+          <lb/>A la fin : Argentinae per Henricum Sybold Anno.
+          <lb/>M. D. XXIX. 1 Mense Augusto.
+          <lb/>Petit in-8°, car. rom., 103 ff. non ch., sign. A-N, réclames, notes marg.,
+          <lb/>init. à figure E, O.
+          <lb/>Titre encadré composé de 4 pièces juxtaposées (ornement d’architecture.
+          <lb/>avec des génies ailés dans les bordures supérieure et inférieure).
+          <lb/>Au verso du titre: Henricus Sybold Medi !! cinae professor aequo lectori.
+          <lb/>S....
+          <lb/>R. 101.960. Prov. : L. Rosenthal, Munich, 14/IV, 1890; 8 M.
+          <lb/>Oxford, Bibl. Bodleiana.
+          <lb/>2384
+          <lb/>VALLA Georgius. De Sedibus argumentorum. Voir: MELANCH¬
+          <lb/>THON, De dialectica. Strasbourg, Crato Mulius, 1539. R. 10l-
+          <lb/>213; n° 1536.
+          <lb/>VALLA Laurentius. Voir: MANCINELLUS Antonius, Laurentii
+          <lb/>Vallensis Lima. Strasbourg, 1502, n° 1469.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

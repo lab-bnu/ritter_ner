@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:14.273402+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002518.tif
+IMAGE WIDTH: 2482
+IMAGE HEIGHT: 4002
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>(WATT, Joachim von]: Karsthans. — (Strasbourg, Jean Prüss
+          <lb/>janvier 1521), in-4°.
+          <lb/>Flugschriften aus den ersten Jahren der Reformation. Vol. IV,
+          <lb/>fasc. 1, p. 52 : « Die Initiale K steht in einem Viereck von
+          <lb/>17,5 mm. Höhe und 18,5 mm. Breite. Dieser Ausgabe folgt
+          <lb/>der Neudruck von Heinrich Kurz, Zurich 1848».
+          <lb/>3476
+          <lb/>(WATT, Joachim von] : Karsthans. (Das K ist einem B sehr
+          <lb/>ähnlich). — [Strasbourg, Wolfgang Köpfel avant le
+          <lb/>8 mars 1521), in-4°.
+          <lb/>Flugschriften aus den ersten Jahren der Reformation vol. IV,
+          <lb/>fasc. 1, p. 54 — Ausgabe D. : Ritter : B M Strasbourg, n° 1333.
+          <lb/>3477
+          <lb/>(WATT, Joachim von) : Karsthans. — (Strasbourg,
+          <lb/>Jean Prüss 1521), in-4°.
+          <lb/>Flugschriften aus den ersten Jahren der Reformation. Vol. IV,
+          <lb/>fasc. 1, p. 53 — Ausgabe B. Dieser Ausgabe folgt der Neudruck
+          <lb/>von Böcking, p. 616-647.
+          <lb/>Benzig : Schürer n° 6 et 7 : [Butzerl, Gesprechbiechlin neüw
+          <lb/>Karsthans. — Schürer héritiers (1521), disant qu’il n’est pas
+          <lb/>certain que Butzer soit l’auteur. — Proctor 10263, Böcking,
+          <lb/>Hutten XL 1, Neufforge p. 378.
+          <lb/>3478
+          <lb/>WECHTER, Wilhelm. Voir : Ein schön neüw LIep von dem
+          <lb/>Zug wider die Kron von Frankreich, n° 2360.
+          <lb/>WEIDWERCK: (W) Eydtwergk. Vögel zufahen mit Raubvögeln.
+          <lb/>Netzen. Stricken. Leime. Geschosz. Wildt fahen mit
+          <lb/>Netzen, Reusen, Angeln, Kasten... [Grav.). — Strasbourg,
+          <lb/>Christian Egenolph mai 1530, in-4°.
+          <lb/>Benzing : Egenolff, n° 27 : London, Brit. Museum. 3479
+          <lb/>WEIN : Wem der geprant wein nutz sey oder schad, und wie
+          <lb/>er gerecht oder falschlich gemacht sey. — (Mulhouse,
+          <lb/>Pierre Schmid) 1559, in-4°.
+          <lb/>Goedeke Ia, p. 394, n° 7.
+          <lb/>3480
+          <lb/>516
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

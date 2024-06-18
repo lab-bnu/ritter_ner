@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:54.402125+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078398.tif
+IMAGE WIDTH: 2370
+IMAGE HEIGHT: 3838
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1284
+          <lb/>Nicolai Reusneri(Vign.) Argentorati Excudebat
+          <lb/>Antonius Bertramus II M. D. LXXXVI.
+          <lb/>Au verso, armoiries avec l’inscription: Symbolum !! et Arma Gentilitia
+          <lb/>Domini D. Iulii Com. Salm. &amp;amp; Neoburg.Time et ama.
+          <lb/>In-8°, car. rom. et ital., 24 ff. non ch., sign. A.-C., réclames, ornements,
+          <lb/>vignettes, init. ornées.
+          <lb/>fol. A 2a: 9 vers lat. de Reusner, Domino D. Iulio comiti... Argentorati
+          <lb/>Calend. Maiï M. D. XIVC.
+          <lb/>fol. B 4a : Fragmentum!! orationis funebris de... Il Nicolai V. ([ Com.
+          <lb/>Salm. &amp;amp; Neoburg... (5 pp.) Les derniers ff. contiennent l’arbre généalogique
+          <lb/>des comtes de Salm remontant à Charles Ier (490).
+          <lb/>R. 100.8872. Même prov. que le n° précédent.
+          <lb/>2002
+          <lb/>REUSNER Nicolaus
+          <lb/>Strasbourg, C. Kieffer, 1586
+          <lb/>Gamelia Sive Symbola Nuptialia claro-rum Germa¬
+          <lb/>niae virorum : virtuti et honori nobilium coniugum
+          <lb/>Ieremiae Reusneri!! Leorini, inclyto Heroi D. Iulio! Comiti
+          <lb/>Salmae &amp;amp; Neoburgi à consil, secretioribus, Sponsi:t
+          <lb/>Elisabethae Wilan —  dinae virgini primariae nobilis viri
+          <lb/>Thomae! Wilandii Consil. &amp;amp; Praefecti Com. !! Salm. Neobur¬
+          <lb/>gici ad ŒEnum filiae, Sponsae...Argentinae, excudebat
+          <lb/>Carolus Kieffer. (M. D. XIVC.
+          <lb/>Au verso, armoiries des Reusner. (Voir reproduction p. suivante).
+          <lb/>In-8°, car. rom., 20 ff. non ch., sign. A.-C., titre courant, réclames,
+          <lb/>notes marg., ornements.
+          <lb/>R. 100.8874. Même prov. que les 2 nos précédents.
+          <lb/>2003
+          <lb/>REUSNER Nicolaus
+          <lb/>Strasbourg, A. Bertram, 1586
+          <lb/>Nicolai Reusneri! Leorini IC.[ Februarius,! sive! Fastorum
+          <lb/>sacrorum &amp;amp; historicorum! Liber Secundus.! In lucem editus
+          <lb/>opera &amp;amp; studio! Eliae Reusneri! Leorini Silesii. Au-dessous :
+          <lb/>marque typ. de A. Bertram. (H. &amp;amp; B. Planche XLIV, n° 2;
+          <lb/>Silvestre, n° 1022.)
+          <lb/>Argentorati! Excudebat Antonius Bertramus! MDXIVC.)
+          <lb/>(1586).
+          <lb/>In-80, car. rom. et ital., 80 ff. non ch., sign. A-K, réclames, notes marg.,
+          <lb/>init. ornée P. Verso du dernier f., blanc; au recto, armoiries de Reusner.
+          <lb/>Voir reproduction p. suivante. Au-dessous: 4 dist. de Janus Jacobus Bois¬
+          <lb/>sardus Vesuntinus sur les armoiries de Reusner.
+          <lb/>Au verso du titre : 7 dist. au lecteur de Johannes Lauterbach.
+          <lb/>fol. A 2a : ... D. Friderico Ludovico!! Elect. F. Comiti Palatino Rheni,
+          <lb/>Duci] Bavariae... — Argentorati !] Idib. Quintil. M. D. XIVC. [! Elias
+          <lb/>Reusnerus Leorinus. (Dédicace de 3 pp.)
+          <lb/>Suivent 197 poésies latines réparties sur les différents jours du mois de
+          <lb/>février; en plus 3 pp. Epigrammata in Mensem Februarum et 3 pp. :
+          <lb/>Mensium latinorum Collatio ex Diario B. Sculteti Astronomi.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

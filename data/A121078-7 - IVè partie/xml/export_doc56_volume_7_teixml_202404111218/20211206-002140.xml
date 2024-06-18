@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:05.224992+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002140.tif
+IMAGE WIDTH: 2512
+IMAGE HEIGHT: 3964
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>astronomicae. Astrologiae, Musicae, Mechanicae. —
+          <lb/>Strasbourg, Josias Rihel 1596, in-16°.
+          <lb/>BN Paris V 18.227. Zinner 3649; Vogeleis p. 368. 1486
+          <lb/>DASYPODIUS, Conr. (Spherica doctrina) : Sphericae doctrinae
+          <lb/>propositiones graecae et latinae, nunc primum in lucem
+          <lb/>editae... — Strasbourg, imprimerie de Christian Mylius
+          <lb/>1572, in-80.
+          <lb/>BN Paris V 18.229.
+          <lb/>1487
+          <lb/>DASYPODIUS, Conradus. Voir aussi : ARISTOTELES n° 850;
+          <lb/>EUCLIDES, n° 1651; IsAACUS Monachus n° 2129 (Peucer)
+          <lb/>n° 2884; RITTER, Rép. nos 610-614.
+          <lb/>DASYPODIUS, Petrus : Dictionarium latinogermanicum et
+          <lb/>germanicumlatinum... — Strasbourg, Wendelin Rihel
+          <lb/>1537, in-40.
+          <lb/>Baer (Francfort-s.-M.), Catal, n° 774.
+          <lb/>1488
+          <lb/>DASYPODIUS, Petrus : Dictionarium latino-germanicum.
+          <lb/>Strasbourg, Wendelin Rihel 1539, in-40.
+          <lb/>Ritter : Hist. Impr. p. 262.
+          <lb/>1489
+          <lb/>DASYPODIUS, Petrus : (Idem). — Strasbourg, Wendelin
+          <lb/>Rihel 1543, in-4° [Une nouvelle éd. 1544).
+          <lb/>Ritter : Hist. Impr. p. 262.
+          <lb/>1490
+          <lb/>DASYPODIUS, Petrus : [Dictionnaire latin-allemand et alle¬
+          <lb/>mand-latin. Titre manque). — (Argentorati, apud
+          <lb/>Wendelinum Rihelium Anno M. D. XLVII (15471.
+          <lb/>Mense Februariol, in-8°.
+          <lb/>Bibl. Grand Sém. Strasbourg B F 85.
+          <lb/>1491
+          <lb/>DASYPODIUS, Petrus : Dictionarium latino-germanicum et
+          <lb/>vice versa germanice-latinum. — Strasbourg, Théodose
+          <lb/>Rihel 1569, in-8°.
+          <lb/>B N Paris. X. 9126.
+          <lb/>1492
+          <lb/>138
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

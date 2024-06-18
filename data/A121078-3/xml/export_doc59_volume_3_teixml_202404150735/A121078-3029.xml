@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:05.215040+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3029.tif
+IMAGE WIDTH: 2348
+IMAGE HEIGHT: 3840
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Am Schluss: Argentorat. Ex Aedibus Schurerianis Mense
+          <lb/>Octobri. Anno M. D. XII. (Rückseite leer.)
+          <lb/>Raum für Init.
+          <lb/>40, Antiq., 42 unn. Bll., Sign. A-G., Kopftitel, Marginalien, leerer
+          <lb/>Auf der Rückseite des Titelbl.: MORIA ERASMVS ROT. THOMAE
+          <lb/>Moro Svo. S. D.... — Ex Rure. Quinto Idus Iunias, (3 S.)
+          <lb/>Bl. G 5b: Desiderio Erasmo Rotterodamo lacobus Vuim¬
+          <lb/>phelingius Selestatinus Germanus Germano, Theologo
+          <lb/>Theologus, Discipu- lus preceptori. S. D.... — Ex argen¬
+          <lb/>toraco. Xiiij. Kal. Se-ptembres. Anni salutis nostrae.
+          <lb/>M. D. XII. (2 S.)
+          <lb/>R 100.899(2), Prov.: Austausch mit der Gymnasialbibl, von Heil¬
+          <lb/>bronn; 2. IV. 1878.
+          <lb/>GK: SB Berlin, UB Göttingen, Greifswald, Kónigsberg; Proctor
+          <lb/>Sectio I, Nr. 10204: London, British Museum; BN Paris, Rés. Y 2. 942;
+          <lb/>Schmidt VIII, Nr. 85: Stadtbibl. Strassburg 1562]; Rest S. 45. 708
+          <lb/>ERASMUS : De ratione studiorum
+          <lb/>Strassburg, M. Schürer, 1512
+          <lb/>ERASMI ROTERODAMIDe ratione studij ac legendi
+          <lb/>interpretandique autores! libellus aureus.! Officium disci¬
+          <lb/>pulorum ex Quintiliano.Qui primo legendi ex Eodem.
+          <lb/>ERASMI Concio de puero Jesv in schola Coletica Londini
+          <lb/>instituta pronuncianda. EIVSDEM Expostulatio Iesv ad
+          <lb/>mortales. EIVSDEM CARMINA SCHOLARIA. T. S.
+          <lb/>Am Schluss: Argentorat. Ex aedibus Schürerianis Mense
+          <lb/>Iulio. Anno M. D. XII. REGNANTE MAGNANIMO IMP. CaES.
+          <lb/>MAXIMILIANO P. F. AVG. P. Q. P.
+          <lb/>4°. Antig., 20 unn. Bll., wovon das letste leer, Sign. A-D. Kopf¬
+          <lb/>titel, Marginalien, leerer Raum für Init.
+          <lb/>Auf der Rückseite des Titelbl.: ERASMVS Roterodamus Gui¬
+          <lb/>lielmo Thaleio suo S. D.
+          <lb/>R 101280. Prov.: Hess e Co., München, 10. V. 1895, 10 M.
+          <lb/>Schmidt VIII Nr. 79: Bibl. Wilh. und alte Strassburger Bibl.
+          <lb/>Inkun. 1774, Stadtbibl, Zürich.
+          <lb/>709
+          <lb/>473
+          <lb/>ERASMUS: Adagia
+          <lb/>Strassburg, Math. Schürer, 1513
+          <lb/>COLLECTANEA ADAGIORVM] VETERVM DESIDERII ERASMI
+          <lb/>ROTERO DAMI GERMA-NIAEDECORIS EX TERTIA
+          <lb/>RECOGNITIONE. Addita est tabula in ipsius operis calce,
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

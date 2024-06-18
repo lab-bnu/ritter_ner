@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:09.380638+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002299.tif
+IMAGE WIDTH: 2518
+IMAGE HEIGHT: 3948
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>LIED (ein hübsches kurtzweiliges) : Ein hüpsch kurtzwylich
+          <lb/>lied vor Frauwen und Jungfrawen zu singen genant des
+          <lb/>Meyen zyt... — (Strasbourg, Math. Hupfuff 1505),
+          <lb/>in-80.
+          <lb/>Schmidt V, no 43 : « Bibl. de Zwickau, dans le même volume
+          <lb/>et de la même impression que Herrn Ecken Ausfahrt. Central¬
+          <lb/>blatt XI (1893), p. 334 ».
+          <lb/>2315
+          <lb/>LIED (ein hübsches neues) : Ein hüpsch Neüw Lied, vonn
+          <lb/>dem frommen Joseph, wie er umb seiner tröumen
+          <lb/>willen vonn seinen Brüdern verhaszt unnd inn Egypten
+          <lb/>verkaufft ward... (grav.). Getruckt zu Strasburg bey
+          <lb/>Thiebolt Berger s. d., in-8° (l’auteur à la fin : Benedict
+          <lb/>Gletting).
+          <lb/>Heitz, p. 55.
+          <lb/>2316
+          <lb/>LIED (ein hübsches neues) : Ein hüpsch news lied, von den
+          <lb/>rosz teütschern und iren klugen hendeln so sie treiben
+          <lb/>bisz sie den bawren die augen vercleiben... — Strasbourg,
+          <lb/>Ulrich Morhart s. d., in-8°,
+          <lb/>Goedeke II2, p. 254, n° 7; Vogeleis, p. 209; Weimar. 2317
+          <lb/>LIED (ein hübsches neues) : Ein hüpsch Neüw Lied, Wie der
+          <lb/>Künig von Franckreich inn das Teutschland mit höres
+          <lb/>macht ist gezogen. Jm thon wie Dieterich von Bern.
+          <lb/>(grav.). Da man zalt Fünffzehen hundert Jar, zwey und
+          <lb/>fünffzig, das ist war, Jst dise Geschicht geschehen...
+          <lb/>(grav.). — [Strasbourg, Th. Berger 1552), in-80, 4 ff.
+          <lb/>(Auteur à la fin : Heinrich Wirry, ein Schneider).
+          <lb/>Heitz, p. 60; Weller I, 265.
+          <lb/>2318
+          <lb/>LIED (ein hübsch neues geistliches) : Ein hüpsch New
+          <lb/>Geistlich Lied, Ach Gott lasz dichs erbarmen doch...
+          <lb/>(grav.). — T. B. (— Th. Berger, Strasbourg s. d.],
+          <lb/>in-80.
+          <lb/>Heitz, p. 43; Wackernagel III, 1176.
+          <lb/>2319
+          <lb/>297
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

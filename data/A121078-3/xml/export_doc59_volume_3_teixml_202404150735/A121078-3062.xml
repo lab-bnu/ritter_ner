@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:05.699891+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3062.tif
+IMAGE WIDTH: 2328
+IMAGE HEIGHT: 3844
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>506
+          <lb/>Bl. P2b-P7b: Brief des Erasmus an Wimpfeling: Basileae,
+          <lb/>undecimo Calendas Octobris! M. D. XXIIII, (wohl ein Druck¬
+          <lb/>fehler für MDXIIII, da die Ausgabe vom Jahre 1522 ist).
+          <lb/>&amp;quot;RI01.5761. Prov.: L. Rosenthal, München, 14. IV. 1890; 8M.
+          <lb/>GK: UB Breslau; Rest S. 50. Fehlt bei Schmidt.
+          <lb/>761
+          <lb/>ERASMUS : Enchiridion militis
+          <lb/>Strassburg, J. Knobloch, Februar 1522
+          <lb/>ENCHI- RDION MLITIS CHISTIANI SALV-] berrimis
+          <lb/>praeceptis refer tum, authore D. ERAS. Rote rodamo,
+          <lb/>cui ac- cessit) noua, miréque utilis Praefacio.
+          <lb/>APVD FELICEM ARGENTINAM. (Rückseite leer.)
+          <lb/>Am Schluss: ARGENTINAE APVD IOANNEM KNOBLOCHIVM
+          <lb/>MENSE ] FEBRVARIO ANNO.) M. D. XXII.
+          <lb/>Auf der Rückseite Druckermarke Knoblochs (HEB Tafel X Nr. 5).
+          <lb/>80, Kursiv, 105 num. Bll., 1 unn. Bl., Kopftitel, Kustoden, Mar¬
+          <lb/>ginalien, leerer Raum für Init.
+          <lb/>Bl. 2b-15b: Vorrede des Erasmus an Paul Vole, 1518.
+          <lb/>*R101952. Prov.: Trübner, Strassburg, 18. 1.1879; 2 M.
+          <lb/>Handschr. Notizen. Titelbl, unten: Sum J. strick (2). Stempel der
+          <lb/>Universität Heidelberg.
+          <lb/>GK: SB Berlin. Fehlt bei Schmidt.
+          <lb/>762
+          <lb/>ERASMUS : Enchiridion militis
+          <lb/>Strassburg, J. Knobloch, August 1522
+          <lb/>ENCHIRI DION MILITIS CHRI] STIANI, SALVBERRI- mis
+          <lb/>praeceptis refertum, au thore D. ERAS.Roterodomo,
+          <lb/>cui ac- cessit noua, miréque utilis Praefatio.
+          <lb/>APVD FELICEM ARGENTINAM. (Rückseite leer.)
+          <lb/>Am Schluss: ARGENTORATI APVD IOAN- nem Knoblouchium
+          <lb/>Mense Augusto. Anno M. D. XXII.
+          <lb/>80, Kursiv, 105 num. Bll., Kopftitel, Kustoden, Marginalien, Zier¬
+          <lb/>init. 0, E; Titeleinfassung (H æ B Tafel X Nr. 5).
+          <lb/>Bl. 2b-15b: Vorrede des Erasmus an Paul Vols 1518.
+          <lb/>*R101.950. Prov.: Bibl. Ed. Reuss, Strassburg 1891. Handschrift¬
+          <lb/>liche Notizen. Titelbl, unten: »Johannes Gross-; auf der Rückseite des
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:29.303170+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2101.tif
+IMAGE WIDTH: 2318
+IMAGE HEIGHT: 3826
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>97
+          <lb/>Fol. 44b: Saphicon eiusdem (Bebeliil Ad eundem prin¬
+          <lb/>cipem Vdalricum wirtenbergen sium Ducem. (12 strophes de
+          <lb/>4 vers.)
+          <lb/>Suivent 5 p. d’Index à 2 col.
+          <lb/>Fol. A Sa: Carmen Henrici Bebelij de Iustingen ad
+          <lb/>iuuenes.... (13 distiques.)
+          <lb/>Au verso: In Grammaticam Bebelianam Decatostycon
+          <lb/>Thomae Aucüpari Argentinensis, (5 distiques.)
+          <lb/>*RI01198. Prov.: Rosenthal, Munich, 1/V 1885; 12 M.
+          <lb/>Au titre: annotations mes., au milieu F. HE. 1568.
+          <lb/>Schmidt I, No *62, cite d’après Zapf, H. Bebel, Augsbourg,
+          <lb/>1802, p. 98.
+          <lb/>164
+          <lb/>BEBELIUS Henricus.
+          <lb/>Strasbourg, J. Grüninger, 1508.
+          <lb/>In hoc libro Continentur Haec Bebeliana opuscula
+          <lb/>noua.
+          <lb/>Epistola ad cancellarium de laudibus &amp;amp; philosophia
+          <lb/>veterum Germanorum.Epistola ad Petrum Jacobi Arlu¬
+          <lb/>nensem de laudibus &amp;amp; auctoribus facetiarum.! Libri face¬
+          <lb/>tiarum iucundissimi: atque fabulae ad modum ridendae.
+          <lb/>Prouerbia germanica in latinitatem reducta.! Mithologia
+          <lb/>hoc est fabula contra hostem poetarum. Elegia in obitum
+          <lb/>doctoris Henrici Starrenuadel praete- ritorum vaticinato¬
+          <lb/>ris.! Elegia hecatosticha de institutione vitae Bebelii dum
+          <lb/>pestis Tubinge grassaretur. M. D. Il. Elegia ad Appolo¬
+          <lb/>niam puellam pulcherrimam de me ditatione venturae mor¬
+          <lb/>tis &amp;amp; senectutis.Ad Thomam Vuolphium iuniorem de
+          <lb/>laude doctorum &amp;amp; poeticae. Egloga contra vituperatores
+          <lb/>poetarum.Epitaphium Cytharedi ad Joh. Streler Ulmen¬
+          <lb/>sem Cantio vernacula. Laus Musicae, Apologia poetae
+          <lb/>de stirpe sua Elegia Cimonis stulti qui ex amore factus
+          <lb/>est pruden- tissimus. (Verso blanc.)
+          <lb/>A la fin: Argentoraci Joannes Grüninger imprimebat.
+          <lb/>Anno. M. D.VIII. (Verso blanc.)
+          <lb/>In-40, car, rom., 100 ff. non ch., sign. A-O, titre courant, initiales
+          <lb/>d’attente et initiales ornées.
+          <lb/>Fol. A 2a: Epistola Henrici Bebelii Ivstingensis ad Gre¬
+          <lb/>gorium Lamparter Illustris principis nostri Vuirtenbergensis
+          <lb/>Cancellarium.... — Tubingae. Idibus Septembribus, anno.
+          <lb/>M. D.VH. (2 F.
+          <lb/>Fol. N 1a: Armoiries de Bebel, au-dessus: DESINE LIVOR
+          <lb/>Laus &amp;amp; victoria Maximiliano Augusto! Romulidum Caesar
+          <lb/>R.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

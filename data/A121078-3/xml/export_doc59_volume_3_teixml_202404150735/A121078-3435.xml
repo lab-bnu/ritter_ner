@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:14.236859+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3435.tif
+IMAGE WIDTH: 2426
+IMAGE HEIGHT: 3854
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>877
+          <lb/>u. Karsthans mit Hacke (Karst) auf der rechten Schulter.
+          <lb/>Holeschn.: Merkur, Murner als Mönch mit Katzenkopf, Student
+          <lb/>K, M.
+          <lb/>4°, Got., 16 unn. Bll., wovon das letzte leer, Sign. aa-dd, Init.
+          <lb/>Bl. aa 2a: Disz sindt die fünff, so vnder jnnen selbs
+          <lb/>ein ge- sprech vnd red halten. Murner, Karsthans, Stu¬
+          <lb/>dens, Luther, Mercurius.
+          <lb/>Exemplar Huttens mit dem Vermerk auf dem Titelbl.:Est Ulrichs
+          <lb/>*R100.287. Prov. : Trübner, Strassburg 6. VI. 1883, 15 M.
+          <lb/>Huttens 1520.a
+          <lb/>Proctor II Sectio I Nr. 10317: London Brit. Museum, schreibt
+          <lb/>es Reinhard Beck 2u; Weller: Repertorium Nr. 1433; J. Prüss.
+          <lb/>Unter der Standortnummer R 100.286 besitst die Bibliothek noch
+          <lb/>einen zweiten, von obigem leicht verschiedenen Druck mit gleichem Titel
+          <lb/>u. gleichem Holeschn., wahrscheinlich vom nämlichen Drucker: 12 unn.
+          <lb/>Bll., Sign. A-C mit folgenden Versen auf dem letsten Bl.:
+          <lb/>Der Murner ist nit allein in dem spil
+          <lb/>Zù Straszburg ich noch zwei nennen wil.
+          <lb/>Der schulmaister Jeronimus genant
+          <lb/>Und doctor Peter auff dem stifft predicant.
+          <lb/>1304
+          <lb/>KELLER Burckhard
+          <lb/>Strassburg, Jod. Martin 1599
+          <lb/>HISTORIA PASSIONIS AC MORTIS DOMINI ET SAL¬
+          <lb/>VATORIS NOSTRI IESV CHRI-[STI, versibus heroicis in illustri
+          <lb/>Argen- toratensium Academia! reddita,) à M. Burckhardo
+          <lb/>Kellero Olnicensi) Varisco. (Vign.)
+          <lb/>ARGENTORATI EXCVDEBAT IODOCVS MARTINVS. ANNO
+          <lb/>M. D. XCIX.
+          <lb/>40, Kursiv, 10 unn. Bll., Sign. A-C, Kust., Init., Titeleinfassung,
+          <lb/>Schlussvign.
+          <lb/>Auf der Rücks. des Titelbl. : Widmung.
+          <lb/>R100994. Prov.: Bibl. Heitz, Strassburg 1871.
+          <lb/>1305
+          <lb/>KEMPFF Ambrosius
+          <lb/>Kolmar, Barth. Grüninger 1543
+          <lb/>Euangelien vnd Epistlen des Neüwen Testaments,
+          <lb/>nichts auszgelassen, vnnd das fruchtbarest ausz Sanct
+          <lb/>Johanns heymlichen Offenbarung, vnd den Geschichten
+          <lb/>der Aposteln auszgezogen, Mit den Historien vnd Prophe¬
+          <lb/>ceyen des Alten Testaments, wie das Neüw im alten
+          <lb/>figuriert, vnd Christus vnser seligma- cher, vnd die Apo¬
+          <lb/>steln zû vil malen des meldung thûn, in alle tag des gantzen
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

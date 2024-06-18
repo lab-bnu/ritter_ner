@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:08.898154+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002276.tif
+IMAGE WIDTH: 2520
+IMAGE HEIGHT: 3958
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>KALENDER : Ein newer kalender Von allerley Artznei durch
+          <lb/>alles himmlische Gestirn, Auch was die für influentzlin
+          <lb/>diese underste cörper haben, von dem weitberümten
+          <lb/>Joanne künigsperger. (Regiomontanus). — Strasbourg,
+          <lb/>Jacques Cammerlander [vers 1540l. (Mit Finsternistafeln
+          <lb/>von 1541-63). (Pas de Regiomontanus).
+          <lb/>B M Colmar; Zinner 1757.
+          <lb/>2193
+          <lb/>KALENDER (der Strassburger Domherren) : Lasz zedel auff
+          <lb/>das M. D.XLIX. Jar, is die Guldnisz zal XI... En bas:
+          <lb/>Gepracticirt durch Valentin Burzlin von Wangen, der
+          <lb/>Artzneien Doctor vn Stattartzet zu uberlingen. —
+          <lb/>Getruckt zu Straszburg bey Hans Preüssen (1548);
+          <lb/>grand placard 97 cm. x31 cm. à 5 col. dont les 2 col.
+          <lb/>extérieures contiennent les noms des 24 chanoines avec
+          <lb/>leurs armes; en haut 7 gravures (hauteur 7 cm. l’une à
+          <lb/>côté de l’autre, de gauche à droite) : 1) Dapifer, 2) Came¬
+          <lb/>rarius, 3) S. Maria (avec l’enfant Jésus), 4) Armes de
+          <lb/>l’évêque, 5) S. Arbogastus, 6) Pincerna, 7) Marscalus.
+          <lb/>Les 3 colonnes intérieures contiennent les 12 mois (en
+          <lb/>noir et rouge) : Jenner, Hornung, Mertz, April, May,
+          <lb/>Brachmonat, Höwmonat, Augstmonat, Herbstmonat,
+          <lb/>Winmonat, Wintermonat, Christmonat. En bas, 2 petites
+          <lb/>gravures : col. gauche l’annonciation, col. droite:
+          <lb/>naissance (étable de Bethléem).
+          <lb/>Archives Mun. Strasbourg.
+          <lb/>2194
+          <lb/>KALENDER (der Strassburger Domherren) : (Idem) sans le
+          <lb/>mot Lasz zedel : So man zelt nach Christi geburt
+          <lb/>M. D.LII ist ein Schaltiar; deszhalb seind zwen Sonnen¬
+          <lb/>täglich buchstaben... 2e col. en bas : Gepracticiert durch
+          <lb/>den freyen kunst gelerten Hieronymum Brotbeyhel;
+          <lb/>4e col. en bas: Getruckt zu Straszburg bey Hans Preussen
+          <lb/>11551), grand placard, comme celui de 1549. Le mois de
+          <lb/>décembre figure comme Wolfmonat au lieu de Christmo¬
+          <lb/>nant.
+          <lb/>Archives Mun. Strasbourg.
+          <lb/>2195
+          <lb/>274
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

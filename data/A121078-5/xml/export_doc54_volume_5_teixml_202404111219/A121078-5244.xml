@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:58.099130+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5244.tif
+IMAGE WIDTH: 2384
+IMAGE HEIGHT: 3862
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1554
+          <lb/>De hoc Grego! rius Angelus Heluetius ipsum sequenti decastycho !!
+          <lb/>interrogat, ut pium &amp;amp; mansuetum suum praeceptorem.... (5 dist.). Suivent
+          <lb/>un distique de Tho. Rhododendrius Pictor et un de M. Sambucellus
+          <lb/>Austrasius.
+          <lb/>fol. A 2a : Philippo de Flersheim nobili iure consulto, Vormatiensis Il
+          <lb/>Spirensisque ecclesiarum canonico dignissimo, domino plurimum!
+          <lb/>colendo Jacobus Vuimphelingius Sletstatinus sacrae pa I] ginae licen¬
+          <lb/>tiatus &amp;amp; peccator. S. D. P... ex tuguriolo meo. v. kal. Augusti 1510
+          <lb/>(19 lignes).
+          <lb/>Au-dessous : Capitulorum annotatio.
+          <lb/>Au recto du dernier f. : Ad pium Lectorem. (12 lignes). Au-dessous:
+          <lb/>1° De extremo iudicio Carmen! Engelhardi Funck (3 dist.) ;/2° Ad Tho.
+          <lb/>Vuolphium. D. D. 1 dist. : Argentina tibi vitam dederat : dat Roma
+          <lb/>sepulchrum !I Vix poteras nasci clarius atque mori.
+          <lb/>En bas: Scaramella du II hast verschloffen.
+          <lb/>R. 102.230. Prov. : Don de la ville de Heilbronn, 1872. Notes mss.
+          <lb/>Schmidt VIII, No 45 cite son exemplaire; il attribue l’impression à
+          <lb/>Schürer parce que les 2 bordures du titre et la grav. à la fin se trouvent
+          <lb/>aussi dans la Navicula fatuorum de Geiler, imprimé par Schürer en 1511.
+          <lb/>D’après les caractères je l’attribuerais plutôt à J. Prüss ou à son successeur
+          <lb/>R. Beck. Rosenthal, Munich, Catalogue 135 (1914), No 2552 : 80 M. « Ce
+          <lb/>traité est dirigé contre Jacques Locher». Knepper, Wimpfeling, p. 219¬
+          <lb/>227.
+          <lb/>2486
+          <lb/>WIMPHELING Jacobus
+          <lb/>Strasbourg, M. Flach, 1511
+          <lb/>Adolescentia JacobiWimphelingij... (titre comme au
+          <lb/>n° 2471).
+          <lb/>A la fin: Impressum Argentinae per industrium calcogra¬
+          <lb/>phum Martinum Flach inibi incolam impensis &amp;amp; sum!! ptibus
+          <lb/>prouidi Joannis Knoblouch ciuisnclytae urbis Argenti¬
+          <lb/>nensis. Anno salutis no-strae: Millesimo quingentesimo
+          <lb/>undecimo. Secunda feria! post Viti &amp;amp; Modesti.
+          <lb/>In-4°, car, goth., 4 ff. non ch., LXXIX ff. ch., titre courant, notes
+          <lb/>marg., init. d’attente.
+          <lb/>Au verso du titre les dist. de Phil. Fürstenberg, Crato Udenheim et
+          <lb/>Math. Ringmann Philesius comme dans l’édition de 1508, de même la
+          <lb/>dédicace de Wimpheling de Heidelberg en 1499 : les gravures manquent.
+          <lb/>R. 101.068. Prov. : Bibliothèque Baum 1879.
+          <lb/>Schmidt VI n° 24 dit 77 ff. et ne cite pas les 4 ff. non ch. ; s’agit-il
+          <lb/>d’une autre éd. ou y a-t-il simplement oubli? Proctor II, Sectio I,
+          <lb/>No 10.143 : Londres, Brit. Mus.
+          <lb/>2487
+          <lb/>WIMPHELING Jacobus
+          <lb/>Strasbourg, 1511
+          <lb/>Soliloquium ad diuum Augustinum Jaco- Il bi wimphelingi
+          <lb/>Slettstattini (! Theologie licentiati.
+          <lb/>De beata virgine Maria deque matre eius sancta Anna
+          <lb/>carmen! Joannis Renati ex wijla Sacerdotis contra Auari!
+          <lb/>ciam quorundam Sacerdotum et Mona- chorum. Cum
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

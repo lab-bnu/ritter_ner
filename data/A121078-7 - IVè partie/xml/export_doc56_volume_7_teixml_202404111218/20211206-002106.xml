@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:04.371236+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002106.tif
+IMAGE WIDTH: 2490
+IMAGE HEIGHT: 3962
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>D. Michael Herren verdolmetscht. Jetzund uberlesen,
+          <lb/>gemehrt und gebeszert durch Melch. Rabus aus Mem¬
+          <lb/>mingen. — Strasbourg 1563, in-fol.
+          <lb/>(En 1566 une édition, in-8°; éd. B. Beck 1545, Th. Rihel
+          <lb/>(1551), S. Emmel 1561. Ritter, Rép. nos 160-162).
+          <lb/>1301
+          <lb/>CASTELLA, Phil. Voir: BRANT, Seb, n° 1047.
+          <lb/>CASTIGLIONE, Balthasar de : Aulicuse. Accessit de aula
+          <lb/>dialogus. — Strasbourg 1563, in-8°.
+          <lb/>Goedeke II2, p. 128, n° 25.
+          <lb/>1302
+          <lb/>CASUS : papales, episcopales et abbatiales. — Argentine 1505,
+          <lb/>in-80.
+          <lb/>Ritter, Grand Sém, n° 123.
+          <lb/>1303
+          <lb/>CATALOGUS authorum. Voir: n° 1321.
+          <lb/>CATANEUS, Jo. Maria. Voir: ERASMUS (De duplici copia)
+          <lb/>n° 1575.
+          <lb/>CATECHISMUS und underweisung christenlichs glaubens
+          <lb/>in... Herrn Georgen hochlöblicher gedechtnus, Grave zu
+          <lb/>Wurtemberg und zu Mümpelgart, &amp;amp; Graffschafftzu
+          <lb/>Harburg unnd Herrschafft Rychenwyr, der Jugend zu
+          <lb/>dienst... — (Mulhouse, Jean Schierenbrand et Pierre
+          <lb/>Schmid 1559), in-8°.
+          <lb/>Ritter: B M Strasbourg, n° 701.
+          <lb/>1304
+          <lb/>CATECHISMUS : Christliche Underrichtung oder Lehrtafel
+          <lb/>kürtzlich in Sechs nachfolgende Stück verfasset.
+          <lb/>I. Die zehen Gebott. II. Der Christlich Glaub.
+          <lb/>III. Das Vatter Unser. IIII. Der Heylig Tauff.
+          <lb/>V. Das Heylich Abendmal. VI. Die Christlich
+          <lb/>Busszucht. Für die gemeynen Pfarrherr, Schulmeyster,
+          <lb/>Hauszvätter, Jugent und Lehrkinder zu Straszburg und
+          <lb/>anderswa &amp;amp;c. — Strasbourg, Samuel Emmel 1559, in-80.
+          <lb/>Wackernagel 757.
+          <lb/>1305
+          <lb/>104
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

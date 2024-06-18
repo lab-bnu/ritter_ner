@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:08.964521+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002280.tif
+IMAGE WIDTH: 2508
+IMAGE HEIGHT: 3966
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>KARLSTADT, Andreas : Auslegung diser Wort Christi. —
+          <lb/>Strasbourg, Jean Prüss vers 1524, in-4°.
+          <lb/>Ritter, Hist. de l’impr., p. 219.
+          <lb/>2212
+          <lb/>KARLSTADT, Andreas: Dialogus oder ein gesprechbüchlin... —
+          <lb/>(Strasbourg, Jean Knobloch), 1524, in-4°.
+          <lb/>Kuczynski, n° 417; Weller, n° 2818.
+          <lb/>2213
+          <lb/>KARLSTADT, Andreas : Von den zweyen höchsten gebotten...
+          <lb/>— Strasbourg (Jean Prüss), 1524, in-4°.
+          <lb/>Kuczyński, n° 420, Weller, n° 2821; Bibl. S. Guillaume,
+          <lb/>Strasbourg.
+          <lb/>2214
+          <lb/>KARLSTADT, Andreas : Von dem Sabbat und gebotten
+          <lb/>feyrtagen. M.D.XXiïi. Im Meyen. — (Strasbourg,
+          <lb/>Jean Schwan 1524, in-4°.
+          <lb/>Ritter: B M Strasbourg, n° 1332; Bibl. S. Guillaume,
+          <lb/>Strasbourg.
+          <lb/>2215
+          <lb/>KARLSTADT, Andreas : Ayn schöner Sermon von Spaltung der
+          <lb/>gutten unnd böszen Engelischen Gaystern im Himel. —
+          <lb/>Strasbourg 1524, in-4°.
+          <lb/>Graesse IV, p. 5.
+          <lb/>2216
+          <lb/>KARLSTADT, Andreas : Erklerung Wie Carlstat sein ler von
+          <lb/>dem hochwirdigen Sacrament, und andere achtet und
+          <lb/>geachtet haben wil. Mit eyner Epistel M. Lutheri. —
+          <lb/>(Strasbourg, Jean Knobloch 1525), in-40.
+          <lb/>Bibl. S. Guillaume Strasbourg.
+          <lb/>2217
+          <lb/>KARLSTADT. Voir: LUTHER n° 2516 (RITTER, Rép. n° 1303).
+          <lb/>KARSTHANS. Voir : (WATTS, Joachim vonl.
+          <lb/>KARTENLOSBUCH : Kartenlossbuch darinnen auss H. schrifft
+          <lb/>vil laster gestrafft und heylsamer leeren angezeyt
+          <lb/>278
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

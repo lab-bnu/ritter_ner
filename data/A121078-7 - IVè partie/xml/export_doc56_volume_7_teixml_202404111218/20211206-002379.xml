@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:11.449672+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002379.tif
+IMAGE WIDTH: 2502
+IMAGE HEIGHT: 4004
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>vier Kätzermönchen, n° 2031; (RITTER, Rép, nos 1601¬
+          <lb/>1619: Th: Murnerl.
+          <lb/>MUSCULUS, Wolfg. Voir: MYCENIUS, Joh., n° 2748.
+          <lb/>MYCENIUS, Johannes : Tractat Teutsch. Von dem schänd¬
+          <lb/>lichsten, verfluchten Schätzlein, von Wolffgango Musculo
+          <lb/>zwar in Latein beschrieben, sampt anhangendem Georgii
+          <lb/>Lauterbecks Tractetlein, von diesem Tierlein auch
+          <lb/>widerlegung vieler einrede unnd etlichen Schluszreden
+          <lb/>Wendelini Helbachii. — Strasbourg, Bernard Jobin
+          <lb/>1594, in-80.
+          <lb/>Goedeke IIe, p. 480, n° 3 (5).
+          <lb/>2748
+          <lb/>N. J. : Von der rechten Erhebung Benonis eyn sendbrief
+          <lb/>I. N. Geschehen von den Ertzknappen im Büchholtz
+          <lb/>bei sanct Annaberg in Meissen. — [Strasbourg, Jean
+          <lb/>Herwagen] 1534, in-4°.
+          <lb/>Flugschriften aus den ersten Jahren der Reformation hrsg.
+          <lb/>von O. Clemen. Vol. 1, fasc. 5, p. 192 ff.
+          <lb/>2749
+          <lb/>NACHENMOSER, Adamus. Voir : PROGNOSTICON theologicum,
+          <lb/>n° 2993.
+          <lb/>NACHFOLGE, Christi. Voir : IMITATIO Christi.
+          <lb/>NACHTGALL, Othm. Nom allemand de Luscinius.
+          <lb/>NAMENBÜCHLEIN : (Petit syllabaire de 32 p.]. — Mulhouse,
+          <lb/>J. Schirenbrand &amp;amp; P. Schmid vers 1557, in-80.
+          <lb/>Coudre, p. 77.
+          <lb/>2750
+          <lb/>NAOGEORGIUS, Thomas. Voir : KIRCHMEIER.
+          <lb/>NARR : Ein Narr gab seinem herren ain guten rat... —
+          <lb/>(Strasbourg, J. Klnobloch! 1510). Placard avec grav.
+          <lb/>Schmidt VII, n° 73: B N Munich; Weller 599.
+          <lb/>2751
+          <lb/>377
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

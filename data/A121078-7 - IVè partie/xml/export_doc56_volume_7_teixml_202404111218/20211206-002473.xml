@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:13.444368+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002473.tif
+IMAGE WIDTH: 2494
+IMAGE HEIGHT: 3986
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>SOBIUS, Jacobus : Oratio Germaniae Nobilium ad Carolum
+          <lb/>Augustum de rebus quibusdam corrigendis. A la suite de
+          <lb/>HERMANNUS, Comes a Neüenar, Epistola Germaniae
+          <lb/>studiosorum. — Sélestat (Lazare Schürer) 1520. 3242
+          <lb/>SONNENUHR. Voir : SUMMARI-Büchlein.
+          <lb/>SOPHOCLES : Aiax flagellifer et Philoctetes. A la suite de
+          <lb/>KIRCHMEIER, Thomas (Naogeorgus) : Judas Iscariotes. —
+          <lb/>(Strasbourg 1552), in-8°.
+          <lb/>3243
+          <lb/>SOPHOCLES : Tranchiniai, die Trachinierinnen in diesem
+          <lb/>Jahr in deutscher Ubersetzung gedruckt. — (Strasbourg
+          <lb/>15841.
+          <lb/>Vogeleis, p. 349.
+          <lb/>3244
+          <lb/>SOPHOCLES : Aiax lorarius stylo tragico a Josepho Scaligero
+          <lb/>translatus et in theatro argentinensi publice exhibitus
+          <lb/>Anno 1587, mense Julio. Cum aliis quibusdam ornatus
+          <lb/>causa interpositis et ad calcem Tragoediae adjectis. —
+          <lb/>Strasbourg, Antoine Bertram 1587, in-8°.
+          <lb/>Vogeleis, p. 354. — Ritter : B M Strasbourg, n° 1951. 3245
+          <lb/>SPACH, J. Voir: LIBER (Gynaeciorum), n° 2284; RITTER,
+          <lb/>Rép, nos 2156-2165.
+          <lb/>SPALATIN, Georgius : Etliche Christliche gebett und under¬
+          <lb/>weysung, die magister Georgius Spalatinus seynem
+          <lb/>Bruder angezeygt und überschickt hat. Kurtzer auszug
+          <lb/>ausz D. Martini Lutheri buecher. 1524. — (Strasbourg,
+          <lb/>Wolfg. Köpfel] 1524, in-8°.
+          <lb/>Bibl. S. Guillaume, Strasbourg.
+          <lb/>3246
+          <lb/>SPALATIN, G. Voir aussi: AUGUSTINUS Aurelius, n° 870/1;
+          <lb/>LAMBERTUS, Fr., n° 2266; MAGELONE, n° 2582.
+          <lb/>SPANGENBERG, Cyriacus : Auszlegung der Ersten Acht
+          <lb/>471
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

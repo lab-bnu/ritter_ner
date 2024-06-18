@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:43.176149+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078019.tif
+IMAGE WIDTH: 2370
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>A la fin: ... Getruckt vnd vollendet in der keyserlichen
+          <lb/>freyen statt Strasz burg durch Johanes Grüninger am
+          <lb/>mit-wochen nach sant Margarethen tag der heili gen
+          <lb/>junckfrawen des iares da man zallet noch Christ geburt.
+          <lb/>M. ccccc. vnd xvi. iar. (Verso blanc.)
+          <lb/>In-fol., car. goth., 2 col., CXCIIII ff. ch., titre courant, initiales
+          <lb/>ornées. Mêmes gravures que dans l’édition de 1507.
+          <lb/>R10.330. Prov.: Bibl. Bœcking. Note ms. au haut du titre: :Im
+          <lb/>Cartuyser Closter zu Collon.»
+          <lb/>Proctor II Sectio I n° 9939: Londres Brit. Museum; Schmidt I
+          <lb/>n° 151.
+          <lb/>1347
+          <lb/>LEBEN, Der Heiligen leben. Voir: BRANT Sebastian
+          <lb/>LEBEN JESU CHRISTI
+          <lb/>Strasbourg, J. Knobloch 1508
+          <lb/>Das leben Jesu Christi gezogen ausz den vier Evan¬
+          <lb/>gelisten: Mit kurtzer beyleer vnd christ licher vnderwey¬
+          <lb/>sung: Darzû vil schoner figuren bedeütung. (Gravure sur bois,
+          <lb/>à peu près de la grandeur de la page: aux 4 coins, les symboles des
+          <lb/>évangélistes; en haut, Dieu le père et le St. Esprit en forme de colombe,
+          <lb/>au fond une ville; au-dessous, à gauche les apôtres; à droite, Jésus en¬
+          <lb/>voyant les disciples dans le monde; au bas, le monogramme d’Urs Graf
+          <lb/>avec la pixïs.
+          <lb/>Fol. 144a:... Gedruckt zû Stroszburg durch Johan¬
+          <lb/>nem Knoblöch in dem iar do man zalt. M. D. viii.Nach
+          <lb/>sant Bartholomeus tag.:.
+          <lb/>In-fol., car. goth., 144 ff. ch., 3 ff. non ch. (table); init. ornées,
+          <lb/>appartenant à divers alphabets, notamment à un de J. Schott; 38 gra¬
+          <lb/>vures de Wechtelin, dont une est double et dont 27 sont dans Chélido¬
+          <lb/>nius (Knobloch 1506); en plus 7 d’Urs Graf, l’une de ces 7 est celle
+          <lb/>du titre, les 6 autres sont empruntées à la Passion de Graf.
+          <lb/>Au verso du titre, 26 vers allemands, dont les premières lettres
+          <lb/>forment l’anagramme de Ioannes Scotus Argentinensis; au-dessous ISA
+          <lb/>(Joh. Scotus Argentinensis).
+          <lb/>Comme l’exemplaire de la Bibliothèque est introuvable, — il man¬
+          <lb/>quait déjà au temps du numérotage en 1919, — je le cite d’après Schmidt
+          <lb/>VII n° 39, qui l&amp;#x27;a consulté en 1895.
+          <lb/>1348
+          <lb/>LEBUSIUS Emericus. Pseudonyme pour: FISCHART Johann
+          <lb/>LECTURA aurea. Voir: NICOLAUS Panormitanus
+          <lb/>903
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

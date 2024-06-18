@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:30.033652+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2121.tif
+IMAGE WIDTH: 2308
+IMAGE HEIGHT: 3828
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>117
+          <lb/>Vol. II: Asóre) pov 918ov pé p0c. (Feuille de trèfle.)
+          <lb/>Encadrement et marque typographique de W. Köpfel. (HE B Planche
+          <lb/>XVIII, N° 10.)
+          <lb/>Au-dessous: Argentorati, apud Vuolph. Ceph. M. D. XXVI.
+          <lb/>344 ff. ch., initiale à fig. K et initiales d’attente; au verso du dernier
+          <lb/>f. marque typogr. de W. Köpfel. (HEB Planche XIX, NO 13.)
+          <lb/>Vol. II: ToBMépos. (Feuille de lierre.)
+          <lb/>Marque typographique de W. Köpfel avee encadrement. (H a B
+          <lb/>Planche XVIII, N° 10.) Argentorati apud Vuolphium Cepha
+          <lb/>laeum. Anno. M. D. XXVI.
+          <lb/>A la fin: Argentorati apud Vuolphium Cepha- laeum
+          <lb/>excudebantur, 1526.
+          <lb/>Au verso: marque typogr. de W. Köpfel. (HAB Planche XVIII,
+          <lb/>No 8.) 455 ff. ch., initiale à fig. P et initiales d’attente.
+          <lb/>R101.086. Prov.: Bibliothèque Ed. Reuss 1891 avec son ex-libris;
+          <lb/>au recto du f. de garde: «bei Steinkopf in Stuttgart. Jan. 1843.
+          <lb/>fr. 8. Ed. Reuss.»
+          <lb/>Beaulieux p. 46: BU Paris, Réserve 1063; Walter No 771: BM
+          <lb/>Sélestat. GPB: Berlin, Bonn, Gœttingue, Kiel.
+          <lb/>198
+          <lb/>BIBLIA
+          <lb/>Strasbourg, J. Schott, 1535.
+          <lb/>BIBLIA Veteris &amp;amp; Noui Te-stamenti, iuxta uul¬
+          <lb/>gatam aeditionem, ad Hebraicam ueritatem candori pri¬
+          <lb/>stino! restituta.! Cum Capitum singulorum Argu- mentis.
+          <lb/>Vocum item Hebraicarum in- terpretatione. 1535.
+          <lb/>A la fin: Argentorati per Ioannem Schottum, Anno
+          <lb/>Christi, 1535.
+          <lb/>In-80, car, rom., 2 col., 13 ff. non ch., 1008 pages ch., 5 ff. non
+          <lb/>ch.. titre courant, réclames, notes marg., init. ornées, titre encadré: dans
+          <lb/>la bordure de gauche, un querrier avec une bannière, dans celle de droite,
+          <lb/>un hon; au milieu de la bordure inférieure un écuson avec le texte de
+          <lb/>l&amp;#x27;Ecriture Sainte: «Lex per Mosen data est. Gratia &amp;amp; ueri¬
+          <lb/>tas per Iesum Christum.»
+          <lb/>*RI01.Or4. Prov.: L. Rosenthal, Munich, 14/1. 1893; 18 M.
+          <lb/>Notes mss. au commencement et à la fin du livre. Rel. anc.
+          <lb/>Schmidt (II, No 134) n’a pas connu d’exemplaire, il cite Panzer,
+          <lb/>6, 125. Voir en outre Schmidt II, Supplément p. 20. GPB: Berlin,
+          <lb/>Munster.
+          <lb/>199
+          <lb/>BIBLIA
+          <lb/>Strasbourg. W. Köpfel, 1535.
+          <lb/>BIBLIA. Das ist; die gantz Heylige Schrift Deütsch.
+          <lb/>Doctor Martin Luther.
+          <lb/>Register weyset alle Histo- rien vnd fürnembsten
+          <lb/>sprüch, über beyde Alt vnnd Neüw Testament.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

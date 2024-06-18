@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:31.025653+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2149.tif
+IMAGE WIDTH: 2302
+IMAGE HEIGHT: 3828
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>R 101.173. Prov.: Rosenthal, Munich, 15/VII.1885, 6M.
+          <lb/>Oxford, Bibl Bodleiana; GPB: Göttingen UB, Marburg UB.
+          <lb/>Schmidt VIII, N° 25; Jadis Bibl. de Strasbourg, Incun. No 1168,
+          <lb/>BM Strasbourg (572] et Bibl. Bâle.
+          <lb/>231
+          <lb/>BOSSUS Mathaeus, De Passione Jesu Christi Sermo. Voir: MUTius,
+          <lb/>De triumpho Christi. Strasbourg, M. Schürer, 1509.
+          <lb/>BOTERUS Iohannes
+          <lb/>Strasbourg, L. Zetzner, 1596.
+          <lb/>IOANNIS BOTERI. Gründlicher Bericht,! Von! Anord¬
+          <lb/>nung guter Poli- ceyen vnd Regiments: auch Fürsten
+          <lb/>vnd Herren! Stands.! Sampt! Gründlicher Erklärung der
+          <lb/>Ur- sachen, wadurch Stätt, zu Auff- nemmen vnd Hoch¬
+          <lb/>heiten kommen mögen.Gemeinem Vatterland zum
+          <lb/>besten ausz Italianischer in Teutsche Sprach gebracht.
+          <lb/>Marque typographique de Zetzner. (HE B, Planche XLV, No 3.)
+          <lb/>Getruckt zu Straszburg, in verlegung Lazari Zetzners.
+          <lb/>M. D. XCVI. (Verso blanc.)
+          <lb/>In-8°, car. goth., 12 ff. non ch. (Préface de l’imprimeur Zetzner
+          <lb/>. Melchiori Iunio, in Academia Argentinensium Eloquentiae
+          <lb/>Professori”), et Register, — 440 ff. ch.; titre courant, réclames, fol. I.
+          <lb/>bande d’ornement, quelques vignettes; titre rouge et noir.
+          <lb/>R100.845. Prov.: L. Rosenthal, Munich, 20/xII.1897, 10 M.
+          <lb/>Au verso du f. de garde: des vers latins écrits à la main; au-dessous
+          <lb/>de l&amp;#x27;année au f. du titre: Ex libr. Illustrissimi Domini Ioannis
+          <lb/>Bark. Con; ab Herberstein Capitanei Regij Glogoviensis.
+          <lb/>2e ex. R100.844. avec le cachet de la Bibliothèque de l&amp;#x27;Eglise de Schleiz,
+          <lb/>ayant la table à la fin.
+          <lb/>Prov.: Ville de Schleiz, 7/VI. 1876.
+          <lb/>GPB: Berlin SB, Breslau UB, Halle UB, Münster UB.
+          <lb/>232
+          <lb/>145
+          <lb/>BRACELLUS Iacobus
+          <lb/>Haguenau, J. Secer, 1530
+          <lb/>IACOBI BRA CELLI GENVENSIS, HISTO( rici eruditissimi,
+          <lb/>Libri quinque. ITEM IOHANNIS IOVIANI PONTANI, DE BEL
+          <lb/>lo Neapolitano, Libri sex.Vna cum Historiae Encomio
+          <lb/>doctissimo,! Andrea Alciato Authore.
+          <lb/>Haganoae per Iohannem Secerium, Anno M.D.XXX.
+          <lb/>(Verso blanc.)
+          <lb/>R.10
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

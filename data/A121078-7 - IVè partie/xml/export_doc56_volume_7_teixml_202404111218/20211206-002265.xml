@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:08.716292+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002265.tif
+IMAGE WIDTH: 2526
+IMAGE HEIGHT: 3982
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>ISOCRATES : Epistolae aliquot. — Strasbourg, Samuel Emmel
+          <lb/>1568, in-40.
+          <lb/>Graesse III, p. 436.
+          <lb/>2135
+          <lb/>ISOCRATES : Duae gravissimae Orationes. A la suite de:
+          <lb/>DEMOSTHENES, Encomium n° 1500.
+          <lb/>2136
+          <lb/>ISOCRATES. Voir aussi: CICERO : De partitione oratoria
+          <lb/>n° 1380; DEMOSTHENES n° 1500; SIBER, Adam n° 3223;
+          <lb/>SIDEL, Andreas n° 3225. (RITTER, Rép, nos 1250-1251).
+          <lb/>JACOBUS, Gaudensis : Aerarium aureum poetarum. —
+          <lb/>(Strasbourg, Jean Schott 1515), in-fol.
+          <lb/>Schmidt II, n° 34; Catalogue Cohn (Berlin) 1883. 2137
+          <lb/>JACOBUS de Gruytrode : Lavacrum conscientiae. —
+          <lb/>(Strasbourg, Jean Schott 1519), in-8°.
+          <lb/>Schmidt II, n° 45; Ritter, Rép. n° 1344.
+          <lb/>2138
+          <lb/>JACOBUS, Minor : Protevangelion Divi Jacobi minoris.
+          <lb/>Accessit huic Dialogus quidam Christiani cum Judaeo
+          <lb/>de Christo, ex Suidae Philologia. — Strasbourg, Josias
+          <lb/>Rihel 1570, in-80.
+          <lb/>Bibl. S. Guillaume, Strasbourg.
+          <lb/>2139
+          <lb/>JACOBUS de Voragine : Der heiligen leben... — (Strasbourg,
+          <lb/>Jean Grüninger 28:II.1502), in-fol.
+          <lb/>Kristeller 91 : Schmidt I, n° 58 : Einsiedeln; Weller, Rep.
+          <lb/>232. [Le texte est un remaniement par Séb. Brant d’un
+          <lb/>des Heiligenleben parus en Allemagne à la fin du Xve siècle).
+          <lb/>2140
+          <lb/>JACOBUS de Voragine : Legende sanctorum sanctarumque
+          <lb/>compendiose congeste... Est autem hic liber trionymus.
+          <lb/>A plerisque inscribitur Longobardica historia. Aurea
+          <lb/>legenda. Passionale sanctorum. — (Strasbourg, Georges
+          <lb/>Husner) 24. 1.1503, in-4°.
+          <lb/>Ritter: B M Strasbourg, n° 1291; Burg, n° 236a (H. Gran ?). 2141
+          <lb/>263
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

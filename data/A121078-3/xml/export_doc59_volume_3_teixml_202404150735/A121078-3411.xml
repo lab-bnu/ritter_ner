@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:13.562270+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3411.tif
+IMAGE WIDTH: 2412
+IMAGE HEIGHT: 3852
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Ca
+          <lb/>O)A tur licher hunst oer
+          <lb/>Jobannen Rũnigspergers) burtzer begriff. Don natuir¬
+          <lb/>N2 Astrono meisDes veitberumpten (0.
+          <lb/>lichem influf der Gestirn/Planeten/vnd XI. Deycbenze.
+          <lb/>Daz einemieòe dabei suoissen stitoerlid sei / Gi also darna in òer Via
+          <lb/>tur nõtigen ũbungenzubalten bah/Mit einem beigelegten Relenoers onò
+          <lb/>mas dazã dienlid/ nad anzeyg Registers dem halender nacbgseut.
+          <lb/>2
+          <lb/>2
+          <lb/>Mtiltng
+          <lb/>No
+          <lb/>R
+          <lb/>31
+          <lb/>u
+          <lb/>Pi
+          <lb/>2
+          <lb/>5
+          <lb/>3
+          <lb/>5fa
+          <lb/>2
+          <lb/>4A
+          <lb/>mle
+          <lb/>3
+          <lb/>bp
+          <lb/>¶oetructtzũ Straßburg/ Im (O. D. XXIX. iar.
+          <lb/>Q
+          <lb/>(Zu Nr. 1268)
+          <lb/>858
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

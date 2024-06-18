@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:35.947108+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2315.tif
+IMAGE WIDTH: 2312
+IMAGE HEIGHT: 3822
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>311
+          <lb/>mos opusculum. Strasbourg, M. Schürer, 1508, F3a- H4a. (18
+          <lb/>pages). N° 104.
+          <lb/>CELSUS Aurelius Cornelius
+          <lb/>Haguenau, J. Secer, 1528.
+          <lb/>AVRELII CORNELH CELSI, DE RE ! Medica, libri octo
+          <lb/>eruditissimi.Q. Sereni Samonici præcepta Medica,  uer¬
+          <lb/>sibus Hexametris. O. Rhemnij Fannij Palaemonis, de Pon¬
+          <lb/>deribus &amp;amp; Mensuris, liber rarus &amp;amp; utilissimus.
+          <lb/>Ad lectorem. Hos libros D. Ioan. Caesarius.. castigavit.
+          <lb/>Adiecto perdocto Com mentario. (11 lignes.)
+          <lb/>Haganoe per loan. Sec.Anno M. D. XXVIII. (Verso
+          <lb/>blanc.)
+          <lb/>A la fin: Haganoe, per Iohannem Secerium.Anno.
+          <lb/>M. D. XXVIII.! Mense Martio.
+          <lb/>In-80, car. ital., 288 ff. ch. — 15 ff. non ch. (Index) pour Celsus;
+          <lb/>29 ff. ch. pour Serenus et Palaemon — 2 ff. Index et 1 f. blane avec
+          <lb/>la marque typographique de Secer au recto, (HEB, Planche LXXI,
+          <lb/>n° 9; Silvestre, No 567.) Titre courant, réclames, notes marginales, belles
+          <lb/>initiales ornées M, V.
+          <lb/>fol. 2a: Ludovico Comiti, ex praeclara... à Stoelberg,
+          <lb/>et Vuernigerodae familia, Domino suo...Ioannes Caesa¬
+          <lb/>rius... — Coloniae, pridie Calendas Aprilis.Anno...
+          <lb/>Millesimo, quingente simo, uigesimo septimo. (Dédicace
+          <lb/>de 7 ff.)
+          <lb/>R 101644. Prov. : Bibliothèque du Prof. F. A. Menke, Brême,
+          <lb/>1873. Rel. anc.
+          <lb/>GPB: BN Berlin, B U Breslau, Bonn, Gœttingue, Greifswald,
+          <lb/>Kiel, Kœnigsberg.
+          <lb/>474
+          <lb/>CELSUS Aurelius Cornelius, Sententiae elegantissimae. Voir:
+          <lb/>RIFF, Medicinae Theoricae... Enchiridion. Strasbourg, Georg
+          <lb/>Messerschmidt, 1542.
+          <lb/>CELTES Conradus, Urbis Norinbergae descriptio. Voir: IRENICUS
+          <lb/>Franciscus, Germaniae Exegeseos Volumina Duodecim,
+          <lb/>1518.
+          <lb/>CELTES Conradus, Epitome in rhetoricam Ciceronis. Voir: Bu¬
+          <lb/>COLDIANUS, De Inventione oratoria. Strasbourg, J. Albrecht, 1534.
+          <lb/>No 324.
+          <lb/>CHARTILUDIUM logicae. Voir: MURNER Thomas.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

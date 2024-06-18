@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:14.229282+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3434.tif
+IMAGE WIDTH: 2426
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>876
+          <lb/>Freys Nr. 122. Oxford, Bibl. Bodleiana.
+          <lb/>Bibliographie Karlstadt siche: Schottenloher I Nr. 9616-9649.
+          <lb/>1303
+          <lb/>KARLSTADT. Siehe auch: THEOLOGIA Teutsch. 1519.
+          <lb/>KARSTHANS
+          <lb/>an
+          <lb/>&amp;amp; LPersonen so vnoer inen selbe
+          <lb/>PMain gesprech vnoreo Multen (
+          <lb/>Mercurius
+          <lb/>Mournat
+          <lb/>Gmbees Rarstbans
+          <lb/>[Strassburg, R. Beckl um 1520
+          <lb/>1
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

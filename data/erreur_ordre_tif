@@ -1,0 +1,31 @@
+Liste des erreurs dans l'ordre des tif etc; 
+
+Vol1: 
+page, numéro_scan
+127,160
+128,158
+129,159
+130,157
+
+Vol3:
+page, numéro_scan
+699, 3255
+699, 3257
+700, 3256
+700, 3258
+
+Vol4:
+Pages manquantes
+page, numéro_scan
+933, - (entre 8048 et 8049)
+934, -
+
+Pages à l'envers
+page, numéro_scan 
+954, 8068
+999, 8113
+1014, 8128
+1029, 8143
+1040, 8154
+1193, 8307
+1206, 8320

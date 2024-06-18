@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:30.065506+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2123.tif
+IMAGE WIDTH: 2310
+IMAGE HEIGHT: 3826
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Au verso du titre: Vorred. (Préface de 3 pages.)
+          <lb/>CXXIV ff. ch.
+          <lb/>4e partie: Apocrypha. Das seind die bücher: die bey
+          <lb/>den Alten vnder die Biblische geschrifft nit gezellet seind,
+          <lb/>Auch bev den Hebreern nit gefunden.
+          <lb/>Suivent les noms des livres au nombre de neuf. Au-dessous marque
+          <lb/>typographique de W. Köpfel. (He B Planche XVIII, NO 9; Silvestre,
+          <lb/>N° 1018).
+          <lb/>Au verso: Gnad vnnd Frid. dem Christenlichen Leser.
+          <lb/>(Préface.)
+          <lb/>CVII fr. ch. — 1 f. blanc.
+          <lb/>5e partie: Volget Das Neüw Testa ment.
+          <lb/>Straszburg bey Wolff Köphl.Truckt. im jar nach
+          <lb/>Christi geburt. M. D. XXXV. (Verso blanc.) OLI ff. ch.
+          <lb/>Encadrement du titre comme dans la concordance de L. Brunner,
+          <lb/>imprimé ches Köpfel en 1530.
+          <lb/>Fol. 2a: Vorred. (4 pages.)
+          <lb/>R 10.269. Prov.: Don de la ville de Trêves en 1871. Plusieurs
+          <lb/>ff. endommagés.
+          <lb/>Annotations mss. Au haut du titre: Collegii Treviris.
+          <lb/>Au recto du f. de garde:
+          <lb/>«Wendel leuikemer (2) bin ich genant
+          <lb/>dis buch gehoert in seyne handt
+          <lb/>Alle die Jn kennen
+          <lb/>sullen Ihnen mit diesem namen nennen.» (Rel. anc.)
+          <lb/>GPB: Berlin.
+          <lb/>200
+          <lb/>BIBLIA AUREA. Voir: RAMPIGOLLIS Antonius de.
+          <lb/>BIDPAI. VOiT: BUCH DER WEISHEIT.
+          <lb/>BIECHLIN, ein hüpsch Biechlin das durch die natürlichen mei¬
+          <lb/>ster Aristotelem... Voir: PROBLEMATA ARISTOTELIS.
+          <lb/>Strasbourg, M. Hupfuff, 1515.
+          <lb/>BIEL Gabriel
+          <lb/>Haguenau, H. Gran, 1510.
+          <lb/>Sermones domi- nicales Gabrielisbiel Spirensis
+          <lb/>Hyemales Estiuales De Tempore. Dominice singule
+          <lb/>habent duos sermones! Sermones medicinales contra pes¬
+          <lb/>tem epidi- mie. Folio. Cx liiij, &amp;amp; sequentibus.
+          <lb/>Questio Vtrum regnante morbo epidimie: lice at:
+          <lb/>prosit; &amp;amp; expediat suspectas loca et personas fugiendo
+          <lb/>vel repellendo declinare. Folio cl. Tractatulum Defensorium
+          <lb/>obedientie apostolice! intitulatus. Folio Cliij. (Verso blanc.)
+          <lb/>A la fin: Sermones de Tempore et de Sa netis Spectabilis
+          <lb/>119
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

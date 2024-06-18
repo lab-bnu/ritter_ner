@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:53.478080+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078364.tif
+IMAGE WIDTH: 2340
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1250
+          <lb/>lis, veluti supplementum quoddam antiquitatis obso! letae,
+          <lb/>Pars Secunda moderniorum lustrationum Viginti tabu
+          <lb/>suo loco quae vel obstrusa, vel erronea videban- tur
+          <lb/>resolutissime pandit... (3 lignes.)
+          <lb/>tes, &amp;amp; aequora, silvas,! Ac hominum mores hic Ptolemaeus
+          <lb/>Brevis continentia libri.Oppida, regna, lacus, mon¬
+          <lb/>habet.Cum gratia &amp;amp; privilegio Imperiali per 4 annos.
+          <lb/>Au verso du dernier f. de la table: ANNO CHRISTI OPT. MAX.
+          <lb/>M. D. XIII. MARCII XII. Pressus hic Ptolemaeus Argentinae
+          <lb/>vigilantissima casti- gatione, industriaque Joannis Schotti
+          <lb/>ur- bis indigene.
+          <lb/>Grand in-fol., car, rom. et grecs, Ière Partie 60 ff. ch. à 2 col.,
+          <lb/>14 non ch. à 3 col. (table), 27 cartes de Ptolemée (de 5-60), sur feuille
+          <lb/>entière, sauf la dernière, l&amp;#x27;ile de Taprobane, qui n’occupe qu’une demie
+          <lb/>feuille; init. d’attente, notes marg.
+          <lb/>Suit: In Claudii Ptolemaei Supplementum modernior
+          <lb/>lustratio terrae marisque singula positionibus certissimis
+          <lb/>re- gulatius tradens ad seculi nostri! peragrationes, Pars
+          <lb/>Secunda. (Suivent 35 lignes de table des matières et des cartes.)
+          <lb/>20 cartes modernes dont 19 sur feuille entière et une, La Lorraine,
+          <lb/>sur demi-feuille. Cette dernière est la plus ancienne qu’on possède de la
+          <lb/>Lorraine. Elle est ornée au bord de 19 écussons : celai du duché de
+          <lb/>Lorraine, du Westrich et des 17 principales villes de Lorraine. Elle est
+          <lb/>imprimée en noir, rouge et vert; un des premiers essais d’impr. en cou¬
+          <lb/>leur. En bas de cette dernière feuille: Secundäe partis Ptolemaei
+          <lb/>finis: opera Joannis Schotti Argentinen. ANNO CHRISTI
+          <lb/>OPT. MAX. 1513.
+          <lb/>En dernier lieu, 14 ff. non ch. à 2 col.: LOCORVM ADMIRABI¬
+          <lb/>LIVM MVNDI DESCRIPTIO.
+          <lb/>Au verso du titre: Joannes Franciscus Pieus Mirandulae
+          <lb/>... Jacobo Oessler... S. D. — Noui quarto Calendas Septemb.
+          <lb/>Anno... M. D. VIII.
+          <lb/>Fol. 2a non ch.: ... Cesari Maximiliano Jacobus Oessler
+          <lb/>&amp;amp; Georgius Uebelin... Datum Argentinae sub Annum Do¬
+          <lb/>mini M. D. XIII. Marcii. XV.
+          <lb/>Une des plus belles éditions de Schott, soignée par les jurisconsultes
+          <lb/>Strasbourgeois Jacques Oessler et Georges Ubelin; elle avait été préparée
+          <lb/>par Martin W’aldseemuller et Jean Ringmann, sous la direction du
+          <lb/>chanoine de St. Dié, Gautier Lud. Waldseemuller avait dressé les cartes
+          <lb/>modernes et rédigé des explications, Ringmann avait révisé la traduction
+          <lb/>R2. Prov.: Riegel, Fribourg/Br. 25/1 1881; 145 M. Rel. anc.
+          <lb/>BN Paris 3 ex.: G. 1, 42 et 415; D’Avezac 144, Brunet
+          <lb/>IV2 955; Proctor II Sectio I n° 10271: Londres, British Museum
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

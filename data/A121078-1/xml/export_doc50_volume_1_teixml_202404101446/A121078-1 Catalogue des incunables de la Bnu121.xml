@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:38.583310+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu121.tif
+IMAGE WIDTH: 2414
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>SERMONES exquisiti super epistolis per anni circulum. Stras¬
+          <lb/>bourg, J. Grüninger, 31 mars 1489, in-fol.
+          <lb/>Copinger III 5402, Proctor 453, Schmidt I, 9, Voulliéme:
+          <lb/>Berlin 2278.
+          <lb/>K 3292. Prov.; Bibl. Heitz, Strasbourg. Notes mss.
+          <lb/>2e ex. K 2811, 2. Prov.: B N Munich 22/1. 1880. A la suite
+          <lb/>de Paratus, Sermones, Strasbourg, s. d., K 2811, 1.
+          <lb/>433
+          <lb/>SERMONES thesauri novi de sanctis. Voir: Paludanus
+          <lb/>Petrus.
+          <lb/>SERMONES tres de passione Christi. Strasbourg, (Martin
+          <lb/>Flach), 18 oct. 1490, in-4°.
+          <lb/>Hain 1139, Copinger III 5777, Madsen 3699, Proctor 686, Voul¬
+          <lb/>liéme: Berlin 2439, 5.
+          <lb/>K 3293. Prov.; B N Munich, 22/1. 1880, 1 M. 80. Note mss.
+          <lb/>au-dessous du titre: «Carmeli Arenspergani». Rel. anc. 434
+          <lb/>SERMONES tres de passione Christi. Strasbourg, (impr. du
+          <lb/>Jordanus (— G. Husner)), 11 février 1496, in-4°.
+          <lb/>Copinger III, 5758, Proctor 641, Voulliéme: Berlin 2460.
+          <lb/>K 3294. Prov.; B N Munich, 14/XIl. 1876, 1 M. 50. Note mss.
+          <lb/>au-dessous du titre: »Monasterij Scheyen. Guillielmi Testoris
+          <lb/>de Aquisgrava» (?) Rel. anc.
+          <lb/>435
+          <lb/>SIBYLLA BARTHOLOMAEUS : Speculum peregrinarum quaes¬
+          <lb/>tionum. Strasbourg, J. Grüninger, 19 août 1499, in-4°.
+          <lb/>G W 3460, Hain 14720, Madsen 566, Pellechet: Colmar 1198,
+          <lb/>Proctor 490, Voulliéme: Berlin 2307.
+          <lb/>Schramm, Bücherschmuck XX, grav. N° 569.
+          <lb/>K 3320. Prov.: Baer 8 Co., Francfort s. M. (provenant des
+          <lb/>doubles de la Bibl. de Darmstadt), 22/XI. 1878. Au-dessus du
+          <lb/>titre: «Conventus Wimpinensis Ordinis Fratrum Praedicato¬
+          <lb/>rum». Endommagé. Rel. anc.
+          <lb/>436
+          <lb/>SILVATICUS Mathaeus; Pandectae medicinae. (Strasbourg,
+          <lb/>impr. R. (— Ad. Rusch), vers 1475), in-fol.
+          <lb/>Hain 15192, Proctor 251, Voulliéme: Berlin 2128.
+          <lb/>K 3440. Prov.: Don de la Bibl. Univ. de Goettingue, 1871.
+          <lb/>Manquent 2 ff. Rel. anc.
+          <lb/>437
+          <lb/>SINTHIS. Voir: Synthen.
+          <lb/>91
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

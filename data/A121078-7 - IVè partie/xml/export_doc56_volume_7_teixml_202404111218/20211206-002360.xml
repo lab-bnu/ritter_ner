@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:10.997573+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002360.tif
+IMAGE WIDTH: 2506
+IMAGE HEIGHT: 3956
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>MELANCHTHON, Phil. (Th. Müntzer) : Die Histori Thome
+          <lb/>Muntzers, des anfengers der Döringischen uffrur...
+          <lb/>Ermanung des... Herrn Philippsen Landtgraue zu
+          <lb/>Hessen &amp;amp;c... — Haguenau, Jean Secer (vers 1525),
+          <lb/>in-4°.
+          <lb/>Kuczyński, n° 1966; Burg, n° 294; Walter, n° 1907. 2650
+          <lb/>MELANCHTHON, Phil. (Opuscula) : Elegantissima quaedam
+          <lb/>opuscula Philippo Melanchtone edita. Sermo habitus
+          <lb/>apud Iuventutem Academiae Wittemberg, de corrigendis
+          <lb/>Adulescentiae studiis. Luciani Samosatensis Sophistae
+          <lb/>in Calumniam oratio, latine reddita. De nota Pythagorica,
+          <lb/>qua hospitem Hirundinem recipi nolebant. Ex Plutarcho
+          <lb/>Chaeronensi. — (Haguenau, Th. Anshelm, janvier 1519),
+          <lb/>in-80.
+          <lb/>Burg, n° 277. [Ritter, Rép. n° 1505).
+          <lb/>2651
+          <lb/>MELANCHTHON, Phil. (Orationes) : Orationes aliquot lectu
+          <lb/>dignissima... — Haguenau 1553, in-8°.
+          <lb/>BN Paris : Rés. X. 2474. (Ritter, Rép. n° 1534 : Haguenau,
+          <lb/>V. Kobian, septembre 1533].
+          <lb/>2652
+          <lb/>MELANCHTHON, Phil. (Philosophia) : Philosophiae moralis
+          <lb/>epitome... Nunquam antea excusa. (Marque typ. de
+          <lb/>Crato Mylius). — Argentorati, apud Cratonem Mylium,
+          <lb/>mense martio M.D.XXXVIII (1538), in-8°.
+          <lb/>Bibl. S. Guillaume, Strasbourg; Walter, n° 1859.
+          <lb/>2653
+          <lb/>MELANCHTHON (Philosophia) : Philosophiae moralis epitomes
+          <lb/>libri duo emendati et aucti... — Strasbourg, Crato Mylius,
+          <lb/>février 1541, in-80.
+          <lb/>Walter, n° 1862. (Ritter, Rép, n° 1541/6, éd. Crato Mylius,
+          <lb/>septembre 1544 et mars 1546; puis Paul Messerschmidt 1559
+          <lb/>(Rép, no 1549) et Blaise Fabricius 1561 (Rép, n° 1551)). 2654
+          <lb/>MELANCHTHON, Phil. (Proverbia Salom.) : Paroimiai, sive
+          <lb/>358
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

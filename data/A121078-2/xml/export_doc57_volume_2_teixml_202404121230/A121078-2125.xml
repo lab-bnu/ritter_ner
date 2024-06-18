@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:30.111391+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2125.tif
+IMAGE WIDTH: 2308
+IMAGE HEIGHT: 3828
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>121
+          <lb/>In-4°, car. goth., 2 col., 55 ff. non ch., sign. A-G, titre courant,
+          <lb/>initiales ornées P, I; titre encadré. (H ct B Planche LXIV, No 2.)
+          <lb/>R101.336. Prov.: Trübner, Strasbourg, 9/XI. 1883; 2 M. 50.
+          <lb/>GPB: Berlin, Breslau.
+          <lb/>202
+          <lb/>BIEL Gabriel
+          <lb/>Haguenau, H. Gran, 1515.
+          <lb/>Sermones dominicales de Tempore tam hye- males
+          <lb/>quam estiuales:Gabrielis Biel Spirensis. Dominice sin¬
+          <lb/>gule habent duos sermones. Sermones medicinales contra
+          <lb/>pestem epidemie Folio. CXLiiij et sequentibus.
+          <lb/>Questio: Vtrum regnante morboepidemie: liceat:
+          <lb/>prosit: &amp;amp; expediat suspe- ctas personas &amp;amp; loca fugiendo
+          <lb/>vel repel lendo declarare. Folio CL.
+          <lb/>Tractatulus Defensorium obedi! entie apostolice intitu¬
+          <lb/>latus. Folio cliij. (Verso blanc.)
+          <lb/>Fol. CLXVI: Impensis circumspecti viri Joannis Rynman
+          <lb/>de Oringau archibibliopo- le: In officina industrij Henrici
+          <lb/>Gran, in imperiali oppido Hagenaw ciuis Anno virginei
+          <lb/>partus. M. D. XV. vij kalendas Martij... (Verso blanc.)
+          <lb/>In-4°, car. goth., 2 col., 10 ft. non ch., CLXVI ff. ch., titre cou¬
+          <lb/>rant, initiale ornée E, le reste initiales gothiques; titre rouge et noir,
+          <lb/>encadrement avec monogramme de H. Gran dans la bordure inférieure.
+          <lb/>(HAB Planche LXIV, No 2.)
+          <lb/>Avec un nouveau titre après les Sermones dominicales: Sermones
+          <lb/>Gabri-elis Biel Spiren sis de festiui tatibus chri- sti.
+          <lb/>In-40, car. goth., fol. CLXVIII à fol. CCXCIII avec le même
+          <lb/>encadrement qu’au titre principal, excepté que les 2 pièces qui composent
+          <lb/>la bordure latérale de gauche sont dans l&amp;#x27;ordre inverse.
+          <lb/>3e titre: Sermones Gabrielis Biel Spirensis de festiui¬
+          <lb/>tatibus glo riose virgi- nis Ma- rie.
+          <lb/>In-40, car. goth., de fol. CCXCV à fol. CCCCXLVII, avec le même
+          <lb/>encadrement qu’au titre précédent.
+          <lb/>Le tout se compose donc de 447 ff. ch. et se termine par un nouvel
+          <lb/>explicit : Sermones de Tempore et de Sanctis... Im¬
+          <lb/>pensis circumspecti viri Joannis Ryn-man de Oringaw
+          <lb/>archibibliopole; in officina industrij! Henrici Gran: in op¬
+          <lb/>pido imperiali Hagenaw ciuis. Anno virginei partus:
+          <lb/>M. d. XV.mpressi: die viij. Junij. fini-unt feliciter.
+          <lb/>R101.337. Prov.: Don de Fidelis Butsch fils, antiquaire à Augs¬
+          <lb/>bourg en 1871. Au haut du titre: «Monasterij Ranshouen». (Rel.
+          <lb/>anc.)
+          <lb/>BN Paris, Rés. D. 6552; Proctor II Sectio I. No 11.667: Lon¬
+          <lb/>dres, British Museum. GPB: Berlin, Breslau.
+          <lb/>203
+          <lb/>BIEL Gabriel
+          <lb/>Haguenau, H. Gran, 1519.
+          <lb/>Sermones dominica les de tempore tam hyemales
+          <lb/>quam esti uales diuini verbi eximij concionatoris Gabri¬
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

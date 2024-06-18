@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:11.213914+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002374.tif
+IMAGE WIDTH: 2512
+IMAGE HEIGHT: 3960
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>MORGENSTERN, Gregorius : Sermones contra omnez (sic)
+          <lb/>mundi perversuz (sic) statum... —
+          <lb/>(Guillaume Schaffner 15 mars 1508), in-4°.
+          <lb/>(Strasbourg)
+          <lb/>(Une édition de Schaffner 1513 voir Ritter, Rép, n° 1593).
+          <lb/>2725
+          <lb/>MORGENSTERN, Gregorius : Sermones contra omnez mundi
+          <lb/>perversuz statum... Ex secunda recognitione. — (Stras-
+          <lb/>bourg, Guillaume Schaffner (31.VIII ] 1515), in-4°.
+          <lb/>Kuczynski, n° 1997; Schmidt IV, p. 11, n° 6; Walter, n° 1899 :
+          <lb/>B M Sélestat.
+          <lb/>2726
+          <lb/>MORSHEIM, Johannes von : New Kriegsrüstung. Frau
+          <lb/>Untrew. — Strasbourg, Jacques Cammerlander 1534,
+          <lb/>in-40.
+          <lb/>Graesse IV, p. 612. (Puis en 1539 chez Cammerlander, Aulica
+          <lb/>vita. Hofleben. Ritter, Rép. n° 1595].
+          <lb/>2727
+          <lb/>MOSNAUER, Wolfgang. Voir: ARISTOTELES, n° 844.
+          <lb/>MOTH, Johannes. Quaestiones de Ecclesia catholica. Cum
+          <lb/>Responsionibus orthodoxorum Patrum. Publicae dispu¬
+          <lb/>tationis causa, in Academia Argentoratensi propositae,
+          <lb/>à Johanne Pappo. Respondebit de hisce... XI. &amp;amp; XII.
+          <lb/>Septembris Iohannes Moth Flensburgensis. — Argento¬
+          <lb/>rati, Excudebat Antonius Bertramus. Academiae
+          <lb/>Typographus M.DC. (1600), in-4°.
+          <lb/>Bibl. S. Guillaume, Strasbourg.
+          <lb/>2727a
+          <lb/>MOVENTINUS, Constantin Eubulus. Voir: EUBULUS Moven¬
+          <lb/>tinus Const.
+          <lb/>MUEG, Sebastian : (W)Ir. Sebastian Mug der Elter, der
+          <lb/>Meister, und der Rath zu Straszburg... Nachdem... die
+          <lb/>gesetzte Valuation ist publicirt und angeschlagen... Und
+          <lb/>wir aber befinden, das under dem gemeinen Mann, so
+          <lb/>wol in ablosungen, Pensionen, und Zinsen, als auch den
+          <lb/>372
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

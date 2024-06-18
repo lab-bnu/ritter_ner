@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:06.622194+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie101.tif
+IMAGE WIDTH: 2490
+IMAGE HEIGHT: 3932
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>TROJA (Zerstörung). Voir : COLUMNA, Aegidius, de nos 189/190.
+          <lb/>TUCHER, H. : Reise zum heiligen Grabe — (Strasbourg,
+          <lb/>Henri Knoblochtzerl 1484, in-fol.
+          <lb/>Schorbach-Spirgatis n° 31; Voulliéme : Berlin 2215. 653
+          <lb/>TUESCH. Hans Erhart : Die burgundische Historie. —
+          <lb/>Strasbourg, (Henri Knoblochtzer) 1477, in-4°.
+          <lb/>Schorbach-Spirgatis n° 3 : « Es gab noch eine zweite Ausgabe
+          <lb/>typis Reyserianis in-4°, gleichfalls mit der Datierung
+          <lb/>Strassburg 1477. Das Schlettsladter Exemplar ist unauffind¬
+          <lb/>bar. »
+          <lb/>654
+          <lb/>TUNDALUS : Disz büchlin saget von einer verzuckten selen
+          <lb/>eines Ritters genant Tundalus. — Strasbourg, Barth.
+          <lb/>Kistler s. d., in-40.
+          <lb/>Copinger III, 5838, Pellechet : Colmar 1262.
+          <lb/>655
+          <lb/>TUNDALUS (Idem). — (Strasbourg, Mathias Hupfuff) 1500,
+          <lb/>in-40.
+          <lb/>Voulliéme: Berlin 2542.
+          <lb/>656
+          <lb/>TURRECREMATA, Johannes de : Quodlibeta. — Strasbourg
+          <lb/>1490, in-fol.
+          <lb/>Hain 15733.
+          <lb/>657
+          <lb/>TURZO, Stanislaus de. Voir: BREVIARIUM Olomucense, n° 154.
+          <lb/>UEBERTRAG. Der Ubertrag und Vereinung Herzog Albrechten
+          <lb/>gegen die Kaiserliche Majestät. — (Strasbourg,
+          <lb/>Jean Grüninger s. d.), in-4°.
+          <lb/>Voulliéme : Berlin 2327.
+          <lb/>658
+          <lb/>ULMER, Ulricus : Fraternitas cleri. — (Strasbourg, Jacques
+          <lb/>Eber s. d.), in-fol.
+          <lb/>Hain 16084; Copinger III, p. 281; Madsen 4048; Proctor 511;
+          <lb/>Voulliéme : Berlin 2337.
+          <lb/>659
+          <lb/>90
+          <lb/>Matlon
+          <lb/>Shasbourg
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

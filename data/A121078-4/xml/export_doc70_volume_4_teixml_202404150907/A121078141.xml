@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:46.616197+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078141.tif
+IMAGE WIDTH: 2310
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>MIRANDULA Octavianus
+          <lb/>Strasbourg, W. Rihel 1538
+          <lb/>ILLVSTRI-(VM POETARVM Flores per OCTAVIANVM MI¬
+          <lb/>RANDVLAM collecti, &amp;amp; à studioso quodam in Locos
+          <lb/>communes nuper dige-sti, ac castigati. Cum Indice locu¬
+          <lb/>pletissimo.
+          <lb/>PHILIPPI BEROALDI] de hisce Floribus iudicium. Sunt
+          <lb/>haec ex sylva poetarum scitissime decerpta... (6 lignes.)
+          <lb/>Cum gratia &amp;amp; privilegio Imperiali. (Verso blanc.)
+          <lb/>A la fin: ARGENTORATI EX AEDIBVSWendelini Rihelii,
+          <lb/>Anno Domini 1538. quarto Kalendas Septembris.
+          <lb/>Au verso, marque typ. de W. Rihel. (HeB Planche XXIX n° 1.)
+          <lb/>Au-dessous, la devise: Quod manibus cubitum teneo, quod frœnáque dura,
+          <lb/>Nil ultra lucitum, sed volo adesse modum.
+          <lb/>In-8°, car. ital., 8 ff. non ch., dont le dernier blanc, 344 fr. ch.,
+          <lb/>titre courant, réclames, init. ornées M. D, A.
+          <lb/>Fol. 2a non ch. : D. Iacobi Antoniï Bal! bi Placentini Epigramma.
+          <lb/>(10 dist.); au verso: Philippus Beroal! dus Lectori...
+          <lb/>Fol. 3b non ch.:... D. Octaviano Arcimboldo proton. aposto¬
+          <lb/>lico, Octavianus Mirandula! canonicus regularis Latera! nensis. (2 pp.)
+          <lb/>R101.895. Prov.: Brockhaus, Leipaig 27/I1 1875, 1M 50.
+          <lb/>BN Paris, Yc. 7554.
+          <lb/>1577
+          <lb/>MIRANDULA Octavianus
+          <lb/>Strasbourg, W. Rihel 1544
+          <lb/>ILLVSTRI VM POETARVM FLO] res per OCTAVIANVM MI¬
+          <lb/>RANDV-LAM collecti, &amp;amp; a studioso quo- dam in Locos com¬
+          <lb/>munes digesti, locupletati, ac summa diligentia casti¬
+          <lb/>gati. Cum Indice. DE POETICA VIRTVTE, ET studio hu¬
+          <lb/>manitatis impellente ad bonum. Antonio Mancinello
+          <lb/>Authore. Cum gratia &amp;amp; privilegio imperiali. Argento¬
+          <lb/>rati in Aedibus Wendelini Rihe- lii. Anno M. D. XLIIII.
+          <lb/>A la fin: ARGENTORATI EX AEDIBVS! Wendelini Rihelii.
+          <lb/>AnnoDomini 1544.! 8. Idus Iulii.
+          <lb/>Au verso, marque typ. de Wend. Rihel. (HŒB Planche XXIX
+          <lb/>n° 4; Silvestre n° 742.)
+          <lb/>In-80, car. ital., 8 ff. non ch., 400 ff. ch., titre courant, réclames,
+          <lb/>init. ornées. Au verso du titre : Philippi Beroaldi de hisce floribus iu¬
+          <lb/>dicium. (6 lignes.)
+          <lb/>Fol. 2a: D. Iacobi Antonii Bal- bi Placentini epigramma. (10 dist.)
+          <lb/>Au verso: Philippus Beroal dus Lectori...
+          <lb/>Fol. 3b non ch.: ... Octaviano Arcimboldo... Octavianus Miran¬
+          <lb/>dula... (2 pp.)
+          <lb/>1027
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

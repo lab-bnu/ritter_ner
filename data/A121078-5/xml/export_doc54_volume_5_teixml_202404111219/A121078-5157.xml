@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:54.783006+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5157.tif
+IMAGE WIDTH: 2342
+IMAGE HEIGHT: 3856
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1465
+          <lb/>TONSTALLUS Cuthbertus Strasbourg, G. Messerschmidt, 1543
+          <lb/>De arte Supputan di, Libri QuatuorCutheberti Tons¬
+          <lb/>talli,hactenus in Germania nus- quam ita impressi.
+          <lb/>Ioan. Sturmius. Arithmeticam Cuthebertus Tonstallus
+          <lb/>prae caeteris dilucide &amp;amp; pure tradidit: atque! ita tradidit,
+          <lb/>ut ars ipsa dum hic author extat, con- tenta scriptore,
+          <lb/>doctorem non maximopere aliquem!! requirat. Non ego, posse
+          <lb/>ex alijs quoque disci: sed hic docet erudite, perspicue latine,
+          <lb/>id quod non fa ciunt coeteri : nec abest longe à perfectione,
+          <lb/>qui eius! praecepta intelligit.
+          <lb/>A la fin : Argentorati, ex Offi. ! Knobloch, per Georg.
+          <lb/>Machoerop. (Verso blanc.)
+          <lb/>A la fin : Argentorati, Ex OfficinaKnoblochiana, per
+          <lb/>Ge-orgium Machaero-poeum, Mense Februario Anno,
+          <lb/>M. .D XLIII. (Grande feuille de lierre.)
+          <lb/>In-8°, car. ital., préface et appendice en car. rom., 12 ff. non ch., 453 pp.,
+          <lb/>titre courant, réclames, init. J, A, M, P, Q.
+          <lb/>fol. A 2a : Cuthber-!! tus Tonstallus!! Thomae Moro!! S. P. D...
+          <lb/>fol. B 2a: Cutheber-! ti Tonstalli!! In Librum de!! arte Supputandi ])
+          <lb/>Praefatio.
+          <lb/>R. 101.105. Prov. : Rosenthal, Munich, 17/XII, 1883; 12M.
+          <lb/>A la fin annotations mss. Ritter, Catal. BM Strasbourg, No 2101.
+          <lb/>2333
+          <lb/>TORRENTINUS Hermannus
+          <lb/>Strasbourg, J. Prüss, 1505
+          <lb/>Elucidarius carminum et hystoriarum Vel vocabularius
+          <lb/>poeticus continens fabulas: hystorias! prouincias : vrbes:
+          <lb/>insulas : fluuios : &amp;amp; montes illustres.
+          <lb/>Item vocabula &amp;amp; interpretationes graecorum &amp;amp; haebrai¬
+          <lb/>corum : vna cum vocabulis communibus Saracenorum :
+          <lb/>latinum translatis : &amp;amp; alijs in fine adiunctis.
+          <lb/>A la fin : Anno salutis millesimo quingentesimo quinto.
+          <lb/>Impressit Johan nes prusz : Ciuis Argentinus. In edibus
+          <lb/>zum Thiergarten. (Verso blanc.)
+          <lb/>In-4°, car. goth., 2 col., 60 ff. non ch., sign. A-L, titre courant, init.
+          <lb/>ornée A.
+          <lb/>Au verso du titre : préface de Torrentinus, frère de la vie commune,
+          <lb/>professeur de rhétorique à Groningue, mort vers 1520.
+          <lb/>R. 101.614. Prov. : Butsch fils (Catal. 136, N° 104), Augsbourg, 3/VII,
+          <lb/>1879; 12 M.
+          <lb/>Schmidt, III, N° 52: Ritter, Catal. BM Strasbourg, No 2102 et Grand
+          <lb/>Séminaire, Strasbourg, Inc. C20.
+          <lb/>2334
+          <lb/>TORRENTINUS Hermannus
+          <lb/>Haguenau, H. Gran, 1507
+          <lb/>Elucidarius carminum et histo!! riarum Vel Vocabularius
+          <lb/>poeticus continens fa! bulas : historias: prouincias : vrbes:
+          <lb/>insulas : fluuios et montes illustres.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

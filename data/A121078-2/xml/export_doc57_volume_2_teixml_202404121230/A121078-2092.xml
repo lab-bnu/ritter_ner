@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:28.902840+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2092.tif
+IMAGE WIDTH: 2328
+IMAGE HEIGHT: 3830
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>88
+          <lb/>BARBAROSSA. Voir: ADELPHUS Johannes.
+          <lb/>BARBARUS Franciscus
+          <lb/>Haguenau, V. Kobian 1536.
+          <lb/>Eyn gût bûch von der Ehe was die Ehe sei, was sie
+          <lb/>gûts mit sich bringe, Wie eyn weib geschickt sein soll,
+          <lb/>die eyner zû der Ehe nehmen will, wie alt, wasz sie dem
+          <lb/>Mann! zubringen solle, Vom kosten und ge- breng der
+          <lb/>hochzeit, Von dreien Tu genden des weibs, Von der kley¬
+          <lb/>dung vnd schmück des weibsWie mann Kinder ziehen
+          <lb/>solle. weiland zu Latin gemacht durch den! Wolgelerten
+          <lb/>Franciscum Barbarum, Rahthern zu Venedig, Nun aber
+          <lb/>verdeutsch durch! Erasmum! Alberum. (Feuille de treffle.)
+          <lb/>Zûm Leser. (14 vers allemands.)
+          <lb/>M. D.XXXVI.
+          <lb/>A la fin: Getruckt zû Hagnaw, Durch! Valentinum Ko¬
+          <lb/>bian. (Verso blanc.)
+          <lb/>In-4°, car. goth., 32 ff. non ch., sign. A-H, réclames.
+          <lb/>Au verso du titre: Dem Edlen vnnd Ernuesten Herma
+          <lb/>Riedesel von Eysenbach, meinemlieben Junckern... —
+          <lb/>Datum viij Laurentij.Anno Domini M.D.xxxiiij.
+          <lb/>Erasmus Alberus, pastor! zû Sprendenlingen in den! drei
+          <lb/>Eych.
+          <lb/>R 102.009. Prov.: Baer &amp;amp; Co., (Vente Karajan, N0 71) Francfort
+          <lb/>s. M., 2. VI. 1875; 6M.50.
+          <lb/>A l’intérieur de la couverture, exlibris, au-dessous: Ex biblio¬
+          <lb/>theca Theodori Karajan.
+          <lb/>GPB: Berlin, Göttingen.
+          <lb/>151
+          <lb/>BARLANDUS Hub., Epistola ad Medicinae apud Louanienses
+          <lb/>studiosam juventutem. Voir: MANARDUS Jo., Medicinales
+          <lb/>epistolae. Strasbourg, J. Schott, 1529.
+          <lb/>BARLETIUS Marinus
+          <lb/>Strasbourg, Cr. Mylius, 1537.
+          <lb/>DE VITA MORIBUS AC RERUS PRAECIPVE ADVERSUS
+          <lb/>TVRCAS, GESTI,! GEORGH CASTRIOTI, CLARISSIMI EPIROTARVM
+          <lb/>PRINCIPIS, qui propter celeberrima facinora, Scanderbegus,
+          <lb/>hoc est, Alexander Magnus, cognominatus fuit, libri Tre¬
+          <lb/>decim, per Marinum! Barletium Scodrensem conscripti, ac
+          <lb/>nunc pri-mum in Germania castigatissi-me acditi.
+          <lb/>(Feuille de lierre.)
+          <lb/>Au-dessous: marque typ. de Cr. Mylius. (HAB, Planche XXVI,
+          <lb/>No 4.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

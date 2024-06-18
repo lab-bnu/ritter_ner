@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:36.810243+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2349.tif
+IMAGE WIDTH: 2330
+IMAGE HEIGHT: 3818
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>345
+          <lb/>A la fin: ARGENTORATI EXCVDEBAT Iosias Rihelius.
+          <lb/>M. D. LXIII.
+          <lb/>In-8°, car. ital. et grecs, 56 ff. non ch., dont les 2 derniers blancs,
+          <lb/>131 ff. ch., et 82 ff. non ch., titre courant à l’exception du texte grec,
+          <lb/>réclames, initiales ornées I, 0, le reste initiales d’attente.
+          <lb/>fol. aa 2a non ch.: IOANNES STVR-]MIVS STANISLAO SEVE¬
+          <lb/>RINI FILIO &amp;amp; Andreae Francisci filio Boneris patrueli¬
+          <lb/>bus Polonis S. P. D... — Argentorati decimo Calen. April.
+          <lb/>Anno M. D. XLI. (4 p.)
+          <lb/>fol. aa 4a non ch.: IOANNES BAPTI-ISTA EGNATIVS VENE¬
+          <lb/>TVS MAR- CO MOLINO PATRITO OR- natissimo, Aloisii D.
+          <lb/>Marci Procurato- ris filio. S. P. D. (5 p.)
+          <lb/>fol. aa 6b non ch.: EGNATIVS STVDIOSIS, (5 p.)
+          <lb/>fol. A 1a: ERASMVS ROTERO! DAMVS ORNATISSIMO IACO¬
+          <lb/>Bo! Tutori, inclytae ciuitatis Antuerpiensis! Pensionario.
+          <lb/>S. D... — Louanij, quarto Idus Septem-bresAnno
+          <lb/>M. D. XIX. (4 p.)
+          <lb/>R101662. Prov.: Ed. Zahn, Hirsau, 9/1x. 1886,4M.
+          <lb/>A l&amp;#x27;intérieur du 1er plat: Anno salutis humanae 1602 et 1605,
+          <lb/>Gabriel Braur, Alumnus Bebenhusanus; en bas Ioh. Paulus Engel.
+          <lb/>Au recto du dernier f. blanc: «Heinrich Zahn», au dessous: «Om¬
+          <lb/>nia conando docilis solertia vincit, puis en allemand: Lust und lieb zum
+          <lb/>ding macht alle müh u. arbeitt ring, au verso notes mss. A l&amp;#x27;extérieur
+          <lb/>du Ier plat, en haut: -I. S. S.», en bas 1568.
+          <lb/>BN Paris, Rés. *E. 654; BM Strasbourg 1314.
+          <lb/>522
+          <lb/>CICERO
+          <lb/>Strasbourg, J. Rihel, 1564.
+          <lb/>In hoc uolumine continentur: RHETORICORVM ad
+          <lb/>C. Herennium! Libri IIII. M.T. CICERONIS de Inuentione
+          <lb/>Lib. I.EIVSDEM de Oratore ad Quintum fratrem Lib. III.
+          <lb/>De claris Oratoribus, qui dicitur Brutus, Lib. I. Topica
+          <lb/>ad Trebatium. Lib. I. ! Oratoriae partitiones L. I.! De op¬
+          <lb/>timo genere Oratorum Praefatio quaedam. Post Naugeria¬
+          <lb/>nam &amp;amp; Victorianam correctionem emendati à IoAN. Sturmio.
+          <lb/>ALDINAE PAGINAE IN MARGI-nibus notatae sunt. Index
+          <lb/>rerum memorabilium quae toto opere continentur, per
+          <lb/>ordinem! Alphabeti.
+          <lb/>Cum gratia &amp;amp; priuilegio Caesareo ad annos octo.
+          <lb/>ANNO M. D. LXIIII, (Verso blanc.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

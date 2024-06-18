@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:31.164058+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2156.tif
+IMAGE WIDTH: 2300
+IMAGE HEIGHT: 3828
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>152
+          <lb/>nüwlich vnder den gewalt! des Türckischen tyrann kommen.
+          <lb/>Durch Se- bastianum Brant beder Rechten Doctor.
+          <lb/>Eemals in lateinischer histori vergriffen 1518.
+          <lb/>Gravure sur bois: un vaisseau, dans lequel se trouvent trois
+          <lb/>hommes, s’approche d’une ville; des monstres marins nagent autour du
+          <lb/>vaisseau. (Verso blanc).
+          <lb/>A la fin: Getruckt in der loblichen statt Straszburg,
+          <lb/>durch den ErsamenJohannem Knoblouch. Als man zalt
+          <lb/>nach Christus geburt Fünffzehundert vnd Achtzehen jar.
+          <lb/>An dem zwelfften tag des Monatz Mertzen, vnd säligklich
+          <lb/>geendet. (Verso blanc).
+          <lb/>In-fol., car. goth., 6 ff. non ch., dont le 6e, blanc au recto, contient
+          <lb/>une grande gravure au verso, XCVIII f. ch., titre courant, notes mar¬
+          <lb/>ginales, de nombreuses initiales ornées. Titre encadré de 4 pièces super¬
+          <lb/>posées, comme No 65.
+          <lb/>En dehors de la gravure du titre, 67 gravures, dont plusieurs
+          <lb/>sont répétées de sorte qu’il n’y a que 51 en tout, beaucoup environ
+          <lb/>35 sont empruntées à la Bible Strasbourgeoise de 1485, la plus grande
+          <lb/>(197 mm haute et 135 mm large) représentant le jeune roi sur le
+          <lb/>trône, entouré de conseillers et de chevaliers est empruntée à l’Histoire
+          <lb/>d’Alexandre de Kistler 1503, elle se trouve aussi dans celle de Math.
+          <lb/>Hupfuff de 1514; celles des ff. 14a, 55a et 75b sont dans la Prenos¬
+          <lb/>ticatio de Kistler 1497, celles des fr. 10b, 47a, 84a, 88b, 90b se trou¬
+          <lb/>vent dans History von Rhodis de Carsoouin traduit par Adelphus,
+          <lb/>Martin Flach 1513, celles de fol. 30b, 42a dans le Layenspiegel de
+          <lb/>Hupfuff 1514.
+          <lb/>fol. 2 non ch (Table); fol. 4b non ch. (Préface du traducteur):
+          <lb/>Vorrede... Herrn Johann Freyen, der freyen künsten
+          <lb/>maister, bey Lentzburg uff dem Stauffenberg Pfarrer meinem
+          <lb/>herren vnd aller liebsten brûder, verkünd ich Caspar Frey
+          <lb/>von Baden in Ergöw meine.,, brüderliche treüw... —
+          <lb/>Geben zû Ror-schach am bodmer see vff den xvij-tag
+          <lb/>Brachmonats. Jn dem M. D. vnd xij. iar. Suit la Préface de
+          <lb/>S. Brant à l&amp;#x27;empereur Maximilien.
+          <lb/>R 10.081. Prov.: Bibl. Charles Schmidt avec son exlibris à l’in¬
+          <lb/>térieur du Ier plat et des annotations mss. au recto du f. de garde.
+          <lb/>BN Paris, Rés. 02 f. 391; Proctor II Sectio L. No 70117:
+          <lb/>British Museum; Schmidt VII, No 156: BM Strasbourg (1221 et
+          <lb/>Colmar, il ne cite pas le sien, qu’il doit donc avoir acquis après 1895,
+          <lb/>date à laquelle parut le VII. vol. de son Répertoire bibliographique.
+          <lb/>GPB: Berlin SB. Bonn UB, Göttingen, UB, Greifswald UB.
+          <lb/>241
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

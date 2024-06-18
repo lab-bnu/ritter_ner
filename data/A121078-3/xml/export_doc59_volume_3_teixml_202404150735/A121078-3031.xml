@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:05.245193+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3031.tif
+IMAGE WIDTH: 2346
+IMAGE HEIGHT: 3840
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>ERASMUS : De ratione studiorum
+          <lb/>Strassburg, M. Schürer, 1513
+          <lb/>ERASMI ROTERODAmi De ratione studij, ac legendi,
+          <lb/>interpretandique auctores! libellus aureus.! Officium disci¬
+          <lb/>pulorum ex Quintiliano.Qui primo legendi, ex eodem.
+          <lb/>ERASMIConcio de puero Iesv in schola Coletica Londini
+          <lb/>instituta pronuncianda. EIVSDEMExpostulatio IESV ad
+          <lb/>mortales. EIVSDEM CARMINA SCHOLARIA. EX SECVNDA
+          <lb/>RE- COGNITIONE.
+          <lb/>Am Schluss: Argentorati denuo, Ex aedibus Matthiae
+          <lb/>Schürerij. Mense Augusto Ann. M.D.XIII.T. O.RE¬
+          <lb/>GNANTE MAGNANIMO IMP. CAES. MAXIMILIANO. P. F. Avg.
+          <lb/>P.
+          <lb/>Q. P.
+          <lb/>4°, Antiq., XXIII num. Bll., Kopftitel, Init.
+          <lb/>Auf der Rückseite des Titelbl.: Erasmus Roterodamus Petro
+          <lb/>Viterio, liberalium disciplinarum professori eximio, S. D.
+          <lb/>(1S.)
+          <lb/>R 100.941. Geschenk der k. Bibl. von Stuttgart, 1871. Handschr.
+          <lb/>Randnotizen.
+          <lb/>BN Paris. Rés. p. Z.463; Schmidt VIII Nr. 107; Rest S. 60.
+          <lb/>712
+          <lb/>ERASMUS : De duplici copia Strassburg, M. Schürer, Januar 1514
+          <lb/>DESYDERII ERASMI ROTERO- dami, de duplici Copia
+          <lb/>rerum ac ver- borum Commentarij duo.
+          <lb/>Druckermarke Schürer&amp;#x27;s; H a B, Tafel XII Nr. 2.
+          <lb/>Am Schluss: Argentorati, Ex Aedibus Schu-rerij, Mense
+          <lb/>lanuario.) Anno M.D.XIIII. T.O.
+          <lb/>REGNANTE IMPERATORE CAES. MAXIMILIANO. P. F. AVG.
+          <lb/>P. P. (Rückseite leer.)
+          <lb/>4°. Antiq., 6 unn. und LXXII num. Bll., Kopftitel, Zierinit.
+          <lb/>Auf der Rückseite des Titelbl.: Sebastianus Murrho iunior
+          <lb/>Colmariensis Hierony. Gebuilero praeceptori suo S.... –
+          <lb/>Ex Aedibus Schurerij. Anno M. D. XIIl. XVI. Kalendas
+          <lb/>Februarij.
+          <lb/>Darunter: EIVSDEM AD LECTOREM, (2 Dist.)
+          <lb/>Bl. 3a: Desyderius Erasmus Roterodamus Ioanni! Coleto
+          <lb/>Decano sancti Pauli apud Londinum... — Londini. Anno
+          <lb/>M. D. XIl. Tertio Kalendas Maias. (Folgt ein Index, 3 S.)
+          <lb/>R 100.933. Herkunft unbekannt. Handschr. Randnotizen.
+          <lb/>GK: SB Berlin, UB Breslau; Schmidt VIII, Nr. 124; Walter:
+          <lb/>Schlettstadt Nr. 1233.
+          <lb/>713
+          <lb/>475
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:05.034992+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002129.tif
+IMAGE WIDTH: 2492
+IMAGE HEIGHT: 3966
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>abzurechnen : auch allerley erforderte plätze, von andern
+          <lb/>Feldern, in gewissem Messe, aus und abzutheylen oder
+          <lb/>auch an dieselbige anzumessen seie. Durch Johann
+          <lb/>Conraten von Ulm, Predigern zu Schaffhausen am Rhein,
+          <lb/>auffs neu zugericht und demonstrirt. — Strasbourg,
+          <lb/>Bernard Jobin 1580, in-8°.
+          <lb/>Ritter : B M Strasbourg n° 771.
+          <lb/>1432
+          <lb/>CONRADUS (frater) Augustiner Ord. Provincial. Voir:
+          <lb/>VERWARNUNG n° 3402.
+          <lb/>CONSTANTIN IV. Voir : CASSIANUs, Bassus : Der Veldtbaw
+          <lb/>n° 1301.
+          <lb/>CONSTANTIUS, Paulus : De causa Boemica. — (Haguenau,
+          <lb/>Thomas Anshelm vers 1520), in-4°.
+          <lb/>Bibl. S. Guillaume, Strasbourg.
+          <lb/>1433
+          <lb/>CONSTITUTION und ernstlich Mandat. Den schandtlichen
+          <lb/>und unchristlichen Ehbruch belangend. Jn der... Statt
+          <lb/>Antorff, den Ersten Tag Julii, Jm M. D. und Dreissigsten
+          <lb/>Jar fürgenommen und publicirt.... — (Strasbourg,
+          <lb/>J. Knobloch (2)), in-4°.
+          <lb/>Bibl. S. Guillaume, Strasbourg.
+          <lb/>1434
+          <lb/>CONSTITUTION : von Ablösung der Ewigen, Ehrschützigen
+          <lb/>und Fürbietigen Zinsz. Nach dem eine gemeine Statt
+          <lb/>und Burgerschafft dieser Statt Straszburg mit ewigen
+          <lb/>Zinsen hoch belästigt und beschwert worden, dardurch
+          <lb/>dann künfftiger abgang zu besorgen ist, Solchem vor¬
+          <lb/>zusein, so haben unsere Herren Meister und Rath,
+          <lb/>Schöffen und Amman... geordnet, dasz man solche
+          <lb/>ewige Zinsz, wol ablösen möge, inmassen nachgeschrieben
+          <lb/>stehet... A la fin : Actum auff Mittwoch nach Assump¬
+          <lb/>tionis Mariae, Anno 1523. — [Strasbourg] 1523, placard
+          <lb/>in-fol.
+          <lb/>Ritter: B M Strasbourg n° 775.
+          <lb/>1435
+          <lb/>127
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

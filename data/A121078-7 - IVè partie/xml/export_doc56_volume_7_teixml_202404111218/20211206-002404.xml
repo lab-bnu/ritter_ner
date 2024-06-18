@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:11.967698+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002404.tif
+IMAGE WIDTH: 2518
+IMAGE HEIGHT: 3956
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>PETRUS de Palude: Sermones quadragesimales Thesauri
+          <lb/>novi. — (Strasbourg, Jean Knobloch 1508), in-fol.
+          <lb/>Schmidt VII, n° 53 : Darmstadt (Hofbibliothek). (Autre éd.
+          <lb/>Knobloch 1518. Ritter : Rép. n° 1752l.
+          <lb/>2881a
+          <lb/>PETRUS de Palude : (Idem). — (Strasbourg, Jean Knobloch
+          <lb/>1508), in-fol.
+          <lb/>Panzer 6, 41, 119; Schmidt VII, n° 327 : B U Heidelberg.
+          <lb/>2882
+          <lb/>PETRUS de Palude : Sermones thesauri novi de tempore. —
+          <lb/>(Strasbourg, Jean Knobloch 1515), in-fol.
+          <lb/>Schmidt VII, n° 106: B U Fribourg-en-Br. ; Beaulieux,
+          <lb/>p. 267, Paris (Réserve 625).
+          <lb/>2883
+          <lb/>(PEUCER]: Hypotyposes orbium coelestium congruentes
+          <lb/>cum tabulis Alfonsinis et Copernici, seu etiam tabulis
+          <lb/>Prutenicis (avec une préface de Dasypodius, mars 1568,
+          <lb/>qui l’attribue à Er. Reinhold mort en 1553. C’est Peucer
+          <lb/>qui en est l’auteur comme il l’a dit lui-même en 1571). —
+          <lb/>Strasbourg, Théodose Rihel 1568, in-8°.
+          <lb/>Zinner 2458.
+          <lb/>2884
+          <lb/>PEUTINGER, Conrad : De mirandis Germaniae antiquitatibus.
+          <lb/>Sermones convivales... (Avec des gravures de H. S.
+          <lb/>Beham). — Strasbourg, Christian Egenolph (1530),
+          <lb/>in-4°.
+          <lb/>Panzer VI, 119, 814; Ebert 16.552; Neufforge, p. 386;
+          <lb/>Benzing : Egenolff : Brit. Mus. Londres, B M Mayence. [Une
+          <lb/>éd. chez Prüss 1506 voir : Ritter, Rép. n° 1858).
+          <lb/>2885
+          <lb/>PFERDARZNEIEN. Voir: BÜCHLEIN von den Pferdarzneien,
+          <lb/>nos 1214/5.
+          <lb/>PFLUG, Julius. Voir : POLLICARIUS, nos 2964/5.
+          <lb/>PHILELPHUS, Franciscus : Epistolae... — (Strasbourg, Jean
+          <lb/>Knobloch 1509), in-4°.
+          <lb/>402
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

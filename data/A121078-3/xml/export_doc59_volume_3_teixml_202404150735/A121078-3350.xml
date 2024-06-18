@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:12.177149+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3350.tif
+IMAGE WIDTH: 2380
+IMAGE HEIGHT: 3856
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>792
+          <lb/>enau artium &amp;amp; medicinae Doctor... — Argentoraci ad
+          <lb/>decimum Marcij. Anno Christi, 1514.
+          <lb/>Am Schluss vor dem Explicit: MAXIMILIANO Caesare semper
+          <lb/>augusto, auctore lacobus œszler... censor... — Datum
+          <lb/>Argentinae octaua Februarij: Anno Christi mille- simo
+          <lb/>quingentesimo quarto decimo. (Druckprivileg.)
+          <lb/>R101.533. Prov.: Bibl. Hermann, Strassburg. Handschr. Notiz:
+          <lb/>Auf dem Schutebl.: Liber rarus. Auctor vel Argentinensis ortu, vel
+          <lb/>saltem in hac urbe Medicinam fecit; uti videtur ex loco ubi dedicatio
+          <lb/>scripta est, &amp;amp; privilegium Caesareum datum est: ex quo innotescit quoque
+          <lb/>Jacobus Oesler J. U. D. &amp;amp; artis impressoriae per Imperii Romani limites
+          <lb/>censor &amp;amp; superattendens generalis, qui Argentinae sedem suam fixit.
+          <lb/>Quare vel historiae literariae Argentinensis causa conservandus liber.&amp;quot;
+          <lb/>Auf dem Titelbl.:, Extat in Aloysii Luisini de morbo Gallico Scriptore
+          <lb/>collectione Venetiis 1566. in-fol. tom. 1. pag. 268.
+          <lb/>Stadtbibl. Strassburg; Oxford, Bodleian Libr.; BN Paris, Rés.
+          <lb/>Td.43 9. Schmidt II Nr. 27; Proctor II Nr. 10275: London Brit.
+          <lb/>Museum.
+          <lb/>1176
+          <lb/>HOFFMANN Melchior, Siche: HOFMANN Melchior
+          <lb/>HÖFLIN Georg
+          <lb/>Strassburg, A. Bertram 1586
+          <lb/>Rechen- büchlin mit der Ziffer, vnd! Zalpfenningen,
+          <lb/>von allerley gemei- nen gebräuchlichen nützlichen Hausz
+          <lb/>vnd! Kauffmanns Rechnungen.Durch Georg Höflin von
+          <lb/>Bregentz Bur-ger vnd Rechenmeister zu Straszburg,
+          <lb/>seinen Schü- lern vnd männiglichen zû nutz gestellt.
+          <lb/>Jetzt wider Corrigirt, vnd zum andernmalzu Trucken
+          <lb/>verlegt. (Vign.)
+          <lb/>Getruckt zu Straszburg, durch! Antonium Bertram,
+          <lb/>Im Jahr 1586. (Rücks, leer.)
+          <lb/>80, Got., 163 S., Kopft., Kust., Init., Titel rot u. schwarz.
+          <lb/>R101085. Prov.: Noiriel, Strassburg 29. VI. 1886, 15 M.
+          <lb/>1177
+          <lb/>HOFMANN Johannes. Siche: CARMINA gratulatoria
+          <lb/>HOFMANN Melchior
+          <lb/>[Strassburg, B. Beck ?] um 1530
+          <lb/>Der leüchter des al ten Testament vsz gelegt, welcher
+          <lb/>im heylge stund der hütten Mose, mit seinen siben lam
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

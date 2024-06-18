@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:06.297972+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie077.tif
+IMAGE WIDTH: 2480
+IMAGE HEIGHT: 3946
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>MENTELIN, Joh. (Bücheranzeige III. Sammelanzeige). —
+          <lb/>(Strasbourg, Jean Mentelin après 1474), in-80.
+          <lb/>Einblattdrucke 1001; Schorbach : Mentelin no 32 : Ex.
+          <lb/>unique B N Paris (partie supérieure manque).
+          <lb/>481
+          <lb/>MICHAEL de Ungaria : Sermones eximii. — Strasbourg 1482,
+          <lb/>in-40.
+          <lb/>Hain 9043.
+          <lb/>482
+          <lb/>MICHAEL de Ungaria : Sermones dominicales seu Biga salutis.
+          <lb/>— Haguenau, H. Gran, in-4°.
+          <lb/>Hain 9051.
+          <lb/>483
+          <lb/>MICHAEL de Ungaria : Sermones quadragesimales seu Biga
+          <lb/>salutis. — Haguenau, H. Gran 1498, in-4°.
+          <lb/>Hain 9056.
+          <lb/>484
+          <lb/>MICHAEL de Ungaria: Sermones dominicales. Biga salutis. —
+          <lb/>Haguenau, Henri Gran 28. IV. 1499, in-fol.
+          <lb/>Hain 9053, Proctor 3200, Ritter, Rép. Inc. 319; Burg n° 22;
+          <lb/>135 (1914), n° 2154; 120 M; Szabo III. 1. 48 et Apponyi
+          <lb/>35 attribuent cet ouvrage à Oswald de Lasko.
+          <lb/>485
+          <lb/>MIRABILIA Romae. Von vier Rychen in der Will, und wie
+          <lb/>Rom sinen ursprung hat und ettwas von iren geschichten.
+          <lb/>— (Strasbourg 1465 (?)), in-4°.
+          <lb/>Copinger II, 5145.
+          <lb/>486
+          <lb/>MIRABILIA Romae. Hye yn diesem büchlin vindet man die
+          <lb/>grossen wunderwerck der heyligen stat Rome... —
+          <lb/>Strasbourg, (Mathias Hupfuff) 1500, in-40.
+          <lb/>Copinger 4057, Proctor 754, Schmidt V, n° 11, Voulliéme :
+          <lb/>Berlin 2541, 5. — B N Berlin, Fribourg en Br.
+          <lb/>487
+          <lb/>MIRABILIA Romae. In diesem Büchlein steht geschrieben wie
+          <lb/>75
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

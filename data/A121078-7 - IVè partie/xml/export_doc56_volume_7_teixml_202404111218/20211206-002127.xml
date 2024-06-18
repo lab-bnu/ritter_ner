@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:04.997221+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002127.tif
+IMAGE WIDTH: 2502
+IMAGE HEIGHT: 3982
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>C’est probablement l’édition de Wendelin Rihel, à laquelle
+          <lb/>son fils Josias Rihel a donné une nouvelle feuille de titre, mais
+          <lb/>laissant à la fin du livre la date 1545. Bibl. S. Guillaume,
+          <lb/>Strasbourg.
+          <lb/>1423
+          <lb/>COMINES, Phil. : De Carolo octavo, Galliae rege, &amp;amp; bello
+          <lb/>Neapolitano, Commentarij. Ioanne Sleidano interprete.
+          <lb/>Accessit brevis quaedam explicatio rerum, &amp;amp; authoris
+          <lb/>vita. (Marque typ. de Jos. Rihel). Argentorati, Excudebat
+          <lb/>Josias Rihelius (juillet 1548), in-8°.
+          <lb/>Bibl. S. Guillaume Strasbourg. Comme le père Wendelin Rihel
+          <lb/>a eu l’imprimerie Rihel jusqu’à sa mort en 1555, il n’est guère
+          <lb/>possible que Josias ait déjà eu une imprimerie en 1548 comme
+          <lb/>l’indique la date de la fin, c’est probablement l’ancienne
+          <lb/>édition du père de laquelle Josias avait encore des ex., auxquels
+          <lb/>il a donné une nouvelle feuille du titre, mais laissant à la
+          <lb/>fin la date 1548 de l’ancienne éd. de Wendelin Rihel, dont
+          <lb/>la BN de Strasbourg conserve un ex. « Argentorati, in aedibus
+          <lb/>Wendelini Rihelij Anno M.D.XLVIII. » (Voir BN Strasbourg
+          <lb/>R 101.262 : Ritter, Rép. n° 563).
+          <lb/>1424
+          <lb/>COMINES, Philippe de : History, Ursprung und Ursach des
+          <lb/>burgundischen Kriegs.., newlich ausz dem Latin durch
+          <lb/>D. Caspar Hedio verteutschet. — Strasbourg 1561.
+          <lb/>Brunet II2, col. 192 [éd. Wendelin Rihel 1551 : Ritter, Rép.
+          <lb/>n° 564).
+          <lb/>1425
+          <lb/>COMINES, Phil. Voir aussi: RITTER, Rép. nos 562-567.
+          <lb/>COMOEDIA und Lehrhaffte History von dem Verlornen
+          <lb/>Sohn, Luce am 15. Cap. Spielweise, sehr nutzlich und
+          <lb/>kurtzweilig zu lesen. — Strasbourg, Christian Müller
+          <lb/>(Mylius] 1578, in-8°.
+          <lb/>Vogeleis, p. 341.
+          <lb/>1426
+          <lb/>COMOEDIA von König David, avec un supplément : Gespräch
+          <lb/>von Dreyen Personen, einem Wucherer, Bawrsman und
+          <lb/>Doctor gestelt durch Joh. Beuchter, Gastgeber zum
+          <lb/>Geist. — Strasbourg, Antoine Bertram 1598, in-8°.
+          <lb/>Ritter, Hist. impr., app. 403 (6).
+          <lb/>1427
+          <lb/>125
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

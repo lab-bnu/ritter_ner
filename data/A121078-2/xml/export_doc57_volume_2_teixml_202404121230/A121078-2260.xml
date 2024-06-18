@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:34.334602+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2260.tif
+IMAGE WIDTH: 2292
+IMAGE HEIGHT: 3814
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>256
+          <lb/>Psal. CII. Herr, du woltest dich auffmachen, vnnd
+          <lb/>über Zion erbarmen, Dann es istzeit, das du jr gnedig
+          <lb/>seiest, vnd die stund ist kommen, das du Zion er- ba¬
+          <lb/>west, und erschei-nest in deiner! ehre.
+          <lb/>Gedruckt zû Straszburg, durch Georgen Messer¬
+          <lb/>schmidt. 1545.
+          <lb/>In-4°, car. goth., 28 ff. non ch., dont le dernier blanc, sign. A-G,
+          <lb/>titre courant seulement jusqu’à f. 19, réclames, notes marginales.
+          <lb/>fol. A 2a: Den frommen Christen im Elsass,) Brisgaw,
+          <lb/>vnd Sundtgawe. (1 p.)
+          <lb/>R102360. Prov.: Bibliothèque Ch. Schmidt.
+          <lb/>Bibl. St. Guillaume, Strasbourg. GPB: Berlin SB, Munster BU.
+          <lb/>Walter: Sélestat No 879.
+          <lb/>Baum No 67 et 77, Mente N° 67.
+          <lb/>384
+          <lb/>BUTZER Martin
+          <lb/>Strasbourg, C. Müller, 1545.
+          <lb/>Wie leicht vnnd füg-lich Christliche vergleichung
+          <lb/>der Religion, vnd des gantzen kirchendiensts Refor! ma¬
+          <lb/>tion, bey vnsz Teutschen zû finden,! vnd in das werck
+          <lb/>zû brin-gen.
+          <lb/>Wellche die fürnemistenn hinder-nüssen dises wercks,
+          <lb/>vnnd wie die Christlich! hinzûlegen. Mit erbiettung, alles
+          <lb/>gründtlich! zû erweisen, vor der Kaiserl. vnd Königl.
+          <lb/>Maiesteten, Churfürstenn, Fürstenn vnnd Stenden des
+          <lb/>Reichs, gegen den! Cölnischen Sophisten vnd me-niglich.
+          <lb/>Durch Martinum Bucerum. ANNo M. D. XLV. MATTH.
+          <lb/>XI. Mein joch ist sanfft, vnd mein burde ist leicht.
+          <lb/>PSAL. XIX. Meine befelch seind richtig, vnd erfrewen
+          <lb/>das hertz. (Verso blanc.)
+          <lb/>A la fin: Gedruckt zû Straszburg bey Crafft Müller.
+          <lb/>ANNO M. D. XLV. (Verso blanc.)
+          <lb/>In-4°, car. goth., f. du titre — CXLVIII p. ch. — 1 f. blane
+          <lb/>avec l’explicit au recto, sign. A-T, titre courant, réclames, notes mar¬
+          <lb/>ginales.
+          <lb/>R 101.526. Prov.: Bibliothèque Heitz, Strasbouro, 1871.
+          <lb/>Bibl. St. Guillaume, Strasbourg; Oxford, Bibl. Bodleiana.
+          <lb/>GPB: Berlin SB, Breslau BU, Kœnigsberg BU.
+          <lb/>Baum N° 75; Mentz No 64.
+          <lb/>385
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:14.003953+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002501.tif
+IMAGE WIDTH: 2506
+IMAGE HEIGHT: 3966
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>VALLA, Laurentius : Elegantiarum latinae linguae libri sex
+          <lb/>et Opusculum aureum in Antonium Raudensem. —
+          <lb/>(Sélestat « denuo vigilanti cura » Lazare Schürer, février
+          <lb/>1520), in-4°.
+          <lb/>Ritter: B M Strasbourg, n° 2140; [éd. Mathias Schürer,
+          <lb/>août 1517, Lazare Schürer 1522 : Ritter, Rép. nos 2386 et
+          <lb/>23881.
+          <lb/>3391
+          <lb/>VALLA, Laurentius : Elegantia linguae latinae iterum cum
+          <lb/>tractatu de reciprocatione Sui et Suus, libro in Antonium
+          <lb/>Raudensem et Apologo in Poggium. — Strasbourg,
+          <lb/>Ulrich Morhard 1521, in-fol.
+          <lb/>Panzer 6, 97 ; Schmidt IV, p. 30, n° 7.
+          <lb/>3392
+          <lb/>VALLA, Laurentius : Laurentii Vallae elegantiarum adeps,
+          <lb/>ex eius de lingua latina libris per Bonum Accursium
+          <lb/>studiosissime collectus. — (Haguenau, H. Gran pour
+          <lb/>Jean Grüner, juillet 1523), in-8°.
+          <lb/>Burg, n° 433.
+          <lb/>3393
+          <lb/>VALLA, Nicolaus. Voir : HoMeRus, n° 2040.
+          <lb/>VARNBÜLER, Ulr. Voir: HUTTEN (Vadiscus), n° 2114.
+          <lb/>VARTOMANUS, Ludov. Voir: HERR, Mich., n° 1999.
+          <lb/>VATTS (Vatz), Joh. Voir: BUECHLEIN (Himmlisch Fundgrub),
+          <lb/>nos 1206-1208.
+          <lb/>VAYEN. Voir : MESSIAS, Petrus, n° 2672.
+          <lb/>VEHUS, Hieronymus :... Boemicus Triumphus. — (Strasbourg,
+          <lb/>Jean Grüninger 1504), in-4°. (Poème célébrant la victoire
+          <lb/>de Maximilien à Ratisbonne sur les Bohémiens en
+          <lb/>1504).
+          <lb/>Schmidt I, n° 69; Bulletin du bibliophile de Techener, 1852,
+          <lb/>p. 658; Catal. A. Firmin-Didot, juin 1884, n° 365.
+          <lb/>3394
+          <lb/>499
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

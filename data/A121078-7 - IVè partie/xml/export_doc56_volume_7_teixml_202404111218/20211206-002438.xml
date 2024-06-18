@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:12.796090+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002438.tif
+IMAGE WIDTH: 2516
+IMAGE HEIGHT: 3966
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>RAETSELBUCH : Wölchem an kurtzweil thet zerrinnen... —
+          <lb/>Strasbourg, Jacques Cammerlander (vers 1540), in-4°.
+          <lb/>Graese VI, p. 17.
+          <lb/>3070
+          <lb/>RAGEL, Hans : Von der Zerstörung der Stat Jerusalem und
+          <lb/>dem grausamen erschröckenlichen jamer, so sich darinnen
+          <lb/>verlauffen. Gezogen ausz Josepho... Und durch Hans
+          <lb/>Ragel in Reymenweysz gestellet... — (Strasbourg,
+          <lb/>Jacques Frölich) vers 1540, in-8°.
+          <lb/>Vogeleis, p. 241; Wackernagel p. 157.
+          <lb/>3071
+          <lb/>RAMPEGOLUS, Ant. de : Opus figurarum bibliae... —
+          <lb/>Strasbourg, Jean Knobloch 1511, in-8°.
+          <lb/>(Éd. Knobloch 1516 : Ritter, Rép, n° 1967.1]
+          <lb/>3072
+          <lb/>RAMPEGOLUS, Ant. de : Biblia aurea veteris ac novi
+          <lb/>testamenti vocitatus (liber). — [Strasbourg! (Jean
+          <lb/>Grüninger (8.VIII.] 1515), in-4°.
+          <lb/>Schmidt I, n° 143. — BN Paris, Bibl. Centrale Zurich. (Éd.
+          <lb/>Schürer août 1509 : Ritter, Rép. n° 1966).
+          <lb/>3073
+          <lb/>RANTZOW, Joachim : Oratio de nobilitate et ad quodnam
+          <lb/>honorum genus illa referenda sit, exercitii causa com¬
+          <lb/>posita et publice in Argentoratensi academia recitata
+          <lb/>anno M.D.XCVI. III. Non. Martii. — Strasbourg,
+          <lb/>Antoine Bertram 1596, in-4°.
+          <lb/>Schottenloher 34.311.
+          <lb/>3074
+          <lb/>RANTZOW, Joh. Voir : CRUSIUS, G., n° 1466; (RITTER,
+          <lb/>Rép. n° 1969).
+          <lb/>RAPP, Wolfg. Voir : SECER, Joh., n° 3212.
+          <lb/>RATZ, Jacobus : Vom Fastenn. Welches das recht, Christlich
+          <lb/>unnd notwendig, auch das falsch und onchristlich
+          <lb/>Fasten sey... Anno M.D.LIIII. — (Strasbourg, Jacques
+          <lb/>Frölich 1554), in-80.
+          <lb/>Ritter : B M Strasbourg, n° 1783.
+          <lb/>3075
+          <lb/>436
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

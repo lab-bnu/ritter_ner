@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:28.716707+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2082.tif
+IMAGE WIDTH: 2344
+IMAGE HEIGHT: 3826
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>78
+          <lb/>BAPTISTA Mantuanus
+          <lb/>Strasbourg, M. Schürer, 1510.
+          <lb/>HEVS LECTOR NOVARVM ] RERUM STVDIOSE, I HIC HABEN¬
+          <lb/>TUR.
+          <lb/>De fortuna Francisci Marchionis Mantuae,! F. Baptistae
+          <lb/>Mantuani Cramen (! pour Carmen) elegantissimum. Videbis
+          <lb/>in eo carmine, quanti celeberrimus poeta inuictissimum
+          <lb/>Caesarem Maximilianum faciat, quid! de Rege Francorum
+          <lb/>Ludouico, ac Venetis sentiat.
+          <lb/>Epistola Elegiaca Fausti Andrelini, qua Anna! Fran¬
+          <lb/>ciae regina, Ludouicum Franciae regem maritum! suum,
+          <lb/>post subactos Venetos, ad se reuocat.
+          <lb/>Antonij Syluioli Parisiensis CHILIAS, de tri umphali
+          <lb/>atque insigni Christianissimi Francorum regis! Ludouici
+          <lb/>Duodecimi in Venetos victoria.
+          <lb/>Petri de ponte Brugensis Caeci, de abitu &amp;amp; reditu pacis
+          <lb/>Carmen. Sunt in eo multa ad Maximiliani Caesaris a
+          <lb/>Margaritae Maximiliani filiae laudem pertinentia. Domini
+          <lb/>Zachariae abbatis ad Venetos Elegia, de dominio eorum
+          <lb/>breui diruendo, &amp;amp; vt ad cor reuertantur. (Verso blanc.)
+          <lb/>A la fin: Argentorati in Schürerianis aedibus! Ecclesiae
+          <lb/>Julio II. !Maximiliano Imperij!... ! M.D.X. ! Junii. XX.
+          <lb/>In-4°, car. rom., 40 ff. non ch., sign. a-g, titre courant, notes
+          <lb/>marginales, initiales d’attente.
+          <lb/>Fol. a 2a (signé à tort a iij): Beatus Rhenanus Thomae
+          <lb/>Aucupario, Laureato ! Poetae. S. P. D.... — Ex urbe Seles¬
+          <lb/>tatina, bonarum literarum nu- trice, quinto Idus Junias.
+          <lb/>An. M.D.X.
+          <lb/>*R101.018. Prov.: BN Munich, 1.IL.1877; 1M.
+          <lb/>Schmidt VIII, N° 36: Bâle.
+          <lb/>GPB. Berlin SB.
+          <lb/>136
+          <lb/>BAPTISTA Mantuanus
+          <lb/>Strasbourg, M. Schürer, 1510.
+          <lb/>GEORGIVS BAPTISTAE MAN-tuani Carmelitae Theologi &amp;amp;
+          <lb/>Poetae! clarissimi, ab Ascensio fami! liariter explanatus.
+          <lb/>A la fin: Ex aedibus Schurerianis VI. Kalen. Septem¬
+          <lb/>bris. M.D.X.
+          <lb/>In-4°, car, rom., XXXVIII ff. ch., titre courant, notes margi¬
+          <lb/>nales, init. d’attente.
+          <lb/>Au verso du titre: Illustri... militi. D. Jo. Jacobo Triu¬
+          <lb/>ultio! Marchioni Vigleuani &amp;amp; Franciae magno Marescallo
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

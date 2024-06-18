@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:05.714903+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3063.tif
+IMAGE WIDTH: 2326
+IMAGE HEIGHT: 3840
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Schutabl.: Bibliothecae Solomonij Hafneri 1770; daneben: &amp;quot;Zürich 1863.
+          <lb/>von Reuss.
+          <lb/>Rest S. 52; Schmidt VII Nr. 237: Stadtbibl. Strassburg [446l.
+          <lb/>763
+          <lb/>ERASMUS: Epistola apol. ad Christophorum
+          <lb/>Strassburg, J. Knobloch, 1522
+          <lb/>AD REVE RENDVM IN CHRISTO P. ! &amp;amp; illustrem princi¬
+          <lb/>pem Christophorum epi scopum Basiliensem, epistola apo¬
+          <lb/>logetica Erasmi Roterodami, de interdicto esu) carnium,
+          <lb/>deque similibus hominum constitutionibus. Cum alijs non
+          <lb/>nullis nouis, quorum titu- los reperies in proxi- ma pa¬
+          <lb/>gella.
+          <lb/>Am Schluss: Argentorati in aedibus Ioannis Knoblouchij.
+          <lb/>Anno M. D. XXII. octauo Ka-] lendas Decemb. (Rückseite leer.)
+          <lb/>80, Kursio, 144 num. Bll., Kopftitel, Kustoden, 41/, cm. grosse
+          <lb/>Init. V. Titeleinfassung (H &amp;amp; B Tafel X Nr. 7).
+          <lb/>*R101.951. Prov.: Baer e Co., Frankfurt a. M., 13. HI. 1886;
+          <lb/>15 M. Handschr. Notizen.
+          <lb/>GK. UB Greifswald; BN Paris A 7032; Schmidt VII Nr. 245:
+          <lb/>Stadtbibl. Zürich.
+          <lb/>764
+          <lb/>507
+          <lb/>ERASMUS: Paraclesis, ipsiusque Athanasii vita. Siehe: ATHA¬
+          <lb/>NASIUS, opera. Strassburg, J. Knobloch, 1522. Nr. 106.
+          <lb/>ERASMUS: Querela pacis
+          <lb/>Strassburg, J. Knobloch, 1522
+          <lb/>QVERE- LA PACIS VNDIQVE gentium eiectae profli¬
+          <lb/>gataeque. AVTORE ERASMO ROTERODAMO. (Rückseite leer.)
+          <lb/>Am Schluss: ARGENTINAE APVD IOANNEM KNOBLOCHVM,
+          <lb/>MENSE] MARTIO. ANNO M. D. XXII.
+          <lb/>Auf der Rückseite Druckermarke Knobloch&amp;#x27;s (H ee B Tafel IX
+          <lb/>Nr. 2, Silvestre Nr. 635).
+          <lb/>80, Kursiv, 26 num. Bll. (Zählung geht von 1-8, 17-33), Kopftitel,
+          <lb/>Kustoden, leerer Raum für Init., Titeleinfassung (HE B Tafel X
+          <lb/>Nr. 5).
+          <lb/>Bl. 2a: CLARISSIMO PRAESVLI TRA- IECTENSI PHILIPPO,
+          <lb/>E- RASMVS ROTERO-DAMVS S. D. (2 S.)
+          <lb/>R 100.939. Prov.: L. Rosenthal, München, 9. VII. 1885, 4M.
+          <lb/>Schmidt VII Nr. 233.
+          <lb/>765
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

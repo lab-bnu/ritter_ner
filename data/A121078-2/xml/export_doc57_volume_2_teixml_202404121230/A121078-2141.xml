@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:30.652747+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2141.tif
+IMAGE WIDTH: 2316
+IMAGE HEIGHT: 3828
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>137
+          <lb/>fol. 2a non ch.:... Herrn Egenolff, Herrn zu Ra¬
+          <lb/>poltsstain, Hohenack vnd Geroltzeck] am Wassichin &amp;amp;c.
+          <lb/>meinem Gnä-digen Herrn:... — Datum Speir, auff
+          <lb/>den Tag S. Bartholomei, den 24. Augusti, Anno 1581.
+          <lb/>Johann Fischart G. M. der Rechten Doctor. (Préface de 5 ff.)
+          <lb/>fol. 7a non ch.: Vorwarnung von Lesung vnd Urthey lung
+          <lb/>folgender Bücher. (2 ff)
+          <lb/>R100.721. Prov.: Bibliothèque Ed. Cunitz, Strasbourg, 8 juillet 1886.
+          <lb/>Notes mss. Au verso du titre: Anno salutis 1627... Otto
+          <lb/>Schmidt, Harburg. Rel, anc.
+          <lb/>GPB: Berlin SB, Breslau UB, Halle UB, Königsberg UB.
+          <lb/>221
+          <lb/>BODIN Joh.
+          <lb/>Strasbourg, B. Jobin, 1586.
+          <lb/>DE MAGORVM DAEMONOMANIA. Vom Auszgelasznen
+          <lb/>Wütigen Teuffelsheer Aller- hand Zauberern, Hexen vnd
+          <lb/>Hexenmei- stern, Vnholden, Teuffelsbeschwerern, Warsa¬
+          <lb/>gern, Schwartzkünstlern, Vergifftern, Au-genverblendern
+          <lb/>etc.Wie die vermög aller Recht erkant, ein- getrieben,
+          <lb/>gehindert, erkündigt, erforscht, Pein- lich ersucht vnd
+          <lb/>gestrafft werden sollen. Gegen des Herrn Doctor J. Wier
+          <lb/>Buch von der Geister verführungen, durch den Edlen
+          <lb/>vnd Hochgelehrten Herrn! Johann Bodin, der Rechten D.
+          <lb/>vnd des Parlements Raths in Franckreich auszgangen.
+          <lb/>Vnd nun erstmals durch den auch Ehrenvesten vnd
+          <lb/>Hoch- gelehrten H. Johann Fischart, der Rechten D. etc.
+          <lb/>ausz Frantzösischer sprach trewlich in Teutsche gebracht,
+          <lb/>vnd nun zum andernmal an vielen enden vermehrt vnd
+          <lb/>erklärt.
+          <lb/>Marque typographique de B. Jobin (H. « B., Planche XXXVIII,
+          <lb/>No 10, mais sans l’encadrement.)
+          <lb/>Au-dessous: Mit Röm: Key: May: Freyheitt auff zehen
+          <lb/>Jar.
+          <lb/>Straszburg, bei B. Jobin, 1586. (Verso blanc.)
+          <lb/>In-8°, car. goth., 8 ff. non ch., 767 pages ch., 3 ff. non ch,, titre
+          <lb/>courant, réclames, notes marginales, p. 41 vignette, initiales ornées
+          <lb/>W, V; titre rouge et noir.
+          <lb/>fol. 2 non ch.: Dem Wolgebornen Herrn, Herrn Eberhart,
+          <lb/>Herrn zu Ra- poltstein, Hohenack vnd Geroltzeck! am
+          <lb/>Wassichin, etc. Meinem Gnä- digen Herrn... — Datum
+          <lb/>Forpach, den er- sten Septembris, Anno 1586... Johann
+          <lb/>Fischart G. M. der Rechten vnd Amptmann! zu Forpach.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

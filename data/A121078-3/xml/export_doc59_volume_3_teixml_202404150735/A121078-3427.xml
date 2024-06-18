@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:13.964709+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3427.tif
+IMAGE WIDTH: 2422
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>(Druckerm. Zetzner&amp;#x27;s. H&amp;amp; B Tafel XLIX Nr. 21.) Darunter: Cum
+          <lb/>Gratia &amp;amp; Priuilegio Caes. Maiest.
+          <lb/>ARGENTINAE Per LAZARVM ZETZNERVM. CID ID XCH.
+          <lb/>8°, Antiq., 8 unn. Bll., 206 S., 5 unn. 2sp. Bll. (Index), Kopft.,
+          <lb/>Kust., Marg. in Kursiv, Init., Vign.
+          <lb/>Bl. 2a:...GEORGIO FRIDERICOComiti in Hardegg,
+          <lb/>Glatz, &amp;amp; Machland, haereditario Austriae! Archiducatus...
+          <lb/>MELCHIOR JVNIVS S. P. D.... — ARGENTINAE, 7. Idus
+          <lb/>Martij. Anno... 1585. (Vorrede, 5 Bll.)
+          <lb/>R102.142. Prov.: J. Bensheimer, Antiguariat, Strassburg 30.VII.
+          <lb/>1879;3M.
+          <lb/>1294
+          <lb/>JUNIUS Melchior
+          <lb/>Strassburg, L. Zetzner 1592-1600
+          <lb/>Orationum quae argent. in academia, exercitii
+          <lb/>gratia, scriptae et  recitatae ab ILLVSTR. GENEROS.
+          <lb/>Nobilibus &amp;amp; alijs. Ad tractandum verò propo sitae fue¬
+          <lb/>runt. à MELCHIORE JVNIO Vui- tebergensi. Eloquentiae
+          <lb/>ibidem Professore.
+          <lb/>80, Kursiv, Kopft., Kust., Init.
+          <lb/>PARS PRIMA. (Druckerm. Zetzner&amp;#x27;s. HEB Tafel XLIX Nr. 21.)
+          <lb/>MONTEBELGARDI. Per LAZARVM ZETZNERVM) CIO ID XCV.
+          <lb/>(Rücks, leer.)
+          <lb/>8 unn. Bll., 560S.
+          <lb/>Bl. 2a: Dominis Archiducatus Austriae superioris Prae¬
+          <lb/>sidibus... MELCHior JVNIVS... — Argentorati 18. Cal. Jan.
+          <lb/>Anno M. D. LXXXIX. (Vorrede, 10 S.)
+          <lb/>PARS SECVNDA.
+          <lb/>ARGENTINAE per LAZARVM ZETZNERVM M. D. XCII.
+          <lb/>8 unn. Bll., 446 S.
+          <lb/>Bl. 2a: D. JOACHIMO FRIDERICO: MAGDEBVRGENSIS ARCHI¬
+          <lb/>EPISCOPATVS ADMINISTRATORI POSTVLATO... ET D. HENRICO
+          <lb/>JVLIO: POSTVLATO EPISCOPO HALBERSTATENSI... Melchior
+          <lb/>Witebergensis, Eloquentiae Argentinensi in Academia Pro¬
+          <lb/>fessor. (Vorrede, 11 S.)
+          <lb/>Bl. 8a: AD... MELCHIOREM JVNIVM WITE- bergensem...
+          <lb/>Hendecasyll. (40 lat. Verse von Bernh. Pretorius.) Jespurg. Catti...
+          <lb/>— 3 Non. Febr. Anno 92. (2S.)
+          <lb/>869
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

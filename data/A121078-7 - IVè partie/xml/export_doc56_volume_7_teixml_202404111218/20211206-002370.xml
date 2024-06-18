@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:11.150238+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002370.tif
+IMAGE WIDTH: 2516
+IMAGE HEIGHT: 3962
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>MISSALE speciale : noviter impressum ac diligenter emen¬
+          <lb/>datum et castigatum. — (Strasbourg, René Beck 1520),
+          <lb/>in-fol.
+          <lb/>Schmidt IV, p. 26, n° 31; Weale-Bohatta 1479; Ritter:
+          <lb/>B M Strasbourg, n° 1496. — Jadis Bibl. de Strasbourg, Incun.
+          <lb/>n° 3420, Bibl. du Consistoire Colmar; Hiersemann (Leipzig),
+          <lb/>Catal, 557 (1925), n° 316 : 80 M. Panzer 6, 94.
+          <lb/>2709
+          <lb/>MODELBUCH : Schön Neues Modelbuch... — Strasbourg,
+          <lb/>Jost Martin (in Verlegung Wilhelm Hoffmans, Burger
+          <lb/>von Leiptzig) 1599, in-4°.
+          <lb/>Rosenthal (Munich), Catal. 135 (1914), n° 1599 : « Vorliegende
+          <lb/>erste Ausgabe des Strassburger Modelbuches kennt Lipperheide
+          <lb/>nicht, er citiert nur die spätere vom Jahre 1606».
+          <lb/>2710
+          <lb/>MOERIN (Die). Voir : HERMANN von Sachsenheim, n° 1993.
+          <lb/>MOERSHEYMER, Mercur. Voir : KIRCHMAIR, n° 2244.
+          <lb/>MOHAMET. Voir: (DRECHSLER, Wolfgang), n° 1525.
+          <lb/>MOIBANUS, Ambrosius : Wunderbarliche geschicht so sich
+          <lb/>kurtzlich, inn der Slesien zu Olse inn der Statt, und im
+          <lb/>dorffe Schmelwitz bey der Schweidnitz von einem
+          <lb/>erschreklichen ungewitter begeben haben...— (Strasbourg,
+          <lb/>Jean Prüss 1536), in-4°.
+          <lb/>Walter, n° 1894; Schmidt III, p. 41, n° 45. — B M Sélestat;
+          <lb/>Bibl. S. Guillaume, Strasbourg.
+          <lb/>2711
+          <lb/>MOIOBANUS, Ambrosius. Voir aussi: BUGENHAGEN, Joh.,
+          <lb/>n° 1233.
+          <lb/>MOLITORIS, Ulricus : Von Hexen und Unholden... Anfenglich
+          <lb/>vor 114 Jaren durch Ulricum Molitoris, von Costnitz...
+          <lb/>Lateinisch in form eines gesprechs, gestellet und jetz
+          <lb/>auffs trewlichst verteutschet, und in gewisse Dialogos
+          <lb/>abgetheilet. Durch Conradum Lautenbach, Pfarrhern zu
+          <lb/>368
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:12.133727+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002416.tif
+IMAGE WIDTH: 2492
+IMAGE HEIGHT: 4012
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>oder nicht... — Strasbourg, Josias Rihel (1584), in-4°.
+          <lb/>[Une éd. Jos. Rihel 1583 : Ritter, Rép. n° 1886).
+          <lb/>Zinner 3155. (Quelques-uns l’attribuent à Hélisaeus RoESLIN).
+          <lb/>2949
+          <lb/>PLINIUS, Secundus (major) : Historia mundi, 2e livre, avec
+          <lb/>commentaire de J. Millichius... — Haguenau, Pierre
+          <lb/>Brubach 1535, in-40.
+          <lb/>Choulant, Handbuch p. 199. (BN Strasbourg R 101.749;
+          <lb/>Rép, n° 1575).
+          <lb/>2950
+          <lb/>PLINIUS, Secundus Cajus: Naturae historiarum libri XXXVII
+          <lb/>e castigationibus Herm. Barbari. — Haguenau, Thomas
+          <lb/>Anshelm 1518, in-40.
+          <lb/>Zinner 1096. (B N Strasbourg : Ritter, Rép. n° 1887). 2951
+          <lb/>PLINIUS, Secundus Cajus Caecilius : Epistolarum libri decem...
+          <lb/>— Strasbourg, Ulrich Morhard, novembre 1521, in-4°.
+          <lb/>Panzer 6, 97; Schmidt IV, p. 29, n° 5 féd. Schurer 1514 :
+          <lb/>Ritter, Rép. n° 1890).
+          <lb/>2952
+          <lb/>PLINIUS, Secundus Cajus Caecilius. Voir: AURELIUS, Victor
+          <lb/>Sextus, n° 874; SYRIA, n° 3309.
+          <lb/>PLUTARCHUS : Problema Plutarchi Cheronei. Num in convivio
+          <lb/>philosophandi sit locus? Ex symposiacis eiusdem.
+          <lb/>Ottomaro Luscinio... interprete. — Strasbourg, Jean
+          <lb/>Schott s. d., in-40.
+          <lb/>Schmidt, Hist. litt. II, p. 415, n° 293.
+          <lb/>2953
+          <lb/>PLUTARCHUS : De his qui tarde a Numine corripicentur
+          <lb/>Libellus (trad, par Billibald Pirckheymer). — (Strasbourg,
+          <lb/>Mathias Schürer, mars 1514), in-40.
+          <lb/>Panzer 6, 68; Schmidt VIII, n° 132. — B M Zurich;
+          <lb/>Weislinger, Catal. 167.
+          <lb/>2954
+          <lb/>PLUTARCHUS : Problema... Num in convivio philosophandi
+          <lb/>414
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:05.916043+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3077.tif
+IMAGE WIDTH: 2322
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>ERASMUS : Carmen in martirum Rofensis Episcopi
+          <lb/>Hagenau, V. Kobian 1536
+          <lb/>(Epheubl.) INCOMPARABILIS DOCTRINE TRIVM ITEM LIN¬
+          <lb/>GVA- rum peritissimi uiri D. Erasmi Rotherodami, in sanc¬
+          <lb/>tissi morum martirum Rofensis Episcopi, ac Thomae! Mori,
+          <lb/>iam pridem in anglia pro Christianaueritate constanter
+          <lb/>defensa, innocenter! passorum, Heroicum Carmen tam
+          <lb/>elegans quam lectu dignissimum. Adiunctis Scoliis cum
+          <lb/>Sacratissime ac Catholice Caesareae Maiestatis tum illius
+          <lb/>mater- ni aui Ferdinandi Quinti, Hispaniarum Regis, digna
+          <lb/>praeconia continentibus.
+          <lb/>Druckerm. Kobian&amp;#x27;s. (H a B Tafel LXVIII Nr. 1.)
+          <lb/>Links von der Marke: Anno M. D. mens; rechts XXXVI.
+          <lb/>Septem: Darunter: Non Aquilae grandi sociatum turgide
+          <lb/>Pauum Galle premes tecum mox Leo uictus erit. (Rückseite
+          <lb/>leer.)
+          <lb/>Am Schluss : Excusum in Imperiali Camera, &amp;amp; Opido
+          <lb/>Haganau per Valentinum Kobian: Anno. M. D. XXXVI.
+          <lb/>40, Antiq., 7 unn. Bll., Sign. A-B. Kust, Init. A, E.
+          <lb/>Bl. A 2a : Brief des Hieronymus Gebweiler: Ioanni Comiti
+          <lb/>Palatino Rheni..., datiert aus Hagenau: Kalendis Septembri¬
+          <lb/>bus Anno Virginei partus M. D. XXXVI. (Epheubl., Zierleist.)
+          <lb/>Bl. A 3a: D. ERASMI ROTE- RODAMI CARMEN HEROICVM
+          <lb/>In mortem Thomae Mori, (4 S.) und ein Epitaphium des lo. S.Ja¬
+          <lb/>pidus] über Thomas Morus (3 Dist.)
+          <lb/>Bl. B-B 2b: SEOVITUR NONNULLARVM! dictionum &amp;amp;
+          <lb/>Historiarum praesentis carmi nis breuissima elucidatio.
+          <lb/>M. Hiero nimo Geblwilerol; autore. (4S.)
+          <lb/>Bl. B2b: VITA D. IOANNIS! PHISCERI ROFENSIS EPISCOPI
+          <lb/>ex D. Erasmi Roterodami scriptis! elicita. (2 S.)
+          <lb/>Bl. B 3b: PASSIO EPISCOPI ROFFENSIS! et Thome Mori
+          <lb/>... Actum Anno M. D. XXXV. Darunter: Errata.
+          <lb/>R 100.937. Prov.: Bibl. Heitz, Strassburg.
+          <lb/>GK: SB München.
+          <lb/>791
+          <lb/>521
+          <lb/>ERASMUS: Colloquia
+          <lb/>Strassburg, J. Frölich 1537
+          <lb/>EPITOME COLLOQVIORVM Erasmicorum, continens in
+          <lb/>se communiores quo- tidiani sermonis! formulas, iam
+          <lb/>primum in puero- rum usum congestum &amp;amp; aeditum.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

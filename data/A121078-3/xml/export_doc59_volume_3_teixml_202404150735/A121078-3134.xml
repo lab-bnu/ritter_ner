@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:06.776011+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3134.tif
+IMAGE WIDTH: 2306
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>578
+          <lb/>FONTANUS Jacobus
+          <lb/>Hagenau, J. Setzer 1527
+          <lb/>(Epheubl.) DE BELLO! RHODIO, LIBRI TRES, ELE MENTI VII.
+          <lb/>PONT. MAX.dedicati, lacobo Fontano Brugensi autore.
+          <lb/>Ad Reuerendiss. Principem ac Dominum D. Albertum
+          <lb/>S. Romanae Ecclesiae Cardinalem, Moguntinumque Archi¬
+          <lb/>epi- scopum &amp;amp;c. ut deliberet, non modo de bello Turcio,
+          <lb/>sed eti- am de sanandis Ecclesiasticis dissensionibus, Phi¬
+          <lb/>lippi Melanch thonis Exhortatoria Epistola.
+          <lb/>Haganoae apud Ioannem Secerium Anno M. D. XXVII.
+          <lb/>Mense Augusto.
+          <lb/>Am Schluss: Haganoae per lohannem Secerium. Anno
+          <lb/>M. D. XXVII. Mense Augusto. Darunter Druckerm. Setzers. (HEB
+          <lb/>Tafel LXXI Nr. 9; Silvestre Nr. 567.)
+          <lb/>40, Antig., 56 unn. Bll., Sign. A-O, Kopft., Kust., Init.; Titel¬
+          <lb/>einfassung, 4 einzelne Leisten.
+          <lb/>Auf der Rücks, des Titelbl.: PRAFFATIO... DOMINO D. AL¬
+          <lb/>BERTO... Philippus Melanchthon, S. D. (5 S.)
+          <lb/>Bl. A 4a: PHIL. MEL. CLEMENTI VII. PONT. MAX.
+          <lb/>IACOBVS FONTA- NVS FOELICITATEM. (3 S.)
+          <lb/>R102.124. Prov.: F. Butsch Sohn, Augsburg 23. VII. 1877; 6M.
+          <lb/>Stadtbibl. Strassburg 479; GK: SB Berlin, UB Göttingen, Kö¬
+          <lb/>nigsberg. Walter: Schlettstadt 635.
+          <lb/>875
+          <lb/>FONTANUS Jacobus: Der schönen Insel Rhodus Verlust. Siche :
+          <lb/>FLORIDUS Franciscus Sabinus: Kriegsübung. Bl. OL-CLIII.
+          <lb/>Strassburg, G. Messerschmidt 1551. Nr. 872.
+          <lb/>FORMULAE
+          <lb/>Strassburg, J. Frölich 1542
+          <lb/>QVOTIDI- ANI SERMONIS FOR- mulae communiores ex
+          <lb/>usum decerptae. S. L.
+          <lb/>Druckerm. Frölich&amp;#x27;s (H e B Tafel XXV Nr. 2; Silvestre Nr. 669).
+          <lb/>EXCVSVM ARGEN- tinae, in aedibus lacobi lucundi,
+          <lb/>Anno M. D. XLII. (Rücks, leer.)
+          <lb/>Am Schluss: EXCVSVM ARGENTINAE, In aedibus lacobi
+          <lb/>Iucundi, Anno M. D. XLIII. * (Zierleisten.)
+          <lb/>80 Antig,, 40 unn. Bll., Sign. A-E, Kust., Init. M.
+          <lb/>R102411. Prov.: Lippert, Halle S. XII. 1886; ohne Preisangabe.
+          <lb/>876
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

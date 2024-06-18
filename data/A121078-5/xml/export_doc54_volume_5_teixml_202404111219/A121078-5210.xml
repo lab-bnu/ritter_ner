@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:56.886140+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5210.tif
+IMAGE WIDTH: 2358
+IMAGE HEIGHT: 3860
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1520
+          <lb/>A la fin : Excusum Argentine In edibus!! zum thiergarten.
+          <lb/>Per RenatumBeck ciuem argentinensem. An! no Millesimo
+          <lb/>quingentesimo decimo quarto.
+          <lb/>In-4°, car. goth., 2 col., 152 ff. non ch., sign. a-z, A-E, titre courant,
+          <lb/>init. ornées, titre encadré, autre forme du Thiergarten: au haut une treille,
+          <lb/>des deux côtés des arbres, sur celui de gauche grimpe un singe, sur celui
+          <lb/>de droite un enfant; en bas, un parc avec des animaux, au milieu un
+          <lb/>écusson tenu par deux génies et renfermant le monogramme de R. Beck
+          <lb/>(H. &amp;amp; B., Planche XIV, No 1).
+          <lb/>Au verso du titre : Prologus. Au-dessous: Ad lectorem (4 dist.).
+          <lb/>R. 101.619. Prov. : Baer, Francfort-s.-M., 22/xI, 1878; sans indic. de
+          <lb/>prix.
+          <lb/>Schmidt IV, p. 21, n° 18; Ritter, BM Strasbourg, N° 2189, 2437
+          <lb/>VOCABULARIUS Juris
+          <lb/>Haguenau, H. Gran, 1508
+          <lb/>Voçabularius vtriusque iuris. (Verso blanc.)
+          <lb/>A la fin : ... Impensis circumspecti viri archi-bibliopole
+          <lb/>Joannis rynman de Oringaw :! in officina industrij Henrici
+          <lb/>Gran : ciuis inOpido imperiali Hagenaw impressus Finit
+          <lb/>feliciter Anno salutis nostre, Millesimo quin! gentesimo
+          <lb/>octauo, xiij. die mensis Februarij.
+          <lb/>In-fol., car. goth., 130 ff. non ch. dont le dernier blanc, sign. a-x, titre
+          <lb/>courant, init. d’attente.
+          <lb/>R. 10.541 (2). Prov. : Don de Fid. Butsch, Augsbourg, 1871. Notes mss.
+          <lb/>à la fin de l’ouvrage.
+          <lb/>2438
+          <lb/>VOCABULARIUS Praedicantium. Voir: MELBER Johannes.
+          <lb/>VOCABULARIUS rerum. Voir : BRACK Wenceslaus.
+          <lb/>VOCABULARIUS Terminorum Strasbourg, J. Prüss père, 1502
+          <lb/>A la fin : Impressus per industrium vi-rum Iohannem
+          <lb/>prusz ciuem Argenti] nensem. Anno. M. CCCCII. (!) xviij. I)
+          <lb/>Kal. Februarij.
+          <lb/>In-4°, car, rom., 34 ff. non ch. dont le dernier blanc, sign. A-E, titre
+          <lb/>courant, init. d’attente. Au verso du titre : la Vierge, patronne de
+          <lb/>Strasbourg avec la légende : « Virgo roga, etc. ».
+          <lb/>&amp;quot;R. 101.092. Prov. : K. J. Trübner, Strasbourg, 5/VII, 1880; 10 M.
+          <lb/>A l&amp;#x27;intérieur du Ier plat : les armoiries de la famille Thun et Taxis.
+          <lb/>Proctor II, Sectio I, N° 9962; Londres, British Museum; Schmidt III,
+          <lb/>p. 10, N° 33 : Jadis Bibl. de Strasbourg, Incun. No 4867 et Bibl. cantonale
+          <lb/>Aarau. Baer, Francfort-s.-M., Catalogue 500 (1907), N° 1319; 60 M. :
+          <lb/>« Die vorzüglich gezeichneten Holzschnitte erheben sich weit über den
+          <lb/>Durchschnitt gleichzeitiger Strassburger Arbeiten; sie scheinen Jugend¬
+          <lb/>arbeiten Hans Wechtelins zu sein. (Voir titre p. 1521).
+          <lb/>2439
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

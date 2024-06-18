@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:47.391434+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078166.tif
+IMAGE WIDTH: 2308
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1052
+          <lb/>In-4°, car. goth., 116 ff. non ch., sign. A-Z, a-f, de nombreuses
+          <lb/>init. ornées; la plupart des pages ont une pièce d’encadrement; 52 gra¬
+          <lb/>vures satiriques outre celle du titre, qui est répétée au fol. A 4a.
+          <lb/>Au verso du titre: MVRNER. Sicut fecerunt mihi sic! feci eis
+          <lb/>inde. (8 vers allemands.)
+          <lb/>Fol. A 2a-A 3b: Préface de Murner au lecteur.
+          <lb/>R100.319. Prov. : Bibl. Ch. Schmidt, Strasbourg, avec son ex¬
+          <lb/>libris et une annotation de sa main au recto du f. de garde:,V. Sur
+          <lb/>l’interdiction de ce livre par le magistrat de Strasbourg : Schmidt, His¬
+          <lb/>toire litt. de l’Als. 2, 246.
+          <lb/>BN Paris, Rés. D2. 774 (14); Schmidt I n° 193 remarque qu’à
+          <lb/>la suite de la prohibition du livre, Gruninger voulant sauver le reste
+          <lb/>de son édition, fit un nouvel explicit avec une excuse, qui n’empécha
+          <lb/>pas le maintien de l&amp;#x27;interdiction. D’après Schmidt la Bibl. de Nurem¬
+          <lb/>berg possède un exemplaire avec l’excuse de Gruninger; notre exem¬
+          <lb/>1617
+          <lb/>plaire ne la contient pas.
+          <lb/>MURNER Thomas
+          <lb/>Strasbourg, J. Knobloch 1556
+          <lb/>Die Narrenn be- schwerung. Ein gar sehr kurtz¬
+          <lb/>weiligs und lustigs Büchlin, inn Reimen gestelt, inn
+          <lb/>welchem gemeldet und angezeigt würt, was jetz und der
+          <lb/>welt lauff und monier sey, mit vil schõ¬nen figuren, sampt
+          <lb/>einem newen register, durch Georg Wickram auff ein
+          <lb/>newes überlesen, und an vil orten corrigiert, Auch die
+          <lb/>Reimen gemert und gebessert. (Grav, sur bois: un fou retenu
+          <lb/>par force dans une baignoire, à côté de lui, un homme qui le tient par
+          <lb/>une corde au cou et fait sortir de lui de petits fous, en outre 3 autres
+          <lb/>personnages, dont l’un tient un livre.) Verso blanc.
+          <lb/>A la fin: Gedruckt zû Straszbug (!),n Knoblochs
+          <lb/>Druckerey. M. D. Ivi.
+          <lb/>In-4°, car. goth., CLXXVII ff. ch. (chiffre xii est sauté), 2 ff. non ch.
+          <lb/>(table), titre courant, réclames, titre rouge et noir. 95 grav. outre celle
+          <lb/>du titre, avec les 18 d’Urs Graf, 2 portent son monogr.; quelques-unes
+          <lb/>sont répétées.
+          <lb/>Fol. A 2a-A 3b: Vorred.
+          <lb/>Fol. A 3b-4 4b: Verachtung des dichters.
+          <lb/>Fol. A 4b-B 2a: Antwort des dichters.
+          <lb/>Fol. 1754-177b: Entschuldigung des dichters.
+          <lb/>R100.322. Prov. : Rosenthal, Munich 26/IV 1916; 100 M. In¬
+          <lb/>complet. Fol. 7, 33, 98 et 99 manquent.
+          <lb/>1618
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

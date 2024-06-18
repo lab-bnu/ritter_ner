@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:37.388972+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu072.tif
+IMAGE WIDTH: 2384
+IMAGE HEIGHT: 3844
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>GRATIANUS: Decretum. Strasbourg, (J. Grüninger), 4 sep¬
+          <lb/>tembre 1489, in-fol.
+          <lb/>Hain 7907, Pellechet 5327, Walter: Sélestat 225.
+          <lb/>K 1390. Prov.: Don de Fid. Butsch fils, Augsbourg, 1872.
+          <lb/>Note mss. à l’intérieur du 1er plat. Rel. anc.
+          <lb/>192
+          <lb/>GREGORIUS I. Magnus: Dialogorum libri quatuor. (Stras¬
+          <lb/>bourg, H. Eggestein, vers 1474), in-fol.
+          <lb/>Hain 7957, Madsen 1769, Pellechet: Colmar 680, Proctor 276.
+          <lb/>K 1778. Prov.: F. Butsch, Augsbourg, 12/x. 1883, 11 M. 193
+          <lb/>GREGORIUS I. Magnus: Pastorale (Strasbourg, imprimeur
+          <lb/>du Jordanus (— G. Husner)), 12 mars 1496, in-4°.
+          <lb/>Hain 7987, Madsen 1799, Pellechet 5391, Proctor 642, Voul¬
+          <lb/>liéme: Berlin 2462.
+          <lb/>K 1785. ProV.: B N Munich, 16/XII. 1879, 1 M. Au-dessous
+          <lb/>du titre: «In usum F. F. staingardensium... (2) 1649».
+          <lb/>Rel. anc.
+          <lb/>194
+          <lb/>GREGORIUS IX: Decretales cum glossa. (Strasbourg, H. Egge¬
+          <lb/>stein, vers 1468), in-fol.
+          <lb/>Hain 7996, Madsen 1814, Proctor 273, Voulliéme: Berlin 2154.
+          <lb/>K 1382. Prov.: Don de la ville de Heilbronn, 1871. Notes mss.
+          <lb/>195
+          <lb/>GRITSCH JOHANNES : Quadragesimale. (Strasbourg, impri¬
+          <lb/>meur des Vitas patrum), 9 octobre 1486.
+          <lb/>Hain 8071, Proctor 425, Pellechet: Colmar 700, Voulliéme:
+          <lb/>Berlin 2259.
+          <lb/>K 1811. Prov.: Gilhofer-Ranschburg, Vienne, 19/VII. 1918,
+          <lb/>80 M. Au haut du 1er f.: «Conventus Aspernensis me possidet».
+          <lb/>196
+          <lb/>GRITSCH JOHANNES: Quadragesimale. (Strasbourg, impri¬
+          <lb/>meur du Jordanus, (— G. Husner)), 31 décembre 1490,
+          <lb/>in-fol.
+          <lb/>&amp;quot;
+          <lb/>Hain 8075, Madsen 1825, Pellechet: Colmar 702, Proctor 659,
+          <lb/>Voullième: Berlin 2442.
+          <lb/>K 1813. Prov.: Don de Fid. Butsch, Augsbourg, 1872. Au haut
+          <lb/>du titre: «Monasterij Ranshouen». Rel. anc.
+          <lb/>197
+          <lb/>42
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:32.858879+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2213.tif
+IMAGE WIDTH: 2280
+IMAGE HEIGHT: 3826
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>wie in eim spigel ersehen vnd erkant werden. Allen men¬
+          <lb/>schen nit allein fruchtbarlich vnd kurtzwei lig sonder
+          <lb/>auch schimpflich, vnd ernst- lich zû lesen, vnd zû hören.
+          <lb/>Berosias. K. Anastres Tassri.
+          <lb/>Au-dessous: gravure sur bois de Hans Baldung: un roi oriental,
+          <lb/>coiffé d’un turban, assis, en conversation avec deux hommes. (Verso
+          <lb/>blanc.)
+          <lb/>A la fin: Getruckt in der Loblichen Statt Strasz-burg,
+          <lb/>durch Bartholomeum Grieninger. Vnd Vol- lendet Auff
+          <lb/>Sant Adolffs tag, inn dem Jar Christi, vnsers Herren.
+          <lb/>M. D. XXXVI.
+          <lb/>In-fol., car. goth., 4 ff. non ch., CVII ff. ch., titre courant, notes
+          <lb/>marginales; 119 gravures, empruntées pour la plupart à des ouvrages
+          <lb/>antérieurs, dont un grand nombre de l’édition 1501 de Jean Grüninger;
+          <lb/>beaucoup sont composées de 2 bois.
+          <lb/>fol. A 2a non ch: Register.
+          <lb/>fol. A 3b : Etliche sprüch der weisen zû erkennen die
+          <lb/>sitten der menschen.
+          <lb/>fol. A 4 non ch.: Zûm läser (32 vers allemands.)
+          <lb/>Au verso: gravure d’une page de Hans Baldung: un roi assis sur
+          <lb/>le trône, avec couronne et sceptre, devant lui plusieurs personnes, dont
+          <lb/>la première lui offre un livre. Au-dessous: Sendebar der veiss meister.
+          <lb/>Künig Diseles.
+          <lb/>*R10.072. Prov.: Trübner, Strasbourg, 9/VI. 1881, 50M.
+          <lb/>Manque chez Schmidt; GPB: Berlin SB, Berlin BU, Halle BU.
+          <lb/>314
+          <lb/>BUCH DER WEISHEIT
+          <lb/>Strasbourg, J. Frölich, 1539.
+          <lb/>Der Alten Weisenn exempel sprüch, mit vil schö
+          <lb/>nen Beyspilen vnd Figuren erleüchtet. Dar-innen fast
+          <lb/>aller menschen wesen, Händel, Vntrew,! List, Geschwin¬
+          <lb/>digkeyt, Neyd vnd Hassz, Figuriert vnd angezeygt werden.
+          <lb/>In welchem auch nicht weniger der heymlich neyd vnd
+          <lb/>hassz, so sich beyweilen an Küniglichen, vnd Fürstlichen
+          <lb/>höfen, zwi- schen Rhäten vnd anderen, des Regiments
+          <lb/>verwandten, mit falscher schmeych- lerey, vnd verrhäterey
+          <lb/>der bosshafftigen, wider die getrewen vnd frummenz¬
+          <lb/>tragen, gleich wie in eim spiegel ersehen vnd erkant werden.
+          <lb/>Allen menschen nit alleyn fruchtbarlich vnd kurtzweilig,
+          <lb/>sonder auch schimpfflich, vnd ernstlich zû lesen, vnd zû
+          <lb/>hören.Berosias. K. Anastres Taszri.
+          <lb/>R.14
+          <lb/>209
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

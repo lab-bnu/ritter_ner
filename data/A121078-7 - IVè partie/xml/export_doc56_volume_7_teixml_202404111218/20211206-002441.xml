@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:12.842013+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002441.tif
+IMAGE WIDTH: 2498
+IMAGE HEIGHT: 3964
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>nomei, Des weitberümpten M. Johannes Künigspergers,
+          <lb/>kurtzer begriff. — Strasbourg, Christian Egenolph 1529,
+          <lb/>in-4°.
+          <lb/>Zinner 1393 (d’après lui l’ouvrage n’est pas de Regiomontanus).
+          <lb/>3085
+          <lb/>REGIOMONTANUS, Joh. : New und Volmon, des tags leng,
+          <lb/>finsternisz der Sonnen und des Mons... bisz auff das
+          <lb/>1556 jar erlengt. Sampt den figuren der zwölff Zeychen.
+          <lb/>XXXVI Bildern des himmelsz, und sieben Planeten und
+          <lb/>wie die mit irer influentz, in die menschen darunter
+          <lb/>geboren, wircken... Eys schön Vergleichung der Astro¬
+          <lb/>nomi mit der Artznei... New auszgangen. — Strasbourg,
+          <lb/>Jacques Cammerlander 1532, in-4°.
+          <lb/>Ritter, Hist. imp. p. 290.
+          <lb/>3086
+          <lb/>REGIOMONTANUS. Voir aussi : KALENDER, nos 2189, 2193.
+          <lb/>REGIUS, Ernst : De Philippo Melanchthone oratio. Argentorati
+          <lb/>habita anno 1561 die obitus. — Strasbourg, Wendelin
+          <lb/>junior et Hieronymus Rihel (1561), 31 ff. in-8°. 3087
+          <lb/>REGIUS, Urbanus. Voir: RHEGIUS.
+          <lb/>REGULAE : Regule congruitatum. Regimina. Constructiones.
+          <lb/>(Icon xylographicum cum nomine : Mathias Hupfuff
+          <lb/>de Argentina). — (Strasbourg, Mathias Hupfuff s. d.),
+          <lb/>in-4°.
+          <lb/>Hain 13.832; Schmidt V, n° 15.
+          <lb/>3088
+          <lb/>REICHSTAG : Der Bawren Reichstag und Concilium. Wesz
+          <lb/>sich die sieben Bawren ausz sieben Landtschafften
+          <lb/>vereynigt, und zu antwurt geben dem Cardinal Campeio,
+          <lb/>und seinen mitgesandten auff das verkündt Bäpstisch
+          <lb/>Concilium, wa bei sie bleiben wöllen, in sieben artickel
+          <lb/>gestelt. — (Strasbourg, Jacques Cammerlander 1539),
+          <lb/>in-40°.
+          <lb/>Kuczyński, n° 2268 : « Verfasser ist Utz Echstein... Siche auch
+          <lb/>439
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

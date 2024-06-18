@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:05.426292+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3043.tif
+IMAGE WIDTH: 2338
+IMAGE HEIGHT: 3838
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>rerio condita, quo dicto citius quaerenti quoduis occurrat.
+          <lb/>LECTOR EME, LEGE, ET PROBABIS.) λagc καιρóν.
+          <lb/>Am Schluss: Argentorati Matthias Schurerius Se- le¬
+          <lb/>stensis stanneis calamis exscripsit! Mense lanuarij. Anno
+          <lb/>a Chri sto nato. M. D. XVIII.
+          <lb/>40, Antiq, 4 unn., LVII num. u. 7 unn. Bll., Kopftitel, Titel rot
+          <lb/>und schwarz, Titeleinfassung (Siche Nr. 97, S. 55).
+          <lb/>Wörtlicher Abdruck der Ausgabe von 1517. Die Seitenleisten der
+          <lb/>Titeleinfassung sind umgekehrt angebracht.
+          <lb/>Auf der Rückseite des Titelbl.: ... Praefatio.Desiderius
+          <lb/>Erasmus Roterodamus Guilielmo Mo-nioio Comiti... Par¬
+          <lb/>risij.
+          <lb/>Bl. a 4b: MATTHIAS SCHVRERIVS SELESTENSIS LECTORI
+          <lb/>... Argentorati, xiiij. Calendas ulij, Anno, a Christo nato.
+          <lb/>M. D. IX.
+          <lb/>*R100.099. Geschenk des Barons von Dörnberg mit dessen Ex¬
+          <lb/>libris und der Jahreszahl 1890.
+          <lb/>GK: SB Berlin, UB Breslau; Rest S.46; Schmidt VIII, Nr. 227:
+          <lb/>Kantonalbibl. Aarau; Van der Haeghen I, S. 39: Dresden, Freiburg
+          <lb/>729
+          <lb/>i. Br. Gent, Lemberg, München, Grossherz. Bibl. Weimar.
+          <lb/>487
+          <lb/>Strassburg, M. Schürer, 1818
+          <lb/>ERASMUS: De duplici copia
+          <lb/>DESYDERII ERASMI ROTERO- DAMI, DE DVPLICI CO
+          <lb/>PIA, VERBORVM, AC RERVM COM ENTARII DVO.
+          <lb/>Ab Authore ipso diligentissime recogniti, &amp;amp; emacu¬
+          <lb/>lati, atque! in plerisque locis aucti. ITEM Epistola Erasmi
+          <lb/>Roterodami,) ad Iacobum Wimphe- lingum Selesta-tinum.
+          <lb/>Am Schluss: Argentorati, apud Schurerium, Mense De¬
+          <lb/>cembri. Anno M. D. XVIII. (Rückseite leer.)
+          <lb/>40, Antiq, 6 unn., LXXI num. u. 5 unn. Bll., Kopftitel, Zier¬
+          <lb/>init. V, Titeleinfassung (Siche Nr. 97, S. 55).
+          <lb/>Auf der Rüekseite des Titelbl.: Privileg Maximilians...: Datum
+          <lb/>in oppido nostro Imperiali HagenauDie uicesima sexta.
+          <lb/>Mensis Decembris. Anno Domini M. D. XVI... Ia. Spiegel.
+          <lb/>Bl. 2a: Erasmvs Roterodamvs Mat- thiae Schurerio
+          <lb/>Selestano... Basileae. Anno. M. D. XIIII. ad Idus Octobris.
+          <lb/>(Folgen 7 S. Index.)
+          <lb/>Bl, 5b: Sebastiani Murrhonis Iunioris ad Lectorem.
+          <lb/>(2 Dist.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

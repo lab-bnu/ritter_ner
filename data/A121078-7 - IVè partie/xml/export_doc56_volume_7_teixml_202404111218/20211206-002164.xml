@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:05.919622+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002164.tif
+IMAGE WIDTH: 2486
+IMAGE HEIGHT: 3974
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>ERASMUS (Psalm) : Commentarius in psalmum quare fre¬
+          <lb/>muerunt gentes. — Strasbourg, Jean Knobloch 1522.
+          <lb/>Rest p. 50 : B U Fribourg-en-Br.
+          <lb/>1621
+          <lb/>ERASMUS (Psalm) : Ein fast nutzlich Auslegung des ersten
+          <lb/>Psalmen : Beatus vir qui non abiit in consilio impiorum.
+          <lb/>Durch Erasmum von Roterdam beschriben.
+          <lb/>Strasbourg, Jean Knobloch 1520, in-4° (Dédicace de
+          <lb/>Leo Judl.
+          <lb/>Schmidt VII, n° 208 : Bibl. St. Guillaume, Strasbourg; Weller,
+          <lb/>Rep. 1356; Ritter : B M Strasbourg, n° 898; Goedeke II2,
+          <lb/>p. 185, n° 39.
+          <lb/>1622
+          <lb/>ERASMUS (De pueris) : De pueris statim ac liberaliter insti¬
+          <lb/>tuendis Libellus et novus et elegans... — (Strasbourg,
+          <lb/>Christian Egenolph 1529), in-8°.
+          <lb/>Benzing: Egenolff, n° 16: B N Paris.
+          <lb/>1623
+          <lb/>ERASMUS (De pueris) : Zuchtiger Sitten zierlichen wandels
+          <lb/>und höflicher Geberden der jugent... — Strasbourg,
+          <lb/>Jacques Frölich 1536.
+          <lb/>B M Colmar.
+          <lb/>1624
+          <lb/>ERASMUS (De pueris) : De civilitate morum puerilium. —
+          <lb/>Strasbourg 1552.
+          <lb/>Rest p. 48: B U Fribourg-en-Br.
+          <lb/>1625
+          <lb/>ERASMUS (Quaerela) : Querela pacis... — Strasbourg, Mathias
+          <lb/>Schürer vers 1518, in-4°.
+          <lb/>Rest p. 60 : B U Fribourg-en-Br. [éd. Knobloch 1522 : Ritter,
+          <lb/>Rép. n° 765; Knobloch, juillet 1523, Rép, n° 772l.
+          <lb/>1626
+          <lb/>ERASMUS (Scarabeus). Cum scholiis... — (Strasbourg, Jean
+          <lb/>Knobloch 1522), in-4° (D’après l’éd. Froben, Bâle 15171.
+          <lb/>Van der Haeghen I, p. 558; Walter n° 1273.
+          <lb/>1627
+          <lb/>ERASMUS (Sermo) : Quotidiani Sermonis Formulae commu¬
+          <lb/>162
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

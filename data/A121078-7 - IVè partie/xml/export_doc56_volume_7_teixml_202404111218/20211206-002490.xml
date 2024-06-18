@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:13.668624+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002490.tif
+IMAGE WIDTH: 2494
+IMAGE HEIGHT: 3970
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>TESTAMENT (das Neue) : Das Neuw Testament recht gründt¬
+          <lb/>lich Teutscht... — Strasbourg, Jean Knob. loch) 1528,
+          <lb/>in-fol.
+          <lb/>Panzer, Bibelübersetzung Luthers, 136; Schmidt VII, n° 321;
+          <lb/>léd. Schott 1522, Knobloch 1524 et 1525, Grüninger 1527 et
+          <lb/>1529, Köpfel 1537; W. Rihel 1542 et 1549, Th. Berger 1576,
+          <lb/>Th. Rihel 1588; Ritter, Rép. nos 2306-2315].
+          <lb/>3336
+          <lb/>TESTAMENT (Das Neue) : Das neü testament gründtlich und
+          <lb/>recht, durchausz mit schoenen figuren... Fleiszig durch¬
+          <lb/>sehen, gemert und gebeszert durch Jacob Beringer. —
+          <lb/>Strasbourg, Jean Grüninger aux frais de Beringer 1532,
+          <lb/>in-fol.
+          <lb/>Londres, Brit. Mus. 3022. k. 10.
+          <lb/>3337
+          <lb/>TESTAMENT, das Neue : Das New Testament D. Mart. Luth.
+          <lb/>— Strasbourg, Georges Ulricher 1533, in-8°. (La date
+          <lb/>1533 se trouve à la fin de chaque partie et à la fin de la
+          <lb/>préface, tandis que la page du titre a la date 1543).
+          <lb/>Londres, Brit. Mus. 3049. aa. 17.
+          <lb/>3338
+          <lb/>TESTAMENT, Das Neue : Das gantz neüw Testament. (Trad.
+          <lb/>de M. Luther). — Strasbourg, Wolfgang Köpfel 1538,
+          <lb/>in-160.
+          <lb/>Londres, Brit. Mus. C. 18. a. 31.
+          <lb/>3339
+          <lb/>TESTAMENT, das Neue : [Texte hébreu, puis] : Fünff Bücher
+          <lb/>des Newen Testaments... Mit Ebreischen Buchstaben
+          <lb/>gedruckt, Ausz ursachen, so zum teil in der Vorrede,
+          <lb/>zum teil in einem sondern Deutschen Tractat erzelet
+          <lb/>werden, angeordnet. Durch M. Eliam Schadeum, und
+          <lb/>mit seinen Schrifften gedruckt, zu Straszburg. M. D.XCII.
+          <lb/>Bibl. S. Guillaume, Strasbourg. (B N Strasbourg : Ritter,
+          <lb/>Rép. n° 2316l.
+          <lb/>3340
+          <lb/>TESTAMENT (der zwölf Patriarchen) : Testament der Zwölff
+          <lb/>Patriarchen, der Söne Jacobs... Aus dem Gedruckten
+          <lb/>488
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

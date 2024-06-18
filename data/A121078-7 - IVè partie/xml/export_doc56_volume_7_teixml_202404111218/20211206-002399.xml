@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:11.897991+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002399.tif
+IMAGE WIDTH: 2518
+IMAGE HEIGHT: 3968
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>(Haguenau, Henri Gran pour J. Rynman (14 février)
+          <lb/>1504), in-4°.
+          <lb/>Beaulieux, p. 224 : B U Paris, Rés. 951; Burg, n° 352. (Éd.
+          <lb/>Gran 30 avril 1501, 10 juin 1501, 10 juin 1502, 23 avril 1505,
+          <lb/>Knobloch 20 mars 1506 : Ritter, Rép. nos 1812/3, 1817, 1824,
+          <lb/>18291.
+          <lb/>2855
+          <lb/>PELBARTUS de Themeswar (Sermones Quadragesimales):
+          <lb/>Sermones Quadragesimales... — (Strasbourg, Jean
+          <lb/>Knobloch expensis Joannis de Ravensperg Coloniensis
+          <lb/>1505), in-fol.
+          <lb/>Schmidt VII, n° 324: B U Fribourg.
+          <lb/>2856
+          <lb/>PELBARTUS de Themeswar (Sermones Quadragesimales):
+          <lb/>Pomerium Sermonum Quadragesimalium...
+          <lb/>—
+          <lb/>(Haguenau, H. Gran pour J. Rynman (24 janvier)
+          <lb/>1511), in-fol.
+          <lb/>Burg, n° 368.
+          <lb/>2857
+          <lb/>PELBARTUS de Themeswar (Sermones de sanctis) : Sermones
+          <lb/>Pomerii de Sanctis Hyemales, et Estivales... —
+          <lb/>(Strasbourg, Jean Knobloch, 20 mars 1505), in-fol.
+          <lb/>Schmidt VII, n° 323 : B U Fribourg. [Éd. Gran 1502 (Rép.
+          <lb/>n° 1818), Gran 24 janvier 1505 (Rép. n° 1825), Knobloch
+          <lb/>4 février 1505 (Ritter, Rép. n° 1826), Gran octobre 1507
+          <lb/>(Rép. n° 1831)].
+          <lb/>2858
+          <lb/>PELBARTUS de Themeswar (Sermones de sanctis) : Pomerium
+          <lb/>sermonum de Sanctis Hyemales et Estivales... Pomerium
+          <lb/>Sermonum de beata virgine dei Genitrice vel Stellarium
+          <lb/>Corone beate virginis... — (Haguenau, Henri Gran aux
+          <lb/>frais de Jean Rynman (pridie Kal. Sept.) 1515), in-fol.
+          <lb/>Walter, no 2006 [éd. Gran décembre 1515 : Ritter, Rép.
+          <lb/>n° 1843l.
+          <lb/>2859
+          <lb/>PELBARTUS de Themeswar (Sermones de tempore): Sermones
+          <lb/>Pomerii de tempore, pars hiemalis et estivalis. —
+          <lb/>(Haguenau, H. Gran pour J. Rynman 1503), in-40.
+          <lb/>397
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

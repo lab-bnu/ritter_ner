@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:05.872203+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002161.tif
+IMAGE WIDTH: 2486
+IMAGE HEIGHT: 3970
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Schlussrede Magistri Hieronymi Gebwylers). (Haguenau
+          <lb/>1530), in-4°.
+          <lb/>Bibl. St. Guillaume, Strasbourg.
+          <lb/>1598
+          <lb/>ERASMUS (Epistel) : Eine schone auch Christenliche Epistel...
+          <lb/>wider ettliche, so sich fälschlichen berümen dass sie
+          <lb/>Evangelisch seyen, hievor zu Latein, yetzt kürtzlichen
+          <lb/>auch zu Teutsch auszgangen, darinn gar klärlich
+          <lb/>erkundet wird, was... Erasmus von dem neüwen oder
+          <lb/>alten Evangelio halte, wie man auch semliche zwytracht
+          <lb/>schickerlich hynlegen möchte. — [Haguenau, V. Kobian
+          <lb/>1532 ?1 in-4°.
+          <lb/>Burg n° 173. (Peut-être identique avec le n° 1598). 1599
+          <lb/>ERASMUS (Epistel) : Epistel wider etliche, die sich fälschlich
+          <lb/>rühmen, evangelisch zu sein. [Strasbourg vers 1533).
+          <lb/>Rest p. 53 : B U Fribourg-en-Br.
+          <lb/>1600
+          <lb/>ERASMUS (Epistolae) : De conscribendis epistolis. —
+          <lb/>Strasbourg, Jean Herwagen, février 1524.
+          <lb/>Rest p. 55 : B U Fribourg-en-Br. [éd. Herwagen 1525 : Ritter,
+          <lb/>Rép. n° 778; Egenolff 1529, Rép. n° 784; Albrecht 1534,
+          <lb/>Rép. n° 787l.
+          <lb/>1601
+          <lb/>ERASMUS (Evangelia) : Ex novo Testamento quatuor
+          <lb/>Evangelia... — Strasbourg, Hulderich Morhard, septem¬
+          <lb/>bre 1520, in-40.
+          <lb/>Schmidt IV, p. 29, n° 2; Ritter, Rép. n° 828.
+          <lb/>1602
+          <lb/>ERASMUS (Evangelium Matthaei) : Paraphrasis in evangelium
+          <lb/>Matthaei. — Strasbourg, Jean Knobloch, janvier 1523.
+          <lb/>Rest p. 59 : B U Fribourg-en-Br.
+          <lb/>1603
+          <lb/>ERASMUS : (Evangelium Marci). In evangelium Marci para¬
+          <lb/>phrasis... — (Strasbourg, Jean Knobloch, décembre
+          <lb/>1524), in-80.
+          <lb/>Schmidt VII, n° 286 : B M. Francfort-s-M.; Panzer 6, 105,
+          <lb/>683.
+          <lb/>1604
+          <lb/>159
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

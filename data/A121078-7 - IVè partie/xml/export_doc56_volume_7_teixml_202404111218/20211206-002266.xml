@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:08.734969+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002266.tif
+IMAGE WIDTH: 2526
+IMAGE HEIGHT: 3982
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>JACOBUS de Voragine : Der Heiligen Leben. — Strasbourg,
+          <lb/>Jean Grüninger 1510, in-fol.
+          <lb/>Kristeller 95; Schmidt I, n° 114; Weller, 566. B N Munich.
+          <lb/>2142
+          <lb/>JACOBUS de Voragine : Longobardica historia que Aurea
+          <lb/>legenda sive Passionale Sanctorum appellatur. —
+          <lb/>Beaulieux, p. 298, n° 612; B U Paris : Réserve 612 (éd.
+          <lb/>Husner, 1502; Ritter, Rép. n° 1256).
+          <lb/>2143
+          <lb/>JACOBUS de Voragine: (Idem). — Strasbourg, Jean Grüninger
+          <lb/>30.VIII.1514, in-fol.
+          <lb/>Schmidt I, n° 139. (Ritter, Rép. n° 1258: H. Gran 1516l.
+          <lb/>2144
+          <lb/>JACOBUS de Voragine. Voir aussi: (RITTER, Rép. nos 1256¬
+          <lb/>1258).
+          <lb/>JANUS a Svolta : Alphabetum theologicum sive tropi, Veteris
+          <lb/>per indeque Novi Testamenti, e Dionysio Areopagita,
+          <lb/>Gregorio Magno, aliisque probatissimis veterum summa
+          <lb/>fide collecti... In est opusculo Praefatio commoda, &amp;amp;
+          <lb/>poematicon Heroicum, quod author Genethliacon Mundi
+          <lb/>inscripsit. — (Haguenau, J. Secer août 1531), in-8°.
+          <lb/>Burg, n° 239.
+          <lb/>2145
+          <lb/>JETZERHANDEL. Voir : HISTORY von den vier Kätzermünchen
+          <lb/>n° 2031.
+          <lb/>JOBIN, Bernhard: Das Erste Buch Newerleszner Fleissiger
+          <lb/>ettlicher viel Schöner Lautenstück... geordnet und auch
+          <lb/>selber gedruckt durch Bernhard Jobin... — Strasbourg,
+          <lb/>Bernard Jobin 1572, in-fol.
+          <lb/>Vogeleis, p. 319/20; Wackernagel, Kirchenlied vol. IV.
+          <lb/>p. 1127. Graesse III, p. 468; Hauffen : Fischart I, p. LVI¬
+          <lb/>LIX et éd. p. 356-376.
+          <lb/>2146
+          <lb/>264
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

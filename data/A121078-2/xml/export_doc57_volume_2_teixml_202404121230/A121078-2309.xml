@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:35.672892+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2309.tif
+IMAGE WIDTH: 2304
+IMAGE HEIGHT: 3820
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>livres s’ouvre par une gravure de la grandeur d’une page; à la fin de
+          <lb/>quelques livres il y a en outre des gravures plus petites qui n’ont pas
+          <lb/>de rapport avec le texte; fol. A, 8b, assassinat de César, tiré de l&amp;#x27;Ho¬
+          <lb/>racé de 1498 (f. 3a): d’autres sont tirées de Térence; huit des petites
+          <lb/>gravures de l’édition de 1507 dont c’est une nouvelle édition, sont sup¬
+          <lb/>primées; Jean Adelphus y fit quelques changements peu importants au
+          <lb/>texte et ajouta une traduction de la vie de Jules César par Suétone.
+          <lb/>Traduction faite par Philesius Ringmann.
+          <lb/>Au verso du titre: Vffopfferung disz bûchs. (44 vers.) et dé¬
+          <lb/>dicace à l&amp;#x27;empereur Maximilien: Gebenn zu Straszburg, in dem
+          <lb/>M. D. vnd in dem sibenden iar. (Préface de 10 pages.)
+          <lb/>*R 10.486. Prov. : Trübner, Strasbourg, 13/x 1885; 45 M.
+          <lb/>Schmidt I, 91: BM Zurich. GPB: BN Berlin, BU Breslau,
+          <lb/>Gœttingue, Kœnigsberg.
+          <lb/>464
+          <lb/>CASSIANUS Bassus. Voir: BASsus.
+          <lb/>CASSIANUS Johannes
+          <lb/>Haguenau, J. Secer, 1528.
+          <lb/>D. CASSIANI Constantinopolitani Diaconi, de Lib.
+          <lb/>Arbitrio! Collatio.
+          <lb/>A la fin: Haganoae, per Iohan. Secerium Mense! Mar¬
+          <lb/>tio. Anno M. D. XXVIII. (Verso blanc.)
+          <lb/>In-4°, car, rom., 32 ff. non ch., sign. A-H, titre courant, réclames,
+          <lb/>notes marginales, belle init. à fig. T.
+          <lb/>R 102.127. Prov. inconnue.
+          <lb/>BM Strasbourg 517; GPE: BN Berlin, BU Breslau, Gœttin¬
+          <lb/>que, Kiel, Kœnigsberg.
+          <lb/>465
+          <lb/>CASTELLESI; Cardinal Adriano. Voir: ApRianus Cardinal.
+          <lb/>CATALOGUS Testium Veritatis. Voir: FLACCIUS Mathias.
+          <lb/>CATECHESIS Puerorum. Voir: BRUNFELS Otto.
+          <lb/>CATECHISMUS
+          <lb/>[Strasbourg, Th. Bergerl s. d.
+          <lb/>Catechismus,! Christliche Vnderrich- tung oder Lehr¬
+          <lb/>tafel, kürtzlich in Sechs nachfolgende Stuck verfasset.
+          <lb/>I. Die zehen Gebott.
+          <lb/>Il. Der Christliche Glaub.
+          <lb/>R.20
+          <lb/>305
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

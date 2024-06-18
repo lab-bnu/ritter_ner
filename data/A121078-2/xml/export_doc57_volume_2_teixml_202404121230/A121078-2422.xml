@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:39.000499+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2422.tif
+IMAGE WIDTH: 2382
+IMAGE HEIGHT: 3840
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>418
+          <lb/>DASYPODIUS Petrus
+          <lb/>Strasbourg, Th. Rihel, 1596.
+          <lb/>Dictionarium latino GERMANICVM, ET VICE VER- sa
+          <lb/>Germanico latinum, ex optimis Latinae linguae scriptori¬
+          <lb/>bus con-cinnatum. CVI ACCESSERVNT NOMINAViro¬
+          <lb/>rum, Mulierum, Locorum &amp;amp; Amnium in Germania, alio¬
+          <lb/>rumque multorum, vt Plantarum, Herbarum, Arborum,
+          <lb/>Forensium loquendi modi atque vocabula, &amp;amp;c. quae tamen
+          <lb/>singula sub litera sua initiali facile reperiuntur. Authore
+          <lb/>Petro Dasypodio.
+          <lb/>NVNC DENVO MAGNO QVIDEM, SED studiosis vtili labore,
+          <lb/>multis probatorum Authorum vocibus auctum &amp;amp; locuple¬
+          <lb/>tatum.
+          <lb/>Marque typ. de Theod. Rihel. (H E B, Planche XXXII, N° 15.)
+          <lb/>Au-dessous: Cum gratia &amp;amp; priuilegio Caesareo.
+          <lb/>ARGENTORATI! Excudebat Theodosius Rihelius, (Verso
+          <lb/>blanc.)
+          <lb/>In-8°, car, rom. et goth., 2 col., 287 ff. pour la partie latine¬
+          <lb/>allemande, sign. A-Z, Aa-Nn; nouveau titre et même marque typo¬
+          <lb/>graphique pour la partie all.-lat., 123 ff. non ch., sign. A-O, réclames.
+          <lb/>fol. A 2a: TYPOGRAPHVS BENEVOLO LECTORI! S. P. D...
+          <lb/>— Ar gentorati mense Septem. anni 1596.
+          <lb/>R101.602 Prov.: BN Munich, 14/IV. 1880; 1 M. 50. Au verso
+          <lb/>du titre: Abrahamus Wisröckh.
+          <lb/>622
+          <lb/>DATHUS Augustinus, De eadem re [de patientia! Libellus. Voir:
+          <lb/>MANTUANUS Baptista, De patientia. Strasbourg, M. Schürer, 1510.
+          <lb/>DECLARATION
+          <lb/>[Strasbourg, 1560l.
+          <lb/>DEclaration vnd Ord nung der Statt Straszburg, inn
+          <lb/>wölchem grad die ehe der Blûtfreündtschafft! oder Schwa¬
+          <lb/>gerschafften halben zûgelassen o- der verbotten sein soll.
+          <lb/>Anno M. D. LX. (Verso blanc.)
+          <lb/>A la fin: Actum et decretum Mon tag den eilfften
+          <lb/>Nouembris, Als man zalt nach Christi vnsers Er- lösers
+          <lb/>geburt Tausent fünff hundert vnd sechzig Jar.
+          <lb/>In-fol., car. goth., 5 ff. non ch., sign. a, réclames, initiale ornée N.
+          <lb/>R 91. Prov. inconnue.
+          <lb/>623
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

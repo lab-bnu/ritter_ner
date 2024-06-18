@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:11.982013+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002405.tif
+IMAGE WIDTH: 2516
+IMAGE HEIGHT: 3958
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Panzer 6, 47, 176; Schmidt VII, n° 61 : B N Strasbourg
+          <lb/>(2 introuvable). [Autres éd. Knobloch 1511, Schürer 1514.
+          <lb/>Voir : Ritter, Rép. nos 1859-1860).
+          <lb/>2886
+          <lb/>PHILELPHUS, Franciscus : Epistolae... — Strasbourg, Mathias
+          <lb/>Schürer 1512, in-40.
+          <lb/>Ritter, Hist. impr. app, 143a.
+          <lb/>2887
+          <lb/>PHILELPHUS, Franciscus : Epistolae... — (Strasbourg,
+          <lb/>Jean Prüss 1513), in-4°.
+          <lb/>Panzer 6, 64; Schmidt III, p. 31, n° 7.
+          <lb/>2888
+          <lb/>PHILELPHUS, Franciscus : Epistole; Senece Epistole ad
+          <lb/>Apostolum Paulum. — Haguenau, H. Gran pour
+          <lb/>J. Rynman, mars 1518, in-8°, Bunrg, n° 380.
+          <lb/>2889
+          <lb/>PHILELPHUS, Franciscus : Epistolae Familiares iam denuo
+          <lb/>ex emendatiss. exemplari recognitae... Item Angeli
+          <lb/>Politiani selectae plaeraeque in calce libri iunctae sunt.—
+          <lb/>(Haguenau, Th. Anshelm 1519), in-80.
+          <lb/>Burg, n° 381.
+          <lb/>2890
+          <lb/>PHILELPHUS, Franciscus : Epistolae breviores... ex toto
+          <lb/>originario exemplari iam denuo transsumptae... Item
+          <lb/>Angeli Politiani epistolae quaedam familiares... in calce
+          <lb/>adiunctae sunt. — (Strasbourg, Jean Prüss aux frais
+          <lb/>de Paul Goetz, mars 1520), in-4°.
+          <lb/>Schmidt III, p. 35, n° 20 : Bibl. cantonale Aarau. [Autres éd.
+          <lb/>Haguenau, Gran 1514, Knobloch 1515, Schürer 1518. Voir:
+          <lb/>Ritter, Rép. nos 1861-1863).
+          <lb/>2891
+          <lb/>PHILELPHUS, Franciscus : Epistolae familiares... Etiam
+          <lb/>Angeli Politiani breviuscule quedam et amoeniores
+          <lb/>epistole. Item L. Annei Senece ad apostolum et rursus
+          <lb/>Pauli ad Senecam... — (Haguenau, H. Gran pour
+          <lb/>J. Rynman, mai 1521), in-8°.
+          <lb/>Burg, n° 382. — Voir aussi : Seneca, n° 3218.
+          <lb/>2892
+          <lb/>403
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

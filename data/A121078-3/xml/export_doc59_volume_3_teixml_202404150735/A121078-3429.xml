@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:14.159847+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3429.tif
+IMAGE WIDTH: 2424
+IMAGE HEIGHT: 3854
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Jedes Titelbl, mit Druckerm. Eetener&amp;#x27;s (HEB Tafel XLIX Nr. 21)
+          <lb/>und den Worten: Scientia Immvtabilis.
+          <lb/>R102.293. Geschenk von F. Butsch, Augsburg 11. x.1882. Auf
+          <lb/>dem Titelbl. : Collegij Societ. Jesu Monachij Anno 1600. Auf dem inneren
+          <lb/>Einbanddeckel : Duplum Bibliothecae regiae Monacensis ex Collectione
+          <lb/>Manca.
+          <lb/>Von dem III. u. IV. Teil besitet die Bibliothek ein 2. Ex.:
+          <lb/>R102.294.
+          <lb/>Bibl. Wilh. Strassburg, BN Paris X. 20.094.
+          <lb/>1295
+          <lb/>JUNIUS Melchior
+          <lb/>Strassburg, A. Bertram 1594
+          <lb/>ARTIS DICENDI] praecepta secundum OFFICII ORA¬
+          <lb/>TORII PARTES BRE-VITER EX PLATONE, ARISTO-] tele, Her¬
+          <lb/>mogene, Cicerone, He-renniano magistro, Quintiliano
+          <lb/>congesta ac digesta: Nunc verò recognita &amp;amp;, cum Graecis
+          <lb/>additis! definitionibus aucta, tùm Ciceronianis ! illustrata
+          <lb/>exemplis, à MELCHIORE JVNIO WITE-bergensi: Eloquen¬
+          <lb/>tiae Argentinensi in! Academia Professore. (Vign.)
+          <lb/>ARGENTORATI EXCVDEBAT] Antonius Bertramus. 1 M. D.
+          <lb/>XCIV.
+          <lb/>80, Kursiv, 4 unn. Bll., 299 S., 25 unn. 2sp. Bll. (Index), 2 leere
+          <lb/>Bll., Kopft., Kust., Marg.
+          <lb/>Auf der Rücks. des Titelbl.: LECTORI BENE-VOLO] MEL¬
+          <lb/>CHIOR JVNIVS S. P. D.... — In his notandis exemplaria
+          <lb/>tria secutus sum: Parisiense, Lambini : Argentinense,
+          <lb/>Sturmij: Lugdunense, Gothofredi, fruere &amp;amp; vale.! 18. Cal.
+          <lb/>Feb. M. D. XCIV.
+          <lb/>Bl. A 2a:... D. IOACHIMO ANDREAE SCHLIK COMITI à
+          <lb/>PASSAVNWeissenkirchen &amp;amp;c. Domino! suo clementi.
+          <lb/>MELCHIOR JVNIVS.) S. P. D.... — Argentorati VInI. Id. De¬
+          <lb/>cem... M. D. LXXXIX. (Vorrede, 6 S.)
+          <lb/>R102.143. Herkunft unbekannt.
+          <lb/>Bibl. Walh. Strassburg.
+          <lb/>1296
+          <lb/>JUNIUS Melchior. Siche: CICERO: Ex orationibus loci aliquot
+          <lb/>communes... explicati. Strassburg, L. Zetaner 1594.
+          <lb/>871
+          <lb/>JUNIUS Melchior. Siche: CICERO: Resolutio brevis orationum.
+          <lb/>Strassburg, J. Rihel 1594.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

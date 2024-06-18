@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:06.839715+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3138.tif
+IMAGE WIDTH: 2314
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>582
+          <lb/>Darstellung die Buchstaben des Alphabets; so ist das A dargestellt durch
+          <lb/>eine Leiter, einen Kompass u. ein Rasiermesser, der Buchstabe M durch
+          <lb/>einen Schemel u. eine Krone, T durch einen Hammer u. einen Bohrer usto.
+          <lb/>Tafel XXIV Nr. 1).
+          <lb/>Auf der Rücks, des letzten Bl.: Druckerm. Cammerlander’s (HEB
+          <lb/>Bi. A 2a: Vorrede. Fabian Frangk von Aszlaw in
+          <lb/>Schlesien, Frey- er künste magister, Burger zum Buntz¬
+          <lb/>law, ! wündscht heil dem leser. (Am Schluss 2 Zierleisten, einer
+          <lb/>über dem andern.)
+          <lb/>Bl. A 3a: Zûm Leser.DJeses buchlin ist in vier teil
+          <lb/>geteilt nach auszweisung desz Registers, alle lûstig vnd
+          <lb/>nottwendig za wissen! den schreibern. Am meisten aber
+          <lb/>das drit teil, das da sagt von mancherley art haimlicher
+          <lb/>schrifften...
+          <lb/>R100.187. Prov.: Ernst Martin, Strassburg 11. II. 1911.
+          <lb/>GK: SB Berlin.
+          <lb/>Bibliographie Franck&amp;#x27;s: Schottenloher I Nr. 6460-6462.
+          <lb/>881
+          <lb/>FRANCK Sebastian
+          <lb/>Strassburg, B. Beck 1531.
+          <lb/>Chronica, Zeytbûch vnd geschycht bibel von anbe¬
+          <lb/>gyn bisz inn disz ge genwertig M. D. XXXj. jar. Darinn
+          <lb/>beide Gottes vnd der welt lauff, hendel, art, werck, thûn,
+          <lb/>lassen, kriegen, wesen, vnd leben ersehen vnd begriffen
+          <lb/>wirt. Mit vil wunderbarlichen gedechtnisz würdigen wor
+          <lb/>ten vnd thatten, gûten vnd böszen Regimenten, Decreten, &amp;amp;c.
+          <lb/>Von allen Römischen Keisern, Bäpsten, Concilien, Ketzern,
+          <lb/>Orden vnd Secten, beide der Juden, vnd Christen. Von
+          <lb/>dem vrsprung vnd vrhab aller breüch vnd miszbreüch der
+          <lb/>Rhömi schen Kirchen, als der Bilder, H. eer., Messz, Cere¬
+          <lb/>monien, &amp;amp;c. so yetz im Bapstumb im schwanck geen,
+          <lb/>wie eins nach dem anderen sey einbrochen, was, wa,
+          <lb/>wann, durch wen, vnd warumb. Ankunfft viler Reich,
+          <lb/>breüch, neüwer fünd. &amp;amp;c.
+          <lb/>Summa hierinn findestu gleich ein begriff, summari,
+          <lb/>innhalt vnd schatzkammer, nit aller, sunder der Chronick¬
+          <lb/>würdigsten, auszerlesznen Historien, eingeleibt, vnnd ausz
+          <lb/>vilen von weittem doch angenummenen glaubwirdigen
+          <lb/>büchern, gleich als in ein vmmen korb müselig zûsamen
+          <lb/>tragen, in seer gûtter ordnung für die augen gestelt, vnd
+          <lb/>in. iij. Chronick oder haubsbücher, verfaszt. Durch Seba¬
+          <lb/>stianum Francken von Wörd, vormals in teütscher zun¬
+          <lb/>gen, nie gehört noch ge- lesen.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

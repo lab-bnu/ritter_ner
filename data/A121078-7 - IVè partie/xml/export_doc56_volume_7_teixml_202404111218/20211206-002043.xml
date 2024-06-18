@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:02.571906+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002043.tif
+IMAGE WIDTH: 2486
+IMAGE HEIGHT: 3992
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>BAVIERA, Giovanni: De re medica sive morborum curationibus
+          <lb/>liber... repurgatus per... Gualth. H. Ryff. — Strasbourg,
+          <lb/>Pistorius 1542, in-80.
+          <lb/>GKXIII, 8400: B U Breslau, Königsberg, Leipzig, etc. 953
+          <lb/>BAVIERA, Giovanni : (Idem). — Strasbourg, Pistorius 1543,
+          <lb/>in-80.
+          <lb/>GKXIII, 8401: BN Berlin, Munich, Vienne, etc.
+          <lb/>954
+          <lb/>BEATUS Rhenanus. Voir: RHENANUS Beatus.
+          <lb/>BEBEL, Henricus (Opuscula) : In hoc libro continentur: Haec
+          <lb/>Bebeliana opuscula nova... — (Strasbourg, Jean
+          <lb/>Grüninger (4 avril) 1509, in-80.
+          <lb/>GKXIV, 2220: BN Munich, B U Breslau, Graz, etc.;
+          <lb/>Schmidt I, 102; Panzer 6, 43; Zapf 172.
+          <lb/>(Une éd. Grüninger 1508, Schürer 1512, 1514, : Ritter, Rép.
+          <lb/>nos 165/6, 1711.
+          <lb/>955
+          <lb/>BEBEL, Henr. (Opusculum) : Opusculum de institutione
+          <lb/>puerorum... una cum Apologia &amp;amp; defensione poetices.
+          <lb/>contra aemulos. Item. Opusculum qui auctores legendi
+          <lb/>sint ad comparationem eloquentiae. Comoedia vel potius
+          <lb/>dialogus de optimo studio scholasticorum. Item. Oratio
+          <lb/>de utilitate eloquentiae, &amp;amp; quae res faciat pueros
+          <lb/>eloquentes. Apologia &amp;amp; defensio Bebelii contra adversa¬
+          <lb/>rios suos. — (Strasbourg, Mathias Schürer 1513), in-80.
+          <lb/>GKXIV, 2224: BN Berlin, Munich, Vienne etc.
+          <lb/>956
+          <lb/>BEBEL, Henr. (Opusculum) : Qui autores legendi sint novitiis
+          <lb/>ad comparandam eloquentiam et qui fugiendi Opuscu¬
+          <lb/>lum. — Strasbourg, Mathias Schürer, mai 1513, in-4°.
+          <lb/>Walter n° 740. [Dans: BEBEL, Opusculum de institutione
+          <lb/>puerorum. Schürer 1513].
+          <lb/>957
+          <lb/>BEBEL, Henr. (Ars versificandi) : Ars versificandi. —
+          <lb/>(Strasbourg, Jean Prüss 1507), in-4°.
+          <lb/>41
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

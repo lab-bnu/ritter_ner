@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:09.897821+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3261.tif
+IMAGE WIDTH: 2332
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>GREGORIUS Magnus
+          <lb/>Strassburg, J. Enobloch 1516
+          <lb/>Gregoriana super! nouum testamentum! Ex operibus
+          <lb/>beati Gregorij gloriosissimi pape et confessoris: insigne:
+          <lb/>pium: ac religiosum ex- ceptionum opus super nouum
+          <lb/>testamen tum ab Alulpho egregio mo- nastice profes¬
+          <lb/>sionis diui Benedicti viro (cuius) fuit &amp;amp; diuus Gre
+          <lb/>gorius) collectum. Anno domini M. D. XVI.
+          <lb/>Am Schluss: Impresse Argentine per Ioannem Kno¬
+          <lb/>blouch. Anno! domini M. D. XVI. die xxviij.! Julij.
+          <lb/>4°, Got., 2sp., 8 unn. (Index), CbX num. Bll., Kopft., Maro.,
+          <lb/>Init., Titel rot u. schware.
+          <lb/>R 101302. Prov.: Tausch mit der Gymnasialbibl. Heilbronn,
+          <lb/>2. IV. 1878. Auf dem innern Einbanddeckel: Ex legato Egregij viri
+          <lb/>Artium de sacre Theol. doctoris dm. Ioan. Krener ex Veferding Conciona¬
+          <lb/>tore Heylpronen.
+          <lb/>Schmidt VII Nr. 119: «Jadis Bibl. de Strasbourg Incun. Nr. 1324
+          <lb/>et BM Strasbourg.» Proctor II Sectio I Nr. 10099: London Brit. Mu¬
+          <lb/>seum. 2 Ex. an der Bibl. des Grossen Priesterseminars Strassburq:
+          <lb/>Inc. A 150 u. 151. GK ohne Angabe des Druckers: UB Breslau,
+          <lb/>Göttingen, Münster, Braunsberg (Bibl. d. Staatl. Akad.).
+          <lb/>1035
+          <lb/>GREGORIUS Naziancenus
+          <lb/>Strassburg, J. Knobloch 1508
+          <lb/>Hi sunt in hoc Codice libelli X diui Gregorij Nazan¬
+          <lb/>zeni.Apologetieus. Liber. i. De epiphanijs siue natali
+          <lb/>domini De luminibus. quod est de secundis epiphaniis...
+          <lb/>(7 Zeilen.) Rücks, leer.
+          <lb/>Am Schluss: Impres sus Argentine per loannem knob¬
+          <lb/>louch. Anno domini. M.d. viij. Hilarij.
+          <lb/>Druckerm. Knoblochs. (HŒ B Tafel IX Nr. 1.)
+          <lb/>80, Antiq., 195 unn. Bll., Sign. a-x, Init.
+          <lb/>Bl. a 2a: Doctissimis... Georgio Bohem. Moguntin. &amp;amp;
+          <lb/>Ioanni flammingoBoppardiensi ecclesiarum presbyteris
+          <lb/>Ioannes Adelphus Mulingus Argen.... — Argentoraci. ij. Ka¬
+          <lb/>lendas Januarias. Anno... octavo supra sesquimillesimum.
+          <lb/>R101.303. Prov.: Geschenk von Prof. Dr. Barack, erster Di¬
+          <lb/>rektor der Univ.- u. Landesbibl. Strassburg 1. 11. 1881.
+          <lb/>Schmidt VII Nr. 36; Proctor II Sectio I Nr. 10.059: London
+          <lb/>Brit. Museum. GK: SB Berlin, UB Breslau, Halle.
+          <lb/>1036
+          <lb/>GREGORIUS Naziancenus. Siche: BASILIUS Magnus: Epistolae
+          <lb/>Graecae. Hagenau, J. Setzer 1528. Nr. 159.
+          <lb/>703
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

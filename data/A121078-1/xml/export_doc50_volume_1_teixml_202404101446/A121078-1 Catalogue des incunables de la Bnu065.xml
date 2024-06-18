@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:37.292388+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu065.tif
+IMAGE WIDTH: 2382
+IMAGE HEIGHT: 3842
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>DURANDUS Guillelmus: Rationale divinorum officiorum.
+          <lb/>Strasbourg, (imprimeur du Jordanus (— G. Husner),
+          <lb/>1er sept. 1488, in-fol.
+          <lb/>Hain 6494, Madsen 1476, Pellechet 4512, Pellechet: Colmar
+          <lb/>572, Proctor 616, Voulliéme: Berlin 2422.
+          <lb/>K 1488. Prov.: B N Munich, 22/1. 1880, 2 M. 50. A l’intérieur
+          <lb/>du 1er plat, exlibris, avec les mots: Ex Bibliotheca ecclesiae
+          <lb/>collegiatae Lateranensis ad S. Nicolaum prope Passavium.
+          <lb/>Rel. anc.
+          <lb/>157
+          <lb/>DURANDUS Guillelmus: Rationale divinorum officiorum.
+          <lb/>Strasbourg, (impr. du Jordanus (— G. Husner)),
+          <lb/>19 juillet 1493, in-fol.
+          <lb/>Hain 6496, Pellechet 4514, Pellechet: Colmar 573, Proctor 626,
+          <lb/>Voulliéme: Berlin 2450.
+          <lb/>K 1490. Prov.; B N Munich, 22/1. 1880, 2 M. 50. Au haut du
+          <lb/>1er f.; Monasterij Sancti Andechs, au bas: Cäringae 1640.
+          <lb/>Rel. anc.
+          <lb/>158
+          <lb/>DURANDUS Guillelmus: Speculum judiciale. Strasbourg, G.
+          <lb/>Husner, 22 nov. 1473, in-fol.
+          <lb/>Hain 6506, Pellechet 4523, Proctor 346, Voulliéme: Berlin
+          <lb/>2193.
+          <lb/>K 1494, Prov.: Albert Cohn, Berlin, 17/1l. 1879, 36 M. Au
+          <lb/>haut du 1er f.: «Iste liber C. S. Michaeli Archangeli Pascovii».
+          <lb/>Rel. anc.
+          <lb/>159
+          <lb/>EBENDORFER DE HASELBACH. Voir: Thomas Ebendorfer de
+          <lb/>Haselbach.
+          <lb/>EUSEBIUS Pamphilius: Historia ecclesiastica, latine, inter¬
+          <lb/>prete Rufino. (Strasbourg, H. Eggestein, s. d.), in-fol.
+          <lb/>Hain 6708, Madsen 1520, Pellechet 4635, Proctor 289, Voul¬
+          <lb/>liéme: Berlin 2152.
+          <lb/>K 1521. Prov.: B N Munich, 22/1. 1880, 2 M. Incomplet, les
+          <lb/>5 derniers ff. manquent.
+          <lb/>160
+          <lb/>35
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

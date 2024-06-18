@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:05.259856+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie006.tif
+IMAGE WIDTH: 2496
+IMAGE HEIGHT: 3940
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>ALBERTUS Magnus: Liber aggregationis. En plus : De mira¬
+          <lb/>bilibus mundi. — (Strasbourg, Jean Grüninger 20. X.]
+          <lb/>1490, in-80.
+          <lb/>G W 625; Hain 537-538; Pellechet 362. B U Bâle, B M Char¬
+          <lb/>leville, B N Munich etc.
+          <lb/>21
+          <lb/>ALBERTUS Magnus : De mysterio missae. — Strasbourg
+          <lb/>1489, in-fol.
+          <lb/>G W col. 336 : Hain-Copinger--447, Panzer IV, 222. 166b
+          <lb/>Biblioth. Irsee). Vermutlich Panzer VI. 352. 41. 603).
+          <lb/>22
+          <lb/>ALBERTUS Magnus : Compendium theologiae veritatis. —
+          <lb/>[Strasbourg, Martin Schott, pas avant le 23. VIII. 14831,
+          <lb/>in-fol. (Probablement identique avec G W 602).
+          <lb/>Hain 435; Scott, Suppl. Schmidt II, n° 4 ; «postérieur» au
+          <lb/>23. VIII. 1483. — Londres Brit. Mus. et Bibl. S. H. Scott,
+          <lb/>Oxford.
+          <lb/>23
+          <lb/>ALBRECHT, Meister : Arzneibuch der Rosse. — (Strasbourg,
+          <lb/>Mathias Hupfuff vers 1499), in-4°.
+          <lb/>G W 822; Sudhoff, Deutsch medizinische Inkunabeln 90.
+          <lb/>Nuremberg (Germ. Mus.).
+          <lb/>24
+          <lb/>ALBRECHT von Bayern, évêque de Strasbourg (1479-1506):
+          <lb/>Ausschreiben betr. den Papst Sixtus IV. den Magda¬
+          <lb/>lenerinnen zu Strassburg zum Kirchenbau bewilligten
+          <lb/>Ablass, Zabern, 9. Januar 1484. Mit Summarien lat, und
+          <lb/>deutsch. — (Strasbourg, Jean Grüninger après le
+          <lb/>9. I. 1484), Placard.
+          <lb/>G W 832; Einblattdrucke 103. Bibl. Rég. Carlsruhe (partie
+          <lb/>supérieure manque).
+          <lb/>25
+          <lb/>ALBRECHT von Bayern : Erneuerung der Privilegien für die
+          <lb/>Eulogiusbruderschaft der Hufschmiede zu Strassburg.
+          <lb/>Zabern 8. IX. 1487. — (Strasbourg, J. Grüninger après
+          <lb/>le 8. V. 1487), Placard 292 x 226 mm.
+          <lb/>G W 834; Einblattdrucke 105. Hannover.
+          <lb/>26
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

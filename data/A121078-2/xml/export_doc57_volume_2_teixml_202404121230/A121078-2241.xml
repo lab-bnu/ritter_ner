@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:33.812727+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2241.tif
+IMAGE WIDTH: 2294
+IMAGE HEIGHT: 3820
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>237
+          <lb/>Au verso: PRAECIPVI EX LOCIS communibus in hac en¬
+          <lb/>naratione tractatis.
+          <lb/>fol. 2-8: Préface de M. Bucer, datée: Argentora ti. XV.
+          <lb/>Calend. Aprilis, Anno nati Seruatoris M. D. XXVIII.
+          <lb/>R101182. Prov.: Weigel, Leipzig (Catal. Petr., No 1113), 9/IV.
+          <lb/>1874; 2 M. Rel, anc.
+          <lb/>Au bas du titre: M. Antonius Faber pastor Episcouillanus An.
+          <lb/>1603; au verso du Ier plat: pro Materno Hatteno Spirensi.
+          <lb/>2 ex. R 101.181. Prov.: Bibl. Ed. Reuss, 1891 avec son exlibris
+          <lb/>et son autographe au f. de garde avec la date 1864. Incomplet, f. du
+          <lb/>titre manque.
+          <lb/>BN Paris, D2 6289; GPB: Berlin SB, Gœttinque BU, Halle
+          <lb/>B U, Marbourg BU, Munster BU. Walter: Sélestat, N° 857.
+          <lb/>Baum No 16, Mentz No 19: Marbourg.
+          <lb/>356
+          <lb/>BUTZER Martin
+          <lb/>Strasbourg, W. Köpfel, 1528.
+          <lb/>Vergleich-ung D. Luthers, vnnd seins. gegentheyls,
+          <lb/>vom Abentmal Christi.
+          <lb/>Dialogus Das ist, eyn freündtlich gesprech.
+          <lb/>Gar nahe alles so D. Lu ther in seinem letsten bûch
+          <lb/>Bekenntnüsz genennt, für- bracht hat, würdt hierinn
+          <lb/>gehandelt, wie das zû er kantnüsz der warheyt vnd
+          <lb/>Christlichem frid dienet.
+          <lb/>A la fin: Gedruckt zû Straszburg bey Wolff Köpphel,
+          <lb/>Anno M. D. xxviij.
+          <lb/>Au verso: Marque typographique de W. Köpfel. (HdB, Planche
+          <lb/>XVII, No Sa).
+          <lb/>In-8°, car. goth., 60 ff. non ch. — 3 ff. blancs, sign. A-H, récla¬
+          <lb/>mes, initiale ornée W, titre encadré: bordure supérieure, Apollon, Mer¬
+          <lb/>cure, Junon et Jupiter; bordures latérales, Venus et Mars, au-dessous
+          <lb/>Neptune et Vulean, à droite, Homère, Eschines, Ulysses et Demodocus;
+          <lb/>bordure inférieure, Ithaca, au-dessous nacelle avec un rameur debout
+          <lb/>et 3 hommes assis, à droite Tantalus.
+          <lb/>Au verso du titre: Paulus Philippi. ij. (15 lignes.)
+          <lb/>fol. A 2a: Dem Christlichen le ser... — Straszburg.
+          <lb/>xxj. Junij. M. Butzer.
+          <lb/>fol. A 3a: Was in disem Dialogo gehandelt würdt.
+          <lb/>(Table, 2 p.)
+          <lb/>R100.555. Prov.: Rauthe, Berlin, 27/VII. 1914; 36 M.
+          <lb/>A l&amp;#x27;intérieur du 1er plat, exlibris avec la devise: Mente Libera,
+          <lb/>au-dessous: Crampel.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

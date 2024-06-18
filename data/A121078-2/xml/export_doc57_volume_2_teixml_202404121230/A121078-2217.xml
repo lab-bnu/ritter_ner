@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:32.920552+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2217.tif
+IMAGE WIDTH: 2288
+IMAGE HEIGHT: 3824
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>ANATOMIA OCVLI.
+          <lb/>Gravure sur bois: Planche anatomique de l’œil humain avec la
+          <lb/>désignation des différentes parties.
+          <lb/>Getruckt zù Straszburg durch Heinrichen! Vogtherren.
+          <lb/>Anno M. D. XXXIX. (Verso blanc.)
+          <lb/>A la fin: Getruckt zû Straszburg durch Heinrichen
+          <lb/>Vogtherren. Anno M. D. XXXIX.
+          <lb/>Au recto du f. suivant: SOLI DEO! GLORIA, Au-dessous, mar¬
+          <lb/>que typographique de H. Vogtherr; (H e B, Planche XXXIV, NO 2.)
+          <lb/>en bas la devise de Vogtherr: ARDENTES FORTVNA IVVAT.
+          <lb/>Au verso, un tronc d’arbre, en forme de croix, avec un serpent en haut,
+          <lb/>qui fixe un homme couché à terre.
+          <lb/>In-4°, car. goth., 12 ff. non ch., sign. A-C, réclames.
+          <lb/>R100.623(5). Prov.: Théodore Ungerer, Strasboura, 17/XI. 1917.
+          <lb/>2. ex. R 101.402. Prov.: B N Munich, I/XI. 1877; sans indica¬
+          <lb/>320
+          <lb/>tion du prix. Notes mss.
+          <lb/>BUCHOLTZ G. Voir: BUCOLDIANUS.
+          <lb/>BUCHSTAB Johannes
+          <lb/>Strasbourg, J. Grüninger, 1527.
+          <lb/>Das nit alle Crist glöbige menschen gleich prie- ster
+          <lb/>seyend. Das niemand gezime dan den priesteren zepredi¬
+          <lb/>gen. Das ein vnderscheid zwischen den Bischoffen, Pries¬
+          <lb/>tern vnd Diacon seyeVnd daz man die priester mit eer
+          <lb/>erbie tung sol halten. Ein kurtze vnder richtung durch
+          <lb/>Johannem Bûch stab. V. W. Schûlmeister n Zofingen.
+          <lb/>Roman. 13. (4 lignes.)
+          <lb/>A la fin: Getruckt vnd volendet disz büchlin vff Vnser
+          <lb/>lieben Frawen abent der geburt. Jm iar als man zalt.
+          <lb/>M. CCCCC. XXvij. (Verso blanc.)
+          <lb/>In-4°, car. goth., 8 ff. non ch., sign. A-B, notes marginales, ini¬
+          <lb/>tiales goth.
+          <lb/>*R101755. Prov.: O. Harrassowitz, Leipzig, 24/11. 1891; 3 M.
+          <lb/>Manque chez Schmidt; GPB: Berlin, Marbourg BU.
+          <lb/>321
+          <lb/>213
+          <lb/>BUCHSTAB Johannes
+          <lb/>[Strasbourg, J. Grüninger, ] 1527.
+          <lb/>Von becleidunge der priester gesang vnd bild nüssen
+          <lb/>in der Christlichen kilhen, so got zû lob vnd er gebrucht
+          <lb/>werden Wywaszer, geweicht saltz vnd eschen Meszfrü¬
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

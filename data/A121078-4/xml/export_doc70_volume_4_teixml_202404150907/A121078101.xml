@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:45.408148+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078101.tif
+IMAGE WIDTH: 2320
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>MARGARITA FACETIARUM
+          <lb/>Strasbourg, J. Gruninger 1509
+          <lb/>fredicta! Proverbia Sigismundi &amp;amp; Friderici tertii Ro. Im¬
+          <lb/>Margarita Facetiarum Afonsi Aragonum Regis Va¬
+          <lb/>peratorum Tropi sive sales loannis Keisersberg conciona¬
+          <lb/>toris Argen- tinensis...! Marsilii Ficini Florentini de Sole
+          <lb/>opusculum. Hermolai Barbari Orationes. Facetiae Adel¬
+          <lb/>phinae. (Verso blanc.)
+          <lb/>A la fin: Impressum per honestum-Johannem! gruni¬
+          <lb/>ger. Anno nostrae redemptionis Nono, supra Mille quin¬
+          <lb/>gentos.Argentinae. (Verso blanc.)
+          <lb/>In-40, car. rom., 100 ff. non ch., sign. A-Q, dernier f. blanc;
+          <lb/>init, ornées. Nouvelle édition du n° précédent.
+          <lb/>Fol. A 2a : Prohemium ad... : Leo! nardum Nuszboumum Curiae
+          <lb/>Trevirensis! Oratorem clarissimum : Iohannis Adelphi! Mülichii Argenti¬
+          <lb/>nensis Epistola, datée de Strasbourg, Calendas Martias 1509.
+          <lb/>R100.851. Prov. : Bibl. Ch. Schmidt avec son ex-libris à l&amp;#x27;inté¬
+          <lb/>rieur de la couverture.
+          <lb/>BN Paris, 4° Z. 1299 et Rés. Z. 963; Schmidt I n° 112. 1490
+          <lb/>MARGARITA MEDICINAE. Voir: TOLLAT Joh.
+          <lb/>MARGARITA PHILOSOPHICA. Voir: REISCH Gregorius
+          <lb/>MARGARITA POETICA. Voir: EYB Albertus de
+          <lb/>MARIUS Georg. Voir: LIBALTUS Johannes: XV Bücher von
+          <lb/>dem Feldbau 1598.
+          <lb/>MARQUART VOM STEIN. Voir: LA TOUR DE LANDRY
+          <lb/>MARSILIUS AB INGEN
+          <lb/>Strasbourg, M. Flach 1501
+          <lb/>Questiones exquisite claris-simi Marsilii in libros
+          <lb/>Ari stotelis de generatione et corruptione. In marsilii
+          <lb/>commentarios su! per libros Aristotelis de generatione et
+          <lb/>corruptione Decatosti- chon Johannis gallinarii. (5 dist.)
+          <lb/>A la fin: Argentine in officina Martini flach iunioris.
+          <lb/>ix. kal. octobres. Anno Domi ni, 1501.
+          <lb/>987
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

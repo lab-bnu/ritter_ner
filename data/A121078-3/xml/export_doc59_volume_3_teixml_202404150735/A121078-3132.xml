@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:06.745328+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3132.tif
+IMAGE WIDTH: 2306
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>576
+          <lb/>FLORIDUS Franciseus (Sabinus). Strassburg, G. Messerschmidt 1551
+          <lb/>Kriegsübung desz fürtrefflich- sten vnd streitbarsten
+          <lb/>ersten Römischen Kaisers Ju! lij, sampt anderer Römischen
+          <lb/>auch auszlendigen Fürsten, Veldtherren vnd Hauptleuthen
+          <lb/>der gantzen wellt, gegen Julio, vergleichung. Mit kurtzer
+          <lb/>historischer erzalung jhrer thaten, Victorien, 1 vnd Nider¬
+          <lb/>lagen, in drey bücher verfaszt, durch Franciscum Flori¬
+          <lb/>dum Sabinum.
+          <lb/>Die wunderbarliche Histori, von der Christen ausz¬
+          <lb/>zug, vnder Kaiser Heinrichen dem vierdten, zu des hay¬
+          <lb/>ligen lands, vnd der darinn Christliches namens gefan¬
+          <lb/>genen errettung, Wie sie! Svriam, Judeam vnd Jerusalem
+          <lb/>erobert, vnd Hertzog Gott- friden aus Lothringen, alda
+          <lb/>zû eim König erwölet vnd eingesetzt haben, durch Bene¬
+          <lb/>dictum Aretinum in vier bücher eingetheilt vnd or¬
+          <lb/>denlich beschriben.
+          <lb/>Die belegerung vnnd eroberung der Kaiserlichen! statt
+          <lb/>Constantinopolis, welche Mahomet der Türck als man nach
+          <lb/>Christi geburt, M cccc vnd liij, gezalt, dem Kaiser Constan¬
+          <lb/>tino ab- gedrungen, durch Leonhardum den Ertzbischoff
+          <lb/>zû Mitylene! (welcher auch dennzûmal in der statt bele¬
+          <lb/>gert geweszt) summarie vnd warhaff- tig dargegeben.
+          <lb/>Item, der schönen Jnsel vnd porten Rhodus ver- lust,
+          <lb/>die Solimannus der Türckische Kaiser im M. D. xxij. jar,
+          <lb/>am! hailigen weihenacht tag, in seinen gwalt bracht, Von
+          <lb/>Jacobo! Fontano, dem Babst Adriano, in schrifften, wie
+          <lb/>es alda ergangen, übersendet.
+          <lb/>Alles aus Lateinischer sprachen, ins deutsch newlich
+          <lb/>verdolmetschet, Durch Heinrichen von Eppendorff.
+          <lb/>Gedruckt z6̂ Straszburg in Hans Knoblouchs drucke¬
+          <lb/>rey, durch Georgen Messerschmidt, des jars M. D. lj.
+          <lb/>(Rücks. leer.)
+          <lb/>Am Schluss: Gedruckt zû Straszburg, im Jar M. D. LI.
+          <lb/>(Auf der Rücks.: Errata.)
+          <lb/>20, Got., 4 unn. u. CLIII num. Bll., Kopft., Kust., Init.
+          <lb/>Bl. 2a: ... Herrn Erasmo, Bischoffen zû Straszburg
+          <lb/>vnd Landtgrauen in Elsas... Heinrich von Eppendorff, (2 S.)
+          <lb/>Bl. 3a: Volgen die namen der kriegsfürsten... (3 S., 2sp.)
+          <lb/>R 10.405. Prov.; Trübner, Strassburg 11. XII. 1890, 12M.
+          <lb/>872
+          <lb/>GK: SB Berlin; UB Göttingen.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

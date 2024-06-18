@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:03.325691+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002075.tif
+IMAGE WIDTH: 2492
+IMAGE HEIGHT: 3976
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>BRUNSCHWIG, Hier. (Distillierbuch) : Das Buch zu distilieren...
+          <lb/>— Strasbourg, Jean Grüninger 1517, in-fol.
+          <lb/>Schmidt I, Suppl. p. 103; Catal. Schöningh (Munster) janvier
+          <lb/>1894. [Une éd. Grüninger 1519 et 1521 : Ritter, Rép. nos 310¬
+          <lb/>311).
+          <lb/>1134
+          <lb/>BRUNSCHWIG, Hier. (Distillierbuch) : Das nüwe distilier
+          <lb/>buoch... und dabei von Marsilius ficino des langen
+          <lb/>gesunden lebens... — (Strasbourg, Jean Grüninger
+          <lb/>(29.VIII.] 1528), in-fol.
+          <lb/>Schmidt I, n° 237 : Bibl. de M. P. S., Paris. [Une éd. Grüninger
+          <lb/>1531 : Ritter, Rép. n° 312l.
+          <lb/>1135
+          <lb/>BRUNSCHWIG, Hier. (Distillierbuch) : Das Buch zu distilieren...
+          <lb/>— Strasbourg, Barthelémy Grüninger 1532, in-fol.
+          <lb/>Davis &amp;amp; Orioli, Londres, Catal. 79 (1937) n° 94 : « Third
+          <lb/>edition of the «Grosse Destillierbuch». Schmidt, Hist. litt. Il,
+          <lb/>p. 396, n° 213 ; mentionne des éd. de 1531, 1532, 1557, etc.
+          <lb/>1136
+          <lb/>BRUNSCHWIG, Hier. (Distillierbuch) : Das New distilier Buch
+          <lb/>Der rechten kunst, von meister Hieronimo Brunschwig
+          <lb/>colligiert, zu distilieren ausz allen Kreütern die wasser...
+          <lb/>Auch das Buch... Marsilij Ficini, das lang leben betreffend,
+          <lb/>unnd sunst vil nützlicher stück... (grav.). Und zu merer
+          <lb/>besserung disz buchs, so ist ausz Galieno und der alt
+          <lb/>beruempten Artzten hie durch den gantzen Herbarium
+          <lb/>ersucht, durch alle Capitel ausserlesen die besten stuck...
+          <lb/>M. D.xxxvij. — Strasbourg, Bartholomeus Grüninger
+          <lb/>1537, in-fol.
+          <lb/>Bibl. S. Guillaume Strasbourg.
+          <lb/>1137
+          <lb/>BRUNSCHWIG, Hieronymus : Medicinarius. Das buch der
+          <lb/>gesuntheit, Liber de arte distillandi Simplicia et Com¬
+          <lb/>posita. Das nüw buch der rechten kunst zu distillieren... —
+          <lb/>Strasbourg, Jean Grüninger 1. IV. 1505, in-fol.
+          <lb/>Schmidt I, n° 71; Weller, Rep. 311. Panzer, Annalen I,
+          <lb/>269. — B M Colmar.
+          <lb/>1138
+          <lb/>73
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

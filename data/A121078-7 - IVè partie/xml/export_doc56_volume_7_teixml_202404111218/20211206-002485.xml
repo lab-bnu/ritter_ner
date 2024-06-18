@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:13.603592+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002485.tif
+IMAGE WIDTH: 2498
+IMAGE HEIGHT: 4004
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>SUNNENTAG, Thomas : Ein new geystlich Spil, von dem
+          <lb/>Ehebrüchigen Weib, Auch von Christo, wie in die Juden
+          <lb/>wolten versteynigen... beschriben durch Thomam Sun¬
+          <lb/>nentag von Waldse. Anno M.D.LII. — (Strasbourg,
+          <lb/>Jacques Frölich 1552), in-8°.
+          <lb/>Goedeke I12, p. 382, n° 273 d.
+          <lb/>3306
+          <lb/>SUPPLICATIO: A Supplicacyõ to the quenes maiestie. —
+          <lb/>Imprint of J. Cawoode. [Strasbourg, Rihel] 1555.
+          <lb/>S. T. C. 17.562. Voir : Johnson A. F dans The Library, Serie V,
+          <lb/>vol. IV.
+          <lb/>3307
+          <lb/>SYBOLD (Seibold), H. Voir: BONACCIULI, Lodovico, n° 1031.
+          <lb/>SYDELIUS, Mor. Voir: PLAUTUS, n° 2944.
+          <lb/>SYLVESTRINA. Voir : PRIERIAS, Silv., n° 2988.
+          <lb/>SYNESIUS, Eucharius. Voir : BUCOLICAE querelae, no 1197.
+          <lb/>SYNODUS : Adversus Synodi Tridentinae Restitutionem seu
+          <lb/>continuationem, à Pio IIII Pontifice indictam, opposita
+          <lb/>gravamina... (5 lignes). Pro Defensione Syncerae &amp;amp;
+          <lb/>Orthodoxae Religionis, proposita primum in Naoburgico
+          <lb/>conventu Principum... (12 lignes). E Germanico in
+          <lb/>Latinum conversa à D. Laurentio Tuppio Pomerano... —
+          <lb/>Argentorati, Excudebat Samuel Emmel, Anno Domini
+          <lb/>M. D.LXV, in-4°.
+          <lb/>Bibl. Grand Sém. Strasbourg. K8.
+          <lb/>3308
+          <lb/>SYRIA : Quae intus continentur. Syria, ad Ptolomaici operis
+          <lb/>rationem. Praeterea Strabone, Plinio et Antonio auctori¬
+          <lb/>bus locupletata... — Argentorati, apud Petrum Opilionem
+          <lb/>1532, in-fol.
+          <lb/>Walter, n° 2289.
+          <lb/>3309
+          <lb/>TACUINUS, Sanitatis. Voir: ELIMATHAR, n° 1540.
+          <lb/>483
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

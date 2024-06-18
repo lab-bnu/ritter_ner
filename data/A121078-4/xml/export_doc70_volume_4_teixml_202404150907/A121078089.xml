@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:45.221426+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078089.tif
+IMAGE WIDTH: 2320
+IMAGE HEIGHT: 3844
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>MANCINELLUS Antonius
+          <lb/>Strasbourg 1502
+          <lb/>Laurentii Vallensis Lima que dam per Anthonium
+          <lb/>Mancinel lum Veliternum; ad Reverendum Aedis Gemi¬
+          <lb/>niane Anti stitem divique Marci Canonicum: Nicolaum
+          <lb/>rubeum Venetorum decus Omniumque bonarum artium
+          <lb/>&amp;amp; virtutis cultorem. (Verso blanc.)
+          <lb/>A la fin: ... Datum! Venetiis pridie Kal. Feb. M. CCCC
+          <lb/>Ixxxii. Impressum Argentine. Anno domini M. CCCCCii.
+          <lb/>In-40, car. goth., 17 ff. non ch., sign. A-C.
+          <lb/>Fol. A 2a: Benigni Sapientissime presul! Nicolae Rubee probitate...
+          <lb/>— Venetiis vigesimo octavo cal. 1 Julii. M. CCCC. XC. vii, et Antho. Man¬
+          <lb/>cinellus ad lectorem.... — Datum Vene- tiis XV. Cal. Aprilis M. cccc. xciii.
+          <lb/>R 101593. Prov. : F. Butsch fils, Augsbourg 12/x 1883;
+          <lb/>4 M. 50.
+          <lb/>1469
+          <lb/>MANCINELLUS Antonius
+          <lb/>Strasbouro, M. Schurer 1510
+          <lb/>Antonii Mancinelli Veliterni Sermonum decas ad
+          <lb/>Angelum Colotium Aesinatem. De Livore per Ant. Man.
+          <lb/>(3 dist.)
+          <lb/>A la fin: Argentorati in libraria officina Matthiae
+          <lb/>Schurerii Artium doctoris. Mense Martio. An. M. D.
+          <lb/>X. ... (Verso blanc.)
+          <lb/>In-4°, car. rom., 8 ff. non ch., CX ff. ch., titre courant, notes
+          <lb/>marg., init. d’attente.
+          <lb/>Au verso du titre: «Symeonis Angelini Wimpini Hendecasyllabon
+          <lb/>ad Lectorem.»
+          <lb/>R101.002. Prov.; Don des barons de Dœrnberg, Cassel 29/IV
+          <lb/>1890.
+          <lb/>Schmidt VIII n° 32.
+          <lb/>1470
+          <lb/>MANCINELLUS Antonius
+          <lb/>Strasbourg, M. Schurer 1512
+          <lb/>Ant. Mancinelli Veliterni Pri-s Epigrammaton
+          <lb/>Libellus. Ad D. Gabrielem Gabrielis fanensem. Utri! usque
+          <lb/>Iu. Doctorem... Iulianique Sancti Petri ad Vin cula Car¬
+          <lb/>dinalis Secretarium, &amp;amp; Auditorem.... (27 vers latins.)
+          <lb/>A la fin: Argentorat. Ex Aedibus Schurerianis Mense
+          <lb/>August. Anno M. D. XI. L.T. OO....
+          <lb/>In-40, car. rom., 37 ff. non ch., sign. Ff-Kk, tître courant, init.
+          <lb/>d’attente.
+          <lb/>*R101.001. Prov, inconnué.
+          <lb/>Proctor II Sectio I n° 10202: Londres, Brit. Museum; manque
+          <lb/>chez Schmidt.
+          <lb/>1471
+          <lb/>975
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

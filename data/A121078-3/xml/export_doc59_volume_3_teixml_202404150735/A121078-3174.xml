@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:07.577151+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3174.tif
+IMAGE WIDTH: 2316
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>618
+          <lb/>Titel fur Maxentius: OPVSCVLA MA XENTH IOHAN NIS
+          <lb/>SERVI DEI! THEOLOGICI ANTIQUI. Ebenfalls mit Titeleinfassung:
+          <lb/>oben Blumengewinde, an den Seiten Saulen, auf denen ein nackter Jung¬
+          <lb/>ling steht; in der Mitte der unteren Bordùre ein Bär zwvischen zei
+          <lb/>nackten Knaben, von denen der sur Rechten dem Bär eine Frucht hinhält.
+          <lb/>Auf der Rücks, des Titelbl.: OpERA FVLGENTII IN HOC VOLV
+          <lb/>MINE CONTENTA.
+          <lb/>Bl. 3a: PROLOGVS (zwischen 2 Epheubl.) BEATI FVLGENTII,
+          <lb/>IN TRES LIBROS AD MONIMVM.
+          <lb/>Auf der Rücks, des Titelbl, des Maxentius:... PHILIPPO FVR¬
+          <lb/>STENBERGER SVMMO IN REPVBLICA FRANCOFOR] DIANA CON¬
+          <lb/>SVLI. IOHANNES CO- CHLAEUS NORIMBERGENSIS....
+          <lb/>Francofordiae, quinto Idus Febr. Anno... M. D. XX.
+          <lb/>Auf der Vorders. des letzten Bl.: Lectori Iohannes Cochlaeus (11 lat.
+          <lb/>Distichen).
+          <lb/>R 10.301. Prov. : Trübner, Strassburg 17. XII. 1886; 12 M.
+          <lb/>Handschr. Notiz auf der Innens. des Einbandes: Cochlaeus&amp;#x27; edition of
+          <lb/>Fulgentius and Maxentius very incommon 1520; weiter unten Auszug aus
+          <lb/>einem Katalog, in dem es heisst: This seems to be the first edition of Ful¬
+          <lb/>gentius and Maxentius, and different of that printed in Hagenau in 1520
+          <lb/>(see Ebert Bibliograph. Diction. vol. Il p. 611).
+          <lb/>2. Ex. R 10.576. Prov.: K. Bibl. Dresden, 21. XII. 1888.
+          <lb/>Stadtbibl. u. Priesterseminar Strassburg Inkun. O 22; GK: SB
+          <lb/>Berlin, UB Bonn, Breslau, Göttingen. Greifswvald, Halle, Kiel, Königs¬
+          <lb/>berg. Münster. BN Paris, C. 604, Proctor I Nr. 11713, London, British
+          <lb/>Museum; Walter Schlettstadt Nr. 1343.
+          <lb/>Brunet II5, 1420: »Première édition.&amp;quot;
+          <lb/>928
+          <lb/>FÜLL VON GEISPOLSHEIM Heinrich. Siche: Verordnung den
+          <lb/>Tanz betr. Strassburg 1569. R 2226.
+          <lb/>FUNCK Johann. Siche: OBRECHT Georg: Disputatio de forma
+          <lb/>actionis et libelli. Strassburg, A. Bertram 1590. R10.561.
+          <lb/>Bibliographie von Funck (Funccius) : Schottenloher I Nr. 6840¬
+          <lb/>6841.
+          <lb/>FUNCR Johann: De etvmologia definitione, partitione et causa
+          <lb/>efficiente. Siche: OBRECHT Georg: Oikonomia donationis
+          <lb/>simplicis et relatae. Strassburg, A. Bertram 1595. R 10.558.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

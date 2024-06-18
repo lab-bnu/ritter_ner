@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:10.354324+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002336.tif
+IMAGE WIDTH: 2512
+IMAGE HEIGHT: 3964
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>LUTHER (Jonas) : Der Prophet Jona ausgelegt. — (Strasbourg,
+          <lb/>[Jean Knoblochl 1526), in-8°.
+          <lb/>Schmidt VII, no 311 : Bibl. St. Guillaume, Strasbourg et Bibl.
+          <lb/>du consistoire, Colmar. (B N Strasbourg R 101.155 : Ritter,
+          <lb/>Rép. n° 1434l.
+          <lb/>2514
+          <lb/>LUTHER (Jonas) : Jona Propheta cum annotationibus. —
+          <lb/>(Strasbourg, Jean Knobloch 1526), in-8°.
+          <lb/>Panzer 6, 111, 744, 9, 374, 744; Schmidt VII, no 310 : Berne.
+          <lb/>(BN Strasbourg R 101.156 : Ritter, Rép. n° 1433l.
+          <lb/>2515
+          <lb/>LUTHER (Contra Karlstadt) : Erklerung wie Carlstadt sein
+          <lb/>ler von dem hochwirdigen Sacrament und andere
+          <lb/>achtet... — (Strasbourg, Jean Knobloch 1525), in-4°.
+          <lb/>Horning, n° 107; Schmidt VII, n° 303 : Bibl. S. Guillaume,
+          <lb/>Strasbourg; Panzer, Annalen 2, 2814.
+          <lb/>2516
+          <lb/>LUTHER (Mandat, Kaiserl.) : Keyserlich mandat iüngst
+          <lb/>uszgangen zu Nürmberg, über den yetzt schwebenden
+          <lb/>(so man spricht) Lutherischen handel. Uszleg und
+          <lb/>Christlicher verstandt des selbigen... — (Strasbourg,
+          <lb/>J. Knobloch 1523), in-4°. (Encadrement de Knoblochl.
+          <lb/>Bibl. St. Guillaume, Strasbourg.
+          <lb/>2517
+          <lb/>LUTHER (Von der Messe) : De abroganda Missa privata
+          <lb/>Martini Lutheri sententia... — (Sélestat, Lazare Schürer
+          <lb/>15221, in-4°.
+          <lb/>Walter, n° 1782.
+          <lb/>2518
+          <lb/>LUTHER (Von der Messe) : Formulae Missae et communionis
+          <lb/>pro ecclesia Wittenbergensi. — Strasbourg, Wolfgang
+          <lb/>Köpfel 1523.
+          <lb/>Ritter, Hist. impr. app. 238.
+          <lb/>2519
+          <lb/>LUTHER (Von der Messe) : Vom Miszbruch der Messen. —
+          <lb/>Strasbourg, Wolfgang Köpfel 1523.
+          <lb/>Bibl. St. Guillaume, Strasbourg.
+          <lb/>2520
+          <lb/>334
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

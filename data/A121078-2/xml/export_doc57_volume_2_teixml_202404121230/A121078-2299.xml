@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:35.524066+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2299.tif
+IMAGE WIDTH: 2304
+IMAGE HEIGHT: 3822
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>295
+          <lb/>A la fin: Getruckt zû Straszburgk bey M. Jacob Cam¬
+          <lb/>mer Lander. Anno M. D. XLIII. Au-dessus, bande d’ornement, au¬
+          <lb/>dessous, gravure.
+          <lb/>breuses gravures, au verso du dernier f. marque typographique de Ca¬
+          <lb/>In-4°, car. goth., 32 ff. non ch., sign. A-H, réclames, de nom¬
+          <lb/>merlander (H &amp;amp; B, Planche XXIV, n° 1 en bas. Silvestre, N° 816).
+          <lb/>R101163. Prov.: Welter, (Vente) Paris, 5/VI. 1895; 80 frs.
+          <lb/>GPB: BN Berlin, BU Kœnigsberg.
+          <lb/>Le 3 juin 1937 l’antiquaire Fr. Otto, Mannheim a offert un
+          <lb/>exemplaire à la Bibliothèque pour 72 M.
+          <lb/>Bibliographie de Carion: Schottenloher I. N° 2755-2759. 446
+          <lb/>CARION Johann
+          <lb/>Strasbourg, J. Cammerlander, 1545.
+          <lb/>Practica vnd prognosti cation zweier fürnemlichen
+          <lb/>vnnd weit berümten in der Mathematick. M. Johan Ca¬
+          <lb/>rionis! vnd. M. Salomon der statt Rüremundt Physicum,
+          <lb/>darinn, bisz uff M. D. LX. jar wunderliche vnd erschrock¬
+          <lb/>liche Propheceien ge- meldt, eim jeden, Geystlichen vnd
+          <lb/>weltlichen, vast notwendig zû wissen. Ein Christliche
+          <lb/>ermanung an K. M. König, Churfürsten, Fürsten, Grauen,
+          <lb/>herrn &amp;amp;c. vnd alle stände Christlicher versamlung Joh.
+          <lb/>Carionis. Zù letst kompt die Offenbarung Rai mundi,
+          <lb/>darinn allen ständen, geystlich vnd weltlich, landten vnd
+          <lb/>leüten vil schwerer straffen getrawt, Deszhalben inn dieser
+          <lb/>letsten zeit ein jeder sein leben wol mag bessern.
+          <lb/>Au-dessous même gravure que dans l’édition précédente.
+          <lb/>A la fin: Getruckt zû Straszburgk bey M. Jacob! Cam¬
+          <lb/>mer Lander. Anno. M. D. XLV. Jar.
+          <lb/>In-40, car. goth., 32 fr. non ch., sign. A-H., réclames.
+          <lb/>Au verso du dernier f., marque typ. de Cammerlander (HEB,
+          <lb/>Planche XXIV, N° 1; Silvestre No 816). Réimpression de l’édition de
+          <lb/>1543 avec quelques nouvelles gravures.
+          <lb/>R101164. Prov.: Otto Brand, Strasbourg (Vente Mœhn), 20/IV.
+          <lb/>1883, 3 M.50.
+          <lb/>GPB: BU Kœnigsberg.
+          <lb/>447
+          <lb/>CARION Johann
+          <lb/>Strasbourg, W. Rihel, 1549.
+          <lb/>Auszlegung der verbor genen weissagung D. Johan.
+          <lb/>Cari onis, von veränderung vnd zûfelligem glück der
+          <lb/>höchsten Potentaten desz Römischen Reichs.Sampt
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

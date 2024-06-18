@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:03.619112+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002077.tif
+IMAGE WIDTH: 2500
+IMAGE HEIGHT: 4004
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Halensis, inscio, ut creditur, authore, aedita, crimina
+          <lb/>intendit. Anno, M.D.XXVI. — [Strasbourg,
+          <lb/>Herwagen (?)1 1526, in-8°.
+          <lb/>Jean
+          <lb/>Bibl. S. Guillaume; Stupperich n° 13 : B U Bâle, Halle,
+          <lb/>Strasbourg; Mentz, p. 100, n° 12. B N Munich, Paris etc. 1144
+          <lb/>(BUCER, Martin) (Articuli) : Articuli. Der newe glaub, von
+          <lb/>den Doctoren zu Löven, die sich Doctoren der Gottheit
+          <lb/>rhümen, in xxxi Articulen fürgegeben. — Strasbourg
+          <lb/>1545.
+          <lb/>G K n° 6161 diffère de Mentz 62 et 62a. (B N Strasbourg
+          <lb/>R 102.344 : Ritter, Rép. n° 383).
+          <lb/>1145
+          <lb/>BUCER, Martin (Catechismus) : Der kürtzer Catechismus und
+          <lb/>erklärung der XII stücken Christlichs glaubens. Des
+          <lb/>Vatter unsers, unnd der Zehen gepotten. Für die Schüler
+          <lb/>und andere kinder zu Strasburg. Durch die Prediger
+          <lb/>daselbst gestellet. — (Strasbourg, Wendelin Rihel] 1537.
+          <lb/>Stupperich nos 56 et 56a: « Neudruck bei Reu (Joh. Mich,
+          <lb/>Quellen zur Geschichte des Kirchlichen Unterrichts I, 1.
+          <lb/>Gütersloh 1904).
+          <lb/>1146
+          <lb/>(BUCER, Martin) (Catechismus) : Der Kürtzer Catechismus.
+          <lb/>Das ist Christliche Underweisung von den Articklen
+          <lb/>unsers Glaubens, Vatter unser, Zehen gebotten; H. Sacra¬
+          <lb/>menten. Von der Kirchenzucht und anderen Christlichen
+          <lb/>übungen. Für die Schüler und andere kinder zu Strasburg.
+          <lb/>M. D. xliiij. (Strasbourg, Wendelin Rihel avec sa marque
+          <lb/>au verso du dernier f. 15441, in-80.
+          <lb/>Bibl. S. Guillaume Strasbourg; Mentz n° 58.
+          <lb/>1147
+          <lb/>BUCER, Martin (Catechismus) : Cathechismus ecclesiae et
+          <lb/>scholae Argentoratensis. (Marque typ. de W. Rihel]. —
+          <lb/>Strasbourg, Wendelin Rihel 1544, in-80.
+          <lb/>Mentz 58 a; Stupperich, n° 48 c: « Nach Reu p. 7 wurde die
+          <lb/>Ubersetzung von Johann Sturm angefertigt».
+          <lb/>1148
+          <lb/>75
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

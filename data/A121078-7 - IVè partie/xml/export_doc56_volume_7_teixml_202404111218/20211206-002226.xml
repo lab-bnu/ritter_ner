@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:07.534821+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002226.tif
+IMAGE WIDTH: 2486
+IMAGE HEIGHT: 3988
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>GUILELMUS de Gouda : Expositio mysteriorum missae. —
+          <lb/>(Strasbourg, Jean Knobloch) s. d., in-4° (XVIe siècle).
+          <lb/>Hain 7829; Panzer 6, 128, 893; Schmidt VII, n° 46;
+          <lb/>Voulliéme : Berlin 2555.
+          <lb/>1944
+          <lb/>GUILELMUS de Gouda: Expositio misteriorum missae et verus
+          <lb/>modus rite celebrandi. — (Strasbourg, Jean Knobloch
+          <lb/>1508), in-4°.
+          <lb/>Schmidt VII, no 45; Panzer 6, 4l, 127. [Ritter, Rép, n° 1057 ;
+          <lb/>éd. Hupfuff vers 1507].
+          <lb/>1945
+          <lb/>GUILELMUS, Goudanus. Voir aussi : AEsopUs nos 747, 752.
+          <lb/>GUILLELMUS III (Episcopus Argentoratensis). Voir:
+          <lb/>WIMPHELING n° 3531.
+          <lb/>GUT, Wendelin (de Wissembourg) : Ein sehr schönes... lied...
+          <lb/>die klein Bibel genant vom glauben, liebe, mit sampt
+          <lb/>der hoffnung... — Strasbourg, Paul et Philippe Köpfel
+          <lb/>frères 1555, in-4°.
+          <lb/>Wackernagel 703 : « Am Ende der Vorrede nennt der Dichter
+          <lb/>sich Wendel gut, Bl. M 2 b noch einmal Wendel gute, von
+          <lb/>Weissenburg genannt.» Vogeleis, p. 289.
+          <lb/>1946
+          <lb/>GYGAS, Joh. Voir: EOBANUS, Hessus n° 1550.
+          <lb/>GYPHANIUS, Ob. Voir : DIETRICH, Ulr, n° 1512.
+          <lb/>HABACUC, propheta. Voir: LUTHER n° 2507.
+          <lb/>HABERMANN, Johannes : Wöchentliche Christliche Gebeten...
+          <lb/>lateinisch geordnet... Nun aber auf ein neues nach der
+          <lb/>letzten lateinischen Mehrung... verdeutscht. Mit einer
+          <lb/>Vorrede Jobins. — Strasbourg, Bernard Jobin 1575,
+          <lb/>in-40.
+          <lb/>Ritter, Hist. Impr., p. 340.
+          <lb/>1947
+          <lb/>HABERMANN, Johannes : Christliche Gebett in Gesänge auff
+          <lb/>224
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

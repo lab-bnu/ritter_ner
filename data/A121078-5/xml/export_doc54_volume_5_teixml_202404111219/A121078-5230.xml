@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:57.545688+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5230.tif
+IMAGE WIDTH: 2382
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1540
+          <lb/>Geschrieben durch JohannemWigandum vnd Matthe-
+          <lb/>um Judicem.
+          <lb/>Getruckt zu Mülhausen im oberen Elsasz, durch Peter
+          <lb/>Schmid.1562. (Verson blanc.).
+          <lb/>In-4°, car. goth., 2 col., 7 ff. non ch., 1re partie CXXXVII ff. ch.,
+          <lb/>2e partie CCLXXXIV ff. ch. et 1 f. blanc, titre courant, réclames, init.
+          <lb/>goth. G, W, D., titre rouge et noir.
+          <lb/>fol. A 2a : Den... Herren, Burgemeister Rath!! und Gemeine der
+          <lb/>löblichen Statt Brema, vn-[] sern groszgünstigen Herren, Fördern!! vnnd
+          <lb/>Freünden... — Geben in Jena, !! Anno Domini 1562, 8. Martij. Il...
+          <lb/>Johannes Wigandus, ( und !! Mattheus Judex (Préface de 11 pp.). Verso
+          <lb/>blanc.
+          <lb/>Au verso du dernier f. marque typogr. de P. Schmid. (H. &amp;amp; B., Plan¬
+          <lb/>che LXXV, No I).
+          <lb/>R. 100.553. Prov. : Bibliothèque Consistoriale de la ville de Schleiz,
+          <lb/>7IVI, 1876; sans indic. du prix.
+          <lb/>Au milieu du titre, timbre avec les mots « Schul-Bibliothek Feldenz».
+          <lb/>Bibliothèque St.-Guillaume, Strasbourg.
+          <lb/>Bibliographie Wigand : Schotteloher II, Nos 5948, 6358, 9482, 19609
+          <lb/>et 22506-22511.
+          <lb/>2463
+          <lb/>WILHELMUS Episcopus Argentinensis
+          <lb/>Strasbourg, 1514
+          <lb/>WIlhelmus dei gratia Episcopus Argentinensis et Lant¬
+          <lb/>grauius Alsatiae, Venerabilibus &amp;amp; religiosis... Prelatis ac
+          <lb/>Rectoribus et curatis. Salutem in domino sempiternam.
+          <lb/>Quia... dominus Alexander Comes Palatinus Rheni Dux
+          <lb/>Baua-I] rie :: ac Comes in Veldentz... diem suum clausit extre¬
+          <lb/>mum. Nos pro christiana pietate animae sue refrigerium...
+          <lb/>mandamus. Quatenus dominica post festum sancte lucie
+          <lb/>virginis pro xime futura in fine sermonum vestrorum subditos
+          <lb/>verstros ad communem pro defuncti principis anima orationem
+          <lb/>exhor (] tari... (17 lignes.)
+          <lb/>Datum sub sigillo nostri vicariatus offi ! cij die lune vicessima
+          <lb/>septima mensis Nouembris. Anno domini Millesimo quingen¬
+          <lb/>tesimo decimo quarto. (Verso blanc.)
+          <lb/>Placard in-4°; grande initiale ornée W.
+          <lb/>R. 102.408. Prov. : Abbé Ingold, Colmar, 10/I, 1899; sans indic. du
+          <lb/>prix.
+          <lb/>Au verso blanc: « Decano ad Sanctum Petrum Juniorem». 2464
+          <lb/>WILHELMUS Episcopus Argentinensis
+          <lb/>Strasbourg, 1516
+          <lb/>WIlhelmus dei gratia Episcopus Argentinensis Alsatiaeque
+          <lb/>Lantgraui (] us uniuersis et singulis dominis prelatis Archi¬
+          <lb/>presbiteris... Salutem in domino... Cum itaque non absque
+          <lb/>cordis dolore didicimus. Quod, plures rectores et vica II rii
+          <lb/>perpetui ecclesiarum, contra deum et sanctiones canonicas,
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

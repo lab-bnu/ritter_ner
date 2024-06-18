@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:09.454733+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3243.tif
+IMAGE WIDTH: 2332
+IMAGE HEIGHT: 3854
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>687
+          <lb/>GESNER Konrad: De hortis Germaniae liber recens. In: COR¬
+          <lb/>DUS Valerius: Annotationes, 1561, S. 236-301. R48 u. R10.518.
+          <lb/>1009
+          <lb/>GESSLER Heinrich. Siche: GEISSLER Heinrich
+          <lb/>GESTA ROMANORUM
+          <lb/>Hagenau, H. Gran 1508
+          <lb/>Gesta Rhomanorum cum applica tionibus moralizatis
+          <lb/>ac mysticis.
+          <lb/>Am Schluss: Historie notabiles ex Gestis rhomanorum....
+          <lb/>Impres- se ac diligenter reuise impensis prouidi circum¬
+          <lb/>spectique viri Joannis rynman de Oringaw.in officina
+          <lb/>industrij Henrici gran ciuis in opi do imperiali Hagenaw
+          <lb/>finiunt feliciter Anno salutis nostre Millesimo quingente¬
+          <lb/>simo octa-uo. XX. die mensis Martij.
+          <lb/>20, Got., 2sp., 6 unn., LXXXI num. Bll., Kopft., Init.
+          <lb/>Bl. 2a: Tabula generalis. (10 S.)
+          <lb/>R10.220. Prov.: Geschenk der Fürstl. Bentheim’schen Bibl. aus
+          <lb/>dem Kloster Frenswegen 1874. Titel handschr, ergänet.
+          <lb/>GK: SB Berlin, UB Berlin, Breslau, Göttingen.
+          <lb/>1010
+          <lb/>GESTA ROMANORUM
+          <lb/>Hagenau, H. Gran 1517
+          <lb/>Gesta Rhomanorum cum ap plicationibus morali
+          <lb/>zatis ac mysticis. (Rücks. leer.)
+          <lb/>Am Schluss: Historie notabiles ex Gestis rhomanorum....
+          <lb/>Im presse ac diligenter reuise impensis proui- di circum¬
+          <lb/>spectique viri Joannis rynman de Oringaw: in officina
+          <lb/>industrij Henrici gran ciuis in oppido imperiali Hagenaw
+          <lb/>finiunt fe- liciter Anno salutis nostre Millesimo quingen¬
+          <lb/>tesimo decimo septimo pridie Kal. Augusti.
+          <lb/>20, Got., 2sp., 6 unn., LXXXI num. Bll., Kopft., Init., Titel¬
+          <lb/>umrahmung. (H &amp;amp; B Tafel LXIII Nr. I.)
+          <lb/>R10.221. Prov.: Carl Steyer, Cannstadt 9. XI. 1883; 10 M.
+          <lb/>Exlibris von Adalbert Keller, Prof, in Tübingen. Ausserdem:
+          <lb/>Urban von Gottes genaden Bischoue zu Gurgkh 1571; darunter das bi¬
+          <lb/>schöfliche Wappen.
+          <lb/>GK: UB Greifswald, Münster. Baer, Frankfurt a. M., Katalog
+          <lb/>500 (1905) Nr. 358, 75 M.
+          <lb/>1011
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

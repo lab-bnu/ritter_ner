@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:53.621417+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5126.tif
+IMAGE WIDTH: 2348
+IMAGE HEIGHT: 3860
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1434
+          <lb/>inférieure, t’empereur sur le trône, le sceptre en main; bordures latérales,
+          <lb/>colonnes avec des ornements divers; au bas de celle de gauche, mono¬
+          <lb/>gramme de Hans Baldung; 25 grav. sur bois, empruntées à des éditions
+          <lb/>antérieures, plusieurs sont répétées 2 ou 3 fois. Préfaces des éditions
+          <lb/>antérieures.
+          <lb/>R. 10.547 (1). Prov. : Prof. Joseph von Held, Würzbourg 1871. Note
+          <lb/>ms. au f. de garde: « gekauft v. Hennemann zu fl. 3, 30 am 5. Oktober
+          <lb/>1836, ligator-24 (Symma 3,54).
+          <lb/>Baer, Francfort s. M. Catalogue 500 (1907), n° 599, 50 M. 2282
+          <lb/>TERENTIUS Afer Publius
+          <lb/>Strasbourg, J. Prüss, 1503
+          <lb/>P. Terentii, Comedie: cum annotationibus Petri mar- si
+          <lb/>et Pauli malleoli in singu!! las scenas cum indice dictio! (num:
+          <lb/>et figuratis argumentis.
+          <lb/>A la fin :... Arte et industria ! honesti Ioannis Prüs Argentin.
+          <lb/>Quarto kal. Februarij. Anno. MCCCCC.iij.
+          <lb/>In-4°, car. rom., 12 ff. non ch., 143 ff. ch., titre courant, notes marg.,
+          <lb/>init. d’attente 5 grav. de la grandeur d’une page, avec les personnages
+          <lb/>de la comédie.
+          <lb/>fol. 2a non ch. : Paulus Malleolus Audelacensis !! Ornatissimo Patri
+          <lb/>Roberto Gagui- ]] no, Ordinis dive Trinitatis generali!! Ministro,
+          <lb/>Poetae... — Ex sacro!! Sorbonensi gymnasio, Undecimo Kl. Maij. Anno
+          <lb/>quo supra.
+          <lb/>Distichon ad Lectorem.
+          <lb/>R. 101.786. Prov. : Trübner, Strasbourg, 8/VII, 1886; 40 M.
+          <lb/>Note ms, à l’intérieur 1er plat : Georgius Klosz. M. D. Francofurti
+          <lb/>ad Moenium.
+          <lb/>Proctor Il, Sectio I, No 9965, Londres, British Museum; Schmidt,
+          <lb/>III, N° 37 : Jadis Bibl. de Strasbourg, Incun. No 4406 et Bibl. Roy. de
+          <lb/>Stuttgard. Brunet Ve, 710. (Voir grav. à la page suivante). 2283
+          <lb/>TERENTIUS Afer Publius
+          <lb/>Strasbourg, J. Grüninger, 1503
+          <lb/>Terentius Comico Carmine.
+          <lb/>Grav. sur bois occupant tout le reste de la page; elle repré¬
+          <lb/>sente un théâtre construit en style goth. flamboyant: au haut,
+          <lb/>2 galeries avec spectateurs, en bas, scène avec les acteurs,
+          <lb/>au-dessous, le mot : Theatrum.
+          <lb/>A la fin : Impressum in nobili Helueciorum vrbe Argentina
+          <lb/>Per Ioannem Grüninger mira etiam arte ac diligentia.
+          <lb/>Anno MCCCCCIII. XV. Kalendas Aprilis. Au-dessous
+          <lb/>13 dist. de Henri Bebel.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:39.191040+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2434.tif
+IMAGE WIDTH: 2392
+IMAGE HEIGHT: 3824
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>430
+          <lb/>Jo. Cochleum. Deuteronomij. xxiij. ca. (7 lignes)
+          <lb/>(Verso blane)
+          <lb/>A la fin: Getruckt zû Straszburg von Johanne Grie¬
+          <lb/>ninger! vff sant Thomas abent. Anno. 1523. (Verso blanc.)
+          <lb/>In-4°, car. goth,, 28 ff. non ch., sign. A-G, notes marginales, init.
+          <lb/>ornées, titre encadré de 2 lignes doubles qui se croisent à angles droits.
+          <lb/>fol. A 2a : ... herren Sebastian bischoff zû Brix en
+          <lb/>embüt ich Johannes Cochleus meinen vn dertänigen
+          <lb/>dienst... — Datum zu Franck- furt an dem Mein am
+          <lb/>xiiij. tag des Septembers im iar. 1523.
+          <lb/>Le chiffre IIII. au titre indique que c’est le 4e des traités de
+          <lb/>Dietenberger imprimés par Grüninger.
+          <lb/>R101.504 (10). Prov: Recteur Müller, Quedlinbourg, 15/V. 1889,
+          <lb/>Schmidt I, No 205: BM Strasbourg, Bâle.
+          <lb/>646
+          <lb/>DIETENBERGER Johannes
+          <lb/>Strasbourg, J. Grüninger, 1523
+          <lb/>Obe die christen mügen durch iere gûten werck
+          <lb/>daz hy melreich verdienen Joannes dietemberger.
+          <lb/>Galatas, 6. (4 lignes.)
+          <lb/>A la fin: Getruckt mit Priuilegien Keiserlicher vnnd
+          <lb/>Hyspanischer maiestät durch gnaden er- langt, das in iars
+          <lb/>frist nemen nach! trucken sol dis büchlin vszgangen! von
+          <lb/>Jo. Grienynger vff sant Simon Jude abent Im iar 1523.
+          <lb/>In-40, car. goth., 17 ff. non ch., sign. A-D, notes marginales, init.
+          <lb/>ornées, titre encadré de deux lignes doubles qui se croisent à angles
+          <lb/>droits.
+          <lb/>Au verso du titre: Dem wirdigen vatter Antonio Spendt
+          <lb/>selig, Lectori der heiligen schrifft, Prediger Or dens zû
+          <lb/>Constentz &amp;amp;c. Jo. Cochleus Gnad vnd frid Christi... —
+          <lb/>Ewer würde nem disz büchlin zûgût an, bisz grössere
+          <lb/>hernach kumen. Geben Franckfurt am 17. tag Sep¬
+          <lb/>tembris im 1523 iar.
+          <lb/>A la fin avant l&amp;#x27;explicit: 1523. Quarta Augusti, (Feuille de
+          <lb/>lierre.)
+          <lb/>R101.890. Prov.: Butsch, antiguaire à Augsbourg, 26/1x. 1882;
+          <lb/>3M.
+          <lb/>2e exemplaire R101.504(e), Prov.: Recteur Müller, Quedlinbourg,
+          <lb/>15/V. 1889.
+          <lb/>Schmidt I, No 202.
+          <lb/>647
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

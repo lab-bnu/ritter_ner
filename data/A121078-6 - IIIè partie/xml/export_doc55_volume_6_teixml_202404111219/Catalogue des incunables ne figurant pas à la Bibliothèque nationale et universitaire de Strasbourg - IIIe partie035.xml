@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:05.703470+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie035.tif
+IMAGE WIDTH: 2456
+IMAGE HEIGHT: 3940
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>G W 7259, Hain-Copinger 9465, Proctor 312; Voulliéme:
+          <lb/>Berlin 2180. B N Berlin, Munich, B M Besançon etc.
+          <lb/>191
+          <lb/>CONCORDANTIAE minores Bibliae. — (Haguenau, H. Granl
+          <lb/>1490, in-4°.
+          <lb/>G W 7288; Hain-Copinger 5613 — Hain 15211 (—); Pellechet¬
+          <lb/>Polain 3913, Proctor 3171, Brit. Mus. Cat. III, 682; Voulliéme :
+          <lb/>Berlin 1167. B N Berlin, Munich, Burg n° 9: B M Haguenau. 192
+          <lb/>CONTRACTUS : De Contractibus et vitalitiis. — (Strasbourg,
+          <lb/>impr. de Henricus Ariminensis, vers 1476), in-fol.
+          <lb/>G W 7457; Hain-Copinger 5678, Pellechet 3965, Proctor 305,
+          <lb/>Brit. Mus. Cat. I, 78; Voulliéme : Berlin 2181. B M Besançon,
+          <lb/>Francfort s. M., B N Paris etc.
+          <lb/>193
+          <lb/>CORPUS juris civilis. — Strasbourg, Henri Eggestein 15. IX.
+          <lb/>1472, in-fol.
+          <lb/>G W 7774, Polain 1998.
+          <lb/>194
+          <lb/>CORPUS juris civilis (Libri feudorum). — (Strasbourg,
+          <lb/>H. Eggestein vers 1475), in-fol.
+          <lb/>G W 7775; Copinger 3388 — 3389 (?) = 4447; Proctor 274;
+          <lb/>Brit. Mus. Cat. I, 74; Pellechet : Colmar 936; Voulliéme:
+          <lb/>Berlin 2159.
+          <lb/>195
+          <lb/>CORPUS juris civilis. Justiniani Institutiones. — (Strasbourg,
+          <lb/>Jean Grüninger) 15. VI. 1491, in-fol.
+          <lb/>G W7622; Hain-Copinger 9525; Voullième : Berlin 2285. 196
+          <lb/>CRONICA von allen künig und Keisern von anfang Rom...
+          <lb/>— (Strasbourg), uff Grüneck (Barth. Kistler vers 1500),
+          <lb/>in-40.
+          <lb/>Hain 4993; Schmidt IV, p. 5, n° 9; Graesse II, p. 140. — Bibl.
+          <lb/>Roy. Stuttgart.
+          <lb/>197
+          <lb/>CUBA, Joh. de. Voir : HoRTUs sanitatis n° 342.
+          <lb/>35
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

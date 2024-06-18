@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:33.726849+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2237.tif
+IMAGE WIDTH: 2296
+IMAGE HEIGHT: 3818
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>BUTZER Martin
+          <lb/>[Strasbourg, J. Schott, 1523l.
+          <lb/>Martin Butzers! an ein christlichen Rath und! Gemevn
+          <lb/>der Statt Weissen- burg Summary seiner Predig daselbst
+          <lb/>gethon.
+          <lb/>Mit anhangender vrsach seines Abscheydens.
+          <lb/>Jtem ein vszchreiben, sampt artickelen offentlich an¬
+          <lb/>geschlag en, die ym auch über sein vil faltig berûffen,
+          <lb/>als christlich! von menigklich vnangefocht en bliben seind.
+          <lb/>In-40, car. goth., 48 ff. non ch., sign. a-m; titre courant, notes
+          <lb/>marginales, initiale à fig. G., titre encadré avec monogramme de Schott.
+          <lb/>(H RB. Planche V, N° 10). Au verso du dernier f. blanc, mar¬
+          <lb/>que typographique de J. Schott. (H Œ B, Planche IV, No 9).
+          <lb/>Au verso du titre: Gemeyner innhalt.
+          <lb/>fol. m2b: Zû̀ dem Christlichen leser, (3 pages.)
+          <lb/>*R102.431. Prov. : Bibliothèque Ch. Schmidt avec son exlibris à
+          <lb/>l&amp;#x27;intérieur du Ier plat.
+          <lb/>Schmidt II, NO 76: Bibliothèque St. Guillaume, Strasbourg;
+          <lb/>Walter: Sélestat, N° 851. GPB: Berlin SB, Kœnigsberg BU.
+          <lb/>Baum N° 2, Mente No 2: Eisleben (Andreasbibl.), Zwickau
+          <lb/>(Rathschulbibl.).
+          <lb/>350
+          <lb/>233
+          <lb/>BUTZER Martin
+          <lb/>[Strasbourg, J. Schott) 1523.
+          <lb/>Verantwortung M. Butzers Vff das im seine wider¬
+          <lb/>werti- gen, ein theil mit der worheit, ein theil mit lügen,
+          <lb/>zûm ärg- sten zûmessen. Mit begebung n alle leibs
+          <lb/>straff, so er mit sei nem leben, oder leer nach Göt¬
+          <lb/>lichem gesatz straffbar erfun- den würt.
+          <lb/>wirt hyerinn klärlich ausz götlicher schrift bewerdt,
+          <lb/>daz das clösterlich leben, wie es yetzt gemeinclich ge¬
+          <lb/>halten würt, gäntzlich! wider Gott, vnd deszhalb! vnan¬
+          <lb/>gesehen einicher gelübdt, zù verlassen sey.
+          <lb/>A la fin: M. D. XXIII.
+          <lb/>In-40, car. goth., 20 ff. non ch., sign. a-e, titre courant, notes
+          <lb/>marginales, titre encadré, scènes de l’Ecriture Sainte. Au-dessus. Nit
+          <lb/>vrteylen vor der zeyt; au-dessous: Erfar dich vor der wor¬
+          <lb/>heit, vnd darnach henck, ertrenck, verbrenn, findest du
+          <lb/>vrsach.
+          <lb/>R 102.358. Prov,: Bibliothèque Heitz, Strasbourg, 1871.
+          <lb/>GPB: Berlin SB; BM Strasbourg et Bibl. St. Guillaume,
+          <lb/>Strasbourg; Walter: Sélestat, No 852. Baum N° 3, Mentz N° 3. 351
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

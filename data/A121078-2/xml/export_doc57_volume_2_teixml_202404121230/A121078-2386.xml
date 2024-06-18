@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:37.767122+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2386.tif
+IMAGE WIDTH: 2372
+IMAGE HEIGHT: 3818
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>382
+          <lb/>augustiniani Lectu dignissi ma, ac piarum mentium
+          <lb/>aedificatiua. (Verso blanc.)
+          <lb/>A la fin: Excusum Argentinae impensis &amp;amp; opera honesti
+          <lb/>viri Iohannis Grieninger, in vigilia Diui Erhardi. Anno
+          <lb/>salutis, 1523.
+          <lb/>marginales, titre encadré: arabesques et instruments; au bas, deux génies
+          <lb/>In-4°, car, rom., 30 ff. non ch., sign. A-G, initiales ornées, notes
+          <lb/>assis, entre eux, des fleurs.
+          <lb/>fol. A 2a: ... Baltazaro Gerhardi domus Ioannitarum
+          <lb/>viridis insule Argeñ. Commendatori, ac patri Martino
+          <lb/>Gallicia no domus chartusianae prope argentinam! prio¬
+          <lb/>ri ceterisque vtrarumque dictarum domo rum professis
+          <lb/>dominis patribus ac fratribus Hieronimus Gebwilerus in¬
+          <lb/>sig ! nis argen, templi di- dascolus. S. D.... — Argento
+          <lb/>rati ex edibus nostris pridie Kalendas Ianuarias. Anno
+          <lb/>Dominicae natiuitatis. M. D. XXIII. (3 p.)
+          <lb/>fol. A 3b: Io. Grieninger Lectori Sa. Epistolam cul¬
+          <lb/>culsameri Lutheriani candide Lector contra fra trem Barp¬
+          <lb/>tholomeum Vsingensem theologiae D. ac eiusdem! Barpto¬
+          <lb/>lomei responsiua frontispicio huius libel! li apponendas
+          <lb/>incuria (nescio qua) perdi dimus, quas tamen repertas et
+          <lb/>excusas breui annectemus, tu interea quid uterque! con¬
+          <lb/>certantium prestare possit pel- lecto libro citra affectum
+          <lb/>iu- sta lance trutinato.Vale.
+          <lb/>fol. A4: Index.
+          <lb/>R102.129. Prov.: Bibl. Ch. Schmidt avec son autographe à l’in¬
+          <lb/>térieur de la couverture. Notes mss.
+          <lb/>Schmidt I, No 194: Bibl. St. Guillaume, Strasbourg. Le Gesamt-
+          <lb/>katalog Preussischer Bibliotheken l&amp;#x27;a à Bartholomaeus von Usingen,
+          <lb/>Vol. 12, No 2385.
+          <lb/>572
+          <lb/>CONCILIA wie man die halten soll. Voir: HUTTeN Ulrich. Con¬
+          <lb/>cilia... [Strasbourg, J. Schott, 1521.]
+          <lb/>CONCORDANTIAE Majores Bibliorum. Voir: CONRADUS DE HAL¬
+          <lb/>BERSTADT.
+          <lb/>CONCORDANTZ
+          <lb/>Strasbourg, J. Schott, 1524.
+          <lb/>Concordantz des Newen Testaments zu teütsch.
+          <lb/>Aller Euangelischen Sprüch uszzugk nach ordnung
+          <lb/>des Abc. kurtz! vnd fleisszig, Registers! weisz veruasszt.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

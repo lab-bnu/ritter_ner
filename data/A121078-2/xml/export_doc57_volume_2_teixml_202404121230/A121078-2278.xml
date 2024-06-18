@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:34.795200+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2278.tif
+IMAGE WIDTH: 2292
+IMAGE HEIGHT: 3816
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>274
+          <lb/>R 10403 (1) Prov.: Bibliothèque Reuss, 1887. Au bas de la reliure,
+          <lb/>,1562, au haut les lettres:, M. R., Rel. anc.
+          <lb/>GPB: Berlin BN et BU, Bonn BU, Breslau BU, Kiel BU:
+          <lb/>Munster BU.
+          <lb/>413
+          <lb/>Voir: Calvin, Opera Vol. I, Proll. p. XLII.
+          <lb/>CALVIN
+          <lb/>[Strasbourg. B. Jobin), 1583.
+          <lb/>Der Heilig Brotkorb Der H. Römi-schen Reliquien,
+          <lb/>oderWürdigen Heilig-ums procken;Das ist,
+          <lb/>IOHANNIS CALVINI Notwendige vermanung, von der
+          <lb/>Papisten Heiligthum: Darausz zu sehen, was damit für
+          <lb/>Abgötterey vnd Betrug getrie- ben worden, dem Christ¬
+          <lb/>lichen Leserzu gute verdeutscht.
+          <lb/>Gravure sur bois: Au milieu, attachée au plafond. une corbeille rem¬
+          <lb/>plie de reliques; en outre des reliques aux murs et par terre. A gauche,
+          <lb/>un moine, un bâton en main; à droite, un prêtre, achetant des reliques
+          <lb/>d’un vendeur de reliques. Ce dernier est agenouillé.
+          <lb/>Gedruckt zu Christlingen, Bey Vrsi- no Gutwino, 1583.
+          <lb/>(Verso blanc).
+          <lb/>In-8°, car. goth., 24 ff. non ch., 86 ff. ch., 2 ff. non ch. (Index),
+          <lb/>titre courant, réclames, init. ornées; titre rouge et noir.
+          <lb/>fol. 2a-24a non ch : Vorred an den Heylthums verstän¬
+          <lb/>digen Leser... — Jacob Eysenberg.
+          <lb/>fol. 24b non ch.: Beschläge zum Heiligthums kästlin.
+          <lb/>HeiligthumsspangJesuwalti Pickhart, (— Joh. Fischart)
+          <lb/>zu beschla-gung gegenwärtigs Heiligthumskäst- lins
+          <lb/>oder Brotkorbs, der merckli- chen Heiligthums Partickel.
+          <lb/>(32 vers).
+          <lb/>R 102.480. Prov : Bibl. Th. S. Reuss, décembre 1887.
+          <lb/>GPB: Berlin BN, Greifswald BU.
+          <lb/>Le livre, de Calvin, intitulé: Traité des reliques parut en 1543;
+          <lb/>il fut traduit en latin en 1548 par Nic. Gallasius. Une traduction alle¬
+          <lb/>mande (anonyme) parut en 1558. Une autre traduction en allemand par
+          <lb/>Jacques Eysenberg parut en 1557 à Wittemberg, réimprimée en 1558 à
+          <lb/>Pforzheim, en 1559 à Mulhouse. Fischart en fit une nouvelle édition,
+          <lb/>imprimée chez B. Jobin, Strasbourg, en 1583, réimpressions en 1584
+          <lb/>1590, 1594, 1601, 1606, 1608, 1622.
+          <lb/>Voir: Hauffen, Neue Fischartstudien (p. 242-262). [— Euphorion,
+          <lb/>Ergänzungsheft VII, Leipaig, Wien, 19081; p. 254: Ehe diese Ausgabe
+          <lb/>fertiggestellt wurde. hat Fischart im Bienenkorb der zweiten Fassung
+          <lb/>1580 an mehreren Stellen auf sie hingewiesen mit der Bemerkung, dass
+          <lb/>Jesuwalt Pickhart, den Heyligen Brotkorb&amp;quot;,n kürze&amp;quot; dem F. Nas
+          <lb/>verehren wird. Das Erscheinen hat sich bis 1583 hingezogen.
+          <lb/>414
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

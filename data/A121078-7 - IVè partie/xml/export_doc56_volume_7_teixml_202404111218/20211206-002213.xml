@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:07.042307+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002213.tif
+IMAGE WIDTH: 2512
+IMAGE HEIGHT: 3934
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>GERSON, Joh. : Tertia Pars operum quae meditandi rationem
+          <lb/>et mysticam theologiam in se complectitur. — Strasbourg,
+          <lb/>Jean Knobloch 1517, in-fol.
+          <lb/>Panzer 6, 84, 479; Schmidt VII, n° 144; Weislinger 93. 1883
+          <lb/>GERSON, Joh. Voir : OFFICIUM S. Josephi n° 2788;
+          <lb/>WIMPHELING, Jac., De vita Joan. Gerson n° 3538.
+          <lb/>(Gerson, voir aussi : Ritter, Rép, nos 1003-1007).
+          <lb/>GESAENGE : Geistliche Gesänge. Mit vier Stimmen zu singen
+          <lb/>in den Kirchen und Schulen zu Straszburg. — Strasbourg,
+          <lb/>Nicolas Wyriot 1577, in-4°.
+          <lb/>Vogeleis, p. 339 : Darmstadt, Hofbibl.
+          <lb/>1884
+          <lb/>GESANGBUCH : — darinn begriffen sind, die aller fürnemisten
+          <lb/>und besten Psalmen, Geistliche Lieder und Chorgeseng,
+          <lb/>aus dem Wittenbergischen, Strasburgischen und anderer
+          <lb/>Kirchen Gesangbüchlin zusamen bracht und mit
+          <lb/>besonderem fleis corrigiert und gedrucket. Für Stett und
+          <lb/>Dorff Kirchen, Lateinische und Deudsche Schulen... —
+          <lb/>Gedruckt zu Strasburg, Anno M. D.XLI. (1541), grand
+          <lb/>in-fol. (Imprimeur d’après la préface : Jörg Waldmüller,
+          <lb/>genannt Messerschmidl.
+          <lb/>Hubert, n° 33 : Isny.
+          <lb/>1885
+          <lb/>GESANGBUCH : Das gros Kirchen Gesangbuch, darinn begriffen
+          <lb/>sind die aller fürnemisten und besten Psalmen, Lieder,
+          <lb/>Hymni und alte Chorgesenge... Hat mehr bei L/50 stücken
+          <lb/>jetzund mehr, dann das erste Kirchen Gesangbuch anno
+          <lb/>XLI. allhie ausgegangen... — Strasbourg, Georges
+          <lb/>Messerschmid 1560, grand in-fol.
+          <lb/>Mentz, n° 68 c; Vogeleis, p. 298 : « Dieses Gesangbuch ist das
+          <lb/>schönste unter allen gedruckten deutschen Kirchen-Gesang¬
+          <lb/>n° 43: B N Berlin, Munich, Hambourg, etc.
+          <lb/>1886
+          <lb/>211
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

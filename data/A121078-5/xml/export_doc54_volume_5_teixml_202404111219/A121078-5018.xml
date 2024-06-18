@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:49.256277+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5018.tif
+IMAGE WIDTH: 2414
+IMAGE HEIGHT: 3900
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1326
+          <lb/>Silvestre n° 1264.) Cum gratia &amp;amp; priuilegio Imper.
+          <lb/>M. D. XXXIX. (Verso blanc.)
+          <lb/>A la fin : Argentorati apud Cratonem Mylivm! Mense
+          <lb/>Sept.! Anno !l M. D. XXXIX.
+          <lb/>In-8°, car. ital., 67 ff. non ch., sign. A-G, réclames, grande init. à fig. I.
+          <lb/>fol. A 2a :... Erasmo!! Baroni a Lympurg... primo Ecclesiae! Argen¬
+          <lb/>toratensis Canonico... Ioannes Sapidus... Argentorati!! Calen. Iulij.
+          <lb/>M. D. XXXIX.
+          <lb/>fol. A 5a, au-dessus du Prologue : Acta Lydis Vernis, ad Idvs !] Maias,
+          <lb/>Ioanne Bockio Urbis!] Praefecto, Matthia Pfarre!! ro Tertivm Consvle,
+          <lb/>Iacobo Sturmio, Nicolao Knieb!! sio, Iacobo Meiero Scho! larchis.
+          <lb/>R. 100.161. Prov. : M. Spirgatis, Leipzig, 22/III, 1898; 20 M.
+          <lb/>Walter : Sélestat, No 2188.
+          <lb/>Bibliographie. Voir: Schottenloher II, N° 18864-18865. 2071
+          <lb/>SAPIDUS Johannes
+          <lb/>Strasbourg, Cr. Mylius, 1540
+          <lb/>Anabion! Sive Lazarvs Redi- (] uivus, Comoedia noua &amp;amp;
+          <lb/>sa-cra Ioanne Sapido! auctore.Item Historia De Divi
+          <lb/>te &amp;amp; de egeno Lazaro Lucae 16, reddita uersibus à quodam
+          <lb/>studioso.
+          <lb/>Marque typ. de Cr. Mylius. (H. &amp;amp; B., Planche XXVII,
+          <lb/>n° 5; Silvestre, n° 1264.)
+          <lb/>Cum gratia &amp;amp; priuilegio Imper. ] M. D. XL. (Verso blanc.)
+          <lb/>A la fin : Argentorati apud Cra-tonem Mylium An.!!
+          <lb/>M. D. XL. (1 Mense Martio.
+          <lb/>Au verso du dernier f. blanc, marque typ. de Cr. Mylius.
+          <lb/>(H. &amp;amp; B. Planche XXVIII, n° 11; Silvestre, n° 1266.)
+          <lb/>In-8°, car. ital., 56 ff. non ch. dont les 2 derniers blancs, sign. A-G,
+          <lb/>réclames, init. à fig. I, init. ornée D; gravure sur bois fol. A 4b : Résurrec¬
+          <lb/>tion de Lazare.
+          <lb/>fol. A 2a :... Domino Eras-]I mo Baroni à Lympurg... Ioannes Sapidus...
+          <lb/>Ar!] gentorati Calend. 1) Iulij. 11 M. D, XXXIX. (Préface de 5 pages.)
+          <lb/>R. 100.627. Prov. : Trübner, Strasbourg, 5/VII, 1880; 5 M.
+          <lb/>2e exemplaire : R. 102.457 (2). Prov. : Bibliothèque du Gymnase de
+          <lb/>Heilbronn, 2/IV, 1878.
+          <lb/>Au bas du titre de R. 102.457 (1) (Opuscula Christianae Poeseos, Basi¬
+          <lb/>leae, s. d.) : Johannes Lauterbachius Poëta Laureatus.
+          <lb/>Walter: Sélestat 2189 et 2190.
+          <lb/>Brunet Ve, 137 : Vend. 12 fr. mar. r. Courtois.
+          <lb/>2072
+          <lb/>SAPIDUS Johannes
+          <lb/>Strasbourg, W. Rihel, 1542
+          <lb/>Ioan. Sa-pidi epitaphia :sive gymnasii Ar-gentora¬
+          <lb/>tensis luctus.
+          <lb/>Argentorati per Vuende-linum Rihelium. (Verso blanc.)
+          <lb/>A la fin : Argentorati in aedibus VuendeliniRihelij.
+          <lb/>Anno M. D. XLII. (1 Mense Iunio.
+          <lb/>Au verso: marque typ. de W. Rihel. (H. &amp;amp; B. Planche XXIX,
+          <lb/>n° 2 ; Silvestre, n° 742.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

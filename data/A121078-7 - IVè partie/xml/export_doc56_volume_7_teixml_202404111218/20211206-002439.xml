@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:12.810950+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002439.tif
+IMAGE WIDTH: 2500
+IMAGE HEIGHT: 3966
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>RAUSCH (Bruder). Voir: BÜCHLEIN (Dis biechlein saget von
+          <lb/>Bruder Rauschen, nos 1216-1219.
+          <lb/>RAYMARUS, N. : Fundamentum astronomicum : id est nova
+          <lb/>doctrina sinuum et triangulorum.— Strasbourg, Bernard
+          <lb/>Jobin 1588, in-4°.
+          <lb/>Le 3 juin 1937 l’antiquaire Friedr. Otto (Mannheim) a offert
+          <lb/>à la BN de Strasbourg un ex, pour 75 M.
+          <lb/>3076
+          <lb/>RECHENBÜCHLEIN. Voir : BÜCHLEIN (Rechenbüchlein).
+          <lb/>RECUEIL des choses mémorables faites et passées pour le
+          <lb/>faict de la religion en estat de ce royaume, depuis la
+          <lb/>mort du roi Henry II, jusques au commencement des
+          <lb/>troubles en 1565. — Strasbourg, Pierre Estiart 1566,
+          <lb/>3 vol. in-80,
+          <lb/>BN Paris : Rés. La22, 1; Graesse VII, p. 52 ; « Ce recueil est
+          <lb/>connu sous le nom des Petits mémoires de Condé, mais il est
+          <lb/>refondu dans l’édition des Mémoires de Condé en 6 vol.
+          <lb/>in-4° ». Le Bibliophile Lorrain, nouv. série n° 34, avril-mai 1937,
+          <lb/>n° 4675 offre le 1er volume comme étant de Simon Goulet (?
+          <lb/>(Goulart) pour 350 francs.»
+          <lb/>3077
+          <lb/>REDEN-KAVEL : Der mallen Reden-kauel tot een doorlochtich
+          <lb/>verclaers, ende fyne clokeringhe vant mismict Edict,
+          <lb/>onlancks opt feyt van paspoorten ende teghen de
+          <lb/>Ihesuiten wt’s Grauenhage gespronghen... — Ghedruct
+          <lb/>to Hagenoo. Anno 1596, in-80, 64 Bll. (A Haguenau,
+          <lb/>il n’y avait plus d’imprimeur à cette date).
+          <lb/>Knuttel, Catalogus vol. VIII, Suppl. D 133.150.
+          <lb/>3078
+          <lb/>REFORMATION : Der Stat Worms Reformation und statuten
+          <lb/>ordenung. Satzung die allen Stetten communen.
+          <lb/>Regimenten: fürstenthum : Herrschaften: Amptsleüten:
+          <lb/>nutzlich : fürderlich und behilflich sein... — (Strasbourg),
+          <lb/>(Mathias Hupfuff 16.III.] 1509, in-fol.
+          <lb/>Schmidt V, n° 76 : B M Colmar.
+          <lb/>3079
+          <lb/>437
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

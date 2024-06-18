@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:05.960150+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie054.tif
+IMAGE WIDTH: 2484
+IMAGE HEIGHT: 3908
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>admet l’impr. du Jordanus comme impr., Proctor l’impr. des
+          <lb/>Vitas Patrum et Voulliéme Jean Grüninger, Ritter: B M
+          <lb/>Strasbourg n° 140.
+          <lb/>321
+          <lb/>HENRICUS de Segusio Hostiensis : Summa super titulis
+          <lb/>Decretalium. — (Strasbourg, impr. du Henricus Arimi¬
+          <lb/>nensis! 18. II. 1478, in-fol.
+          <lb/>Hain 8962, Proctor 336; Voulliéme : Berlin 2168; Brit. Mus.
+          <lb/>Cat. par erreur : Georg von Speyer — Reyser.
+          <lb/>322
+          <lb/>HEROLT, Johannes : Sermones discipuli de tempore et de
+          <lb/>sanctis unà cum promptuario exemplorum. — Strasbourg
+          <lb/>1480, in-fol.
+          <lb/>Hain 8480.
+          <lb/>323
+          <lb/>HEROLT, Johannes : (Idem). — Strasbourg (impr. des Vitas
+          <lb/>Patrum] 1484, in-fol.
+          <lb/>Hain 8489. Polain 1897, Voullième : Berlin 2252.
+          <lb/>324
+          <lb/>HEROLT, Johannes : Sermones discipuli de tempore et de
+          <lb/>sanctis cum promptuario. — Strasbourg 1489, in-fol.
+          <lb/>Hain 8499.
+          <lb/>325
+          <lb/>HEROLT, Johannes : Sermones discipuli de tempore et de
+          <lb/>sanctis... — Strasbourg, (Martin Flach] 1490, in-40.
+          <lb/>Hain 8501, Walter n° 241; Proctor 688; Voulliéme : Berlin
+          <lb/>2487.
+          <lb/>326
+          <lb/>HEROLT, Johannes : (Idem). — Haguenau, (Henri Gran
+          <lb/>20. VIIII, 1496, in-40.
+          <lb/>Hain 8507; Pellechet : Colmar 756; Ritter, Rép. Inc. 229. 327
+          <lb/>HEROLT, Johannes : De eruditione christifidelium. —
+          <lb/>(Strasbourg, Jacques Eber vers 1481), in-fol.
+          <lb/>Hain 8518; Proctor 510; Voulliéme : Berlin 2336, 5.
+          <lb/>328
+          <lb/>52
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

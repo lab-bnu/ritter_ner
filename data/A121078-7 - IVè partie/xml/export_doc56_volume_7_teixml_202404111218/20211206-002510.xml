@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:14.150946+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002510.tif
+IMAGE WIDTH: 2484
+IMAGE HEIGHT: 3992
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Gran 1507, 1510, 1512; R. Beck 1511, 1513, 1514 : Ritter,
+          <lb/>Rép. nos 2430-24371.
+          <lb/>3436
+          <lb/>VOCABULARIUS (Gemma-Gemmarum): noviter Impressus
+          <lb/>multarum dictionum additione exornatus. M. D.xiiii. —
+          <lb/>(Strasbourg, Guillaume Schaffner, impressus in Lor,
+          <lb/>(1 novembre) 1514), in-40.
+          <lb/>(Le lieu d’impression indiqué est la ville de Lahr dans le grand
+          <lb/>duché de Bade; Schaffner d’après Schmidt était un imprimeur
+          <lb/>ambulant, descendant de Roppertswiller, comté de Ferrette).
+          <lb/>Schmidt IV, p. 12, n° 5; Weller 866. — BN Munich et BN.
+          <lb/>Paris.
+          <lb/>3437
+          <lb/>VOCABULARIUS (juris) : Vocabularius utriusque Juris. Item.
+          <lb/>Modus legendi abbreviaturas in utroque Jure. —
+          <lb/>(Haguenau, H. Gran pour J. Rynman 1513), in-fol.
+          <lb/>Burg, n° 440; [éd. Gran, 13 février 1508: Ritter, Rép. n° 24381.
+          <lb/>3438
+          <lb/>VOCABULARIUS (lat, allemand) : Vocabularius Latinis Gallicis
+          <lb/>et Theutonicis verbis scriptum. — (Surasburg (!),
+          <lb/>Martin Flach 1521), in-4°.
+          <lb/>Schmidt VI, p. 35, n° 64: B N Strasbourg (introuvable). 3439
+          <lb/>VOCABULARIUS (allemand-latin) : Vocabularius primo ponens
+          <lb/>dictiones theutonicas, in lingua vernacula. Postea
+          <lb/>latinas: ex quo incipiens discere poterit scire: quomodo
+          <lb/>theutonica verba latine loquatur aut scribat. Ein orden¬
+          <lb/>liche anzeygung wie man yegklichs teütsch wort zu latyn
+          <lb/>reden mag... — (Strasbourg, Mathias Hupfuff 1515), in-4°.
+          <lb/>Schmidt V, n° 122; Weller, Rep. 972. (B N Strasbourg
+          <lb/>R101.910: Rép. n° 2440l.
+          <lb/>3440
+          <lb/>VOGEL, Heinrich : Ein Christliche Predig bey der Leich Herrn
+          <lb/>Georg Hansen, Pfaltzgraven bey Rheyn, Hertzog in
+          <lb/>Bayern und Graven zu Veldentz..., gethan zu Lützelsteyn
+          <lb/>den 11. Aprilis Anno 1592. — Strasbourg, Antoine
+          <lb/>Bertram 1596, in-8°.
+          <lb/>3441
+          <lb/>508
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

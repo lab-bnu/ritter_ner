@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:49.929556+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078259.tif
+IMAGE WIDTH: 2308
+IMAGE HEIGHT: 3844
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>A la fin= Getruckt zû Strasz-burg durch Bernhard
+          <lb/>Jobin, Im Jar. M. D. LXXII. (Verso blane.)
+          <lb/>In-8°, car. goth., 7 ff. non ch., 24 ff. ch., titre courant, réclames,
+          <lb/>notes marg., init. ornées.
+          <lb/>Fol. A 2a : ... Herrn Carle Welser, Frey- herrn z61 Zimburg,
+          <lb/>Fürstlicher Durchleuch! tigkeyt Ertzherzogen Ferdinanden za! Oester¬
+          <lb/>reich etc.... (Préface 6 ff.).. Datum Hagenaw, den ersten Augusti,
+          <lb/>M. D. LXXII.... Michael Toxites der) Artzney Doctor.
+          <lb/>Au verso du f. A VII : Effigies Aureoli Theophrasti ab Hohen¬
+          <lb/>heim, Aeta. suae XLVII. (Portrait de Paracelsus.)
+          <lb/>R101.032. Prov. inconnue.
+          <lb/>1776
+          <lb/>PARACELSUS Theophrastus
+          <lb/>(Strasbourg ?1] 1573
+          <lb/>Aureoli Philippi THEOP. PARACELSI CHIRVRGIA MINOR,
+          <lb/>QVAM ALIAS BERTHEO-NEAM INTITVLAVIT. CVI ETIAM SEQVEN¬
+          <lb/>TES TRACTA- tus accesserunt, eiusdem authoris.! De apo¬
+          <lb/>stematibus, Syronibus, &amp;amp; Nodis. De cutis apertionibus.
+          <lb/>De vulnerum &amp;amp; ulcerum curis.De Vermibus, Serpenti¬
+          <lb/>bus, &amp;amp;c. ac macu- lis à nativitate ortis. Ex VERSIONE
+          <lb/>GERARDI DORN.Cum Gratia &amp;amp; Privilegio Caes. Maiest.
+          <lb/>(Petite vign.)
+          <lb/>ANNO SALVTIS M. D. LXXIII. (Verso blanc.)
+          <lb/>In-fol., car. rom., 263 pp. ch., 5 pp. non ch., titre courant, récla¬
+          <lb/>mes, init. à fig. P et init, ornées. Page 1-14, préface de Paracelsus.
+          <lb/>Mêmes caractères, vign. et papiers que le numéro précédent, imprimé à
+          <lb/>Strasbourg.
+          <lb/>R10391. Prov.: Bibl. de l’ancienne faculté de médecine de Stras¬
+          <lb/>bourg.
+          <lb/>BN Paris. Brunet IVe, 357a.
+          <lb/>1777
+          <lb/>1145
+          <lb/>PARACELSUS Theophrastus
+          <lb/>[Strasbourg?] 1573
+          <lb/>PHILIPPI AVREO- LI THEOPHRASTI PARACELSI BOMBAST
+          <lb/>EREMITAE, SVMMI IN- ter Germanos Medici &amp;amp; Philosophi.
+          <lb/>CHIRVRGIA MAGNA,) in duos tomos digesta. ! TOMVS PRIMVS,
+          <lb/>continens DE VULNERIB. ET FRACTVRIS. Lib. III. DE ULCE¬
+          <lb/>RIBVS. Lib. III. DE TVMORIBVS ET APERTVRIS. Lib. VII.
+          <lb/>Nunc recens à IOSQVINO DALHEMIO OSTOFRANCO Medico
+          <lb/>Latinitate donata. Cum gratia &amp;amp; Privilegio Caesar Maie¬
+          <lb/>stat. ad annos sex.
+          <lb/>ARGENTORATI. M. D. LXXIII. (Verso blanc.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

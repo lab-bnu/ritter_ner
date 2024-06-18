@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:48.666697+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078212.tif
+IMAGE WIDTH: 2304
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1098
+          <lb/>Decretum Sampstags den sechten (!) Aprilis, Anno, etc.
+          <lb/>xxxii. (Verso blanc.)
+          <lb/>Placard, in-4°, car. goth., 15 lignes, init. ornée W.
+          <lb/>R 22 (3). Prov.: Bibl. Heite, Strasbourg 1871. A la marge:
+          <lb/>1696
+          <lb/>1532. Verkauf der Früchte.
+          <lb/>ORDONNANCE
+          <lb/>Strasbourg 1533
+          <lb/>WIr Bernhart Wormser Ritter, der Meyster, und der
+          <lb/>Rath zû Straszburg, thûn kunt : Als wir inn der hie- vor
+          <lb/>unserer auszgangnen Constitution des Gottslesteren, flûchen,
+          <lb/>spielen, zû unnd voltrincken, des Ee- bruchs, und anderer
+          <lb/>laster halb, under andern artickeln begrif- fen, ... dasz
+          <lb/>der oder dieselbigen gleicher gestalt, als ob es inn un¬
+          <lb/>serer statt beschehen were, gestraafft werden sollen.... So
+          <lb/>haben wir unns, sampt unsern freunden den eyn und
+          <lb/>zwentzigen uber solich artickel erleutert und erkennt...
+          <lb/>Der oder dieselben, die söllen aller massen,... unserer
+          <lb/>uffgerichten Constitution und Ordnung nach, gestraaft und
+          <lb/>gehalten werden... —
+          <lb/>Decretum montags den xvii. Mertzens, Anno etcet.
+          <lb/>xxxiii. (Verso blanc.)
+          <lb/>Placard, in-4°, car. goth., 22 lignes, init. ornée W.
+          <lb/>R 22 (14). Prov. : Bibl. Heitz, Strasbourg 1871. Note ms. à la
+          <lb/>marge:¿Mandat wider das Gottslästeren, Ehebruch. Hurrerey, Zutrincken,
+          <lb/>Spielen.&amp;quot;
+          <lb/>1697
+          <lb/>Strasbourg 1535
+          <lb/>ORDONNANCE
+          <lb/>UNsere Herren Meyster und Rath unnd die Eyn unnd
+          <lb/>zwentzig, haben usz ehe-hafften bewegenden ursachen,
+          <lb/>und fürnemlichen gemeiner Burgerschafft zu gutem, vol¬
+          <lb/>gende des Weinmarcks ord- nung bedacht und fürgeno¬
+          <lb/>men, wöllen unnd gepietten auch, das solliche hinfürter
+          <lb/>von meniglichem bey Peenen und straffen darinn ver¬
+          <lb/>leibt, gehalten werde. Nämlichen unnd zôm ersten, sollen
+          <lb/>alle Wein die hiedisseit Rheins vom Land auff Wägen
+          <lb/>oder Kerchen, herinn zû Marckt kommen, hiefürter an
+          <lb/>kein andere ort, dann auff den Weinmarckt gefüret wer¬
+          <lb/>den, und da Marckt halten... —
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

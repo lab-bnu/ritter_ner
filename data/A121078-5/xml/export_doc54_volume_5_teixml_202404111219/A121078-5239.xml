@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:58.022165+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5239.tif
+IMAGE WIDTH: 2386
+IMAGE HEIGHT: 3858
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>2
+          <lb/>X
+          <lb/>1549
+          <lb/>Oratio ad diuum Adelphum:
+          <lb/>Stemmata qui decoras Burgundica præsul Adelphe
+          <lb/>Qui animi sancti nobilitate nites
+          <lb/>Sentiat afflictus tua per solamina seruus
+          <lb/>Vt veniã erratis det deus ipse suis
+          <lb/>O ita summe velis celsimoderator olimpi
+          <lb/>In triplici simplex numine numen habens
+          <lb/>&amp;quot;R. 102.310. Prov. Trübner, Strasbourg, 9/XI, 1883; 9 M.
+          <lb/>Schmidt, III, No 55 : jadis Bibl. de Strasbourg, Incun, n° 4913 et
+          <lb/>BM Sélestat; Ritter, BM Strasbourg, n° 2226. Autre exemplaire : Grand
+          <lb/>Séminaire, Strasbourg Inc. A 93. Voir : Ritter, Catalogue des incunables
+          <lb/>et livres du XVIe s. (jusqu’en 1530) de la Bibliothèque du Grand Séminaire
+          <lb/>de Strasbourg, n° 497.
+          <lb/>2480
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

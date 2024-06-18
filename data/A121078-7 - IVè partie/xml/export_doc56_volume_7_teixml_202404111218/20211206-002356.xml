@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:10.942073+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002356.tif
+IMAGE WIDTH: 2490
+IMAGE HEIGHT: 3976
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>MELANCHTHON, Phil. (Christianis an liceat) : Christianis,
+          <lb/>an liceat litigare in Judicio. — Haguenau, J. Secer 1529,
+          <lb/>in-80.
+          <lb/>Burg, n° 308.
+          <lb/>2623
+          <lb/>MELANCHTHON, Phil. (Commentarii) : Commentarii in episto¬
+          <lb/>lam Pauli ad Romanos recens scripti. — Haguenau
+          <lb/>(P. Brubach] 1535, in-8°.
+          <lb/>Burg, n° 313.
+          <lb/>2624
+          <lb/>MELANCHTHON, Phil. (Commentarii) : Commentarii in episto¬
+          <lb/>lam Pauli ad Romanos. — Strasbourg, Crato Mylius,
+          <lb/>mars 1540, in-80.
+          <lb/>BM Montauban 10.591.
+          <lb/>2625
+          <lb/>MELANCHTHON, Phil. : Commentarii in epistolam Pauli ad
+          <lb/>Romanos... (Marque typ. de Crato Mylius, répétée à la
+          <lb/>fin du livrel. — Argentorati (apud Cratonem Mylium,
+          <lb/>An.) M. D.XLIIII. (1544) (Mense Septemb.), in-8°,
+          <lb/>Grand Sém. Strasbourg L 11.
+          <lb/>2626
+          <lb/>MELANCHTHON, Phil. (Commentarius) : Commentarius de
+          <lb/>anima. — Strasbourg, Crato Mylius 1540, in-8°.
+          <lb/>Walter, n° 1861. [Ritter : Rép. n° 1547 a une éd. de Crato
+          <lb/>Mylius de 1548l.
+          <lb/>2627
+          <lb/>MELANCHTHON (De Conjugio) : Defensio conjugii sacerdotum
+          <lb/>pia &amp;amp; erudita, missa ad Regem Angliae... Refutatio
+          <lb/>abusuum Coenae Domini. Erudita et utilis disputatio
+          <lb/>de potestate Pontificia. — (Strasbourg, Crato Mylius
+          <lb/>mars 1542), in-8°.
+          <lb/>Bibl. St. Guillaume, Strasbourg. (Ritter, Rép. n° 1539, 2628
+          <lb/>MELANCHTHON, Phil. (De Conjugio) : De coniugio piae
+          <lb/>commonefactiones. — Strasbourg, Augustin Fries 1551,
+          <lb/>in-40.
+          <lb/>Ritter, Hist. impr. p. 331.
+          <lb/>2629
+          <lb/>354
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

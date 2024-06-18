@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:14.018556+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002502.tif
+IMAGE WIDTH: 2506
+IMAGE HEIGHT: 3966
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>VEHUS, Hieronymus : Deo auspice pro divo Maximi...
+          <lb/>Boemicus triumphus. — (Strasbourg, Jean Grüninger
+          <lb/>vers 1524), in-4°. (Poème sur la victoire de Maximilien
+          <lb/>sur les Bohèmes près de Ratisbonne en 15041.
+          <lb/>1524 probablement faute pour 1504. Voir n° 3394.
+          <lb/>3395
+          <lb/>VELCURIO, Johannes : Commentaria in universam physicam
+          <lb/>Aristotelis. — Strasbourg 1539.
+          <lb/>Ficker, Erste Lehr-und Lernbücher, p. 54.
+          <lb/>3396
+          <lb/>VELSIUS (Medicus) : De mathematicarum disciplinarum
+          <lb/>vario usu dignitateque: quique ad harum comparandam
+          <lb/>cognitionem adhibendi sint : deque optima horum
+          <lb/>explicandorum ratione... Oratio. — Strasbourg, Crato
+          <lb/>Mylius, mai 1544, in-4°.
+          <lb/>Walter, n° 2371.
+          <lb/>3397
+          <lb/>VELVANUS, Joh. Anast. Voir: (Versteghe), Johannes, n° 3401.
+          <lb/>VENATORIUS, Martinus. Voir : POLLICARIUS, Joh., n° 2964.
+          <lb/>VERANIUS (Frater). Voir: SALONIUS, n° 3157.
+          <lb/>VERANTWORTUNG. Voir: CAPITo, Wolfgang, n° 1287.
+          <lb/>VERGILIUS, Polydorus : Proverbiorum liber... — (Strasbourg,
+          <lb/>Mathias Schürer, mai 1509), in-40.
+          <lb/>Walter, n° 2377; [éd. Schürer, février 1510, novembre 1511,
+          <lb/>août 1516 : Ritter, Rép, nos 2395/6, 23991.
+          <lb/>3398
+          <lb/>VERMANUNG : Ein vermannung an die jungen Knaben unnd
+          <lb/>Töchterlin in der Vorbereytung, wann sie den morgenden
+          <lb/>tag hernach das Hochwürdig Sacrament des H. Abendt¬
+          <lb/>mal unsers Herren Jesu Christi entpfahen wöllen.
+          <lb/>Sampt einem Examine, das mit ihnen gehalten würt...
+          <lb/>M.D.LIIII. — (Strasbourg, Samuel Emmel 1554), in-8°.
+          <lb/>Ritter : B M Strasbourg, n° 2157.
+          <lb/>3399
+          <lb/>500
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

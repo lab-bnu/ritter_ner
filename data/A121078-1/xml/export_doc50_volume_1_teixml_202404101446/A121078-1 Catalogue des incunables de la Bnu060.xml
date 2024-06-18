@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:37.222084+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu060.tif
+IMAGE WIDTH: 2380
+IMAGE HEIGHT: 3840
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>G W 7229, Hain 5503, Pellechet 3870, Proctor 429. Voulliéme:
+          <lb/>Berlin 2263.
+          <lb/>K1281 Prov.: M. Nijhoff, Hague, 5/VIII. 1889, 10 fl. 80. Notes
+          <lb/>mss. Au recto du f. de garde: Cf. Freitag, Analecta litteraria
+          <lb/>p. 406.
+          <lb/>134
+          <lb/>COLUMNA Guido de: Historia destructionis Trojae. Stras¬
+          <lb/>bourg, (typ. du Jordanus, (— G. Husner),) 9 octobre
+          <lb/>1486, in-fol.
+          <lb/>G W 7230, Hain 5509, Madsen 1239, Pellechet 3873, Proctor 605,
+          <lb/>Voulliéme: Berlin 2412, 5. Walter; Sélestat 158.
+          <lb/>K 1284. Prov.; List &amp;amp; Francke, Leipzig, 13/ I. 1879, 8 M. 135
+          <lb/>COLUMNA Guido de: Historia destructionis Trojae. Stras¬
+          <lb/>bourg, [typ. du Jordanus (— G. Husner)), 25 mai 1489,
+          <lb/>in-fol.
+          <lb/>G W 7231, Hain 5510, Madsen 1241, Proctor 620, Voulliéme:
+          <lb/>Berlin 2429.
+          <lb/>K 1285. Prov.; Baer 8 Co., Francfort s. M., 13/xI. 1876, 20 M.
+          <lb/>136
+          <lb/>COLUMNA Guido de: Historia destructionis Trojae. Stras¬
+          <lb/>bourg, (typ. du Jordanus (— G. Husner)), 25 juillet
+          <lb/>1494, in-fol.
+          <lb/>G W 7232, Hain 5511, Pellechet 3874, Pellechet: Colmar 508,
+          <lb/>Proctor 629, Voulliéme: Berlin 2454.
+          <lb/>K 1286. Prov.; B N Munich, 14/IV. 1880, 2 M. 50. Notes mss.
+          <lb/>A l’intérieur du 1er plat, exlibris avec la légende: Franciscus
+          <lb/>Praepositus Cann. Regg. in Polling. Anno 1744.
+          <lb/>137
+          <lb/>COMESTOR PETRUS. Voir; Petrus Comestor.
+          <lb/>COMPENDIUM juris canonici. Strasbourg (typ. du Jordanus
+          <lb/>(— G. Husner)), 9 février 1499, in-fol.
+          <lb/>G W 7262, Hain 5558, Madsen 1246, Pellechet 3890, Pellechet:
+          <lb/>Colmar 514, Proctor 644, Voulliéme: Berlin 2467, 5.
+          <lb/>K 1302 Prov.: B N Munich, 22/1. 1880, 2 M. 50. fol. a 2a: Mona¬
+          <lb/>chij ad P. P. Franciscanos Bibl. A la fin 12 ff. de mss. 138
+          <lb/>COMPOSITA VERBORUM. Voir: Johannes de Garlandia.
+          <lb/>30
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

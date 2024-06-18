@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:11.059431+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002364.tif
+IMAGE WIDTH: 2508
+IMAGE HEIGHT: 3966
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Durch... Johann Beat Grass, genant Vayen... M. D.LXX.
+          <lb/>— (Strasbourg, Thiébaud Berger 1570, in-4°.
+          <lb/>Ritter: B M Strasbourg, n° 1487.
+          <lb/>2672
+          <lb/>MESSKRANKHEIT : Von der Meszkrankheit und jrem
+          <lb/>letzten willen dem Bapst zuokommen. — (Mulhouse,
+          <lb/>J. Schirenbrand et P. Schmid, entre 1557 et 1559), in-80.
+          <lb/>Coudre et Werner.
+          <lb/>2673
+          <lb/>METZ : Die scharpff Metz wider die (die sich Evangelisch
+          <lb/>nennen) und doch dem Evangelio entgegen seynd... —
+          <lb/>(Strasbourg, Jean Schott (?), ou Konrad Kerner ?
+          <lb/>1525, in-40.
+          <lb/>Flugschriften aus den ersten Jahren der Reformation (Halle
+          <lb/>1906), vol. I, fasc. 3 : B N Berlin; Centralbl. für Bibliotheks-
+          <lb/>wesen XXI, p. 312 ff. : Konrad Kerner.
+          <lb/>2674
+          <lb/>METZLER, Johannes : Primae Grammatices Graecae partis
+          <lb/>Rudimenta, iam denuo restituta, ac plerisque in locis
+          <lb/>locupletata. — Haguenau, Jean Secer, janvier 1532,
+          <lb/>in-80.
+          <lb/>Burg, n° 315.
+          <lb/>2675
+          <lb/>METZLER, Johannes : In M. T. Ciceronis Catonem Maiorem
+          <lb/>vel de Senectute. — Haguenau, J. Secer (juillet) 1531,
+          <lb/>in-80.
+          <lb/>Burg, n° 314.
+          <lb/>2675a
+          <lb/>METZLER, Cornelius. Voir : Ein schön New LIED von der
+          <lb/>Stadt Diedenhofen, 1558, n° 2361.
+          <lb/>MEXIA, Pedro : Historischer Geschichts-Natur-und Wunder¬
+          <lb/>wald allerhand merkwürdigen Erzählungen... —
+          <lb/>Strasbourg 1570, in-4°.
+          <lb/>Graesse IV, p. 512.
+          <lb/>2676
+          <lb/>MEYGER, Fridolin. Voir: BRUNFELS, n° 1109.
+          <lb/>362
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

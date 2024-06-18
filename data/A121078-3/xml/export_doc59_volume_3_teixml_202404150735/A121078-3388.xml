@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:13.073397+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3388.tif
+IMAGE WIDTH: 2400
+IMAGE HEIGHT: 3856
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>830
+          <lb/>R 102.005. Prov. : Bibl. Böcking. Handschriftlich : Geschenk
+          <lb/>Hirzels.
+          <lb/>Schmidt I Nr. 242 mit einigen Abweichungen; ausserdem sagt er,
+          <lb/>dass sich in seinem Exemplar (Bibl. Wolfenbüttel) auf der Rücks, des
+          <lb/>Titelbl. die Vorrede des Theophrastus von Hohenheim befindet, während
+          <lb/>in meinem Ex. die Rücks, des Titelbl. leer ist u. die Vorrede auf Bl.
+          <lb/>a 2a steht. Moog, Theophrastus Paracelsus, Würzburg 1876, 40, S. 22
+          <lb/>kennt diese Ausgabe nicht.
+          <lb/>1234
+          <lb/>HUTTICHIUS Johannes
+          <lb/>Strassburg, W. Köpfel 1525
+          <lb/>(Epheubl.) IMpERA TORVM ROMANORVM LIBELLVS. Vnà
+          <lb/>cum imaginibus, ad uiuam effigiem expressis. (Druckerm.
+          <lb/>Köpfels. H 4 B Tafel XVI Nr. 4 ohne Einfassung.)
+          <lb/>Darunter: Cum Priuilegio Caesareo. (Rücks, leer.)
+          <lb/>Am Schluss: WOLFGANGVS CAEPHALIVS ARGENTINAE
+          <lb/>SVO AERE ET IMPENSIS EXCVS- SIT. ANNO SALVTIS M. D.
+          <lb/>XXV. (Kaiserporträt.) Darunter: IMP. P. INVICTI. PH. AyGG.
+          <lb/>80, Kursiv, 8 unn., 89 num., 3 unn. Bll., Kopft., Kust., 184 Por¬
+          <lb/>trâts in Medaillonform; viele Medaillons ohne Bildnis; Titeleinfassung.
+          <lb/>Auf dem letzten Bll. Druckerm. Köpfels. (H E B Tafel XVI Nr. 2.)
+          <lb/>Bl. A 2a: lureconsulto &amp;amp; Equiti Germano, D. OTHONI
+          <lb/>à PACKillustriss. Ducis Saxoniae GEORGI à consilijs,
+          <lb/>Domino &amp;amp; patrono suo, IOAN-NES HVTTICHIVS S. D....
+          <lb/>— Argentinae. (Widmung, 3 S.)
+          <lb/>R 102.134. Prov.: Bensheimer, Antiquar, Strassburg 7. V. 1878.
+          <lb/>Handschr. Notiz: ¿Schrijver ist Huttichius anno 1525. Origineele uitgave,
+          <lb/>hoogst zeldzaame.&amp;quot;
+          <lb/>Kristeller 585; Röttinger, Weiditz S. 96 Nr. 167. Baer, Frank¬
+          <lb/>furt a. M., Katal. 500 (1907) Nr. 1374: ,50 M.; 184 Münzabbildungen
+          <lb/>teilweise von Hans Weiditz,&amp;quot;
+          <lb/>Brunet II15, 391: Première édition contenant les portraits des
+          <lb/>empereurs romains, de ceux de Constantinople et d’Allemagne, gravés en
+          <lb/>bois. Ces portraits, en blanc sur un fonds noir, sont des copies de ceux
+          <lb/>du livre intitulé: Illustrium imagines, Romae, 1517, in-8°; mais le texte
+          <lb/>diffère de celui de l’édition romaîne, et est en général plus complet. Il
+          <lb/>y a une réimpression de Strasbourg, 1526, in-8° et une d’Augsbourg,
+          <lb/>1533, in-8°.
+          <lb/>Bibliographie des Huttichius: Schottenloher I Nr. 9304-9306.
+          <lb/>1235
+          <lb/>HUTTICHIUS Johannes
+          <lb/>Strassburg, W. Köpfel 1526
+          <lb/>IMPERA TORVM ROMANO-RVM LIBELLVS. Vnà cum
+          <lb/>imaginibus, ad uiuam effigiem! expressis. (Druckerm. Köp¬
+          <lb/>fels. H CB Tafel XVIII Nr. 11.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

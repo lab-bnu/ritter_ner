@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:11.169874+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3316.tif
+IMAGE WIDTH: 2362
+IMAGE HEIGHT: 3856
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>758
+          <lb/>Bl. Ee iij: Bericht Math: Fl;! Illyrici, von dem Mis¬
+          <lb/>uerstand, zwischen im vnd dem Ministerio, aus Befehl
+          <lb/>eines Erbaren Raths zu Strasburg ge-schrieben vnd vber¬
+          <lb/>antwortet, den 5. Julij, Anno 1572.
+          <lb/>Bl. LIVb: DER Lxxxiij.) Psalm Dauids, Im Thon:
+          <lb/>O Herre Gott dein Gött- lich Wort, etc. 1575. (Vign.)
+          <lb/>Magdalenen, Herrn M. Matthie Flacij Illyrici seligen,
+          <lb/>Darunter : Der Erbarn vnd Tugentsa- men Frawen
+          <lb/>nachgelassenenWittfrawen, etc. M. Cyriac: Spangen¬
+          <lb/>berg.
+          <lb/>R 101706. Prov.: Bibl. Eduard Cunite, Strassburg 1886. 1122
+          <lb/>HELDENBUCH
+          <lb/>Das helden bûch! mit synen figuren.
+          <lb/>Am Schluss: vnnd hat ge! druckt Henrich Gran burger
+          <lb/>zû Hagenaw in dem kosten des wy sen vnd fursich¬
+          <lb/>tigen her Hansen Knoblauch druckerher zu strasz burg.
+          <lb/>Anno. M. D. IX. jar vff samp! tag (!) nach Assumptionis.
+          <lb/>Bye furet Reyser
+          <lb/>Orit die tunigin binwegaũ scif
+          <lb/>uiber mõt mit seinen oieneru¬
+          <lb/>Hagenau, H. Gran 1509
+          <lb/>(Holzschn. S. 27)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

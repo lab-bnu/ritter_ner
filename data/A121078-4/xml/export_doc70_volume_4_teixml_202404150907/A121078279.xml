@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:50.727583+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078279.tif
+IMAGE WIDTH: 2310
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>In-fol., car. goth., 2 col., 110 ff. non ch., sign. a-p, titre courant,
+          <lb/>init. d’attente.
+          <lb/>R10347 (2). Prov.: BN Munich 28/XII 1877. Rel. anc.
+          <lb/>2ème ex. R 10.364 (2). Prov.: C. H. Beck, Nœrdlingen 24/VIII
+          <lb/>1889. Note ms.: Monasteriï Waldsassensis.
+          <lb/>BM Strasbourg.
+          <lb/>1813
+          <lb/>PELBARTUS DE THEMESWAR
+          <lb/>Haguenau, H. Gran 1501
+          <lb/>Stellarium Corone benedicte Marie virginis; in laudes
+          <lb/>eius pro singulis predicationibus ele gantissime coapta¬
+          <lb/>tum. (Verso blanc.)
+          <lb/>A la fin: Opus perutile... Impensis sumptibusque pro¬
+          <lb/>vidi viri Johannis Rynman: in imperia! li oppido Hage¬
+          <lb/>naw : per industrium Hen! ricum Gran inibi incolam dili¬
+          <lb/>gentissime im- pressum ac emendatum finit feliciter. Anno
+          <lb/>sa lutis nostre millesimo quingentesimo primo! xxviii die
+          <lb/>Januarii. (Verso blanc.)
+          <lb/>In-4°, car. goth., 2 col., 10 ff. non ch. (titre et table), 1 f. blanc,
+          <lb/>213 ff. non ch. pour les sermons et 1 f. blanc, sign. a-2, A-D, titre
+          <lb/>courant, init. d’atteute.
+          <lb/>R101417. Prov.: Butsch fils (Vente Bibl. Buxheim), Augsbourg
+          <lb/>20/1x 1883, 6 M. 50. Au-dessous du titre: Carthusiae Buchshaim.
+          <lb/>1814
+          <lb/>PELBARTUS DE THEMESWAR
+          <lb/>Haguenau, H. Gran 1501
+          <lb/>Stellarium Corone benedicte! Marie virginis in laudem
+          <lb/>eiuspro singulis predicationibus elegantissime coapta¬
+          <lb/>tum. (Verso blanc.)
+          <lb/>A la fin: Opus perutile... Impensis sumptibusque pro¬
+          <lb/>vidi viri Johannis Rynman: in imperiali op-pido Hage¬
+          <lb/>naw : per industrium Henricum Gran inibi incolam dili¬
+          <lb/>gentissime impressum ac emenda- tum Finit feliciter Anno
+          <lb/>salutis nostre Mille- simo quingentesimo primo, viii. Kl.
+          <lb/>Aprilis, (Verso blanc.)
+          <lb/>In-fol., car. goth., 2 col., 167 ff. non ch., sign. a-y, titre conrant,
+          <lb/>init. d’attente. Fol. a 2a non ch. : Prologus.
+          <lb/>R 10.356. Prov.: S. Kende, Vienne 27/XI 1888; 10 M. 20. Note
+          <lb/>ms. au-dessous du titre: Sum Casparis Couo Archipraesbyteri...
+          <lb/>BM Strasbourg.
+          <lb/>1815
+          <lb/>1165
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

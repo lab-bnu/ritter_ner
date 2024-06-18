@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:51.360821+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078304.tif
+IMAGE WIDTH: 2318
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1190
+          <lb/>A la fin: Hagenau excusum, impensis atque aere D. Jo¬
+          <lb/>annis Rynman De Oringau, cura et opera Henrici Gran.
+          <lb/>Anno partus virginei. M. D. XIIII. mense Octobri.
+          <lb/>ches sur fond noir A, 0, et init. d’attente, titre rouge et noir, encadré.
+          <lb/>In-4°, car. rom., 6 ff. non-ch. (Index), LXIII ff. ch., init. blan¬
+          <lb/>(H e B planche LXIV n° 2.)
+          <lb/>Hanselin 1549.&amp;quot;
+          <lb/>R101.046. Prov. inconnue. Au titre: ¿Ad usum Fratris Joannis
+          <lb/>BM Strasbourg.
+          <lb/>1861
+          <lb/>PHILELPHUS Franciseus
+          <lb/>Strasbourg, J. Knobloch 1515
+          <lb/>FRANCISCI PHILELPHI EPISTOLAE, breviores &amp;amp; elegan¬
+          <lb/>tiores atque adolescentibus magis! conducentes, ex toto
+          <lb/>originario exemplari iam denuo transsumptae.! Cum sin¬
+          <lb/>gularum epistolarum argumentorum Indice. Item. Angeli
+          <lb/>Politiani epistolae quaedam familiares, suaviores. &amp;amp; bre¬
+          <lb/>viores, ad viros illustres. in calce adiunctae sunt.
+          <lb/>A la fin: Argentorati. Ex aedibus Ioannis Knoblouch.
+          <lb/>ratore Caesare Maximiliano. P. F. Aug.
+          <lb/>In-4°, car, rom., 6 ff. non ch. (table), LXI ff. ch. (erreurs de pa¬
+          <lb/>gination: XXXI pour 29, XXXII pour 30, XXXIII pour 31, XXXIIII
+          <lb/>pour 32), init. ornées A Q et de nombreuses init. d’attente.
+          <lb/>R101042. Prov. : Oswald Weigel, Leipaig 2/XII 1893; 3M.
+          <lb/>A l&amp;#x27;intérieur de la couverture, cachet d’Oswald Weigel, antiquaire à
+          <lb/>Leipzig. Annotations mas.
+          <lb/>Manque chez Schmidt.
+          <lb/>1862
+          <lb/>PHILELPHUS Franciscus
+          <lb/>Strasbourg, M. Schurer 1518
+          <lb/>FRANCISCI] Philelphi Epistolae breviores, &amp;amp; elegan¬
+          <lb/>tiores, atque adolescenti! bus magis conducentes, ex toto
+          <lb/>origina- rio exemplari iam denuo transsumptae. Cum
+          <lb/>singularum epistolarum argumentorum Indice. I ITEM! An¬
+          <lb/>geli Politiani epistolae quaedam familiares,! suaviores, &amp;amp;
+          <lb/>breviores, ad viros illu-stres, in calce adiunctae sunt.
+          <lb/>A la fin, au verso de l’avant-dernier f.: Argentorati, Ex Aedi¬
+          <lb/>bus Schurerianis,! Mense Septembri Anno. M. D. XVIII.
+          <lb/>Regnan. Impera. Caesare Maximiliano. P. F. Aug.
+          <lb/>In-4°, car. rom., 6 ff. non ch. (table), LI ff. ch., 1 f. non ch.
+          <lb/>(verso blanc), init. ornées A, 0, titre encadré, composé de 4 pièces
+          <lb/>juxta-posées (ornements).
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

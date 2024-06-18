@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:36.832365+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu032.tif
+IMAGE WIDTH: 2378
+IMAGE HEIGHT: 3842
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>AILLY PIERRE DE. Voir: Petrus de Alliaco.
+          <lb/>ALAIN DE LILLE. Voir: Alanus ab Insulis.
+          <lb/>ALANUS AB INSULIS: Distinctiones dictionum theologicalium.
+          <lb/>(Strasbourg, civis C. W., vers 1474), in-fol.
+          <lb/>G W 488; Hain 391, Madsen 33, Pellechet 245, Proctor 343,
+          <lb/>Voullième: Berlin 2188.
+          <lb/>K 66. Prov.: B N Munich, 12 VII. 1873, 1 M. 20. Notes mss.
+          <lb/>Rel. anc.
+          <lb/>ALBERTANUS CAUSIDICUS BRIXIENSIS: De doctrina dicendi et
+          <lb/>tacendi. [Strasbourg, typ. du H. Ariminensis, vers
+          <lb/>1476), in-fol.
+          <lb/>G W 532, Hain 394, Madsen 40, Pellechet 252, Proctor 304,
+          <lb/>Voulliéme: Berlin 2160.
+          <lb/>K 68a. Prov.: J. Windprecht, Augsbourg, 29 XII. 1872; 1 M. 50.
+          <lb/>Notes mss.
+          <lb/>ALBERTUS MAGNUS: Compendium theologicae veritatis.
+          <lb/>[Strasbourg, Martin Schott, pas avant 1481), in-fol.
+          <lb/>G W 602. Hain 435, Madsen 57, Pellechet 275, Pellechet: Col¬
+          <lb/>mar 30, Proctor 392, Schmidt II, Supplément N° 4 (dit 1483,
+          <lb/>postérieure au 23 août), Voulliéme: Berlin 2241.
+          <lb/>K 79b. Prov.; J. Baer, Francfort-s.-M., 2 XII. 1912; 120 M.
+          <lb/>Notes mss. Rel. anc.
+          <lb/>ALBERTUS MAGNUS: Compendium theologicae veritatis.
+          <lb/>Strasbourg (J. Prüss), 1489, in-fol.
+          <lb/>G W 603, Hain 442, Pellechet 280, Pellechet: Colmar 32,
+          <lb/>Proctor 544, Voulliéme: Berlin 2356, 3.
+          <lb/>K 81. Prov.: Librairie Trübner, Strasbourg, 10 V. 1887, 7 M.
+          <lb/>Note mss. au-dessus du titre: Sum Monasterij B. M. de Porta
+          <lb/>coeli. D’après L. Pfleger (Zeitschrift für kath. Theologie, 1904)
+          <lb/>Hugo de Strasbourg est l’auteur de cet ouvrage.
+          <lb/>4
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

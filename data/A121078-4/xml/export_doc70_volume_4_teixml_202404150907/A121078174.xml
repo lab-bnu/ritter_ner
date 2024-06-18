@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:47.511034+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078174.tif
+IMAGE WIDTH: 2304
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1060
+          <lb/>Schmidt VI, p. 21, n° 11 remarque que c’est un traité que Flach
+          <lb/>père avait imprimé neuf fois.
+          <lb/>2ème ex.: *R101.340. Prov.: BN Munich 9/111 1878; 0,50 M.
+          <lb/>Annotations mss. Au dessous du titre : Monasterii Benedicti Pewrn.
+          <lb/>Proctor II Sectio I n° 10.140: Londres, Brit. Museum. 1626
+          <lb/>NICOLAUS DE BLONY
+          <lb/>Strasbourg, J. Knobloch 1508
+          <lb/>TRactatus sacerdo! talis de sacramentis deque divi¬
+          <lb/>nis officiis; et eorum administrationibus. (Verso blanc.)
+          <lb/>A la fin:... ImpressusArgentine per Joannem Kno¬
+          <lb/>blouch. Anno domini! M. CCCCC. viii.
+          <lb/>In-4°, car. goth., 2 col., 101 ff. non ch., sign. A-V, titre courant,
+          <lb/>init. d’attente. Fol. A 2a: Prologus.
+          <lb/>R101.342. Prov.: Bœr, Francfort-s.-M. I0/1111883; 9 M.
+          <lb/>Proctor II Sectio I n° 10.067: Londres, Brit. Museum; Schmidt
+          <lb/>VII n° 47: Jadis Bibl. de Strasbourg, Incun, n° 4618.
+          <lb/>1627
+          <lb/>NICOLAUS DE BLONY
+          <lb/>Strasbourg, J. Knobloch 1512
+          <lb/>TRactatus sacerdo talis de sacramentis : deque divi¬
+          <lb/>nis officiis; et! eorum administrationibus. (Verso blanc.)
+          <lb/>A la fin: Finit tractatus perutilis de ad- ministratione
+          <lb/>sacerdotum... Impressus! Argentine per Joannem Kno¬
+          <lb/>blouch: Anno domini. M. ceccc. xii.
+          <lb/>In-4°, car. goth., 2 col., 95 ff. non ch., sign. A-T, titre courant,
+          <lb/>init. d’attente. Fol. A 2a : Prologus.
+          <lb/>*RI01343. Prov.: BN Munich 28/XII1883.
+          <lb/>Schmidt VII n° *78, n’avant pas connu d’exemplaire, cite d’après
+          <lb/>Panzer 6, 55, 745.
+          <lb/>1628
+          <lb/>NICOLAUS DE CLAMANGHIS
+          <lb/>[Sélestat, Laz. Schurer ?1 1519
+          <lb/>NICOLAVS (entre deux feuilles de lierre.) CLEMANGIS ARCHI¬
+          <lb/>DIA-conus Baiocensis. Doctor. S. Theologiae Parisiensis,
+          <lb/>De corrupto eccle siae statu. A. MOVENTIVS LECTORI...
+          <lb/>(7 lignes.)
+          <lb/>In-4°, car. rom., 34 ff. non ch., sign. A-G, notes marg. Au verso
+          <lb/>du titre: Ex Io. Tritemio abbate Spanheimensi de Ecclesiasticis scripto¬
+          <lb/>ribus.... (Sur Nicolaus de Clamangiis: claruit temporibus Sigismundi
+          <lb/>Impe. &amp;amp; Concilii Constanciensis Anno domini M. CCCC. XVII.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:37.249651+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2365.tif
+IMAGE WIDTH: 2346
+IMAGE HEIGHT: 3822
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>CITTADINI Paolo de
+          <lb/>Strasbourg, J. Grüninger, 1506.
+          <lb/>Tractatus iuris patronatus! et summaria distinctionum:
+          <lb/>ac questionum causarum decreti.
+          <lb/>bannière, à côté de lui un tronc d’arbre, auquel est attaché l’écu de
+          <lb/>Gravure sur bois représentant l’empereur Maximilien, tenant une
+          <lb/>Maximilien, au fond une ville, Jérusalem, au-dessus la main divine
+          <lb/>sortant d’un nuage et tendant à l’empereur une épée.
+          <lb/>fol. Q 6a: Explicit Tractatus Juris patronatus; per me
+          <lb/>Paulum de Citadinis I. U. doctorem de Me- diolano, Et
+          <lb/>Juris Ciuilis or- dina-rium in fri- burgensi vniuersita¬
+          <lb/>te Priscaudie Compositus Anno 1. 50. 3 in festo Vndecim
+          <lb/>millium virginum Martyrum. Laus sit deo. Impressus Anno
+          <lb/>domini. 1. 5. O. 6. finitus in vigilia Johannis baptiste.
+          <lb/>A la fin, après le Repertorium: Impressus Argen- tine
+          <lb/>Anno domini 1. 5. O. 6. Finitus in vigilia Johannis bap¬
+          <lb/>tiste. p. Johannem Reinhart alias groninger.
+          <lb/>In-4°, car. goth., 142 ff. non ch., sign. A-T, titre courant, notes
+          <lb/>marginales, initiales avec figures religieuses C, T, 9, I, S, U, P, 0, H,
+          <lb/>A, S et quelques initiales d’attente. Sign. A-O (Tractatus), R-T (Re¬
+          <lb/>pertorium à 2 colonnes.)
+          <lb/>Au verso du titre: Carmen. Ad lectorem Pauli autoris.
+          <lb/>(34 vers latins).
+          <lb/>fol. A 2a Prologus (8 distiques latins — 6 pages de texte).
+          <lb/>RI01707. Prov.: B U Fribourg en Br., 29/XII. 1877; 4M.
+          <lb/>Au f. du titre: Donum Pauli de Citadinis jur. v. doc. legum ordi¬
+          <lb/>narii... et quelques annotations mss. à la marge des ff.
+          <lb/>BN Paris, Rés. F. 1180; Proctor II, Sectio I, No 9899: Londres,
+          <lb/>British Museum; Schmidt I, No 76: Jadis Bibl. du Séminaire protes¬
+          <lb/>tant et BM Strasbourg 1663). B U Fribourg en Br.; GPB: BU
+          <lb/>Gœttingue, Greifswald.
+          <lb/>540
+          <lb/>CLAGSPIEGEL, der Richterlich. Voir: BranT Sebastian.
+          <lb/>CLAMENGIIS Nicolas de. Voir: NICOLAUS DE CLAMANGHS.
+          <lb/>CLAMORGAN Johann von
+          <lb/>(Strasbourg, B. Jobin, vers 1590/?)].
+          <lb/>Wolffsjagt. JOhansen vonn Clamor- gan, Herren von
+          <lb/>Saane, Oberhauptmans auf der See gegen Nidergang in
+          <lb/>Franckreich:Inn welcher begrieffen vnd dar-gethon
+          <lb/>ist, desz Wolffs Natur vnd Eygenschafft, Wie derLeid,
+          <lb/>361
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

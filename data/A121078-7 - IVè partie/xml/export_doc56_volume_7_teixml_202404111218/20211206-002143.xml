@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:05.272957+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002143.tif
+IMAGE WIDTH: 2514
+IMAGE HEIGHT: 3960
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>doctrina Lutherana hactenus per eum visa, Apologia pro
+          <lb/>Luthero. Adversus decretum Parisiensium. — Sélestat,
+          <lb/>Lazare Schürer 1521, in-40.
+          <lb/>Ritter, Hist. impr. app. 477 (n° 3).
+          <lb/>1504
+          <lb/>DIALOGUS : Ain guter grober dyalogus... — (Strasbourg,
+          <lb/>René Beck vers 1521), in-80.
+          <lb/>Schmidt IV, p. 27, n° 34; Kuczynski 568. Bâle, B N
+          <lb/>Strasbourg (manque) ; Weller 1734.
+          <lb/>1505
+          <lb/>DIALOGUS von den vier grösten beschwernüsz. Voir: (RÖMER,
+          <lb/>Johannes), n° 3118.
+          <lb/>DIEMERINGEN, Otto von. Voir : Montevilla n° 2721.
+          <lb/>DIEMERINGEN, Peter von. Voir: EGENOLF von Staufenberg
+          <lb/>n° 1534.
+          <lb/>DIETENBERGER, Johannes : Von menschen ler. Widerlegung
+          <lb/>des Lutherischen büchlins von menschen leren zu
+          <lb/>meiden. — Strasbourg, Jean Grüninger 10.XI.1510,
+          <lb/>in-4°.
+          <lb/>Schmidt I, n° 203; Weller 2400. Bâle.
+          <lb/>1506
+          <lb/>DIETENBERGER, Johannes : Christliche underweisung, wie
+          <lb/>man gotes heiligen in dem hymmel anrüffen, und das
+          <lb/>heilthum auff erden Eeren soll.... 1524. — (Strasbourg,
+          <lb/>Jean Grüninger) 1524, in-4°.
+          <lb/>Breslauer (Berlin), Katal. III (1908), n° 487; 200 M. 1507
+          <lb/>DIETENBERGER, Joh. Voir aussi : RITTER, Rép, nos 645-652.
+          <lb/>DIETRICH von Bern : Von den aller Könsten weygant herr.
+          <lb/>dietrich von Bern und von Hiltibrant... wie sy wider die
+          <lb/>Risen stritent. — (Strasbourg), (Barth. Kistler) (1510),
+          <lb/>in-fol.
+          <lb/>Schmidt IV, p. 10, n° 27. B N Berlin; Kristeller 110. 1508
+          <lb/>141
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

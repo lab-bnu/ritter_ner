@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:06.253001+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3100.tif
+IMAGE WIDTH: 2308
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>544
+          <lb/>ces- sarium, nouissime impressum! &amp;amp; exactissime emen¬
+          <lb/>datum. (Rücks, leer.)
+          <lb/>Am Schluss: ... Haganoe impressum diligentia, Impensis
+          <lb/>atque aere D. Ioannis Rynman de Oringau, cura &amp;amp; opera
+          <lb/>indu- strii Henrici Gran. Anno... M. D. XXII. Mense Fe¬
+          <lb/>bruario.
+          <lb/>40, Antiq., 354 S., 310-325 falschlich 3010-3025; Kopft., Kust.,
+          <lb/>Init., Titeleinfassung (HE B Tafel LXIV Nr. 2).
+          <lb/>R101.301. Prov.: Trübner, Strassburg 9. XI.1881; 8M. — Auf.
+          <lb/>dem Titelbl.: L. Roloff. Pergamentumschlag mit lat. Text aus dem Mis¬
+          <lb/>sale mit Neumen am Rand (rot u. schware).
+          <lb/>GK: SB Berlin, UB Bonn, Breslau, Greifswald, Marburg, Münster.
+          <lb/>825
+          <lb/>EUSEBIUS: Historia Ecclesiastica. Siche: HEDIO Caspar : Chro¬
+          <lb/>nica der alten Kirchen. Strassburg, W. Köpfel 1530, 1545 u. 1558.
+          <lb/>EUTICUS junior. Siche: KRATWOL Henricus
+          <lb/>EVAGATORIUM. Siche: MICHAEL DE UNGARIA
+          <lb/>EVANGELI
+          <lb/>Hagenau, Th. Anshelm 1516
+          <lb/>Teutsch Evangeli Vnd Epistel: Mit sampt Vil! Hailsza¬
+          <lb/>mer Leer, Vnnd Vnderwei- sungen, Vom Latyn in besser
+          <lb/>teutsch Gebracht Vnnd mit Lustigen Figu ren Vor Mals
+          <lb/>nie gesehen, New Getruckt, Den Laien gantz verdienlich.
+          <lb/>Durch Thoman Anszhelm zu Hagenaw getruckt.
+          <lb/>Am Schluss: Getruckt Vnd Volendet In DerLöblichen
+          <lb/>stat Hagenaw, durch die Erbern Thoman Anshelm, vnd
+          <lb/>Johansen Al! berti, Imm Fünffzehenhundersten! vnnd Sech¬
+          <lb/>zehen Jare.
+          <lb/>Darunter Druckerm. Anshelm&amp;#x27;s. (H &amp;amp; B Tafel LXII Nr. 3; Sil¬
+          <lb/>vestre Nr. 641.)
+          <lb/>20, Got., CXLVIIII num. Bll., 2sp. (springt von Bl. VI auf Bl.
+          <lb/>XIII, folglich 141 Bll., 1 unn. Bl., Kopft., Init., Titeleinfassung, oben:
+          <lb/>Blumengewinde, Seitenbordüren: grosse Kolonne mit 2 nackten Knaben;
+          <lb/>unten: 2 nackte Knaben, in der Mitte ein Wesen halb Mensch, halb
+          <lb/>Tier, dem einer der Knaben einen Apfel reicht. Ausserdem 58 pracht¬
+          <lb/>volle Holeschnitte von Hans Schäufelin, von denen 47 von ihm signiert
+          <lb/>sind; 9 davon Rehren im folgenden Jahre in dem von Anshelm gedruckten
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

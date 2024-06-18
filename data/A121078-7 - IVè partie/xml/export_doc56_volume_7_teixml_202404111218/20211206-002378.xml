@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:11.432689+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002378.tif
+IMAGE WIDTH: 2504
+IMAGE HEIGHT: 3964
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Ausgabe zu Murners Lebzeiten erschienen ist; die Goedeke
+          <lb/>Ausgabe von 1522, die in Wolfenbüttel sein soll; aber eine
+          <lb/>solche findet sich in keinem Kataloge der Bibliothek. Wohl
+          <lb/>Verwechslung mit dem Gedicht « Von dem grossen Luthe¬
+          <lb/>rischen Narren ». Die Wickramschen Ausgaben, Knobloch’sche
+          <lb/>Offizin 1556 et 1558 siehe Ritter, Rép. nos 1618 et 1619.
+          <lb/>J. Knobloch 1556 et 1558l.
+          <lb/>2743
+          <lb/>MURNER (Reformatio poetarum) : De augustiniana hierony¬
+          <lb/>miaque reformatione poetarum. — Strasbourg, Jean
+          <lb/>Schott 1519, in-4°,
+          <lb/>Schmidt, Hist. litt. II, p. 421, n° 313; Libenau : Bibl. Soleure
+          <lb/>téd. Schott 1509 : Ritter, Rép. n° 1603).
+          <lb/>2744
+          <lb/>MURNER (Schelmenzunft) : Der schelmen zunfft... —
+          <lb/>(Strasbourg, Jean Knobloch 1516), in-4°.
+          <lb/>Brunet (5 éd.) III, 1954; Panzer, Annalen I, 396, 878;
+          <lb/>Schmidt VII, n° 133 : B N Berlin; Spanier, Murners
+          <lb/>Schelmenzunft [Neudrucke des XVI. u. XVII. Jhds., n° 85),
+          <lb/>P. VIII. (Une éd. Hupfuff 1512 : Ritter, Rép, n° 1607). 2745
+          <lb/>MURNER, Thomas (Idem) : Die Schelmen zunfft. In welcher
+          <lb/>angezeiget wird aller Welt mutwillen, buberey unnd
+          <lb/>schalckheiten... [8 lignes et grav.] 1568... — (Straszburg,
+          <lb/>am Kornmarckt) 1568.
+          <lb/>Spanier, Schelmenzunft (Neudrucke des XVI. u. XVII.
+          <lb/>Jahrh. fasc. 85), p. x1 : « Mit neuen Bildern. Nachdruck der
+          <lb/>Frankfurter Ausgabe von 1567».
+          <lb/>2746
+          <lb/>MURNER, Thomas (Idem): Die alt und new Schelmen
+          <lb/>Zunfft. Ein schöne Satyra... (10 lignes, grav.].
+          <lb/>(Strasbourg, J. Cammerlander vers 1540), in-4° de A-F,
+          <lb/>puis in-8°.
+          <lb/>Spanier, Murners Schelmenzunft (Neudrucke des XVI. u.
+          <lb/>XVII. Jahrh., fasc. 85), p. 1X-x.
+          <lb/>2747
+          <lb/>MURNER, Th. Voir aussi: BUcER, n° 1150. History von den
+          <lb/>376
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

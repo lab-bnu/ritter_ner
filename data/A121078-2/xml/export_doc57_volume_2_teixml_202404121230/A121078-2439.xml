@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:39.443248+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2439.tif
+IMAGE WIDTH: 2396
+IMAGE HEIGHT: 3822
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>fol. 2a non ch.:... Henrico Comiti... Joannes Cæ sarius.
+          <lb/>S. D.... — Coloniæ pridie nonas Julij. Anno,, Millesimo
+          <lb/>quingentesimo uigesimo sexto. (8 pages.)
+          <lb/>fol. 5b non ch.: (feuille de lierre) JOANNIS CESARII EXHOR¬
+          <lb/>TATIO ad candidum Lectorem... (4 pages.)
+          <lb/>R101709. Prov.: Dr. Nolte, Bonn, II/VIII. 1882, 3 M40.
+          <lb/>BN Paris, X. 7481, Oxford, Bibl. Bodleiana.
+          <lb/>654
+          <lb/>DIONYSIUS Aeropagita
+          <lb/>Strasbourg, 1502/3
+          <lb/>Opera Dionysii.Veteris et noue translationis, etiam
+          <lb/>nouissime ipsius Marsilii ficini cum com! mentarijs Hugonis.
+          <lb/>Alberti. Thome. Ambrosij oratoris. Linconiensis. &amp;amp; Ver
+          <lb/>cellensis.
+          <lb/>Il Veteris translationis. (7 lignes.)
+          <lb/>(III Noue translationis. (6 lignes.)
+          <lb/>(IIII Nouissime translationis Marsilij. (2 lignes.)
+          <lb/>A la fin de la première partie: Finiunt feliciter opera magni
+          <lb/>diony sii... impressa Argentine, viij kal. februa. Anno
+          <lb/>salutis nostre Millesimo! quingentesimo tertio. (Verso blanc.)
+          <lb/>A la fin de la 2e partie: Operum beatissimi Dionisii... finis.
+          <lb/>Impres sorum Argentine Anno Domini Mvc ij. fini- torum
+          <lb/>in die Vitalis martyris. (Verso blanc.)
+          <lb/>A la fin de la 3e partie: Impressum Argentine; anno do¬
+          <lb/>mini Mvcij. Finitum in die sanctorum mar tyrum Viti
+          <lb/>et Modesti. (Verso blanc.)
+          <lb/>In-fol., car. goth., 8 ff. non ch., 1ère partie CCCXXIX fF. ch. et
+          <lb/>1 f. blanc; 2me partie: CXVII ff. ch. à 2 col. et 1 f. blanc; 3me partie:
+          <lb/>LXVII ff. ch. à 2 col. et 2 ff. blancs. Titre courant, initiales d’attente.
+          <lb/>Au commencement de la me partie: titre encadré, de chaque côté
+          <lb/>un arbre, au milieu de chaque côté un aigle. (Voir p. 436.)
+          <lb/>Au verso du titre principal: Prologus! Salutem tibi lector
+          <lb/>optamus... — Argentinax. kalendas Julij. Anno domini.
+          <lb/>M. v c. ij.
+          <lb/>fol. a 2a non ch.: 46 vers latins; au-dessous: Gloriosissimo
+          <lb/>catholicorum regum Carolo: Johannes extremus so phie
+          <lb/>studentium salutem.
+          <lb/>Au verso: Prologus Johannis... (Préface de 2 pages et demie.)
+          <lb/>435
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

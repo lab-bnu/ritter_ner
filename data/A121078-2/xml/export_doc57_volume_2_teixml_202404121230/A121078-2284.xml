@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:35.084437+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2284.tif
+IMAGE WIDTH: 2300
+IMAGE HEIGHT: 3814
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>280
+          <lb/>In-80, car. rom. et grees, 8 ff. non ch., 263 pages ch., réclames,
+          <lb/>initiales ornées 0, L, C.
+          <lb/>fol. A 2a non ch.: PROEMIVM DISPV- TATIONIS DE PRE¬
+          <lb/>CIBVS AD Il lustratiss... Principem Christo- phorum Ducem
+          <lb/>Vuirtebergensem &amp;amp;. Ioachimi Camerarii Pabeperg...
+          <lb/>(10 p. en car. ital.)
+          <lb/>fol A 7a non ch.: Ex HODOEPORICO ADD. GEORGIVM
+          <lb/>COMITEM LA- biscanum: Palatinarem Posnaniensem: Io¬
+          <lb/>annis Sturmij iudicium de Ioachimo Camerario... (2 p.
+          <lb/>en car. rom.) Suit 1 f. blanc.
+          <lb/>De page 1 à 70: DISPVTATIO DE PRECIBVS. (car, rom.)
+          <lb/>De page 71-229: Seqvitvr Preca-o pro catechvme¬
+          <lb/>nis, quam lohannes, cognomento Chrysostomus retulit...
+          <lb/>(car, grecs et rom.)
+          <lb/>R101.947. Prov.: Völcker. Francfort s. M., 22/11.1883, 1 M.50.
+          <lb/>Notes mss., à l&amp;#x27;intérieur de la couverture: Lacrymae Aeternitati
+          <lb/>Sacrae. (16 strophes à 4 vers en latin); à la fin, des prières latines.
+          <lb/>BN Paris, D2, 3436; Bibl. St. Guillaume, Strasbourg; GPB:
+          <lb/>Berlin BN, Bonn BU, Breslau BU, Kœnigsberg BU.
+          <lb/>422
+          <lb/>CAMERARIUS Ioachim, De orthographia. Voir: ERYTHRAEUS,
+          <lb/>De Grammaticorum figuris. Strasbourg, Chr. Mylius, 1561.
+          <lb/>CAMPANUS Johannes, Contra poetas pro theologis epistola.
+          <lb/>Voir: HENRICUS de Hassia, Speculum animae. Strasbourg,
+          <lb/>J. Knobloch, 1507. Bibliographie de Campanus : Schottenloher I. No
+          <lb/>2574-2578.
+          <lb/>CANDIDUS Pantaleon
+          <lb/>Strasbourg, Ant. Bertram, 1587.
+          <lb/>GOTIBERIS Hoc est DE GOTICIS PER HISPANIAM
+          <lb/>REGIBVS E TEVTONICA GENTE ORIGINEM TRAHENTIBVS :
+          <lb/>Libri Sex. AD D. RVDOLPHVM II. ROM. IMP. ETC. ET IP¬
+          <lb/>SIUS CAESAREAE MAIESTATIS fratres germanos &amp;amp;c. mater¬
+          <lb/>na stirpe, ab Hispanorum regibus ortum habentes: Archi¬
+          <lb/>ducum Austriae serenissimos! Principes, summae in eam
+          <lb/>familiam pieta-s atque honoris ergò, carmine scripti
+          <lb/>à PANTALEONE CANDIDO AVSTRIACO.] Addita est Genea¬
+          <lb/>logia Regum Hispanicorum.
+          <lb/>Marque typ. d’Ant. Bertram, (H e B, Planche XLIV, No 2;
+          <lb/>Silvestre, No 1022.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

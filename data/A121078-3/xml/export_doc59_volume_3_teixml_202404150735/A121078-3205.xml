@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:08.363750+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3205.tif
+IMAGE WIDTH: 2326
+IMAGE HEIGHT: 3854
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>20, Got., 2sp., XII Bll., Kopft., Init.
+          <lb/>Bl. Hla: Vorrede Wimpfelings: Der edlen vnd ersamen
+          <lb/>frawen Anna von Endingen des ed len vnd vesten iunck¬
+          <lb/>herrn Ludwigen sturms gemahel sei mein willigs gebet
+          <lb/>vnd dienst alle zeit beuor... — Datum die xxiï. Decem. 1512.
+          <lb/>Auf der Rücks.: Blattgrosser Holeschn.: Jesus, der gute Hirt,
+          <lb/>umgeben von den Aposteln, einer von ihnen füllt einen Wasserkrug an
+          <lb/>einer Quelle, die aus dem Felsen hervorsprudelt; im Hintergrund rechts
+          <lb/>eine Stadt, links Hirtin mit einer Herde von Schafen.
+          <lb/>Bl. IIIb: Geiler auf der Kanzel. Bl. IVb: Die Jungfrau Maria
+          <lb/>das Jesukind stillend, von Blätterwerk umrahmt.
+          <lb/>Bl. XIb: Gepredigt in latein von dem hochgelerten vnnd
+          <lb/>standthafftigen doctor Jo-hans geiler von keisersperg, vff
+          <lb/>donnerstag nach dem Sontag vff dem man singet Quasi
+          <lb/>modo in dem M. CCCC. Ixxxii, lar.
+          <lb/>R10.127. Prov.: Ch. Schmidt mit seinem Exlibris u. handschr.
+          <lb/>Notizen von seiner Hand.
+          <lb/>Dacheux, Geiler S. CXXI, Kristeller 97; GK: SB Berlin, UB
+          <lb/>Göttingen; Schmidt I Nr. 131: Bibl. With. Strassburg; Walter: Schlett¬
+          <lb/>stadt Nr. 1381.
+          <lb/>963
+          <lb/>649
+          <lb/>GEILER Johannes
+          <lb/>Strassburg, Joh. Knobloch 1513
+          <lb/>Nauicula siue specu lum fatuorum Prestantissimi
+          <lb/>sacrarum literarum Doctoris Joannis Geiler Keysersber
+          <lb/>gij Concionatoris Argentinensis a Jacobo Otthero! collecta.
+          <lb/>Compendiosa vite eiusdem descriptio; perBeatum Rhe¬
+          <lb/>nanum Selestatinum.
+          <lb/>Am Schluss: Argentorati in officina literatoria Joannis
+          <lb/>Knoblouchi iterum castigatiusque transcriptum XXiïij. die
+          <lb/>Januarii: Anno M. D. XIII.
+          <lb/>40, Got., 241 unn. Bll., Sign. A-Z, Aa-Rr, Kopft., Init.
+          <lb/>Auf der Rücks, des Titelbl.: Reverendo... Joanni Wydel ex
+          <lb/>Gersbach fratris ordinis beati Benedicti in schuterana ere¬
+          <lb/>mo... Jacobus Ottherus... — Ex Argen, iij idus Februa¬
+          <lb/>rij. Anno domini. M. D. X. (Folgen 20 Bll. Index.)
+          <lb/>Bl. Rr 4b: Jacobus Ottherus Lectori... — Ex Argen.
+          <lb/>iij idus Februa rij. Anno M. D.X.
+          <lb/>Bl. Rr 5a: Beatus Rhenanus Selestatinus Judoco Gallo
+          <lb/>Rubea-quensi... Ex larario nostro in urbe Selestatina.
+          <lb/>Idibus v Maijs. Anno M. D. X. (Leben Geilers von Beatus Rhenanus.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

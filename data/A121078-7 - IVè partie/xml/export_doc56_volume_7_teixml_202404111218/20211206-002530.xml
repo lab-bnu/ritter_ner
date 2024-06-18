@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:14.617320+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002530.tif
+IMAGE WIDTH: 2530
+IMAGE HEIGHT: 3998
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>WIMPHELING, Jac. (Sermo) : Sermo ad iuvenes qui sacris
+          <lb/>ordinibus iniciari... petunt... — (Strasbourg) (Jean
+          <lb/>Prüss), janvier 1519, in-8°.
+          <lb/>Goedeke I2, p. 412, n° 51; Schmidt III, p. 34, n° 17. — Bâle;
+          <lb/>[éd. Schürer 1514 : Ritter, Rép, n° 2492).
+          <lb/>3544
+          <lb/>WIMPHELING. Voir aussi : BAPTiSTA Mantuanus, nos 907, 911,
+          <lb/>913 ;ERASMUS, nos 1577, 1581; GEBWILER, H., nos 1824¬
+          <lb/>5, 1828; HORTULUS animae, n° 2062 ; JOHANNES
+          <lb/>Chrysostomus, n° 2152; LUPOLDUS de Bebenburg,
+          <lb/>n° 2444; RITTER, Rép, nos 2471-2498; SERMO ad juvenes,
+          <lb/>n° 3220; TREBELLIUS, W., n° 3366.
+          <lb/>3545
+          <lb/>WINKEL, Johannes. Voir: BEeBIo, Ludovicus, n° 969. 3546
+          <lb/>WINNEBERG. Voir : PHILIPP, Freiherr zu Winneburg.
+          <lb/>WINSIUS, Melchior. Voir: WILLICHIUS, Jodocus, n° 3521.
+          <lb/>WINTPERGER, Wolfgang : Ein Tractat der Badenfart durch
+          <lb/>doctor Wolffgang Wintperger, von etlichen Hewtl
+          <lb/>genant zu Krembs in Latein beschriben und von
+          <lb/>Georg Wagner burger des raths zu Stain ausz Latein in
+          <lb/>Teutsch sprachen gezogen. — (Strasbourg, Martin
+          <lb/>Flach (17.XI.), 1507), in-40.
+          <lb/>Panzer, Annalen 1, 283; Schmidt VI, p. 22, n° 13. 3547
+          <lb/>WINTPERGER, Wolfgang : Ein Tractat der Badenfart. —
+          <lb/>(Strasbourg, 21.VIII, Martin Flach 1512), in-40.
+          <lb/>Schmidt VI, p. 25, n° 26; Panzer, Annalen I, 345; Weller
+          <lb/>751. — BN Munich.
+          <lb/>3548
+          <lb/>WINTON, Stephanus : De vera obedientia oratio... —
+          <lb/>Strasbourg, Wendelin Rihel 1536, in-8°.
+          <lb/>Walter, n° 2460.
+          <lb/>3549
+          <lb/>WIRRY, Heinrich : Ein wunderbarlich gantz warhafft geschicht
+          <lb/>so geschehen ist in dem Schwytzerland by einer statt
+          <lb/>528
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

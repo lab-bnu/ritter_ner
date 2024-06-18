@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:38.713837+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu130.tif
+IMAGE WIDTH: 2422
+IMAGE HEIGHT: 3852
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>K 3720. Prov. B N Munich, 10. V. 1880, 30 M. Notes mss.
+          <lb/>Pars I et II dans un volume. Au haut du 1er f. du 1er vol.:
+          <lb/>Ad. P. P. Franciscanos Vellhausij. Bib.». Rel anc. pour le
+          <lb/>1er vol.
+          <lb/>3e vol. incomplet, manque ff. 1 et 2. A l’intérieur du 1er plat
+          <lb/>du 2° et 3e vol. exlibris avec la devise: «Honos Erit
+          <lb/>huic quoque Luto.», et en bas: «Andreae Felicis OEfely.
+          <lb/>Monacensis.»
+          <lb/>476
+          <lb/>VINCENTIUS BELLOVACENSIS: Speculum historiale, Pars I-IV.
+          <lb/>Copinger III. 6245, Madsen 4160, Proctor 254, Voulliéme:
+          <lb/>Berlin 2131; Walter: Sélestat 497.
+          <lb/>K 3721. Prov.; Don de la ville de Trèves, 1871, dont le
+          <lb/>cachet se trouve au bas du 1er f. Rel. anc. Notes mss.
+          <lb/>2e ex. K. 3721a. Prov.; Don d’Oswald Ottendorfer, New-York,
+          <lb/>31. VII. 1885. A l’intérieur du 1er plat, fiche découpée d’un
+          <lb/>catalogue anglais: First edition... large initial, coloured let¬
+          <lb/>ters leightened with gold,...a most splendid specimen of
+          <lb/>printing in its very earliest infancy. Very fine copy. Original
+          <lb/>stamped monastic binding.... Dibdin and other bibliographers
+          <lb/>state that it was printed at Strasbury by J. Mentelin about the
+          <lb/>year 1470, although a previous possessor has titled it «Faust,
+          <lb/>Mayence 1474.» It is excessively rare, and no copy exists in
+          <lb/>the British Museum or the Spencer Library. This volume
+          <lb/>formed part of the treasures of the late library at Strasburg,
+          <lb/>which was entirely destroyed during the late seige. This and
+          <lb/>a very few other volumes alone being saved from total
+          <lb/>destruction. It ought to be in a national library.» Au verso
+          <lb/>du f. de garde: «Editio antiquissima, typis Mentellianis
+          <lb/>impressa. Cat. Palm V, n° 1862. Liber rarissimus. Theod. de
+          <lb/>Mann (2) pos.» Rel, anc.
+          <lb/>477
+          <lb/>VINCENTIUS BELLOVACENSIS PSEUDO-: Speculum morale.
+          <lb/>(Strasbourg, J. Mentelin, pas après 9 nov. 1476), in-fol.
+          <lb/>Copinger 6252, Proctor 214, Madsen 4162, Voulliéme: Berlin
+          <lb/>2109, Schorbach: Mentelin N° 37.
+          <lb/>K 3729. Prov.: Bibl. F. A. Menke, Brême, 1873. Notes mss.
+          <lb/>478
+          <lb/>VINCENTIUS BELLOVACENSIS: Speculum naturale. (Stras¬
+          <lb/>bourg, impr. R. (— Ad. Rusch), vers 1470), in-fol.
+          <lb/>Copinger III. 6256, Madsen 4166, Proctor 255, Voulliéme: Ber¬
+          <lb/>lin 2132. Walter; Sélestat 499.
+          <lb/>100
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:05.346515+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3038.tif
+IMAGE WIDTH: 2340
+IMAGE HEIGHT: 3840
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>482
+          <lb/>ERASMUS Rot.: De duplici copia
+          <lb/>Strassburg, M. Schürer, 1516
+          <lb/>DESYDERII ERASMI Roterodami, de duplici Co- pia,
+          <lb/>Verborum ac rerum Commentarij duo.! Ab Authore ipso
+          <lb/>diligentissime recogniti, &amp;amp; emaculati, atque in plerisque
+          <lb/>locis aucti. ITEM Epistola Erasmi Roterodami, ad Ja¬
+          <lb/>cobum Vuimphe lingium Selesta- tinum..&amp;quot;.
+          <lb/>Am Schluss: Argentorati, apud Schurerium, Mense Oc¬
+          <lb/>tobri. Anno M. D. XVI.
+          <lb/>einfassung (H ee B Tafel XIII, Nr. 6).
+          <lb/>40, Antig., 6 unn., LXXIII num, u. 5 unn. Bll., Kopftitel, Titel¬
+          <lb/>Bl. 2a: Erasmvs Roterodamvs Mat thiae Schurerio
+          <lb/>Stlezestano (!)... — Basileae. Anno. M. D. XIIII. Dahinter 7S.
+          <lb/>Index u. 2 Dist.: Sebastiani Murrhonis Iunioris! ad Lectorem.
+          <lb/>Bl. 6a: DESYDERIVS ERASMVS ROTE- rodamus Ioani Co¬
+          <lb/>leto... — Londini. Anno. M. D. XII. iij Calendas Maias.
+          <lb/>FR100.105. Prov.: Butsch Sohn, Augsburg, 15. xX.1883; 5 M 60.
+          <lb/>Titelbl. oben: Cartusiae Buxheim. Unvollst., die 5 letzten Bll. fehlen;
+          <lb/>2 Init. sind herausgeschnitten.
+          <lb/>GK: SB Berlin, UB Göttingen, Königsberg; Proctor Section I.
+          <lb/>Nr. 10244: London, British Museum; Schmidt VIII, Nr. 195: Kanto¬
+          <lb/>nalbibl. Aarau und frühere Stadtbibl. Strassburg Inkun. Nr. 1759; Rest
+          <lb/>S. 50; Walter: Schlettstadt Nr. 1235.
+          <lb/>721
+          <lb/>ERASMUS : Lucubrationes
+          <lb/>Strassburg, M. Schürer, 1516
+          <lb/>D. ERASMI ROI TERODAMI VIRI! vndecunque doctissimi
+          <lb/>Lucu-brationes, quarum Index positus est facie! se¬
+          <lb/>quenti...
+          <lb/>IN LIBERA ARGENTINA Ex recognitione authoris.
+          <lb/>Cum gratia &amp;amp; priuilegio Im-periali ad sexennium.
+          <lb/>Am Schluss: Excusum est hoc opus summa cura, labo¬
+          <lb/>reque praemagno. Argentorati apud Mat- thiam Schurerium
+          <lb/>Mense Iunio. Anno! M. D. XVI. REGNANTE MAGNANIMO
+          <lb/>IM] pe. Caesa. MAXIMiLiANO. P. F. AVG. P. Q. P.
+          <lb/>40, Antig., 4 unn. 285 num. Bll., wobei nur die ungeraden Nr.
+          <lb/>angewandt sind, also 143 Bll., 7 unn. Bll., Kopftitel, Zierinit., Titel¬
+          <lb/>einfassung (Siche Abb. Nr. 719).
+          <lb/>Auf der Rückseite des Titelbl.: Index.
+          <lb/>Bl. 2a: NICOLAVS GERBELLIVS DD. Doctor. Literarum,
+          <lb/>simul &amp;amp; pietatis Amatoribus Benefacere... Argentorati,
+          <lb/>ex Aedibus nostris Anno... M. D. XV.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:36.382218+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2333.tif
+IMAGE WIDTH: 2318
+IMAGE HEIGHT: 3814
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>(Vol. I.])
+          <lb/>Marque typ. de Wend. Rihel (H &amp;amp; B. Planche XXIX, n° 4;
+          <lb/>Silvestre. N° 741.)
+          <lb/>Cum gratia &amp;amp; priuilegio Caesario ad Se-ptennium.
+          <lb/>Argentorati Anno XL. (Verso blanc.)
+          <lb/>A la fin: Argentorati per Vuendelinum Rihelium.
+          <lb/>Anno M. D. XL! Mense Martio.
+          <lb/>In-8°, car. ital., 16 f. non ch. — 305 ch. — 10 non ch (Index)
+          <lb/>Dernier f. blanc, au verso même marque typ. qu’au titre; initiales à fig.
+          <lb/>F, V, et initiales d’attente
+          <lb/>fol. 2a non ch.: Praefatio Ioannis Sturmii ad illustrissi¬
+          <lb/>mvm principem Gvilielmvm, ducem Geldrorum. (40 p.)
+          <lb/>fol. 7a non ch. : Librarius....
+          <lb/>fol. Sa non ch.: Leoni X. Pontifici Maximo, Andreas
+          <lb/>Nav-gerius (14 p.)
+          <lb/>R 101659. Prov.: Abbé Cromer, curé à Saverne, 29. VII. 1879.
+          <lb/>Au bas du titre: «41540. Parochia Tabernensis.» Au recto du f. de garde:
+          <lb/>Laurentius Lang Ex dono R. Domini Remigij Schonj praepositi Surbur¬
+          <lb/>gensis ad rei memoriam perpetuam. Rel. anc.
+          <lb/>GPB: BU Breslau, Gœttingue.
+          <lb/>503
+          <lb/>329
+          <lb/>CICERO
+          <lb/>Strasbourg, W. Rihel, 1540.
+          <lb/>IN HOC VOLVMINE HAEC CONTINENTVR. Rhetoricorum
+          <lb/>ad C. Herennium lib. IIII. M. T. Ciceronis de inuentione
+          <lb/>lib. Il.Eiusdem de oratore ad Quintum fratrem lib. Il.
+          <lb/>Eiusdem de claris oratoribus, qui dicitur Brutus lib. I.
+          <lb/>Eiusdem Orator ad Brutum lib. l. Eiusdem Topica ad
+          <lb/>Trebatium lib. I. Eiusdem oratoriae partitiones lib. I.
+          <lb/>Eiusdem de optimo genere oratorum praefatio quaedam.
+          <lb/>Post Naugerianam &amp;amp; Victorianam correctio¬nem emen¬
+          <lb/>dati à loan. Sturmio.Omnia &amp;amp; paginarum &amp;amp; versuum
+          <lb/>numero atque longitudine Aldinis respondent.Index
+          <lb/>rerum notabilium, quae toto opere con-tinentur, per or¬
+          <lb/>dinem alphabeti.
+          <lb/>Marque typ. de Wendelin Rihel, (H d B. Planche XXIX, n° 4;
+          <lb/>Silvestre, No 74..)
+          <lb/>Au-dessous: Cum gratia &amp;amp; priuilegio Caesario ad Sep¬
+          <lb/>tennium. (Verso blanc.)
+          <lb/>A la fin: Argentorati per Wendelinum Rihelium.
+          <lb/>Mense lulio. Anno M. D. XL. (Verso blanc.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

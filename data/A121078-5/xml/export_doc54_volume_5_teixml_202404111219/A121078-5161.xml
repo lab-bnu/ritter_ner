@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:55.049168+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5161.tif
+IMAGE WIDTH: 2340
+IMAGE HEIGHT: 3856
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1469
+          <lb/>In-4°, car, rom., 2 col., 60 ff. non ch., sign. A-L, titre courant, init.
+          <lb/>ornées, titre encadré (ornements d’architecture, serpent, figures
+          <lb/>d’hommes). Manque chez H. &amp;amp; B.
+          <lb/>Au verso du titre, même prologue que dans l’édition de 1514, dont le
+          <lb/>livre est une réimpression.
+          <lb/>R. 101.930. Prov. : Rosenthal, Munich, 25/V1 1885; 6 M. 20.
+          <lb/>Schmidt IV, p. 23, N° 24.
+          <lb/>2343
+          <lb/>TORRENTINUS Hermannus Strasbourg, M. Hupfaff, 1516
+          <lb/>Hermanni Torrentini in- !! ter grammaticos nostrae tempes¬
+          <lb/>tatis viri doctissimi!! commentaria in primam partem doctri¬
+          <lb/>nalis Alexan dri cum vocabulorum interpretatione, quibus¬
+          <lb/>dam mendosis superuacaneis &amp;amp; obscuris versibus vel
+          <lb/>reiectis, vel in veriores &amp;amp; planiores mutatis, de !! mum diligenter
+          <lb/>ab auctore recognita. Additis margine terminationibus,
+          <lb/>cunctisque vocabu!! lis cum dictionum indice.
+          <lb/>Ad Lectorem.Inuenies hic studiose lector Hermanni
+          <lb/>Torrentini com- mentaria etc. (7 lignes.)
+          <lb/>1516. (Verso blanc.).
+          <lb/>La 2e partie commence au verso du f. 91 avec un nouveau
+          <lb/>titre: Commentaria clarissima in secundampartem doctri¬
+          <lb/>nalis&amp;#x27; Alexandri ab eruditissimo uiro! Kempone Thessaliensi
+          <lb/>Hollandiae, magistro bonarum artium Parrhisiensi, pro
+          <lb/>anhelantibus!! syntaxim potissimam grammaticae spe!! ciem
+          <lb/>funditus intelligere, exactissime in lucem edita.
+          <lb/>A la fin : Impressum Argentinae per Matthiam Hupffuf.
+          <lb/>Mense! Februarij. Anno. M. D. XVI.
+          <lb/>In-4°, car. rom., Ire partie, 8 ff. non ch. (Index des mots sur 4 colonnes
+          <lb/>en car, goth.) — XCI ff. ch. IIe partie, 50 ff. non ch., sign. s-z, A, notes
+          <lb/>marg., init. ornée T et init. d’attente. Au verso du f. 8 répétition du titre
+          <lb/>en rouge.
+          <lb/>Titre encadré, composé de quatre pièces juxtaposées, dans la bordure
+          <lb/>supérieure deux dauphins tenant les deux bouts d’une guirlande, tandis
+          <lb/>que les deux autres bouts sont tenus par 2 génies ailés, qui sont assis dans
+          <lb/>les 2 coins des colonnes des bordures latérales (beaucoup de ressemblance
+          <lb/>avec l’encadrement de Henri Gran Hagenau (H. &amp;amp; B., Planche LXIV,
+          <lb/>N° 2) ; dans la bande inférieure, deux enfants nus, couchés à terre, faisant
+          <lb/>l’exercice dit Strebkatz. Le même encadrement se trouve aussi chez
+          <lb/>Prüss, au titre des Bucolica de Baptiste de Mantoue 1513.
+          <lb/>R. 100.048. Prov. : Trübner, Strasbourg (Vente Zimberlin, No 696),
+          <lb/>29/IV 1886, 2 M 10.
+          <lb/>Schmidt V, N° 135 : Jadis Bibl. de Strasbourg, Incun., n° 4573.
+          <lb/>2344
+          <lb/>TORRENTINUS Hermanus
+          <lb/>Strasbourg, J. Knobloch, 1518
+          <lb/>Elucidarius vel vo!! cabularius poeticus... etc.
+          <lb/>A la fin : Vocabularius poeticus... Impressus Argentine per
+          <lb/>Joannem Knoblouch, Finit felici-ter Anno salutis nostre
+          <lb/>M. d. xviij. penultima die Decembris.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

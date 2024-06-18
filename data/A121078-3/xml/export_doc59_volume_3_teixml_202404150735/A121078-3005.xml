@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:04.847939+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3005.tif
+IMAGE WIDTH: 2370
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>EBER Paul
+          <lb/>Strassburg, Chr. Müller, 1562
+          <lb/>Vom Heyligen Sacrament des Leibs vndBlûts
+          <lb/>vnsers HERREN IESV CHRISTI.
+          <lb/>Vnderricht vnd bekantnisz D. PAVLI EBERI Kittin¬
+          <lb/>gensis, Pastorn der Kirchen z6̂ Witteberg.
+          <lb/>Titelholgschnitt: Fusswaschung der Apostel.
+          <lb/>Sampt einem Register am end dieses Büchleins.
+          <lb/>(Rückseite leer.)
+          <lb/>Am Schluss: Getruct zû Straszburg bey Christian Müller.
+          <lb/>Anno 1562. (Rückseite leer.)
+          <lb/>80, Got., 414 S., 9 unn. Bll., Kopftitel, Kustoden, Marginalien.
+          <lb/>Bl. A2a: Dem Gottfürchtenden, Leser... — 1562.
+          <lb/>Paulus Eberus Kitthingensis Pastor der Kirchen zû
+          <lb/>Witteberg. (Vorrede, 10 Bll.)
+          <lb/>S. 23-27: FORMVLA CONCORDIAE.) Vom Abendmal des
+          <lb/>Her. ren, wie die gemacht ist zû Witte-berg Anno 1536.
+          <lb/>S. 28: Namen der Unterzeichner, unter andern Butzer, Capito,
+          <lb/>Luther, Melanchthon usw.
+          <lb/>Bl. C8 hinter S. 414: Also vermanet Augustinus in Prae¬
+          <lb/>fatione 3. libri de Trinitate den Leser seiner Schriften...
+          <lb/>(2 S.) Hernach Index, 8 Bll.
+          <lb/>R101.774. Prov.: Rektor Müller, Quedlinburg. 15. V. 1889.
+          <lb/>Bibliographie Eber&amp;#x27;s: Schottenloher I, Nr. 5126-5141.
+          <lb/>670
+          <lb/>R.29
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:55.007948+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5159.tif
+IMAGE WIDTH: 2340
+IMAGE HEIGHT: 3854
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1467
+          <lb/>R. 101.617. Prov. : Butsch, Augsbourg (Cat. Il n° 112) 23/11, 1885;
+          <lb/>6M.
+          <lb/>Schmidt III, p. 24, No° 82 : Jadis Bibl. de Strasbourg, Incun. No 4467a;
+          <lb/>Walter : Sélestat 2331.
+          <lb/>2337
+          <lb/>TORRENTINUS Hermannus
+          <lb/>Haguenau, H. Gran, 1510
+          <lb/>Elucidarius carminum et hi- storiarum Vel Vocabularius
+          <lb/>poeticus...
+          <lb/>A la fin : Vocabularius poeticus... Impressus in Hagenaw
+          <lb/>per industrium Henricum!! Gran Impensis circumspecti viri
+          <lb/>Joannis Rynman finit ! feliciter Anno salutis nostre. 1510.
+          <lb/>Feria tertia ante fe-! stum Natiuitatis Marie virginis. (Verso
+          <lb/>blanc.)
+          <lb/>In-4°, car. goth., 2 col., 60 ff. non ch., sign. A-L., titre courant, init.
+          <lb/>d’attente.
+          <lb/>Au verso du titre : Prologue de Torrentinus.
+          <lb/>R. 100.723. Prov. : A. Cohn, Berlin, 28/xI, 1877; 10 M.
+          <lb/>Proctor II, Sectio I, n° 11647 Londres, British Museum. 2338
+          <lb/>TORRENTINUS Hermannus
+          <lb/>Haguenau, H. Gran, 1512
+          <lb/>Eludicarius carminum... etc. comme dans les éditions
+          <lb/>précédentes.
+          <lb/>A la fin, avant les « Additiones » : Vocabulartus poeticus...
+          <lb/>Jmpressus in Hagenaw per industriumHenricum Gran
+          <lb/>Impensis circumspecti viri Joannis! Rynman finit feliciter
+          <lb/>Anno salutis nostre. l. 5. 12. die! vero antepenultimo Aprilis.
+          <lb/>(Verso blanc.)
+          <lb/>In-4°, car. goth., 2 col., 64 ff. non ch., sign. A-L., titre courant, init.
+          <lb/>d’attente.
+          <lb/>Au verso du titre : Prologue de Torrentinus.
+          <lb/>Après l’explicit, 7 pp. : « Additiones » à 2 col.
+          <lb/>R. 100.726. Prov. : Albert Cohn, Berlin, 6/11, 1879; 100 M.
+          <lb/>Ritter, Catal. BM Strasbourg n° 2103; Londres, Brit. Mus.
+          <lb/>2e ex. R. 101.620 (1). Prov. : BN Munich, 28/XII, 1883. Annotations
+          <lb/>mss.
+          <lb/>Au verso du dernier f. : Christophorus Trabolt est, possessor huius
+          <lb/>libelli, 1563; en outre, autographe de Thomas Stimmer.
+          <lb/>3e ex. R. 101.908. Prov. : BN Munich, 18/IV, 1882; 0,70 M. 2339
+          <lb/>TORRENTINUS Hermannus
+          <lb/>Strasbourg, R. Beck, 1514
+          <lb/>Elucidarius !! Carminum... (Comme aux éd. précédentes).
+          <lb/>Anno. M. D. Xiiii.
+          <lb/>A la fin : Excussum Argentine per RenatumBeck in
+          <lb/>officina sua: quam vulgo! zum thiergarten nominant: acriori!
+          <lb/>castigationis lima adhibita. Anno
+          <lb/>salutis humane
+          <lb/>M. D. Xiii (!).
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

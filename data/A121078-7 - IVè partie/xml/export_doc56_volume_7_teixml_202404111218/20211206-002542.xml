@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:14.803929+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002542.tif
+IMAGE WIDTH: 2502
+IMAGE HEIGHT: 3954
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Tausend Gesebelt, was von gemeinem Kriegsvolck
+          <lb/>gewesen ist. Was aber Junckern, und ansehnliche leute
+          <lb/>waren; hat er gen Constantinopel, und Alexandria
+          <lb/>geschickt, etliche Tausent haben sich, ir Weib und
+          <lb/>Kindt, das sie den Türcken nicht inn die hende kamen,
+          <lb/>jemmerlich erstochen, und umbracht. M.D.LXXI. —
+          <lb/>(Strasbourg, am Kornmarckt) (Christian Mylius II),
+          <lb/>1571, in-40.
+          <lb/>Weller, Zeitungen, n° 385.
+          <lb/>3601
+          <lb/>ZEITUNG : Ein Warhafftige und Erschröckenliche Newe
+          <lb/>Zeittung oder Wunderzeichen, so sich in disem
+          <lb/>M.D.LXXI. Jar den sechsten tag Brachmonats zu
+          <lb/>Gniessen im Landt zu Polen, siben Meilweg von Bossen
+          <lb/>zugetragen hat... — (Strasbourg am Kornmarckt
+          <lb/>(Christian Mylius II 1571), placard in-fol.
+          <lb/>Hellmann, p. 68; Weller, Zeitungen, n° 375; Zurich, Bibl.
+          <lb/>Centrale II, 8/11 et un 2e ex. : Einblattdrucke 1571. 3602
+          <lb/>ZEITUNG : Von dem Abfall etlicher Evangelischen Stend in
+          <lb/>Niderland, so sich dem Printz von Uranien ergeben...
+          <lb/>Andere Newe Zeitung. Von der jetzt gehaltenen
+          <lb/>Schlacht, so Graff Ludwig von Nassow und Graff
+          <lb/>Georg von Limme mit dem Spanischen Kriegsvolck auf
+          <lb/>der See getan und gehalten hat. Auch von eroberung
+          <lb/>und einmengung etlicher Sted im Niderland... —
+          <lb/>Strasbourg, Thiébaud Berger 1572, in-40.
+          <lb/>Ritter, Hist. de l’impr. app. 383 n° 4.
+          <lb/>3603
+          <lb/>ZEITUNG : Newe Zeitung. Von schrecklichen Wunderzeichen,
+          <lb/>so man am Himmel in vielen Landen gesehen hat, auff
+          <lb/>Sanct Michels Abendt, und hernach in diesem 1575.
+          <lb/>Jar. Hiebey wirdt auch angezeigt, Wie der Türckische
+          <lb/>Tyrann die Statt Hoburg eingenommen hat... —
+          <lb/>(Strasbourg, Nicolas Faber) 1575, in-8°.
+          <lb/>Weller, Zeitungen, n° 445.
+          <lb/>3604
+          <lb/>540
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:31.200159+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2158.tif
+IMAGE WIDTH: 2300
+IMAGE HEIGHT: 3826
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>154
+          <lb/>Schmidt l’attribue à Martin Flach: « En comparant cette pièce
+          <lb/>avec le, Lobgesang Plinii&amp;quot; publié peu de jours auparavant et por¬
+          <lb/>tant la marque de Flach, je crois que c’est à ce dernier qu’il faut
+          <lb/>attribuer l’impression.» Edition de luxe
+          <lb/>GPB: Berlin SB, Marburg, UB; Schmidt VI, p. 30 No 42:
+          <lb/>B M Zurich.
+          <lb/>242
+          <lb/>BRANT Sebastian
+          <lb/>Strasbourg, M. Flach fils, 1521.
+          <lb/>Der richterlich Clagspiegel Ein nutzbarlicher begriff:
+          <lb/>Wie man setzen und for mieren sol nach ordnung der
+          <lb/>rechten ein yede clag, antwurt, vnd auszsprechene ur¬
+          <lb/>teilen. Gezogen ausz geistlichen vnd weltlichen rechten.
+          <lb/>Do durch sich ein yeder, er sey Clager, Antworter oder
+          <lb/>Richter: in recht geschickt ma- chen, das selb üben,
+          <lb/>brauchen, vnd dargegen vor vnrechter that, anfechtung,
+          <lb/>vnd fürnemen verhüten mag. Durch Doctoren Sebasti¬
+          <lb/>anum Brandt wider durchsichtiget, vnd mit mererm fleisz
+          <lb/>von neüwem zûm theil gebessert. &amp;amp;c.
+          <lb/>Mêmes gravures que dans les éditions précédentes de 1516 et 1518.
+          <lb/>A la fin: Getruckt, vnnd zum dritten mal Reuidiert
+          <lb/>durch denn Ersamen Martinum Flach Burger zù Strasz¬
+          <lb/>burg. Jn verleg, vnnd expensz des fürsichtigen herren
+          <lb/>Johanns Kno- blouch. Vnnd vollendet am Mentag nach
+          <lb/>sannt. Otmars tag. Des iars. Als mann zaltt nach der
+          <lb/>geburt Christi. M. CCCCC. XXj. Regnante diuo Carolo
+          <lb/>Impe- ratore felicissimo &amp;amp;c. Anno imperij eiusdem secundo.
+          <lb/>In-fol., car. guth., 8 ff. non ch., CLI ff. ch. et 1 f. non ch.,
+          <lb/>dont le verso blanc, titre courant, notes marginales, initiales ornées N,
+          <lb/>W, A, titre rouge et noir, bande d’ornement du côté droit.
+          <lb/>Les vers de Séb. Brant, préface, dédicace et table comme dans
+          <lb/>l’édition 1518, les vers de Brant au verso du titre ont un encadrement
+          <lb/>composé d’ornements.
+          <lb/>Réimpression de l’édition 1518; au recto du dernier f., vers comme
+          <lb/>dans l’édition de 1518. Au-dessous, marque typographique de M. Flach.
+          <lb/>(HEB, Planche VI. No 2; Silvestre, No 1211.)
+          <lb/>FR10.233. Prov. : R. L. Prager, Berlin (Catal. 65, No 330)
+          <lb/>12/VI. 1882, 35 M.
+          <lb/>Au bas du titre, cachet de la Bibl, publique de Dresde, Double.
+          <lb/>GPB: Berlin SB. Münster UB, Gôttingen UB.
+          <lb/>Cette édition manque chez Schmidt.
+          <lb/>243
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

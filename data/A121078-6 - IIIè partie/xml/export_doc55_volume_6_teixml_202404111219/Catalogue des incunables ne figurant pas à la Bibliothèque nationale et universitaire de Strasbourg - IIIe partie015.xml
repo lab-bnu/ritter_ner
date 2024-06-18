@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:05.399971+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie015.tif
+IMAGE WIDTH: 2486
+IMAGE HEIGHT: 3894
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>GW 1778; Hain 997. B U Halle, B N Munich, Bibl. Centr.
+          <lb/>Zurich.
+          <lb/>75
+          <lb/>ANGELTUGENDEN, die vier. — [Strasbourg, Pierre Attendorn
+          <lb/>vers 1492), in-4°.
+          <lb/>G W 1921; Hain 1098; Schreiber 3315. B U Fribourg en Br.,
+          <lb/>B M Colmar, B N Munich.
+          <lb/>70
+          <lb/>ANGELUS (Gherardini), évêque de Sessa. Publication de la
+          <lb/>Bulle de croisade de Sixte IV, contre la ville de Bâle. —
+          <lb/>(Strasbourg, H. Eggestein avant le 31. I. 1483), Placard.
+          <lb/>G W 1948; Einblattdrucke 350 ; Reichling Suppl. 186. —
+          <lb/>Seul exemplaire connu : Bibliothèque de Bâle.
+          <lb/>7
+          <lb/>ANSELMUS de Canterbury : Opera. — (Strasbourg, impr.
+          <lb/>du Jordanus (G. Husner) après 1496 (?)), in-fol.
+          <lb/>G W2034; Hain 1135; Pellechet 798; Proctor 779; Voulliéme:
+          <lb/>Berlin 2559. B M Avignon, B N Berlin, Munich, Paris etc. 78
+          <lb/>ANSELMUS de Canterbury: Dialogus de passione Jesu Christi.
+          <lb/>A la suite de: TEXTOR: Sermones tres de passione Christi,
+          <lb/>n° 642/3.
+          <lb/>78a
+          <lb/>ANTICHRISTUS (en allemand) — (Strasbourg (?), impr. de
+          <lb/>l’Entkrist vers 1482), in-fol.
+          <lb/>G W 2050; Proctor 3252; Schreiber 3333. — Bibl. Rég.
+          <lb/>Dresde, B M Francfort s. M., Manchester (John Ryl.
+          <lb/>Library) etc.
+          <lb/>7
+          <lb/>ANTICHRISTUS (en allemand). — (Strasbourg (?), impr. de
+          <lb/>l’Entkrist vers 1482), in-fol.
+          <lb/>G W 2051; Hain 1149; Copinger 484; Brit. Mus. Cat. I, 168;
+          <lb/>Proctor 3249; Schreiber 3334. Brit. Mus. Londres, B N Munich,
+          <lb/>B M Schaffhouse.
+          <lb/>80
+          <lb/>ANTICHRISTUS (en bas allemand). — (Strasbourg (?), impr.
+          <lb/>de l’Entkrist vers 1482), in-fol.
+          <lb/>G W2052; Schreiber 3336. — Hambourg.
+          <lb/>81
+          <lb/>13
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

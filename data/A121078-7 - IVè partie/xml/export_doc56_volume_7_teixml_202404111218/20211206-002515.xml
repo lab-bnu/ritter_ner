@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:14.227244+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002515.tif
+IMAGE WIDTH: 2490
+IMAGE HEIGHT: 4006
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Argentorati, Typis Josiae Rihelij, per Andream
+          <lb/>Rietschium. Anno M.DXCVIII, in-4°.
+          <lb/>Apponyi, Hungarica III, n° 1948.
+          <lb/>3460
+          <lb/>WALLISER, Christoph Thomas (l’aîné) : Ein schön... Spyl,
+          <lb/>nemlich die schöne History Esther... gespilt zu Strassburg
+          <lb/>im Monat September 1568. — Strasbourg, Christian
+          <lb/>Müller (Mylius) Erben 1568, in-8°.
+          <lb/>Vogeleis p. 308 f.
+          <lb/>3461
+          <lb/>WALLISER, Laurentius Thomas. Voir: BERNERDIN,
+          <lb/>DANIEL, nos 988/9; BORKOWSKI, P. nos 1033-1035;
+          <lb/>FOECKLER, nos 1743/4; KEFELIUS, nos 2219-2221;
+          <lb/>KULMANN, n° 2259; MOLLINGER, nos 2712/3; PLESCH,
+          <lb/>nos 2948/9; PRECHTER, Bernardus nos 2983/4; RITTER,
+          <lb/>Sebastian n° 3115.
+          <lb/>(WALTHER, Johannes) : Ein Schöner Geystlicher und
+          <lb/>Christlicher newen Berckreyen, Von dem Jünsten tage
+          <lb/>und ewigem leben. Auff die Melodei unnd weise Hertzlich
+          <lb/>thut mich erfreuen... — Strasbourg, Th. Berger s. d.,
+          <lb/>in-80.
+          <lb/>Goedeke II2, p. 208, n° 1 (6).
+          <lb/>3462
+          <lb/>WALTHER, Johannes : Wittenbergische Gesangbüchli... uff
+          <lb/>ein newes corrigiert, gebessert und gemeret. M. D.xxxiii.
+          <lb/>— (Strasbourg, Pierre Schaeffer et Mathias Apiarius)
+          <lb/>1534, in-80.
+          <lb/>Vogeleis, p. 229f.
+          <lb/>3463
+          <lb/>WALTHER, Joh. : (Idem). M. D.xxxvii. — (Strasbourg,
+          <lb/>Pierre Schaeffer et Mathias Apiarius) 1537, in-8°.
+          <lb/>Vogeleis, p. 237; Hubert, n° 28: BN Munich, B M Augsbourg.
+          <lb/>3464
+          <lb/>WALTHER, Rudolphus : Nabal. Ein schön Christenlich...
+          <lb/>Spil, erstlich durch den Eerwirdigen unnd wollgeleerten
+          <lb/>513
+          <lb/>17—1
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

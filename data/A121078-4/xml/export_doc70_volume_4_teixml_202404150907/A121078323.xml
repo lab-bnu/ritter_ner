@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:52.212983+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078323.tif
+IMAGE WIDTH: 2324
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>PLINIUS Secundus Cajus (major)
+          <lb/>Strasbourg, J. Schott 1543
+          <lb/>CAiï Plinii Secun-] di von Veron, Natürlicher Hi- story
+          <lb/>Fünff Bücher. ! Namlich das! vii. Von der Menschen und
+          <lb/>Völcker wunderbarlichen gestalten, weiszen, wan del, art,
+          <lb/>natur und gebreüchen, beyderley geschlecht! en, man und
+          <lb/>weiberen. viii. Von den Thyeren, so uff dem Erdtreich
+          <lb/>wonen. ix. Von der Fisch allerley geschlecht und eygent¬
+          <lb/>schafft en, so im Wasser wonen. x. Von dem Gefügel (!)
+          <lb/>so im lufft lebt.xi. Von den Kryechenden, und Mynderen
+          <lb/>Thyeren, so abgespalten an ergäntzung irer glyder. New¬
+          <lb/>lich durch Heinrich von Eppendorff! verteütscht. (Grav. sur
+          <lb/>bois : Armoiries de Mentelin sans légende.)
+          <lb/>Mit Keysz. Maiestat Freyheyt uff fünff jar nit nach
+          <lb/>zûtrucken, ynnhalt der peen darinnen begriffen.
+          <lb/>Zû Straszburg, bey Hans Schotten zûm Thyergarten.
+          <lb/>Nach der geburt Christi M. D. XLIII.
+          <lb/>In-fol., car. goth., CCXXXV pp., 2 ff. non ch. (table à 2 col.),
+          <lb/>titre courant, réclames, notes marg., init. ornées et quelques init. de
+          <lb/>l’alphabet de la danse macabre.
+          <lb/>Au verso du titre : ... Conrat, Bechtold, und Wil-helm, München
+          <lb/>von Wyldtsperg, z6 Steynberg, seinen... gueten freünden Entbeüt
+          <lb/>Henrich von Eppendorff seine!... dyenst...
+          <lb/>Au recto du dernier f., après la table : Heinrich von Eppendorfis!
+          <lb/>Beschlusz.
+          <lb/>R 10.497. Prov.: Don de la Bibl. Univ. de Gœttingue 1871. Au
+          <lb/>milieu du titre, timbre: Ex Bibliotheca Acad. Georgiae Augustae, et auto¬
+          <lb/>graphe: J. L. Ladig 1696.
+          <lb/>Schmidt II n° 143.
+          <lb/>1888
+          <lb/>1209
+          <lb/>PLINIUS Secundus Cajus (junior)
+          <lb/>Strasbourg, M. Schurer 1510
+          <lb/>C. PLINHI SECVNDI IVNIO ]RIS LIBER ILLVSTRIVM virorum.)
+          <lb/>C. Plinii Secundi Junioris! Vita per Angelum! Tipherna¬
+          <lb/>tem.] C. SVETONII TRANQVILLI] DE GRAMMATICIS ET ] RHETO¬
+          <lb/>RIBVS CLA RS LIBELLVS. Ex castigatione Philip- pi Be¬
+          <lb/>roaldi.
+          <lb/>A la fin: Argentorati apud. M. Schurerium. Mens. Mar¬
+          <lb/>tio. M. D. X. REGNANTE MAXIMILIANO AVG. (Verso blanc.)
+          <lb/>Au recto du f. blanc suivant: Regnante Imp. Caes. [ Maximiliano ! pio
+          <lb/>foelici! aug.
+          <lb/>In-4°, car. rom., 29 f. non ch., sign. A-G, titre courant, init.
+          <lb/>d’attenté.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

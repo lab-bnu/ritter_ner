@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:54.225848+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5141.tif
+IMAGE WIDTH: 2344
+IMAGE HEIGHT: 3856
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>V4
+          <lb/>7
+          <lb/>D5
+          <lb/>24
+          <lb/>Ca
+          <lb/>1449
+          <lb/>A la fin : Zu Straszburg bey Hans Schotten, buch trucker
+          <lb/>zum Thyergarten. (Verso blanc.)
+          <lb/>In-8°, car. itai., la 1re ligne de chaque chapitre, en grands car. allemands.
+          <lb/>Traduction de Luther en 2 parties: I) (les Évangiles et les actes), 6 ff.
+          <lb/>non ch., la pagination commence fol. VII et va jusqu’à CCVII, 12 ff.
+          <lb/>non ch., gloses de Luther. 2) Epistelen! Pauli. ! Petri. !! Johannis.!
+          <lb/>Jacobi. ! Jude. !! Die Offenbarung! Johannis, 22 ff. non ch., CLV ff.
+          <lb/>ch., titre courant, init. ornées E, D
+          <lb/>Chaque évangile commence par une gravure, représentant l’auteur;
+          <lb/>en tête des actes des apôtres, le même groupe des 12 apôtres que dans
+          <lb/>la Postill de Geiler de 1522. Après les actes, le Christ répété au dernier
+          <lb/>f. du volume.
+          <lb/>fol. A 2a : Gemeyne Vorred in das New Testament... (Préface de 5 ff.).
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

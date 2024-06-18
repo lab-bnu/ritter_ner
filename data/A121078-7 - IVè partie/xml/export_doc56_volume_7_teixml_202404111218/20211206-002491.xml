@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:13.682132+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002491.tif
+IMAGE WIDTH: 2496
+IMAGE HEIGHT: 3978
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Menradi Molteri unnd Augustini Lantzkroni (hundert
+          <lb/>und dreyzehen Jahr alt) newlich Verdolmetscht. Anno
+          <lb/>M.D.L.XXXXVI. — (Strasbourg, héritiers Bernard
+          <lb/>Jobin 1596), in-80.
+          <lb/>Ritter: B M Strasbourg, n° 2060.
+          <lb/>3341
+          <lb/>THEAGENES et Chariclea. Voir : HELIODORUS, n° 1978.
+          <lb/>THEDEL von Walmoden. Voir: KlEE Georg, n° 2247.
+          <lb/>THÉOCRITE. Voir: EOBANUS Hessus, n° 1548.
+          <lb/>THEODORICUS, Vitus. Voir: PSALTERIUM, n° 3048.
+          <lb/>THOMANUS, Johannes : Das ist der hoch thuren Babel, id est
+          <lb/>Confusio Pape, darinn Doctor Luther gefangen ist. —
+          <lb/>(Strasbourg, Mathias Schürer 1521), in-4°. [Fol. A 2a
+          <lb/>l’auteur se nomme Johannes Thomanus). Kuczyński
+          <lb/>1037; Benzing, Hutten, n° 46 : BM Francfort-s.-M.,
+          <lb/>BM Colmar.
+          <lb/>Schmidt VIII, n° 266.
+          <lb/>3342
+          <lb/>THORELLE, Ritter : Ein hübsche historie von einem Ritter
+          <lb/>genant herre Thorelle geboren uss dem land Lombardia
+          <lb/>wie er vom grossen Soldan gefangen ward... — Strasbour
+          <lb/>[vers 1515), in-4°.
+          <lb/>Kristeller, n° 594, Proctor 10.106 A, Heitz-Ritter, n° 657:
+          <lb/>Berlin, Londres, Munich. Goedeke donne comme imprimeur
+          <lb/>Grüninger, Kristeller: Hupfuff et Proctor: Knobloch. 3343
+          <lb/>THRIVERUS, Hieremias (Brachelius). Voir : FUCHS, Leonhard,
+          <lb/>n° 1800.
+          <lb/>TIBURTIUS. Voir (FISCHART, Johann), Bericht aus Mailand,
+          <lb/>n° 1699.
+          <lb/>TOLLAT von Wochenberg, Johannes : Margarita medicine,
+          <lb/>ein meisterlichs usserlesens Biechlin der Artzeny für
+          <lb/>489
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

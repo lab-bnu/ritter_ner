@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:04.512506+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002115.tif
+IMAGE WIDTH: 2504
+IMAGE HEIGHT: 3944
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>CICERO (Epistolae) : Alterum epistolarum volumen. —
+          <lb/>Strasbourg (Rihel) 1572.
+          <lb/>B U Fribourg-en-Br. : D 5943 h. (Communication de M. Rest):
+          <lb/>[éd. W. Rihel 1541 : Ritter, Rép, n° 505 et Josias Rihel 1575 :
+          <lb/>Rép. n° 533l.
+          <lb/>1354
+          <lb/>CICERO (Epistolae) : Epistolarum volumen primum... —
+          <lb/>Strasbourg, (Rihel] 1575.
+          <lb/>B U Fribourg-en-Br. : D 5891 (Communication de M. Rest).
+          <lb/>1355
+          <lb/>CICERO (Epistolae) : Alterum epistolarum volumen. —
+          <lb/>Strasbourg (Rihel] 1582.
+          <lb/>B U Fribourg-en-Br. : D 5891 (Communication de M. Rest).
+          <lb/>1356
+          <lb/>CICERO (Epistolae) : Selectarum Epistolarum ex M. T.
+          <lb/>Ciceronis Familiaribus, volumen primum. Pro Quinta
+          <lb/>curia Academiae Argentinensis. Autore Melchiore Junio...
+          <lb/>[Marque typ. de Josias Rihel). — Argentorati typis
+          <lb/>Josiae Rihelii Anno 1597, in-8°.
+          <lb/>Bibl. S. Guillaume Strasbourg.
+          <lb/>1357
+          <lb/>CICERO (Epistolae) : Selectarum Epistolarum ex. M. T.
+          <lb/>Ciceronis Familiaribus, et aliis : Volumen II. Pro Quarta
+          <lb/>Curia Academiae Argentinensis... — [Marque typ. de
+          <lb/>Josias Rihell. — Argentorati, typis Iosiae Rihelij.
+          <lb/>Anno 1597, in-80.
+          <lb/>Bibl. S. Guillaume Strasbourg.
+          <lb/>1358
+          <lb/>CICERO (Epistolae) : Selectarum Epistolarum ex M. T.
+          <lb/>Ciceronis Familiaribus et aliis : Volumen III. Pro tertia
+          <lb/>Curia Academiae Argentinensis... (Marque typ. de
+          <lb/>Josias Rihel). — Argentorati, typis Iosiae Rihelii,
+          <lb/>Anno 1597, in-8°.
+          <lb/>Bibl. S. Guillaume Strasbourg.
+          <lb/>1359
+          <lb/>113
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

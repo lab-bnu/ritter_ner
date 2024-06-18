@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:13.486833+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3406.tif
+IMAGE WIDTH: 2404
+IMAGE HEIGHT: 3856
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>848.
+          <lb/>schwarz, Titeleinfassung Gran&amp;#x27;s (H e B Tafel LXIV Nr. 2), wonach
+          <lb/>40, Got., 2sp., 48 unn., CXCIII num. Bll., Init., Titel rot und
+          <lb/>zu schliessen, dass Gran das Buch für Knobloch u. Göte gedruckt hat.
+          <lb/>Bl. aa 2a: Frater Lampertus Pascuus Marsaceus! Car.
+          <lb/>Ioanni Ludolpho Hordinghensi... Ex Argentoraco! viij Idus
+          <lb/>Maij. Anno... xviij. supra M. quingentesimum.
+          <lb/>Bl. aa 3a : Georgio Reyschio: Cantharopolitano, Carthu¬
+          <lb/>siane religionis visita- tori, primario Otto B. frunnfelsl mo¬
+          <lb/>guntinus... — Ex domo Carthusiana prope Argentoratum
+          <lb/>xij kalendas Martij. An no... sesquimillesimo decimo
+          <lb/>octauo.
+          <lb/>R 101.529. Prov.: Baer, Frankfurt a. M. 22. XI. 1878.
+          <lb/>Proctor II Sectio I Nr. 11.673: London British Museum: Schmid
+          <lb/>VII Nr. 158: Jadis Bibl. de Strasbourg, Incun. Nr. 2956.
+          <lb/>1262
+          <lb/>JOHANNES GLOGOVIENSIS
+          <lb/>Strassburg, Joh. Knobloch 1517
+          <lb/>Exercitium Veteris !artis Ioannis Glogouiensis. Otto¬
+          <lb/>mari Luscinij Argentini in Veterem ar- tem Ioannis Glo¬
+          <lb/>geri, dum uiuebat amici dulcissimi, Hexastichon. (3 lat. Dist.)
+          <lb/>Bl. T 6a:... Impressa argentine peroannem Kno¬
+          <lb/>blouch Calchographum. Anno domini. M. D. xvij. die xxij.
+          <lb/>mensis la-nuarij.
+          <lb/>4°, Got., 102 unn. Bll., Sign. A-V, nach dem Explicit 10 unn.
+          <lb/>Bll. (Sex principia Gilberti Porritani), Kopft., Init. C, 3 Holzschn.
+          <lb/>Der Verfasser ist Johann von Glogau und nicht Gloger, wie
+          <lb/>Luscinius annimmt.
+          <lb/>Bl. T 2a: Geometrische Figur. Siehe Abb. S. 849.
+          <lb/>R101.560. Prov.: J. Hers, Ellwangen 3. VI. 1884; 20 M.
+          <lb/>Handschr. Notizen.
+          <lb/>Schmidt VII, 148.
+          <lb/>1263
+          <lb/>JOHANNES DE GRASSIS: In arborem judiciariam. Siche: RE¬
+          <lb/>FUGIUM Advocatorum. Strassburg, Joh. Knobloch 1518.
+          <lb/>JOHANNES DE INDAGINE
+          <lb/>Strassburg, Joh. Schott 1592
+          <lb/>INTRODUCTIONES APOSTOLES] maticae elegantes in Chy¬
+          <lb/>romantiam, Physiognomiam, Astrologiam naturalem. Com¬
+          <lb/>plexiones hominum, Naturas planetarum. Cum periaxio¬
+          <lb/>matibus de faciebus Signorum, &amp;amp; canonibus de aegritu¬
+          <lb/>dinibus, nusquam fere simili tractata! compendio.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:14.678479+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002534.tif
+IMAGE WIDTH: 2522
+IMAGE HEIGHT: 3982
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>WUNDERZEITUNGEN : Neue Wunderzeitungen ausz Franck¬
+          <lb/>reich und den Niderlanden. I. Von dem schrecklichen
+          <lb/>hoch schädlichen angeloffenen Gewässér, welchs zu
+          <lb/>Pariss, in den Vorstätten S. Marcells, den neunten Aprilis,
+          <lb/>dises M.D.LXXIX. Jars... ist urplötzlich eingefallen...
+          <lb/>Aus den glaubwürdigen und mit Permission zu Paris
+          <lb/>getruckten Frantzösischen Zeitungen verteutscht. II.
+          <lb/>Von der Ernsten Belägerung der Wehrhafften Statt
+          <lb/>Mastricht : was sich... bis auff den 9. Junii gegenwärtigen
+          <lb/>79. Jars zugetragen... — (Strasbourg, Bernard Jobin)
+          <lb/>1579, in-4°. [A la fin devise de Fischart : « Alors comme
+          <lb/>alors ».)
+          <lb/>Weller, Zeitungen, n° 502. Hauffen, Fischart-Studien VI,
+          <lb/>p. 549 : Munich, Nuremberg, Zurich.
+          <lb/>3564
+          <lb/>WURM von Geudertheim, Mathias : Balaams Eselin [grande
+          <lb/>grav.). Von dem Bann: das er umb geltschuld... nit mag
+          <lb/>Christlich gefellt werden. Und das aller geystlicher
+          <lb/>standt schuldig ist, der weltlichen oberkeit zu gehor¬
+          <lb/>samen... M.D.XXiij. — (Strasbourg] 1523, in-4°.
+          <lb/>Bibl. S. Guillaume Strasbourg.
+          <lb/>3565
+          <lb/>WURM von Geudertheim, Mathias : Christenlich kurtz
+          <lb/>vermanung zum andern mal an den würdigen und
+          <lb/>gelerten herrn Jakob von Kornkauf... von fasten,
+          <lb/>beichten, regierung des Volks, Concilien... — Strasbourg,
+          <lb/>Jean Schwan s. d.
+          <lb/>Ritter : Hist. Impr., p. 225.
+          <lb/>3566
+          <lb/>WURM von Geudertheim, Mathias : Ain Christlich schreiben,
+          <lb/>so ain Evangelischer bruder seiner schwestern, ainer
+          <lb/>closter iunckfrawen zugeschickt. — (Strasbourg 1523),
+          <lb/>in-40.
+          <lb/>Kuczynski, n° 2804, Weller 2736.
+          <lb/>3567
+          <lb/>WURM von Geudertheim, Math. : Jesus. Auszlegung der
+          <lb/>gschrifft : Jm anderen Capitel S. Jacobs Epistel,
+          <lb/>532
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

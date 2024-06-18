@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:03.113124+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002061.tif
+IMAGE WIDTH: 2478
+IMAGE HEIGHT: 3958
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Schmidt VI, p. 34, n° 61: BN Munich; Weller 1803. (Une éd.
+          <lb/>Knobloch 1517 : Ritter, Rép. n° 238).
+          <lb/>1046
+          <lb/>BRANT, Séb. (De morte Castellae) : In praematuram mortem
+          <lb/>optimi principis Philippi Castellae et Legionis atque
+          <lb/>Granatae regis praestantissimi naenia sapphica... —
+          <lb/>(Strasbourg), Jean Knobloch, (16 Juillet] 1507.
+          <lb/>Schmidt VII, n° 31.
+          <lb/>1047
+          <lb/>BRANT, Séb. (In laudem Maximiliani) : In laudem divi
+          <lb/>Maximiliani Caesaris... — (Strasbourg, Jean Schott)
+          <lb/>1520), in-40.
+          <lb/>Schmidt II, 53; Panzer 6, 94. — B M Colmar.
+          <lb/>1048
+          <lb/>BRANT, Séb. : Das Narrenschiff. Nüt on ursach... — fol. 162 a :
+          <lb/>« Getruckt zu Straszburg durch Mathys Hupfuff...
+          <lb/>M.CCCCC : und xij iar», 11512), in-4°.
+          <lb/>Schmidt V, n° 96; Ritter, B M Strasbourg n° 587; Zarncke,
+          <lb/>Brants Narrenschiff p. CIII ; Bobertag : Brant. [Deutsche
+          <lb/>National-Lit. Bd. 16).
+          <lb/>Budapest F. O. germ. 144. (Communication de Mme Soury,
+          <lb/>Strasbourg).
+          <lb/>1049
+          <lb/>BRANT, Séb. : Das grosz Narren Schiff... — Strasbourg,
+          <lb/>Josias Rihel 1564, in-40.
+          <lb/>Goedeke 12, p. 386. [Une éd. Wendelin Rihel 1549 : Ritter,
+          <lb/>Rép. n° 249).
+          <lb/>1050
+          <lb/>BRANT, Séb. : Das klein Narrenschiff... — Strasbourg,
+          <lb/>J. Cammerlander 1540, in-4°.
+          <lb/>Goedeke 12, p. 386, n° 24.
+          <lb/>1051
+          <lb/>BRANT, Séb. : Der Narrenspiegel... — Strasbourg, J. Cammer¬
+          <lb/>lander 1545, in-4°.
+          <lb/>Goedeke I3, p. 386, n° 19 : « Eine aus der interpolierten
+          <lb/>und der echten Ausgabe verfasste Bearbeitung druckte
+          <lb/>M. Cammerlander 1545, die von Wendelin Rihel 1549; und
+          <lb/>später von Josias Rihel 1564 wieder aufgelegt wurde ». 1052
+          <lb/>59
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

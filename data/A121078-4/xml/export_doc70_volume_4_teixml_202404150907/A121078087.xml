@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:45.007316+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078087.tif
+IMAGE WIDTH: 2324
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>975
+          <lb/>ARGENTORATI EXCVDE- bat Iosias Rihelius. Anno 1594.
+          <lb/>à 2 col. (Index Psalmorum), titre courant, réclames, notes marg., init.
+          <lb/>In-8°, car, rom. et ital., 8 ff. non ch., 288 pp. ch., 6 ff. non ch.
+          <lb/>ornées D, L, B.
+          <lb/>Fol. 2a: Typogra- phus Lectori benevolo S. P.... — Argento¬
+          <lb/>rati! Calend. Iulii. Anno Christi! M. D. XCIV. (2 pp.)
+          <lb/>Fol. 3a : ... Principi...! Christiano Duci Saxoniae... Vuitebergae
+          <lb/>Anno 1576 Christi nati ex Vir- gine, die 12 Septembris, quo Albertus
+          <lb/>Dux Saxo- niae Proavus tuus filius Friderici II, pater Ducum! Georgii
+          <lb/>&amp;amp; Henrici, mortuus est in Phrysia, Anno Christi 1500 aetatis 57. se¬
+          <lb/>pultus Misniae. Georgius Maior. (Préface de 10 pp.)
+          <lb/>R 102.403 (1). Prov. inconnue. Au recto du f. de garde: Gabriel
+          <lb/>Bauss Argentinensis 1599; en bas: autogr. Wohlwerth; à l’intérieur de
+          <lb/>la couverture le nom de Bauss avec la date 1605, en bas: Sum Chri¬
+          <lb/>stiani Leuteri 1606. Rel. anc.
+          <lb/>Bibliographie de Maior voir Schottenloher I n° 14683-14699.
+          <lb/>1464
+          <lb/>MAIOR Georgius
+          <lb/>Strasbourg, Josias Rihel 1594
+          <lb/>CANTICA EX SACRIS LITERIS, IN ECCLE- SIA CANTARI
+          <lb/>SOLITA, CUM HYMNIS ÈT COLLECTIS,  seu orationibus Eccle¬
+          <lb/>siasticis, in usum Pa- storum, Diaconorum, &amp;amp; iuventutis
+          <lb/>Scholasticae, iam postre- mum RECOGNITA ET AUCTA Per
+          <lb/>D. GEORGIUM MAIOREM.
+          <lb/>His accesserunt, canendi Modi, Hymni, &amp;amp; Pre- ces in
+          <lb/>Schola Argentinensi usitatae. (3 feuilles de trèfle.)
+          <lb/>In-8°, car. ital., 162 pp., 1 f. non ch. (Index), titre courant,
+          <lb/>réclames. A partir de p. 146, notes de musique.
+          <lb/>R102.403 (2). Prov. inconnue. Incomplet, 1 f. de l’index manque.
+          <lb/>Rel. anc.
+          <lb/>1465
+          <lb/>MALER Georgius
+          <lb/>Colmar, B. Gruninger 1542
+          <lb/>Ein kurtz regiment wie sich zû der zeit, der Pesti¬
+          <lb/>lentz ze hal ten; ausz vil hocherfarnen Artzten durch
+          <lb/>Doc- tor Georg Maler Römischer Künigklicher regierung
+          <lb/>und der Statt Ensisz-heim bestelter Artzt ausz gezogen.
+          <lb/>(Feuille de lierre.)
+          <lb/>M. D. XLII. (Verso blanc.)
+          <lb/>A la fin: (3 feuilles de trèfte.) Getruckt zû Colmar durch
+          <lb/>Bartho- lomeum Grieninger.
+          <lb/>In-4°, car. goth., 23 ff. non ch., sign. A-F, réclames, notes marg.,
+          <lb/>init. goth.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

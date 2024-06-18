@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:13.442649+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3403.tif
+IMAGE WIDTH: 2408
+IMAGE HEIGHT: 3856
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>845
+          <lb/>impresse. Anno gratiae M. dx. vltimo die Februarij finiunt
+          <lb/>feliciter.
+          <lb/>Bl. 6 4a: Explicit Legenda Longobardica... Sequun¬
+          <lb/>tur additiones.
+          <lb/>2°, Got., 2sp., 250 unn. Bll., Sign. a-2, A-L, Ropft., Init.
+          <lb/>Auf dem 1. Bl. handschr.: Passionale siue Legenda SS. alias Lombardica
+          <lb/>R10.324. Prov.: SB München 28. XII.1883, 2 M. Titelbl, fehlt.
+          <lb/>historia quae a plerisque aurea Legenda SS. appellatur.
+          <lb/>1257
+          <lb/>JACOBUS DE VORAGINE
+          <lb/>Hagenau, H. Gran 1516
+          <lb/>Longobardica historia que a plerisque Aurea legen¬
+          <lb/>da! sanctorum appellatur siue Passionale sanctorum.
+          <lb/>(Rücks, leer.)
+          <lb/>Am Schluss:... Expensis circumspe- cti viri Joannis
+          <lb/>Rynman de Oringau ar- chibibliopole: in officina industrij
+          <lb/>Henri- ci Gran imperialis opidi Hagenawensis ciuis! accu¬
+          <lb/>rate impresse. Anno gratie M. dxvj. pridie kalendas mensis
+          <lb/>Augusti finiunt feliciter.
+          <lb/>Bl. G 4a: Explieit LegendaLongobardica... Sequun¬
+          <lb/>tur additiones.
+          <lb/>20, Got., 2sp., 250 unn. Bll., Sign. a-e, A-L, Kopft., Init.,
+          <lb/>Titel rot gedruckt, Titeleinfassung. (HOB Tafel LXIII Nr. 1, jedoch
+          <lb/>so, dass die obere Leiste sich unten, und die untere sich oben befindet.)
+          <lb/>Neudruck der Ausgabe von 1510.
+          <lb/>R10.325. Prov. : Stadtbibl. München 28. XII. 1883; 1 M. 80.
+          <lb/>Handschr. Eintragung auf dem Titelbl.: F. Ioannes Stich 1644.
+          <lb/>Proctor II Sectio I Nr. 11669: London Brit. Museum. 1258
+          <lb/>JEAN DE HAYN. Siche: JOHANNES DE INDAGINE
+          <lb/>JESUS : Das New Testament. Siche: TESTAMENT, das New,
+          <lb/>Teutsch. Strassburg, Joh. Schott 1522.
+          <lb/>JOCISCUS Andreas
+          <lb/>Strassburg, Th. Rihel 1569
+          <lb/>ORATIO DE OR-TV, VITA, ET OBITV IOANNIS! Oporini
+          <lb/>Basiliensis, Typographicorum Ger¬ maniae Principis, reci¬
+          <lb/>tata in Argenti-nensi Academia ab loanne Hen- rico
+          <lb/>Hainzelio Augustano. AVTHORE ANDREA IOCISCO SILESIO,
+          <lb/>Ethicorum in eadem Academia professore. Adiunximus
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

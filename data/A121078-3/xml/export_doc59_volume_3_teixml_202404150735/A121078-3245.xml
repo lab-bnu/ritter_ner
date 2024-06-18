@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:09.487513+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3245.tif
+IMAGE WIDTH: 2328
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>7. Maij jm Jhar 80. G. F. G.Untertheniger Gevatter,
+          <lb/>vnd Hofprediger Joachim Giefftheil. (Vign.)
+          <lb/>R101.985. Prov.: Versteigerung Rettig, Strassburg 2. XI. 1894;
+          <lb/>ohne Preisangabe.
+          <lb/>1013
+          <lb/>GILETTA-Volksbuch. Siche: LURCKER Erhart
+          <lb/>GIOVIO Paolo, Bischof von Nocera dei Pagani. Siche: JOVIUS
+          <lb/>Paulus
+          <lb/>GIRALDO Lilio Gregorio. Siehe: ZIRALDUS Lilius Gregorius
+          <lb/>GLANVILLA (Glanovillanus). Siche: BARTHOLOMAEUS Anglicus
+          <lb/>GLAUB, der newe Glaub von den Doctoren zû Löuen, Siehe:
+          <lb/>BUTZER Martin
+          <lb/>GLAUNVYLE Bartholomäus, Siehe: BARTHOLOMAEUS Anglicus
+          <lb/>689
+          <lb/>GNIDIUS Matthäus
+          <lb/>[Strassburg, Joh. Schott (2)1 1520
+          <lb/>Defensio Christianorum! de Cruce. Id est, Lutherano
+          <lb/>rum. (Got.)
+          <lb/>Cum pia admonitione F. Thomae Murnar, lutheroma¬
+          <lb/>stigis, ordinis Minorum, quo sibi temperet à conuicijs &amp;amp;
+          <lb/>stultis impugnationibus Martini Lutheri. Matthæi Gnidij
+          <lb/>Augustensis.*Epistolae item aliquot. Ad eruditos
+          <lb/>Germaniae.) Ad Martinum Lutherum. Ad strenuissimum
+          <lb/>equitem Germ. Vlrichum Huttenum. Ad populum Germa¬
+          <lb/>niae. (Kursiv; Druckerm, von G. u. N. Lud, von Saint-Dié, die auch
+          <lb/>bei Schott vorkommt.)
+          <lb/>40, Antiq., 12 unn. Bll. (letztes leer), Sign. a-c, Kopft., Marg.
+          <lb/>Auf der Rücks, des Titelbl.: AD LECTOREM, (Kursiv.)
+          <lb/>Bl. a 2a-Ca: AD T. MVRNARVM MAT thaeus Gnidius
+          <lb/>Augustensis. (Defensio Lutheranorum).... Augustae Idi¬
+          <lb/>bus Decembris Anno a Christi natalitia. M.D.XX.
+          <lb/>Bl. C 2a Kleiner Holeschn. auf schwarzem Grunde: Murners
+          <lb/>Wappen. (Siche Abb. auf S. 690.)
+          <lb/>R.44
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

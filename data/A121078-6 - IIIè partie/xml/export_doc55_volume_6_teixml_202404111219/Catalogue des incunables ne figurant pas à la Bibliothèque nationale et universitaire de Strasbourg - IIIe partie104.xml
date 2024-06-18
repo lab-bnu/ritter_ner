@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:06.671926+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie104.tif
+IMAGE WIDTH: 2490
+IMAGE HEIGHT: 3934
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>VIRGILIUS : Bucolica cum commento H. Torrentini. —
+          <lb/>(Strasbourg, Jean Grüninger s. d.]; in-4°.
+          <lb/>Voulliéme : Berlin 2328.
+          <lb/>676
+          <lb/>VIRGILIUS : Bucolica et Georgica. — [Strasbourg, Jean Prüss
+          <lb/>s. d., 1 in-4°.
+          <lb/>Copinger 6086 (auparavant 622); Voulliéme : Berlin 2397, 5.
+          <lb/>677
+          <lb/>VIRGILIUS. Voir aussi : SERVIUS, Hon. Marcus, n° 622.
+          <lb/>VIVETUS, Johannes : Contra daemonum invocatores. —
+          <lb/>(Strasbourg, Jean Grüninger (?) s. d.], in-4°.
+          <lb/>Polain 4007.
+          <lb/>678
+          <lb/>VOCABULARIUS de partibus indeclinabilibus. — (Strasbourg,
+          <lb/>impr. du Jordanus — G. Husner 1491), in-4°.
+          <lb/>Proctor 664.
+          <lb/>679
+          <lb/>VOCABULARIUS (Exquo): Vocabularius Exquo. — (Strasbourg,
+          <lb/>Martin Schott (?) s. d.] in-4°.
+          <lb/>Polain 4018.
+          <lb/>680
+          <lb/>VOCABULARIUS (Idem). [Strasbourg, Jean Grüninger s. d.),
+          <lb/>in-40.
+          <lb/>Voulliéme : Berlin 2329.
+          <lb/>681
+          <lb/>VOCABULARIUS Exquo, (latin-allemand). — (Strasbourg,
+          <lb/>impr. du Jordanus — Georges Husner s. d.], in-4°.
+          <lb/>Copinger III, 6330; Proctor 634 a.
+          <lb/>682
+          <lb/>VOCABULARIUS (Idem). — (Strasbourg, impr. de Henricus
+          <lb/>Ariminensis, s. d.), in-4°.
+          <lb/>Voulliéme : Berlin 2183.
+          <lb/>683
+          <lb/>102
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

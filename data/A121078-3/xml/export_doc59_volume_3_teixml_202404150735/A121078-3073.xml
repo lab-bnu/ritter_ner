@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:05.864746+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3073.tif
+IMAGE WIDTH: 2322
+IMAGE HEIGHT: 3842
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Argentine apud Vuol. Cephaleum.M.D. XXIX.
+          <lb/>Am Schluss: ARGENTORATI APVD WOLPHI-VM CEPHAL.
+          <lb/>AN- No M. D. XXIX Mense Martio. Auf der Rücks.: Druckerm.
+          <lb/>Köpfels (H&amp;amp;B Tafel XVII Nr. 8).
+          <lb/>80, Kursiv, 304 num. u. 28 unn. Bll., Sign. A-T, Kopft., Kust.;
+          <lb/>Titeleinfassung: unten David den Riesen Goliath erschlagend; auf der
+          <lb/>rechten Seitenbordüre Wappen Köpfels (3 kleine Engelsköpfe).
+          <lb/>Auf der Rücks, des Titelbl.: DES. ERAS. RO-TORED. (!)
+          <lb/>OPTIMAE SPEI PVE ro lo. Erasmio Frob. S. D. — Basi¬
+          <lb/>leae. Calen. Augu. Anno M. D. XXIIII. (2 S.)
+          <lb/>Nach der Ausgabe Frobens, Basel 1527.
+          <lb/>R100.916. Prov.: E. Barth, Kolmar, 24. 1.1895; 2 M. Handschr.
+          <lb/>Notis auf der Innenseite des vorderen Einbanddeckels: Paulus Leckdeig
+          <lb/>me possidet, Anno Domini 1554. Auf der Vorderseite des Schutzbl.: Sum
+          <lb/>ex libris Theodorici E. Rinck Franckfordensis. Auf der Rückseite: Sum
+          <lb/>ex libris Ioannis Iacobi Bubij Colmariensis Anno Domini 1607. Constat
+          <lb/>3 batz., emi a Martino Hochstettero. Darunter: Sum ex libris Joannis
+          <lb/>Georgii Buobij Annorum 13 Colmariensis. Anno Domini 1646.
+          <lb/>785
+          <lb/>Van der Haeghen IV S. 200: München, Stockholm.
+          <lb/>517
+          <lb/>ERASMUS: Vereinigung der Kirchen Strassburg, M. Apiarius 1533
+          <lb/>Von der kirchen liebli- chen vereinigung, vnd von
+          <lb/>hinlegung diser zeit haltender spaltung in der glauben
+          <lb/>leer, geschri ben durch den hochgelerten vnd weitbe¬
+          <lb/>riempten herren Des. Eras, von Roterdam.
+          <lb/>In welchen büchlin würt vff den eini! gen heiland
+          <lb/>vnseren herren Jesum Christum gewisen... (6 Zeilen.)
+          <lb/>Von befridung der kirchen an den hoch würdigsten
+          <lb/>&amp;amp;c. Ertzbischoff vnd Churfursten zu! Mentz vnd Magden¬
+          <lb/>burg &amp;amp;c. Doctor Wolfgang Capito.
+          <lb/>Getruckt in der loblichen stat Strasz-burg durch
+          <lb/>Mathiam Apiarium, im 1533. jar. (Rücks, leer.)
+          <lb/>Am Schluss: Getruckt in der loblichen stat Strasz-burg
+          <lb/>durch Mathiam Apiarium, im 1533, jar. (Rücks, leer.)
+          <lb/>40, Got., 56 unn. Bll., Sign. a-n, Kopft., Kust., Marg.
+          <lb/>Bl. 2a: ... Herren Albrechten, Cardinal, Ertzbischoffen
+          <lb/>vnd Churfursten zu Mentz vnd Magdenburg... Wolffgang
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

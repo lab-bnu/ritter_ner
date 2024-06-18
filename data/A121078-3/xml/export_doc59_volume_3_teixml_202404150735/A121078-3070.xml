@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:05.820249+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3070.tif
+IMAGE WIDTH: 2320
+IMAGE HEIGHT: 3838
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>514
+          <lb/>fassung (Siche Nr. 325).
+          <lb/>80, Kursiv, 183 num. Bll., Kopft., Kust., Marg., Init. O. Titelein¬
+          <lb/>raldus, Basel, VIII Calen. Tunias M. D. XXII.
+          <lb/>Auf der Rücks, des Titelbl.: Vorrede des Erasmus an Nic. Be¬
+          <lb/>1 M. Zahlreiche handschr. Randnotizen. Auf dem Titelblatt oben: Gau¬
+          <lb/>R 100.9341. Prov.: Pfarrer Hartter, Luichausen, 22. x. 1877;
+          <lb/>dent Sudoris Artes. Vuolf. And. Riœm.
+          <lb/>GK: UB Breslau, Göttingen.
+          <lb/>778
+          <lb/>ERASMUS : De duplici copia
+          <lb/>Strassburg, J. Knobloch 1525
+          <lb/>D. ERAS-MROTERODAMI, DE! duplici Copia Verbo¬
+          <lb/>rum ac Rerum Commen- tarij duo, ple risque in lo¬
+          <lb/>cis au cti. Epistola Erasmi Roterodami ad la cobum
+          <lb/>Vuimphelingium Se lestatinum.
+          <lb/>Am Schluss: ARGENTORATI EXCVDEBATIOANNES KNO¬
+          <lb/>BLOCHVS, ANNO. M. D. XXV.! MENSE MAIO. (Rücks, leer.)
+          <lb/>4°, Kursiv, 6 unten num. Bll., 3 unn. u. 112 num. Bll., Kopft.,
+          <lb/>Kust., Init. B, V, P. Titeleinfassung aus einem Stück (Kolonnen
+          <lb/>u. Sirene).
+          <lb/>Auf der Rücks, des Titelbl.: Vorrede: Desyderivs ERASMVS
+          <lb/>ROTERODAMVS Matthiae Schurrerio Stleze- stadio (!) S. D....
+          <lb/>— Basileae. Anno! M. D. XIII. Ad idus Octobris.Folgen
+          <lb/>5 Bll. Index. Sodann: DESIDERIVS! Erasmus Roterodamus Ioanni
+          <lb/>Coleto, De-cano Sancti Pauli apud Londi- num S. D....
+          <lb/>— Londi! ni, Anno. M. D. XIII. Kalend. Maias.
+          <lb/>Auf der Rückseite: 2 lateinische Gedichte: 1) Ad Sebastianvm
+          <lb/>Brant Phalecium, Erasmi Roterodami. (10 Verse.) 2) Ad
+          <lb/>Ioannem Sapi dum suum, in discessu. (4 Verse.)
+          <lb/>Bl. 105b: Epilogus. Bl. 106b: Brief Wimpfelings an Erasmus:
+          <lb/>Desyderio Erasmo Roterodamo, Vuimphelingus Selestadi.
+          <lb/>nomine Soda- litatis literariae Argentineñ. S.... Ex Argen¬
+          <lb/>toraco, primo Septembris. An. M. D. XIIII. Bl. 107-112: Antwort
+          <lb/>des Erasmus an Wimpfeling:... uudecimo (!) Ca- lendas Octo¬
+          <lb/>bris. M. D. XIII.
+          <lb/>R100.911. Prov.: F. A. Brockhaus, Leipzig, 22. x.1883; 1 M. 20.
+          <lb/>Schmidt VII Nr. 291.
+          <lb/>779
+          <lb/>ERASMUS: Paraphrasis in acta Apostolorum
+          <lb/>Strassburg, J. Knobloch 1525
+          <lb/>IN ACTA] APOSTOLORVM PA- RAPHRASIS, PER D. ERAS¬
+          <lb/>MVM RO TERODA- MVM. (Rücks, leer.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

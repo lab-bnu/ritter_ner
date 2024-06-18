@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:05.356256+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie012.tif
+IMAGE WIDTH: 2492
+IMAGE HEIGHT: 3928
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>G W 1300; Einblattdrucke 127; Schorbach: Mentelin, Anhang
+          <lb/>p. 16*, n° 25 : Ex. unique B N Munich (partie supérieure
+          <lb/>manque).
+          <lb/>56
+          <lb/>ALMANACH pour 1476 (en allemand). — (Strasbourg,
+          <lb/>Jean Mentelin, décembre 1475). Placard in-fol. 341 x
+          <lb/>216 mm.
+          <lb/>G W 1312; Einblattdrucke 138; Schorbach, Anhang, p. 22*,
+          <lb/>n° 35 : B N Munich (ex. unique).
+          <lb/>57
+          <lb/>ALMANACH pour 1477 (en allemand). — (Strasbourg,
+          <lb/>Jean Mentelin, décembre 1476). Placard in-fol., 436x
+          <lb/>222 mm.
+          <lb/>G W 1322; Copinger 2190 — 2193; Proctor 215; Brit. Mus.
+          <lb/>Catal. I, 58; Einblattdrucke 147. Londres (Brit. Mus.),
+          <lb/>BN Munich (tous les deux incomplets).
+          <lb/>58
+          <lb/>ALMANACH pour 1477 (en allemand). — Strasbourg,
+          <lb/>H. Eggestein). Placard? x221 mm.
+          <lb/>G W 1321; Einblattdrucke 146. B N Munich (partie du milieu
+          <lb/>manque).
+          <lb/>59
+          <lb/>ALMANACH pour 1478 (en allemand, Heiliggrabkalender). —
+          <lb/>(Strasbourg, H. Eggestein). Placard 372 x 245 mm.
+          <lb/>G W 1330; Einblattdrucke 155; Voullième : Berlin 2140, 8.
+          <lb/>B N Berlin, B U Gand (incomplet).
+          <lb/>60
+          <lb/>ALMANACH pour 1479 (en allemand). — Strasbourg, impr.
+          <lb/>de Henricus Ariminensis). Placard 354 x 247 mm.
+          <lb/>G W 1337; Einblattdrucke 161. B U Göttingen, Leipzig. 61
+          <lb/>ALMANACH pour 1483 (en allemand). — (Strasbourg,
+          <lb/>H. Knoblochtzer), Placard.
+          <lb/>G W 1370; Einblattdrucke 190. B N Munich (parties inférieure
+          <lb/>et supérieure manquent).
+          <lb/>62
+          <lb/>ALMANACH pour 1487 (en allemand). — (Strasbourg,
+          <lb/>J. Prüss), Placard.
+          <lb/>G W 1416, Einblattdrucke 225. Sigmaringen SA.
+          <lb/>63
+          <lb/>10
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

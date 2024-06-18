@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:03.243939+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002070.tif
+IMAGE WIDTH: 2482
+IMAGE HEIGHT: 3982
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Huss zu Constentz verbrannt... — (Strasbourg, Jean
+          <lb/>Schott 1525), in-4°.
+          <lb/>Schmidt II, 97; Weller, 3437 ; Ritter, Rép. 279. 1106
+          <lb/>BRUNFELS, Otto (Hutten) : Pro Ulricho Hutteno, vita
+          <lb/>defuncto, ad Erasmi Roterodami spongiam responsio...
+          <lb/>— Strasbourg 1524, in-8°.
+          <lb/>BN Paris; 8° Yc 652 (3).
+          <lb/>1107
+          <lb/>BRUNFELS, Otto: Jatrionices Medicamentorum simplicium
+          <lb/>Liber secundus. — Strasbourg, Georges Ulricher s. d.,
+          <lb/>in-4°.
+          <lb/>Beaulieux p. 64, n° 1275.
+          <lb/>1108
+          <lb/>BRUNFELS, Otto (Kinderzucht) : Von der Zucht und under¬
+          <lb/>weisung der kinder.... Item ein underweisung ausz der
+          <lb/>Epistel oder sendtbrieff des heyligen Hieronymi die er
+          <lb/>zu Letam geschriben hatt. Vertolmetst durch Frido¬
+          <lb/>son encadrement du titre), in-80.
+          <lb/>Bibl. S. Guillaume Strasbourg.
+          <lb/>1109
+          <lb/>BRUNFELS, Otto (Kräuterbuch) : Kreüterbuch contrafayt
+          <lb/>beyde Teyl vollkummen... — Strasbourg, Jean Schott
+          <lb/>1539/40, in-40.
+          <lb/>Kristeller, n° 487; Scott (Schmidt II, Supplément) p. 18,
+          <lb/>n° 26. — Bibl. S. H. Scott, Oxford. Trotzdem schreibt Stübler
+          <lb/>p. 251, note (1) : Diese Ausgabe habe ich nirgends erwähnt
+          <lb/>gefunden. (Éd. Schott 1532 : Ritter, Rép, n° 289 et éd. lat.
+          <lb/>Schott 1532 : Rép. n° 290/1.
+          <lb/>1110
+          <lb/>BRUNFELS, Otto (Kräuterbuch): Ander Teyl des Teütschen
+          <lb/>Contrafayten Kreüterbuchs... — Strasbourg, Jean Schott
+          <lb/>1537, in-fol.
+          <lb/>Kristeller, n° 486; Scott (Schmidt II, Supplément) p. 17,
+          <lb/>n° 25. — Bibl. S. H. Scott, Oxford.
+          <lb/>1111
+          <lb/>68
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:01.896045+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002018.tif
+IMAGE WIDTH: 2506
+IMAGE HEIGHT: 3974
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>ALTENSTAIG, Joh. : Vocabularium vocum. — Haguenau,
+          <lb/>Henri Gran 1508, in-40.
+          <lb/>Ritter, Hist. de l’impr. p. 372. Voir aussi: Rép. nos 37-44.
+          <lb/>808
+          <lb/>ALTENSTAIG, Joh. : Opus pro conficiendis epistolis. —
+          <lb/>Haguenau), (Henri Gran pour Rynman 1512), in-4°.
+          <lb/>GKIII, 7199: BN Munich, B U Breslau, Greifswald. 809
+          <lb/>ALTENSTAIG, Joh. : Dialectica congesta et collecta diligenter...
+          <lb/>pro fratribus Monasterij Pollingensis Ordinis divi
+          <lb/>Augustini Canonicorum regularium... — (Haguenau,
+          <lb/>H. Gran aux frais de J. Rynman, 15 avril 1514), in-4°,
+          <lb/>Burg : Haguenau n° 58.
+          <lb/>810
+          <lb/>ALTENSTAIG, Joh. : Opusculum de amicitia... — (Haguenau),
+          <lb/>(Henri Gran pour Rynman 1519), in-40.
+          <lb/>GKIII, 7200: B N Berlin, Munich; Burg n° 63.
+          <lb/>811
+          <lb/>ALTENSTAIG, Joh. : Tres libri de felicitate triplici... —
+          <lb/>(Haguenau) (Henri Gran pour Rynman 1519), in-40.
+          <lb/>GKIII, 7197: BNBerlin, Munich, Vienne; Burg n° 62. 812
+          <lb/>ALTENSTAIG, Joh. : Von der Füllerey, ein müter aller übel...—
+          <lb/>(Strasbourg, Jean Grüninger (20. XII] 1525), in-4°.
+          <lb/>GKIII, 7198: BN Berlin, Munich, Schmidt I, n° 225; Weller
+          <lb/>3262. — (Sur Altenstaig voir aussi : Ritter, Rép. nos 37-44l.
+          <lb/>813
+          <lb/>ALTVATER. Voir : BUCH der Altväter.
+          <lb/>ALZATUS, Andreas. Voir : JUSTINIANUS, n° 2177.
+          <lb/>AMADISROMAN. Voir : SCHATZKAMMER, n° 3171.
+          <lb/>AMBROGINI Poliziano, Angelo. Voir : POLITIANUS, Angelus.
+          <lb/>AMBROSIUS, Sanctus : Drei bücher Officiorum (das ist) vom
+          <lb/>16
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:44.929192+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078081.tif
+IMAGE WIDTH: 2326
+IMAGE HEIGHT: 3844
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>LUTZ Reinhardus
+          <lb/>Marbafftige Beituntg.
+          <lb/>Son Den Gottlosen Seren
+          <lb/>aucb Reberischen onnb Teufels Beibern/ dte 5u
+          <lb/>bes beyligẽ Rõmischeñ Reichpstatt Scbletstat im Elsap,aufi
+          <lb/>den zrey vn d zwentigstenterbstmonats/òes rerlaufsenen steben?
+          <lb/>gigsten Jars svon megen jbrer scbent lider Zeuffela verpflid tung] verbient.
+          <lb/>moiben Oampt einem Furten Ertract nnò außjug ettlicber
+          <lb/>Sorifften von Herereyfzusamen gebrat.
+          <lb/>Durch Renbaròum Rut Erythropolitanum.
+          <lb/>967
+          <lb/>1571
+          <lb/>4
+          <lb/>☙
+          <lb/>0
+          <lb/>M. D. LXXI.
+          <lb/>Grav, sur bois: Réunion de sorcières dans un champ, 3 sorcières
+          <lb/>ques, assises autour d’un pot duquel sort de la fumée, une 4ème couchée
+          <lb/>par terre, à droite un arbre sur lequel grimpe un homme nu, à gauche
+          <lb/>nne autre sorcière nue chevauchant sur un bouc à travers les airs.
+          <lb/>Au-dessous : M. D. LXXI. (Voir grav, ci-dessus.)
+          <lb/>In-4°, car. goth., 20 ff. non ch., sign. A-E, titre courant, récla¬
+          <lb/>mes, notes marg.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

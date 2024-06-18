@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:50.292041+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078268.tif
+IMAGE WIDTH: 2304
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1154
+          <lb/>atque amico suo observandissimo, Hiob Gast, S. à Christo... — Haga¬
+          <lb/>Au verso du titre : Clariss, viro, d. Ioanni Brentio,! Praeceptori
+          <lb/>noae M. D. XXVIII. (1 p. en car. ital.)
+          <lb/>Fol. A 2a : Pascasius Ruperto placido suo! Salutem... (4 pp.)
+          <lb/>(Epilogue de 3 pp.)
+          <lb/>Fol. M 4b : Hiob Gast ae quo lectori salutem! à Christo Hiesu.
+          <lb/>R 102.150. Prov.: Don. de la Bibl. de Stuttgart 1871. Notes mss. au
+          <lb/>f. du titre.
+          <lb/>BN Paris C1972 (1) et Rés. D. 67988.
+          <lb/>1793
+          <lb/>PASCOLO Durus de. Voir: DURUS DE PASCOLO
+          <lb/>PASIUS Curius Lancilotus
+          <lb/>Strasbourg, M. Schurer 1511
+          <lb/>CVRH LANCILOTI PA] SII FERRARIEN! SIS LAVRE) ATI! Non
+          <lb/>Vulgaris literaturae Libri viii.
+          <lb/>A la fin: ARGENTORATI. Ex officina literatoria Mathiae
+          <lb/>Schu-rerii Selestatini. Mense lanu-ario. Anno.! M. D. XI.
+          <lb/>UsUI Studiosorum. REGNANTE IMP. CAES. MAXIMILIANO.
+          <lb/>P. F. AVGV.
+          <lb/>In-4°, car. rom., 8 ff. non ch., CCI ff. ch., titre courant, init.
+          <lb/>d’attente.
+          <lb/>Au verso du titre: Curii lancloti (!) pasii fer rariensis laureati
+          <lb/>De literatura non vulgari! liber primus. Curius Lancilotus Pasius Fer¬
+          <lb/>rariensis Senatui.... Praefatio. (3 pp.)
+          <lb/>Fol. 2b non ch. : Ad Populum Regiensem. 4 dist. signés : Francis¬
+          <lb/>cus Sacratus Ferrariensis. Discipulus. Suivent 6 ff. de table.
+          <lb/>R101.898. Prov. : Bibl. Gœttinque 1881. Pème ex.: R 101.588.
+          <lb/>Prov.: Don de Fidelis Butsch, antiquaire à Augsbourg 1871.
+          <lb/>Schmidt VIII n° 49: BM Strasbourg.
+          <lb/>1794
+          <lb/>PASIUS Curius Lancilotus
+          <lb/>Strasbourg, M. Schurer 1518
+          <lb/>Curii Lancilo ti Pasii Ferrariensis de arte gramma¬
+          <lb/>tica Li- bri octo. Habes candidissime lector in hoc opere...
+          <lb/>(9 lignes.)
+          <lb/>De rebus non vulgaribus.
+          <lb/>A la fin : Argentorati ex officina literaria Matthiae
+          <lb/>Schurerii Selestati- ni. Mense Novemb. Anno.) M. D. XVIII.
+          <lb/>In-40, car, rom., 18 ff. non ch. (préf, et table) — CCVII ff. ch.
+          <lb/>★1 f. non ch.; au recto, marque typ. de M. Schurer (HRB Planche
+          <lb/>XIII n° 5; Silvestre n° 692), au verso, errata; titre courant, initiales
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:05.480840+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3047.tif
+IMAGE WIDTH: 2336
+IMAGE HEIGHT: 3838
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Auf der Rückseite des Titelbl.: Desyderius Erasmus... Gui¬
+          <lb/>lielmo Mo- nioio Comiti... O. D..
+          <lb/>Bl. à 4b: MaTTHAS SCHVRERIVS SELESTENSIS LE¬
+          <lb/>CTORI... Strassburg, 19. Juli 1509.
+          <lb/>Neudruck der Ausgabe 1518.
+          <lb/>*R100.097. Prov.: Rosenthal, München, 4. III. 1884; 6M.
+          <lb/>Handschr. Notizen.
+          <lb/>Auf dem Titelbl. : Sum Valentini Wihelmi 1591.
+          <lb/>Nunc Resch a Capaulis Anno Domini 1626; weiter unten:
+          <lb/>Tandem Hartmanni Roselii Anno 1677.
+          <lb/>GK: SB Berlin; Proctor, Sectio I, Nr. 10255: London British
+          <lb/>Museum; Schmidt VIII, Nr. 250 sitiert Panzer 6, 92, 552 (Olim Bibl.
+          <lb/>Arg. 1744). Van der Haeghen I, S. 44: Erlangen, Heidelberg, Karlsruhe,
+          <lb/>734
+          <lb/>British Museum London, München, Prag.
+          <lb/>ERASMUS: Adagia
+          <lb/>Hagenau, Th. Anshelm, 1519
+          <lb/>COLLECTANEA ADAGIORVM VETE] RVM D. ERASMI] Ro¬
+          <lb/>terodami Germaniae deco! ris. Opusculum sanè in! genio
+          <lb/>summo ela! boratum. Ap LECTOREM. Habes hic candide
+          <lb/>Lector, ex Anshelmiana Typo graphica officina, Adagia illa
+          <lb/>Erasmi Roteroda mi, multo emendatiora, multo integriora,
+          <lb/>quam in prioribus impressionibus. Dictiones praeter! ea
+          <lb/>graecas sparsim huic opusculo insertas cum apicibus suis,
+          <lb/>ac! spiritibus, artifici opera! fabrefactis, qui in aliis! huc
+          <lb/>usque sunt neglecti.Addita est tabula in ipsius operis
+          <lb/>calce quo dicto citius quaerenti quoduis occurrat.
+          <lb/>Am Schluss: Hagenoe ex aedibus Thomae Anshelmi Ba¬
+          <lb/>den sis. Mense Octobri. Anno a Christo nato. M. D. XIX.
+          <lb/>40, Antig., 4 unn., LVII num. u. 7 unn. Bll., Titel rot u. schuarz,
+          <lb/>Init. M.
+          <lb/>Widmung vie in der vorigen Ausgabe u. Einleitung: Quatenus
+          <lb/>utendum adagiis.
+          <lb/>Nach der Schürer&amp;#x27;schen Ausgabe von 1519. Die Einleitung Qua¬
+          <lb/>tenus utendum adagiis ersetst die Vorrede Schürer’s und ist eine fast
+          <lb/>wortliche Wiedergabe der Notizen, welche als Einleitung eu den Chiliades
+          <lb/>des Erasmus dienen.
+          <lb/>*R100.925. Prov.: List e Francke, Leipaig, 25.I1I.1879, 0,60M.
+          <lb/>Handschr. Notizen.
+          <lb/>GK: SB Berlin, UB Göttingen (defekt), Marburg; Van der
+          <lb/>Haeghen: I, S. 46: Berlin, Hanover, British Museum London, Prag,
+          <lb/>Rostock, Rotterdam.
+          <lb/>735
+          <lb/>491
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

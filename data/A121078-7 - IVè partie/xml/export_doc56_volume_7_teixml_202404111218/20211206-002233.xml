@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:07.655273+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002233.tif
+IMAGE WIDTH: 2504
+IMAGE HEIGHT: 3990
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>HEMMERLIN, Felix : De nobilitate et rusticitate dialogus. —
+          <lb/>Strasbourg, Jean Prüss 19.XI.1505.
+          <lb/>Hartmann Amerbachkorrespondenz, n° 291.
+          <lb/>1979
+          <lb/>HENICH, Joh. Voir: PLANERUS, Andreas no 2920.
+          <lb/>HENRI II (Roi de France) : Edict. Königlicher Maiestät in
+          <lb/>Franckreich, wegen der vereinigung seiner Unterthanen
+          <lb/>mit der Catholischen Apostolischen und Römischen
+          <lb/>Kirchen. Verlesen und Publicirt in der Gerichts Cam¬
+          <lb/>mer des Parlaments zu Paris, in Gegenwart des Königs
+          <lb/>den 18. Juli Anno 1585. — Strasbourg 1585, in-4°.
+          <lb/>Ritter: B M Strasbourg, n° 1185.
+          <lb/>1980
+          <lb/>HENRI II. Voir aussi: RECUEIL des choses mémorables
+          <lb/>n° 3077.
+          <lb/>HENRICHMANN, Jacobus : Grammaticae institutiones. —
+          <lb/>Haguenau, Henri Gran 1509.
+          <lb/>Ritter, Hist. impr. app. 428 (5).
+          <lb/>1981
+          <lb/>HENRICHMANN, Jacobus : Grammaticae institutiones. —
+          <lb/>(Strasbourg, Jean Prüss 1512), in-4°.
+          <lb/>Schmidt III, p. 29, n° 2 : Bibl. St. Guillaume, Strasbourg.
+          <lb/>1982
+          <lb/>HENRICHMANN, Jac. : Grammaticae institutiones... denuo
+          <lb/>accurate revisae... — (Strasbourg, J. Prüss 1512), in-4°.
+          <lb/>Schmidt III, p. 29, n° 3 : Bibl. S. Guillaume, Strasbourg. 1983
+          <lb/>HENRICHMANN, Jacobus : Institutiones grammaticae. Exhor¬
+          <lb/>tatio eiusdem [Henrichmannil ad pueros ut eloquentiae
+          <lb/>studeant Ars condendorum Carminum Henrici Bebelii
+          <lb/>poetae laureati cum additionibus multis per authorem
+          <lb/>ipsum emendata diligenter. Racemationes &amp;amp; Observa¬
+          <lb/>tiones eiusdem. Centimetrum Servii Honorati Gramma¬
+          <lb/>tici. Introductio perbrevis in Literas Graecas, quae in
+          <lb/>231
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

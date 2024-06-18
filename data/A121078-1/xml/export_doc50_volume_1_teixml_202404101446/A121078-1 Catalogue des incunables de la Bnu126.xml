@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:38.655432+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu126.tif
+IMAGE WIDTH: 2414
+IMAGE HEIGHT: 3852
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>THOMAS A KEMPIS: De imitatione Christi. Strasbourg,
+          <lb/>J. Prüss), 1489, in-8°.
+          <lb/>Hain 9098, Pellechet: Colmar 812, Proctor 545, Schreiber
+          <lb/>5345, Voulliéme: Berlin 2358.
+          <lb/>Schramm, Bilderschmuck XX, grav. N° 1233.
+          <lb/>K 3570. Prov.: Fid. Butsch fils, Augsbourg, 23. III. 1877,
+          <lb/>5 M.
+          <lb/>457
+          <lb/>TOLLAT VON VOCHENBERG JOHANNES: Büchlein der Arznei,
+          <lb/>gen. Margarita medicinae. (Strasbourg, B. Kistler),
+          <lb/>1500, in-4°.
+          <lb/>Voullième: Berlin 2554.
+          <lb/>K 3584. Prov.; Gilhofer Ranschburg, Vienne, 18. X. 1915,
+          <lb/>90 Kr.
+          <lb/>458
+          <lb/>Tractatus de contractibus et vitaliciis. Strasbourg, impr.
+          <lb/>du H. Ariminensis, s. d.], in-2°.
+          <lb/>Hain 5678, Proctor 305, Voulliéme: Berlin 2181, Walter:
+          <lb/>Sélestat 481.
+          <lb/>K 3597. Prov.: F. Butsch, Augsbourg, 12. X. 1883. A la suite
+          <lb/>de Magni Jac., Sopholoquium. Coloniae, s. d., K 2468a. 459
+          <lb/>Tractatus contra vitia. Strasbourg, G. Husner, 5 déc. 1498,
+          <lb/>in 4°.
+          <lb/>Hain 15594, Madsen 3983, Pellechet: Colmar 1247, Proctor
+          <lb/>744, Voulliéme: Berlin 2529.
+          <lb/>K 3599. Prov.: Bibliothèque du prof. Baum, 1879. Au-dessous
+          <lb/>du titre: «Conradus Molitor.»
+          <lb/>2e ex. K 1783, 2. Prov.; Abbé Cromer, curé, Saverne, 29. VII.
+          <lb/>1879. A la suite de Gregorius M., Pastorale. Coloniae, s. d.
+          <lb/>K 1783, 1.
+          <lb/>460
+          <lb/>Tractatus de Judaeorum et Christianorum communione.
+          <lb/>(Strasbourg, impr. du H. Ariminensis, vers /1476),
+          <lb/>in-fol.
+          <lb/>Hain 9465, Proctor 312, Voulliéme: Berlin 2180.
+          <lb/>K 3596. Prov.: Don de la ville de Heilbronn, 1871. Au haut
+          <lb/>du 1er f.: «Esslingen, Conr. Fyner 1474», rayé au crayon. 461
+          <lb/>96
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

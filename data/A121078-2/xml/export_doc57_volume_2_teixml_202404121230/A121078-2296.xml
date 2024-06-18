@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:35.483123+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2296.tif
+IMAGE WIDTH: 2304
+IMAGE HEIGHT: 3820
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>292
+          <lb/>CAPITO Wolfgang Fabricius
+          <lb/>Strasbourg, J. Herwagen, 1528.
+          <lb/>IN HOSEAM! PROPHETAM V. F. CAPI-] tonis Commen¬
+          <lb/>tarius. Ex QVO PECVLIARIA PRO- phetis &amp;amp; hactenus for¬
+          <lb/>tassis nusquam sic tractata, si uersam pagellam &amp;amp;
+          <lb/>indicem percurris, co- gnoscere potes.
+          <lb/>ARGENTORATI APUD IOANNEM HERVAGIUM MENSE APRILI.
+          <lb/>ANNO M. D. XXVIII.
+          <lb/>A la fin: ARGENTORATI, APVD IOHANNEM HERVAGIUM
+          <lb/>MENSE APRILI. ANNO M. D. XXVIII. (Verso blanc.)
+          <lb/>In-80, car. ital,, 18 ff. non ch. (Préface et Index), 284 ff. ch.,
+          <lb/>commençant par le chiffre 3, titre courant, réclames, notes marginales,
+          <lb/>initiales à fig. P, H.
+          <lb/>R101.136. Prov.: Donation Cunite, 1886. Rel, anc.
+          <lb/>BN Paris, A 8340; Orford, Bibl. Bodleiana; BM et Biblioth.
+          <lb/>St. Guillaume, Strasbourg; GPB: BN Berlin, B U Breslau, Gœttingue,
+          <lb/>Kœnigsberg, Muenster. Baum No 28.
+          <lb/>442 a
+          <lb/>CAPITO Wolfgang Fabricius
+          <lb/>Strasbourg, W. Köpfel, 1529.
+          <lb/>Kinder bericht! vnd fragstück von glau! ben. Wolff.
+          <lb/>F. Capitons.
+          <lb/>Marque typographique de W. Köpfel (H dt B, Planche XVII,
+          <lb/>N° 8a).
+          <lb/>Anno. M. D. XXIX.
+          <lb/>A la fin: Gedruckt zû Straszburg, bey Wolff Köpph.
+          <lb/>An. M. D. XXIX.
+          <lb/>Au verso du f. blanc qui suit, marque typographique de W. Köpfel.
+          <lb/>(HEB. Planche XVIII, No 9.
+          <lb/>In-80, car. goth., 41 ff. ch., 16 ff. non ch., dont les 9 derniers
+          <lb/>blancs, (erreur de pagination 28 pour 38), réclames, initiale à fig. V,
+          <lb/>titre encadré: bordure supérieure: Pollo, Mercure, Junon et Jupiter, côté
+          <lb/>latéral de gauche, Venus et Mars, Neptune et Vulcan, de droite, Homère,
+          <lb/>Minos, Ulysse; en bas, Ulysse et la ville de Pergamon, Demodocus et
+          <lb/>Tantalus.
+          <lb/>Au verso du titre: An den leser.
+          <lb/>R100, 637. Prov.: Bibliothèque Heitz, Strasbourg 187i. 413
+          <lb/>CAPITO Wolfgang Fabricius, Von befridung der kirchen. Voir;
+          <lb/>ERASMUS, Von der kirchen lieblichen vereinigung. Stras¬
+          <lb/>bourg, M. Apiarius. 1533.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

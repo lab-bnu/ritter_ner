@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:05.932996+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie052.tif
+IMAGE WIDTH: 2464
+IMAGE HEIGHT: 3918
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>GUILELMUS Parisiensis: Postilla super evangelia et epistolas
+          <lb/>de tempore et de sanctis. — [Strasbourg, impr. du
+          <lb/>Jordanus — Georges Husner 1481), in-fol.
+          <lb/>Voulliéme : Berlin 2470, 3.
+          <lb/>309
+          <lb/>GUILELMUS Parisiensis : Postilla super evangelia et epistolas,
+          <lb/>de tempore et de sanctis. — (Strasbourg, impr. du
+          <lb/>Jordanus — Georges Husner 1483), in-fol.
+          <lb/>Hain 8237, Proctor 587, Voulliéme: Berlin 2470,4.
+          <lb/>310
+          <lb/>GUILELMUS Parisiensis: Postilla super Evangelia et Epistolas.
+          <lb/>— (Strasbourg, Martin Flach s. d.], in-fol.
+          <lb/>Copinger 2856.
+          <lb/>311
+          <lb/>GUILELMUS Parisiensis: Postilla super epistolas et evangelia. —
+          <lb/>(Strasbourg, Jean Prüss vers 1489), in-fol.
+          <lb/>Hain 8244; Hiersemann (Leipzig), Catal, 550 (1925) n° 84 :
+          <lb/>480 M.
+          <lb/>312
+          <lb/>GUILELMUS Parisiensis : Postilla super evangelia et epistolas.
+          <lb/>— Haguenau, H. Gran 1492, in-4°.
+          <lb/>Hain 8280; Ritter, Grand Sém. Strasbourg, n° 239; Burg:
+          <lb/>Haguenau n° 13.
+          <lb/>313
+          <lb/>GUILELMUS Parisiensis : Postilla super epistolas et evangelia.
+          <lb/>— (Strasbourg s. d.], in-fol.
+          <lb/>Hain 8228.
+          <lb/>314
+          <lb/>GUILELMUS Parisiensis: De collationibus &amp;amp; pluritate eccle¬
+          <lb/>siasticorum beneficiorum. — Strasbourg, Jean Knobloch
+          <lb/>25 juin 1500, in-4°.
+          <lb/>Hain 8322, Walter n° 236.
+          <lb/>315
+          <lb/>GUILELMUS Parisiensis: Postilla super Epistolas et Evangelia
+          <lb/>de tempore et de sanctis et pro defunctis. — (Strasbourg,
+          <lb/>Martin Flach, 1er août 1500), in-4°.
+          <lb/>Schmidt VI, n° 77 ; Ritter, Rép. Inc. 212.
+          <lb/>316
+          <lb/>50
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

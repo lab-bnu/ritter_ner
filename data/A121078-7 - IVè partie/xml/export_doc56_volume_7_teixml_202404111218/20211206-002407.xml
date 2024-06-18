@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:12.010371+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002407.tif
+IMAGE WIDTH: 2510
+IMAGE HEIGHT: 3976
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>PHILOMUSUS : Horn des Heyls menschlicher Blödigkeit oder
+          <lb/>Kreutterbuch. — Strasbourg, Crato Mylius 1576, in-fol.
+          <lb/>Zinner 2745. (Autres éd. Strasbourg, Christian Müller 1576,
+          <lb/>Ant. Bertram 1595, L. Zetzner 1596. Voir : Ritter, Rép.
+          <lb/>nos 1806-1808 à Pegius Mart.).
+          <lb/>2899
+          <lb/>PHOCYLIDES: Poemata. A la suite de Pythagoras, Poemata.
+          <lb/>Pythagorae. — Strasbourg, Crato Mylius, mars 1545,
+          <lb/>in-8° (n° 3054).
+          <lb/>2900
+          <lb/>PHOENICEUS, Henricus. Voir : HEssus, Simon, n° 2008.
+          <lb/>PHRYGIUS, Paulus : Oratio Constantii Eubuli Moventini. —
+          <lb/>Sélestat, Lazare Schürer vers 1521.
+          <lb/>2901
+          <lb/>Ritter, Hist. impr. p. 421.
+          <lb/>PHRYGIUS, P. Voir aussi : Huss, Joh, n° 2088.
+          <lb/>PIATTI, Piattino de : Platini Plati Mediolensis... Libellus de
+          <lb/>carcere... — Strasbourg, Mathias Schürer, avril 1513,
+          <lb/>in-40.
+          <lb/>Bahlmann, n° 7 c; Graesse V, p. 314.
+          <lb/>2902
+          <lb/>PICKART, Jesuwalt. Voir : FISCHART, nos 1721, 1733.
+          <lb/>PICUS Joh. Franciscus : Hymni heroici tres... — Strasbourg,
+          <lb/>Mathias Schürer 1521, in-fol.
+          <lb/>Graesse V, p. 284.
+          <lb/>2903
+          <lb/>PICTORIUS, Georgius : Itinerarium perigrinantium. Das ist
+          <lb/>kurtzer bericht für die so da reisen wöllen inn frömbde
+          <lb/>unbekannte land... Sampt angehencktem regiment für
+          <lb/>alle so auf das Meer oder andere Wasser sich ergehen
+          <lb/>wöllen... — (Mulhouse, J. Schirenbrand et P. Schmid)
+          <lb/>11557), in-8°.
+          <lb/>Werner, p. 76, n° 2.
+          <lb/>2904
+          <lb/>405
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

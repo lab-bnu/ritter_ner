@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:53.206352+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078359.tif
+IMAGE WIDTH: 2338
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Au-dessous: Cum Privilegio ad Triennium! Argentorati, 1527.
+          <lb/>(Verso blanc.)
+          <lb/>A la fin: ARGENTORATI VOLPHIVS CEPHA! LAEVS EXCV¬
+          <lb/>DEBAT. ANNO. M. D. XXVII.
+          <lb/>In-8°, car. goth. et ital., 285 ff. ch., 3 ff. non ch. dont le dernier
+          <lb/>blanc, au verso la marque typ. de Kœpfel (HŒ B planche XVIII n° 8),
+          <lb/>titre courant, réclames, init, ornées V, Q; au verso de A 4b: petite grav.,
+          <lb/>Dieu dans les nuages, David avec la harpe à genoux; titre encadré
+          <lb/>(HeB planche XIX n° 15).
+          <lb/>Fol. A 2a: Typographis bene agere... Volphius Cephalaeus. Au
+          <lb/>verso: Volphius! Cephalaeus Ty-I pographus,! Christia- no Le-[ ctori...
+          <lb/>R 101.160. Prov, : Bibl. Ed. Reuss, Strasbourg 1891 avec son
+          <lb/>ex-libris à l&amp;#x27;intérieur de la couverture et son autographe au recto du
+          <lb/>1947
+          <lb/>f. de garde: ,Zürich 1867 fr. 3 Ed. Reuss&amp;quot;
+          <lb/>PSALTERIUM
+          <lb/>Strasbourg, W. Kœpfel 1538
+          <lb/>Psalter.Das seindt allePsalmen Davids, mit iren
+          <lb/>Melodeien, sampt vil Schönen Christli-chen liedern,
+          <lb/>unnd Kirchen übungen mitt seynem Register.An.
+          <lb/>M. D. XXXVIII. (Au verso David en prière, dans les nuages Dieu
+          <lb/>le père.)
+          <lb/>A la fin: Folgt das andertheyl, der Psal-men und
+          <lb/>Christlichen lieder. (Au verso du f. suivant marque typ. de Kœpfel.
+          <lb/>H a B planche XVIII n° 9; Silvestre no 1018.)
+          <lb/>In-8°, car. goth., 8 ff. non ch. (Kœpfel au lecteur et table des
+          <lb/>psaumes), CLI ff. ch., titre courant, notes de musique pour les psau¬
+          <lb/>mes; titre encadré (He B planche XIX n° 15.) rouge et noir. Fol. I:
+          <lb/>Folgen die übrigen Psalmen, so im letsten theyl des Psal! menbüchlins
+          <lb/>nit begriffen! sint.
+          <lb/>R102.604 (2). Prov.: Bibliothécaire Muller, Strasbourg 10/x 1883.
+          <lb/>1948
+          <lb/>PSALTERIUM
+          <lb/>Strasbourg, Cr. Mylius 1539
+          <lb/>PSALTER]IVM DAVIDIS CAR] MINE REDDITVM EO-] BANVM
+          <lb/>HESSVM. CVM ANNOTATIONIBVS, VITI! Theodori Noriber¬
+          <lb/>gensis quae Com mentarii vice esse! possunt. (Marque typ.
+          <lb/>de Crato Mylius. HŒB planche XXVI n° Ja.)
+          <lb/>M. D. XXXIX.
+          <lb/>A la fin: ARGENTORATI APVD CRATONEM MYLIVM MENSE
+          <lb/>MART. M. D. XXXIX. (Feuille de lierre.)
+          <lb/>In-8°, car. ital. et rom., 408 pp. ch., 2 ff. non ch. (table à 2 col.),
+          <lb/>3 ff. blancs (dont le Ier a l’explicit au recto et le Bème la marque typ.
+          <lb/>1245
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

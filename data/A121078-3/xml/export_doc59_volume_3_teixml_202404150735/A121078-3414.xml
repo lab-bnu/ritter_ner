@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:13.605432+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3414.tif
+IMAGE WIDTH: 2414
+IMAGE HEIGHT: 3854
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>856
+          <lb/>Griechischen! Exemplarn restituiert vnnd gebessert! im
+          <lb/>jar M. D. XXXV.Sampt einer Vorred, in welcher die Hi¬
+          <lb/>story diser bücher! auffs kürtzest verstendig vnd hell be¬
+          <lb/>griffen ist, vndTeütschland ab frembden schaden ge¬
+          <lb/>warnet würt.! Jm Jar M. D. XXXV. (Vorrede, 10 S.)
+          <lb/>3. Teil, Titelbl.: Flauuij Josephi: Vom alten herkum
+          <lb/>men der Juden wider Appionem Grammaticum zû Alexan¬
+          <lb/>dria, Zwey bücher.
+          <lb/>Flauuij Josephi von meisterschaff (!)vnd herschung
+          <lb/>der vernunfft, darinnen der Macha- beer martyr abge¬
+          <lb/>malet ist, neüwlich durch Doctor Caspar Hedionem ver¬
+          <lb/>teütschet.! Mit einer nützlichen vorred von kinder zucht.
+          <lb/>Straszburg, M. D. XXXV.
+          <lb/>Den Ernuesten... Hernherr Jacoben Sturm, Ni¬
+          <lb/>clauszen Kniebisz, vnd Jacoben Mayer der freystatt
+          <lb/>Straszburg Schûlhern,... Doctor Caspar He- dio...
+          <lb/>R10.442. Prov. : Treuttel-Würte, Strassburg 16. VI. 1891; 8 M.
+          <lb/>Handschr. Eintragung am Schluss: Jerg Dinckell.
+          <lb/>1271
+          <lb/>JOSEPHUS Flavius
+          <lb/>Strassburg, Balth. Beck 1539
+          <lb/>Josephi des hoch- berümpten vnd fast nutzlich-en
+          <lb/>histori beschreibers.Zwentzig bücher von den alten ge¬
+          <lb/>schichten nach den alten Exemplaren fleissig corrigiert
+          <lb/>vnd gebessert.Siben bücher von dem Jüdischen krieg
+          <lb/>vnd der zerstörung Hierusalem, nach den Griechischen
+          <lb/>Exemplaren besichtigt vnd verstendiger gemacht.wey
+          <lb/>bücher wider Appionem Grammaticum durch zûsatz etlicher
+          <lb/>blet! ter ausz Griechischen büchern gemeert vnd gebessert.
+          <lb/>Von meisterschafft der vernunfft, oder von den Ma¬
+          <lb/>chabeern ein bûch! durch den Hochgelerten D. Erasmum
+          <lb/>von Roterodam im Latein wider besichtiget.
+          <lb/>Zûm Leser.Hie findestu über erzölten innhalt fast
+          <lb/>nützliche vorreden yeder bücher, dar  Scholien vnd
+          <lb/>erklerungen etlicher schweren Capitel, yetz newlich hinzû¬
+          <lb/>getruckt... (11 Z.)
+          <lb/>Straszburg. M. D. XXXIX. (Rücks, leer.)
+          <lb/>Am Schluss vor dem Register: Getruckt zû Straszburg bey
+          <lb/>Balthassar Beck.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

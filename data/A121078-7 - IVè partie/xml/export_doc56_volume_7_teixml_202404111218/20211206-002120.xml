@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:04.602932+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002120.tif
+IMAGE WIDTH: 2504
+IMAGE HEIGHT: 3978
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>CICERO (Rhetor) : Rhetor... — Strasbourg, Rihel 1548.
+          <lb/>Fribourg-en-Br. : D 5739 b (Communication de M. Rest).
+          <lb/>1384
+          <lb/>CICERO (Rhetorik) : Spiegel der waren Rhetoric... —
+          <lb/>Strasbourg, Jean Knobloch et Paul Götz 1517, in-fol.
+          <lb/>Schmidt VII, n° 136. [Ritter, Rép. n° 2018).
+          <lb/>1385
+          <lb/>CICERO (Rhetorik) : Rhetoricorum libri quatuor ad Heren¬
+          <lb/>nium... — (Strasbourg, Jean Knobloch, juin 1527), in-8°.
+          <lb/>Panzer, 6, 112, 752; Schmidt VII, n° 313 : B U Bâle. (Éd.
+          <lb/>Schürer 1515, 1518, Wendelin Rihel 1540, Rihel frères 1557,
+          <lb/>Josias Rihel 1564, 1568: Ritter, Rép. nos 492, 494, 504, 514,
+          <lb/>523, 5281.
+          <lb/>1386
+          <lb/>CICERO (Rhetorik) : In hoc volumine continentur. Rhetorico¬
+          <lb/>rum... — Strasbourg, Rihel mars 1574.
+          <lb/>B U Fribourg-en-Br. : D 5740 d. (Communication de M. Rest).
+          <lb/>1387
+          <lb/>CICERO (Somnium Scipionis) : M. T. Scipionis ex sexto libro
+          <lb/>de Repub. Scipionis Somnium, unà cum argumento
+          <lb/>Lud. Vivis &amp;amp; Scholiis brevibus. Pro Academia Argenti¬
+          <lb/>nensi excusa. — Argentorati, Samuel Emmel exprimebat.
+          <lb/>M. D. LXVII (1567), in-8°. (Marque typ. d’Emmell.
+          <lb/>Bibl. S. Guillaume Strasbourg.
+          <lb/>1388
+          <lb/>CICERO (Synonyma) : Synonyma ad Lucium Veturium. —
+          <lb/>Haguenau, Henri Gran 1518, in-40.
+          <lb/>Schmidt : Zur Geschichte der ältesten Bibliotheken, p. 140,
+          <lb/>note 3, dit qu’il s’agit d’un faux.
+          <lb/>1389
+          <lb/>CICERO (Ad Trebatium) : Ad C. Trebatium. De participatione
+          <lb/>oratoria dialogus. De optimo genere oratorum. —
+          <lb/>(Strasbourg, Jean Knobloch, juillet 1527), in-80.
+          <lb/>Schmidt VII, no° 314; Panzer 6, 112, 753; B U Fribourg-en¬
+          <lb/>Br. D 5754 (Communication de M. Rest).
+          <lb/>1390
+          <lb/>118
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

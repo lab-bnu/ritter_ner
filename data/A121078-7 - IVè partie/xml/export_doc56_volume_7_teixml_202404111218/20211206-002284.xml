@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:09.029451+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002284.tif
+IMAGE WIDTH: 2508
+IMAGE HEIGHT: 3980
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>KETTENBACH, Heinrich von : Schutzrede yedem Christen
+          <lb/>wol zu wissen. Wyder das falsch anklagen der Papisten
+          <lb/>und Münche... Item. Die Wittembergische Nachtgall. —
+          <lb/>(Strasbourg 1523), in-40.
+          <lb/>Flugschriften aus den ersten Jahren der Reformation vol. II,
+          <lb/>fasc. 1, p. 155 (Ausgabe 6); Weller 2683. Breslauer Martin
+          <lb/>(Berlin) Katal. III (1908), n° 307; 280 M. — Basel, Munich,
+          <lb/>Zurich.
+          <lb/>2234
+          <lb/>KETTENHEIM, Hans Philipp von : Kurtzer Auszug etlicher
+          <lb/>der Stadt Straszburg Freyheiten, so hinfürter Järlich
+          <lb/>auff den Zünfften neben andern Constitutionen und
+          <lb/>ordnungen, ausz erkandtnuss unserer Herren Rhät und
+          <lb/>Ein und Zwentzig den Burgern soll für gelesen werden,
+          <lb/>damit sie sich derselben desto besser zu gebrauchen
+          <lb/>wissen. M.D.LXXIX. — (Strasbourg] 1579, in-40.
+          <lb/>Ritter : B M Strasbourg, n° 1340.
+          <lb/>2235
+          <lb/>KIMHI (Qimh’i), Moïse : Rabi Mose Kimhi in introductorio
+          <lb/>Grammaticae. — (Haguenau, Th. Anshelm, janvier
+          <lb/>1519), in-8°.
+          <lb/>Burg, n° 244.
+          <lb/>2236
+          <lb/>KIRCHENAMT : Teütsch Kirchenampt, mit lobgesengen und
+          <lb/>götlichen psalmen wie es die gemein zu Straszburg singt
+          <lb/>und halt gantz Christlich. (Marque typ. de Köpfel et
+          <lb/>encadrement). — (Strasbourg, Wolfg. Köpfel s. d.],
+          <lb/>in-80.
+          <lb/>Hubert, n° 7 : Copenhague, B N Munich. Weller, n° 2935,
+          <lb/>Wackernagel, p. 62, Smend, p. 124.
+          <lb/>2237
+          <lb/>KIRCHENAMT : Teutsch Kirchen ampt mit lobgsengen uni
+          <lb/>götlichen psalmen wie es die gemein zu Straszburg singu
+          <lb/>und halt mit mer gantz Christlichen gebetten dan 1
+          <lb/>vor getruckt... — (Strasbourg) (Getruckt by Wol f
+          <lb/>Köpphel) s. d., in-8°. (Encadrement).
+          <lb/>Hubert, n° 8; Wackernagel, p. 73.
+          <lb/>2238
+          <lb/>282
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

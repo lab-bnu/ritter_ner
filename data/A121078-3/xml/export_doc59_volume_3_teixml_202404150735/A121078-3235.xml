@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:09.327823+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3235.tif
+IMAGE WIDTH: 2330
+IMAGE HEIGHT: 3852
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>darüber: Jahreszahl 1517. Auf der Seite: Monogramm Schotts.
+          <lb/>Holeschn.: ein Skelett darstellend; darunter: 24 deutsche Verse;
+          <lb/>denen, je nach den Jahreszeiten, der Aderlass vorzunchmen ist. Darunter:
+          <lb/>Bl. 14a u. 54b: Aderlassmann, mit Bezeichnung der Stellen an
+          <lb/>Contrafacter Lasszmann, 1517.
+          <lb/>Bl. 18b: Ein Mann bedeckt mit Wunden; in jeder Wunde be¬
+          <lb/>findet sich die Waffe oder das Instrument, wodurch die Wunde hervor¬
+          <lb/>gebracht wurde. Als Uberschrift vier deutsche Verse:
+          <lb/>Wiewol ich bin voll streich vnd stich,
+          <lb/>Zermorscht, verwundet iämerlich.
+          <lb/>Doch hoff ich gott, kunstlich artzney,
+          <lb/>Schylhans der werd mir helfen frey.
+          <lb/>Bl. 19a Eleiner Holeschn.: Ein Aret im Glorienschein, in ein
+          <lb/>offenes Buch schreibend, in Unterredung mit einem Engel.
+          <lb/>Bl. 65b: Der h. Antonius u. ein kleines buckeliges Männchen.
+          <lb/>(Blattgrosser Holeschn.)
+          <lb/>Bl. 77b: Ein Aussätziger, der von Arsten untersucht wird.
+          <lb/>Ausserdem: Chirurgische Operationen u. Instrumente.
+          <lb/>Auf der Rücks, des Titelbl.: Meister Hans Gerszdorff, ge¬
+          <lb/>nant Schylhans, burger vnd wund artzet zû Straszburg,
+          <lb/>allen denen so disz bûch mit danck leszen, entbeüt er
+          <lb/>sein willigen dienst vnd alles gûts....
+          <lb/>Geben zû Straszburg vff Sambstag von Bartholomei.
+          <lb/>Anno domini MCCCCCXVij.
+          <lb/>Bl. 83-86: Vocabularius Anatomie. (2sp.)
+          <lb/>Bl. 87-88: Vocabularius Infirmitatum. 2sp.)
+          <lb/>Bl. 89-95: Vocabularius Herbarum. (2sp.)
+          <lb/>Handbuch für Militärärste.
+          <lb/>6
+          <lb/>R 5/. Herkunft unbekannt.
+          <lb/>Schmidt II Nr. 40: Stadtbibl. Basel; Proctor II Sectio I Nr.
+          <lb/>10.285: London Brit. Museum. Nicht im GK; der Ergänzungskat, ver¬
+          <lb/>zeichnet eine Ausgabe: 1) Strassburg: Schott 1517 (in Erlangen UB);
+          <lb/>2) Strassburg 1517 in: Darmstadt LB, München SB, Wolfenbüttel LB;
+          <lb/>3) 1517 (ohne Nennung von Ort u. Drucker): in Heidelberg UB (def.);
+          <lb/>4) o. O. 1517 in Bamberg SB.
+          <lb/>Bibliographie Gerssdorffs: Schottenloher I Nr. 7098a-7028b. 999
+          <lb/>GERSDORFF Hans von
+          <lb/>Strassburg, J. Schott 1528
+          <lb/>Feldtbûch der Wundartzney newlich getruckt, vnd
+          <lb/>gebessert.
+          <lb/>Darunter grosser Holeschn.: oben Soldaten, welche eine Festung
+          <lb/>angreifen; unten ein Aret, welcher einen Verwundeten operiert, daneben
+          <lb/>ein Mann mit einem Becken. (Rücks.leer.)
+          <lb/>679
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

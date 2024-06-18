@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:13.248081+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002459.tif
+IMAGE WIDTH: 2502
+IMAGE HEIGHT: 3994
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>SCHENCKBECHER, Joh. Voir: CALAMINUS, G., n° 1256.
+          <lb/>SCHERTLIN, Leonhard : Künstlich trincken. Eyn Dialog von
+          <lb/>künstlichem und höflichem, Auch vihischem und
+          <lb/>unzüchtigem trincken. Item Was nutz und schaden auss
+          <lb/>beden teylen entspring und herkum. Auch mit was
+          <lb/>gaben Gott Bachus die seinen begabet und belont. Und
+          <lb/>wie er allerley geschlecht der menschen durch seine
+          <lb/>gaben betört und zu im bringt, wie hierinn durch vil
+          <lb/>Exempel der Biblischen und Heydnische historien wird
+          <lb/>anzeygt... — Strasbourg, (Jacques Cammerlander) 1538,
+          <lb/>in-80
+          <lb/>Schottenloher 43437 d: B N Berlin Yp 8171.
+          <lb/>3173
+          <lb/>SCHERTLIN, Leonhard : Die vol Bruderschafft Bachus.
+          <lb/>Wolher, Wolher du voller Bruder Hie wolln wir ligen
+          <lb/>stehts in luder. Silenus, Jo, Jo, Bache, wa ist dein fest.
+          <lb/>Hie kommen vil der guten gäst Die können wol mit
+          <lb/>massen sauffn Und falln darnach in treck zuhauffn.
+          <lb/>Drum schenck ihnen nur tapffer ein Sie trinken gern den
+          <lb/>besten Wein. Geben zu Münster. — Gedruckt zu
+          <lb/>Strassburg, bey M. Jac. Cammerlander 1543, in-40.
+          <lb/>Graesse VI, p. 300.
+          <lb/>3174
+          <lb/>SCHEURL, Christophorus : Libellus de sacerdotum ac rerum
+          <lb/>ecclesiasticarum prestantia. Sacerdotum defensorium. —
+          <lb/>Haguenau, H. Gran pour Conrad Hist, septembre 1514,
+          <lb/>in-40,
+          <lb/>Walter 2208; Burg, n° 408. (B N Strasbourg R 101.429:
+          <lb/>Ritter, Rép. n° 2082).
+          <lb/>3175
+          <lb/>SCHEURL, Christophorus. Voir : CUSPINIANUS, Joh., De
+          <lb/>Caesaribus, n° 1474.
+          <lb/>SCHICKFUSUS, Jacobus : Synopsis Philosophiae tam contem¬
+          <lb/>plativae quam practicae: in privatum memoriae subsi¬
+          <lb/>dium Thesibus ac velut aphorismis quibusdam compre¬
+          <lb/>457
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

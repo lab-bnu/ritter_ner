@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:08.829144+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002272.tif
+IMAGE WIDTH: 2522
+IMAGE HEIGHT: 3962
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>gene, Cicerone... congesta ac digesta. — Argentorati,
+          <lb/>Excudebat Antonius Bertramus, M.D.XC (1590), in-8°.
+          <lb/>Bibl. S. Guillaume, Strasbourg. (Édition Bertram 1594 voir
+          <lb/>Ritter, Rép. n° 1296).
+          <lb/>2171
+          <lb/>JUNIUS, Melchior : De optimo maximo fortunate Absolutis
+          <lb/>nobilioribus quaestionibus aliis, quae in libr. Politicis
+          <lb/>Aristotelis reperiuntur... ab Eloquentiae scriptae Studio¬
+          <lb/>sis, cras Hora VIII nona in acroasi recitabuntur...
+          <lb/>Quas... rogat Melchior Junius Witebergensis, Academiae
+          <lb/>Argentinensis Rector VI. Cal. Aug, M.D.XCIII. —
+          <lb/>Strasbourg, Antoine Bertram 1593, placard.
+          <lb/>Ritter : B M Strasbourg, n° 1322.
+          <lb/>2172
+          <lb/>JUNIUS, Melchior. Voir aussi: BADER, Matthaeus n° 901 :
+          <lb/>CICERO n° 1357; (RITTER, Rép. nos 1292-1298).
+          <lb/>JUNIUS, Melchior : Resolutio brevis Orationum M. T. Ciceronis
+          <lb/>secundum causarum genera. Orationum partes, mate¬
+          <lb/>rias... (8 lignes). (Marque typ. de Josias Rihel]...
+          <lb/>M. D.XCIV. — (Argentorati, Excudebat Josias Rihelius
+          <lb/>M. D.XCIV (1594), in-8°).
+          <lb/>Bibl. S. Guillaume Strasbourg.
+          <lb/>2173
+          <lb/>JUNIUS, Melchior : Methodus eloquentiae comparandae,
+          <lb/>Scholis rhetoricis tradita... (Marque typ. de Lazare
+          <lb/>Zetzner). — Argentinae per Lazarum Zetznerum
+          <lb/>CIDIOXC VIII (1598), in-8°. (Préface de Melchior Junius
+          <lb/>de 1585l.
+          <lb/>Bibl. Grand Sém. Strasbourg BD 206. (Ritter, Rép. n° 1292 :
+          <lb/>éd. Zetzner 1585).
+          <lb/>2174
+          <lb/>JUNIUS, Melchior: Orationum, quae Argentinensi Academia,
+          <lb/>exercitii causa scriptae ac recitatae, ab illustribus
+          <lb/>generosis, nobilibus &amp;amp; alijs : Ad tractandum vero pro¬
+          <lb/>positae fuerunt a Melchiore Junio... Pars VII. (Marque
+          <lb/>typ. de Laz. Zetzner). — Argentinae, impensis Lazari
+          <lb/>Zetzneri CID. I9.IIC (1598), in-8°, Pars VIII (16001.
+          <lb/>Bibl. Grand Sém. Strasbourg B B 353.
+          <lb/>2175
+          <lb/>270
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

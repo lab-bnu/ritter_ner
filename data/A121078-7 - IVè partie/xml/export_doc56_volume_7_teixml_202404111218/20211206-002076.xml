@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:03.601743+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002076.tif
+IMAGE WIDTH: 2492
+IMAGE HEIGHT: 3976
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>BRUNSCHWIG, Hier. (Medicinarius) : (Idem). — Strasbourg,
+          <lb/>Jean Grüninger 1509, in-fol.
+          <lb/>Schmidt, Hist. litt. II, p. 385, n° 213.
+          <lb/>1139
+          <lb/>BRUNSCHWIG, Hier. (Thesaurus) : Thesaurus pauperum
+          <lb/>sive Hausapothek guter gebräuchlicher Artzney. —
+          <lb/>Strasbourg 1512.
+          <lb/>Schmidt, Hist. litt. II, p. 396, n° 245; Haller, Bibl, medicinae
+          <lb/>practicae, Berne 1776, tome I, p. 476. Schmidt mentionne
+          <lb/>qu’il forme aussi le 5e livre du Distillirbuch de 1512 et de 1519.
+          <lb/>1140
+          <lb/>BRUNSCHWIG, Hier. (Wundarznei) : Das Buch der wundart¬
+          <lb/>zeney. Handwirckung der Cirurgia... — (Getrutkt (sic)
+          <lb/>durch Joannem Grüninger (19.III.] 1513, in-fol.
+          <lb/>Kristeller 96; Schmidt I, n° 129. — B N Paris Rés. Td’3 31 (2)
+          <lb/>et B N Berlin.
+          <lb/>1141
+          <lb/>BRUNSCHWIG, Hier. Voir aussi : RITTER, Rép. nos 309-312.
+          <lb/>BUCER, Martin (Abusus) : Abusum ecclesiasticorum et
+          <lb/>rationis, qua corrigi eos abusus oporteat indicatio. —
+          <lb/>Strasbourg, juin 1541, in-4°.
+          <lb/>Mentz, n° 48; Walter, nos 872/873; Ritter: B M Strasbourg
+          <lb/>649; BNParis D2 6288 (2); Stupperich, n° 68: B N Augsbourg,
+          <lb/>BU Bâle, Fribourg, Bibl. Centrale Zurich, etc. (BN Strasbourg;
+          <lb/>Ritter, Rép 376, a l’édition du mois d’août RI01.492l. 1142
+          <lb/>BUCER, Martin (Abusus) : (Idem). — Strasbourg, septembre
+          <lb/>1541, in-80.
+          <lb/>Ritter : B M Strasbourg n° 650. [Une éd. août 1541 : Ritter,
+          <lb/>Rép. n° 376l.
+          <lb/>1143
+          <lb/>BUCER, Martin (Apologia) : Apologia Martini Buceri qua fidei
+          <lb/>suae atque doctrinae, circa Christi Caenam, qua, tum
+          <lb/>ipse, tum alij Ecclesiastae Argentoratenses profitentur,
+          <lb/>rationem simpliciter reddit atque, citra dentem depellit,
+          <lb/>quae in ipsum Epistola quaedam Jo. Brentij Ecclesiastae
+          <lb/>74
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:04.935719+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3011.tif
+IMAGE WIDTH: 2362
+IMAGE HEIGHT: 3844
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>loblicher gedächtnussz Caroli des Ersten, vsz Arabisch
+          <lb/>in Latin, vnd yetzt jüngst in Teütsche sprach verdol¬
+          <lb/>metscht.
+          <lb/>III. Zûm Dritten. Aller Ixxxiiij. Tafelen sonderlich
+          <lb/>Regelbûch angehenckt, in gemeyn, vnd yeder dyenstlich.
+          <lb/>Vormals nye gesehen, dem Gemeynen nutz zû verstand
+          <lb/>newlich vszgangen vnnd verteütscht Durch D. Michael
+          <lb/>Hero Leibarzt z4̂ Straszburg.
+          <lb/>Mit Keysz. Maiest. Freyheit vff. v. jar.
+          <lb/>Getruckt durch Hans Schotten zûm Thyergarten.
+          <lb/>M. D. xxxiij. (Rückseite leer.)
+          <lb/>90, Got., 2 unn. Bll. CCLII S., 4 unn. Bll. (Index 4sp.),
+          <lb/>Kopftitel, Marginalien, Init., zahlreiche Zierleisten u. Wappen am
+          <lb/>oberen u. unteren Rande der Seiten. Die Seiten mit geraden Zahlen ent¬
+          <lb/>halten die Tafeln, diejenigen mit ungeraden Zahlen bringen die Erklä¬
+          <lb/>rung dazu.
+          <lb/>S. 170 grosser Holzschnitt: in der Mitte, von oben nach unten,
+          <lb/>Baumstamm; auf demselben sitet der personnifizierte Tod, welcher in
+          <lb/>der Hand eine Sanduhr hält; rings um den Baum, Trunkenbolde, Rauf¬
+          <lb/>lustige, Kranke usw. Uber dem Bilde, 8 deutsche Distichen, welche dem
+          <lb/>Leser ans Herz legen, die in dem Buche enthaltenen Gesundheitsregeln
+          <lb/>2u beobachten. Die Holeschnitte stammen von H. Weidite, ausser einem
+          <lb/>(der Tod auf dem Baumstamm), welcher von H. Wechtelin herrührt.
+          <lb/>Am Schluss: Widmung des M. Herr an den Leser.
+          <lb/>R 10.427. Prov.: Bibliothek der Strassburger Medizinischen Fa¬
+          <lb/>tultät. — Stadt-B Strassburg O 4512.
+          <lb/>GK: SB Berlin; Röttinger, Weidite Nr. 73 u. 85; Schmidt II,
+          <lb/>No 127 schreibt irrtümlich 652 statt 252 S. Strobel, Geschichte des El¬
+          <lb/>sass IV, S. 145 setzt: die Schlachtopfer der Gesundheit statt Schachtafeln.
+          <lb/>Katalog XX (Art Ancien, Zurich, 1937) bietet unter Nr. 65 ein Exem¬
+          <lb/>plar an für 250 Schwveizerfranken: First German edition omitted by
+          <lb/>Kristeller, Strassburger Bücher-Illustration, and Dodgson, who quote
+          <lb/>Weidnitz cuts only from the Latin editions. Baer, Frankfurt am M.,
+          <lb/>Katalog 500 (1907), Nr. 1398; 90 M. : Mit zahlreichen Holzschnitten
+          <lb/>u. Initialen, meist von Herrn Weiditz.... Erste Ausgabe der deutschen
+          <lb/>Ubersetzung des Tacuinus, noch reicher illustriert als das lateinische Ori¬
+          <lb/>679
+          <lb/>ginal...
+          <lb/>ELLOSOPOSCLEROS Hultrich. Pseud, von FISCHART Johannes
+          <lb/>ELLUCHASEM, Siche: ELIMITHAR Elluchasem
+          <lb/>ELNHART Peter, Siche: CONSTITUTION und Satzung, Strassburg
+          <lb/>1529, R 22011) u. VERORDNUNG (Verleumdung), Strassburg 1524,
+          <lb/>R 22(6°); (Kornverkauf), 1529, R 21(3).
+          <lb/>455
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

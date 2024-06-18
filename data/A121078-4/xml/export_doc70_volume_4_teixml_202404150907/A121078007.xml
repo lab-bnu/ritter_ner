@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:42.755009+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078007.tif
+IMAGE WIDTH: 2382
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>LAMBERTUS Franciseus
+          <lb/>[Strasbourg, J. Herwagenl 1524
+          <lb/>In Diui Lucae Euangeliumm (!) com-mentarii.
+          <lb/>Vuittembergae praelecti.
+          <lb/>A la fin: Anno M. D. XXIIII. Mense Maio.
+          <lb/>In-8°, car, rom. et ital., 4 ff. non ch., 293 ff. ch., tître courant,
+          <lb/>réclames, notes marg.; init. à fig., encadrement du titre comme les nos
+          <lb/>précédents.
+          <lb/>Au verso du titre : ... Reue. Georgio Spaladino... Fran¬
+          <lb/>ciseus Lambertus... — Witembergae. Mense Nouembri.
+          <lb/>M. D. XXIII.
+          <lb/>RI01.224. Prov.: Bibl. Ch. Schmidt, Strasbourg avec son ex-libris
+          <lb/>et des notes mss. : «Juin 1836 Paris (Kroh). Liber longe rarissimus.»
+          <lb/>Au-dessus du titre: Matthias Sartorius.
+          <lb/>1325
+          <lb/>LAMBERTUS Franciscus
+          <lb/>(Strasbourg, J. Herwagen 15241
+          <lb/>IN CAN TICA CANTICORVM] Salomonis, libellum quidem
+          <lb/>sensibus altiss. in quo sublimia sacri Con! iugii myste¬
+          <lb/>ria, quae in Chri sto &amp;amp; Ecclesia sunt, per! tractantur,
+          <lb/>Francisci Lamb. Auenio- nensis Commen! tarii. Wit¬
+          <lb/>tembergae praelecti. (Feuille de lierre. Verso blanc.)
+          <lb/>In-80, car, rom. et ital., 8 ff. non ch., 128 ff. ch., titre courant,
+          <lb/>notes marg., init. M; titre encadré.
+          <lb/>Fol. a 2a: CHRISTIA- NISSIMO... Principi... Francisco,
+          <lb/>Dei gra tia Francorum Regi, Franciscus Lambertus...
+          <lb/>(Dédicace de 14 pp.)
+          <lb/>R 101147 (1). Prov.: Bibl. Ch. Schmidt, Strasbourg avec son ex¬
+          <lb/>libris et des notes mss. de sa main: «Vente de la bibl. du prof. Beckham
+          <lb/>à Marbourg.» Le volume contient: 1) In Cantica Canticorum libellum.
+          <lb/>Paraît être imprimé à Strasbourg. (Strasbourg, chez Jean Herwag, 1524,
+          <lb/>in-80.) Réimprimé à Nuremberg, chez Jean Peterejus, 1525. 2) Comment.
+          <lb/>in Amos, Abdiam &amp;amp; Ionam. etc. Strasbourg, Jean Herwag, 1525.
+          <lb/>Oxford, Bibl. Bodleiana. Brunet I1I2 788.
+          <lb/>1326
+          <lb/>LAMBERTUS Franciseus
+          <lb/>Strasbourg, J. Herwagen 1525
+          <lb/>IN AMoS,  ABDIAM,! ET IONAM] Prophetas, Commen¬
+          <lb/>tarii Francisci Lamberti Auenionensis.) Allegoriae eius¬
+          <lb/>dem! in Ionam.
+          <lb/>Argentorati apud Iohan. Heruagium. ! Anno. M. D. XXV.
+          <lb/>A la fin: ARGENTORATI APVD IO HANNEM HERVAGIVM
+          <lb/>MENSE IVNIO AN. M. D. XXV. (Verso blanc.)
+          <lb/>891
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

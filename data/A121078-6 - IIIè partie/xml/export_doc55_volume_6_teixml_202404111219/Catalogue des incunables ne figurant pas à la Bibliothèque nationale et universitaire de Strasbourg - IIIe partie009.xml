@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:05.308837+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie009.tif
+IMAGE WIDTH: 2492
+IMAGE HEIGHT: 3936
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>ALEXANDER de Villa Dei : Doctrinale, Pars 1-4. Avec commen¬
+          <lb/>taire de Ludovicus Guaschis. — Strasbourg, Martin Flach
+          <lb/>1. XII. 1488, in-40.
+          <lb/>G W 1013 : Copinger 290; Proctor 677 ; Reichling: Doctri¬
+          <lb/>nale 46. Bibl Cantonale Aarau, Brit. Mus. Londres, B N
+          <lb/>Vienne.
+          <lb/>39
+          <lb/>ALEXANDER de Villa Dei : Doctrinale, Pars 2. Avec commen¬
+          <lb/>taire (Glossa notabilis) de Gerardus Zutphaniensis. —
+          <lb/>(Strasbourg, J. Prüss) 1490, in-4°.
+          <lb/>GW 1088. B U Fribourg en Br.
+          <lb/>40
+          <lb/>ALEXANDER de Villa Dei : Doctrinale, Pars II. Avec commen¬
+          <lb/>taire (Glossa notabilis) de Gerardus Zutphaniensis. —
+          <lb/>Strasbourg, Martin Flach 5. II. 1490, in-4°.
+          <lb/>G W 1089; Hain-Copinger 701 ; Reichling : Doctrinale 59. II;
+          <lb/>Schmidt VI, p. 5, n° 25. Brit. Mus. Londres, B N Munich,
+          <lb/>B U Erlangen etc.
+          <lb/>41
+          <lb/>ALEXANDER de Villa Dei : Doctrinale. Pars 3-4. Avec
+          <lb/>commentaire Valde utile. — Strasbourg, Martin Flach
+          <lb/>(28. II), 1490, in-4°.
+          <lb/>G W 1190; Hain-Copinger 734; Reichling : Doctrinale 59,
+          <lb/>III, IV. Schmidt VI, p. 5, n° 26. — B M Francfort s. M.,
+          <lb/>Carlsruhe, B N Munich, Melk (Stift).
+          <lb/>42
+          <lb/>ALEXANDER de Villa Dei : Doctrinale. Pars I. Avec commen¬
+          <lb/>taire (Glossa notabilis) de Gerardus Zutphaniensis. —
+          <lb/>Strasbourg, Martin Flach (19. VII), 1490, in-40.
+          <lb/>G W 1055; Hain 752; Copinger 310; Reichling : Doctrinale 60.
+          <lb/>B U Breslau, Erlangen, Cracovie,-B N Munich etc.
+          <lb/>43
+          <lb/>ALEXANDER de Villa Dei : Doctrinale, Pars 1. 2. —
+          <lb/>(Strasbourg, J. Prüss après 1500 ?), in-4°.
+          <lb/>G W 976; Hain 758 T. 1. 2. Nuremberg (Germ. Museum), 44
+          <lb/>ALEXANDER de Villa Dei : Doctrinale, Pars l. Avec commen¬
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

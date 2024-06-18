@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:05.125865+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002134.tif
+IMAGE WIDTH: 2516
+IMAGE HEIGHT: 3982
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>CRONBERG, Hartmuth von : Ein treüwe vermanung an alle
+          <lb/>Ständ unnd geschickten auff dem Reichsztag yetz und
+          <lb/>zu Nürenburg, von einem armen veriagten vom Adel,
+          <lb/>mit beger, solliche vermanung... zu hören..., von aller
+          <lb/>Edlen wegen die keinen standt im Reich haben. —
+          <lb/>(Strasbourg, Jean Schott), s. d., in-40.
+          <lb/>Panzer II, 1509; Kück : Cronberg (Neudrucke des XVI. u.
+          <lb/>XVII. Jhd., fasc. 154-157), p. XXXIX. Exempl. à Berlin,
+          <lb/>Dresden, Halle.
+          <lb/>1459
+          <lb/>CRONBERG, Hartmuth von : Ableynung des vermeinlichen
+          <lb/>unglimpffs so dem Andechtigen Hochgelerten und
+          <lb/>Christenlichen vatter Doctor Martin Luther Augustiner
+          <lb/>ordens &amp;amp;c von vielen zugelegt, in dem das er unsern
+          <lb/>vatter den Babst ein Vicarj des Teüfels und Antecrists
+          <lb/>&amp;amp;c genant hat. [grav.). — (Strasbourg, J. Prüss 1522),
+          <lb/>in-40.
+          <lb/>Bibl. S. Guillaume Strasbourg. Kück : Cronberg [Neudrucke
+          <lb/>des XVI. u. XVII. Jhd., fasc. 154-157), p. XXI : Basel, Dresden,
+          <lb/>Wolfenbüttel, Zurich.
+          <lb/>1460
+          <lb/>CRONBERG, Hartmuth von : Drey Christliche schrifft... Die
+          <lb/>erst an Bapst Leo des namens den zehenden. Die ander
+          <lb/>an die einwoner zu Cronenburg. Die dritte an die bettel
+          <lb/>orden. Die vierd an iacop Robeln (pour Köbeln). Witten¬
+          <lb/>berg. — (Strasbourg, Martin Flach M. D.xxij), in-80.
+          <lb/>Kück : Cronberg (Neudrucke des XVI u. XVII. Jhd., fasc. 154-
+          <lb/>1571 p. XXIII, n° 2 : « Frankfurt (G. Freytag), Wolfenbüttel
+          <lb/>et note 2 : Der « Nachdruck ist für die Strassburger, Drucker¬
+          <lb/>sprache von besonderem Interesse ». Schmidt VI p. 38, n° 76
+          <lb/>a une édition de 1525, avec référence à Weller 3368. 1461
+          <lb/>CRONBERG, Hartmuth von : Schrifften von Juncker Hartmudt
+          <lb/>von Cronberg auszgangen wider doctor Peter Meyer,
+          <lb/>Pfarrher zu Franckfurt sein verblendt verstockt und
+          <lb/>unchristlich leer betreffendt. Sampt zweyer gegenant¬
+          <lb/>worten des selben Pfarrher. — (Strasbourg, Jean Schott
+          <lb/>15221, in-4°.
+          <lb/>132
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

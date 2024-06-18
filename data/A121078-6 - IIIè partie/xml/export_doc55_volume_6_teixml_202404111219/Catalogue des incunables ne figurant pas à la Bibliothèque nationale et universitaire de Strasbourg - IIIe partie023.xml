@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:05.534462+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie023.tif
+IMAGE WIDTH: 2486
+IMAGE HEIGHT: 3932
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>par Peter von Kastel] —
+          <lb/>Strasbourg, Jean Schott (31. VIII.] 1500, in-4°.
+          <lb/>Hain Cop. 3359; G W 4575; Proctor 763; Schmidt II, n° 2;
+          <lb/>Brit. Mus. Cat. I, 167; Voulliéme : Berlin 2562. B N Berlin,
+          <lb/>Munich, Ritter: Rép. Inc. 98 ; Strasbourg K 805, Vienne. 122
+          <lb/>BOLLANUS, Dominicus : De conceptione Beatae Virginis
+          <lb/>Mariae. — Strasbourg, Ad. Rusch pas après 1475),
+          <lb/>in-fol.
+          <lb/>A la suite de : Caracciolus, Rob., Sermones, n° 175. 122a
+          <lb/>BONAVENTURA (S.) : Commentarius in primum librum Senten¬
+          <lb/>tiarum Petri Lombardi. — (Strasbourg, impr. de
+          <lb/>Henricus Ariminensis vers 1474/77), in-fol.
+          <lb/>G W 4656; Ritter, Strasbourg B M n° 69; Hain 3536,
+          <lb/>Pellechet-Polain 2710, Voullième : Berlin 2162, Brit. Mus.
+          <lb/>Cat. I, 80. B N Berlin, Paris, B M Sélestat etc.
+          <lb/>123
+          <lb/>BONAVENTURA (Pseudo-]: Meditationes vitae Christi. —
+          <lb/>Strasbourg, Martin Flach 1478, in-4°.
+          <lb/>Hain-Copinger 3558, GW IV, col. 443/4 ; « Fälschung ». 124
+          <lb/>BONAVENTURA (Pseudo-] : Meditationes vitae Christi. —
+          <lb/>(Strasbourg, Jean Grüninger vers 1496), in-4°.
+          <lb/>G W 4754; Ritter, Grand Sém. n° 92; Hain-Copinger 3550;
+          <lb/>Pellechet-Polain 2699; Proctor 505; Brit. Mus. Cat. I, 116;
+          <lb/>Voulliéme : Berlin 2317. B N Berlin, Munich, Vienne, B M
+          <lb/>Colmar etc.
+          <lb/>125
+          <lb/>BONCOMPAGNUS : Rota Veneris. — [Strasbourg, civis C. W
+          <lb/>vers 1473/74), in-fol.
+          <lb/>G W 4836; Hain 3577; Voulliéme : Berlin 1786. — BN Berlin,
+          <lb/>Bibl. Rég. Dresde, B U Göttingen, B N Munich etc.
+          <lb/>126
+          <lb/>BOSMAN : Wie Arent Bosman ein Geist erschien. —
+          <lb/>Strasbourg, [Mathias Hupfuff) 1500, in-4°.
+          <lb/>G W4948: Copinger 4067; Voulliéme : Berlin 2539. B N Berlin,
+          <lb/>Hambourg, B M Colmar.
+          <lb/>127
+          <lb/>21
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

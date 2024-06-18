@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:11.513217+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002383.tif
+IMAGE WIDTH: 2484
+IMAGE HEIGHT: 4006
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>der Lehr, Glaubens und Lebens Jesu und der Jesuiter,
+          <lb/>d. i. Christi und Antichristi. — Strasbourg, 1581, in-4°.
+          <lb/>Goedeke II, p. 507, n° 20.
+          <lb/>2770
+          <lb/>NIGRINUS, Georgius : Teutschen Reichs Hochachtung und
+          <lb/>Ehrenrettung wider etliche italienische Scribenten. —
+          <lb/>Strasbourg, 1587, in-fol.
+          <lb/>Goedeke II2, p. 507, n° 27.
+          <lb/>2771
+          <lb/>NIGRINUS, G. Voir: GENTILLET, n° 1872.
+          <lb/>NILUS (Episcopus) : Sententiae morales e graeco in latinum
+          <lb/>versae. Bilibaldo Pircheimero interprete. — (Strasbourg,
+          <lb/>Mathias Schürer, septembre 1516), in-4°.
+          <lb/>Schmidt VIII, n° 204; B M Mayence; Walter, n° 1929;
+          <lb/>Weislinger 151.
+          <lb/>2772
+          <lb/>NILUS (Episcopus) : Sententiae Nili Episcopi et Martyris
+          <lb/>Carmine expressae. Per Michaelum Toxiten 1542. —
+          <lb/>Strasbourg, Crato Mylius 1543, in-8°.
+          <lb/>Walter, n° 1930; Catalogue Ch. Eggimann Paris (La Licorne).
+          <lb/>Bulletin, n° 10 (1937), n° 1842.
+          <lb/>2773
+          <lb/>NOLHARD (Bruder). Voir: GENGENBACH, nos 1866/7.
+          <lb/>NOTARIAT : Notariat und Schreiber Kunst. Wes sich ein
+          <lb/>Notarius oder Schreiber in seinem Ampt mit allen
+          <lb/>Cautelen, Gebräuchen und Regeln, Ihm nach ausz¬
+          <lb/>weisung bey der Rechten zuwissen nötig, zu halten
+          <lb/>hab, in XXIIII Capitel verschlossen. — Strasbourg,
+          <lb/>Christian Egenolph 1529, in-4°.
+          <lb/>Schottenloher 51.999; Benzing : Egenolff, n° 38 : London,
+          <lb/>Brit. Museum.
+          <lb/>2774
+          <lb/>NUBER, Vitus : Ein Christliche predig über d’Leycht des...
+          <lb/>Herren Georgen Gravens zuo Wirtenberg und Mumpel¬
+          <lb/>381
+          <lb/>18
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

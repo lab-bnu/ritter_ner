@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:05.417770+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie016.tif
+IMAGE WIDTH: 2486
+IMAGE HEIGHT: 3894
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>ANTONINUS, Florentinus : Confessionale : Defecerunt (lat.)
+          <lb/>Avec : Joh. Chrysostomus, Sermo de poenitentia. —
+          <lb/>(Strasbourg, Henri Knoblochtzer vers 1484), in-40.
+          <lb/>G W 2098; Hain-Copinger 1166; Proctor 390; Brit. Mus.
+          <lb/>Catal. I, 90; Voulliéme : Berlin 2219. B N Berlin, Munich,
+          <lb/>Vienne etc.
+          <lb/>82
+          <lb/>ANTONINUS, Florentinus : Tabula de la Summa theologica
+          <lb/>par J. Molitoris. — (Strasbourg, J. Grüninger vers
+          <lb/>1490), in-fol.
+          <lb/>G W 2201; Hain 1260. B U Fribourg en Br., B M Colmar,
+          <lb/>BN Munich etc.
+          <lb/>83
+          <lb/>ANTONINUS Florentinus. Voir aussi : MOLITORIS, Joh. n° 505.
+          <lb/>ANTONINUS de Bitonto: Sermones dominicales per totum
+          <lb/>annum, éd. Philippus de Rotinga. — Strasbourg,
+          <lb/>J. Grüninger (25. VII). 1496, in-8°.
+          <lb/>G W 2213, Hain 3220. B N Munich, Vienne, Stockholm etc.
+          <lb/>84
+          <lb/>ANTONINUS de Bitonto : Sermones dominicales per totum
+          <lb/>annum, [éd. Philippus de Rotinga). — Strasbourg, Jean
+          <lb/>Grüninger VIII. Kal. Febr. (25. L.] 1496, in-8°,
+          <lb/>G W 2212, Hain 3219, Proctor 467, Schmidt I, n° 23, Ritter
+          <lb/>B M Strasbourg no 25; Voulliéme : Berlin 2291.
+          <lb/>85
+          <lb/>APULEIUS, Lucius : Ein hübsche history von lucius apuleius
+          <lb/>in gestalt eines esels verwandelt und verkerd wardt und
+          <lb/>langer wan ein gantzes ior dar in pleybe. — (Strasbourg,
+          <lb/>uff grüneck (Barth. Kistler) 1499), in-4°.
+          <lb/>Hain 1320, Kristeller 108, Schmidt IV, p. 5, n° 6. — Dresde.
+          <lb/>86
+          <lb/>ARISTOTELES: Ethica, Politica, Oeconomia... (trad. Leonardus
+          <lb/>Brunus Aretinus). — (Strasbourg Mentelin avant le
+          <lb/>10 avril 1469), in-fol.
+          <lb/>14
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

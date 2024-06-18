@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:52.703753+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5098.tif
+IMAGE WIDTH: 2350
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1406
+          <lb/>LiptitzenPfarherrn zum Jungen S. Peter auff obgedachtes
+          <lb/>Jünglings!! Begrebnusz den XI. Martij gehalten.
+          <lb/>Marque typ. de N. Wyriot. (H. &amp;amp; B. Planche XLIII, No 3.)
+          <lb/>Argentorati! Typis Nicolai Vvyrioti, Anno!! M. D. LXXVII
+          <lb/>(Verso blanc.)
+          <lb/>A la fin : Armoiries de la famille Botzheim, au-dessus:
+          <lb/>Botzhemae Gentis Si- gnum Virtutis Avitae.
+          <lb/>6
+          <lb/>BOTZHEMA GENTIS SLR
+          <lb/>GNVMVIRTVTIS AVITA.
+          <lb/>2
+          <lb/>In-4°, car. ital. et goth., 28 ff. non ch., sign. A-G, réclames, init. à fig.
+          <lb/>S, H, V
+          <lb/>fol. A 2a : .. Bern- hardo Botzhemio Iureconsulto &amp;amp; !! Aduocato
+          <lb/>Reipublicae Argentoratensis !! Ioan. Sturmius... — Argentorati tertio
+          <lb/>Calend. Aprilis. Anno 1577. (Épître de 3 ff.)
+          <lb/>fol. B Ib : Oratio Funebris!! Dicta Io. Christo-[! phoro Botzheimio à
+          <lb/>Studios. Academiae! Argentorat. (7 ff.)
+          <lb/>fol. D Ia : Leichpredigt!! Herren Johann Liptitzen... den xj. tag
+          <lb/>Martij ge-[] halten, Anno 1577. (7 ff.)
+          <lb/>fol. E 4a : SequunturEpicedia. (9 poésies.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

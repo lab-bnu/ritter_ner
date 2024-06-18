@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:09.845199+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3258.tif
+IMAGE WIDTH: 2338
+IMAGE HEIGHT: 3854
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>700
+          <lb/>mum in lucem editum.Authore Guilielmo Gratarolo Ber¬
+          <lb/>gomate, Medico &amp;amp; Philosopho. Huic addita quaedam opus¬
+          <lb/>cula eiusdem Au thoris, quorum catalogum uersa pagella
+          <lb/>indicabit. Cum indice rerum in hisce opusculis conten¬
+          <lb/>tarum! locupletissimo.
+          <lb/>Ad Lectorem, (2 Dist.)
+          <lb/>CVM PRIVILEGIO CAESAREO) ad Annos octo.
+          <lb/>Am Schlues: ARGENTORATIExcudebat Theodosius
+          <lb/>Rihelius.Anno M. D. LXV. (Auf der Rücks. Druckerm. Rihels.
+          <lb/>H Æ B Tafel XXXI Nr. 8; Silvestre Nr. 821.)
+          <lb/>80, Antiq., 4 unn. Bll,, 912 S., 12 unn. Bll. (Index), Kopft., Kust.,
+          <lb/>Init.
+          <lb/>BI. 2a: ... Dominis Sebastiano Doppelstein, Caspari
+          <lb/>Kruogio, clarissimae reipub. Basiliensis Consulibus: &amp;amp;
+          <lb/>Bonauenturae Fontano ac Io. Iacobo Rudino, Tribunis...
+          <lb/>Guilielmus Gratarolus... — Ba sileae Cal. Mart. 1565.
+          <lb/>(Vorrede, 4 S.)
+          <lb/>S. 401, neuer Titel: GVILIELMI GRATAROLI BER- gomatis,
+          <lb/>Medici &amp;amp; Philoso- phi, opusculum...
+          <lb/>S. 402:... Professoribus, in illustri Academia Basiliensi...
+          <lb/>Guilielmus Gratarolus... — Ba sileae Idibus Nouembris,
+          <lb/>M. D. LXIIII.... (Vorrede, 2 S.)
+          <lb/>R101.803. Prov.: Geschenk von Fidelis Butsch Sohn, Augsburg
+          <lb/>1871. Auf dem inneren Einbanddeckel Exlibris, darunter: Ex Electorali
+          <lb/>Bibliotheca Serenissimorum Vtriusque Bauariae Ducum.
+          <lb/>GK (Drucker nicht angegeben): SB Berlin, UB Bonn, Breslau,
+          <lb/>Göttingen. BN Paris, S. 14751; Stadtbibl. Strassburg 1425.
+          <lb/>Brunet II5, 1712: «4 à 5 fr. Vend, 8 fr. L’Héritier.»
+          <lb/>1031
+          <lb/>GRATAROLUS Guilhelmus. Siche: GRATAROLO Guglielmo
+          <lb/>GRAETER Jacobus
+          <lb/>Strassburg, J. Martin 1599
+          <lb/>Jubeljahrs-Predig.Auff das Jar nach vn- sers Herrn
+          <lb/>vnd Seligmachers Jhesu! Christi Geburt! Tausent Sechs¬
+          <lb/>hundert.Welches ein rechts, Christlichs, Evan-gelisch,
+          <lb/>Hundertjährlichs Jubeljahr: Mit wasBeschaffenheit es
+          <lb/>Fruchtbarlich, Gottseliglich vnnd Gottgfälliglich zubedencken
+          <lb/>vnd zuhalten: Gestellt durch! M. Jacobum Grätern.
+          <lb/>2. Pet. 2 v. 8. Ein Tag vor dem HERRN ist wie tausend
+          <lb/>Jahr Vnd tausend Jahr wie ein Tag. (Vign.)
+          <lb/>Gedruckt zu Strassburg, bei Jost Martinm Korn¬
+          <lb/>markt, Anno 1599.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

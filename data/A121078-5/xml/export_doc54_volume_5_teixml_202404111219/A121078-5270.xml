@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:58.853511+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5270.tif
+IMAGE WIDTH: 2422
+IMAGE HEIGHT: 3858
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1580
+          <lb/>In-8°, car. ital., 8 ff. non ch., dont le dernier blanc, sign. A, titre courant,
+          <lb/>réclames, belle initiale à fig. G.
+          <lb/>R. 100.450. Prov. : Don de S. Hirzel, éditeur à Leipzig, 1871. Au titre
+          <lb/>autographe de Zwingli: Sadiano suo.
+          <lb/>Bibliographie de Zwingli: Schottenloher II, Nos 23046-23475.
+          <lb/>2532
+          <lb/>ZYRL Christian
+          <lb/>Strasbourg, Th. Berger, 1572
+          <lb/>Rebecca. Ein schöne Hochzeit Co-media, Von der
+          <lb/>vermählung des lie- ben Isaacs vnnd Rebeccae, aus dem
+          <lb/>vier vnd zwentzigsten Capitel, des Ersten buchs! Mosi,
+          <lb/>Sehr lustig vnd lieblich zu! lesen vnnd zu hören.
+          <lb/>Zu Weissenburg am Rhein, newgmacht, vnd gespielt
+          <lb/>worden.
+          <lb/>Ich bin ein Spiegel der gesellen,
+          <lb/>Die zu dem Ehstandt greiffen wöllen.
+          <lb/>Deszgleichen dieselben Jungkfrawen,
+          <lb/>Sollen sich auch hierinn beschawen.
+          <lb/>Getruckt zu Straszburg bey Thie- bolt Berger zum Trübel
+          <lb/>am!) Weinmarck, 1573. (Verso blanc.)
+          <lb/>A la fin : Getruckt zu Straszburg! bey Thiebolt Berger,
+          <lb/>zum Treü-bel am Weinmarck. (Verso blanc.)
+          <lb/>In-8°, car. goth., 40 ff. non ch., dernier f. blanc, réclames, titre rouge
+          <lb/>et noir.
+          <lb/>fol. A 2a-A 3a : Dem Ehrnuesten Für- 1 sichtigen Ersamen vnd weisen
+          <lb/>Vel- 11 ten Helffanten, des Heiligen Römischen!! Reichs Stattvogt, zu
+          <lb/>Weissenburg am Rheim, sei- nem Günstigen Junckern, Entbeut
+          <lb/>Christianus !! Zierle Teutscher Schulmeister daselbst I! sein gutwillige
+          <lb/>vnd gehorsame! dienst zuuor... Ge-!l ben zu Weissenburg am Rhein!!
+          <lb/>den zwelfften Junij, im !! jar, 1571 (Bande d’ornement).
+          <lb/>Au verso de fol. A 3 : Die Personen dises Spiels.
+          <lb/>fol. A 4a-A 5a : Prologus. Au-dessous : le hérault, la gravure est répétée
+          <lb/>fol. E 5b, au-dessus : Beschlusz.
+          <lb/>R. 100.409. Prov. : A. Cohn, Berlin, 4/V, 1885; 90 M. Au bas du titre:
+          <lb/>« I. W. 1798 ».
+          <lb/>Bibliographie de Zyrl : Schottenloher II, Nos 23478-23478a.
+          <lb/>2533
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:55.443896+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078424.tif
+IMAGE WIDTH: 2386
+IMAGE HEIGHT: 3838
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1310
+          <lb/>RYFF Walter Hermann
+          <lb/>Strasbourg, J. Rihel hér., 1599
+          <lb/>Kurtzes Handt-büchlein, und Experiment,veler
+          <lb/>Artzneyen... (comme dans l’édition précédente).
+          <lb/>Straszburg, in Josiae Rihelen Sel. Truckerey, Anno 1599.
+          <lb/>(Verso blanc.)
+          <lb/>In-8°, car. goth., 2 ff. non ch., CCXII ff. ch., 16 ff. non ch. (tables à
+          <lb/>2 col.), titre courant, réclames, init. ornées, vign.; titre rouge et noir;
+          <lb/>de nombreuses gravures de plantes dans le 2e livre.
+          <lb/>fol. A 2a non ch. : Vorrede.
+          <lb/>R. 102.077. Prov. : Don de J. Graser, Feuchtwangen, 1871. 2046
+          <lb/>RYFF Walter Herm. Voir aussi : Problemata Aristotelis
+          <lb/>sdona
+          <lb/>Susstaam)2
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

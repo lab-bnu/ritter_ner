@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:38.684012+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2414.tif
+IMAGE WIDTH: 2382
+IMAGE HEIGHT: 3822
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>410
+          <lb/>DASYPODIUS Conradus, Voir: HERLINUS Christianus, Analysis
+          <lb/>Geometriae. Strasbourg, J. Rihel, 1566.
+          <lb/>DASYPODIUS Conradus. Voir: EUCLIDES, Euclidis elementorum
+          <lb/>liber primus. Strasbourg, Chr. Mylius, 1570.
+          <lb/>Strasbourg, J. Rihel, 1570.
+          <lb/>DASYPODIUS Conradus
+          <lb/>VOLVMEN II.) MATHEMA- TICVM, COMPLE- CTENS PRAE¬
+          <lb/>CEPTA.  Mathematica, Astronomica, Logistica, VNA CVM
+          <lb/>TYPIS ET TABVLIS, ad explicationem eorundem necessa¬
+          <lb/>rijs.Per Conradum Dasypodium, in vtilita- tem Acade¬
+          <lb/>miae Argentinen-sis, collectum. Cum Gratia &amp;amp; Priuile¬
+          <lb/>gio Caesareo ad annos octo.
+          <lb/>EXCVDEBAT IOSIAS Ri- helius. M. D. LXX. (Verso blanc).
+          <lb/>In-8°, car, grecs et rom., 12 ff. non ch., 432 p. ch., — 30 ff. non
+          <lb/>ch., de nombreuses illustrations de constellations se rapportant au texte,
+          <lb/>une grande feuille pliée: Canon generalis Qvarvndam stella¬
+          <lb/>rum fixarvm; titre courant, réclames, notes marginales, initiales or¬
+          <lb/>nées.
+          <lb/>R101100. Prov.: Bibliothèque du Gymnase de Heilbronn, 2/IV.
+          <lb/>1878, contre échange.
+          <lb/>BM Strasbourg. GPB: BN Berlin, BU Breslau, Kiel. 610
+          <lb/>Strasbourg, N. Wyriot, 1578.
+          <lb/>DASYPODIUS Conradus
+          <lb/>Warhafftige Auszlegung des Astronomischen Uhr¬
+          <lb/>wercks zu Straszburg, beschriben Durch M. Cunradum
+          <lb/>Dasypodium, der solches Astronomische Uhrwerck anfeng¬
+          <lb/>lichs erfunden, vnd angeben.
+          <lb/>Gravure sur bois: L’horloge de la cathédrale de Strasbourg.
+          <lb/>Gedruckt zu Straszburg bey Nyclausz Wyriot. M.D.
+          <lb/>LXXVIII. (Verso blanc.)
+          <lb/>In-4°, car. goth., 27 ff. non ch., sign. A-G, titre courant, récla¬
+          <lb/>mes, initiales ornées E, D, G, N, A.
+          <lb/>fol. A 2a: Den Edlen... Herren Doctor Johann Cunrad
+          <lb/>Meyer Burgenmeyster, Juncker Johann im Thurn, M. Cun¬
+          <lb/>rad Vlmer, Henrich Ramsaw, Doctor Cosma Holtzacher,
+          <lb/>vnd Doctor Benedict Burgawer,Herren Scholarchis der
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

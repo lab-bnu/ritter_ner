@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:10.513985+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002347.tif
+IMAGE WIDTH: 2498
+IMAGE HEIGHT: 3978
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>PSALMEN, nos 3014-5, 3018; PSALTER, nOS 3032-3;
+          <lb/>STIFEL, n° 3276; TESTAMENT (das alte), nos 3327-8;
+          <lb/>TESTAMENT (das neue), nos 3338-9; THOMAN, n° 3342;
+          <lb/>SPALATIN, n° 3246; WIGAND, n° 3520.
+          <lb/>LUTHER, Martin :.. Mancherley büchlin und tractetlin...
+          <lb/>Item Apologia... — [Strasbourg, Schürer hér.] Oct.
+          <lb/>1520, in-40.
+          <lb/>Benzing : Schürer n° 3. Proctor 10261
+          <lb/>2577a
+          <lb/>MACARIUS, Mutius : De triumpho Christi. Matthaei Bossi
+          <lb/>Veronensis Canonici regularis De passione Jesu Christi
+          <lb/>Sermo. Ex secunda recognitione. — Strasbourg, Mathias
+          <lb/>Schürer 1514, in-40.
+          <lb/>Ritter : B M Strasbourg, n° 1531. [Une éd. Schürer 1509;
+          <lb/>Ritter, Rép. n° 1458l.
+          <lb/>2578
+          <lb/>MACHA-ALLAH. Voir : MESSAHALA.
+          <lb/>MACHANEUS, Dominicus. Voir: AURELIUS, Victor, nos 875/6.
+          <lb/>MACROPEDIUS, Georgius : Hecastus Macropodii. Fabula non
+          <lb/>minus pia quam iucunda... — Strasbourg, Antoine
+          <lb/>Bertram 1586, in-8°,
+          <lb/>Goedeke II2, p. 136, n° 13 (f); Skopnik, p. 39.
+          <lb/>2579
+          <lb/>MACROPEDIUS, Georgius : Hecastus verteutscht durch Johann
+          <lb/>Schreckenbergerum von Herszbrück. — Strasbourg,
+          <lb/>Antoine Bertram 1589, in-80.
+          <lb/>Bahlmann, Deutsche Ubersetzungen, p. 58, e ; Goedeke II2,
+          <lb/>p. 378, n° 252, m. Vogeleis, p. 358.
+          <lb/>2580
+          <lb/>MAECARDUS, Joh.: Homiliae duae quibus purgat forij Papistici
+          <lb/>figmentum ex sacrarum literarum &amp;amp; S. Patrum Testi¬
+          <lb/>monijs confutatur... — (Strasbourg, Christian Mylius
+          <lb/>1569), in-80.
+          <lb/>Bibl. St. Guillaume, Strasbourg. [Une éd. Christian Mylius
+          <lb/>1565 : Ritter, Rép. n° 1457l.
+          <lb/>2581
+          <lb/>345
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

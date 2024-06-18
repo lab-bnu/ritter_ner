@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:32.397114+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2197.tif
+IMAGE WIDTH: 2278
+IMAGE HEIGHT: 3824
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>193
+          <lb/>Praescriptis Operi Tabulis Nominum Anatomiae, &amp;amp; aegri¬
+          <lb/>tudinum totius corporis humani. Saladini item iudicio
+          <lb/>de Ponderibus Medicinalibus.
+          <lb/>ARGENTORATI apud Ioannem Schottum, cum gratia
+          <lb/>&amp;amp; Priuilegio CaEs. Maiest.) ad Quinquennium. M.D.XXXIIII.
+          <lb/>(Verso blanc.)
+          <lb/>A la fin: ARGENTORATI apud Ioan. Schottum. 14.
+          <lb/>April. Anno Christiano, 1534. (Verso blanc).
+          <lb/>In-fol., car. rom., 2 col., 6 ff. non ch.- 180 ff. non ch., sign. a-2,
+          <lb/>aa-gg, titre courant, au verso du 6e f. gravure sur bois : S. Cosmas et S.
+          <lb/>Damien, patrons des médecins, le 1er tient un flacon d’urine, l’autre un
+          <lb/>pot d’onguet et une spatule.
+          <lb/>fol. 2a: LECTORI AEQVO OTHO BRVN-felsius Medici¬
+          <lb/>nae professor... — Bernae. 11. Februarij. Anno. M.D.XXXIIII.
+          <lb/>Suit un Index de 7 pages.
+          <lb/>R10.235.(1) Prop.: Bibl, de l’Ancienne Faculté de Médecine de
+          <lb/>Strasbourg. A l’intérieur du Ier plat, ex-libris, un cigne assis sur une
+          <lb/>couronne, au-dessous, armoiries, devise: AVITO CANDORE, A l’intérieur
+          <lb/>du dernier plat, ex-libris de Jacob Reinbold Spielmann, gravé par
+          <lb/>J. Striedbeck, Strasbourg. Rel. anc.
+          <lb/>Roth 39: Bibl. Stolberg Wernigerode, Hofbibl. Darmstadt, RU.
+          <lb/>Leipeig, Bibl. Senckenberg Francfort s. M., BN Vienne, BU Gœttinque.
+          <lb/>Oxford, Bibl. Bodleiana; Schmidt II, N° 130: BN Paris (T27, 1(1).)
+          <lb/>GPB: Berlin, Breslau BU, Bonn BU, Gœttingue BU, Kœnigs¬
+          <lb/>berg BU, Marbourg BU.
+          <lb/>297
+          <lb/>BRUNFELS Otto
+          <lb/>Strasbourg, J. Cammerlander, 1534.
+          <lb/>Weiber vnd Kinder Apotheck.
+          <lb/>Das erst Buch. Von vielen kranckheyten der wei¬
+          <lb/>ber, die zûuerkummen, oder zû kurirn, vom haupt an,
+          <lb/>durch den gantzen leip, bisz zûn füssen &amp;amp;c.
+          <lb/>Das ander Buch.Von rath vnd sorg, so mann bei
+          <lb/>seug- lingen vnd gar jungen kindlein bisz sie erwacksen,
+          <lb/>haben sol, Mit vnderweisung die vielfaltigen zûfäll, so den
+          <lb/>selbigen offt begegnen, züuersorgen vnd rath zûthun.
+          <lb/>Jetzunt von newem ausz der Apoteck Otthonis Brun
+          <lb/>felsij verteutscht. Allen kindtbaren frawen, Hebammen,
+          <lb/>vnd seugammen vast dienstlich.
+          <lb/>fiole, à droite, une sage femme, au milieu, 2 enfants nus tenant chacun
+          <lb/>un moulin à vent.
+          <lb/>R.13
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

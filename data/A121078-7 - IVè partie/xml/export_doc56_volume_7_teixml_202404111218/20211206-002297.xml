@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:09.351088+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002297.tif
+IMAGE WIDTH: 2518
+IMAGE HEIGHT: 3994
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Liebesbotin. — [Strasbourg, Thiébaud Berger vers
+          <lb/>1570), in-fol.
+          <lb/>Vogeleis, p. 314.
+          <lb/>2301
+          <lb/>LIED : vom Riesen Sigenot. — [Strasbourg vers 1577).
+          <lb/>Vogeleis, p. 339.
+          <lb/>2302
+          <lb/>LIED (ein altes) : Ein altes Lied von dem Kampff und streyt
+          <lb/>so entstanden zwischen dem Roraffen welcher unter
+          <lb/>der Orglen im Münster zu Strassburg ist und dem
+          <lb/>Hanen, so auff der Alten Uhren war, vor 200 Jharen
+          <lb/>gedicht! — Strasbourg, Nicolas Wyriot 1580, in-4°.
+          <lb/>Vogeleis, p. 344.
+          <lb/>2303
+          <lb/>LIED (ein geistliches) : Ein geystlich lied von den Siben
+          <lb/>worten unsers lieben herren... — (Strasbourg, Mathias
+          <lb/>Hupfuff 1515), in-8°.
+          <lb/>Schmidt V, n° 125; Wackernagel 28, Weller, Rep. 908. —
+          <lb/>Erlangen. Vogeleis, p. 184.
+          <lb/>2304
+          <lb/>LIED (ein geistliches) : (Idem). — Strasbourg, Martin Flach
+          <lb/>1517, in-80.
+          <lb/>Baer, Francfort-s.-M., Catal, 500 (1907), n° 1196. 2305
+          <lb/>LIED (ein hübsches) : Ein hüpsch Lied von dem Orden der
+          <lb/>Landesknechte, wie sie den halten sollen... (grav.). Ein
+          <lb/>ander Lied Venite lieben gesellen one sorgen. —
+          <lb/>(Strasbourg, Th. Berger s. d.), in-8°.
+          <lb/>Heitz, p. 64.
+          <lb/>2306
+          <lb/>LIED (ein hübsches) : Ein hüpsch lied von eynem wirt und
+          <lb/>eynem gesellen... — (Strasbourg, Mathias Hupfuff
+          <lb/>vers 1505), in-8°.
+          <lb/>Schmidt V, n° 44; Centralblatt für Bibliothekswesen XI
+          <lb/>(1893), p. 334.
+          <lb/>2307
+          <lb/>295
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

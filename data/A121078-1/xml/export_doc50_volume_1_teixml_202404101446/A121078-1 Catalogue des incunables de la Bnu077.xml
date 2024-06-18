@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:37.459192+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu077.tif
+IMAGE WIDTH: 2386
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>HENRICUS ARIMINENSIS: De quatuor virtutibus cardinali¬
+          <lb/>bus. Strasbourg, (imprimeur du H. Ariminensis, avant
+          <lb/>1472), in-fol.
+          <lb/>Hain 1649, Pellechet: Colmar 162, Proctor 310, Voulliéme:
+          <lb/>Berlin 2167; Walter: Sélestat 238 donne comme imprimeur
+          <lb/>du Ariminensis Georg Reyser avec point d’interrogation.
+          <lb/>K 1896. Prov.: Don de la Bibl. de Goettingue, 1872. A l&amp;#x27;inté¬
+          <lb/>rieur du 1er plat, exlibris: «Ex Bibliotheca Montis S.
+          <lb/>Andechs.» Rel. anc.
+          <lb/>217
+          <lb/>HENRICUS DE HASSIA: Tractatulus de arte predicandi. (Stras¬
+          <lb/>bourg?, Martin Flach?, s. d.), in-4°.
+          <lb/>Hain 8397.
+          <lb/>K 1910. Prov.: Don du prince de Bentheim, 1872.
+          <lb/>218
+          <lb/>HEROLT JOHANNES: De eruditione Christi fidelium. [Stras¬
+          <lb/>bourg, G. Husner, s. d.), in-fol.
+          <lb/>Hain 8517, Pellechet: Colmar 759, Proctor 357, Voulliéme:
+          <lb/>Berlin 2203, 4.
+          <lb/>K 1951. Prov.: B N Munich, 14. IV, 1880. A l&amp;#x27;intérieur du
+          <lb/>1er plat, exlibris, au-dessous; «Ex Bibliotheca ecclesiae Col¬
+          <lb/>legiatae Lateranensis ad S. Nicolaum prope Passavium.» 219
+          <lb/>HEROLT JOHANNES: De eruditione Christi fidelium. Stras¬
+          <lb/>bourg, J. Prüss, 1490, in-fol.
+          <lb/>Hain 8521, Madsen 1938, Pellechet: Colmar 762, Proctor 548,
+          <lb/>Schmidt III, 24. Voulliéme: Berlin 2360.
+          <lb/>K 1953. Prov.: B N Munich, 14. IV. 1880, 4 M. Au-dessus du
+          <lb/>titre: Casparus Brobste me iure tenet 92. 24 feb.; au-dessous:
+          <lb/>Canoniae Weyarensis. Notes mss. Rel. anc.
+          <lb/>220
+          <lb/>HEROLT JOHANNES: Sermones super epistolas dominicales.
+          <lb/>(Strasbourg, G. Husner, s. d.),, in-fol.
+          <lb/>Hain 8510, Pellechet: Colmar 758, Proctor 358, Voulliéme:
+          <lb/>Berlin 2203, 5.
+          <lb/>K 1948. Prov.: B N Munich, 14. IV. 1880, 2 M. A la suite
+          <lb/>d’Albertus Magnus, Sermones de tempore et de sanctis.
+          <lb/>Ulmae, s. d. K 97.
+          <lb/>221
+          <lb/>41
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:29.695987+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2113.tif
+IMAGE WIDTH: 2320
+IMAGE HEIGHT: 3830
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>BERICHT
+          <lb/>Strasbourg, J. Martin, 1592.
+          <lb/>Kurtzer vnd beständiger! Bericht, Von dem rechten
+          <lb/>An- fang, vnnd warhafften Vrsachen, der jetzigen Vnruhe
+          <lb/>im Bistumb vnnd Stifft Straszburg. Sampt einer Vorrede,
+          <lb/>vnd notwendigen Erin-nerung, Trost vnd Vermahnung,
+          <lb/>Der Kirchendiener zû Straszburg, an jhre liebe Zûhörer,
+          <lb/>vnd andere diser zeit im Elsasz! von den Lothringern hart
+          <lb/>bedrangte vnd verfolgte Christen. (Vignette.)
+          <lb/>Gedruckt zu Straszburg, bei Jost Martin.Anno
+          <lb/>M. D. XCII, (Verso blanc.)
+          <lb/>In-4°, car. goth., 56 pp. ch., titre courant, réclames, notes margi¬
+          <lb/>nales, initiales goth. I, A.
+          <lb/>Pages 3—22: Der Gemeine Gottes zu Straszburg, Sampt
+          <lb/>allen denen, die im Elsasz den Namen vnsers Herrn
+          <lb/>JhesuChristi von hertzen anruffen. (Préface, signée par
+          <lb/>24 pasteurs de Strasbourg: 1) Johannes Pappus, S. Theolog. Doc¬
+          <lb/>tor, Praesident des Kirchenconuents, vnd Pfarrer im Mün¬
+          <lb/>ster. 2) Johannes Thomae, Pfarrer zu S. Niclaus, 3) Johan¬
+          <lb/>nes Faber, Pfarrer zu S. Thoman. 4) Johannes Liptitius,
+          <lb/>Pfarrer zum jungen S. Peter, 5 Mag. Elias Schadaeus, Frei¬
+          <lb/>prediger. 6) Pancratius Koeselius, Pfarrer zum alten S. Peter.
+          <lb/>7 Johannes Henricus Rotmann, Pfarrer zu S. Aurelia.
+          <lb/>8) Mag. Henricus Grinerus, Pfarrer zu S. Wilhelm. 9) Cas¬
+          <lb/>parus Kretschmar, Freiprediger. 10) Johannes Faber, S. Theo¬
+          <lb/>log. Licentiatus, Freiprediger, 11) Thomas Schallerus, Helffer
+          <lb/>im Münster. 12) Johannes Carolus, Helffer im Münster. 13) Mag.
+          <lb/>Bartholomaeus Nasserus, Helffer im Münster, 14) Johannes
+          <lb/>Frey, Helffer zum alten S. Peter, 15) Petrus Portius, Helffer
+          <lb/>zum jungen S. Peter, 16) Mag. Johannes Monningerus, Helffer
+          <lb/>zu S. Wilhelm. 19 Johannes Lippius, Helffer zum jungen
+          <lb/>S. Peter. 18) Mag. Joh. Albertus Krauchius, Helffer zu S. Au¬
+          <lb/>relia. 19) Mag. Paulus Crusius, Helffer zu S. Wilhelm. 20) Mag.
+          <lb/>Georgius Poppius, Helffer zu S. Thoman. 21) Mag. Tobias
+          <lb/>Speccerus, Helffer zu S. Niclaus. 22) Johannes Monachus,
+          <lb/>Helffer zu S. Thoman. 23) Johannes Schillingus, Helffer zum
+          <lb/>alten S. Peter. 24) Mag. Joh. Renftius, Pfarrer in der Ru¬
+          <lb/>prechtsawe.)
+          <lb/>R102.264. Prov.: Bibl. Heitz.
+          <lb/>GPB: Berlin.
+          <lb/>181
+          <lb/>BERICHT
+          <lb/>[Strasbourg, A. Bertraml, 1592.
+          <lb/>Kurtzer, Wahrhaffti-ger Bericht, Von Vbergebung vnd
+          <lb/>Auffnemmung der Statt Moltzheim, Auch! Abzug der Loth¬
+          <lb/>109
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

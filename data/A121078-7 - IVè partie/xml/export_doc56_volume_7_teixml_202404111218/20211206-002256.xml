@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:08.296393+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002256.tif
+IMAGE WIDTH: 2504
+IMAGE HEIGHT: 4002
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>errores Martini Lutheri, &amp;amp; sequacium. [Interprétation
+          <lb/>de Hutten). — (Strasbourg, Jean Prüss nov. 1520), in-4°.
+          <lb/>Böcking XXXII, 2; Kuczyński 1087; Benzing, Hutten,
+          <lb/>n° 223: B M Augsbourg, B U Göttingen, Fribourg. BN Paris.
+          <lb/>B N Strasbourg, etc.
+          <lb/>2095
+          <lb/>HUTTEN, Ulr. (Conquestiones) : Hoc in libello continentur:
+          <lb/>Ulrichi de Hutten... ad Carolum Imperatorem;...
+          <lb/>Conquestio... aliaeque ad alios Epistolae... — [Strasbourg,
+          <lb/>Jean Schott après le 28.1x.1520), in-40.
+          <lb/>Böcking, Hutten XXXI, 3. Schmidt II, Suppl. p. 11, n° 6,
+          <lb/>Kuczyński 1091; Proctor 10.292; Brit. Museum, Londres.
+          <lb/>Hohenemser 2751; Benzing : Hutten, n° 132 : B M Augsbourg,
+          <lb/>Brit. Mus. Londres, Vaticana Rome, B N Strasbourg, Vienne,
+          <lb/>etc.
+          <lb/>2096
+          <lb/>HUTTEN, Ulr. (Conquestiones) : Hoc in libello (Idem)...
+          <lb/>ad Carolum Quintum Imperatorem. — (Strasbourg,
+          <lb/>Jean Schott après le 28.1x.1520), in-4°.
+          <lb/>Böcking, Hutten XXXI, 4; Schmidt II, Suppl., p. 11, n° 7;
+          <lb/>Proctor 10.291 ; Brit. Museum, Londres; Panzer 9, 456, 1;
+          <lb/>Kuczynski 1092; Benzing : Hutten n° 133 : Brit. Mus. Londres,
+          <lb/>Vaticana Rome, B N Strasbourg, B N Taschkent, etc. 2097
+          <lb/>HUTTEN, Ulr. (Conquestiones) : Hoc in libello continentur...
+          <lb/>(Idem). — (Strasbourg, Jean Prüss après le 28 sept.
+          <lb/>15201, in-8°.
+          <lb/>Böcking XXXI, 5; Benzing: Hutten, n° 136 : B M Nuremberg,
+          <lb/>BN Strasbourg, Steinfeld (Schlüchtern).
+          <lb/>2097a
+          <lb/>HUTTEN, Ulr. (Clagschrift) : Ein Clagschrift... an alle stend
+          <lb/>Deütscher nation. Wie unformlicher weise... Er mit eignem
+          <lb/>tyrannischen gewalt von dem Romanisten an leib, eer
+          <lb/>und gut beschwert und benötiget werde... — [Strasbourg,
+          <lb/>Martin Flach, après le 28 sept. 1520), in-4°.
+          <lb/>Böcking XXXI, Bba; Kuczynski 1093; Proctor 10.154;
+          <lb/>Weller 1422; Benzing : Hutten, n° 143: B U Bâle, Brit.
+          <lb/>Mus. Londres, Vaticana Rome, Bibl. Centrale Zurich, etc. 2097b
+          <lb/>254
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

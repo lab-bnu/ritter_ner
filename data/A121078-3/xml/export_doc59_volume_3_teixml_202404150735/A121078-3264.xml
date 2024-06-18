@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:10.102715+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3264.tif
+IMAGE WIDTH: 2334
+IMAGE HEIGHT: 3852
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>706
+          <lb/>Auf der Rücks, des Titelbl.: LVDOVICVS GREMPIVS A FREV¬
+          <lb/>DENSTEIN I. D. AD LECTOREM.... — Argentorati e nostro
+          <lb/>Musaeo, prid. Cal. Septemb. Anno à Nativitate Christi,
+          <lb/>1567. (Vorrede, 5 S.)
+          <lb/>Bl. 3a: Adolescentibus IVRIS STVDIO-SIS TYPOGRA¬
+          <lb/>phus S. D.... — Argentorati Calendis! Septemb, 1567. (5-S.)
+          <lb/>Bl. 6a: DE VTILITA-T IVRIS CIVILIS SCIEN- tiae Elegia
+          <lb/>Domini Danielis Her- manni Borussi, (26 Dist.)
+          <lb/>Notizen, mit der Jahreszahl 1580; der Name des Verfassers ist aus¬
+          <lb/>R102.206. Prov.: Bibl. Lübeck 24. XII. 1887. Zahlr. handschr.
+          <lb/>radiert.
+          <lb/>Konigsberg, Münster.
+          <lb/>Gk 4.2352 unter Analusis: SB Berlin, München; UB Breslau,
+          <lb/>1039
+          <lb/>GREMP VON FREUDENSTEIN Ludwig Strassburg, Th. Rihel 1569
+          <lb/>AvaλUotE. RESOLVTIO DIA LECTICA QUATVOR LI-] bro¬
+          <lb/>rum Institutionum Imperialium: Vnà CVM OVARVNDAM
+          <lb/>VTILIVM QVAE- stionum luris explicatione, recognita, &amp;amp;
+          <lb/>niti- dior in lucem nune iterum emissa.CM PRAEFA¬
+          <lb/>TIONE CLARISSIMI VIRI, &amp;amp; prudentissimi Iureconsulti, D.
+          <lb/>Ludouici Grempij. (Druckerm. Rihels. HA B Tafel XXXI Nr. 10,
+          <lb/>Silvestre Nr. 854.)
+          <lb/>Cum Gratia &amp;amp; Priuilegio Caesareo.
+          <lb/>Excudebat Theodosius Rihelius. (Rücks, leer.)
+          <lb/>Am Schluss: ARGENTORATI Excudebat Theodosius Ri¬
+          <lb/>helius, M. D. LXIX.
+          <lb/>80, Antig, u. Kursiv, 8 unn. Bll. (Vorrede des Verfassers mit
+          <lb/>dem Datum 1567 u. des Druckers an den Verfasser 1569), 313 num.
+          <lb/>u. 5 unn. (Index quaestionum) — 3 leere Bll., Kopft., Kust., Marg., Init.
+          <lb/>R 101.089. Prov.: Stadtbibl. Breslau, 26. V. 1886. Dubletten¬
+          <lb/>stempel der Bibl. Breslau.
+          <lb/>GK 4.2353: SB Berlin, München; UB Breslau, Göttingen, Ko¬
+          <lb/>nigsberg.
+          <lb/>1040
+          <lb/>GREMP VON FREUDENSTEIN Ludwig Strassburg, Th. Rihel 1570
+          <lb/>Avœ)octe! seu! Resolvtio Di alectica qvatvor! Libro¬
+          <lb/>rum Institutionum Im-perialium: Vnà! cvm qvarvndam
+          <lb/>vtilivm quae- stionum luris explicatione, recognita, &amp;amp;
+          <lb/>niti- dior in lucem nunc iterum emissa. (Druckerm. Rihels.
+          <lb/>H a RTafel XXXI Nr. 10; Silvestre Nr. 854.)
+          <lb/>Excudebat Theodosius Rihelius.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

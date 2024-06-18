@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:36.778612+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2347.tif
+IMAGE WIDTH: 2330
+IMAGE HEIGHT: 3818
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Marque typ. de J. Rihel. (H d B, Planche XXX, No 7.)
+          <lb/>Argentorati Anno 1562. (Verso blanc.)
+          <lb/>A la fin: ARGENTORATI EX- cudebat Iosias Rihelius.
+          <lb/>In-8°, car, rom., 56 ff. ch., titre courant, réclames, initiales ornées
+          <lb/>N. 0,C.
+          <lb/>R 102,232. (2) Prov.: L. Rosenthal, Munich, 17/II. 1897,6M.
+          <lb/>Rel, anc. A l’extérieur du 1er plat, en bas: 1568.
+          <lb/>520
+          <lb/>CICERO
+          <lb/>Strasbourg, J. Rihel, 1563.
+          <lb/>¡Vol. Il: M. T. CICERONIS ORATIONVM VO-] LVMINA
+          <lb/>TRIA. POST POSTREMAM NAVGERIA- nam, &amp;amp; Victorianam
+          <lb/>correctionem emendata à IOANNE STVRMIO. Omnia &amp;amp;
+          <lb/>paginarum &amp;amp; uersuum numero atque longitu- dine Aldi¬
+          <lb/>nis respondent.
+          <lb/>ACCESSIT HVIC EDITIONI ELEN-  chus uariarum lectio¬
+          <lb/>num.
+          <lb/>Marque typ. de Iosias Rihel, (Hdt B, Planche XXIX, No5;
+          <lb/>Silvestre, N° 757.)
+          <lb/>Cum gratia &amp;amp; priuilegio Caesareo ad annos octo.
+          <lb/>M. D. LXIHI. (Verso blanc.)
+          <lb/>A la fin, derrière l’Index: Argentorati per losiam! Rihe¬
+          <lb/>lium. ANNO M. D. LXIII.
+          <lb/>In-8°, car. ital., 16 ff. non ch., 305 ff. ch. et 10 ff. non ch. (Index
+          <lb/>du Ier Volume), en plus 1 f. blanc, suivi de l’Elenchus, comprenant
+          <lb/>7 ff. non ch.; titre courant, réclames, initiale à fig. F et initiales
+          <lb/>d’attente.
+          <lb/>fol. 2a: Préface de Jean Sturm dédiée au prince Guillaume, duc
+          <lb/>de Gueldre etc. (10 p.)
+          <lb/>fol. 7a: Librarius. (2 p.)
+          <lb/>fol. 8a: LEONI X. PONTIFICI MAXIMO, ANDREAS NAV¬
+          <lb/>GERIVS. (14 p.)
+          <lb/>(Vol. II; M. T. CICERONIS ORATIONVM VO-LVMEN
+          <lb/>SECVNDVM.
+          <lb/>Même marque typ. qu’au Vol. I.
+          <lb/>ARGENTORATI M. D. LXIII. (Verso blanc.)
+          <lb/>A la fin: ARGENTORATI PER Io- siam Rihelium. !ANNo
+          <lb/>M. D. LXIII.
+          <lb/>In-80, car. ital,, 11 ff. non ch., 278 ff. ch. (la pagination commence
+          <lb/>avee chiffre 4 et finit avec chiffre 281.), en plus 17 ff. non ch. (Elen¬
+          <lb/>chus et Index); titre courant, réclames, initiale à fig. M, le reste ini¬
+          <lb/>tiales d’attente.
+          <lb/>343
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

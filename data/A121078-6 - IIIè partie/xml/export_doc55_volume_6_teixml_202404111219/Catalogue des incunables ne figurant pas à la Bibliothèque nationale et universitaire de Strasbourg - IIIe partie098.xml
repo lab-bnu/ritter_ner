@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:06.580495+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie098.tif
+IMAGE WIDTH: 2452
+IMAGE HEIGHT: 3930
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Hain 14761 (1); Proctor 397; Scott (Suppl. Schmidt II),
+          <lb/>n° 7. — Oxford, Bodleian Libr. et Bibl. S. H. Scott, Oxford.
+          <lb/>632
+          <lb/>SYNTHEN, Joh. : Dicta Synthis super secunda parte Alexandri.
+          <lb/>— [Strasbourg, Martin Schott 1I. VIIIl (1487), in-4°.
+          <lb/>Hain 14761 (2); Scott (Suppl. Schmidt II), n° 8. — Bibl.
+          <lb/>S. H. Scott, Oxford.
+          <lb/>633
+          <lb/>SYNTHEN, Johannes : Composita verborum. — (Strasbourg,
+          <lb/>J. Grüninger) 1486, in-4°.
+          <lb/>Hain 14774.
+          <lb/>634
+          <lb/>SYNTHEN, Joh. Voir aussi: AlexANDER de Villa Dei, nos 35/6,
+          <lb/>n° 54.
+          <lb/>TALMUT : Objectiones in dicta Thalmut. — (Strasbourg,
+          <lb/>Jean Prüss vers 1488), in-4°.
+          <lb/>Hain 15231, Polain 2900, Proctor 557.
+          <lb/>635
+          <lb/>TAMBACO, Johannes de : Consolatorium theologicum. —
+          <lb/>(Strasbourg, impr. du Henricus Ariminensis, s. d.),
+          <lb/>in-fol.
+          <lb/>Hain 15236, Ritter : B M Strasbourg n° 294.
+          <lb/>636
+          <lb/>TARDIVUS, Guilelmus : Basis grammaticae. — (Strasbourg,
+          <lb/>Henri Eggestein s. d.], in-4°.
+          <lb/>Hain 15240, Voulliéme : Berlin 2159, 5.
+          <lb/>637
+          <lb/>TARENTA, Valastus de : De epidemia et peste. — Strasbourg
+          <lb/>(2), (Bâle (?) Martin Flach s. d.), in-fol.
+          <lb/>Hain 15244; Voulliéme : Berlin 424 : Bâle.
+          <lb/>638
+          <lb/>TERENTIUS, Afer Publius : Comoediae. — (Strasbourg,
+          <lb/>Jean Prüss s. d.l, in-40.
+          <lb/>Hain 15389; Proctor 567 ; Voullième : Berlin 2395.
+          <lb/>639
+          <lb/>96
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

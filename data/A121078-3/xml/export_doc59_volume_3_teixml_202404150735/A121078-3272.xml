@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:10.225939+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3272.tif
+IMAGE WIDTH: 2342
+IMAGE HEIGHT: 3858
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>714
+          <lb/>an. Wenn vielleicht der Schnitt nicht von seiner Hand besorgt worden
+          <lb/>sein sollte, so ist er doch deren Erfinder vnd Zeichner gewesen. Bartsch
+          <lb/>gedenkt ihrer nicht. Die den 10 Capiteln beigedruckten Stöcke sind aber
+          <lb/>nicht bloss für dieses kleine Buch, sondern auch noch zu einem grösseren
+          <lb/>Bilderwerke des Bernh. Jobin’schen Verlags verwendet worden, nämlich
+          <lb/>zu (Bartsch gleichfalls nicht bekannten) Nicolai Reusneri Leorini Aureo¬
+          <lb/>lorum Emblematum liber singularis. Tobiae Stimmeri iconibus affabre (?)
+          <lb/>effectis exornatus. (80, im J. 1591 erschienen) Bey Vergleichung der in
+          <lb/>gegenw. Büchl. enthaltenen mit den in den Reusner-Emblemata vorkom¬
+          <lb/>menden Abdrücken ergibt sich, dass 6 Stöcke verkleinert, links oder
+          <lb/>rechts beschnitten wurden, bevor sie in d. aureolorum emblematum liber
+          <lb/>singularis aufgenommen wurden. Der I.te, 4te, 5te, 6te, 9te u. 10te Stock
+          <lb/>wurde von der ursprünglichen Breite 23.5 L. auf die Breite von 23.3 hin
+          <lb/>reduciert. Am Rand: bei Andresen. Mit Blei: (Geschrieben von Antiquar
+          <lb/>Coerner, gest. in Nürnberg.)
+          <lb/>1052
+          <lb/>Jobin druckte von 1572-1594.
+          <lb/>Das 9. Capitel.
+          <lb/>Das der Llann leine bolbasst!
+          <lb/>ober beschrente Gesellschafft mit sich
+          <lb/>in sei Debausung fũren
+          <lb/>foll.
+          <lb/>GUEVARA Antonio
+          <lb/>Strassburg, B. Jobin 1582
+          <lb/>Der Hofleut Wecker. Darinn mit vi- len schönen
+          <lb/>Lehren vnd nutz lichen Exempeln angezeyget würd,
+          <lb/>welcher massen sich eyn Hofman gegen men- niglich er¬
+          <lb/>zeygen soll, Vnd durch was mittel er seines Fürsten vnnd
+          <lb/>Herren gnade, so er dieselbe erlangt, behalten möge.
+          <lb/>(Zu Nr. 1052)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

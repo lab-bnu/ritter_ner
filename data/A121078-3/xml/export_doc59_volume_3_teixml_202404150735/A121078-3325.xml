@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:11.460486+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3325.tif
+IMAGE WIDTH: 2362
+IMAGE HEIGHT: 3854
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>4°, Got., 11 unn. Bll., Sign. A-C.
+          <lb/>*R101.374. Geschenk von Fid. Butsch, Augsburg 1871.
+          <lb/>Proctor II Sectio I Nr. 10.065: London Brit. Museum.
+          <lb/>Bibl. du Consistoire de Colmar.&amp;quot;
+          <lb/>Schmidt VII Nr. 43:, Jadis Bibl. de Strasbourg Incun. No 2542 et
+          <lb/>1135
+          <lb/>HENRICUS DE VRIMARIA
+          <lb/>Hagenau, H. Gran 1513
+          <lb/>Opus sermonum exactissi-morum de Sanctis, per
+          <lb/>excellentem ac vere Seraphicum doctorem, sacreque theo¬
+          <lb/>logie professorem: Henricum de Vrimaria, ordinis Here
+          <lb/>mitarum diui Augustini com pilatum: summa vigi lantia
+          <lb/>reuisum) ac castiga tum.
+          <lb/>Am Schluss: Sermonum... opus, cum duabus tabulis
+          <lb/>ad-iectis, summa castigatione emendatum, ac im- pressum
+          <lb/>in officina industrij Henrici Gran, ciis imperialis oppidi
+          <lb/>Hagenau: impensis sumptibusque circumspecti viri Joan¬
+          <lb/>nis! Rynman de Oringau, finit feliciterAnno salutis no¬
+          <lb/>stre. M. D. xiij.quarta vero die mensisNouembris.
+          <lb/>(Rücks, leer.)
+          <lb/>4°, Got., 2sp., 2 unn., COXVI num., 25 unn. Bll. (Index), Kopft.
+          <lb/>Auf der Rücks. des Titelbl.: Epistola.Joan-i Ryn¬
+          <lb/>man artis literatorie officineque impressorie architecto,
+          <lb/>Matthias! Hirschberg artium sacrorumque canonum Bac¬
+          <lb/>calaureus... — Da- ta Zittauie. iij. Nonas Martias Anno
+          <lb/>christi domini M. d. xiij.
+          <lb/>R101.375. Geschenk von Fid. Butsch, Augsburg 1871. Auf dem
+          <lb/>Titelbl.: Monasterij Ranshoüen.
+          <lb/>Stadtbibl. u. Priesterseminar Strassburg.
+          <lb/>Proctor II Sectio I Nr. 11658: London Brit. Museum.
+          <lb/>1136
+          <lb/>767
+          <lb/>HERBARIUS
+          <lb/>Strassburg, Joh. Prüss 1507
+          <lb/>Jn disem Bûch ist der Herbary; oder Krüterbûch:
+          <lb/>genant der gart der gesuntheit : mit merern figuren vnd
+          <lb/>registern. (Holeschn.: eine Apotheke, darin ein Mann an einem Tische
+          <lb/>sitzend, neben ihm ein anderer Mann stehend, ein Stäbchen in der Hand.)
+          <lb/>Am Schluss: Getruckt vnnd fleyszlichen besehen, mit
+          <lb/>meer figuren, artlycher gesetzt, durch Io annem Prüsz
+          <lb/>bûchtrucker zûm Thier-garten, Burger zû straszburg.
+          <lb/>Geendet! vff sant Johannis enthauptung tage, In dem
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

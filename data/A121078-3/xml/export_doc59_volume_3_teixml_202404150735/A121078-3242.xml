@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:09.438383+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3242.tif
+IMAGE WIDTH: 2328
+IMAGE HEIGHT: 3852
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>686
+          <lb/>2. Ex. FR 10.319. Prov.: Geschenk der Stadt Schweinfurt 1871.
+          <lb/>GK: SB Berlin, UB Göttingen, Münster.
+          <lb/>1. Teil); Schmidt VII Nr. 87; Olschki, Florenz, Katalog LXXXI (1912)
+          <lb/>Proctor II Sectio I Nr. 10.085: London British Museum (nur
+          <lb/>Nr. 82: 4. Teil, 100 Fr.
+          <lb/>1007
+          <lb/>GERSSDORF, Siehe: GERSDORE
+          <lb/>GESANGBUCHLEIN
+          <lb/>Strassburg, Th. Berger 1562
+          <lb/>Das Newer! vnd gemehret Ge- sangbüchlin, Darinn
+          <lb/>Psalmen, Hymni, Geistliche Lieder, Chorge- senge, Alte
+          <lb/>vnd newe Fest- lieder, sampt etlichen ange henckten
+          <lb/>Schrifftsprüchen vnd Collect gebettlin, be- sonders fleisses
+          <lb/>jetz zû- samen bracht seind.
+          <lb/>Auch hin vnd wider Mit schönen Figuren gezieret,
+          <lb/>vnd Reimensart gestellet.
+          <lb/>Getruckt zû Strasburg bey Thiebolt Berger, am Bar¬
+          <lb/>fûsser platz, Anno 1562. (Rücks, leer.)
+          <lb/>Am Schluss: Getruckt zû Strasburg bey Thiebolt Berger,
+          <lb/>am Barfôsser platz. (Rücks, leer.)
+          <lb/>80, Got., 208 unn. Bll., Sign. A-Z, Aa-Cc, Kust., Titel rot und
+          <lb/>schwarz, Titelumrahmung, alle Seiten mit Zierleisten umrahmt; Musik¬
+          <lb/>noten, 19 Holeschn.
+          <lb/>Bl. A 2a: Vorrede. Die Diener des Wortsder kirchen
+          <lb/>zû Strasburg, wün- schen allen Christgleubigen, Gnad vnd
+          <lb/>frid... (9 S.) Folgt ein Index von 5S.
+          <lb/>R 1006391. Prov.: Auberlen, Pfarrer in Harsfelden 7. XII.
+          <lb/>1899, mit dessen Autograph. Bleistiftnotie: 120 M.
+          <lb/>GK: SB Berlin (defekt).
+          <lb/>1008
+          <lb/>GESCHICHTEN DER RÔMER. Siche: GESTA ROMANORUM
+          <lb/>GESNER Konrad. Siche: BOCK Hieronymus: De Stirpium no¬
+          <lb/>menclaturis. Strassburg, W. Rihel 1552. Nr. 216.
+          <lb/>Bibliographie von Gesner: Schottenloher I Nr. 7042-7053.
+          <lb/>GESNER Konrad: Tabulae collectionum. Siche: KYBER David:
+          <lb/>Lexicon rei Herbariae. Strassburg, W. Rihel 1553. R101.535.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

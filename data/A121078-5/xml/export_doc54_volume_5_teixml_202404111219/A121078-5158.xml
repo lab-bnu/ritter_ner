@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:54.983703+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5158.tif
+IMAGE WIDTH: 2342
+IMAGE HEIGHT: 3856
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1466
+          <lb/>Item Vocabula et interpre !] tationes grecorum et hebraï¬
+          <lb/>corum : vna cum vocabulis!! communibus Saracenorum in
+          <lb/>latinum translatis, et alijs in fi! ne adiunctis.
+          <lb/>A la fin : Vocabularius poeticus... Impressus in!! Hagenaw
+          <lb/>per industrium Henricum Gran Impensis circumspe! cti viri
+          <lb/>Joannis Rynman finit feliciter. Anno salutis nostre!! 1507
+          <lb/>altero die post festum sancti Bartholomei apostoli. (Verso
+          <lb/>blanc.)
+          <lb/>In-4°, car. goth., 2 col., 60 ff. non ch., sign. A-L, titre courant, init.
+          <lb/>d’attente.
+          <lb/>Au verso du titre: Prologus... — Vale lector Torrentinum tui studiorum
+          <lb/>mu !! tuo amore prosequere (1 p.).
+          <lb/>R. 101.607 (2). Prov. : Bibl. Böcking. Notes mss. au verso du dernier f.
+          <lb/>et au f. de garde. Au-dessus du titre : « hic est bonus liber.»
+          <lb/>Proctor II, Sectio I, No 11635; Londres, British Museum.
+          <lb/>2e ex. R. 101.615. Prov. : A. Cohn, Berlin, 26/1x, 1882; 8 M. Les ff.
+          <lb/>L1-L7 manquent tandis que le dernier f. L 8 avec l’explicit est resté
+          <lb/>intact.
+          <lb/>2335
+          <lb/>TORRENTINUS Hermannus
+          <lb/>Strasbourg, M. Hupfuff, 1507
+          <lb/>Hermanni Torrentini vi!! ri doctissimi Opusculum!] aureum
+          <lb/>omnibus studen- tibus perutile et summe necessarium.
+          <lb/>De Generibus nominum De Heteroclitis.De Patrony-
+          <lb/>micis.De Nominum significationibus.
+          <lb/>A la fin : Impressum Argentine per Mathiam Hupfuff.
+          <lb/>Anno. M. Vc. vij.
+          <lb/>In-4°, car. goth., 18 ff. non ch., sign. A-D, init. ornée H. Au verso du
+          <lb/>titre : Hermannus Torrentinus doctor !! religioso viro Joanni vinsemio...
+          <lb/>R. 101.618. Prov. : Don de Fid. Butsch antiquaire à Augsbourg, 1871.
+          <lb/>Schmidt V, No 64 dit : « Il y a des exemplaires qui paraissent avoir
+          <lb/>la date 1508, si le dernier signe i ne provient pas d’un accident, on l’a
+          <lb/>ajouté après coup sur des exemplaires de 1507».
+          <lb/>2336
+          <lb/>TORRENTINUS Hermannus
+          <lb/>Strasbourg, J. Prüss, 1510
+          <lb/>Elucidarius carminum et hi-storiarum... etc. : diligenter
+          <lb/>denuo reuisus.
+          <lb/>Item vocabula et interpretatio! nes... etc. (Comme dans
+          <lb/>les éd. précédentes).
+          <lb/>Vocabula Saracenorum.
+          <lb/>A la fin : Impressus Argentinae per Joannem!Prisz in
+          <lb/>officina sua; quam vulgo zum thiergarten no-! minant seriori
+          <lb/>castigationis lima adhibita. Anno sautis humanae.
+          <lb/>M. CCCCCX.
+          <lb/>In-4°, car. rom., 2 col., 60 ff. non ch., sign. A-L, titre courant.
+          <lb/>Au verso du titre: Prologus.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

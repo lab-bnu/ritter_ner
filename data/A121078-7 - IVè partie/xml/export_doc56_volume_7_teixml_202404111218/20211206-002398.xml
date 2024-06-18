@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:11.885539+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002398.tif
+IMAGE WIDTH: 2514
+IMAGE HEIGHT: 3968
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>PAULINUS : Paulini Episcopi Nolani Carmen iambicum. —
+          <lb/>Strasbourg, Mathias Schürer 1508, in-40.
+          <lb/>Panzer 6, 43, 141; Schmidt VIII, n° 9; Weislinger 158. 2851
+          <lb/>PAULUS Aegineta : Praecepta salubria. — Strasbourg,
+          <lb/>Math. Schürer 1510, in-40.
+          <lb/>Panzer 6, 51, 205; Schmidt VIII, n° 47 [éd. Schürer 1511:
+          <lb/>Ritter, Rép. n° 1800).
+          <lb/>2852
+          <lb/>PAULUS Aegineta : Compendium [medici] libri septem.
+          <lb/>(Trad, par J. Günther d’Andernach). — Strasbourg,
+          <lb/>Wend. Rihel 1542, in-fol.
+          <lb/>Choulant, Handbuch, p. 142.
+          <lb/>2853
+          <lb/>PAULUS, Aegineta. Voir: AUsTRiUs, Seb., n° 890.
+          <lb/>(Voir aussi : Ritter, Rép. nos 1800-1801).
+          <lb/>PECTONUS, Theophilus : Compendiosa Boemicae seu Hussi¬
+          <lb/>tanae haereseos ortus et eiusdem damnatorum articulorum
+          <lb/>descriptio... — Strasbourg, imprimerie Jean Grüninger
+          <lb/>1524, in-40.
+          <lb/>Schmidt, Hist. litt. Il, p. A10, n° 269.
+          <lb/>2854
+          <lb/>PEGIUS, Martinus. Voir : CEPOLLA, Bartholomaeus, n° 1328;
+          <lb/>(RITTER, Rép. nos 1806-1808).
+          <lb/>PELBARTUS de Themeswar (Rosarium) : Rosarium theologiae
+          <lb/>aureum. — Haguenau, Henri Gran aux frais de
+          <lb/>Jean Rynman 2.VIII. 1507, in-fol.
+          <lb/>Beaulieux, p. 224 : B U Paris Réserve 120. (Éd. Gran, 1504:
+          <lb/>Ritter, Rép, n° 1821; Tertius liber Rosarii. Gran 2 août 1507
+          <lb/>et Quartus liber Rosarii; Gran 2 décembre 1508 : Ritter,
+          <lb/>Rép. n° 1832/3).
+          <lb/>2854a
+          <lb/>PELBARTUS de Themeswar (Sermones Quadragesimales):
+          <lb/>Pommerium Sermonum Quadragesimalium...
+          <lb/>—
+          <lb/>396
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

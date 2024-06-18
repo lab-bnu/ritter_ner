@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:10.995993+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3304.tif
+IMAGE WIDTH: 2356
+IMAGE HEIGHT: 3856
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>746
+          <lb/>Strassburg o. J.
+          <lb/>HEGENDORF Christoph
+          <lb/>METHO! DVS CONSCRIBENDI EPISTO! las, antehac non
+          <lb/>edita. [ DRAGMATA LOCORVM TAM ( Rhetoricorum, quàm Dia¬
+          <lb/>lecticorum,! unà cum exemplis, ex optimis! quibusque
+          <lb/>auctoribus de! promptis.Exempla status Coniecturalis.
+          <lb/>Finitiui! Qualitatis.! AVTORE CHRISTOPHORO Hegendorfino.
+          <lb/>Haec dedimus pueris, pueris prodesse studemus.
+          <lb/>Id si fit, satis est, non aliud cupimus.
+          <lb/>Argentorati.
+          <lb/>Auf der Rücks, des Titelbl.: CHRISTO! PHORVS HEGENDOR¬
+          <lb/>PHINVS ! Laurentio Czoch discipulo suo. S. D.
+          <lb/>8°, Kursiv, 24 unn. Bll., Sign. A-C, Kopft., Kust., einige Marg.,
+          <lb/>Init.
+          <lb/>R100.973. Prov.: SB München 7. V. 1877.
+          <lb/>Bibliographie Hegendorfs: Schottenloher I Nr. 8077-8081. 1101
+          <lb/>HEGENDORF Christoph
+          <lb/>Strassburg, Joh. Knobloch 1521
+          <lb/>DIALOGI PVERILES CHRISTO- phori Hegendorphini XII.
+          <lb/>lepidi aeque ac! docti.
+          <lb/>Am Schluss: ARGENTINAE APVD IOANNEM KNOBLOVCHVM,
+          <lb/>MENSE! DECEMBRI. ANNO, 1 M. D. XXI. (Rücka, leer.)
+          <lb/>80, Kursiv, Titelbl. — 12 Bll, num. von 25-38 u. 1 unn. Bl.,
+          <lb/>Sign. D3-ET, Kopft., Kust., Init.
+          <lb/>Auf der Rücks, des Titelbl.: Simoni! Pehm Gymnasiarchae
+          <lb/>in monte Di! uae Annae, Christophorus! Hegendorffinus.
+          <lb/>R100.974. Prov.: Lippert, Halle 8. XII. 1886. Die Bll. 1—26
+          <lb/>enthielten wahrscheinlich die Paedalogia des Petrus Schadaeus Mosella¬
+          <lb/>nus, die sehr oft mit den Dialogi pueriles zusammen gedruckt vourden,
+          <lb/>2. B. in der Pariser Ausgabe 1534 u. in den Lyoner 1547 u. 1548.
+          <lb/>Schmidt VII Nr. 223 : Bibl. Wüh. Strassburg u. Bibl. Basel.
+          <lb/>Nach Schmidt sind die Bll, nicht gezählt; sein Exemplar, mit den
+          <lb/>Sign. A-E, enthâlt an erster Stelle die Paedalogia des Petrus Mosellanus
+          <lb/>und auf dem letsten Bl. befindet sich die Druckerm. Knoblochs, die in
+          <lb/>unserm Ex. fehlt, während das Explicit mit demjenigen Schmidts uber¬
+          <lb/>einstimmt. Es musste schon sein, dass die Druckerm., was aus der Be¬
+          <lb/>schreibung Schmidts nicht zu ersehen ist, sich auf dem dem Explicit
+          <lb/>folgenden Bl. E8 befindet, das in unserm Ex. fehlt.
+          <lb/>1102
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

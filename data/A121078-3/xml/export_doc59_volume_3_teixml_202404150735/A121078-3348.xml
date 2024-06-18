@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:11.988749+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3348.tif
+IMAGE WIDTH: 2378
+IMAGE HEIGHT: 3854
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>790
+          <lb/>Bl. A4a: CATALOGVS EORVM! quae hoc Libello con¬
+          <lb/>tinentur. (3 S.)
+          <lb/>Bl. A6b: IN ANTICHRISTI ET] membrorum eius rabiem,
+          <lb/>pro M. BVCE- RI, P. FAGII &amp;amp; CATHARINAE P. MARTYRIS
+          <lb/>quondam coniugis, Reli- quijs: IOANNIS OPORINI, Dei opt.
+          <lb/>max. authoritate contra por- tas Inferorum P. Nota¬rij,
+          <lb/>lambus, (70 lat. Verse.)
+          <lb/>tizen, unter andern:,Cet ouvrage est très-rare... Il a été traduit en
+          <lb/>R 101.691. Prov.: Bibl. Heita, Strassburg 1871. Handschr. No¬
+          <lb/>allemand la même année où il parut en latin. Cet ouvrage a été mis
+          <lb/>à l’Index sous Innocent X.* Auf dem Einband Jahreszahl 1562.
+          <lb/>2. Ex. R 102.334. Prov. : Gymnasialbibl. Heilbronn, Tausch
+          <lb/>2. IV. 1878.
+          <lb/>Stadtbibl. Strassburg.
+          <lb/>1173
+          <lb/>HISTORIA vera (deutsch)
+          <lb/>Strassburg, P. Messerschmidt 1562
+          <lb/>Ein ware histori Vom leben, sterben, be grebnuss,
+          <lb/>anklagung der ketzerey, ver dammung, ausgraben, ver¬
+          <lb/>brennen, vnd letstlich ehr licher wider ynsetzung, der
+          <lb/>säligen vnd hochge- lehrten Theologen D. Martini Buceri
+          <lb/>vnd Pauli Fagii, die sich in zwölff ja ren in dem Engel¬
+          <lb/>lendischen Reich begeben hat.
+          <lb/>Item die histori Catharine Vermilie D. P. Marty! ris
+          <lb/>züchtigen vnd frommen haussfrawen, so ausgegraben,
+          <lb/>vnd zû ehrlicher be- grebnuss wider bracht worden.
+          <lb/>(Hrsg. von Konrad Hubertus.
+          <lb/>Mit etlichen Orationen vnd Predi-gn die sehr werdt
+          <lb/>zû lesen seindt, die biss her nit vil gesehen haben.
+          <lb/>(3 Kleeblätter. Rücks, leer.)
+          <lb/>Am Schluss: Gedruckt zû Strassburg, durch! Paulum
+          <lb/>Messerschmidt! Anno M. D. IXII. (Rücks, leer.)
+          <lb/>40, Got., 4 unn., CXXVI num. Bll., Ropft., Kust., Marg., Init.
+          <lb/>Bl. A 2a: Vorrede. Dem frommen vnd hoch-gelehrten
+          <lb/>Theologo getrewen kirch- en diener herren Michaëli Dillero
+          <lb/>wünschetConradus Hubertus glück vnd heil... —
+          <lb/>Strassburg den Xv. Fe-bruarij Anno M.D. Ixij. (3 S.)
+          <lb/>Bl. A 3b : Register, (2 S.)
+          <lb/>Bl. LVII-LXXII: Das leben Pauli Fagij des an frum
+          <lb/>keit vnd erkanntnuss der sprachen fürtreflichen Theologii
+          <lb/>durch etliche diener der kirch en zû Strassburg warhaff¬
+          <lb/>tig vnnd kurtzlich beschriben.
+          <lb/>R101.690. Prov.: Rosenthal, München 6. VII. 1891; 45 M.
+          <lb/>1174
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

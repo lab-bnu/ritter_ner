@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:32.746187+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2207.tif
+IMAGE WIDTH: 2284
+IMAGE HEIGHT: 3824
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>ments de musique, en bas une sirène dont le corps inférieur se termine
+          <lb/>en serpent, de chaque côté un homme nu derrière une colonne. De nom¬
+          <lb/>breuses vignettes.
+          <lb/>Au verso du dernier f, marque typographique de W. Köpfel.
+          <lb/>(H e B, Planche XVIII, No 9.)
+          <lb/>Au verso du titre: Avis aux imprimeurs de ne pas réimprimer la
+          <lb/>concordance, vu le privilège impérial.
+          <lb/>fol. 2a: .. Herrn! Philipsen Landtgrauen zù Hessen..
+          <lb/>Geben zû Wormbs auff den vierden tag des Mertzens des
+          <lb/>Tausent Fünff hunderten vnd Dreyssigsten Jars. Leonhart
+          <lb/>Brunner Pred, zù Wormbs. (Préface de 4́ pages.)
+          <lb/>fol. 4a: Canon: Regel vnd bericht; wie man disz bûch
+          <lb/>brauchen vnd verstön sol. (Verso blanc.)
+          <lb/>R 10.268. Prov.: A. Cohn, Berlin, 20/VII. 1885; 12 M.
+          <lb/>A l&amp;#x27;intérieur du 1er plat, exlibris avec la légende: Ex ELECTORALI
+          <lb/>BIBLIOTHECA SERENISS. VTRIVSQUE BAVARIAE DVCVM
+          <lb/>MDCCXLVI. Rel, anc.
+          <lb/>Bibl. St. Guillaume, Strasbourg; GPB: Berlin, Breslau BU,
+          <lb/>308
+          <lb/>Gœttingue B U, Kœnigsberg BU, Munster BU.
+          <lb/>203
+          <lb/>BRUNNFELS. Voir: BRUNFELS.
+          <lb/>BRUNSCHWIG Hieronymus
+          <lb/>Strasbourg, J. Grüninger, 1512.
+          <lb/>Liber de arte Distil! landi de Compositis. Das bûch
+          <lb/>der waren kunst zu distillieren die Composita vnd sim¬
+          <lb/>plicia, vnd das Bûch thesaurus pauperum, Ein schatz der
+          <lb/>armen ge- nannt Micarium, die brösamlin gefallen von
+          <lb/>den büchern der Artzny, vnd durch Experiment von mir
+          <lb/>Jheronimo Brunschwick vff geclubt vnd geoffenbart zû trost
+          <lb/>denen die es begeren.
+          <lb/>Grande gravure sur bois: Appareil de laboratoire auquel sont
+          <lb/>occupés deux hommes, en haut: distillatorium ad aqua(!) vite. (Verso)
+          <lb/>blanc.)
+          <lb/>A la fin, avant la table, fol. 344a: Vnd hie dis bûch selig¬
+          <lb/>lich getruckt vnd! gendigt in der keisserlichen fryen stat
+          <lb/>Strasz burg vff sant Mathis abent in dem Jar M. Vc.
+          <lb/>vnd XII.
+          <lb/>In-fol., car. goth., 2 col., CCCXLIIII ff. ch., 6 ff. non ch., (Regis-
+          <lb/>ter der Irrung. Errata.): titre courant, init, ornées et init, d’attente.
+          <lb/>fol. 2a : Die Vorred. (Préface de 2 ff.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

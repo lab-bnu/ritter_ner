@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:49.879388+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078256.tif
+IMAGE WIDTH: 2308
+IMAGE HEIGHT: 3844
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1142
+          <lb/>In-8°, car. goth., 56 ff. non ch. dont le dernier blanc, sign. A-G,
+          <lb/>titre courant, réclames, notes marg., init. goth.
+          <lb/>Fol. A 2a: ... Herrn Jo- hann Rudolff, bey der loblichen Stifft
+          <lb/>Murbach unnd Luder, Abt &amp;amp;c.... — Datum Basel den! ersten tag Mert¬
+          <lb/>zens. Anno. M. D.! LXIIII. Adam von Boden- stein Doctor. (Vign.)
+          <lb/>Préface.
+          <lb/>Fol. A 7a: Doctor Theophra-stus dem leser seinen grûsz... Da¬
+          <lb/>tum Nördlingen.
+          <lb/>R101.259 (1). Prov. inconnue.
+          <lb/>BN Paris.
+          <lb/>1770
+          <lb/>PARACELSUS Theophrastus
+          <lb/>Strasbourg. S. Emmel 1568.
+          <lb/>LIBELLVS Theophrasti Pa RACELSI VTRIVS- OVE MEDI¬
+          <lb/>CINAE DOCTORIS, DE Urinarum ac pulsuum iudiciis; tum
+          <lb/>de Physionomia quantum me- dico opus est. AcCEssiT
+          <lb/>DE MORBORVM! Physionomia Fragmen- tum. (Marque typ. de
+          <lb/>S. Emmel. H 4 B Planche XXXV n° 2.)
+          <lb/>ARGENTINAE Typis Samuelis Emmelii. Anno M. D.
+          <lb/>LXVIII. (Verso blanc.)
+          <lb/>A la fin: M. D. LXVIII.
+          <lb/>In-80, car, rom. et ital., 8 ff. non ch. dont le dernier blane, 42 fr.
+          <lb/>ch. et 3 ff. blancs, titre courant, réclames, notes marg., quelques init.
+          <lb/>ornées.
+          <lb/>Fol. A 2a non ch.:... D. D. Udalrico, Comiti in ! Montfort, &amp;amp; Rot¬
+          <lb/>tenfels: D. in Detnang, Argen, &amp;amp; Wasserburg: D. suo perpetua obser¬
+          <lb/>vantia! colendo Micaelus Toxites Rhaetus : medi-cus Argentoratensis :
+          <lb/>&amp;amp; comes Palatinus Caesareus. ! S. P. D.... — Argentorati. I XVI. Cal.
+          <lb/>Decemb. Anno M. D. LXVII. (Préface de 6 ff.)
+          <lb/>R102.193. Prov. inconnue.
+          <lb/>1771
+          <lb/>PARACELSUS Theophrastus
+          <lb/>Strasbourg, Th. Rihel 1570
+          <lb/>ARCHIDOXA PHILIPPI THEO- PHRASTI PARACELSI BOM¬
+          <lb/>bast, des hocherfahrnen, unnd be-rûhmtesten Philosophi,
+          <lb/>und beyder Artz- nei Doctoris, Von heymlichkeyten der¬
+          <lb/>Natur, Zehen Bücher. ITEM, I. De tinctura Physico¬
+          <lb/>rum.I. De occulta Philosophia. (Marque typ. de Theodosius
+          <lb/>Rihel. HAB Planche XXXII n° 13.) Cum gratia &amp;amp; privilegio
+          <lb/>Caesareo.
+          <lb/>Getruckt zu Straszburg, durch Theodosium Rihel.
+          <lb/>M. D. LXX. (Verso blanc.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

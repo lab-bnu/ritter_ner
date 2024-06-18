@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:14.743425+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002538.tif
+IMAGE WIDTH: 2520
+IMAGE HEIGHT: 3954
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>halten. — (Strasbourg 1529), in-4° (La messe qui jusqu’ici
+          <lb/>était tolérée à la cathédrale, St. Thomas, St. Pierre le
+          <lb/>Jeune et St. Pierre le Vieux, fut abrogée le 20 février
+          <lb/>1529).
+          <lb/>Vogeleis, p. 224.
+          <lb/>3582
+          <lb/>ZEITUNG : Newe Zeytung des ratschlags und reyss der
+          <lb/>Kriegsrüstung, so der Türck newlich wider Karolum
+          <lb/>den Römischen Keyser und die Christen fürgenommen...
+          <lb/>— (Strasbourg, Wendelin Rihel), juin 1536, in-4°.
+          <lb/>Walter, n° 2486.
+          <lb/>3583
+          <lb/>ZEITUNG : Newe Zeittung am Himmel ist gesehen worden
+          <lb/>zwischen Nürmberg, Feüchtwangen und Anoltzpach im
+          <lb/>Jar M.D.L. — Strasbourg, Jean Prüss (pas avant 1550),
+          <lb/>in-40.
+          <lb/>Scheuchzer, J. J. : Bibliotheca scriptorum historiae naturalis
+          <lb/>omnium terrae regionum inservientium (Tiguri 1716), p. 67;
+          <lb/>Wickersheimer, E. : Catalogue des Folia naturales res spectan¬
+          <lb/>tia a Johanne Hermann collecta. Dans : Revue des Biblio¬
+          <lb/>thèques nos 11/12 (1925), n° 223.
+          <lb/>3584
+          <lb/>ZEITUNG : New Zeyttung und Warhaffte geschicht, so dises
+          <lb/>gegenwertigen M.D.LIIII. Jars, von vilen Menschen zu
+          <lb/>Ingolstadt, zu Regensburg und zu Nürnberg am Himmel
+          <lb/>gesehen worden. (A Ingolstadt le 6 mars, à Ratisbonne
+          <lb/>le 9 et à Nuremberg le 23 mars 1554). — Strasbourg,
+          <lb/>Thiébaud Berger 1554, placard in-fol.
+          <lb/>Bibl. Centrale Zurich.
+          <lb/>3585
+          <lb/>ZEITUNG : Neüwe Zeytung und Warhaffte Bekandtnuss des
+          <lb/>Christlichen Glaubens auff dem Landtag zu Piotrkow
+          <lb/>durch die gesandten des Kunigreichs Polen. Geschehen
+          <lb/>auff den dritten tag Maij Anno M.D.LV. — Strasbourg,
+          <lb/>Th. Berger (1555), in-40.
+          <lb/>Schottenloher 40.808 b.
+          <lb/>3586
+          <lb/>536
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

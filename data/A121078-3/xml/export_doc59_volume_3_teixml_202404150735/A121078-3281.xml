@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:10.343404+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3281.tif
+IMAGE WIDTH: 2348
+IMAGE HEIGHT: 3856
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Bl. b 3a: Thomae Murner lacobus Vuympfelingius Sal....
+          <lb/>Ex cellula mea Heremitorii diui Guilhermi suburbani vrbis
+          <lb/>heluetiorum. Argentinen. VIl. kalen. Sextilis. Anni 1502.
+          <lb/>Auf der Vorders, des letzten Bl.: Eucharius Gallinarius ple¬
+          <lb/>banus nuper ecclesiae Argentinensis. lacobo Vympfelingo
+          <lb/>Salutem... — Datae Spi- rae Decimo kalend. Septembris.
+          <lb/>1502.
+          <lb/>*R100.629. Prov.: Geschenk der Stadt Heilbronn.
+          <lb/>Proctor II Sectio I Nr. 9887: London Brit. Museum; fehit bei
+          <lb/>Schmidt. GK unter Defensio: SB Berlin, UB Königsberg, Marburg.
+          <lb/>1064
+          <lb/>GÜNTHER VON ANDERNACH. Siche: GUINTERIUS Johannes
+          <lb/>Andernacus
+          <lb/>GUNTHERUS monachus Cisterciensis Strassburg, J. Schott 1531
+          <lb/>GVNTHERI Poëtae clarissimi, LIGVRINVS, seu Opus,
+          <lb/>De Rebus gestis Imp. Caesaris FRIDERICI, I. AVG. LIB. X.
+          <lb/>ab- solutum.
+          <lb/>RICHARDI( Bartholini, Perusini, AvSTRIADOS! LIB.! XII.
+          <lb/>Maximiliano Au¬ gusto dicati. CVM SCHOLHISlacobi
+          <lb/>Spiegelij Selest. V. C.M. D. XXXI.
+          <lb/>S. 353: ARGENT. apud. Ioannem Schottum librarium.
+          <lb/>Anno a mundo renato M. D. XXXI. XXVI. Augusti.
+          <lb/>20, Antig., Teil I: Ligurinus, 3 unn. Bll., 286 S. (Schmidt II
+          <lb/>Nr. 118 sagt fälschlich 296), 3 unn. Bll. (Index, 3sp.); II. Teil:
+          <lb/>Austrias, 2 unn. Bll., 353 S., 8 unn. Bll. (Index), Kopft., Marg., Init.,
+          <lb/>Titelumrahmung mit den Bildnissen von Friedrich I., Maximilian,
+          <lb/>Karl V. u. Ferdinand. Holeschn, von H. Weidita.
+          <lb/>Rücks. des Titelbl, mit Umrahmung; in jeder Seitenbordüre 3 Me¬
+          <lb/>daillons mit römischen Kaiserbüsten.
+          <lb/>Die Rücks, des 2. Bl. der Austrias hat ebenfalls eine Umrahmung.
+          <lb/>In der linken Seitenbordùre befinden sich 2 Medaillons, das eine mit
+          <lb/>dem Bildnis Maximilians, das andere mit dem Wappen der Stadt Strass¬
+          <lb/>burg; in der rechten Seitenbordüre Bildnis des Kaisers Ferdinand und
+          <lb/>Wappen Schotts mit dessen Monogramm; zwischen beiden, awei Faune
+          <lb/>die Trompete schmetternd. (Siehe Butsch, Bücherromantik Teil II, Tafel
+          <lb/>100. C.)
+          <lb/>Auf der Rücks. des Titelbl.: Io. Schottus LECTORI. (Spiegel
+          <lb/>wird betitelt: “ summae nuper Aulae ornamentum, Alsatiae nunc nostrae
+          <lb/>decus.)
+          <lb/>723
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

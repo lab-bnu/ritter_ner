@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:45.237850+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078090.tif
+IMAGE WIDTH: 2320
+IMAGE HEIGHT: 3844
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>976
+          <lb/>MANCINELLUS Antonius
+          <lb/>Strasbourg, M. Schurer 1512
+          <lb/>Antonii Mancinelli De pa- rentum cura in liberos.
+          <lb/>Ad D. Iustinum Carosium. De Filiorum erga parentes
+          <lb/>Obedientia Honore, &amp;amp; Pietate.
+          <lb/>A la fin: ARGENTORAT. IN AEDIBVS SCHV-] RERIANIS. Mense
+          <lb/>Iulio. ! ANNO.] M. D. XII.  REGNANTE MAGNANIMO IMP. CAES.
+          <lb/>MAXIMILIANO P. F. AVG. (Verso blanc.)
+          <lb/>d’attente.
+          <lb/>In-80, car. rom., XXVIII ff. ch., titre courant, notes marg., init.
+          <lb/>Au verso du titre: Anto. Mancinellus Veliternus, cui parenti,! cui¬
+          <lb/>que filio, Filiaeque &amp;amp; praeceptoribus... — Haec Or vieti (quae urbs est
+          <lb/>&amp;amp; civitas Ethruriae inclyta) Nono Kalen das Februarias. Anno Salütis, M. D.
+          <lb/>RI01323. Prov.: BN Munich I/11 1877; 0,50 M. Annotations
+          <lb/>mss. dans le texte; ff. II et III manquent.
+          <lb/>Schmidt VIII n° 80: BM de Strasbourg et jadis Bibl, de Stras¬-
+          <lb/>bourg, Incun. n° 3240.
+          <lb/>1472
+          <lb/>MANCINELLUS Antonius: De poetica virtute. Voir: MIRANDULA
+          <lb/>Octavianus: Illustrium poetarum flores. Strasbourg, W. Rihel
+          <lb/>1544, 1549, 1559, 1567.
+          <lb/>MANDEMENT (Mandatum, Mandat). Voir: ORDONNANCE
+          <lb/>Strasbourg, Josias Rihel 1590
+          <lb/>MANES Sturmiani
+          <lb/>Manes Sturmiani: Sive! Epicedia,... (Voir p. 977.)
+          <lb/>A la fin: ARGENTINÆ! excudebat Iosias Rihelius. M. D.
+          <lb/>XC. (Verso blanc.)
+          <lb/>In-8°, car, rom. et ital., 113 ff. non ch., sign. AN, titre courant,
+          <lb/>réclames, init. ornées; titre encadré: bordure supérieure, au milieu Jean
+          <lb/>Sturm, encadré d’une couronne, à gauche Thanon, à droite Bion; bor¬
+          <lb/>dures latérales, ornements; bordure inférieure, à gauche Aristote,
+          <lb/>à droite Cicéron, tous les deux assis, tenant un livre; entre eux, orne¬
+          <lb/>ments. (Voir p. 977.)
+          <lb/>Fol. 2a: D. Elisabethae: Angliae, Franciae, ac Hy-berniae Re¬
+          <lb/>ginae... Philippus Glaserus Graecae! linguae in Acad. Argenti- nensi
+          <lb/>Professor, (32 dist. à la louange de J. Sturm.)
+          <lb/>Fol. 7b: Portrait de Jean Sturm, au-dessus: EFFIGIES IOANNIS
+          <lb/>STVRMII, VIRI CLARISSIMI.
+          <lb/>Fol. 8a: In Effigiem! Cl. Viri! Ioannis Sturmii. (6 dist. lat. de
+          <lb/>Georgius Calaminus Silesius et 3 dist. grecs de Hier. Commelius.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

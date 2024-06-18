@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:06.019441+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002171.tif
+IMAGE WIDTH: 2506
+IMAGE HEIGHT: 3954
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Goedeke 12, p. 346, n° 13; Braune, Neudrucke, fasc. 55/6,
+          <lb/>p. XVII : Darmstadt. Reproduit chez K. Simrock, Deutsche
+          <lb/>Volksbücher, vol VI, Berlin 1841.
+          <lb/>1657
+          <lb/>EULENSPIEGEL : Eulenspiegel Reimensweisz. Ein newe Be¬
+          <lb/>schreibung unnd Legendt desz kurtzweiligen Lebens, und
+          <lb/>selnamen (sic) Thaten Thyll Eulenspiegels, mit schönen
+          <lb/>neuwen Figuren bezieret, und nu zum ersten in artige
+          <lb/>Reimen, durch J. F. G. M. [Johann Fischart Genannt
+          <lb/>Mentzer) gebracht... — (Getruckt zu Franckfurt am
+          <lb/>Mayn durch Johannem Schmidt in verlegung Hieronymi
+          <lb/>Feyrabends und Bernhart Jobin (1572), in-8°.
+          <lb/>Hauffen, Fischarts Werke II, xXVInI-466 p.
+          <lb/>1658
+          <lb/>EURIOLUS und Lucretia. Voir: PIUS II, nos 2917/8.
+          <lb/>EURIPIDES : Alcestis. Graece seorsim edita. — Strasbourg,
+          <lb/>Josias Rihel 1568, in-4°,
+          <lb/>Graesse II, p. 521.
+          <lb/>1659
+          <lb/>EURIPIDES : Cyclops Euripidis, Poetae Tragici. Cum duplici
+          <lb/>versione Latina Una Phil. Melanchthonis. Altera Corio¬
+          <lb/>lani Martiani, Cosentini Episcopi. (Marque typ. de
+          <lb/>Wyriot). — Argentorati, Excudebat Nicolaus Wyriot,
+          <lb/>M. D. L. XXXII (1582), in-8°,
+          <lb/>Bibl. S. Guillaume, Strasbourg.
+          <lb/>1660
+          <lb/>EURIPIDES : Medea. (en allemand par Georges Buchanan. —
+          <lb/>Strasbourg 1571), in-8°.
+          <lb/>Bahlmann p. 85.
+          <lb/>1661
+          <lb/>EURIPIDES : Medea. Graece cum versione Buchanan. —
+          <lb/>Strasbourg 1576. [éd. Josias Rihel-Rietsch, versione
+          <lb/>latina Buchanan 1598 : Ritter, Rép., n° 821)l.
+          <lb/>1662
+          <lb/>EURIPIDES : Phoenissae. Graece et Lat, per G. Calaminum. —
+          <lb/>Strasbourg, Nicolas Wyriot 1577, in-8°.
+          <lb/>Graesse II, p. 523.
+          <lb/>1663
+          <lb/>169
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

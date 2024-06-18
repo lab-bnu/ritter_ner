@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:56.516587+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5198.tif
+IMAGE WIDTH: 2358
+IMAGE HEIGHT: 3854
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1508
+          <lb/>Notes mss., au-dessous du titre: « In usum Patrum Wessobrunensium»;
+          <lb/>à l’intérieur du 1er plat : « Duplum Bibliothecae Regiae Monacensis».
+          <lb/>2410
+          <lb/>VIOLA Sanctorum. Voir : MARTYROLOGIUM.
+          <lb/>VIRDUNG Paulus. Voir: HAWENREUTER Joh. Lud. Strasbourg,
+          <lb/>J. Martin, 1591. R 101.564 (20); n° 1085.
+          <lb/>VIRGILIUS MARO Publius
+          <lb/>Strasbourg, J. Grüninger, 1502
+          <lb/>Publij Virgilij maronis opera (en rouge).
+          <lb/>Au-dessous très belle grav. sur bois, hauteur 225 millimètres,
+          <lb/>largeur 155 millimètres : Dans un paysage, Virgile en manteau,
+          <lb/>une couronne sur la tête, à sa droite : Auguste, Mécène et
+          <lb/>Pollio, à sa gauche Varron, Tucca, Maevius, Bavius et Corne¬
+          <lb/>lius Gallus; en arrière, Calliope ailée, lui mettant la couronne.
+          <lb/>Tous ont des costumes imaginaires, Virgile, jeune homme
+          <lb/>noble de la fin du xve siècle.
+          <lb/>Au fond à droite la mer, d’où s’élève un château, à gauche
+          <lb/>le rivage, les tours d’une ville, et un paysage où se trouve
+          <lb/>encore une fois Virgile près d’un homme avec 2 chevaux,
+          <lb/>un paysan apporte un panier.
+          <lb/>A la fin : Impressum regia in civitate Argenten or-[ dina¬
+          <lb/>tione : eliminatione: ac relectione Sebastiani!! Brant : opera¬
+          <lb/>que &amp;amp; impensa non mediocri ma-gistri Iohannis Grieninger.
+          <lb/>Anno incarnati-onis christi. Millesimo quingentesimo
+          <lb/>secun- do quinta kalendas septembres die.
+          <lb/>Au-dessous marque typ. de Grüninger (H. &amp;amp; B. Planche I,
+          <lb/>n° I ; Silvestre, n° 503).
+          <lb/>In-fol., car, rom., 6 ff. non ch., CCCCX ff. ch., l’avant-dernier f. est
+          <lb/>marqué par erreur CCCCVIII et le dernier CCCCVII, les commentaires
+          <lb/>qui entourent le texte, sont en caractères plus petits. Puis vient un
+          <lb/>appendice avec le 13e livre de l’Enéide par Maffeo Vegio et les poésies
+          <lb/>attribuées à Virgile, numérotés I-XXXIII.
+          <lb/>Titre courant, de nombreuses initiales à fig. et de nombreuses belles
+          <lb/>grav. La pagination est mal soignée, de nombreuses erreurs, ainsi fol.
+          <lb/>XLVII marquée XLVIII, LI-LVI, etc.
+          <lb/>Au verso du titre : Publij Virgilii Maronis opera cum quinque II vulgatis
+          <lb/>commentariis: expolitissimisque figuris atque imaginibus nuper per
+          <lb/>Se I] bastianum Brant superadditis : exactissimeque reuisis : atque
+          <lb/>elimatis. Suit un carmen de Brant avec 56 vers latins. Puis : Vigeat floreat
+          <lb/>Crescat ]] apud argentinenses !] siue Tribotes!! pax. liber [I tas at- [ que
+          <lb/>iu (I stici[a.
+          <lb/>fol. A 2b. Christophori Landini Florentini in p. Virgi, interpretationes
+          <lb/>proœmium ad Petrum medicen magni Laurentii filium.
+          <lb/>fol. A 4b : Vita Maronis.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

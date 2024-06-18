@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:36.942026+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2357.tif
+IMAGE WIDTH: 2324
+IMAGE HEIGHT: 3826
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>358
+          <lb/>fol. 2a: IOAN. STVRMH AD IOAN. BONERVM SEVE-] rini
+          <lb/>filium praefatio... — Argentorati Octavo Calend. Apri-leis.
+          <lb/>Anno M. D. XLI. (9 p.)
+          <lb/>RI01.682. Prov.: Vol. I, Don des barons de Dörnberg. Cassel
+          <lb/>29/IV. 1890.
+          <lb/>Au recto du f. de garde: &amp;quot;Sum Friderici à Boinenburgk, cognomi¬
+          <lb/>nati ab Hoinstein.»
+          <lb/>Vol. II: Don de la BM de Mayence 1871; au milieu du titre:
+          <lb/>&amp;quot;Carmeli Mogunt, 1713.» Rel. anc.
+          <lb/>BM Strasbourg. GPB: BN et BU Berlin, B U Bonn, Rœnigs¬
+          <lb/>berg, Greifswald (Vol. II), Halle (Vol. II).
+          <lb/>532
+          <lb/>CICERO
+          <lb/>Strasbourg, I. Rihel, 1575.
+          <lb/>M. T. CICERONIS ALTERVM EPISTOLARVM Volumen.
+          <lb/>Ad J. Atticum.Ad M. Brutum.Ad Q. Fratrem. CVM
+          <lb/>PRAEFATIONE IOAN.Sturmij. Indice, &amp;amp; Pauli Manutij
+          <lb/>Annotationibus. Omnia ad vetustorum exemplarium fidem,
+          <lb/>nunc demum diligentissimè repurgata, à Theophilo Da¬
+          <lb/>sypodio Argentinensi.
+          <lb/>Marque typ. de I. Rihel. (H e B. Planche XXXI, No 9; Silves¬
+          <lb/>tre, N° 599.)
+          <lb/>Cum Gratia &amp;amp; Priuilegio Caesareo ad Annos octo.
+          <lb/>M. D. LXXV. (Verso blanc.)
+          <lb/>In-8°, car. ital., 20 ff. non ch., 335 ff. ch., 64 ff. non ch., 1f
+          <lb/>blanc, titre courant, réclames, initiales d’attente.
+          <lb/>fol. a 2a non ch.: Ap... IV- uenem, Ottonem, Comitem
+          <lb/>in Solms, Domi-num in Mintzenberg &amp;amp; Sonnewaldt...—
+          <lb/>Argentorati 10 Calend. Septemb. Theophilus Dasypodius
+          <lb/>Argent. (4 p.)
+          <lb/>fol. a 4a non ch.: Ad...Vuolffgangum à Gruenensteyn
+          <lb/>Abbatem Campi- dunensem. (6 p.) Suit 1 f. blanc.
+          <lb/>fol. b 1a non ch.: VERBA GRAECA LATINE EXPRESSA.
+          <lb/>(24 p. en car. grecs et ital.)
+          <lb/>R401.674. Prov.: Ed. Zahn, Hirsau, 9/1x. 1886; 1 M. Notes
+          <lb/>mss. Au bas du titre: «Frid. Lud. Moeck, Alumnus Bebenhusanus,; au¬
+          <lb/>dessous: «Al. Blau: 1788». Au recto du f. de garde: Georg Friedrich
+          <lb/>Fischhaber. Al. Blanifontanus. Rel, anc.
+          <lb/>GPB: BN Berlin, BU Breslau.
+          <lb/>533
+          <lb/>Pera
+          <lb/>CICERO
+          <lb/>Strasbourg, J. Rihel, 1578.
+          <lb/>(Vol. Il. M. T. CICERONIS ] ORATIONVM VOLVMINA TRIA.
+          <lb/>Post postremam Naugerianam, &amp;amp; Victo-rianam correctio¬
+          <lb/>R.23
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

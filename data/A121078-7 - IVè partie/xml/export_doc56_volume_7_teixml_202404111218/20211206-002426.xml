@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:12.435254+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002426.tif
+IMAGE WIDTH: 2500
+IMAGE HEIGHT: 3996
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>PSALMBÜCHLEIN : (Idem). — Strasbourg, Bernard Jobin
+          <lb/>1591, in-24°. Vogeleis p. 340.
+          <lb/>Goedeke II2, p. 175, n° 23; Graesse V, p. 483.
+          <lb/>3000
+          <lb/>PSALMBÜCHLEIN : (Idem). — Strasbourg, Antoine Bertram
+          <lb/>1597, in-8°. Vogeleis p. 340.
+          <lb/>Goedeke I12, p. 175, n° 23; Graesse V, p. 483.
+          <lb/>3001
+          <lb/>PSALMEN : Psalmen gebett. und Kirchen übung wie sie zu
+          <lb/>Straszburg gehalten werden. (Marque typ. de Köpfel). —
+          <lb/>(Strasbourg), Wolff Köpphel 1526 (Encadrement).
+          <lb/>Hubert no 15 : B M Zurich; Smend, p. 125.
+          <lb/>3002
+          <lb/>PSALMEN : Gebett und Kirchen übung wie sie zu Straszburg
+          <lb/>gehalten werden. — Strasbourg, Wolfgang Köpfel
+          <lb/>1526, in-8°,
+          <lb/>Hubert, n° 16: Göttingen; Smend, p. 125.
+          <lb/>3003
+          <lb/>PSALMEN : (Idem). — (Strasbourg), Wolfgang Köpfel 1533,
+          <lb/>in-80. (Marque typ. et encadrement de Köpfell.
+          <lb/>Wackernagel 316 et Letzter Nachtrag Sp. 713; Hubert, n° 24.
+          <lb/>(Une éd. de 1530 par Köpfel voir: Ritter, Rép. n° 1935). 3004
+          <lb/>PSALMEN : Die zween Psalmen : In exitu Israel &amp;amp; und Dne
+          <lb/>probasti me &amp;amp; verteutscht... Item ein geystlich lied vom
+          <lb/>gsetz und glauben. (Marque typ. de Köpfell. Anno
+          <lb/>M.D.XXVII. — (Strasbourg, Wolfgang Köpfel] 1527,
+          <lb/>in-80.
+          <lb/>Hubert n° 18 : Göttingen.
+          <lb/>3005
+          <lb/>PSALMEN : Die zwen Psalmen: In exitu Israel &amp;amp;c. und Domine
+          <lb/>probasti me &amp;amp;c. verteütscht... Item ein geystlich lied
+          <lb/>von gsetz und glaüben... — Strasbourg, Wolfgang
+          <lb/>Köpfel 1527, in-8°. (Encadrement).
+          <lb/>Vogeleis, p. 220; Wackernagel, p. 98; Hubert, n° 19. 3006
+          <lb/>424
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

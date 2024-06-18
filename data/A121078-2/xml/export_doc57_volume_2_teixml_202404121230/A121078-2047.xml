@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:27.472261+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2047.tif
+IMAGE WIDTH: 2358
+IMAGE HEIGHT: 3834
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>43
+          <lb/>Argentorati per Vuendelinum Rihelium.Mense
+          <lb/>Martio. ANNo M. D. X. L. (Verso blanc.)
+          <lb/>Au verso du dernier f., marque typ. de W. Rihel. (H&amp;amp; B Planche
+          <lb/>XXIX, N0 2; Silvestre, No 742.)
+          <lb/>in-8°, car. grecs, 4 ff. non ch. dont le dernier blanc, 401 pp. ch.
+          <lb/>(texte grec), titre courant, réclames, init. ornées (blanches sur fond noir.)
+          <lb/>Fol. 2a non ch.: OPTIMAE SPEI ADO LESCENTI WOLFGAN¬
+          <lb/>Go Mey Bernati, Jacobus Bedro tus. S. P. D.... — Argen¬
+          <lb/>torati, Mense Mar- tio 1540. (4pp.)
+          <lb/>RI01832(2). Prov.: J. L. Beijers, Utrecht, 12/xI11877; 2 M.
+          <lb/>GPB VI, 7063: Berlin, München.
+          <lb/>74
+          <lb/>ARISTOTELES
+          <lb/>Strasbourg, W. Rihel, 1545.
+          <lb/>APIETO- TEAOYZ HOIKON NIKOMAXEION BI- BAIA
+          <lb/>AEKA.
+          <lb/>ARISTOTELIS DE MORIBVS AD NICOMACHVM LIBRIDECEM.
+          <lb/>Marque typ. de W. Rihel, répétée au verso du dernier f. (HAB
+          <lb/>Planche XXIX, NO 3; Silvestre, N° 740.)
+          <lb/>Argentorati per Vuendelinum Rihelium Mense Junio.
+          <lb/>ANNO M. D. XLV. (Verso blanc.)
+          <lb/>A la fin: ARGENTORATI EXCVDEBAT WENDELINVS RIHE¬
+          <lb/>LIVS] ANNO M. D. XLV.
+          <lb/>in-8°, car, grecs, 8 ff. non ch. dont les deux derniers blancs, 166
+          <lb/>ff. ch., 2 ff. blancs avec la marque typ. au verso du dernier, titre cou¬
+          <lb/>rant, réclames, init, ornées.
+          <lb/>Fol. 2a non ch.: JOANNES STVR MIUS. Préface de 4 pages et
+          <lb/>demie en car. rom.)
+          <lb/>Fol. 4b non ch.: Jo. LODOVI-CUS VIVES. (4 pages en car rom.)
+          <lb/>RI01.832 (1). Prov.: J. L. Beijers, Utrecht, 12/XII. 1877; 1M75.
+          <lb/>Notes mss. Le titre est précédé de 15 ff. blancs; les 11 premiers
+          <lb/>contiennent en mss. des annotations, dont il est dit à la fin: «Trans¬
+          <lb/>cripta ex codice impresso à Josia Rihelio Argentorati 1563
+          <lb/>Neomagii Anno 1573. Mense Maio».
+          <lb/>Oxford, Bibl. Bodleiana.
+          <lb/>Réédition de l’édition de 1540, dont je viens de retrouver l’exem¬
+          <lb/>plaire de la Bibliothèque, longtemps perdu: R 102.099. Prov. Schleier¬
+          <lb/>macher, Potsdam, 17. V. 1886; 8 M. Notes mss. GPB VI, 6483.
+          <lb/>75
+          <lb/>ARISTOTELES
+          <lb/>Strasbourg, W. Rihel, 1549.
+          <lb/>APIXTOI TEAOYE HOAI TIRON BIBAIA OKTO.
+          <lb/>ARISTOTELIS POLITICORVM! Libri octo.
+          <lb/>Marque typ. de W. Rihel, répétée au verso du dernier f. (H&amp;amp;B
+          <lb/>Planche XXIX, NO 3, Silvestre, N° 740.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

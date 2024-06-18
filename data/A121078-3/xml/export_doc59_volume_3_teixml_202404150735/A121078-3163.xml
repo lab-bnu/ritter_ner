@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:07.237686+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3163.tif
+IMAGE WIDTH: 2310
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>80, Got. u. Kursiv, 60 unn. Bll., Sign. A-H. Kopft., Kust., Marg.,
+          <lb/>Init. M. Jedem Akt geht eine kurze Inhaltsangabe in deutschen Versen
+          <lb/>voran. Am Schluss 2 Chöre u. ein Epilog von 8 S. in deutschen Versen.
+          <lb/>R100.9522. Prov.: Bibl. Ch. Schmidt 1895 mit seinem Exlibris
+          <lb/>u. handschr. Notizen von seiner Hand, unter andern: « Dans ce même
+          <lb/>volume le Phasma de Frischlin. L’identité de la vignette au dernier f. des
+          <lb/>comédies avec celle du titre du Phasma prouve que celui-ci est aussi im¬
+          <lb/>primé à Strasbourg par les héritiers de Bernard Jobin.»
+          <lb/>2. Ex. R 100.9581. Prov.: Pfarrer Hartter, Luitzhausen 22. X.
+          <lb/>1877; 1 M. 10. Auf der Innens, des Vorderdeckels : M. Georg Veesen¬
+          <lb/>meyer, Prof. Gymn. 1813, m. Octbr. 1 M. 10.
+          <lb/>GK: SB Berlin, UB Bonn, Breslau, Greifswald, Königsberg.
+          <lb/>Brunet II5, 1401: Réimprimé sous la même indication en 1598 et
+          <lb/>1612, pet. in-8°, 3 à 5 fr. — Vend. 8 fr. Courtois. L’édit. de 1598 en
+          <lb/>60 ff.; 20 fr. de Soleinne; 9 fr. 50 c. Baudelocque.
+          <lb/>914
+          <lb/>FRISCHLIN Nikodemus
+          <lb/>Strassburg, B. Jobins Erben 1594
+          <lb/>NICODEMI FRISCHLINI. POPPYSMVS GRAMMATICVS, PRO
+          <lb/>STRIGILI SVA GRAMMATICA, aduersus M. Crusij, &amp;amp; Moro¬
+          <lb/>poli- tarum, Tubingae Bacchan- tium, Coccysmos, siue
+          <lb/>Antistrigilem: TRIBVTVSIN DVOS DA-logos Ap lose¬
+          <lb/>phum ScaligerumEr Iustum Lipsium. (Vign.)
+          <lb/>ANNO M. D. LXXXXIIII. (Rücks, leer.)
+          <lb/>8°, Kursiv, 13 unn. Bll., 239 S. (S. 251-580.) (Die Zählung
+          <lb/>springt von 409 auf 510 statt auf 410), 1 unn. Bl., Kopft., Kust.,
+          <lb/>Init. L.E.
+          <lb/>Bl. s5a: NICODEMVS FRI- SCHLINVS, MOROPOLI- ] tis
+          <lb/>Tubingae Bacchantibus. S. E. B. M.... — Pragae ad Idus
+          <lb/>Martij, 1587. (Vorrede, 7 S.)
+          <lb/>Bl. t6a: NICODEMVS FRISCH- LINVS IOSEPHO SCALIGERO,
+          <lb/>Iulij Caesaris F. Salutem... — Pragae Bohemorum Calend.
+          <lb/>lanuar. anni 1587. (Widmung, 4 S.)
+          <lb/>Bl. t 8a:... NICODEMO FRISCHLINO... — Christianus Po¬
+          <lb/>denstein Grimae 3. Calend. Decem. (26 Verse.) (Rücks, leer.)
+          <lb/>Folgt: POPISMI GRAMMATICI. Dialogus Primus. (S. 251-
+          <lb/>387.) und Dialogus Secundus. (S. 388-580.)
+          <lb/>R100.9553. Prov.: Lippert, Halle S. XII. 1887.
+          <lb/>2. Ex. R.100.957. Prov.: H. Kerler, Wien 19. X. 1878.
+          <lb/>Brunet II5, 1400: Venetiis, Aldus, 1584, in-8°, 2 ff. 107 pp. et
+          <lb/>8 ff. (Réimprimé à Strasbourg 1594, in-8°.)
+          <lb/>915
+          <lb/>607
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

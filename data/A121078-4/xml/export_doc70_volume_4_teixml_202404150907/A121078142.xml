@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:46.632165+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078142.tif
+IMAGE WIDTH: 2310
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1028
+          <lb/>R101896. Prov.: W. Roth, Esslingen 23/V1 1886; 4 M. 60
+          <lb/>Note ms. au titre: Ex libris Hartmani Roselii, 1675; à l&amp;#x27;intérieur de la
+          <lb/>couverture, petite étiquette : Wilh. Raths Antiquariat Esslingen a. N. Prix
+          <lb/>noté 5 fr. et 2 fr. 50.
+          <lb/>BN Paris, Ye 7555.
+          <lb/>1578
+          <lb/>MIRANDULA Octavianus
+          <lb/>Strasbourg, W. Rihel 1549
+          <lb/>ILLVSTRI VM POETARVM FLO-res... (Comme dans l’édition
+          <lb/>de 1544.)
+          <lb/>A la fin: ARGENTORATI Ex AEDIBVSWendelini Rihelii,
+          <lb/>Anno Domini 1549. 26. Idus Iunii. Au verso, marque tup. de
+          <lb/>Wend. Rihel. (HCB Planche XXIX n° 3; Silvestre n° 740.)
+          <lb/>In-8°, car. ital., 8 ff. non ch., 400 ff. ch., titre courant, réclames,
+          <lb/>init, ornées. Au verso du titre: Philippi Beroaldi ! de hisce floribus iu¬
+          <lb/>dicium.
+          <lb/>(10 dist.) Au verso: Philippus Beroal dus Lectori. (2 pp.)
+          <lb/>Fol. 3b non ch.:... D. Octaviano Arcimboldo... Octavianus Miran¬
+          <lb/>dula... (2 pp.) Suivent 3 ff. de table à 2 col.
+          <lb/>R101.897. Prov.: BN Munich 24/V 1877; 0.50 M. A l&amp;#x27;intérieur
+          <lb/>de la couverture, ex-libris; au-dessous : Domus S. S. Adelhaidis et Caie¬
+          <lb/>tani. Au milieu du titre: Ex dono Jacobi Tregeri Waldecensis. 1579
+          <lb/>MIRANDULA Octavianus
+          <lb/>Strasbourg, J. Rihel 1559
+          <lb/>Illustrium Poeta- RVM FLORES.., (Comme dans les éditions
+          <lb/>précédentes.)
+          <lb/>A la fin: ARGENTORATI EXCVDEBATIosias Rihelius,
+          <lb/>Anno Domini! 1559. (Verso blanc.) Au verso du f. suivant, marque
+          <lb/>typ. de J. Rihel. (He B Planche XXIX n0 5.)
+          <lb/>In-8°, car. ital., 8 ff. non ch. (comme dans l’édition de 1549),
+          <lb/>390 fr. ch., titre courant, réclames, init. ornées.
+          <lb/>R101.934. Prov.: BN Munich 24/V1877; 0,60 M. A l’intérieur
+          <lb/>de la couverture, ex-libris; au-dessus : Io. Franci D. G. Episcopus Fris.
+          <lb/>S. R. I. Princeps 1696.
+          <lb/>1580
+          <lb/>MIRANDULA Octavianus
+          <lb/>Strasbourg, J. Rihel 1567
+          <lb/>Illustrium poëta- rum flores... (Comme dans les éditions
+          <lb/>précédentes.)
+          <lb/>A la fin: Argentorati excude- bat Iosias Rihelius.
+          <lb/>Anno M. D. LXVII.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

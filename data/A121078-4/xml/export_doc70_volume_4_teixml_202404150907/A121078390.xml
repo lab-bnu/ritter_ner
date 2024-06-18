@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:54.275012+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078390.tif
+IMAGE WIDTH: 2358
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1276
+          <lb/>REUCHLIN Johannes
+          <lb/>Haguenau, Th. Anshelm 1517
+          <lb/>IOANNIS REUCHLIN PHORCENSIS L L DOC. DE ARTE
+          <lb/>CABALISTICA LIBRI TRES LEONI(X. DICATI.
+          <lb/>Au-dessous, armoiries de Reuchlin, en haut une roue, en bas au
+          <lb/>milieu, écusson avec un vase, portant au bord supérieur les lettres
+          <lb/>Aracap, en bas Nionis. (Capnio — Reuchlin)
+          <lb/>Sous la gravure: Cum Privilegio Imperiali.
+          <lb/>A la fin: Hagenau apud Thomann Anshelmum Mense Martio, M. D.
+          <lb/>XVII. Verso blanc.
+          <lb/>In-fol,, car, rom, et hébr., 4 ff. non ch., LXXIX ff. ch. et 1 f.
+          <lb/>non ch., titre courant, réclames, init. ornée J.
+          <lb/>Au verso du titre, privilège impérial de Maximilien pour 5 années:
+          <lb/>Datum in Terzolas die XXI. Mensis Aprilis. Anno M. D. XVI. Regni
+          <lb/>nostri Romani tricesimo primo.
+          <lb/>fol. A 2a-A 3b non ch.: Index.
+          <lb/>fol. A4 non ch.: SANCTISSIMO LEONI DECIMO PON TIFIC
+          <lb/>MAXIMO JOHANNES Reuchlin se supplex commendat...
+          <lb/>R 10.277. Provenance inconnue. Notes mss.
+          <lb/>Au haut du titre: Ad F F. Franciscanos Neoburgi Bibliotheca;
+          <lb/>au bas: « Michael Taver (?) verehrt dises Seinem hochgelehrten herrn
+          <lb/>Vetter und Schwager herrn Ioanni Friedl, der heillig Schrift Doctori,
+          <lb/>der Zeit Pfarrer zum h. Geist hier in Neuburg den 16. Maij anno 1665.»
+          <lb/>Proctor II, Sectio I, N° 11.685: Londres, British Museum.
+          <lb/>La librairie Neurry, Paris (Le Bibliophile ès siences psychiques,
+          <lb/>N° 59, Novembre 1935, p. 21, N° 211 offre un exemplaire pour 300 frs.
+          <lb/>Brunet IVe, 1253: Ouvrage non terminé: un bel exemplaire en
+          <lb/>m. v. 32 fr. Morel-Vindé. Réimprimé Hagenoe, apul Joh. Secerium, 1530,
+          <lb/>in-fol.
+          <lb/>1992
+          <lb/>REUCHLIN Johannes
+          <lb/>Haguenau, Th. Anshelm 1518
+          <lb/>DE ACCEN TIBUS... (Voir le titre p. 1977.)
+          <lb/>A la fin: Hagenoae in aedibus Thomae Anshelmi Badensis Anno
+          <lb/>M. D. XVIII.
+          <lb/>Marque typ. de Th. Anshelm. (Il. è B. Planche LXII, N° 2)
+          <lb/>Au dessous. Cum Privilegio Imperiali. (Verso blanc.)
+          <lb/>In-4°, car, rom. et hébreux, LXXXIII ff. ch., 5 ff. non ch., dont
+          <lb/>les 4 premiers contiennent des notes de musique avec le texte hébreux
+          <lb/>sous les lignes, le dernier contient 3 dist. latins de Jo. Secerius ainsi
+          <lb/>que l&amp;#x27;explicit et la marque, titre courant.
+          <lb/>fol. II - fol. IV: Dé licace: ADRIANO, S. CHRYSOGONI REVE
+          <lb/>RENDISSIMO CARDINALI. JOAN( NES REUCHLIN PHORCENSIS LL.
+          <lb/>DOCTOR salutem d....
+          <lb/>R 102.165. Prov.: Bibl. Ed. Böcking, Bonn, avec son ex-libris au
+          <lb/>verso du titre, au-dessus de l’ex-libris, timbre: Bibliotheca regia Monacensis.
+          <lb/>Brunet IVe, 1253; Beaulieux p. 254: BU Paris (Réserve 632.) 1993
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

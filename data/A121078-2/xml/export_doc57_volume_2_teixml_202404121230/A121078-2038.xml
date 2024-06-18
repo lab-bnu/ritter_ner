@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:27.330506+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2038.tif
+IMAGE WIDTH: 2366
+IMAGE HEIGHT: 3828
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>34
+          <lb/>R101.043 (2). Prov.: BN Munich, 31/1. 1878, 1 M. Annotations mss.
+          <lb/>A la suite de: PHILELPHUS Franciseus: Epistolae, Augustae
+          <lb/>Vindel, 1519.
+          <lb/>Rés. m. Yc. 731.
+          <lb/>Schmidt VIII, NO 13; Walter, No 604: BM Sélestat;¡BN Paris.
+          <lb/>Halle.
+          <lb/>Londres, British Museum; GPB IV, 7666: Berlin, München, Wien,
+          <lb/>55
+          <lb/>ANDRELINUS Publius Faustus Strasbourg, Math. Schürer, 1510.
+          <lb/>CARMEN] FAVSTI. Publij Fausti Andrelini Foroliuiensis
+          <lb/>poetae lau reati ac regij, epistola, in qua Anna gloriosissima
+          <lb/>Francorum regina, exhortatur maritum potentissimum
+          <lb/>atque inuictissimum Francorum regem Lodouicum duode¬
+          <lb/>cimum, vt expectatum in Galliam aduentum maturet,
+          <lb/>posteaque de prostratis a se Venetis triumphauit.
+          <lb/>A la fin: Argentorati in Schürerianis aedibus! Ecclesiae
+          <lb/>JULIO I. MAXIMiliano Imperij DEO OPT. MAX.Totius
+          <lb/>machine Rectore. M. D.X. JVNII. XX. (Verso blanc.)
+          <lb/>in-4°, car, rom., 3 ff. non ch., tître courant.
+          <lb/>&amp;quot;RI01.018 (2). A la suite de: MANTUANUS Baptista, De fortuna
+          <lb/>Francisci Marchionis Mantuae. 1510. R 101.018(1).
+          <lb/>Schmidt VIII, No 36.
+          <lb/>56
+          <lb/>ANDRELINUS Publius Faustus
+          <lb/>Strasbourg, Math. Schürer, 1510.
+          <lb/>P. FAVSTI ANDRELINI Foroliuiensis Poetae Laureati!
+          <lb/>atque Oratoris clarissimi Epistolae prouerbiales &amp;amp; mo¬
+          <lb/>rales lon- ge lepidissimae! nec minus! senten- tiosae.
+          <lb/>A la fin: Finis nouem epistolarum adagialium P. Fausti
+          <lb/>Andrelini! iuxta musarum videlicet numerum, &amp;amp; trium
+          <lb/>(quot charites sunt) epigrammatum,! Argentorati, ex aedi¬
+          <lb/>bus Mathiae Schürerij Selestatini, Kalen. Julij. Anno
+          <lb/>post do-minicum na-talem M. D. X. (Verso blanc.)
+          <lb/>Au verso du titre: Beatus Rhenanus, Hieronymo Gebvi¬
+          <lb/>lero! Selestati bonas literas profitenti. S.... — Selestati.
+          <lb/>pridie Kalen, septem! bris. Anno. M. D. VIII.
+          <lb/>Fol. a 2a: Epistola nuncupatoria! Faustus illustri Fran¬
+          <lb/>ciae Cancellario, Joanni de! Ganay Mecoenati suo, foelici¬
+          <lb/>tatem. (1 page.)
+          <lb/>in-4°, car, rom., 14 ff. non ch., sign. A–C, tître courant, initiales
+          <lb/>d’attente.
+          <lb/>R100.827 et R100.828 Tous deux: Prou: Ville de Heilbronn,
+          <lb/>contre échange. R 100.828 a des notes mss.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:05.770227+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie040.tif
+IMAGE WIDTH: 2484
+IMAGE HEIGHT: 3924
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>EBRARDI, Udalricus : Modus latinitatis. — (Strasbourg,
+          <lb/>J. Prüss) 1491, in-4°.
+          <lb/>G W 9199; Hain 6537 — Hain 6541. Budapest, B N Munich,
+          <lb/>Vienne etc.
+          <lb/>225
+          <lb/>EBRARDI, Udalricus : Modus latinitatis. — (Strasbourg,
+          <lb/>J. Prüss) 1493, in-4°.
+          <lb/>G W 9200. Hain 6542. B N Munich, B M Francfort S. M.,
+          <lb/>Mayence etc.
+          <lb/>226
+          <lb/>EBRARDI, Udalricus : Modus latinitatis. — Strasbourg,
+          <lb/>Martin Flach 1498, in-40.
+          <lb/>G W 9206; Hain 6547; Proctor 711 ; Brit. Mus. Cat. I, 155;
+          <lb/>Schreiber 3879; Voulliéme : Berlin 2507 ; Walter 185. 227
+          <lb/>EBRARDUS Bethuniensis : Graecismus avec commentaire. —
+          <lb/>(Strasbourg, Jean Prüss pas après 1489), in-fol.
+          <lb/>G W 9217; Hain 6526; Pellechet 4545; Proctor 532; Brit.
+          <lb/>Mus. Cat. I, 121; Voulliéme : Berlin 2371. B N Munich, Paris,
+          <lb/>Bruxelles, Copenhague etc.
+          <lb/>228
+          <lb/>EGENOLF von Staufenberg : Geschichte von Peter Dieme¬
+          <lb/>ringer. — (Strasbourg, Jean Prüss vers 1483), in-fol.
+          <lb/>G W 9241; Voulliéme : Berlin 2371, 10. Heitz-Ritter n° 635:
+          <lb/>Donaueschingen.
+          <lb/>229
+          <lb/>EGENOLF von Staufenberg : Geschichte von Peter Dieme¬
+          <lb/>ringer. — (Strasbourg, J. Prüss vers 1483), in-fol.
+          <lb/>G W 9242 : Donaueschingen. Uber das Verhältnis zu der
+          <lb/>vorhergehenden Ausgabe vergleiche E. Rath in der Einlei¬
+          <lb/>tung zu der Facsimile-Ausgabe. (Berlin 1934) p. 7 et suiv.
+          <lb/>230
+          <lb/>EGENOLF von Staufenberg : Geschichte von Peter Dieme¬
+          <lb/>ringer. — (Strasbourg, Martin Schott vers 1489/90), in-fol.
+          <lb/>GW 9243; Hain-Copinger 6160; Proctor 393; Schreiber 3886;
+          <lb/>Heitz-Ritter n° 636 : Karlsruhe, Munich, Vienne etc.
+          <lb/>231
+          <lb/>38
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

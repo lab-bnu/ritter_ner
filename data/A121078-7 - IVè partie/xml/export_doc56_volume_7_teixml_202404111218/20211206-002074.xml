@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:03.309928+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002074.tif
+IMAGE WIDTH: 2490
+IMAGE HEIGHT: 3974
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>BRUNNIUS, Augustinus. Voir : HEERBRANDT, Jacobus, n° 1969.
+          <lb/>BRUNO, Giordano : De Lulliano specierum scrutinio. De
+          <lb/>lampade combinatoria Lulliana. De progressu logicae
+          <lb/>venationis. De lampade venatoria logicorum. A la suite
+          <lb/>de : LULLUS, Raymundus : Opera... Strasbourg, 1592.
+          <lb/>1129
+          <lb/>BRUNO, Giordano. Voir aussi : LULLUs, Raym, n° 2442.
+          <lb/>BRUNSCHWIG, Hier. (Distillierbuch) : Liber de arte distillandi...
+          <lb/>Das buch des lebens (de Marsilio Ficino). — (Strasbourg,
+          <lb/>Jean Grüninger (13.1) 1508, in-fol. (De nombreuses
+          <lb/>grav.).
+          <lb/>Kristeller 119; Schmidt I, n° 86; Panzer, Annalen I, 297. –
+          <lb/>BN Munich, Bâle (2e partie; Ficinus); Hiersemann (Leipzig),
+          <lb/>Catal. 606 n° 686: 1400 M. ; Choulant, Graphische Inkunabeln
+          <lb/>p. 84.
+          <lb/>1130
+          <lb/>BRUNSCHWIG, Hier. (Distillierbuch) : Liber de arte distulandi
+          <lb/>(sic)... — (Strasbourg, Jean Grüninger 1509), in-fol.
+          <lb/>Schmidt I, n° 111; Ritter : B M Strasbourg n° 613; Panzer,
+          <lb/>Annalen Zusätze 115. — [éd. Grüninger 1512 : Ritter, Rép.
+          <lb/>n° 309).
+          <lb/>1131
+          <lb/>BRUNSCHWIG, Hier. (Distillierbuch) : Das buch zu distillieren
+          <lb/>die zusamen gethonen ding Composita genant, durch die
+          <lb/>eintzige ding, und das buch Thesaurus pauperum, für
+          <lb/>die armen, durch experiment von mir... uff geklubt und
+          <lb/>geoffenbart... — Strasbourg, Jean Grüninger 1514,
+          <lb/>in-fol.
+          <lb/>Bibl. Budapest 500.843 (Communication de Mme Soury,
+          <lb/>Strasbourg); Weller 822 cite Mehnert, Catal. n° 311. 1132
+          <lb/>BRUNSCHWIG, Hier. (Distillierbuch) : Das distilier buch...
+          <lb/>Das buch des lebens Marsilius ficinus... (Getruck (sic):
+          <lb/>Strasbourg, Jean Grüninger 1515), in-fol.
+          <lb/>Schmidt I, n° 148; Panzer, Annalen I, 379.
+          <lb/>1133
+          <lb/>72
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

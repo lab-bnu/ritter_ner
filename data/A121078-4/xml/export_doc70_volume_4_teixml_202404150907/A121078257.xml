@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:49.897848+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078257.tif
+IMAGE WIDTH: 2308
+IMAGE HEIGHT: 3844
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1143
+          <lb/>In-8°, car. goth., 242 ff. non ch., sign. A-Z, a-f, titre courant.
+          <lb/>réclames, notes marg., init. goth. Au verso du titre : Index.
+          <lb/>Fol. 2a non ch. :... Herrn Maximiliano dem II.... — Geben zu
+          <lb/>Straszburg,) den 28. Ianuarii 1570. Michael Toxites, medicus Argento¬
+          <lb/>ratensis.
+          <lb/>R 101.277. Prov. : Hagemann, Strasbourg (Catal. 17 n° 338)
+          <lb/>15/V111879; 5 M. 20.
+          <lb/>1772
+          <lb/>PARACELSUS Theophrastus
+          <lb/>Strasbourg, Chr. Muller 1570
+          <lb/>Ettliche TractatusDes Hocher-farnen unnd be¬
+          <lb/>rümbte- sten Philippi Theophrasti Pa-racelsi, der waren
+          <lb/>Philosophi und Artzney Doctoris. I. Von Natürlichen
+          <lb/>dingen. Il. Beschreibung etlicher kreütter. IIl. Von Me¬
+          <lb/>tallen. IIII. Von Mineralen. V. Von Edlen Gesteinen.
+          <lb/>Cum Privilegio Caesareo ad decennium.
+          <lb/>Getruckt zû Straszburg am! Kornmarckt, bey Chri¬
+          <lb/>stian Mül- lers Erben, Anno! 1570. (Verso blanc.)
+          <lb/>In-8°, car. goth., 8 ff. non ch., 532 pp., titre courant, réclames,
+          <lb/>init. goth.
+          <lb/>Fol. 2a non ch. : Privilegium... — Geben in! unser Stat Wien,
+          <lb/>den 25. tag des Monats Se ptembris Anno, &amp;amp;c. im acht und Sechtzigsten....
+          <lb/>Fol. 4a non ch.:... Herrn Ferdinando, Ertzhertzo- gen zà Oster¬
+          <lb/>reich... — Datum Straszburg, den! ersten Martii, Anno 1570... Michael
+          <lb/>Toxites Medi- cus Argentoratensis.
+          <lb/>R101.294 (2). Prov.: Dr G. Lute, médecin à Lœwenstein 13/1
+          <lb/>1905; 10M.
+          <lb/>1773
+          <lb/>PARACELSUS Theophrastus
+          <lb/>Strasbourg, Th. Rihel 1570
+          <lb/>Trei Tractat! PHILIPPF! Theophrasti Paracelsi Bom¬
+          <lb/>bast des berümbtesten Phi-losophi, und beyder Artzney
+          <lb/>Doctorn. Der Erst, Von öffnung der Haut, und ihrer Na¬
+          <lb/>türlichen verletzung, sampt der heylung. Der Ander,
+          <lb/>Von heylung der Wunden.Der Tritt, Von Schlangen,
+          <lb/>Spinnen, Krotten, Krepsen, Mûttermehler etc. und ihrer
+          <lb/>tugent.Cum privilegio Caesareo ad decennium.
+          <lb/>Getruckt zû Straszburg, durch Theodosium Rihel.
+          <lb/>Anno M. D. LXX. (Verso blanc.)
+          <lb/>In-8°, car. goth., 8 ff. non ch., 532 pp., titre courant, réclames.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

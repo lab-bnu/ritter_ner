@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:51.157817+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078291.tif
+IMAGE WIDTH: 2312
+IMAGE HEIGHT: 3852
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>A la fin, avant la table: Opus perutile... impres sumque
+          <lb/>ac emendatum impensis circumspecti viri archi- bibliopole
+          <lb/>Joannis Rynman de Oringaw in offici- na industrii Hen¬
+          <lb/>rici Gran: civis in imperiali oppido Hagenaw: Finit feli¬
+          <lb/>citer Anno virginei partus Mil lesimo quingentesimo un¬
+          <lb/>decimo In vigilia sanctorum Si-! monis et Jude apostolorum.
+          <lb/>In-fol., car. goth., 2 col., CXLI ff. ch., 6 ff. non ch. (table), titre
+          <lb/>courant, init. d’attente.
+          <lb/>Fol. 2a : Prologus et divisio huius libri.
+          <lb/>R10.348 (8). Prov.: BN Munich 28/XI1 1877.IM.
+          <lb/>Proctor II Sectio I n° 11649; Londres, British Museum. 1838
+          <lb/>PELBARTUS DE THEMESWAR
+          <lb/>Haguenau, H. Gran 1511
+          <lb/>Pomerium SermonumDe Tempore! Hyemalium
+          <lb/>Estivalium Fratris Pelbarti de Themes war; sacre pa¬
+          <lb/>gine professoris :ordinisque Minorum de observantia.
+          <lb/>(Verso blanc.)
+          <lb/>Après la table (6 ff.) et 1 f. blanc, nouveau titre : Sermones Po¬
+          <lb/>merii ! De Tempore! Hyemales! Estivales. Au verso: Prologus.
+          <lb/>A la fin: Pomerium Sermonum de ! tempore... impres¬
+          <lb/>sum ac diligenter revisum per! industrium Henricum Gran
+          <lb/>in imperiali oppido Hagnaw: expensis ac sumptibus pro¬
+          <lb/>vidi Joannis Rynman Finit feliciter Anno salutis nostre
+          <lb/>Millesimo quin gentesimo undecimo. die vero augusti ulti¬
+          <lb/>mo. (Verso blanc.) Suivent 5 ff. de table et 1 f. blanc.
+          <lb/>In-fol., car. goth., 2 col., 234 ff. non ch., sign, a-2, A-K, titre
+          <lb/>courant, init. d’attente.
+          <lb/>R10.348 (1). Prov.: BN Munich 28/XII 1877; 2 M. 50. Notes
+          <lb/>mes. A l’intérieur de la couverture:, Duplum Bibliothecae regiae Mona¬
+          <lb/>censis.&amp;quot;
+          <lb/>1839
+          <lb/>1177
+          <lb/>PELBARTUS DE THEMESWAR
+          <lb/>Haguenau, H. Gran 1513
+          <lb/>Expositio compendiosa et familiaris... (Même titre que
+          <lb/>Pédition de 1504.)
+          <lb/>A la fin: impensis circumspecti vi- ri Joannis Ryn¬
+          <lb/>man de Orin- gaw: in officina industrii Hen rici Gran
+          <lb/>civis imperialis oppidi Hagenaw impres sa Anno virginei
+          <lb/>partus! M. d. XIII. die vero ix mensis Aprilis finit feli¬
+          <lb/>citer.Laus deo.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

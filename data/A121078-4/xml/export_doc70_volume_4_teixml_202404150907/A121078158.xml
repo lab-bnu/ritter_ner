@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:47.066822+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078158.tif
+IMAGE WIDTH: 2308
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1044
+          <lb/>Au-dessous: Thomas murner suis discipulis ordinis
+          <lb/>Minorum friburgensi gymnasio studentibus Salutem (9 lign.)
+          <lb/>... Datum friburgi Idibus decembris.
+          <lb/>A la fin: Sixtus murner impressit.
+          <lb/>In-40, car. goth., 10 ff. non ch., sign. a-b. Au verso du titre
+          <lb/>gravure: une main dont les doigts sont divisés en 4 parties, désignées
+          <lb/>par des lettres (minuscules), à la manche; au-dessous : Ecce manus
+          <lb/>omnes regulas speciales quantitatis sillabarum per singulas iuncturas
+          <lb/>luculenter et aperte demonstrat.
+          <lb/>Fol. A 2a : Prologus. Fol. A 3a: Tableau représentant les quan¬
+          <lb/>tités des syllabes.
+          <lb/>*R100.060. Prov.: Bœr e Co., Francfort-s.-M. 25/X1 1887;
+          <lb/>300 M. D&amp;#x27;après Sondheim: Die ältesten Frankfurter Drucke (Frankfurt
+          <lb/>a. M. 1885) p. 9, le livre a probablement été imprimé à Strasbourg, vers
+          <lb/>1605
+          <lb/>1510. Manque chez Schmidt.
+          <lb/>MURNER Thomas
+          <lb/>Strasbourg, M. Hupfuff 1512
+          <lb/>Doctor murners ! narren bschwerung. (Grav. sur bois en¬
+          <lb/>cadrée: un fou nu retenu par force dans une baignoire, un moine avec
+          <lb/>des lunettes, l&amp;#x27;exorcise et fait sortir de lui de petits fous et des guépes,
+          <lb/>deux moines assistent. L’encadrement de la bordure supérieure a au
+          <lb/>milieu un fou agenouillé, armé d’une lance et d’un bouclier; la bordure
+          <lb/>inférieure contient au milieu deux fous agenouillés faisant l&amp;#x27;exercice dit
+          <lb/>Strebkatz; les bordures latérales ont chacune 2 fous, qui sont debout
+          <lb/>sur des grelots. Verso blanc.
+          <lb/>A la fin: Getruckt und vollendet in der loblich- en
+          <lb/>statt Straszburg durch Ma-thiam Hupfuff Als man zalt
+          <lb/>von der geburt un sers herren Tusent Fünff hundert
+          <lb/>und Zwölff! Jar.
+          <lb/>In-40, car. got., 176 ff. non ch., sign. a-y, titre courant, toutes
+          <lb/>les pages ont deux bordures latérales, en partie très triviales. 96 grav.
+          <lb/>outre celle du titre; 76, dont plusieurs sont des répétitions, sont em¬
+          <lb/>pruntées au Narrenschiff de Brant; 18 plus petites sont d’Urs Graf.
+          <lb/>dont celles de fol. b 6b et c 5a portent le monogr. de Graf; celle de
+          <lb/>fol. x 6b est empruntée au titre du Manuale Curatorum, J. Pruss 1506,
+          <lb/>et celle de fol. x Sa à la Schelmenzunft de Murner 1512, Tère édition.
+          <lb/>Fol. a 2b-a 3b: Vorrede. Fol. a 3b-a 4b: Verachtung des dich¬
+          <lb/>ters. Fol. a 4b-a 5b : Antwurt des dichters. Fol, y5 à la fin : Ent¬
+          <lb/>schuldigung des dichters.
+          <lb/>R100.320. Prov. : Bœr è Co. (Vente Karajan n° 60). Franc¬
+          <lb/>fort-s.-M. 2/VI 1875; 30 M.; avec l&amp;#x27;ex-libris de Karajan et une anno¬
+          <lb/>tation de sa main au recto du f. de garde : Auf der gräfl. Königsacke-
+          <lb/>rischen versteigerung zu Wien erstanden 13, 6. 56 und 7/10... Dr Theodor
+          <lb/>Georg von Karajan. Le dernier f. blanc manque.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

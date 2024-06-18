@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:05.099963+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3022.tif
+IMAGE WIDTH: 2350
+IMAGE HEIGHT: 3842
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>466
+          <lb/>epistola ad Vulturium Neocomum, intendit. Per ministros
+          <lb/>Euangelij, ecclesiae ARGENTORATEN. Act. XXV. (Spruch
+          <lb/>3 Zeilen.) M. D. XXX. (Rückseite leer.)
+          <lb/>Am Schluss: Petrus Schaefer, &amp;amp; lohan. Apronianus, com
+          <lb/>munibus expensis excudebant.
+          <lb/>80, Kursiv, 120 unn. Bll., Sign. A-P. Kopftitel, Kustoden, Mar¬
+          <lb/>ginalien.
+          <lb/>Am Schluss, vor dem Explicit: Argen! torati. XXII. Cal. Mai
+          <lb/>M. D. XXX.
+          <lb/>R102.341. Prov. : Sandrog, Berlin, 6. HII. 1877; 3 M.
+          <lb/>Handschr. Notizen auf der Vorder- und Rückseite des Titelbl.
+          <lb/>Stadtbibl. Strassburg O 3918a. GK: SB Berlin.
+          <lb/>698
+          <lb/>EPISTOLA
+          <lb/>[Strassburg?1 1581
+          <lb/>EPISTOLA MVSARVM ADD. IOHANNEM STVRMIVM
+          <lb/>RECTOREM ACADEMIAE Argentoratensis, missa ex! Helicone.
+          <lb/>Heliconius Vates, (5 latein. Verse.)
+          <lb/>M. D. LXXXI. (Rückseite leer.)
+          <lb/>4°, Antiq., 4 unn. Bll., wovon das letste leer, Kustoden.
+          <lb/>R 102.340. Prov.: Bibl. Ch. Schmidt.
+          <lb/>GK: UB Marburg.
+          <lb/>699
+          <lb/>EPISTOLAE
+          <lb/>Strassburg, S. Emmel, 1566
+          <lb/>EPISTOLAE Aliquot conso- LATORIAE, PIAE ET VTILES,
+          <lb/>MAXIME IIS QVI propter confessionem ueritatis per- secu¬
+          <lb/>tiones patiun- tur. CVM PRAEFATIONE M. CYRIACI Spangen¬
+          <lb/>bergij ad Opt. Maximumque Impera- torem Maximilia¬
+          <lb/>num II.
+          <lb/>Druckermarke Emmels. (HE B, Tafel XXXV, Nr. 1; Silvestre,
+          <lb/>Nr. 822.)
+          <lb/>ARGENTORATI EXCVDEBAT Samuel Emmel. Anno.
+          <lb/>M. D. LXVI. (Rückseite leer.)
+          <lb/>80, Kursiv; Vorrede u. Kapitelüberschriften in Antiq., 7 unn. Bll.,
+          <lb/>145 S., Kopftitel, Kustoden, Init. (69 Briefe).
+          <lb/>Bl. A 2a:... IMPERATORI MAXIMILIANO, eius nominis
+          <lb/>Secundo... Datae in oppi-do Mansfeldt Calend. VII b.
+          <lb/>Anno! M. D. LXIIII. Cyriacus Spangenberg. (7 Seiten.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

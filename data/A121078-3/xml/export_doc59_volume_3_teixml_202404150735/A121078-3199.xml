@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:08.260020+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3199.tif
+IMAGE WIDTH: 2322
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>20, Got., 2sp., 5 unn. Bll. (Vorrede u. Index), 1 leeres Bl.,
+          <lb/>CCXXXI Bll. (zahlr. Paginationsfehler), 1 unn. Bl., Kopft., Init.
+          <lb/>Bi. 2a: Dem edlen vnd vesten juncker hans von
+          <lb/>Schönauw wonhafft zû Fryburg, entbeütet Jacob Otter,
+          <lb/>sein wil! ligen dienst, vnd vnwürdigs gebett... — Geben
+          <lb/>in Straszburg nach Christi geburt. MDX An dem fünfften
+          <lb/>tag des monats Junij. (Vorrede.)
+          <lb/>R10.132. Prov.: Bibl. Ch. Schmidt mit seinem Exlibris u. Notizen
+          <lb/>von seiner Hand.
+          <lb/>Stadtbibl. Strassburg; GK: SB Berlin, UB Berlin, UB Göttin¬
+          <lb/>gen; Proctor II Sectio I Nr. 10.179: London Brit. Museum; Schmidt
+          <lb/>VIII Nr. 37: Ehem. Strassb. Bibl. Inkun, Nr. 2006; Walter: Schlett-
+          <lb/>stadt Nr. 1372. Dacheux, Geiler S. CHI. Rosenthal, München, Katal.
+          <lb/>135 (1914) Nr. 920: 150 M.
+          <lb/>956
+          <lb/>GEILER Johannes
+          <lb/>Strassburg, Joh. Knobloch 1511
+          <lb/>Das buch Granatapfel, im la- tin genant Malograna¬
+          <lb/>tus. helft in jm gar vil vnd manig haylsam vnd süs- ser
+          <lb/>vnderweysung vnd leer, den anhebenden, auffnemenden
+          <lb/>vnd vol- kommen menschen, mit sampt gaystlicher be¬
+          <lb/>deütung des auszgangs der künder Israel von Egypto.
+          <lb/>Item ain merckliche vnder- richtung der gaistlichen spin¬
+          <lb/>nerin. Item etlich predigenvon dem hasen im pfeffer.
+          <lb/>Vnd von siben schwer-tern, vnd schayden, nach gaist¬
+          <lb/>licher auszlegung. Meerers tails gepredigt durch den hoch¬
+          <lb/>geleerten doctor Johannem Gayler von Kaysersberg etc.
+          <lb/>Am Schluss: Getruckt zû Straszburg durch Jo-hannem
+          <lb/>Knoblauch auff Fry- tag nach Gregorij, Des jars do mann
+          <lb/>zalt M. D. xj.
+          <lb/>2°, Got., 2sp., 162 unn. Bll., Sign. A-P, a-m, Kopft., grosse schöne
+          <lb/>Init. Nach dem Augsburger Drucke von 1510. 6 blattgrosse Holeschn.
+          <lb/>von Hans Baldung Grien, Nachahmungen der Burgkmeier&amp;#x27;schen Holeschn.
+          <lb/>in der Augsburger Ausgabe; 2wei (Bl. a la u. L1b) mit dem Monogr.
+          <lb/>H. B. Grien&amp;#x27;s. Jeder Traktat hat ein eigenes Titelbl. u. beginnt mit
+          <lb/>einer grossen Init., die auch in Drucken von Joh. Schott vorkommen.
+          <lb/>Bl. A 2a: Vorred.
+          <lb/>Bl. G 4a: Also ist geendt das schön bûch Granatapfel,
+          <lb/>das darumb also genant würt, wann zû gleicher weisz
+          <lb/>als die Granatöpffel schön gezierd seind auszwendig mit
+          <lb/>roter schölff, vnd inwendig ordenlich erfült mit vil süssen
+          <lb/>körnlin. Also disz bûch hat süss vnd hailsam leer.
+          <lb/>643
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

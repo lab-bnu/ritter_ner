@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:09.362895+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002298.tif
+IMAGE WIDTH: 2518
+IMAGE HEIGHT: 3994
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>LIED (ein hübsches) : Ein hüpsch lied von sant Katerinnen
+          <lb/>leben... — (Strasbourg, Martin Flach 1508), in-8°.
+          <lb/>Schmidt VI, p. 23, n° 18; Wackernagel, p. 17; Weller 443. —
+          <lb/>Erlangen.
+          <lb/>2308
+          <lb/>LIED (ein hübsches) : Ein hüpsch lied und saget wie by
+          <lb/>einandersassen kluge leyen... — (Strasbourg, Jean
+          <lb/>Grüninger vers 1510), in-80,
+          <lb/>Schmidt I, n° 118: BU Munich; Weller 582.
+          <lb/>2309
+          <lb/>LIED (ein hübsches) : Ein hüpsches lied das niemant der welt
+          <lb/>kan recht tun und ist in jörg Schillers thon... —
+          <lb/>Strasbourg vers 1510, in-80.
+          <lb/>Goedeke Ie, p. 431, no 34 (3); Vogeleis, p. 171.
+          <lb/>2310
+          <lb/>LIED (ein hübsches) : Von dem heylgen sacrament ein hüpsch
+          <lb/>lied... (Regenbogen, Barthell. — (Strasbourg, Math.
+          <lb/>Hupfuff vers 1512), in-8°.
+          <lb/>Goedeke Ia, p. 255; Schmidt V, n° 99 : Erlangen; Vogeleis,
+          <lb/>p. 182 ; Wackernagel II, p. 264, n° 427; Weller 800. 2311
+          <lb/>LIED (ein hübsches) : Ein hüpsch lied zu singen wie die
+          <lb/>götlich weiszheit und weltliche thorheyt wider einander
+          <lb/>stryten... — (Strasbourg, Mathias Hupfuff 1513), in-80.
+          <lb/>Schmidt V, n° 106; Vogeleis, p. 182; Wackernagel, Kirchenlied
+          <lb/>p. 25 ; Weller 790.
+          <lb/>2312
+          <lb/>LIED (ein hübsches) : Ein hüpsch lied wie ein münch tzwey
+          <lb/>zusamen koppelt on sein wiszen... — (Strasbourg,
+          <lb/>Mathias Hupfuff 1515), in-8°.
+          <lb/>Goedeke I2, p. 317, n° 64; Schmidt V, n° 133 : Erlangen;
+          <lb/>Vogeleis, p. 184; Weller 921.
+          <lb/>2313
+          <lb/>LIED (ein hübsches) : Ein hübsch lied von der löblichen Statt
+          <lb/>Straszburg wie sye uff ist kommen... — (Strasbourg
+          <lb/>vers 1523), in-4°.
+          <lb/>Wackernagel 127 E.
+          <lb/>2314
+          <lb/>296
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

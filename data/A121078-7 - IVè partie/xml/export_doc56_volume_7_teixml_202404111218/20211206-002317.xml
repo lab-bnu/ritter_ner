@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:09.797014+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002317.tif
+IMAGE WIDTH: 2498
+IMAGE HEIGHT: 4008
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Straszburg bey Jacob Frölich. Anno M. D. XXXV.
+          <lb/>11535), in-80.
+          <lb/>Hubert, n° 25 b : B N Berlin. Nachdruck des Gesangbuchs
+          <lb/>von M. Weisse.
+          <lb/>2409
+          <lb/>LOBGESÄNGE : Das dritt Byechlin der Geystlichen gsäng.
+          <lb/>Von der Aufferstehung, Hymelfart Christi unsers Herren
+          <lb/>und von dem Heyligen Geyst. [grav.). Getruckt zu
+          <lb/>Straszburg bey Jacob Frölich Anno M. D. XXXVI
+          <lb/>11536), in-80.
+          <lb/>Hubert, n° 25 C: B M Schafhouse. Nachdruck des Gesangbuchs
+          <lb/>von M. Weisse.
+          <lb/>2410
+          <lb/>LOBGESÄNGE : Das vierde Byechlin d’ Geystlichen gsäng
+          <lb/>Von Lobgsängen, Bettgsängen Leergsängen, Gsang auff
+          <lb/>die tagzeytten, Gsang für die Kinder, Gsang für die
+          <lb/>Gefallenen, Gsang zum begrebnüsz der todten, Vom
+          <lb/>Jüngsten tag, Von den rechten Heyligen. Und vom
+          <lb/>Testament des Herren. (Grav.). — Getruckt zu
+          <lb/>Straszburg bey Jacob Frölich 1536), in-80.
+          <lb/>Hubert, n° 25 d : Schafhouse; Wackernagel, p. 1333. Nach¬
+          <lb/>druck des Gesangbuchs von M. Weisse comme les trois
+          <lb/>éditions précédentes.
+          <lb/>2411
+          <lb/>LOBWASSER, Ambrosius : Psalmen Davids, nach Frantzö¬
+          <lb/>sischer Melodey und Reimen art, mit vorhergehender
+          <lb/>Anzeig eines jeden Psalmen Inhalts, und darauff fol¬
+          <lb/>genden andachtigen Gebetten... — Strasbourg, Bernard
+          <lb/>Jobin 1586, petit in-12°. (Traduction de psaumes de
+          <lb/>Marot et Théod. Bèze avec les mélodies de Goudimell.
+          <lb/>Goedeke II2, p. 173, n° 9; Graesse IV, p. 242; Vogeleis,
+          <lb/>p. 353; Ritter, Histoire de l’Impr., app. 340.
+          <lb/>2412
+          <lb/>LOBWASSER, Ambrosius : (Idem). — Strasbourg 1589,
+          <lb/>in-12°.
+          <lb/>Goedeke IIa, p. 173, n° 9.
+          <lb/>2413
+          <lb/>315
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

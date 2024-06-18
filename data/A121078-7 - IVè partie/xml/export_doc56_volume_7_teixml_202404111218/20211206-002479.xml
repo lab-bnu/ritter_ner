@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:13.520946+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002479.tif
+IMAGE WIDTH: 2486
+IMAGE HEIGHT: 4006
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>STATUTEN : Der marggraffschafft Baden statuten und
+          <lb/>Ordnungen in Testamenten Erbfellen und Vormund¬
+          <lb/>schafften. — (Gedrückt... in der statt Baden durch
+          <lb/>Reinharten Becken, Burger zu Straszburg (20.XI.]
+          <lb/>1511, in-fol.
+          <lb/>Panzer, Annalen I, 334; Schmidt IV, p. 15, n° 2: B M Colmar.
+          <lb/>3274
+          <lb/>STAUFENBERG. Voir: EGENOLF von Staufenberg.
+          <lb/>STEINHÖWEL, H. Voir: BOCCAcCIO, n° 1020.
+          <lb/>STENGLIN, Lucas. Voir: TOXITES, n° 3352.
+          <lb/>STEPHAN, Laurentius: Leichpredigt über Albrechts Grafen
+          <lb/>zu Nassau Sarbruck, Sarwerden, etc. Tod auff Sontag
+          <lb/>den 11. Novembris gehalten bey der christlichen
+          <lb/>Begengnus am 25. desselbiges Monats in der Kloster¬
+          <lb/>kirchen Neumünster bey Ottweiler. — Strasbourg,
+          <lb/>Jost Martin 1593, in-40.
+          <lb/>Schottenloher 31.514.
+          <lb/>3275
+          <lb/>STIFEL, Michael : Von der christförmigen, rechtgegründten
+          <lb/>leer Doctoris Martini Luthers, ein überusz schön kunstlich
+          <lb/>Lyed, sampt seiner neben uszlegung... — (Strasbourg,
+          <lb/>Jean Schott 1522), in-40.
+          <lb/>Flugschriften aus den ersten Jahren der Reformation, vol. III,
+          <lb/>fasc. 7, p. 17; Schmidt II, n° 72. — Bibl. S. Guillaume,
+          <lb/>Strasbourg.
+          <lb/>3276
+          <lb/>STIFEL, Michael: (Idem). — (Strasbourg s. d.), in-8°.
+          <lb/>Flugschriften aus den ersten Jahren der Reformation vol. III,
+          <lb/>fasc. 7, p. 19 : « Sonderdruck der I. Fassung ohne die Ausle¬
+          <lb/>gungen ».
+          <lb/>3277
+          <lb/>STIFEL, Michael : (Idem, mit den Auslegungen). Newlich
+          <lb/>gemeert und erstreckt uff fünfftzig gesetz, inhaltend
+          <lb/>477
+          <lb/>16
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

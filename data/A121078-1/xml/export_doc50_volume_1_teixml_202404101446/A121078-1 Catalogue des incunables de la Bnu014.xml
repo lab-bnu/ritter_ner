@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:36.578185+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu014.tif
+IMAGE WIDTH: 2386
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>ouvrages avec son nom et la date remontent à 1471; son
+          <lb/>dernier, la bulle de Sixte IV en faveur de l’Eglise de Séles¬
+          <lb/>tat est datée 31 octobre 1483, elle a donc été imprimée à
+          <lb/>la fin de 1483 ou au commencement de 1484; elle est ornée
+          <lb/>d’une gravure sur bois avec les armoiries du pape à droite
+          <lb/>et la sainte Vierge en prière à gauche. (Schramm, vol. XIX,
+          <lb/>N° 9); c’est la seule gravure qu’on rencontre dans les
+          <lb/>ouvrages d’Eggestein; dans le calendrier allemand pour
+          <lb/>l’année 1480 il y a en outre une bande d’ornement.
+          <lb/>(Schramm, Vol. XIX, N° 8).
+          <lb/>L’année de sa mort est inconnue.
+          <lb/>GEORGES HUSNER (1473, 1498)
+          <lb/>De Husner on ne connaît ni le lieu d’origine ni la date
+          <lb/>de naissance. Il était orfèvre et imprimeur de son métier.
+          <lb/>Le 17 septembre 1470 il obtint le droit de bourgeoisie à
+          <lb/>Strasbourg par suite de son mariage avec Agnès, fille de
+          <lb/>l’orfèvre Nicolas de Honau. Il travailla comme «aurifaber
+          <lb/>et pressor librorum» avec son beau-père et un aide, le
+          <lb/>clerc mayençais Jean Beckenhaub, qui servait de correc¬
+          <lb/>teur. Le premier livre daté qui sortit de leur presse parut
+          <lb/>le 22 novembre 1473; c’est le Speculum judiciale de Duran¬
+          <lb/>dus, où il est dit dans l’explicit: «Consummatum est et per¬
+          <lb/>fectum in celebri Argentinorum urbe, factoribus Georgio
+          <lb/>Huszner civi inibi et Johanne Beckenhub clerico Mogun¬
+          <lb/>tino. Anno M. CCCC. LXXIII. Mensis novembris die XXII.»
+          <lb/>A partir de l’année 1476 les livres ne portent plus que le
+          <lb/>nom de Husner. Entre les années 1479 et 1493 on ne con¬
+          <lb/>naît rien de lui sous son nom. Mais il est prouvé mainte¬
+          <lb/>nant que l’imprimeur inconnu du Jordanus de Quedlin¬
+          <lb/>bourg avec les nombreuses publications des années 1479
+          <lb/>à 1493 ainsi que l’imprimeur des Casus Breves Decreta¬
+          <lb/>lium ne sont autres que Georges Husner, de sorte que
+          <lb/>cette lacune n’existe plus aujourd’hui.
+          <lb/>Pour l’illustration, Husner est aussi insignifiant que ses
+          <lb/>prédécesseurs dont nous venons de parler. Il n’a qu’une
+          <lb/>XIV
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:53.912376+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078379.tif
+IMAGE WIDTH: 2358
+IMAGE HEIGHT: 3856
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1265
+          <lb/>RATSELBUCH
+          <lb/>Strasbourg, [. Pruss) 1519
+          <lb/>Wölchem an Kurtzweil thet zer! rinnen. Mag wol dies
+          <lb/>Büch- lin durchgründen. Er findtdarin vil klûger ler.
+          <lb/>von retersch gedicht und vil nüwer, mer. (Grav. sur bois
+          <lb/>comme dans l&amp;#x27;édition précédente; la grav, est répétée au verso du titre.)
+          <lb/>A la fin: Zû̀ straszburg getruckt. anno, 1519. (Verso blanc.)
+          <lb/>In-4°, car. goth., 24 ff. non ch., sign. A-D, verso du dernier f.
+          <lb/>blanc, init. ornée R.
+          <lb/>R100.296. Prov. : Trubner, Strasbourg 8/VII 1886, 69 M. 35.
+          <lb/>Schmidt V n° 139 l&amp;#x27;attribue à Mathias Hupfuff; dans le Central¬
+          <lb/>blatt für Bibliothekswesen VII, 518 l’impression est attribuée à J. Pruss.
+          <lb/>Le Centralblatt cite 2 éditions (n° 32 et 35) qu’il attribue à Pruss.
+          <lb/>1973
+          <lb/>RAYMUNDUS DE PENNA FORTI J. C.
+          <lb/>Strasbourg, J. Knobloch 1504
+          <lb/>Summula clarissimi iuris- consultissimique viri Ray¬
+          <lb/>mundi demum revisa ac castigatis! sime correcta, brevis¬
+          <lb/>simo compendio sacramentorum alta! complectens myste¬
+          <lb/>ria. De sortilegiis: symonia: furto; rapina :! usura; atque
+          <lb/>variis casibus : que in plurimis iuris codicum vo! lumini¬
+          <lb/>bus confusa indistinctaque multiplicatione dispergun tur:
+          <lb/>resolutiones abunde tradens pastoribus : sacerdotibus:
+          <lb/>omnibusque personis : divino caractere insignitis : summe
+          <lb/>ne- cessaria. (Verso blanc.)
+          <lb/>A la fin: In nobili Helvetiorum urbe Argentina : Im¬
+          <lb/>pensis cir cumspecti viri Johannis knoblouch Impressa.
+          <lb/>Anno salutis. M. CCCCC, iiii, die! tertia Mensis Julii &amp;amp;c.
+          <lb/>In-4°, car. goth., titre-CXLV ff. ch., 7 ff, non ch. (table), titre
+          <lb/>courant, init. d’attente C.
+          <lb/>K 1841(2). Prov.: Don de Fid. Butsch, antiquaire à Augsbouro
+          <lb/>1871. A la suite de: Guido de Monte Rotherii, Manipulus cu¬
+          <lb/>ratorum; Strasbourg 1499. Rel, anc.
+          <lb/>Oxford, Bibl. Bodleiana; Proctor II Sectio I n° 10.047: Londres,
+          <lb/>British Museum; Schmidt VII n° 6; Ritter, Catal. BM Strasbourg
+          <lb/>n° 1785.
+          <lb/>1974
+          <lb/>RAYMUNDUS DE PENNA FORTI J. C.
+          <lb/>Strasbourg, J. Knobloch 1518
+          <lb/>Summula clarissimi iuriscon! sultissimique viri Ray¬
+          <lb/>mundi: demum revisa ac! castigatissime correcta... (comme
+          <lb/>dans l&amp;#x27;édition précédente. Verso blanc.)
+          <lb/>R. 30
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:44.179690+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078057.tif
+IMAGE WIDTH: 2336
+IMAGE HEIGHT: 3844
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>gentin. duobus Libris absoluta.Eiusdem Ottomari Lusci¬
+          <lb/>nii, de Concentus polyphoni, id est, ex plurifariis vocibus
+          <lb/>compositi, canonibus. Commentarii duo.
+          <lb/>M. D. XLI.
+          <lb/>Argentorati apud Iohannem Schottum,! Anno Christi
+          <lb/>Cum gratia &amp;amp; PRIUILEcIO Imperiali,) ad Quinquennium.
+          <lb/>(Verso blanc.)
+          <lb/>In-4° oblong, car, rom., 102 pp. ch., texte, notes de musique et
+          <lb/>gravures d’instruments, init. ornées.
+          <lb/>Fol. a 2a: Andreae Calvo Mediolanensi Ottomarus Luscinius, Argen¬
+          <lb/>tinus. S. D.... — Argentorati anno Christi M. D. XXXVI.
+          <lb/>Luscinius avait rédigé le livre à la demande de Calvo, libraire à
+          <lb/>Milan; la première partie est un remaniement en forme de dialoque
+          <lb/>d&amp;#x27;un traité allemand de Virdung, paru vers 1511; la deuxième partie
+          <lb/>est de Luscinius lui-même. La Ière édition est de 1536, la BN de Paris
+          <lb/>en possède un exemplaire.
+          <lb/>*R 100.016. Prov.: Liepmannsohn, Berlin 27/11 1918; 725 M.
+          <lb/>Au verso du f. de garde: Ex Libris Musicis Joannis Speth organisti;
+          <lb/>d’une autre main: Organist in Nürnberg.
+          <lb/>BN Paris, Rés. V. 1560, cité par Schmidt II n° 142. 1414
+          <lb/>943
+          <lb/>LUSITANUS Amatus
+          <lb/>Strasbourg, W. Rihel 1554
+          <lb/>IN DIOSCORIDIS] ANAZARBEI DE MEDICA MA-TERIA LIBROS
+          <lb/>QVINQVE ENARRATIONES! eruditissimae Doctoris AMATI LVSI¬
+          <lb/>TANI Medici ac! Philosophi celeberrimi, quibus non solum
+          <lb/>Officinarum Se- placiariis, sed bonarum etiam literarum
+          <lb/>studiosis utilitas ad- fertur, quum passim simplicia Graece,
+          <lb/>Latine, Italice, Hispanice, Germanice &amp;amp; Gallice proponan¬
+          <lb/>tur. CVM TRIPLICI INDICE. (Marque typ. de Wend. Rihel. HAB
+          <lb/>Planche XXX n° 7.)
+          <lb/>Argentorati, excudebat Wendelinus Rihelius, Anno
+          <lb/>M. D. LIIII. (Verso blanc.)
+          <lb/>In-4°, car. rom., grecs, ital. et goth., 6 ff. non ch., 536 pp. ch.
+          <lb/>(p. 532 par erreur 432) et 28 ff. non ch. (Index), titre courant, notes
+          <lb/>marg., init.
+          <lb/>Fol. a: Préface de l&amp;#x27;auteur; f. a 4: Typographus Lectori.
+          <lb/>*R 101316. Prop.: Ex libris Mich, Frid. Bœhm Med. Doct. &amp;amp;
+          <lb/>Practice Argentor. Notes mes., au recto du f. de garde: Nomen Amati
+          <lb/>Lusitani proprie est Rodericus de Castello albo. Haller, Bibl. Botan. 1
+          <lb/>p. 251.
+          <lb/>Au verso du f. de garde: «Bibliothecae Hermanianae Argentorati.
+          <lb/>Notetur ad usque pag. 249 ubi debebat inscribi Liber secundus, inscribi
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:06.015403+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie058.tif
+IMAGE WIDTH: 2484
+IMAGE HEIGHT: 3916
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>HUGO Reutlingensis : Flores musicae. — (Strasbourg,
+          <lb/>Jean Prüss s. d.l, in-40.
+          <lb/>Hain 7173; Proctor 569; Voulliéme : Berlin 2393.
+          <lb/>347
+          <lb/>HUGO Reutlingensis (Spechtshart) : Flores musicae. —
+          <lb/>(Strasbourg, Jean Prüss 1488), in-4°.
+          <lb/>Brunet II5, 1297, Hain 7174; Polain 2036; Proctor 538;
+          <lb/>Voulliéme : Berlin 2351. — Jadis bibl. de Strasbourg, inc.
+          <lb/>n° 1863, 2325; B N Berlin, BN Paris.
+          <lb/>348
+          <lb/>HUGO Reutlingensis. Flores musicae. — (Strasbourg,
+          <lb/>Jean Prüss 1488), in-4° (En partie réimpression de
+          <lb/>Hain 7174).
+          <lb/>Proctor 538; Schmidt III, 21 : B N Paris; Schreiber 5270;
+          <lb/>Voulliéme : Berlin 2352; Gilhofer et Ranschburg (Vienne)
+          <lb/>Catal. 261 (1936) n° 101 : 750 fr. suisses. First and very rare
+          <lb/>edition of «one of the earliest books cont. Music entirely
+          <lb/>printed from metal forms and one of the earliest on musical
+          <lb/>theory at all. The author’s name appears on leaf 4: Hugo
+          <lb/>sacerdos Reutlingensis and this book was written by him in
+          <lb/>the year 1322 ». [Identique avec n° 348 (?)).
+          <lb/>349
+          <lb/>HUGo de Sancto Victore: Didascalion et varii tractatus. —
+          <lb/>(Strasbourg] 1483, in-fol.
+          <lb/>Copinger 3193; Pellechet: Colmar 804.
+          <lb/>350
+          <lb/>HYMNI : Uslegunge der hymbs (!) nach der zitt des gantzen
+          <lb/>iares und exponierungen vast nützliche von latin
+          <lb/>zu tütsch... — (Strasbourg, Jean Grüninger) 21 janvier
+          <lb/>1494, in-4°.
+          <lb/>Hain-Copinger 2145 — Hain 16107; Proctor 2426; Brit.
+          <lb/>Mus. Cat. III, 710; Voullième : Berlin 2287, 8.
+          <lb/>351
+          <lb/>IMITATIO Christi. — (Strasbourg, Martin Flach 1489), in-40.
+          <lb/>Hain 9099; Schmidt VI, p. 5, n° 24.
+          <lb/>352
+          <lb/>INNOCENTIUS III (pape) : De miseria conditionis humanae.
+          <lb/>Avec : Tractatus seu Summa de creatione mundi...
+          <lb/>56
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:27.425869+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2044.tif
+IMAGE WIDTH: 2362
+IMAGE HEIGHT: 3826
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>40
+          <lb/>A la fin: Alors comme alors. (En car, rom.) (Verso blanc.)
+          <lb/>in-4°, car. goth., 10 ff. non ch., sign. A-C, réclames.
+          <lb/>GPB V., S. 286.
+          <lb/>RI01.829. Prov.: Max Harrwitz, Berlin, 28 VI, 1901; 3 M.75;
+          <lb/>66
+          <lb/>ANTIGONUS, Admirandarum narrationum collectanea, Guilielmo
+          <lb/>Xylandro interprete. Voir: N° 69. ANTONINUS, De vita sua
+          <lb/>lib. XII, p. 119-154. Strasbourg, L. Zetzner, 1590.
+          <lb/>ANTONINUS Archiepiscopus Florentinus Haguenau, H. Gran, 1508.
+          <lb/>Confessionale domi ni Antonini archi-episcopi Floren¬
+          <lb/>tini. (Verso blanc.)
+          <lb/>A la fin: Vtilissima confessionis sum mula...in
+          <lb/>imperiali opido Ha- genaw per industrium Henri- cum
+          <lb/>Gran inibi incolam: Jm-pensis sumptibusque circum¬
+          <lb/>specti viri Joannis Knob louch inclyte vrbis Argen. ciuis
+          <lb/>impressa finit feliciter Anno virginei partus. 1508. xiij
+          <lb/>die mensis Julij.
+          <lb/>in-4°, car. goth., 2 col., titre — OXXXIV ff. ch., 8 ff. non ch.
+          <lb/>dont 3 blanes, titre courant, init. d’attente.
+          <lb/>*RI01830. Prop.: BNMunich, 28/XII. 1883, 1M30.
+          <lb/>Au haut du titre: «H. Aspachensis»; au haut du f. 1: «H.
+          <lb/>Aspacensius».
+          <lb/>GPB V, 4275: Berlin, München, Breslau, Münster, Kiel, Greifswald.
+          <lb/>e7
+          <lb/>ANTONINUS Liberalis, Metamorphoseon collectanea. Voir: AN¬
+          <lb/>TONINUS Marcus Aurelius, De vita sua libri XII. Stras¬
+          <lb/>bourg, L. Zetzner, 1590. N° 69. GPB V, 4337.
+          <lb/>68
+          <lb/>ANTONINUS Marcus Aurelius
+          <lb/>Strasbourg, L. Zetzner, 1590.
+          <lb/>M. ANTONINI RO: IMP: DE VITA SUA! LIB. XII. AD
+          <lb/>ANIMI TRAN- quillitatem fortuna tam secunda! quàm adversa
+          <lb/>parandam per quàm vtiles.
+          <lb/>ANTONINI LIBERALIS ME-ta morphoseon collectanea.
+          <lb/>PHLEGONTIS TRALLIANI DE rebus miris, deque longaeuis
+          <lb/>lib.! EIVSDEM de ludis Olympicis fragm.] APOLLINII historiae
+          <lb/>admirandae.! ANTIGONI admirandarum narra! tionum collec¬
+          <lb/>tanea. ] GVLIELMO XYLANDRO IN-] terprete: cum annotatio¬
+          <lb/>nibus! &amp;amp; indice.
+          <lb/>Jmpensis Lazari Zetzneri Bibliopolae. Argentinae,
+          <lb/>CIDI DXC.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

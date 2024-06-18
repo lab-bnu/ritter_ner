@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:32.825888+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2211.tif
+IMAGE WIDTH: 2280
+IMAGE HEIGHT: 3824
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>207
+          <lb/>Au verso du titre: Vorred, (une page), suivent 2 ff. de table.
+          <lb/>fol. XXII-XXX: Registre du Ier livre.
+          <lb/>fol. XXXIa Vorred des andern buochs, (une page et demie.)
+          <lb/>IIe partie avec un nouveau titre: Das buch des lebens
+          <lb/>Marsilii Ficini des hochgeler ten vnd wol erfarnen Floren¬
+          <lb/>tiners zu behalten gesundes vnd langwyriges leben, Artzney
+          <lb/>bûch. Vom latein erst neüw zû tütsch gemacht, anderst
+          <lb/>emendiert vnd gebessert, mit vil neüwen vnnd nützlichen
+          <lb/>zûsätzen (der Quintaessentia, auch ande- rer stuck, so in
+          <lb/>den vorigen nit gesehen seind worden.
+          <lb/>Gravure sur bois: Marsilius Ficinus, un jeune homme et un
+          <lb/>vieillard (la Ière des deux du titre de l’édition latine du 8 mai 1500,
+          <lb/>faite par Grüninger.)
+          <lb/>A la fin: Getruckt vnd volendet in der Statt Strasz¬
+          <lb/>burg, durch Johann Grüniger, Jm Jar als man zalt von
+          <lb/>vnsers Herren geburt. M. D. XXXI.
+          <lb/>In-fol., car. goth., 46 ff. ch., 25 gravures, tirées d’ouvrages anté¬
+          <lb/>rieurs de Grüninger.
+          <lb/>Schmidt I, No 250 dit:,Au Ier titre on annonce aussi un Her¬
+          <lb/>barius, bien que les figures s’en trouvent déjà dans le Distillirbuch;
+          <lb/>à la fin de celui-ci il est dit :., Vnd volget nun hiernach der Her¬
+          <lb/>barium, als dann hie vor verheissen ist.&amp;quot; A-t-il paru en effet?
+          <lb/>Dans l’exemplaire de Munich, le seul que je connaisse, il manque.&amp;quot;
+          <lb/>*R10.419. Prov, inconnue.
+          <lb/>Le livre est incomplet, il cesse avec fol. CXVI; j’ai completé le
+          <lb/>reste d’après l’exemplaire de la BM de Strasbourg. Rel, anc.
+          <lb/>Schmidt I, N° 250: BN Munich; GPB: Berlin, Breslau BU,
+          <lb/>Gœttingue RU, Kœnigsberg BU.
+          <lb/>312
+          <lb/>BUCER. Voir: BUTZER.
+          <lb/>BUCH der Altväter, Voir: Leben der Altväter.
+          <lb/>Buch der Geschichten des grossen Alexanders. Voir: EUSEBIUS.
+          <lb/>BUCH der Selen Wurtzgarten. Voir: SELENWURTZGARTEN.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

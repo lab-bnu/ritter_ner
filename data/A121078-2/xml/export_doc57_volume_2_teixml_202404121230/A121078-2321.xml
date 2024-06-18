@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:36.025249+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2321.tif
+IMAGE WIDTH: 2318
+IMAGE HEIGHT: 3820
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>In-fol., car. goth., 6 ff. non ch., CCXXII ff. ch., 6 ff. non ch.
+          <lb/>à 2 col. (Table.), titre courant, réclames, notes marginales, initiales
+          <lb/>goth.
+          <lb/>fol. A 2a non ch.: Johannis Chrysostomi... Vorred.
+          <lb/>(Préface de 6 p.)
+          <lb/>fol. A 5a non ch: Der durchleüchtigen hochgebornen Fürs¬
+          <lb/>tin... Dorothea, ausz Künigklichem stammen zû Denn¬
+          <lb/>marck erboren, Marckgräfin zû Brandenburg... — Strasz¬
+          <lb/>burg den ersten Februarij, im jar M. D. XL... Caspar
+          <lb/>Hedio! Doctor im Münster zû! Straszburg. (Dédicace de 3 p.j
+          <lb/>R 10.294(2). Prov.: Abbé Cromer, curé à Saverne, 29/VII. 1879.
+          <lb/>Rel. anc. Fait partie du N° précédent 478.
+          <lb/>479
+          <lb/>CHRYSOSTOMUS Iohannes
+          <lb/>Strasbourg, J. Rihel, 1561.
+          <lb/>IOANNOT XPY- STOMOY HEPI IEPOXT-
+          <lb/>Noyot É.
+          <lb/>IOANNIS CHRYSO- STOMI DE SACERDOTIO sermones sex.
+          <lb/>Marque typ. de Josias Rihel, (Hd B, Planche XXIX, n° 5, Sil¬
+          <lb/>vestre, N° 757.)
+          <lb/>ARGENTORATIExcudebat losias Rihelius, Anno
+          <lb/>M. D. LXI. (Verso blanc.)
+          <lb/>In-8°, car. grecs, 104 ff. non ch., sign. a-n, titre courant, récla¬
+          <lb/>mes, initiales ornées.
+          <lb/>R101292. Prov.: Bibliotheca Universitatis Moguntiae. Notes mss.
+          <lb/>au titre: “Collegii Moguntini Societatis Jesu.» Rel, anc.
+          <lb/>GPB. BN Berlin, BU Breslau.
+          <lb/>480
+          <lb/>317
+          <lb/>CHYTRAEUS David
+          <lb/>Strasbourg, Chr. Mylius, 1563.
+          <lb/>Chronologia HISTORIAE Herodoti, &amp;amp; Thu- cydidis.
+          <lb/>DAVID CHYTRAEVS. (Vignette).
+          <lb/>ARGENTORATI EXCV- debat Christianus Mylius! M. D.
+          <lb/>LXIII.
+          <lb/>In-8°, car. ital., 84 ff. ch. souvent 2, 3 et même 4 colonnes pour
+          <lb/>les tables d’histoire; entre f. D4 et D5: grande planche, arbre généa¬
+          <lb/>logique des Alméonides et de Miltiade: initiale ornée C.
+          <lb/>fol. A. Lettre préface de l’auteur à Georges Gera (Ostgotho, Ba¬
+          <lb/>roni in Olni, Domino suo), datée de 1524; les á derniers ff. contiennent
+          <lb/>la péroraison de Chytraeus, datée de Rostock, 12 avril 1562.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

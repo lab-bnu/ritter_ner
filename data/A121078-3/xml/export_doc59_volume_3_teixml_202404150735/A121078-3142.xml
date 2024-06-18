@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:06.897724+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3142.tif
+IMAGE WIDTH: 2316
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>586
+          <lb/>HIS ACCESSIT ACTUS SOLENNIS. Dilectu jucundus; quo
+          <lb/>Authori, in magnifico concessu, Laurea poetica, AVTHORI¬
+          <lb/>TATE IMPERATORIA, imposita est: adiunctis clarissimorum
+          <lb/>virorum judiciis.
+          <lb/>Cum praefatione NICODEMI FRISCHLINI Comitis Pala¬
+          <lb/>tini Cesarii, &amp;amp; Poetae! Laureati. (Vign.) Unten: ARGENTO¬
+          <lb/>RATI. Excudebat Antonius Bertramus, Anno M. D. LXXXV.
+          <lb/>Auf der Rücks.: Porträt von Frenzelius, mit einem Buche in der
+          <lb/>Hand. (Siche Abb. S. 585.)
+          <lb/>80, Antig. u. Kursiv, 12 unn. Bll., 13 — 115 num. Bll.; Sign.
+          <lb/>A-O, zahlreiche Init., Vignetten.
+          <lb/>Bl. 3a : Brief von Joh. Sturm an Frenzelius aus Nordheim 5. Fe¬
+          <lb/>bruar 1585.
+          <lb/>Bl. 3b: Lat. Verse, unterzeichnet: Joannes [Sturml.
+          <lb/>Bl. 4a-5b: Widmung: Georgio Chiselio, Domino in Kaltenbrun,
+          <lb/>Gassuitz &amp;amp; Chiselstein, hereditario Carniole Venatorum magistro &amp;amp; Gori¬
+          <lb/>tziae Archidapifero... Nicode. Tubingae, Cal. Januar, 1585.
+          <lb/>Bl. 6: Nicodemys Frischlinvs! Com. Pal, aequo lectori
+          <lb/>salutem... — Argentorati, XVIII. Cal. Mar. (16 S.)
+          <lb/>R100.948. Prov.: E. Lindner, Strassburg 9. VII. 1885, 10 M.
+          <lb/>885
+          <lb/>GK: UB Breslau.
+          <lb/>FREY Jakob: Ein schön gespräche... Strassburg, Joh. Knobloch 1555.
+          <lb/>Siehe: VEGIUS Mapheus
+          <lb/>FREY Jakob
+          <lb/>Strassburg, Knobloch’sche Druckerei 1557
+          <lb/>Die Garten! Gesellschaft.
+          <lb/>Ein New hübsches vnnd schimpflichs büchlin, ge¬
+          <lb/>nant, Die Garten Gesellschaft, darinn vil frö- lichs ge¬
+          <lb/>sprechs, Schimpffreden, Spaywerck, (vnd sunst kurtzweilig
+          <lb/>bossen, von Historien vnd Fabulen gefunden werden,
+          <lb/>Wie ye zû zeiten die selben, inn den schönen Gärten,
+          <lb/>bey den külen Brunnen, auff den grünen Wysen, bey der
+          <lb/>Ed- len Music, Auch andern Ehrlichen geselschaff- ten
+          <lb/>(die schwären verdrosznen gemüter wider zû recreieren,
+          <lb/>vnnd auff zû heben) frölich vnnd! freundlich geredt, vnd
+          <lb/>auff die ban werden ge- bracht, Allen denen, so sich
+          <lb/>solcher geselschafften gebrauchen. Auch andern Jungen
+          <lb/>vnd Alten, kurtzweilig vnd lustig zû lesen &amp;amp;c. Neulich
+          <lb/>durch! Jacoben Freyen, Stattschreibern zû Maursz- mün¬
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

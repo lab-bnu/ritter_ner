@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:30.545671+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2135.tif
+IMAGE WIDTH: 2316
+IMAGE HEIGHT: 3828
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>A
+          <lb/>A
+          <lb/>T
+          <lb/>MY
+          <lb/>V
+          <lb/>49
+          <lb/>M
+          <lb/>8
+          <lb/>LFFICIES HHIERO
+          <lb/>a ~ns
+          <lb/>NYMI TRAGIÁ ETO
+          <lb/>Ia Dhuee
+          <lb/>ANNOAIATIS
+          <lb/>SVRAO
+          <lb/>2
+          <lb/>1
+          <lb/>131
+          <lb/>2
+          <lb/>A
+          <lb/>1
+          <lb/>E
+          <lb/>2
+          <lb/>60
+          <lb/>Portrait de Hier. Bock.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

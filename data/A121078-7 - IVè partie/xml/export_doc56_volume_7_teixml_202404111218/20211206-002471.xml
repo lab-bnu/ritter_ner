@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:13.417453+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002471.tif
+IMAGE WIDTH: 2498
+IMAGE HEIGHT: 3990
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>SIGENOT. — Strasbourg, Th. Berger [vers 1560), in-8°.
+          <lb/>Heitz-Ritter, n° 615 : Bibl. consistoriale Colmar.
+          <lb/>3233
+          <lb/>SIGENOT. — Strasbourg, Christian Müller (— Mylius) 1577,
+          <lb/>in-80.
+          <lb/>Graesse VI, p. 402; Heitz-Ritter, n° 620; Schorbach : « Den
+          <lb/>Druck besass Panzer, Bibl. Panzer III (1807), n° 15.442.
+          <lb/>Aus dessen Besitz erwarb ihn v. d. Hagen. Seitdem
+          <lb/>verschollen.»
+          <lb/>3234
+          <lb/>SILVESTER de Prierio. Voir: PRIERIAS, Silvester de.
+          <lb/>SIMEON : Nunc Dimittis. Voir : ERB, Mathias, n° 1633.
+          <lb/>SLEIDAN, Joh. : De quatuor summis imperiis, libri tres...
+          <lb/>(Marque typ. des Rihel). M.D.LVI. — (Argentorati
+          <lb/>per Rihelios Fr. atres) M.D.LVI (1556), mense Junio,
+          <lb/>in-80.
+          <lb/>Bibl. S. Guillaume, Strasbourg.
+          <lb/>3235
+          <lb/>SLEIDAN, Johannes : Der erste Theyl Ordenlicher beschrei¬
+          <lb/>bunge und Verzeychnisse, allerley fürnemer Händel,
+          <lb/>so sich in Glaubens und anderen Weltlichen sachen bei
+          <lb/>Regierung vorweilen... Carls des Fünfften mehrerntheyls
+          <lb/>in Teutscher Nation zugetragen : Erstlich in Latinischer
+          <lb/>Sprache verfärtigt... Durch Johannem Sleidanum...
+          <lb/>Hernach aber... in rechtgeschaffen Teutsch gebracht
+          <lb/>und nuh zum Fünfften male gegen dem Latein auff das
+          <lb/>nähest verglichen... von ermeldtes Johannis Sleidani
+          <lb/>Stande und Leben... zugerichtet... durch Michaelem
+          <lb/>Beuther... — Strasbourg, Théodose Rihel 1568, in-fol.
+          <lb/>Ritter: B M Strasbourg, n° 1936; [des éd. Th. Rihel 1574,
+          <lb/>1575, 1579 : Ritter, Rép. nos 2146/7; 2149).
+          <lb/>3236
+          <lb/>SLEIDAN, Johannes : Der ander Theyl Ordenlicher beschrei¬
+          <lb/>bunge und Verzeychnisse allerley Namhaffter Sachen...
+          <lb/>Mit angehenckter kurtzer vermeldunge nacherfolgter
+          <lb/>469
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

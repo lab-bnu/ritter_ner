@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:10.283985+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3276.tif
+IMAGE WIDTH: 2340
+IMAGE HEIGHT: 3854
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>718
+          <lb/>der- nach Docteur de Paris! en Medicine. IMPRIME A
+          <lb/>ARGENTI- ne au Pelican, L’an 1547. AvEC PRIVILEGE.
+          <lb/>(Rücks. leer.)
+          <lb/>80, Antiq., 90 S., 3 leere Bll., Kopft., Kust., Marg., Init.
+          <lb/>S. 3. A ILLVSTRE! ET HAVLT SEIGNEVR IEHAN CONTE
+          <lb/>DE SALME, Grand! Marchal de Lorraine &amp;amp;c. Jehan! Guinter
+          <lb/>d’Andernach Docteur de Paris en Medicine Salut....
+          <lb/>R 100.672. Herkunft unbekannt. Bleistiftnotiz: 60 frs.
+          <lb/>Brunet I15, 1826. Schottenloher 1 Nr. 7718-7721a. 1059
+          <lb/>GUINTERIUS Johannes Andernacus
+          <lb/>Strassburg, J. Rihel 1564
+          <lb/>Bericht, Regiment... (Siehe Titelbl. S. 719.)
+          <lb/>Holeschn.: Ein an einem Tische sitsender Apotheker reicht einem
+          <lb/>Kunden ein Heilmittel; an einem andern Tische bereitet ein zweiter
+          <lb/>Apotheker ein Medikament; ein dritter nimmt ein Gefäss von einem
+          <lb/>Schaft herunter. Der Holzschn. ist früheren Apothekerbüchern ent¬
+          <lb/>nommen.
+          <lb/>Am Schluss: Getruckt zû Straszburg durch Josiam
+          <lb/>Rihel, den 15. Januarij M. D. LXIIII.
+          <lb/>4°, Got., 4 unn., 40 num. u. 2 unn. Bll. (Index), Kopft., Kust.,
+          <lb/>Marg., Init.
+          <lb/>Auf der Rücks, des Titelbl.: Den Edlen, Gestren! gen...
+          <lb/>Herren, Rä- then, vnd Ein vnd zwentzi- gen, &amp;amp;. seinen
+          <lb/>gebietenden Herren, wünscht Johann Gwynther von
+          <lb/>Andernach, der Medicin Doctor, Heyl! vnd Gesundheyt...
+          <lb/>(Vorrede, 7 S.)
+          <lb/>R 102.276. Herkunft unbekannt.
+          <lb/>GK: SB Berlin, UB Bonn, Gôttingen, Halle.
+          <lb/>10c0
+          <lb/>GUINTERIUS Johannes Andernacus
+          <lb/>Strassburg, J. Rihel 1564
+          <lb/>Kurtzer Auszug... (Siche Titelbl. S. 720.) Rücks. leer.
+          <lb/>Holeschn.: Verheerungen der Pest; auf dem Boden ringsum Tote
+          <lb/>u. Sterbende.
+          <lb/>Am Schluss: Getruckt zû Straszburg durch Josiam
+          <lb/>Rihel, den ersten Martij! M. D. LXIIII.
+          <lb/>40, Got., 11 unn. Bll., Sign. A-C, Kopft., Kust., Marg., Inît.
+          <lb/>Bl. A 2a: Johann Gwynther! von Andernach der Me¬
+          <lb/>dicin Do- ctor, wünschet dem Leser heyl...
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

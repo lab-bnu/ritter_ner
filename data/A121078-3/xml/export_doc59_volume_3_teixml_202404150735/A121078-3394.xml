@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:13.169274+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3394.tif
+IMAGE WIDTH: 2402
+IMAGE HEIGHT: 3854
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>886
+          <lb/>Getruckt zu Strassburg bey Christian Müllers Erben.
+          <lb/>1582. (Rücks, leer.)
+          <lb/>Init. E, W.
+          <lb/>80, Got., 96 S. u. 2 unn. Bll. (Register), Kopft., Kust., Marg.,
+          <lb/>R101.255. Herkunft unbekannt. Handschr. Notizen. 1243
+          <lb/>INDAGINE Johannes de. Siche: JOHANNES DE INDAGINE
+          <lb/>INDEX
+          <lb/>Strassburg, L. Zetzner 1599
+          <lb/>INDEX EXPVRGATORIVS LBRORVM QVI HOC SAECVLO
+          <lb/>PRODIERVNT, vel doctrinae non sane erroribus inspersis,
+          <lb/>vel inutilis &amp;amp; offensivae maledicentiae fel- libus permixtis,
+          <lb/>iuxta sacri Concilij Tri- dentini decretum: Philippi Il.
+          <lb/>Regis Ca- tholici iussu &amp;amp; auctoritate, atque; Alba- ni
+          <lb/>Ducis consilio ac ministerio in Belgia concinnatus; anno
+          <lb/>MDLXXI. Accessit huic editioni! COLLATIO! CENSVRAE
+          <lb/>IN GLOSSAS IV- ris Canonici, iussu Pij v. Pontificis, anno
+          <lb/>1572. editae,! CVM HSDEM GLOSSIS GREGORII XIII, mandato,
+          <lb/>anno 1580, recognitis &amp;amp; approbatis. Rationem &amp;amp; usum
+          <lb/>Collationis huiusce demon- strat Praefatio Doct. IOANNIS
+          <lb/>PAPPI, Theologi Argentoratensis.
+          <lb/>Impensis Lazari Zetzneri. Anno 1599.
+          <lb/>80, Antig. u. Kursiv, 38 unn. Bll. (Vorrede), 363 S., Kopft.,
+          <lb/>Kust., Marg., Init., Vign.
+          <lb/>Auf der Rücks, des Titelbl.: DVCIS Albae jussu ac decreto
+          <lb/>cavetur, ne quis praeter Pro- totypographum Regium
+          <lb/>hunc Indicem imprimat, nève ille aut quis alius pu¬
+          <lb/>blice vel privatè vendat, aut citra ordinariorum faculta¬
+          <lb/>tem, aut permissionem ha- beat.
+          <lb/>RI01.037. Prov.: Fr. Heerdegen, Nürnberg 9. I1. 1878; 0.24M.
+          <lb/>Handschr.: Sum è Libris Hermanni.
+          <lb/>1244
+          <lb/>INSTRUCTIO
+          <lb/>[Strassburgl 1593
+          <lb/>INSTRVCTIO Vff Jedes Stands so hierunter ersuchet
+          <lb/>verbesserunge, allein zu bericht der sachen nach dencken,
+          <lb/>vnd vertraw- licher Communication, ohnvergreifflich in eil,
+          <lb/>zu vor- stehender Straszburgischer Handlung, dervon
+          <lb/>der Keys. Maiest, sechs deputirten Chur vnnd Fürsten
+          <lb/>verfasset. (Vign.) Darunter 1593.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

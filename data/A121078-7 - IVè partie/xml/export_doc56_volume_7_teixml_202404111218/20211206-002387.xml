@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:11.569826+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002387.tif
+IMAGE WIDTH: 2478
+IMAGE HEIGHT: 3956
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>ORATIO Legationis Francisci Regis Franciae ad Electores
+          <lb/>Iuperij... — (Strasbourg, Jean Schott) (1519), in-4°.
+          <lb/>Schmidt II, 47; Walter, n° 1950. — B M Sélestat et Bâle.
+          <lb/>2790
+          <lb/>ORATIONES: Sacrae Ecclesiae Orationes quas vulgo Collectas
+          <lb/>vocamus... — Strasbourg, Jean Knobloch 1518, in-4°.
+          <lb/>Panzer 6, 88, 514; Schmidt VII, n° 167; Weislinger 277. —
+          <lb/>Olim bibl. Arg. 3589. (Une éd. Knobloch 1516: Ritter, Rép.
+          <lb/>n° 1671).
+          <lb/>2791
+          <lb/>ORATIONES : Orationes quinque De certo genere vitae Homini
+          <lb/>nobili deligendo: exercitij causa quinque adolescentibus
+          <lb/>nobilibus scriptae et recitatae in Academia Argentinensi.
+          <lb/>Anno M.D.LXXXV. (Marque typ. de Bertram). —
+          <lb/>Argentorati, Excudebat Antonius Bertramus, CID ID
+          <lb/>XXCVI (1586), in-8°. (Voici les noms des cinq étudiants :
+          <lb/>Enricus à Gèra, Christophorus Leyserus, Philippus
+          <lb/>Theod. Böcklinus, Benedictus à Qualen, Wolfgangus
+          <lb/>Enricus Jagenreutherus sous le recteur Melchior Junius).
+          <lb/>Bibl. S. Guillaume, Strasbourg.
+          <lb/>2792
+          <lb/>ORDNUNG: Hje vahet an Eyn Ordenunge des gerichts kurtz
+          <lb/>vergriffen. Dardurch sich ein yeglicher vor dem gericht
+          <lb/>behelfen und verdedigen mag. — (Strasbourg, Mathias
+          <lb/>Hupfuff 1507), in-40.
+          <lb/>Graesse V, p. 38; Panzer, Annalen I, 282; Schmidt V, n° 67:
+          <lb/>Erlangen.
+          <lb/>2793
+          <lb/>ORDNUNG : Ordenung und innhalt Teütscher Mesz, so yetzunt
+          <lb/>im gebrauch haben Evangelisten unnd Christlichen
+          <lb/>Pfarrherren zu Straszburg. M. D.xxiiij. — (Strasbourg,
+          <lb/>Wolfgang Köpfell 1524, in-8°.
+          <lb/>Goedeke II2, p. 162, n° 5; Hubert, n° 2 ; Maihingen.
+          <lb/>2794
+          <lb/>ORDNUNG : Ordenung und ynnhalt Teutscher Mess und
+          <lb/>Vesper, So yetzund im gebrauch haben Evangelisten
+          <lb/>385
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

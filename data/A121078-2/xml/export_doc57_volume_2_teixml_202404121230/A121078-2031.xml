@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:27.038657+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2031.tif
+IMAGE WIDTH: 2376
+IMAGE HEIGHT: 3830
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>27
+          <lb/>poetae laureato, poeticam &amp;amp; oratoriam Tubingae pub lice
+          <lb/>profitenti Joannes Altenstaig... — Ex Tubinga. Anno 1508.
+          <lb/>Fol. A3b:... BARONI CHRISTOPHORO SCHWAR] tzenbergio
+          <lb/>Joannes Altenstaig... — Ex Tubinga idibus octobribus, Anno
+          <lb/>octa uo supra millessimum quingentessimum.
+          <lb/>Fol. A 4a: JACOBUS HENRICHMANNUS SINDELFINGENSIS Jo
+          <lb/>anni Altenstaigio... — Ex Dryospoli octobri bus. Anno
+          <lb/>octauo supra sesquimillesimum.
+          <lb/>Fol. CXVIa: Ad Julium secundum Tetrastichon. J. W.
+          <lb/>(— J. Wimpheling.)
+          <lb/>R100049. Prov.: Brockhaus, Leipsic, 27/II. 1875, 9 M.
+          <lb/>Notes mss.; les 29 ff. blancs à la fin contiennent un index mss.
+          <lb/>Schmidt III, p. 32, N°10; GPB III, 7207: Berlin, Munich,
+          <lb/>Bonn.
+          <lb/>41
+          <lb/>ALTENSTAIG Johannes
+          <lb/>Haguenau, J. Gran, 1516.
+          <lb/>Vocabularius Joan-nis Altenstaig Mindelhaimensis.
+          <lb/>Vocumque in opere grammatico plurimorum! continentur
+          <lb/>breuis et vera interpretatio.
+          <lb/>Opus emendatum et denuo reuisum ab ipso operis
+          <lb/>auctore: cum additione quorumdam quae alij non habent.
+          <lb/>Et modo expetitione Joannis Ryman additum est! vulgare
+          <lb/>vel teutonicum:... et cum indice si! ue inuentario voca¬
+          <lb/>bulorum. Henrici Bebelij Epigramma, (4 distiques latins.)
+          <lb/>A la fin: Henricus Gran chalcographus Hage-nauensis
+          <lb/>in officina sua: expensis circumspecti viri Jo annis Ryn¬
+          <lb/>man de Oringaw archibibliopole: im pressit. Anno gratie.
+          <lb/>M. D. xvj. Die quarto men- sis Septembris.
+          <lb/>in-4°, car. goth., 2 col., 6 ff. non ch. — CXIX ff. ch., titre courant,
+          <lb/>init. ornée A, titre rouge et noir, encadré. (H &amp;amp; B, Planche LXIV, n° 2.)
+          <lb/>Au verso du titre: Carmen sapphicum Sebastiani Kefer.
+          <lb/>(4 strophes à 4 vers.)
+          <lb/>Au-dessous: Pro interpretationibus vocularum magistri
+          <lb/>Joannis Mindelhaimensis Matthie Kretz Lantspergii Tetras¬
+          <lb/>tichon (2 distiques) et Tetrastichon Henrichmanni (2 distiques).
+          <lb/>Fol. a2 non ch.: Joannes Altenstaig Joan ni Rynman
+          <lb/>Archibibliopole... — Ex Mindelhaim ad duodecimum Kls.
+          <lb/>Septembris Anno... M. ccccc. XV.
+          <lb/>Fol. a 3 non ch.: Joannes Altenstaig Lectori.
+          <lb/>Fol. a3b: Jacob Henrichman Sindelfingensis 1) à l’auteur
+          <lb/>2) à Henricus Bebel.
+          <lb/>Fol. a 5: l’auteur au baron Christoph. Schwartzenberg et au Lec¬
+          <lb/>teur. Suit: Index operis (3 pages). Après l’explicit : nouveau titre pour le:
+          <lb/>Directorium vocabulorum iuxta Alphabeti ordinem indice
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

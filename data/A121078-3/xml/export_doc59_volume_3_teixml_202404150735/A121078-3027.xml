@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:05.178532+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3027.tif
+IMAGE WIDTH: 2348
+IMAGE HEIGHT: 3838
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Am Schluss: Argentorati... in officina Matthie Schürerij
+          <lb/>Helueten.! Artium doctoris. Mense Iulio... M. D. VIIII.
+          <lb/>Druckermarke Schürer&amp;#x27;s. (H &amp;amp; B, Tafel XII, Nr. 1.)
+          <lb/>4°, Antig., 12 unn., 64 num. Bll., Kopftitel.
+          <lb/>Auf der Rückseite des Titelbl.: Erasmi Roterodami in ada¬
+          <lb/>giorum veterum atque insignium collectanea praefatio.
+          <lb/>Desiderius Erasmus Roterodamus Guilielmo Monioio Co¬
+          <lb/>miti cum primis illustri S. d. ... Parisijs. (Vorrede von 6 S.)
+          <lb/>Bl. A 5a: Alphabetischer Index u. Vorwort des Druckers (15 S.
+          <lb/>2sp.).
+          <lb/>Bl. B4b: MATTHIAS SCHVRERIVS HELVETENSIS AR-TIVM
+          <lb/>DOCTOR LECTORI ] FOELICITATEM. (Strassburg 1509.) Schürer
+          <lb/>teilt dem Leser in der Vorrede mit, dass er soeben die Proverbia des
+          <lb/>Polydorus Vergilius herausgegeben hat und dass die Ausgabe der Adagia,
+          <lb/>auf Anraten des Beatus Rhenanus, mit einer Auflage von 1000 Exem¬
+          <lb/>plaren gedruckt worden ist.
+          <lb/>*R 100.929. Prov.: F. Butsch, Augsburg, 28. L. 1880; 3 M.
+          <lb/>Bl. A 2 fehlt. Handschr. Notizen im Texte.
+          <lb/>GK. UB Greifswald, Marburg; BN Paris, Rés. Z. 954; Schmidt
+          <lb/>VIII, Nr. 22.» Basel u. chemalige Bibl. Strassburg, Inkun. Nr. 1740.;
+          <lb/>Van der Haeghen I, S. 23;»Basel, Bonn, Kolmar, Darmstadt, Freiburg,
+          <lb/>Gent, Giessen, Greifswald, Marburg, München, Nürnberg, Bodl. Oxford,
+          <lb/>National-Babl. Paris, Prag, St. Petersburg, Schlettstadt, Strassburg, Stutt-
+          <lb/>gart-; Walter: Schlettstadt 1160.
+          <lb/>Katalog 184 Harrassowite, Leipeig, 1892; 10 M.
+          <lb/>Bibliographie des Erasmus: Schottenloher I, Nr. 5492-5845 sowie
+          <lb/>Ferdinand Van der Haeghen, Bibliotheca Erasmiana. Bibliographie des
+          <lb/>œuvres d’Erasme. Vol. I-VI. Gand, C. Vyt, 1897-1907. Künftig gekürat
+          <lb/>»Van der Haeghens. Rest Josef, Die Erasmusdrucke der Freiburger Uni¬
+          <lb/>versitätsbibliothek, Freiburg i. Br. 1937, 8° — Freiburger Universitäts¬
+          <lb/>705
+          <lb/>reden Heft 23, Anhang.
+          <lb/>ERASMUS, Annotationes. Siche: CICERO, Officiorum, libr. IIl.
+          <lb/>Strassburg, W. Rihel, o.J. R101.656.
+          <lb/>471
+          <lb/>ERASMUS: Encomium moriae
+          <lb/>Strassburg. M. Schürer, 1511
+          <lb/>MORIAE ENCOMIVM ERA SMI ROTERODAMI DECLAMATIO.
+          <lb/>Ad Lectorem. Habes hic Lector éyxóptoy Tns popias, hoc
+          <lb/>est lau- dem stultitiae, libellum... (9 Zeilen.)
+          <lb/>Am Schluss: Argentorati in aedibus Matthiae Schurerij.
+          <lb/>mense Augusto Anno M. D. XI.Conrado Duntzenhemis. Il,
+          <lb/>dictatore Argentorat.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

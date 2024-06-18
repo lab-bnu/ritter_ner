@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:12.855158+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002442.tif
+IMAGE WIDTH: 2498
+IMAGE HEIGHT: 3964
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>n° 656 und 657 dieses Buches wegen der früheren Ausgaben.
+          <lb/>Ganz in Reimen. » Goedeke IIe, p. 341, n° 3 (c).
+          <lb/>3089
+          <lb/>REIMARUS, Ursus, Nicolaus : Fundamentum astronomicum
+          <lb/>id est nova doctrina sinuum et triangulorum eaque abso¬
+          <lb/>lutissima et perfectissima eiusque usus in astronomica
+          <lb/>calculatione et observatione. — Strasbourg, Bernard
+          <lb/>Jobin 1588, in-40.
+          <lb/>Zinner 3316.
+          <lb/>3090
+          <lb/>REINHARD, Phil. Voir: BADER, Matthaeus, n° 901.
+          <lb/>REINHOLD, Er. Voir: PEUCER, n° 2884.
+          <lb/>REINICKEN, P. Voir : HABERMANN, Joh., n° 1948.
+          <lb/>Aus Johann Habermanns von Eger, Superintendentis
+          <lb/>zu Naumburgk und Zeits... Wochentlichen auszgetheilten
+          <lb/>Gebetten gezogen, in liebliche bekannte Melodeyen
+          <lb/>gebracht. Durch Paschasius Reinigius von Wüsterhausen.
+          <lb/>— Strasbourg 1595, in-12°.
+          <lb/>Graesse VI, p. 73.
+          <lb/>3091
+          <lb/>REISCH, Gregorius : Margarita philosophica cum additionibus
+          <lb/>novis... — (Strasbourg, Jean Schott (avec Michael Furter.
+          <lb/>de Bâle) (17.I1.11508), in-4°.
+          <lb/>Schmidt II, n° 10; Rosenthal (Munich), Catal. 135 (1914),
+          <lb/>n° 1986 : 300 M. — Bibl. Mazarine et Bibl. de l’Arsenal, Paris.
+          <lb/>(Autres éd. : Schott 1503 (Ritter, Rép, n° 1983), Grüninger
+          <lb/>1504 (Rép, n° 1984), Schott 1504 (Rép, n° 1985), Grüninger
+          <lb/>1512 (Rép. n° 1986) et Grüninger 1515 (Rép. 1987)).
+          <lb/>3092
+          <lb/>REISCH, Gregorius : Margarita philosophica nova... —
+          <lb/>(Strasbourg, Jean Grüninger (31 mars) 1508), in-4°.
+          <lb/>Panzer 6, 39; Schmidt I, n° 87. Paris : Bibl. de l’Arsenal. 3093
+          <lb/>440
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

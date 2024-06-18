@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:08.916294+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002277.tif
+IMAGE WIDTH: 2518
+IMAGE HEIGHT: 3958
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>KALENDER (der Strassburger Domherren) : (Idem). —
+          <lb/>M. D. LX. Dans la Ire col, en bas : Gepracticiert durch
+          <lb/>M. Johann Richart von Strasburg; dans la 5e col, en
+          <lb/>bas : Getruckt zu Strasburg bey Thiebolt Berger am
+          <lb/>Barfüsser platz (1559), placard de la grandeur des
+          <lb/>deux précédents calendriers (il n’y a que les noms de
+          <lb/>20 chanoines avec leurs armoiries).
+          <lb/>Arch. Mun. Strasbourg.
+          <lb/>2196
+          <lb/>KALENDER (der Strassburger Domherren) : (Idem). — Als
+          <lb/>man zelt nach Christi geburt M.D.LXIII, ist ein schalt¬
+          <lb/>jar... En bas, Ire col. en rouge : Getruckt zu Strasburg
+          <lb/>bey Thiebolt Berger am Barfüsser platz (1562]; en bas,
+          <lb/>5e col., en rouge : Gestellet durch Nicolaum Biderman
+          <lb/>von freyburg in Uchtlandt; placard comme les précé¬
+          <lb/>dents; avec les noms et armoiries de 23 chanoines.
+          <lb/>Arch. Mun. Strasbourg.
+          <lb/>2197
+          <lb/>KALENDER (der Strassburger Domherren) : (Idem). — Als
+          <lb/>man zelt nach der geburt Christi unsers einigen Selig¬
+          <lb/>machers M.D.LXXXV. En bas : à gauche, en rouge:
+          <lb/>Gestelt durch D. Lucam Bathodium Medicum &amp;amp; Astro¬
+          <lb/>nomiae Studiosum zu Pfalzburg; à droite : Getruckt
+          <lb/>zu Straszburg bey Niclausz Waldt am Kornmarckt
+          <lb/>11584), placard comme les précédents.
+          <lb/>Arch. Mun. Strasbourg.
+          <lb/>2198
+          <lb/>KALENDER (der Strassburger Domherren) : (Idem). — Als
+          <lb/>man zalt nach Christi Geburt M. D.LXXXV. Jar... —
+          <lb/>En bas : col. 2-4 : Gestelt durch M. Johan Richart
+          <lb/>Mathematicum Und gedruckt zu Straszburg durch
+          <lb/>Antonium Bertram (1584), grand placard comme les
+          <lb/>précédents.
+          <lb/>Arch. Mun. Strasbourg.
+          <lb/>2199
+          <lb/>KANTZ, Caspar: Von der euangelischen Messz... — (Haguenau,
+          <lb/>Jean Secer, 1524 (2)), in-80.
+          <lb/>Kuczynski, n° 1155; Weller 2926. (Autre éd. Strasbourg,
+          <lb/>Martin Flach 1524, voir Ritter, Rép, n° 1302l.
+          <lb/>2200
+          <lb/>275
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

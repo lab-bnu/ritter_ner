@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:45.358060+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078098.tif
+IMAGE WIDTH: 2322
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>984
+          <lb/>Reichstatt Augsburg. (Préface de 7 fr.)
+          <lb/>Fol. 2a: Den... Christen im landt zâ Bayern,! und in der löblichen
+          <lb/>RI01.863. Prov.: Donation Edouard Cunite, Strasbourg 1886.
+          <lb/>BM Strasbourg O3940b.
+          <lb/>1485
+          <lb/>MARBACH Philippus
+          <lb/>Strasbourg, B. Jobin héritiers 1596
+          <lb/>PHILIPPI MARBACHII DOCTORIS THEOLOGI, ORATIO¬
+          <lb/>NES quinque Habitae in celeberrima Argentinensi! Aca¬
+          <lb/>demia. Quarum elenchum, versa pagella monstrat. (Marque
+          <lb/>typ. de B. Jobin. H c B Planche XXXVII n° 5.)
+          <lb/>ARGENTORATI Excudebant haeredes Bernh. Iobin.
+          <lb/>Anno M. D. XCVI.
+          <lb/>In-80, car, rom., 6 ff. non ch., 102 ff. ch., titre courant, réclames,
+          <lb/>de nombreuses bandes d’ornement, vign., init. ornées; titre encadré de
+          <lb/>3 lignes dont celle du milieu est légèrement ornée.
+          <lb/>Fol. 2a non ch.:... Dominis Dn. Burgravio! Caeterisque Inclyti
+          <lb/>Archiducatus Carinthiae Dn. Senatoribus Ordinariis... — Argentina. Cal.
+          <lb/>Aug. 1596.Philippus Marbachius D. (Préface, 10 pp.)
+          <lb/>R101.864. Prop.: J. Noiriel, Strasbourg 25/V 1892; 2 M.
+          <lb/>2ème ex.: M 11.970.
+          <lb/>BM Strasboug.
+          <lb/>1486
+          <lb/>MARCELLUS Georgius: Disputatio tertia. De fine, effectibus et
+          <lb/>repugnantibus donationis simplicis. Voir: OBRECHT Geor¬
+          <lb/>gius : Oikonomia donationis simplicis et relatae. Strasbourg,
+          <lb/>A. Bertram 1595.
+          <lb/>MARCUS EREMITA
+          <lb/>Haguenau, J. Secer 1531
+          <lb/>Toö ógton! Mópxoo reoì vó] poo Tvsopatmoò xe) oohta.
+          <lb/>Toö aòroo rept̀ tôo otopévov òs] éoyo» oexatoõooot ve! góhaia.
+          <lb/>(Feuille de lierre.) SANCTI MARCI HEREMITAE de lege
+          <lb/>Spirituali Capitula. Eiusdem de iis, qui putant se justifi¬
+          <lb/>cari ex operibus, Capitula versa per Vin centium Obso¬
+          <lb/>pæum.
+          <lb/>Hagenoæ per Joh. Secer. M. D. XXXI. (Verso blanc.)
+          <lb/>In-80, car. grecs et rom., 95 ff. non ch., sign. A-M, titre courant,
+          <lb/>réclames au verso des ff., init. M. E. H; au recto du dernier f., marque
+          <lb/>typ. de J. Secer. (H Œ B Planche LXXI n° 9; Silvestre n° 567.)
+          <lb/>Au-dessus: Haganoe, in officina Iohannis Secerii! Anno
+          <lb/>M. D. XXXI. Mense Martio. (Verso blanc.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:09.863246+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002322.tif
+IMAGE WIDTH: 2486
+IMAGE HEIGHT: 3996
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>LUCIDARIUS : (Idem). — (Strasbourg, Jean Knobloch 1519),
+          <lb/>in-40.
+          <lb/>Kristeller, n° 415; Schmidt VII, n° 187; Weller, Rep. 1217;
+          <lb/>Heitz-Ritter, n° 325 : B M Berne.
+          <lb/>2437
+          <lb/>LUCIDARIUS : Eyn newer M. Elucidarius. Von aller¬
+          <lb/>handt geschöpffen Gottes... — [Strasbourg, Jacques
+          <lb/>Cammerlander vers 1539), in-4°.
+          <lb/>Schorbach, Lucidarius, n° 31 : Bamberg; L’Art Ancien Zurich,
+          <lb/>Catal. XX, n° 66; Heitz-Ritter, n° 328. (Autre éd. de
+          <lb/>Cammerlander vers 1535. Voir Schorbach n° 30 et Ritter,
+          <lb/>Rép. n° 1404).
+          <lb/>2438
+          <lb/>LUCILIUS. Voir : SENECA, n° 3217.
+          <lb/>LUCRETIA : Ein schön Spil von der geschicht der Edlen
+          <lb/>Römerin Lucretia, und wie der Tyrannisch Künig
+          <lb/>Tarquinius Superbus von Rom vertriben und sunderlich
+          <lb/>von der standhafftigkeyt Junii Bruti. — (Strasbourg,
+          <lb/>Jacques Frölich 1550), in-8°.
+          <lb/>Graesse IV, p. 287.
+          <lb/>2439
+          <lb/>LUD, Gautier : Speculi Orbis... Declaratio et Canon. —
+          <lb/>(Strasbourg, Jean Grüninger) s. d., in-fol. [La dédicace
+          <lb/>est de 15071.
+          <lb/>Schmidt I, n° 85; Harrisse, Bibliotheca americana vetustissima
+          <lb/>p. 99, n° 49. — Brit. Museum Londres.
+          <lb/>2440
+          <lb/>LUDOVICUS XI (rex Galliae). Voir : COMINES, Phil, n° 1423.
+          <lb/>LUDOVICUS, Comes Palatinus Rheni. Voir : BADER, Joh.
+          <lb/>n° 898.
+          <lb/>LÜGEN : Hundert papistische Lügen. — [Mulhouse, P. Schmid
+          <lb/>15621.
+          <lb/>Werner, p. 105, n° 25 : « Nous ne possédons aucune autre
+          <lb/>indication sur ce pamphlet qui fit grand bruit et qui fut
+          <lb/>confisqué par les autorités de Mulhouse. Nous sommes tout
+          <lb/>320
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

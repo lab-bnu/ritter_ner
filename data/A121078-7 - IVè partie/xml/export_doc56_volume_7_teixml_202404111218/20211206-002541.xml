@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:14.788101+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002541.tif
+IMAGE WIDTH: 2502
+IMAGE HEIGHT: 3954
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Rosenthal (Munich), Catal. 89 (1928), n° 137. Ritter: B M
+          <lb/>Strasbourg, n° 2263.
+          <lb/>3596
+          <lb/>ZEITUNG : Newe zum theil glückliche und sigliche zeittung
+          <lb/>aus den Niderlanden... — (Strasbourg, Thiébaud Berger
+          <lb/>1568), in-4°.
+          <lb/>Ritter: B M Strasbourg, n° 2264/65 (2 exemplaires). 3597
+          <lb/>ZEITUNG : Ein newe und warhafftige Zeittung, von einer...
+          <lb/>abschewlichen Geburt, so erst kurtzlich auff den XXI.
+          <lb/>tag Aprilis im Jar M.D.LXIX, zu Renchen, drey meil
+          <lb/>wegs von Strasburg uber Rhein gelegen, geboren zu
+          <lb/>sonderlicher warnung von Gott... — (Strasbourg,
+          <lb/>Pierre Hug) 1569, placard in-fol. (Nouvelle éd. chez
+          <lb/>Thiébaud Berger, Strasbourg).
+          <lb/>Sonderegger, p. 49-51, fig. 29; Weller, Zeitungen, n° 353.
+          <lb/>Zurich, Bibl. Centrale II, 7/5 et II, 8/10. Voir : Ritter, Hist.
+          <lb/>de l’impr. p. 570, app. 393 (7).
+          <lb/>3598
+          <lb/>ZEITUNG : Jämmerliche und erschröckliche Zeyttung, aus
+          <lb/>Niderland, Braband, Holland u.s.w..., nemlich von dem
+          <lb/>schedlichen und erbermlichen undergang vieler Land,
+          <lb/>Stedte, Flecken und Dörffer, sampt einem unzeglichen
+          <lb/>verlust beyder Menschen und Viehes, welche durch
+          <lb/>schröckliche Wassernot des Meers ertruncken und
+          <lb/>vergangen seind. Geschehen im Monat Novembri, des
+          <lb/>verschienen 1570. Jares. — Straatsburg (!), Peter Hug
+          <lb/>1570, in-4°,
+          <lb/>Knüttel, n° 186. D 133.150.
+          <lb/>3599
+          <lb/>ZEITUNG : (Idem). — Strasbourg, Thiébaud Berger 1571,
+          <lb/>in-4°.
+          <lb/>Knüttel, n° 156.
+          <lb/>3600
+          <lb/>ZEITUNG : Newe Zeitung. Wie der Türck, die Statt Nicosiam,
+          <lb/>in Cipera, dises verlauffenen 1571. Jar, eingenommen,
+          <lb/>auch wie viel Tausent Christen er gefangen, etliche
+          <lb/>539
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:06.242640+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002175.tif
+IMAGE WIDTH: 2512
+IMAGE HEIGHT: 3958
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>FABRICIUS, Blasius. Voir : CAMERARIUS, Joachim n° 1271.
+          <lb/>FABRICIUS, Georgius : Disticha de quibusdam musicis et
+          <lb/>septem sapientibus. — Strasbourg 1546.
+          <lb/>Vogeleis, p. 255.
+          <lb/>1680
+          <lb/>FABRICIUS, Georgius : Antiquitatis aliquot monimenta
+          <lb/>insignia ex aere, marmoribus, membranisque veteribus
+          <lb/>descripta atque collecta. — Strasbourg, Blaise Fabricius
+          <lb/>1549, in-40.
+          <lb/>Graesse II, p. 543.
+          <lb/>1681
+          <lb/>FABRICIUS, Georgius: Syntaxis graeca. Cum examinatione
+          <lb/>regularum et ordine orationis, auctor. Item, de verbis
+          <lb/>anomalibus. Cum indice. — [Strasbourg, Josias Rihel)
+          <lb/>1576, in-80.
+          <lb/>Ritter: B M Strasbourg, n° 965.
+          <lb/>1682
+          <lb/>FABRICIUS, Georgius : Summae Evangeliorum dominicalium,
+          <lb/>eorumque praecipuis festis solent in Ecclesia explicari.
+          <lb/>Cum praefatione Johannis Pappi. — Strasbourg,
+          <lb/>Bernard Jobin 1583, in-8°,
+          <lb/>Ritter, Rep. n° 835/6).
+          <lb/>1683
+          <lb/>FABULAE diversorum authorum. — Strasbourg, Mathias
+          <lb/>Schürer, mars 1517, in-4°.
+          <lb/>Panzer 6, 85, 486; Schmidt VIII, n° 213.
+          <lb/>1684
+          <lb/>FABULAE. Voir: AEsOPUS, n° 746 et suiv.
+          <lb/>FACETUS : in latein durch Seb. Brant geteütscht. —
+          <lb/>(Strasbourg), Jean Knobloch 1508, in-4°.
+          <lb/>Goedeke Ie, p. 388, n° 15 (n).
+          <lb/>1685
+          <lb/>(FAELLE] : (Seltzame Fälle, Fragen und Historien). Was
+          <lb/>ursach unsere ersten Vätter zu einem höheren Alter
+          <lb/>173
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

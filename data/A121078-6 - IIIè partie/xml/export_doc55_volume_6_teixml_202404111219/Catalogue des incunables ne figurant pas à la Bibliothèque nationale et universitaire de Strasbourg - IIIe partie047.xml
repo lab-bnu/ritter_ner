@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:05.870965+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie047.tif
+IMAGE WIDTH: 2482
+IMAGE HEIGHT: 3932
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>latine et germanice. — (Strasbourg, impr. de Henricus
+          <lb/>Ariminensis s. d.], in-4°.
+          <lb/>Hain 7139; Pellechet 4829; Proctor 335; Voulliéme:
+          <lb/>Berlin 2164.
+          <lb/>273
+          <lb/>FLORENTIUS, Sanctus. Voir : SIXTUS IV (pape), Ablassbulle
+          <lb/>n° 625.
+          <lb/>FLORES musicae. Voir : Hugo Reutlingensis n° 347-349.
+          <lb/>FORMULAE epistolarum. Voir : MENNICKEN, Carolus, n° 473-
+          <lb/>478.
+          <lb/>FORMULARIUM instrumentorum. — (Strasbourg, Georges
+          <lb/>Husner s. d.), in-4o.
+          <lb/>Hain 7278; Voulliéme : Berlin 2531.
+          <lb/>274
+          <lb/>FORMULARIUM instrumentorum. — [(Strasbourg, Jean Grü¬
+          <lb/>ninger s. d.], in-4°.
+          <lb/>Hain 7279, Pellechet 4869 : Proctor 501.
+          <lb/>275
+          <lb/>FRIEDRICH III. Achtbrief gegen die Stadt Regensburg
+          <lb/>erlassen zu Linz am 1. Oktober 1491, in-fol.
+          <lb/>Gemeiner, Regensburgische Chronik vol. III, p. 785. 276
+          <lb/>FRIES, Lorenz: Ars memorativa. — Strasbourg, Jean Prüss
+          <lb/>1497, in-4°.
+          <lb/>Hain 12986; Graesse V, p. 277.
+          <lb/>277
+          <lb/>GALLUS, Alexander : Prima pars doctrinalis. — Strasbourg,
+          <lb/>Martin Flach 1488, in-4°.
+          <lb/>Hain 679; Schmidt VI, p. 4, n° 19.
+          <lb/>278
+          <lb/>GALLUS, Alexander : Glossa notabilis secundae partis. —
+          <lb/>Strasbourg, Martin Flach 1490, in-40.
+          <lb/>Hain 701; Schmidt VI, p. 5, n° 25.
+          <lb/>279
+          <lb/>45
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

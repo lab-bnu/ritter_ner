@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:44.118061+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078053.tif
+IMAGE WIDTH: 2346
+IMAGE HEIGHT: 3844
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>et segobiensis! Decanus S. P. D.... — Senis sexto kalendas Septembris
+          <lb/>Anno domini M. CCCC. XCI.
+          <lb/>*R101724. Prov.: Bibl. du Gymnase de Heilbronn 2/IV 1878;
+          <lb/>contre échange.
+          <lb/>Proctor II Sectio I n° 10.269: Londres Brit. Museum; Schmidt
+          <lb/>II n° 18: BM Strasbourg. Olschki, Florence, Catal. LXXXI (1912):
+          <lb/>1408
+          <lb/>n° 279; 250 frs.
+          <lb/>LURCKER Erhart
+          <lb/>Strasbourg [J. Knobloch ?1 1520
+          <lb/>Evn history lieplich und kurtzwei ! lig zû lesen, Wie
+          <lb/>ein junckfraw genant Giletta,  den Künig von Franckreich
+          <lb/>einer seiner kranck! heit gesundt machet und im sunst
+          <lb/>kein artzet helf- fen kunde. Und nach dem sie jm gehalff,
+          <lb/>begert sie für iren lon! Beltramo einen heren von Siglione
+          <lb/>zû einem Eemann, das wider allen seinen willen geschach,
+          <lb/>wie ir har nacher hören werden, mit grosser müg und
+          <lb/>arbeit dar zû kam. (Gravure sur bois: 3 personnes assises à une
+          <lb/>table, une quatrième debout, un serviteur apporte les plats.)
+          <lb/>A la fin: Dise Histo! ri hat Erhart Lurcker zû Ober¬
+          <lb/>kirch an dem! Schwartzwald gelegen, ausser andern bû¬
+          <lb/>chern zûsamen gezogen... Getruckt zû! Straszburg! jm.
+          <lb/>XVc und XX. jar. (Feuille de lierre.)
+          <lb/>In-40, car. goth., 8 ff. non ch., sign. a-b, init. ornée E. Au verso
+          <lb/>du titre, gravure sur bois, empruntée au Wigoleys, Knobloch 1519, où il
+          <lb/>est dit: Hie liegtt herr Wigoleys ann eim bedt und die junckfraw sitzt
+          <lb/>bey im neben der bedtstat; en haut et en bas pièce d’encadrement.
+          <lb/>&amp;quot;R100.710. Prov.: Bull, Strasbourg 17/IV 1874; sans indication
+          <lb/>de prix. Feuille du titre manque; elle est remplacée par un facsimilé
+          <lb/>de l&amp;#x27;exemplaire de la Bibl. de Berne.
+          <lb/>Schmidt VII n° 192 admet 1519, n’ayant eu que l&amp;#x27;exemplaire de
+          <lb/>Berne, où l&amp;#x27;année qui se trouve au dernier f, manque; Weller, Rep.
+          <lb/>1191. Dans le Jahrbuch der Els.-Lothr. Wiss. Gesellschaft zu Strass¬
+          <lb/>burg Vol. I pp. 56-79, j&amp;#x27;ai édité le Volksbuch Giletta d’après l&amp;#x27;exem¬
+          <lb/>plaire de la BN de Strasbourg, qui était inconnu jusqu’alors et au der¬
+          <lb/>nier feuillet duquel se trouvent le nom de l’auteur ainsi que l&amp;#x27;année 1520.
+          <lb/>1409
+          <lb/>LUSCINIUS Ottomar
+          <lb/>Strasbourg, J. Schott 1515
+          <lb/>Collectanea sacrosancta, graece discere! cupientibus
+          <lb/>non aspernanda. CONTENTA. Introductiones elementares
+          <lb/>Hellenismi: cum qui! busdam aliis pronunciationibus legi¬
+          <lb/>time subszuientibus. (!) Suivent sur 15 lignes les titres des pièces
+          <lb/>939
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

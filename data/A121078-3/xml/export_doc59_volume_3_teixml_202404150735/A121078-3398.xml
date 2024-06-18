@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:13.384595+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3398.tif
+IMAGE WIDTH: 2406
+IMAGE HEIGHT: 3856
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>840
+          <lb/>ISOCRATES
+          <lb/>Hagenau, Joh. Setzer 1533
+          <lb/>’Iooxpá-] zovs Nóyot Éταvrεc. ISOCRATIS! EXCELLENTIS¬
+          <lb/>SIMI VI-] ri ae summi Oratoris ora! tiones, magna cum
+          <lb/>diligentia im-pressae.
+          <lb/>Haganoae ex Officina Seceriana, Mense Septembri.
+          <lb/>Anno! M. D. XXXIII.
+          <lb/>80, Griech,, 354 Bll., Kopft., Kust., Init.
+          <lb/>auf der Rücks, des letzten Bl.: Anno 1566 den 21. Augustij hatt! mir
+          <lb/>R101.484. Herkunft unbekannt. Handschr. Notizen: Anno 1535;
+          <lb/>mein Liebe Hausfraw Rosina Weckerlerin ain kind geboren. Dem Gott.
+          <lb/>Der Allmachtig ein zeyt- liche wolfartt vnnd nach disem le benn die
+          <lb/>Ewige freid vnnd söligkeit geben wolle. Amen.
+          <lb/>BN Paris, X. 26558. Eggimann Ch.: Livres et Documents, bulletin
+          <lb/>Ne 8/1935) S. 24 Nr. 1586; 260 Fr. Exemplar des Humanisten Simon
+          <lb/>Grynaeus mit handschr. Anm. von Grynaeus.
+          <lb/>Brunet III2, 466.
+          <lb/>1251
+          <lb/>ISOCRATES: Ad Demoniacum. Siehe. CATO: Praecepta moralia
+          <lb/>1515, 1516, 1519, 1520.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

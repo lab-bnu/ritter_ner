@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:49.347533+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5022.tif
+IMAGE WIDTH: 2372
+IMAGE HEIGHT: 3880
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1330
+          <lb/>SCHAWJNSLAND Urban
+          <lb/>Strasbourg, N. Wyriot, 1581
+          <lb/>Newe zeit und Prophecey.
+          <lb/>A la fin : Und welche mein Namen falsch führen in Schrifft,
+          <lb/>Büchern, Kalendern, Practick, der ist ein falscher Gleiszner,
+          <lb/>vnd Abgöttischer! Lauer, vnnd auch die drey Buchstaben
+          <lb/>Teme jeit ond Prophecco,
+          <lb/>Brattita die best auß Smm¬
+          <lb/>mels onnd Erden abgemerctt geschriben ono
+          <lb/>auf gelestsau gũt dem Henscensourch ein Runst¬
+          <lb/>x eifen ertenner des Dimels Sigur vnd gestatt.
+          <lb/>M. Brban Gchammslano aus Gurtembtra.
+          <lb/>AuI 688 M. D. LXXXII Jat.
+          <lb/>e
+          <lb/>Msae
+          <lb/>Gees
+          <lb/>Mercten doh ir narien vnter dem Dolcl! vnd ie Ten
+          <lb/>rann wolc ir Elug merdent Dsalm.o
+          <lb/>Boren ir Tboren id mads nit befble (ercte
+          <lb/>Das en sol geratben allembalberte
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

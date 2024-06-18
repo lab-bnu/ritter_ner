@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:34.220765+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2254.tif
+IMAGE WIDTH: 2294
+IMAGE HEIGHT: 3816
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>250
+          <lb/>Derrière f. 02 viennent ? ff. (sign. *, **) qui manquent probable¬
+          <lb/>ment chez Mentz: Der fridliche anstand :! Zù Franckfurt auf¬
+          <lb/>gericht im Aprilen Anno. M. D. xXxix.
+          <lb/>Au verso du dernier f. dont le recto est blanc: Zum leser:
+          <lb/>(4 lignes.)
+          <lb/>Waremund Luithold, pseudonvme pour Butzer.
+          <lb/>R 102.243. Prov.: K. Th. Völcker, Francfort s. M., 15/III 1897;
+          <lb/>6M.
+          <lb/>GPB: Berlin SB. Kœnigsberg BU, Marbourg BU. — Baum,
+          <lb/>No 53; Mente, No 46: Jena, Marbourg.
+          <lb/>374
+          <lb/>BUTZER Martin
+          <lb/>[Strasbourg, 1540.]
+          <lb/>Vom tag zu Hagenaw Zwen verdeutschte Sendbriefe,
+          <lb/>eins Thummdechants vnd eins weysen bescheidenen
+          <lb/>Thummherrns. (Verso blanc.)
+          <lb/>In-4°, car. goth., 16 ff. non ch., sign. A-D, réclames, note marginale.
+          <lb/>fol. A 2a: MEin freundlichen grus sampt er bietung
+          <lb/>aller dienst vnd guten willens zuuor,! freundlicher lieber
+          <lb/>herr vnd bruder... — Damit Got befolhen, vnd grüsset
+          <lb/>mir den herrn Custos. Item herrn Quirin sampt seiner
+          <lb/>Elsen, wir haben hie keinen Rinckawer, sonder gro! be
+          <lb/>Elsesser vnd saure Hagenawer. Datum Hagenaw am dritten
+          <lb/>nach Corporis Christi, 1540. N. N. Dechant. (3 pages.)
+          <lb/>fol. A 3b: Mein freundlichen grusz zuuor, Ehrwirdiger
+          <lb/>lieber Herr Dechant... — Damit sey ewer Erwyrde Got
+          <lb/>befolhen, Datum zu Speyr, am tag Bonifacij 1540.! Johann
+          <lb/>St. ewr. E. son- der vertraweter freund. (26 pages.)
+          <lb/>R 102.244. Prov.: Bibliothèque Heitz, Strasbourg, 1871.
+          <lb/>2e ex. avec quelques variantes R 102.245. Prov. : Bibliothèque
+          <lb/>Stuttgart.
+          <lb/>fol. C en bas: Reychs pour Reichs; fol. D 2a en bas: wo au lieu
+          <lb/>de wolt.
+          <lb/>BM Colmar, BM Strasbourg. GPB: Berlin SB.
+          <lb/>Mente, No 47a.
+          <lb/>375
+          <lb/>BUTZER Martin
+          <lb/>Strasbouro, (W. Rihel ?), 1541.
+          <lb/>ABVSVVM EC-] CLESIASTICORVM, ET RATIONIS, QVA
+          <lb/>CORRIGI EOS ABV-! sus oporteat, indicatio Imperatoriae
+          <lb/>Maie- stati, in comitiis Reguespurgi, () postu- lanti, ex¬
+          <lb/>hibita.
+          <lb/>Per Martinum Bucerum.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

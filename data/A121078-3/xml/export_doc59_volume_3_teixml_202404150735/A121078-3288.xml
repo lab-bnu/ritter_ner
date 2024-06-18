@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:10.597802+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3288.tif
+IMAGE WIDTH: 2350
+IMAGE HEIGHT: 3856
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>730
+          <lb/>Der masz zergeet zû letst die welt,
+          <lb/>All ir begyrd vnd falscher whon.
+          <lb/>Allein Gotts wort bleibt ewig ston.
+          <lb/>Mit Keyserlicher Maiestat Frey! heit vff vi. jar.
+          <lb/>Zù Straszburg bey Hans! Schotten.) M. D. XXXVI.
+          <lb/>(Rücks, leer.)
+          <lb/>Am Schluss: M. D. XXXVI.
+          <lb/>40, Got., 14 unn. Bll., wovon das letste leer. Reimchronik. Vom
+          <lb/>Beginn des Konstanzer Konzils 1414 bis sum Jahr 1535: Keyser Caroli
+          <lb/>syg wider den Barbarossa in Africa.
+          <lb/>R100.281. Prov.: Lindner, Strassburg. (Bibliothek Stöber) 27.II.
+          <lb/>1891; 47 M. Handschr. Notizen.
+          <lb/>Hrsg. im Annuaire du Club Vosgien II (1934) von Franz Ritter.
+          <lb/>GK: SB Berlin.
+          <lb/>1074
+          <lb/>HARTLIEB Joh. Siche: EUSEBIUS : Das Buch der Geschichten
+          <lb/>des grossen Alexanders. Strassburg, Math. Hupfuff 1514.
+          <lb/>HASSURT Johannes. Siche: VIRDUNG Johannes
+          <lb/>HAWENREUTER Johann Ludwig
+          <lb/>Strassburg, J. Rihel 1571
+          <lb/>SCHOLA ARGEN- TINENSIS. Hoc est, EPISTOLARVM
+          <lb/>IOANNIS] STVRMII CLASSICARVM ET) Academicarum ynpœ¬
+          <lb/>rtopoì, confecti A IOANNE LVDOVICO HAWENREVTERO.
+          <lb/>Cum praefatione Ioannis Sturmij. (Druckerm. Rihels. HÆB
+          <lb/>Tafel XXXI Nr. 8; Silvestre Nr. 821.)
+          <lb/>ARGENTORATI EXCVDEBAT. Iosias Rihelius,) M. D. LXXI.
+          <lb/>(Rücks, leer.)
+          <lb/>40, Kursiv, 11 unn. Bll., Sign. A-C, Kopft., Kust., Init. Q mit
+          <lb/>Blumengefäss in der Mitte.
+          <lb/>Bl. A 24: IOANNES STVRMI-] VS IOANNI LypoVIco! Ha¬
+          <lb/>wenrevtero S. P. D.... — Argentorati Calendis Iulij Anno
+          <lb/>1571. (2S.)
+          <lb/>R102291. Prov.: Trübner, Strassburg 20. V. 1879; 3 M.
+          <lb/>Stadtbibl. Kolmar. GK: UB Halle. Ohne Angabe des Druckers.
+          <lb/>1075
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

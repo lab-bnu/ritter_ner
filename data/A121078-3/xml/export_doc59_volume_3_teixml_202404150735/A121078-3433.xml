@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:14.218811+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3433.tif
+IMAGE WIDTH: 2426
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>KALILA u. DIMNA. Siche: BUCH DER WEISHEIT
+          <lb/>KANTZ Caspar
+          <lb/>Strassburg, M. Flach 1524
+          <lb/>Von der Euangeli schen Messz. Mit schönen Ge¬
+          <lb/>betten, vor vnd nach der entphahung des Sacraments.
+          <lb/>Am Schluss: Impressum per Martinum Flach anno xxiiij.
+          <lb/>(Rücks. leer.)
+          <lb/>80, Got., 8 unn. Bll., Sign. A, Init., Titeleinfassung (HEB
+          <lb/>Tafel X Nr. 6).
+          <lb/>R100.587. Prov. : Bibl. Ch. Schmidt mit Exlibris, darunter
+          <lb/>»Berlin 1871.
+          <lb/>Neudruck in: Beiträge zur Reformationsgeschichte von Strassburg
+          <lb/>von G. Heinrich Simon. [Mitteilungen aus dem Antiquariate von S.
+          <lb/>Calvary e Co., I. Jahrg. 2. Heft.] Berlin 1868.
+          <lb/>Schmidt VI Nr. 75.
+          <lb/>Bibliographie Kantz siche: Schottenloher I Nr. 9587-9591. 1302
+          <lb/>KARLSTADT Andreas Bodenstein von
+          <lb/>Strassburg [Joh. Prüss] 1524
+          <lb/>Von Engelen vnd Teüf-felen ein Sermon. Andreas
+          <lb/>Botenstein von Carolstadt. (Rücks, leer.)
+          <lb/>Am Schluss: Getruckt zâ Straszburg! M. D. xxiiij.
+          <lb/>40, Got., 10 unn. Bll., Sign. a-e, Marg., Init. V.
+          <lb/>&amp;quot;R100.588. Prov.: M. Breslauer, Berlin 24. VIII. 1916, 11 M.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:58.670151+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5260.tif
+IMAGE WIDTH: 2404
+IMAGE HEIGHT: 3862
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1570
+          <lb/>A la fin : Getruckt in der löblichen Satt (!) Strassburg !!
+          <lb/>durch Wolffgangum Köpffel, am Rossz-  marck, als man
+          <lb/>zalt nach der geburt! Christi M. D. xxiij. Au-dessus grav. :
+          <lb/>le Bon Pasteur avec l’agneau sur les épaules; au verso, marque
+          <lb/>typ. de Köpffel. (H. &amp;amp; B. Planche XVI, n° 1.)
+          <lb/>In-4°, car. goth., 194 ff. non ch., sign. a-z, A-Z, aa-cc, feuillet cest
+          <lb/>avant b; titre encadré. (Voir reproduction p. 1569).
+          <lb/>R. 102.378. Prov. : Bibl. Heitz, Strasbourg. Note ms. au f. de garde:
+          <lb/>Vide Roehrich Ref. Geschichte II, 152 ff.
+          <lb/>Bibl. St.-Guillaume, Strasbourg; BM Colmar; Ritter, BM Strasbourg,
+          <lb/>No 2267.
+          <lb/>2514
+          <lb/>(ZELL Matthaeus)
+          <lb/>Strasbourg, W. Köpfel, 1524
+          <lb/>Appellatio sacerdotum mari torum, vrbis Ar! gentinae,
+          <lb/>aduersus excommu- nicationem Epi-scopi. (Verso blanc.)
+          <lb/>A la fin: Argentinae, Ex aedibus Vuolfij Cephalaei prope
+          <lb/>forum equitum. (Rossmarkt)] xij Aprilis Anno. M. D.
+          <lb/>XXIIII.
+          <lb/>In-8°, car. ital., 9 ff. non ch., sign. A, titre courant, réclames, init.
+          <lb/>d’attente N.
+          <lb/>R. 102.377. Prov. : Bibl. Heitz, Strasbourg. Note ms. au-dessous du
+          <lb/>titre : « M. Mathaeo Zellio Keyserspergio autore.».
+          <lb/>2515
+          <lb/>ZELL Matthaeus
+          <lb/>Strasbourg, B. Beck, vers 1525
+          <lb/>Frag vnd ant-wort, auff die Artickel des!! Christlichen
+          <lb/>Glaubens, wie die ge-meyngklich inn einer summ, vnnd
+          <lb/>von! menigklich zum heyl bekennt werdensollen, zu einer
+          <lb/>erklärung der selbigen, für die Kinder, durch Matheum
+          <lb/>Zell, 1) Pfarrherr im Münsteru Straszburg.
+          <lb/>A la fin : Getruckt zu Straszburg beyBalthassar Beck.
+          <lb/>In-8°, car. goth., 40 ff. non ch. dont les 2 derniers blancs, sign. A-E,
+          <lb/>réclames. Au verso du titre : Préface de Math. Zell.
+          <lb/>R. 100.614. Prov. : Lindner. (Vente Stöber), Strasbourg, 27/11, 1891;
+          <lb/>151 M.
+          <lb/>Notes mss. à la fin du livre.
+          <lb/>2516
+          <lb/>ZENDERS DE WERDT Guilhelmus Strasbourg, M. Hupfuff, 1503
+          <lb/>Lilium grammatice... (Voir le titre p. 1571).
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

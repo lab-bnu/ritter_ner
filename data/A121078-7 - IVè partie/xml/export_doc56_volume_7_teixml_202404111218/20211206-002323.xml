@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:09.876182+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002323.tif
+IMAGE WIDTH: 2488
+IMAGE HEIGHT: 3982
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>aussi peu renseignés sur certaines plaquettes de Schwenkfeld
+          <lb/>dont l’une ou l’autre a été incontestablement imprimée à
+          <lb/>Mulhouse par P. Schmid.»
+          <lb/>2441
+          <lb/>LULLUS, Raymundus : Opera ea quae ad inventam ab ipso
+          <lb/>artem universalem pendent... Bruno, Giordano: ..
+          <lb/>De Lulliano specierum scrutinio... — Strasbourg Laz.
+          <lb/>Zetzner 1598, in-80.
+          <lb/>BN Paris : Z 18.997.
+          <lb/>2442
+          <lb/>LULLUS, Raym. Voir aussi: ULSTADIUS, Phil. no 3378.
+          <lb/>(RITTER, Rép, nos 1405-1406).
+          <lb/>LUPI, Johannes Sigismund : Disputatio de successione
+          <lb/>testamentaria. In inclyta Argentoratensium Academia
+          <lb/>publici exercitii causa proposita, a Georgio Obrechto
+          <lb/>J. C. Respondente Joanne Sigismundo Lupio Memmin¬
+          <lb/>gensi. — Strasbourg, Antoine Bertram s. d., in-4°.
+          <lb/>Ritter: B M Strasbourg, n° 1408.
+          <lb/>2443
+          <lb/>LUPOLDUS de Bebenburg : De juribus et translatione imperii.
+          <lb/>(Préface de Wimpheling). — (Strasbourg, Mathias
+          <lb/>Schürer, 7 juillet 1508), in-4° (Ire éd. de l’ouvrage,
+          <lb/>écrit en 1338).
+          <lb/>G K XIV col. 164 renvoie à Leopoldus de Bebenburg.
+          <lb/>Schmidt VIII, 3; Walter, n° 1743. [B N Strasbourg R100.423.
+          <lb/>Rép. n° 1407].
+          <lb/>2444
+          <lb/>LURCKER, Erhart : Ein hüpsche historie von einem Ritter
+          <lb/>genant herr Thorelle, geboren usz dem land Lombardia,
+          <lb/>wie er vom grosen Soldan gefangen wardt... —
+          <lb/>Strasbourg, [Jean Grüninger vers 1515), in-4°.
+          <lb/>Goedeke I2, p. 375.
+          <lb/>2445
+          <lb/>LURCKER, Erhart : (Idem). — Strasbourg, Jacques Frölich
+          <lb/>s. d., in-4°.
+          <lb/>Heitz-Ritter, Nachträge, p. 217 (n° 3) : Darmstadt. Zusammen
+          <lb/>mit der Griseldis-Novelle.
+          <lb/>2446
+          <lb/>321
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

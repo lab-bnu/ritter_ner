@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:39.439006+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu154.tif
+IMAGE WIDTH: 2446
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Francfort s. M. 2, 7, 91, 123, 136,
+          <lb/>Heidelberg 4, 336, 340, 409, 481.
+          <lb/>143, 150, 151, 179, 224, 225,
+          <lb/>Heilbronn 13, 14, 65, 71, 78, 87,
+          <lb/>254. 260, 277, 299, 300, 335,
+          <lb/>102, 103, 106, 122, 154, 189,
+          <lb/>356, 415, 417, 420, 426, 436,
+          <lb/>195, 244, 274, 285, 286, 289,
+          <lb/>442, 491.
+          <lb/>323, 327, 345, 357, 364, 374,
+          <lb/>Françiscus (Praepositus S. Sal¬
+          <lb/>377, 440, 443, 444, 451, 453,
+          <lb/>vatoris, Pollingae) 3, 137, 178,
+          <lb/>454, 461, 487, 494.
+          <lb/>181, 212.
+          <lb/>Heitz (Strasbourg) 247, 250, 277,
+          <lb/>Franke 12a, 135, 347.
+          <lb/>332, 425, 433, 439.
+          <lb/>Fregaskis (?) 354.
+          <lb/>Helmstadt 456.
+          <lb/>Freitag 134.
+          <lb/>Her 258.
+          <lb/>Frey 258.
+          <lb/>Herbipolis 439.
+          <lb/>Freytag 493.
+          <lb/>Hess (Libr.) 57, 95, 294.
+          <lb/>Fribourg en Br. 109, 409, 455.
+          <lb/>Hildesheim 402.
+          <lb/>Froemer 397.
+          <lb/>Hoffmann Bernh. 70.
+          <lb/>Froschauer 19.
+          <lb/>Hugg Joan. 422.
+          <lb/>Fürst A. 262.
+          <lb/>Hugo de Strasbourg 8.
+          <lb/>Furter 4.
+          <lb/>Fust 54.
+          <lb/>Ingolstadt 241, 292.
+          <lb/>Fyner 461.
+          <lb/>Isidoneus Germanicus 493.
+          <lb/>Gaffron 428.
+          <lb/>Gamming 12a, 155, 273, 348.
+          <lb/>Johannisberg 311.
+          <lb/>Ganser 409.
+          <lb/>Justinianus 1.
+          <lb/>Gartlieb 285, 374.
+          <lb/>Geilfuss 447.
+          <lb/>Karlsruhe 66, 119.
+          <lb/>Gény Jos. 213.
+          <lb/>Karner Casp. 367.
+          <lb/>Georgius Abbas 378.
+          <lb/>Karrer Bernh. 238.
+          <lb/>Geyling 125, 170, 348, 407, 467.
+          <lb/>Kassel 21.
+          <lb/>Gilhofer 196, 458.
+          <lb/>Keller Adalbert 183, 185.
+          <lb/>Gitzler 112.
+          <lb/>Kenda 351, 402.
+          <lb/>Gœttingue 26, 41, 48, 50, 68, 76,
+          <lb/>Kettner 333.
+          <lb/>131, 167, 217, 225, 264, 284,
+          <lb/>Klemm 86, 200, 495.
+          <lb/>326, 437, 479.
+          <lb/>Kliensieck (Paris) 448.
+          <lb/>Griseldis 379.
+          <lb/>Klüpfel 117.
+          <lb/>Groschan Théob. 334.
+          <lb/>Koberger 87.
+          <lb/>Gross-Strenz 89.
+          <lb/>Koch 21.
+          <lb/>Guillon Abbé 146.
+          <lb/>Kœnigsberg 73, 74.
+          <lb/>Günther 365.
+          <lb/>Krener 102, 244, 274.
+          <lb/>Gw I, 3, 5-30, 32-64, 66-82, 84 à
+          <lb/>Kristeller 236, 268, 280, 288, 349,
+          <lb/>111, 113-116, 118-126, 129-149,
+          <lb/>388, 389, 396, 397, 420, 425,
+          <lb/>463, 464; Additions; 150-159.
+          <lb/>481, 488.
+          <lb/>Hæbler 277.
+          <lb/>Hain (Voir: Liste des n°s de
+          <lb/>La Haye 134.
+          <lb/>Hain, p. 129-131).
+          <lb/>Laire 54.
+          <lb/>Halle 96, 109, 276, 329, 399, 419,
+          <lb/>Lange F. A. 300.
+          <lb/>486.
+          <lb/>Langheim 169.
+          <lb/>Halm 46, 53, 404.
+          <lb/>La Place Charles 235.
+          <lb/>Harrassowitz 45, 114, 162, 269,
+          <lb/>La Vallière 114.
+          <lb/>272, 307.
+          <lb/>Leipzig 12a, 45, 110, 114, 135,
+          <lb/>Hartmann 204.
+          <lb/>162. 169, 177, 241, 269, 272,
+          <lb/>Haselbach 455.
+          <lb/>293, 306, 307, 330, 347, 365,
+          <lb/>Haslach 204.
+          <lb/>369, 450, 474.
+          <lb/>Haugg 252, 322, 394.
+          <lb/>Leser J. M. 280, 389.
+          <lb/>Hayden Léonard 308.
+          <lb/>Liesborn 386.
+          <lb/>Heberle J. M. 424.
+          <lb/>Lindner (Libr. Strasbourg) 104.
+          <lb/>124
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

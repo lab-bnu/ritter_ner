@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:35.186994+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2289.tif
+IMAGE WIDTH: 2298
+IMAGE HEIGHT: 3816
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>285
+          <lb/>bourg en Br. G 5632 ad; GPB: Berlin BN, Breslau BU, Gœttin¬
+          <lb/>BN Paris, K. 8883; Bibl. St. Guillaume, Strasbourg; BU Fri¬
+          <lb/>que BU, Kœnigsberg B U.
+          <lb/>429
+          <lb/>CAPITO Wolfgang Fabricius
+          <lb/>[Strasbourg, W. Köpfel), 1523
+          <lb/>An den hochwür digen fürsten vnd herren Wilhel¬
+          <lb/>men Bischoffen zû Straszburg, vnnd Lantgrauen zû
+          <lb/>Elsas.
+          <lb/>Entschuldigung D. Wolffgangs Fa. Capito.
+          <lb/>Zeigt an vrsach
+          <lb/>Warumb er
+          <lb/>Burger worden.
+          <lb/>Geprediget.
+          <lb/>und ein offenliche Dispu¬
+          <lb/>tation begert habe.
+          <lb/>A la fin: Straszburg Martini An. M. D. XXiij.
+          <lb/>In-40, car. goth., 34 ff. non ch., sign. AA-HH, le dernier a
+          <lb/>6 ff., les autres 4; notes marginales, titre courant, réclames, initiale
+          <lb/>ornée G.
+          <lb/>Au verso du titre: Vorred Dem Fürnemen Christophen
+          <lb/>Ewigern, zû Basel, meinem besunders günstigen Herrn
+          <lb/>vnd freündt... — GebenStraszburg. Am tag Martini.
+          <lb/>Anno M. D. XXiij. (3 p.)
+          <lb/>Au verso du dernier f. marque typ. de W. Köpfel (He B, Planche
+          <lb/>XVII, NO 6.)
+          <lb/>R102.362. Prov.: Bibliothèque Böcking.
+          <lb/>GPB. Berlin BN.;
+          <lb/>Bibliographie de Capito. Voir: Schottenloher No 2738-2752. 430
+          <lb/>CAPITO Wolfgang Fabrieius
+          <lb/>Strasbourg, (W. Köpfel] 1524
+          <lb/>Appelation der Ee lichen Priester, von der ver¬
+          <lb/>meinten Excommunication, des hochwirdigen Für- sten
+          <lb/>herrn Wilhelmen Bischoffen zu Strasz! burg.! Bescheen
+          <lb/>vff Zynstag nach Quasimodo.
+          <lb/>Darinn auch entdeckt wirt das geschwin de für¬
+          <lb/>nemen des gegen- teils.
+          <lb/>M. D. XXiiij. (Verso blanc.)
+          <lb/>In-40, car. goth., 8 ff. non ch., sign. a-b; titre courant, réclames
+          <lb/>init, ornée V.
+          <lb/>fol. a 24: Appellation... Desz halb, wir Mattheus Zell,
+          <lb/>Anthonius Firn, Lucas Bathodius, Wolffgang Sculteti, Con¬
+          <lb/>rad Spatzinger, Alexander etwan ein Johannit, vnd Jo
+          <lb/>hannes Nibling, alle wilant priester Straszburger Bistumbs
+          <lb/>sagen für euch herr Notary in gegen hie nach benanten
+          <lb/>glaubwirdigen zeüge...
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

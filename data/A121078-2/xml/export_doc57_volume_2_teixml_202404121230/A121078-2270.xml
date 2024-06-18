@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:34.660175+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2270.tif
+IMAGE WIDTH: 2300
+IMAGE HEIGHT: 3820
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>266
+          <lb/>mum, Ambrosius Calepinus Bergomas, eiusdem reli- gionis
+          <lb/>de obseruantia nuncupatae minimus. S. P. D.... — Bergomi
+          <lb/>Kalendis Octobris. M. D. IX.
+          <lb/>Au-dessous: AMBROSII CALEPINI VITA, EX ADDITIO-NBVS
+          <lb/>IN LIBRVM QVEM IOANNES Trittemius de Ecclesiasticis scrip¬
+          <lb/>toribus edidit, decerpta.
+          <lb/>R 10.471. Prov.: Bibliothèque Cantonale d’Aarau; 12/IV. 1876;
+          <lb/>sans indic. du prix.
+          <lb/>Annotations mes: au haut du titre: « Hic liber pertinet Vdalrico
+          <lb/>fabri lignano... ex donatione Johannis Zimmermann fratris sui.» au bas
+          <lb/>du titre: «Bernardi Franck Sum», au-dessous de la bordure inférieure
+          <lb/>de l’encadrement: «Sum Joannis Weber in Sursee, Anno 1607. Olim sub
+          <lb/>hasta venditum emptumque infra dimidium iusti precij...» Rel. anc.
+          <lb/>B M Strasbourg; BU Fribourg en Br. D 4642 co.
+          <lb/>401
+          <lb/>CALEPINUS Ambrosius
+          <lb/>Haguenau, H. Gran, 1526.
+          <lb/>AMBROSH CALEPINI BERGOMATIS LEXICON ADAVCTVM
+          <lb/>ET RECOGNITVM! DENVO. Outre le mot denuo le reste du titre est
+          <lb/>le même que dans l’édition de 1523, de même l’encadrement avec mono¬
+          <lb/>gramme et marque de Gran ainsi que la date 1523.
+          <lb/>A la fin: HAGANOAE COMMVNIBVS FRANCISCI BYRC-] MAN
+          <lb/>ET IOANNIS CNOBLOCHI IMPENSIS HEN-(ricus Granius excu¬
+          <lb/>debat, Anno M. D. XXVI. Mense Augusto.
+          <lb/>Aa-Bo, titre courant, réclames, imtiales ornées.
+          <lb/>Préfaces comme dans l&amp;#x27;édition 1523, dont c’est une réimpression.
+          <lb/>R. 10.472. Prov.: Rosenthal, Munich, 18/1I. 1889. 24 M. Notes
+          <lb/>mss. Rel, ane.
+          <lb/>BU Fribourg en Br. D 4642 cu; GPB: Berlin BN. Breslau
+          <lb/>BU; Walter: Sélestat No 892.
+          <lb/>402
+          <lb/>CALPURNIUS Siculus, Titus
+          <lb/>Strasbourg, J. Knobloch, 1519.
+          <lb/>LVDI LITERARII Magistris VVLTIS Auditoribus uestris,
+          <lb/>bene loquendi amus sim egregiam tradere. Adeste quaeso.
+          <lb/>Habetis hic! CALPHVRNIVM atque NEMESIA NVM Poëtas
+          <lb/>elegantiss. Nuper ab Ioanne Ale xandro Brassicano, Poëta
+          <lb/>&amp;amp; Oratore à Caesare! laureato, pristino nitori restitutos.
+          <lb/>Adeste queso. Prouehet iuuenum animos au reae breui¬
+          <lb/>tati iuncta festiuitas. Valete. B.A.R.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

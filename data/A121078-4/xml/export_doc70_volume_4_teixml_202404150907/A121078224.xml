@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:49.013307+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078224.tif
+IMAGE WIDTH: 2306
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1110
+          <lb/>ORDONNANCE
+          <lb/>Strasbourg 1552
+          <lb/>WIR Hilprand von Mülnheim der Meister und der
+          <lb/>Raht zû Straszburg, Thun kundt, Als sich bisz hero in
+          <lb/>diser Statt Straszburg offtermals zûgetragen, das etliche
+          <lb/>Heüser kaufft, und etwa zwey, drey oder mehr zûsammen
+          <lb/>brochen worden......Darumb so setzen und ordnen
+          <lb/>wir, ge] bieten auch menniglichen,...ein Hausz...
+          <lb/>von niemanden zûsammen gebrochen, oder zù einem Hausz
+          <lb/>gesesz gericht und gemacht werden sol- len, one sonder
+          <lb/>vorwissen und bewilligung unserer Freünd der Fünff¬
+          <lb/>zehener... —
+          <lb/>Actum den fünfften Martii... Fünffzehenhundert
+          <lb/>fünffzig und zwey jar. (Verso blanc.)
+          <lb/>Placard, in-fol., car. goth., 22 lignes, init. ornée W.
+          <lb/>R 21 (27). Prov.: Bibl. Heitz, Strasbourg 1871. Au verso: 1552.
+          <lb/>Häuszer nicht zusammenbrechen.
+          <lb/>1720
+          <lb/>ORDONNANCE.
+          <lb/>Strasbourg 1562
+          <lb/>ZU wissen, Nach dem biszhero, ettliche verschinen
+          <lb/>Jare, uber das ausz Gottes gnaden in diser Landcart kein
+          <lb/>sonderer Miszwachs der Kornfrüchten erschinen......
+          <lb/>So hat man doch biszhero nit allein kein abschlag, sonder
+          <lb/>mehrere und weitere Theürung und Auffschlag gespürt,
+          <lb/>...... Das die Oberkeiten disz Landts under Elsasz,
+          <lb/>zwischen dem Hagenawer Forst und dem Eckenbach, zû
+          <lb/>end dises Abscheids gemeldet, zu hertzen gefürt, und sol¬
+          <lb/>chen beschwerden mit Raht zûbegegnen, sich auff heut
+          <lb/>dato nachvolgender Ordnung, gebott unnd ver- bott, wie
+          <lb/>hievor im Fünffzehenhundert zwey und fünffzigsten Jare
+          <lb/>auch beschehen, mit ringer deren enderung entschlossen,
+          <lb/>auch darüber ernstlich zûhalten vereinigt haben, ! in massen
+          <lb/>nachvolgt.... (Suit le texte de l’Ordonnance.)
+          <lb/>Und seind disz die Oberkeiten, von denen oben meldung
+          <lb/>beschicht. Nemlich...... Herr Erasmus Bischoffe zû Strasz¬
+          <lb/>burg und Landtgraffe zû Elsasz. Thumbdechant unnd Ca¬
+          <lb/>pitel Hoherstifft Straszburg. Herr Iacob! Graffe zû Zweven¬
+          <lb/>prücken, herr zû Bitsch, Liechtenberg und Ochsenstein.
+          <lb/>Herr Philipps Graffe z6̂ Hanaw, Herr z6 Liechtenberg. Herr
+          <lb/>Hans Heinrich Graffe zû Lei-ningen und Dagspurg de.
+          <lb/>Herr Philips Graffe zû Leiningen, herr zû Westerburg &amp;amp;c.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

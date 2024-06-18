@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:29.767297+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2117.tif
+IMAGE WIDTH: 2312
+IMAGE HEIGHT: 3832
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>113
+          <lb/>Addita est explicatorum in Anno tamentis Galeni dic¬
+          <lb/>tionum! TABVLA.
+          <lb/>A la fin: ... Argentorati in Mathiae Schurerii Hel
+          <lb/>uetensis officina, stanneis calamis, excriptum (!) est.
+          <lb/>Anno. IHESUin cuius obitu tota machi na portentosa,
+          <lb/>nec non! nature insueto! tremore con! cussa fuit. M. D. X.
+          <lb/>Mense Maij.
+          <lb/>In-4°, car, rom., 40 ff. non ch., dont le dernier blanc (numéroté
+          <lb/>de XVII-XXXII, chiffre XVII commence f. 20; 22 chiffré XX), titre
+          <lb/>courant, notes marginales, initiales d’attente.
+          <lb/>Fol. A 24: AD MAXIMVM ANTISTITEM. D.  Erasmum Vi¬
+          <lb/>tellium Episcopum Plocensem Philippi Beroaldi Bononien¬
+          <lb/>sis Epistola... — Haec in vrbe Schletstatina, Cursim. XXV.
+          <lb/>Maij. Anno M. D. X. (3 ff.)
+          <lb/>*RI01.658. Prov.: Don de la Bibl. Universitaire de Gœttingue.
+          <lb/>BN Paris, Rés. Td53, 11; Schmidt, VIII, No 35; BM Strasbourg
+          <lb/>et Sélestat; Walter, No 764. GPB. Berlin, Breslau, Bonn, Gœttingue,
+          <lb/>Munster.
+          <lb/>191
+          <lb/>BEROALDUS Philippus
+          <lb/>Strasbourg, R. Beck, 1513.
+          <lb/>Ein hüpsche subtyliche Decla mation des gelerten
+          <lb/>vnd wolredenden mans Phi lippi Beroaldi, von dryen brû¬
+          <lb/>dern, der erst ist ein drunckner bosz, der ander ein hûrer,
+          <lb/>der drytt ein spyler, wölcher der verachtest sey, Lustig
+          <lb/>liep- lich, vnd nutzlich gelerten vnd vngelerten zû le- sen,
+          <lb/>da ein yeglicher mercken vnd verstön mag wie seer
+          <lb/>schand, laster vermyden sy, harwider berkeit (!) tugend
+          <lb/>zù eeren anzûnemen.
+          <lb/>Gravure sur bois: un vieillard sur son lit de mort; près de lui
+          <lb/>ses trois fils et un notaire assis, écrivant le testament du père.
+          <lb/>A la fin: Getruckt zû Straszburg zû demThiergarten,
+          <lb/>von Reynhart Becken. Anno. M.CCCCCXIII. (Verso blanc.)
+          <lb/>In-40, car. goth., 24 ff. non ch., sign. A-E, titre courant, initiales
+          <lb/>ornées E, M, O.
+          <lb/>4 gravures outre celle du titre, composée chacune de trois bois, dont
+          <lb/>un revient quatre fois, deux autres chacun trois fois et un deux fois.
+          <lb/>Au verso du titre: Dem... Herren Herr Friderich Ca¬
+          <lb/>merer von Dalburg Ritter... befilhe ich mich Jacobus
+          <lb/>Wympf feling von Schletstatt... — Datum! Heydelberge
+          <lb/>Lucie virginis. Anno domini. M.CCCCC.
+          <lb/>Sur les deux derniers ff.: Der beschlusz diser red. (3 pages,
+          <lb/>vers allemands.)
+          <lb/>R 100,086. Proc.: J. A. Sprecher, Chur, 7./IV. 1881; 10 M.
+          <lb/>Schmidt IV, p. 19, N° 12; met dans la Se ligne du titre: er
+          <lb/>berkeit.
+          <lb/>192
+          <lb/>R.8
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

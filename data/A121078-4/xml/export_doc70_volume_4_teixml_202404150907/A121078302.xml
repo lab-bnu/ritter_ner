@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:51.329496+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078302.tif
+IMAGE WIDTH: 2316
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1188
+          <lb/>Strasbourg, J. Pruss 1506
+          <lb/>PEUTINGER Conradus
+          <lb/>Sermones con vivales Conradi peu! tingeri: de mi¬
+          <lb/>randis! Germaniae antiqui-] tatibus. (Verso blanc.)
+          <lb/>A la fin: Joannes Prüs in aedibus Thiergarten Ar¬
+          <lb/>gentinae imprimebat. Mathias schu- rer recognovit.
+          <lb/>In-4°, car. rom., 26 ff. non ch. dont le dernier blanc, sign. a-e,
+          <lb/>grande init, ornée V.
+          <lb/>Fol. a 2a: Udalricus Zasius legum Doctor Fryburgensis! Thome
+          <lb/>Volphio iuniori Iuris pontifi-cii... (2 fr.)
+          <lb/>Fol. a 3b en bas: Eiusdem Udalrici Zasii ad! auctorem pro libe¬
+          <lb/>rata Germa. (3 dist.)
+          <lb/>Fol. a 4a: Pètrus Episcopus Tergestinus Reveren- do patri do¬
+          <lb/>mino Matheo Lang Praepo- sito Augustensi Caesareae Maiestatis Con¬
+          <lb/>siliario. S. P. D.... Oeniponte. XV. kal. Ja-] nuarii. M. D. IIII.
+          <lb/>A la fin avant l’explicit : Mathias Schürerius artium doctor : litte¬
+          <lb/>rarum amatoribus. S. P. D.... — Argentinae ex officina litteratoria.
+          <lb/>V. Idus Februariï! Anno M. D. VI.
+          <lb/>*R102.158. Prov.: Bibl. Bœcking. 3ème ex. R 102.159. Prov.:
+          <lb/>Bibl. Ch. Schmidt.
+          <lb/>Schmidt III, p. 15, n° 54: Bâle et son exemplaire, qui se trouve
+          <lb/>maintenant à la BN de Strasbourg.
+          <lb/>BM Strasbourg, incun, 541; BM Colmar.
+          <lb/>Brunet IV2, 583: ,Cet opuscule a été réimprimé à Strasbourg,
+          <lb/>en 1530, in-4°, à Jena, en 1684, in 80.
+          <lb/>Bibliographie. Voir: Schottenloher I n° 17146-17183c. 1858
+          <lb/>PHILANDER Gulielmus: Castigationes. Voir: VITRUVIUS: De
+          <lb/>Architectura. Strasbourg, G. Messerschmidt 1550.
+          <lb/>PHILELPHUS Franciscus
+          <lb/>Strasbourg, J. Knobloch 1511
+          <lb/>Epistolae Fran- cisci philelphi equitis aurati ora¬
+          <lb/>toris atque Poetae laureati breviores; elegantiores &amp;amp; ado¬
+          <lb/>lescentibus magis conducentes: ex toto epistolarum eius
+          <lb/>volumine conquisitae. Qui bus etenim supraposita sunt
+          <lb/>argumenta seu ti- tuli succinctae declarantia ipsarum ma¬
+          <lb/>terias. Ideoque egregium opusculum hoc im- primi cu¬
+          <lb/>ravimus; ut studiosi &amp;amp; facilius &amp;amp; saepius lectitent; quo
+          <lb/>quidem nihil ipsis accomodatius! fuerit.! Addita prae¬
+          <lb/>terea est tabula; ut facile quisque possit inve-nire quam
+          <lb/>desideraverit materiam.Praeterea familiares epistolae
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

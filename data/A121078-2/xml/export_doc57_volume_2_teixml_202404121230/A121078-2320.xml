@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:36.009841+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2320.tif
+IMAGE WIDTH: 2314
+IMAGE HEIGHT: 3820
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>316
+          <lb/>CHRYSOSTOMUS Johannes
+          <lb/>Strasbourg, B. Beck, 1540.
+          <lb/>Johannis Chryso stomi des Heyligen Ertzbi-schoffs
+          <lb/>zù Constantinopel, Auszlegung üb- er die Euangelia Sancti
+          <lb/>Matthei, vnnd Sancti Johannis, Zur auffbauwung der
+          <lb/>kirchen Gottes, in Teütschem! landt, Durch Doctor Caspar
+          <lb/>Hedio verteütscht.
+          <lb/>Hie findestu auch die fürnempsten ort der andern
+          <lb/>zweyen Euangelisten Marci vnd Luce, durch Johannem
+          <lb/>Chrysostomum! gehandlet vnd auszgelegt.
+          <lb/>Hat gelebt zû der zeyt des Keysers Arcadij, im jar
+          <lb/>nach Christi geburt Dreyhundert vnd Neüntzig.
+          <lb/>Alle zungen sollen bekennen das Jesus Christus der
+          <lb/>Herr sey, zum preisz Gottes des vatters. Philip. ij.
+          <lb/>Getruckt zû Straszburg bey Balthassar Beck. M. D.XL.
+          <lb/>(Verso blanc.)
+          <lb/>In-fol., car. goth., 16 ff. non ch., CCCLXV ff. ch., 1 f. blanc et
+          <lb/>18 ff. non ch. à 2 col. (Table.), titre courant, réclames, notes marginales,
+          <lb/>initiales goth.
+          <lb/>fol. 2a non ch.: Vorred.!... herrn Albrechten... Marck¬
+          <lb/>grauen zû Brandenburg, in Preüssen... Caspar Hedio...
+          <lb/>— Straszburg, auff den tag Johannis Chry- sostomi, den
+          <lb/>xxvij. des Jenners, im jar! M. D. XL. (Préface de 9 p.)
+          <lb/>fol. 6b non ch.: Das leben des heyligen Ertz- bischoffs
+          <lb/>Johannis Chrysostomi... (20 p.)
+          <lb/>R10.294(1). Prop.: Abbé Cromer, curé à Saverne, 29/VII. 1879.
+          <lb/>Rel, anc.
+          <lb/>Au haut du titre: «Sum Matthiae Adami», au recto du f. de garde:
+          <lb/>«Sum ex libris M. Jacobi Brunonis 29 ianuar 1589., Rel. anc.
+          <lb/>Bibl. St. Guillaume, Strasbourg; GPB: BN Berlin (incomplet),
+          <lb/>RU Breslau, Kœnigsberg.
+          <lb/>478
+          <lb/>CHRYSOSTOMUS Johannes
+          <lb/>Strasbourg, B. Beck, 1540.
+          <lb/>Johannis Chryso stomi des Heyligen Ertzbi-schoffs
+          <lb/>zû Constantinopel Auszlegung über das Haupt Euangelion
+          <lb/>Sanct Johans,! Zur auffbauwung der Gemeynden! Gottes
+          <lb/>durch Teütschland, von Doctor Caspar Hedio verteütscht.
+          <lb/>Chrysostomus in der ein vnd dreys- sigsten predig
+          <lb/>über Johannem etc. (4 lignes.)
+          <lb/>Straszburg. M. D. XL. (Verso blanc.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

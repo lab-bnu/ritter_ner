@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:06.252512+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie074.tif
+IMAGE WIDTH: 2482
+IMAGE HEIGHT: 3926
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>MEISTER (die sieben weisen) : Die sieben weisen Meister. —
+          <lb/>(Strasbourg, Henri Knoblochtzer s. d. vers 1485),
+          <lb/>in-fol.
+          <lb/>Proctor 391, Voulliéme : Berlin 2228, Heitz-Ritter n° 392 :
+          <lb/>Berlin, Hambourg, Munich, Oxford, Stuttgart.
+          <lb/>460
+          <lb/>MEISTER (die sieben weisen) : (Idem). — Clein Troya
+          <lb/>(— Kirchheim) 1497, in-40,
+          <lb/>Hain 8733; Goedeke II2, p. 350, n° 14; Heitz-Ritter n° 401:
+          <lb/>St. Gall.
+          <lb/>461
+          <lb/>MELBER, Johannes : Vocabularius praedicantium latine¬
+          <lb/>germanice. — (Strasbourg, Martin Schott s. d.), in-4°.
+          <lb/>Hain 11030; Proctor 398; Voulliéme : Berlin 2246, Scott
+          <lb/>(Schmidt II, Suppl.) n° 11. — Brit. Mus. Catal. Londres I, 94;
+          <lb/>Gilhofer et Ranschburg (Vienne), Catal. 261 (1936) : « impor¬
+          <lb/>tant for the knowledge of the Alsation dialect in the 15th
+          <lb/>Century ».
+          <lb/>462
+          <lb/>MELBER, Joh. (Idem). — (Strasbourg, impr. de Jordanus —
+          <lb/>Georges Husner s. d.), in-4°.
+          <lb/>Hain 11031; Proctor 670; Voulliéme : Berlin 2472. 463
+          <lb/>MELBER, Joh. : Vocabularius praedicantium. a Jodoco Eich¬
+          <lb/>mann editus. — (Strasbourg, impr. des Casus breves —
+          <lb/>Georges Husner s. d.), in-4°,
+          <lb/>Hain 11032; Polain 2666, Proctor 742, Voulliéme: Berlin 2525.
+          <lb/>464
+          <lb/>MELBER, Joh. : Vocabularius praedicantium. — (Strasbourg,
+          <lb/>Georges Husner) s. d., in-40.
+          <lb/>Hain 11035; Proctor 751; Voulliéme : Berlin 2532.
+          <lb/>465
+          <lb/>MELBER, Johannes : Vocabularius praedicantium. —
+          <lb/>(Strasbourg, Martin Flach 1492), in-4°.
+          <lb/>Hain 11043; Panzer, I, 47; Annalen, Zusätze 72; Schmidt VI,
+          <lb/>p. 8, n° 43.
+          <lb/>466
+          <lb/>72
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

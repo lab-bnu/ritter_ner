@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:05.728669+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie037.tif
+IMAGE WIDTH: 2486
+IMAGE HEIGHT: 3926
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>DIRECTORIUM Argentinense. — Strasbourg, J. Grüninger 30.
+          <lb/>IX. 1489, in-40.
+          <lb/>G W 8438; Hain 12058; Bohatta Lit. Bibl. 755. B U Fribourg
+          <lb/>en Br. B M Mayence, B M Munich.
+          <lb/>204
+          <lb/>DIRECTORIUM Argentinense. — (Strasbourg, Jean Grüninger
+          <lb/>vers 1496), in-8°.
+          <lb/>G W 8439; Copinger 5076, Schreiber 5064. B U Fribourg en
+          <lb/>Br., B M Sélestat. Sevilla etc.
+          <lb/>205
+          <lb/>DIRECTORIUM Wormatiense pour les mois de septembre
+          <lb/>1482-avril 1483. — (Strasbourg, J. Prüss vers 1482),
+          <lb/>Placard 201 x 180 mm.
+          <lb/>G W 8474; Voulliéme : Berlin 2337, 12.
+          <lb/>206
+          <lb/>DIURNALE Argentinense. — (Strasbourg (?), Jean Prüss (?)
+          <lb/>s. d.), in-80,
+          <lb/>Hain 6290, Pellechet 4366, Bohatta 594; G W 8526 dit « Bâle,
+          <lb/>Michel Wenssler vers 1491».
+          <lb/>207
+          <lb/>DIURNALE Moguntinum. — (Strasbourg, J. Grüninger) 1488,
+          <lb/>in-160.
+          <lb/>G W 8548; Bohatta : Lit. Bibl. 302 = 622 ; Voulliéme :
+          <lb/>Berlin 2276,4. BN Berlin, B M Mayence, Trèves et quelques
+          <lb/>autres.
+          <lb/>208
+          <lb/>DIURNALE Warmiense : — [Strasbourg, J. Prüss vers 14901,
+          <lb/>in-160.
+          <lb/>G W 8563 : Bibl. Com. Danzig (ff. 1 et 344 manquent). B M
+          <lb/>Danzig, Guttstadt.
+          <lb/>209
+          <lb/>DOCTRINALE. Voir: ALEXANDER de Villa Dei.
+          <lb/>DONATUS, Aelius : Ars minor. — (Strasbourg, Henri Eggestein
+          <lb/>vers 1470), in-fol.
+          <lb/>G W 8816. Haag M M W (côté droit d’un fol.).
+          <lb/>210
+          <lb/>35
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

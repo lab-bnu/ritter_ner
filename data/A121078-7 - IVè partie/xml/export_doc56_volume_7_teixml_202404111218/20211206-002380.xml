@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:11.464456+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002380.tif
+IMAGE WIDTH: 2502
+IMAGE HEIGHT: 4004
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>NATUR : Von natur, eigenthumb und wirkung der siben
+          <lb/>Planeten unnd zwölff Zeychen des Himmels, auch von
+          <lb/>den 28 Mansionibus, das ist Stellungen des Monds, wie
+          <lb/>und was sie wirken inn den Menschen daraus ein jeder
+          <lb/>sein eygen natur, gut oder böss, leichtlich erlernen
+          <lb/>mag. Itzo von newem getruckt. — Strasbourg, Jacques
+          <lb/>Cammerlander vers 1535, in-4°.
+          <lb/>Zinner 1600.
+          <lb/>2752
+          <lb/>NEGELIN, Matthaeus : Ein kurtze und einfeltige... Anleitung
+          <lb/>zu begegnen dem Teuffelischen und vermaledeiten
+          <lb/>irrthum der Helijschen Steinbachischen oder Küfferischen
+          <lb/>Secten... — Strasbourg, Christian Müller (Mylius] 1560.
+          <lb/>(Chez Jost Martin 1598: Negelin, Historia von der Empfängnis
+          <lb/>und Geburt Christi. Ritter, Rép. n° 1622).
+          <lb/>2753
+          <lb/>NEOBARIUS, Conradus : Compendiosa facilisque artis Dialec¬
+          <lb/>ticae ratio in puerorum gratiam nunc primum conscripta.
+          <lb/>— Strasbourg, Wendelin Rihel août 1536, in-8°,
+          <lb/>Walter, n° 1922.
+          <lb/>2754
+          <lb/>NEPOS, Cornelius. Voir : AURELIUs, Victor, n° 881. Voir
+          <lb/>aussi (RITTER, Rép. nos 1623-1625).
+          <lb/>NEUENAR, Hermann von : Epistola Germaniae studiosorum
+          <lb/>ad Carolum. A la suite de : SOBIUS, Oratio Germaniae
+          <lb/>nobilium... — Sélestat, Lazare Schürer 1526.
+          <lb/>Ritter, Hist. impr. app. 472 (2/3).
+          <lb/>2755
+          <lb/>NEUENAR, Hermann. Voir aussi : Epistolae trium illustrium
+          <lb/>virorum, n° 1557a; OCTAVIANUS Horatianus, n° 2783;
+          <lb/>PSALMI, n° 3029; QUADUS, Nic, n° 3056.
+          <lb/>NEUHEUSER, Samuel : Ein Christliches Trostbüchlin in
+          <lb/>zwölfe unterschidliche Capitel abgetheylet... —
+          <lb/>Strasbourg, Bernard Jobin (1575), in-8°.
+          <lb/>Wackernagel, Kirchenlied, vol. I, p. 512.
+          <lb/>2756
+          <lb/>378
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

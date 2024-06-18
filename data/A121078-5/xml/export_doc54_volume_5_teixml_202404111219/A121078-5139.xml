@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:54.185207+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5139.tif
+IMAGE WIDTH: 2344
+IMAGE HEIGHT: 3858
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1447
+          <lb/>fol. Bb 8a non ch. : Eusebius Capriano Fra-I] tri in Domino S. D.
+          <lb/>Le texte est le même que dans l’édition précédente, mais les caractères
+          <lb/>sont en ital. tandis que dans l’autre ce sont des caractères gothiques.
+          <lb/>R. 101.073. Prov. : Collection Baum, 1879.
+          <lb/>Annotations mss.; le titre principal manque, mais concorde probable¬
+          <lb/>ment avec l’édition précédente puisque le reste concorde.
+          <lb/>Schmidt n’a que l’édition du 9 juin 1523.
+          <lb/>British Museum 3025, e. 18.
+          <lb/>2302
+          <lb/>TESTAMENTUM NOVUM
+          <lb/>Strasbourg, W. Köpfel, 1524
+          <lb/>Novum Testamen tum Grae! ce, [éd. par J. Lonicer).
+          <lb/>Argentorati, apud Wolfium Ce-phalaeum. Anno. 1521.
+          <lb/>(Verso blanc.)
+          <lb/>A la fin : Argentorati, apud Wolfium Cepha laeum.
+          <lb/>Anno M. 1 D. XXIIII. Mense!! Iunio.
+          <lb/>In-8°, car. grecs, 160 ff. ch. pour les Évangiles et les Actes des Apôtres,
+          <lb/>118 ff. ch. pour les Epîtres et l’Apocalypse, 1 f. non ch. avec l’explicit
+          <lb/>au recto et la marque typ. de W. Köpfel au verso (H. &amp;amp; B., planche XVI,
+          <lb/>N° 2, Silvestre No 941) titre courant, init. d’attente. Titre encadré (H. &amp;amp;
+          <lb/>B., planche XVI, No 4 ; Silvestre No 1050).
+          <lb/>fol. 2a: Wolfius!! Cephalaeus Typo!! graphus Argen !! tinen, Candi¬
+          <lb/>do Lectori!! Salutem... — Argentorati ex aedibus nostris, 1524, decimo
+          <lb/>ka- Il lendas Iulias (2 pp.).
+          <lb/>R. 101.053. Prov. : Donation Cunitz Strasbourg 1886.
+          <lb/>Au bas du titre : « D. Io. Frid. Guhlingii».
+          <lb/>2 ex. R. 102.161. Prov. : Bibl. Ed. Reuss, Strasbourg, 1891 avec son
+          <lb/>ex-libris et son autographe au recto du f. de garde; à côté de l’autographe:
+          <lb/>« bei Heberle in Coelle, März 1844, fr. 3. »
+          <lb/>Bibl. St. Guillaume, Strasbourg; Ritter, Catal. BM Strasbourg n° 2062.
+          <lb/>3e ex. R. 101.053a. Prov. inconnue.
+          <lb/>Notes mss. : W. Saalmüller 1790, const. 8 fr. Auct. Lips; J. S.
+          <lb/>Haenckel Merseburgensis gymn. Rector 1731.
+          <lb/>2303
+          <lb/>TESTAMENTUM NOVUM
+          <lb/>Strasbourg, Th. Rihel, 1559
+          <lb/>Novi Te-stamenti D. E-rasmi Roterodami Aedi¬
+          <lb/>tio postrema, scripturae concordantijs accuratè il-lustrata,
+          <lb/>cum Calendario Romano, Calendis, Nonis,ue Idibus è
+          <lb/>regione positis : Adiuncto insuper Indi-Euangeliorum &amp;amp;
+          <lb/>Epistolarum, quae per an- ni cursum, tum in diebus Domi¬
+          <lb/>nicis, quàm Festis, memoriae Diuorum sacris recitari
+          <lb/>consue-uerunt.
+          <lb/>His praeterea accesseruntDisticha quaedam Moralia,
+          <lb/>cuiuslibet!! Capitis continentia Sum- mam.
+          <lb/>Argentorati!! M. D. LIX. (Verso blanc.)
+          <lb/>A la fin: Argentorati expensis.Iosiae Rihelij, &amp;amp; Samuelis
+          <lb/>Emmelij. (Verso blanc.).
+          <lb/>In-8°, car. ital., 24 ff. non ch., 391 ff. ch., 1 f. non ch. (verso blanc),
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

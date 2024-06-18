@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:07.742515+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002238.tif
+IMAGE WIDTH: 2524
+IMAGE HEIGHT: 3978
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Underrichtung... — Strasbourg, in verlag Lazari Zetzners
+          <lb/>1599, in-fol.
+          <lb/>Ritter : B M Strasbourg, n° 1207.
+          <lb/>2003
+          <lb/>HESIODUS : In hoc opere continentur Hesiodi Ascraei duo
+          <lb/>libri Georgicon ẽpyg xœì nuépoi... Catonis Romani
+          <lb/>moralia instituta. Tabula Cebetis Thebani... &amp;amp; alia
+          <lb/>quaedam. Graece et Latine. — Strasbourg, Jean
+          <lb/>Knobloch (1515), in-4°.
+          <lb/>Schmidt VII, n° 103. Fribourg; Walter, no 1496; Panzer
+          <lb/>6, 72, 377 et 128, 892.
+          <lb/>2004
+          <lb/>HESIODUS: &amp;quot;EPTA KAI &amp;quot;HMEPAl una cum praefatione...
+          <lb/>Philippi Melanchthonis. — Haguenau, Jean Secer 1532,
+          <lb/>in-8°,
+          <lb/>Walter, n° 1497; Zinner, 1490; Graesse III, 264 : « Reproduit
+          <lb/>Paris, apud Ant. Augurellum 1533, in-8°. Haguenau,
+          <lb/>Jean Secer 1534, in-8° et Paris ex off. Jac. Bogard 1543,
+          <lb/>in-8°».
+          <lb/>2005
+          <lb/>HESIODUS: &amp;quot;EPTA KAI &amp;quot;HMEPAI Una cum Praefatione
+          <lb/>ac luculentissimis enarrationibus Philippi Melanchthonis.
+          <lb/>— Haganoae in offi. Sec. [eriana). M. D.XXXII, in-8°.
+          <lb/>A la suite de Nicolaus Gerbel : Grammatica Graeca,
+          <lb/>iam denuo recognita; 1536.
+          <lb/>Bibl. Grand Sém. Strasbourg BE 205.
+          <lb/>2006
+          <lb/>HESIODUS. Voir : EOBANUS Hessus no 1548.
+          <lb/>HESSUS, Simon : Argumentum Libelli. Simon Hessus (Urb.
+          <lb/>Rhegius) Luthero ostendit caussas, quare Lutherana
+          <lb/>opuscula a Coloniensibus &amp;amp; Londoniensibus sint com¬
+          <lb/>busta. Idipsum enim petit Martinus in libello quodam
+          <lb/>ubi rationem reddit facti sui... — [Sélestat, Lazare
+          <lb/>Schürer 1521), in-40.
+          <lb/>Voir : Clemen, Otto : Das Pseudonym Simon Hessus. Dans :
+          <lb/>Centralbl. f. Bibliotheksw. XVII n° 12; Breslauer (Berlin)
+          <lb/>Katal. III (1908), n° 548; 48 M.
+          <lb/>2007
+          <lb/>236
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

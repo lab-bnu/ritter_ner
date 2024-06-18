@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:32.729713+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2206.tif
+IMAGE WIDTH: 2282
+IMAGE HEIGHT: 3824
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>202
+          <lb/>BRUNI Leonardo. Voir: ARETINO Leonardo.
+          <lb/>BRUNMÜLLER Caspar
+          <lb/>Strasbourg, P. Messerschmidt, 1560.
+          <lb/>Von dem Er- schrockenlichen, Grau- samen, Vnbilli¬
+          <lb/>chen, Unchrist-lichen, schädlichen, Vnnötigen, Gottlosen,
+          <lb/>Gefährlichen vnd Verdamlichen la- ster dem Gottslesteren,
+          <lb/>ein vermanung, warumb wir solch verflucht laster fliehen,
+          <lb/>vnd daruon abstehn sol- lend, zûsamen ge-zogen.
+          <lb/>Mit sampt einer angehengten Bûsspredig verfasst
+          <lb/>vnd gepredigt. Durch M. Caspar Brun- mylleum. Anno,
+          <lb/>M. D. Ix. (Verso blanc.)
+          <lb/>A la fin: Gedruckt zû Straszburg bey Paulo Messer¬
+          <lb/>schmidt.
+          <lb/>Au verso: gravure sur bois, Jésus-Christ ressuscitant du tombeau,
+          <lb/>auprès de lui, 3 soldats.
+          <lb/>In-8°, car. goth, 8 ff. non ch., CLXXI pages ch., titre courant,
+          <lb/>réclames, notes marginales.
+          <lb/>fol. A 2a non ch: Dem Edlen... Friderichen Landtschad,
+          <lb/>von steynach... Caspar Brunmylleus... — Datum Geyss¬
+          <lb/>lingen den xix. Januarij Anno 1559. Caspar Brunmylleus.
+          <lb/>(Préface de 6 pages.)
+          <lb/>Suivent 7 pages de table.
+          <lb/>R101.977. Prov.: Gilhofer d Ranschburg, Vienne, 5/11. 1903,6 Kr.
+          <lb/>GPB: Berlin.
+          <lb/>307
+          <lb/>BRUNNER Lienhart
+          <lb/>Strasbourg, W. Köpfel, 1530.
+          <lb/>Concordantz vnd zeyger der sprüchvnd historien,
+          <lb/>aller Biblischen bücher alts vnd news Testa- ments
+          <lb/>teütsch registers weisz verfaszt vnd zû- samen bracht.
+          <lb/>Durch M. Lienhart Brunner verweser des wort Gots z6
+          <lb/>Wormbs.
+          <lb/>Truckt mit Keyserlicher gnad vnd freyheit, Bey Wolff
+          <lb/>Köpphl! zû Straszburg, Anno! M. D. XXX.
+          <lb/>A la fin: Getruckt mit Keyserlicher Gnad, vnd Frey¬
+          <lb/>heyt, in der Hohen Löblichen frey Statt Straszburg, durch
+          <lb/>Wolffen Köpphll. Anno M. D. XXX.
+          <lb/>In-fol., car. goth, 2 col, 256 ff. non ch., sion a-2, A-T, titre
+          <lb/>courant, réclames, de nombreuses initiales à fig. et init. ornées et goth.,
+          <lb/>titre encadré, en haut, génies nus entre des colonnes; des deux côtés, des
+          <lb/>génies jouant et grimpant sur des colonnes, quelques uns ont des instru¬
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

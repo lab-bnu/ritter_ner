@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:32.463779+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2201.tif
+IMAGE WIDTH: 2282
+IMAGE HEIGHT: 3826
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>197
+          <lb/>de Taraxaco, ci- corea, lua, Esula &amp;amp; Soldanella. 282
+          <lb/>11 Iacobi de Manlijs Alexandrini interpretatio Simplicium...
+          <lb/>283 12 Hieronymi herbarij Apodixis Germanica, ex qua
+          <lb/>facile uulgares herbas omnes licebit perdiscere. 399.
+          <lb/>(Verso blanc.)
+          <lb/>214 pp. ch. (pagination 99-313), 2 ff. non ch. (table) à 3 col. et
+          <lb/>1 f. blanc, titre courant, notes marg., initiales à fig. M, I,A,E, V,
+          <lb/>4, D. N. Réimpression de l’éd. de 1532.
+          <lb/>p. 5: D. Generosis CoMITIBVS, &amp;amp; Dominis D. Bernardo,
+          <lb/>Othoni, &amp;amp; Vuolphgangoa SOLMs, patri, cum duobus
+          <lb/>filijs...Otho BrunfelsiusS. D.... — Argen torati
+          <lb/>quarto Nonas Decembris, Anno... millesimo quingen
+          <lb/>tesimo Trigesimo primo.
+          <lb/>R10,506.(2) Prov, inconnue.
+          <lb/>2 ex. R 10.505.(2) Prov.: Bibl. de l’ancienne Faculté de Médecine
+          <lb/>de Strasbourg.
+          <lb/>3 ex. R 10.411. (2) Prov.: Bibliothèque du Gymnase de Heilbronn,
+          <lb/>1878. Rel, anc.
+          <lb/>Schott, Suppl. au tome II du Rép. de Schmidt, No 24 cite un
+          <lb/>exemplaire du libraire I. Baer, Francfort s. M. GPB: Berlin,
+          <lb/>Halle BU.
+          <lb/>301
+          <lb/>BRUNFELS Otto
+          <lb/>Strasbourg, J. Schott, 1536.
+          <lb/>TOMVS HERBARII OTHONIS BRVNFELSII] III.
+          <lb/>COROLLARIIS Operi praefixis, quibus respondet! Ca¬
+          <lb/>lumniatoribus suis: passim Errata quaedam priorum
+          <lb/>TOM. diluens.
+          <lb/>LECTORI S. Habes tandem Lector candide, desydera¬
+          <lb/>tum Opus OTH. quod praematura morte raptus, posthu¬
+          <lb/>mium reliquit, monumentum inquam laboris sui, quem
+          <lb/>Herbarum indagationi tanto studio, eaque diligentia im¬
+          <lb/>pendit, ut immortalis illum gloria, non immerito sequatur,
+          <lb/>uirum &amp;amp; pietate &amp;amp; eruditione nostri seculi clarum, quem¬
+          <lb/>que iure aeques ueterum etiam stemmati- bus. Tu lege,
+          <lb/>&amp;amp; fruere gratus. Vale.Cum Caes. Maiest. Priuilegio ad
+          <lb/>Sexennium.
+          <lb/>ARGENT. apud Ioannem Schottum. M. D. XXXVI.
+          <lb/>(Verso blanc.)
+          <lb/>In-fol., car. rom., 240 pp. ch., 2 ff. non ch. titre courant, réel.,
+          <lb/>notes marg., init. à fig. H.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

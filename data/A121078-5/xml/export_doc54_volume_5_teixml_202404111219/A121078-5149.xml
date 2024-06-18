@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:54.632470+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5149.tif
+IMAGE WIDTH: 2330
+IMAGE HEIGHT: 3856
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>THEOLOGIA
+          <lb/>Strasbourg, J. Knobloch, 1519
+          <lb/>Theologia. Teütsch...
+          <lb/>A la fin : Gedruckt vnnd volendet zu straspurg durch
+          <lb/>Joannem Knoblouch am freytag nach des hailigen creütz
+          <lb/>erhebung Nach Christi!! geburt Fünfftzehundert vnd in dem!
+          <lb/>neüntzehenden, iar.
+          <lb/>ETIE
+          <lb/>Perc
+          <lb/>O
+          <lb/>UPolonta.
+          <lb/>Heutsih.
+          <lb/>S° Das ist ain edels und bostlichs buch
+          <lb/>lin/ von recbtem verstand / mas
+          <lb/>Adam vno Cbiistus sey/ vnò
+          <lb/>rie Aòam in vns ster¬
+          <lb/>ben/vnò Chiistus
+          <lb/>ersteen soll. re.
+          <lb/>1457
+          <lb/>3
+          <lb/>R. 92
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

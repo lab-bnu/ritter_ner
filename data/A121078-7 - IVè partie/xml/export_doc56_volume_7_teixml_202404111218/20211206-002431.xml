@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:12.521048+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002431.tif
+IMAGE WIDTH: 2520
+IMAGE HEIGHT: 3966
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Strasbourg (imprimerie Knobloch) par Machaeropœum
+          <lb/>1— Messerschmid) mars 1545, in-8°.
+          <lb/>Graesse V, p. 491.
+          <lb/>3030
+          <lb/>PSALMI : Davidis regii prophetae Psalmi omnes noviter
+          <lb/>n. pr. tam in Graecum, carmine Heroico quam in
+          <lb/>Latinum prosam... conversi ab Aemylio Francisci Porti
+          <lb/>Cretensis filio. — Strasbourg, Bernard Jobin 1582, in-8°.
+          <lb/>Graesse V, p. 485.
+          <lb/>3031
+          <lb/>PSALMI. Voir aussi: BUCER, Martin et LAMBERTUS, Franciscus.
+          <lb/>PSALMI : Septem psalmi penitentiales. A la suite de :
+          <lb/>CURSUS b. Mariae, n° 1472.
+          <lb/>PSALTER : Der Psalter Teutsch. Martinus Luther. — (Stras¬
+          <lb/>bourg, Jean Knobloch, décembre 1524), in-80.
+          <lb/>Graesse V, p. 482 ; « Contrefaçon der Wittenberger Erstaus¬
+          <lb/>gabe, 1524»; Panzer, Annalem II, 242, 2119; Schmidt VII,
+          <lb/>n° 285 : Dresde, Bibl, royale.
+          <lb/>3032
+          <lb/>PSALTER : Der Psalter Teutsch. Martinus Luther... M. Dxxvi.
+          <lb/>— (Strasbourg, Jean Prüss pour Jean Knobloch 1526),
+          <lb/>in-80.
+          <lb/>Horning, n° 114; Schmidt III, p. 39, nor 38 et VII, n° 312 :
+          <lb/>Bibl. S. Guillaume, Strasbourg.
+          <lb/>3033
+          <lb/>PSALTER: The Psalter of David in Englishe purely and
+          <lb/>faithfully translated after the texte of Feline (— Martin
+          <lb/>Bucer) every Psalme havgnye his Argument before
+          <lb/>declaring brefly Thentente (!) and Substance of the
+          <lb/>whole Psalme. — Argent, by Francis Foxe (?) 1530,
+          <lb/>in-160. (Imprimeur inconnu à Strasbourgl.
+          <lb/>Graesse V, p. 470.
+          <lb/>3034
+          <lb/>PSALTER : Das seindt alle Psalmen Davids, mit jren Melodeien,
+          <lb/>sampt vil Schönen Christlichen Liedern und Kyrchenü¬
+          <lb/>429
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

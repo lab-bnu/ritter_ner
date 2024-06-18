@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:43.771570+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078042.tif
+IMAGE WIDTH: 2356
+IMAGE HEIGHT: 3836
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>926
+          <lb/>2
+          <lb/>R2
+          <lb/>EX LVCIANO QVAEDAM IAM
+          <lb/>recens traducta.
+          <lb/>SOMNIVM LVCIANI, in primis effi¬
+          <lb/>cax ad studia literarum incitamentum.
+          <lb/>ADVERSVS eum qui inquit &amp;amp;ẽ.
+          <lb/>NIGRINVS, boni uiri similachrum com
+          <lb/>plectitur &amp;amp; mundihuius (qui in malo
+          <lb/>positus est) uanitatem
+          <lb/>CAVCASVS acerrimã in louẽ &amp;amp; ethni¬
+          <lb/>corum deós accusationem continet.
+          <lb/>Ottomari Luscinij distichon,
+          <lb/>Libellus loquitur,
+          <lb/>N
+          <lb/>Me lege qum tristes torquẽt tua pectora cu
+          <lb/>Inuenies mixtos cũ grauitate iocos, (ræ,ee.
+          <lb/>(Voir n° 1389)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

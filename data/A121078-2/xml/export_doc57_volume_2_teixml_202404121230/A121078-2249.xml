@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:34.137434+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2249.tif
+IMAGE WIDTH: 2292
+IMAGE HEIGHT: 3818
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>245
+          <lb/>M. Matthias Zelle.! M. Bucerus. Symphorian Pollio. M.
+          <lb/>Diebolt schwartz.
+          <lb/>Zû Straszburg, durch Matthiam Apiarium, den dritten
+          <lb/>in Mertz, Jm jar 1534.
+          <lb/>In-40, car, goth, 112 ff. non ch. dont le dernier blanc, sign. a-2,
+          <lb/>A-D, titre courant, réclames, notes marginales.
+          <lb/>fol. 2a: Den... Herren Wolffgangen Rehllinger, vnnd
+          <lb/>Hieronymo jm hoff, regierenden, Vlrychen Rehllinger,
+          <lb/>vnnd Jacob Mangen seytzen, alten Burgermeystern, der
+          <lb/>loblichen statt Augspurg... — Datum Ar- gentine den
+          <lb/>funfften Martij. Anno 1534. (Préface de 11 p., signée Wolff¬
+          <lb/>Capito, Hedio, Bucer, vnnd andere prediger des heyligen Euangeli zù
+          <lb/>Straszburg).
+          <lb/>R101.922. (2) Prov.: Prof. Dr. Böhmer, Strasbourg, 1871. Rel. anc.
+          <lb/>20 ex. R102.396. Prov.: Bibl. Ch. Schmidt, avec son ex-libris à
+          <lb/>l’intérieur du premier plat.
+          <lb/>Walter: Sélestat No 865.
+          <lb/>Baum N° 31; Mente N° 33.
+          <lb/>368
+          <lb/>BUTZER Martin
+          <lb/>Strasbourg, M. Apiarius, 1534.
+          <lb/>DEFENSIO ADVERSVS AXIOMA CATHOLI-cum, id est
+          <lb/>criminationem R. P. ROBERTI EPISCOPI Abrincensis, in qua
+          <lb/>is impiae nouationis in cunctis Ecclesiae cum do- gmatis,
+          <lb/>tum ritibus, peculiariter autem circa Sacrosanctam Eu¬
+          <lb/>charistiam importune accusat, quotquot! Christi doctri¬
+          <lb/>nam sectari! student, ab ijs hominum commentis, quae
+          <lb/>cum! illa pugnant, re! purgatam.
+          <lb/>HIC VIDEBIS CHRISTIANE LE-ctor, nos nihil prorsus
+          <lb/>uel in doctrinam, uel! ritus Ecclesiarum nostrarum admi¬
+          <lb/>sisse, quod non pulchre conueniat, &amp;amp; cum scri- ptis
+          <lb/>orthodoxorum Patrum, &amp;amp; cum! obseruatione Ecclesiae ca¬
+          <lb/>tholicae. PER MARTI. BVCE.
+          <lb/>CATALOGVS EORVM de quibus hie disputatur, est in
+          <lb/>sequenti pagina.
+          <lb/>A la fin: Argentorati per mathiam Apiarium. Ao
+          <lb/>M. D. XXXIIII. (Verso blanc.)
+          <lb/>In-80, car, rom., 80 ff. non ch., sign. A-E, titre courant, récla¬
+          <lb/>mes, notes marginales.
+          <lb/>fol. A 2a: ... An- tonio a Prato Cardinali &amp;amp; Legato
+          <lb/>CANCELLARIO Fran) ciae MaRTINVS By] cervs. S. D... —
+          <lb/>ARGENTORATI VII. Calendas Septembris. AN. M. D.XXXIIII.
+          <lb/>(Préface de 9 ff.)
+          <lb/>R 101970. Prov.: Bibliothèque Heitz, Strasbourg, 1871.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

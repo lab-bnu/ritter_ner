@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:02.432446+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002034.tif
+IMAGE WIDTH: 2476
+IMAGE HEIGHT: 3966
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Comitem Palatinum Rheni... de ansere, qui Sacramentum
+          <lb/>edisse dicitur... — Strasbourg 1526, in-80.
+          <lb/>GKIX, 6479: BN Berlin, Munich, Vienne, etc.
+          <lb/>897
+          <lb/>BADER, Johannes : An den... Herrn Ludwigen, Pfaltzgraven
+          <lb/>bey Rheyn... von der Gans, die das Sacrament gessen
+          <lb/>hat... — (Strasbourg] 1526, in-8°.
+          <lb/>GKIX, 6478: BN Munich, Stuttgart.
+          <lb/>898
+          <lb/>BADER, Johannes : Ein gottsälige Anleytung und kurtze
+          <lb/>underweysung zum Reich Gottes... — (Strasbourg,
+          <lb/>Jacques Frölich) (vers 1540), in-8°.
+          <lb/>GKIX, 6475: BN Munich.
+          <lb/>899
+          <lb/>BADER, Matthaeus: Praedictiones meteorologicae &amp;amp; physicae:
+          <lb/>von dem 1579. Jar seiner Witterung und Eigenschafft
+          <lb/>ausz rechtem Grundt der Astronomey gestellet auff die
+          <lb/>Elevationem poli 49 grad... — Strasbourg, Nicolas Wyriot
+          <lb/>11578), in-80.
+          <lb/>GKIX, 6559; BN Berlin, Munich, Suttgart, etc. Zinner
+          <lb/>2877 (2).
+          <lb/>900
+          <lb/>BADER, Matthaeus: Zvyygpto rwòv Ilpóypouux in laudem et
+          <lb/>honorem trium eximie doctorum juvenum D. Melchioris
+          <lb/>Junii, clarissimi viri D. Melchioris Junii... filii, et
+          <lb/>Philippi Reinhardi et Petri Uffenbachii, Francofurten¬
+          <lb/>sium, cum iis secundae laureae insignia conferentur a
+          <lb/>decano... Johanne Pappo... mense octobri, anno 1591...–
+          <lb/>Strasbourg, Antoine Bertram 1591, in-40.
+          <lb/>BN Paris: Rés. p. Z. 185.
+          <lb/>901
+          <lb/>BADIUS, Jodocus Ascensius : Stultiferae naviculae seu scaphe
+          <lb/>fatuarum mulierum... — (Strasbourg) (Jean Prüss 1502),
+          <lb/>in-80.
+          <lb/>GKIX, 6833: BN Berlin, Munich, Vienne etc. Ritter, Grand
+          <lb/>Sém. Strasbourg, n° 39; Walter n° 718/19. Strasbourg
+          <lb/>(R100.083).
+          <lb/>902
+          <lb/>32
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

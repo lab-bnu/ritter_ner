@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:04.497925+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002114.tif
+IMAGE WIDTH: 2506
+IMAGE HEIGHT: 3988
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>CICERO (Epistolae) : Epistolarum volumen primum. —
+          <lb/>Strasbourg, (Rihell] s. d., in-40.
+          <lb/>B U Fribourg D 5819, o (Communication de M. Rest, Fribourg).
+          <lb/>1347
+          <lb/>CICERO (Epistolae) : Alterum Epistolarum volumen. —
+          <lb/>Strasbourg, (Rihell s. d. ; in-40.
+          <lb/>B U Fribourg-en-Br. 5942, d. (Communication de M. Rest).
+          <lb/>1348
+          <lb/>CICERO (Epistolae) : Epistole Familiares cum Ascensionis
+          <lb/>introductiunculis recognitis et auctis &amp;amp; argumentis
+          <lb/>illustratis. Ex secunda recognitione... — (Strasbourg,
+          <lb/>Mathias Schürer janvier 1515), in-4°.
+          <lb/>Panzer 6, 74, 390 et 11, 362; Schmidt VIII, n° 149; Ritter:
+          <lb/>B M Strasbourg, n° 724; B U Fribourg-en-Br. : D 5915c
+          <lb/>(Communication de M. Rest, Fribourg). (Une éd. Knobloch
+          <lb/>1525 : Ritter, Rép. n° 498).
+          <lb/>1349
+          <lb/>CICERO (Epistolae) : Epistolae familiares, scholiis Christo¬
+          <lb/>phori Hegendorphini illustratae &amp;amp; iam recens aeditae. —
+          <lb/>Haguenau, J. Secer 1531, in-8°.
+          <lb/>n° 519l.
+          <lb/>1350
+          <lb/>CICERO : Epistolae. — Strasbourg, Jacobus Jucundus
+          <lb/>(Jacques Frölich! 1550.
+          <lb/>Fribourg-en-Br. : D 5898 m. (Communication de M. Rest).
+          <lb/>(Une éd. W. Rihel 1549/50: Ritter, Rép. n° 509).
+          <lb/>1351
+          <lb/>CICERO (Epistolae) : Epistolarum libri quatuor (éd. Jean
+          <lb/>Sturm). — Strasbourg, Josias Rihel 1560, in-8°.
+          <lb/>BN Paris: 8° R. 15648 (4).
+          <lb/>1352
+          <lb/>CICERO (Epistolae) : Epistolarum libri quatuor a Johanne
+          <lb/>Sturmio puerili educationi confecti... — Strasbourg
+          <lb/>(Rihell 1562.
+          <lb/>B U Fribourg: D 5899 (Communication de M. Rest). 1353
+          <lb/>112
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

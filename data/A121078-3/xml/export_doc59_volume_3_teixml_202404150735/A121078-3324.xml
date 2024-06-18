@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:11.443779+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3324.tif
+IMAGE WIDTH: 2362
+IMAGE HEIGHT: 3854
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>766
+          <lb/>HENRICUS DE HASSIA
+          <lb/>Strassburg, Matth. Hupfuff 1505
+          <lb/>Secreta sacer- dotum que in missa tene ri debent
+          <lb/>multum vtilia Collecta per venerabilem! magistrum Hein¬
+          <lb/>ricum de hassia. (Rücks, leer.)
+          <lb/>Am Schluss: Impressum Argentine per Ma-am
+          <lb/>hupfuff. Anno domini M. ve. v. (Rücks, leer.)
+          <lb/>4°, Got., 12 unn. Bll., Sign. a-b. Init.
+          <lb/>R101.372. Prov.: Butsch, Augsburg 12. X. 1883; 1M. 60.
+          <lb/>Schmidt V Nr. 45; Stuttgart.
+          <lb/>1133
+          <lb/>HENRICUS DE HASSIA
+          <lb/>Strassburg, Joh. Knobloch 1507
+          <lb/>Speculum animae: seu soli loquium. Henrici de Hassia
+          <lb/>maximi theo- logi saecularis. Contra poetas pro theologis
+          <lb/>epistola Ioannis Campani.De poetarum infoelicitate
+          <lb/>carmen Fausti. In theologorum laudem versus eiusdem.
+          <lb/>Elegia Ioannis pape. XXiij, in concilio Constanciensi de¬
+          <lb/>positi. Elegia Sebastiani Brant: in mortem Philippi regis
+          <lb/>Castelle filij Maximiliani regis.
+          <lb/>Am Schluss : Impressum Argentoraci! a Ioanne Kno¬
+          <lb/>bloucho. xvij. Kl’. Au- gusti. Anno M. D. vij. (Rücks, leer.)
+          <lb/>40, Antiq., 22 unn. Bll., Sign. A-D, Kopft.
+          <lb/>Bl. A 2a:... fratri Ioanni de! Hengneuilla ordinis Prae¬
+          <lb/>monstratensis Coeno bij Styuaiensis in diue Odilie monte
+          <lb/>christo mi- litante : Iacobus Vuimpfelingius. Sal. d....
+          <lb/>— Ex Argentoraco Kal’. Julii. Anno. M. D. vij. (2 S.)
+          <lb/>R101.373. Prov.: Bibl. Böcking. Handschr. Notizen.
+          <lb/>Proctor II Sectio I Nr. 10054: London Brit. Museum; Schmidt
+          <lb/>VII Nr. 31: Jadis Bibl. de Strasbourg Incun. No 2550, BM et Bibl.
+          <lb/>St. Guillaume, Strasbourg.
+          <lb/>Walter: Schlettstadt Nr. 1484.
+          <lb/>1134
+          <lb/>HENRICUS DE HASSIA
+          <lb/>Strassburg, Joh. Knobloch 1508
+          <lb/>Secreta sacerdotum que in! missa teneri debent mul¬
+          <lb/>tum uti! lia Collecta per venerabilem magistrum Henri¬
+          <lb/>cum de hassia.
+          <lb/>Am Schluss: Impressum Argentine per Joan! nem kno¬
+          <lb/>blouch. Anno domi ni Millesimo quingen! tesimo octavo.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

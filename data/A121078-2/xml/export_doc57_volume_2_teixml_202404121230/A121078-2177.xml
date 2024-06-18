@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:31.902824+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2177.tif
+IMAGE WIDTH: 2292
+IMAGE HEIGHT: 3824
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>173
+          <lb/>In-8°, car. goth., imprimés en rouge et en noir, 2 col.; tre Partie,
+          <lb/>10 ff. non ch., (titre, calendrier) — CXVIII ff. ch. en rouge (chiffres
+          <lb/>romains) — 7 ff. non cotés, puis ff. 119-325 (chiffres arabes) et 4 non
+          <lb/>cotés. 2me Partie, 9 ff. non ch. (calendrier) CXVIII ff. ch. en rouge (chiffres
+          <lb/>romains) et de 119-345 en noir (chiffres arabes); titre courant, initiales
+          <lb/>ornées (rouges); quelques gravures; titre rouge et noir.
+          <lb/>Au verso du f. 9 (Tère partie), 3 petites gravures, f. 10b: grande
+          <lb/>gravure: David assis, jouant à la harpe.
+          <lb/>R 102.397. Prov. : Trübner, Strasbourg (Vente Freiesleben, No.
+          <lb/>152). 15/XI. 1879, 40M.
+          <lb/>A l&amp;#x27;intérieur du 1er plat du Ier vol., annotation ms.: Reuerendis In
+          <lb/>Christo Virginibus Con! ventus Ecclesiae apud Poeniten¬
+          <lb/>tiales hoc hiemalis partis Diocesis Argen-tinensis Breu¬
+          <lb/>iarium pietatis causa Vt praecibus et orationibus piis
+          <lb/>sui! ipsius memores essent. Adamus! Pfrenger Vicarius
+          <lb/>S. Petri Iunioris! Arg. locauit. A° 1581 ipsa! Nativitatis
+          <lb/>Mariae die.  Ps. 68. Querite Deum, et uiuet anima uestra.
+          <lb/>Au verso du f. du titre: De Honstein Wilhelmus fato con¬
+          <lb/>cessit die S. Petri e Pauli Anno 1541.
+          <lb/>Erasmus A Lympurg in locum eligitur die S. Laurentij
+          <lb/>4 idus augusti anno eodem.
+          <lb/>Au verso du dernier f. imprimé et au f. blanc suivant du 2e vol.
+          <lb/>annotations mss. Rel. anc. pour le 1er vol.
+          <lb/>Bohatta H., Bibliographie der Breviere 1501-1850. 1937, N° 1901;
+          <lb/>Proctor II Sectio I, N° 9996: Londres, British Museum; Schmidt III.
+          <lb/>p. 25, No 85 : Grand Séminaire Strasbourg et Bibl. St. Guillaume, (Pars
+          <lb/>aestivalis). Rosenthal, Munich, Catalogue 100, No 285b; 500M. 270
+          <lb/>BRICE Germain. Voir: BRIXIUS Germanus.
+          <lb/>(BRIXIUS Germanus]
+          <lb/>Strasbourg, M. Schürer, 1514.
+          <lb/>CHORDIGERAE NAVIS conflagratio. (Marque typographique
+          <lb/>de M. Schürer. (HE B, Planche XII, NO 2.)
+          <lb/>Ex secunda recognitione, (Verso blanc.)
+          <lb/>A la fin: Argentorati, Ex Aedibus Schu, rerij, Mense,
+          <lb/>Februario,! Anno M. D. XIIII.
+          <lb/>In-4°, car, rom., 11 ff. non ch., sign. A-C, notes marginales,
+          <lb/>initiales ornées M, I, (300 hexamètres sur l’incendie d’un vaisseau
+          <lb/>français dans une rencontre avec la flotte anglaise, sous Henri VIII.)
+          <lb/>fol. A 2a: HIERONYMUS ALEXANDER! Mottensis Germano
+          <lb/>Brixio Archidia- cono Albiensi, &amp;amp; francorum Regi- nae
+          <lb/>a secretis.... — Lutetiae Parrhisiorum. M. D. XII. Quarto
+          <lb/>Calend. Ianuarias.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:46.994002+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078153.tif
+IMAGE WIDTH: 2306
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Jungen sant Peter, und zweyen sun- dern Thûmherren
+          <lb/>daselbst, namlich Coszman und Hansen Andressen den
+          <lb/>Wölffen gebrüdern zûversprechen min handel und nach¬
+          <lb/>volgende sach für zetragen und eroffnen geursacht bin...
+          <lb/>Datum Mitwochs den vierden tag Januarii. Anno do¬
+          <lb/>mini XVe. XX.
+          <lb/>Une orande feuille de 182 lignes de texte, car. goth.
+          <lb/>Voir: JUNG : Geschichte der Reformation in Strassburg I, p. 63 et
+          <lb/>suiv,, 135, 228, 239; LIEBENAU: Thomas Murner p. 4; RŒHRICH. Re¬
+          <lb/>formationsgeschichte I, 41, et Mitteilungen aus der Geschichte der evan¬
+          <lb/>gelischen Kirche I, 132-150.
+          <lb/>1599
+          <lb/>MURNER Johannes
+          <lb/>Strasbourg, M. Hupfuff vers 1512
+          <lb/>Von Eelichs Stadts! nutz und beschwer- den durch
+          <lb/>Joannem Murner gedichtund gemacht. (Grav. sur bois:
+          <lb/>une femme et un homme assis sur un canapé. Au-dessous 4 vers alle¬
+          <lb/>mands. Verso blanc.)
+          <lb/>In-4°, car. goth., 24 ff. non ch., sign. a-d; le titre et les pages
+          <lb/>ont des bordures qui se trouvent aussi dans la Ière édition de la Narrenbe¬
+          <lb/>schwörung de Murner de 1512; 8 grav. outre celle du titre, dont ? sont
+          <lb/>composées chacune de 2 bois, employés aussi dans d’autres ouvrages
+          <lb/>imprimés par Hupfuff. Celle de fol. a 4b est assez jolie: un homme
+          <lb/>barbu assis devant une maison et parlant à une femme debout; au fond,
+          <lb/>un paysage; dans l’angle gauche en haut, un petit monogr. formé d’un
+          <lb/>O et d’un C.
+          <lb/>Weller Rep, 598 pense que l’impression est faite vers 1510;
+          <lb/>Schmidt V n° 97 prouve qu’elle ne peut pas être antérieure à 1512,
+          <lb/>puisqu’il y a les bordures destinées à la Narrenbeschwörung, qui n’a
+          <lb/>paru qu’en 1512.
+          <lb/>Fol. a 2a : Des iungen Eemans klag. Fol. d 7a : Entschuldigung
+          <lb/>des Dichters.
+          <lb/>R100.328. Prov.: Weigel, Leipsig 12/11 1879; 36 M.
+          <lb/>Schmidt V n° 97 signale en outre un exemplaire à la BN Munich;
+          <lb/>Waldau, Th. Murner p. 46-48; Serapeum XVII 205; Jung, Geschichte
+          <lb/>der Reformation in Strassburg II 63; Strobel, Geschichte des Elsasses
+          <lb/>IV 134; Liebenau, Thomas Murner p. 3.
+          <lb/>1600
+          <lb/>1039
+          <lb/>MURNER Thomas
+          <lb/>(Strasbourg) s. d.
+          <lb/>Thome murner Argentini divina rum litterarum bacca¬
+          <lb/>laurii Cracovien sis ordinis minorum honestorum poe
+          <lb/>matum condigna laudatio Impudi corum vero miranda
+          <lb/>Castigatio. M. Decretorum doctor.Hoc Epulum Comede.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

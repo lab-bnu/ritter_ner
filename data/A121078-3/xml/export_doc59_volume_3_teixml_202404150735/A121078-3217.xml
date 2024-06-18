@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:08.730518+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3217.tif
+IMAGE WIDTH: 2326
+IMAGE HEIGHT: 3858
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Bl. 66a: ... Item disz Bûch ist Getruckt vnnd seligk¬
+          <lb/>lich geendet In der stat Straszburg! von Johannes Grien¬
+          <lb/>ninger vff Frei tag vor mitfast In dem iar von geburt
+          <lb/>Christi. 1517.
+          <lb/>II. Teil. Her der küng ich diente gernAlso ist dis
+          <lb/>büchlin genant vnnd haltet in fünffzehen schöner nutz¬
+          <lb/>licher leer vnd predig, auszgelegt von dem hochgelerten
+          <lb/>gotz förchtigen Doctor Johannes Geiler von Keisersperg,
+          <lb/>predicant, der stat Straszburg der zeit in dem hohen
+          <lb/>stifftJetz nuw auszgangen.
+          <lb/>Holeschn.: Ein König auf dem Throne, vor ihm 5 Personen, im
+          <lb/>Hintergrunde eine Stadt. (Wie im Weiss Ritter 1514.)
+          <lb/>Am Schluss: Getruckt in der Keyserli-chen freien
+          <lb/>stat Straszburg, von Johan-nes Grienniger vnd geendet
+          <lb/>vff sant Ma this abent in dem iar von der geburt vn¬
+          <lb/>sers herren Ihesu christi. M. d. xvij.
+          <lb/>20, Got., 2sp., XC Bll., Kopft., Init., Titel der Emeis rot und
+          <lb/>schwarz; 5 Holeschn. der Ausg. 1516 sind veggelassen, 3 sind durch
+          <lb/>neue ersetat.
+          <lb/>R 10.107. Prov.: I. Béguin, Strassburg 20. VII. 1885. Der
+          <lb/>II. Teil Herr der künig, ich diente gern (Bl. 67-Bl. 90) ist auch se¬
+          <lb/>parat unter R 10.110 an der Bibl. vorhanden. Er enthält das Autograph
+          <lb/>von Ch. Th. Fuchs 1847: dieser schenkte August 1878 das Buch Ch. Schmidt,
+          <lb/>mit dessen Sammlung es an die Bibliothek kam.
+          <lb/>BN Paris, Rés. D. 2963f, Dacheux, Geiler S. CXXXVI, Schmidt
+          <lb/>I, Nr. 155; Bibl. Wilh. Strassburg, Kristeller 100. GK: SR Berlin,
+          <lb/>UB Göttingen, Halle.
+          <lb/>975
+          <lb/>661
+          <lb/>GEILER Johannes
+          <lb/>Strassburg, Joh. Grüninger 1517
+          <lb/>Die brösam! lin doct. Kei serspergs vffgelesen von
+          <lb/>Frater Johann Paulin! barfûser ordens. Vnd sagt von den
+          <lb/>funfftze! hen Hymelschen staffelen die Maria vff gestigen
+          <lb/>ist, vnd gantz von den vier Leuwengeschrei. Auch von
+          <lb/>dem Wannenkromer, der kauflüt sunderlich hüpsche
+          <lb/>matery bei. I xii, predigen, nutzlich vnd gût den men¬
+          <lb/>schen die daz lesen, on zwei fel wol dardurch! gebes¬
+          <lb/>seret werden.! Cum Priuilegio.
+          <lb/>Am Schluss des 1. Teiles, Bl. Cx: Geendet vnd vszgeschri
+          <lb/>ben von frater Johani pauli zû schlet! stat Montag vor
+          <lb/>Mathei im iar 15.15. Vnd darnach getru ckt von Jo¬
+          <lb/>hannes Grünin gern in der Keyserli- chen freien stat
+          <lb/>Straszburg. vff Mit-woch nach vnser lieben frawen tag
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

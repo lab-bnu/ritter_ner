@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:44.456090+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078063.tif
+IMAGE WIDTH: 2336
+IMAGE HEIGHT: 3844
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>LUTHER Martin
+          <lb/>[Strasbourgl 1524
+          <lb/>Epistel S. Petri Geprediget unnd auszge- legt durch
+          <lb/>Marti- num Luther.! M. D. XXIIII.
+          <lb/>In-40, car. goth., 75 ff. non ch., sign. A-W, titre encadré, aux
+          <lb/>côtés colonnes avec des génies, en haut feston avec un génie; en bas un
+          <lb/>écusson tenu par 2 génies avec les lettres V. M. (Peut être Vlrich Mor¬
+          <lb/>hardus comme dans l&amp;#x27;édition des Tusculanarum libri 1522 de Morhard,
+          <lb/>où se trouvent aussi ces 2 lettres. Mais d’après Schmidt IV p. 31 n° 13
+          <lb/>Morhard aurait quitté Strasbourg en 1522 pour s’établir à Tubingue.)
+          <lb/>*R100589. Prov. inconnue.
+          <lb/>midt IV p. 31 n° 13 : Bibl. de St. Guillaume, Strasbourg.
+          <lb/>Londres Brit. Museum 3905. CC. 67 [met Strasbourg, J. Pruss). 1423
+          <lb/>LUTHER Martin
+          <lb/>Strasbourg, J. Schott 1524
+          <lb/>XXVII. predig! D. Martin Lu! thers newlich! usz¬
+          <lb/>gangen. Anno XXIII.
+          <lb/>Durchsichtiget, und in! ordnung gestellt der! bessten
+          <lb/>form. Sampt eim Register. Kerumb.
+          <lb/>Au recto du dernier f.: Johannes Schott trucker wünscht
+          <lb/>D. M. Lu- ther Gnad... — Da! tum in Straszburg am
+          <lb/>ersten Septembris.Anno &amp;amp;c. xxiiïi.
+          <lb/>Au verso, marque typ. de J. Schott. (HeB Planche IV n° 9.)
+          <lb/>In-40, car. goth., 3 ff. non ch. (Index), CVII ff. ch., les chiffres
+          <lb/>ne commencent qu’avec le chiffre xxvi, les ff. précédents de 1-25 ne por¬
+          <lb/>tent pas de chiffres, à la fin I f. non ch., titre courant, notes marg.,
+          <lb/>init. goth., titre encadré, bordure supérieure, sur le toit d’une maison
+          <lb/>un homme se jetant dans un gouffre; bordures latérales, à gauche une
+          <lb/>chapelle, à l’entrée de celle-ci 2 personnes, paysage; à droite un homme
+          <lb/>et une femme en prière, bordure inférieure, Jésus préchant à la foule.
+          <lb/>Chaque bordure est entourée d’un verset de l’Evangile.
+          <lb/>*R101.986. Prov. inconnue. Manque chez Schmidt. 1424
+          <lb/>949
+          <lb/>LUTHER Martin
+          <lb/>[Strasbourg, J. Pruss 15241
+          <lb/>An die Radherrn aller stedte deütsches! lands: das
+          <lb/>sy Christ- liche schûlen auffrichten und halten sollen.
+          <lb/>Martinus Luther. Wittemberg. M. D. xxiiii.! Laszt die Kin¬
+          <lb/>der zû mir komen, und weret jnen! nicht. Matthei, 19.
+          <lb/>In-4°, car. goth., 16 ff. non ch., sign. A-D, init. blanche sur fond
+          <lb/>noir G; titre encadré: en haut, deux griffons tenant chacun une corne
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

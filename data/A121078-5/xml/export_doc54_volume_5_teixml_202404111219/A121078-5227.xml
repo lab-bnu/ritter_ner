@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:57.489652+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5227.tif
+IMAGE WIDTH: 2370
+IMAGE HEIGHT: 3858
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Rinoer geberẽ ist ein sundere gab Got
+          <lb/>tes/ so die ger aten/Dauonetlice EE pempel.
+          <lb/>Das oj. Capitel.
+          <lb/>1537
+          <lb/>(Voir n° 2461a).
+          <lb/>WICKRAM Georg
+          <lb/>Strasbourg, imprimerie Knobloch, 1556
+          <lb/>Von Guten vndBösen Nachbaurn.Wie ein reicher
+          <lb/>Kauffmann aus Probant in das Künigreich Por! tugal
+          <lb/>zohe, wie es ihm nachmals auff dem Mer mit einem Hispanischen
+          <lb/>krancken Kauffman ergangen ist. Wie er den selbigen mit
+          <lb/>im zu haus füret,  sein inn seiner kranckheit wol pflegen
+          <lb/>lasst, vnnd! nachmals sein Tochter gibt. Auch wie sich ein
+          <lb/>junger gesel auff der Wanderschafft hal!! ten sol, Fast kurtz¬
+          <lb/>weilig zu lesen, Newlich an tag geben, durch Georg
+          <lb/>Wickram, statschreiber zu Burck-haim.
+          <lb/>Wer zu weg baut der selb nit kan
+          <lb/>Sein baw ausfüren yederman,
+          <lb/>Das der bleib vngetadlet stohn
+          <lb/>Ich wags lass red für ohren gohn.
+          <lb/>Gedruckt zu Straszburg Inn! Knoblochs Druckerei. (Verso
+          <lb/>blanc.)
+          <lb/>Dicmeil
+          <lb/>R. 97
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

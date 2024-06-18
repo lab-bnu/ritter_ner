@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:04.012939+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002100.tif
+IMAGE WIDTH: 2480
+IMAGE HEIGHT: 4002
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>CALVIN, Joh. : Commentaria in priorem Epistolam Pauli ad
+          <lb/>Corinthios. — Strasbourg, Wendelin Rihel 1546, in-8°.
+          <lb/>1269
+          <lb/>CALVIN, Joh. : Der Heilig Brotkorb der H. Römischen
+          <lb/>Reliquien... Das ist Johannis Calvini Notwendige ver¬
+          <lb/>manung von der Papisten Heiligthum. — (En allemand
+          <lb/>par Joh. Fischart). — Strasbourg 1583 (Nouvelles éd.
+          <lb/>1584, 1590, 1594).
+          <lb/>1270
+          <lb/>CALVIN. Voir : Actes de la conférence de Paris n° 742;
+          <lb/>Pseaulmes n° 3051 ; Ritter, Rép. nos 404-417.
+          <lb/>CAMERARIUS, Joachim : Von den Cometen, ihren schreck¬
+          <lb/>lichen Bedeutungen, historien und exempeln, ein schon
+          <lb/>büchlein... aus dem Latein verteutscht (von Blasius
+          <lb/>Fabricius). — Strasbourg, Paul Messerschmidt (1561),
+          <lb/>in-80.
+          <lb/>Schottenloher 39.182 m.
+          <lb/>1271
+          <lb/>CAMERARIUS, Joachim : Phenomena, elegantissimo carmine
+          <lb/>descripta. A la suite de Melanchthon, Phil. : Mathemati¬
+          <lb/>carum disciplinarum encomia. — Strasbourg 1537. 1272
+          <lb/>CAMERARIUS, Joachim. Voir aussi: AESOPUS n° 756/7;
+          <lb/>CICERO n° 1376; CRUSIUS, G. n° 1466; QUINTILLIANUS
+          <lb/>n° 3058 [Ritter, Rép. nos 418-422l.
+          <lb/>CANDIDUS, Pantaleon : Annales seu tabulae chronologicae
+          <lb/>continentes seriem annorum mundi et brevem annota¬
+          <lb/>tionem, tanquam Indicem praecipuarum Personarum
+          <lb/>et rerum memorabilium ab initio mundi usque ad
+          <lb/>praesentem annum Christi 1562 concinnatae.
+          <lb/>—
+          <lb/>Argentinae, typis Josiae Rihelii per Andream Rietschium
+          <lb/>s. d. [vers 1600).
+          <lb/>Bibl. Budapest H. m. 259. (Communication de Mme Soury,
+          <lb/>Strasbourg).
+          <lb/>1273
+          <lb/>98
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

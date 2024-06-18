@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:05.563176+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie025.tif
+IMAGE WIDTH: 2486
+IMAGE HEIGHT: 3932
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>BRANT, Sébastien : Von dem Donnerstein bei Ensisheim.
+          <lb/>(lat. et allemand). — (Strasbourg), J. Prüss après le
+          <lb/>7. XI, 1492. Placard 392 x 240 mm.
+          <lb/>G W 5022 : Einblattdrucke 461. Facsimilés, Heitz-Schultz:
+          <lb/>Flugblätter n° 4; Voulliéme : Berlin 2362, 3. B N Berlin,
+          <lb/>Munich, B M Trèves (tous les trois incomplets).
+          <lb/>134
+          <lb/>BRANT Séb. : Das neue Narrenschiff. — Strasbourg, (J. Grü¬
+          <lb/>ninger, entre le 11. II. 1494 et le 23 mai 14951, in-40.
+          <lb/>G W5048; Hain-Copinger 3743, Kristeller 88; Schreiber 3562;
+          <lb/>Schmidt I, n° 20. Bibl. Roy. Bruxelles, B M Colmar, Lucerne,
+          <lb/>Bibl. Roy. Weimar (incomplet).
+          <lb/>135
+          <lb/>BRANT, Sébastien : Das neue Narrenschiff. — Strasbourg,
+          <lb/>(J. Grüninger, 11 février 1494 ou plutôt vers 1496),
+          <lb/>in-4°.
+          <lb/>G W 5050 : Haag, Prague; cf. RANCK, Joseph : Das Strassbur¬
+          <lb/>ger Plagiat von Sebastian Brants Narrenschiff verglichen mit
+          <lb/>dem Basler Original. Diss. Frankfurt a. M. 1924.
+          <lb/>136
+          <lb/>BRANT, Séb. : Das neue Narrenschiff. — Strasbourg,
+          <lb/>J. Grüninger (24. VIII] 1497, in-4°.
+          <lb/>G W 5051: B N Berlin; Hain 3741; Schreiber 3564 — 3565;
+          <lb/>Voulliéme: Berlin 2301, 5. — BN Berlin, B M Metz (incomplet).
+          <lb/>137
+          <lb/>BRANT, Séb. : Varia carmina. — Strasbourg, J. Grüninger 1.
+          <lb/>VIII. 1498, in-4°. (Ritter, Rép. Inc. 115).
+          <lb/>G W 5069 : (Mit Beigabe des Johann Bergmann. Darin:
+          <lb/>Johann Reuchlin : Scenica progymnasmata). Hain-Copinger
+          <lb/>3732; Proctor 487 ; Brit. Mus. Cat. I, 113; Voulliéme : Berlin
+          <lb/>2304. Musée Plantin Anvers, BN Berlin, Madrid, Vienne.
+          <lb/>138
+          <lb/>BREMBERGER : Ein hübsch Lied von des Brembergers Ende. —
+          <lb/>(Strasbourg, Barth. Kistler) auf Grüneck 1500, in-8°.
+          <lb/>G W 5097; Copinger 3597; Birlinger, Alemania III (1875).
+          <lb/>p. 240-247; Schreiber 3581. — B U Erlangen, Bibl. Roy.
+          <lb/>Haag. Voir aussi n° 418.
+          <lb/>139
+          <lb/>23
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

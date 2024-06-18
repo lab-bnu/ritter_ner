@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:05.065082+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3020.tif
+IMAGE WIDTH: 2350
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>464
+          <lb/>Auf der Rückseite des Titelbl.:... PATRI, DOMINO FRI- de¬
+          <lb/>rico Nurenbergae apud diuum Aegidium Abbati, Eoba¬
+          <lb/>nus Hessus... Nurenbergae. Mense Aug. Anno M. D.XXVIII.
+          <lb/>(2 S.)
+          <lb/>R101918. Prov.: Sammlung Böcking.
+          <lb/>694
+          <lb/>GK: UB Göttingen.
+          <lb/>EPHRAEM SYRUS Iohannes
+          <lb/>Strassburg, M. Schürer, 1509
+          <lb/>Ioannis Effrem Siri : Edes! sene ecclesiae diaconi:
+          <lb/>Ser mones tam pii quam! sancti, per Ambrosium! Camal¬
+          <lb/>dulensem: latinitate do! nati.
+          <lb/>Am Schluss: Matthias Schürerius Argentorati emisit:
+          <lb/>mense Martio, 1509.
+          <lb/>40, Got. 98 unn. Bll., Sign. A-S, Titel u. Vorrede num. 2-5;
+          <lb/>von Bl. A 4b an sind die Seiten fortlaufend am Rande bezeichnet mit
+          <lb/>den Buchstaben A-A und den Ziffern I-VIII bei Wiederanfang des
+          <lb/>Alphabets, also im Ganzen 8 x24, gleich 192 S.
+          <lb/>Auf der Rückseite des Titelbl.: Matthias Schürerius, Martino
+          <lb/>Ergershemio populi Selesta-tni Ecclesiastico Pastori...
+          <lb/>— Ex Argentoraco. Calend. Martijs. Anno. M. D. viiij;
+          <lb/>folgen 8 Bll.: Tabula Effrem.
+          <lb/>FR101.300. Prov.: H. Kerler, Ulm, 19/X. 1878; 10 M.
+          <lb/>Proctor II. Sectio I, Nr. 10.169 : London, British Museum;
+          <lb/>Schmidt VIII, Nr. 15: Basel und Bibl. Vadiana S. Gall. GK: SB
+          <lb/>Berlin (2 Ex.).
+          <lb/>695
+          <lb/>EPICTETUS, Epicteti stoici Enchiridion, mit einer Vorrede von Angelus
+          <lb/>Politianus «ad Laurentium Medicem». Siehe: ATHANASIUS,
+          <lb/>Magni Athanasii in psalmos opusculum. Siehe ausserdem: CATO,
+          <lb/>Praecepta moralia
+          <lb/>EPICTETUS
+          <lb/>Strassburg, W. Rihel, 1554
+          <lb/>MORALIS PHILO-SOPHIAE MEDVLLA, DO-cens quo
+          <lb/>pacto ad animi tran- quillitatem, beatitudinemque prae¬
+          <lb/>sentis uitae perueniri pos-sit, Nempe EPITECTI ENCHI¬
+          <lb/>RIDION Graecè ac Latinè cum explanatione THOMAE NAO¬
+          <lb/>GEORGI.
+          <lb/>Druckermarke Rihels. (H d B, Tafel XXIX, Nr. 5; Silvestre,
+          <lb/>Nr. 757.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

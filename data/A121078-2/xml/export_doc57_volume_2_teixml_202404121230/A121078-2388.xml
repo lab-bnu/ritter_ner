@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:37.798999+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2388.tif
+IMAGE WIDTH: 2366
+IMAGE HEIGHT: 3820
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>384
+          <lb/>Gravure sur bois: au milieu un prêtre, bénissant l’union d’un
+          <lb/>homme et d’une femme, à côté de la femme, un noble, à côté de l’homme,
+          <lb/>une femme.
+          <lb/>A la fin: Anno. M. D. XLV.
+          <lb/>In-4°, car. goth., 20 ff. non ch., sign. A-E, réclames, notes mar¬
+          <lb/>ginales, au recto du dernier f. 3 gravures sur bois, en haut, un évêque
+          <lb/>et une servante, au-dessous, une religieuse et un prêtre, en bas, un prê¬
+          <lb/>tre et une femme; du côté droit, 2 bandes d’ornement. Au verso, mar¬
+          <lb/>que typ. de J. Cammerlander encadrée de 4 pièces d’ornement. (HEB,
+          <lb/>Planche XXIV, NO I; sans l’encadrement.)
+          <lb/>R 102.172. Prov.: K. J. Trübner, 11/x. 1882; 20 M. Note mes.
+          <lb/>au bas du titre: «Kam schon 1526 heraus, aber nur : « Vnderricht...
+          <lb/>haben mög.»
+          <lb/>GPB: BN Berlin, Schottenloher Ulhart p. 126 admet comme
+          <lb/>574
+          <lb/>auteur Michael Keller.
+          <lb/>CONFESSIO AUGUSTANA
+          <lb/>Haguenau, (P. Brubach), 1535.
+          <lb/>CONFES-SIO FIDEI EXHIBITA Inuictiss. Imp. Carolo V.
+          <lb/>Caesa- ri Aug. in Comicijs Au- gustae. ANNo! M.D.XXX.
+          <lb/>ADDITA EST APOLOGIAConfessionis. WITENBERGAE.
+          <lb/>Psalm, 119. Et loquebar de testimonijs tuis in con spectu
+          <lb/>Regum, &amp;amp; non confundar. (Verso blanc.)
+          <lb/>A la fin: IMPRESSVM HAGANOAE ANNO D. M. XXXV.
+          <lb/>Mense Martio.
+          <lb/>In-80, car, ital,, 186 ff. ch., les premiers 8 ff. non ch., f. 9 com¬
+          <lb/>mence avec le chiffre 9; erreurs de numérotage 35 au lieu de 33; 37
+          <lb/>avant 36, 35 est sauté, 39 au lieu de 37, 41 au lieu de 71, 43 pour 73
+          <lb/>45 pour 75, 47 pour 77, 67 pour 80, 93 sauté, 126 pour 130, 214 pour
+          <lb/>142, 195 pour 159, f. 164, 165, 176, 180-184 non chiffrés, 195 pour
+          <lb/>165, 272 pour 172, 189 pour 186. Titre courant, réclames au verso des
+          <lb/>ff, initiales à fig. H, I, P, titre encadré (HE B, Planche LXIX,
+          <lb/>n° 1); nouvel encadrement f. 30b, (Hct B, Planche LXXI, n° 10, avec
+          <lb/>la date 1533 en bas).
+          <lb/>fol. A 24: AD LECTO RES. (3 pages.)
+          <lb/>fol. A 3b: PRAEFATIO AD CAESA REM CAROLVM V. (5 pages.)
+          <lb/>R 101.472. Prov.: Butsch, Augsbourg, août 1874; sans indic. de
+          <lb/>prix.
+          <lb/>Bibl. St. Guillaume, Strasbourg; GPB: BN Berlin, BU Halle.
+          <lb/>575
+          <lb/>CONFESSIO Augustana. Voir: ERYTHRAEUS Valentinus.
+          <lb/>CONFESSIO religionis christianae. Voir: BUTZER. N° 361.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

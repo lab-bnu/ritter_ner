@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:12.894318+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002445.tif
+IMAGE WIDTH: 2486
+IMAGE HEIGHT: 4008
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>mit den Holzschnitten von Tobias Stimmer ». Braune, Neu¬
+          <lb/>drucke fasc. 65-71, p. x et suiv. : Exemplar Paul Heitz,
+          <lb/>Strasbourg.
+          <lb/>3104
+          <lb/>REUSNER, Nicolaus : Agalmatum aureolorum liber sing. I.
+          <lb/>Septem Virtutes. II. Septem artes. III. Quatuor artes
+          <lb/>maiores; IV. Novem Musae. V. Tres Gratiae. VI.
+          <lb/>Septem Planetae. VII. Anni Tempora... — Strasbourg,
+          <lb/>Bernard Jobin 1591, in-120.
+          <lb/>Graesse VI, p. 96. (Une éd. de Jobin 1589 : Ritter, Rép.
+          <lb/>n° 2007).
+          <lb/>3105
+          <lb/>REUSNER, Nicolaus. Voir aussi: SALM, Julius, Comesa:
+          <lb/>n° 3150.
+          <lb/>[Ritter, Rép. nos 1999-2008).
+          <lb/>REUTERLIEDER. Voir : PHILIPP. Freiherr zu Winneberg,
+          <lb/>nos 2893-2895.
+          <lb/>REYSMAN, Theodorus : Ad illustrissimum principem Ruper¬
+          <lb/>tum... Amos Propheta, carmine translatus... —
+          <lb/>Strasbourg, Crato Mylius, mai 1544, in-8°.
+          <lb/>Walter, n° 2143.
+          <lb/>3106
+          <lb/>RHEGIUS, Urbanus, Par mégarde à Hessus, Simon.
+          <lb/>RHEMNIUS, Fannius. Voir : PALAEMON (Rhemnius Fannius).
+          <lb/>RHENANUS, Beatus : Ad Lectorem Paraenesis. Michaelis
+          <lb/>Tarchaniotae Marulli Constantinopolitani Epigrammata
+          <lb/>et Hymni. — (Strasbourg, Mathias Schürer, juillet 1509),
+          <lb/>in-40.
+          <lb/>Schmidt VIII, n° 23 : Dresde; Panzer, 6, 43, 138. 3107
+          <lb/>RHENANUS, Beatus : Rerum germanicarum libri tres...
+          <lb/>praemissa est Vita ipsius Beati Rhenani a Joanne
+          <lb/>Sturmio... — Strasbourg, sumptibus Lazari Zetzneri
+          <lb/>1590, in-8°.
+          <lb/>Walter, n° 2148.
+          <lb/>3108
+          <lb/>443
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

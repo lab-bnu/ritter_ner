@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:47.372429+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078165.tif
+IMAGE WIDTH: 2308
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>cramenten, auch zû entschuldigung küniglicher maiestat
+          <lb/>von Engeland, und zû gût aller oberkeit, hab ich! Johan¬
+          <lb/>nes Grieninger burger zû Straszburg dis bûch! getruckt
+          <lb/>in gûter hoffnung nieman mir solchs verargen werd, wie
+          <lb/>wol mich etlich angeret, ich söl es ein andern tru cken
+          <lb/>lassen. &amp;amp;c. Mag doch ein ieder frumer wol bedencken
+          <lb/>das ich mit meiner handtierung dis und anderer trück
+          <lb/>mein narung sûchen mûsz. Und ist dis büchlin! vollendet
+          <lb/>uff sant Martins abent, in dem! iar nach der geburt Christi
+          <lb/>unsers lie- ben herren. Tausent fünffhundert! zwei und
+          <lb/>zwentzig. &amp;amp;c. (Verso blanc.)
+          <lb/>In-40, car. goth., LX ff. ch., mais les chiffres 33-36 étant sautés,
+          <lb/>il n’y a en tout que 56 ff., titre courant, notes marg., init. ornées.
+          <lb/>Fol. 4 2a-4 3a: Die vorred... — Datum zà Straszburg, 1522.
+          <lb/>R100.510. Prov.: Heerdegen-Barbeck, Nuremberg T/VIII 1879;
+          <lb/>45 M. Le titre qui manquait a été remplacé par le titre découpé d’un
+          <lb/>autre exemplaire, de même la gravure du titre. Annotation ms. au verso
+          <lb/>du f. de garde:, Ist mit dem von der Hof- und Staatsbibliothek in Mün¬
+          <lb/>chen entliehenen Exemplar genau verglichen worden und übereinstimmend
+          <lb/>gefunden, selbst die falsche Pagination.&amp;quot;
+          <lb/>Schmidt I n° 191. L’antiquaire Thoma à Nuremberg offre dans
+          <lb/>son Catalogue 561 n° 4922 un exemplaire pour 23 fl. 30x.
+          <lb/>1616
+          <lb/>1051
+          <lb/>MURNER Thomas
+          <lb/>Strasbourg, J. Gruninger 1522
+          <lb/>Von dem grossen Lutherischen Narren wie in! doctor
+          <lb/>Murner beschworen hat &amp;amp;c. (Grav, sur bois : Murner, avec une
+          <lb/>tête de chat, à genoux sur un gros fou, de la bouche duquel il fait sortir
+          <lb/>plusieurs petits fous; au-dessus une banderole avec le texte suivant:
+          <lb/>Interdum molare stultitiam prudentia summa.
+          <lb/>A la fin: Item dis bûch ist getruckt mit privilegien
+          <lb/>von Keiserlicher und Hyspanischer maiestat durch gna¬
+          <lb/>den erlangt, das dis bûch niemans nach trucken sol in
+          <lb/>V. iaren, und ob es nach truckt würd, die nieman ver¬
+          <lb/>kauffen sol im heiligen römischen reich bei verlierung.
+          <lb/>X. marck lötigs golds, alles nach vermög und inhalt
+          <lb/>brieflicher urkünd darüber be griffen, die ich uff beger
+          <lb/>zu besichtigen nit verhalten wil, und hie mit mengklich
+          <lb/>gewarnt haben, und ist vollendet von Johannes Grien¬
+          <lb/>ninger burger zû Straszburg uff Freitag nach sant Lu ci
+          <lb/>und Otilien tag. In dem iar nach der geburt Christi un¬
+          <lb/>sers lieben herren. Tusent fünff! hundert zwei und zwent¬
+          <lb/>zig. &amp;amp;c. (Verso blanc.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

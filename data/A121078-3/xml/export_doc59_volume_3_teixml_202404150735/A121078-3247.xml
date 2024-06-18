@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:09.665678+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3247.tif
+IMAGE WIDTH: 2334
+IMAGE HEIGHT: 3854
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>691
+          <lb/>Druckerm. Rihels. (H R B Tafel XXIX Nr. 4, Silvestre Nr. 741.)
+          <lb/>Argentorati per Vuendelinum! Rihelium 1541. (Rücks, leer.)
+          <lb/>Neuer Titel fur die Fabeln Aesops: FABELLAE QVAE- DAM
+          <lb/>AESOPI GRAECAE ad Py erilem educationem gymnasio
+          <lb/>Argen! toratensi electae.
+          <lb/>Druckerm. Rihels. (H e B Tafel XXIX Nr. 4; Silvestre Nr. 741.)
+          <lb/>Argentorati per Vuendelinum Rihelium AnNo. 1541.
+          <lb/>(Rücks, leer.)
+          <lb/>80, Griech. u. Antio., 24 unn. Bll. (für Golius), Sign. A-C u. 24
+          <lb/>unn. Bll. (für Aesop), Sign. a-Y, Kopft., Kust. Am Schlusse beider Teile
+          <lb/>Druckerm. Rihels. (H e B Tafel XXIX Nr. 2; Silvestre Nr. 742.)
+          <lb/>R102.0982, Prov.: Bibl. F. A. Menke, Bremen 1873 mit Auto¬
+          <lb/>graph Menkes, dat. 1822.
+          <lb/>2. Ex. R 102.412. Prov.: Lippert, Halle 7. XII. 1886. Zahtreiche
+          <lb/>handschr. Notizen.
+          <lb/>1015
+          <lb/>GOLIUS Theophilus
+          <lb/>Strassburg, W. Rihel 1543
+          <lb/>EDVCATIO PVERILIS LIN-guae graecae. FABELLAE
+          <lb/>QVAE-DAM AESOPI GRAECAE AD PV erilem educationem
+          <lb/>gymnasio Argen- toratensi electae.
+          <lb/>Druckerm. Rihels. (HEB Tafel XXIX Nr. 4; Silvestre Nr. Y41.)
+          <lb/>Argentorati apud Vuendelinum Rihelium 1543. (Rücks, leer.)
+          <lb/>80, Griech. u. Antig., 24 unn. Bll., Sign. A-C, Kust., Marg.
+          <lb/>R1012482. Prov.: L. Rosenthal, München 26. III. 1887,3 M.
+          <lb/>1016
+          <lb/>GOLIUS Theophilus
+          <lb/>Strassburg, (W. Rihel] 1549
+          <lb/>EDVCATIO PVERILIS LIN-guae Graecae. FABELLAE
+          <lb/>QVAE- DAM AESOPI GRAECAE AD PVE-rilem educationem
+          <lb/>in gymnasio Ar-gentoratensi selectae.
+          <lb/>Druckerm. Rihels. (H&amp;amp; B Tafel XXIX Nr. 3; Silvestre Nr. 740.)
+          <lb/>ARGENTORATI ANNO M. D. XLIX. (Rücks, leer.)
+          <lb/>8°, Griech. u. Antiq., 24 unn. Bll. Sign. A-C (für Golius) u. 24
+          <lb/>unn. Bll., Sign. a-c (für Aesop), Kopft., Kust.
+          <lb/>R102413. Prov.: Lippert, Halle 7. XII. 1886.
+          <lb/>1017
+          <lb/>GOLIUS Theophilus
+          <lb/>Strassburg, J. Rihel 1578
+          <lb/>Educationis pue RILIS LINGVAE Latinae pars Secunda,
+          <lb/>pro schola Argentinensi.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

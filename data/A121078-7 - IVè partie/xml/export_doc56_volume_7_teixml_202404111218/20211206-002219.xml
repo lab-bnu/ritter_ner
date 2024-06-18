@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:07.159539+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002219.tif
+IMAGE WIDTH: 2494
+IMAGE HEIGHT: 3970
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>totius orbis terrarum, globulo rotundo comparati et
+          <lb/>sphera solida... aliisque permultis de quarta orbis
+          <lb/>terrarum parte nuper ab Americo reperta. — (Strasbourg,
+          <lb/>Jean Grüninger 31.VIII.1509), in-4°.
+          <lb/>Schmidt I, no 104; Grässe 2.94; Panzer 6.44. — Paris (Bibl.
+          <lb/>Mazarine).
+          <lb/>1909
+          <lb/>GLOCCER, Georg : Warhafftige Historia. Und gründlicher
+          <lb/>Summarischer Bericht von der Lehr, Leben, Beruff,
+          <lb/>und seligen Abschiedt Doctoris Martini Lutheri... —
+          <lb/>Strasbourg, Ant. Bertram 1586, in-80.
+          <lb/>B M Colmar; Schottenloher 10.962.
+          <lb/>1910
+          <lb/>GNAPHAEUS, Guilielmus : Acolastus. Deutsch von Georg
+          <lb/>Binder. — Strasbourg, Jacques Frölich s. d., in-8°,
+          <lb/>Bahlmann, p. 42, n° 1; Skopnik, p. 83.
+          <lb/>1911
+          <lb/>GNAPHAEUS, Guilielmus : Acolastus. De filio prodigo comoedia
+          <lb/>Acolasti titulo inscripta. — Strasbourg, Christian Mylius
+          <lb/>1561, in-8°.
+          <lb/>Bahlmann, p. 41
+          <lb/>1912
+          <lb/>GNAPHAEUS, Guilielmus : Commediae aliquot. — Strasbourg
+          <lb/>1581, in-80.
+          <lb/>Goedeke IIe, p. 133, n° 5 (a).
+          <lb/>1913
+          <lb/>GNIDIUS, Matthaeus : Defensio Christianorum de Cruce, id
+          <lb/>est Lutheranorum. Cum pia admonitione F. Th. Murneri,
+          <lb/>Luthero mastigis... — Haguenau 1520, in-40.
+          <lb/>Goedeke II2, p. 220, n° 2. (Voir aussi Ritter, Rép. n° 1014l.
+          <lb/>1914
+          <lb/>GOELITZSCH, Johannes : Ein erschröckliche Geburt und
+          <lb/>augenscheinlich Wunderzeichen des Allmechtigen Gottes,
+          <lb/>so sich auff den IIII. Tag des Christmonds kurtz
+          <lb/>verlauffens M.D.LXIII. Jars in der Nacht, im Dorfe
+          <lb/>Weringschleben in... der... Stadt Erffurdts Gebiete
+          <lb/>217
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

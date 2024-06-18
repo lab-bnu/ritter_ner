@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:07.604127+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002230.tif
+IMAGE WIDTH: 2494
+IMAGE HEIGHT: 3970
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>HECKEL, Wolff : Discant-Lautenbuch. — Strasbourg 1562.
+          <lb/>Landesbibl. Dresden.
+          <lb/>1964
+          <lb/>HECKEL, Wolff: Tenor-Lautenbuch. — Strasbourg 1562.
+          <lb/>Amsterdam, B N Berlin, Brüssel, Dresden, Wernigerode
+          <lb/>(Stolberg), Wien.
+          <lb/>1965
+          <lb/>HEDIO, Caspar: Ablenung... uff B. Cunrats Tregers Büchlin. —
+          <lb/>(Strasbourg, Jean Schott) octobre 1524, in-4°.
+          <lb/>Schmidt II, n° 88 : Bibl. St. Guillaume, Strasbourg. 1966
+          <lb/>HEDIO, Caspar : Ein auszerlesene Chronik von anfang der
+          <lb/>welt bis auff das jar nach Chr. Geb, 1543. In 4 bücher
+          <lb/>abgeteylet. Auss (Burchardus) Abbate Urspergense unnd
+          <lb/>Joh. Tritemio von Latein in Teutsch gebracht. —
+          <lb/>Strasbourg 1594, in-fol.
+          <lb/>Rosenthal (Munich) Catal. 135 (1914), n° 1070; 120 M. 1967
+          <lb/>HEDIO, Caspar : Paraphrasis in XVI orationes Vergilii. —
+          <lb/>Strasbourg, Crato Mylius vers 1548.
+          <lb/>Ritter : Hist. Impr. app. 262.
+          <lb/>1968
+          <lb/>HEDIO, Caspar. Voir aussi: AuGusTiNus n° 872; COMINUS
+          <lb/>n° 1425; CHRONICA n° 1334; JOSEPHUS Flavius n° 2161/2;
+          <lb/>LUTHER n° 2546; PLATINA n° 2930 (Ritter, Rép, nos 1091-
+          <lb/>1100).
+          <lb/>HEERBRANDT, Jacobus : Epitome compendii Theologiae.
+          <lb/>Kurtzer Auszzug der Fürnembsten Hauptstücke heyliger,
+          <lb/>Göttlicher, Christlicher Lehr. Ausz dem Lateinischen
+          <lb/>Compendio... genommen unnd kurtz verfaszt... Jetzt
+          <lb/>Christlichen einfältigen Kirchendiener und Hauszvättern
+          <lb/>zu Nutz... in gemein verständtlich Teutsch gebracht
+          <lb/>durch Augustinum Brunnium Annaemontanum. —
+          <lb/>Strasbourg, Nic. Waldt 1587, in-8°.
+          <lb/>Bibl. S. Guillaume, Strasbourg.
+          <lb/>1969
+          <lb/>228
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:38.644431+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2411.tif
+IMAGE WIDTH: 2380
+IMAGE HEIGHT: 3822
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Strasbourg, Cr. Mylius, 1541.
+          <lb/>CUSPINIANUS Johannes
+          <lb/>Ein auszerleszne Chronicka von C. Julio Cesare
+          <lb/>dem ersten, bisz auff Carolum quintum diser zeit Rhö¬
+          <lb/>mischen keyser, auch von allen Orientischen oder Griechi¬
+          <lb/>schen vnd Türck-ischen keysern, durch Doctor Johan¬
+          <lb/>nem Cuspinianum, etwan keyser Maximilians, löblicher
+          <lb/>gédechtnüsz, Legaten vnnd Oratorn, vor etlichen jaren
+          <lb/>mitt fleisz zu Latin beschriben, vnd aber jetzund durch
+          <lb/>Doctor Casparn Hedion in das Teütsch bracht.
+          <lb/>Hie findest du auch lieber Leser eyn nutzliche Vorred
+          <lb/>Herr Philippi Melanchthons, von frucht vnd nutzbarkeyt
+          <lb/>der Chronick bücher.
+          <lb/>Marque typ. de Cr. Mylius. (H C B, Planche XXVII, NO 5;
+          <lb/>Silvestre, N° 1264.)
+          <lb/>A gauche de la marque Strasz, à droite burg.
+          <lb/>Au-dessous: M. D. XLI. Mit keyserlicher vnd künigkli¬
+          <lb/>cher Maiestat genaden vnd freiheiten, bei peen zehen
+          <lb/>Marck lötigs goldes vnd verlierung der bücher, nicht
+          <lb/>nach zù trucken. (Verso blanc.)
+          <lb/>A la fin: Getruckt zu Strasburg bei Crafft Myller, als
+          <lb/>man zalet nach Christi gepurt M. D. XLI.
+          <lb/>Au verso de l’avant dernier f. blanc au recto: marque typogr. de
+          <lb/>Crato Mylius. (H e B, Planche XXVIII, NO 10; Silvestre, N° 1088.)
+          <lb/>In-fol., car. goth., 10 ff. non ch., DCXXXVIII (638) pages ch.
+          <lb/>pour la Fère partie de la chronique, 1 ff. non ch., CCLVIII p. ch. et 4
+          <lb/>ff. non ch. (table à 2 col.) dont le dernier blanc, titre courant, réclames,
+          <lb/>initiales goth., de nombreux portraits d’empereurs en médaillon.
+          <lb/>fol. 2a non ch.: ... Herrn LudwigenPfaltzgraffen beim
+          <lb/>Rhein, Hertzogen zû Bayern... — Straszburg... M. D. XLI.
+          <lb/>den let-sten Augusti.Ca spar Hedio, Doctorinn
+          <lb/>dem Münster zû Straszburg. (Préface de 5 p. et demie.)
+          <lb/>fol. 5a non ch.: Philippus Melanchthonwünschet dem
+          <lb/>Leser diser Chronica, Got- tes genad... (Préface de 5 pages
+          <lb/>et demie.)
+          <lb/>Suit une table de 3 pages à 3 col.
+          <lb/>Au verso: Vorred Doctor Johannis Cuspiniani... (3 pages).
+          <lb/>Au f, non ch. qui précède la 2e partie:.. Herren Hansen
+          <lb/>Bock Ritter vnnd Wolffgangen von Gemmingen, wün¬
+          <lb/>schet Caspar Hedio viel genad... — Straszburg den fünff¬
+          <lb/>ten tag Augusti, im jarM.D.XLI.
+          <lb/>407
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

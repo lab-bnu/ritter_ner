@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:12.933304+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002448.tif
+IMAGE WIDTH: 2492
+IMAGE HEIGHT: 3996
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>indiget. Ex Libri Noni Ethicorum Aristotelis Nicoma¬
+          <lb/>chiorum c. 8. 9. petita. Quam C. F. N. in Inclytà Argen¬
+          <lb/>toratensium Academiâ sub praesidio M. Laurentii
+          <lb/>Thomae Wallisseri Argentinensis : Privati Exercitii
+          <lb/>causa, Respondendo tuebitur Sebastianus Ritter... Mense
+          <lb/>Januario. — Strasbourg, Antoine Bertram 1598, in-4°.
+          <lb/>Ritter : B M Strasbourg, n° 1824.
+          <lb/>3116
+          <lb/>ROBERTUS (Episcopus Abricensis). Voir : BUCER, n° 1153.
+          <lb/>ROBERTUS, Lincolensis Episcopus : Comment, in Dionysium
+          <lb/>Aeropagitam. — Strasbourg 1502, in-fol. Voir aussi
+          <lb/>n° 1153.
+          <lb/>Graesse VI, p. 139.
+          <lb/>3117
+          <lb/>[ROEMER, Johannes) : Ein schöner Dialogus von den vier
+          <lb/>grösten beschwernüsz eines jeglichen pfarrers nach sag
+          <lb/>eines sunderlichen verz hernach geschriben... — (Sélestat,
+          <lb/>Lazare Schürer 1521), in-40.
+          <lb/>Flugschriften aus den ersten Jahren der Reformation vol. III,
+          <lb/>p. 19; Benzing : Schürer n° 11 dit : [Strasbourg, hér. de
+          <lb/>Mathias Schürer. Panzer, Deutsche Annalen 1927;
+          <lb/>Hohenemser 3912.)
+          <lb/>3118
+          <lb/>ROESSLIN, Eucharius: Der schwangeren Frauen und
+          <lb/>Hebammen Rosengarten... — (Strasbourg, Martin Flach
+          <lb/>1507), in-4°.
+          <lb/>Panzer, Annalen 1, 283; Schmidt VI, p. 22, n° 14; [une éd.
+          <lb/>Flach 1513 : Ritter, Rép. n° 2025).
+          <lb/>3119
+          <lb/>ROESSLIN, Eucharius : Der Swangern frawen und hebammen
+          <lb/>roszgarten. — (Haguenau, H. Gran 1514 (?)), in-8°.
+          <lb/>Hanauer, impr. de Haguenau, p. 26; Burg, n° 400.
+          <lb/>3120
+          <lb/>ROESSLIN, Eucharius : (Idem). — (Strasbourg, Martin Flach
+          <lb/>1522), in-4°.
+          <lb/>Schmidt VI, p. 37, n° 69 : B M Colmar; Weller, Rep. 2255;
+          <lb/>Choulant, Graph. Incunabeln, p. 90.
+          <lb/>3121
+          <lb/>446
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

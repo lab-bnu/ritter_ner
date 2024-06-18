@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:37.597621+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2376.tif
+IMAGE WIDTH: 2370
+IMAGE HEIGHT: 3816
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>372
+          <lb/>Au verso du dernier f. dont le recto est blanc, marque typographi¬
+          <lb/>que de I. Albrecht (H E B, Planche XXV, N° 1; Silvestre N° 1189.)
+          <lb/>In-80, car. ital., 115 ff. non ch., sign. A-O, titre courant, récla¬
+          <lb/>mes au verso des ff., initiale ornée P, les mêmes gravures que dans l&amp;#x27;édi¬
+          <lb/>tion latine de 1533, dont l’ouvrage est une réimpression, mais le titre a
+          <lb/>un autre encadrement: bordure supérieure et bordures latérales, orne¬
+          <lb/>ments, bordure inférieure: un vase avec les lettres: AROHS. (provient
+          <lb/>de Knobloch).
+          <lb/>R101.536. Prov.: Baer, Francfort s. M., PI/IV. 1894, 13 M.50.
+          <lb/>Rel. anc.
+          <lb/>Le Bibliophile ès Sciences Psychiques 60 (mai 1936), N° 579 offre
+          <lb/>556
+          <lb/>un exemplaire pour 175 fr.
+          <lb/>COCLES Bartholomaeus
+          <lb/>Strasbourg, J. Albrecht, 1536.
+          <lb/>BARE
+          <lb/>I
+          <lb/>LOMAEL COCLITIS BO¬
+          <lb/>noniensis, naturalis Philosophi¬
+          <lb/>ac Medicinæ Doctoris,! hyfio
+          <lb/>206
+          <lb/>gnomiæ &amp;amp; Chiromantiæ
+          <lb/>çompendium.
+          <lb/>ARGENTORATI, ANNO
+          <lb/>M. D. XXXVI
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

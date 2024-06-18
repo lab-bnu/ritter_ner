@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:48.221539+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078195.tif
+IMAGE WIDTH: 2304
+IMAGE HEIGHT: 3838
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>OECOLAMPADIUS Johannes
+          <lb/>Strasbourg, M. Apiarius 1534
+          <lb/>(Feuille de lierre.) IN PROPHETAM EZECHIELEM COMMENTA¬
+          <lb/>RIVS D. Ioan. Oecolampadii, per Vuolfgan-gum Capito¬
+          <lb/>nem aeditus. DE OBITV OECOLAMP. EPIST. GRYNAEI.! De vita
+          <lb/>eius Vuolfgan. Capito. (Marque typ. de M. Apiarius. HeB Planche
+          <lb/>XXIV n° 1.)
+          <lb/>ARGENTORATI APVD MATTHIAM! Apiarium. Anno M. D.
+          <lb/>XXXIIII. (Verso blanc.)
+          <lb/>A la fin: ARGENTORATI APVD MATTHIAM Apiarium. Mense
+          <lb/>Martio. Anno. M. D. XXXIIII. (Verso blanc.)
+          <lb/>In-4°, car, rom., 20 ff. non ch., 306 ff. ch., titre courant, réclames,
+          <lb/>notes marg., init. à fig.
+          <lb/>Fol. a 2a non ch. : V. Capitoni suo sim. grynaeus. S. (De vita et
+          <lb/>obitu Oecolampadii, 9 pp.)
+          <lb/>Fol. 8 2b non ch. : De vita oecolampadii.! Christiano lectori S....
+          <lb/>(Epistola Capitonis, 11 pp.); en outre une table à 2 col. de 16 pp.
+          <lb/>R102.152. Prov.: Bibl. Ed. Reuss, Strasbourg 1891, avec son
+          <lb/>ex-libris et son autogr. au recto du f. de garde; à côté de l’autogr.:
+          <lb/>« Ex libris Krausii. Bas. 1846. Déc. fr. 1.» Au dessous du titre: Zuingeri.
+          <lb/>BM et Bibl. St-Guillaume, Strasbourg.
+          <lb/>1665
+          <lb/>OCTAVIUS Franciscus. Voir: CLEOPHILUS Octavius Franciscus
+          <lb/>1081
+          <lb/>OCYORUS Tarquinius: Experiment Büchlin von XX] Pestilentz
+          <lb/>wurtzeln, Durch den Hochgelehr- ten Tarquinium Ocyorum,
+          <lb/>aliàs Schnellen-bergium, der artzney Doctorn, von Dort¬
+          <lb/>mund ange- stellet. Dans: RYFF Walter: Kurtzes Handt¬
+          <lb/>büchlein und Experiment vieler Artzneyen, p. 172-213.
+          <lb/>Strasbourg, Josias Rihel 1594; 1599.
+          <lb/>ODOFREDUS : Summa de formandis libellis. Voir: Refugium
+          <lb/>Advocatorum. Strasbourg, J. Knobloch 1518.
+          <lb/>OELER Ludwig
+          <lb/>[Strasbourg, J. Pruss ? 15251
+          <lb/>Von dem JubelJar.Disz büchlin... (Voir p. 1082.)
+          <lb/>Gravure sur bois: Le Christ ressuscité, à ses pieds les soldats qui
+          <lb/>gardent le tombeau.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

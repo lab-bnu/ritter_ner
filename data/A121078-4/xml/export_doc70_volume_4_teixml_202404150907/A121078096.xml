@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:45.327147+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078096.tif
+IMAGE WIDTH: 2320
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>982
+          <lb/>Fol. c 2a non ch.: Abtheylung dises gantzen Bâchs... (T’able, 6 ff.)
+          <lb/>R101.859. Prov. inconnue. Notes mss.
+          <lb/>BM et Bibl. St. Guillaume, Strasbourg.
+          <lb/>1481
+          <lb/>MARBACH Johannes
+          <lb/>Strasbourg, Chr. Muller 1567
+          <lb/>CHristlicher Un-derricht, und warhafftige Erweisz¬
+          <lb/>ung, ausz H. Göttlicher Schrifft, und den be-wertisten
+          <lb/>h. Vättern, und Alten Lehrern der Catholi- schen Christ¬
+          <lb/>land, durch die Persönliche vereinigung der Göttlichen und
+          <lb/>Menschlichen Naturen, auch nach seiner Menscheyt, in
+          <lb/>alle Göttliche Herrlichkeyt und Maiestet, nit nur mit
+          <lb/>dem blossen Nammen, sonder warhafftig, und mit der
+          <lb/>That, erhaben und gesetzt seye.Sampt gründlicher
+          <lb/>widerlegung der Argument und Einreden, so hiewider
+          <lb/>von den Sacramentirern dieser zeit, zû verkleynerung
+          <lb/>und unehre des Menschen Christi Maiestet, Herrlicheyt,
+          <lb/>undAllmechtigen Gewalt, eingefürt, und gebraucht
+          <lb/>werden.
+          <lb/>Gestellet durch herr Johan Mar-bach, der H. Schrifft
+          <lb/>Doctorn, und der! Kirchen zû Straszburg Superintendenten.
+          <lb/>Getruckt zû Straszburg am Korn-marckt, bey Chri¬
+          <lb/>stian Müller, Jm Jhar 1567.
+          <lb/>In-40, car. goth. 24 ff. non ch., 956 et 223 pp. ch., titre courant,
+          <lb/>réclames, notes marg. Au verso du titre, entre 2 bandes ornem., armoi¬
+          <lb/>ries de la ville de Strasbourg; au-dessous 3 dist. lat.: Ad Inclytam
+          <lb/>ARGENTINAM.
+          <lb/>Fol. a 2a non ch.: Den Gestrengen... Herrn Meister, dem Raht,
+          <lb/>und den Ein und zwentzigen, der Löblichen! Frey und Reichstatt Strasz¬
+          <lb/>burg.... Datum Straszburg, Sontag der h. Dreyfaltig-keit, den 25 tag
+          <lb/>Maii, Anno 1567.Johan Marbach Doctor. (Préface, 11 ff.)
+          <lb/>Fol. d Ia: Gnad und Frid... jedem Christlichen Leser.... Datum
+          <lb/>Straszburg, Sontag Trini- tatis, den 25 Maiï,Anno 1567. Die Pfar¬
+          <lb/>herrn, und Helffer der Christlichen Gemeynen z4̂ Straszburg. (8 ff.)
+          <lb/>Fol. f1a: Abtheylung dises gantzen Bâchs... (Table, 4 ff.).
+          <lb/>R101861. Prov.: Donation Cunitz, Strasbourg 1886.
+          <lb/>Bibl. St. Guillaume, Strasbourg.
+          <lb/>1482
+          <lb/>MARBACH Johannes
+          <lb/>Strasbourg, S. Emmel 1568
+          <lb/>THEMATA De Imagine Dei, eum eter-TVM CREATA,
+          <lb/>DE QVIBVS DISPVTABITVR (1. Decembris in Academia Argen¬
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

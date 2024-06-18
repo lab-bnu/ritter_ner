@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:37.702025+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2382.tif
+IMAGE WIDTH: 2372
+IMAGE HEIGHT: 3816
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>378
+          <lb/>COMINES Philippe de
+          <lb/>Strasbourg, [Rihel? 1552.
+          <lb/>Histori van könig Car-le ausz Franckreich, dem ach
+          <lb/>ten des namens, Vnd von dem Krieg zû Napels. Durch
+          <lb/>den gestrengen Herrn Phi lipsen von Comines Ritter, in
+          <lb/>Frantzösischer sprach gantz artig vnd wolbeschriben,
+          <lb/>Vnnd! newlich auss dem Latein, durch Ca-spar Hedion
+          <lb/>Doctor, ver-teutschet.
+          <lb/>Strassburg. M. D. LII. (Verso blanc.)
+          <lb/>A la fin: Strass! burg den xXv. Maij, im jar. M.D.XLVIII.
+          <lb/>In-40, car. goth., 6 ff. non ch., XCIV f. ch., 5 ff. non ch. (Slei¬
+          <lb/>danus au lecteur.), titre courant, réclames, notes marginales, initiales
+          <lb/>goth.
+          <lb/>fol. a 2a: Hedio à Gunther, comte de Schwartebourg, daté de
+          <lb/>Strasbourg, le 12 octobre 1551.
+          <lb/>R101.254. Prov. inconnue.
+          <lb/>GPB. BN Berlin, BU Halle, Greifswald (incomplet), Kœnigs-
+          <lb/>berg (incomplet).
+          <lb/>565
+          <lb/>COMINES Philipp de
+          <lb/>Strasbourg, J. Rihel, 1566.
+          <lb/>Historia! Das ist. Gründliche Beschrei- bung allerley
+          <lb/>wichtiger namhaffter Sachen vnnd Händel, so sich bey
+          <lb/>Regierung der Groszmächtigsten vnd Durchleüch tigsten
+          <lb/>Fürsten vnd Herren, Herren Ludwigen des Eylfften, Königs
+          <lb/>von Franckreich, Herrn Carles Hertzogen zû Burgund,
+          <lb/>vnd volgends Herren Carles des ach-ten, auch Königs
+          <lb/>von Franckreich, vom 1464 bisz auff das 1497 Jare nach
+          <lb/>Christi vnsers Herren vnnd Seligmachers Geburt, in Franck¬
+          <lb/>reich, Engellande, in den Bur-gundischen oder Nider
+          <lb/>Teutschen Landen, vnd desgleichen in Italia von wegen
+          <lb/>des Königreichs Sicilia zû Neapolis, ha- ben verlauffen
+          <lb/>vnd zûgetragen.
+          <lb/>Erstlich durchPhilipsen von Comines Rittern, an¬
+          <lb/>fänglich H.Carles von Burgund, vnd nachmals jetzge¬
+          <lb/>meldter beyder Könige von Franckreich gewesenen Rhat
+          <lb/>in Frantzösi- scher sprache mit sonderm vleise beschriben.
+          <lb/>Volgends aber durch Jo-hannem Sleidanum in Lateinische,
+          <lb/>Vnd von dannen in Teutsche sprach verwandlet, Durch
+          <lb/>Casparum Hedion, der H. Schriffte Doctorn.
+          <lb/>Mit evner Vorrede vnd zu ende des Buchs angehenck¬
+          <lb/>ter Erklärunge etli- cher Sachen, dardurch gegenwärtige
+          <lb/>Historien desz besser mögen verstanden! werden, durch
+          <lb/>Michaelem Beuther von Carlstatt der Rechten Doctorn.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

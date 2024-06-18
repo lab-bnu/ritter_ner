@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:36.654992+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu019.tif
+IMAGE WIDTH: 2386
+IMAGE HEIGHT: 3842
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>20e volume de son Bildschmuck der Frühdrucke. (Voir les
+          <lb/>Nos 1030 à 1684). Le Heldenbuch de Wolf Dietrich en con¬
+          <lb/>tient à lui seul plus de 150, de même le livre des voyages
+          <lb/>dans la Terre Sainte de Mandeville, dont il a fait trois édi¬
+          <lb/>tions (1483, 1484 et 1488); de nombreuses gravures se trou¬
+          <lb/>vent aussi dans le Hortus Sanitatum. (Voir Schramm, vol.
+          <lb/>20, N° 1495 à 1608), sans parler de nombreux autres ouvra¬
+          <lb/>ges qui contiennent environ dix à vingt gravures, comme
+          <lb/>le Fasciculus de Rolewinck, l’Imitation de Thomas a Kem¬
+          <lb/>pis, la Legenda aurea de Jacobus a Voragine, la Construc¬
+          <lb/>tion de la ville de Rome etc. etc.
+          <lb/>MARTIN FLACH (1487-1500)
+          <lb/>Né à Kuttolsheim près Strasbourg, Martin Flach obtint
+          <lb/>le droit de bourgeoisie en novembre 1472 par son mariage
+          <lb/>avec Cathérine, fille du cordonnier Jean Dammerer. Il se
+          <lb/>fit inscrire dans la tribu des orfèvres comme la plupart
+          <lb/>des imprimeurs. D’après Wimpheling il aurait pris la suc¬
+          <lb/>cession d’Adolphe Rusch, le gendre de Mentelin. Flach
+          <lb/>mourut le 26 octobre 1500. Sa veuve se remaria l’année
+          <lb/>suivante à l’imprimeur Jean Knobloch qui reçut de ce fait
+          <lb/>le droit de bourgeoisie le 21 mai 1501 et hérita en même
+          <lb/>temps l’imprimerie de Flach père, de sorte que le fils Martin
+          <lb/>Flach junior dût quitter l’officine de son père et se pour¬
+          <lb/>voir ailleurs.
+          <lb/>Les premiers imprimés de Flach qui portent son nom
+          <lb/>ne datent que de l’année 1487. Tous les ouvrages que les
+          <lb/>bibliographes lui ont attribués avant cette date lui ont été
+          <lb/>faussement attribués; on a confondu l’imprimeur Martin
+          <lb/>Flach de Bâle avec celui de Strasbours et a attribué à ce
+          <lb/>dernier les impressions qui provenaient de Martin Flach de
+          <lb/>Bâle. On connait environ une centaine d’ouvrages sortis
+          <lb/>des presses de Flach, pour la plupart des ouvrages de théo¬
+          <lb/>logie, en outre quelques grammaires latines ainsi que quel¬
+          <lb/>*) Voir Schmidt, Répertoire Vol. VII, p. VIII.
+          <lb/>XIX
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

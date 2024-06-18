@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:37.278380+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu064.tif
+IMAGE WIDTH: 2378
+IMAGE HEIGHT: 3844
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>DURANDUS Guillelmus: Rationale divinorum, officiorum.
+          <lb/>(Strasbourg, G. Husner, vers 1478), in-fol.
+          <lb/>Hain 6462, Pellechet 4488, Pellechet: Colmar 565, Proctor
+          <lb/>360, Voulliéme: Berlin 2202.
+          <lb/>K 1475. Prov.: Bibl. du prince de Bentheim, provenant du
+          <lb/>Couvent de Frenswegen, 1874. Note mss. Rel. anc.
+          <lb/>152
+          <lb/>DURANDUS Guillelmus: Rationale divinorum officiorum.
+          <lb/>(Strasbourg, G. Husner, avant 1481), in-fol.
+          <lb/>Hain 6465, Pellechet 4481, Proctor 361.
+          <lb/>K 1477. Proy.; B N Munich, 22/1. 1880, 8 M. Au recto du
+          <lb/>dernier f.: «Ex libris Joannis Richier, 1652». Rel. anc. 153
+          <lb/>DURANDUS Guillelmus: Rationale divinorum officiorum.
+          <lb/>Strasbourg, (imprimeur du Jordanus (— G. Husner),
+          <lb/>1484, in-fol.
+          <lb/>Hain 6489, Madsen 1473, Pellechet 4506, Proctor 590, Voul¬
+          <lb/>liéme: Berlin 2401.
+          <lb/>K 1484. Prov.: Don de la ville de Heilbronn, 1871. Rel. anc.
+          <lb/>154
+          <lb/>DURANDUS Guillelmus: Rationale divinorum officiorum.
+          <lb/>Strasbourg, (J. Prüss), 1486, in-fol.
+          <lb/>Hain 6491, Pellechet 4508, Pellechet: Colmar 571.
+          <lb/>K 1486. Prov.: A. Einsle, Vienne, 8/xII. 1885, 6 M. fol. A 2a:
+          <lb/>Carthusia Gemnicensis. (Gamming). Rel. anc.
+          <lb/>. 155
+          <lb/>DURANDUS Guillelmus; Rationale divinorum officiorum.
+          <lb/>Strasbourg, (imprimeur du Jordanus (— G. Husner)),
+          <lb/>13 juillet 1486, in-fol.
+          <lb/>Hain 6492, Pellechet 4509, Proctor 603, Voulliéme: Berlin 2411.
+          <lb/>K 1487. Prov.: Bibliothèque Cha. Schmidt, 10/IV. 1895. Au¬
+          <lb/>dessous du titre: «Ex dono Reuerendi viri D. M. Eliae
+          <lb/>Schadaei Ecclesiasta e summi templi Argentinensis e profes¬
+          <lb/>soris Academiae eiusdem, die 19 Julit Anno 1593» Au-des¬
+          <lb/>sous: «Sur les différentes éditions V. Brunet II, 154-155».
+          <lb/>Rel. anc.
+          <lb/>156
+          <lb/>34
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

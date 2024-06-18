@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:50.693460+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078277.tif
+IMAGE WIDTH: 2308
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>PELBARTUS DE THEMESWAR
+          <lb/>Haguenau, H. Gran 1501
+          <lb/>Sermones Pomerii fratris Pel barti de Themeswar
+          <lb/>divi ordinis sancti Francisci de Sanctis: In cipiunt feli¬
+          <lb/>citer. (Verso blanc.)
+          <lb/>A la fin: Sermones Pomerii de sanctis... impressi ac
+          <lb/>diligenter revisi per industrium! Henricum Gran in oppido
+          <lb/>Hagenaw: expen- sis ac sumptibus providi Johannis Ryn¬
+          <lb/>man Finiunt! feliciter: Anno ab incarnatione domini mil¬
+          <lb/>lesimoquin-gentesimo primo. ultimo die Septembris.
+          <lb/>In-fol., car. goth., 2 col., 349 ff. non ch., sign. a-2, A-Z, titre
+          <lb/>courant, init. d’attente. A la fin: table de 5 fr. Fol. 2b : Prologus.
+          <lb/>R10.364 (1). Prov.: C. H. Beck, Nœrdlingen 24/VIII 1889;
+          <lb/>10 M. 50. Note ms.: Monasterii Waldsassensis.
+          <lb/>1809
+          <lb/>PELBARTUS DE THEMESWAR
+          <lb/>Haquenau, H. Gran 1501
+          <lb/>Pomerium Sermonum.. De Tempore... (Titre manque
+          <lb/>dans mon exemplaire.)
+          <lb/>A la fin: Sermones Pomerii de tempore com- portati
+          <lb/>per fratrem Pelbartum de Themeswar: professum divi
+          <lb/>ordi- nis sancti Francisci Impressi ac di-ligenter revisi
+          <lb/>per industrium Henri cum Gran; in imperiali oppido Ha¬
+          <lb/>genauw. expensis ac sumptibus pro-vidi Johannis rvn¬
+          <lb/>man Finiunt feli-citer Anno salutis nostre Millesimo
+          <lb/>quingentesimo primo. vin. Kal.Martii. (Verso blanc.)
+          <lb/>In-4°, car. goth., 2 col., 366 ff. non ch., sign. A-Z, Aa-Bb, a-t,
+          <lb/>titre courant, init. d’attente.
+          <lb/>R101.415. Prov.: RN Munich 28/XII 1877; 1 M. A l’intérieur
+          <lb/>du 1er plat: Duplum Bibliothecae regiae Monacensis.
+          <lb/>A la fin: Ex-libris de la Bibliothèque des Augustins de Munich;
+          <lb/>fol. O 3a: In usum Fratrum Erm. San. Augustini Monacensium. 1618.
+          <lb/>Par mégarde du relieur la partie hiemalis est reliée avec l’exemplaire
+          <lb/>R 101.418 (Voir n° 1812), de sorte que l’ex. R 101.415 commence avec
+          <lb/>le fol. 03. Il manque en outre le titre et plusieurs ff. de la table.
+          <lb/>1810
+          <lb/>PELBARTUS DE THEMESWAR
+          <lb/>Haguenau, H. Gran 1501
+          <lb/>Sermones Pomerii fratris Pelbarti de Themeswar di vi
+          <lb/>ordinis sancti Francisci de tempore Incipiunt feliciter.
+          <lb/>(Verso blanc.) Après les 13 ff. de table, titre abrégé: Sermones Po¬
+          <lb/>merii de tempore. Au verso: Prologus.
+          <lb/>1163
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

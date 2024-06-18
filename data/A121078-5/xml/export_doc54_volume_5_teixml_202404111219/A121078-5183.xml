@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:55.986960+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5183.tif
+IMAGE WIDTH: 2354
+IMAGE HEIGHT: 3860
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1493
+          <lb/>fol. BBiija non ch. : Laurentius Vallensis Joanni Torcellio Aretino
+          <lb/>cubicula !I rio apostolico...
+          <lb/>Au verso : Jodoci Badii Ascensii Proœmij!! Laurentiani epitome
+          <lb/>atque explanatio.
+          <lb/>fol. I ch. : Prologus Laurentii Vallensis...
+          <lb/>R. 100.061. Prov. : W. Hausknecht, St.-Gallen (Catal. 53, N° 387),
+          <lb/>17/x, 1882; 7 M.
+          <lb/>Annotations mss. à la marche des pages.
+          <lb/>Proctor II, Sectio I. No 10250 : Londres, British Museum; Schmidt
+          <lb/>VIII, No 216; Walter : Sélestat 2140 a une édition de 1520 par Lazare
+          <lb/>Schürer à Sélestat.
+          <lb/>2386
+          <lb/>VALLA Laurentius.
+          <lb/>Strasbourg, U. Morhard, 1522
+          <lb/>Calumnia Theologica Laurentio Vallensi olim Ne! apoli
+          <lb/>intentata, quod ne-gasset symbolum mem-bratim articu¬
+          <lb/>latimque!] per Apostolos esse! compositum. Ipso Laurentio
+          <lb/>Valla authore. (Verso blanc.)
+          <lb/>A la fin : Argentorati apud Hulderi] chum Morhardum,
+          <lb/>Mense Junio. Anno M. D. XXII.
+          <lb/>In-4°, car. rom., 4 ff. non ch., titre encadré comme le De duplici Copia
+          <lb/>du mois del janvier 1519; réclames, notes marg., init. à fig. portraits
+          <lb/>d’auteurs classiques.
+          <lb/>&amp;quot;R. 100.497. Prov. : Bibl. Böcking.
+          <lb/>Schmidt, IV, p. 30, n° 9 : Bibl. St. Guillaume de Strasbourg; Walter:
+          <lb/>Sélestat 2363.
+          <lb/>Rostenberg (New-York), catal. 22, N° 269 : 20 dollars. 2387
+          <lb/>VALLA Laurentius
+          <lb/>Sélestat, L. Schürer, 1522
+          <lb/>Laurentii Vallae Elegantiarum libriSex, Diuersis,
+          <lb/>multisque Prototypis collatis, emendati, atque adeo in
+          <lb/>suamipsius, hoc est genuinam faciem non ! dicendis sudoribus
+          <lb/>restituti, cum Antonij!! Mancinelli lima, necnon epitoma- tis
+          <lb/>Iodoci Badij Ascensij in singula capita.
+          <lb/>Item!! Libellus de Reciprocis Pronominibus, Sui, &amp;amp; Suis
+          <lb/>Adnotationes in Antonium Raudensem, cum Dia (l logo in
+          <lb/>Poggium Florentinum admodum festiuo. Index praeterea
+          <lb/>tam copiosus quam necessarius.
+          <lb/>A la fin : Selestadij in aedibus Lazari Schurerii, Anno Mille¬
+          <lb/>simo, quingen- [I tesimo, vigesimo secundo, Mense junio.
+          <lb/>In-4°, car. rom., 12 ff. non ch., 152 ff. ch.--23 ff. ch. pour les Adnota¬
+          <lb/>tiones in Antonium Raudensem de l à 23, titre rouge et noir, titre courant,
+          <lb/>réclames, notes marg., grandes init. à figure : C. L. R, H, T, S. Encadre¬
+          <lb/>ment du titre par Wächtelin avec les signes I° et 2 bourdons, employés la
+          <lb/>première fois par Mathias Schürer en 1515 dans : Libri de gestis Friderici
+          <lb/>de Otto de Freisingen (R. 10.012).
+          <lb/>Au verso du titre : Nicolaus Beraldus Aurelius, Antonio Chrysoriano
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

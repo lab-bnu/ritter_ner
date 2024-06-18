@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:03.804733+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002087.tif
+IMAGE WIDTH: 2508
+IMAGE HEIGHT: 3978
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>BUCHANAN, Georgius : (Idem). — Strasbourg, Josias Rihel
+          <lb/>1568, in-80.
+          <lb/>BN Paris: Yc 9593. [Ritter, Rép, no 316; éd. J. Rihel 1572l.
+          <lb/>1190
+          <lb/>BUCHANAN, Georgius : (Idem). — Strasbourg 1575, in-8°.
+          <lb/>B M Montauban 11.978.
+          <lb/>1191
+          <lb/>BUCHANAN, Georgius : (Idem). — Strasbourg 1578, in-8°.
+          <lb/>Goedeke II2, p. 123, n° 298 (2).
+          <lb/>1192
+          <lb/>BUCHANAN, Georgius : Jephtes oder Gelübd, eine Schöne,
+          <lb/>nützliche Tragedi... — Strasbourg, Josias Rihel 1567,
+          <lb/>in-40. (Traduit par Jonas Bitner; Préface de Jean Sturm).
+          <lb/>Skopnik, p. 25-29.
+          <lb/>nützliche Tragedi... — Strasbourg, Nic. Wyriot 1569,
+          <lb/>in-4° (Préface de l’imprimeur Rihel de la Ire éd.).
+          <lb/>Goedeke II2, p. 390, n° 320 (a); Skopnik, p. 25/6. 1193
+          <lb/>BUCHANAN, Georgius. Voir aussi : EURIPIDES, Medea,
+          <lb/>n° 1661/2.
+          <lb/>BUCHANAN, Joh. : Baptistes sive Calumnia. — Strasbourg,
+          <lb/>Nicolas Wyriot 1579, in-8°. (Préface de Jean Sturm,
+          <lb/>relevant les mérites de Wyriot).
+          <lb/>Ritter, Hist. de l’impr. p. 344.
+          <lb/>1194
+          <lb/>BUCHSTAB, Johannes : Von becleidung der Priester, liechter,
+          <lb/>weiwasser... — (Strasbourg), Jean Grüninger 1527, in-4°.
+          <lb/>Schmidt I, n° 235 (B N Strasbourg R 101.568 : Ritter, Rép.
+          <lb/>n° 322l.
+          <lb/>1195
+          <lb/>BUCHSTAB, Joh. : Dass die Biblischen Geschrifften müssen
+          <lb/>ein geistliche uszlegung han... — (Strasbourg, Jean
+          <lb/>Grüninger), 1529, in-4°.
+          <lb/>85
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

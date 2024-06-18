@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:27.021893+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2030.tif
+IMAGE WIDTH: 2378
+IMAGE HEIGHT: 3826
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>26
+          <lb/>in-4°, car. goth., 2 col,, 98 ff. non ch., sign. a-q, titre courant,
+          <lb/>init. ornée A, titre en rouge et en noir, encadré. (H&amp;amp; B, Planche
+          <lb/>LXIV, no 2.)
+          <lb/>Au verso du titre: Carmen sapphicum Sebastiani Refer
+          <lb/>(4 strophes), suivi de 2 distiques de Math. Kretz de Landsberg et de
+          <lb/>2 distiques de Henrichmann.
+          <lb/>Fol. A2a: Jacoby Henrichman Sindelfingensis S. P. D.
+          <lb/>Joan! ni Altenstaigio Mindelhaimensi... — Crespachio nonis
+          <lb/>Maij: Anno octauo vltra sesquimillesimum; plus bas: Jacoby
+          <lb/>Henrichman Sindelfingensis Joanni Alten-staigio Mindelhai¬
+          <lb/>mensi... Ex Driospoli: idibus octobris: An-no octauo
+          <lb/>supra Sesquimillesimum.
+          <lb/>Au verso:... Henrico Bebelio... Joannes! Altenstaig...
+          <lb/>Ex Tu- binga: Anno salutis humane. M. D. viij. Generoso
+          <lb/>baroni Christofero Schwartzenbergio! Joannes Altenstaig...
+          <lb/>Ex Tubinga. Idibus octobris! Anno... octauo super mille¬
+          <lb/>simum et quingentesimum.
+          <lb/>Plus bas: Joannes Altenstaig Mindelhaimensis S. P. D.
+          <lb/>Lectori... — Ex Pollinga monasterio religione monstrabili
+          <lb/>pol lente: ad decimum kalendas Januarias: Anno... de¬
+          <lb/>cimo super sesquimillesimum.
+          <lb/>Au recto du dernier f.: vers de Gallus Held.
+          <lb/>C131877b. Prov.: Don de Fidelis Butsch fils, antiquaire à Augs¬
+          <lb/>bourg, 1871.
+          <lb/>GPB III, 7205: Berlin, Munich, Vienne, Breslau.
+          <lb/>40
+          <lb/>ALTENSTAIG Johannes
+          <lb/>Strasbourg, J. Prüss, 1515.
+          <lb/>Vocabularius Joannis Altenstaig Mindelhaimensis.
+          <lb/>VOCVM QVAE IN OPERE GRAMMATI! co plurimorum continentur
+          <lb/>breuis &amp;amp;! vera interpretatio.
+          <lb/>HENRICI BEBELII EPIGRAMMA. (4 distiques.)
+          <lb/>AD LECTOREM, (9 lignes.)
+          <lb/>Anno, 1515. (Verso blanc.)
+          <lb/>A la fin: A Joanne Prüsz Ar gentinensi ciue nuper
+          <lb/>stanneis elaboratam calamis. Anno virginei par! tus Mille¬
+          <lb/>simo quingentesimo decimo quinto (decimo Calendis Aprilis).
+          <lb/>(Verso blanc.)
+          <lb/>in-40, car. goth., 2 col., 4 ff. non ch., CXVI ff. ch., titre courant.
+          <lb/>init. ornées N, A; titre rouge et noir, encadré, comme celui des Bu¬
+          <lb/>colica de Baptiste de Mantoue Prüss 1513 et Torrentinus, Commentaria,
+          <lb/>Hupfuff 1516.
+          <lb/>Fol. A 24 non ch.: JACOBUS HENRICHMANNVS SINDELFINGEN¬
+          <lb/>SIS) S. P. D. Joanni Altenstaigio Mindelhaimensi sacrarum
+          <lb/>litterarum baccalaureo... Au-dessous: Henrico Bebelio,
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

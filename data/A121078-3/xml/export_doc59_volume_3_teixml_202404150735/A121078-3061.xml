@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:05.685207+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3061.tif
+IMAGE WIDTH: 2328
+IMAGE HEIGHT: 3844
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>ERASMUS: De constructione octo partium orationis
+          <lb/>Hagenau, Th. Anshelm, 1522
+          <lb/>DE OCTO! ORATIONIS PARTIVM CON] STRVCTIONE LIBEL¬
+          <lb/>LVS, tum elegans imprimis, tum dilu- cida breuitate copio
+          <lb/>sissimus. ERASMO ROTERO DAMO AVTORE.
+          <lb/>Am Schluss: HAGANOAE APVD THOMAM ANSHELMVM MENSE
+          <lb/>NOVEMBRI ANNO, M. D. XXII. (Rückseite leer.)
+          <lb/>80, Kursio, 28 Bll., Sign. A-D, Kopftitel, Init. H. L.O, N.
+          <lb/>Auf der Rückseite des Titelbl.: IOANNES COLETVS DECANVS
+          <lb/>Sancti Pauli, Gulielmo Lilio ad diuum Paulum! ludi mo¬
+          <lb/>deratori primario Sal. D. ...
+          <lb/>Bl. A2a: ERASMUS ROTERODAMUS candidis lectoribus
+          <lb/>Salu. D.... — Basileae. IIl. Kalendas Augusti. M. D. XV.
+          <lb/>(2 S.)
+          <lb/>Nach Mitteilung des GK Verfasser vielm.: William Lilly.
+          <lb/>RI01.575. Prov.: Antiquariat A Stuber, Würzburg (Katal. Nr. 32),
+          <lb/>21.XI. 1879, 4M.
+          <lb/>Rest S. 50.
+          <lb/>760
+          <lb/>505
+          <lb/>ERASMUS: De duplici copia
+          <lb/>Strassburg, J. Knobloch, 1522
+          <lb/>D. ERAS-M ROTERODAMI, DE duplici Copia, Verbo¬
+          <lb/>rum ac Rerum Commen! tarij duo, ple! risque in lo cis
+          <lb/>au! cti.) Epistola Erasmi Roterodami, ad Ia- cobum Vuim¬
+          <lb/>phelingum Se lestatinum.
+          <lb/>Am Schluss: ARGENTORATI apud Ioannem Knoblouchium.
+          <lb/>M. D. XXII.
+          <lb/>8°, Kursiv, 8 unn., 112 num. u. 7 unn. Bll., Kopftitel, Kustoden,
+          <lb/>Titeleinfassung (H e B Tafel X Nr. 5).
+          <lb/>Auf der Rückseite des Titelbl.: Brief des Erasmus an M. Schürer...
+          <lb/>Basileae. Anno M. D. XIIIl. Ad Idus Octobris.
+          <lb/>Bl. 2a : Verzeichnis der Kapitel.
+          <lb/>Bl. 7a: Brief des Erasmus: Ioanni Coleto Decano Sancti
+          <lb/>Pauli apud Lon-dinum.... — Londini.Anno M. D.XIII.
+          <lb/>Calendas Maias, Auf der Rückseite lat. Verse des Erasmus an Seb.
+          <lb/>Brant u. an J. Sapidus.
+          <lb/>Bi. P-P 2a: Epilog u. Brief Wimpfelings an Erasmus im Namen
+          <lb/>der Strassburger Sodalitas litt.: Ex Argen toraco prima Septem¬
+          <lb/>bris Anno M. D.XIIII.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

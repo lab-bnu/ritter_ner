@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:20:02.803355+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5335.tif
+IMAGE WIDTH: 2410
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Libraires-Editeurs P. H. HEITZ, Imprimerie de l’Université
+          <lb/>Maison fondée en 1483
+          <lb/>Du même auleur:
+          <lb/>Catalogue des Incunables et Livres du XVIe siècle de la Bibliothèque
+          <lb/>Municipale de Strasbourg, gr. in 80, 924 p.
+          <lb/>Catalogue des Incunables alsaciens de la Bibliothèque Nationale et
+          <lb/>Universitaire de Strasbourg, gr. in 8°, 138 p.
+          <lb/>Catalogue des Incunables de la Bibliothèque du Grand Séminaire
+          <lb/>de Strasbourg, in 4°, Iv-66 p.
+          <lb/>Histoire de l’Imprimerie Alsacienne au xve et xVIe siècle, in 8°,
+          <lb/>VII-648 p., 91 repr., 1 tab., 1 carte.
+          <lb/>Pour paraître:
+          <lb/>BURG. — Catalogue des Incunables de la Bibliothèque de Haguenau.
+          <lb/>Extrait de nos calalogues:
+          <lb/>Regesta Alsatiae aevi Merovingici et Karolini (496-918), par
+          <lb/>A. BRUCKNER, professor and. Univ. Basel.
+          <lb/>Chronique de Lucelle, la... (1123-1445), par L. STOUFF, professeur
+          <lb/>honoraire à la Faculté des Lettres de Dijon.
+          <lb/>Code du roi Vakhtang (Arménie, XVIIe siècle). — Mythologie
+          <lb/>arméno-caucasienne, par J. KARST, professeur honoraire de l’Uni¬
+          <lb/>versité de Strasbourg.
+          <lb/>Le Mysticisme philosophique à l’époque du premier romantisme
+          <lb/>(Blake, Novalis, Ballanche), par J. Roos, professeur à l’Université
+          <lb/>de Strasbourg.
+          <lb/>Platon et la recherche mathématique de son époque, par Cherasnne
+          <lb/>MUGLER, agrégé de l’Université.
+          <lb/>Martin Schongauer (Biographie). V. Ed. FLECHSIG EHEM., Pro¬
+          <lb/>fessor a. d. Univ. Fribourg.
+          <lb/>Veuillez adresser toute demande à P. H. HEITZ,
+          <lb/>16, rue du Maréchal Joffre, Case post. 173, Strasbourg.
+          <lb/>Address all enquiries and orders to : P. H. HEITZ
+          <lb/>foreign dept. Postbox 173, Strasbourg,
+          <lb/>(Bas-Rhin) France.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

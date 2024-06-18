@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:30.575341+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2137.tif
+IMAGE WIDTH: 2318
+IMAGE HEIGHT: 3828
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>135
+          <lb/>R101.789. Prov.: Bibl, de l&amp;#x27;ancienne Faculté de médecine de
+          <lb/>Strasbourg.
+          <lb/>GPR: Berlin SB. Breslau UB.
+          <lb/>217
+          <lb/>BOCK Hieronymus
+          <lb/>Strasbourg, Josias Rihel, 1560.
+          <lb/>Kreüter Bûch. Darinn Underscheidt, Na- men vvnd
+          <lb/>Würckung der Kreütter, Stauden,! Hecken vnd Beümen,
+          <lb/>sampt jren Früchten, so inn Teütschen Landen wachsen...
+          <lb/>(comme dans l’édition de 1546 avec légères variantes). Voir No 213.
+          <lb/>Mit keiserlicher Freiheit auff Acht jar.
+          <lb/>Gedruckt zû Straszburg, im) Jar M. D. LX.
+          <lb/>Au verso, armoiries de la ville de Strasbourg.
+          <lb/>Au recto du dernier f. blanc: Gedruckt zû Straszburg
+          <lb/>durch Josiam Rihel im Jar. M. D. LX.
+          <lb/>In-fol., car. goth., 20 ff. non ch., CCCCXIII ff. ch., 6 ff. non
+          <lb/>ch. à 2 col. (table des maladies) et 1 f. blanc; titre courant, réclames,
+          <lb/>notes marg., initiales goth., les mêmes gravures que dans l’édition de
+          <lb/>1551, dont c’est une réimpression. Voir N° 215.
+          <lb/>fol. a 2a non ch.: .. Herrn Philipsen Grauen zo Nassaw
+          <lb/>vnnd (Sarbrücken, Herrn zû Lar. Embeût Hierony- mus
+          <lb/>Bock seine... dienst... — Datum Sar- brucken heut Mitwochs
+          <lb/>den vierdten Februarij. Anno LI.Hieronymus Bock.
+          <lb/>(Préface sur les plantes de 9 ff.), suit 1 f. blanc, puis 8 ff. de table.
+          <lb/>Au verso du f. 20 non ch. portrait de Bock et distiques de
+          <lb/>J. Sapidus comme dans l’édition de 1551.
+          <lb/>R10.498, Prov.: Bibl. de l’ancienne Faculté de médecine de
+          <lb/>Strasbourg. Rel. anc.
+          <lb/>GPB: Breslau UB. Bonn UB.
+          <lb/>Cette édition manque chez Schreiber, Kräuterbücher.
+          <lb/>218
+          <lb/>BOCK Hieronymus
+          <lb/>Strasbourg, Josias Rihel, 1587.
+          <lb/>Kreütterbuch Darin vnderscheidt Nam- men vnd
+          <lb/>Würckung der Kreütter, Stau-den, Hecken vnd Beumen
+          <lb/>sampt jhren Früchten, so inn Teutschen Landen wachsen,
+          <lb/>auch der selben eigentlicher vnnd wolgegründter Gebrauch
+          <lb/>inn der Artzney, fleissig dargeben, Leibs gesundtheit zû
+          <lb/>fürdern vnd zû behal- ten sehr nützlich vnnd tröstlich,
+          <lb/>beuorab dem Gemeinen vnnd Einfaltigen Mann.
+          <lb/>Jtem von den vier Elementen, zamen vnd wilden
+          <lb/>Thieren, auch Vöglen vnd Fischen, Milch, Käsz, Butter,
+          <lb/>Honig, Wachs, Zucker, Saltz, Brot,Wein, Essig, Oely.
+          <lb/>Eyer, Blût, Schmaltz, Unschlit, aller hand Kochkreutter,
+          <lb/>Specerey, vnnd Gewürtz. Auch wie alle Speisz vnnd Dranck,
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

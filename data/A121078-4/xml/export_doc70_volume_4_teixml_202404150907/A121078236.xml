@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:49.377129+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078236.tif
+IMAGE WIDTH: 2302
+IMAGE HEIGHT: 3844
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1122
+          <lb/>In-4°, car. goth., 2 col., 104 ff. non ch., sign. A-R, grande ini¬
+          <lb/>tiale à fig. et init. d’attente. 2 gravures, dont l’une est reproduite neuf
+          <lb/>fois et l’autre quatre fois. Elles sont empruntées à l’édition faite par
+          <lb/>J. Schott en 1500; en tout 24 grav.
+          <lb/>R10339. Prov.: J. Bensheimer, Strasbourg (Catal. 43 n° 621)
+          <lb/>30/VII 1879; 15 M. Exemplaire incomplet, commençant avec fol. B2;
+          <lb/>fol. B 5 manque aussi. J’ai cité le titre qui manque dans mon exem¬
+          <lb/>plaire d’après Schmidt VII n° 38, qui signale un ex. à Bâle et un à la
+          <lb/>Bibl. cantonale d’Aarau (couvent de Muri).
+          <lb/>Proctor II Sectio I n° 10.060: Londres, British Museum.
+          <lb/>Schmidt Wieland, Die vierundzwanzig Alten Ottos von Passau
+          <lb/>[— Palaestra Vol. 212l, Leipaig 1938 p. 249-250: Bibl. Cantonale
+          <lb/>Aarau, BU Bâle, BN Berlin, BM Colmar, Donaueschingen, Dresde,
+          <lb/>Einsiedeln, Frauenfeld, Munich, Neubourg, New York (Library of
+          <lb/>St. Francis Monastery), Stuttgart, Ulm, BM Wurabourg.
+          <lb/>Bœr, Francfort-s.-M., Cat, 500 (1907) no 1128, 6́o M.; Bablio¬
+          <lb/>thèque Ch. Louis Fière, 2ème vente (14-17 juin 1937) n° 363; Rosen¬
+          <lb/>thal, Munich, Cat. 135 (1914) n° 1752; 300 M.
+          <lb/>Voir la bibliographie d’Otto v. Passau, chez Schmidt Wieland
+          <lb/>p. 376-383.
+          <lb/>1738
+          <lb/>OTTO Phrisingensis
+          <lb/>Strasbourg, M. Schurer 1515
+          <lb/>OTTONIS PHRISINGEN sis Episcopi, viri clarissimi, Re¬
+          <lb/>rum ab ori! gine mundi ad ipsius usque tempora gesta¬
+          <lb/>rum, Libri Octo. EIVSDEM De gestis Friderici primi Aeno¬
+          <lb/>barbi Caes. Aug. Libri Duo. RADEVICI Phrisingen, eccle¬
+          <lb/>siae Canonici libri! duo, prioribus additi, de eiusdem Fri¬
+          <lb/>derici Imp. gestis. (Verso blanc.)
+          <lb/>A la fin: Argentorati, ex aedibus Matthiae Schurerii,
+          <lb/>mense MartioAn. M. D. XV.Ductu Leonardi et Lucae
+          <lb/>Alantsee fratrum. Au-dessous: marque typ. des Alantsee. (HCB
+          <lb/>Planche XIII n° 1.)
+          <lb/>In-fol., car. rom., 14 ff. non ch., CV ff. ch. et 2 non ch.; pour
+          <lb/>Radevicus: 5 ff. non ch., LXXXIII ff. ch. et 1 non ch. dont le verso
+          <lb/>blanc; titre courant, notes marg., de nombreuses init. ornées; titre rouge
+          <lb/>et encadré.
+          <lb/>Riche encadrement, dessiné par Urs Graf, dont le monogramme
+          <lb/>se trouve sur une bannière, composé probablement par Beatus Rhema¬
+          <lb/>nus. Au-dessus, l’empereur Maximilien assis sur un trône, à sa droite
+          <lb/>Charles, archiduc d’Autriche et duc de Bourgogne, à sa gauche, Ferdi¬
+          <lb/>nand roi de Castille; au-dessous du trône les mots : Maximilianus Aug.
+          <lb/>Plus bas dans un demi-cercle, les armoiries impériales, entourées de
+          <lb/>de celles des 7 électeurs et de l’inscription en majuscules grecques:
+          <lb/>Toös 7ap Koatoc sott peytozoy; au-dessous: le titre du livre, d’un
+          <lb/>côté un homme nu portant un trophée d’armes, de l’autre, un homme nu
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:31.125326+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2154.tif
+IMAGE WIDTH: 2298
+IMAGE HEIGHT: 3826
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>150
+          <lb/>ten, new, vnd vff das fleissigest gedruckt durch Johannem
+          <lb/>Knoblauch zû Straszburg, in der Jarzal Christi. M. CCCCC.
+          <lb/>vnd XVII.
+          <lb/>A la fin: Getruckt ist disz bûch (daz so sagt von der
+          <lb/>lieben heyligen leben vnd sterben, wie es in dem lati¬
+          <lb/>nischen Passional beschriben ist) zStraszburg, in expensz,
+          <lb/>kost, vnd verleg des fürsichtigen herren Johanns Knob¬
+          <lb/>louchs, vnd vollendet vff Egidij, des ersten tags Septembris,
+          <lb/>des jars do man zalt nach der geburt Christi vnsers
+          <lb/>herren M. D. XVij. (Verso blanc.)
+          <lb/>In-fol., car. goth., 2 col.; Ière partie CCV ff. ch. en dehors du
+          <lb/>titre, IIe partie: CCXVIII ff. ch., titre courant, initiales ornées, titres
+          <lb/>en rouge, encadrés. L’encadrement du premier titre est de Baldung Grien
+          <lb/>avec son monogramme dans le coin gauche inférieur; en haut et des
+          <lb/>deux côtés, ornements; au bas, une galerie à colonnes, au milieu de
+          <lb/>celle-ci l’empereur Maximilien assis sur son trône; à ses pieds un écu
+          <lb/>avec l’aigle impériale. Le bel encadrement du second titre est formé, à
+          <lb/>gauche et à droite, de deux ceps de vigne garnis de raisins, se rejoi¬
+          <lb/>gnant par le haut. Dans le coin gauche, en haut, debout sur le cep, un
+          <lb/>enfant nu tenant un écu, dans le coin droit, un autre enfant nu tirant
+          <lb/>une flèche; dans la bordure gauche, au bas, un enfant et un ours, dans
+          <lb/>la bordure droite un aigle et un ours; au milieu de la bande inférieure,
+          <lb/>un écu vide tenu par deux enfants nus. Dans la fère partie, au com¬
+          <lb/>mencement, 8 planches de la Passion d’Urs Graf; chaque légende est
+          <lb/>ornée d’une image, la même gravure sert souvent à plusieurs légendes,
+          <lb/>en tout 137; dans la seconde, 129 gravures. La plupart sont de la
+          <lb/>largeur d’une colonne, d’autres s’étendent sur deux colonnes. Les moins
+          <lb/>larges sont médiocres et proviennent en partie du Heiligenleben impri¬
+          <lb/>mé par Hupfuff en 1513.
+          <lb/>Au verso des titres, Index.
+          <lb/>Tiré de la Legenda aurea de Iacobus de Voragine.
+          <lb/>R 10.145. Prov.: Vente Trübner (Catal, 34) Strasbourg, 30/X.
+          <lb/>1886; 112 M. 50.
+          <lb/>Au milieu du titre:,Sum Sebastiani weysbrodt Uben¬
+          <lb/>stadt praemons.&amp;quot; Rel. anc.
+          <lb/>Proctor II, Sectio I, No 10114: Londres, British Museum; Schmidt
+          <lb/>238
+          <lb/>VII, N0 141; GPB: Breslau UB [def.l, Greifswald UB.
+          <lb/>BRANT Sebastian
+          <lb/>Strasbourg, J. Knobloch, 1518.
+          <lb/>Der Richterlich Clagspiegel....
+          <lb/>Même titre et mêmes gravures que dans l’édition de 1516 de
+          <lb/>Hupfuff excepté qu’avant les 3 derniers mots du titre on a ajouté
+          <lb/>,,mit mererm fleisz&amp;quot;.
+          <lb/>A la fin: Getruckt: vnnd zum anndern mal Reuidiert
+          <lb/>durch den Ersamen fürsichtigen Johannem Knoblouch
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

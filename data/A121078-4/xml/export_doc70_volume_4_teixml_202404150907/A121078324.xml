@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:52.232275+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078324.tif
+IMAGE WIDTH: 2324
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1210
+          <lb/>Au verso du titre: C. Plinii secundi iunioris! liber illustrium vi¬
+          <lb/>rorum.
+          <lb/>Romae, excusum.
+          <lb/>A la fin de Plinius, fol. E4a: &amp;quot;Recognit. ad exemplar quondam
+          <lb/>R101.804, Prov.: Trubner (vente Zimberlin), Strasbourg 29/IV
+          <lb/>1886, 1M.
+          <lb/>Schmidt VIII n° 34.
+          <lb/>1889
+          <lb/>PLINIUS Secundus Cajus (junior)
+          <lb/>Strasbourg, M. Schurer 1514
+          <lb/>C. PLINHI SECVNDI NOVACOMENSISEpistolarumn libri
+          <lb/>Decem, in quibus multae habentur, epistolae non ante
+          <lb/>impressae. Tum Graeca correcta, &amp;amp; suis locis restituta,
+          <lb/>atque reiectis adulterinis, vera reposi ta. Item fragmen¬
+          <lb/>tatae epistolae libri Octavi de Clitumno fonte, non solum
+          <lb/>vertici calx additus, &amp;amp; calci vertex, sed decem quoque
+          <lb/>epistolae interpositae, ac ex Nono libro. Octavus factus,
+          <lb/>&amp;amp; ex Octavo Nonus, idque beneficio exemplaris correc¬
+          <lb/>tissimi, &amp;amp; mirae, ac potius venerandae vetustatis.
+          <lb/>A la fin: Argentorati, Ex aedibus Schurerianis, Mense
+          <lb/>Februario, ANN.  M. D. XIIII.Ductu Leonhardi, &amp;amp; Lucae
+          <lb/>Alantse fratrum. REGNANTE CAES. MAXIMILIANO. ( P. E. AVG.
+          <lb/>(Verso blanc.)
+          <lb/>In-4°, car rom., 4f non ch., CXVII f. ch, (le dernier f. est
+          <lb/>chiffré par erreur CVIII), titre courant, init. ornées et init, d’attente.
+          <lb/>At verso du titre:: Beatus Rhenanus Jo. Rusero E Novientano S. D. P.
+          <lb/>... — Ex Selezia, xii. kalend. Martias. Ann. M. D. XHII.
+          <lb/>Fol. 2a non ch.: Rodolphi Agricolae ad Cribellum ( suum ut pan¬
+          <lb/>egyricum Plinii I Secundi mittat car ]men (55 vers lat)
+          <lb/>RI01750. Prov.: BN Munich 9/1II 1878; 070 M. Annotations
+          <lb/>mss. à la marge des 13 premières pp. Au-dessous du titre:, Fr. Kilianus
+          <lb/>Westerrieden.&amp;quot;
+          <lb/>EM Strasbourg 651.
+          <lb/>Proctor 11 Sectio I n° 10220: Londres, British Museum; Schmidt
+          <lb/>FIII nO 125: BM Zurich et Jadis Bibl. de Strasbourg incun.
+          <lb/>n° 3896.
+          <lb/>1890
+          <lb/>PLINIUS Secundus Cajus (junior)
+          <lb/>Strasbourg, M. Flach 1520
+          <lb/>Caii Plinii des Andern Lobsagung: 2û Zeitten er
+          <lb/>zû Rome das Consulat ampt! eingetretten, hat vor offem
+          <lb/>Radt, und! zuhörender Gemaind, vom Heyligen! Kayser
+          <lb/>Traiano warhafftigklich, on schmeicheley ganz zierlichen
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

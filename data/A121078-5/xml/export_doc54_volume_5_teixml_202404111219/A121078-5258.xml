@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:58.648224+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5258.tif
+IMAGE WIDTH: 2402
+IMAGE HEIGHT: 3858
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1568
+          <lb/>Ei Colla¬
+          <lb/>tion auff oiɇ einfuerũg
+          <lb/>O. Anthonu Pfarrberrs 3ñ. G.
+          <lb/>Chomans sũ Strafburg (vnnò
+          <lb/>Ratberine seines eelicben gema¬
+          <lb/>bels /von Mattbeo Scell pon
+          <lb/>Reyserfberge Pfarrberrn
+          <lb/>3
+          <lb/>*
+          <lb/>5
+          <lb/>im boben stifft da selbst
+          <lb/>oo auch òise emfutung
+          <lb/>Seschebenist.
+          <lb/>2
+          <lb/>(Verso blanc.)
+          <lb/>A la fin : Getruckt zu Straszburg zum Steinburck.Durch
+          <lb/>Wolff Köpffel. Im jar M. D. xxiij.v. Kalen. Decem.
+          <lb/>(Verso blanc.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

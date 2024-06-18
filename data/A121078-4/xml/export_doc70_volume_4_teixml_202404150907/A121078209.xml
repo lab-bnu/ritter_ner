@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:48.621171+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078209.tif
+IMAGE WIDTH: 2304
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>ORDONNANCE
+          <lb/>Strasbourg 1530
+          <lb/>WIr Hanns Bock Ritter Statthalter der Meister und
+          <lb/>der Rathezû Straszburg thûon khundt, Nach dem wir
+          <lb/>hievor uff Mentag nach Reminiscere den, xiiii! Martii disz
+          <lb/>lauffenden jars, erkhandt, und durch unnser offen Mandat
+          <lb/>gepieten lassen ha- ben, das keiner unser Burger... !...
+          <lb/>kheinem herrn wer der were, zwischen dato desselbigen
+          <lb/>Mandats, und sant Michels tag schierst khomen, zûdienst
+          <lb/>zûziehen, reiten... !... So bevelhen wir allen,... !... mit
+          <lb/>ernst gepietend, das sich ein ye- der fürther unnd bisz
+          <lb/>Liechtmesz schierst khomend,...... anheimisch halte, nie¬
+          <lb/>mans zûdienst zûziehen... —
+          <lb/>Actum et decre- tum Mitwochen den letsten Augusti.
+          <lb/>Anno M. D. XXX. (Verso blanc.)
+          <lb/>Placard, in-4°, car. goth., 18 lignes, init. ornée W.
+          <lb/>R 22 (31). Prov.: Bibl. Heitz, Strasbourg 1871.
+          <lb/>2ème ex.: R 22 (34). Même provenance. A la marge: 1580. Ver¬
+          <lb/>bot andern Herrn zu dienen.
+          <lb/>1691
+          <lb/>1095
+          <lb/>ORDONNANCE
+          <lb/>Strasbourg 1530
+          <lb/>UNser herrn Meister und! Rath habendt erkandt, unnd
+          <lb/>gepieten auch allen, unnd yeden, iren Burgeren unnd
+          <lb/>Bur- gers sünen,... !... das sie! keinem hern, wer der
+          <lb/>sey, hie zwischen und sanct Michels tag nechskomend
+          <lb/>zû dienst zû ziehen, reiten, oder von yemant! sich be¬
+          <lb/>stellen lassen sollen, es sey zû rosz oder fûsz, darzû
+          <lb/>sich gerüst mit irem harnscht und gewör halten, Dann
+          <lb/>welcher sollichs überfaren und verachten wurde, der soll
+          <lb/>als ein übertretter seins eidts gestrafft werden, des wisz
+          <lb/>sich menigklich zehalten. Actum Montag nach Remi niscere.
+          <lb/>Anno XXX. (Verso blanc.)
+          <lb/>Placard, in-fol., car. goth., 16 lignes, init. ornée V.
+          <lb/>R 22 (30). Prov.: Bibl. Heitz, Strasbourg 1871. Signé: P. Kuon
+          <lb/>Prothonotarius Subscripsit.
+          <lb/>2ème ex.: R 22 (35). Même provenance et même signature. 1692
+          <lb/>ORDONNANCE
+          <lb/>Strasbourg 1531
+          <lb/>NAch dem wir Meyster unnd Rath der statt Strasz¬
+          <lb/>burg, sampt unsern freunden den Eyn unndzweintzigen,
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:38.255417+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu110.tif
+IMAGE WIDTH: 2398
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>PETRARCA: De remediis utriusque fortunae. (Strasbourg),
+          <lb/>in-4°.
+          <lb/>Hain 12792.
+          <lb/>K 2869. Prov.; BN Munich, 15/VII. 1873, 0,25 M. A l’intérieur
+          <lb/>du 1er plat, armoiries avec la devise: «Virtus, Patientia, Vic¬
+          <lb/>trix». Au bord «Johann Schwägerl von Dürschenreüt, De¬
+          <lb/>chant vnd Pfarrer zu Alburg, 1592». Rel. anc.
+          <lb/>380
+          <lb/>PETRARCA: Secretum de contemptu mundi. (Strasbourg,
+          <lb/>impr. R (— Ad. Rusch), pas après 1473), in-fol.
+          <lb/>Hain 12800, Madsen 3133, Proctor 231, Voulliéme: Berlin 2123.
+          <lb/>K 2870a. Prov.: A. F. Butsch, Augsbourg, 6/II. 1883, 38 M.
+          <lb/>Notes mss.
+          <lb/>381
+          <lb/>PETRUS DE ALLIACO: Quaestiones super I. Ill. et IV. librum
+          <lb/>sententiarum. Strasbourg, (imprimeur du Jordanus
+          <lb/>(— G. Husner)), 15 avril 1490, in-fol.
+          <lb/>Hain 841, Madsen 3145, Proctor 654, Pellechet 544, Schmidt
+          <lb/>VI, 28, Voulliéme; Berlin 2436.
+          <lb/>K 2893. Prov.: Librairie Trübner (Vente Noiriel), Strasbourg,
+          <lb/>4/IV. 1874. Au-dessous du titre: «Monasterij Andecensis».
+          <lb/>Rel. anc.
+          <lb/>382
+          <lb/>PETRUS DE ALLIACO: Tractatus et sermones. Strasbourg,
+          <lb/>impr. du Jordanus (— G. Husner) ), 1490, in-fol.
+          <lb/>Hain 848, Madsen 3148, Pellechet 528, Pellechet: Colmar 61,
+          <lb/>Proctor 660, Voulliéme: Berlin 2434.
+          <lb/>K 2895. Prov.: Librairie Trübner (Vente Noiriel), Strasbourg,
+          <lb/>4. IV. 1874. Au bas du titre: «Leonardi Byecher Monacensis
+          <lb/>Sacerdotis indignissimi 1636». Au-dessous, d’une autre main:
+          <lb/>«Ad Conventum Monacensem ordinis Eremitarum S. Augus¬
+          <lb/>tini». Rel. anc.
+          <lb/>383
+          <lb/>PETRUS COMESTOR: Historia scholastica. (Strasbourg, typ.
+          <lb/>du H. Ariminensis, vers 1475), in-fol.
+          <lb/>Hain 5529, Pellechet: Colmar 509, Proctor 321, Voulliéme:
+          <lb/>Berlin 2176.
+          <lb/>K 1292. Prov.: B N Munich, 15/VH. 1873, 3 M. 15. Au haut
+          <lb/>du 1er f.; Loci Capucinorum Neofori. Notes mss. Rel. anc.
+          <lb/>384
+          <lb/>80
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

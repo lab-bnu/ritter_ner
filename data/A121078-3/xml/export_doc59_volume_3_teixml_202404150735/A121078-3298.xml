@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:10.751193+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3298.tif
+IMAGE WIDTH: 2356
+IMAGE HEIGHT: 3856
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>740
+          <lb/>HEDIO Kaspar: Von Almûsen geben... Siche: VIVES (Joh.) Lu¬
+          <lb/>dovicus, 1533. R102.039.
+          <lb/>HEDIO Kaspar
+          <lb/>Strassburg, Joh. Albrecht 1534
+          <lb/>Radts Predig.Wie die Oberkeit für sich selbs, vnd
+          <lb/>die Vnderthonen für jre Oberkeiten, in disser geuer¬
+          <lb/>lichen sorglichen zeit zû bitten haben.! Beschehen in bey¬
+          <lb/>sein eins Ersamen Radts vnd der Burgerschafft Strasz¬
+          <lb/>burg. M. D. XXXIIII. Den xiiij tag Jenners. Durch Ca¬
+          <lb/>sparn Hedion Doctor! im Münster daselbst. (Rücks, leer.)
+          <lb/>vestre Nr. 1189).
+          <lb/>Am Schluss Druckerm. Albrechts. (H&amp;amp; B Tafet XXV Nr. 1; Sil¬
+          <lb/>40, Got., 16 unn. Bll., Sign. A-D, Marg,, Init.
+          <lb/>Bl. A 2a: Dem Ehrenhaften vnd für geachten! Herrn
+          <lb/>Bechtholt vom Rhein,! alt Burgermeister zâ! Franckfurt.
+          <lb/>... Den vj.tag Martij im Jar. M. D. XXXIIII. Caspar
+          <lb/>Hedio...
+          <lb/>&amp;quot;R102, 370. Prop.: Rosenthal, München 2. XI.1887, 8M. 1094
+          <lb/>HEDIO Kaspar: Summarium und gekürzter furnemer innhalt
+          <lb/>der Evangelien. In: SMARAGDUS : Auszlegung oder Po¬
+          <lb/>stilla. Strassburg, Cr. Mylius 1536.
+          <lb/>1095
+          <lb/>HEDIO Kaspar
+          <lb/>Strassburg, Cr. Mylius 1537
+          <lb/>EPITOME... (Siche Titelblatt, Abb. S. 741.) Rücks, leer.
+          <lb/>Am Schluss: ARGENTORATI PER Cratonem Mylium, Anno
+          <lb/>M. D. XXXVII.
+          <lb/>Auf der Rücks. Druckerm. des Mylius. (HE B Tafel XXVI
+          <lb/>Nr. 1, aber grösser u. die Ceres schaut in entgegengesetster Richtung.)
+          <lb/>80, Antiq., 140 unn. Bll., Sign. A-R, Kopft., Kust., Init., Titel¬
+          <lb/>umrahmung : oben Christus, zwischen Petrus u. Paulus; in den Seiten¬
+          <lb/>bordüren vier Apostel; unten links Merkurius, rechts Minerva, in der
+          <lb/>Mitte das Rad, das Mylius in seiner Druckerm. führt. (Siche Abb.)
+          <lb/>Bl. 2a: MAGNIFICO DOMINO SEVERINO BONE] ro à Ba¬
+          <lb/>litz in Camienitz... Caspar Hedio... Argentorati Anno
+          <lb/>1537. (Vorrede, 12 S.)
+          <lb/>R100463. Prov.: Schenkung Kunite, Strassburg 1886. 1096
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

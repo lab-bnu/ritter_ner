@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:50.276474+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078267.tif
+IMAGE WIDTH: 2304
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Viennensis! summa vigilantia e gravissimis autho¬ ribus
+          <lb/>decerptis, qui conducent ma-xime: cum aliis, tum his
+          <lb/>qui vie nominalium addicti, proficiunt. (Verso blanc.)
+          <lb/>A la fin: ... Impensis circumspecti viri archibibliopole
+          <lb/>Ioannis Rynman in officina industrii Henrici Gran civis
+          <lb/>in oppido imperiali Ha genaw impressus. Anno! salutis
+          <lb/>nostrae. 1513, vi gesima octava die Septembris finit
+          <lb/>feli! citer. (Verso blanc.)
+          <lb/>In-4°, car. goth., 90 ff. non ch., sign. a-m, titre courant, notes
+          <lb/>marg., grande init. D et init. d’attente; fol. k 6a grav.: les différentes
+          <lb/>parties de la tête humaine.
+          <lb/>Fol. a 2a: Excellentissimo viro Oberstainer!... Mat-] thias qualle
+          <lb/>ex warsch Carnislanensi artium et philosophiae magister florentissi! mi
+          <lb/>gymnasii viennensis... Commentariolum in libellum... — Vienne decima
+          <lb/>kalendas lanua ! rias. Anno... 1512.
+          <lb/>Fol. a 2b : Ioachim vadiani ad Mat- thiam qualle... Epigramma.
+          <lb/>(7 dist.)
+          <lb/>Fol. a 3a : Prologus.
+          <lb/>R101.087. Prov.: Don de Fid. Butsch fils, antiquaire à Augs¬
+          <lb/>bourg 1871; quelques annotations mss. dans le texte.
+          <lb/>2ème ex.: E122.538 (3). Prov.: Don de l’antiquaire Butsch 1871.
+          <lb/>Notes mss., entre autres à l’intérieur de la couverture:,Liber M. Leo¬
+          <lb/>poldi Praeteari Vienne Anno 1529...° Rel. anc.
+          <lb/>1792
+          <lb/>PASCASIUS Radbertus. Voir: PASCHASIUS
+          <lb/>PASCHASIUS Radbertus
+          <lb/>Haguenau, J. Secer 1528
+          <lb/>EX VETVSTISS. L ORTHODOXORVM PATRVM, CYPRIANI, HI
+          <lb/>LARII, AMBROSH, AVGVSTINI, HIERONYMI, Isichii, &amp;amp; Pascasii,
+          <lb/>de genuino Eucharistiae negocii intellectu &amp;amp; usu, libellus,
+          <lb/>ex divinis Scripturis; ab iisdem dexterrime conflatus.
+          <lb/>Contra! omneis vesano Sacramentario spiri tu vertigino¬
+          <lb/>sos (qui cum ipsi) Patrum opinionibus per tinaciss. inni¬
+          <lb/>tantur) plane AchileumTelum.Nuper ex pervetusto
+          <lb/>exemplari,! bonis avibus, in fanaticorum om- nium inter¬
+          <lb/>nitiem depromptus.
+          <lb/>Haganoae per Ioan. Secerium. Anno M. D. XXVIII.
+          <lb/>A la fin : Haganoae, anno restitutae cœlestis patriae
+          <lb/>XXVIII. Haganoae, Mense lanuario, (Verso blanc.)
+          <lb/>In-4°, car. rom., 50 ff. non ch., sign. A-M, titre courant, récla¬
+          <lb/>mes, notes marg. en car. ital., grande et belle init. à fig. N.
+          <lb/>R. 78
+          <lb/>1153
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:50.307278+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078269.tif
+IMAGE WIDTH: 2308
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>ornées. Au recto du fol. blanc qui précède le titre, 15 dist. avec le titre
+          <lb/>Posteritati par Jacobus Spiegel. Selestadiensis, aetatis sue anno. LVI. Sa¬
+          <lb/>lutis M. D. XXXVIII. Au verso du titre: Curius Lancilotus Pasius Ferra¬
+          <lb/>riensis Senatui! Populoque Regiensi. Salutem. Praefatio.
+          <lb/>R101.589 (1). Prov.: Cromer, curé à Saverne 23/VII 1879. Au
+          <lb/>recto du titre : Sum M. Stephani, Rectoris Hagenoensis Anno 1587; plus
+          <lb/>bas : Pro Conventu Franciscanorum Tabernensium.
+          <lb/>Beaulieux, p. 182; BU Paris, Rés, 776; Schmidt VIII n° 238:
+          <lb/>Jadis Bibl. de Strasbourg, Incun. n° 3629.
+          <lb/>1795
+          <lb/>PASSIO Jesu Christi. Voir: GEILER VON KEYSERSBERG
+          <lb/>PASSIONAL (allemand). Voir: BRANT Sebastian
+          <lb/>PATRICIUS Franciseus
+          <lb/>Strasbourg, L. Zetener 1594
+          <lb/>FRANCISCI PATRICH( SENENSIS, PON-]TIFICIS CAIETANI,
+          <lb/>DE INSTITVTIONE REI-PVBLICAE LIBRI IX. AD Senatum Po¬
+          <lb/>pulúmque Senen- sem scripti. Opus sententiarum ac Hi¬
+          <lb/>storiarum varietate! refertissimum: cum Annotationibus
+          <lb/>margi- neis; Indiceque vocabulorum, factorum di- ctorum¬
+          <lb/>que memorabilium, copiosis-simo, serie Alphabetica
+          <lb/>digesto. EDITIO POSTREMA, (Marque typ. de L. Zetzner. HCB
+          <lb/>Planche XLIX n° 22.)
+          <lb/>ARGENTINAE, Impensis LAZARI ZETZNERI. CID ID XCIV.
+          <lb/>(Verso blanc.)
+          <lb/>In-80, car. rom., 4 ff. non ch., 419 pp. ch., 14 ff. non ch. (table
+          <lb/>à 2 col.), titre courant, réclames, notes marg. en car. ital., init. ornées,
+          <lb/>bandes ornem, au commencement de chague livre.
+          <lb/>Fol. 2a-4b non ch. : Titulorum ac capi- tulorum Index.
+          <lb/>P. 1-5 : Ad senatum popu-lumque senensem Fran- cisci Patricii.
+          <lb/>Senensis. Pontificis Caietani, Epistola.
+          <lb/>P. 5-9: Ad Sixtum pontificem! maximum, Francisci Pa-] tricii Se¬
+          <lb/>nensis. Pontificis Caietani, de institutione Reip. Praefatio. (car. ital.).
+          <lb/>R102.240(1). Prov. : BM Breslau S/VII 1886. Au milieu du
+          <lb/>titre, timbre de la BM Breslau.
+          <lb/>1796
+          <lb/>1155
+          <lb/>PATRICIUS Franciseus
+          <lb/>Strasbourg, L. Zetaner 1594
+          <lb/>FRANCISCI PATRICII SENENSIS DE RE- GNO ET REGIS
+          <lb/>INSTITV- TIONE LIBRI IX. AD ALPHON-VM ARAGONIVM INCLY¬
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

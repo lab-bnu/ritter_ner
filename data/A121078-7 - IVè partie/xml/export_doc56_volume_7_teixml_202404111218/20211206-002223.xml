@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:07.483699+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002223.tif
+IMAGE WIDTH: 2492
+IMAGE HEIGHT: 3962
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Elegiae. Eiusdem epistolae amorum ad Juliam. Sulpitiae
+          <lb/>carmina IxX... nuper Georgii Mœrulae opera, in lucem
+          <lb/>edita... — Strasbourg, Mathias Schürer juillet 1508, in-4°.
+          <lb/>Panzer, 6, 42, 133; Schmidt VIII, n° 4. (Ritter, Rép. n° 1038:
+          <lb/>éd. Schürer 1509).
+          <lb/>1929
+          <lb/>(GREITER, Matthaeus): Der LI Psalm Davids Miserere mei deus
+          <lb/>hoch zu singen da der prophet Nathan zu ihm kam,
+          <lb/>als er war zu Bath Saba ein gangen. — (Strasbourg,
+          <lb/>Wolfgang Köpfel) 1525, in-4°.
+          <lb/>Vogeleis, p. 215.
+          <lb/>1930
+          <lb/>GREITER, Matthaeus : Die zwen Psalmen: In exitu... und
+          <lb/>Domine probasti me. — Strasbourg, Wolfgang Köpfel
+          <lb/>1527, in-80.
+          <lb/>Goedeke I2, p. 180, n° 17 (7) ; Wackernagel, Bibliogr. 249.
+          <lb/>1931
+          <lb/>GREITER, Mathaeus : Elementale musicum... — (Strasbourg,
+          <lb/>Jacobus Jucundus (Frölich) 1544), in-12°.
+          <lb/>Vogeleis, p. 247.
+          <lb/>1932
+          <lb/>GREITER, Mathaeus : Elementale musicum... — (Strasbourg,
+          <lb/>Jacques Frölich 1546), in-12°. (Nouvelle édition de
+          <lb/>1544l.
+          <lb/>Vogeleis, p. 255.
+          <lb/>1933
+          <lb/>GREMP de Freudenstein, L. Voir : AUSFÜHRUNG (Stattliche)
+          <lb/>n° 886. (RITTER, Rép, nos 1039-1041).
+          <lb/>GREULICH, Martin : Ein Newe und hübsche bewerte kunst,
+          <lb/>wie man die wein erhalten soll. Und dem bresthafftigen
+          <lb/>abgefallnen Wein widerhelffen. Durch Martin Greülich,
+          <lb/>von Tübingen, Keller und Kellermeyster zu Maulbrunn...
+          <lb/>Hye bey ist auch gesetzt ein schöne unnd bewerte kunst,
+          <lb/>wie man guten Esszig machen soll, ausz Wein und
+          <lb/>Bjer. — (Strasbourg, Jacques Frölich 1549), in-4°.
+          <lb/>221
+          <lb/>3
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

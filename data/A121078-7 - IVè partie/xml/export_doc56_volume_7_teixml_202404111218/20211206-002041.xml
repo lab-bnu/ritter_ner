@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:02.537279+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002041.tif
+IMAGE WIDTH: 2484
+IMAGE HEIGHT: 3930
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>divinum... — (Strasbourg, Mathias Hupfuff (I.II.)
+          <lb/>1507), in-4°.
+          <lb/>GKXII, 6571: B N Berlin, Munich, etc. Panzer 6, 38; Amoe¬
+          <lb/>nitates Friburg. 293; Schmidt V, n° 60 : B M Colmar; BN
+          <lb/>Strasbourg (introuvable).
+          <lb/>938
+          <lb/>BASILIUS, Magnus : Oratio in « Attende tibi» a Francesco
+          <lb/>Manturantio Perusino conversa. — (Haguenau, Thomas
+          <lb/>Anshelm, janvier 1522), in-8°.
+          <lb/>GKXII, 6640: BN Vienne, B U Breslau etc. ; Burg no 86.
+          <lb/>939
+          <lb/>BASILIUS, Magnus. Voir aussi: RITTER, Rép. n° 159.
+          <lb/>BASSUS, Cassianus. Voir : CASSIANUS, Bassus.
+          <lb/>BATHODIUS, Lucas : Paedia grammatices... — Strasbourg,
+          <lb/>Wolfgang Köpfel 1525, in-8°.
+          <lb/>GKXII, 9346 : Bibl. Régionale Carlsruhe.
+          <lb/>940
+          <lb/>BATHODIUS, Lucas : Vorhersagen für 1586, 1587, 1588. —
+          <lb/>Strasbourg, Nicolas Wald 1587, 1588, 3 vol. in-8°.
+          <lb/>Zinner nor 3214, 3215, 3287.
+          <lb/>941
+          <lb/>BATHODIUS, Lucas : Prognostica (Prédictions pour 1592). —
+          <lb/>Strasbourg, Jost Martin (1591), in-8°.
+          <lb/>Zinner 3485.
+          <lb/>942
+          <lb/>BATHODIUS, Lucas : Prognostica (Prédictions pour 1594). —
+          <lb/>Strasbourg (s. impr. vers 1593), in-4°.
+          <lb/>Zinner 3565.
+          <lb/>943
+          <lb/>BATHODIUS, Lucas : Prognostica. (Prédictions pour 1595). —
+          <lb/>Strasbourg (s. impr. vers 1594), in-4°.
+          <lb/>Zinner 3606.
+          <lb/>944
+          <lb/>BATHODIUS, Lucas : Prognostica. (Prédictions pour 1596). —
+          <lb/>Strasbourg, Antoine Bertram vers 1595, in-4°.
+          <lb/>Zinner 3645.
+          <lb/>945
+          <lb/>39
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

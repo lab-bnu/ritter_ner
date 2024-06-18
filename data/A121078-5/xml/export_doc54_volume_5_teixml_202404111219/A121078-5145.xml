@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:54.566941+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5145.tif
+IMAGE WIDTH: 2340
+IMAGE HEIGHT: 3852
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>3
+          <lb/>Sd6 Vte
+          <lb/>me &amp;amp; estament
+          <lb/>Marto Sut,
+          <lb/>mit schonen Siguren,
+          <lb/>Sù Gtrasburg bei
+          <lb/>Yoenoel Ribel.
+          <lb/>M. D. XLII.
+          <lb/>aull suu
+          <lb/>1455
+          <lb/>A la fin : Gedruckt zu Straszburgbei Wendel Rihel.
+          <lb/>M. D. XLII.
+          <lb/>Au verso: marque typ. de W. Rihel (H. &amp;amp; B. Planche XXIX,
+          <lb/>n° 2 ; Silvestre, n° 742).
+          <lb/>In-8°, car. goth., 432 ff. non ch., titre courant, réclames, notes marg.,
+          <lb/>init. ornées, titre encadré.
+          <lb/>De nombreuses grav. d’une demie page dans le texte (scènes du Nouveau
+          <lb/>Testament).
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:47.988641+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078193.tif
+IMAGE WIDTH: 2302
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>OCHINO Bernhardino
+          <lb/>Mulhouse, Schirenbrand e Schmid vers 1557
+          <lb/>DIALOGVS, Das ist, Ein ge spräch von dem Fägfeür :
+          <lb/>in welchem der Bäpstleren torech- tigen und falschen
+          <lb/>gründ, das Fägfeür zû erhalten, wi- derlegt werdend.
+          <lb/>Beschriben in Italianischer spraach von dem! wolgelerten
+          <lb/>herren Bernhardino Ochino von Senen, vetz aber auff
+          <lb/>das eyn-faltigst verteütscht. Ioannis am 5. Cap....
+          <lb/>(6 lignes.)
+          <lb/>Getruckt zû Mülhusen im oberen! Elsass, durch Hans
+          <lb/>Schirenbrand und Peter Schmid. (Verso blanc.)
+          <lb/>In-8°, car. goth., 135 pp., titre courant, réclames, notes marg.;
+          <lb/>titre rouge et noir.
+          <lb/>Page 3 : Wie dieser Dialogus! zû verston sey.
+          <lb/>Page 4: Nammen und ampt einer ye- den person so hie redt.
+          <lb/>(Theodidactus, Carmelita, Franciscanus, Benedictinus, Dominicanus, Augu¬
+          <lb/>stinianus.) Comme Schirenbrand et Schmid n’étaient associés que de
+          <lb/>1557-1559, le traité doit avoir été imprimé entre 1557-1559.
+          <lb/>R 100.550. Prov. : Donation Cunitz 1886.
+          <lb/>Voir: BENRATH Karl: Bernardino Ochino von Siena.... Leipzig,
+          <lb/>Fuess 1885, in 80, 382 pp.
+          <lb/>Bibliographie de Bernh. Ochino, voir : Schottentoher 1 n° 16501—
+          <lb/>16523b.
+          <lb/>1661
+          <lb/>1079
+          <lb/>OECOLAMPADIUS Johannes
+          <lb/>Strasbourg, M. Schurer 1512
+          <lb/>Declamationes. Io. Icolam! padii De passione &amp;amp; ultimo
+          <lb/>sermone. hoc est sacro sanctis septem dietis domini nostri
+          <lb/>lesu Chri- sti in cruce, sub typo concionatoris mi¬
+          <lb/>graturi, quibus titulus est. Cabyxn] too doyayoontoo. hoc est
+          <lb/>testamentum principis concionatorum. ARCHAGORETES
+          <lb/>AVDITORIBVS. (2 dist.) ICOLAMPADH VOTVM] PRO OPVSCVLO
+          <lb/>(1 dist.).
+          <lb/>Au verso de l’avant-dernier f.: Argentorat. Matthias Schu¬
+          <lb/>rerius Selesten- sis exscripsit. Mense Decembri. Anno.
+          <lb/>M. D. XII. T.O. REGNANTE IMPERATORE! CAESARE MAXI¬
+          <lb/>MILIA-No. P. F. Aug.!.
+          <lb/>In-4°, car. rom., 37 ff. non ch., sign. A-G, init. d’attente.
+          <lb/>Au verso du titre: Udalricus Zasius. Iac. Wympfelingo. S.... —
+          <lb/>Ex Friburgo, Dionysii nataliciis. Anno XII. Au-dessous: Iac. Wympfe¬
+          <lb/>lingus Matthie Schurerio Gentili charissimo. S.... — Ex Ere! mo.
+          <lb/>vii. Kalendas Novembris. M. D. XII.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

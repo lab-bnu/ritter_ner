@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:37.234554+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu061.tif
+IMAGE WIDTH: 2378
+IMAGE HEIGHT: 3840
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>CONCILIUM CONSTANTIENSE. Voir: Acta Constansiensis con¬
+          <lb/>cilii.
+          <lb/>CONCORDANTIAE BIBLIORUM. Voir: Conradus de Hal̈verstadt.
+          <lb/>CONRADUS DE ALEMANNIA. Voir: Conradus de Halberstadt.
+          <lb/>CONRADUS DE BRUNDELSHEIM: Sermones de tempore. Stras¬
+          <lb/>bourg, J. Grüninger, 12 févr. 1484, in-fol.
+          <lb/>G W 7410, Hain 14826 (1re partie), Pellechet 3931, I, Pellechet:
+          <lb/>Colmar 1199, Proctor 438, Schmidt I, 2, Voullième: Berlin 2269.
+          <lb/>Schorbach: Mentelin N° 33.
+          <lb/>K 3344. Prov.: Don de Fid. Butsch, Augsbourg, 1871. Au haut
+          <lb/>du 1er f.: Monasterij Ranshouen. Rel. anc.
+          <lb/>139
+          <lb/>CONRADUS DE BRUNDELSHEIM: Sermones de sanctis. Stras¬
+          <lb/>bourg, J. Grüninger, 13 avril 1484, in-fol.
+          <lb/>G W7413, Hain 14826 (2e partie), Pellechet 3931, 2, Proctor 440,
+          <lb/>Voulliéme: Berlin 2271.
+          <lb/>K 3344a. 2e partie. Prov.: Librairie Noiriel, Strasbourg, 9/VI.
+          <lb/>1892, 10 M. fol. a 2a; Collegij Soc. Jesu Neoburgi 1639. Rel. anc.
+          <lb/>140
+          <lb/>CONRADUS DE HALBERSTADT: Concordantiae Bibliorum.
+          <lb/>(Strasbourg, J. Mentelin, pas après 1474), in-fol.
+          <lb/>G W 7418, Hain 5629, Madsen 1260, Pellechet 3933, Pellechet:
+          <lb/>Colmar 518, Proctor 222, Schorbach: Mentelin 33, Voulliéme:
+          <lb/>Berlin 2100, Walter: Sélestat 159.
+          <lb/>K 1320. Prov.; B N Munich, 22/1. 1880, 10 M. Rel. anc. 141
+          <lb/>CORONA Beatae Mariae Virginis. (Strasbourg, imprimeur
+          <lb/>des Vitas Patrum, vers 1485), in-fol.
+          <lb/>G W 7572, Hain 5747-5745, Madsen 1280, Pellechet 3990, Pelle¬
+          <lb/>chet: Colmar 525, Proctor 426, Voulliéme: Berlin 2262.
+          <lb/>K1329. Prov.: Fid. Butsch, Augsbourg, 1871. Note mss.; Monas¬
+          <lb/>terij Ranshouen. Rel. anc. A la suite de Johannes de Verdena.
+          <lb/>K 2216.
+          <lb/>142
+          <lb/>CORONA Beatae Mariae Virginis. (Strasbourg, imprimeur du
+          <lb/>Jordanus (— G. Husner), pas après 1488), in-fol.
+          <lb/>G W 7573, Hain 5746, Madsen 1277, Pellechet 3989, Pellechet:
+          <lb/>Colmar 524, Proctor 632 A, Voulliéme: Berlin 2469.
+          <lb/>31
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

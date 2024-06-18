@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:05.306179+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3035.tif
+IMAGE WIDTH: 2340
+IMAGE HEIGHT: 3840
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>wohl ein Druckfehler. Van der Haeghen I, S. 29: Basel, Breslau, Darm¬
+          <lb/>stadt, Dresden, Erfurt, Frankfurt, Freiburg i. Br., Gent, Heidelberg,
+          <lb/>Jena, Kopenhagen, München, Oxford, Wien, Zürich; Rest S. 45. 718
+          <lb/>ERASMUS, Epistolae componendae ratio. Siche: DESPAUTERIUS,
+          <lb/>Syntaxis. Strassburg, M. Schürer, 1515.
+          <lb/>ERASMUS, Institutio hominis christiani. Siche: CATO, Praecepta
+          <lb/>moralia.
+          <lb/>Strassburg, M. Schürer, 1515
+          <lb/>ERASMUS: Lucubrationes
+          <lb/>D. ERASMI RO TERODAMI VIRI ( undecunque doctissimi
+          <lb/>Lucu- brationes, quarum Index positus est facie se¬
+          <lb/>quenti. ... (2 Zeilen griech. Text.) — IN LIBERA ARGENTINA.
+          <lb/>Cum gratia, &amp;amp; priuilegio Im periali ad sexennium.
+          <lb/>Auf der Rückseite des Titelbl.: Lucubrationum Index: En¬
+          <lb/>chiridion Militis Christiani. Disputatio de Tedio &amp;amp; pavore
+          <lb/>Christi. Exhortatio ad virtutem, ad Adolphum principem Ve¬
+          <lb/>riensem. Precatio ad Virginis filium Jesum Paean Virgini
+          <lb/>Matri canendus, compositus in gratiam dominae Veriensis.
+          <lb/>Obsecratio ad Mariam in rebus aduersis. Oratio in laudem
+          <lb/>pueri Jesu. Enarratio allegorica in primum psalmum Beatus
+          <lb/>vir. Carmen de casa natalicia pueri Jesu. Carmen Jesu ad
+          <lb/>mortales. Carmina complura de puero Jesu. Carmina de
+          <lb/>Angelis. Carmen graecanicum Virgini sacrum Mariae.
+          <lb/>Am Schluss: Excusum est hoc opus summa cura, labo¬
+          <lb/>reque prae magno. Argentorati apud Ma- thiam Schure¬
+          <lb/>rium Mense Septemb. An! no M. D. XV.
+          <lb/>REGNANTE MAGNANIMO IM PE. CAESA. MAXIMILIANO.
+          <lb/>P. F. AVG. P. Q. P.
+          <lb/>40, Antig., 4 unn. Bll., 285 S., wobei nur die ungeraden Aiffern
+          <lb/>gesetzt sind, also 142 Bll., Y unn. Bll., Kopftitel, Zierinit., Titeleinfassung:
+          <lb/>Siehe Abb. S. 480.
+          <lb/>Bl. 2a (von Zierleisten eingefasst): NICOLAVS GERBELLIVS...
+          <lb/>— Argentorati, ex Aedibus nostris Anno a Christo nato
+          <lb/>M. D. XV. (5 Seiten.)
+          <lb/>Bl. 4a: Liber loquitur. (3 Dist.)
+          <lb/>S. 1: Erasmys Roterodamvs! Ioanni Germano, amico
+          <lb/>aulico.
+          <lb/>479
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

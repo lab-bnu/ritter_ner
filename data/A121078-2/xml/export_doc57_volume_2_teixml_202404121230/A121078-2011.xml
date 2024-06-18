@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:26.512418+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2011.tif
+IMAGE WIDTH: 2398
+IMAGE HEIGHT: 3822
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Au verso du titre: Joannes Adelphus Argentinus. Physicus:
+          <lb/>Joanni Eneo (alias Enheim)... — Ex Argentina: Jdibus
+          <lb/>Decembribus: An) no domini. M. CCCCC. XII.
+          <lb/>Fol. a 2a: De sequentijs. J. W. (J. Wimpheling.)
+          <lb/>Au-dessous: Tetrastichon Jacobi Merstetter, (2 distiques.)
+          <lb/>Au verso: Sequentiarum index alphabeticus. (2 col.)
+          <lb/>Au verso du titre de la 2e partie: Jo. Vigilio ! vulgo wacker
+          <lb/>Sosennio... Jacobus Vuym. Sletstatinus... — Heidelberge:
+          <lb/>kal. Septembris. Anno salutis hu mane M. CCCC. XCIX.
+          <lb/>*E 154375. Prov.: M. Spirgatis, Leipzig, 15/X. 1894; 18 M.
+          <lb/>Notes mss.
+          <lb/>Schmidt, VII, No 174 n’a que la deuxième partie: BN Munich;
+          <lb/>GPB, I, 10503: München, Breslau, Münster.
+          <lb/>ADELPHUS Johannes
+          <lb/>Haguenau, H. Gran, 1519.
+          <lb/>Sequentiarum luculen! ta interpretatio: nedum scho¬
+          <lb/>lasti- cis, sed et ecclesiasticis cogni-] tu necessaria: per
+          <lb/>Joan.adelphum physicum! Argentinensem. colle cta.
+          <lb/>Anno domini M. D. XIX.
+          <lb/>in-4°, car. goth., CX ff. ch., titre courant, notes marginales, initiale
+          <lb/>ornée G; titre rouge et noir, encadré d’un motif appartenant à Henri
+          <lb/>Gran de Haguenau. (H &amp;amp; B. Planche LXIV, NO 2.)
+          <lb/>Au verso du titre: Joannes Adelphus Argentinus Physicus:
+          <lb/>Joanni Eneo! (alias Enheim) presbytero innocentissimo:
+          <lb/>summaeque! prudentiae viro: apud Treueros viuenti.. —
+          <lb/>Ex Argentina. Idibus Decembribus. Anno domini M.CCCCC.XII.
+          <lb/>Fol. a 2a: De sequentijs. J. W. [Jacobus Wimpheling.
+          <lb/>Au-dessous: Tetrastychon Jacobi Merstetter, (2 distiques.)
+          <lb/>Au verso: Index à 2 col.
+          <lb/>E 154374. Prov.: Trübner, Strasbourg, le 19 sept. 1894; 20 M.
+          <lb/>GPB, I, 10504: Berlin, München, Wien, Braunsberg.
+          <lb/>10
+          <lb/>ADELPHUS Johannes
+          <lb/>Strasbourg, Barth. Grüninger, 1535.
+          <lb/>Barbarossa. Ein schöne vnnd warhaffte beschreibung
+          <lb/>des Le-] bens vnnd der geschichten Keyser Friederichs
+          <lb/>des ersten, genant Barbarossa durch Johannem Adelphum
+          <lb/>Stattartzet zu Schaffhausen, erstmals in latin ver-samlet,
+          <lb/>ausz allen glaubwürdigen geschrifften vnd! Historien der
+          <lb/>alten Chronicken, vnd aber yetz-] und in Teütsche sprach
+          <lb/>verdolmetscht. vnd von newem wieder gedruckt! vnd
+          <lb/>mitt fleissz corrigiert.
+          <lb/>Gravure sur bois: Barberousse à cheval, traversant une campagne;
+          <lb/>sur le bras droit un écu avec les armoiries impériales. (Verso blanc.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:09.458417+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002304.tif
+IMAGE WIDTH: 2518
+IMAGE HEIGHT: 3946
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Christenlich Lied, desgleichen vor nie gesehen, Begreiffend
+          <lb/>mit einem kurzen inhalt das gantz Neüw Testament...
+          <lb/>(grav.). — (Strasbourg, Th. Berger s. d.), 16 ff., in-8°.
+          <lb/>Heitz, p. 8.
+          <lb/>2341
+          <lb/>LIED (ein neues schönes evangelisches) : Ein new schön
+          <lb/>Evangelisch Lied... Ein ander schön Lied, Und Gebett
+          <lb/>umb ein gute stund des todes... (grav.). — (Strasbourg,
+          <lb/>Th. Berger s. d.), in-8°.
+          <lb/>Heitz, p. 14; Wackernagel IV, 215.
+          <lb/>2342
+          <lb/>LIED (ein schönes) : Ein schön Lied von dem Bentzenawer im
+          <lb/>Beyerlandt wie es jhm zu Kopffstein ergangen ist.
+          <lb/>(grav.). — T. B. S. (— Th. Berger, Strasbourg s. d.),
+          <lb/>in-80.
+          <lb/>Heitz, p. 62.
+          <lb/>2343
+          <lb/>LIED (ein schönes) : Ein schön Lied, Von dem Künig Laszla,
+          <lb/>Wie er von seinem Hoffgesind getödt ist worden. (grav.).
+          <lb/>— [Strasbourg, Th. Berger s. d.], in-8°,
+          <lb/>Heitz, p. 74.
+          <lb/>2344
+          <lb/>LIED (ein schönes christliches) : Ain schon christenlich lied
+          <lb/>mit seiner auslegung durch Gervasium Schüler... im
+          <lb/>ort zu Bischweyler beschribenn... — (Haguenau,
+          <lb/>Amandus Farckall] 1527, in-4°.
+          <lb/>Wackernagel, Kirchenlied vol. I, col. 388.
+          <lb/>2345
+          <lb/>LIED (ein schönes, geistliches) : Ein schön geistlich Lied,
+          <lb/>Ewiger Gott in deinem Reich. Und ist in Hertzog
+          <lb/>Ernsts Melodey Oder wie man Dieterich vonn Bern
+          <lb/>singt... Ein ander Geistlich Lied, wie Christus den
+          <lb/>Lazarum von dem Tode aufferweckt hatt. In Hertzog
+          <lb/>Ernsts thon, &amp;amp;c... (grav.). — (Strasbourg, Th. Berger
+          <lb/>s. d.), in-80,
+          <lb/>Heitz, p. 15; Wackernagel III, 966 : Hans Rogel.
+          <lb/>2346
+          <lb/>302
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

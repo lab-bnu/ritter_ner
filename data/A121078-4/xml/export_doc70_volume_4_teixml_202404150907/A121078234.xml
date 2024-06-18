@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:49.169937+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078234.tif
+IMAGE WIDTH: 2302
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1120
+          <lb/>In-40, car. goth., 12 ff. non ch. dont le dernier blanc, sign.
+          <lb/>A-C, réclames, notes marg., init. goth. G.
+          <lb/>R102.390. Prov.: Vente Rettig, (Strasbourg 2/XI 1894; sans
+          <lb/>indic. de prix.
+          <lb/>Bibl. St-Guillaume, Strasbourg.
+          <lb/>Bibliographie d’Osiander, voir: Schottenloher I n° 16713-16727a.
+          <lb/>1734
+          <lb/>OSTRINGERUS Iac. Sebastianus: Disputatio tertia. De proba¬
+          <lb/>tione actionum quae revera in rem sunt. Voir: OBRECHT
+          <lb/>Georgius : Selectissimae disputationes ex iuris civilis ma¬
+          <lb/>teriis. Strasbourg, A. Bertram 1599.
+          <lb/>OSTROROG Johannes
+          <lb/>Strasbourg, N. Wyriot 1581
+          <lb/>Oratio ILLVSTRIS &amp;amp; GENE- rosi domini, domini Ioan¬
+          <lb/>nis: Comitis ab Ostrorog: in Krilow, Grodzisko, &amp;amp; Miedzi¬
+          <lb/>chod, heredis; recitata, cum discessurus Argentina, pu¬
+          <lb/>blicè Academiae, coeterisque ordinibus valediceret:!
+          <lb/>9 Martii: Anno 1581. IOANNIS LVDOVICI HAWENREVTE-] ri:
+          <lb/>Decani Academiae Argentoratensis, responsio, ad eandem.
+          <lb/>Ioannis Sturmii: &amp;amp; Melchioris Iunii, Epistolae de eadem
+          <lb/>re,) ad eundem. Testimonium datum Ioanni Ionae: à
+          <lb/>Ioanne Sturmio. His additae sunt Rogeri Aschami, &amp;amp;
+          <lb/>Ioannis Sturmii Epistolae duae: de Nobilitate Anglicana.
+          <lb/>Item, Pauli IV. Pontificis Max, ad Ioannem Gropperum,
+          <lb/>Car- dinalem designatum, epistola. (Marque typ. de Nic. Wy¬
+          <lb/>riot. HRB Planche XLIII n° 4.)
+          <lb/>ARGENTORATI.Excudebat Nicolaus Wyriot: M. D.
+          <lb/>LXXXI. (Verso blanc.)
+          <lb/>In-40, car. rom., 36 ff. non ch., sign. A–J, réclames, init, ornées,
+          <lb/>vignettes.
+          <lb/>R 102.295. Prov.: Bibl. Ch. Schmidt, Strasbourg, qui l’a acheté
+          <lb/>à la vente Busch en 1856.
+          <lb/>1735
+          <lb/>OTTER Jacobus
+          <lb/>Strasbourg, M. Apiarius 1534
+          <lb/>Titre manque.
+          <lb/>Fol. A 2a: Allen liebhabern gottes! zû Esslingen, wün¬
+          <lb/>schend Jacob Ot-ther, Lienhart von Konstatt, Steffan
+          <lb/>Schöffer, Wolfgang Roderer, Jacob Ringlin, sampt den
+          <lb/>anderen dienern des worts daselbst, gnad und frid...
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

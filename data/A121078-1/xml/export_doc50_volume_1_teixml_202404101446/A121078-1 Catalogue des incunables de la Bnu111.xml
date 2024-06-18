@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:38.269610+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu111.tif
+IMAGE WIDTH: 2398
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>PETRUS COMESTOR: Historia scholastica. Strasbourg, J. Grü¬
+          <lb/>ninger et H. d’Ingwiller, 28 août 1483, in-fol.
+          <lb/>Hain 5532, Madsen 3157, Pellechet: Colmar 511, Proctor 436,
+          <lb/>Schmidt I, N° 1. Voullième: Berlin 2268, Voulliéme: Bonn 906.
+          <lb/>K 1294. Prov.: B N Munich, 22/1. 1880, 5 M. A l’intérieur du
+          <lb/>1er plat, exlibris avec le texte suivant: «Ex Bibliotheca Mal¬
+          <lb/>lersdorf. Monasterii O. S. B.» En bas: Mayr sc. Ratisb.».
+          <lb/>A l’intérieur du 2e plat, note mss. en allemand, contenant
+          <lb/>des médicaments. Rel. anc.
+          <lb/>385
+          <lb/>PETRUS COMESTOR: Historia scholastica. Strasbourg, (typ.
+          <lb/>du Jordanus (— G. Husner)), après le 24 février 1485,
+          <lb/>in-fol.
+          <lb/>Hain 5533, Madsen 3158, Pellechet 3881, Pellechet: Colmar
+          <lb/>512, Proctor 593, Voulliéme: Berlin 2403, 5, Walter: Sélestat
+          <lb/>372.
+          <lb/>K 1295. Prov.: Bibliothèque Ed. Reuss, Strasbourg, 28/IV.
+          <lb/>1891, avec son exlibris à l’intérieur du 1er plat. Au-dessous
+          <lb/>du titre, note mss. de Reuss; «Ex libris Monasterii in West¬
+          <lb/>phalia mense Jan. 1840 emi 18 fr. 70 c.». Au haut du fol. ala:
+          <lb/>«Liber Monasterii Liesbornensis».
+          <lb/>386
+          <lb/>PETRUS COMESTOR: Historia scholastica. Strasbourg, [typ.
+          <lb/>du Jordanus (—G. Husner), vers 1500), in-fol.
+          <lb/>Hain 5538, Pellechet 3883, Proctor 749, Voulliéme: Berlin
+          <lb/>2530.
+          <lb/>K 1298. Prov.; B N Munich, 22/1. 1880, 9 M. A la suite de
+          <lb/>Eusebius Pamphilus, Historia ecclesiastica, Strasbourg 1500.
+          <lb/>K1524.
+          <lb/>387
+          <lb/>PETRUS DE CRESCENTIIS. Voir: Crescentiis.
+          <lb/>PETRUS FRATER: Legenda sanctae Catharinae. Strasbourg,
+          <lb/>J. Grüninger, 6 avril 1500, in-4°.
+          <lb/>Hain 12850, Kristeller 93, Proctor 492, Schreiber 4921, Voul¬
+          <lb/>liéme: Berlin 2308.
+          <lb/>Schramm, Bilderschmuck XX, grav. N° 647-660.
+          <lb/>K 2878. Prov.: Vente Trübner, Catal. N° 138/9, 30/X. 1886,
+          <lb/>108 M. Rel. anc.
+          <lb/>388
+          <lb/>81
+          <lb/>R.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

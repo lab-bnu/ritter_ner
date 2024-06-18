@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:12.992333+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002452.tif
+IMAGE WIDTH: 2482
+IMAGE HEIGHT: 3988
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>confortable conferences between D. N. Rydley and
+          <lb/>M. H. Latymer. — Strasbourg, Rihel 1556.
+          <lb/>Johnson, A. F., English books printed abroad. The Library,
+          <lb/>Serie V, vol. IV, p. 275.
+          <lb/>3133
+          <lb/>RYFF, Walter : Des Menschen (oder dein selbst) Anatomie,
+          <lb/>sampt Contrafactur aller Glieder... Erstmals in teutsche
+          <lb/>Sprach verfasset, vormals weder gesehen noch gelesen
+          <lb/>worden (26 gravures de Baldung Grien). — Strasbourg,
+          <lb/>Balthasar Beck 1541, in-fol.
+          <lb/>Rosen, Auktion XXVI, Teil I, no 334 a : 1600 M. « Erste
+          <lb/>Ausgabe, eine der wichtigsten Anatomien vor Erscheinen
+          <lb/>von Vesals Fabrica (1543) ».
+          <lb/>3134
+          <lb/>RYFF, Walter : New erfundene bewärte Artzney und gewisse
+          <lb/>hilf nit allein die Frantzosen, sunder auch andere schwere
+          <lb/>Krankheit... zu curiren. — Strasbourg 1541, in-80.
+          <lb/>Graesse VI, p. 198.
+          <lb/>3135
+          <lb/>RYFF, Walter : Von allerley gebresten des Magens. Lebern,
+          <lb/>Miltzes, Lung und Hertzens, viel bewerter artzneyen,
+          <lb/>aus den alten Artzten fleissig zusammen geschrieben. —
+          <lb/>Strasbourg, Jacques Cammerlander 1546, in-40.
+          <lb/>Rosenthal (Munich), Catal. 135 (1914), n° 2088.
+          <lb/>3136
+          <lb/>RYFF, Walter : Der erst teyl der Apoteck oder Confect¬
+          <lb/>büchlins. Der ander theyl der kleiner Teutschen Apoteck,
+          <lb/>confect oder Latwergen büchlins.. M.D.LII. —
+          <lb/>(Strasbourg, Balthasar Beck 1552), in-4°.
+          <lb/>Ritter: B M Strasbourg, nos 1851/52. (Une éd. Sam. Emmel
+          <lb/>1559/62 : Ritter, Rép. n° 2043l.
+          <lb/>3137
+          <lb/>RYFE, Walter : Der Drit theyl der kleynen Teütschen Apoteck
+          <lb/>oder Confectbüchlins, von rechtem und nutzlichem
+          <lb/>gebrauch, ordenlicher vermischung und zubereyttung
+          <lb/>aller Laxativen, purgierender oder treibender artzney...
+          <lb/>450
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

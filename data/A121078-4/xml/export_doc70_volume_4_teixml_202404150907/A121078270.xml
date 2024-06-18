@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:50.322322+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078270.tif
+IMAGE WIDTH: 2308
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1156
+          <lb/>TVM AC CE- leberrimum Calabriae Du- cem scripti.! Opus
+          <lb/>Historiarum ac sententiarum varietate refertum, &amp;amp; cum
+          <lb/>aliis omnibus tùm verò Politicis cum primis! utile &amp;amp; ne¬
+          <lb/>cessarium, ut ex Epistola cognoscere licebit.! Ope vetu¬
+          <lb/>stissimorum librorum manu scriptorum, &amp;amp; cura ac dili¬
+          <lb/>gentia doctorum quorundam virorum denuò ab innumeris
+          <lb/>penè mendis perpurgatum : Cui adiecimus indices tum
+          <lb/>titulorum, tum rerum ac sententiarum locupletissimos.
+          <lb/>EDITIO POSTREMA. (Marque typ. de L. Zetzner. H E B Planche XLIX
+          <lb/>n° 22.)
+          <lb/>ARGENTINAE, Impensis LAZARI ZETZNERI. CIO IO XCIV.
+          <lb/>(Verso blanc.)
+          <lb/>In-8°, car, rom., 8 ff. non ch. dont le dernier blanc, 632 pp. ch.,
+          <lb/>20 ff. non ch. (table à 2 col.), titre courant, réclames, notes marg. en
+          <lb/>car. ital., init. ornées; bandes ornem. au commencement des livres.
+          <lb/>Fol. 2a non ch. : D. Friderico: D. Wolfgango Ernesto :! D. Joanni
+          <lb/>Theodorico Comitibus à! Leonsthein, Wertheim &amp;amp; Roschenforth, Do¬
+          <lb/>minis in Scharpfeneck &amp;amp; Breuberg, fra! tribus germanis... S. P.... —
+          <lb/>Argentinae, IV. Cal. Augusti Anno reparatae salutis M. D. XCIV. La¬
+          <lb/>zarus Zetznerus Bibliopola Argento- ratensis. (Epistola dedicatoria, 5 pp.)
+          <lb/>Suit l’Index Titulorum ac capitulorum. (7 pp.)
+          <lb/>P. 1-9: Proœmium ad Alphonsum Aragonium.
+          <lb/>R102.210 (2). Prov.: BM Breslau 8/VII 1886.
+          <lb/>1797
+          <lb/>PAULI Johannes
+          <lb/>Strasbourg, Barth. Gruninger 1533
+          <lb/>Das Buch Schimpff und Ernstgenannt. Wölches
+          <lb/>durchlaufft der welt henndell Mitt vil! schönen und kurtz¬
+          <lb/>weiligen Exemplen und gleichnüssen Parabolen und Hy¬
+          <lb/>storien. Auch darneben etliche ernstliche Geschichten ab
+          <lb/>Wölchen der Mensch, so er die lesen ist, sich billich Bes¬
+          <lb/>sern würt. Jetzunt von Newem wider Getruckt, und mit
+          <lb/>Schönen figuren durchauss getzirt, deren vormalss keyne
+          <lb/>darin gewesen. Auch Fleyssig ubersehen, gemert und ge¬
+          <lb/>bessert, Mitt vil Newen Exemplen Jetzt hinzû gethan
+          <lb/>Vast kurtzweilig zû Leesen etc. Au-dessous, grav. sur bois: société
+          <lb/>se levant de table, 2 couples sont encore à table, à gauche 2 jeunes gens se
+          <lb/>combattent avec les armes, un troisième cherche à les séparer avec un
+          <lb/>banc qu’il a soulevé, à droite un jeune homme regarde à une maison
+          <lb/>voïsine une femme et un jeune homme assis qui embrasse la femme.
+          <lb/>A la fin: Getruckt zû Straszburg durch Bartholomeum
+          <lb/>Grüninger, und vollendet auff unser lieben frawen tag der
+          <lb/>Geburt, in dem jar nach der geburt Christi unsers herren,
+          <lb/>Tausent, fünffhundertdreissigund Drei jar.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

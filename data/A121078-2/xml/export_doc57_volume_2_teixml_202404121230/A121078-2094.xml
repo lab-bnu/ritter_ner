@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:29.179796+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2094.tif
+IMAGE WIDTH: 2328
+IMAGE HEIGHT: 3832
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>90
+          <lb/>De tempore Aduentus.
+          <lb/>Quadragesime.
+          <lb/>Pasche.
+          <lb/>Ascensionis.
+          <lb/>Pentecostes.
+          <lb/>De sanctis; De quot et quibus. FO. CXXXIII.
+          <lb/>Tabula ordine alphabetico addita est:! in qua Lector ad
+          <lb/>placitum facile omnia:! que in libro continentur; reperiet.
+          <lb/>(Verso blanc.)
+          <lb/>A la fin, avant l’index fol. 189b: Sermones fra- tris Gabrielis
+          <lb/>de barelete... impensis circumspecti viri ar- chibibliopole
+          <lb/>Joannis Rynman de orin gau in officina industrij Henrici
+          <lb/>Gran: in oppido imperiali Hagenau ciuis im- pressi.
+          <lb/>decimo die Mensis Octobris. An! no salutis nostre. M. D.xviij.
+          <lb/>Finiunt! feliciter.
+          <lb/>In-40, car. goth. 2 col. CXCIX ff. ch., 1 f. blanc, 22 ff. non ch.
+          <lb/>(Table alphabétique), titre courant, initiales ornées C, E, R, T, V,
+          <lb/>titre encadré (H&amp;amp;B Planche LXIV, No 2).
+          <lb/>fol. a 2a: F. Benedictus Brixianus Fratri Thome Caietano
+          <lb/>ordinis predicatorum Theologantium ac philosophantium
+          <lb/>maximo S. d..... (2 p.)
+          <lb/>fol. a 3a: Tabula Sermonum de Tempore.
+          <lb/>RI01331. Prov.: BN Munich, 28. XII. 1883, 1 M. 20. Rel. anc.
+          <lb/>A l&amp;#x27;intérieur de la couverture, exlibris; au-dessous «Ad Biblio¬
+          <lb/>thecam Conventus Monacensis Ordinis Eremitarum S. P.
+          <lb/>Aug.» Au haut du titre: Bibliothecae S. Augustini Monacensis
+          <lb/>1620; au verso, timbre: BIBLIOTHECA REGIA] MONACENSIS.
+          <lb/>GBP: Berlin, Breslau.
+          <lb/>154
+          <lb/>BARTHÉLEMY de GLANVILLE. Voir: BARTHOLOMAEUS An¬
+          <lb/>glicus.
+          <lb/>BARTHOLINUS Riccardus
+          <lb/>Strasbourg, M. Schürer, 1516.
+          <lb/>AD DIVUM MAXIMI-lianum Caesarem Augustum,
+          <lb/>Riccardi Bartholini, de bel lo Norico Austriados Libri
+          <lb/>duodecim. (Verso blanc.)
+          <lb/>A la fin: Argentorati, Ex Aedibus Matthiae Schu-rerij,
+          <lb/>Mense Februario, Anno! Christi Jesu. M.D.XVI.Ductu
+          <lb/>Leonhardi, &amp;amp; Lucae Alantseae fratrum. REGNANTE IM¬
+          <lb/>PERATORE CAESARE  MAXIMILIANO. P. F. Avg. P. P.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:09.543335+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002310.tif
+IMAGE WIDTH: 2514
+IMAGE HEIGHT: 3978
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>dernier vers le valet de Granweil se nomme comme
+          <lb/>auteur).
+          <lb/>Vogeleis, p. 311. Voir aussi : Ritter, Histoire de l’imprimerie
+          <lb/>alsacienne, p. 529, annotation 391.
+          <lb/>2373
+          <lb/>LIED (ein wahrhaftiges, neues): Ein warhafftiges Newes Lied,
+          <lb/>von dem Wunderzeichen, wölche Gott zu Roschell
+          <lb/>erscheinen lassen, auff den XXX. tag Mertzen in disem
+          <lb/>1573... — Strasbourg 1573, in-80.
+          <lb/>Vogeleis, p. 323.
+          <lb/>2374
+          <lb/>LIED (ein wahrhaftiges neues) : Ein warhafft newes Lied,
+          <lb/>Von der Statt Mülhausen, Und ist im Thon, Wie der
+          <lb/>Graff von Serin... — Getruckt zu Christlingen. —
+          <lb/>[Strasbourg, Bernard Jobin] 1587, in-80.
+          <lb/>Vogeleis, p. 356 : Zurich.
+          <lb/>2375
+          <lb/>LIED. Voir aussi: (RITTER, Rép. nos 1362-13671.
+          <lb/>LIEDER (Reuter-Lieder). Voir : PHILIPP, Freiherr zu Winne¬
+          <lb/>burg n° 2893/4.
+          <lb/>LIEDER (Teutsche) : Teutsche Lieder mit vier-und fünff
+          <lb/>Stimmen. — (Strasbourg 1545), in-4°.
+          <lb/>Vogeleis, p. 254.
+          <lb/>2376
+          <lb/>LIEDER (Teutsche) : Fünff und sechzig teütscher Lieder... —
+          <lb/>Strasbourg, Pierre Schöffer et Mathias Apiarius s. d.,
+          <lb/>(avant 1536), in-4°.
+          <lb/>Vogeleis, p. 234; Wackernagel p. 45.
+          <lb/>2377
+          <lb/>LIEDER (Würtembergische) : Würtembergische Lieder.
+          <lb/>(Pamphlet contre le duc Louis de Würtembergl. —
+          <lb/>(Strasbourg, Martin Flach vers 1516).
+          <lb/>Voir Ritter : Histoire de l’impr., p. 168/9.
+          <lb/>2378
+          <lb/>LIEDER (zwei geistliche neue): Zwey geistliche newe Lieder,
+          <lb/>308
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

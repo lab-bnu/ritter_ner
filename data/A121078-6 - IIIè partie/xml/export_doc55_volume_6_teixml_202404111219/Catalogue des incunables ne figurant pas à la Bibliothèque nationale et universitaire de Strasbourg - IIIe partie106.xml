@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:06.699433+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie106.tif
+IMAGE WIDTH: 2490
+IMAGE HEIGHT: 3936
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>VOCABULARIUS (Idem). — (Haguenau, Henri Gran s. d.),
+          <lb/>in-40.
+          <lb/>Voulliéme : Berlin 1189, 5.
+          <lb/>691
+          <lb/>VOCABULARIUS (Idem). — (Strasbourg, impr. du Jordanus —
+          <lb/>Georges Husner s. d.), in-4°.
+          <lb/>Voulliéme : Berlin 2475.
+          <lb/>692
+          <lb/>VOCABULARIUS (Idem). — (Strasbourg, Martin Flach s. d.),
+          <lb/>in-fol.
+          <lb/>Proctor 723.
+          <lb/>693
+          <lb/>VOCABULARIUS (utriusque juris) — (Strasbourg, impr. de
+          <lb/>Henricus Ariminensis s. d. l, in-fol.
+          <lb/>Copinger 6356, Polain 4022; Proctor 2344; Spire, P. Drach. 694
+          <lb/>VOCABULARIUS (utriusque juris) (Idem). — (Strasbourg,
+          <lb/>impr. de Henricus Ariminensis, peu après 14781, in-fol.
+          <lb/>Reichling, Suppl. 215; Madsen 4212, Proctor 332. 695
+          <lb/>VOCABULARIUS (utriusque juris) (Idem). — (Strasbourg,
+          <lb/>impr. du Jordanus — Georges Husner) 28. IX. 1490,
+          <lb/>in-fol.
+          <lb/>Copinger 6369; Madsen 4207; Proctor 656; Voulliéme:
+          <lb/>Berlin 2439.
+          <lb/>696
+          <lb/>VOCABULARIUS (utriusque juris) (Idem). — Strasbourg,
+          <lb/>Iimpr. des Casus breves — Georges Husner) 13. VIII.
+          <lb/>1494, in-fol.
+          <lb/>Copinger 6371; Madsen 4209, Polain 4031, Proctor 736;
+          <lb/>Voulliéme : Berlin 2523.
+          <lb/>697
+          <lb/>VOCABULARIUS (utriusque juris) (Idem). — (Strasbourg,
+          <lb/>Georges Husner] 27. V. 1500, in-fol.
+          <lb/>Proctor 748; Ritter, Rép. Inc. 486.
+          <lb/>698
+          <lb/>104
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

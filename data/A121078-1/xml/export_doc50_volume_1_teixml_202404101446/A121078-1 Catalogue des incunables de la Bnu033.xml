@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:36.844302+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu033.tif
+IMAGE WIDTH: 2382
+IMAGE HEIGHT: 3844
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>ALBERTUS MAGNUS: De laudibus Beatae Mariae Virginis.
+          <lb/>(Strasbourg, J. Mentelin, 1474), in-fol.
+          <lb/>G W 616, Hain 467, Pellechet 298, Pellechet: Colmar 41, Proc¬
+          <lb/>tor 228, Voulliéme: Berlin 2087; Schorbach: Mentelin N° 26:
+          <lb/>pas après 1473.
+          <lb/>K. 95. Prov.: Don de la ville de Nördlingen, 1871. Rel. anc.
+          <lb/>ALBERTUS MAGNUS: [Liber aggregationis.) Liber secretorum
+          <lb/>de virtutibus herbarum et animalium. Strasbourg,
+          <lb/>(J. Grüninger), 14 mars 1493, in-8°.
+          <lb/>G W 627, Hain 541, Proctor 464; Madsen 64, Schmidt I, N° 17.
+          <lb/>K 132. Prov.; L. Rosenthal, Munich, 25 IV. 1899, 24 M. Note
+          <lb/>mss. au verso du dernier f.
+          <lb/>10
+          <lb/>ALBERTUS MAGNUS: [Mariale). [Strasbourg. J. Mentelin, pas
+          <lb/>après 1474), in-fol.
+          <lb/>G W 680, Hain 461, Madsen 71, Pellechet 299, Proctor 229,
+          <lb/>Voulliéme: Berlin 2088; Schorbach: Mentelin N° 27: pas
+          <lb/>après 1473.
+          <lb/>K 90. Prov.: Don de la ville de Nördlingen, 1870. Note mss.
+          <lb/>disant que le livre est imprimé par J. Mentelin d’après Panzer,
+          <lb/>Annales typ. Vol. I, p. 73, N° 409. Rel. anc.
+          <lb/>11
+          <lb/>ALBERTUS MAGNUS: (Mariale). [Strasbourg, Mart. Schott,
+          <lb/>vers 1485/9), in-fol.
+          <lb/>G W 681, Hain 463, Pellechet 300, Madsen 72, Proctor 404,
+          <lb/>Voulliéme: Berlin 2241, 5.
+          <lb/>K 92. Prov.; BN Munich, 26 I. 1874, 25 M.
+          <lb/>12
+          <lb/>ALBERTUS MAGNUS: (Mariale). Strasbourg, Martin Flach,
+          <lb/>1493, in-fol.
+          <lb/>G W (Ergänzungen) 616/10, Hain 10.768, Madsen 63, Pellechet:
+          <lb/>Colmar 953. Proctor 697. Voulliéme: Berlin 2496.
+          <lb/>K 2519. Prov.: List et Franke, Leipzig, 13. I. 1879, 12 M.
+          <lb/>Au-dessous du titre: Carthusiae Gemnicensis. Rel. anc. 12a
+          <lb/>ALBERTUS MAGNUS: Paradisus animae. Strasbourg, Martin
+          <lb/>Flach, 10 juillet 1498, in-4°.
+          <lb/>G W 706, Hain 481, Madsen 80, Pellechet 311, Pellechet: Col¬
+          <lb/>mar 45, Proctor 709, Schmidt VI, 67, Voulliéme: Berlin 2508,
+          <lb/>3, Walter: Sélestat 7.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

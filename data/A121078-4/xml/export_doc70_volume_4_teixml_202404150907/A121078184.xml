@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:47.840517+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078184.tif
+IMAGE WIDTH: 2302
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1070
+          <lb/>In-4°, car. ital., 26 ff. non ch. dont le verso du dernier blanc,
+          <lb/>sign. A-F, réclames, init. ornées 0, M, 2 vign.
+          <lb/>Fol. A 2a:... D. Wolffgango Schit- terlin, Reip, inclytae Argen¬
+          <lb/>toratensium Consuli: &amp;amp; Paulo Hoch-] feldero, eiusdem Reipub. Syndico
+          <lb/>ac Cancellario... — Scripsi Argentorati: Calend. Septemb. Anno Chri¬
+          <lb/>stiano M. D. LXXXV. Stephanus Berchtoldus. (3 pp. en car, rom.)
+          <lb/>Fol. A 3b : Rector Acade.) argentinensis, Melchior! Iunius Wite¬
+          <lb/>bergensis studiosis adolescentibus S. P. D.... — Argentinae die Geor¬
+          <lb/>gii. M. D. LXXXV. (3 pp. en car, rom.)
+          <lb/>R 10.562. Prov. inconnue. Au milieu du titre: Hieronymus Schür¬
+          <lb/>1643
+          <lb/>stab 1587.
+          <lb/>OBRECHT Georgius
+          <lb/>Strasbourg, A. Bertram 1586
+          <lb/>Disputatio D FVRTO, DELI- CTO GRAVI ET QVOTI¬
+          <lb/>DIANO. ] IN INCLYTA ARGENTORA-] tensium Academia publicè
+          <lb/>proposita à GEORGIO OBRECHTO i. c.! Respondente) M.
+          <lb/>ABRAHAMO SCHWARTZIO Altorffensi Wirtenbergico, lurium
+          <lb/>Studioso.Disputabitur 12. &amp;amp; 19. Martii. (Marque typ. de
+          <lb/>A. Bertram. HEB Planche XLIV n0 1; Silvestre n° 1023.)
+          <lb/>ARGENTORATI! Excudebat Antonius Bertramus, CIO.
+          <lb/>ID. XIVC.
+          <lb/>In-4°, car. ital., 12 ff. non ch., sign. A-C, réclames, init. ornée D,
+          <lb/>à la fin vign.
+          <lb/>Au verso du titre, entre 2 bandes d’ornement :... D. Ioanni Schul¬
+          <lb/>thero, u. i. doctori : ac illustris-] simi Principis, Ludovici, Ducis Wirten¬
+          <lb/>bergici &amp;amp;c.!Cancellario : Domino patrono! suo singulari. (3 dist.)
+          <lb/>A la fin, dist. de plusieurs amis de Schwartz.
+          <lb/>R10.566. Prov.: Don de l’Académie Impériale des Sciences,
+          <lb/>St.-Petersbourg 9/1 1909.
+          <lb/>1644
+          <lb/>OBRECHT Georgius
+          <lb/>Strasbourg, A. Bertram 1586
+          <lb/>Disputatio de PATRIMONIO MVLIERVM : QVA FREQVENS
+          <lb/>ET VTILIS DOTIVM MATERIA BREVI METHODO CONSCRIPTA
+          <lb/>continetur: INCLYTA ARGENTORA- tensium Academia
+          <lb/>publicè proposita à GEORCIO OBRECHTO I. C. Respondente
+          <lb/>ADAMO HÜENERERO ARGENTO-] ratensi, U. I. Studioso. Dis¬
+          <lb/>putabitur 30. Iul. item 6. &amp;amp; 13. Augusti. (Marque typ. de
+          <lb/>A. Bertram. H a B Planche XLV no 2; Silvestre n° 1022.)
+          <lb/>ARGENTORATI Excudebat Antonius Bertramus. Anno
+          <lb/>M. D. LXXXVI.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:39.015682+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2423.tif
+IMAGE WIDTH: 2384
+IMAGE HEIGHT: 3828
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>419
+          <lb/>DECZIUS Iohannes
+          <lb/>Strasbourg, Ant. Bertram, 1591.
+          <lb/>SYNOPSIS PHILOSOPHIAE IN PRIVATVM MEMORIAE SVB¬
+          <lb/>SIDIVM THESIBVS ET VELVT APHO- rismis quibusdam com¬
+          <lb/>prehensa, &amp;amp; ad disputandum proposita in Academia
+          <lb/>Argentinensi: Praeside IOANNE LVDOVICO HAWEN-) reu¬
+          <lb/>tero, Medicinae et Philosophiae Doctore atque Professore.
+          <lb/>Respondente &amp;amp; Authore IOANNE DECZIO VNGARO... (5 lignes.)
+          <lb/>ARGENTORATI Excudebat Antonius Bertramus. M.D.
+          <lb/>XCI.
+          <lb/>In-40, car. ital, 36 ff. non ch. dont le dernier blanc, sign. A-I,
+          <lb/>réclames, notes marginales, initiale ornée O, titre et verso du titre en¬
+          <lb/>cadré (ornements simples); fol. A 2a, bande d’ornement.
+          <lb/>Au verso du titre:... WOLPHANGO (!) KOVACZIOCZIO Reg¬
+          <lb/>ni Transyluaniae Cancellario.. INPERPET. OBSERVANTIAE
+          <lb/>monimentum. IOANNES DECZIVS.
+          <lb/>R101.564.(7) Prov.: Hiersemann, Leipzig, 25/1. 1935; 4 M. 624
+          <lb/>DEFENSIO Christianorum de Cruce. Voir: GNIDIUS M.
+          <lb/>DEFENSORIUM MONTIS PIETATIS, 1503. Voir: BusTis Bernar¬
+          <lb/>dinus de, N° 343.
+          <lb/>DEGEN Iacobus (nommé Schegk)
+          <lb/>Strasbourg, B. Jobin, 1580.
+          <lb/>IAC. SCHEGKII SCHORNDORFFENSIS ME- dici &amp;amp; Philo¬
+          <lb/>sophi Eximij, De Plastica Seminis Facultate Libri tres.
+          <lb/>EIVSDEM De calido &amp;amp; humido natiuis Liber vnus.De
+          <lb/>primo Sanguificationis Instrumento Liber vnus.
+          <lb/>Marque typ. de B. Jobin. (H e B, Planche XXXVII, NO 2.)
+          <lb/>Au-dessous: EXCVDEBANTVR ARGENTORATI. Apud Bern¬
+          <lb/>hardum Iobinum. Anno M. D. LXXX. (Verso blanc.)
+          <lb/>In-80, car. ital., 127 ff. non ch., dont ff. 7, 8 et le dernier blanc,
+          <lb/>titre courant, réclames, notes marginales, initiales ornées.
+          <lb/>fol. a 2a: IACOBVS SCHEG-] KIVS SCHORNDORF- FENSIS
+          <lb/>CANDIDO ET Philosopho Lectori) SalutemD... — Anno
+          <lb/>Se- ptuaginta nono. Tubingae de-cimo septimo Ianuarij.
+          <lb/>(Préface de 4 ff.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

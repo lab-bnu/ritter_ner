@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:37.666599+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2380.tif
+IMAGE WIDTH: 2372
+IMAGE HEIGHT: 3820
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>376
+          <lb/>COMESTOR Petrus. Voir: PETRUS Comestor.
+          <lb/>COMINES Philippe de
+          <lb/>Strasbourg, Cr. Mylius, 1545.
+          <lb/>DE REBVS GE STIS LVDOVICI, EIVS! NOMINIS VNDECI¬
+          <lb/>MI, Galliarum Regis, &amp;amp; Caro- li, Burgundiae! Ducis,
+          <lb/>PHILIPPI COMINAEI, VIRI PA- tricij, &amp;amp; equestris ordinis,
+          <lb/>Commentarij, uere ac pru- denter conscripti.) Ex Gallico
+          <lb/>facti Latini, à Ioanne Sleidano.Adiecta est breuis quae¬
+          <lb/>dam illustratio rerum, &amp;amp; Galliae descriptio. Cum Gra¬
+          <lb/>tia &amp;amp; Priuilegio Imper. &amp;amp; Regio.
+          <lb/>Argentinae apud Cratonem Mylium, Anno M. D. XLV.
+          <lb/>(Verso blanc.)
+          <lb/>A la fin: ARGENTINAE, APVD CRA- TONEM MYLIVM, ANNO
+          <lb/>M. D. XLV. MENSE ! FEBRVARIO.
+          <lb/>Au verso du dernier f. blanc, marque typ. de Cr. Mylius, (HCB,
+          <lb/>Planche XXVII, No 9.)
+          <lb/>In-4°, car. rom., 376 p. ch., 2 ff. non ch. (Index), 2 ff. blancs
+          <lb/>avec l’explicit au recto du Ier et la marque typ. au verso du 2e, titre
+          <lb/>courant, réclames, initiales à fig.
+          <lb/>p. 3-12: ILLVSTRISSIMIS PRINCI PIBVS, IOANNI FRIDERICO,
+          <lb/>Saxoniae Duci, Electori, &amp;amp; Philippo, Lantgrauio Hessiae,
+          <lb/>Ioannes Sleidanus S. D.... — (Préface.)
+          <lb/>p. 357-376: IOANNES SLEIDANVS! Lectori S. D. (Illustratio
+          <lb/>rerum et Galliae descriptio.)
+          <lb/>R102.118. Prov.: Bibl. W. Menzel, Stuttgart, 1874. Notes mss.
+          <lb/>B M et Bibl. St. Guillaume, Strasbourg; BN Paris: Rés. Latc. 16.
+          <lb/>GPB. BN Berlin, BU Breslau, Kiel, Greifswald, Kœnigsberg.
+          <lb/>Brunet 115, col. 192: réimprimé à Paris en 1545, in-8°; la 2e partie
+          <lb/>1548; les 2 ensemble Paris, Andr. Weckel, 1568, in-16... on en cite
+          <lb/>une autre traduction latine par Casp. Barth, Francofurti, 1629, in-80.
+          <lb/>562
+          <lb/>COMINES Philippe de
+          <lb/>Strasbourg, W. Rihel, 1548.
+          <lb/>PHILIPPI COMINAEI, EQVITIS, DE CA- ROLO OCTAVO,
+          <lb/>Sleidano, Interprete. Accessit breuis quaedam explicatio
+          <lb/>rerum, &amp;amp; authoris uita.
+          <lb/>ARGENTORATI, IN] aedibus Vuendelini Rihelij. Anno
+          <lb/>M. D. XLVIII.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:47.856082+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078185.tif
+IMAGE WIDTH: 2300
+IMAGE HEIGHT: 3844
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1071
+          <lb/>réclames, init, ornée D; à la fin vign.
+          <lb/>In-4°, car. ital, 16 ff. non ch. dont le dernier blanc, sign. A-D,
+          <lb/>daw, libero Baroni in Haus &amp;amp; Rapottenstein, inferioris Austriae ac Im¬
+          <lb/>Au verso du titre : (Bande d’ornement)... domino Achazio à Lan¬
+          <lb/>perialis curiae Vien-nensis consiliario, domino suo clementi &amp;amp; hono¬
+          <lb/>rando... — G. Obrecht D. (6 dist.)
+          <lb/>R10.552. Prov.: BN Munich 15/x 1877.
+          <lb/>2ème ex.: R 10.554. Prov.: Don de la librairie Schmidt, Stras¬
+          <lb/>bourg 20/11 1905. Au f. du titre: Huenerero au lieu de Hüenerero
+          <lb/>sans la date d’impression.
+          <lb/>Fol. B 2b, thèse 83: ¿Si enim filia sine patris consensu nubens
+          <lb/>exheredari potest&amp;quot; tandis que dans l’ex. R10.552 il y a: ¿Si enim
+          <lb/>filia sine patris consensu exheredari potest&amp;quot;, ce qui est corrigé à la fin:
+          <lb/>Errat. Thesi 83. lege, sine patris consensu nubens Ce.
+          <lb/>1645
+          <lb/>OBRECHT Georgius
+          <lb/>Strasbourg, A. Bertram 1586
+          <lb/>Disputatio DE PATROCINIOpupillorum:Qua diffusa,
+          <lb/>utilis &amp;amp; quotidiana tutelarum materia,! brevi Methodo con¬
+          <lb/>scripta continetur : In inclita Argentoratensium Acade¬
+          <lb/>mia publici exer- citii causa proposita, à! GEORGIO OBRECH¬
+          <lb/>To I. C.Respondente M. IOAN NE MICHAELE BEVTHERO
+          <lb/>U. I. Studioso. Disputabitur 19. &amp;amp; 26 Novembris. (Marque
+          <lb/>typ. de A. Bertram. H e B Planche XLIV n° 2; Silvestre n° 1022).
+          <lb/>ARGENTORATI, Excudebat Antonius Bertramus. M. D.
+          <lb/>LXXXVI.
+          <lb/>In-4°, car. ital., 24 ff. non ch., sign. A-F, réclames, init. ornée I.
+          <lb/>Au verso du titre: D. Ioanni Schenkbechero: Viro Clarissimo: Virtute...
+          <lb/>praestantis- simo: Liberae Argent. Reipub. tredecemviro pru- den¬
+          <lb/>tissimo: Ioannes Michael Beutherus Argentoratensis,...
+          <lb/>R10.564. Prov, inconnue.
+          <lb/>1646
+          <lb/>OBRECHT Georgius
+          <lb/>Strasbourg, A. Bertram 1590
+          <lb/>DISPVTATIO DE FORMA ACTIO-NIS ET LIBELLI, Quae
+          <lb/>à condita Roma usque ad nostrum saeculum in iudiciis
+          <lb/>observata fuit, adhuc observetur, &amp;amp; observari utiliter
+          <lb/>possit :Uberrima rerum utilitate, literattissima formula¬
+          <lb/>rum ve-] tustate, &amp;amp; quaestionum varietate copiosissima:
+          <lb/>In Inclyta Argentoratensium Academia publici exercitii
+          <lb/>causa proposita, à GEORGIO OBRECHTO IC. Respon¬
+          <lb/>dente lOANNE REMBOLDO TVNECIO, Patritio Lindaviensi.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

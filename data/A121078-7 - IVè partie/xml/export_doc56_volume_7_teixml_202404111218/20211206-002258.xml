@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:08.336871+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002258.tif
+IMAGE WIDTH: 2506
+IMAGE HEIGHT: 3988
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Kuczynski 1088; Neufforge, p. 353 et 375; Benzing : Hutten,
+          <lb/>n° 144 : B M Augsbourg, B U Göttingen, B N Strasbourg,
+          <lb/>Brit. Mus. Londres, etc.
+          <lb/>2100
+          <lb/>HUTTEN, Ulr. (Contre la papauté) : (C)lag und vormanung...
+          <lb/>(Idem). — (Strasbourg, Jean Knobloch fin 1520l,
+          <lb/>in-4°.
+          <lb/>Böcking XXXIV, 3; Roth, Schöffer, p. 95, no 25 ; Weller
+          <lb/>1417; Benzing, Hutten, n° 146: LHB Darmstadt, B U
+          <lb/>Göttingen, Brit. Mus. Londres, Bibl. Centrale Zurich et autres.
+          <lb/>2101
+          <lb/>HUTTEN, Ulr. (Contre la papauté) : In diesem Buchlin
+          <lb/>findet man Hern Vlrichs von Hutten Uber und gegen
+          <lb/>vorgewaltigung des Bapsts, unnd der Romanisten klag¬
+          <lb/>schrifft an Keyserliche maiestat... — (Strasbourg, Jean
+          <lb/>Schott, nov. décembre 1520, in-40.
+          <lb/>Böcking, Hutten XXXI Aa; Schmidt II, n° 70; Weller,
+          <lb/>2103; Benzing, Hutten, n° 138 : B N Munich, B N Wien,
+          <lb/>HA B Wolfenbüttel.
+          <lb/>2102
+          <lb/>HUTTEN, Ulr. (Contre la papauté) : (L)Ebendige abcontra¬
+          <lb/>factur desz gantzen Bapstthumbsz. Sampt einer tröst¬
+          <lb/>lichen ermanung an die freien, starcken Helden Teutscher
+          <lb/>Nation, das sie doch einmal das vatterlandt von disem
+          <lb/>hellischen hundt gar erretten... Manes Hutteni. Jetzunt
+          <lb/>von newem auszgangen. — [Strasbourg, Jacques
+          <lb/>Cammerlander vers 1535), in-40.
+          <lb/>Böcking XXXIV, 4; Hohenemser 2747; Kuczynski 1104;
+          <lb/>Wenzel, Cammerlander, n° 39 : Benzing, Hutten, no 147 :
+          <lb/>B M U Francfort-s.-M., B U Göttingen, Jena, Brit. Mus.
+          <lb/>Londres, B N Strasbourg, etc.
+          <lb/>2103
+          <lb/>HUTTEN, Ulr. (Contre la papauté) : Ein trewe Warnung. Wie
+          <lb/>die bäpst allwegen wider die Teutschen Keyser geweszt...
+          <lb/>Item, Das die Keiser allwegen gewalt. Die Bäpst auff
+          <lb/>unnd ab zusetzen gehabt... Unnd zum dritten werden
+          <lb/>der Bäpst satzung mit der leer Christi verglichen... —
+          <lb/>256
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

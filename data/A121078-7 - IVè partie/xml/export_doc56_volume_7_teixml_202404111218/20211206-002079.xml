@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:03.657564+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002079.tif
+IMAGE WIDTH: 2514
+IMAGE HEIGHT: 3992
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>BUCER, Martin (Ecclesiastes): Commentarius in Ecclesiasten.
+          <lb/>— Strasbourg 1532.
+          <lb/>Mentz 28; Haag, France protestante, éd. 2; vol. III, 361.
+          <lb/>1154
+          <lb/>BUCER, Martin (Enarratio) : Enarratio in Evangelium
+          <lb/>Matthaei VI. Tu es Petrus... (Strasbourg, 1555l.
+          <lb/>Mentz, n° 80; Hassenkamp, Hessische Kirchengeschichte II,
+          <lb/>p. 381; Stupperich, n° 102 : B U Fribourg.
+          <lb/>1155
+          <lb/>BUCER, Martin (Enarrationes) : Enarrationes perpetuae in
+          <lb/>sacra quator evangelia, recognitae nuper &amp;amp; locis complu¬
+          <lb/>ribus auctae... Epistola eiusdem nuncupatoria ad
+          <lb/>Academiam Marpurgensem de servanda unitate Ecclesiae,
+          <lb/>in qua excutiuntur &amp;amp; articuli conventus Marpurgi
+          <lb/>Hessorum celebrati. — A la fin, avant le registre
+          <lb/>(Strasbourg, G. Ulricher mars 1530), in-fol. (Au f. du
+          <lb/>titre, marque typ. d’Ulricher].
+          <lb/>Mentz p. 115, n° 24; Londres, British Museum 3225, f. 3;
+          <lb/>Bibl. S. Guillaume Strasbourg; Stupperich, n° 28: BN
+          <lb/>Augsbourg, B U Bâle, Munich, Bibl. Centrale Zurich, etc.
+          <lb/>1156
+          <lb/>BUCER, Martin (Epistola) : Epistola D. Pauli ad Ephesios
+          <lb/>qua rationem Christianismi breviter iuxta &amp;amp; locuplete,
+          <lb/>ut nulla brevius simul et locupletius explicat, uersa
+          <lb/>paulo liberius, ne peregrini idiotismi rudiores scriptu¬
+          <lb/>rarum offenderent, bona tamen fide sententijs Apostoli
+          <lb/>appensis. In eamdem Commentarius. Per Martinum
+          <lb/>Bucerum... — (Strasbourg, J. Herwagen (?) 1527), in-80,
+          <lb/>Bibl. S. Guillaume Strasbourg; Mentz, n° 16, met par mégarde
+          <lb/>1517; Stupperich, n° 17; 1134 B N Augsbourg, B U Göttingen,
+          <lb/>Leipzig, Sélestat, Wolfenbüttel.
+          <lb/>1157
+          <lb/>BUCER, Martin (Epistola): Epistola apologetica ad syncerioris
+          <lb/>christianismi sectatores per Frisiam Orientalem &amp;amp; alias
+          <lb/>inferioris Germaniae regiones, in qua Evangelij Christi
+          <lb/>vere studiosi, non qui se falso Evangelicos iactant, ijs
+          <lb/>77
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

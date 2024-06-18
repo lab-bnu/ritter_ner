@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:53.340251+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5120.tif
+IMAGE WIDTH: 2342
+IMAGE HEIGHT: 3844
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1428
+          <lb/>TATIUS Marcus (Alpinus)
+          <lb/>Strasbourg, W. Rihel, 1540
+          <lb/>AdFerdinandumCaesarem semper avgustum,
+          <lb/>Carmen.!! Marco Tatio !! Authore.! Candido Lectori. (1 dist.)
+          <lb/>Argentorati in Aedibus!! Wendelini Rihelij, M. D. XL.
+          <lb/>In-4°, car. ital., 10 ff. non ch., sign. A-B, notes marg., init. à fig. O, O.
+          <lb/>Au verso du titre : ... Christophoro a Ma- Il druze &amp;amp;̀ c. Episcopo
+          <lb/>Tridentino &amp;amp; c... (5 dist.).
+          <lb/>Au recto du dernier f. :... Viglio a Zuick-I] heime &amp;amp; c. sacrae Rho.
+          <lb/>Reg. Maiest. Consiliario... Ingolstadij celeberrimo profes-II sori... —
+          <lb/>Datae Argentorati. V. Calen. Julias. M. D. XL... M. Tatius Alpinus
+          <lb/>(verso blanc).
+          <lb/>R. 101.059. Prov. : Bibl. Böcking.
+          <lb/>GK III, 6373: BN Berlin, BN Vienne, BU Breslau, Königsberg. Figure
+          <lb/>dans le GK sous : Alpinus, Marcus Tatius.
+          <lb/>Bibliographie de Tatius Alpinus. Voir : Schottenloher II, N° 21075-
+          <lb/>21076.
+          <lb/>2271
+          <lb/>TAURELLUS Nicolaus
+          <lb/>Strasbourg, B. Jobin, 1581
+          <lb/>Medicae praedictionis! methodus, Hoc est! recta,
+          <lb/>brevis!! que ratio coram ae- gris praeterita, praesentia,
+          <lb/>futuraque praedicendi, morbos sci- ! licet, morborumque
+          <lb/>causas, mortem, sanitatem, recidiuam, [aliaque symptomata:
+          <lb/>non minus ad nomen concilian- dum, quàm foelicem cura¬
+          <lb/>tionis euentum, Medicinam facturis necessarii : Quam ex
+          <lb/>Hippocratis, &amp;amp; Galleni monumentis, alio-rmque proba¬
+          <lb/>tissimorum Medicinae Doctorum! optima fide condidit,
+          <lb/>Nicolaus Taurellus Montbelgard : Med. Doctor,! &amp;amp; Christianae
+          <lb/>Philosophiae Studiosis.
+          <lb/>Marque typ. de B. Jobin. (H. &amp;amp; B. Planche XXXVII, n° 4.)
+          <lb/>Cum Priuiligio Caesareo ad Decennium.
+          <lb/>Francoforti sumptibus Bernhardi Iobini, per Iohan.
+          <lb/>Feierabend. (Verso blanc.)
+          <lb/>A la fin : Impressum Franco-forti ad Moenum apud (I
+          <lb/>Ioannem Feyerabendt, im-pensis BernhardiIobini.
+          <lb/>Au-dessous, marque typ. de J. Feyerabend.) Au bas:
+          <lb/>Anno M. D. LXXXI. (Verso blanc.)
+          <lb/>In-4°, car. ital. (texte) et rom. (titres et notes marg.), 8 ff. non ch. dont
+          <lb/>le dernier blanc, 852 pp., ch., 2 ff. blancs avec l’explicit au recto du premier,
+          <lb/>titre courant, réclames, notes marg., init. à fig. T et petites init, ornées.
+          <lb/>fol. 2a non ch. : Inclyto florentissimae !] Noribergensium reipub :
+          <lb/>sena- II tui... — Datum in vestra Musarum Transsyluana colonia Alt-
+          <lb/>dorffi. Anno M. D. LXXXI. II Nicolaus Taurellus... (Préface en car.
+          <lb/>rom., 5 ff.).
+          <lb/>R. 102.214. Prov. : BN Munich, I0/IV, 1882; 1 M. 50.
+          <lb/>Notes mss. Au verso du f. de garde : « Duplum Bibliothecae regiae
+          <lb/>Monacensis»; au haut du titre : « N. Franchimont.» C’est le seul cas que
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

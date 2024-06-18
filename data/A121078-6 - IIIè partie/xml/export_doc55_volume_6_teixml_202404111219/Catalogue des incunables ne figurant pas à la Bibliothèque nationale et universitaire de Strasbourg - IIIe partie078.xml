@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:06.311257+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie078.tif
+IMAGE WIDTH: 2480
+IMAGE HEIGHT: 3946
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Rom gebaut wurde... [Strasbourg, Jean Prüss) 1500,
+          <lb/>in-4°.
+          <lb/>Proctor 556.
+          <lb/>488
+          <lb/>MISSA. Missa de vulneribus Christi. — (Strasbourg,
+          <lb/>Jean Grüninger s. d.), in-fol.
+          <lb/>Voulliéme : Berlin 2322, 8.
+          <lb/>489
+          <lb/>MISSALE Argentinense... — (Strasbourg, Jean Prüss vers
+          <lb/>1490), in-fol.
+          <lb/>Pellechet : Colmar 984; Baer (Francfort s. M.) Catal, 500
+          <lb/>(1905), n° 351 : « Nicht bei Hain, Kristeller et Schmidt. Von
+          <lb/>grösster Seltenheit... Wohl identisch mit Weale p. 27,
+          <lb/>Copinger II, 4082, welche als Druckjahr circa 1490 angeben...
+          <lb/>Von diesem Drucke ist nur noch ein Exemplar (in Colmar)
+          <lb/>bekannt».
+          <lb/>490
+          <lb/>MISSALE Cisterciense. — (Strasbourg, Jean Grüninger)
+          <lb/>4. IX. 1487, in-fol. [éd. par l’abbé Nicolas de
+          <lb/>Baumgarten).
+          <lb/>Hain-Copinger 11279, Polain 2719, Proctor 521, Schmidt I,
+          <lb/>n° 7; Voulliéme : Berlin 2276, 2 (auparavant 2346); Weale¬
+          <lb/>Bohatta 1751. Alves, Bibl. liturgique p. 442; Catal. Cohn
+          <lb/>(Berlin) 1884.
+          <lb/>491
+          <lb/>MISSALE Halberstadense avec le canon de Pierre Schoeffer. —
+          <lb/>(Strasbourg, Jean Grüninger vers 1500), in-fol.
+          <lb/>Proctor 145, Tronnier p. 195; Voulliéme : Berlin 2322, 10;
+          <lb/>Weale-Bohatta 418.
+          <lb/>492
+          <lb/>MISSALE Vratislaviense. — (Strasbourg, Jean Prüss vers
+          <lb/>1487), in fol.
+          <lb/>Copinger II, 4269; Weale-Bohatta 1655.
+          <lb/>493
+          <lb/>MISSAlE Vratislaviense. — Strasbourg, (Martin Schott)
+          <lb/>14 décembre 1491, in-fol.
+          <lb/>Weale-Bobatta 1656.
+          <lb/>494
+          <lb/>76
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

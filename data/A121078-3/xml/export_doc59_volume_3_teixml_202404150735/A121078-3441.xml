@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:14.326514+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3441.tif
+IMAGE WIDTH: 2430
+IMAGE HEIGHT: 3854
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>KOCH (KÖCHLIN), Siche: COCCINIUS
+          <lb/>KOTTERITZ Johannes a. Siche: OBRECHT Georgius: Disputatio
+          <lb/>feudalis prima ex primo libro scholarum feudalium desumpta.
+          <lb/>Strassburg, A. Bertram 1597. R10.557 (1).
+          <lb/>KRANTZ Albrecht
+          <lb/>Strassburg, Joh. Schott 1545
+          <lb/>Dennmärckische Chronick! Alberti Krantzij von Ham¬
+          <lb/>burg. Newlich durch Henrich von Eppendorff verteütschet.
+          <lb/>(Wappen Christian&amp;#x27;s, König von Dänemark u. Norwegen.)
+          <lb/>Mit Keysz. Maiestat Freyheyt vff fünff jar.
+          <lb/>Z8̀ Straszburg bey Hans Schotten. M. D. XLV. (Rücks.
+          <lb/>leer.)
+          <lb/>Am Schluss: Wappen Mentelin&amp;#x27;s. Darunter: Mit Keysz. Maie¬
+          <lb/>stät Freiheyt, vff Fünff jar nit nach zûtrucken, bey pen
+          <lb/>fünff Marck golds &amp;amp;e. ynnhalt der selbigen Original.
+          <lb/>Zù Straszburg bey Hans Schotten, vff den, iij. des Hor¬
+          <lb/>nungs.! Anno &amp;amp;c. M. D. XLV.
+          <lb/>2°, Got., 4 unn. Bll., DIV S. u. 6 unn. Bll., wovon das letzte
+          <lb/>leer, Kopft., Kust., Marg., Init. des Totentanz-Alphabetes, Titel rot u.
+          <lb/>schwvarz.
+          <lb/>Bl. A 2a: Herrn Christian, Künig za Dennmarck... Henrich von
+          <lb/>Eppendorff. (Widmung, 2 S.)
+          <lb/>R10.448. Prov.: Bibl. Wotfgang Menzel mit dessen Autograph,
+          <lb/>Stuttgart 1874. Auf dem innern Vorderdeckel: J. F. Schefold J. U. L.
+          <lb/>BN Paris M1228. Schmidt II Nr. 145.
+          <lb/>Uber den Verfasser siehe: Werner Theod. Gust.: Die Familie des
+          <lb/>niedersächsischen Geschichtsschreibers Albert Krantz, ihre Ahnen und
+          <lb/>Nachfahren. In: Zeitschrift der Zentralstelle für Niedersächsische Fa¬
+          <lb/>miliengeschichte. Hamburg 1926. 11 S.; RODER Ferdinand: Albert
+          <lb/>Krantz als Sundicus von Lübeck u. Hamburg. Diss. Marburg 1910,
+          <lb/>75 S.; Schottenloher I Nr. 10036-10044.
+          <lb/>Brunet I112, 696: La chronique de Krantz a été imprimée pour
+          <lb/>la lère fois à Strasbourg en 1546 (réimpr. en 1560) par les soins de
+          <lb/>Henri d’Eppendorf, lequel en avait déjà donné une traduction allemande
+          <lb/>à Strasbourg, en 1544, in-fol.
+          <lb/>1314
+          <lb/>883
+          <lb/>KRANTZ Albrecht
+          <lb/>Strassburg, Joh. Schott 1545
+          <lb/>Norwägische Chronick Alberti Krantzij von Hamburg.
+          <lb/>Newlich durch Henrich von Eppen- dorff verteütschet.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

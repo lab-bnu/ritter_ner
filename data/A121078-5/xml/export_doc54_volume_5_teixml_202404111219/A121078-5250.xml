@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:58.226497+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5250.tif
+IMAGE WIDTH: 2404
+IMAGE HEIGHT: 3862
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1560
+          <lb/>luce conscripta. Authore Iohanne Wolphio Hers !] bru¬
+          <lb/>giense.
+          <lb/>&amp;quot;Item“!Radicum Extrahen-darum, &amp;amp; progressionum
+          <lb/>arithmeti- ] carum methodus, per quendam!! Mathematices
+          <lb/>studio-sum, nunc primum adiecta.
+          <lb/>Excusum Argent. (I M. D. XXXIX.
+          <lb/>A la fin : Argent. Ex Officina!! Knobloch. I1 M. D. XC. (!).
+          <lb/>In-8°, car, ital., 44 ff. ch., titre courant, réclames, init. à fig. O.
+          <lb/>Au verso du titre : Sebaldus Heyden !! Noricae Juuentuti. (4 dist.).
+          <lb/>fol. A 2a-A 3a : Johannes !!Wolphius Hersbrugi-] ensis Candido
+          <lb/>Lectori... — Norembergae è !! schola Sebaldiana 8. Calen. 11 Septem.
+          <lb/>Anno à Chri II sti nato. 1527.
+          <lb/>R. 101.114. Prov. : Breslauer &amp;amp; Meyer, Berlin, 21/xI, 1898; 26 M.
+          <lb/>2500
+          <lb/>WOLF Thomas junior, Epistolae. Voir: GRESEMUNDUS, Versi¬
+          <lb/>culi. Strasbourg, G. Husner, 1502. R. 100.119; n° 1042.
+          <lb/>WOLF Thomas junior, Epistola ad F. Tho. Murner in defensionem
+          <lb/>Iacobi Wimpfelingi. Voir: GUNTHER Petrus, Defensio
+          <lb/>Germaniae Jacobi Wimpfelingii. Strasbourg, J. Grüninger, 1502.
+          <lb/>R100.629; n° 1064.
+          <lb/>WOLF Thomas junior, De nomine imperatorio. Voir : NEPOS,
+          <lb/>Vita Catonis, Strasbourg, J. Prüss, 1505. R. 101.733; n° 1624.
+          <lb/>WOLF Thomas junior, In Psalmum Benedicam. Voir: BERNAR¬
+          <lb/>DUS, In Symbolum Apostolorum. Strasbourg, M. Schürer,
+          <lb/>1507. R. 101.329, R 101.330 et R 102.342; n° 187.
+          <lb/>WOLF Thomas junior
+          <lb/>Strasbourg, J. Grüninger, 1508
+          <lb/>Thomas Volphius Iunior. D.Doctor In Psalmum.
+          <lb/>Domine Quia Habita ijbt (sic) Tabernacu lo Tuo.
+          <lb/>In Expositione Sexti Versuspaucula quaepiam per trans¬
+          <lb/>gressionem di-cta pro inuictissimo Caesare Maximi liano
+          <lb/>Augusto contra Guilhelmum Episcopum Lodouiensem.
+          <lb/>(Verso blanc.)
+          <lb/>Vers la fin (fol. D 5a) : Ioannes Grüninger Argen-toraci
+          <lb/>imprimebat.Anno Christi. M. D. VIII. Die. XXVI. Maij.
+          <lb/>In-4°, car, rom., 24 ff. non ch. sign. A-D, notes marg., init. ornées J, A.
+          <lb/>fol. A 2a : Joanni Bavariae Duci Comi I] ti Palatino Rheni :... Thomas
+          <lb/>Vuolphius Junior. pontificij!] Juris Doctor : Columbariensis prae!!
+          <lb/>positus... — Argentoraci cursim !! postridie iduum Aprilis Anno Cristi,
+          <lb/>M. D. VIII.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

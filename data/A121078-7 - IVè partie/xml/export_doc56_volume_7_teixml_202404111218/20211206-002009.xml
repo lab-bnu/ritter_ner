@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:01.755137+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002009.tif
+IMAGE WIDTH: 2474
+IMAGE HEIGHT: 3954
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>AESOPUS: Fabulae Aesopi iam denuo multo emendatius quam
+          <lb/>antea aeditae. Autore Joachimo Camerario Pabergensi.
+          <lb/>Catalogum indicabit pagina versa [petite grav.].
+          <lb/>Argentorati, Excudebat Christianus Mylius. Anno D. M.
+          <lb/>LXII (sic) (1562), in-80.
+          <lb/>757
+          <lb/>Bibl. S. Guillaume Strasbourg.
+          <lb/>AESOPUS : Hundert Fabeln aus Esopo, etliche von D. Mar¬
+          <lb/>tin Luther und Herren Mathesio, etliche von andern
+          <lb/>Verdeutschet Sampt einer schönen Vorrede D. Martin
+          <lb/>Luth. vom rechten Nutz und Brauch desselben Buchs...
+          <lb/>Item ein schöne Historia woher die Edelleut und Bawren,
+          <lb/>ihren Ursprung haben. — Strasbourg 1572, in-80.
+          <lb/>758
+          <lb/>Goedeke II2, p. 453, n° 15 (3).
+          <lb/>AESOPUS. Voir aussi : GOLIUS, Theoph. (Educatio puerilis),
+          <lb/>n° 1916.
+          <lb/>Ritter, Rép. nos 90-103 et Braune, Erasmus Alberus
+          <lb/>(Neudrucke des XVI u. XVII. Jhd. fasc. 104-107)
+          <lb/>4
+          <lb/>p. XXXI, note
+          <lb/>AESOPUS moralisatus cum bono commento et glosa interli¬
+          <lb/>neari. — Strasbourg, J. Prüss (après 1500), in-4°.
+          <lb/>GKII, 1766: BN Munich, B U Königsberg; Hain-Cop.
+          <lb/>297 — Cop. 104. GW I, Colonne 188 « Wegen der Typen 16.
+          <lb/>759
+          <lb/>Jahrhundert ».
+          <lb/>AESOPUS moralisatus cum bono commento... et glosa inter¬
+          <lb/>lineari. — [Strasbourg, Jean Knoblochl (1508), in-4°.
+          <lb/>Brit. Mus. Catalog. (Londres) II, col. 98 ; 12304, c. 14.
+          <lb/>760
+          <lb/>(Probablement GKII, 1771 : BN Munich).
+          <lb/>AESOPUS moralisatus cum bono commento... et glosa inter¬
+          <lb/>lineari. — (Strasbourg, 1510 (?)), in-4°.
+          <lb/>761
+          <lb/>Londres: B M C, V col. 98 ; 12304, ee. Al.
+          <lb/>AGAPETUS Diaconus : Opusculum ad Justinianum Caes...
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

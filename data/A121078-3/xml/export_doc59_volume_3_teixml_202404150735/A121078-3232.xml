@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:09.286267+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3232.tif
+IMAGE WIDTH: 2328
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>676
+          <lb/>GEMMYNGEN Georgius de
+          <lb/>Strassburg, M. Schürer 1509
+          <lb/>Annotatiuncula pro Con- fessoribus Spire! per Geor¬
+          <lb/>gium de Gemmyngen Prepositum ibidem! concepta.
+          <lb/>Impensis Eucharij Henner eiusdem ecclesiae Vicarij
+          <lb/>edita.
+          <lb/>Am Schluss: Matthias Schürerius Heluetensis, Argento¬
+          <lb/>rati exscripsit, Mense Decembri. M. D. VIIII. (Rücks. leer.)
+          <lb/>40, Antiq., 22 unn. Bll., Sign. A-D, Init.
+          <lb/>Auf der Rücks, des Titelbl.: Evcharivs Lectori.
+          <lb/>15. x. 1883.
+          <lb/>R101.364. Prov.: F. Butsch, Augsburg (Versteigerung Buxheim)
+          <lb/>GK: UB Göttingen. Schmidt VIII Nr. 26; Basel u. chemalige
+          <lb/>Strassburger Bibl. Inkun. Nr. 2050. Proctor II Sectio I Nr. 10.473:
+          <lb/>London British Museum.
+          <lb/>995
+          <lb/>GEOPONICA. Siche: BASSUS CASSIANUS
+          <lb/>GEORGIUS Trapezontius
+          <lb/>Strassburg, M. Schürer 1513
+          <lb/>CONTENTA. Georgij Trapezontij dialecti- ca haec
+          <lb/>continens.
+          <lb/>De Enunciatione. De quinque vocibus, id est praedi¬
+          <lb/>cabilibus. De praedicamentis. De sylogismo ypotetico
+          <lb/>ac conditionali. De enthymemate. i. syllogismo imperfecto.
+          <lb/>De diffinitione ac diuisione. De Thesi, ne quid aut di¬
+          <lb/>cendo, aut scribendo! absurdum pugnansve dicatur.
+          <lb/>Et haec omnia vtiliter, eleganterquemodo quidem
+          <lb/>per breui ac introductorio.
+          <lb/>Am Schluss: Argentorati, in officina Matthiae Schürerij,
+          <lb/>Mense Decemb. Ann. M. D. XIII. REGNAN. IMPERATORE! CAES.
+          <lb/>MAXIMILIANO. PF AVG. PP (Rücks, leer.)
+          <lb/>40, Antiq., 30 unn. Bll., Sign. A-E, Kopft., Marg., Init.
+          <lb/>Auf der Rücks, des Titelbl.: Beatus Rhenanus Ioanni! Kier¬
+          <lb/>hero... — Argentorati, cursim IIII. Calen. Iunias An. M. D.
+          <lb/>VIIII.
+          <lb/>R101872. Prov.: L. Rosenthal, München 12. VII. 1889,8M.
+          <lb/>GK. SB Berlin. Schmidt VIII Nr. 115; Proctor II Sectio I Nr.
+          <lb/>10.218: London Brit. Museum.
+          <lb/>296
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

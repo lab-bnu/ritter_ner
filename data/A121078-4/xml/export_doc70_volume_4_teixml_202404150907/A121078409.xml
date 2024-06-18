@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:54.776463+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078409.tif
+IMAGE WIDTH: 2370
+IMAGE HEIGHT: 3836
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1295
+          <lb/>Les 7 derniers ff. non ch. contiennent les « Testimonia Patrum» en
+          <lb/>latin.
+          <lb/>R. 101.886. Prov. : Trübner, Strasbourg (Vente Freiesleben, n° 931),
+          <lb/>15/XI, 1879, 6 M.
+          <lb/>Bibl. St.-Guillaume, Strasbourg.
+          <lb/>2022
+          <lb/>ROFREDUS
+          <lb/>Strasbourg, J. Gruninger, 1502
+          <lb/>Hoc est incomparabile Repertorium in Aureum li!! bellare
+          <lb/>opus illustris domini Roffredi Bene!! ventani super utrisque
+          <lb/>tam Pontificio quam Cesareo sacris Juribus, ingeniose
+          <lb/>editum] Necnon ad faustissimas Sab-batinas questiones
+          <lb/>eiusdem. Quod Studiosa iuven- tus, excussiora arte, et
+          <lb/>sibi et grate po! steritati eli-minari! cura! vit.!
+          <lb/>1. Après le Repertorium, nouveau titre: Solennis atque
+          <lb/>aureus tractatus! libellorum Domini Rofredi Bel [neventani
+          <lb/>super utraque censura cum! suis fructuosissimis questionibus
+          <lb/>et eorundem decisionibus exquisitissimis. (en rouge) (Traités
+          <lb/>divers.)
+          <lb/>2. Sans titre : Excelsi : consultissimi et utriusque censure
+          <lb/>ac totius practices mire prestantis viri domini Roffredi Be!
+          <lb/>neventani in suum elegantissimum opus libellorum !] super jure
+          <lb/>pontificio principium. (en rouge.)
+          <lb/>3. Sans titre : Fructuosissime sabbatine questiones ab illo
+          <lb/>emi nentissimo imperatorii iuris interprete : Domino!
+          <lb/>Roffredo beneventano edite incipiunt. (en rouge.)
+          <lb/>A la fin : Expensis autem atque mandato cir- cumspecti
+          <lb/>viri Petri trach civis Spirensis vehementer!! elimatum : in
+          <lb/>insigni urbe Argentinensi opera Johannis grüninger his
+          <lb/>characteribus sedulo impressum: finit felici! ter Anno dominice
+          <lb/>incarnationis secundo post quinde- ! cim centesimum. xvi.
+          <lb/>Kalendas septembris.Diu Vale Lector. (en rouge.) (verso
+          <lb/>blanc.).
+          <lb/>Grand in-fol., car. goth., 2 col., XXX ff. ch. pour le Repertorium,
+          <lb/>CLII ff. ch. pour la seconde partie et 2 ff. non ch. (Index); LI ff. ch.
+          <lb/>pour la 3e partie et 1 f. non ch. (Index) ; 28 ff. non ch. pour la 4e partie
+          <lb/>sign. A-L; init. d’attente; les titres après le Repertorium, l’explicit et les
+          <lb/>rubriques des chapitres sont en rouge.
+          <lb/>R. 56. Prov. : Don de la ville de Nordlingen. Schmidt I, n° 59.
+          <lb/>2023
+          <lb/>RORICH (Roerich) Georg. Voir: CALAMINUS Georgius
+          <lb/>ROSARIUM Sermonum. Voir : Bernardinus de BUSTI
+          <lb/>ROSENGARTEN der schwangeren Frauen und Hebammen. Voir:
+          <lb/>ROESSLIN Eucharius.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

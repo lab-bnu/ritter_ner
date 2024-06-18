@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:08.989469+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3223.tif
+IMAGE WIDTH: 2328
+IMAGE HEIGHT: 3854
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Dacheux, Geiler S. CXXVI; GE: SB Berlin, UB Bonn. Proctor
+          <lb/>II Sectio I Nr. 9949: London Brit. Museum; Schmidt I Nr. 162: Bibl.
+          <lb/>Wilh. Strassburg; Eggimann Ch., La Licorne, Bull. Nr. 10 (1937) Nr.
+          <lb/>1730 ein Ex. für 200 Fr.; Rosenthal, München, Katal. 135 (1914) Nr.
+          <lb/>923. 50 M.
+          <lb/>981
+          <lb/>GEILER Johannes
+          <lb/>Strassburg, Joh. Grüninger 1520
+          <lb/>Des hoch! wirdigen doctor Keiserspergs na- ren¬
+          <lb/>schiff so er gepredigt hat zû straszburg in der hohen
+          <lb/>stifft da! selbst Predicant der zeit, 1498. dis geprediget.
+          <lb/>Vnd usz latin in tütsch bracht, darin vil weisz! heit
+          <lb/>ist zû lernen, vnd leert auch die narrenschel hin! weck
+          <lb/>werffen. ist nütvnd gût alen menschen.Cum Priui¬
+          <lb/>legio. (Rücks, leer.)
+          <lb/>Am Schluss: Getruckt zû Straszburg von Johanne
+          <lb/>Grieninger, vnd seliglich geendet, vf sant Bartholomeus
+          <lb/>abent In dem iar der geburt Christi Tusent. CCCCC.XX.:.
+          <lb/>(Rücks. leer.)
+          <lb/>Aus dem Latein, ins Deutsche übersetst von Joh. Pauli, loszmeister
+          <lb/>zu Thann in dem iar. 1.5.1.9.
+          <lb/>20, Got., 28p., COXXIIII Bll. (zahlr. Paginationsfehler), Kopft.,
+          <lb/>Init., Titel rot u. schwarz, Titelumrahmung wie in der vorhergehenden
+          <lb/>Nr., 115 Holeschn, alle aus Geilers Navicula fatuorum mit Ausnahme
+          <lb/>des 1. Holeschn., der einem früheren Werke Grüningers entnommen ist.
+          <lb/>Bl. 6b: Onofrius Brant: Dem lesenden heil. (31 deutsche Verse.)
+          <lb/>Bl. 9-14: Vorrede.
+          <lb/>R 10.113. Prov.: Bibl. Ch. Schmidt mit seinem Exlibris u. No¬
+          <lb/>tizen von seiner Hand.
+          <lb/>2. Ex. R 10.112. Geschenk der Univ.-Bibl. Freiburg. Auf einem
+          <lb/>eingeklebten Zettel: Diss buoch gehort zu den Cartheusern vff Sant Jo¬
+          <lb/>hannisberg by Friburg im Bryssgaw gelegen.
+          <lb/>Stadtbibl. u. Priesterseminar Strassburg Incun. C 23; BN Paris,
+          <lb/>Rés. D. 1650bis. Dacheux, Geiler S. CbXV. Kristeller 102, Proctor II
+          <lb/>Sectio I Nr. 9955: London Brit. Museum; Schmidt I Nr. 172: Bibl.
+          <lb/>Wilh. u. Ehemalige Strassburger Bibl. Incun. Nr. 1963. GK: SB Ber¬
+          <lb/>lin, UB Göttingen.
+          <lb/>982
+          <lb/>667
+          <lb/>GEILER Johannes
+          <lb/>Strassburg, Joh. Grüninger 1520
+          <lb/>An dem Ostertag hat der hochgelert Doctor Keisers¬
+          <lb/>perg gepre! digt von den dry marien wie sie vnsern heren
+          <lb/>iesum cristum wolten salben Vnd von! den mucken die
+          <lb/>vnsz die salben verderben. Von den senff-körnlin. Vnd
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

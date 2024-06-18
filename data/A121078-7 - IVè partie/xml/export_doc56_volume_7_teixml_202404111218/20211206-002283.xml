@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:09.015931+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002283.tif
+IMAGE WIDTH: 2508
+IMAGE HEIGHT: 3980
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>scheydung alle metal... (Grav.). — Strasbourg, Jacques
+          <lb/>Cammerlander M.D.XXXXIIII, in-40.
+          <lb/>Voir : Darmstaedter p. 170 avec reproduction du titre p. 173.
+          <lb/>2227
+          <lb/>KERTZENMACHER, Petrus : Alchimia. Wie man alle farben,
+          <lb/>wasser, olea, salia und alumina... machen sol.... —
+          <lb/>Strasbourg, Jacques Cammerlander (1539), in-4°.
+          <lb/>Darmstaedter, p. 174 ; reproduction du titre p. 179.
+          <lb/>2228
+          <lb/>KESSLER, Isaac : Von rechtschaffener, seligmachender
+          <lb/>Betrachtung unsers ewigen Heils, gezogen aus dem
+          <lb/>heiligen Passion Jesu Christi. — Strasbourg, Samuel
+          <lb/>Emmel 1566, in-80.
+          <lb/>Ritter, Hist. impr., p. 508, app. 387. (Chez Emmel aussi
+          <lb/>1566: Vom h. Abendmal, voir Ritter, Rép. n° 1308). 2229
+          <lb/>KETTENBACH, Heinrich von : Vergleychung der Bäpstsat¬
+          <lb/>zung... — (Strasbourg, Jean Prüss) 1523, in-4°.
+          <lb/>Flugschriften vol. 2, fasc. 1, p. 127 f. (3e éd.); Weller 3221
+          <lb/>(l’attribue à Jean Schwan).
+          <lb/>2230
+          <lb/>KETTENBACH, Heinrich von : Ein practica ausz der... Bibel...
+          <lb/>— (Strasbourg, Jean Prüss 1523), in-4°.
+          <lb/>Flugschriften vol. 2, fasc. 1, p. 178 (éd. 4) (Kuczynski 1181;
+          <lb/>Weller 2467).
+          <lb/>2231
+          <lb/>KETTENBACH, Heinrich von : Ein Practica... — (Strasbourg,
+          <lb/>Martin Flachl 1523, in-40.
+          <lb/>Flugschriften, vol. 2, fasc. 1, p. 176 (éd. 3).
+          <lb/>2232
+          <lb/>KETTENBACH, Heinrich von : Ein Sermon zu der loblichen
+          <lb/>statt Ulm zu einem valete das ist zu der letse. In welcher
+          <lb/>gemelt werden vil artickel, die er wider die Papisten
+          <lb/>gepredigt hat... — [Strasbourg) 1523, in-8°.
+          <lb/>Flugschriften, vol. II, fasc. I, p. 105 (3e éd.).
+          <lb/>2233
+          <lb/>281
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

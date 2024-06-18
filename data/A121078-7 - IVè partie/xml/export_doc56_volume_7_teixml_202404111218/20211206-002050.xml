@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:02.937851+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002050.tif
+IMAGE WIDTH: 2508
+IMAGE HEIGHT: 3990
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>met au monde 5 enfants, entre le 22 et 23 décembre
+          <lb/>1565.) — Strasbourg, Th. Berger 1565, placard in-fol.
+          <lb/>Bibl. Centrale Zurich.
+          <lb/>994
+          <lb/>BESCHREIBUNG : Kurtze — Des Lotringischen und
+          <lb/>Guisischen Feindlichen einfals in die Graveschafft
+          <lb/>Mümpelgart... — (Strasbourg, Bernard Jobin 1588)
+          <lb/>in-4° (Avec préface de Fischart).
+          <lb/>Hauffen, Adolf, Fischartstudien (Euphorion VI p. 566) avec
+          <lb/>de légères différences : Breslau, Darmstadt, Munich, Zurich.
+          <lb/>995
+          <lb/>BESCHREIBUNG : Ordentliche, welcher gestalt die nach¬
+          <lb/>barliche Bündnuss und Verain der dreyen löblichen freien
+          <lb/>Stätt Zürich. Bern und Strassburg dieses gegenwärtigen
+          <lb/>1588 Jars im Monat Maio ist ernewert, und bestätigt und
+          <lb/>vollzogen worden... — Strasbourg, Bernard Jobin 1588,
+          <lb/>in-40.
+          <lb/>Ritter: B M Strasbourg 527 et 528; Baer (Francfort-s.-M.),
+          <lb/>Catal, 500 (1907), n° 629; 60 M.
+          <lb/>996
+          <lb/>BESCHREIBUNG : Wolbedenckliche, Des, an dem König in
+          <lb/>Franckreich newlich verrhäterlich begangenen Meuchel¬
+          <lb/>mords von einem Mönch Prediger Ordens. Inmassen
+          <lb/>solchen die Rebellischen Pariser selbst haben an Tag
+          <lb/>gegeben und in offenem Truck zu Parys publicieren und
+          <lb/>auszkommen lassen. Ausz dem Frantzösischen der
+          <lb/>eygentlichen meynung nach verteutschet, und mit
+          <lb/>Nötigen Erinnerungen ersetzt : Durch Bernhart Janot.
+          <lb/>Anno M.D.LXXXIX. — (Strasbourg, Bernard Jobin)
+          <lb/>1589, in-4° (En partie de Fischart).
+          <lb/>Hauffen, Fischart-Studien X, p. 11.
+          <lb/>997
+          <lb/>BESCHREIBUNG Warhafftige und gründtlicher bericht
+          <lb/>von der unerhörten, verräterischen Mörderey zu Paris
+          <lb/>in Franckreich, desgleichen zu Leon, Scherter, Harles,
+          <lb/>Castrelo unnd Orliens, welche sich begeben hat den 24.
+          <lb/>48
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

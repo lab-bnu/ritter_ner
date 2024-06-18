@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:07.516058+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002225.tif
+IMAGE WIDTH: 2486
+IMAGE HEIGHT: 3988
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>GUENTHERIUS, Johannes : De Victu et Medicinae ratione... —
+          <lb/>Strasbourg, Wendelin Rihel, mars 1542, in-8°.
+          <lb/>Graesse III, p. 117; Walter, n° 1456.
+          <lb/>1939
+          <lb/>GUENTHERIUS, Joh. : Instruction très utile par laquelle
+          <lb/>chacun se pourra maintenir en santé, tant au temps de
+          <lb/>peste comme en autre temps.—Strasbourg, au Pélican
+          <lb/>1547, in-8°. [Traduction du numéro précédent).
+          <lb/>Ritter : Hist. de l’impr. p. 366.
+          <lb/>1940
+          <lb/>GUENTHER, Joh. Voir: QUINTILIANUS, Epitome n° 3060;
+          <lb/>PAULUS, Aegineta n° 2853. (RITTER, Rép. nos 1059-1063).
+          <lb/>GUENTZBURG. Voir: EBERLIN von Günzburg, Joh.
+          <lb/>GUERTLER, Hieronymus. Voir: CINGULARIUS, Hier.
+          <lb/>GUEVARRA, Antonius : Der Hofleut Wecker. Darinn mit
+          <lb/>vielen schönen Lehren und nutzlichen Exempeln ange¬
+          <lb/>zeigt wirdt, welcher massen sich ein Hofmann gegen
+          <lb/>menniglich erzeigen soll. Unnd durch was Mittel er seines
+          <lb/>Fürsten und Herren gnade, so er dieselbe erlangt,
+          <lb/>behalten möge. Erstlich durch den Hochwürdigen Herrn
+          <lb/>Antonium von Guevarra Bischoffen zu Modagneto... in
+          <lb/>Spanischer Spraach beschriben. Volgendts in die
+          <lb/>Italienisch gebracht. Jetzund aber von... Herrn Wolffgang
+          <lb/>Hunger.., verteutscht... — Strasbourg, Bernard Jobin
+          <lb/>1598, in-8°.
+          <lb/>Ritter: B M Strasbourg, n° 1156. [Ritter, Rép. nos 1053 et
+          <lb/>1054 : éd. Jobin 1582 et 1593).
+          <lb/>1941
+          <lb/>GUICCIARDINI, Franciscus : Hypomneses politicae. —
+          <lb/>Strasbourg, Lazare Zetzner 1599, in-8°. (Voir: Speculum
+          <lb/>Aulicarum. IVl.
+          <lb/>1942
+          <lb/>GUILELMUS de Conchis : Pragmaticon philosophiae. —
+          <lb/>Strasbourg 1566, in-8°.
+          <lb/>Graesse III, p. 181.
+          <lb/>1943
+          <lb/>223
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

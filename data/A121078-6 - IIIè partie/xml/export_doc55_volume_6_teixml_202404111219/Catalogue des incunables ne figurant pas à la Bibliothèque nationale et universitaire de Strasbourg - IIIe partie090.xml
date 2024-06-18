@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:06.477188+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie090.tif
+IMAGE WIDTH: 2484
+IMAGE HEIGHT: 3924
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>PHRYSIUS : Ars memorativa. — Strasbourg 1497, in-40.
+          <lb/>Hain 12986.
+          <lb/>577
+          <lb/>PIUS II (pape) : De duobus amantibus... De remedio amoris. —
+          <lb/>Strasbourg, (Henri Knoblochtzer) 1476, in-4°.
+          <lb/>Hain 228, Proctor 300, Pellechet 149, Schorbach-Spirgatis
+          <lb/>p. 72.
+          <lb/>578
+          <lb/>PIUS II. De duobus amantibus. — [Strasbourg, Henri Kno¬
+          <lb/>blochtzer 1477, in-40.
+          <lb/>Hain 229, Schorbach-Spirgatis n° 5; Nachträge p. 95 ;
+          <lb/>Dialektisch verschieden von Schorbach no 10; Heitz-Ritter
+          <lb/>n° 123 : Karlsruhe.
+          <lb/>579
+          <lb/>PIUS II : De duobus amantibus (en allemand par Nicolaus
+          <lb/>von Wyle). — (Strasbourg, Henri Knoblochtzer après
+          <lb/>le 5. VI. 1477), in-fol.
+          <lb/>Hain 242; Proctor 367; Pellechet 169; Schorbach-Spirgatis
+          <lb/>n° 10; Voulliéme : Berlin 2225; Brunet I, 70; Graesse I, p. 26;
+          <lb/>Heitz-Ritter no 124 : B N Berlin, Ratisbonne.
+          <lb/>580
+          <lb/>PIUS II (pape). Voir: ORATIONES tres contra Turcos n° 531.
+          <lb/>PLATEA, Franciscus de : Tractatus de ruine ecclesiae planctu.
+          <lb/>— Haguenau s. d., in-4° (16e siècle (?)).
+          <lb/>Hain 13032; Voulliéme, : Berlin 1189.
+          <lb/>581
+          <lb/>PLAUTUS : Aulularia. — Strasbourg, J. Prüss s. d., in-4°.
+          <lb/>Hain 13086.
+          <lb/>582
+          <lb/>PLENARIUM. Voir: EVANGELIA und Episteln mit der glos,
+          <lb/>nos 247-251.
+          <lb/>POENITENTIONARIUS de confessione... — (Strasbourg,
+          <lb/>Jean Grüninger s. d.), in-4°.
+          <lb/>Hain 13166; Proctor 504; Voulliéme : Berlin 2323.
+          <lb/>583
+          <lb/>POGGIO. Voir: LUCIANUS, Asinus aureus, n° 431.
+          <lb/>88
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

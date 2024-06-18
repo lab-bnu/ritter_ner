@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:29.733651+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2115.tif
+IMAGE WIDTH: 2314
+IMAGE HEIGHT: 3824
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>111
+          <lb/>A la fin, avant l&amp;#x27;explieit: Matthias Schürerius artium doc¬
+          <lb/>tor lectori S. (9 lignes.)
+          <lb/>*RI01,330. Prov.: Baer, Francfort s. M., 22/XI. 1878, sans in¬
+          <lb/>dication de prix.
+          <lb/>2e exemplaire: FRI01.329. Prov.: Don de Fid. Butsch, anti¬
+          <lb/>quaire à Augsbourg. 1871
+          <lb/>3e exemplaire: *R102,342. Prov. : également don de Fid. Butsch.
+          <lb/>BN Paris, Rés. Z. 1104; Schmidt VII, Ne 22: Bibl. St. Guillaume
+          <lb/>et Jadis Bibl, de Strasbourg, Incun. No 727; Walter, No 757: BM Sé¬
+          <lb/>lestat; GPB: Berlin, Breslau, Gœttingue.
+          <lb/>187
+          <lb/>BERNARDVS TREVISANVS
+          <lb/>Strasbourg, Chr. Müller, 1574.
+          <lb/>Von der Hermetischenn Philosophia, das ist, von
+          <lb/>dem Gebenedeiten Stain! der Weisen.! Der hocherfahrnen
+          <lb/>vnd für tref- lichen Philosophen,! Herren Bernhardi, Grauen
+          <lb/>von! der Marck vnd Teruis ein Buch.
+          <lb/>Item, Dicta Alani, Darinn alles hell vnd klar an tag
+          <lb/>geben wirdt. Ex libris Doctoris Henrici Vuolffij. Vor¬
+          <lb/>mals nie im Truck auszgangen.
+          <lb/>Cum gratia &amp;amp; priuilegio Caesareo.
+          <lb/>Getruckt zû Straszburg bey Christian Müller.) 1574.
+          <lb/>(Verso blanc.)
+          <lb/>In-8°, car. goth., 100 ff. non ch., sign. A-N, titre courant, réclames,
+          <lb/>initiales gothiques.
+          <lb/>Fol. A 2a:... Herrn Ludwigen Pfaltzgrauen bey Rhein,
+          <lb/>Hertzogen in Bayern,... — Hagenaw, den 15. Jen-ners,
+          <lb/>Anno 1574.... Michael Toxites.
+          <lb/>Fol A 6a: An den Leser.
+          <lb/>Fol. A 7a: Vorrede Bernhardi... (12 fr)
+          <lb/>A la fin des Dicta Alani: Anno Domini Fünffzehen! hun¬
+          <lb/>dert, vnd im zwelfften Jar. Per me Johannem Gyer, oriun¬
+          <lb/>dus de Roden bergen, illo tempore manens in Colonia.
+          <lb/>(Verso blanc.)
+          <lb/>R101.259(3). Provenance inconnue.
+          <lb/>Fol. Dá et D5 manquent. Rel. anc.
+          <lb/>GPB: Berlin, Kœnigsberg.
+          <lb/>188
+          <lb/>BERNO, abbé de Reichenau
+          <lb/>Strasbourg, M. Schürer, 1511.
+          <lb/>BERNONIS ABBATIS LIBELLVS. Dle officio missae, quem
+          <lb/>edidit Rhomae. Sacerdotes studiose legant. l... (12 lignes.)
+          <lb/>A la fin: In Aedibus Schurerianis! Argentonati. M.D.XI.
+          <lb/>(Verso blanc.)
+          <lb/>In-4°, car, rom., 22 ff. non ch., sign. A-C, tître courant, notes mar¬
+          <lb/>ginales, initiales d’attente.
+          <lb/>Au verso du titre: lacobus Faber sacerdotibus S. D. ...
+          <lb/>— Parisijs. M. D.X.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

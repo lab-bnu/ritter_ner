@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:38.982803+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2421.tif
+IMAGE WIDTH: 2382
+IMAGE HEIGHT: 3840
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>417
+          <lb/>Au-dessous: CAVTVM est Caesareo Priuilegio, ne quis in¬
+          <lb/>tra septennium imprimat hoc Dictionarium, aut alibi im¬
+          <lb/>pressum intra Caesaris &amp;amp; Romani Imperii fines diuendat.
+          <lb/>A la fin: ARGENTORATIExcudebat Vuendelinus Rihe¬
+          <lb/>lius, Anno! M. D. LHII.
+          <lb/>In-8o, car, rom. et goth., 2 col., 288 ff. non ch. pour la Ière par¬
+          <lb/>tie, (latin-allemand), sign. a, A-Z, Aa-Nn et 166 ff. non ch. pour la
+          <lb/>IIe partie (allemand-latin) réclames, initiales ornées 9, S.
+          <lb/>Au verso du titre: TITVLI NOMENCLATVRAERerum.
+          <lb/>fol. A 2a: IOANNES LVDOVICVS VIVES de tradendis disci¬
+          <lb/>plinis libro tertio.. — Antonius Nebrensis fecit. Au verso:
+          <lb/>STVDIOSIS LITERARVM Adolescentibus per Germaniam la¬
+          <lb/>cobus Bedrotus S. D.
+          <lb/>fol. a 3a: PETRVS DASYPODIVS AEQVO LECTORI SALV¬
+          <lb/>TEM... — Argentorati Octauo Kalen. Martias, Anno M.D.
+          <lb/>XXXVII.
+          <lb/>R101602. Prov.: Vente Metzger, Colmar par notaire Beyer,
+          <lb/>30/IV. 1898; annotations mss. A l’intérieur du premier plat : Der mich
+          <lb/>liebt in praesentia! Und schild mich in absensentia! Der hab die pesti¬
+          <lb/>lentia. Dis buch ist mir lieb der es mir stilt der ist ein Dieb.... Fri¬
+          <lb/>derich a Veltheim! Anno 1650. Au bas du titre: Sum ex libris Ioannis,
+          <lb/>Grünhögel Anno 1689. Sous l’explicit: Friderich De Veltheim Anno
+          <lb/>1652.... Anno 1649. Au dessous: Sum ex libris Iohannes Grünhögel
+          <lb/>Anno 1686.
+          <lb/>Bibliographie de Dasypodius: Schottenloher I, No 3610-3614.
+          <lb/>620
+          <lb/>DASYPODIUS Petrus
+          <lb/>Strasbourg, W. Rihel, 1556.
+          <lb/>DE SCHO- LA VRBIS AR- gentoratensis.... (2 vers grecs)
+          <lb/>Marque typ. de W. Rihel. (HEB, Planche XXIX, No 5; Sul¬
+          <lb/>vestre, No 757.
+          <lb/>Anno D. M. LVI. (!) Mense Nouembri. (Verso blanc.)
+          <lb/>In-80, car, rom. et ital., 16 ff. non ch. dont les 2 derniers blancs,
+          <lb/>sign. A-B, titre courant, réclames, notes marginales, initiale d’attente
+          <lb/>O et initiale ornée Q.
+          <lb/>fol. A 2a: ... Michaeli Han Generosi Co- mitis ab
+          <lb/>Hanou à Consilijs Petrus! Dasypodius... — Argentorati
+          <lb/>Postridie Calendas Nouemb. (1 page.)
+          <lb/>R102.301. Prov.: Bibliothèque du Gymnase de Heilbronn, 2/IV.
+          <lb/>1878; contre échange.
+          <lb/>621
+          <lb/>R.27
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

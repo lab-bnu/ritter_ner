@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:37.364100+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2372.tif
+IMAGE WIDTH: 2350
+IMAGE HEIGHT: 3826
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>368
+          <lb/>COCHLAEUS Johannes
+          <lb/>Strasbourg, J. Grüninger, 1523.
+          <lb/>DE BAPTMOPARVVLORVM LIBER VNVS Ioan.
+          <lb/>Cochlaei. Ad- uersus assertio! nem Marti. Lutheri. (Feuille
+          <lb/>de lierre.)
+          <lb/>A la fin (fol. LVIIa): EXCVSVM ARGENTINE IMPENSIS] &amp;amp;
+          <lb/>opera Honesti viri Ioannis Grieninger! Ciuis Argen, in die
+          <lb/>Sanctae Appoloniae Anno Salutis. Millesimo Quin- gente¬
+          <lb/>simo vicesimo tercio.
+          <lb/>In-4°, car, rom., LVII ff. ch., titre courant, notes marginales,
+          <lb/>initiales ornées, tître encadré. (H e B, Planche I, No 2).
+          <lb/>Au verso du titre: DOMINO IVSTO IONAE, PRAEPO- sito
+          <lb/>Wittenbergensi, Io. Cochlaeus bene agere.
+          <lb/>Au verso du dernier f.: Io. Grieninger Lectori.
+          <lb/>R101765. Prov.: Don de Fidelis Butsch fils, antiquaire à Augs¬
+          <lb/>bourg, 1871.
+          <lb/>BN Paris, D 5852(2); BU Fribourg en Br. N 6405, 4; GPB:
+          <lb/>BN Berlin, BU Bonn, Breslau, Marbourg. Schmidt I, No 195: Bibl.
+          <lb/>de Bâle.
+          <lb/>549
+          <lb/>COCHLAEUS Johannes
+          <lb/>Strasbourg, J. Grüninger, 1523.
+          <lb/>Ein Spiegel der Ewangelischen freyheit, wie die
+          <lb/>Christus warhafftiklich gelert vnd Martin Luther yetz in
+          <lb/>vnseren zeyten die selbigen vnnützlich fürge ben hat.
+          <lb/>D. J. K. (— Doctor Johann Cochläus.) (Feuille de lierre).
+          <lb/>A la fin: Getruckt zâ Straszburg durch Johannem
+          <lb/>Grieninger auff den weyhenacht abent in dem iar als man
+          <lb/>zalt nach der ge- burt Christi. M. D. XXIII.
+          <lb/>In-4°, car. goth., 14 ff. non ch., sign. A-D, notes marginales, ini¬
+          <lb/>tiales ornées; titre encadré de 4 lignes doubles qui s’entrecoupent.
+          <lb/>R101942. Prov.: Trübner, Strasbourg, 10/VI. 1887; 8 M. Au
+          <lb/>bas du titre: Van de Velde.
+          <lb/>GPB: BN Berlin, BU Berlin, Halle, Marbourg. Sehmidt I. Ne
+          <lb/>206: Bâle, BN Munich.
+          <lb/>550
+          <lb/>COCHLAUS Johannes
+          <lb/>Strasbourg, J. Grüninger, 1524.
+          <lb/>DE FOMITE] peccati Jo. Cochlei Argumentum Libri
+          <lb/>huius.De statu animarum post hanc vitam... (7 lignes.)
+          <lb/>Verso blanc.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

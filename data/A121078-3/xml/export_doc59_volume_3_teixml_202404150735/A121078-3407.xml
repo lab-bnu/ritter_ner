@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:13.502185+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3407.tif
+IMAGE WIDTH: 2408
+IMAGE HEIGHT: 3856
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>AVTORE. (Bildnis des Johannes Indagine von Baldung.) Darunter:
+          <lb/>IOANNE INDAGINE 1522.
+          <lb/>Cum gratia &amp;amp; priuilegio Imp. (Rücks, leer.)
+          <lb/>Bl. 48a: IMPENSIS AVTORIS LIBRI, opera uero loannis
+          <lb/>Scotti Argentorat, sub! annum Domini M. D. XXII.
+          <lb/>Leometrie practice
+          <lb/>De mẽsuratioe supficiexz peuno circula
+          <lb/>risz scmicircularis, sa.Vl, Oiscipulus
+          <lb/>Ensurd lintar lelleri sone: ad suplidies nũc
+          <lb/>stuũ verre quese. Apa, facii as lubẽez oc
+          <lb/>circulo oim supsidicrd̃ prime r rogularissimo
+          <lb/>uene que Podimu: qur omia in ppesiro idem si¬
+          <lb/>crordiñ sumamꝯ. Cutus si arcam (Embadez
+          <lb/>guisicant. &amp;amp; connueurin scue volucris: multiplica medic¬
+          <lb/>taron curcũf rutie m medierare n oiamtrri e ptodacri
+          <lb/>oabit areun, ot graria tremou sir ciren&amp;#x27;us cuius circum¬
+          <lb/>streucia.44. n bu uger .i4 erit arcaisa. aur oucarur
+          <lb/>viemcto in se pioduicrum mrltipticetur per¬
+          <lb/>849
+          <lb/>R.54
+          <lb/>(Zu Nr. 1263)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

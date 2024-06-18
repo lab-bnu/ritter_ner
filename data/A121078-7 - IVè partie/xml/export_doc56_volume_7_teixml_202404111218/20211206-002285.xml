@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:09.044383+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002285.tif
+IMAGE WIDTH: 2492
+IMAGE HEIGHT: 3980
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>KIRCHENAMT: Theütsch kirchen ampt mit lobgsengen und
+          <lb/>göttlichen Psalmen wie es die gemeyn zu Straszburg singt
+          <lb/>unnd halt, mit meer gantz Christlichen gebetten dann
+          <lb/>vor getruckt... M. D.XXV. — [Strasbourg, Wolfg. Köpfel)
+          <lb/>1525, in-8°. [Préface de Köpfell.
+          <lb/>Hubert, n° 9 : « Einst im Besitz des Antiquars Thoma in
+          <lb/>Nürnberg. Verloren ». Goedeke II2, p. 162, n° 5; Weller,
+          <lb/>n° 3453, Wackernagel, p. 72; Smend, p. 124.
+          <lb/>2239
+          <lb/>KIRCHENAMT : Strassburger Kirchenampt, nemlich von
+          <lb/>Insegnung der Eelüt, vom Tauf und von des herren
+          <lb/>nachtmal, mit etlichen Psalmen, die am end des büchlins
+          <lb/>ordentlich verzeychnet sein. — (Strasbourg), Wolfgang
+          <lb/>Köpfel, mai 1525, in-8°.
+          <lb/>Vogeleis, p. 215; Wackernagel 192 ; Hubert n° 14. 2240
+          <lb/>KIRCHENAMT : Das ander theyl. Strassburger kirchengesang.
+          <lb/>Das vatter unser. Der glaub. Die zehen gepott. Das
+          <lb/>Miserere. Psal. Der dorecht spricht. Psal. Wer gott
+          <lb/>nicht mit. Die acht ersten psalmen, uff die melody.
+          <lb/>Ach gott von himel. — Truckt bey Wolff Köpphel zu
+          <lb/>Straszburg (1525), in-80.
+          <lb/>Hubert, n° 10 a.
+          <lb/>2241
+          <lb/>KIRCHENAMT : Das dritt theyl Straszburger kirchen ampt. —
+          <lb/>(Strasbourg, Wolfgang Köpfel) 1525, in-8° (Encadre¬
+          <lb/>mentl.
+          <lb/>Hubert, n° 11 b. Wackernagel 190.
+          <lb/>2242
+          <lb/>KIRCHHANS. Voir: LIED (ein schönes neues) n° 2365.
+          <lb/>KIRCHMEIER, Thomas) (Naogeorgus) : Judas Iscariotes,
+          <lb/>Tragoedia nova et sacra,... Thoma Naogeorgo autore.
+          <lb/>Adiunctae sunt quoque duae Sophoclis Tragoediae, Aiax
+          <lb/>flagellifer et Philoctetes, ab eodem autore carmine
+          <lb/>versae... — (Strasbourg 1552), in-80.
+          <lb/>(Préface de l’auteur au magistrat de Strasbourg, 12 sept. 1552
+          <lb/>de Stuttgard). Bibl. St. Guillaume Strasbourg. Skopnik,
+          <lb/>283
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

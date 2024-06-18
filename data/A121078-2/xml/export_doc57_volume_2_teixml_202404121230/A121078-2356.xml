@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:36.925322+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2356.tif
+IMAGE WIDTH: 2326
+IMAGE HEIGHT: 3818
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>352
+          <lb/>CICERO
+          <lb/>Strasbourg, J. Rihel, 1574.
+          <lb/>[Vol. Il : M. T. CICERONIS LIBRORVM PHILOSOPHI-) CORVM
+          <lb/>VOLVMEN I.Post Naugerianam &amp;amp; Victorianam correctio¬
+          <lb/>nem, emendatum à! IOAN. STVRMIO.
+          <lb/>Academicae quaestiones.! Editionis primae liber quar¬
+          <lb/>tus, qui Lucullus inscribitur. Editionis secundae liber
+          <lb/>primus. De finibus bonorum &amp;amp; malorum. Tusculanae
+          <lb/>quaestiones.
+          <lb/>Indice rerum verborumque insigniorum! adiecto.
+          <lb/>Marque typ. de Iosias Rihel, (HE B, Planche XXXI, No 9;
+          <lb/>Silvestre, No 599.)
+          <lb/>Au-dessous: Cum gratia &amp;amp; priuilegio Caesareo ad annos
+          <lb/>octo.! M. D. LXXIIII. (Verso blanc).
+          <lb/>A la fin: IMPRESSVM ARGENTORATI,) apud Iosiam Rihe¬
+          <lb/>lium. Anno! M. D. LXXIIII.
+          <lb/>In-8°, car. ital., 8 ff. non ch, 251 ff. ch., 41 ff. non ch. (Index);
+          <lb/>titre courant, réclames, initiale ornée H, le reste initiales d’attente.
+          <lb/>fol. a 2a: Ap... DOMI-num Seuerinum Bonerum de
+          <lb/>Balicze, in Ogrodzie- niecz &amp;amp; Camieniecz haeredem...
+          <lb/>Capitaneum. Ioan. Sturmij Praefatio... — Argentorati
+          <lb/>Calend. Martij. (2 p.)
+          <lb/>fol. a 3a: FRANCISCVS ASVLANVS! LECTORI. (12 p.)
+          <lb/>(Vol. IIl : M. T. CICERONIS] PHILOSOPHICORVM VoLV¬
+          <lb/>MEN II.
+          <lb/>Post Naugerianam &amp;amp; Victorianam correctio-nem, emen¬
+          <lb/>datum à IOAN. STVRMIO. De Natura deorum. De Diui¬
+          <lb/>natione. De Fato. De Somnio Scipionis. De Legibus.
+          <lb/>De Vniuersitate.! De Petitione Consulatus.! Indice locu¬
+          <lb/>pletissimo.
+          <lb/>Marque typ. de Iosias Rihel, (HAB, Planche XXXI, No9;
+          <lb/>Silvestre, N° 599.)
+          <lb/>Au-dessous: Cum gratia &amp;amp; priuilegio Caesareo ad annos
+          <lb/>octo. M. D. LXXIIII. (Verso blanc.)
+          <lb/>A la fin: ARGENTORATI EXCVDEBAT IOSIAS RIHELIVS
+          <lb/>M. D. LXXHII.
+          <lb/>In-80, car, ital., 9 fr. non ch, dont les 3 derniers et le verso de
+          <lb/>4e blancs; 213 ff. ch. numérotés de 2-214, le verso du dernier blanc,
+          <lb/>14 ff. non ch. (Index), verso du dernier blanc; titre courant, réclames,
+          <lb/>initiale ornée D, le reste initiales d’attente.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

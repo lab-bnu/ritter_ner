@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:53.050266+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078350.tif
+IMAGE WIDTH: 2336
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1236
+          <lb/>de Geiler 1522, P. II, fol. 116b, remplace l’image du texte allemand
+          <lb/>qui ne donne que Jésus sur un âne;,cette substitution d’une gravure
+          <lb/>d’un meilleur style, écrit Schmidt II n° 98, ,à celle, un peu triviale,
+          <lb/>qui est imitée du manuscrit, me fait supposer que l&amp;#x27;édition latine est
+          <lb/>postérieure à l’autre.&amp;quot; La destruction de Babylone est au fol. e IVb.
+          <lb/>R101.383 (4). Prov.: Bibl. Heitz, Strasbourg 1871.
+          <lb/>2ème ex. R101.386. Prov.: Bibl. Univ. de Heidelberg 1871; in¬
+          <lb/>complet, les 4 derniers ff. manquent.
+          <lb/>Schmidt II n° 98 l’attribue à J. Schott 1525.
+          <lb/>1931
+          <lb/>PROCLUS Diadochus
+          <lb/>Strasbourg, W. Eihel 1539
+          <lb/>...PROCLI DIADOCHI LIBEL- lus de circulis spherae
+          <lb/>astrono miam discere incipienti-bus, utilissimus.
+          <lb/>EX LIBERA ARGENTINAin aedibus Wendelini Rihelii.
+          <lb/>Mense Martio.  ANNo. M. D. XXXIX. (Verso blanc.)
+          <lb/>Au verso du dernier f. blanc, marque typ. de W. Rihel. (HEB
+          <lb/>planche XXIX n° 2; Silvestre no 742.)
+          <lb/>In-80, car, grecs et ital., 19 ff. ch. et 1 f. blanc, titre courant,
+          <lb/>réclames, init. A, blanc sur fond noir.
+          <lb/>Fol. 13a: Procli Sphaera! Thoma Linacro Britari-] no interprete.
+          <lb/>R 101.532. Prov.: Bibl. du Gymnase de Heilbronn 2/IV 1878.
+          <lb/>1932
+          <lb/>PROGNOSTICA. Voir: HENRICHMANN Jacobus No 1127.
+          <lb/>PROPHETEN
+          <lb/>Haguenau, Guill. Selte 1528
+          <lb/>Alle propheten nach Hebraischer! sprach verteutscht
+          <lb/>par Ludovicus Hätzer). Getruckt zû Hagenaw bey! Wil¬
+          <lb/>helm Seltz, Anno! M. D. XXVIII.
+          <lb/>A la fin: Getruckt zû Hagenaw bey Wilhelra Seltz,
+          <lb/>und volendet am zwölfften tag des Hor-nungs, im jar
+          <lb/>nach der geburt Chri- sti unsers seligmachers. M. D.
+          <lb/>XXVIII.
+          <lb/>In-fol., car. goth., OLXI ff. ch., titre courant, réclames, init. à
+          <lb/>fig. et init, ornées; titre encadré. (HAB planche LXXII.)
+          <lb/>Au verso du titre : Dem Christlichen Leser...
+          <lb/>R 10.087 (2). Prov.: Bibl. Prof. Ed. Reuss, Strasbourg 1891.
+          <lb/>Note ms.: L. H. Zorn a Plopsheimb. Rel. anc.
+          <lb/>1933
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

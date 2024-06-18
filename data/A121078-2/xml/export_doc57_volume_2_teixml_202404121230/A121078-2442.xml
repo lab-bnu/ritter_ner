@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:39.484400+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2442.tif
+IMAGE WIDTH: 2396
+IMAGE HEIGHT: 3824
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>438
+          <lb/>DIONYSIUS VON RICKELL
+          <lb/>Strasbourg, J. Schott, 1540
+          <lb/>Alchoran. Das ist, des Mahometisch en Gesatzbûchs,
+          <lb/>vnd! Türckischen Aberglaubens! ynnhalt, vnd ablænung.
+          <lb/>3 gravures: à gauche Der Juden uszschutz (4 juifs), au
+          <lb/>milieu: Sergius der Ketzer, à droite: Mahomet.
+          <lb/>Mit Keysz. Mt. Freyheit vff. iïij. jar.
+          <lb/>blanc.)
+          <lb/>76̀ Strasszburg bey Hans Schotten. M. D. XL. (Verso
+          <lb/>In-fol., car. goth., 31 ff. non ch., sign. A-H, titre courant, réclames,
+          <lb/>notes marginales, initiales de l’alphabet de la danse des morts et init.
+          <lb/>ornées. Les gravures des 4 juifs et de Mahomet sont empruntées à Geiler
+          <lb/>Postill, la première: P 2, fol. 22a, la seconde P 3, fol. 76a.
+          <lb/>fol. A 2a: Dionysius von Rickel, Carthüszer, Zûm
+          <lb/>Christlichen Leszer, (Préf, de 24 lignes.)
+          <lb/>R10.520. Prov.: Etudiant Klein, Strasbourg, 6/VI. 1888; 10M.
+          <lb/>Schmidt II, N° 141. Bœr, Francfort s./M., Catalogue 500 (1907),
+          <lb/>N° 1178; 20M.
+          <lb/>657
+          <lb/>DIOSCORIDES
+          <lb/>Strasbourg, J. Schott, 1529
+          <lb/>P. DIO SCORIDAE PHARMACORVM Simplicium, reique
+          <lb/>Medicae Libri VIII. Jo. RVELLIO interprete.
+          <lb/>Vna cum HERM. Barbari Corolla-rijs, &amp;amp; Marc. Ver¬
+          <lb/>gilij, in singula Capita censuris, siue Annotationibus.
+          <lb/>Adiecto INDICE duplici singulorum Sim- plicium, &amp;amp;
+          <lb/>difficilium terminorum.
+          <lb/>Præter alia multa, quæ in Præfatione indi- cantur,
+          <lb/>quæque in prioribus æditio- nibus desyderabantur.
+          <lb/>In inclyta Argentorato apud Jo. Schottum. 1529.
+          <lb/>Cum gratia &amp;amp; priuilegio Cæs. Ma- iest. ad sexennium.
+          <lb/>(Verso blanc.)
+          <lb/>A la fin: ARGENT. APVD JOANNEM SCHOT-tum libra¬
+          <lb/>rium, 28. Augusti, Anno Christi M. D. XXIX. (Verso blanc.)
+          <lb/>In-fol., car. rom., 4 ff. non ch., 361 ff. ch., 13 ff. non ch. (Index
+          <lb/>à 3 col.), titre courant, notes marginales, initiales ornées et initiales à
+          <lb/>fig. 0, I (Adam et Eve, le serpent entre eux), titre rouge et noir, en¬
+          <lb/>cadré: bordure supérieure de gauche à droite: une écrevisse, un griffon,
+          <lb/>un hibou, un singe jouant de la cornemuse devant un chameau qui danse;
+          <lb/>bordures latérales, à gauche, la figure de Pompeius, à droite, celle de
+          <lb/>Helena, au-dessous de chacun, un arbre; bordure inférieure, une sorte
+          <lb/>de champ ou de jardin contenant plusieurs animaux et des plantes médi¬
+          <lb/>cinales avec leur nom; vers la droite, Crateias tenant une houe à la main.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:09.810659+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002318.tif
+IMAGE WIDTH: 2498
+IMAGE HEIGHT: 4008
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>LOBWASSER, Ambrosius : (Idem). — Strasbourg, Bernard
+          <lb/>Jobin 1596, in-120.
+          <lb/>Vogeleis, p. 373.
+          <lb/>2414
+          <lb/>LOBWASSER, Ambrosius : (Id m). — Strasbourg, Bernard
+          <lb/>Jobin 1597, in-120.
+          <lb/>Graesse IV, p. 242; Vogeleis, p. 374.
+          <lb/>2415
+          <lb/>LOCHER, Jacobus : Compendium rhetorices ex Tulliano
+          <lb/>thesauro concinnatum. — (Strasbourg, René Beck
+          <lb/>1514), in-8°.
+          <lb/>Schmidt IV, p. 21, n° 19; Zapf, Locher, p. 118. — Jadis Bibl.
+          <lb/>de Strasbourg, Incun, n° 3131.
+          <lb/>2416
+          <lb/>LOCHER, Jacobus : (Idem). — Strasbourg, René Beck 1518,
+          <lb/>in-4°.
+          <lb/>Schmidt IV, p. 24, n° 27; Zapf, Locher, p. 118. Ritter: B M
+          <lb/>Strasbourg, n° 1389.
+          <lb/>2417
+          <lb/>LOCHER, Jacobus : (Idem). — Strasbourg 1522, in-8o.
+          <lb/>Goedeke Ia, p. 427, n° 4 (c).
+          <lb/>2418
+          <lb/>LOCHER, Jac. Voir: BRANT, Stultifera navis no 1053.
+          <lb/>LOCHMEYER, Michel: Sermones de sanctis... cum viginti tribus
+          <lb/>sermonibus Pauli Wan annexis. — (Haguenau,
+          <lb/>Henri Gran pour Rynman (14 aoûtl 1512, in-fol.
+          <lb/>Burg, n° 247. (Autres éd. chez Gran 1501 et 1507. Voir Ritter,
+          <lb/>Rép. n° 1382/3l.
+          <lb/>2419
+          <lb/>LOCHMEYER, Michael : (Idem). — (Haguenau, H. Gran pour
+          <lb/>J. Rynman 14 novembre 1516), in-fol.
+          <lb/>Burg, n° 248.
+          <lb/>2420
+          <lb/>LOESCHER, Abraham : Epicedion et narratio funebris in
+          <lb/>mortem venerabilis
+          <lb/>iri D. Matthaei Zeelij (sic) apud
+          <lb/>Argentoratenses in
+          <lb/>ummo templo Parochi, Elegiaco
+          <lb/>316
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

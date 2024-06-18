@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:27.347743+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2039.tif
+IMAGE WIDTH: 2366
+IMAGE HEIGHT: 3832
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>35
+          <lb/>BM et Bibl. St-Guillaume Strasbourg; GPB IV, 7633. Berlin, München,
+          <lb/>Schmidt VIII, N0 38: Jadis Bibl. de Strasbourg, Incun. No 300,
+          <lb/>Wien, Halle.
+          <lb/>57
+          <lb/>ANDRELINUS Publius Faustus
+          <lb/>Strasbourg, M. Schürer, 1512.
+          <lb/>P. Fausti Aegloga moralissima. Eiusdem Hecatodis¬
+          <lb/>tichon. ! T. O.
+          <lb/>A la fin: Argentorat. Ex Aédibus Schu-rerianis Mense
+          <lb/>Nouembri.Anno M. D.XII. REGNANTE IMPERA- TORE
+          <lb/>CAESARE MA XIMILIANO.! P. F. AVG. (Verso blanc.)
+          <lb/>in-4°, car. rom., 14 ff. non ch., sign. A–O, titre courant, initiales
+          <lb/>d’attente.
+          <lb/>Fol. A2a: P. Fausti Andrelini Foroliuiensis Poetae! Lau¬
+          <lb/>reati, Regiique ac Reginei, ad Chri-stianissimum atque
+          <lb/>inuictissimum Francorum regem Ludouicum duodeci¬
+          <lb/>mum. Aegloga... (6 ff.)
+          <lb/>Fol. B4a: PVBLII FAVSTI ANDRELINI!... Hecatodisti¬
+          <lb/>chon. Ad prae! stantem virum Joannem Ruseum generalem
+          <lb/>Questorem Regium! promeritissimum... (7 ff.)
+          <lb/>R 101.840 Prov.: Bibl. Böcking. Notes mss.
+          <lb/>Schmidt VIII, No 86 donne le titre en majuscules et n’a pas
+          <lb/>les lettres T. O.
+          <lb/>BM Colmar; GPB IV, 7621: Berlin, München, Breslau, Bonn,
+          <lb/>Königsberg.
+          <lb/>58
+          <lb/>ANDRELINUS P. Faustus
+          <lb/>Strasbourg, M. Schürer, 1517.
+          <lb/>P. FAVSTI ANDRELINIForoliuiensis Poetae Laureati
+          <lb/>at- que Oratoris clarissimi Epi-stolae prouerbiales &amp;amp; mo
+          <lb/>rales longe lepidissi-mae nec minus sententiosae.
+          <lb/>EX SECUNDA RE-COGNITIONE
+          <lb/>A la fin: Argento rati ex aedibus Mathiae Schurerii
+          <lb/>Selestatini, Mense Junio. Anno.! M. D. XVIl. (Verso blanc.)
+          <lb/>In-4°, car, rom., 14 ff. non ch., sign. Aa-Cc, titre courant, titre
+          <lb/>encadré comme No 29.
+          <lb/>Au verso du titre: Beatus Rhenanus, Hieronymo Gebui¬
+          <lb/>lero Selestati bonas literas profitenti. S.... — Selestati.
+          <lb/>pridie Calendas septem bris. Anno. M. D. VIII.
+          <lb/>Fol. Aa 2a: Epistola nuncupatoria.! Faustus illustri
+          <lb/>Franciae Cancellario, Joanni de Ganay Mecoenati suo,
+          <lb/>felicitatem....
+          <lb/>R101.841 Prov.: Don de la BM Hambouro, 1871. Notes mes.
+          <lb/>Schmidt VIII, No 215: Bibl. cantonale Aarau. GPB IV, 7638:
+          <lb/>Berlin, München, Kiel.
+          <lb/>4
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

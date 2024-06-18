@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:05.973159+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie055.tif
+IMAGE WIDTH: 2484
+IMAGE HEIGHT: 3912
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>HERPF, Henricus : Speculum aureum decem praeceptorum
+          <lb/>Dei. — Strasbourg 1486, in-fol.
+          <lb/>Hain 8525.
+          <lb/>329
+          <lb/>HERVICUS de Amsterdamis: Oratio funebris in Fridericum
+          <lb/>Bavariae Ducem cum epistola Jacobi Wimphelingii
+          <lb/>ad Philippi comitis Palatini filios. — (Strasbourg,
+          <lb/>Jean Grüninger après le 19 mai 1498), in-40.
+          <lb/>Hain 931; Madsen 1957, Walter n° 244.
+          <lb/>330
+          <lb/>HIERONYMUS Sanctus : Vitae sanctorum patrum.
+          <lb/>—
+          <lb/>(Strasbourg, impr. des Vitas patrum) 7. VII. 1485,
+          <lb/>in-fol.
+          <lb/>Hain 8600; Londres, Brit. Mus. Cat. I, 98; Madsen 4182,
+          <lb/>Polain 3996, Proctor 422; Voulliéme: Berlin 2257;
+          <lb/>Hiersemann (Leipzig) Catal, 550 (1925) n° 77. 280 M. 331
+          <lb/>HIERONYMUS Sanctus : Leven der hilligen Oldvaderen. (en
+          <lb/>bas-allemand) — (Strasbourg, vers 1482), in-fol.
+          <lb/>Hain-Copinger 8609 — Copinger 2962; Madsen 4193; Polain
+          <lb/>4093, Proctor 3250, Voulliéme : Berlin 2699; Borching¬
+          <lb/>Claussen : Niederdeutsche Bibliographie n° 43; Scheller,
+          <lb/>Karl F. A : Bücherkunde der Sassisch-Niederdeutschen
+          <lb/>Sprache 378.
+          <lb/>332
+          <lb/>HILARIUS Litomiricensis: Tractatus de libertate ecclesiastica.
+          <lb/>— (Strasbourg 1485), in-fol.
+          <lb/>Copinger 2979.
+          <lb/>333
+          <lb/>HIRNKOFEN, Wilh, von, Voir : ARNOLDUS de Villa Nova
+          <lb/>nos 88/9.
+          <lb/>HISTORIE von Peter Hagenbach. — (Strasbourg, Henri
+          <lb/>Knoblochtzer) 1477, in-fol.
+          <lb/>Hain 8345, Madsen 1728 ; Pellechet 5243, Schorbach¬
+          <lb/>Spirgatis n° 4; Voulliéme : Berlin 2208.
+          <lb/>334
+          <lb/>53
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

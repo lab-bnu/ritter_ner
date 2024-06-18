@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:36.954297+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu041.tif
+IMAGE WIDTH: 2384
+IMAGE HEIGHT: 3840
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>AUGUSTINUS AURELIUS : Opuscula plurima. Strasbourg, Mart.
+          <lb/>Flach, 20 mars 1489, in-fol.
+          <lb/>G W 2865, Hain 1948, Pellechet 1460, Pellechet: Colmar 197,
+          <lb/>Madsen 382, Proctor 681, Schmidt V, 21, Voulliéme: Berlin
+          <lb/>2484; Walter; Sélestat 42.
+          <lb/>K 410. Prov.; B N Munich, 16. XII. 1879, 8 M.
+          <lb/>47
+          <lb/>AUGUSTINUS AURELIUS: Opuscula plurima. Strasbourg, Mart.
+          <lb/>Flach, 11 août 1491, in-fol.
+          <lb/>G W 2868, Hain 1950, Pellechet 1462, Pellechet: Colmar 199,
+          <lb/>Proctor 691, Schmidt VI, 34, Voulliéme: Berlin 2493.
+          <lb/>K 412 Prov.: Don de la Bibl. Univ. de Gœttingue, 1871. Note
+          <lb/>mss. au-dessous du titre: Edit. Argentor, 1491 ex Mus. J. C.
+          <lb/>Olearii.
+          <lb/>48
+          <lb/>AUGUSTINUS AURELIUS (Pseudo-): De XII. abusivis saeculi.
+          <lb/>(Strasbourg, G. Husner, vers 1475), in-fol.
+          <lb/>G W 2933, Hain 2104, Copinger 769, Pellechet 1588, Voul¬
+          <lb/>liéme: Berlin 2198.
+          <lb/>K 481. Prov.; J. Windprecht, Augsbourg, 29. XII. 1872, 1 M. 30.
+          <lb/>Notes mss.
+          <lb/>49
+          <lb/>AUGUSTINUS AURELIUS (Pseudo-): Canones. Strasbourg,
+          <lb/>Mart. Schott, 1490, in-fol.
+          <lb/>G W 2937, Hain 2076, Pellechet 1568, Pellechet: Colmar 223,
+          <lb/>Proctor 403, Schmidt II, 9, Schreiber 3392, Voulliéme: Ber¬
+          <lb/>lin 2235 et 2235a; Madsen 435.
+          <lb/>Schramm, Bilderschmuck XIX, grav. N° 879-881.
+          <lb/>K 468. Prov.: Don de la Bibl. Univ. de Gœttingue, 1871,
+          <lb/>Rel. anc.
+          <lb/>50
+          <lb/>AUGUSTINUS AURELIUS: De Civitate Dei libri XXII. [Stras¬
+          <lb/>bourg, J. Mentelin, pas après 1468), in-fol.
+          <lb/>GW 2883, Hain 2056, Madsen 397, Pellechet 1554, Proctor 201,
+          <lb/>202. Voulliéme: Berlin 2095; Walter: Sélestat 45 et 46, Schor¬
+          <lb/>bach: Mentelin N° 9.
+          <lb/>K 461. Prov.: F. Butsch fils, Augsbourg, 21. I. 1875, 375 frs.
+          <lb/>51
+          <lb/>11
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

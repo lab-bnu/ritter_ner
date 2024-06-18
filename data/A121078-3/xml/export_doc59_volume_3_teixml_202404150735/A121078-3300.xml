@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:10.775462+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3300.tif
+IMAGE WIDTH: 2354
+IMAGE HEIGHT: 3856
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>742
+          <lb/>und wolfart Teutscher Nation,! Durch Caspar Hedio Doctor
+          <lb/>aus dem Latin ins! Teutsch gebracht, zûsammen tragen,
+          <lb/>vnd beschriben.*
+          <lb/>Hie findest du auch lieber Leser eyn nutzliche Vorred
+          <lb/>Herr! Philippi Melanchthons, bei dem Andern teyl diser
+          <lb/>Chronick, von Frucht vnd nutzbar-! keyt rechter Chronick
+          <lb/>bücher. (Druckerm. des Mylius. H Æ B Tafel XXVII Nr. 5; Silve¬
+          <lb/>stre Nr. 1264.)
+          <lb/>M. D. XXXIX.
+          <lb/>Mit keyserlicher Maiestat Gnaden vnd Freiheyt, dise
+          <lb/>Auszerlesne Chronick nicht nach zû trucken, bei zehen
+          <lb/>Marck lötigs golds. (Rücks, leer.)
+          <lb/>Am Schluss: Getruckt zû Straszburg bei Crafft Myller,
+          <lb/>Als man zalet nach Christi vnsers Herrn! Gepurt,! M. D.
+          <lb/>XXXIX.
+          <lb/>20, Got., 20 unn. Bll., DCCLXXVII (T77) S., 16 unn. (Index,
+          <lb/>2sp.), 3 leere Bll., Kopft., Kust., Marg., Init. Zahlreiche Kaiserbüsten
+          <lb/>in Medaillonform.
+          <lb/>Bl. 2a: Dem Wolgepornen...! Herrn Wilhelmen Grafen
+          <lb/>zû Nassaw,).Zù Strassburg, den xiij.! tag Martij,
+          <lb/>Anno! M. D. XXXIX.
+          <lb/>(Epheubl.) ... Caspar Hedio... (Vorrede, 6 S.)
+          <lb/>Bl. aa: Der Erste teyl der Auszerles-nen Chronick...
+          <lb/>— Vorrede D. CasparsHedion. (2 S.)
+          <lb/>Bl. aa 2b: Das Erste teyl Von der Gepurt des Himels
+          <lb/>vnd der Erden. (21 S.)
+          <lb/>Bl. ce 1a: Dem Durchleuchtigen...! Fürsten vnd Herrn
+          <lb/>Rupert Pfaltzgrafen bei Rhein... — Datum Witeberg,
+          <lb/>Anno! M. D. XXXIX. Philippus Melanchthon, (Vorrede, 6S.)
+          <lb/>S. 731: Dem Frommen...! Herrn Mathis Pfarher, ! re¬
+          <lb/>gierendem Ammeyster zû Straszburg.... Caspar Hedio...
+          <lb/>Straszburg den ersten Martij, in dem jar! M. D. XXXIX.
+          <lb/>S. 732-777: Beschreibung etlicher ge- legenheit Teut¬
+          <lb/>sches landes, an wasser, berg, stetten vnd grenzen...
+          <lb/>Auf dem nâchsten Bl.: Beschlusz Caspar Hedionis an den
+          <lb/>teütschen Leser...
+          <lb/>Am Schluss : Druckerm. des Mylius. HA B Tafel XXVI Nr. 2;
+          <lb/>Silvestre Nr. 804.
+          <lb/>R 10,296. Prov.: Bibl. Baum, 20. II. 1879. Auf dem Schutabl.:
+          <lb/>Silbermann 1803; auf dem Einbanddeckel : Turckheim.
+          <lb/>BN Paris, G807, Stadtbibl. Kolmar, Walter: Schlettstadt Nr. 1473.
+          <lb/>1097
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

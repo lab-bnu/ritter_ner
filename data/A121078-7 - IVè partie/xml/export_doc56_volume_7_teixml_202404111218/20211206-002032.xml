@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:02.398790+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002032.tif
+IMAGE WIDTH: 2488
+IMAGE HEIGHT: 3968
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>AURIFABER, Aegidius : Speculum exemplorum. — (Haguenau,
+          <lb/>Henri Gran pour Rynman 1519), in-fol.
+          <lb/>GKVIII, 7303 : BN Munich, Vienne. [Ritter, Rép, n° 2181
+          <lb/>éd. Gran 21 février 1519 à Speculum exemploruml.
+          <lb/>885
+          <lb/>AUSFÚHRUNG : Stattliche Auszführung der Ursachen, darum¬
+          <lb/>ben die Chur-unnd Fürsten, auch andere Stende der
+          <lb/>Augspurgischen Confession, des Babst Pius IIII. ausz¬
+          <lb/>geschriben vermeynd Concilium, so er gegen Trient
+          <lb/>angesetzt, nit besuchen khünden, noch zu besuchen
+          <lb/>schuldig gewesen sind... zuvor nie in Truck gegeben...—
+          <lb/>(Strasbourg, Christian Mylius) 1564, in-40.
+          <lb/>(Auteur présumé est Louis Gremp de Freudenstein).
+          <lb/>GK8.7774: BN Munich, B U Breslau, Göttingen. Ritter,
+          <lb/>Rép. n° 112.
+          <lb/>886
+          <lb/>AUSFÜHRUNG der Ursachen... (Idem). — (Strasbourg,
+          <lb/>Christian Mylius) 1566, in-80.
+          <lb/>GK8.7776: BN Berlin, Munich, Vienne etc.
+          <lb/>887
+          <lb/>AUSLEGUNG und beschreibung der Anatomi oder warhafften
+          <lb/>abconterfettung eines inwendigen cörpers, des manns
+          <lb/>unnd weybes... — Strasbourg, J. Frölich 1544, in-40.
+          <lb/>GKVIII, 8209: B N Berlin. (Ritter, Rép, n° 114 : éd.
+          <lb/>Vogtherr 1539).
+          <lb/>888
+          <lb/>AUSONIUS. Voir : Caro no 1318.
+          <lb/>AUSTRIUS, Sebastianus : De secunda valetudine tuenda in
+          <lb/>Pauli Aeginatae librum explanatio... — Strasbourg,
+          <lb/>Jean Schott 1538, in-40.
+          <lb/>GKVIII, 9362: BN Berlin, Munich, Vienne, etc.
+          <lb/>890
+          <lb/>AUSTRIUS, Sebastianus : Ein gemein Regiment zu unter¬
+          <lb/>haltung der gesuntheit... — (Colmar, Bartholomé.
+          <lb/>Grüninger 1539), in-4°.
+          <lb/>GKVIII, 9363: B N Berlin, Vienne.
+          <lb/>891
+          <lb/>30
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

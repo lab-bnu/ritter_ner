@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:13.628307+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002487.tif
+IMAGE WIDTH: 2518
+IMAGE HEIGHT: 3964
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>TENGLER, Ulr. : (Idem). — Strasbourg 1516, in-fol.
+          <lb/>Goedeke Ia, p. 391.
+          <lb/>3317
+          <lb/>TENGLER, Ulr. : (Idem). — Strasbourg, Josias Rihel 1560,
+          <lb/>in-fol.
+          <lb/>Goedeke I2, p. 391; Ritter : B M Strasbourg, n° 2052 féd.
+          <lb/>Jean Albrecht 1538, Wendelin Rihel 26 août 1544 : Ritter,
+          <lb/>Répertoire nos 2281 et 2282). [Tengler voir aussi : Répertoire
+          <lb/>nos 2274-2282l.
+          <lb/>3318
+          <lb/>TERENTIUS : Comedie cum annotationibus Petri marsi et
+          <lb/>Pauli malleoli in singulas scenas... — (Strasbourg,
+          <lb/>Jean Prüss 1506), in-40.
+          <lb/>Ritter: B M Strasbourg, n° 2053; féd. Prüss 1503, Flach 1511:
+          <lb/>Ritter, Rép. nos 2283 et 2285).
+          <lb/>3319
+          <lb/>TERENTIUS : Comediae cum brevi vocabulorum difficilium
+          <lb/>eleinterpretatione pro puerulis a Tho. Aucupario condita. —
+          <lb/>(Strasbourg, Jean Grüninger, février 1511), in-8°.
+          <lb/>Panzer II, 359; Schmidt I, n° 119. — B U Fribourg. 3320
+          <lb/>TERENTIUS : Poeta comicus. — (Strasbourg, Jean Knobloch,
+          <lb/>décembre 1516), in-4°.
+          <lb/>Panzer 6, 78, 431; Schmidt VII, n° 125 : B U Bâle.
+          <lb/>3321
+          <lb/>TERENTIUS : Poeta comicus in sua metra restitutus... —
+          <lb/>(Strasbourg, Jean Knobloch 1516), in-4°.
+          <lb/>Panzer 6, 78, 431; Schmidt VII, n° 129 : Olim Bibl. Argenti¬
+          <lb/>nensis 4407 ; féd. Knobloch 1513, 1514, 1519 : Ritter, Rép.
+          <lb/>nos 2286, 2287 et 2289l.
+          <lb/>3322
+          <lb/>TERENTIUS : Comœdiae sex... — (Strasbourg, Mathias
+          <lb/>Schürer, septembre 1521), in-4°.
+          <lb/>Panzer 11, 365, 600c; Schmidt VIII, n° 265 : B M Mayence;
+          <lb/>féd. W. Rihel 1548: Ritter, Rép. n° 2292].
+          <lb/>3323
+          <lb/>485
+          <lb/>16-1
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

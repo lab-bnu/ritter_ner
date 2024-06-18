@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:05.148064+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3025.tif
+IMAGE WIDTH: 2346
+IMAGE HEIGHT: 3836
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>469
+          <lb/>EPITOMA DE MENSURIS SYLLABARUM. Siche: SCHOTT
+          <lb/>Petrus
+          <lb/>EPITOMA OMNIS PHILOSOPHIAE. Siche: REISCH Gregorius
+          <lb/>EPPENDORFF Heinrich von, Sytliche Sprüche. Siche: PLUTAR¬
+          <lb/>CHUS, 1534
+          <lb/>Strassburg, J. Schott, 1536
+          <lb/>EPPENDORFF Heinrich von,
+          <lb/>Römischer Historien Bekürtzung. In welcher alle
+          <lb/>fürtreffliche händel, beyd Fridens vnd Kryegs, so in dem
+          <lb/>Römischen Reich von Romulovnd den anderen. VI.
+          <lb/>Künigen, Burgermeist-eren, vnd zuo letst den Keyseren
+          <lb/>bitzhär ge- übt, begriffen seind. Usz den sichersten Ge¬
+          <lb/>schichtschreiberen Lucio Floro,! Sexto Ruffo, Eutropio,
+          <lb/>vnd BaptistaEgnatio verdolmetscht und gezogen. Mit
+          <lb/>weiterem Anhangk, der Kryegszhändel, so vnderdem
+          <lb/>grosszmächtigen Keyser Carolo dem Fünfften, in Italien
+          <lb/>verloffen, und von Galeatio Capella beschriben Durch
+          <lb/>Henrich von Eppendorff... (Bildnis Karls des V.)
+          <lb/>Darunter: Mit keyserlicher Maiestät Freyheit vff. vj. jar.
+          <lb/>Zû Strasszburg bey Hans Schotten. M. D. XXXVj. (Rückseite
+          <lb/>leer.)
+          <lb/>Am Schluss: Zà Strasszburg bey Hans! Schotten am.
+          <lb/>V. Mar-tij. Anno Christi.) M. D. XXXVI.
+          <lb/>20, Got., Teil I: Florus, Rufus, Eutropius, 4 unn. Bll., XLVI S.,
+          <lb/>1 unn. Bl. (Index); Teil II : Baptista Egnatius: XC S., 3 unn. Bll.,
+          <lb/>wovon das letzte leer (Index); Teil III: Galeatius Capella, CXXXS.,
+          <lb/>3 unn. Bll., wovon das letzte leer (Index).
+          <lb/>Kopftitel, Marginalien, grosse schöne Init,, von Hans Lutzenburger,
+          <lb/>die zum erstenmal 1530 in Basler Druckereien vorkommen, Nachahmungen
+          <lb/>von Holbein. Der 1. Teil mit Titeleinfassung: oben u. unten, Zierstücke,
+          <lb/>rechts und links Medaillons von Kaiserbüsten. Teil III, S. 125: Titel¬
+          <lb/>bordure.
+          <lb/>Bl. 2a: ... herren Boppo, Graff vnd herren zû Hennen¬
+          <lb/>berg, Dechant der hohen Stifft zû Strassz burg. &amp;amp;c. ent¬
+          <lb/>beüt Heinrich von Eppen dorff seine gehorsame dyenst...
+          <lb/>(Vorrede von 41), S.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

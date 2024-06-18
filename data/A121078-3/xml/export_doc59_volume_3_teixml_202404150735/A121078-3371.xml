@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:12.654330+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3371.tif
+IMAGE WIDTH: 2390
+IMAGE HEIGHT: 3852
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Holechn. (Siche Titelbl. S. 812.) Rücks, leer.
+          <lb/>Am Schluss Bl. LXIV. Getruckt in der keiserlichen freien
+          <lb/>stat Straszbürg durch Jo- hannem Gröininger vnd selig
+          <lb/>volendet vff Montag nach vn ser lieben frowen geburt.
+          <lb/>des Jares von gottes menschwerdung. M. d. XIIII.
+          <lb/>Folgt Bl. LXV u. LXVI die Protestatio in deutscher Sprache.
+          <lb/>20, Got., 2sp., LXVI num. Bll., Kopft., Marg., Init., Pagina¬
+          <lb/>tionsfehler; die gleichen Holeschn, wie in der lat. Ausgabe.
+          <lb/>Bl. A 2a: Register.
+          <lb/>Bl. A3a: An den H. Raymund, Cardi. Cur.
+          <lb/>Bl. A4a:... Herrn Bechtold von hennenberg des hei¬
+          <lb/>ligen stûls zû Mentz, Ertzbischoff Des heili- gen römi¬
+          <lb/>schen reichs durch Ger manien Ertzkantzler der demü
+          <lb/>tige diener gottes der minst vnd der Priesterschafft der
+          <lb/>niderst vnder den pfarrern eüwer wirdiger vet! terlich¬
+          <lb/>keit vnwirdiger Cappellan Johannes hug von Slestat pfar¬
+          <lb/>rer zü sant Steffan zû Straszburg...
+          <lb/>Bl. 7b: Vorrede.
+          <lb/>Bl. 8a: An Maximilian vnd romscher Künig.... Leben
+          <lb/>soll! künig Maximilian.
+          <lb/>Bl. LXV: Ein Copy der protestation. In Gottes namen
+          <lb/>Amen. Kunt vnd zu wyssen Syg allen denen die disz
+          <lb/>offenlich instrument Ansehen oder horen lesen... Ich
+          <lb/>wider ruff vnnd wil es krafftlos haben vor gott vor der
+          <lb/>heilligen kirchen vor dem heilligen Reich vnd allen pre¬
+          <lb/>laten deren aller gebotten gehorsame vnd straff Ich mich
+          <lb/>alle zeit vnder wurff! Vber dise vnnd alle vorgeschribende
+          <lb/>ding der vorgemelte herr Johannes hug mich offenlichen
+          <lb/>Notaren har! vnder bestympt im zu machen ein offenlich
+          <lb/>Instrument oder so vil er not turfftig ist fleissecklich vnd
+          <lb/>ernstlich hatt erfordert unnd seint dise ding be-schehen
+          <lb/>zû Straszburg in dem pfarhof zu Sant Steffan vnd seint
+          <lb/>do by gewesen...
+          <lb/>R10.148. Prov.: Butsch Sohn, Antiquar, Augsburg (Katal. 86
+          <lb/>Nr. 90) 28. XII. 1879,6M.
+          <lb/>2. Ex. R 10.149, Prov.: Bibl. Heitz, Strassburg. Unvollst. Es
+          <lb/>fehlen Bl. II-IV, VIII, XII-XIV, XXVIII, XL. Handschr. Notizen.
+          <lb/>Es fehlt auch die Protestation.
+          <lb/>Proctor II Sectio I Nr. 9893: London Brit. Museum; Schmidt I
+          <lb/>Nr. 69; Walter: Schlettstadt Nr. 1562; Priesterseminar Strassburg,
+          <lb/>Ink. C 28.
+          <lb/>1209
+          <lb/>813
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

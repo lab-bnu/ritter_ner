@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:32.366304+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2195.tif
+IMAGE WIDTH: 2282
+IMAGE HEIGHT: 3824
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>191
+          <lb/>fol. A 3b: AEQVO LEC TORI OTHO BRVNFELSI-Lus... —
+          <lb/>(Préface de 7 pages.)
+          <lb/>Suit un Index de 53 pages.
+          <lb/>R101.631. Prov. : Les 2 premiers livres ont été donnés par F.
+          <lb/>Butsch fils, antiquaire à Augsbourg, 1871; les livres III et IV provien¬
+          <lb/>nent de la Bibl. de l&amp;#x27;Ancienne Faculté de Médecine de Strasbourg.
+          <lb/>Rel. anc. Les livres 3 et 4 figurent en double, sous la cote RI01.632.
+          <lb/>2 ex. R 101.699, ne contient que les 2 premiers livres. Prov. :
+          <lb/>Iohannes Boeclerus, Strasbourg, avec l’exlibris de Boecler. Rel, anc.
+          <lb/>BN Paris, Te 17. 33; Beaulieux, p. 64. No 1275: BU Paris;
+          <lb/>BM Strasbourg. Roth, loco citato No 35. Wernigerode, Darmstadt,
+          <lb/>BN Vienne, Senckenberg’sche Bibl., Francfort s. M. GPR: Halle BU
+          <lb/>(Livre II), Kœnigsberg BU (Livre III et IV).
+          <lb/>294
+          <lb/>BRUNFELS Otto
+          <lb/>Strasbourg, J. Schott, 1534.
+          <lb/>Kreuterbûch contra- fayt, vollkummen, nach rechter,
+          <lb/>warer be- schreibung der Alten leerer vnd aertzt.
+          <lb/>Sampt einer gemeynen Ynleyt-ung der Kreüter
+          <lb/>vrhab, erkant- nussz, brauch, lob, vnd herrlicheit.
+          <lb/>Durch Otho Brunfelsz! M. D. XXXiiij.
+          <lb/>Mit Keyszerlicher maiestaet Freyheit vf Fünff jar
+          <lb/>nit nach zû trucken.
+          <lb/>Au-dessous du cadre: Zù Strasszburg bey Hans Schotten.
+          <lb/>(Verso blanc.)
+          <lb/>In-4°, car. goth., 2 col., 16 ff. non ch., CCXIII pages ch., 2 ff.
+          <lb/>non ch. dont le dernier blanc, titre courant, initiales ornées, titre enca¬
+          <lb/>dré; comme le No 286.
+          <lb/>Au verso du fol. 15 non ch,, encadrement: au haut, un cadran,
+          <lb/>au bas le roi Eséchias malade, un médecin lui applique un emplâtre de
+          <lb/>figues; dans le cadre, le passage Esaïe 36, 21, comme recommandation
+          <lb/>de la médecine végétale. Nombreuses gravures de plantes, fort bien dessi¬
+          <lb/>nées par Jean Weyditz, plus petites que celles de Herbarum vivae icones.
+          <lb/>fol. A 2a non ch. : Vorred. I Introductorium: das! ist,
+          <lb/>Ein gemeyne Inleyt-ung zù lob... der Kreüter. Durch
+          <lb/>Otho Brun- felsz newlich beschriben... (Préface de 29 pages.)
+          <lb/>Réimpression de l&amp;#x27;édition de 1532.
+          <lb/>R101.550. Prov.: J. Bornemann, Strasbourg, 19/1x, 1896, 15 M.
+          <lb/>Note mss. au bas du titre: Ex Bibl. Greineriana... 1682.
+          <lb/>Schmidt II, N° 13. Bibl. Bâle, manque chez Roth et Schreiber.
+          <lb/>GPB: Berlin, Breslau RU.
+          <lb/>295
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

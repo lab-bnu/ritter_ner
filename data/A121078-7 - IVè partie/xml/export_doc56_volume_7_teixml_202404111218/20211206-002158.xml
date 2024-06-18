@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:05.822186+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002158.tif
+IMAGE WIDTH: 2486
+IMAGE HEIGHT: 3964
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Rest p. 50 : B U Fribourg-en-Br. ; Schmid VII, n° 230 : BU
+          <lb/>Heidelberg; Panzer 6, 96, 598. [éd. Laz. Schürer, Sélestat:
+          <lb/>Ritter, Rép. n° 751l.
+          <lb/>1579
+          <lb/>ERASMUS (Idem). — (Strasbourg, Jean Knobloch, juillet
+          <lb/>1523), in-8°.
+          <lb/>Panzer 6, 102, 651. Schmidt VII, n° 261.: B U Hambourg;
+          <lb/>(éd. Knobloch, octobre 1522 : Ritter, Rép, n° 761, et Kno¬
+          <lb/>bloch, février 1524 (Rép, n° 774), Knobloch mai 1525 (Rép.
+          <lb/>n° 779)).
+          <lb/>1580
+          <lb/>ERASMUS : De duplici copia... commentarii duo. Ab authore
+          <lb/>ipso diligentissime recogniti... Item Epistola ad Jacobum
+          <lb/>Wimphelingium Selestatinum. Item Parobolae sive Simi¬
+          <lb/>lia, e physicis pleraque ex Aristotele &amp;amp; Plinio. —
+          <lb/>(Strasbourg), Schyrer (Mathias Schürer) février 1524,
+          <lb/>in-8°.
+          <lb/>Copie de la fiche du catalogue méthodique de la Bibliothèque
+          <lb/>Nationale de Strasbourg, où le livre a depuis longtemps
+          <lb/>disparu.
+          <lb/>1581
+          <lb/>ERASMUS (Idem): De copia Verborum ac Rerum Com¬
+          <lb/>mentarij duo, postrema authoris cura recogniti,
+          <lb/>locupletatique. Cum Scholiis marginalibus Christophori
+          <lb/>Hegendorphini... — Haguenau, J. Secer 1528, in-8°.
+          <lb/>BNParis Z47912, Burg, n° 172; Rest p. 51; B U Fribourg-
+          <lb/>en-Br. [éd. 1517. : Ritter, Rép, n° 783).
+          <lb/>1582
+          <lb/>ERASMUS (Idem). — Haguenau, J. Secer 1532, in-80.
+          <lb/>Burg n° 174.
+          <lb/>1583
+          <lb/>ERASMUS (Enarratio) : Enarratio allegorica in primum
+          <lb/>Psalmum (avec préface de Beatus Rhenanus du 13 avril
+          <lb/>1515). — Strasbourg, Mathias Schürer, septembre 1515,
+          <lb/>in-4°. (Probablement erreur.)
+          <lb/>1584
+          <lb/>ERASMUS (Enchiridion) : Enchiridion militis christiani... —
+          <lb/>(Strasbourg, Jean Knobloch, octobre 1523), in-8°.
+          <lb/>156
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

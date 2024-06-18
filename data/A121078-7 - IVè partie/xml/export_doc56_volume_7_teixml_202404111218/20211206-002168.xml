@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:05.978409+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002168.tif
+IMAGE WIDTH: 2494
+IMAGE HEIGHT: 3956
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>ERZAHLUNG : rhumreycher Geschichten... Voir : KARL V,
+          <lb/>ERZIEHUNG : Erziehung, Gebrauch, Lernung, Artznei in
+          <lb/>zufelligen und natürlichen kranckheyten, aller zahmen,
+          <lb/>dem menschen gebraüchlichen und geheymen Thier.
+          <lb/>Als nämlich Pferd, Esel, Ochsen, Küe, Säuwe, Schaaf,
+          <lb/>Tauben, Hüner, Gänss, Wasser und Lufftvögel, Immen
+          <lb/>(Grav.). — (Strasbourg, Christian Egenolph, mardi
+          <lb/>après Pierre et Paul 1530), in-4°.
+          <lb/>Benzing : Egenolff, n° 30 : Rosenthal Kat. 81.67.
+          <lb/>1643
+          <lb/>ESDRA. Voir: PRACTICA, n° 2979.
+          <lb/>ESCHENBURG, Nicolaus : Ein seer schön und recht wol
+          <lb/>geordnet Fundamentbuch... (« Nicolas Eschenburgk
+          <lb/>Schreiber und Rechenmeister zu Stein a. Rhein »). —
+          <lb/>Strasbourg, Pierre Hug 1571.
+          <lb/>Ritter, Hist. impr. p. 342.
+          <lb/>1644
+          <lb/>[ESTIENNE, Henri]: Offentlichs und inn warheit wolgegründts
+          <lb/>Auszschreiben, der ubelbefridigte Ständ in Franckreich,
+          <lb/>die sich Mal Content nennen : Jnhaltend Die Wunderlich
+          <lb/>Beschreibung des Lebens... der Catherine von Medicis
+          <lb/>der Königinn Franckreich Mutter... Ausz dem Frant¬
+          <lb/>zösischen ins Teutsch gebracht durch Emericum Lebusium
+          <lb/>(Fischart). — (Strasbourg, Bern. Jobin 1575), in-80.
+          <lb/>Hauffen, Fischart-Studien dans Euphorion VI, p. 535:
+          <lb/>Berlin, Breslau, Darmstadt, Dresden, München [Ausgabe Al.
+          <lb/>1645
+          <lb/>ESTIENNE, Henri) : (Idem) (Ausgabe B). — [Strasbourg,
+          <lb/>Bern. Jobin 1575), in-80.
+          <lb/>Hauffen, Fischart-Studien dans : Euphorion VI, p. 542:
+          <lb/>« Die Ausgabe B zeigt ganz genau (auch typographisch) den
+          <lb/>gleichen Titel wie C... Im Wortlaut hingegen stimmt sie
+          <lb/>nicht mit C, sondern durchaus wörtlich mit A überein».
+          <lb/>Berlin, Munich, Vienne.
+          <lb/>1646
+          <lb/>IESTIENNE, Henri): Offenlichs und inn warhait wolgegrünts
+          <lb/>166
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

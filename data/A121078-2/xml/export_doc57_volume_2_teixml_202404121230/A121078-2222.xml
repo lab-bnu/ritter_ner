@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:33.243675+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2222.tif
+IMAGE WIDTH: 2290
+IMAGE HEIGHT: 3824
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>218
+          <lb/>BM, Bamberg Bibl. Rov., Bern BM. Breslau BM, Bruxelles Bibl.
+          <lb/>Roy., Cambridge BU, Dresde Bibl. Roy., Halle (Franckes.-Stiftung),
+          <lb/>Cracovie BU, Munich BN, Munich BU, Nuremberg B U, Olmutz,
+          <lb/>Prague B U, Schaffhouse (Bibl. Minist.), Schleusingen (Bibl. Gymn.),
+          <lb/>Schweinfurt BM, Tubingue (Bibl. Wilh.-Stift), Wernigerode (Bibl.
+          <lb/>325
+          <lb/>Stolberg).
+          <lb/>BUGENHAGEN Johannes
+          <lb/>Strasbourg, J. Knobloch, 1524.
+          <lb/>IOANNIS PO- MERANI BV- GENHAGH, IN LIBRVM PSAL¬
+          <lb/>MORVM INTERPRETATIO, (WIITEMBERGAE PV-BLICE LE-CTA.
+          <lb/>A la fin: ARGENTORATI EXCVDEBAT! IOHANNES KNOBLO¬
+          <lb/>CHVS. ANNO. M. D. XXIIII. MENSe AvGvSTo. &amp;quot;(Verso blanc.)
+          <lb/>In-4°, car. ital, et rom., 18 ff. non ch. (titre, préface, table à 2
+          <lb/>col.), 312 ff. ch, titre courant, réclames, notes marginales, initiales
+          <lb/>ornées; titre encadré, composé de 4 pièces juxta-posées, employées par
+          <lb/>Gran. (H e B, Planche LXVI, No 3.) La pièce latérale de droite est
+          <lb/>renversée; la pièce inférieure contient l’écusson de Gran.
+          <lb/>Au verso du titre: M. LVTHER PIO LECTORI GRATIA ET
+          <lb/>PAX... (26 lignes). Au-dessous: PHILIPPVS MELANCH. LECTORIBVS S...
+          <lb/>(16 lignes).
+          <lb/>fol. 2a non ch :...Fridericho Romani Imperij Archi¬
+          <lb/>marschalco, Electori, Saxoniae duci... IOANNES Bugen¬
+          <lb/>hagius Pome ranus... — Ex tua Wittemberga. Anno
+          <lb/>Christi.Millesimo quingentesimo quarto. Feria quarta
+          <lb/>ante! Circumscisionis Dominicae diem. (Dédicace de 6 pages.)
+          <lb/>Suit un Index de 13 fr. à 2 col.
+          <lb/>RI01.133. Prov.: Bibliothèque Heitz, Strasbourg. Notes mss.
+          <lb/>Schmidt VII, No 277; GPB: Berlin; Geisenhof, loco cit., NO 7:
+          <lb/>Augsbourg B M, Bamberg, Bonn BU, Berlin, Dillingen, Erlangen BU,
+          <lb/>Fribourg en Br. BU, Graz BU, Hombourg BM. Helmstedt, Copen¬
+          <lb/>hague, Carlsruhe, Laubach, Lübeck B M, Munich BU et BN, Munster,
+          <lb/>Olmütz, Rostock, Schleusingen, Stuttgart.
+          <lb/>326
+          <lb/>BUGENHAGEN Johannes
+          <lb/>Strasbourg, J. Knobloch, 1526.
+          <lb/>DE CON IVGIO EPISCOPORVM( &amp;amp; Diaconorum, ad ue¬
+          <lb/>nerandum Doctorem Vuolfgangum Reissen- busch, mo¬
+          <lb/>nasterij Lichtenber-gensis Praeceptorem, per Ioannem
+          <lb/>Bugenhagi um Pomeranum.
+          <lb/>1526. (Verso blanc.)
+          <lb/>A la fin: ARGENTORATI EXCVDEBAT IOANNES KNOBLOV¬
+          <lb/>CHVS ANNO. M. D. XXVI. MENSE IANVARIO. (Verso blanc.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:13.290746+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002462.tif
+IMAGE WIDTH: 2510
+IMAGE HEIGHT: 3962
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>dem der sich selbs blind erkennt. — Strasbourg 1521,
+          <lb/>in-4°.
+          <lb/>Graesse VI, p. 310. [Une éd. 1526 : Ritter, Rép, n° 2089), 3184
+          <lb/>SCHOEPPERUS, Jacobus : Ectrachelistis sive decollatus
+          <lb/>Joannes, tragoedia sacra... — Strasbourg, Christian
+          <lb/>Mylius 1565, in-80.
+          <lb/>Bahlmann, p. 94 c; Walter, n° 2211; Spoknik, p. 23-25. Bibl.
+          <lb/>St. Guillaume, Strasbourg.
+          <lb/>3185
+          <lb/>SCHOLARIS : Es tu scholaris. — (Strasbourg, Mathias Hupfuff
+          <lb/>1507), in-4°.
+          <lb/>Schmidt V, n° 65 : S. Gall (Stiftsbibl.).
+          <lb/>3186
+          <lb/>SCHONAEUS, Cornelius : Tobaeus, Comoedia sacra.., repurgata
+          <lb/>atque diligenter recognita. — Strasbourg, Nicolas Wyriot
+          <lb/>1583, in-80.
+          <lb/>Walter, n° 2210; Skopnik, p. 32-36.
+          <lb/>3187
+          <lb/>SCHOPFF, Philippe : Kurtzer, aber doch ausführlicher Bericht
+          <lb/>von dem Aussatz, auch dessen Ursachen, Zeychen und
+          <lb/>Curationen. — Strasbourg, Bernard [Jobinl 1582, in-80°.
+          <lb/>Burgun, René : La lèpre à Strasbourg. Dans : Strasbourg
+          <lb/>Médical, novembre 1951.
+          <lb/>3188
+          <lb/>SCHORUS, Antonius : De ratione discendae docendaeque
+          <lb/>linguae Latinae &amp;amp; Graecae, libri duo... [Marque typ. de
+          <lb/>Josias Rihel)... — Argentorati, Excudebat Josias
+          <lb/>Rihelius, Anno M. D.LXXV (1575), in-80.
+          <lb/>Bibl. Grand Sém. Strasbourg B E 172. [Une éd. W. Rihel
+          <lb/>1549: Ritter, Rép. n° 2091, de Josias Rihel 1596; Rép. n° 2095.
+          <lb/>Schorus voir aussi Rép. nos 2091-2098).
+          <lb/>3189
+          <lb/>SCHOTT, Johannes : Spiegel Christlicher walfart. —
+          <lb/>(Strasbourg, Jean Knobloch 1509), in-40.
+          <lb/>Geffcken: Der Bilderkatechismus des 15. Jahrhunderts.
+          <lb/>(Leipzig 1895), p. 179; Schmitt VII, n° 62. — BN Munich;
+          <lb/>Ritter: B M Strasbourg, n° 1891; Weller 512.
+          <lb/>3190
+          <lb/>460
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

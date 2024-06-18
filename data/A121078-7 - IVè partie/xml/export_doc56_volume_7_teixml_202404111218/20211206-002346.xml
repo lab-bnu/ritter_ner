@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:10.495907+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002346.tif
+IMAGE WIDTH: 2500
+IMAGE HEIGHT: 3968
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Sanct Paulus zu Tito, ein Christlich leben zu under¬
+          <lb/>richten. — [Strasbourg, Wolfg. Köpfel (?) 1524), in-80.
+          <lb/>Bibl. St. Guillaume, Strasbourg.
+          <lb/>2575
+          <lb/>LUTHER (Vermahnung) : Vermanung zum Sacrament des
+          <lb/>Leibs vud (sic : und) Bluts unsers Herren. Durch
+          <lb/>D. Martinum Luther, An. M. D. XXX. geschrieben. Und
+          <lb/>nun auffs new gedruckt mit einer Vorrede Doctor
+          <lb/>Johannis Pappusz. — Strasbourg, Nicolas Wyriot 1583,
+          <lb/>in-8°.
+          <lb/>Ritter: B M Strasbourg, no 1440.
+          <lb/>2576
+          <lb/>LUTHER (Versammlung) : Das ein christliche Versamlung
+          <lb/>oder gemeyne recht und macht habe alle lere zu urteylen...
+          <lb/>— (Strasbourg, Jean Prüss) 1523, in-4°.
+          <lb/>Schmidt III, p. 38, n° 33 : « Cela paraîtrait être une édition
+          <lb/>de Wittemberg, si l’encadrement du titre, jamais employé
+          <lb/>dans cette ville, mais plusieurs fois par Prüss, n’annonçait pas
+          <lb/>que c’est ce dernier qui a imprimé le traité par contrefaçon».
+          <lb/>Weller 2506 admet au contraire que c’est une édition de
+          <lb/>Wittemberg. — Bibl. St. Guillaume, Strasbourg. 2577
+          <lb/>LUTHER, Martin. Voir aussi : AcTA (Academiae Lovaniensis)
+          <lb/>n° 739; ALBERUS, Erasmus, nos 786, 791; AESOPUS,
+          <lb/>n° 758; ARGUMENT, n° 840; BIBLIA, nos 1003-1005;
+          <lb/>BRENTIUS, Joh., nos 1061, 1062; BRISMANN, n° 1096;
+          <lb/>COELESTINUS, n° 1415; CONDEMNATIO doctrinalis,
+          <lb/>n° 1430; CRONBERG, n° 1460; CULSAMERUS, n° 3387;
+          <lb/>DETERMINATIO theol. facultatis Parisiensis, n° 1504;
+          <lb/>DIETENBERGER, n° 1506; ENCHIRIDION geistlicher
+          <lb/>Gesänge, n° 1543; ERASMUS Roterodamus, n° 1594;
+          <lb/>JOHANNES (Apostolus), n° 2148; GESANGBÜCHLEIN,
+          <lb/>nos 1895-6; GLOCCER, G., n° 1910; GNIDIUS, n° 1914;
+          <lb/>HENRICUS VIII, nos 1985-6; HESSUs, Simon, n° 2007;
+          <lb/>HUTTEN, nOS 2093/4; 2098; LIEDER, n° 2403; KARLSTADT
+          <lb/>n° 2217; LIEDER (drei schöne neue), n° 2403;
+          <lb/>MARSCHALCK, n° 2603; MURNER, nos 2737, 2739;
+          <lb/>344
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

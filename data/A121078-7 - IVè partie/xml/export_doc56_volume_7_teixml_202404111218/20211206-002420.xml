@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:12.351746+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002420.tif
+IMAGE WIDTH: 2486
+IMAGE HEIGHT: 3968
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>PONTANUS, Joh. Jovianus : Amorum Libri duo... —
+          <lb/>(Strasbourg, Jean Knobloch, novembre 1515), in-4°.
+          <lb/>Panzer 6, 72, 371; Schmidt VII, n° 104: B M Hambourg. 2970
+          <lb/>PONTANUS, Joh. Jovianus : Liber de Meteoris. Cum inter¬
+          <lb/>pretatione Viti Amerbachii. — Strasbourg 1539, in-8°.
+          <lb/>Hellmann, Repertorium, p. 11.
+          <lb/>2971
+          <lb/>PONTANUS, Joh. Jovianus : Liber de Meteoris. Cum inter¬
+          <lb/>pretatione Viti Amerbachii. — Strasbourg, Crato Mylius,
+          <lb/>mars 1545, in-80.
+          <lb/>Walter n° 2078. (Voir aussi Pontanus : Ritter, Rép. no 1913l.
+          <lb/>2972
+          <lb/>POPPIUS, Georgius : Elegia in natalem Jesu Christi salvatoris
+          <lb/>nostri diem, de lapsu primorum parentum &amp;amp; reparatione
+          <lb/>humani generis scripta... 1572. — Strasbourg, Christian
+          <lb/>Mylius 1572, in-4°.
+          <lb/>Bibl. St. Guillaume, Strasbourg.
+          <lb/>2973
+          <lb/>PORPHYRIUS. Voir : FREINSHEMIUS, Wolfg., n° 1766.
+          <lb/>PORTUS, Aemilius : Davidis regis Prophetae Psalmi omnes
+          <lb/>noviter n. pr. tam in graecum carmine heroico quam in
+          <lb/>latinam prosam... conversi. — Strasbourg 1582, in-8°.
+          <lb/>Graesse V, p. 421 : « Cette version publiée d’abord à Bâle
+          <lb/>1581, in-8° a été mise dans l’Index».
+          <lb/>2974
+          <lb/>POTHO (Presbyter Prumiensis) : De statu domus Dei libri
+          <lb/>quinque... — Voir: BRASSICANUS, Joh. Alexander,
+          <lb/>n° 1058.
+          <lb/>PRACTICA : auf das Jahr 1501. — (Strasbourg, Barth. Kistler)
+          <lb/>19.V.1501, in-40.
+          <lb/>Schmidt IV, p. 6, no 14; Weller 201.
+          <lb/>2975
+          <lb/>PRACTICA : Dyse practica ist gemacht uff das fünffzehen
+          <lb/>418
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

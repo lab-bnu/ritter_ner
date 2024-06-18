@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:37.328661+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2370.tif
+IMAGE WIDTH: 2344
+IMAGE HEIGHT: 3824
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>366
+          <lb/>Habes insuper candide lector Grammati cae Syntaxis
+          <lb/>&amp;amp; Prosodiae appendicem, vbi copiosius Constructionis re¬
+          <lb/>gulis... (5 lignes.)
+          <lb/>Additus etiam est punctandi modus perutilis. Huic
+          <lb/>litterarum politiorum Tyruncule studeto grammatice &amp;amp;
+          <lb/>probabis.
+          <lb/>Anno. M. D. XV.
+          <lb/>A la fin: Habes nunc... Tertiam huius Grammaticae
+          <lb/>editionem... A Ioanne Prüsz Argenti-nensi ciue stanneis
+          <lb/>excriptam (!) calamis vir- gula Aristarchi adhibita ac mul¬
+          <lb/>tis versiculis ornata. Anno hu-manae redemptionis deci
+          <lb/>moquinto supraMillesimum quin gentesimum.
+          <lb/>In-4°, car, rom., 4 ff. non ch. CXIII ff. ch., titre courant, notes
+          <lb/>marginales, initiales ornées Q, R, P, S, titre rouge et noir, encadré,
+          <lb/>comme No 256.
+          <lb/>Au verso du titre: Ioannes Cocleus Noricus; domino suo
+          <lb/>Antonio Kress. I. V. doctori celeberrimo. ac Laurentianae
+          <lb/>ecclesiae No rinbergae Praeposito... — Ex scholis nostris.
+          <lb/>Anno... M. D. XI, Pridie Calendas Martij.
+          <lb/>fol. 2a non ch.: Table à 2 col.
+          <lb/>fol. 4a non ch.: Prologium. Au verso: Wimphelingo chris¬
+          <lb/>tianae Theologiae licentiato Hie ronymus Gebuiller Insignis
+          <lb/>Argentinensis eccle siae puerorum moderator. S. D....
+          <lb/>*R100.052. Prov.: Trübner, Strasbourg, 9/XI. 1883; 3 M.
+          <lb/>Proctor II, Sectio I. N° 10.324 : Londres, British Museum;
+          <lb/>GPB: BU Fribourg, Munich; Schmidt III, p. 33, N° 14: Fribourg.
+          <lb/>546
+          <lb/>COCHLAEUS Johannes
+          <lb/>Strasbourg, J. Prüss fils, 1515.
+          <lb/>VOCABVLORVMIN Io annis Coclei Grammaticam Colle
+          <lb/>ctaneum: ille enim clausulae; quae spar sim carminum
+          <lb/>orationisque solutae sen tentijs (codice praefato: in Aethi
+          <lb/>mologiae Grammatica) ad-iunctae sunt &amp;amp; exempli ficatae:
+          <lb/>presenti enu cleantur opu sculo.
+          <lb/>Decatosticon Libelli ad Lectorem, (5 distiques.)
+          <lb/>Ad vigilantissimum Sacrae Theologiae Licen ciatum
+          <lb/>Iacobum Vuim. (phelingum! G. A. Tetrasticon. (2 distiques.)
+          <lb/>A la fin (fol. 99b): Ioannes Prüsz Argentinensis Ciuis
+          <lb/>stan neo istum libellum calamo excripsit (!) Anno salutis
+          <lb/>1515. Septimo Calendas Ianuarias.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

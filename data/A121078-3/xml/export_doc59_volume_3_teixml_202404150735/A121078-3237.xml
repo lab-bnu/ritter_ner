@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:09.359055+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3237.tif
+IMAGE WIDTH: 2332
+IMAGE HEIGHT: 3854
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>bûch mit danck leszen, entbeüt er sein willigen dyenst
+          <lb/>vnd alles gûts.... — Mit Keyserlicher maiestat Freyheit
+          <lb/>vff sechs jor nit noch zû- trucken, bey pen Zehen marck
+          <lb/>golds, gedruckt durch Jo-annem Schott zû Straszburg
+          <lb/>im Thyergarten Anno Christi M. D. XXX.
+          <lb/>Bl. 2b: Index (2sp., 6 S.), am Schluss die für Schott charakte¬
+          <lb/>ristische Zierleiste mit dem Hasen. (Siche Abb. S. 680.
+          <lb/>Bl. 6b: Zâm Leszer, (8 deutsche Dist.)
+          <lb/>R 102.2152. Prov.: Bibl. Thomas Lauth, Strassburg, mit Lauths
+          <lb/>Exlibris.
+          <lb/>1001
+          <lb/>GK: UB Breslau, Göttingen.
+          <lb/>(GERSDORFF Hans vonl
+          <lb/>Strassburg, J. Schott 1540
+          <lb/>Feldbûch der Wund- Artzney, sampt vilen! Instru¬
+          <lb/>menten der Chirurgey Vsz dem Albucasi contrafayt.
+          <lb/>Chiromantia Jo. Jndagine.Das ist, die Kunst der
+          <lb/>Handbesehung.
+          <lb/>Natürliche Astrologey, Nach warem Lauff der Sonnen.
+          <lb/>Physiognomey, Vsz des Menschens Anblick vnd Gly¬
+          <lb/>deren,! sein angeborne neygung, zû erlernen.
+          <lb/>Complexion Bûch. Eins yeden Natur zû erkennen,
+          <lb/>durch der Planeten, vnd. xij. vffsteigenden Zeychen Ge¬
+          <lb/>burtstund.
+          <lb/>Canones, oder Regelen Eins yeden Kranckheyt war¬
+          <lb/>lich zû erkündigen. Wie auch, vnd wenn sich der Artz¬
+          <lb/>ney zû gebrauchen.
+          <lb/>Mit Keysz. Mt. Freyheit vff. vj. jar.
+          <lb/>Zù Straszburg bey Hans Schotten.! M. D. XL. (Rücks, leer.)
+          <lb/>Am Schluss Druckerm. Schotts. (HEB Tafel IV Nr. 9). Dar¬
+          <lb/>uber: Pietas ad omnia utilis; darunter: Pascere Prostratis,
+          <lb/>&amp;amp; debella- re Superbos.
+          <lb/>Mit Keysz. Maiest. freyheit vff Sechsz jar.
+          <lb/>Zù Straszburg bey Hans Schotten) zûm Thyergarten.
+          <lb/>M. D. XL. Am Dritten Decembris.
+          <lb/>20, Got., Kopft., Marg., Init. 1) Neudruck von Gersdorffs Feld¬
+          <lb/>buch 1517: 4 unn., CoX num. Bll. Holeschn, der Ausgabe von 1517.
+          <lb/>2) Deutsche Ubersetzung der Ausgabe vom 26. Februar 1532 des Albu¬
+          <lb/>casi; XX S. mit chirurgischen Instrumenten. 3) Neudruck von Inda¬
+          <lb/>681
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

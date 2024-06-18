@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:33.351300+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2227.tif
+IMAGE WIDTH: 2288
+IMAGE HEIGHT: 3824
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>223
+          <lb/>R10.460. Prov.: Bibliothèque de Wolfgang Menzel, Stuttgart,
+          <lb/>1874, avec l’autographe de Menzel à l’intérieur de la couverture. Rel. anc.
+          <lb/>2e ex. R 10.597 (2), Prov.: Friedrichs-Gymnasium Francfort, s. M.
+          <lb/>14/XII. 1888. Rel, anc.
+          <lb/>BN Paris, M. 465; BM Strasbourg. GPB: Bonn BU, Breslau
+          <lb/>BU, Kœnigsberg BU, Munster BU.
+          <lb/>332
+          <lb/>BURGAWER Dominieus
+          <lb/>Strasbourg, Math. Apiarius, 1534.
+          <lb/>Ein notwendiger be- richt nutzlich allen denen, so
+          <lb/>die artzney vnd ärtzet brauchen sollen vnd wöl- lent
+          <lb/>gemacht durch Dominicum Burgawer der artzney! Doc¬
+          <lb/>torem.
+          <lb/>Honora medicum... Eccl., 38. (2 lignes).
+          <lb/>Gedruckt zû Straszburg durch Mathiam Apiarium
+          <lb/>Anno MD XXXIIII. (Verso blanc.)
+          <lb/>In-40, car. goth., 12 ff. non ch., verso du dernier blanc, sign.
+          <lb/>A-O, réclames.
+          <lb/>fol. A 2a: Dem Durchleuchtigen Hochgebor- nen Fursten
+          <lb/>vnd Herren, herren Ernsten zù Brunswig! vnd lunneburg
+          <lb/>Hertzog... — Strassburg Anno 1534 Den 4 tag Maij....
+          <lb/>Dominicus Burgawer Artium et medicinae! Doctor.
+          <lb/>R101744. Prov.: Don d’Alex. Hatefeld née Schaum à Flacht
+          <lb/>près Diez, 1871.
+          <lb/>BM Strasbourg O 4515a; GPB: Gœttinque BU.
+          <lb/>333
+          <lb/>BURGAWER Dominieus
+          <lb/>Strasbourg, M. Apiarius, 1534.
+          <lb/>Ob das Podagra mög lich zû generen oder nit. Nutz¬
+          <lb/>lich! z6 wissen allen denen, die damit behafft. Ge- macht
+          <lb/>durch Dominicum Bur- gawer der artzney! Doctorem.
+          <lb/>Altissimus creauit de terra medicinam... Ecel. 38. (2 lignes).
+          <lb/>Gedrucht (!) zû Strassburg durch Mathiam Apiarium.
+          <lb/>Anno M. D. XXXIIII.
+          <lb/>In-40, car. goth., 12 ff. non ch., dont le dernier blanc., sign. A-C.
+          <lb/>réclames.
+          <lb/>Au verso du titre: Zûm Leser. (Préface.)
+          <lb/>R 101.271. Prov. inconnue.
+          <lb/>BM Strasbourg 1426 (2).
+          <lb/>334
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

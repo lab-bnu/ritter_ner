@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:51.345998+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078303.tif
+IMAGE WIDTH: 2318
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1189
+          <lb/>Angeli Policiani ad vi- ros illustres conducenter prenomi¬
+          <lb/>natis ad calcem! adiectae sunt.
+          <lb/>A la fin: Impressum Argentinae per Ioannem Kno¬
+          <lb/>blouch! Anno domini. M. D. XI.
+          <lb/>In-4°, car. rom,, 6 ff. non ch. (table), LXIff. ch., init, ornée E
+          <lb/>et de nombreuses init, d’attente.
+          <lb/>R101.045 (1). Prov.: Hartter, pasteur à Luizhausen 12/x 1877;
+          <lb/>2 M. Annotations mss., à l&amp;#x27;intérieur de la couverture: C. Dieterich.
+          <lb/>En bas:Johannes Conradus Fleinerus Oringensis Pastor Orendel sallen¬
+          <lb/>sis Anno salutis 1628.
+          <lb/>Schmidt VII n° 75; Walter: Sélestat n° 2024.
+          <lb/>1859
+          <lb/>PHILELPHUS Franciscus
+          <lb/>Strasbourg, M. Schurer 1514
+          <lb/>FRANCISCI PHILELFI EPISTOLAE breviores &amp;amp; elegantio¬
+          <lb/>res, atque adolescentibus magis conducentes, ex toto
+          <lb/>originario exemplari iam denuo transsumptae.Cum
+          <lb/>singularum epistolarum argumentorum Indice.! Item An¬
+          <lb/>geli Politiani epistolae quaedam familiares, suaviores, &amp;amp;
+          <lb/>breviores, ad viros illustres, in calce adiunctae sunt.
+          <lb/>A la fin: Argentorati, Ex Aedibus Schurerianis.! Mense
+          <lb/>Maio. ANN. M. D. XIIII.Regnante Imperatore Caesare
+          <lb/>Maximiliano. P. F. Aug.
+          <lb/>In-4°, car. rom., 6 ff. non ch. (table), LXI ff. ch. (erreurs de pa¬
+          <lb/>gination XXXI pour 29, XXXIII pour 31), init, ornées A, Q et de
+          <lb/>nombreuses init. d’attente.
+          <lb/>R101041. Prov.: BN Munich 31/1 1878; 0,60 M. Au recto
+          <lb/>du titre:,Monasterii B. V. in Diessen.
+          <lb/>BM Strasbourg; Schmidt VIII n° 134.
+          <lb/>1860
+          <lb/>PHILELPHUS Franciscus
+          <lb/>Haguenau, H. Gran 1514
+          <lb/>Epistole Francisci! Philelphi Equitis aurati, Oratoris
+          <lb/>atque Poetae! laureati : cum breviores, tum elegantiores:
+          <lb/>ex to to eiusdem epistolarum volumine selectae: adoles
+          <lb/>centibus scribendarum litterarum officio studiosis! maxime
+          <lb/>conducibiles.! Cum Indice omnium epistolarum! argumenta
+          <lb/>demonstrante.! Etiam Angeli Politiani breviusculae quae¬
+          <lb/>dam! &amp;amp; amoeniores epistolae adhibitae.! Item Epistolae
+          <lb/>L. Annei Senecae ad Apostolum Paulum, &amp;amp; rur- sus Pauli
+          <lb/>ad Senecam: eruditae &amp;amp; mystico quo- dam spiramine re¬
+          <lb/>dolentes.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

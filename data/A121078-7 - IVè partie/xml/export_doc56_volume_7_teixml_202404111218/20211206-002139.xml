@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:05.209021+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002139.tif
+IMAGE WIDTH: 2512
+IMAGE HEIGHT: 3964
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>DASYPODIUS, Conr. (Mathematicae Discipl.) : Oratio de
+          <lb/>disciplinis Mathematicis. Ad Fridericum II, sereniss.
+          <lb/>Regem Daniae &amp;amp;c. Eiusdem Hieronis Alexandrini
+          <lb/>nomenclaturae Vocabulorum Geometricorum translatio.
+          <lb/>Eiusdem. Lexicon Mathematicum, ex diversis collectum
+          <lb/>antiquis scriptis. (Marque typ. de Nic. Wyriot). —
+          <lb/>Argent. Excudebat Nicolaus Wyriot. M.D.LXXIX.
+          <lb/>(15791, in-80.
+          <lb/>Bibliothèque S. Guillaume Strasbourg; B N Paris; V.
+          <lb/>18231. Zinner 2882.
+          <lb/>1482
+          <lb/>DASYPODIUS, Conr. (Mathematicum Dict.) : Aegwxòv seu
+          <lb/>dictionarium mathematicum, in quo definitiones et
+          <lb/>divisiones continentur scientiarum mathematicarum... —
+          <lb/>Strasbourg, Nicolas Wyriot 1573, in-8°.
+          <lb/>BN Paris V 18.232.
+          <lb/>1483
+          <lb/>DASYPODIUS, Conr. (Mathematicum Vol.) : Volumen primum
+          <lb/>mathematicum, prima et simplicissima mathematicarum
+          <lb/>disciplinarum principia complectens: geometriae, logis¬
+          <lb/>ticae, astronomiae, geographiae... Volumen secundum
+          <lb/>mathematicum, complectens praecepta mathematica,
+          <lb/>astronomica, logistica... — Strasbourg, Josias Rihel
+          <lb/>vol. I. 1567, vol. II ; 1570, in-8°.
+          <lb/>BN Paris V 18.224; Ritter: B M Strasbourg nos 802 (vol. I)
+          <lb/>et 803 (vol. II).
+          <lb/>1484
+          <lb/>DASYPODIUS, Conr. (Mathem. Instit.) : Institutionum mathe¬
+          <lb/>maticarum volumen primum Erotemata, avec Erotemata
+          <lb/>Logisticae, Geometriae. Pro Schola Argent. — Strasbourg,
+          <lb/>J. Rihel 1593, in-8°. BN Paris V 18226.
+          <lb/>Ritter: B M Strasbourg n° 807; Vogeleis p. 368; Zinner 3532.
+          <lb/>1485
+          <lb/>DASYPODIUS, Conr. (Mathematicae Inst.) : Appendix
+          <lb/>Elementorum. Arithmeticae-Geodaesiae. Opticae-Catop¬
+          <lb/>tricae, Seenographiae, Theoriae planetarum. Logisticae,
+          <lb/>137
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

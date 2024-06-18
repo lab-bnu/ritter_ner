@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:05.596525+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3055.tif
+IMAGE WIDTH: 2330
+IMAGE HEIGHT: 3838
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Am Schluss: Excusum Argentine Mense Maio. Anno.
+          <lb/>M. D. XX.
+          <lb/>4°, Antiq., 87 S. (einige Fehler in der Zählung, so: 8 statt 18,
+          <lb/>76 statt 86), Kopftitel, Kustoden, Titeleinfassung (avie Nr. 743).
+          <lb/>S. 2-3: Erasmvs Roterodamvs Pe tro Viterio, libera¬
+          <lb/>lium disciplina! rum professori eximio, S. D. (Vorrede.)
+          <lb/>R 100.9211. Prov.: Pastor Harter, Luizhausen, 2. X. 1877, 1 M.
+          <lb/>Unvollst., S. 5-12 fehlen. Handschr. Notizen.
+          <lb/>GK: SB Berlin, UB Breslau; Schmidt III, S. 35, Nr. 21. 748
+          <lb/>ERASMUS: Adagia
+          <lb/>Hagenau, Th. Anshelm, 1521
+          <lb/>COLLECTANEA ADAGIORVM VETE RVM D. ERASMI
+          <lb/>Roterodami Germaniae! decoris, Opusculum sa! ne ingenio
+          <lb/>summo! elabora! tum. AD LECTOREM! Habes hic candide
+          <lb/>lector, ex Anshelmiana Typographica officina, Adagia illa
+          <lb/>Erasmi Roterodami, multo emenda tiora, multo integriora,
+          <lb/>quam in prioribus impressioni ! bus. Dictiones praeterea
+          <lb/>graecas sparsim. huic opusculo insertas cum apicibus suis,
+          <lb/>ac spiritibus, artifici opera fabrefa ctis, qui in aliis huc
+          <lb/>vsque sunt neglecti.Addita est tabula in ipsius operis
+          <lb/>calce, quo dicto citius quaerenti quoduis occurrit.
+          <lb/>Am Schluss: Hagenoae ex aedibus Thomae Anshelmi Ba
+          <lb/>densis. Mense Ianuario, Anno a Chri! sto nato. M. D. XXI.
+          <lb/>(Rückseite leer.)
+          <lb/>40, Antiq., 4 unn, LVII num. u. 7 unn. Bll. (Index), letztes Blatt
+          <lb/>leer, Titel rot und schwarz, Init. M.
+          <lb/>Neudruck der Anshelm&amp;#x27;schen Ausgabe von 1519.
+          <lb/>R100917. Geschenk von F. Butsch, Augsburg, 1871. Handschr.
+          <lb/>Notizen.
+          <lb/>GK: SB Berlin; Van der Haeghen: Kolmar, Krakau, Prag, Pe¬
+          <lb/>tersburg, Stuttgart, Wien.
+          <lb/>749
+          <lb/>499
+          <lb/>Strassburg, J. Knobloch, 1521
+          <lb/>ERASMUS: Antibarbara
+          <lb/>ANTIBAR BARORVM D. ERASMI ROTE rodami, liber unus,
+          <lb/>quem iuuenis qui- dem adhuc lusit, caeterum diu desy¬
+          <lb/>deratum, demum repertum non iuuenis recognouit, &amp;amp; ue¬
+          <lb/>lut postliminio studiosis restituit. Ex quo reliquorum,
+          <lb/>qui diis propitiis propediem accedent, lector coniecturam
+          <lb/>fa- cias lice- bit.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

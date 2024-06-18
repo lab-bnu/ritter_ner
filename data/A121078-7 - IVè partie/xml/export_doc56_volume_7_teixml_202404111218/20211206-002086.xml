@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:03.785371+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002086.tif
+IMAGE WIDTH: 2510
+IMAGE HEIGHT: 3936
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>BUCH der Weisheit : Buch der wyszheit der alten wysen... —
+          <lb/>(Strasbourg 1512), in-40.
+          <lb/>Kristeller, n° 136; Goedeke 12, p. 366, n° 3 (10) ; Heitz¬
+          <lb/>Ritter, n° 55 : Wolfenbüttel. (Eigentlich eine indische Fabel¬
+          <lb/>sammlung bekannt unter dem Namen Pantschatantra,
+          <lb/>später in die meisten orientalischen Sprachen übersetzt. Aus
+          <lb/>dem Hebräischen übersetzte sie 1262 Johannes de Capua
+          <lb/>ins Lateinische als Directorium vitae humanae, kurz darauf
+          <lb/>erfolgte eine deutsche Ubersetzung, die viele Auflagen erlebtel.
+          <lb/>1184
+          <lb/>BUCH der Weisheit: (Idem). — Strasbourg, Jean Grüninger
+          <lb/>1524, in-fol.
+          <lb/>Goedeke I2, p. 366 n° 3 (11); Kristeller, n° 193; Weller 2800;
+          <lb/>Heitz-Ritter, n° 56.
+          <lb/>1185
+          <lb/>BUCH der Weisheit : (Idem). — Strasbourg, Jean Grüninger
+          <lb/>1525, in-fol.
+          <lb/>Goedeke I2, p. 366, n° 12; Kristeller, n° 195; Weller 3335;
+          <lb/>Heitz-Ritter, n° 57.
+          <lb/>1186
+          <lb/>BUCH der Weisheit : (Idem). — (Strasbourg, Jean Grüninger
+          <lb/>(7.IX.] 1529), in-fol.
+          <lb/>Kristeller, n° 204; Schmidt I, n° 243; Goedeke I2, p. 366,
+          <lb/>n° 13; Heitz-Ritter n° 58 : Berlin, Munich; Weigel, Katal.
+          <lb/>des antiq. Lagers (1865) nos 7392 et 18.113.
+          <lb/>1187
+          <lb/>BUCH der Weisheit : (Idem). — Strasbourg, Jacques Frölich
+          <lb/>1545, in-fol.
+          <lb/>Goedeke I2, p. 366, n° 16; Heitz-Ritter, n° 61 : Nuremberg,
+          <lb/>Germ. Museum, St. Florian; Baer (Francfort-s.-M.), Catal, 500
+          <lb/>(1905), n° 600. (Voir aussi : Ritter, Rép. nos 314-315 ; éd.
+          <lb/>Grüninger 1536 et J. Frölich 1539).
+          <lb/>1188
+          <lb/>BUCHANAN, Georgius: Psalmorum Davidis Paraphrasis poetica,
+          <lb/>nunc primum edita... — (Strasbourg, Josias Rihel 1566),
+          <lb/>in-120.
+          <lb/>BN Paris: A 6856; Ritter : B M Strasbourg 620.
+          <lb/>1189
+          <lb/>84
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

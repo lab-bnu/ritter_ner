@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:10.292837+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002332.tif
+IMAGE WIDTH: 2516
+IMAGE HEIGHT: 3958
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>ausz der heyligen geschrifft des waren und heyligen
+          <lb/>Evangelions... mit etzlichen gesengen Gemert Gebessert
+          <lb/>und mit fleysz corrigyert, mit einer Vorrede Docto:
+          <lb/>Martini Luther. Wittenberg M. D. XXV. — [Avec notes
+          <lb/>de chantl. — [Strasbourg, Wolfg. Köpfel] 1525, in-8°.
+          <lb/>(Encadrement employé par Köpfell.
+          <lb/>Bibl. St. Guillaume, Strasbourg.
+          <lb/>2491
+          <lb/>LUTHER (Epistel Petri) : Die ander Epistel S. Petri unnd
+          <lb/>S. Judas... — Strasbourg, Jean Prüss 1523, in-4°.
+          <lb/>Probablement erreur pour 1524 au lieu de 1523. Voir n° 2494.
+          <lb/>2492
+          <lb/>LUTHER (Epistel Petri) : Epistel S. Petri geprediget unnd
+          <lb/>auszgelegt durch Martinum Lutherum M.D.XXIIII. —
+          <lb/>(Strasbourg, Ulr. Morhard] 1524, in-4°.
+          <lb/>Schmidt IV, p. 31, n° 13 : Bibl. S. Guillaume, Strasbourg
+          <lb/>(B N Strasbourg R 100.589 : Ritter, Rép. n° 1423). 2493
+          <lb/>LUTHER (Epistel Petri) : Die ander Epistel S. Petri unnd
+          <lb/>S. Judas gepredigt unnd auszgelegt. M. D.xxiiij. —
+          <lb/>(Strasbourg, Jean Prüss, 27 mai 1524), in-4°.
+          <lb/>Horning, n° 55, Weller 2989; Schmidt III, p. 39, n° 36:
+          <lb/>Bibl. S. Guillaume, Strasbourg.
+          <lb/>2494
+          <lb/>LUTHER (Epistolae) : Lutheri et Annemundi Cocti Equitis
+          <lb/>Galli sequentibus commentariis Epistolae... —
+          <lb/>(Strasbourg, Jean Knobloch 1523), in-80.
+          <lb/>Dommer, n° 352; Horning, n° 57 ; Schmidt VII, n° 272. 2495
+          <lb/>LUTHER (Contra Erasmum Rot.) : Judicium D. Martini
+          <lb/>Lutheri de Erasmo Roterodamo. Philippi Melanchthonis
+          <lb/>de Erasmo &amp;amp; Luthero Elogion. Ratio discendi per
+          <lb/>eundem tradita. Eiusdem, Quo iudicio Augustinus,
+          <lb/>Ambrosius, Origenes ac reliqui Doctores legendi sint.
+          <lb/>D. Martini Lutheri ad Wolfgangum Fabritium Capitonem
+          <lb/>theologum Epistola utilissima. — (Strasbourg, Jean
+          <lb/>Schott vers 1522), in-4°.
+          <lb/>330
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

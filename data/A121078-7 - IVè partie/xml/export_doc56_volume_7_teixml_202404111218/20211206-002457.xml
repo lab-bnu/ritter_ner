@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:13.220264+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002457.tif
+IMAGE WIDTH: 2498
+IMAGE HEIGHT: 3952
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>SAPIDUS, Johannes : Epigrammata... — Sélestat (Lazare
+          <lb/>Schürer) 1520, in-40.
+          <lb/>Walter, no 2187.
+          <lb/>3163
+          <lb/>SAPIDUS, Johannes : Epicedion Thomae Sporeri. (Musique de
+          <lb/>Sixte Dietrich). — Strasbourg, Pierre Schäffer et Mathias
+          <lb/>Apiarius 1534, in-40.
+          <lb/>Vogeleis 230 : Zwickau.
+          <lb/>3164
+          <lb/>SAPIDUS, Johannes : Paraclesis sive consolatio de morte
+          <lb/>illustrissimi principis Alberti (fils d’Ernest I de Durlach),
+          <lb/>marchionis Badensis, ad clarum et nobilem virum Guilhel¬
+          <lb/>mum Boecilinum, per Mundatensem ditionem prae¬
+          <lb/>fectum. — Strasbourg, Crato Mylius 1543, in-4°.
+          <lb/>Schottenloher 29.238; Walter 2191.
+          <lb/>3165
+          <lb/>SAPIDUS, Johannes : Paraclesis sive Consolatio de Morte... —
+          <lb/>Strasbourg, Crato Mylius, août 1543, in-4°.
+          <lb/>Walter, n° 2191. (Sapidus, voir aussi : Ritter, Rép, nos 2071¬
+          <lb/>2073).
+          <lb/>3166
+          <lb/>SARCTOR, Conrad (Saxofrancus) : De eadem re [Exclamatio
+          <lb/>in incendium Lutheranum] ad Germanos Oratio. A la
+          <lb/>suite de Hutten : Exclamatio etc. — (Strasbourg,
+          <lb/>Jean Schott 1521), in-4° (n° 2107).
+          <lb/>Benzing : Hutten, n° 151.
+          <lb/>3167
+          <lb/>SAVONAROLA, Michael : Ad divum Leonellum Marchionem
+          <lb/>Estensem libellus de aqua ardenti Michaelis Savonarole
+          <lb/>physici... — Haguenau 1532, in-80.
+          <lb/>Graesse VI, p. 286. [Savonarola, voir aussi : Ritter, Rép.
+          <lb/>n° 2074/75l.
+          <lb/>3168
+          <lb/>SCALIGER, J. Voir : SOPHOCLES, n° 3245.
+          <lb/>SCHADAEUS, Elias : Oratio de linguae sanctae origine progressu
+          <lb/>&amp;amp; varia fortuna, ad nostrum usque saeculum conscripta
+          <lb/>455
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

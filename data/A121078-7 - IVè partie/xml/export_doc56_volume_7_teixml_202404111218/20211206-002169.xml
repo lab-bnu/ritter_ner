@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:05.993126+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002169.tif
+IMAGE WIDTH: 2506
+IMAGE HEIGHT: 3976
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Auschreiben der ubelbefridigten Ständ in Franckreich...
+          <lb/>Aus dem Französischen inn Teutsch gebracht durch
+          <lb/>Emericum Lebusium (Fischart). — (Strasbourg, Bern.
+          <lb/>Jobin, 1575 ou 1576), in-8°,
+          <lb/>Hauffen, Fischart-Studien dans : Euphorion VI, p. 535/6:
+          <lb/>Berlin, Breslau, Darmstadt, Dresden, Wolfenbüttel (Aus¬
+          <lb/>gabe Cl.
+          <lb/>1647
+          <lb/>ESTIENNE, Henri : Carmen de senatulo foeminarum, magnum
+          <lb/>senatui virorum levamentum atque adjumentum
+          <lb/>allaturo. — Strasbourg, Antoine Bertram 1596, in-4°.
+          <lb/>Graesse II, p. 508.
+          <lb/>[Estienne. Voir aussi Ritter, Rép. n° 807 : Carmen ad
+          <lb/>Senatum Arg. Strasbourg, Ant. Bertram 1596).
+          <lb/>1648
+          <lb/>ETSCHENREUTER, Gallus. Voir: BERNARDUS, Comes Treve¬
+          <lb/>rensis, n° 987; (RITTER, Rép, n° 808-810).
+          <lb/>EUBULUS Moventinus, Constantius. Pseudonyme de PHRY¬
+          <lb/>GIUS, Paulus.
+          <lb/>EUCHARIUS Synesius. Voir: BUCOLICAE querelae, n° 1197.
+          <lb/>EUCLIDES : Tov Tévre xoì Séx groixeiov... — Strasbourg,
+          <lb/>Wendelin Rihel août 1538, in-4°.
+          <lb/>Ritter : B M Strasbourg 925.
+          <lb/>1649
+          <lb/>EUCLIDES : Toν Trêvre xœì θέμα στοιγςιῶν ἐx τo͂ν τoῦ Oςdvoς
+          <lb/>ovvoυoéiv τò *pótov. — Strasbourg 1539.
+          <lb/>Ficker, Erste Lehr- und Lernbücher, p. 50.
+          <lb/>1650
+          <lb/>EUCLIDES : Catoptrica, id est Elementa ejus scientiae, qua
+          <lb/>universa speculorum vis atque natura explicatur... —
+          <lb/>Strasbourg 1557, in-4°. (Traduit par Conrad Dasypo¬
+          <lb/>dius).
+          <lb/>BN Paris, V. 6053.
+          <lb/>1651
+          <lb/>167
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

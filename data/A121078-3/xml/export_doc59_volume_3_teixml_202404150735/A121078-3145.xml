@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:06.947403+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3145.tif
+IMAGE WIDTH: 2314
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>sub Jure Francisci Bennonis Rottenpuoche... 1676. Am Schluss: dises
+          <lb/>Piechlin gehöret mir zue Joseph Muth: 1763.
+          <lb/>GK: SB Berlin. Kristeller 101; Schmidt I Nr. 160.
+          <lb/>Bibliographie von L. Fries: Schottenloher Nr. 6610-6623. 888
+          <lb/>FRIES Lorenz
+          <lb/>Strassburg, J. Grüninger 1519
+          <lb/>Spiegl der Artzny des geichen vormals nie! von
+          <lb/>keinem doctor in tütsch vszgangen ist nützlich vnd gûtt
+          <lb/>allen denen so der artzt radt begerent,! auch den gestreif¬
+          <lb/>felten leyen, welche sich vnderwinden mit artznei vmb
+          <lb/>zegon...
+          <lb/>Cum gratia et priuilegio Imperiali.
+          <lb/>Am Schluss: Gedruckt vnd vollendet in der Keiser¬
+          <lb/>lichen stat Straszburg von Jo-hanni Grieninger vff sant
+          <lb/>Gilgen tag im iar nach! Christi geburt! M. ccccc. vnd
+          <lb/>xiX. (Rücks, leer.)
+          <lb/>2°, Got., CLXXVI Bll., Kopft., zahlreiche Init., Titel rot und
+          <lb/>schwarz; Titeleinfassung vie in vorhergehender Nummer. Die Abb. des
+          <lb/>menschlichen Körpers u. des Skeletts sind hier auf die Grösse einer Seite
+          <lb/>reduziert. Verschiedene Irrtümer in der Numerierung der Bll., so XIII
+          <lb/>u. XIV irrtümlich XV u. XVI, Bl. XXXIII irrtümlich XXXI usw.
+          <lb/>R 10.2601. Prov.; Bibl. der Strassburger medizinischen Fakultät.
+          <lb/>Auf der Innens, des Vorderdeckels: Sum Joannis Hestori Doctoris.
+          <lb/>GK: UB Göttingen. Schmidt I Nr. 168.
+          <lb/>889
+          <lb/>589
+          <lb/>FRIES Lorenz
+          <lb/>Strassburg, J. Grüninger 1519
+          <lb/>Synonimavnd gerechtvszlegung der wörter so
+          <lb/>man dan in der ar tzny, allen krütern, Wurtzlen, Blû¬
+          <lb/>men, Somen, Gesteinen, Safften vnd anderen Dingen zû
+          <lb/>schreiben ist In Latinscher, Hebraischer, Ara bischer,
+          <lb/>Kriechischer Vnd! mancherlei teïtscher zun! gen Biszher
+          <lb/>nit beiein-ander gesehen vnd vil ir tung vnd miszbrauch
+          <lb/>darin gehalten hie mit fleisz vnd arbeit zesamen bracht.
+          <lb/>Me congessit Phrisius Argentarie.
+          <lb/>Am Schluss: Getruckt vnd volendt von Johannes Grie¬
+          <lb/>ninger Jn der loblichen stat Strasz burg vff sant. Andreas
+          <lb/>abent. Jn demJar. M. D. xix. (Rücks. leer.)
+          <lb/>20, Got., LVI Bll., Kopft., Titeleinfassung (Arabesken).
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

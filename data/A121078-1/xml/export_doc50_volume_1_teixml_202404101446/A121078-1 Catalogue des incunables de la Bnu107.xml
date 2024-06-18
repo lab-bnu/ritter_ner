@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:38.214737+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu107.tif
+IMAGE WIDTH: 2398
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>PALUDANUS PETRUS : Sermones thesauri novi de tempore.
+          <lb/>Strasbourg, Martin Flach, 1491, in-fol.
+          <lb/>Copinger 5417, Schmidt VI, 38, Voulliéme: Berlin 2492, 3.
+          <lb/>K 3300. Prov.: Don de la ville de Heilbronn, 1872. Rel. anc.
+          <lb/>364
+          <lb/>PALUDANUS PETRUS: Sermones thesauri novi de tempore.
+          <lb/>Strasbourg, Martin Flach, 1493, in-fol.
+          <lb/>Copinger 5418, Günther: Leipzig 2760, Madsen 3019, Schmidt
+          <lb/>VI, 46.
+          <lb/>K 3300a. Prov.: L. Rosenthal, Munich, 16. X. 1888, 18 M.
+          <lb/>Notes mss. Au bas du f. a2a: «Ex Bibliotheca S. Georgii
+          <lb/>Dinckelspyhlo 1704.» Notes mss. Rel. anc.
+          <lb/>365
+          <lb/>PALUDANUS PETRUS: Sermones thesauri novi de tempore.
+          <lb/>Strasbourg, Martin Flach, 1497, in-fol.
+          <lb/>Copinger 5420, Schmidt VI, 62.
+          <lb/>K 3302. Prov.: Don du prince de Bentheim, 1871. Notes mss.
+          <lb/>Incomplet, sign. g5-m2 manquent.
+          <lb/>366
+          <lb/>PANORMITANUS abbas. Voir: Tudeschis Nicolaus de.
+          <lb/>PARATUS: Sermones de tempore et de sanctis. (Strasbourg,
+          <lb/>J. Grüninger), s. d., in-fol.
+          <lb/>Hain 12406, Madsen 3041, Voulliéme: Berlin 2517.
+          <lb/>K 2811. Prov.; B N Munich, 22. L. 1880, 1 M 30. Au-dessus du
+          <lb/>titre: «Georgius prantb». Au-dessous: «Georgius präntellius
+          <lb/>parochus». Au haut du f. a2a: «Sum ex libris Mgri Caspari
+          <lb/>Karneri SS theol. studiosi.» Notes mss. Rel. anc.
+          <lb/>367
+          <lb/>PARATUS: Sermones de tempore et de sanctis. Strasbourg,
+          <lb/>impr. du Jordanus (— G. Husner)), 1er sept. 1487,in-2°.
+          <lb/>Hain 12411, Proctor 613.
+          <lb/>K 2813. Prov.; B N Munich, 22. I. 1880, 3 M.
+          <lb/>A la suite de Guilhelmus, Postilla, 1489. K 1865.
+          <lb/>368
+          <lb/>PARENTINIS. Voir: Bernardinus de Parentinis.
+          <lb/>77
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

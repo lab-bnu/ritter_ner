@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:54.681729+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5152.tif
+IMAGE WIDTH: 2338
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1460
+          <lb/>domini Joannis knobloch Ar! gentinensis ciuis: per industrium
+          <lb/>A la fin : Prima pars Summe... Impensis circumspecti viri
+          <lb/>Henricum Gran in oppido imperiali Hagenaw impressa
+          <lb/>Anno virginei partus M. d. xij. die septimo Maij finit feliciter.
+          <lb/>In-fol., car. goth., 2 col., 14 ff. non ch., CXL ff. ch. (Erreur de numéro¬
+          <lb/>tage CXXXIII pour 138, CXXXXI pour 139), 3 ff. non ch. (Tabula
+          <lb/>questionum) et 1 f. blanc, titre courant; notes marg., init. ornée Q fol. Ia.
+          <lb/>Au-dessous du titre : Frater Augustinus natalis Raguseus theologie
+          <lb/>professor ordinis predicatorum!! Marco Gradonico Bartholomei filio
+          <lb/>patritio veneto arti-! um doctori eminentissimo (Dédicace de 32 lignes).
+          <lb/>Au verso du titre : Tabula alphabetica (27 pp.).
+          <lb/>II. Prima Secunde (partis) sancti Thome de Aquino
+          <lb/>ordinis Predicatorum.
+          <lb/>A la fin: Explicit prima pars secundae partis... magna cum
+          <lb/>diligen-tia : maximoque studio in imperiali oppido Hagenaw
+          <lb/>im- Il pressa per industrium Henricum Gran inibi ciuem:
+          <lb/>expensis!! prouidi uiri domini Joannis knoblauch Argentinensis
+          <lb/>ciuis. Finitaque feliciter Anno virginei partus. M. d. xij. in
+          <lb/>vigilia I] sancti Valentini martyris.
+          <lb/>In-fol., car. goth., 2 col., 4 ff. non ch. (Table à 3 col.), CXXXI ff. ch.
+          <lb/>et 1 fol. blanc, titre courant, init. ornée A fol. Ib.
+          <lb/>III. Secunda Secunde (partis) sancti Thome! de Aquino
+          <lb/>ordinis Predicatorum. (Verso blanc.)
+          <lb/>A la fin: Liber secundus partis secundae beati Thome... finit.
+          <lb/>Impensis circumspecti vi ri domini Joannis Knobloch
+          <lb/>Argentinensis ciuis : Impressus per industrium Henricum
+          <lb/>Gran in oppido imperiali Hagenaw. finit us que anno
+          <lb/>virginei partus. M. dxij.die vero altero post Epipha-niam
+          <lb/>domini.
+          <lb/>In-fol., car. goth., 2 col., 6 ff. non ch. à 3 col. (Tabula questionum.),
+          <lb/>CLXXXVII ff. ch. (Erreur, après fol. 36, 2 ff. non ch.), titre courant,
+          <lb/>init. ornée Q fol. Ia.
+          <lb/>IV. Tertia pars Summe sancti Thome. (Verso blanc.)
+          <lb/>A la fin : Tertia pars Summe beati ]] Thome... impensis
+          <lb/>circumspe !! cti viri domini Joannis Knobloch Argentinensis
+          <lb/>ciuis: impressa per industrium Henricum Gran in oppido
+          <lb/>imperiali Ha!! genaw ciuem finit feliciter Anno virginei partus.
+          <lb/>Mdxij !] in vigilia Annunciationis.
+          <lb/>In-fol., car. goth., 2 col., CCXVII ff. ch., 5 ff. non ch. (Table), titre
+          <lb/>courant, init. ornée O fol. Ia.
+          <lb/>R. 10.373. Prov. : BN Munich, 10/IV, 1882; 7 M.
+          <lb/>Notes mss., au-dessus du titre, Monasterium Althominster 15.42,
+          <lb/>au verso du f. de garde : « Bibliothecae regiae Monacensis.»
+          <lb/>2e ex. R. 10.375. Ne contient que la Ire et la 2e partie.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

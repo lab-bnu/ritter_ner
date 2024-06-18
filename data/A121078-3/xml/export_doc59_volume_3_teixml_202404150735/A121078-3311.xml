@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:11.103053+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3311.tif
+IMAGE WIDTH: 2358
+IMAGE HEIGHT: 3858
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>753
+          <lb/>Krieg, vnd endlicher zerstörung der Herrlichenvnd ge¬
+          <lb/>waltigen Statt Je-rusalem.
+          <lb/>Jetz newlich ausz dem Latein auffs trewlichest! ver¬
+          <lb/>teutschet, mit kurtzen Summarien aller vnnd jeder Bü¬
+          <lb/>cher vnd Capitel, Auch ordenlicher Jarrechnung ge-zieret,
+          <lb/>vnd mit Concordantzen beydes auff die Hey- lige Bibel
+          <lb/>vnd vnsern newen TeutschenJosephum gerich- tet.
+          <lb/>Sammt eynem nutzlichen Register vnd schö-] nen Figuren.
+          <lb/>Mit Römischer Keys. Maiest. Freiheyt. (Rücks, leer.)
+          <lb/>20, Got., 6 unn., 118 num., Gunn. Bll. (Index, 2sp.), letstes Bl.
+          <lb/>leer, Kopft., Kust., Marg., Init., Titel rot u. schwarz, Titelumrahmung,
+          <lb/>zahlr. Holeschn.
+          <lb/>Wortgetreuer Abdruck der Ausgabe von 1574.
+          <lb/>R 592. Geschenk der Grossherz. Bibl. in Karlsruhe 1871.
+          <lb/>2. Ex. R10.4452. Prov.: Wilh. Köbner, Breslau (Katal. 171)
+          <lb/>1885. Unvollst. Bl. 114-118 (Summarische Wiederholung) fehlen. 1115
+          <lb/>HEGESIPPUS
+          <lb/>[Strassburg, Th. Rihel] 1587
+          <lb/>Egesippi,! des Hochberühmten Für- trefflichen Christ¬
+          <lb/>lichen Geschichtschri- bers, fünff Bücher: Vom Jüdi¬
+          <lb/>schen Krieg, vnd endlicher zerstörung der Herrlichen
+          <lb/>vnd gewaltigen Statt Je- rusalem... etc.
+          <lb/>20, Got., 6 unn., 118 num. u. 6 unn. Bll. (Index, 2sp.), letztes
+          <lb/>Bl. leer, Kopft., Kust, Marg., Init., Titel rot u, schwars; Titelumrah¬
+          <lb/>mung, Vorrede, Holeschn. wie in der Ausgabe von 1581.
+          <lb/>Das Druckprivileg auf der Rücks, des Titelbl, fehlt.
+          <lb/>R 10.4462. Geschenk von Herrn Risenberger, Liegnite (Schlesien)
+          <lb/>18r1.
+          <lb/>1116
+          <lb/>HEGESIPPUS
+          <lb/>[Strassburo, Th. Rihell] 1595
+          <lb/>Egesippi, des Hochberühmten Für-] trefflichen Christ¬
+          <lb/>lichen Geschichtschri-bers, fünff Bücher: Vom Jüdischen
+          <lb/>Krieg etc...
+          <lb/>20, Got., 6 unn. Bll., 214 S., 6 unn. Bll. (Index, 2sp.), letztes
+          <lb/>Bl. leer, Kopft., Kust., Marg., Init., Titel rot u. schwarz. Titelbl, sowie
+          <lb/>Titelumrahmung u. Holeschn, vie in der Ausgabe von 1581.
+          <lb/>R10.4472. Geschenk von Fidel v. Baur-Breitenfeld, Aschaffenburg
+          <lb/>Juli 1872.
+          <lb/>1117
+          <lb/>R.48
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

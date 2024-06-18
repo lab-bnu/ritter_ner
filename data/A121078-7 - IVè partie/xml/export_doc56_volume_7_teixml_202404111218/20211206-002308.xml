@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:09.514832+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002308.tif
+IMAGE WIDTH: 2514
+IMAGE HEIGHT: 3974
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>den 13. tag Septembris, in disem 71. Jar zugetragen hat.
+          <lb/>— [Strasbourg, Thiébaud Berger vers 1571), in-8°.
+          <lb/>Vogeleis, p. 317: Lucerne.
+          <lb/>2363
+          <lb/>LIED (ein schönes, neues) : Ein schön new Lied vonder
+          <lb/>grossen schlacht und Niderlag des Königs aus Poln in
+          <lb/>Franckreich im 1576. Jar den 2. februarij. — Strasbourg,
+          <lb/>Bernard Jobin 1576, in-8° (20 strophes à 5 vers).
+          <lb/>Goedeke II2, p. 307, n° 246; Vogeleis, p. 331/2.
+          <lb/>2364
+          <lb/>LIED (ein schönes, neues) : Ein schön neu Lied von den
+          <lb/>(sic) durchzug in Undern Elsass geschehen im lauf¬
+          <lb/>fenden Monat Junium, Julium und halb Augustum,
+          <lb/>der diebs-krieg sonsten genant worden. Anno 87. —
+          <lb/>Gedruckt zu Lauffen darvon bey Zabern, Genandt
+          <lb/>Kirchhanns nirgents bekhandt, 1587, in-80.
+          <lb/>Voir : Ritter, Hist. de l’impr., p. 431; Schmidt, Zwei Lieder
+          <lb/>über den Diebskrieg (Strasbourg 1874), p. 61-66.
+          <lb/>2365
+          <lb/>LIED (ein schönes, neues, geistliches) : Ein schön neüw
+          <lb/>Geistlich Lied von der frommen Witfrawen Judith,
+          <lb/>Wie sie Holophernes das Haupt abschlug... (grav.). —
+          <lb/>(Strasbourg, Th. Berger s. d.), in-8°.
+          <lb/>Heitz, p. 52.
+          <lb/>2366
+          <lb/>LIED (ein schönes, neues geistliches) : Ein schöne nüw
+          <lb/>Geistlich Lied, O Herre Gott gib den verstaud (sic)...
+          <lb/>(grav.). — Getruckt zu Straszburg bey Thiebolt Berger
+          <lb/>am Barfüsser platz s. d., in-80.
+          <lb/>Heitz, p. 37.
+          <lb/>2367
+          <lb/>LIED (ein schönes, neues, geistliches) : Ein schön neüw
+          <lb/>Geistlich lied, gezogen aus dem H. Evangelisten Mattheo,
+          <lb/>am zwentigsten Capitel, von Arbeitern im Weinberg...
+          <lb/>(grav.). — [Strasbourg, Th. Berger s. d.), in-8°.
+          <lb/>Heitz, p. 42.
+          <lb/>2368
+          <lb/>306
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

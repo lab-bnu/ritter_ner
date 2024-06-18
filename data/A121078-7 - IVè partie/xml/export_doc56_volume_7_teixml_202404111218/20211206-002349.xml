@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:10.844583+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002349.tif
+IMAGE WIDTH: 2492
+IMAGE HEIGHT: 3984
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>MAIR, Paul Hector : Bericht und anzeigen aller Herren
+          <lb/>Geschlecht der loblichen Statt Augsburg... — Strasbourg,
+          <lb/>Christophe Weiditz et David Kandel 1538, in-fol.
+          <lb/>Nijhoff (La Haye), Catal. 487, n° 284 : 200 florins; 97 grav.
+          <lb/>en grandeur de la page, représentant des membres de familles
+          <lb/>augsbourgeoises avec les écus d’armoiries »; Hiersemann
+          <lb/>(Leipzig), Catal. 666, n° 931, 480 M.
+          <lb/>2587
+          <lb/>MALER, Georgius. Voir : PICTORIUS Georgius (RITTER,
+          <lb/>Rép. n° 1466).
+          <lb/>MALLEOLUS, Isak : Kalender (Prédictions pour 1600). —
+          <lb/>Strasbourg; Jost Martin 1599, in-4°.
+          <lb/>Zinner 3854a.
+          <lb/>2588
+          <lb/>MALLEOLUS, Isak : (Idem pour 1601). — Strasbourg,
+          <lb/>Jost Martin 1600, in-4°.
+          <lb/>Zinner 3899 et 3900.
+          <lb/>2589
+          <lb/>MALLEOLUS, Paulus. Voir: TERENTIUS, n° 3319.
+          <lb/>MANCINELLUS, Antonius : De parentum cura in liberos. —
+          <lb/>Strasbourg, Mathias Schürer 1510, in-4°.
+          <lb/>Panzer, 6, 50, 203; Schmidt VIII, n° 46; Weislinger, Catal.
+          <lb/>138. [Schürer éd. juillet 1512, voir Ritter, Rép. n° 1472l.
+          <lb/>2590
+          <lb/>MANCINELLUS, Antonius : (Idem). — Strasbourg, Mathias
+          <lb/>Schürer 1516, in-4°.
+          <lb/>Panzer, 6, 82, 467; Schmidt VIII, n° 203.
+          <lb/>2591
+          <lb/>MANCINELLUS, Ant. Voir (RITTeR, Rép, nos 1469-1472l.
+          <lb/>MANDEVILLE. Voir : MONTEVILLA, Johannes von.
+          <lb/>MANLIUS [Mennell, Jac. : Das ist der Passion in form eines
+          <lb/>Gerichthandels... — (Strasbourg, J. Grüninger 1514),
+          <lb/>in-fol.
+          <lb/>Schmidt I, n° 134: B U Fribouag; Kristeller, n° 97; Dacheux;
+          <lb/>Panzer, Annalen, Zusätze 127. Geiler, p. 176;
+          <lb/>2592
+          <lb/>347
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

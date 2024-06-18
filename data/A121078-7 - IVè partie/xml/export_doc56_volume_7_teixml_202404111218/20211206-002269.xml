@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:08.783666+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002269.tif
+IMAGE WIDTH: 2528
+IMAGE HEIGHT: 3968
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>JOHANNES von Vattz. Voir: BÜCHLEIN (die himmlisch
+          <lb/>Fundgrub) nos 1206-1208.
+          <lb/>JONAS, Justus : Adversus Ioannem Fabrum Constantiensem
+          <lb/>Vicarium, scortationis patronum, pro coniugio sacer¬
+          <lb/>dotali, Justi Jonae defensio. Item M. Lutheri ad eundem
+          <lb/>Jonam Epistola. — (Haguenau, J. Secer) 1523, in-8°.
+          <lb/>Walter 1612; Burg 239a.
+          <lb/>2157
+          <lb/>JONAS, Justus : Annotationes... in Acta Apostolorum. —
+          <lb/>(Strasbourg), Jean Knobloch 1525, in-80.
+          <lb/>Panzer 6, 108, 709; Schmidt VII, n° 301 : Bibl. S. Guillaume
+          <lb/>Strasbourg.
+          <lb/>2158
+          <lb/>JONAS, Justus. Voir: LIEDER n° 2403; LUTHER nOS 2500,
+          <lb/>2531.
+          <lb/>JOSEPHUS, Flavius : Jüdische Historien. — (Strasbourg,
+          <lb/>J. Schwyntzer 1530), in-4°.
+          <lb/>Kuczynski, n° 1145.
+          <lb/>2159
+          <lb/>JOSEPHUS, Flavius : (Idem). — Strasbourg, Théodose Rihel
+          <lb/>1576, in-fol.
+          <lb/>Ritter: B M Strasbourg n° 1306.
+          <lb/>2160
+          <lb/>JOSEPHUS, Flavius : Josephus Deutsch. Mit nutzlichen
+          <lb/>Scholien und auszlegungen der schweren sentenzen.
+          <lb/>Chaldeisch, Hebreisch und Griechischen &amp;amp;c. wörter...
+          <lb/>Durch D. Caspar Hedion... — (Strasbourg, Michael
+          <lb/>Meyer et Balth. Beck 1529), in-fol.
+          <lb/>Ritter: Hist. Impr., p. 232. (Ritter, Rép. n° 1270 : Strasbourg,
+          <lb/>Mich. Meyer et Balth. Beck 15311.
+          <lb/>2161
+          <lb/>JOSEPHUS, Flavius : Flavii Josephi... alle Bücher. Nemlich
+          <lb/>zwentzig von den alten geschichten der Juden. Syben
+          <lb/>vom Jüdischen krieg, und zerstörung Hierusalem.
+          <lb/>Zwey wider Appionem Grammaticum, vom alten
+          <lb/>267
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:37.828657+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu092.tif
+IMAGE WIDTH: 2392
+IMAGE HEIGHT: 3842
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>K 2396. Prov. Bibl. St. Thomas, Strasbourg.
+          <lb/>2e ex. K 2396a. Prov.: Don de la ville de Heilbronn. Note mss.
+          <lb/>au haut du titre: Liber Jacobi Gartlibij...» A l’intérieur du
+          <lb/>1er plat, exlibris, entouré du texte suivant: «Patientia est
+          <lb/>malorum remedium.» Rel. anc.
+          <lb/>285
+          <lb/>LOCHMEYER MICHAEL: Sermones de sanctis. Haguenau,
+          <lb/>H. Gran, 25 juillet 1497, in-fol.
+          <lb/>Hain 10173, Madsen 2509, Pellechet: Colmar 886, Proctor 3187,
+          <lb/>Voulliéme: Berlin 1175, 10.
+          <lb/>K 2399. Prov.: Don de la ville de Heilbronn, 1872. Rel. anc.
+          <lb/>A la suite de: Wann Paulus, Sermones de tempore. Hague¬
+          <lb/>nau, 1497. K. 3794.
+          <lb/>286
+          <lb/>LOCHMEYER MICHAEL: Sermones de sanctis. Haguenau,
+          <lb/>H. Gran, 1500, in-fol.
+          <lb/>Hain 10174; Pellechet: Colmar 887.
+          <lb/>K 2400. Prov. inconnue. Rel. anc.
+          <lb/>287
+          <lb/>LUCIDARIUS. (Strasbourg, H. Knoblochtzer, vers 1482),
+          <lb/>in-fol. Incomplet.
+          <lb/>Kristeller, p. 8, N° 9. Proctor 374, Schorbach, Lucidarius
+          <lb/>N° 2, Schorbach et Spirgatis, Knoblochtzer 17, Schramm,
+          <lb/>Bilderschmuck XIX, grav. N° 297-301, Schreiber 4532.
+          <lb/>K 2414a. Prov.: Vente Trübner, Strasbourg (Catal. N° 130),
+          <lb/>30. X. 1886, 107 M.
+          <lb/>288
+          <lb/>LUDOLPHUS DE SAXONIA: Descriptio terrae sanctae. (Stras¬
+          <lb/>bourg, H. Eggestein, s. d.], in-fol.
+          <lb/>Hain 10307, Proctor 291, Voullième: Berlin 2158.
+          <lb/>K 2425. Prov.: Echange avec la Bibliothèque du Gymnase de
+          <lb/>Heilbronn, 2. IV. 1878.
+          <lb/>289
+          <lb/>LUDOLPHUS DE SAXONIA: Meditationes vitae Jesu Christi.
+          <lb/>(Strasbourg, H. Eggestein), 1474, in-fol.
+          <lb/>Hain 10290, Madsen 2543, Pellechet: Colmar 907, Proctor 297,
+          <lb/>Voulliéme: Berlin 2139.
+          <lb/>K 2419. Prov.: Albert Cohn, Berlin (Catal. 137, N° 333), 24. II.
+          <lb/>1881, 50 M. Au haut du 1er f.; «Fratrum Monasterii B. V. M. in
+          <lb/>Vndenstorff 1647.» Rel. anc.
+          <lb/>290
+          <lb/>62
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

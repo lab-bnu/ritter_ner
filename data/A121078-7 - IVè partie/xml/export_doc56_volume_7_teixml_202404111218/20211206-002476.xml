@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:13.482484+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002476.tif
+IMAGE WIDTH: 2494
+IMAGE HEIGHT: 3990
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>SPECKER, Melchior : Von der Herrlichen Zukunfft Jesu
+          <lb/>Christi zum Jüngsten Gericht... Darbey würt auch
+          <lb/>Caspar Schwenckfelds Erdichte Lehr von der Gottwer¬
+          <lb/>dung des Fleysches Christi widerlegt. — Strasbourg,
+          <lb/>Samuel Emmel 1555, in-4°.
+          <lb/>Ritter: B M Strasbourg, n° 1961.
+          <lb/>3259
+          <lb/>SPECKER, Melchior : Disputatio De Justificatione hominis
+          <lb/>coram Deo. (Marque typ. de J. Rihel). — Strasbourg,
+          <lb/>Jesias Rihel 1567, in-80.
+          <lb/>Bibl. S. Guillaume, Strasbourg.
+          <lb/>3260
+          <lb/>SPECKER, Melchior : Auszlegung Des Evangelij Matthei am
+          <lb/>XXV. Capitel, Darinn die fürnemste Artickel und
+          <lb/>geheimnisse unsers heyligen Christlichen Glaubens...
+          <lb/>gehandelt werden... (9 lignes). M. D.LXVIII. — (Getruckt
+          <lb/>zu Straszburg, durch Theodosium Rihel, im jar
+          <lb/>M. D.LXVIII) (1568), in-8°.
+          <lb/>Bibl. S. Guillaume, Strasbourg. Ritter : B M Strasbourg,
+          <lb/>n° 1962 (Specker voir aussi : Ritter, Rép. n° 2174/5). 3261
+          <lb/>SPECKLIN, Daniel : (Carte de l’Alsace). [Au haut de la
+          <lb/>3e partie! Elsasz ist der Vier provintzen eine Im teutschen
+          <lb/>Landt... Gestelt durch Daniel Speckel von Straszburg
+          <lb/>1578. — (Strasbourg) 1578, in-fol.
+          <lb/>Ritter: B M Strasbourg, n° 1963/4; (Specklin voir aussi:
+          <lb/>Ritter, Rép. n° 2176/7l.
+          <lb/>3262
+          <lb/>SPECULUM, Aulicarum : Speculi Aulicarum atque Politicarum
+          <lb/>observationum libelli quatuor, nimirum : 1. De consiliis
+          <lb/>&amp;amp; consiliariis principum Fridericus Furius, &amp;amp; 2. Consi¬
+          <lb/>liarius Hippoliti à Collibus, 3. Aulieus politicus Duri de
+          <lb/>Pascolo, 4. Hypomneses politicae Francisci Guicciardini.
+          <lb/>Denuo ob penuriam exemplarium omnes coniunctim,
+          <lb/>correctius in usum Aulicarum atque Politicarum
+          <lb/>omnium concinati atque aediti. Procurante Lazaro
+          <lb/>474
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

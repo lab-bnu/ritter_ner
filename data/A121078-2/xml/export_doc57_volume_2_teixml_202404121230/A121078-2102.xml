@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:29.319425+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2102.tif
+IMAGE WIDTH: 2318
+IMAGE HEIGHT: 3826
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>98
+          <lb/>dedit haec insignia nobis! Mecaenas fuerat langius auxilio
+          <lb/>M.D.I SIBI ET SVIS.
+          <lb/>&amp;quot;R100 880. Prop.: Bibl. Ch. Schmidt (1895) avec son exlibris et la
+          <lb/>date 1860 ainsi que l’annotation suivante au recto du f. de garde:
+          <lb/>«Catal. Gachelin 1873, 80 frs.
+          <lb/>Annotations mss. dans le texte et au verso du dernier f.
+          <lb/>BN Paris, Rés. Y2 283; Schmidt I, No 96; Walter 743: BM Sé¬
+          <lb/>lestat. Tous les trois mettent à la fin: Argentinae Impressit loan¬
+          <lb/>nes Grüninger. Anno M. D.V. III, tandis que dans mon exemplaire
+          <lb/>il y a: Argentoraci Joannes Grüninger imprimebat.
+          <lb/>GPB: Berlin (deux exemplaires dont un avec la variante),
+          <lb/>Breslau, Munster.
+          <lb/>165
+          <lb/>BEBELIUS Henricus, Ars condendorum carminum. Voir: HEN¬
+          <lb/>RICHMANN Iacobus, Grammaticae institutiones. Strasbourg,
+          <lb/>J. Prüss, 1509 et Haguenau, H. Gran, 1510.
+          <lb/>BEBELIUS Henrieus
+          <lb/>Strasbourg, M. Schürer, 1512.
+          <lb/>IN HOC LIBRO CONTINENTVR! Haec Bebeliana opuscula
+          <lb/>noua &amp;amp; adole- scentiae labores... (D’abord les ouvrages comme
+          <lb/>dans l’édition de 1508, puis:) NOVA ET ADDITA.! Nouus Liber fa¬
+          <lb/>cetiarum. Prognosticon seu practica uti! lis et vera vsque ad
+          <lb/>finem mundi. Carmina de miseria humanae conditionis.
+          <lb/>De inuidia. De Baccho. Contra Simoniacos. De Philomela.
+          <lb/>Varia de rebus laetis et jucundis.
+          <lb/>(Abla fin: Argentorat. Ex Aedibus Matthiae Schurerij.
+          <lb/>Mense Nouembri. Anno M. D. XII. ..
+          <lb/>Regnante Imperatore Caesare Maximi- liano. P. F.
+          <lb/>Aug.
+          <lb/>C
+          <lb/>Au verso: les armoiries de Bebel, qui sont aussi au recto du f. O ij.
+          <lb/>In-4°, car, rom., 162 ff. non ch., sign. A-Z, Aa-Dd, titre courant,
+          <lb/>initiales d’attente.
+          <lb/>Au verso du titre: EPISTOLA HENRICI BEBELH IVSTIN gensis
+          <lb/>Ad Gregorium Lamparter, Illustris prin cipis nostri Vuir¬
+          <lb/>tenbergensis Cancella rium.... — Tubingae. Idibus Se¬
+          <lb/>ptembribus, anno. M. D.VIl. (4 pp).
+          <lb/>fol. A 3b: FACETIAE BEBELIANAE AD Do! minum Petrum
+          <lb/>Iacobi Arlunensem balneantem. Ad lectorem, (4 distiques.)
+          <lb/>Au-dessous: Maximiliani Transsilvani! Bruxellensis ad
+          <lb/>lectorem in commenda- tionem facetiarum. Bebelianarum.
+          <lb/>(5 distiques.)
+          <lb/>Fol. A 4a: ... Petro lacobi Arlunensi Praepo sito back¬
+          <lb/>nangensi canonico Stutgardiano &amp;amp; c.... Heinricus Bebelius
+          <lb/>... — Tubingae sexto Idus Maias Anno. M. D.VI.
+          <lb/>R100.114 (6), Prov.: Pasteur Hartter, Luizhausen, 22/x.1877.1M.
+          <lb/>Rel. anc.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

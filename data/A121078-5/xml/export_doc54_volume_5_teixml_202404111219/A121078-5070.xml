@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:51.556474+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5070.tif
+IMAGE WIDTH: 2366
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1378
+          <lb/>R. 12. Prov. : Bibl. Heitz, Strasbourg. Au f. du titre : Sum Jacobi
+          <lb/>Wenckeri Argent. Les gravures ont été coloriées; le texte de f. 12 et 13
+          <lb/>manque. Reliure de l’époque avec la date 1589.
+          <lb/>2 ex. R 14. Prov. : Don de la ville de Schweinfurt, 1871. Notes mss.
+          <lb/>Reliure de l’époque avec les armoiries de Schweinfurt sur le devant de
+          <lb/>la couverture, au-dessus : « Stat Schweinfurt».
+          <lb/>3 ex. R 15. Prov. : Don de la ville de Heilbronn 1871.
+          <lb/>Voir : 1) « Schadow, Richard : Daniel Specklin, sein Leben und seine
+          <lb/>Tätigkeit als Baumeister. Diss. Strassburg, 1885, in-8°, 60 p. ; publié
+          <lb/>dans : Jahrbuch für Geschichte, Sprache u. Lit. Elsass. Lothringens.
+          <lb/>II (1886), p. 5-60; 2) Reuss, Rodolphe : Les Collectanées de Daniel Speck¬
+          <lb/>lin, chronique strasbourgeoise du XVre siècle. Strasbourg, J. Noiriel, 1890,
+          <lb/>in-4°, 585 p. [ — Fragments des anciennes Chroniques d’Alsace, Vol. 21.
+          <lb/>Bibliographie Specklin. Voir. : Schottenloher II, Nos 20337-20345.
+          <lb/>L’exemplaire R 14 diffère des 2 autres du fol. 9 à fol. 13. L’imprimeur
+          <lb/>a répété dans fol. 9 le texte de fol. 8 de la 4e ligne « gebuwen schlagen, etc.»,
+          <lb/>jusqu’au bas de la page. Il a barré par après cette répétition et ajouté
+          <lb/>entre le fol. 12 et 13 trois pages de manuscrit pour reprendre le texte
+          <lb/>des autres exemplaires fol. 13. Ces feuilles 9-12 de l’exemplaire R14
+          <lb/>doivent venir d’une autre édition, vu qu’elles portent des notes marginales,
+          <lb/>qui ne se trouvent pas dans les 2 autres exemplaires. De fol. 13 les textes
+          <lb/>des 3 exemplaires correspondent de nouveau, excepté que l’exemplaire R14
+          <lb/>n’a pas le dernier f. non ch. des 2 autres exemplaires avec les Errata.
+          <lb/>En comparant cet exemplaire avec les éditions de 1599 et de 1608 on
+          <lb/>constate qu’on a ajouté le feuillet 6 de l’édition de 1608 à l’exemplaire.
+          <lb/>On avait donc encore en 1608 un certain nombre de feuillets de l’ancienne
+          <lb/>édition de 1589, et on a complété le feuillet C qui manquait par le feuillet C
+          <lb/>de l’édition de 1608.
+          <lb/>Les gravures entre fol. 88 et 89 représentent d’après les désignations
+          <lb/>mss. de l’exemplaire R 16 de la Bibliothèque (Strasbourg, Zetzner, 1608) :
+          <lb/>1) Afertan, obwendig im Elsass, Burgund Tür; 2) Ehrenbraitstein;
+          <lb/>3) Brey Castell in Breisgaw der Pfaltz gehörig; 4) Hoenfelz in Westerreich.
+          <lb/>den Grafen von Nassaw gehörig; 5) Das Haus Pfirt in Burgundt, König
+          <lb/>in Hispanien gehörig; 6) Das Haus undt Clausz Beaumont en Bourgogne;
+          <lb/>7) Fleckenstein; 8) Das Haus Salms dem Graffen von Salms gehörig,
+          <lb/>puis entre fol. 89 et 90 : 9) Liechtenberg Hanawisch, 10) Hohen Wiehl
+          <lb/>Wurtenbergisch.
+          <lb/>2176
+          <lb/>SPECKLIN Daniel
+          <lb/>Strasbourg, L. Zetzner, 1599
+          <lb/>Architectura !! Von Vestungen! Wie die zu vnsern zei-ten,
+          <lb/>an Stätten, Schlössern vnd! Clausen, zu Wasser, Land, Berg
+          <lb/>vnd Thal, II mit jhren Bollwerchen, Caualiren, Streichen,
+          <lb/>Grä- Il ben vnd Läuffen mögen erbawet, Auch wie solche zur
+          <lb/>Ge- Il genwehr wider den Feindt, sampt dem hie zu gehöri-
+          <lb/>gen Geschütz, ordentlich vnd nützlich sol-] len gebraucht
+          <lb/>werden...
+          <lb/>Jetzt aber auffs new vbersehen, mit fleiss (! verbessert,
+          <lb/>auch vielen anderen !I Visierungen vermehret. 11 Mit Röm.
+          <lb/>Keys. May. Freyheit. Getruckt zu Strassburg, In verle- gung
+          <lb/>Lazari Zetzners, Buch-händlers. 1! Im Iar M. D. XCIX. (Verso
+          <lb/>Keys. May. Freyheit. Getruckt zu Strassburg, In verle-I] gung
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

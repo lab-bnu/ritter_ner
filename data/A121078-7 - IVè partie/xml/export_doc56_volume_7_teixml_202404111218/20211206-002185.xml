@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:06.433341+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002185.tif
+IMAGE WIDTH: 2498
+IMAGE HEIGHT: 3970
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Hauffen, A. : Fischartstudien, dans Euphorion III, p. 375.
+          <lb/>1723
+          <lb/>FISCHART, Joh. : Onomastica. I. Philosophicum Medicum
+          <lb/>Synonymum ex variis vulgaribusque linguis. II.
+          <lb/>Theophrasti Paracelsi... Gründtliche Erklärung in allerlei
+          <lb/>Sprachen der Philosophischen, Medizinischen und Chimi¬
+          <lb/>cischen Namen... Nun erstmals... inn truck gefärtigt...
+          <lb/>M.D.LXXIIII. — Strasbourg, Bernard Jobin 1574,
+          <lb/>in-80.
+          <lb/>Goedeke II2, p. 494, n° 18; Graesse II, p. 586.
+          <lb/>1724
+          <lb/>FISCHART, Joh. (Podagra) : Podogrammisch Trostbüchlin.
+          <lb/>Jnhaltend zwo artlicher Schuz Reden von herlicher
+          <lb/>ankonft, geschlecht, Hofhaltung... des... zarten Fräulins
+          <lb/>Podagra. Nun erstmals zu kitzeligem trost und ergezung
+          <lb/>andächtiger Pfotengrammischer personen, Teutsch inn
+          <lb/>Truck verfärtiget. Durch Hultrich Elloposcleron. (Grav.)
+          <lb/>Anno M.D.LXXVII. — (Strasbourg, Bern. Jobin) 1577,
+          <lb/>in-8°, 2e éd. chez Jobin 1591.
+          <lb/>Hauffen, Werke Fischarts III, p. 1I-XLIX et éd. p. 1-113.
+          <lb/>1724a
+          <lb/>FFISCHART, Joh.) (Practick) : Aller Practick Grossmutter. —
+          <lb/>(Strasbourg, Bernard Jobin] 1572, in-4°.
+          <lb/>Braune, Neudruck 1876 (Neudrucke deutscher Litteratur¬
+          <lb/>werke des 16.u.17. Jahrhunderts. Heft 21; Hauffen, Fischart¬
+          <lb/>Studien. Euphorion IV, p. 234/5.
+          <lb/>1725
+          <lb/>(FISCHART, Joh.] (Practick) (Idem). — [Strasbourg, Bern.
+          <lb/>Jobin 15731, in-40.
+          <lb/>Hauffen, Fischart-Studien. Euphorion IV, p. 234/5 : « Die
+          <lb/>2. um mehr als das Dreifache erweiterte Bearbeitung ist nur
+          <lb/>nach einer späten Ausgabe von 1623 durch Scheible neu
+          <lb/>gedruckt worden. Scheibles Kloster 8, S. 515-663. Braune,
+          <lb/>Neudrucke Heft II, p. IV.
+          <lb/>1726
+          <lb/>(FISCHART, JOH. ] (Practick): Aller Practic Grosmuter... Izund
+          <lb/>183
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

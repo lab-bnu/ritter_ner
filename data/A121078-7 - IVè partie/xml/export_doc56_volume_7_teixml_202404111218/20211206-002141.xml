@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:05.238528+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002141.tif
+IMAGE WIDTH: 2508
+IMAGE HEIGHT: 3962
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>DASYPODIUS, Petrus : Philargyrus (sive ingenium avaritiae)
+          <lb/>Comoedia. — Strasbourg mai 1565, in-8°.
+          <lb/>Goedeke IIe, p. 139, n° 37; Bahlmann p. 47, n° 38 : « Nach der
+          <lb/>Widmung war die Fassung 1530 bereits die zweite, der vorlie¬
+          <lb/>gende Druck also die dritte »; Vogeleis p. 306; Walter 1080.
+          <lb/>1493
+          <lb/>DASYPODIUS, Petrus, Voir aussi : RITTER, Rép, nos 615-622.
+          <lb/>DATHUS, Augustinus : Nonus denuo correctus.. —
+          <lb/>(Strasbourg, Mathias Hupfuff 1504), in-4°.
+          <lb/>Schmidt V, n° 30 : Bibl, cantonale Aarau et jadis Bibl. de
+          <lb/>Strasbourg, Incun, n° 563.
+          <lb/>1494
+          <lb/>DATHUS, Aug. : De vita beata libellus. — Strasbourg,
+          <lb/>Mathias Schürer 1515, in-4°.
+          <lb/>Panzer 6, 75, 408; Schmidt VIII, n° 174; Weislinger, Catal. 56.
+          <lb/>1495
+          <lb/>DAVID, Georg : Histori David Georgen ausz Holland, des
+          <lb/>Ertzkätzers, sein leben und verfürerischen leer von der
+          <lb/>zyt an alsz er gen Basel ist kommen. — Mulhouse,
+          <lb/>P. Schmid 1560, in-40.
+          <lb/>Werner p. 95, n° 11 : « Une première éd. parut en 1559 à Bâle.
+          <lb/>M. Graf, Geschichte der Stadt Mülhausen 1819, I, p. 192
+          <lb/>signale une réimpression de P. Schmid en 1560».
+          <lb/>1496
+          <lb/>DECLAMATION von dreien Brüdern. Voir : BEROALDUS no 993.
+          <lb/>DECLARATIO speculi orbis. Voir: LUp, Gautier n° 2440.
+          <lb/>DECRET : Eyns ersamen Raths der Statt Straszburg Decret
+          <lb/>die Ehe belangend. — Strasbourg, Pierre Schöffer s. d.
+          <lb/>B M Colmar.
+          <lb/>1497
+          <lb/>DECRET : Eins Ersamen Rahts der Statt Strassburg Decret,
+          <lb/>die Ehe belangend. — (Strasbourg] 1565, in-4°.
+          <lb/>Schottenloher 26.961 (n).
+          <lb/>1498
+          <lb/>139
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:36.558971+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2344.tif
+IMAGE WIDTH: 2328
+IMAGE HEIGHT: 3818
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>340
+          <lb/>fol. a 6a: Librarivs.
+          <lb/>fol. a 7a: Leoni X. Pontifici Maximo, Andreas Nav¬
+          <lb/>gerivs.
+          <lb/>(Vol. II.] M. T. Ciceronis ORATIONVM VO- LVMEN
+          <lb/>SECVNDVM.
+          <lb/>Marque typ. de Iosias Rihel. (H dt B, Planche XXIX, No 5;
+          <lb/>Silvestre, No 757.
+          <lb/>Argentorati M. D. LVIII. (Verso blanc.)
+          <lb/>A la fin: ARGENTORATI PER Io- siam Rihelium. ANNo
+          <lb/>M. D. LVIII.
+          <lb/>In-89, car. ital,, 8 ff. non ch., 281 ff. ch. — 17 ff. non ch.
+          <lb/>(Elenchvs varia rvm lectionvm secvndi vo-luminis
+          <lb/>Orationum Ciceronis et Index.), titre courant, réclames, initiale
+          <lb/>ornée M et initiales d’attente.
+          <lb/>fol. 2a: Ad ill. Principem electorem Hermannum Ar¬
+          <lb/>chiepiscopum Coloniensem Ioannis Sturmij Praefatio. (3 ff.)
+          <lb/>fol, 6a: Petro Bembo. (3 ff.)
+          <lb/>(Vol. II). M. T. CICERONIS ORATIONVM VO-LVMEN
+          <lb/>TERTIVM.
+          <lb/>Marque typ. de Iosias Rihel. (He B, Planche XXIX, NO 5;
+          <lb/>Silvestre, N° 757.)
+          <lb/>ARGENTORATI! M. D. LVIII. (Verso blanc.)
+          <lb/>A la fin: ARGENTORATI PER J0- siam Rihelium. ANNO
+          <lb/>M. D. LVIII.
+          <lb/>In-8°, car. ital, 8 ff. non ch., 273 ff. ch., — 15 ff. non ch. La
+          <lb/>pagination commence avec chiffre 3 et finit avec chiffre 275. (Elenchus
+          <lb/>et Index), titre courant, réclames, initiale ornée G et initiales d’attente.
+          <lb/>fol. 2a: AD MICHAELEM COMTEM WERTHEIMEN-] sem
+          <lb/>Ioannis Sturmij Praefatio. (2 ff.)
+          <lb/>fol. 44: LIBRARIVS, (8 lignes).
+          <lb/>fol. 54: IACOBO SADOLETO ANDREAS NAVG. (3ff.)
+          <lb/>fol. 8a: INDEX TERTH VOLUMINIS,
+          <lb/>R 101661. Prov.: Felix Schneider, Bâle, II/XII. 1891.1M 80.
+          <lb/>Notes mes., à l&amp;#x27;extérieur du Ier plat du 1er vol.: «S.B.», au bas: «1561».
+          <lb/>Au bas du titre du ter vol.: «Ex libris Joannis Jacobi Heftleri. Anno
+          <lb/>1593 Mense Septembris.»
+          <lb/>GPB: BN Berlin, BU Breslau (vol. II et III), Kœnigeberg.
+          <lb/>516
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

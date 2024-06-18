@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:28.824417+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2088.tif
+IMAGE WIDTH: 2330
+IMAGE HEIGHT: 3830
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>84
+          <lb/>— Ex patria nostra communi Calen. Maij ANNI CHRISTI.
+          <lb/>M. D. XVIII.
+          <lb/>Au verso: AD JVLIVM SECVNDVM FRATRIS BAPTISTAE
+          <lb/>MANTVA NI CARMELITAE THEOLOGI... (Ode de 7 pages.)
+          <lb/>*R101.924. Prov. : inconnue. Notes mss, surtout au recto
+          <lb/>du ler et 2e f. de garde, sur la vie de l’auteur, entre autres:
+          <lb/>« Johannes Baptista patria Mantuanus, vulgari nomine
+          <lb/>Spagnoli quasi Hispagnolus. Theologus Carmelita, Orator,
+          <lb/>Grammaticus &amp;amp; carminum Scriptor, natus 1448 obiit 1518.
+          <lb/>Annos 70 natus! etc. Au bord du titre: Fr. Casper Lubensis;
+          <lb/>au verso du dernier f. blanc: M. Ackerwijck. Sijlvaducis 13 Nov.
+          <lb/>1792 c. a. x. b. 2. Au-dessous de l’explieit: Ex Liberalitate Do¬
+          <lb/>mini G. Nosti (?) nunc me suis annumerat J. van Arthuyson.
+          <lb/>Oxford, Bibl. Bodleiana. Proctor II, Sectio I, No 10253; Londres,
+          <lb/>British Museum. Schmidt VIII, No 233; BN Munich.
+          <lb/>GPB: Berlin SB, Breslau UB, Marburg UB, Münster UB. 111
+          <lb/>BAPTISTA Mantuanus
+          <lb/>Strasbourg, J. Knobloch, 1518.
+          <lb/>BAPTISTE MANTV ANI VATIS EMENTISSIMI OPVS INSI
+          <lb/>gne de mundi calamitatibus, earumque tum! causis tum
+          <lb/>remedijs, cum faecundis in mar ginibus concordantijs,
+          <lb/>nudo prius textui nuncque adiuuctis (!) Aliud eiusdem con¬
+          <lb/>tra Poetas impudice loquen! tes siue scribentes, opuscu¬
+          <lb/>lum perelegans. Oculatior &amp;amp; politior haec est exscriptio
+          <lb/>prioribus. (3 feuilles de lierre.)
+          <lb/>Au verso du titre: FRATRIS BAPTISTAE MANTVANIAd
+          <lb/>Petrum Bononium T. Vlsenius. (5 distiques et 4 distiques à ce
+          <lb/>dernier par G. Bononius.)
+          <lb/>A la fin: Baptistae Mantuani uatis optimi duo elegan¬
+          <lb/>tissima opera... cum ex Se- bastiani Mur-rhonis
+          <lb/>Colmariensis, tum! Sebastiani Brant doctissimorum ui
+          <lb/>rorum commentarijs selectis ac marginibus annexis. Im¬
+          <lb/>pressa Argentinae opera dilignetiori (!) &amp;amp; impensis! Joannis
+          <lb/>Knoblouch, Anno domini.! M.D.XVIII. Idibus Martiis.
+          <lb/>In-4°, car, rom., 60 ff. non ch. sign. AA-LL; titre courant, notes
+          <lb/>marginales.
+          <lb/>R1010150). Prov.: BN Munich, 1. II. 1877; 3 M. Rel. anc.
+          <lb/>Proctor II, Sectio I, No 10115d: Londres British Museum.
+          <lb/>Schmidt VII, No 157 cite en outre Jadis Bibl. de Strasbourg,
+          <lb/>Incun. No 625.
+          <lb/>145
+          <lb/>BAPTISTA Mantuanus
+          <lb/>Strasbourg, J. Knobloch, 1518.
+          <lb/>FRATRIS BAPTISTE! MANTVANI CARME! LITE THEOLO¬
+          <lb/>GI. ORATORIS. AC POETE CLARIS SIMI PRIMA PAR] THENICE.
+          <lb/>QVE MARIANA ] INSCRIBI! TVR. (feuille de lierre.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

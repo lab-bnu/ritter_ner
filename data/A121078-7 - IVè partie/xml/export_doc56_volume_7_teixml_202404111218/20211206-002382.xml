@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:11.499460+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002382.tif
+IMAGE WIDTH: 2494
+IMAGE HEIGHT: 4006
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>NICOLAUS V (pape) : Concordata Principum Nationis Germa¬
+          <lb/>nicae cum Argumentis sive Summariis iamiam additis.
+          <lb/>Exhortatio patris ad filium sacerdotem ut beneficiis
+          <lb/>ad status sui honestatem sufficientibus contentus sit.
+          <lb/>Anno M.D.XIII. — (Strasbourg, René Beck 1513),
+          <lb/>in-40.
+          <lb/>Ritter: B M Strasbourg, n° 1559.
+          <lb/>2765
+          <lb/>NICOLAUS de Byard : Dictionarium pauperum. — Strasbourg,
+          <lb/>Jean Knobloch 14.VIII.1518.
+          <lb/>Ritter, Gr. Sém. n° 362.
+          <lb/>2766
+          <lb/>NICOLAUS de Goran : Postilla elucidativa et magistralis
+          <lb/>super Epistolas Pauli... — (Haguenau, Henri Gran aux
+          <lb/>frais de Rynman (15 juin) 1502), in-fol.
+          <lb/>Londres, Brit. Mus. 3265, f. 4 et 3845, ee. 8; Proctor 11.616;
+          <lb/>Burg, n° 329a.
+          <lb/>2767
+          <lb/>NICOLAUS de Nyse. Voir : DENYSSE Nic.
+          <lb/>NICOLAUS de Orbellis : Super Sententias Compendium
+          <lb/>perutile... castigatissime fuit recognitum... — Haguenau
+          <lb/>(H. Gran pour J. Rynman (24 janvier) 1503), in-4°.
+          <lb/>Burg, n° 333.
+          <lb/>2768
+          <lb/>NICOLAUS von Wyle. Voir: WYLE, Nicolaus von.
+          <lb/>NIDEPONTANUS, Johannes et Laurentius Fries Metensium
+          <lb/>medicorum : Sudoris Anglici exitialis pestiferique morbi
+          <lb/>ratio et cura, praecipiti calamo conscripta. — Strasbourg,
+          <lb/>Jean Knobloch fils 1529, in-4°.
+          <lb/>Graesse IV, p. 673.
+          <lb/>2769
+          <lb/>NIGER, Franciscus. Voir : Jovius, Paulus, n° 2163.
+          <lb/>NIGRINUS, Georgius : Gegensatz, Antithesis und vergleichung
+          <lb/>380
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

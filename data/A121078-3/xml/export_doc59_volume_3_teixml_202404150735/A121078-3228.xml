@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:09.075667+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3228.tif
+IMAGE WIDTH: 2324
+IMAGE HEIGHT: 3854
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>672
+          <lb/>zu Straszburg vnd geendt vff frytag nach sant Bar tho¬
+          <lb/>lomeus tag. Anno. M.D.xiiij. (Rücks. leer.)
+          <lb/>2°, Got., 2 unn., LXXXIII num. Bll., Init. M, V.
+          <lb/>Bl. 2a: Eyn vorrede. Neudruck der vorhergehenden Nummer.
+          <lb/>*R10.274. Prov.: Butsch Sohn, Augsburg 12. X. 1883; 6 M. 10.
+          <lb/>Bl. 2a unten: Carthusia Buxheim mit Stempel der Bibl, von Buxheim. —
+          <lb/>988
+          <lb/>Unvollst. Titelbl. fehlt.
+          <lb/>GEISSLER Heinrich
+          <lb/>Strassburg, Joh. Knobloch 1519
+          <lb/>Formulare, vnd tütsch Rethoric.
+          <lb/>Holeschn, nach Schmidt: ein Richter, vor ihm mehrere Personen.
+          <lb/>Am Schluss: Getruckt vnd seligklich volendet durch
+          <lb/>den Ersamen Johannem Knoblouch. Bur- ger zû Strasz¬
+          <lb/>burg, Am fünfften tag des Jenners. Als man zalt nach
+          <lb/>Christus geburt. M. ccccc. xix. jar. (Rücks. leer.)
+          <lb/>20, Got., 2 unn. u. LXXXIII num. Bll., Init. W, F.
+          <lb/>R 10.275. Prov.: Staatsbibl. München, 3. VII. 1878; 1 M. Titel
+          <lb/>u. Vorrede Geisslers fehlen. Auf dem Vorblatte ist der Titel folgender¬
+          <lb/>massen ergänet worden:, Formulare vnd teütsch Rethorik. Wie man
+          <lb/>einem ieglichen: was! standts würde vnd eren der ist, schreiben sol.
+          <lb/>Nüwe regel der Re- thoric. Der sich das gemein teütschland jetz lauf¬
+          <lb/>fend gebraucht. (Ein Holeschnitt.)&amp;quot; Schmidt VII Nr. 171 zitiert bloss
+          <lb/>unser Ex. Ob der Holeschn., den er beschreibt, sich noch in unserm Ex.
+          <lb/>befand oder ob er ihn nach Panzer zitiert, ist nicht festzustellen. Auf
+          <lb/>alle Fälle sind Titel u. Holeschn. heute nicht mehr in unserm Ex, vor¬
+          <lb/>handen. — Proctor II Sectio I Nr. 10.122: London, Brit. Museum.
+          <lb/>989
+          <lb/>GELDENHAUER Gerardus
+          <lb/>Strassburg, Chr. Egenolph 1529
+          <lb/>VITA CLA RISSIMI PRINCIPIS, PHILIPPIABurgundia,
+          <lb/>Boni Philippi Burgundionum Ducis! filij, in qua non paucis
+          <lb/>locis, Christiani Principis exempla proponuntur, &amp;amp; origo
+          <lb/>belli inter Epis- copum Vltraiectinum, &amp;amp; CAROLVM! Gelrio¬
+          <lb/>rum Principem inseritur. (Autore Gerardo Noviomago.)
+          <lb/>GENEALOGIA, DVCVM BVRGVN) diae, Brabantiae, Flan¬
+          <lb/>driae, Hollandiae &amp;amp;c. ab He ctore Troiano, ad CAROLVM
+          <lb/>Quintum Imp.Caesarem, Augustum usque; deducta,
+          <lb/>Authore! Emondo Dintero, uiro prudentissimo. AEDITA
+          <lb/>sub auspicio. Illustr. ac. Clementiss. D. MARGARITAE, Archi¬
+          <lb/>ducis Austriae, Ducis Burgundiae, Brabantiae, &amp;amp;c.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

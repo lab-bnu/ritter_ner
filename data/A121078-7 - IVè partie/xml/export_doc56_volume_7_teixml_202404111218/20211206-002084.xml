@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:03.748988+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002084.tif
+IMAGE WIDTH: 2512
+IMAGE HEIGHT: 3942
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Eduardum hochseliger gedechtnus, diss Namens der
+          <lb/>VI. König in Engelland. Durch den tewren Helden und
+          <lb/>Mertler Jesu Christi Doctor Martin Butzer geschriben...
+          <lb/>zu gut Verteudscht durch Israelem Achacium... —
+          <lb/>(Strasbourg, Wendel Rihel 1563), in-4°.
+          <lb/>Mentz n° 81 d : Bibl. du Consistoire de Colmar;
+          <lb/>Wendel, François : Martini Buceri Opera latina, vol. XV:
+          <lb/>De Regno Christi, Libri duo 1550, p. LXIII. Paris 1955;
+          <lb/>Stupperich, n° 103 f. : B N Munich, Ulm.
+          <lb/>1175
+          <lb/>BUCER, Martin (Religionsgespräch) : Ein warhaffter berichte
+          <lb/>vom Colloquio zu Regenspurg dis jars angefangen und
+          <lb/>von dem Abzug der Auditoren und Colloquenten, die
+          <lb/>von Fürsten und Stenden der Augspurgischen Confession
+          <lb/>dahin verordnet waren... Anno 1546. — [Strasbourg,
+          <lb/>Wendelin Rihel ?1 1546, in-4°.
+          <lb/>Mentz 71 d; Stupperich, no 90 c : Wolfenbüttel (Herzog
+          <lb/>August Bibl.).
+          <lb/>1176
+          <lb/>BUCER, Martin (Tridentinum) : Zwei Decret des Tridenti¬
+          <lb/>nischen Concili... — Strasbourg, Georges Messerschmid
+          <lb/>in Knoblochs Druckerei 1546, in-40.
+          <lb/>Mentz, n° 72; Walter, n° 878; Bibl. S. Guillaume Strasbourg;
+          <lb/>Stupperich, n° 91 : B U Bâle.
+          <lb/>1177
+          <lb/>BUCER, Martin (Tzephaniah): Tzephaniah, quem Sophoniam,
+          <lb/>vulgo vocant, prophetarum epitomographus ad ebraicam
+          <lb/>veritatem versus et commentario explanatus... —
+          <lb/>Strasbourg, Jean Herwagen sept. 1528, in-8°.
+          <lb/>Mentz, n° 21; Walter, n° 858. Bibl. S. Guillaume Strasbourg;
+          <lb/>Stupperich, n° 22: B N Augsbourg, B U Heidelberg, Munich,
+          <lb/>etc.
+          <lb/>1178
+          <lb/>BUCER, Martin (Warnung) : Getrewe Warnung der Prediger
+          <lb/>des Evangelii zu Straszburg, uber die Artickel, so
+          <lb/>Jacob Kautz Prediger zu Wormbs, kürtzlich hat lassen
+          <lb/>auszgohn, die frucht der schrifft und Gottes worts, den
+          <lb/>kinder Tauff... sampt anderm, darin sich Hans Dencken
+          <lb/>82
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

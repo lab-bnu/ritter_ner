@@ -1,0 +1,150 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:39.417458+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu153.tif
+IMAGE WIDTH: 2446
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Bibliotheca Domus S. Albani Or¬
+          <lb/>Caillier D. 146.
+          <lb/>dinis Carthusiensis juxta Tre¬
+          <lb/>Cannstadt 183, 185.
+          <lb/>verim 149.
+          <lb/>Cäringen 158.
+          <lb/>Bibliotheca Monasterii Fratrum
+          <lb/>Cathérine Ste 388, 389.
+          <lb/>B. V. Mariae in Undensdorf
+          <lb/>Cato 19.
+          <lb/>190. 290.
+          <lb/>Celtes Conr, 117.
+          <lb/>Bibliotheca Conventus Vallis
+          <lb/>Choulant 19.
+          <lb/>Speciosi 479.
+          <lb/>Clément 114.
+          <lb/>Bibliotheca Conventus Weihen¬
+          <lb/>Cohn (Libr.) 1, 94, 132, 146, 147,
+          <lb/>stephan 231, 246.
+          <lb/>159, 190, 236, 290, 403, 470.
+          <lb/>Bibliotheca Monasterii (Augiae
+          <lb/>480, 492.
+          <lb/>Minoris) Weissenau 356.
+          <lb/>Collegiata Lateranensis ad S.
+          <lb/>Bibliotheca Conventus Wimpi¬
+          <lb/>Nicolaum 27.
+          <lb/>nensis Ordinis Fratrum Prae¬
+          <lb/>Colmar 170, 362. (Voir aussi:
+          <lb/>dicatorum 309, 335, 415, 436.
+          <lb/>Pellechet: Colmar.)
+          <lb/>Bibliotheca Zenonica 72, 187.
+          <lb/>Cologne 15, 179, 421, 424.
+          <lb/>Bibraco 393.
+          <lb/>Constance (Concile) 3.
+          <lb/>Biechlin Hans 483.
+          <lb/>Copinger 2, 4, 21, 49, 78, 175,
+          <lb/>Bielefeld 66, 119.
+          <lb/>199, 250, 252-254, 256-258, 260,
+          <lb/>Bieler 340.
+          <lb/>277, 280, 325, 349, 351-366.
+          <lb/>Böcking 330, 361, 419, 493.
+          <lb/>369, 396, 397, 413, 414, 425,
+          <lb/>Bonn 300, 385.
+          <lb/>433-435, 454, 471, 476-479,
+          <lb/>Bononia 426.
+          <lb/>485, 490.
+          <lb/>Bœrner (Vente) 468.
+          <lb/>Cornutus 267.
+          <lb/>Bozérian jeune 398.
+          <lb/>Cremona 467.
+          <lb/>Brandenby Hildebr. 393.
+          <lb/>Cromer (Saverne) 39, 339, 460,
+          <lb/>Brant Mathias 490.
+          <lb/>496.
+          <lb/>Brant Sebast. 112. 114.
+          <lb/>Curtus Joh. 448.
+          <lb/>Braun 54.
+          <lb/>Cyrille d’Alexandrie 146.
+          <lb/>Breitkopf 114.
+          <lb/>Brême 478.
+          <lb/>Breslau 99, 112.
+          <lb/>Darmstadt 335, 428, 436.
+          <lb/>Brion Erasmus 86.
+          <lb/>Delius 417.
+          <lb/>Brobst Casp. 220.
+          <lb/>Dieckius 276.
+          <lb/>Brunet 149, 156.
+          <lb/>Diessen (Bavière) 249.
+          <lb/>Brunnen (Suisse) 241.
+          <lb/>Dinckelsbühl G. 365.
+          <lb/>Brunner 404.
+          <lb/>Durandus 24, 150.
+          <lb/>Brunner J. D. 92.
+          <lb/>Dürschenreut 380.
+          <lb/>Brunschwig Hier. 119.
+          <lb/>Bücheler Wolfgang 205.
+          <lb/>Bull (Libr.) 280, 389.
+          <lb/>Eberhardus Wirtembergensis
+          <lb/>Bure de 114.
+          <lb/>492.
+          <lb/>Burgundische Historie 373, 469.
+          <lb/>Ebersbach 448.
+          <lb/>Busch F. 496.
+          <lb/>Eggestein 391. (Voir aussi Liste
+          <lb/>Butsch Fid. (Antiquaire) 51, 54,
+          <lb/>des imprimeurs.)
+          <lb/>67, 85, 98, 121, 139, 142, 180,
+          <lb/>Egglimann (Paris) 355.
+          <lb/>192, 193, 197, 198, 206, 211,
+          <lb/>Einsle 155, 201, 400.
+          <lb/>251. 256, 266, 270, 271, 278,
+          <lb/>Ellwangen 57, 95, 294.
+          <lb/>292. 297, 298, 304, 305, 308,
+          <lb/>Ernst 402.
+          <lb/>313, 318, 320, 328. 346, 352,
+          <lb/>Esslingen 461.
+          <lb/>353, 358, 363, 370, 372, 381,
+          <lb/>Eugenius Papa 65.
+          <lb/>393, 398, 411, 416, 421, 441,
+          <lb/>445, 447, 455, 457, 459, 473,
+          <lb/>Fabricius Joh. Alb. 296.
+          <lb/>482, 483, 485.
+          <lb/>Flögel 114.
+          <lb/>Buxheim 98, 100, 121, 304, 370,
+          <lb/>Florinus Willibald 241.
+          <lb/>393, 429, 441.
+          <lb/>Flückiger 119.
+          <lb/>Byecher Leon 383.
+          <lb/>Föringer 404.
+          <lb/>123
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

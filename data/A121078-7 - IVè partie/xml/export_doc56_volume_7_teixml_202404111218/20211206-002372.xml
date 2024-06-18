@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:11.181382+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002372.tif
+IMAGE WIDTH: 2516
+IMAGE HEIGHT: 3960
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>MONSTERUS, Seb. Voir: PSALMI, n° 3030.
+          <lb/>MONTANUS, Jacobus : De Passione ac morte Christi... Ex
+          <lb/>Secunda recognitione ipsius authoris. — [Strasbourg,
+          <lb/>Mathias Schürer vers 1513), in-4°. ¡A la fin : Finis. T. O.
+          <lb/>— Math. Schürerl.
+          <lb/>Schmidt VIII, n° 98 : Bibl, cantonale Aarau. [En 1513 de
+          <lb/>Schürer : Odarum spiritualium Liber. Ritter, Rép. n° 1588l.
+          <lb/>2715
+          <lb/>MONTANUS, Martinus : Das Ander theyl der Garten gesell¬
+          <lb/>schafft... — Strasbourg, Paul Messerschmidt [vers
+          <lb/>1560), in-80.
+          <lb/>Goedeke II2, p. 467, n° 3; Graesse IV, p. 583; Heitz-Ritter,
+          <lb/>n° 201 ; Berlin, Vienne.
+          <lb/>2716
+          <lb/>MONTANUS, Martinus : Ein Neuwes sehr schönes, lustigs...
+          <lb/>Spil von einem Graven, wie die Königin vonn Franck¬
+          <lb/>reich, fälschlich mit zweien kindlin, in das ellend ver¬
+          <lb/>triben... — Strasbourg, Paul Messerschmidt s. d., in-8°.
+          <lb/>Goedeke II2, p. 467, n° 9 ; Graesse IV, p. 583. (B N Strasbourg,
+          <lb/>R 100.306. Voir Ritter, Rép. n° 1589).
+          <lb/>2717
+          <lb/>MONTANUS, Martinus : Theodaldus. Ein sehr schöne...
+          <lb/>Hystoria von dem thewren und mannlichen Ritter
+          <lb/>Theodaldo... — Strasbourg, Jean Knobloch s. d., in-8°.
+          <lb/>Goedeke IIa, p. 467, n° 4.
+          <lb/>2718
+          <lb/>MONTANUS, Martinus : Ein schöne unnd klägliche Hystori.
+          <lb/>Vonn zweyenn Jungen gesellen, wie die liebe zu zweyen
+          <lb/>Jungfrawen truogen... — (Strasbourg, officine de
+          <lb/>Jean Knobloch) s. d., in-8°.
+          <lb/>Goedeke IIa, p. 467, n° 6.
+          <lb/>2719
+          <lb/>MONTANUS, Martinus : Einn sehr schöne... Hystoria, von
+          <lb/>zweyen liebhabenden Menschen, wie die bey einander
+          <lb/>gefunden worden, der Jüngling gefangen, und ime das
+          <lb/>Hertz auszgeschnitten, Volgendts seynem bulen
+          <lb/>370
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

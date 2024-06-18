@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:47.104901+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078160.tif
+IMAGE WIDTH: 2310
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1046
+          <lb/>MURNER Thomas
+          <lb/>Strasbourg, J. Gruninger 1514
+          <lb/>Ein andechtig geistliche Badenfart, des hochgelerten
+          <lb/>Herren Thomas mürner, der heiligen geschrifft doctor
+          <lb/>barfûser orden, zû Straszburg in dem bad erdicht, ge¬
+          <lb/>lert und ungelerten nutzlich zû bredigen und zû lesen.
+          <lb/>(Grav. sur bois : un homme dans une baignoire, près de lui un moine
+          <lb/>assis avant devant lui un livre ouvert; une main sortant d’un nuage
+          <lb/>verse avec une cruche de l’eau sur le baigneur.)
+          <lb/>Fol. P 2a : Seliglich getruckt durch! Johannes Grünin¬
+          <lb/>ger Straszburg, im Jar. M. d. xiiii.uff sant Osz¬
+          <lb/>walts! tag.
+          <lb/>In-8°, car. goth., 78 ff. non ch., sign. A–P, notes marg., 35 grav.
+          <lb/>outre celle du titre, dont la plupart représentent Jésus-Christ appelant
+          <lb/>un moine (Murner) au bain de la pénitence, lui faisant subir toutes les
+          <lb/>opérations qui constituaient à cette époque un bain complet; en outre
+          <lb/>images d’une fontaine de jouvence, d’un bain aux plantes, d’une source
+          <lb/>d’eau minérale, d’une piscine avec trois baigneurs.
+          <lb/>Fol. O 3b : Murner à genoux, devant lui ses armoiries, en haut
+          <lb/>Dieu sortant d’un nuage, sur une banderole les mots: in omni patientia
+          <lb/>et doctrina.
+          <lb/>Fol. P 2b : Sainte Anne; cette gravure se trouve aussi dans les
+          <lb/>sermons de Geiler ,von Mariae himelfahrte, 7 septembre 1512, fol. 6.
+          <lb/>Au-dessous: Der baderin dancken.
+          <lb/>R100.314. Prov.: Bibl. Ch. Schmidt avec son ex-libris et des an¬
+          <lb/>notations mss. de sa main au recto du f. de garde:,En 1879 le libraire
+          <lb/>Cohn de Berlin, Catal. CXXIV p. 43, offre un exemplaire au prix de
+          <lb/>200 frs.
+          <lb/>Kristeller 98; Proctor II Sectio I n° 9932 : Londres, British
+          <lb/>Museum; Schmidt I n° 137 mentionne en outre les Bibl. de Gœttingen
+          <lb/>et de Berlin ainsi que Jadis Bibl. de Strasbourg Incun. 3489a.
+          <lb/>Brunet III2, 1954.
+          <lb/>1608
+          <lb/>MURNER Thomas
+          <lb/>Strasbourg, J. Pruss 1518
+          <lb/>CHARTI- ludium Jnstitute summarie! doctore Thoma
+          <lb/>Murner memor ante et ludente.! Justinianus Cesar in
+          <lb/>prohemio digestorum. (Feuille de trèfie.)... (7 lignes et demie.)
+          <lb/>Cum privilegio imperiali, ne quis in decennio impri¬
+          <lb/>mat sub pena in principali re scripto contenta.
+          <lb/>A la fin: Impressum Argentinae per lohannem Prüs.
+          <lb/>Impen- sis ac sumptibus circumspecti viri lIoannis Kno¬
+          <lb/>blauch. Anno salutis. nostrae. M. D. XVIII. (Feuille de
+          <lb/>trèfle.) Verso blanc.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

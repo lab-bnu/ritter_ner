@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:04.437561+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002110.tif
+IMAGE WIDTH: 2518
+IMAGE HEIGHT: 3988
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>CELTES, Conradus : Libri Odarum quatuor cum Epodo... —
+          <lb/>(Strasbourg, Mathias Schürer « ductu Leonhardi et
+          <lb/>Lucae Alantsee fratrum » mai 1513), in-40.
+          <lb/>Bibl. Budapest : P. O. lat. 296 et P. O. lat. 299. (Communica¬
+          <lb/>tion de Mme Soury, Strasbourg). Schmidt VIII, n° 99. B M
+          <lb/>Colmar; Baer (Francfort-s.-M.), Catal, 500 (1907), n° 845:
+          <lb/>25 M.; Proctor 10213; Panzer 6, 61, 294.
+          <lb/>1326
+          <lb/>CENOTAPHIUM : Cenotaphium v. iro) cl. [arissimo) Joanni
+          <lb/>Sturmio. — (Strasbourg, Josias Rihel 1590, in-80.
+          <lb/>Ritter : B M Strasbourg, n° 2032.
+          <lb/>1327
+          <lb/>CEPOLLA, Bartholomaeus : Tractat de servitutibus. Der in
+          <lb/>Stätten und auff dem Land gelegener Gebüw, auch
+          <lb/>Feldgüter Dienstbarkeiten... So dann de jure emphy¬
+          <lb/>teutico. Von Erdbeständnussen und Erbrechten. Wie
+          <lb/>das durch... Martinum Pegium, vor Jaren geteutscht in
+          <lb/>Truck gegeben. Von newem... mit sonderem fleisz
+          <lb/>ubersehen... gebessert... — Strasbourg, Lazare Zetzner
+          <lb/>1596, in-fol.
+          <lb/>Ritter : B M Strasbourg, n° 710; Hiersemann (Leipzig),
+          <lb/>Catal. 666, no 699 ; 8 M.
+          <lb/>1328
+          <lb/>CHAMAILLARD, Pierre. Voir: ALBERTUS Magnus, Secreta
+          <lb/>mulierum n° 779.
+          <lb/>CHAPARUS, Rodolphus : Dialectica. — A la fin : Vignette,
+          <lb/>puis marque typ. de Chr. Mylius, en-dessous : Argentorati,
+          <lb/>excudebat Christianus Mylius, Anno, 1368 (pour 1568),
+          <lb/>in-8°, sign. A-H.
+          <lb/>Grand Sém. Strasbourg, f. du titre manque.
+          <lb/>1329
+          <lb/>CHARETUS, Johannes : Wundtartznei : Zu allen Gebrechen
+          <lb/>des gantzen Leibs, Und zu iedem Glid besonder, Mit was
+          <lb/>zufällen die entstehen unnd eim Wundartzt zukomen
+          <lb/>mögen... — Strasbourg, Christian Egenolph mars 1530,
+          <lb/>in-40.
+          <lb/>108
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

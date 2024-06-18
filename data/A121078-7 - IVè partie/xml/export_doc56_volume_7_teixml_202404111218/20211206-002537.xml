@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:14.728081+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002537.tif
+IMAGE WIDTH: 2520
+IMAGE HEIGHT: 3954
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>heyligen Sacramentz, fleisch unnd blut Christi. —
+          <lb/>(Strasbourg, Jean Prüss) (1521), in-4°.
+          <lb/>Schmidt III, p. 37, n° 29; Weller 1714. — Bibl. cant. Zurich.
+          <lb/>3577
+          <lb/>ZEITUNG : Merckliche Frantzösische Zeitung, Von den herr¬
+          <lb/>lichen Ceromonien, so bei dem Neuen Ritterlichen
+          <lb/>Orden vom H. Geyst gebraucht und gehalten, Sampt
+          <lb/>den Namen der Ritter, die inn solchen Orden getretten
+          <lb/>und aufgenommen worden. Ergangen bei Regirung
+          <lb/>dess Aller Christlichsten Fürsten Heinrichen dess dritten
+          <lb/>dises Namens, Königs inn Franckreich und Polen, inn
+          <lb/>der Kirchen der Augustiner zu Pariss. 1579. —
+          <lb/>[Strasbourg, Bernard Jobin) 1579, in-4° (avec la devise
+          <lb/>de Fischart « Alors comme alors »).
+          <lb/>Weller, Zeitungen, n° 501; Hauffen, Fischart-Studien dans:
+          <lb/>Euphorion III, p. 554, note 1.
+          <lb/>3579
+          <lb/>ZEITUNG : Merckliche, Frantzösische Zeitung. Von den
+          <lb/>herrliche Solenniteten und Ceremonien, so bei dem
+          <lb/>erst Neugestiffteten Ritter Orden vom H. Geyst
+          <lb/>gebraucht und gehalten. Sampt den Namen der Ritter
+          <lb/>und Herrn, welche inn solchen Neuen Orden den ersten
+          <lb/>dises 79. Jahrs getreten... Ausz Frantzösischen treulich
+          <lb/>inns Teutsch gebracht (Grav.) 1579. — (Strasbourg,
+          <lb/>Bernard Jobin! 1579, in-4°. (Trad, par Fischart] (2 éd.).
+          <lb/>Hauffen, Fischart-Studien dans Euphorion VI, p. 554 : Zurich.
+          <lb/>3580
+          <lb/>ZEITUNG : Der nüwen zeytung und heymlichen wunder¬
+          <lb/>barlichen offenbarung, so D. Hans Fabri jungst ufftriben
+          <lb/>und Wolffgang Capitons brieff gefälschet hat, bericht
+          <lb/>und erklerung. — Strasbourg, 12 août 1526, in-4°.
+          <lb/>Walter, n° 2484.
+          <lb/>3581
+          <lb/>ZEITUNG : Neuw Zeitung betreffend die absterbende papisti¬
+          <lb/>schen Messen zu Strassburg bysshar loblich von in ge¬
+          <lb/>535
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

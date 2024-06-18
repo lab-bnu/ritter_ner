@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:03.000673+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002054.tif
+IMAGE WIDTH: 2506
+IMAGE HEIGHT: 3924
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>falschem grunde, und durch weliche die Bilder in die
+          <lb/>Kirchen erst nach der zeit der heil. Vätter Hieronymi...
+          <lb/>kommen sind... Durch die Prediger der Kirchen Christi
+          <lb/>zu Straszburg. — (Strasbourg) 1530, in-4°.
+          <lb/>Bibl. S. Guillaume Strasbourg.
+          <lb/>1012
+          <lb/>BILDE, Petrus. Voir : STURM, Joh. n° 3296.
+          <lb/>BILGERSCHAFT. Voir : PILGERSCHAFT.
+          <lb/>BINDER, Georges : Ein Commoedia Von dem verlornen Son...
+          <lb/>— Strasbourg, Jacques Frölich s. d., in-8° (sans la
+          <lb/>préface de Binder qui dans les impressions est datée
+          <lb/>1535).
+          <lb/>Goedeke II2, p. 347 n° 58 (c).
+          <lb/>1013
+          <lb/>BINDER, Georg. Voir aussi: GNAPHAEUS, G., Acolastos.
+          <lb/>Deutsch n° 1911.
+          <lb/>(BINDER, Ludwig] : Diss lied sagt von Lucretia, wie sie umb
+          <lb/>ir ere kam unnd sich selbst ertödtet... — (Strasbourg)
+          <lb/>(vers 1520), in-8°.
+          <lb/>Vogeleis p. 208.
+          <lb/>1014
+          <lb/>BIRCK, Sixt : Judith, ein schöne History, in Spyls weisz für
+          <lb/>die augen gestelt... — Strasbourg, Christian Mylius
+          <lb/>(Müller) 1559, in-8°.
+          <lb/>Goedeke II2, p. 345 n° 7 (b); Vogeleis, p. 351. (Ritter, Rép.
+          <lb/>nos 205 et 206 : éd. Ant. Bertram 1585 et 1586).
+          <lb/>1015
+          <lb/>BIRCK, Thomas. Voir : HABERMANN, Joh. Bettbüchlein,
+          <lb/>n° 1949.
+          <lb/>BISCHOFSHEIM (près Rosheim, Bas-Rhin). Voir: CONTRA¬
+          <lb/>FACTUR, n° 1436.
+          <lb/>BITNER, Jonas : De grammatica seu octo orationis partibus
+          <lb/>52
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

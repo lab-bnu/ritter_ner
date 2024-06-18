@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:50.000631+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078263.tif
+IMAGE WIDTH: 2306
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>PARACELSUS Theophrastus
+          <lb/>Strasbourg, Chr. Muller 1577
+          <lb/>Von der Wundtartzney, PH. THEOPHRA- sti von Hohen¬
+          <lb/>heim, bey- der Artzney Doctoris, vier Bücher.Deren
+          <lb/>Inhalt das volgende! blat anzeiget. Vormals nie in truck
+          <lb/>auszgangen. Cum privilegio Caesareo ad decennium.
+          <lb/>(Marque typ. de Christian Müller. H 2 B Planche XXVIII n° 1.)
+          <lb/>M. D. LXXVII.
+          <lb/>A la fin: Getruckt zû Straszburg, durch Christian
+          <lb/>Müller, 1577. (Verso blanc.)
+          <lb/>In-8°, car. goth., 4 ff. non ch., 147 pp. ch., 4 pp. non ch., verso du
+          <lb/>dernier f. blanc, titre courant, réclames, init. goth.
+          <lb/>Fol. a 2a : ... Herren Egidio Coli-daeo von Utrecht, und Antonio
+          <lb/>Layen- decker von Franckfort, beyden Wund-artzten... M. Toxites...
+          <lb/>Datum Hagenaw an S. Adolphs tag, Anno 1577. (Préface de 6 pp.)
+          <lb/>R101.295. Prov. inconnue.
+          <lb/>1782
+          <lb/>PARACELSUS Theophrastus
+          <lb/>Strasbourg, Chr. Muller 1578
+          <lb/>Pharmacandi modus. Was der Artzt! in dem Men¬
+          <lb/>schen zû Pur-gieren habe. Unnd was für schäden ausz
+          <lb/>miszverstand des! purgirens entspringen.Durch den
+          <lb/>Hocherfahrnen herren! Theophrastum Paracelsum, beyder
+          <lb/>Artzney Doctorn.Cum gratia &amp;amp; privilegio Caesareo.
+          <lb/>(Marque typ. de Chr. Muller. H e B Planche XXVIII n° 2.)
+          <lb/>A la fin: Getruckt zû Straszburg bey Christian Müller.
+          <lb/>1578. (Au-dessus marque typ. de Chr. Muller. H d B Planche XXVIII
+          <lb/>n° 1.)
+          <lb/>In-80, car. goth., 5 ff. non ch., 64 pp. ch., titre courant, init. goth.
+          <lb/>Fol. A 2a: Dem gûthertzigen Leser Wünschet Toxites seinen
+          <lb/>Grûsz.... — Ha- genaw, den 9. Februa-rii, 1578. (Préface de 4 ff.)
+          <lb/>R 101.030. Prov. inconnue.
+          <lb/>1783
+          <lb/>PARACELSUS Theophrastus Strasbourg, Chr. Muller héritiers 1582
+          <lb/>Etliche Tractat Philippi Theo¬phrasti Paracelsi, des
+          <lb/>be-rümbtesten und hocherfarnen der! wahren Philoso¬
+          <lb/>phey undArtzney Docton. (!) I. Von Natürlichen din¬
+          <lb/>gen. Il. Beschreibung etlicher Kreuter. IIl. Von Metallen.
+          <lb/>IIII. Von Mineralen.V. Von Edlen Gesteinen. Jetzt wi¬
+          <lb/>der von newem ausz Theo- phrasti Handschrift mit fleisz
+          <lb/>ubersehen und Corrigirt.Cum gratia &amp;amp; Privilegio Caesa¬
+          <lb/>reo.
+          <lb/>1149
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

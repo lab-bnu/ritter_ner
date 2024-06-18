@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:05.963645+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002167.tif
+IMAGE WIDTH: 2494
+IMAGE HEIGHT: 3956
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>ERYTHRAEUS, Val. : Tabulae duorum librorum partitionum
+          <lb/>dialecticarum Joannis Sturmij... — Strasbourg, in
+          <lb/>aedibus Jacobi Jucundi (J. Frölich] Christianus Mylius,
+          <lb/>1541, in-fol.
+          <lb/>Walter, n° 1291.
+          <lb/>1638
+          <lb/>ERYTHRAEUS, Val. : Tabulae Tertii et Quarti libri Parti¬
+          <lb/>tionum dialecticarum Joannis Sturmii. I-III. — Stras¬
+          <lb/>bourg, Christianus Mylius 1555, in-fol.
+          <lb/>Walter n° 1292. (Double de n° 1637).
+          <lb/>1639
+          <lb/>ERYTHRAEUS, Val. : Tabulae partitionum oratoriarum Cice¬
+          <lb/>ronis: &amp;amp; quatuor dialogorum Joan. Sturmii in easdem:
+          <lb/>recognitae, &amp;amp; alicubi auctae. Interpositus est ipse
+          <lb/>Dialogus, cui addita sunt Scholia oeconomica eiusdem
+          <lb/>Erythraei. His adiecimus, in gratiam Studiosorum doc¬
+          <lb/>trinae dicendi, Tullianarum Partitionum, Commentarios
+          <lb/>duos clariss, virorum: alterum D. Philippi Melanchthonis,
+          <lb/>alterum D. Joachimi Camerarii Pabergensis... — Stras¬
+          <lb/>bourg, Christian Mylius 1560, in-fol.
+          <lb/>Bibl. St. Guillaume, Strasbourg; Walter 1293. 1640
+          <lb/>ERYTHRAEUS, Val. : De ratione legendi, explicandi, &amp;amp; scri¬
+          <lb/>bendi Epistolas, Libri tres. Ad illustrissimum Principem
+          <lb/>ac Dominum, D : Julium, Ducem Brunsvicensem, &amp;amp;
+          <lb/>Lunaeburgensem &amp;amp;c. Cum praefatione Joan. Sturmij.
+          <lb/>(Marque typ. de Bern. Jobin)... — Argentorati, Excude¬
+          <lb/>bat Bernhardus Jobinus, Anno M. D. L. XXVI (1576),
+          <lb/>in-80.
+          <lb/>Bibl. St. Guillaume, Strasbourg. Ritter : B M Strasbourg,
+          <lb/>n° 917.
+          <lb/>1641
+          <lb/>ERYTHRAEUS, Val. Voir aussi RITTER, Rép, n° 797-806.
+          <lb/>ERZÄHLUNG : Warhafftige Erzelung der Handlung und ge¬
+          <lb/>schicht wie und was sich Hertzog Heinrich von Braun¬
+          <lb/>schweigs und seiner anhangende gesellschaft halben des
+          <lb/>1544 Jars zugetragen... — Strasbourg, Sigismond Bundt
+          <lb/>1545, in-4°.
+          <lb/>Ritter, Hist. de l’impr., p. 408 et app. 462 (6).
+          <lb/>1642
+          <lb/>165
+          <lb/>6-1
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

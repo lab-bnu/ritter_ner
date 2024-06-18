@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:38.668357+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu127.tif
+IMAGE WIDTH: 2416
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Tractatus resolvens dubia circa VII sacramenta occurentia.
+          <lb/>Strasbourg (J. Grüninger), 9 février 1496, in-4°.
+          <lb/>Hain 15591, Proctor 468, Voulliéme: Berlin 2292.
+          <lb/>K 3597b. Prov.: L. Rosenthal, Munich, 21. X. 1884, 12 M. A
+          <lb/>l’intérieur du 1er plat: «Bibliothèque de J. Ladimir François
+          <lb/>N° 2367»; au-dessous, exlibris. Au recto du f. de garde:
+          <lb/>(Thomas d’Aquin). Traité des sept sacrements. (Cas de
+          <lb/>Conscience.) Rare. (Détails curieux sur le mariage). Stras¬
+          <lb/>bourg, 1496.
+          <lb/>462
+          <lb/>TUDESCHIS NICOLAUS (Panormitanus): Consilia. (Stras¬
+          <lb/>bourg, H. Eggestein, 10 oct. 1474), in-fol.
+          <lb/>Hain 12343, Madsen 4002, Pellechet: Colmar 1048, Proctor
+          <lb/>265, Voulliéme: Berlin 2158, 5.
+          <lb/>K 3635. Prov.: K. Trübner, Strasbourg, 17. VII. 1883, 28 M.
+          <lb/>463
+          <lb/>TUDESCHIS NICOLAUS (Panormitanus): Processus judicia¬
+          <lb/>rius. (Strasbourg, J. Grüninger, s. d.), in-4°.
+          <lb/>G W 2845, Hain-Copinger 12360, Proctor 500, Voulliéme:
+          <lb/>Berlin 2326.
+          <lb/>Devrait figurer sous Auerbach Johannes d’après le G W,
+          <lb/>mais la lettre A était déjà imprimée quand j’ai reçu l’ouvrage.
+          <lb/>Voulliéme le donne encore sous Tudeschis.
+          <lb/>K 3636. Prov.: En échange de doubles avec le bibliothécaire
+          <lb/>Schorbach, Strasbourg, 8. VII. 1910. (Prix dans le catalogue
+          <lb/>Baer: 36 M.).
+          <lb/>464
+          <lb/>TURRECREMATA JOHANNES DE: Expositio Psalterii, Stras¬
+          <lb/>bourg, (impr. de la Legenda aurea), 23 avril 1482,
+          <lb/>in-fol.
+          <lb/>Hain 15703, Pellechet: Colmar 1267, Proctor 414, Voulliéme:
+          <lb/>Berlin 2250, Walter: Sélestat 487.
+          <lb/>K 3644b. Prov.: B N Munich, 28. XII. 1883, 4 M. 50. Notes mss.
+          <lb/>465
+          <lb/>TURRECREMATA JOHANNES DE: Expositio Psalterii. Stras¬
+          <lb/>bourg, (impr. du Jordanus (— G. Husner)), 28 sept.
+          <lb/>1485, in-fol.
+          <lb/>Hain 15706, Madsen 4026, Proctor 599, Voulliéme: Berlin 2407.
+          <lb/>K 3645. Prov.: Librairie Trübner, Strasbourg, 20. IV. 1887,
+          <lb/>9M.
+          <lb/>466
+          <lb/>97
+          <lb/>R.7
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

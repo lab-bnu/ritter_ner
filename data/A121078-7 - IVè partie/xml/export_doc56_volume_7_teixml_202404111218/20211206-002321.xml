@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:09.849199+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002321.tif
+IMAGE WIDTH: 2486
+IMAGE HEIGHT: 3996
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Graesse IV, p. 281 : éd. 1529; Ritter : B M Strasbourg,
+          <lb/>n° 1398; Burg, n° 254.
+          <lb/>2432
+          <lb/>LUCIANUS : Spigel der Menschlichen blödigkeit... Drei schöner
+          <lb/>Gesprech des Tichters Luciani. Sampt andern lustigen
+          <lb/>unnd nutzlichen Historien. Jetzund von newem ver¬
+          <lb/>teutscht und auszgangen Durch J. Vielfeldt. —
+          <lb/>Strasbourg, Jacques Cammerlander 1545, in-4°.
+          <lb/>Goedeke II, 319: GraesseIV, p. 282; Ritter: B M Strasbourg,
+          <lb/>n° 1401; L’Art ancien, Zurich, Liste 179, n° 71; « erste Ausgabe
+          <lb/>dieser neuen Ubersetzung, 275 fr. suisses ». [Éd. W. Rihel
+          <lb/>1549 : Ritter, Rép. n° 1399.
+          <lb/>2433
+          <lb/>LUCIANUS :.. Dialogi Coeslestes, Marini, et Inferni, cum
+          <lb/>vulgata versione: quibus propter singularem elegantiam
+          <lb/>adiecti sunt eiusdem Menippus &amp;amp; Timon. His addita
+          <lb/>sunt argumenta unà cum quorundam dialogorum
+          <lb/>puoohoyíg. Latinis versibus tractata, per Joannem
+          <lb/>Sambucum... — Strasbourg, Wolfgang Cephalaeus
+          <lb/>(Köpfel] 1550, in-80.
+          <lb/>Ritter: B M Strasbourg, n° 1403.
+          <lb/>2434
+          <lb/>LUCIANUS. Voir aussi: : CICERO n° 1380; DEMOSTHENES
+          <lb/>n° 1499; (RITTER, Rép, nos 1388-1401); MELANCHTHON,
+          <lb/>Ph. n° 1500 et 2651.
+          <lb/>LUCIDARIUS : Ein lieblich historien von dem hochgelerten
+          <lb/>Meister Lucidario... — (Strasbourg, uff Grüneck (Barth.
+          <lb/>Kistler) 1503), in-4°.
+          <lb/>Panzer, Annalen, Zusätze 98; Schmidt IV, p. 9, n° 23; Heitz¬
+          <lb/>Ritter, n° 315 : B M Colmar, Tübingen.
+          <lb/>2435
+          <lb/>LUCIDARIUS : (Idem). — (Strasbourg, Mathias Hupfuff
+          <lb/>1506), in-40.
+          <lb/>Kristeller, n° 280; Schmidt V, n° 59; Weller, Rep. 356;
+          <lb/>Schorbach, Lucidarius, n° 39; Heitz-Ritter : Londres, Vienne.
+          <lb/>(Autres éd. de Hupfuff 1511 et 1514. Voir Ritter, Rép, nos 1402.
+          <lb/>et 1403).
+          <lb/>2436
+          <lb/>319
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

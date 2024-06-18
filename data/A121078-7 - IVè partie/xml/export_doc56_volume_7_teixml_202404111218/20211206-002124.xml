@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:04.943910+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002124.tif
+IMAGE WIDTH: 2500
+IMAGE HEIGHT: 4000
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>COCHLAEUS, Jod. : Antwort... auf Martin Luth. freventliche
+          <lb/>Appellation Anno 1520... — (Strasbourg, Jean Grüninger)
+          <lb/>1524, in-4°.
+          <lb/>Schmidt I, n° 217; Schottenloher 10,.932. B N Munich, Musée
+          <lb/>germanique Nuremberg; Ritter, Rép. n° 553.
+          <lb/>1407
+          <lb/>COCLES, Bartholomaeus : Ein kurtzer bericht der gantzen
+          <lb/>Phisionomey und Ciromancey... — Strasbourg, Jean
+          <lb/>Grüninger 1524, in-8°. (Gravures).
+          <lb/>Schmidt I, n° 221; Weller, 2840.
+          <lb/>1408
+          <lb/>COCLES, Barth. : Phisionomei. Eins ieden menschen Art,
+          <lb/>Natur und complexion, ausz Formierung und gestalt
+          <lb/>des Angesichts... — Strasbourg, Christian Egenolff 1530,
+          <lb/>in-4°.
+          <lb/>Hohenemser p. 690; Benzing, Egenolff: B M Francfort-s.-M.,
+          <lb/>Londres, Brit. Museum.
+          <lb/>1409
+          <lb/>COCLES, Barth. : Physiognomiae et chiromantiae compen¬
+          <lb/>dium. — Strasbourg, G. Machaeropœum (Messerschmidt)
+          <lb/>1551, in-80.
+          <lb/>BN Paris : V. 21.861 (2) [éd. J. Albrecht 1533, 1534, 1536:
+          <lb/>Ritter, Rép, nos 554, 556/7; éd. allemande chez Albrecht 1533:
+          <lb/>Rép. n° 555l.
+          <lb/>1412
+          <lb/>COCLES, Barth. : (Idem). — Strasbourg, G. Machaeropoeus
+          <lb/>(Messerschmidt] 1554, in-8°. (La date 1551 est restée à
+          <lb/>l’explicit].
+          <lb/>BN Paris : V. 21.862 et éd. 1555 : V. 21863.
+          <lb/>1413
+          <lb/>COCLES, Barth. Voir aussi : RITTER, Rép, nos 554-558.
+          <lb/>COCTUS (Eques Gallus). Voir : LUTHER (Epistolae) n° 2495.
+          <lb/>CODRUS, Ulricus : De Virtutibus. — Strasbourg, Jean
+          <lb/>Knobloch janvier 1524, in-80.
+          <lb/>Schmidt VII, n° 273 : Bibl. cant. Aarau.
+          <lb/>1414
+          <lb/>122
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

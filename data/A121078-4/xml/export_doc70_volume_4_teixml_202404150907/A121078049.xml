@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:44.048483+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078049.tif
+IMAGE WIDTH: 2348
+IMAGE HEIGHT: 3844
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>935
+          <lb/>A la fin: Getruckt zû Straszburg von Mathis hüpfuff.
+          <lb/>Als man zahlt M. ve. vnnd. XI. jar.
+          <lb/>In-4°, car. goth., 34 ff. non ch., sign. A-F, grande init. D avec
+          <lb/>un astronome regardant une éclipse de soleil; en outre 8 gravures sur
+          <lb/>bois dont quelques-unes empruntées à Albertus Magnus: De secretis
+          <lb/>mulierum. Strasbourg, Kistler 1503, ainsi qu’à la Pronosticatio de Kistler
+          <lb/>1497.
+          <lb/>*R100.202. Prov. : A. Einsle, Vienne, 17/XII 1886; 2 M. 50.
+          <lb/>Kristeller n° 298; Schmidt V n° 89. Schorbach Karl: Lucidarius,
+          <lb/>Diss. Strasbourg 1894, p. 95f n° 42.
+          <lb/>1402
+          <lb/>LUCIDARIUS
+          <lb/>Strasbourg, M. Hupfuff 1514
+          <lb/>Ein liepliche hystory von dem hoch gelerten meister
+          <lb/>Lucidario. (Grav, sur bois. Voir p. 934.)
+          <lb/>A la fin: Getruckt zû Straszburg. Durch Ma-thiam
+          <lb/>Hüpfuff. Als man zalt nach der geburt Christi vnnsers
+          <lb/>lie- ben herren, tausent fünff-hundert vnnd vier- tzehen
+          <lb/>Jare.
+          <lb/>In-4°, car. goth., 32 ff. non ch. (verso du dernier f. blanc), sign.
+          <lb/>A-E, init. ornée D, 8 gravures comme dans l’édition 1511.
+          <lb/>*R100.242. Prov.: Baer æ Co., Francfort s. M. 9/IV 1878, 25M.
+          <lb/>Kristeller n° 318; Schmidt V n° 113; Schorbach, Lucidarius, n°43:
+          <lb/>BN Munich, Collection Schorbach provenant de la Bibl. Huber, Strasbourg.
+          <lb/>(Catalogue de vente juin 1885 n° 192.)
+          <lb/>1403
+          <lb/>LUCIDARIUS
+          <lb/>Strasbourg, J. Cammerlander vers 1535
+          <lb/>Eyn newer M. Elucidarius, von al- lerhandt ge¬
+          <lb/>schöpffen Gottes, den Eng-eln, den himeln, gestirns, Pla¬
+          <lb/>neten, und wie alle creatu- ren geschaffen seind auff er¬
+          <lb/>den. Auch wie die Erd in drei teyl ge- teilt, und dero
+          <lb/>länder, sampt der völcker darinn, eygentschaff ten, und
+          <lb/>wunderbarlichen thieren, ausz Plinio Se! cundo, Solino,
+          <lb/>unnd anderen weltbe-schreibern, eyn kurtze unnd lu¬
+          <lb/>stige anzey-gung. (Gravure sur bois, composée de 3 bois, au mi¬
+          <lb/>lieu sphère astronomique, des 2 côtés 2 bandes ornementales, à gauche le
+          <lb/>Christ résuscité avec la bannière, à droite le Christ en prière dans le
+          <lb/>jardin des oliviers; au-dessus du titre il y a en outre une bande ornem.)
+          <lb/>Sous la gravure:
+          <lb/>Getruckt zû Straszburg bey M. Jacob Cammerlander.
+          <lb/>(Verso blanc.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

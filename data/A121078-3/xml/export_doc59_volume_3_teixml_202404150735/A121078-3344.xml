@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:11.926039+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3344.tif
+IMAGE WIDTH: 2374
+IMAGE HEIGHT: 3854
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>786
+          <lb/>HILDEGARD
+          <lb/>Strassburg, J. Schott 1533
+          <lb/>PHYSICA S. HILDEGARDIS. Elementorum, Fluminum
+          <lb/>aliquot Germaniae, Metallorum, Legu-minum, Fructuum,
+          <lb/>&amp;amp; Herbarum: Arborum, &amp;amp; Arbusto- rum : Piscium deni¬
+          <lb/>que, Volatilium, &amp;amp; Animantium ter- rae naturas &amp;amp; opera¬
+          <lb/>tiones. III. Libris mira- bili experimentia posteritati tra¬
+          <lb/>dens. ORIBASII! Medici de Simplicibus LIBRI Quinque.
+          <lb/>THEODORI physici DIETA, docens quibusnam salubri¬
+          <lb/>ter utendum, uel abstinendum. ESCVLAPII Liber Vnus,
+          <lb/>De Morborum, Infirmitatum,) Passionumque corporis hu¬
+          <lb/>mani causis,! descriptionibus, &amp;amp; cura.
+          <lb/>Omnium Capitum Indice copiosissimo in calce operis
+          <lb/>subscripto.
+          <lb/>ARGENTORATI apud Ioannem Schottum, cum Caes.
+          <lb/>Maiest, priuilegio ad Quinquennium. M. D. XXXIII.
+          <lb/>Oben u. unten Zierleiste. (Rücks, leer.)
+          <lb/>2°, Antiq., 4 unn. Bll., 247 S., LXXIX S. fur Aesculapius und
+          <lb/>2 unn. Bll. (Index, 3sp.), Kopft., Marg., Init.
+          <lb/>Bl. 2a: Io. SCHOTTVS librarius Lectori S. D.... —
+          <lb/>Argentorati, 14. Ianuarij. Anno Chri- stiano. M. D. XXXIII.
+          <lb/>Auf der Rücks, blattgrosser Holeschn.: drei Arste bei einem Manne,
+          <lb/>der vor ihnen sitet und von denen ihm einer den Kopf hält; ein anderer
+          <lb/>untersucht ein Uringlas; an einem Tische ein mit Waschen beschäftigter
+          <lb/>Diener; oben in der linken Ecke: Besehung der uBsetzigen; uber dem
+          <lb/>Holeschn.: TYPVS infirmitatum &amp;amp;̀ Passionum acciden- tium corpori humano
+          <lb/>ab intra.
+          <lb/>Bl. 3a : blattgrosser Holeschn.: ein Mensch, der mit Wunden be¬
+          <lb/>deekt ist; daruber: TYpVS morborum &amp;amp;̀ plagarum acciden- tium ab extra
+          <lb/>corpori humano.
+          <lb/>S. 246. Die Heiligen Cosmas u. Damianus.
+          <lb/>R 10.2352. Prov.: Alte Strassburger medizinische Fakultät.
+          <lb/>Oxford, Bibl. Bodleiana. Schmidt II Nr. 126: SB München. Reuss
+          <lb/>F. A., De libris physicis S. Hildegardis commentatio historico-medica.
+          <lb/>Wirceburgi, 1835, 80, XX-71 p.
+          <lb/>Brunet III5, 166:,Ce recueil contient 4 ff. prélim. Hildegard,
+          <lb/>p. 1 à 121; Oribasius et Theodorus, p. 122 à 226. Aesculapius, LXXIX pp.
+          <lb/>Le même libraire J. Schott l’a reproduit en 1544 en y joignant Tortulae
+          <lb/>liber unicus, 38 pp. et Octaviani Horatiani libri quatuor, 144 p.* 1168
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:54.526120+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5143.tif
+IMAGE WIDTH: 2340
+IMAGE HEIGHT: 3856
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Au verso du titre : Vorred. (3 pp.).
+          <lb/>fol. 3a-3b non ch. : Énumération des livres du Nouveau Testament.
+          <lb/>fol. 3b-24a non ch. : Register (2 col.).
+          <lb/>Gravures de l’Apocalypse d’après Holbein par H. Weiditz.
+          <lb/>R. 10.087 (4). Prov. : Bibl. Prof. Ed. Reuss, Strasbourg, 1891.
+          <lb/>Note ms. au titre du volume : L. H. Zorn a Plopsheim. Rel. anc.
+          <lb/>Schmidt VII, No 300; Londres, British Museum 304l. g. 2.
+          <lb/>2308
+          <lb/>TESTAMENTUM NOVUM (en allemand)
+          <lb/>Strasbourg, J. Grüninger, 1627
+          <lb/>Das nüw Testament kurtz vnd grüntlich in ein ordnung
+          <lb/>vnd text, die vier Euangelisten, mit schönen figur en durch
+          <lb/>ausz gefürt Sampt den anderen Apostelen. Vnd in der keiser¬
+          <lb/>lichen stat speiervolendet durch Jacobum Beringer Leuiten.
+          <lb/>In dem iar desz heiligen reichtags. 1526.
+          <lb/>Grande grav. sur bois: au haut; Dieu le père, au-dessous
+          <lb/>de lui Jésus-Christ; entre les deux, le saint Esprit en forme
+          <lb/>d’une colombe. En bas, les 4 évangélistes, devant eux une
+          <lb/>foule agenouillée, d’un côté des prêtres avant à leur tête le
+          <lb/>pape, de l’autre des laïques avec l’empereur; entre ce dernier
+          <lb/>et le pape une tablette avec le monogramme, peut-être de Henri
+          <lb/>Vogtherr, d’après Schmidt I, n° 236.
+          <lb/>Au-dessous de la grav. : Gib vns heut vnser teglich brot....
+          <lb/>Cum Priuilegio. (Verso blanc.)
+          <lb/>A la fin : Und ist disz buch gedruckt, in herr Jacob Berin¬
+          <lb/>gers kosten,! Zu Straszburg, von Johannis Grieningern, uff
+          <lb/>den Christ !! abent. in dem. M. D. und xxvij. Jar.
+          <lb/>Ip-fol., car. goth., CCXXVII ff. ch., titre courant, notes marg., init.
+          <lb/>goth., grav. de la grandeur des pages, 42 pour les évangiles et les actes
+          <lb/>des apôtres, réunissant plusieurs scènes avec des perspectives impossibles;
+          <lb/>15 plus ou moins symboliques pour les épîtres et 7 pour l’apocalypse.
+          <lb/>Les ff. XIV et XVI viennent après XV et XVII.
+          <lb/>fol. IIa : Die vorred! Jacobus Beringer, leuit des meren thumstiffts
+          <lb/>zu speyer,!! Enbeüt yedem leser... den götlichen fri-den...
+          <lb/>1ol. IIIb-XIIa : Registre.
+          <lb/>Réimpression, avec quelques changements, de la traduction de Luther,
+          <lb/>1re édition; les récits des 4 évangiles sont combinés ensemble, de manière
+          <lb/>à former une sorte d’harmonie.
+          <lb/>R. 10.225. Prov.; Bibl. Ed. Reuss, 1891, dont l’autographe se trouve
+          <lb/>au recto du f. de garde avec la remarque : « Geschenk von Pf. Lor. Heldt
+          <lb/>zu Oberhoffen 1846». Au bas du titre : « Joh. Friedr. Lucé, Colmar,
+          <lb/>12 octobre 1780».
+          <lb/>Le 14/x, 1935 J. Halle, antiquaire à Munich a offert à la Bibliothèque
+          <lb/>un exemplaire pour 400 M.
+          <lb/>2e ex. R. 10.266. Prov. : Bibliothèque Heitz, Strasbourg. Notes mss.,
+          <lb/>au recto du f. de garde: « Jacob Beringer, der römischen Kirche zugethan,
+          <lb/>benutzte jedoch die lutherische Ubersetzung, von welcher er hin und
+          <lb/>wieder einiges anderte, vorzüglich in den 4 Evangelisten, welche er in
+          <lb/>1451
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

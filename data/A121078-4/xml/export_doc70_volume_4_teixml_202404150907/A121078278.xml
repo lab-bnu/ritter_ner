@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:50.710745+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078278.tif
+IMAGE WIDTH: 2308
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1164
+          <lb/>A la fin : Sermones Pomerii de tempore... Impressi ac
+          <lb/>diligenter revisi per indu strium Henricum Gran: in im¬
+          <lb/>periali oppido Hage-naw: expensis ac sumptibus providi
+          <lb/>Johannis Ryn- man Finiunt feliciter Anno salutis nostre.
+          <lb/>M. ceccc. i.iii. Nonas Augusti.
+          <lb/>In-fol., car. goth., 2 col., 264 ff. non ch. dont le dernier f. blanc,
+          <lb/>sign. a2, AK, titre courant, init. d’attente.
+          <lb/>R10.347 (1). Prov.: BN Munich 28/XII 1877; 1 M. Notes mss.,
+          <lb/>au-dessous du titre, Sigr. Frey, à l’intérieur de la couverture: Duplum
+          <lb/>1811
+          <lb/>Bibliothecae regiae Monacensis. Rel. anc.
+          <lb/>PELBARTUS DE THEMESWAR
+          <lb/>Haguenau, H. Gran 1501
+          <lb/>Sermones Quadragesimales Pomerii fratris Pelbarti
+          <lb/>de Themeswar divi ordinis san! cti Francisci incipiunt
+          <lb/>feliciter. (Verso blanc.)
+          <lb/>A la fin: Sermones Quadragesimales... : Im- pressique
+          <lb/>ac diligenter emendati expensis provi di Johannis Rynman
+          <lb/>in imperiali oppido Hagenaw per industriosum Henricum
+          <lb/>Gran Finiunt feliciter Anno salutis nostre! Millesimo quin¬
+          <lb/>gentesimo primo: ultima die mensis Aprilis.
+          <lb/>In-4°, car. goth., 2 col., L ff. ch. pour la Ière partie — 3 ff. non ch.
+          <lb/>(table); LI ff. ch. pour la IIème partie4 2 ff. non ch. (table), le chiffre
+          <lb/>L est répété deux fois; 15 ff. non ch. pour la IIIème partie; sign. a–t,
+          <lb/>titre courant, init. d’attente.
+          <lb/>R101.416. Prov.: BU Fribourg en Br. 29/X11 1877. En haut
+          <lb/>du titre au crayon 1 M. 20.
+          <lb/>2ème ex. Rio1.418 (2). Prov.: BN Munich 28/XI11877, 2 M. 50.
+          <lb/>Au verso du f. de garde: Duplum Bibliothecae regiae Monacensis. A l&amp;#x27;in¬
+          <lb/>térieur du Ier plat: Ex-libris, au-dessous: Ad Bibliothecam Conventus.
+          <lb/>Monacensis Ord. Erem. S. P. Aug.
+          <lb/>1812
+          <lb/>PELBARTUS DE THEMESWAR
+          <lb/>Haguenau, H. Gran 1501
+          <lb/>Sermones Quadragesimales! Pomerii fratris Pelbarti
+          <lb/>de Themeswar divi ordinis san- cti Francisci incipiunt
+          <lb/>feliciter, (Verso blanc.)
+          <lb/>A la fin: Sermones tripartiti Quadragesimales... Im¬
+          <lb/>pressique ac diligenter emendati expensis providi Johan¬
+          <lb/>nis Rynman in! imperiali oppido Hagenaw per industrio¬
+          <lb/>sum Hen- ricum Gran Finiunt feliciter Anno salutis nostre
+          <lb/>millesimo quingentesimo primo. x. die mensis Junii. (Verso
+          <lb/>blanc.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

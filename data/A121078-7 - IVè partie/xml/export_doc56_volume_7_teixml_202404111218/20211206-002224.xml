@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:07.499722+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002224.tif
+IMAGE WIDTH: 2492
+IMAGE HEIGHT: 3962
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>[Nouvelle éd. par Frölich en 1555. Voir : RITTER, Rép.
+          <lb/>n° 1045 : Strasbourg R 100690).
+          <lb/>Ritter: B M Strasbourg, n° 1150.
+          <lb/>1934
+          <lb/>GRIMM, Hans. Voir : HERMAN, Nic, n° 1991.
+          <lb/>GRISELDIS. Voir : PETRARCA nOS 2871-2875.
+          <lb/>GROPPER, Joh. Voir: BUCER n° 1180.
+          <lb/>GRÜBEL, Séb. Voir : WALTHER, Rudolphus n° 3465.
+          <lb/>GRÜNWALD, G. Voir: LIEDER (zwei schöne neue geistliche)
+          <lb/>n° 2392.
+          <lb/>GRUSS : Der Engelisch Grusz... Ein ander neüw Geistlich
+          <lb/>Lied. Der unfal reit mich gantz und gar, noch thun ich
+          <lb/>mir selbs gfallen... (grav.). — T. B. (—Th. Berger,
+          <lb/>Strasbourg s. d.J, in-8°.
+          <lb/>Heitz, p. 27; Wackernagel, 111 649; Ambrosius Blaurer. 1935
+          <lb/>GUALTHERUS, Episcopus : Alexandri Magni, Regis Macedonum
+          <lb/>vita... heroico carmine scripta. M.D.XIII. — (Strasbourg,
+          <lb/>René Beck 1513), in-40.
+          <lb/>Panzer 11, 361; Schmidt IV, p. 18, n° 11 : B MZurich. 1936
+          <lb/>GUARNA, Andreas : Grammaticale Bellum... — (Strasbourg,
+          <lb/>Mathias Schürer, février 1514), in-40.
+          <lb/>Schmidt VIII, n° 127 : Bibl. Dresde. Panzer 6, 68, 343. 1937
+          <lb/>GUARNA, Andreas : Grammaticale bellum nominis et verbi
+          <lb/>regum, de principalitate orationis inter se contenden¬
+          <lb/>tium... — (Strasbourg, Mathias Schürer, avril 1516),
+          <lb/>in-4°.
+          <lb/>Panzer 6, 80, 449; Schmidt VIII, n° 185 : Bibl. S. Guillaume
+          <lb/>Strasbourg et B N où l’ex, manque depuis 1918.
+          <lb/>1938
+          <lb/>222
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

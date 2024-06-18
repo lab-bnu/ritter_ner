@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:39.127393+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2430.tif
+IMAGE WIDTH: 2392
+IMAGE HEIGHT: 3824
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>426
+          <lb/>R 101.609. Prov. inconnue. Note mss., au haut du titre: Monas¬
+          <lb/>terij Diessen; au milieu : Bibliotheca Regia Monacensis.
+          <lb/>Proctor II, Sectio I, N° 11674: Londres, British Museum. 637
+          <lb/>DICTIONARIUM
+          <lb/>Strasbourg, J. Enobloch, 1518.
+          <lb/>Dictionarium, quod Gemmagemmarum vo¬ cant, nuper
+          <lb/>castigatum! In quo nihil eorum que in prioribus excu
+          <lb/>sa sunt desiderantur.
+          <lb/>A la fin: Vocabularius gemmagemma rum cum addi¬
+          <lb/>tionibus diligenter reuisus. Jmpressusque in inelyta vrbe
+          <lb/>Argentinensi per Joannem Knob lauch finit feliciter. Anno
+          <lb/>salutis nostre. M. D. xviij. die, iiij, mensis Decembris.
+          <lb/>(Verso blanc.)
+          <lb/>In-40, car. goth., 2 col., 142 ff. non ch., sign. A-Z, AA-EE, titre
+          <lb/>courant, titre rouge et noir, encadré (Ornements d’architecture, bordures
+          <lb/>latérales, colonnes avec des enfants; Au verso, Proloque et 4 distiques
+          <lb/>au lecteur.)
+          <lb/>R 101.904. Prov.: Heberle, Cologne, 29/x. 1897; 9 M.
+          <lb/>Note mss., au bas du titre : Monasterij Regiae Minoris.
+          <lb/>Schmidt VII, No 164: B M Strasbourg. (502l.
+          <lb/>638
+          <lb/>DICTIONARIUM
+          <lb/>Strasbourg, J. Knobloch, 1520.
+          <lb/>Dictionarium! Gemma gemmarum: Breues ac castas
+          <lb/>vocabularum in- terpretationes perstringens.
+          <lb/>A la fin: Argentinae in Aedi- Bus Knoblouchianis.
+          <lb/>Mense Nouembri. Anno. M. D.XX.
+          <lb/>In-40, car. goth., 2 col., 142 ff. ch., sign. A-Z. A-FF, titre
+          <lb/>courant, titre encadré composé de 4 pièces superposées, ornement d’ar¬
+          <lb/>chitecture, bordures latérales, colonnes sur lesquelles grimpent des génies,
+          <lb/>dans la bordure inférieure 2 génies à cheval, la bordure a dans les coins
+          <lb/>un cigne.
+          <lb/>Au verso du titre: Prologue et 9 vers latins au lecteur.
+          <lb/>R100055a Prov.: B N Munich, 22/1. 1880, 1 M.
+          <lb/>A l&amp;#x27;intérieur de la couverture ex-libris: Ex Electorali Bibliotheca
+          <lb/>Sereniss. Utriusque Bauariae Ducum. Double de la Bibl. Roy. de Munich.
+          <lb/>Schmidt VII, No 202; Bâle et Jadis Bibl. de Strasbourg Incun.
+          <lb/>No 1556, 2047.
+          <lb/>639
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

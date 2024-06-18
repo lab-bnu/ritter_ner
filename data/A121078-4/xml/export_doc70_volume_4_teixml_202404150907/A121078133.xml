@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:46.487559+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078133.tif
+IMAGE WIDTH: 2312
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1019
+          <lb/>Cum Gratia &amp;amp; Privilegio Caesareo. ARGENTORATI
+          <lb/>Excudebat Theodosius Rihelius. (Verso blanc.)
+          <lb/>In-8°, car. atal., 8 ff. non ch., 860 pp., 1 f. non ch. (Catalogus
+          <lb/>Orationum Tomi III.), titre courant, réclames, notes marg., de nombreuses
+          <lb/>init, ornées.
+          <lb/>F. 2a non ch.: Domino Ludovico, huius nominis Primo, Duci Vuir¬
+          <lb/>tenber- gensi... — Argentinae, 4. Cal. Septemb. Anno 1570. M. Iohannes
+          <lb/>Richardius, alias Vuinkelius. (Préface de 14 pp.)
+          <lb/>R100.885 (3). Prov.: BN Munich 7/V 1877; 0.60 M. A P&amp;#x27;inté¬
+          <lb/>rieur de la couverture au crayon: Duplum Bibliothecae regiae Mona¬
+          <lb/>censis.
+          <lb/>1560
+          <lb/>MELANCHTHON Philippus
+          <lb/>Strasbourg, N. Wyriot 1578
+          <lb/>TROADES] EVRIPIDIS, TRAGICORVM POETARVM! princi¬
+          <lb/>pis. CVM INTERPRETATIO-ne evidenti ac dilucida, PHI¬
+          <lb/>LIPPI MELANCHTHONIS. (Marque typ. de N. Wyriot. H a B Planche
+          <lb/>XLIII n° 3.)
+          <lb/>ARGENTINAE Excudebat N. Wvriot. M. D. LXXVIII.
+          <lb/>In-8°, car. grecs, 59 ff. non ch., sign. A-H, après chaque f. 1f.
+          <lb/>blanc, quelquefois plusieurs, titre courant, réclames, petites init, ornées.
+          <lb/>Fol. A 2a: Argumentum Troadum.
+          <lb/>R101.919. Prov.: Bibl. Heitz, Strasbourg 1871.
+          <lb/>1561
+          <lb/>MELANCHTHON Philippus
+          <lb/>Strasbourg, Th. Rihel 1580
+          <lb/>CORPVS DOCTRINAE CHRISTIANAE. QVAE EST SVMMA
+          <lb/>ORTHODOXI ET CATHOLICI DOGMATIS, COMPLE-] ctens doctri¬
+          <lb/>nam puram &amp;amp; veram Evangelii Iesu Christi, secundum
+          <lb/>divina Prophetarum &amp;amp; A-postolorum scripta, aliquot libris
+          <lb/>fideli! ac pio studio explicata a Reve- rendo viro.! D. PHI¬
+          <lb/>LIPPO MELANCHTHONE.  NVNC EDITA AD VSVM ECCLE- SIAE
+          <lb/>SANCTAE PVBLICVM ET PRIVATVM : ET AD refutationem ca¬
+          <lb/>lumniarum, veterum et novarum, quibus ma- litiosi qui¬
+          <lb/>dam hoc corpus Doctrinae utilissimum in odium vocare
+          <lb/>ac penitus opprimere conantur. (Au-dessous: Gravure sur bois:
+          <lb/>Portrait de Melanchthon.)
+          <lb/>ARGENTORATI. Excudebat Theodosius Rihelius. Anno
+          <lb/>M. D. LXXX.
+          <lb/>In-40, car, rom. et ital., 8 ff. non ch., 849 pp., 33 ff. non ch.
+          <lb/>(table), titre courant, réclames, init. ornées.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

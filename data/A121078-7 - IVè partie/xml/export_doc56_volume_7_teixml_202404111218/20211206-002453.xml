@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:13.007155+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002453.tif
+IMAGE WIDTH: 2502
+IMAGE HEIGHT: 4004
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Jetzundt auffs new zugerichtet Corrigiert und gebessert...
+          <lb/>Anno M.D.LII. — (Strasbourg, Balthasar Beck) 1552,
+          <lb/>in-40.
+          <lb/>Ritter : B M Strasbourg, no 1853.
+          <lb/>3138
+          <lb/>RYFF, Walter : Underweisung von den Träumen, Erschei¬
+          <lb/>nungen und nächtlichen Gesichten. — Strasbourg,
+          <lb/>Balth. Beck 1551, in-40.
+          <lb/>Ritter: Hist. Impr., p. 234.
+          <lb/>3139
+          <lb/>RYFE, Walter : Traumbüchlein, darin alle Troum, Erschei¬
+          <lb/>nungen und nächtliche gesicht fürbracht werden, dar
+          <lb/>durch künftige zufell, glück und unglück erfaren werden
+          <lb/>mögen. — Strasbourg, Samuel Emmel 1566, in-12°.
+          <lb/>Graesse VI, p. 198. (Une éd. S. Emmel 1558 : Ritter, Rép.
+          <lb/>n° 2042l.
+          <lb/>3140
+          <lb/>RYFF, Walter : Kurtz Handbüchlein... — Strasbourg, Josias
+          <lb/>Rihel 1589, in-8°.
+          <lb/>(Une éd. Josias Rihel 1594 : Ritter, Rép, n° 2045 et J. Rihel
+          <lb/>hér. 1599 : Rép. n° 2046).
+          <lb/>3141
+          <lb/>RYFF, W. Voir: ARNoLDus de Villa Nova, n° 859;
+          <lb/>BAVIERA, Giovanni, n° 953.
+          <lb/>(Voir aussi : Ritter, Rép. nos 2030-2046).
+          <lb/>SABELLICUS, Marcus Antonius : Exemplorum libri decem... —
+          <lb/>Strasbourg, Math. Schürer 1508, in-4°.
+          <lb/>Panzer 6, 43, 142; Schmidt VIII, n° 10; Weislinger 180.
+          <lb/>(Ed. Mathias Schürer 1509: Ritter, Rép, n° 2047; Sabellicus:
+          <lb/>Rép, nos 2047-2050l.
+          <lb/>3142
+          <lb/>SABINUS, Aulus : Epistolae tres. A la suite de : OVIDIUS,
+          <lb/>Epistolae. — Strasbourg, Math. Schürer, mai 1520,
+          <lb/>in-4° [n° 2811).
+          <lb/>3143
+          <lb/>451
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

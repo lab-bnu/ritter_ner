@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:31.578826+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2169.tif
+IMAGE WIDTH: 2294
+IMAGE HEIGHT: 3826
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>165
+          <lb/>M. Ioannes Alexander Brassicanus!... — Tubingae. Ex
+          <lb/>Musaeo nostro philosophico! Anno... M. D. XIX. Men ! sis
+          <lb/>Martii, Romuli primo die XIIII. (Préface de 3 ff.)
+          <lb/>R100.893. Prov. : Bibl. Böcking et RIOL0I5.(7) Proo.: BN
+          <lb/>Munich.
+          <lb/>Oxford, Bibl. Bodleiana; Proctor II, Sectio I, No 11700:
+          <lb/>Londres, British Museum; manque chez Schmidt VII; Walter: BM
+          <lb/>Sélestat N° 8I5; GPB: Berlin, Breslau RU.
+          <lb/>257
+          <lb/>BRASSICANUS Iohannes Alexander Strasbourg, J. Knobloch, 1520.
+          <lb/>HVSCHELINI] TESTAMENTVM. ] JOANNE ALEXANDRO BRAS!
+          <lb/>sicano, Poëta &amp;amp; Oratore à divo Caesa- re Maximiliano
+          <lb/>Laureato, autore. (Feuille de lierre. Verso blanc.)
+          <lb/>A la fin: ARGENTINAE APVD IO-] ANNEM KNOBLOCHI¬
+          <lb/>VM, ANNO M. D. XX.  MENSIS DECEM-BRIS DIE XIX.
+          <lb/>In-80, car, rom., 7 ff. non ch., sig. A, titre courant, réclames,
+          <lb/>initiales d’attente.
+          <lb/>fol. A 2a: PRAECELLENTISS. VIRO D. NICO- LAO GER¬
+          <lb/>BELLIO PHORCEN.!... (10 distiques). Au-dessous: T. P. deditiss.
+          <lb/>seruulus Brassicanus.
+          <lb/>fol. A2b: BRASS. EPISTOLA VIRO VNDECVNQVE DOCTO!
+          <lb/>D. Joanni Fabro lureconsulto atque Theologo can! didiss.
+          <lb/>Episcopi Constantini uicario clariss, do! mino, atq; Mœce¬
+          <lb/>nati suo nunquàm satis lau dato. Joannes Alexander
+          <lb/>Brassicanus... — Ex Dorni stadio. Anno à nato deo
+          <lb/>M. D. XX. Men- sis Decembris die X.
+          <lb/>fol. A 3b: HVSCHELINI TESTAMEN TVM... — HVSCHE¬
+          <lb/>LINVS VVENDFELDICI IN ( STITVTI RELIGIOSISS. ASSERTOR.
+          <lb/>HOMO VARIIS VITAE GENERIBVS EXERCITATISS. ANN. M. D. XX.
+          <lb/>MENSIS OCTOBRIS, DIE VI. VIXIT APVD PATRIAM SVMMA MORVM
+          <lb/>INNOCENTIA, CHARISS. OMMIBVS ANNO XXXXV. MENSES III.
+          <lb/>DIES V. ! Seqventur omnes.... Suivent 7 signatures.
+          <lb/>fol. A 7a: C. Scoparius Tempeius publicus apud suos
+          <lb/>notarius excipiebat. Hvschelini Epitymbivm. (4 distiques.)
+          <lb/>R102.008. Prov.: Butsch, Augsbouro, 12/x. 1883; 8 M. 50.
+          <lb/>Schmidt VII, n° 205: Bibl. de Tubinque.
+          <lb/>Cf. Steiff. Der erste Buchdruck in Tübingen, p. 245, No 49.
+          <lb/>258
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:13.979655+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3428.tif
+IMAGE WIDTH: 2422
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>870
+          <lb/>RVM. M. D. XCIII. (Rücks. leer.)
+          <lb/>PARS TERTIA... ARGENTINAE Per LAZARVM ZETZNE¬
+          <lb/>8 unn. Bll., 488S.
+          <lb/>Reipub : Vlmensis... Melchior Jvnivs... — Argentorati
+          <lb/>Bl. 2a: ... Senioribus, Consulibus, Totique Senatui...
+          <lb/>XIV. Cal. Feb; Anno... M. D. XCIII. (Vorrede, 8 S.)
+          <lb/>— Philippus Glaserus... ! Argentinensis profess. Historicus.
+          <lb/>Bl. 6a: AD STVDIOSAM IVVENTVTEM ARGENTINENSEM...
+          <lb/>(6 Dist.) Auf der Rücks. : IN TERTIVM VOLVMEN ORATIONVM...
+          <lb/>MELCHIORIS JVNII, ACADEMIAE Argentinensis Rectoris...
+          <lb/>M. Josephus Langius Caesaremontanus, (40 Verse.)
+          <lb/>PARS QVARTA... MONTEBELGARDI Impensis LAZARI
+          <lb/>ZETZNERI.( M. D. XCV.
+          <lb/>8 unn. Bll,, 598 S.
+          <lb/>Bl. 2a: ... Consulibus totique Senatorio liberae Imperij
+          <lb/>Ciuitatis Wormatiae... MELCHior JVNIVS... — Argentinae
+          <lb/>VIII. Cal. Martij. Anno... M. D. XCV. (Vorrede, 13 S.)
+          <lb/>PARS QVINTA... ARGENTINAE, Sumptibus Lazari Zetz¬
+          <lb/>neri.! CIO ID XCVI.
+          <lb/>8 unn. Bl., wovon die 2 letzten leer, 326 S.
+          <lb/>Bl. 2a:... RAPHAELI LESSCZINIO... MELCHIOR JVNIVS...
+          <lb/>Argentinae. Non. Martij: Anno... M. D. XCVI. (Vorrede, 9 S.)
+          <lb/>PARS SEXTA... ARGENTINAE, Sumptibus Lazari Zetz¬
+          <lb/>neri. 1597.
+          <lb/>8 unn. Bll., 482 S. Vorrede, Zdenkoni Brtniczensi, Baroni à Wal¬
+          <lb/>denstein gewidmet. (9 S.)
+          <lb/>PARS VII... ARGENTINAE Impensis LAZARI ZETZNERI
+          <lb/>CID. ID. HC.
+          <lb/>8 unn. Bll,, wovon das letste leer, 477 S.
+          <lb/>Bl. 2a:... D. CAROLO GVNTHERO: QVATVOR COMITVM in
+          <lb/>SCHWARTZBVRG &amp;amp; HONSTEIN... MELCHIOR JVNIVS... — Argen¬
+          <lb/>tinae XVII. Cal. Septembris. Anno... CIO. ID. HIC. (Vorrede, 98.)
+          <lb/>PARS OCTAVA... ARGENTINAE, Per LAZARVM ZETZNE¬
+          <lb/>RVM Bibliopol. M. DC.
+          <lb/>8 unn. Bll., 580S.
+          <lb/>Bl. 2a:... D. CAROLO, L. BARONI A KITTLITZ... MELCHIOR
+          <lb/>JVNIVS... — Argentinae Cal. Augusti. Anno... M. DC. (Vor¬
+          <lb/>rede, 11 S.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

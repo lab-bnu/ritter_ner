@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:36.594538+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu015.tif
+IMAGE WIDTH: 2386
+IMAGE HEIGHT: 3842
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>seule gravure, le maître avec deux élèves, qui revient dans
+          <lb/>cinq de ses livres, c’est-à-dire dans les quatre éditions de
+          <lb/>l’Exercitium puerorum grammaticale (1494, 1495, 1498 et
+          <lb/>1500) ainsi que dans la Disciplina scholarium du Pseudo¬
+          <lb/>Boëthius, s. d. (Voir; Schreiber-Heitz, Die deutschen
+          <lb/>Accipies und Magister cum discipulis, grav. N° 19 et
+          <lb/>Schramm, vol. 19, N° 10).
+          <lb/>Au seizième siècle il s’était probablement retiré des
+          <lb/>affaires; on le retrouve en 1508 comme représentant de la
+          <lb/>corporation des orfèvres dans le Conseil de la ville. Il
+          <lb/>mourut le 16 août 1517 d’après un ancien document qui
+          <lb/>dit: «Anno domini M. CCCCC. XVII... obiit Georgius Husner,
+          <lb/>impressor librorum, civis Argentinensis.»
+          <lb/>HENRI KNOBLOCHTZER (1473--1484)
+          <lb/>D’après le livre d’immatriculation de l’Université de
+          <lb/>Heidelberg, dans lequel Knoblochtzer *) fut inscrit le
+          <lb/>9 avril 1486 sous le recteur Jeronimus Flor de Heydelberga,
+          <lb/>Knoblochtzer était né à Ettenheym, Argent. dioc. (près
+          <lb/>Fribourg en Br.) On ne connaît presque rien sur sa vie à
+          <lb/>Strasbourg, nous savons seulement qu’il y exploita une
+          <lb/>imprimerie de 1473 à 1483 et qu’il transporta ses presses à
+          <lb/>Heidelberg, où il travailla avec beaucoup de succès de
+          <lb/>1485 environ jusqu’à 1495. Knoblochtzer fut un des premiers
+          <lb/>qui donna un caractère industriel et commercial à l’art
+          <lb/>typographique à Strasbourg et en même temps un des
+          <lb/>premiers, sinon le premier qui apporta plus de soin aux
+          <lb/>illustrations, dont il fit un grand usage. Schramm ne cite
+          <lb/>pas moins de 41 ouvrages à gravures de Knoblochtzer
+          <lb/>durant son séjour à Strasbourg (Voir Schramm XIX,
+          <lb/>N° 11-424), pour la plupart des livres populaires allemands
+          <lb/>comme Belial avec 55 gravures, Burgundische Historie
+          <lb/>8 gravures, Griseldis 10 grav., Buch der h. drei Könige
+          <lb/>58 grav., Hertzog Ernst von Bayern 32 grav., Sieben Meister
+          <lb/>*) Voir: Schorbach, Knoblochtzer p. 1-17.
+          <lb/>XV
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:10.421539+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002341.tif
+IMAGE WIDTH: 2510
+IMAGE HEIGHT: 3950
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Deus, 4 CXXX. De profundis clamavi... Nunc recens in
+          <lb/>lucem aedita. Adiecta est etiam Savonarolae Meditatio
+          <lb/>in Psalmum LI. M.D.XXXVIII. — (Strasbourg, Crato
+          <lb/>Mylius sept. 1538), in-80.
+          <lb/>Bibl. St. Guillaume [éd. Crato Mylius 1539 : Ritter, Rép.
+          <lb/>n° 14471.
+          <lb/>2543
+          <lb/>LUTHER (Psalmi) : In quindecim psalmos graduum commen¬
+          <lb/>tarii, ex praelectionibus D. Martini Lutheri, summa
+          <lb/>fide collecti. M.D.XL. — (Strasbourg, Crato Mylius
+          <lb/>sept. 1540), in-80.
+          <lb/>Bibl. St. Guillaume, Strasbourg. BN Strasbourg R100.843:
+          <lb/>Ritter, Rép. n° 1448).
+          <lb/>2544
+          <lb/>LUTHER (Psalmi) : In quindecim psalmos graduum commen¬
+          <lb/>tarij, ex praelectionibus D. Martini Lutheri, summa
+          <lb/>fide collecti. — (Strasbourg, Crato Mylius mars) 1542,
+          <lb/>in-80.
+          <lb/>Bibl. St. Guillaume, Strasbourg.
+          <lb/>2545
+          <lb/>LUTHER (Psalmi, en allemand) : Auszlegung D. Martin Luthers
+          <lb/>über die fünfzehen Psalmen der Lieder im höhern Chor,
+          <lb/>im Latin genant Psalmi Graduum, verteutscht durch
+          <lb/>Doctor Caspar Hedio. Wittenberg M.D.XLI. A la fin:
+          <lb/>Getruckt zu Straszburg durch Crafft Müllern (Mylius)...
+          <lb/>M. D. XLI, in-40.
+          <lb/>LUTHER (Responsio Christiana) : Christiana &amp;amp; inconsternata
+          <lb/>Responsio Caesareae Maiestati... Wormatiae facta Anno
+          <lb/>M.D.XXI. — (Strasbourg, Martin Flach) 1521, in-4°.
+          <lb/>Dommer, Lutherdrucke, n° 219.
+          <lb/>2547
+          <lb/>LUTHER (De scholis) : De Constituendis scholis Martini
+          <lb/>Lutheri Liber donatus Latinitate. — Haguenau,
+          <lb/>Jean Secer s. d. [vers 1527), in-8°.
+          <lb/>Kuczyński, n° 1852; Burg, n° 265.
+          <lb/>2548
+          <lb/>339
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

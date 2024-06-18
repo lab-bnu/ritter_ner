@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:38.063577+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2393.tif
+IMAGE WIDTH: 2374
+IMAGE HEIGHT: 3822
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>CONSTITUTION
+          <lb/>(Strasbourg), 1568.
+          <lb/>Constitution vnd Ordnung, Eines Löblichen Rhats,
+          <lb/>des Heiligen Römischen Reichs Freyen Statt Straszburg,
+          <lb/>wie das Gottslestern, Flûchen vnd Schweren, in jrer Statt
+          <lb/>vnd Ober- keit abgestellt, vnd gestrafft werden solle.
+          <lb/>Au-dessous, armoiries de la ville de Strasbourg.
+          <lb/>M. D. LXVIII. (Verso blanc.)
+          <lb/>A la fin: Actum &amp;amp; Decretum Sambstags den zwent¬
+          <lb/>zigsten Nouembris,.... Als manzalt, M. D. LXVIIl. Jar.
+          <lb/>In-fol., car. goth., 5 ff. non ch., réclames, init, ornée W.
+          <lb/>fol. A 2a: WJR Wolff Sigmundt Wurm-ser, der Meis¬
+          <lb/>ter, vnd der Rhat zû Strasz-burg, Thûn kundt... —
+          <lb/>R 22/12), Prov.: Collection Heitz, Strasbourg, 1871.
+          <lb/>GPB: BN Berlin, BU Gœttingue.
+          <lb/>582
+          <lb/>CONSTITUTION
+          <lb/>[Strasbourg), 1579.
+          <lb/>Kurtzer Ausszug etlicher der Statt Straszburg Frey¬
+          <lb/>heiten, so hinfüro Jär- lich auff den Zünfften neben an¬
+          <lb/>dern Constitutionen vnd ord- nungen ausz erkandtnusz
+          <lb/>vnserer Herren Rhät vnd Ein vnd Zwentzig den Burgern
+          <lb/>soll für gelesen werden, damit sie sich der selben desto
+          <lb/>besser zù gebrauchen wissen.
+          <lb/>Armoiries de la ville de Strasbourg.
+          <lb/>M. D. LXXIX. (Verso blanc.)
+          <lb/>A la fin: Actum &amp;amp; Decretum Mon-tags den dreyze¬
+          <lb/>henden Julij, im Jar... Ein tausent, fünffhundert, sibent¬
+          <lb/>zig vnd neun.
+          <lb/>In-fol., car. goth., 5 ff. non ch, sign. A, init, ornée W.
+          <lb/>fol. 2a: WJr Hans Philips von Kettenheim der Meys¬
+          <lb/>ter, vnnd der Rhat, sampt vnsern Freunden den Ein
+          <lb/>vnnd Zwentziger, diser Freyen Reichsstatt Straszburg,
+          <lb/>Thun hiemit! kundt...
+          <lb/>R 22/55). Prov. : Collection Heitz, Strasbourg, 1871. A la fin:
+          <lb/>Signature: Hochfelder Subscripsit. Au-dessous: Etliche Freyheiten vom
+          <lb/>Burgerrecht der Statt Straszburg Siehe in dem geschribenen ordnung
+          <lb/>vnndt Mandaten Buch so mit dem Münsterbrief anfangt. sub finem.
+          <lb/>Ein sonderliche Burgerliche Freyheit, so einem jeden Ammeister.
+          <lb/>morgens nach der Churnacht vorgelesen, vnndt in Beinem eydt begriffen
+          <lb/>ist, in der H. H. xv. Buch mit schlechtem pergament also intituliert. Der
+          <lb/>389
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

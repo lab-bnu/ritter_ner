@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:58.566210+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5253.tif
+IMAGE WIDTH: 2406
+IMAGE HEIGHT: 3860
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>XENOCRATES, De morte. Voir : Ficinus, De religione christiana.
+          <lb/>Strasbourg, J. Knobloch, 1507. R 101.3521; n° 838.
+          <lb/>XENOPHON, Dialogus de economia. Voir : FABER Jacobus,
+          <lb/>Artificialis introductio in decem ethicorum libros. Strasbourg,
+          <lb/>J. Grüninger, 1511. R 101.870; n° 831.
+          <lb/>XENOPHON
+          <lb/>Haguenau, Th. Anshelm, 1520
+          <lb/>XENO Il Q0Vτος ’Απολογία Σωκράτους τοὸς τοὺς ιι θ̓ικαgτάς.
+          <lb/>’Aynot)dos] lépoy ? Tvogvvixóg [éd. Reuchlin.
+          <lb/>A la fin: Anno M. D. XX.Hagenoae ex officina Anshel¬
+          <lb/>miana.! Mense Julio.
+          <lb/>In-4°, car. grecs et rom., 30 ff. non ch., sign. A-G, init. à fig. O, N; titre
+          <lb/>encadré.
+          <lb/>Au verso du titre : Iohan. Reuchlin!] Phorcensis, LL, Do !I ctor,
+          <lb/>Johanni Secerio Lauchensi, !] amico Syncero... — Anglopoli Il Pridie
+          <lb/>Id. Apriles. Anno 11 M. D. XX (2 pp.).
+          <lb/>fol. G 5b : ...Jo I] hanni Reuchlin Phorcensi LL. Docto II ri, Johannes
+          <lb/>Secerius Lauchensis....
+          <lb/>R. 101.889. Prov. : W. Rath, Esslingen, 23/VI, 1886; 3 M. 20.
+          <lb/>Proctor II, Sectio I, No 11710 : Londres, British Museum; Brunet Vs,
+          <lb/>1495.
+          <lb/>2503
+          <lb/>XENOPHON
+          <lb/>Strasbourg, W. Rihel, 1553
+          <lb/>Titre grec, puis: Xenophontis Rhetoris in Laudem Agesi
+          <lb/>lai Lacedaemoniorum regis!! Oratio.
+          <lb/>Item eiusdem Autoris Hieron si! ue Tyrannus.
+          <lb/>Argentorati excudebat Vuendeli-nus Rihelius Anno
+          <lb/>M. D. LIII. Verso blanc.
+          <lb/>A la fin: Argentorati excudebat Vuendeli-nus Rihelius.
+          <lb/>Anno. M. D. LIII.
+          <lb/>In-8°, car. grecs, 85 pp. ch., titre courant, réclames, init. à fig. O.
+          <lb/>R. 101.562 (1). Prov. : Bibliothèque du Prof. F. A. Menke à Brême en
+          <lb/>1873 avec l’autographe de Menke, au-dessous 1823.
+          <lb/>2504
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

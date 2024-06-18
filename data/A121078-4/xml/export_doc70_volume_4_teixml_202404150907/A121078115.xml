@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:45.812043+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078115.tif
+IMAGE WIDTH: 2314
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>MELANCHTHON Philippus
+          <lb/>Strasbourg, J. Knobloch 1594
+          <lb/>PHILIPPI MELANCHTHONIS DE RHETO- RCA LIBRI
+          <lb/>TRES. ARGENTORATI ANNO M. D. XXIIII.
+          <lb/>A la fin: ARGENTORATI IN Æ- DIBVS IOANNIS CNOBLOV¬
+          <lb/>CHI TYPOGRA-PHI.MENSE OCTOBRI. ANNO M. D.
+          <lb/>XXIIII.&amp;quot;(Au verso: marque typ. de Knobloch. HEB Planche IV
+          <lb/>n° 2; Silvestre n° 635.)
+          <lb/>In-80, car. ital., 64 ff. non ch., sign. A-H, titre courant, récla¬
+          <lb/>mes, notes marg., init, ornées; titre encadré (H &amp;amp; B. Planche XI n0 9).
+          <lb/>Au verso du titre: Philip. Melanchthon! Bernardo Mauro S.... — Vuit-
+          <lb/>tenbergae in Saxonibus Mense Ianuario. Anno. M. D. XIX. (Epistola nun¬
+          <lb/>cupatoria, 6 pp.)
+          <lb/>*R 101211. Prov.: BN Munich 9/III 4878; 0,50 M. Fol. 9
+          <lb/>manque.
+          <lb/>Manque chez Schmidt.
+          <lb/>1519
+          <lb/>MELANCHTHON Philippus: Annotationes. Voir: CICERO: Offi¬
+          <lb/>cia. Haguenau, J. Secer 1595.
+          <lb/>1001
+          <lb/>MELANCHTHON Philippus. Voir: CICERO: De oratore dialogi
+          <lb/>tres, a Phil. Melan(chthone) passim notis quibusdam illu¬
+          <lb/>strati... Haganoae, J. Secer 1525.
+          <lb/>MELANCHTHON Philippus
+          <lb/>Strasbourg, J. Herwagen 1525
+          <lb/>ANNO- TATIONES PHILIPPI! Melanchthonis in Epistolam
+          <lb/>Pauli ad Romanos unam: Et ad Corinthi os duas, dili¬
+          <lb/>gentissime recognitae. ITEM PRAEFATIO Methodicam Epi¬
+          <lb/>stolam ad Roma. Lutheri.! CVM INDICE AD) calcem Libelli
+          <lb/>addito.! Argentorati. Anno XXV.
+          <lb/>A la fin: ARGENTORATI APVD] IOHANNEM HERVA- GIVM
+          <lb/>MENSE IV- LIO. ANNO! M. D. XXV.
+          <lb/>In-8°, car, ital., 144 ff. ch., 22 ff. non ch. (Praefatio Methodica
+          <lb/>et table), titre courant, réclames, init. à fig., titre encadré.
+          <lb/>Au verso du titre: (Bande d’ornement.) Martinus! Luther Philippo
+          <lb/>Me- lanchthoni... — Vittenbergae! Vicesima Nona Iulii Anno! M. D. XXII.
+          <lb/>R 100.446. Prov.: Don du curé Rommel à Hofgeismar 1871.
+          <lb/>1520
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

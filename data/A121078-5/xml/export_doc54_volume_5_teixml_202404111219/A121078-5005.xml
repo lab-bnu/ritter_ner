@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:48.811734+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5005.tif
+IMAGE WIDTH: 2382
+IMAGE HEIGHT: 3882
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>SABELLICUS Marcus Antonius Coccius
+          <lb/>Strasbourg, M. Schürer, 1509
+          <lb/>Marci Antonii Coccii Sabel lici Exemplorum Libri
+          <lb/>Decem, Ordine Ele gantia et Utilitate Prae stantissimi,
+          <lb/>G. B. C. (6 dist.)
+          <lb/>Ad Christianae Pietatis Augmentum et Decus. (Verso
+          <lb/>blanc.)
+          <lb/>A la fin : Hos decem... libros, nouissima foetura editos,
+          <lb/>Matthias Schürerius Heluetensis, stamneis usus calamis,
+          <lb/>Argentoraci oppido quam emendate ! exscripsit. viij. Calend.
+          <lb/>April. AnnoM. D. VIII. DN. Imp. Caes. Maximiliano
+          <lb/>Austrio P. F. Aug. Ro. Imperii Sum mam obtinente.
+          <lb/>Marque typ. de Mathias Schürer. (H. &amp;amp; B., Planche XII,
+          <lb/>No 1; Silvestre, No 1237). En plus sous l’écusson les lettres :
+          <lb/>S. P. O. S. ; à gauche les mots Pietatem Cole, à droite Tempus
+          <lb/>Obserua. Au-dessous : M. S. A. D. (— Mathias Schürer Artium
+          <lb/>Doctor.)
+          <lb/>In-fol., car. rom., 4 ff. non ch., CI ff. ch. et non 150 comme dit Schmidt
+          <lb/>(VIII, n° 16) ; titre courant, notes marg., init. d’attente.
+          <lb/>fol. 2a non ch. : Beatus Rhenanus, Ioanni Francisco! Apezonibus
+          <lb/>Mirandulano... — Helueti. Pridie Calend. Ianuar. An. M. D. VIII.
+          <lb/>Au verso : Dominicus Palladius Soranus, suo !! Io. Baptistae Egnatio
+          <lb/>11 Veneto. (6 dist.).
+          <lb/>fol. 3a non ch. : Ioannes Baptista Egnatius Venetus, Leonardo Lau¬
+          <lb/>rentano!! Serenissimo Venetiarum Principi... — Vale &amp;amp; Sabellici vitam
+          <lb/>paulopost edendam Petro Georgio Chalcedonio auctore contu- bernali
+          <lb/>meo probissimo felix expecta.
+          <lb/>fol. 4a non ch. : Index à 2 col.
+          <lb/>fol. 101a : Io. Baptista Egnatius Venetus [] ad Lectorem.
+          <lb/>R. 10.227. Prov. : BN Munich, 26/xI, 1878; 2 M.
+          <lb/>Annotations mss. à la marge des pages.
+          <lb/>R. 83
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

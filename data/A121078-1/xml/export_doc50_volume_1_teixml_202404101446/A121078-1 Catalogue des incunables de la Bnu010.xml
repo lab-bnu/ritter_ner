@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:36.510648+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu010.tif
+IMAGE WIDTH: 2386
+IMAGE HEIGHT: 3842
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Il me reste à dire un mot des imprimeurs, dont les
+          <lb/>publications sont énumérées dans les pages suivantes. Faute
+          <lb/>de place je ne puis donner ici qu’un court résumé et ren¬
+          <lb/>voyer pour le reste aux nombreux traités qui existent déjà
+          <lb/>sur l’imprimerie alsacienne du XVe siècle, entre autres
+          <lb/>Schmidt, Voulliéme, Schorbach, Stieda, Stehlin.
+          <lb/>JEAN MENTELIN (1458-1478)
+          <lb/>Mentelin est né à Sélestat vers l’an 1410. Quand il vint
+          <lb/>à Strasbourg, il était simple scriba aurarius. Il y obtint le
+          <lb/>droit de bourgeoisie en 1447.; l’évêque Ruprecht le fit
+          <lb/>notaire, emploi qu’il garda jusqu’en 1468. On ne sait rien de
+          <lb/>certain sur son apprentissage dans l’imprimerie, on a pré¬
+          <lb/>tendu qu’il l’avait apprise chez Gutemberg, qu’il était en
+          <lb/>relation avec celui-ci durant son séjour à Strasbourg,
+          <lb/>qu’il avait même été son associé et qu’il avait été quelque
+          <lb/>temps chez lui à Mayence, mais ce ne sont que des hypo¬
+          <lb/>thèses plus ou moins invraisemblables. Schorbach qui
+          <lb/>s’étend tout au long sur ces hypothèses dans sa biogra¬
+          <lb/>phie de Mentelin, résume le tout dans la conclusion sui¬
+          <lb/>vante: «Mag nun Mentelin die neue Kunst unmittelbar
+          <lb/>durch ihn (Gutemberg) oder mittelbar bekommen haben,
+          <lb/>soviel ist gewiss, und aus Mentelins ältesten Presserzeug¬
+          <lb/>nissen klar ersichtlich, dass seine Technik auf der aus¬
+          <lb/>gebildeten Druckerpraxis von Gutenbergs Mainzer Werk¬
+          <lb/>statt fusst», c’est-à-dire que les presses de Mentelin se
+          <lb/>basent sur celles de Gutemberg à Mayence. Mentelin avait
+          <lb/>son officine dans la maison «Zum Thiergarten» sur le
+          <lb/>Fronhoff tandis qu’il demeurait avec sa famille dans la rue
+          <lb/>de l’Epine. Le premier grand ouvrage qui sortit de sa presse
+          <lb/>est la Bible latine à 49 lignes qu’il aurait commencée d’après
+          <lb/>Schorbach en 1458, ce qui concorde avec le témoignage de
+          <lb/>la Chronique des Souverains Pontifs de Lignamine (Romae
+          <lb/>1474) d’après lequel, dans l’année 1458 Mentelin imprimait
+          <lb/>par jour «300 chartas». Le premier volume de la Bible
+          <lb/>était en tout cas terminé en 1460, car l’exemplaire du
+          <lb/>X
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

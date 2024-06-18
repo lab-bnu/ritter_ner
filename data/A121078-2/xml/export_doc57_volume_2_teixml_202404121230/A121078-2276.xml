@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:34.759800+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2276.tif
+IMAGE WIDTH: 2294
+IMAGE HEIGHT: 3820
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>272
+          <lb/>In-8°, car. ital., 8 ff. non ch, 54 ff. ch., titre courant, réclames
+          <lb/>notes marginales, initiales d’attente et initiale ornée I.
+          <lb/>fol. A 2a non ch.: PRAEFATIO IOANNIS CAL-uini ad ami¬
+          <lb/>cum quendam.. — Aureliae.! M. D. XXXIIII. (Préface de 6 p.)
+          <lb/>fol. A 5a non ch.: LECTORIBVS.... — Ba-sileae.
+          <lb/>M. D. XXXVI. (Préface de 6 p. et demie.)
+          <lb/>R101.760. Prov.: Bibliothèque Reuss, 1887.
+          <lb/>GPB. Berlin BN, Gœttingue RU.
+          <lb/>Calvin, Opera Vol. V, Proll. p. XXXVII.
+          <lb/>Brunet 15, col. 1506: L’édition de Strasbourg 1545, pet. in-8°,
+          <lb/>porte ces mots ajoutés (à l’édition de Paris 1534): Libellus ante septem
+          <lb/>annos compositus, nunc tamen primum in lucem editus. 19 fr. en juin
+          <lb/>410
+          <lb/>1860.
+          <lb/>CALVIN Johannes
+          <lb/>Strasbourg, W. Rihel, 1546.
+          <lb/>BREVIS! INSTRVCTIO MV- NIENDIS FIDELIBVS ad uersus
+          <lb/>errores sectae Anabap-] tistarum.
+          <lb/>ITEM, ADVERSVS FANA-]TICAM ET FVRIOSAM SEC-I tam
+          <lb/>Libertinorum, qui se spiritua- les uocant. Authore Iohanne
+          <lb/>Caluino. NUNC PRIMVM E GALLICO] uersa Latinè per Nico¬
+          <lb/>laum Gal- lasium.
+          <lb/>ARGENTORATI PER WEN- delinum Rihelium. Anno
+          <lb/>M. D. XLVI. (Verso blanc.)
+          <lb/>A la fin: Argentorati per Wende-inum Rihelium.
+          <lb/>Anno M. D. XLVI. Au verso marque typ. de W. Rihel. (HEB,
+          <lb/>Planche XXIX, No 3, Sulvestre No 760).
+          <lb/>In-80, car, ital., 140 ff. ch., titre courant, réclames, init, ornées;
+          <lb/>avant le titre 6, et à la fin 20 ff. blancs.
+          <lb/>fol. 1a: ILLVSTRI VIRO IA- COBO A BVRGVNDIA FALE¬
+          <lb/>SII BREDAMQVE DOMINO NICOLAVS GALLA- SIVS. S.... —
+          <lb/>Idibus! Mart. M. D. XLVI. (6 p.)
+          <lb/>R 100.837. Prov, : Bibliothèque Reuss, 1887. Au recto du ter f.
+          <lb/>de garde: Exstant præter hoc nostrum tria tantum exemplaria. Ed. Reuss.
+          <lb/>Calvin, Opera Vol. VII, Proll, p. XXV.
+          <lb/>411
+          <lb/>CALVIN
+          <lb/>Mulhouse, P. Schmid, 1559.
+          <lb/>Von dem Heiligthumb! Joannis Calui-ni vermanung,
+          <lb/>in welcher an-gt wirt, wie es zû gemeinem nutz
+          <lb/>gan! tzer Christenheit so gar dienstlich we-re, daz der
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

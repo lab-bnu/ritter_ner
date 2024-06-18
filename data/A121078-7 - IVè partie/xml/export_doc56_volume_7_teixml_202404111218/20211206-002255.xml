@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:08.280029+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002255.tif
+IMAGE WIDTH: 2504
+IMAGE HEIGHT: 4002
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Böcking, XXXVII, 2; Graesse III, 400; Goedeke II2, p. 232,
+          <lb/>n° 36; Schmidt II, n° 61; Walter, n° 1578; Hohenemser 2758,
+          <lb/>Neufforge, p. 378; H. Grimm, Alt-französische Buchschätze,
+          <lb/>p. 52, n° 30; Benzing, Hutten n° 174 : B M Augsbourg,
+          <lb/>B U Erlangen, Jena, etc. B N Strasbourg, St. Gall, Bibl.
+          <lb/>Vadiana; Vienne.
+          <lb/>2090
+          <lb/>HUTTEN, Ulr. (Anzöig) : Herr Wlrichs von Hutten anzöig... —
+          <lb/>(Strasbourg, Jean Schott avant le 9.IV.1521), in-4°.
+          <lb/>(Comme l’éd. (Ritter, Rép, n° 1223) avant le 9-IV-1521, mais
+          <lb/>indiquant à la fin 3 fautes d’impression). Böcking XXXV, 2
+          <lb/>Benzing, Hutten, n° 163 : B M Augsbourg, B N Strasbourg,
+          <lb/>Vienne, Wolfenbüttel et autres.
+          <lb/>2091
+          <lb/>HUTTEN, Ulr. (Aula) : Aula Dialogus... — Strasbourg,
+          <lb/>Th. Montanus (Berger) 1559, in-8°.
+          <lb/>Benzing : Hutten, n° 80: B U Fribourg, L B Wiesbaden,
+          <lb/>Böcking XVII, 8.
+          <lb/>2092
+          <lb/>HUTTEN, Ulr. (Babel) : Das ist der hoch thuren Babel, id est
+          <lb/>Confusio Pape darinn Doctor Luther gefangen ist. —
+          <lb/>(Strasbourg, Mathias Schürer 1521), in-4°. (A la suite de
+          <lb/>Römer, Johannesl.
+          <lb/>Böcking IX c., Kuczynski 1037 ; Panzer, Deutsche Annalen
+          <lb/>1175; Schmidt VIII, n° 266; Benzing: Hutten, n° 46: BMU
+          <lb/>Francfort-s.-M., B M Colmar; Rotenburg o. T.
+          <lb/>2093
+          <lb/>HUTTEN, Ulr. (Bulla Leonis X) : Bulla Decimi Leonis contra
+          <lb/>errores M. Lutheri... — (Strasbourg, Jean Schott avant
+          <lb/>le 8.XI.1520), in-4°.
+          <lb/>Böcking, XXXII, 1; Schmidt II, Supplément, p. 10, n° 5;
+          <lb/>Panzer 9, 124, 166, Proctor 10.290; British Museum, Londres.
+          <lb/>Kuczynski 2921 a; Zeitschr. f. Bücherfreunde NF 9 (1917/8),
+          <lb/>p. 208, n° 17 ; Benzing, Hutten, n° 222 : B M Augsbourg,
+          <lb/>B U Jena, Brit. Mus. Londres, B N Strasbourg, Vienne, etc.
+          <lb/>2094
+          <lb/>HUTTEN, Ulr. (Bulla Leonis X) : Bulla Decimi Leonis, Contra
+          <lb/>253
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

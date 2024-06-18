@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:14.286403+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3438.tif
+IMAGE WIDTH: 2426
+IMAGE HEIGHT: 3852
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>880
+          <lb/>KIRCHENORDNUNG
+          <lb/>Strassburg 1571
+          <lb/>Kirchenordnung der Graue vnd Herr-schafften
+          <lb/>Mümpelgart vnnd Reichen-weiler, auch wie es derselben
+          <lb/>anhangenden sa- chen vnd verrichtungen, mit verleihung
+          <lb/>Gött- licher genaden, hinfüro gehalten vnd volnzogen
+          <lb/>werden! soll.
+          <lb/>Getruckt zû Straszburg. M. D. LXXI. (Rücks, leer.)
+          <lb/>Init., Titel rot u. schwarz.
+          <lb/>40, Got., 4 unn., 149 num., 2 unn. Bll. (Register), Kopft., Kust.,
+          <lb/>Bl. A 2a: Vorrede, (4 S.).
+          <lb/>R101.963. Prov.: Bibl. Heitz, Strassburg 1871.
+          <lb/>Stadtbibl. Kolmar.
+          <lb/>1309
+          <lb/>KIRCHENORDNUNG
+          <lb/>Strassburg, Chr. Müller 1573
+          <lb/>Kirchenordnung, Wie es mit der Lehr vnd Cere¬
+          <lb/>monien, in der Graffschafft Ha-naw vnd Herrschafft
+          <lb/>Lichtenberg, sol gehalten werden. (Wappen des Hauses Hanau¬
+          <lb/>Lichtenberg.)
+          <lb/>Am Schluss: Getruckt zû Straszburg, durch! Christian
+          <lb/>Müller CK Anno. M. D. LXXIII, Daräber Druckerm. Christian
+          <lb/>Müller&amp;#x27;s. (HEB Tafel XXVIII Nr. 2.)
+          <lb/>40, Got., 4 unn., 83 num, u. 2 unn. Bll., Kopft., Kust., Init.
+          <lb/>Bl. 2a: Vorrede. Wir Philips Graf zû Hanawvnd
+          <lb/>Herr z0̂ Liech- tenberg, etc. der Elter, Entbieten! allen
+          <lb/>vnd jeden vnsern Pfarherren, Predigern, vnd! Kirchen¬
+          <lb/>dienern, vnser gnad... Datum! Buchsweiler den l. Sep¬
+          <lb/>temb. Als man zalt von! Christi... Ge-burt, fünffzehen
+          <lb/>hundert sieben- tzig vnd zwey! Jar. (2 S.)
+          <lb/>Bl. 3a: Vorrede. (3 S.)
+          <lb/>R102.401. Prov.: K. Th. Völcker, Frankfurt a. M. 16. XI. 1888;
+          <lb/>8 M. Handschr. Bemerkungen.
+          <lb/>1310
+          <lb/>KIRCHENORDNUNG
+          <lb/>Strassburg, J. Martin 1598
+          <lb/>Kirchenordnung... (Siehe Titelblatt, S. 884.)
+          <lb/>40, Got. u. Kursiv, 4 unn. Bll., 375 S., Kopft., Kust., Marg.,
+          <lb/>Init., Titel rot u. schuarz, Vign.
+          <lb/>Bl. A 2a: Vorrede. WYr Georg Ja- cob Bock von
+          <lb/>Erlen- burg, Der Meister vnd der Rhat... der Freyen
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:12.782110+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002437.tif
+IMAGE WIDTH: 2516
+IMAGE HEIGHT: 3966
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>RABUS, Lud. : Ein Kurtze... Predig von notwendigem und
+          <lb/>einfältigem verstandt der Sechs Hauptstück unsers
+          <lb/>Christlichen Catechismi... in Truck erstlich auszgangen.
+          <lb/>— Strasbourg, Cristian Müller (Mylius) 1560, in-8°.
+          <lb/>Bibl. S. Guillaume, Strasbourg.
+          <lb/>3064
+          <lb/>RABUS, Lud. : Historia de S. Abele Ecclesiae militantis in
+          <lb/>veteri testamento Protomartyre... Anno M.D.LXVIII.
+          <lb/>— Strasbourg, Samuel Emmel 1568, in-8°.
+          <lb/>Bibl. S. Guillaume, Strasbourg.
+          <lb/>3065
+          <lb/>RABUS, Melch. Voir: Cassianus, n° 1301.
+          <lb/>RAETERSCH. Voir : RAETSELBUCH, n° 3067.
+          <lb/>RAETSELBUCH : Wölchem an kürtzweill thet zerrinden. Mag
+          <lb/>wol disz büchlein durchgrynden. Er findt darin vill
+          <lb/>kluger ler. Vol Rettelsch gedicht und vill nüwer mer. —
+          <lb/>(Strasbourg, (Mathias Hupfuff vers 1505), in-4°.  BN
+          <lb/>Strasbourg R. 100.195 : Ritter, Rép. n° 1972l.
+          <lb/>Schmidt V, n° 42; publié de nouveau, Strasbourg 1876, in-8°.
+          <lb/>Voir auss: Centralblatt VII, p. 518, nos 32 et 35. 3066
+          <lb/>RAETSELBUCH : Rätersch. — (Strasbourg, Mathias Hupfuff
+          <lb/>1515), in-4°.
+          <lb/>Centralblatt f. Bibliothekswesen VII, p. 518, n° 30; Schmidt
+          <lb/>V, n° 133a. — Wolfenbüttel (titre manque).
+          <lb/>3067
+          <lb/>RAETSELBUCH : Wölchem an kurtzweil thet zerrinnen. Mag
+          <lb/>wol dis Büchlin durchgründen... — Strasbourg, Mathias
+          <lb/>Hupfuff 1522, in-40.
+          <lb/>Graesse VI, p. 17. [Une éd. de Prüss 1519 : Ritter, Rép.
+          <lb/>n° 1973).
+          <lb/>3068
+          <lb/>RAETSELBUCH : Rätterbüchlin. — Strasbourg, Thiébaud
+          <lb/>Berger s. d., in-8°.
+          <lb/>Graesse VI, p. 17.
+          <lb/>3069
+          <lb/>435
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

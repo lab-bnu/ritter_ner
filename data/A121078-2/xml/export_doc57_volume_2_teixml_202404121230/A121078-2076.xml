@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:28.365221+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2076.tif
+IMAGE WIDTH: 2346
+IMAGE HEIGHT: 3822
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>72
+          <lb/>BALDUS Elias
+          <lb/>Strasbourg, 1592.
+          <lb/>Straszburgischer Augu- stus. Oder, Beschreibungen
+          <lb/>desz Jhenigen, so sich in dem Straszbur-gischen Kriegs¬
+          <lb/>wesen, beedes ausser vnnd inner ! der Statt, zwischen
+          <lb/>den Straszburgern dem! New postulierteñ Bischoff von
+          <lb/>Brandenburg, Brüderhöfischen, vnd dem Cardinal von Lot¬
+          <lb/>ringen, von dem 26. Julj an, den Monat Au- gustj hin¬
+          <lb/>durch, nach dem Newen Kalender zu rechnen, dises 1592.
+          <lb/>Jahrs, Denckwürdiges! begeben vnd verlauffen! hat.
+          <lb/>Ausz Glaubwürdigen Schrifften, so nicht allein von
+          <lb/>Straszburg, sondern auch ausz andern Orthen, an vnder¬
+          <lb/>schidliche Herren vnnd Gûte! Freund geschriben worden,
+          <lb/>Trewlich, ohne einichen Affect, zusamen gelesen,! Durch
+          <lb/>Eliam Baldum Freystadiensem, vnnd in den Truck ver¬
+          <lb/>fertigt. [ ANNO M. DXCII.
+          <lb/>In-4°, car. goth., 6 ff. non ch., sign. A, réclames.
+          <lb/>Les caractères des 4 premiers ff. sont beaucoup plus grands que
+          <lb/>ceux des deux derniers.
+          <lb/>R. 102.250. Prov.: Noiriel, Strasbourg, 8. 10. 1882, 10M.
+          <lb/>126
+          <lb/>BAPTISTA Mantuanus
+          <lb/>Strasbourg, J. Schott, 1501.
+          <lb/>Baptistae Mantuani Poetae Ora- torisque clarissimi
+          <lb/>duarum Par! thenicum libri: cum commenta-[rio Sebas¬
+          <lb/>tiani Murrhonis Ger-! mani Colmariensis : Hebraicae
+          <lb/>Graecae Latinaeque linguarum inter- praetis doctissimi.
+          <lb/>In Parthenices Bapistia- nas Sebastiani Brant! Ilavn¬
+          <lb/>yoguxóv. (5 distiques, dont le dernier: Dispeream: si non mox
+          <lb/>sint placitura: JoannesQuae Schottus nuper presserat
+          <lb/>aere. Vale.
+          <lb/>A la fin: Impressum Argentinae quin to Kalendas Sep¬
+          <lb/>tembres. Anno! Christi M. CCCCCI. Suivent au verso 3 dis¬
+          <lb/>tiques: In liuidulum Exasticon; au-dessous, marque typ. de J. Schott,
+          <lb/>(H&amp;amp; B Planche II, No 2; Silvestre No 593).
+          <lb/>In-49, car. rom., 12 ff. non ch. (sign. a-b), les deux Parthenicae
+          <lb/>avec pagination à part, la première avec CXXII ff. ch. (sign. A-S.),
+          <lb/>la deuxième avec LXXII ff. ch. (sign. A A-XX); fol. 72b: 5 distiques:
+          <lb/>Joannis Gallinarij Liberalium arcium! Magistri Decatosticon
+          <lb/>in Impresso-rem Parthenicum Baptistae Mantuani, (Suivent
+          <lb/>10 ff. non ch. avec une épître de Wimpheling et Carmen de Bapt.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

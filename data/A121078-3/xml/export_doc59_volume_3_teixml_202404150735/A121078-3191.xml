@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:07.965624+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3191.tif
+IMAGE WIDTH: 2324
+IMAGE HEIGHT: 3852
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>635
+          <lb/>R100433. Prov.: Frid. Hennequin, Decanus et officialis Cron¬
+          <lb/>wissenburgensis. Walter : Schlettstadt Nr. 1365 bemerkt, dass sich im
+          <lb/>Schlettstadter Ex. die Druckerm. Setzer&amp;#x27;s befindet: dieselbe befindet sich
+          <lb/>nicht in meinem Ex., das jedoch vollstandig ist.
+          <lb/>Stadtbibl. Kolmar a. Schlettstadt.
+          <lb/>GK: SB Berlin, UB Bonn, Breslau, Göttingen, Halle.
+          <lb/>BN Paris M 4200; Beaulieux S. 144: BU Paris Rés. 862.
+          <lb/>Baer, Frankfurt a. M., Katal, 500 (1907) Nr. 1363, 75 M., Voll¬
+          <lb/>ständiges Exemplar mit den 3 Stammtafeln in Querfolio, die mit Porträts
+          <lb/>und Holzschnittleisten geziert sind. Die Holzschnitte sind, obwohl nicht
+          <lb/>von Röttiger erwähnt, teilweise von der Hand des Hans Weiditz, der da¬
+          <lb/>mals für Secer arbeitete.&amp;quot;
+          <lb/>945
+          <lb/>GEGENERKLARUNG
+          <lb/>Strassburg 1592
+          <lb/>DES Heiligen Reichs Freyen Statt Straszburg Gegen¬
+          <lb/>erklärung, mit warhaffter gründt-lichen Widerlegung;
+          <lb/>Der beiden Erklärungs Schrifften, So derHochwürdigst,
+          <lb/>Durchleuchtigst, Hochgeboren Fürst vnd Herr, Herr Ca¬
+          <lb/>rolus der Röm: Kirchen Cardinal, Hertzog zu Lottringen,
+          <lb/>Bischoff von Metz, &amp;amp;e. Vnd! Herr Frantz Freyherr zu
+          <lb/>Kriechingen, &amp;amp;c.zum theyl wider sie in Truck ausz¬
+          <lb/>gehn lassen:Mit angehengter kurtzen erzehlung etlicher
+          <lb/>in gegenwer- tigem Kriegswesen verlauffenen Thaten vnnd
+          <lb/>Handlungen, zu! erinnerung vnd warnung aller redlichen
+          <lb/>Teutschen. (Vign.)
+          <lb/>Getruckt zu Straszburg, Anno 1592. (Rücks. leer.)
+          <lb/>40, Got., 82 unn. Bll., Sign. A-X, Kust., Marg., Init.
+          <lb/>R 102.252. Prov.: Bibl. Heitz, Strassburg 1871.
+          <lb/>Stadtbibl. Kolmar u. Strassburg.
+          <lb/>GK: SB Berlin, UB Gôttingen.
+          <lb/>946
+          <lb/>GEILER Johannes
+          <lb/>Strassburg, Joh. Knobloch 1506
+          <lb/>PASSIONIS CHRISTI VNVM ex quattuor euangeli- stis
+          <lb/>textum. (Akrostikon; die Anfangsbuchstaben der 10 lat. Verse ergeben:
+          <lb/>Mors Christi, die Endbuchstaben: Vita nostra.)
+          <lb/>Ringmannus Philesius ad lec.
+          <lb/>Bl. D 6b: Ioannes Knoblouchus imprimebat Argen¬
+          <lb/>tinensis.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

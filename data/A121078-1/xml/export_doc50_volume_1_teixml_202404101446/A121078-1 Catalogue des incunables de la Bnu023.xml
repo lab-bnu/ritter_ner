@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:36.715040+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu023.tif
+IMAGE WIDTH: 2384
+IMAGE HEIGHT: 3840
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1500 et l’Epitome de mensuris syllabarum de Pierre Schott
+          <lb/>(1500).
+          <lb/>Jean Schott appartient principalement au 16e siècle.
+          <lb/>Il acquit très vite une grande renommée et c’est alors «qu’il
+          <lb/>adopta les armoiries de son grand père, l’imprimeur Jean
+          <lb/>Mentelin, pour attester sa dépendance du célèbre impri¬
+          <lb/>meur, qu’il qualifia, ne connaissant pas l’histoire vraie, de
+          <lb/>premier inventeur de l’art typographique» *). Il était encore
+          <lb/>en vie en 1545. Schmidt cite 145 ouvrages sortis des presses
+          <lb/>de Schott, auxquels viennent encore s’ajouter 32 numéros
+          <lb/>signalés dans le supplément du vol. Il du Répertoire de
+          <lb/>Schmidt, publié en 1910 par S. H. Scott.
+          <lb/>MATHIAS BRANT (1495-1500)
+          <lb/>dont la tradition prétend qu’il a été le frère du célèbre
+          <lb/>Sébastien Brant, ce qui n’est pas prouvé, avait sa presse
+          <lb/>dans la maison «Zum Rosengarten am Weinmarkt». Il n’a
+          <lb/>presque rien imprimé de sorte qu’on admet généralement
+          <lb/>que l’imprimerie n’était pour lui qu’une occupation secon¬
+          <lb/>daire. Nous connaissons de lui le Regimen Sanitatis (1500)
+          <lb/>avec une gravure empruntée au «Pestbuch» de Brunschwig
+          <lb/>imprimé par Grüninger en 1500 et la «Medulla Elegantia¬
+          <lb/>rum» de Wimpheling. Schorbach**) lui attribue en outre
+          <lb/>l’Histoire du Chevalier Behringer (1495) et le «Hiltebrants¬
+          <lb/>Lied» qui ont tous les deux la même gravure (Schramm,
+          <lb/>vol. XX. N° 2298).
+          <lb/>MATHIAS HUPFUFF (1498-1520)
+          <lb/>était d’origine Wurtembergeoise. Nous ne le rencontrons à
+          <lb/>Strasbourg qu’en 1498. D’après Voulliéme il aurait été
+          <lb/>l’année auparavant à Kirchheim en Alsace (— Neu (Klein)
+          <lb/>*) Schmidt, Répertoire Vol. II, p. VIII.
+          <lb/>*4) Schorbach Karl, Seltene Drucke N° 1. Leipzig, M. Spir¬
+          <lb/>gatis 1893. in-8°.
+          <lb/>XXIII
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

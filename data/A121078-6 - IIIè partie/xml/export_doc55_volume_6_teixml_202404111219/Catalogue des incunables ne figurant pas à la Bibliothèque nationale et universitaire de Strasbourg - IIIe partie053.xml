@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:05.946858+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie053.tif
+IMAGE WIDTH: 2484
+IMAGE HEIGHT: 3908
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>GUILLAUME d’Auvergne. Voir : GUILELMUS Parisiensis.
+          <lb/>HAGENBACH, Peter. Voir : HISTORIE von Peter Hagenbach
+          <lb/>n° 334.
+          <lb/>HARFEN (die 24 goldenen). Voir : NIDER, Joh, n° 528.
+          <lb/>HARTLIEB, Johann. Voir: ALEXANDER Magnus no 27;
+          <lb/>ANDREAS Capellanus n° 74, OviDiUs n° 539.
+          <lb/>HARTMANN, Andreas von Eppingen. Voir : SIXTUS IV (pape)
+          <lb/>n° 625.
+          <lb/>HASSIA, Henricus de : Contra deceptationes fratrum mendi¬
+          <lb/>cantium de conceptione beatae Mariae. — Strasbourg
+          <lb/>1500, in-40.
+          <lb/>Hain 8404.
+          <lb/>317
+          <lb/>HAUSORDNUNG aus Raimundo und andern Büchern gezogen.
+          <lb/>— (Strasbourg, Henri Knoblochtzer (?) s. d.], in-4°.
+          <lb/>Hain 8408; Proctor 769.
+          <lb/>318
+          <lb/>HELDENBUCH: Hie fahet an das Heldenbuch, das man nennet
+          <lb/>den wolff dieterich. — (Strasbourg, Jean Prüss s. d.],
+          <lb/>in-fol.
+          <lb/>Copinger II, 2905, Kristeller 83; Schmidt III, n° 2; Voulliéme:
+          <lb/>Berlin 2377.
+          <lb/>319
+          <lb/>HELLIAE, Petrus : Grammatica cum commento Joh. Sommer¬
+          <lb/>feld. — [Strasbourg, Martin Flach, 9. IV. 14991; in-40.
+          <lb/>Hain 8422; Schmidt VI, p. 14, n° 70; Madsen 1901. —
+          <lb/>BN Munich.
+          <lb/>320
+          <lb/>HEMMERLIN, Felix: Variae oblectationis opuscula et tractatus.
+          <lb/>— (Strasbourg, impr. du Jordanus — Georges Husner
+          <lb/>après le 14 août 1497), in-fol.
+          <lb/>Hain 8424, Proctor 482, Voulliéme : Berlin 2322; Rosenthal
+          <lb/>(Munich), Catal. 135 (1915), n° 1081 ; 200 M. Madsen 1903
+          <lb/>51
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

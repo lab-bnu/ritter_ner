@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:12.867826+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002443.tif
+IMAGE WIDTH: 2496
+IMAGE HEIGHT: 4006
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>REISCH, Gregorius : Margarita philosophica nova... —
+          <lb/>Strasbourg 1512, in-4°.
+          <lb/>Paris : Bibl. Nat. 2 ex. : Rés. R810 et 811.
+          <lb/>3094
+          <lb/>REISE (Vartomanns). Voir: HERR, Michael, nos 1999, 2.000.
+          <lb/>RELMISIUS, Georgius : Hexastichon Sebastiani Brant in
+          <lb/>memorabiles evangelistarum figuras. Jodoci Galli Rubea¬
+          <lb/>quensis Hexastichon. — Georgii Relmisii Anipimii ad
+          <lb/>lectorem Tetrastichon. — [Haguenau (?)), Thomas
+          <lb/>Anshelm 1502, in-4°.
+          <lb/>Walter, n° 2129.
+          <lb/>3095
+          <lb/>REUCHLIN, Johannes : Scenica Progymnasmata : Hoc est:
+          <lb/>Ludicra preexercitamenta. — Strasbourg, s. d. (1513 ?1,
+          <lb/>in-40.
+          <lb/>Goedeke 12, p. 414, n° 5 (c) ; Bahlmann, p. 21, n° 13. 3096
+          <lb/>REUCHLIN, Johannes : Vocabularius breviloquus cum arte
+          <lb/>diphtongandi, punctuandi et accentuandi. — (Strasbourg,
+          <lb/>(Jean Prüss) 7.1X.1504), in-4°.
+          <lb/>Schmidt III, n° 44; Proctor 10.002 met G. Husner comme
+          <lb/>imprimeur. B N Strasbourg R 102.106 : Ritter, Rép. n° 1990;
+          <lb/>une éd. de Prüss 1501 : Rép. n° 1991).
+          <lb/>3097
+          <lb/>REUCHLIN, Joh. : De arte cabalistica libri tres... — (Haguenau,
+          <lb/>Jean Secer 1530), in-fol.
+          <lb/>Burg, n° 396.
+          <lb/>3097a
+          <lb/>REUCHLIN. Voir: EPISTOLAE Trium illustrium virorum,
+          <lb/>n° 1557a; HUTTEN (Triumphus), n° 2113.
+          <lb/>(Voir aussi : Ritter, Rép. nos 1990-1994).
+          <lb/>REUSNER, Joh. : Elementorum artis Dialecticae libri quatuor.
+          <lb/>Pro scholis Lavinganis et Hornbachianis. — Strasbourg,
+          <lb/>Nicolas Wyriot 1578, in-80,
+          <lb/>Schottenloher 52.108.
+          <lb/>3098
+          <lb/>441
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

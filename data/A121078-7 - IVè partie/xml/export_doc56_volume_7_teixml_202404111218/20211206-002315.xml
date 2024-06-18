@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:09.768908+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002315.tif
+IMAGE WIDTH: 2504
+IMAGE HEIGHT: 4008
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Heitz, p. 29; Wackernagel III, 531 et III, 1020: Wiedertäufer¬
+          <lb/>lied.
+          <lb/>2399
+          <lb/>LIEDER (Drei schöne neue) : Drey schöne newe Lieder. Das
+          <lb/>erst, von dem Heydnischen frewlein und der Hochzeit
+          <lb/>zu Cana Golilea. Jesus kam in ein Tempel eingegangen...
+          <lb/>Das ander, Ein schön Frawen lob. Ich kumm daher ich
+          <lb/>sing zu lob den Frawen schon... Das dritt Lied, Der
+          <lb/>gnaden brunn thut fliessen... (grav.). — (Strasbourg,
+          <lb/>Th. Berger s. d.), in-8°.
+          <lb/>Heitz, p. 49; Wackernagel III, 1292.
+          <lb/>2400
+          <lb/>LIEDER (Drei schöne neue) : Drey schöne newe Lieder. Das
+          <lb/>erst, von der Statt Magdeburg... Das ander, Ein klaglied
+          <lb/>der Hochgebornen Frawen Sybillen Hertzogin von
+          <lb/>Sachsen... Das dritt ein klaglied, von der statt
+          <lb/>Magdeburg... — (Strasbourg, Th. Berger vers 1571),
+          <lb/>in-80.
+          <lb/>Vogeleis, p. 317.
+          <lb/>2401
+          <lb/>LIEDER (Drei schöne neue) : Drey schöne neüwe Lieder.
+          <lb/>Das erst, Ein hüpsche Tagweisz von einem trauwen
+          <lb/>Wächter... Das ander, « Tröstlicher lieb, ich mich stäts
+          <lb/>üb ». Das dritte, « Ich bin versagt, gegen einer Magd»... —
+          <lb/>T. B. S. [— Th. Berger, Strasbourg), vers 1570, in-8°.
+          <lb/>Vogeleis, p. 312.
+          <lb/>2402
+          <lb/>LIEDER (drei schöne neue geistliche): Dry schöne neuwe
+          <lb/>geistliche Lieder, Das erst, ein klaglied von dem abster¬
+          <lb/>ben... Joh. Brentzen 11. September 1570. Das ander
+          <lb/>vom Herrn D. M. Luthers sterben... Das dritt, Von des
+          <lb/>Herrn D. Justus Jonas seliger abschied... — (Strasbourg,
+          <lb/>Th. Berger vers 1570), in-8°.
+          <lb/>Vogeleis, p. 311.
+          <lb/>2403
+          <lb/>LIEDER (vier hübsche weltliche) : Vier Hübsche Weltliche
+          <lb/>Lieder. Das erst, Vom Fitz und Federle. Es wolt ein
+          <lb/>313
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

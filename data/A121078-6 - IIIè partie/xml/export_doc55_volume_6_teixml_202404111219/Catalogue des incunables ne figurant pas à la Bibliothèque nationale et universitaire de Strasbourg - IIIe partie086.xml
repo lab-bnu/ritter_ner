@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:06.425869+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie086.tif
+IMAGE WIDTH: 2484
+IMAGE HEIGHT: 3932
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>PALUDANUS, Petrus: Sermones thesauri novi quadragesimales.
+          <lb/>— Strasbourg, Martin Flach 1494, in-fol.
+          <lb/>Voulliéme : Berlin 2499.
+          <lb/>545
+          <lb/>PALUDANUS, Petrus (Idem). — Strasbourg, Martin Flach
+          <lb/>1497, in-fol.
+          <lb/>Copinger 5438, Voulliéme : Berlin 2506, 5.
+          <lb/>546
+          <lb/>PALUDANUS, Petrus : Sermones, thesauri novi de sanctis. —
+          <lb/>Strasbourg, (impr. des Vitas patrum] 1484, in-fol.
+          <lb/>Copinger III, 5421, Polain 2971, Ritter: BM Strasbourg n° 226;
+          <lb/>Voulliéme : Berlin 2253.
+          <lb/>547
+          <lb/>PALUDANUS, Petrus : Sermones Thesauri novi de sanctis. —
+          <lb/>(Strasbourg, Martin Flach 1488), in-fol.
+          <lb/>Schmidt VI, p. 3, n° 14 : B M Strasbourg.
+          <lb/>548
+          <lb/>PALUDANUS, Petrus : Sermones thesauri novi de tempore. —
+          <lb/>Strasbourg, (imprimeur des Vitas patrum) 1486, in-fol.
+          <lb/>Copinger 5413 (?); Polain 2967; Reichling : Appendices I,
+          <lb/>191; Voulliéme : Berlin 2258, 5 ; impr. Paludanus.
+          <lb/>549
+          <lb/>PALUDANUS, Petrus. (Idem). — Strasbourg, Martin Flach
+          <lb/>1490, in-fol.
+          <lb/>Reichling, Appendices IV, p. 83, 1390; Polain 2969. 550
+          <lb/>PARATUS: Sermones de tempore et de sanctis. — (Strasbourg,
+          <lb/>imprimeur du Paludanus s. d.] in-fol.
+          <lb/>Voulliéme : Berlin 2265, 9.
+          <lb/>551
+          <lb/>PARATUS: Sermones de tempore et de sanctis. — (Strasbourg,
+          <lb/>Martin Flach s. d.), in-fol.
+          <lb/>Hain 12398, Polain 3523, Proctor 729, Voulliéme : Berlin
+          <lb/>2517, 2.
+          <lb/>552
+          <lb/>PARATUS. (Idem). — (Strasbourg, Martin Flach s. d.), in-fol.
+          <lb/>Hain 12400; Voulliéme : Berlin 2517, 3.
+          <lb/>553
+          <lb/>84
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:08.212231+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002251.tif
+IMAGE WIDTH: 2496
+IMAGE HEIGHT: 3954
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>HORTUS sanitatis. — (Strasbourg, Jean Grüninger) (après
+          <lb/>1500), in-fol.
+          <lb/>BN Paris (à Cuba, Joh.] : Rés. Telss 23 ; en outre 2 ex.
+          <lb/>incomplets: Telss 23 « et p.
+          <lb/>2072
+          <lb/>HORTUS-sanitatis : In disem Buch ist der Gart der gesuntheit.
+          <lb/>— (Strasbourg, Jean Prüss 22.V.1509), in-fol.
+          <lb/>Choulant, Graph. Incunabeln n° 21; Panzer, Annalen I,
+          <lb/>311; Schmidt III, p. 21, n° 72 : Dresde; Catal. Weislinger
+          <lb/>249; Graesse III, p. 375; « La première édition (1507) est une
+          <lb/>traduction du petit Hortus et la seconde (1509) du grand
+          <lb/>Hortus, à l’exception des 530 chap, de herbis et du traité de
+          <lb/>urina » ; Ritter : B M Strasbourg, no 1261.
+          <lb/>2073
+          <lb/>HORTUS sanitatis : In disem Buch ist der Herbary... —
+          <lb/>(Strasbourg, René Beck 18.III.1515), in-fol.
+          <lb/>Schmidt IV, p. 21, n° 20. Bibl. Cantonale Aarau (couvent de
+          <lb/>Muri), Berlin, Dresde; Panzer, Annalen 1, 379, Zusätze 132;
+          <lb/>Choulant, Graph. Incunabeln n° 23.
+          <lb/>2074
+          <lb/>HORTUS sanitatis : Ortus sanitatis... — Strasbourg, Jean
+          <lb/>Grüninger 1517, in-fol.
+          <lb/>BN Paris Rés. Telss 23 C. [à CUBA, Johannes del. 2075
+          <lb/>HORTUS sanitatis: Herbarius. Kreuter buch von neuwem
+          <lb/>mit höchstem fleisz durchsucht und gebessert... —
+          <lb/>Strasbourg, Balthasar Beck 1527, in-fol.
+          <lb/>Choulant, Graph. Incunabeln, no 25. [Une éd. de Beck 1529 :
+          <lb/>Ritter, Rép. n° 1205 et une de M. Apiarius 1536. Rép. n° 1206).
+          <lb/>2076
+          <lb/>HORTUS sanitatis : Ortus Sanitatis. Register. Es ist hie zu
+          <lb/>mercken. Als dis buch vormals usz dem latin in tütsch
+          <lb/>gebracht... — (Strasbourg, Jean Grüninger (17.III.)
+          <lb/>1529), in-fol.
+          <lb/>Schmidt I, n° 241; Choulant 256; Kristeller 105. — BN.
+          <lb/>Munich; Choulant-Frank, p. 134; Choulant, Graph. Inku¬
+          <lb/>nabeln, n° 26.
+          <lb/>2077
+          <lb/>249
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

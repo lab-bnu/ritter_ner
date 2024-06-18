@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:37.197907+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu058.tif
+IMAGE WIDTH: 2384
+IMAGE HEIGHT: 3840
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>CARACCIOLUS Robertus: Sermones per Adventum. (Stras¬
+          <lb/>bourg, M. Schott, vers 1485), in-fol.
+          <lb/>G W 6050, Hain 4471, Pellechet: Colmar 440 Proctor 405, Voul¬
+          <lb/>liéme: Berlin 2243. 2243, 2.
+          <lb/>K 1074. Prov.: Biblioth. Ch. Schmidt, Strasbourg, 10/IV. 1895.
+          <lb/>124
+          <lb/>CARACCIOLUS Robertus: Sermones quadragesimales de
+          <lb/>poenitentia. Strasbourg, (Martin Schott), 3 sept. 1485,
+          <lb/>in-fol.
+          <lb/>G W 6078, Hain 4436, Madsen 1035, Pellechet 3253, Pellechet:
+          <lb/>Colmar 436, Proctor 395, Voulliéme: Berlin 2231, 5; Walter:
+          <lb/>Sélestat 130.
+          <lb/>K 1063. Prov.: C. Geyling héritiers, Vienne, 18/1. 1886, 8 M.
+          <lb/>Notes mss.
+          <lb/>125
+          <lb/>CARLETTI Angelo. Voir: Angelus de Clavasio.
+          <lb/>CASSIODORUS M. Aurelius: Historia ecclesiastica tripartita.
+          <lb/>(Strasbourg, J. Prüss, vers 1500), in-fol.
+          <lb/>G W 6167, Hain 4572, Madsen 1062, Pellechet 3348, Pellechet:
+          <lb/>Colmar 453, Proctor 583, Voulliéme: Berlin 2369, 5.
+          <lb/>K 1093. Prov.; K. Trübner, Strasbourg, 10/VI. 1887, 6 M. 126
+          <lb/>CASUS breves Decretalium. Sexti et Clementinarum Libel¬
+          <lb/>lus. Voir: Michael de Dalen.
+          <lb/>CASUS longi super Decretales. Voir: Bernardus Parmensis.
+          <lb/>CASUS longi super institutis. (Strasbourg, J. Prüss?, s. d.),
+          <lb/>in-fol.
+          <lb/>Hain 4666.
+          <lb/>K 1109. Prov.: Oscar Rauthe, Berlin, 20/1. 1914, 90 M.
+          <lb/>Notes mss.
+          <lb/>127
+          <lb/>CASUS longi super institutis. (Strasbourg, J. Prüss vers
+          <lb/>1498), in-fol.
+          <lb/>Hain 4665, Proctor 560, Voullième: Berlin 2376.
+          <lb/>K1108. Prov.: BN Munich, 22/1. 1880, 1 M. Notes mss. Rel. anc.
+          <lb/>128
+          <lb/>28
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:27.799871+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2054.tif
+IMAGE WIDTH: 2348
+IMAGE HEIGHT: 3822
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>50
+          <lb/>In-80, car. grecs, 7 ff. non ch., 144 ff. ch., titre courant, réclames,
+          <lb/>notes marg., init. ornées et init. d’attente. Texte grec avec des annota¬
+          <lb/>tions lat. en car. ital.
+          <lb/>fol. 2a non ch.: DN. IVLIO EPISCO- PO NVMBUVRGENSI.... —
+          <lb/>Argentorati quin- to Calend. Decem- bris. (4 p. car. ital.)
+          <lb/>fol. 4b non ch.: ARGVMENTVM CICERONIS, (2 p. car. ital.)
+          <lb/>R 102.093. Prov. Don B U Königsberg, 16/V. 1873.
+          <lb/>Notes mes. Au bas du titre, timbre: Gottholdsche Bibliothek;
+          <lb/>au-dessous, un timbre plus petit : Dupl. Bibl. Reg. Regiom.
+          <lb/>88
+          <lb/>B. M. Colmar.
+          <lb/>ASCONIUS
+          <lb/>Strasbourg, J. Albrecht, 1535.
+          <lb/>FRAGMEN! TUM COMMENTARIORVM Q. ASCONH PEDIANI,
+          <lb/>in Orationes aliquot M. Tullij Ciceronis, quàm accu¬
+          <lb/>ratiss. impres- sum. (Feuille de lierre.)
+          <lb/>CUM INDICE MULTO! quàm ante auctiore.
+          <lb/>ARGENTINAE APVD IOAN. ALBERTVM.
+          <lb/>A la fin: ARGENTINAE APVD IOANNEM ] ALBERTVM, ANNO)
+          <lb/>M. D. XXXV MENSE MARTIO.
+          <lb/>In-8°, car. ital., 8 ff. non ch., 197 pp. ch., 2 pp. non ch., titre
+          <lb/>courant, réclames, notes marg., init. à fig Au verso du dernier f.,
+          <lb/>marque typ. de J. Albrecht (H&amp;amp; B Planche XXV, N° I; Silvestre,
+          <lb/>No 1189.)
+          <lb/>Au verso du titre: PHILIPPUS MELANCHTHON Lectori
+          <lb/>salutem. (2 p.)
+          <lb/>Au verso de l’avant-dernier f.: GVLIELMVS BVDAEUS, Nicolao
+          <lb/>Beroaldo S. (2 p.)
+          <lb/>R102.094. Prov. inconnue.
+          <lb/>89
+          <lb/>AESCULAPIUS, Liber unus de morborum, infirmitatum, pas¬
+          <lb/>sionumque corporis humani causis, descriptionibes &amp;amp; cura.
+          <lb/>Voir: HILDEGARDIS, Physicas, Strasbourg, J. Schott,
+          <lb/>1533. LXXIX p. ch.
+          <lb/>AESOPUS
+          <lb/>Strasbourg, M. Schürer, s. d.
+          <lb/>FABVLARVM QVAE hoc libro continentur in! terpretes
+          <lb/>atque autho res. Sunt hi! Guilielmus Goudanus Hadrianus
+          <lb/>Barlandus Erasmus Roterodamus,! Aulus Gellius Ange lus
+          <lb/>Politianus! Petrus Crinitus! Ioannes Antonius Cambanus
+          <lb/>Plinius Secundus Nouocomensis! Aesopi Vita ex Max.
+          <lb/>Pla nude excerpta.
+          <lb/>IN LIBERA ARGENTINA (Verso blanc.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

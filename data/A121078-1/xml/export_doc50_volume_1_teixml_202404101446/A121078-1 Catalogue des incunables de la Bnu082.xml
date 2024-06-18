@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:37.528130+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu082.tif
+IMAGE WIDTH: 2388
+IMAGE HEIGHT: 3842
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>HUGO PRATENSIS: Sermones de tempore. (Strasbourg,
+          <lb/>G. Husner, s. d.), in-fol.
+          <lb/>Hain 9002, Voulliéme: Berlin 389, 6.
+          <lb/>K 2077. Prov.: Oswald Weigel, Leipzig, 2. XII. 1893, 9 M. Au¬
+          <lb/>dessus du titre: Wilibaldus Florinus Stainer U. J. Doctor.
+          <lb/>Fratrum Minorum in Bamberg ad S. Annam.» Au-dessous:
+          <lb/>zex dono Wilibaldi Florini J. U. Doctoris Ingolstad». Au recto
+          <lb/>du dernier f. blanc: Vincentius Teynek cooperator in
+          <lb/>Brunnen. Rel. anc.
+          <lb/>241
+          <lb/>HUGO PRATENSIS: Sermones de tempore. (Strasbourg,
+          <lb/>G. Husner, 11 juin 1476, in-fol.
+          <lb/>Hain 9005, Proctor 348, Voulliéme: Berlin 2195; Pellechet:
+          <lb/>Colmar 800.
+          <lb/>K 2079. Prov.: B N Munich, 14. IV. 1880, 7 M. Rel. anc. 242
+          <lb/>HUGO DE S. VICTORE: Didascalion et alia opuscula. [Stras¬
+          <lb/>bourg, imprimeur du H. Ariminensis, s. d. l, in-fol.
+          <lb/>Hain 9022, Proctor 313, Voulliéme: Berlin 2169; Pellechet:
+          <lb/>Colmar 803.
+          <lb/>K 2082. Prov.: B N Munich, 18. XI. 1878. Incomplet, f. 1-6
+          <lb/>(table) manquent. Rel. anc.
+          <lb/>243
+          <lb/>HUGO DE S. VICTORE: De sacramentis. Strasbourg, [impri¬
+          <lb/>meur du Jordanus (— G. Husner)), 30 juillet 1485,
+          <lb/>in-fol.
+          <lb/>Hain 9025, Madsen 2049 et 2050. Proctor 597, Voulliéme: Ber¬
+          <lb/>lin 2407; Pellechet: Colmar 806, Walter: Sélestat 261.
+          <lb/>K2084. Prov.: Don de la ville de Heilbronn, 1871. A l&amp;#x27;intérieur
+          <lb/>du 1er plat: Ex legato Joan. krener. Rel. anc.
+          <lb/>244
+          <lb/>HUGO DE S. VICTORE: Soliloquium in modum dialogi.
+          <lb/>(Strasbourg, civis C. W., vers 1473), in-fol.
+          <lb/>Hain 9028, Proctor 340, Voulliéme: Berlin 2192.
+          <lb/>K 2086. Prov.: Don de la ville de Marktbreit, 25. VHI. 1881.
+          <lb/>Notes mss.
+          <lb/>245
+          <lb/>52
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

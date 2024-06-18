@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:11.940251+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002402.tif
+IMAGE WIDTH: 2516
+IMAGE HEIGHT: 3964
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>PETER von Diemeringen. Voir: EGENOLFF von Staufenberg.
+          <lb/>PETRARCA, Francesco : History von Frau Griseldis. —
+          <lb/>Strasbourg (Henri Knobloch ?) 1520, in-4°.
+          <lb/>Kristeller, n° 630; Heitz-Ritter, n° 224; Berlin, Munich,
+          <lb/>Wolfenbüttel.
+          <lb/>2871
+          <lb/>PETRARCA, Francesco : Ein lobwirdige Hystory, von der
+          <lb/>demütigen und gehorsamen fraw Gryselde. — Strasbourg,
+          <lb/>Jacques Frölich 1534, in-4°.
+          <lb/>2872
+          <lb/>PETRARCA, Francesco : (Idem). — Strasbourg, Jacques
+          <lb/>Frölich 1538, in-4°.
+          <lb/>Goedeke I2, p. 365, n° 11; Heitz-Ritter, n° 226 : Göttingen,
+          <lb/>Wolfenbüttel.
+          <lb/>2873
+          <lb/>PETRARCA, Francesco : (Idem). — Strasbourg, Jacques
+          <lb/>Frölich 1540, in-40.
+          <lb/>Goedeke 12, p. 365, n° 13; Heitz-Ritter, n° 228: Wolfenbüttel.
+          <lb/>2874
+          <lb/>PETRARCA, Francesco : (Idem). — Strasbourg, Jacques
+          <lb/>Frölich 1554, in-40.
+          <lb/>Heitz-Ritter, n° 229 ; contient en même temps : « ein ander
+          <lb/>History von eines Doctors der Artzney dochter, wie sie Graff
+          <lb/>Bertram dem Graven von Rossillion wider seinen willen zur
+          <lb/>Ehe vermähelt ward, welche ihrerseits aus. » Schertz mit der
+          <lb/>Warheyt Frankfurt 1550, übernommen ist. Köhler, Kleine
+          <lb/>Schriften II, 506. B N Berlin.
+          <lb/>2875
+          <lb/>PETRUS, Aegidius. Voir : AEGIDIUS, Petrus.
+          <lb/>PETRUS de Aliaco. Voir: OFFICIUM S. Josephi, n° 2788.
+          <lb/>[Ritter, Rép. n° 1850 : Petrts de Aliaco, Tractatus super
+          <lb/>libros Metheorum, J. Prüss 1504).
+          <lb/>PETRUS, Alphonsus. Voir: AESOPUS, n° 746.
+          <lb/>400
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

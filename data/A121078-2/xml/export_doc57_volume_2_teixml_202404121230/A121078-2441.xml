@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:39.469126+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2441.tif
+IMAGE WIDTH: 2396
+IMAGE HEIGHT: 3824
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>fol. a 3b non ch.: Prefatio Anastasii apostolice sedis bi¬
+          <lb/>bliothecarii ad... Carolum.
+          <lb/>fol. A 4b non ch.: Prologus Hugonis, (6 pages.)
+          <lb/>fol. A 7b non ch.: Prologus Alberti. (1 page.)
+          <lb/>fol. A 8b non ch.: Index celestis hierarchie.
+          <lb/>Au verso du titre de la 2me partie: Ambrosii oratoris et mo¬
+          <lb/>nachi Camaldulensis ordinis præfatio in translationem
+          <lb/>librorum sancti Dyonisii Aeropagite.
+          <lb/>Au fol. suivant: Index.
+          <lb/>655
+          <lb/>R 10.300. Prov.: Don de la ville de Heilbronn, 1871.
+          <lb/>DIONYSIUS Hallicarnasseus, De collatione verborum. Voir: STURM
+          <lb/>Johannes, De Periodis. Strasbourg, W. Rihel, 1550.
+          <lb/>DIONYSIUS Nestor
+          <lb/>Strasbourg, J. Prüss père, 14 mars 1507.
+          <lb/>NESTORIS Nouarensis vocabula suis locis; &amp;amp; secun¬
+          <lb/>dum Alphabe! ti ordinem collocata, suscipe lector suauissi¬
+          <lb/>me; ab omni penitus confusione aliena:! adeo vt vno
+          <lb/>intuitu iam melius quæ voles, inuenire possis quam prius
+          <lb/>toto volu- mine revolu! to.
+          <lb/>A la fin: Joannes Prüsz Ciuis Argentinus; in! ædibus
+          <lb/>suis Lustri; vulgo: zum Thiergarten: Anno salutis
+          <lb/>M.CCCCCVI.II. Idus Martij: Impressit.
+          <lb/>In-fol., car. rom., 2 col., OXXXVIII ff. ch., 4 ff. non ch. à 3
+          <lb/>col. (Quantitatum et vocum index), titre courant, notes marginales, ini¬
+          <lb/>tiales ornées, celle du titre est très grande avec un enfant nu au milieu.
+          <lb/>Au verso du titre: AD LECTOREM. Au-dessous: Ad eundem
+          <lb/>Lectorem. (2 distiques.)
+          <lb/>*R10.483. Prop. : BN Munich, 19/VI. 1877; 1M50.
+          <lb/>Annotations mss.: Au haut du titre: Sum Conv. V. Mariæ in Rot¬
+          <lb/>tenbuech; en bas: Argentinae 1507; au verso du f. de garde: Duplex
+          <lb/>Bibl. Reg. Monacensis; à l’intérieur du 1er plat: Martinus Faber à Ba¬
+          <lb/>benhause 1561, au-dessous: Martinus Schlosser zû Babenhausen 1561.
+          <lb/>BN Paris, x 236, Rés. X. 162 et 858; Proctor II. Sectio I. No
+          <lb/>9982: Londres, British Museum; Schmidt: III, No 60: B M Strasbourg
+          <lb/>&amp;amp; RM Colmar; Walter 1923: B M Sélestat.
+          <lb/>656
+          <lb/>437
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

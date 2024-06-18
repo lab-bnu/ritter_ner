@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:30.087343+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2124.tif
+IMAGE WIDTH: 2310
+IMAGE HEIGHT: 3826
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>120
+          <lb/>viri magistri Gabrielis byel Spirensis... Im pensis circum¬
+          <lb/>specti viri Joannis Rynman de Oringaw archibibliopole:
+          <lb/>in officina industrij Henrici Gran in oppido imperiali Ha¬
+          <lb/>genaw Ciuis: Anno virginei partus : M. d. x. impressi. die.
+          <lb/>x. Julij finiunt feliciter.
+          <lb/>In-4°, car. goth., 2 col., 10 ff. non ch. (Titre et Registre), CCCCXLVII
+          <lb/>ff. ch., titre courant, initiales d’attente.
+          <lb/>Les sermones hiemales, aestivales et de tempore ont 156 ff.; ils
+          <lb/>furent terminés le 8 juin 1510 d’après l’explicit.
+          <lb/>Suivent avec un nouveau titre:
+          <lb/>Sermones Gabrielis Biel! Spirensis de festiuitatibus
+          <lb/>christi. de fol. 157 à fol. 361, et Sermones de Sanctis magi¬
+          <lb/>stri Gabrielis biel Spirensis, fol 361 à fol. 447.
+          <lb/>En dernier lieu vient avec un titre à part:
+          <lb/>Passionis dominice sermo hi storialis notabilis atque
+          <lb/>pre- clarus venerabilis domini Gabrielis biel Artium magi¬
+          <lb/>stri: sacre theologie licentiati.
+          <lb/>Cette partie n’est pas chiffrée, elle a 48 ff. dont le dernier blanc,
+          <lb/>sign. A-G, à la fin il est dit au verso de l’avant-dernier f.: Dominice
+          <lb/>passi onis trium partium notabili-um: sermo praeclarus
+          <lb/>domini Ga brielis biel supranotatati.Qui olim negligen¬
+          <lb/>ter: ex mendoso exemplari: et sub fal so titulo impres¬
+          <lb/>sus. postea emendatus ex originali; et per fatum Flo¬
+          <lb/>rentium Biel dili genter reuisus: in laudem altis simi
+          <lb/>inuocatus: clariusque in- terstinctus atque emendatus:
+          <lb/>non modo in sententiarum quarundam defecti bus; ve¬
+          <lb/>rum etiam in ortho- graphia, et in imperiali opi do ha¬
+          <lb/>genau impressus.
+          <lb/>D’après les caractères c’est H. Gran qui a imprimé en même temps
+          <lb/>ce traité.
+          <lb/>RI01.335. Prov.: N. G. Elwert, Marbourg: 13/XII. 1887;6M.
+          <lb/>Au bas du titre: «Liber sacratissimae virginis Mariae et
+          <lb/>sanctorum Apostolorum Petri et Pauli in Heren breyt...»
+          <lb/>(4 ou 5 lettres illisibles), puis d’une autre main à la suite: «at
+          <lb/>nunc in monte D. Virginis prope Fuldam fratrum Minorum
+          <lb/>ibidem.» (Rel. anc.)
+          <lb/>BN Paris, Rés. D. 5209. GPB: Berlin, Greifswald, Kœnigsbero,
+          <lb/>Marbourg, Munster.
+          <lb/>201
+          <lb/>BIEL Gabriel
+          <lb/>Haguenau, H. Gran, 1515.
+          <lb/>Passionis dominice Ser mo historialis notabilis at¬
+          <lb/>que preclarus venerabilis domini Gabrielis Bi- el Artium
+          <lb/>Magi- stri; sacre theo logie Li- centia ti. (Verso blanc.)
+          <lb/>A la fin: Finis exactissime passionis... iam denuo
+          <lb/>excuse per Henricum Gran: Ioanne Rynman ere impen¬
+          <lb/>dente. Anno. MD.XV.quarto kalendas! Julij.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

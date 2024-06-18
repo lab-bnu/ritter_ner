@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:08.293700+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3201.tif
+IMAGE WIDTH: 2322
+IMAGE HEIGHT: 3852
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>concionatoris Argentinen. in sermones iuxta tur marum
+          <lb/>seriem diuisa; suis figuris iam insignita: a Jacobo! Othero
+          <lb/>diligenter collecta.
+          <lb/>Compendiosa vite eiusdem descriptio, per Beatum
+          <lb/>Rhenanum Selestatinum. Ad Narragoniam.
+          <lb/>Holeschn.: Ein mit Narren gefülltes Schiff: Navis stultorum.
+          <lb/>Dieser Holeschn. befindet sich schon in der lat. Ubersetzung Lochers
+          <lb/>1497 u. im Narrenschiff Brants 1499, unter Weglassung der Jahreszahl.
+          <lb/>Am Schluss: Argentorati transscriptum. XVI. die Mensis
+          <lb/>Ianuarij. An. M. D. Xl. (Rücks, leer.)
+          <lb/>4°, Got., 280 unn. Bll., Sign. A-Z, a-2, Aa-Cc, Kopft., 113 Holeschn.
+          <lb/>von verschiedener Grösse, manche mehreremal, nach der lat. Ubersetzung
+          <lb/>Lochers vom Jahre 1497.
+          <lb/>Auf der Rücks. des Titelbl.: Brief Otters vie in der Ausgabe
+          <lb/>von 1510.
+          <lb/>Bl. Ce 3b : Jacobus Otherus lectori salutem... — ex Ar¬
+          <lb/>gen. iii idus Februarii Anno 1510. - Leben Geilers von Beatus
+          <lb/>Rhenanus. Sodann Epitaphium Thomae Volphii iunioris... conditum a
+          <lb/>Rhenano Selestatino... Vixit Ann. xxxiiï. Men. ix. Obijt An. salutis M. D. IX.
+          <lb/>R 100.484. Geschenk der UB Tübingen 1871, mit dem Stempel:
+          <lb/>Biblioth. Publ. Reg. Stuttg., daneben: Veräusserte Doublette.
+          <lb/>Stadtbibl. Strassburg 171; Stadtbibl. Kolmar, BN Paris Rés. D7766
+          <lb/>u. 11533; GK: SB Berlin, UB Göttingen, Münster; Exemplare mit
+          <lb/>Trennungsstrich Iaco bo Othero SB Berlin; Proctor II Sectio I Nr.
+          <lb/>9995: London Brit. Museum; Schmidt VIII Nr. 48 schreibt den Druck
+          <lb/>Schürer 2u; Walter: Schlettstadt Nr. 1374. Olschki, Florenz, Katalog
+          <lb/>LXXXI (1912): 400 frs., schreibt ihn, nach Proctor, Prüss dem Alte¬
+          <lb/>ren zu.
+          <lb/>Rosenthal, München, Katal. 135 (1914) Nr. 921: 260 M.; Baer,
+          <lb/>Frankfurt a. M., Kat. 500 (1907) Nr. 623: 110 M.:,254 unn. Bll.,
+          <lb/>J. Prüss(; 2. Ex. Nr. 623a: 90 M.
+          <lb/>Brunet II5, 1576: Il n’est porté qu’à 9 fr. 75 c. dans le catalogue
+          <lb/>de La Vallière, mais il est plus cher maintenant: 3 liv. et 1 liv. 11 sh.
+          <lb/>6 d. mar. Heber; 32 fr.: De Bure, et en mar. doublé de mar, 68 fr.
+          <lb/>Borlunt; en peau de truie 3 liv, 8 sh. Libri, en 1859. L’exempl. de Grolier
+          <lb/>a même été payé 43 liv. sterl. à la vente d’Edwards, en 1815.
+          <lb/>9595
+          <lb/>GEILER Johannes
+          <lb/>Strassburg, Joh. Grüninger 1512
+          <lb/>Predig der himelfart Mariae.Dis seind fier predig
+          <lb/>von vnser lieben Frawen Eine seit von irer himmelfart,
+          <lb/>wie sie gott der herr geeret hatt, mit siben-erlei Eeren
+          <lb/>Vnd in der aller letsten eere, da würt vszgelegt ein frag
+          <lb/>an welchem ort im himelreich, gott mit allen seinen vszer¬
+          <lb/>welten sein wonung hatt, Vnd vff welchem stûl, oder
+          <lb/>645
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

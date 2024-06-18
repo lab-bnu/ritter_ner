@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:06.715206+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie107.tif
+IMAGE WIDTH: 2490
+IMAGE HEIGHT: 3926
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>VOLKSLIED: Historisches Volkslied aus der Zeit der Burgunder
+          <lb/>Kriege. — (Strasbourg, impr. de Henricus Ariminensis
+          <lb/>s. d.), in-40.
+          <lb/>Voulliéme : Berlin 2185.
+          <lb/>699
+          <lb/>WAHL : Wahl und Krönung König Maximilians. —
+          <lb/>(Strasbourg, Jean Prüss après le 28. III. 1486), in-4°.
+          <lb/>Ritter, Gr. Sém. n° 487; Madsen 4221; Proctor 3263. 700
+          <lb/>WANN, Paulus: Sermones de tempore avec Mich. Lochmeyer:
+          <lb/>Sermones de sanctis. — Haguenau 1490, in-fol.
+          <lb/>Hain 16143.
+          <lb/>701
+          <lb/>WANN, Paulus : Sermones dominicales de tempore. —
+          <lb/>Haguenau, Henri Gran aux frais de Rynman, 16. X. 1499,
+          <lb/>in-fol.
+          <lb/>Hain 16146; Polain 4038; Proctor 3201; Voulliéme : Berlin
+          <lb/>1182, 3; Burg : Haguenau 40.
+          <lb/>702
+          <lb/>WANN, Paulus: Sermones XXIII de praeservatione hominis
+          <lb/>a peccato. — Strasbourg 1500, in-fol.
+          <lb/>Hain 16149.
+          <lb/>703
+          <lb/>WERT, Guillaume. Voir: ALEXANDER de Villa Dei, n° 51.
+          <lb/>WEYERSHEIM. Voir : MARIA zum Elend n° 449.
+          <lb/>WIDMANN, Johannes : Tractatus de pustulis, que vulgato
+          <lb/>nomine dicuntur mal de franzos... — (Strasbourg,
+          <lb/>Jean Grüninger) 1. II. 1497, in-4°.
+          <lb/>Copinger III, 6573. (Probablement Hain 16160 et Proctor
+          <lb/>478), Walter 512; Voullième : Berlin 2332.
+          <lb/>704
+          <lb/>WIE man Visch und Vogel fahen soll. Voir: BÜCHLEIN
+          <lb/>nos 171-172.
+          <lb/>105
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:29.594258+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2107.tif
+IMAGE WIDTH: 2322
+IMAGE HEIGHT: 3824
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>BEBELIUS Henricus
+          <lb/>Strasbourg, (M. Schürer), 1515.
+          <lb/>Triumphus Veneris Hen-rici Bebelij poetae laureati,
+          <lb/>cum com- mentario Ioannis Altenstaig! Mindelheimensis.
+          <lb/>Au-dessous: Armoiries de Bebel, répétées au recto du dernier f.
+          <lb/>Triumpbus Beneris Deu
+          <lb/>rici Bebelij poetę laurcati, cumcom¬
+          <lb/>mentazio loannis Aleenstaig
+          <lb/>Mindelheimensis.
+          <lb/>103
+          <lb/>A la fin (fol. CXVIIIb): Argentinae. IX. Calen. Septem.
+          <lb/>Anno a Christo na-] to. M. D. XV.
+          <lb/>In-4° car, rom., 6 ff. non ch., CXVIII ff. ch., 2 ff. non ch., quel¬
+          <lb/>ques petites initiales ornées.
+          <lb/>Au verso du titre: Ioannes Altenstaig Mindelhaimensis...
+          <lb/>Ioanni Zingiesser, Canonicorum regularium beati Augustini
+          <lb/>praeposito uigilantissimo in Pollingen.... — Ex Polinga intra
+          <lb/>Idus apriles. Anno. M.CCCCCX. (4 pp.)
+          <lb/>*R100.881. Prov : Butsch, Augsbouro, 11/x. 1882; 5M.
+          <lb/>Proctor 10.227: Londres, Britisch Museum; BN Paris, Rés, p. Yc
+          <lb/>1475; Schmidt VIII, N0 163: BM Zürich et son exemplaire, mais avee
+          <lb/>variation du titre: TRIVMPHVS VENERIS HEN-[rici Bebelij, cum
+          <lb/>Commentario Ioan- nis Altenstaig Mildelhaimensis. BE¬
+          <lb/>BELIUS AD LECTOREM. (4 distiques.) et sans les armoiries de Bebel
+          <lb/>au f. du titre, GPB: Berlin, Halle, Gœttingue. Zapf, Bebel p. 240-264.
+          <lb/>173
+          <lb/>BEBELIUS Henricus
+          <lb/>Strasbourg, M. Schürer, 1516.
+          <lb/>Commentaria epistolarum con! ficiendarum Henrici Be¬
+          <lb/>belii Iustingensis, poe tae laureati, poeticam &amp;amp; oratoriam
+          <lb/>publice profitentis in Gymna! sio Tubingensi.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

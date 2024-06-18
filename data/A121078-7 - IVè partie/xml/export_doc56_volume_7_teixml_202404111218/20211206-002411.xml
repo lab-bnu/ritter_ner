@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:12.067474+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002411.tif
+IMAGE WIDTH: 2508
+IMAGE HEIGHT: 4004
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Adolescens, Joannes Henich, Saxo, Zörbicensis, 3. Cal.
+          <lb/>Feb. Anno M.D.LXXIII. — Strasbourg, Nicolas Wyriot
+          <lb/>1574, in-4°.
+          <lb/>Ritter: B M Strasbourg, n° 1712.
+          <lb/>2920
+          <lb/>PLANETENBUCH : Das grosz Planetenbuch... (Theil I-IV). —
+          <lb/>Strasbourg, Jacques Cammerlander 1544, in-4°.
+          <lb/>Graesse V, p. 311; Zinner 1856 : « nicht von Joh. Regiomon¬
+          <lb/>tanus ».
+          <lb/>2921
+          <lb/>PLANETENBUCH : (Idem). — Strasbourg, Jacques Cammer¬
+          <lb/>lander 1546, in-4°.
+          <lb/>Zinner 1899.
+          <lb/>2922
+          <lb/>PLANETENBUCH : Das grosse Planeten Buch. — Strasbourg,
+          <lb/>Josias Rihel 1572, in-8° (comme l’éd. de 1544).
+          <lb/>Zinner 2588.
+          <lb/>2923
+          <lb/>PLANETENBUCH (Das Gross.). — Strasbourg, Josias Rihel
+          <lb/>1575, in-80.
+          <lb/>Zinner, n° 2709. (BN Strasbourg, R 101.143 ; Ritter, Rép.
+          <lb/>n° 18791.
+          <lb/>2924
+          <lb/>PLANETENBUCH (Das Gross). — Strasbourg, Josias Rihel
+          <lb/>1578, in-80.
+          <lb/>Zinner 2843.
+          <lb/>2925
+          <lb/>PLANETENBUCH (Das Gross). — Strasbourg, Josias Rihel
+          <lb/>1581, in-80.
+          <lb/>Zinner 3004.
+          <lb/>2926
+          <lb/>PLANETENBUCH : Das Gross-Planetenbuch sampt der
+          <lb/>Geomanci, Physiognomi und Chiromanci (comme l’édi¬
+          <lb/>tion de 1544). — Strasbourg, Josias Rihel 1584, in-8°.
+          <lb/>Zinner 3154.
+          <lb/>2927
+          <lb/>409
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

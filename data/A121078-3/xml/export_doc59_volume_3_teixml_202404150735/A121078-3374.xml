@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:12.697287+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3374.tif
+IMAGE WIDTH: 2390
+IMAGE HEIGHT: 3854
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>816
+          <lb/>HUGGELIN Johann Jakob
+          <lb/>Mülhausen, P. Schmid 1561
+          <lb/>Practica tütsch vff das M. D. LXI Jar mit anzeigunng
+          <lb/>etli-cher enderungen wältlicher löuffen. Durch JOANN.
+          <lb/>IACOBVM HVGELLIVM der Freyen künsten vnnd Artzney
+          <lb/>Do- ctorn zû Basel gepracticiert.
+          <lb/>Unten: Ex Ephemeride Cypriani Leuouitij Duhemi,
+          <lb/>Per Conradum Dan ner à Crütznach.
+          <lb/>Getruckt zû Mülhusen im oberen Elsasz durch
+          <lb/>Peter Schmid.
+          <lb/>das Kalendarium, die 4. Sp. für den Text in 4 Kapiteln. Oben
+          <lb/>20 Einblattdruck, Got., Titel rot u. schwars; 4 Sp., aoovon 3 far
+          <lb/>3 Holeschn. (Personifis. Planeten).
+          <lb/>1212
+          <lb/>HUGGELIN Johann Jakob. Siche: AGAPETUS : De officio Chri¬
+          <lb/>stiani Regis.
+          <lb/>HUGGELIUS Johannes Jacobus. Siche: HUGGELIN Johann Jakob
+          <lb/>HUGO DE S. VICTORE: Expositio super regulam Beati Augu¬
+          <lb/>stini. Siche : HUMBERTUS DE ROMANIS: Expositio super:
+          <lb/>regulam Beati Augustini. Hagenau, H. Gran 1506.
+          <lb/>HUGONIS Johannes. Siche: HUG Johann
+          <lb/>HUMBERTUS DE ROMANIS
+          <lb/>Hagenau, H. Gran 1506
+          <lb/>Expositio Humberti Ge neralis Magistri ordinis Pre¬
+          <lb/>dica torum: super Regulam beati Augustini episcopi.
+          <lb/>Expositio Hugonis de Sancto Victore; super eandem
+          <lb/>regu! lam Beati Augustini. (Rücks, leer.)
+          <lb/>Am Schluss des 1. Traktates : Impressa imperiali oppido
+          <lb/>Hagenaw Anno salutis nostre, 1505.
+          <lb/>Am Schluss des 2. Traktates: Diligenter emendata ac reuisa
+          <lb/>impensis prouidi Ioan nis Rynman de Oringaw In impe¬
+          <lb/>riali oppido Hage- naw per Industrium Henricum Gran
+          <lb/>inibi Incola impressa finit feliciter Anno... 1506 pridie
+          <lb/>Kal.Iunij.
+          <lb/>40, Got., 119 unn. Bll., Sign. A-P (Expositio Humberti), 23 unn.
+          <lb/>Bll., Sign. a-c (Expositio Hugonis), Kopft., Init.
+          <lb/>RI01.38002). Geschenk von Fid. Butsch, Antiquar, Augsburg 1871.
+          <lb/>Stadtbibl. Strassburg; BN Paris, Rés. H. 1054 u. 1084; Proctor
+          <lb/>II Sectio I Nr. 11628a: London, British Museum.
+          <lb/>1213
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

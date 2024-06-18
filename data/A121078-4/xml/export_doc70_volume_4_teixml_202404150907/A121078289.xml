@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:50.885061+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078289.tif
+IMAGE WIDTH: 2312
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>PELBARTUS DE THEMESWAR
+          <lb/>Haguenau, H. Gran 1508
+          <lb/>Stellarium Corone benedicte virginis Mariae in lau¬
+          <lb/>dem eiuspro singulis predicationibus ele! gantissime
+          <lb/>coaptatum. (Verso blanc.)
+          <lb/>A la fin: Opus perutile.., impressumque ac emendatum
+          <lb/>impensis circumspecti viri archibibliopoleJoannis Ryn¬
+          <lb/>man de Oringaw in officina industrii! Henrici Gran; civis
+          <lb/>in imperiali oppido Hagenaw finit feliciter Anno virginei
+          <lb/>partus Millesimo quingentesimo octavo: prima die Martii.
+          <lb/>In-fol., car. goth., 2 col., 147 ff. non ch., sign. a-y, titre courant,
+          <lb/>init, d’attente.
+          <lb/>Fol. a 2a: Prologus.
+          <lb/>R10355. Prov.: BN Munich 28/X11 1877; 1M 50. Au verso
+          <lb/>du titre, timbre: Bibliotheca Regia Monacensis.
+          <lb/>2ème ex. R 10.341 (2). Prov.: Don de la «Fürstlich Bentheim&amp;#x27;¬
+          <lb/>schen Bibl.» du couvent de Frenswegen 1874. Incomplet, fol. 15 et le
+          <lb/>dernier f. manquent.
+          <lb/>Oxford, Bibl. Bodleiana.
+          <lb/>1834
+          <lb/>PELBARTUS DE THEMESWAR
+          <lb/>Haguenau, H. Gran 1509
+          <lb/>Pomerium Sermonum! De beata virgine. Vel Stel¬
+          <lb/>larium Corone be! ate virginis.! Et est in duodecim libellos
+          <lb/>partitum. (Suivent les titres des 12 traités. Verso blanc.)
+          <lb/>A la fin: Opus... impensis sumpti- busque providi viri
+          <lb/>Joannis Rynman de Oringau in imperiali oppido Hage¬
+          <lb/>naw : per industrium Henricum Gran inibi incolam! dili¬
+          <lb/>gentissime impressum ac emendatum Finit fe liciter Anno
+          <lb/>salutis nostre Millesimo quin gentesimo nono. iii, die Sep¬
+          <lb/>tembris, (Verso blanc.)
+          <lb/>In-4°, car. goth., 2 col., 10 ff. non ch. (titre, table et 1 f. blanc),
+          <lb/>CCXIIII ff. ch., titre courant, init. d’attente.
+          <lb/>RI01421(1). Prov.: BN Munich 28/XII 1877, 1 M. En haut
+          <lb/>du titre: 1558 Joannes Kruegfeder, en bas:,Casparus Kruegfederus...
+          <lb/>ex sua benignitate atque amicitia dono dedit. Anno 76, die 10 Septem¬
+          <lb/>bris&amp;quot;; à l’intérieur de la couverture ex-libris, entouré du texte suivant:
+          <lb/>Franciscus Praepositus S. Salvatoris Pollingae. A. 1744.&amp;quot; Au-dessous:
+          <lb/>Duplum Bibliothecae regiae Monacensis.
+          <lb/>1835
+          <lb/>PELBARTUS DE THEMESWAR
+          <lb/>Haguenau, H. Gran 1509
+          <lb/>Pomerium SermonumQuadragesimalium.Et est. ob
+          <lb/>temporis exigentiam, et christi fide! lium necessariam eru¬
+          <lb/>1175
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

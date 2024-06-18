@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:36.729651+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu024.tif
+IMAGE WIDTH: 2384
+IMAGE HEIGHT: 3840
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Troja), où Marc Reinhart *), probablement frère de Jean
+          <lb/>Reinhart de Grüningen, avait établi sa presse en 1489. Il y
+          <lb/>aurait imprimé deux petits ouvrages en allemand: Voca¬
+          <lb/>bularius latin. — german, (1495) et S. Brandans Leben 1497.
+          <lb/>L’année suivante Hupfuff établit son officine à Strasbourg;
+          <lb/>pour la vente de ses publications il a eu un étalage sous le
+          <lb/>grand escalier extérieur de l’Hôtel de Ville; à partir de 1509
+          <lb/>il en a eu aussi un près de la cathédrale.
+          <lb/>Hupfuff a été marié deux fois, une première fois avec
+          <lb/>Elsa Klemm d’Oppershofen (diocèse de Mayence). Après la
+          <lb/>mort d’Elsa, atteinte de la lèpre en 1509, il épousa Brigitte
+          <lb/>Zorn; lui-même mourut en 1520; le dernier livre sorti de sa
+          <lb/>presse «Baptistae Mantuani Fastorum Libri» parut au mois
+          <lb/>de mars 1520.
+          <lb/>Il a publié de nombreux ouvrages latins et des traités
+          <lb/>populaires de tout genre: calendriers, chansons, livres de
+          <lb/>droit, sermons de Geiler, satyres de Murner, etc., la plupart
+          <lb/>du XVIe siècle. Une vingtaine d’entre eux remontent au
+          <lb/>XVe siècle, parmi lesquels quatorze sont ornés de gravures:
+          <lb/>Brandans Meerfahrt (1499) avec les mêmes gravures que
+          <lb/>dans l’édition de Kirchheim de 1497, Büchlein, wie man
+          <lb/>Fisch fangen soll (1498) avec trois gravures (Schramm,
+          <lb/>vol. XX. N° 2085-2086), Kaiser Karls Recht (1498) avec
+          <lb/>3 gravures (Schramm N° 2087), Amor die Liebe, 16 gravures
+          <lb/>(Schramm N° 2088- 2100), Lucidarius, 8 gravures (Schramm
+          <lb/>2102-2106), Salomon et Salomé (1499), 48 grav. (Schramm
+          <lb/>N° 2107-2152), Träume Daniels (1500), 2 grav. (Schramm
+          <lb/>2153), Dracole wajda (1500), 1 grav. (Schramm 2154), Bos¬
+          <lb/>man, Mirakel von einem Geist (1500), 1 grav. (Schramm
+          <lb/>N° 2155), Ritter von Staufenberg par Eckenolt (1500),
+          <lb/>20 grav. (Schramm N° 2156-2172), Roms Wunderwerke
+          <lb/>(1500), 12 grav. (Schramm N° 2173), König Laurin (5. sept.
+          <lb/>*) Marc Reinhart s’établit vers 1476 à Lyon, où il fut l’associé
+          <lb/>de Nic. Philippi. En 1483 il quitta Lyon et arriva à Strasbourg,
+          <lb/>où il travailla probablement chez son frère Jean Reinhart, alias
+          <lb/>Grüningen. En 1489 il s’établit à Kirchheim, où il imprima un assez
+          <lb/>grand nombre de livres religieux jusque vers 1494.
+          <lb/>XXIV
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

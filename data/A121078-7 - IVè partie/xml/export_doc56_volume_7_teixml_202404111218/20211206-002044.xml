@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:02.588044+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002044.tif
+IMAGE WIDTH: 2486
+IMAGE HEIGHT: 3992
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Schmidt III, n° 64; Zapf : Bebel p. 158. — Jadis Bibl. de
+          <lb/>Strasbourg, Incun, n° 683.
+          <lb/>958
+          <lb/>BEBEL, Henri (Idem). — (Strasbourg (Jean Prüss) 1513),
+          <lb/>in-8°.
+          <lb/>GKXIV, 2231 : B U Breslau, Marbourg, B M Danzig. 959
+          <lb/>BEBEL, Henri (Idem). — Haguenau, Thomas Anshelm,
+          <lb/>janvier 1517, in-4°.
+          <lb/>Goedeke Ie, p. 438/9, n° 5.
+          <lb/>960
+          <lb/>BEBEL, Henri (Idem). — Haguenau, 1518, in-4°.
+          <lb/>Goedeke Ie, p. 438/9 n° 5.
+          <lb/>961
+          <lb/>BEBEL, H. : Ars versificandi et carminum condendorum cum
+          <lb/>quantitatibus syllabarum. — (Haguenau, Thomas
+          <lb/>Anshelm, janvier 1520, in-4°.
+          <lb/>Burg n° 88.
+          <lb/>962
+          <lb/>BEBEL, Henri (Commentaria) ; Commentaria epistolarum
+          <lb/>conficiendarum... — (Strasbourg, Jean Grüninger (28.II)
+          <lb/>1506), in-8°.
+          <lb/>GKXIV, 2237: B N Berlin, Munich, B U Vienne, etc. Schmidt
+          <lb/>I, 74; Panzer 6, 34; Zapf: H. Bebel n° 103.
+          <lb/>963
+          <lb/>BEBEL, Henri : Commentaria Epistolarum conficiendarum. —
+          <lb/>Strasbourg, 1512, in-4°.
+          <lb/>Goedeke 12, p. 438, n° 3.
+          <lb/>964
+          <lb/>BEBEL, Henri (Comoedia) : Comoedia vel potius dialogus de
+          <lb/>optimo studio scholasticorum... — (Strasbourg, Mathias
+          <lb/>Schürer 1513), in-4°.
+          <lb/>Vogeleis p. 181.
+          <lb/>965
+          <lb/>BEBEL, Henri (Desine livor) : Desine Livor, Laus et victoria
+          <lb/>Caesari Augusto. — Strasbourg, Jean Grüninger 1509.
+          <lb/>42
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

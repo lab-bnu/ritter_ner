@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:29.380600+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2105.tif
+IMAGE WIDTH: 2322
+IMAGE HEIGHT: 3824
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Haec denvo svnt addita... (3 lignes.)
+          <lb/>INDEX COMMENTARIORVM BEBELIANORVM. Haec omnia
+          <lb/>sunt nouissime per auctorem recognita, emendata, &amp;amp; in
+          <lb/>multis locis, multisque verbis aucta, solique Schurerio
+          <lb/>commissa. Anno domini. M. D. XIII.! Die. III. Mensis Maij.
+          <lb/>A la fin: ARGENTINAE, MENSE AVGV STI, ANNO, M. D. XIII.
+          <lb/>T. O. I REGNANTI IMPERATORE ! CAES. MAXIMILIANO! P. F.
+          <lb/>Avg. P. P. .6.
+          <lb/>In-4°, car. rom., 4 ff. non ch., CLXXV ff. ch. — 21 ff. non ch.
+          <lb/>(Index à 4 col.), titre courant, initiales d’attente.
+          <lb/>Au verso du titre: AD ILLUSTRISSIMUM PRINCIPEM VDAL¬
+          <lb/>RICUMVuirtenbergensem... epi- stola Henrici Bebelij
+          <lb/>Iustingensis Sueui.... — Ex Tubinga quarto Idus Iulias.
+          <lb/>M. CCCCC. (4 pp.)
+          <lb/>Au recto du Ier f. non ch. à la fin avant l’index: marque typo¬
+          <lb/>graphique de M. Schürer. (H et B Planche XII, N° 2.) Au dessous:
+          <lb/>SVB VMBRA ALARVM TVA- RVM PROTEGE NOS; au verso
+          <lb/>du même f.: ADMONITIO BEBELII AD LECTOREM.
+          <lb/>R 101.567 (1). Prov.: Antiquaire Beck, Nördlingen, 26/x. 1867;
+          <lb/>11 M. Rel anc. 2 ex. R101.573(2). Prov.: Don de Fidelis Butsch,
+          <lb/>Augsbg. 1871.
+          <lb/>Schmidt VIII, N° 109, ne cite que son exemplaire. Il remarque
+          <lb/>avee raison que l’édition du mois de mai 1513, que Panzer mentionne
+          <lb/>6, 61 est une erreur et qu’il a pris pour la date de la mise en vente
+          <lb/>celle qui est au titre et qui indique seulement qu’au mois de mai la pu¬
+          <lb/>blication a été confiée à Schùrer.
+          <lb/>Londres, British Museum; GPB: Berlin, Bonn; Zapf, Bebel p.120-122.
+          <lb/>170
+          <lb/>BEBELIUS Henrieus
+          <lb/>Strasbourg, M. Schürer, 1513.
+          <lb/>OPVSCVLVM HENRICI BE belij Iustingensis de institu¬
+          <lb/>tione pue rorum, quibus Artibus, et pre- ceptoribus in¬
+          <lb/>stituendi &amp;amp; tradendi sint, Vna cum Apologia et defen¬
+          <lb/>sione poetices contra aemulos. ITEMOpusculum qui
+          <lb/>auctores legendi sint ad comparationem eloquentiae.
+          <lb/>Comoedia vel potius dialogus de! optimo studio scholasti¬
+          <lb/>corum. ITEM.Oratio de vtilitate eloquentiae, et quae
+          <lb/>res faciat pueros eloquentes. Apologia et defensio Be¬
+          <lb/>belij contra! adversarios suos.
+          <lb/>A la fin: ARGENTORATI, IN AEDI-BVS SCHVRERIANIS.
+          <lb/>ANNO M. D. XIII. MENSE MAIO. (Verso blane).
+          <lb/>In-40, car, rom,, 44 ff. non ch., sign. A-D, Bb-Dd, titre courant,
+          <lb/>initiales d’attente.
+          <lb/>Au verso du titre: Lettre déd. de Bebel: Iacobo Oester Tubin!
+          <lb/>gensi, causarum patrono consistorij episcopalis Argentoraci,
+          <lb/>datée de Tubingen, VI. Idus Maias Anno. M. D.VI.
+          <lb/>101
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

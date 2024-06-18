@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:03.173257+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002065.tif
+IMAGE WIDTH: 2452
+IMAGE HEIGHT: 4004
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>BRENTIUS, Joh. (Vom Hagel) : Vom Hagel, Donner und
+          <lb/>allem Ungewitter... — Strasbourg, Christian Müller
+          <lb/>(Mylius) 1565, in-8°.
+          <lb/>Köhler, n° 459 : Darmstadt, St. B. Zürich.
+          <lb/>1073
+          <lb/>BRENTIUS, Joh. : (Idem). — (Strasbourg ?1 1565, in-8°.
+          <lb/>Köhler, n° 460 : Regensburg.
+          <lb/>1074
+          <lb/>BRENTIUS, Joh. (Hiob) : Hiob cum commentariis... —
+          <lb/>Haguenau, Jean Secer mars 1527, in-8°.
+          <lb/>Köhler n° 21; BN Paris: A 8257; Burg n° 99.
+          <lb/>1075
+          <lb/>BRENTIUS, Joh. (Idem): Hiob cum commentariis... —
+          <lb/>Haguenau, Jean Secer 1529, in-8°.
+          <lb/>Köhler, n° 36; BuRG, n° 103.
+          <lb/>1076
+          <lb/>BRENTIUS, Joh. (Idem) : Hiob cum commentariis... —
+          <lb/>Haguenau, Jean Secer 1531, in-8°.
+          <lb/>Köhler, n° 49; Burg, n° 105.
+          <lb/>1077
+          <lb/>BRENTIUS, Joh. (Hiob) : Der Job uszgelegt im Latein... yetzt
+          <lb/>verdeutscht [par Simon Hafernitz). — [Haguenau,
+          <lb/>Jean Secer 1529), in-8°.
+          <lb/>Köhler, n° 41.
+          <lb/>1078
+          <lb/>BRENTIUS, Joh. (Hiob) : Der Job auszgelegt im Latin, nach¬
+          <lb/>mals verteutscht... — (Haguenau, Valentin Kobian
+          <lb/>4. VIII, 1538), in-8°,
+          <lb/>Köhler, n° 99; Bibl. S. Guillaume, Strasbourg.
+          <lb/>1079
+          <lb/>BRENTIUS, Joh. (Homiliae) : Homiliae XXII sub incursionem
+          <lb/>Turcarum in Germaniam ad populum dictae... —
+          <lb/>Haguenau, J. Secer 24 août 1533, in-80.
+          <lb/>U B Haag; Köhler, n° 64 : Stuttgart, Wernigerode; Burg,
+          <lb/>n° 108.
+          <lb/>1080
+          <lb/>63
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

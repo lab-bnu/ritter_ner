@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:06.005953+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002170.tif
+IMAGE WIDTH: 2506
+IMAGE HEIGHT: 3976
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>EUCLIDES. Voir aussi: IsAACUS Monachus, n° 2129; (Ritter,
+          <lb/>Rép. nos 811-8171.
+          <lb/>EULENSPIEGEL : Ein kurtzweilig lesen von Dyl Ulenspiegel
+          <lb/>geboren usz dem land zu Brunszwick. Wie er sein Leben
+          <lb/>volbracht hatt. xcvi/96] seiner geschichten. (Grav.). —
+          <lb/>(Strasbourg, Jean Grüninger (29. VIIII 1515), in-4°.
+          <lb/>(Attribué par quelques-uns à Thomas Murner).
+          <lb/>Kristeller 99; Schmidt I, n° 145; Braune, Neudrucke, fasc.
+          <lb/>55/6, p. 11 et suiv. : ex. unique à Londres, British Museum.
+          <lb/>1652
+          <lb/>EULENSPIEGEL : (Idem). — Strasbourg, Jean Grüninger
+          <lb/>12. VII. 1519, in-4°.
+          <lb/>Schmidt, n° 164; Kristeller 102; Panzer, Annalen, Zusätze 147;
+          <lb/>Weller, Rep. 1252. Heitz-Ritter, n° 97. — Gotha. Braune,
+          <lb/>Neudrucke, fasc. 55/6, p. vi et suiv.
+          <lb/>1653
+          <lb/>EULENSPIEGEL : (Idem). — Strasbourg, Christophe Grü¬
+          <lb/>ninger 1531), in-4°,
+          <lb/>Schröder, Edouard : Ein unbekannter Eulenspiegel-Druck.
+          <lb/>Dans Zeitschr. f. deutsches Altertum 70 (1933), p. 273-279:
+          <lb/>B N Berlin, Yt 5603.
+          <lb/>1654
+          <lb/>EULENSPIEGEL : Wunderbarliche... historyen Tyll Ulen¬
+          <lb/>spiegels, ausz dem land zu Braunschweig bürtig,
+          <lb/>newlich ausz Sachsischer sprach auff gut Hochdeütsch
+          <lb/>verdolmetscht. — (Strasbourg, Jacques Frölich 1529),
+          <lb/>in-40.
+          <lb/>Goedeke I2, p. 346, n° 9; Braune, Neudrucke, fasc. 55/6,
+          <lb/>D. XVII.
+          <lb/>1655
+          <lb/>EULENSPIEGEL : (Idem). — (Strasbourg, Jacques Frölich
+          <lb/>1543), in-40.
+          <lb/>Goedeke I2, p. 346, n° 11; Ritter: B M Strasbourg, n° 934;
+          <lb/>Braune, Neudrucke, fasc, 55/6, p. XVII.
+          <lb/>1656
+          <lb/>EULENSPIEGEL : Idem). — Strasbourg 1551, in-80.
+          <lb/>168
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

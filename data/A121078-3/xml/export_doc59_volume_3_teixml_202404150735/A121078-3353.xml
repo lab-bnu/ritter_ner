@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:12.218079+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3353.tif
+IMAGE WIDTH: 2382
+IMAGE HEIGHT: 3854
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>HOHENLOHE Sigmund
+          <lb/>Strassburg, B. Jobin 1585
+          <lb/>Creutzbüchlein, Oder ermanunge des! Wolgebornen
+          <lb/>Herren Sigismunden! Graffen von Hohenlohe, Thumbdechan
+          <lb/>der Ho-] hen Stifft zu Strassburg, nach altem herkommen,
+          <lb/>be-I schehen an die Vicarien vnd Chorsverwandten daselbst.
+          <lb/>Im Jar 1525 durch Wolff Köpffel am Ross- marckt
+          <lb/>zu Strassburg gedruckt, jetzunder widerumm auffs new
+          <lb/>an Tag geben, auss Vrsachen, wie auss der Vor¬rede an
+          <lb/>den Christlichen Leser zu sehen ist &amp;amp;c. (Holeschn, der vorher¬
+          <lb/>gehenden Nr., jedoch etwas Eleiner, mit dem Wappen der von Hohenlohe
+          <lb/>am Kreuzesstamme.) Darunter: ANNO M. D. LXXXV. (Rücks, leer.)
+          <lb/>40, Got., 11 unn. Bll., Sign. A-C, Kust., Init. G, D. Nach den
+          <lb/>Typen dürfte B. Jobin der Drucker sein.
+          <lb/>Bl. A 2a: Ad Lectorem Christianum. (2 S.)
+          <lb/>R 102.373. Herkunft unbekannt.
+          <lb/>Stadtbibl. Strassburg.
+          <lb/>Ficker, Kreuzbüchlein S. XXXIX.
+          <lb/>1181
+          <lb/>HOLEN Gottschalk
+          <lb/>Hagenau, H. Gran 1517
+          <lb/>Sermonum opus exquisitissimum ob sui deuotionem
+          <lb/>&amp;amp; raritatem, gloriam, splendorem eo preciosi- us quo
+          <lb/>dulcius audientium demulcet aures: dulci histo riarum
+          <lb/>insitione; doctorumque tum theologorum tum iuriscon¬
+          <lb/>sultorum auctoritatibus munitum: disertissimi decla¬
+          <lb/>matoris: sacrarum litterarum profundissimi lecto! ris
+          <lb/>patris Gotschalci: Eremitarum diui! Augustini professi:
+          <lb/>pro tempore Hyemali super epistolas dominicarum per
+          <lb/>an ni circulum: Tabulis ac dire- ctorijs materiarum
+          <lb/>eorumden sermonum adiectis.
+          <lb/>Inserti sunt pro die veneris san cta duo subtilissimi
+          <lb/>sermones per modum dialogi inter christum et latronem
+          <lb/>atque Cain: cum vno sermone in sabbato! sancto Pasce:
+          <lb/>Egregij doctoris patris loannis de sancto ge- miniano
+          <lb/>Ordinis predicatorij, quos si diligenter mastica-ueris;
+          <lb/>pias (mihi crede) lachrymas non continebis.
+          <lb/>Am Schluss: Opus sermonum... reui-sum excusumque
+          <lb/>per industrium Hen-ricum Gran in imperiali oppido
+          <lb/>Hagenaw: expensis ac sum! ptibus prouidi viri Ioannis
+          <lb/>Rynman archibibli opole finit felici- ter Anno sa- lutis
+          <lb/>no stre M. D. xvij. pridie kalendas Septem- bris.
+          <lb/>(Rücks, leer.)
+          <lb/>795
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

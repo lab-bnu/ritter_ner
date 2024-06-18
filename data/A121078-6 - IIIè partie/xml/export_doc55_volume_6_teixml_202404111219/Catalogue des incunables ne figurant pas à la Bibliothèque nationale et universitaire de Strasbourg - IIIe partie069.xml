@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:06.181410+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie069.tif
+IMAGE WIDTH: 2482
+IMAGE HEIGHT: 3932
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>LIED. Brembergers Tod — (Strasbourg, Kistler) 1500 in-80.
+          <lb/>Copinger 3597; Schmidt IV, p. 6, n° 13.
+          <lb/>422
+          <lb/>LIED. (Idem). — (Strasbourg, Barth. Kistler) uff Grieneck
+          <lb/>1500, in-8°.
+          <lb/>Copinger 3598.
+          <lb/>423
+          <lb/>LIED. Das ist ein hüpsch lied und saget wie by eynander sassen
+          <lb/>kluge leyen... — (Strasbourg, Jean Grüninger (?) vers
+          <lb/>1500), in-8°.
+          <lb/>Schmidt I, n° 118 (l’attribue à Grüninger 1510). B U Munich. 424
+          <lb/>LIED. Von Keiser Karls Recht, ein hüpsch lied. —
+          <lb/>Strasbourg, Mathias Hupfuff 1498, in-4°.
+          <lb/>Hain 4527; Schmidt V, n° 3.
+          <lb/>425
+          <lb/>LIED. Von dem tot ein geystlich lied... — (Strasbourg),
+          <lb/>(Barth. Kistler vers 1500), in-8°.
+          <lb/>Copinger 3593; Schmidt IV, p. 6, n° 12. Wackernagel 10. —
+          <lb/>Erlangen.
+          <lb/>426
+          <lb/>LINDELBACH, Michael : Praecepta latinitatis ex diversis
+          <lb/>oratorum atque poetarum codicibus tracta. —
+          <lb/>(Strasbourg, Jean Prüss vers 1490), in-4°.
+          <lb/>Copinger 3603.
+          <lb/>427
+          <lb/>LIRER, Thomas: Chronica von alten Königen und Kaisern. —
+          <lb/>Strasbourg, (Barth. Kistler après le 22. VII. 1499), in-40.
+          <lb/>Hain 4993, Proctor 759, Voulliéme : Berlin 2553, Schmidt IV,
+          <lb/>p. 5, n° 9, Schreiber 4510. Stuttgart.
+          <lb/>428
+          <lb/>LIRER, Thomas : Cronica von alten Künig und Kaiseren von
+          <lb/>Anfang Rom (jusqu’à 1494). — Strasbourg, Jean
+          <lb/>Knobloch 1500, in-4°.
+          <lb/>Graesse IV, p. 220.
+          <lb/>429
+          <lb/>67
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

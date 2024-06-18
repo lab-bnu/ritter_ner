@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:12.405981+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002424.tif
+IMAGE WIDTH: 2492
+IMAGE HEIGHT: 3948
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>passionibus. De mulierum accidentibus et curis eorum¬
+          <lb/>dem, de physica scientia, experimentorum libri quatuor.
+          <lb/>— Strasbourg 1544, in-fol.
+          <lb/>BN Paris Fol. T22, 14.
+          <lb/>2990
+          <lb/>PROBIER-BÜCHLEIN : auff Gold, Silber, Kupffer und Bley...
+          <lb/>Au verso du f. du titre : Charakter und namen der
+          <lb/>Metall. — Strasbourg, Jacques Frölich 1549, in-80.
+          <lb/>Darmstaedter p. 177, note 1 : BN Berlin. (Ritter, Rép. n° 1926
+          <lb/>a une édition, Strasbourg, Ch. Egenolff, 1530).
+          <lb/>2991
+          <lb/>PROGNOSTICON : Prognosticon auf die Jahre 1530-34. —
+          <lb/>Strasbourg, Christian Egenolph 1529.
+          <lb/>Benzing : « Egenolff n° 14 : Ehemals Berlin S B (Der Titel
+          <lb/>ist nicht genauer bekannt)».
+          <lb/>2992
+          <lb/>PROGNOSTICON, Theologicum : Das ist, Gaistliche Grosse
+          <lb/>Practica ausz hailiger Biblischer Schrifft und Historien
+          <lb/>Von der Welt Nahe und Garausz. Inhaltend die ver¬
+          <lb/>wunderlichsten Veränderungen im Kirchenstand und
+          <lb/>allen Policeyen, so in den zwey letsten 2000 Jaren... bisz
+          <lb/>auffs Jar Christi 327 ungefärlich zugetragen... Alles
+          <lb/>nun erstmals... durch den Ehrwürdigen Herren M. Ada¬
+          <lb/>mum Nachenmoser von Brandwälden aus Churland
+          <lb/>vorgestellt und zusammen getragen. — Getruckt zu
+          <lb/>Leiden durch Wernher Jobsson. Anno M.D.LXXXVIII.
+          <lb/>1— probablement Strasbourg, B. Jobin] 1588, in-fol.
+          <lb/>Attribué quelquefois à tort à Fischartl.
+          <lb/>Hauffen, Fischart-Studien IV, p. 36-37 [Depuis 1914m anque
+          <lb/>à la B N de Strasbourg) (Francfort), Catal. 774, n° 255:
+          <lb/>36 M. l’attribue à Fischart.
+          <lb/>2993
+          <lb/>PROTEVANGELION. Voir: JACOBUS Minor.
+          <lb/>PRUCKNER, Nicolaus : Was ein Comet sey : woher er komme
+          <lb/>und seinen Ursprung habe... mit anzeygung etlicher
+          <lb/>historien und geschichten... sonderlich von dem Cometen
+          <lb/>422
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

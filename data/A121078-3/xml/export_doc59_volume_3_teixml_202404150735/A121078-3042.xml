@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:05.411440+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3042.tif
+IMAGE WIDTH: 2340
+IMAGE HEIGHT: 3840
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>486
+          <lb/>Giessen, München, Münster, Oxford Bodleiana.» Édition faite sur celles
+          <lb/>de Schürer 1515 et 1516. Dans les ff. lim. on a suivi la première; pour
+          <lb/>le corps de l’ouvrage et la table, on s’est servi de la seconde.»
+          <lb/>727
+          <lb/>ERASMUS: Lucubrationes
+          <lb/>Strassburg, M. Schürer, 1517
+          <lb/>D. ERASMI ROTERODAMI VI ri vndecunque doctissimi
+          <lb/>Lucu- brationes, quarum Index positus est facie se¬
+          <lb/>quenti...
+          <lb/>IN LIBERA ARGENTINA. Ex recognitione authoris.
+          <lb/>Cum gratia &amp;amp; priuilegio Im-¬ periali ad sexennium.
+          <lb/>Am Schluss: Argentorati apudMatthiam Schurerium
+          <lb/>Mense. Nouembri. Anno M.1 D.XVII. REgNaNTe MAGNA¬
+          <lb/>NIMO IM- PE. CAESA. MAXIMILIANO.) P. F. AVG. P. O. P.
+          <lb/>40, Antig., 4 unn. Bll., 285 S. (wobei nur die ungeraden Zahlen
+          <lb/>angeführt sind, die geraden sind ausgelassen), 8 unn. Bll., Kopftitel,
+          <lb/>Titeleinfassung wvie in der Ausgabe 1515.
+          <lb/>Auf der Rückseite des Titelbl.: Index.
+          <lb/>Bl. 2a: NICOLAVS GERBELLIVS! D D. Doctor. Literarum,
+          <lb/>simul &amp;amp; pietatis Amatoribus Benefacere... Argentorati,
+          <lb/>ex Aedibus nostris. Anno... M. D. XV.
+          <lb/>Bl. 4b: Libellus loquitur. (3 Dist.)
+          <lb/>Bl. 2a ist von 4 einzelnen Leisten eingefasst, wie Titelbl. Nr. 719.
+          <lb/>R100.109. Herkunft unbekannt.
+          <lb/>2. Ex. R 102.0716), Prov.: Ch. Bover Sohn, Strassburg, 8. VII.
+          <lb/>1879; 12M.
+          <lb/>GK: SB Berlin, UB Göttingen, Halle. Rest S. 56; Schmidt VIII,
+          <lb/>Nr. 221; Kristeller 549; Baer, Frankfurt a. M., Katalog 500 (1907),
+          <lb/>Nr. 899; 30M.
+          <lb/>728
+          <lb/>ERASMUS: Adagia
+          <lb/>Strassburg, M. Schürer, 1518
+          <lb/>COLLECTA nea Adagiorum veterum Desyderij Erasmi
+          <lb/>Roterodami Germa- niae decoris. A LECTOREM. Inue¬
+          <lb/>nies hic candide Lector Adagia illa Eras-mi Roterodami,
+          <lb/>multo emendatiora, multo integriora, quam in prioribus
+          <lb/>impressioni- bus. Dictiones praeterea graecas sparsim
+          <lb/>huic opusculo insertas cum apicibus suis, ac spiritibus,
+          <lb/>artifici opera fabrefactis, qui in alijs huc¬usque sunt
+          <lb/>neglecti. Addita est tabula in ipsius operis calce, a Schu¬
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

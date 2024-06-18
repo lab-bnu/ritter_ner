@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:58.735474+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5264.tif
+IMAGE WIDTH: 2418
+IMAGE HEIGHT: 3860
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1574
+          <lb/>Ritter, BM Strasbourg, No 2269; Oxford, Bibl. Bodleiana.
+          <lb/>Weller, 3816 l’attribue à F. Peyrus, Nuremberg.
+          <lb/>2522
+          <lb/>ZIEGLER Clemens
+          <lb/>Strasbourg, J. Schwan, 1524
+          <lb/>Ein kurtz Registervd auszzug der Bibel in welchem
+          <lb/>man findet was ab-gotterey sey, vnd wo man yedes
+          <lb/>suchen sol. Colligiert durch! Clement Zyegler Gartner zu!
+          <lb/>Strasz- ] burg.
+          <lb/>A la fin : Getruckt zu Straszburg, durch Johannem! Schwan
+          <lb/>im jar. M. D. xxiiij (Feuille de lierre).
+          <lb/>In-4°, car. goth., 4 ff. non ch., sign. a-aiij. Au verso du titre init. E.
+          <lb/>R. 102.380. Prov. : Bibl. Heitz. sign. aiij est renversée.
+          <lb/>2e ex. R. 102.381. Prov. : Bibl. Ch. Schmidt. Variante.
+          <lb/>Weller Rep. 3253. Bibl. St.-Guillaume, Strasbourg; Ritter, BM
+          <lb/>Strasbourg 2270.
+          <lb/>2523
+          <lb/>ZIEGLER Clemens
+          <lb/>Strasbourg, (J. Schott] (1524]
+          <lb/>Von der waren nyessung! beyd leibs vnd bluts, Christi
+          <lb/>Ein kurtz schrifftliche vszlegung, vnd christlicher verstandt,
+          <lb/>nach grundtrechter art vnd weisz der Schrifft.Vnd von
+          <lb/>dem Tauff wie man den, sonder allen zusatz öl, saltz oder
+          <lb/>beschwerung, hand-len sol.Durch Clement zyegler
+          <lb/>Gartner zu Strassburg. En haut et en bas : bandes d’orne¬
+          <lb/>ment. (Verso blanc.)
+          <lb/>In-4°, car. goth., 18 ff. non ch., sign. Aij-Diiij, titre courant, réclames,
+          <lb/>belles init. G, A, de la grandeur d’environ 4 cm., avec un génie à l’intérieur.
+          <lb/>Au recto du dernier f. grav. sur bois : Nicodème tiré de la Postill de
+          <lb/>Geiler (Verso blanc).
+          <lb/>fol. Cij, marque typ. de J. Schott (H. &amp;amp; B, Planche IV, No 9).
+          <lb/>R. 102.383. Prov. : Bibl. Heitz, Strasbourg.
+          <lb/>2e ex. R. 102.384. Prov. : Donation Cunitz; les ff. de la sign. D. sont
+          <lb/>intervertis.
+          <lb/>Schmidt II, N° 93 : St.-Guillaume, Strasbourg; Ritter, BM Strasbourg,
+          <lb/>N° 2271 ; Oxford, Bibl. Bodleiana; Weller, No 3252 l’attribue à Koepfel,
+          <lb/>de même Kuczynski, No 2864.
+          <lb/>2524
+          <lb/>ZIEGLER Jacobus
+          <lb/>Strasbourg, P. Schöffer, 1532
+          <lb/>Quae! intus con II tinentur:
+          <lb/>Syria, ad Ptolomaici operis rationem. Praeterea Strabo ne,
+          <lb/>Plinio, &amp;amp; Antonio (pour Antonino) auctoribus locupletata.
+          <lb/>Palestina, iisdem auctoribus. Praeterea Hi- storia sacra,
+          <lb/>&amp;amp; Iosepho, &amp;amp; diuo Hieronymo locupletata.
+          <lb/>Arabia Petraea, siue, Itinera filiorum Israel per de- sertum,
+          <lb/>iisdem auctoribus.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

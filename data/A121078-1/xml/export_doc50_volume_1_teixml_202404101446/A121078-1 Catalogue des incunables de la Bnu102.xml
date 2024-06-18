@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:38.141921+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu102.tif
+IMAGE WIDTH: 2396
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>NICOLAUS DE BLONY: Tractatus sacerdotalis de sacramentis.
+          <lb/>Strasbourg, Mart. Flach, 1493, in-4°.
+          <lb/>Hain 3256, Madsen 2862, Schmidt VI, 48, Voulliéme: Berlin
+          <lb/>2495, 3.
+          <lb/>K 2675. Prov.: Curé Cromer, Saverne, 21. VIII. 1879.
+          <lb/>2e ex. K. 1840, 2. A la suite de Guido de Monte Rotherii, Mani¬
+          <lb/>pulus, 1493. K 1840, 1.
+          <lb/>339
+          <lb/>NICOLAUS DE DINKELSBÜHL: Postilla evangeliorum domi¬
+          <lb/>nicalium. Strasbourg, (J. Grüninger), 1496, in-4°.
+          <lb/>Hain 11760, Madsen 2864, Proctor 476 (?), Voulliéme: Ber¬
+          <lb/>lin 2527, 30.
+          <lb/>K 2682. Prov.: Don de la Bibl. Univ. de Heidelbers, 1872. Au¬
+          <lb/>dessus du titre; «Matheus Sydelin», au-dessous: «Exupr.
+          <lb/>Bieler», d’une autre main: «Melchior Mager me sibi compa¬
+          <lb/>ravit.» Au verso du titre, armoiries, entourées des mots:
+          <lb/>«Monasterii Petri domus». Rel. anc.
+          <lb/>340
+          <lb/>NICOLAUS FALCUTIUS: Antidotarius. (Strasbourg, J. Prüss,
+          <lb/>s. d.), in-fol.
+          <lb/>Hain 11.763, Voulliéme: Berlin 2387.
+          <lb/>K 2684. Prov.; B N Munich, 24. V. 1877. 4 M. Notes mss. à
+          <lb/>l’intérieur des plats. Rel. anc.
+          <lb/>341
+          <lb/>NICOLAUS DE HANAPIS: Auctoritates utriusque testamenti.
+          <lb/>(Strasbourg, H. Eggestein), s. d., in-fol.
+          <lb/>Hain 3534, Madsen 2865, Pellechet 2580, Proctor 283, Voul¬
+          <lb/>liéme: Berlin 2146.
+          <lb/>K 868. Prov.: BN Munich, 22. I. 1880, 5 M. Notes mss. à la
+          <lb/>fin.
+          <lb/>342
+          <lb/>NICOLAUS DE HANAPIS: Auctoritates utriusque testamenti.
+          <lb/>(Strasbourg, H. Eggestein, s. d.), in-fol.
+          <lb/>Hain 3535, Proctor 270, Voullième: Berlin 2146, 4.
+          <lb/>K 869. Prov.: B N Munich, 20. I. 1880.
+          <lb/>343
+          <lb/>NICOLAUS DE LYRA: Moralia super bibliam. (Strasbourg,
+          <lb/>G. Husner, s. d.), in-fol.
+          <lb/>Hain 10372, Pellechet: Colmar 919, Proctor 365, Voulliéme:
+          <lb/>Berlin 2206.
+          <lb/>72
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

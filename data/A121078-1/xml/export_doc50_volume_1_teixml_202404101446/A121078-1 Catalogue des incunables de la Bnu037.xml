@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:36.898290+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu037.tif
+IMAGE WIDTH: 2386
+IMAGE HEIGHT: 3842
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>G W 1932, Hain 5391, Madsen 199, Pellechet 3820, Proctor 692,
+          <lb/>Schmidt VI, 37, Voulliéme: Berlin 2494.
+          <lb/>K 272b. Prov.: B N Munich, 22 I. 1880, 3 M. A l&amp;#x27;intérieur du
+          <lb/>premier plat, ex libris avec la légende suivante: Ex Biblio¬
+          <lb/>theca ecclesiae Collegiatae Lateranensis ad S. Nicolaum prope
+          <lb/>Passavium.
+          <lb/>27
+          <lb/>ANGELUS DE CLAVASIO: Summa angelica de casibus conscien¬
+          <lb/>tiae. Strasbourg, Mart. Flach, 26 mars 1495, in-fol.
+          <lb/>G W 1938, Hain 5397, Madsen 203, Pellechet 3827, Proctor 701,
+          <lb/>Schmidt VI, 56, Voulliéme: Berlin 2502.
+          <lb/>K 273. Prov.: Don du prince de Bentheim. Au verso du titre,
+          <lb/>note mss.: Iste liber pertinet Johanni filio thome karoli. Rel.
+          <lb/>anc.
+          <lb/>28
+          <lb/>ANGELUS DE CLAVASIO: Summa angelica de casibus conscien¬
+          <lb/>tiae. Strasbourg, Mart. Flach, 15 mars 1498, in-4e.
+          <lb/>G W 1943, Hain 5399, Madsen 205, Pellechet 3831, Proctor 708,
+          <lb/>Schmidt VI, 66, Voullième: Berlin 2508.
+          <lb/>K 273a. Prov.; B N Munich, 22 I. 1880, 2 M. Notes mss. au
+          <lb/>recto du titre: Ad Bibliothecam RRFF Niedernaltacensium.
+          <lb/>Rel. anc.
+          <lb/>29
+          <lb/>ANIANUS: Compotus manualis. Strasbourg, J. Prüss, 14 nov.
+          <lb/>1488, in-4°.
+          <lb/>G W 1951, Hain 1109, Madsen 209, Pellechet: Colmar 85,
+          <lb/>Proctor 537, Schmidt III, 17, Voulliéme: Berlin 2356.
+          <lb/>K 276. Prov.: Librairie Trübner (Vente Noiriel), Strasbourg,
+          <lb/>4 IV. 1874. Note mss. à l&amp;#x27;intérieur du premier plat: Bibliothe¬
+          <lb/>cae Tegernseensis. Au milieu du titre: Sum Joannis Baptistae
+          <lb/>Winkelmair. Rel. anc.
+          <lb/>30
+          <lb/>ANNA Voir: LEGENDA de sancta Anna.
+          <lb/>ANSELMUS CANTUARENSIS: Dialogus de passione Christi et
+          <lb/>tractatus de planctu Mariae. Strasbourg, (Mart. Flach],
+          <lb/>18 octobre 1490, in-4°.
+          <lb/>Hain 1139, Proctor 686, Voulliéme: Berlin 2492. [Supplé¬
+          <lb/>ment aux Sermones tres de passione.)
+          <lb/>K 288. Prov.: B N Munich, 22 I. 1880.
+          <lb/>31
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:44.498614+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078066.tif
+IMAGE WIDTH: 2338
+IMAGE HEIGHT: 3844
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>952
+          <lb/>&amp;quot;R100.468a. Prov.: Recteur Muller, Quedlinbourg 15/V 1889;
+          <lb/>sans indic. de prix. Notes mss., au haut du titre: «Sum Johannis Bod¬
+          <lb/>meri.»
+          <lb/>Londres Brit. Museum 101i. d. 2. (2).
+          <lb/>1428
+          <lb/>Haguenau, J. Secer 1525
+          <lb/>LUTHER Martin
+          <lb/>MARTINI LVTHERI EPISTOLA ] RVM FARRAGO, Pieta-] tis
+          <lb/>&amp;amp; eruditionis plena, cum Psalmorum ali-quot interpreta¬
+          <lb/>tione, in quibus multa Chri stianae vitae saluberrima
+          <lb/>prae cepta ceu Symbola quae- dam indicantur.
+          <lb/>Haganoae, excudebat lohan. Secer. Anno M. D. XXV.
+          <lb/>(Verso blanc.)
+          <lb/>A la fin: Haganoae, excudebat Iohan. Secer.Anno
+          <lb/>M. D. XXV. (Marque typ. de J. Secer. HE B Planche LXX n° 7; Sul¬
+          <lb/>vestre n° 683.) Au-dessous le mot: IANVS.
+          <lb/>In-8°, car. ital., 140 ff. non ch., sign. A-S, titre courant, récla¬
+          <lb/>mes, init. à fig. T, G.
+          <lb/>Fol. 2a: Vincenti) us Obsopœus D. Michaeli! Obsopœo fratri suo!
+          <lb/>Germano... (3 pp.) Suit 1 p. et demie de table.
+          <lb/>R 101.999. Prov.: Harrassowite, Leipzig 25/x 1917; 13 M. 50.
+          <lb/>2ème ex.: R 101.500. Prov.: C. H. Beck, Nœrdlingen 13/XI 1883;
+          <lb/>2 M. 50. Note mes. à l&amp;#x27;intérieur de la couverture: « Hieronymi Wolfii
+          <lb/>ŒEtingensis, Augustæ Vindreborch 1557.
+          <lb/>BN Paris, Rés. D2. 3242 (1); Oxford, Bibl. Bodleiana. 1429
+          <lb/>LUTHER Martin
+          <lb/>Strasbourg, J. Knobloch 1525
+          <lb/>Ein Sermon von derZerstörung Jerusalem.! Das
+          <lb/>Teutsch landt auch also zerstört werd, wo es die! zeit
+          <lb/>seiner heymsuchung ] nicht erkent.! Was der tempel
+          <lb/>Gottes sey.! Martinus Luther.
+          <lb/>A lo fin: Zù Straszburg Getruckt durch Johan.Kno¬
+          <lb/>bloch, M. D. XXV. (Verso blanc.)
+          <lb/>In-4°, car. goth., 6 ff. non ch., sign. Aa-Bb, réclames, titre en¬
+          <lb/>cadré de 4 pièces juxtaposées : en haut, 2 monstres marins, sur la
+          <lb/>queue de chacun un enfant nu; bordures latérales, colonnes, en bas,
+          <lb/>3 génies tenant les écussons de Gran.
+          <lb/>*R101.987. Prov.: Bibl. Heitz, Strasbourg 1871.
+          <lb/>Oxford, Bibl. Bodleiana; Schmidt VII n° 302.
+          <lb/>1430
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

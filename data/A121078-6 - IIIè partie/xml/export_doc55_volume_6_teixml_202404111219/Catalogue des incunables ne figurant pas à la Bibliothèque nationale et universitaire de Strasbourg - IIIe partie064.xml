@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:06.107915+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie064.tif
+IMAGE WIDTH: 2482
+IMAGE HEIGHT: 3954
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>JOHANNES de Verdena: Sermones dormi secure dominicales.—
+          <lb/>(Strasbourg, impr. du Jordanus — Georges Husner
+          <lb/>vers 24. VI. 1487), in-fol.
+          <lb/>Proctor 612.
+          <lb/>392
+          <lb/>JOHANNES de Verdena : Sermones dormi secure de sanctis. —
+          <lb/>(Strasbourg, Jean Prüss) (30. III. 1489), in-fol. (Le
+          <lb/>feuillet S avec la date du 30 mars 1489 est imprimé avec
+          <lb/>les caractères de l’imprimeur du Jordanus, c’est-à-dire
+          <lb/>de Georges Husner).
+          <lb/>Hain 15960, 2; Proctor 648; Voulliéme : Berlin 2383, 5.
+          <lb/>393
+          <lb/>JOHANNES de Verdena: Sermones dormi secure dominicales.—
+          <lb/>(Strasbourg, impr. du Jordanus — Georges Husner)
+          <lb/>14. VIII. 1489, in-fol.
+          <lb/>Hain 15.960, 1; Proctor 651; Voulliéme : Berlin 2432. 394
+          <lb/>JOHANNES de Verdena : Sermones Dormi secure de sanctis.—
+          <lb/>Haguenau, Henri Gran) 27. XII. 1492, in-40.
+          <lb/>Proctor 3176; Madsen 2336; Polain 3512.
+          <lb/>395
+          <lb/>JOHANNES de Verdena: Sermones dormire secure de sanctis.—
+          <lb/>(Strasbourg, impr. du Jordanus — Georges Husner
+          <lb/>18. III. 1493), in-fol.
+          <lb/>Hain 15965, 2; Voulliéme : Berlin 2449, 5.
+          <lb/>396
+          <lb/>JOHANNES de Verdena: Sermones Dormi secure de sanctis. —
+          <lb/>(Strasbourg, Jean Grüninger] 3. VIII. 1500, in-4°.
+          <lb/>Hain 15996, 2; Proctor 494; Voulliéme : Berlin 2312;
+          <lb/>Bolchert 62.
+          <lb/>397
+          <lb/>JOHANNES de Verdena : Sérmones Dormi secure de tempore.—
+          <lb/>(Strasbourg, Jean Grüninger) 4. XII. 1500, in-4°.
+          <lb/>Hain 15966, 1; Proctor 496; Voulliéme : Berlin 2316; Polain
+          <lb/>3513. Bolchert 62.
+          <lb/>398
+          <lb/>62
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

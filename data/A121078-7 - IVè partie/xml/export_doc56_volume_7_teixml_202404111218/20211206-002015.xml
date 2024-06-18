@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:01.849388+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002015.tif
+IMAGE WIDTH: 2506
+IMAGE HEIGHT: 3976
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>ALBUCASIS. Voir: ABOUL KASIM AL ZAHRAVI.
+          <lb/>ALCIATO, Andrea : In tres posteriores Codicis Justiniani
+          <lb/>annotationes. — Strasbourg, Jean Schott 1515, in-fol.
+          <lb/>GKII, 11.979 : B N Munich, Vienne, B U Breslau,
+          <lb/>Greifswald; Schmidt II, n° 30.
+          <lb/>793
+          <lb/>ALCIATO, Andr. Voir aussi: RITTER, Rép. n° 32.
+          <lb/>ALCUINUS, Flaccus : Caroli Imperatoris illius Magni et Albini
+          <lb/>De Rhetorica et virtutibus disputatio, per Menradum
+          <lb/>Moltherum restituta. — Haguenau, Jean Secer 1529,
+          <lb/>in-40,
+          <lb/>GKIII, 171; BN Berlin, Munich, Vienne etc.; Burg, n° 55.
+          <lb/>794
+          <lb/>ALCUINUS, Fl. Voir aussi: RITTER, Rép. nos 33-35.
+          <lb/>ALEANDER, Hieronymus. Voir : Karlstadt no 2209a.
+          <lb/>ALESIUS, Alexander : De authoritate verbi Dei liber contra
+          <lb/>episcopum Lundensem. — (Strasbourg, Mylius) 1542,
+          <lb/>in-80
+          <lb/>GKIII, 1144: BN Berlin, Munich, Vienne etc.
+          <lb/>795
+          <lb/>ALEXANDER III (pape). Voir: LUTHER n° 2528.
+          <lb/>ALEXANDER Magnus : Das buch der geschicht des grossen
+          <lb/>Alexanders. Und ander historien ist durch mich Johans
+          <lb/>doctor der ertzney... usz dem ladtein zu teütschen
+          <lb/>gemacht. — (Strasbourg, Barth. Kistler (25 mars) 1503),
+          <lb/>in-fol.
+          <lb/>Panzer, Annalen I, 263, Schmidt IV, p. 9, no 22, Weller no 254.
+          <lb/>Heitz-Ritter n° 12 : B N Munich; Rosenthal (Munich), Catal.
+          <lb/>100, n° 38.
+          <lb/>796
+          <lb/>ALEXANDER Magnus : (Idem). — Strasbourg, Martin Flach,
+          <lb/>s. d. in-fol.
+          <lb/>Kristeller n° 504; Panzer 657 ; Heitz-Ritter no 13.
+          <lb/>797
+          <lb/>13
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

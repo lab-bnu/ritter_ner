@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:07.087492+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3154.tif
+IMAGE WIDTH: 2314
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>598
+          <lb/>cher Lieber To bia Jobine, wiewol Ich euch von ange¬
+          <lb/>sicht nie gesehen, deszglei- chen ewern lieben Herrn Vatter
+          <lb/>se- ligen Bernhardum Iobinum auch nie : Jedoch weil Ihr
+          <lb/>beyde meines geliebten Bruders seeligen gute freunde
+          <lb/>gewesen vnnd seine... opera vnd bücher... publiciert....
+          <lb/>Datum in der Key- serlichen Reichsstatt Reutlingen, den
+          <lb/>letsten tag Aprilis, daran diss buch in grosser eyl aller¬
+          <lb/>dings fert ig gemacht worden in 14 tagen Anno 1599.
+          <lb/>Bl. B1b-B 66: Von dem jämmerlichen vnd kläglichen
+          <lb/>Todfahl vnd abschid auss dieser Welt dess Hochgelehrten
+          <lb/>vnd weltberümbten Herrn Nicodemi Frischlini inn! seiner
+          <lb/>Historia relatione quinquennali folio 34.... (10 S.)
+          <lb/>R 100.9602. Prov.: Bibl. Heitz, Strassburg 1871.
+          <lb/>Stadtbibl. Strassburg 1310. Gk: SB Berlin, UB Bonn, Göttingen.
+          <lb/>Bibliographie Jak. Frischlins: Schottenloher I Nr. 6625-6626. 900
+          <lb/>FRISCHLIN Nikodemus
+          <lb/>[Strassburg, B. Jobin? 15742)
+          <lb/>VERA EFFIGIES AC DESCRIPTIO] ASTRONOMICI HOROLOGH
+          <lb/>ARGEN- tinensis in Summo Templo extructi. Anno CHRISTI
+          <lb/>M. D. LXXIV. (Zierleisten.)
+          <lb/>Darunter: N.icodemus] F.frischlin.)
+          <lb/>Urbs antiqua jacet, primi colüere Trebaces;
+          <lb/>Argentoratum, ripis contermina Rheni.... (84 lat. Verse.)
+          <lb/>Darunter: Horologium hocce fabrefactum &amp;amp; con- sum¬
+          <lb/>matum est, ab Isaaco Habrechto, Horologopaeo Argenti¬
+          <lb/>nense.
+          <lb/>Grosses, gefaltetes, einseitig bedrucktes Bl., 5sp. Die 2 ersten Sp.
+          <lb/>enthalten die lat. Verse Frischlins; die 3. Kolonne enthält eine ausführ¬
+          <lb/>liche Beschreibung der Münsteruhr in französischer Sprache: Cet Hor¬
+          <lb/>loge fût commencé l’an 1570. par Isaac Habrecht, natif de Schaffouse;
+          <lb/>Abraham son fils l’a continué, &amp;amp; son Neveu aussi nommé Isaac l’a achevé
+          <lb/>en 1574. Elle est encore aujourd’huy gouverné (1) par le Sr. Abraham
+          <lb/>Habrecht, qui descend de la même Famille, &amp;amp; Maitre Horlogeur à
+          <lb/>Strasbourg.
+          <lb/>In der 4. u. 5. Kolonne befindet sich Fischarts Beschreibunq der
+          <lb/>Münsteruhr in 118 deutschen Versen: Eygentliche Fürbildung und Be¬
+          <lb/>schreibung desz künstlichen Astronomischen Uhrwercks, welches zu
+          <lb/>Straszburg im Münster, im Jahr M. D. LXXIV. Jahr auffgerichtet
+          <lb/>wordén.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

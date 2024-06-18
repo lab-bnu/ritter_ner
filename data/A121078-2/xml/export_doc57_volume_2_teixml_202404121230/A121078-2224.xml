@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:33.288481+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2224.tif
+IMAGE WIDTH: 2290
+IMAGE HEIGHT: 3822
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>220
+          <lb/>In-80, car. ital., 8 ff. non ch. (Index), 171 ff. ch., erreurs de pag.:
+          <lb/>77 deux fois, 88 manque, 99 pour 95, 135 pour 129, 129 pour 131,
+          <lb/>131 pour 133, 133 pour 135), titre courant, réclames, notes marginales,
+          <lb/>initiale ornée M., titre encadré, (H e B, Planche LXIX, No 2.)
+          <lb/>fol. 1a ch.: (Feuille de herre) IOHAN NES BVGEN HAGIVS
+          <lb/>Po- meranus, Lectori. (2 pages.)
+          <lb/>R 101.183. Prov.: Bibliothèque Heite, Strasbourg.
+          <lb/>BN Paris, Rés. A. 7171. GPB: Berlin, Munster B U. Geisenhof,
+          <lb/>loco eit. N° 216; Augsbourg BM, Bamberg Bibl. Roy., Barth (Bibl.
+          <lb/>Marienkirche), Bâle BU, Berlin BN, Hambourg BM, Helmstedt (an¬
+          <lb/>cienne Bibl. Univ.), Copenhaque Bibl. Roy, Munich BU et BN, Munster
+          <lb/>Paulin. Bibl.), Regensbourg (Kreisbibl.), Rostock BU, Rudolstadt
+          <lb/>(Fürsti Bibl.), Stralsund (Ratsbibl.), Stuttgart, Utre ht BU, Wolfen¬
+          <lb/>329
+          <lb/>büttel (Bibl. Aug.).
+          <lb/>Strasbourg, J. Schott, 1532.
+          <lb/>BUHAHYLYHA Byngezla
+          <lb/>TACV-AEGRITV-DINVM et Morborum ferme
+          <lb/>omnium Cor- poris humani, cum curis eo- rundem.
+          <lb/>BVHAHYLYHA BYN-] GEZLA Autore.
+          <lb/>Christianissimo Regi CAROLO eius nominis primo,
+          <lb/>nuncupati.
+          <lb/>Au-dessous de l’encadrement du titre: Cum Priuilegio CAES.
+          <lb/>Maiest.) ad Quinquennium.
+          <lb/>ARGENT. apud loannem Schottum librarium. M.D. XXXII.
+          <lb/>In-fol, car. rom., LIX pages ch. (chiffres romains), auxquelles
+          <lb/>suivent 89 pages (chiffres arabes): TACV- INO RVM TABVLAE
+          <lb/>PARTICV- LARES; toutes les 89 pages ont au bas des bandes d’orne¬
+          <lb/>ment; titre courant, notes marginales, initiales à fig. T. A; titre encadré
+          <lb/>comme No 64.
+          <lb/>Au verso du titre: ADOLPHVS OCCO MEDI-CVS, Io. Schotto
+          <lb/>S. P. D.... — Raptim ex Augusta Vindelicorum. XVII. Octo¬
+          <lb/>bris. Anno salutis nostrae. M. D. XXXII.
+          <lb/>fol. IIa: BVHAHYLVHAE BINGEZLAE(Operis sui praefatio.
+          <lb/>Au verso de p. 89: Index.
+          <lb/>R10.285. Prov.: Bibl. de la Faculté de médecine de Strasbourg.
+          <lb/>A l&amp;#x27;intérieur de la couverture, Exlibris de Thomas Lauth; anno¬
+          <lb/>tations mss. au verso du f. de garde.
+          <lb/>Schmidt II, No 194: Tacuini en arabe Takwim el abdan. Le nom
+          <lb/>de l’auteur est Abu Ali Jahiah ben Ifa ben Dschesda; le traducteur
+          <lb/>est Farag ben Salem, d’Agrigente.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

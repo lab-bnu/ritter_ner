@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:37.185630+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu057.tif
+IMAGE WIDTH: 2384
+IMAGE HEIGHT: 3840
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>BUHEL HANS VON: Königstochter von Frankreich. (Stras¬
+          <lb/>bourg), J. Grüninger, 8 sept. 1500, in-fol. (Gravures.)
+          <lb/>G W 5707, Hain 10039, Proctor 493 A, Schreiber 4451, Voul¬
+          <lb/>liéme: Berlin 2315; Schramm, Bilderschmuck XX, grav.
+          <lb/>N° 993-1020.
+          <lb/>K 1009. Prov.; K. Trübner, Strasbourg, 12/XII. 1884, 500 M.
+          <lb/>Note mss. à la fin.
+          <lb/>120
+          <lb/>BURGO. Voir: Dionysius de Burgo.
+          <lb/>BUSTIS. Voir: Bernardinus de Bustis.
+          <lb/>CAPUA Johannes de. Voir: Johannes de Capua.
+          <lb/>CARACCIOLUS Robertus: Opus quadragesimale de poeni¬
+          <lb/>tentia. (Strasbourg, imprimeur du H. Ariminensis,
+          <lb/>avant 1473), in-fol.
+          <lb/>G W 6066, Hain 4418, Pellechet 3239, Pellechet: Colmar 431,
+          <lb/>Proctor 303, Voulliéme: Berlin 2163.
+          <lb/>K 1055. Prov.: F. Butsch, Augsbourg, 12/x. 1883, 11 M. Notes
+          <lb/>mss. fol. 1a: «Carthusiae in Buxheim»; en outre, le cachet de
+          <lb/>la Bibliothèque de Buxheim. Rel, anc.
+          <lb/>12.
+          <lb/>CARACCIOLUS Robertus: Opus quadragesimale de poeniten¬
+          <lb/>tia. (Strasbourg, G. Husner, vers 1479), in-fol.
+          <lb/>G W 6074, Hain 4421, Pellechet 3241, Pellechet: Colmar 434,
+          <lb/>Voulliéme: Berlin 2201, 5.
+          <lb/>K 1057. Prov.: Don de la ville de Heilbronn, 1871. A l&amp;#x27;intérieur
+          <lb/>du 1er et du dernier plat, notes mss. Rel. anc.
+          <lb/>122
+          <lb/>CARACCIOLUS Robertus: Opus quadragesimale de peccatis.
+          <lb/>(Strasbourg, J. Prüss), 3 déc. 1490, in-8°.
+          <lb/>G W 6084, Hain 4442, Pellechet: Colmar 438, Proctor 574,
+          <lb/>Voulliéme: Berlin 2361.
+          <lb/>K 1066. Prov.: Baer &amp;amp; Co., Francfort s. M., 7/I. 1913, 45 M.
+          <lb/>Notes mss fol. Ila: Conventus Franckfordensis Ordinis Prae¬
+          <lb/>dicatorum. Rel. anc.
+          <lb/>123
+          <lb/>27
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

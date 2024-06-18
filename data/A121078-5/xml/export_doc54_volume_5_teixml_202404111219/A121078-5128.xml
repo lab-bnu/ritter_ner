@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:53.648206+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5128.tif
+IMAGE WIDTH: 2346
+IMAGE HEIGHT: 3854
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1436
+          <lb/>le texte, init. ornées et à fig. de différentes grandeurs, chaque pièce com¬
+          <lb/>In-fol., car, rom., CLVIII ff. ch., titre courant, notes marg. encadrant
+          <lb/>mence avec une grande grav. sur bois, représentant les différents person¬
+          <lb/>nages de la pièce; en tête des scènes des grav. plus petites, souvent répétées
+          <lb/>(hommes, femmes, maisons, arbres, etc.). Les grandes grav. sont
+          <lb/>empruntées aux éditions de 1496 et 1499, les petites sont nouvelles.
+          <lb/>En tout 144 grav. Le texte en vers, d’après une édition italienne, est
+          <lb/>encadré de commentaires, avec des caractères plus petits.
+          <lb/>Au verso du titre : Ad Terentium afrum contra comici carminis masti !I
+          <lb/>ces &amp;amp; criticos : sympathia. Sebastiani Brant. (23 dist.). Au-dessous:
+          <lb/>Ex argentina idibus Marcii Anno M. D. III.
+          <lb/>fol. A 2a : Terentij Vita (3 pp.).
+          <lb/>R. 10.513. Prov. : J. Hess, Ellwangen, 3/VI, 1884; 70 M.
+          <lb/>Notes mss., au bas du titre : « Bibliothecae Windhaagianae Catalogo
+          <lb/>inscriptus »; à côté : Vienna me sibi comparavit 13. die Martij 1630
+          <lb/>Johannes Fridericus à Minckwitz in Dresden.
+          <lb/>Proctor 9889 : Londres, British Museum; Schmidt I, No 61 : Bibl.
+          <lb/>Bâle; Kristeller 102.
+          <lb/>Rosenthal, Munich, Catalogue 135 (1914), No 2303 : 250 M. ; Baer,
+          <lb/>Francfort s. M., Catalogue 500 (1907), N° 871; 120 M. : « Mit über 700
+          <lb/>Holzchnitten, darunter 6 in Blattgrösse».
+          <lb/>2284
+          <lb/>TERENTIUS Afer Publius.
+          <lb/>Strasbourg, M. Flach fils, 1511
+          <lb/>Publii Te!! rentii comedie, cum !! annotationibus!! Petri
+          <lb/>Marsi et! Pauli Malleoli in singulas Scenas cum indice
+          <lb/>dictionum seu vocularum (sic).
+          <lb/>A la fin : Impresse Argentine per!! Martinum Flach, impensis
+          <lb/>Johannis Knoblouch. Anno. M. D. XI.Die Mercurij
+          <lb/>post festum assumptionis Marie Virginis.
+          <lb/>In-4°, car. rom., 10 ff. non ch.4120 ch., titre courant, notes marg.,
+          <lb/>init, d’attente.
+          <lb/>R. 101.785. Prov. : BN Munich, 10/IV, 1882.
+          <lb/>Incomplet, titre manque, complété d’après Schmidt VI, p. 25, n° 25.
+          <lb/>Jadis Bibl. de Strasbourg, Incun, n° 4408.
+          <lb/>2285
+          <lb/>TERENTIUS Afer Publius
+          <lb/>Strasbourg, J. Knobloch, 1513
+          <lb/>P. Terentius! Poeta Comicus.In Sua metra!! Restitutus.
+          <lb/>Cum lucubratiunculis Petri Marsi!! tum adnotationibus
+          <lb/>marginariis Pauli Malleoli adornatus.Anno domini
+          <lb/>M. D. XIII.
+          <lb/>fol. CXLVID : Per Iohannem Knoblouchum, exquisi!
+          <lb/>tissimum chalcographiae. Argentinensem artificem, reique
+          <lb/>literariae studiosaeque iuventutis summum &amp;amp; singularem
+          <lb/>promotorem, stan neis caracteribus mandatae : pridie
+          <lb/>Idus Martij: Anno a Chri! sti incarnatione. M. D. XIII.
+          <lb/>A la fin : Ioannes Knobloch; au-dessous, marque typ. de
+          <lb/>Knobloch (H. &amp;amp; B. Planche IX, n° 4; Silvestre, n° 1012).
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

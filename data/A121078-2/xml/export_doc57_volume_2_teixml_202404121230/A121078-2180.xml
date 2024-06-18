@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:31.945493+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2180.tif
+IMAGE WIDTH: 2286
+IMAGE HEIGHT: 3828
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>176
+          <lb/>In-4°, car. goth., 16 ff. non ch., sign. a-d, verso du dernier f., blanc,
+          <lb/>titre courant, à la marge les chiffres des thèses de I à CXLIII. Au
+          <lb/>haut et au bas du titre, bandes d’ornements employées par J. Schott,
+          <lb/>celle d’en haut contient une trophée d’armes suspendue à une hampe
+          <lb/>ornée, celle d’en bas des instruments de musique suspendus de même.
+          <lb/>Au-dessous, petit écusson, traversé d’une bande horizontale, au milicu
+          <lb/>de laquelle se trouve une fleur. Cet écusson aété aussi employé par Grüninger,
+          <lb/>Schmidt, Rep. No 217. Traduction allemande de l’édition latine de la
+          <lb/>même année, mais augmentée de 20 thèses; l’épilogue est supprimé dans
+          <lb/>la traduction.
+          <lb/>R 101705. Prov.: Bibliothèque Böcking.
+          <lb/>Schmiat II, No 92: Bibl. St. Guillaume, Strasbourg. Il met
+          <lb/>comme date 1524; Roth, loco citato No 9: 1523, B M Strasbourg.
+          <lb/>BN Vienne GPB: Berlin.
+          <lb/>274
+          <lb/>BRUNFELS Otto
+          <lb/>Strasbourg, J. Schott, 11524].
+          <lb/>PROBLEMATA OTHONIS Brunnfelsij.
+          <lb/>I. De ratione Euangeliorum.
+          <lb/>II.Quare in Parabolis locutus, sit CHRISTVS.
+          <lb/>Ap loannem Schottum! Libr. Argent.
+          <lb/>In-4°, car, rom., 12 ff. non ch., sign. a-c, titre courant, notes
+          <lb/>marginales, grande initiale à fig. C, titre encadré, à gauche, une Mater
+          <lb/>Dolorosa, au-dessus d’elle un ange; à droite, un Christ assis, homme
+          <lb/>de douleurs; au bas, un pape agenouillé devant un autel, à chaque côté
+          <lb/>2 moines dont l&amp;#x27;un est agenouillé. Au verso du titre: IOANNES
+          <lb/>SCHOITVS Lectori S. D.
+          <lb/>R100714. Prov. : Bibl. Charles Schmidt avec son exlibris à Pin¬
+          <lb/>térieur de la couverture.
+          <lb/>2 ex. R101.117. Prov.: Baer, Francfort s. M., 22/X1. 1878, sans
+          <lb/>indication de prix.
+          <lb/>Schmidt II, No 89 d’après son exemplaire, donne comme date 1524.
+          <lb/>BM Strasbourg. GPB: Berlin, Bonn BU, Gœttingue RU, Munster BU.
+          <lb/>275
+          <lb/>BRUNFELS Otto
+          <lb/>[Strasbourg, J. Schott, 1524]
+          <lb/>DE RATIONE DECIMARVM OTHONIS ( BRVNN- FELSHI
+          <lb/>PROPOSITIONES! Hierony.) Quicquid habent! Clerici, pau¬
+          <lb/>perum est.August.Et Eleemosynae pauperum sunt
+          <lb/>Decimae.
+          <lb/>In-4°, car. rom., 12 ff. non ch., sign. A-C, titre encadré: La
+          <lb/>destruction du veau d’or, le feu du ciel descendant sur le sacrifice de
+          <lb/>Moïse. Encadrement propre à Schott. (Manque chee HC B.)
+          <lb/>Au verso du titre: OTHO BRVNNFEL- SIVS, LECTORI. S.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

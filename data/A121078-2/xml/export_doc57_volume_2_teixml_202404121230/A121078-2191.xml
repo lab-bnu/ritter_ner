@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:32.311322+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2191.tif
+IMAGE WIDTH: 2294
+IMAGE HEIGHT: 3824
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>187
+          <lb/>Oxford, Bibl. Bodleiana; BN Paris, Te 142, 23.A ; Roth, loco
+          <lb/>citato No 27. 3, p. 276: BN Strasbourg; Schott, Suppl, au tome II du
+          <lb/>Rép. de Schmidt p. 15, No 20; cite son exemplaire.
+          <lb/>Edition inconnue à Schreiber, Kräuterbücher, des 15, u. 16. Jhd.
+          <lb/>290
+          <lb/>BRUNFELS Otto
+          <lb/>Strasbourg, J. Schott, 1532.
+          <lb/>NOVIHER BARI TOMVS. II.PER OTH. BRVNF.
+          <lb/>recens editus, M. D. XXXI. Continens quae uersa pagina
+          <lb/>subnotantur.
+          <lb/>ARGENT. apud loannem Schottum, cum Caes. Maiest.
+          <lb/>Priuilegio ad Sexennium. (Verso blanc.)
+          <lb/>A la fin de l’appendice: ARGENTORATI apud Ioannem
+          <lb/>Schottum librarium. XIIIl. Febr. Anno. M. D. XXXII.
+          <lb/>Marque typ. de J. Schott. (H æ B, Fl. IV. No 9.)
+          <lb/>CVM Gratia &amp;amp; priuilegio Imperatoriae Maiestatis ad
+          <lb/>Quinquennium.
+          <lb/>In-fol., car. rom., 90 pp. ch., p. 1 à 4 sans chiffre, p. 5 marquée
+          <lb/>par erreur 11; 11 et 12 deux fois; plusieurs erreurs de pagination.
+          <lb/>Suit: DE VERA! HERBARUM cognitione APPENDIX, 199 pp.
+          <lb/>ch., 2 ff. non ch.; titre courant, notes marg., titre principal encadré: porti¬
+          <lb/>que, au bas, les armoiries de Bernard de Solms, auquel le volume est dédié
+          <lb/>ainsi qu’à ses fils Otton et Wolfgang, 2 déc. 1531, Strasbourg. La ière page
+          <lb/>de l’appendice est encadrée comme le verso du 2e f. de l’Austrias 1531
+          <lb/>bordure de gauche: deux médaillons, l’un avec le portrait de Maximilien,
+          <lb/>t’autre avec les arm. de Strasbourg; bordure de droite, deux médaillons,
+          <lb/>l’un avee le portrait du roi Ferdinand, l’autre avec un écusson portant
+          <lb/>le monogramme de Schott, entre les deux, chaque fois deux faunes son¬
+          <lb/>nant la trompette. Voir: Butsch, Bücherromantik, P. II, planche 100,C.
+          <lb/>L’appendice se compose de 12 fragments et extraits de divers
+          <lb/>auteurs, entre autres, p. 116 de Hermann, comte de Nuenaar, avec une
+          <lb/>lettre à Schott, 16 déc. 1529, Cologne; p. 156, de Jérôme Tragus (Bock)
+          <lb/>avec une lettre à Brunfels, 6 mars 1531, Deux-Ponts; p. 199, la planète
+          <lb/>Mercure sur un char, grav, empruntée à la Chiromantie 1522 et 1530.
+          <lb/>Au-dessous : Jn uns ist Gott, vnd hymmlisch krafft, Mercu¬
+          <lb/>risch fewr im gevst verhafft.... (6 vers allemands.)
+          <lb/>Le volume forme le tome II de l’édition 1530.
+          <lb/>R 10.504.(2) Prov, inconnue.
+          <lb/>2e ex. R10.410. (2) Pror, : Babl. Hermann, Strasbourg.
+          <lb/>BN Paris, Te 122, 23.A; Roth, loc. cit. 32: K. B. Berlin; Schmidt II,
+          <lb/>N°122; GPB: Berlin, Bonn BU, Breslau BU, Kœnigsberg BU, Munster
+          <lb/>BU. Schreiber, Die Kräuterbücher des XV. u. XVI. Jhd., p. XXXI.
+          <lb/>Walter, No 822: BM Sélestat.
+          <lb/>291
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

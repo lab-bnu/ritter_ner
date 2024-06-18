@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:32.029792+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2185.tif
+IMAGE WIDTH: 2294
+IMAGE HEIGHT: 3824
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Au verso du tître; Zû dem Leszer, Otho! Brunfelsz...
+          <lb/>R101.125.(2) Prov.: Antiguaire Stuber, Wurzbourg, 25/IV. 1884;
+          <lb/>10 M. Notes mss. Rel. anc.
+          <lb/>Roth, loco citato No 25; met 1529; de même Schmidt II, No 110.
+          <lb/>GPB: Berlin, Kœnigsberg RU.
+          <lb/>284
+          <lb/>BRUNFELS Otto
+          <lb/>Strasbourg, J. Schott, 1529.
+          <lb/>Pandect BüchlinBeyläuffig aller Sprüch beyder
+          <lb/>Testament usz- zugk, in Titel zerlegt,) vnd. XII. Büchlin
+          <lb/>veruasszt. Otho Brunnfelsz.Newlich verteütscht.
+          <lb/>M. D. XXIX. (Verso blanc.)
+          <lb/>A la fin: Zû Straszburg bey Hans Schotten zûm
+          <lb/>Thyergarten. (Verso blanc.)
+          <lb/>In-80, car. goth., 20 ff. non ch., CCLV ff. ch., 1 f. non ch., titre
+          <lb/>courant, notes marginales, titre en partie rouge, en partie noir, encadré:
+          <lb/>au haut: ornement avec un génie à chaque bout; à droite, statue de
+          <lb/>l&amp;#x27;Eglise; à gauche, statue de la Synagogue, les yeux bandés; au bas,
+          <lb/>les armoiries de la ville de Strasbourg, entre un homme nu assis et une
+          <lb/>femme nue assise, chacun ayant près de lui un panier de pommes (pro¬
+          <lb/>bablement Adam et Eve).
+          <lb/>Au-dessus de l’explicit, marque typographique de J. Schott. (H d
+          <lb/>B, Planche IV, No 9.)
+          <lb/>fol. A 2a non ch. : Johannes Schott trucker, wünscht
+          <lb/>dem Leszer Gotts huld vnd genad...
+          <lb/>Les autres ff. non ch. contiennent l’Index.
+          <lb/>R 101.425.(1) Prov. : Antiquaire Stuber, Wurzbourg, 25/ IV.
+          <lb/>1884; 10 M. Notes mss. Rel, anc.
+          <lb/>Roth, loco citato No 25; BN Strasbourg; Schmidt II, N° 109.
+          <lb/>GPB: Berlin.
+          <lb/>285
+          <lb/>181
+          <lb/>BRUNFELS Otto
+          <lb/>Strasbourg, J. Schott, 1530.
+          <lb/>CATA- LoGVS! illustrium Medicorum, ! siue de primis
+          <lb/>ME- DICINAE Scriptoribus, Per OT. BRVNN- FELSIVM.
+          <lb/>Argentorati apud Ioannem Schottum. Anno 1530.
+          <lb/>Cum Priuilegio Caes. Maiest.a Sexennium.
+          <lb/>A la fin: &amp;amp;y CvM Priuilegio Caes.] MAIEST, ad Sexen-
+          <lb/>nium. XIX. Decembr. Anno Christi. M. D. XXIX. (Schmidt
+          <lb/>répète: Argentorati apud Ioannem Schottum.! XIX Decembr.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

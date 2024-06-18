@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:01.879925+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002017.tif
+IMAGE WIDTH: 2506
+IMAGE HEIGHT: 3974
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>ALEXANDER de Villa Dei. Voir aussi TORRENTINUS n° 3349.
+          <lb/>ALEXANDRE, Pierre : La manyere de faire prieres aux eglises
+          <lb/>francoyses tant devant la predication comme apres,
+          <lb/>ensemble psaulmes et cantiques francoys qu’on chante
+          <lb/>aux dictes eglises, apres s’ensuyt l’ordre et facon
+          <lb/>d’administrer les Sacrements... de espouser et confirmer
+          <lb/>le mariage... M. D. XLII. — (Imprimé à Rome par le
+          <lb/>commandement du Pape par Théodore Brüsz, son
+          <lb/>imprimeur ordinaire. Le 15 de février. — (Strasbourg,
+          <lb/>Jean Prüss] 1542, in-8°.
+          <lb/>Ritter, Hist. de l’impr. p. 365/66; Schmidt III, p. 42, n° 51.
+          <lb/>804
+          <lb/>ALEXANDRE, Pierre : (Idem). — Strasbourg, Jean Knobloch
+          <lb/>fils [plutôt Georges Messerschmidt) 1545, in-8°.
+          <lb/>Schmidt, Rép. III, n° 51. Ritter, Hist. de l’impr. p. 366 :
+          <lb/>« Comme Georges Messerschmidt était en 1545 propriétaire de
+          <lb/>l’imprimerie Knobloch, c’est à lui qu’il faudrait attribuer
+          <lb/>l’édition si vraiment elle a existé, mais je n’en ai pas trouvé
+          <lb/>trace ».
+          <lb/>805
+          <lb/>ALEXANDRE de Parme : Sendbrief desz Printzen von Parma
+          <lb/>an Bürgermeister, Scheffen und Obrigkeit... und Zünften
+          <lb/>der Stadt Antorff. Auch Antwort der Herren Bürger¬
+          <lb/>meister, Scheffen, Rentmeister und Raht der Statt
+          <lb/>Antorff... — Strasbourg, Antoine Bertram 1585, in-40.
+          <lb/>Ritter : B M Strasbourg n° 384.
+          <lb/>806
+          <lb/>ALKINDUS, Jacobus. Voir : ELIMATHAR Elluchasem.
+          <lb/>ALPHONSUS, Rex Arragonum. Voir : FRISCHLIN, Nicodemus,
+          <lb/>n° 1793.
+          <lb/>ALTBIESER, Symphorion: Was man sich gegen newen meren
+          <lb/>so teglich von den predigern des Evangelii werden
+          <lb/>auszgeben halten soll. — Strasbourg, Wolfgang Köpfel
+          <lb/>vers 1525).
+          <lb/>Ritter : Hist. Impr. p. 244.
+          <lb/>807
+          <lb/>15
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

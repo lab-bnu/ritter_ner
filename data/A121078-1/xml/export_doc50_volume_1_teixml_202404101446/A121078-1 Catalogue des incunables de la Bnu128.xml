@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:38.682644+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu128.tif
+IMAGE WIDTH: 2416
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>TURRECREMATA JOHANNES DE: Expositio Psalterii. Stras¬
+          <lb/>bourg, (impr. du Jordanus (— G. Husner)), 3 oct. 1487,
+          <lb/>in-fol.
+          <lb/>Hain 15707, Madsen 4027, Pellechet: Colmar 1268, Proctor
+          <lb/>614, Voulliéme: Berlin 2417.
+          <lb/>K 3645a. Prov.: Les héritiers de C. Geyling, 18. I. 1886, 10 M.
+          <lb/>Au haut du 1er f.; «Bibliotheca Carmelit. S. Bartholomei
+          <lb/>Cremona.»
+          <lb/>467
+          <lb/>TURRECREMATA JOHANNES DE: Quaestiones evangeliorum.
+          <lb/>(Strasbourg, impr. du Jordanus (— G. Husner), vers
+          <lb/>14871, in-fol.
+          <lb/>Hain 15713, Madsen 4031, Pellechet: Colmar 1269, Proctor
+          <lb/>634. Voulliéme: Berlin 2474, 5.
+          <lb/>K 3646. Prov.: Oscar Rauthe, Berlin (Vente Boerner), 4. XII.
+          <lb/>1913, 115 M.; f. du titre manque, remplacée par un facsimilé.
+          <lb/>Notes mss.
+          <lb/>468
+          <lb/>TUSCH HANS ERHART: Die burgundisch Historie, Stras¬
+          <lb/>bourg, (impr. du H. Ariminensis), 1477, in-4°.
+          <lb/>Voulliéme: Berlin 1907/14) 2185, Walter: Sélestat 488.
+          <lb/>Tertz, Archiv f. ältere deutsche Geschichtskunde IX, 523;
+          <lb/>Stoeber, Alsatia 1875/6, 314.
+          <lb/>K 3655. Prov.: Bibliothécaire W. List, Strasbourg, 20. VII,
+          <lb/>1895, 850 M. Au verso du f. de garde: «Nota Bene. Bl. 1 à 10
+          <lb/>facsim.».
+          <lb/>469
+          <lb/>UBALDIS BALDUS DE: Repertorium super Innocentio. Voir:
+          <lb/>Innocentius IV, Apparatus super quinque libros
+          <lb/>Decretalium. (Supplément.)
+          <lb/>K 544. Prov.: Albert Cohn, Berlin (Catal. 131), 31. II. 1880,
+          <lb/>12 M.
+          <lb/>470
+          <lb/>URSULA S.: Von S. Ursula Schifflein. Strasbourg, Barth,
+          <lb/>Kistler, 1497, in-4°.
+          <lb/>Copinger 5913, Schmidt IV, p. 3, N° 3, Voulliéme: Berlin
+          <lb/>2545; Schramm, Bilderschmuck XX N° 1803-1804.
+          <lb/>K 3662, Prov.: Vente Trübner, Catal. N° 142, 30. X. 1886,
+          <lb/>103 M.
+          <lb/>471
+          <lb/>98
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:30.975886+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2146.tif
+IMAGE WIDTH: 2314
+IMAGE HEIGHT: 3828
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>142
+          <lb/>Cractatus pominici Sollani
+          <lb/>me conceptione Dloriosissime Mei Meni
+          <lb/>tricie Airginis Obarie.
+          <lb/>sermo ciusdem
+          <lb/>Voir: page précédente, No 227.
+          <lb/>BOSCHIUS Michael
+          <lb/>Strasbourg, N. Wyriot, 1578.
+          <lb/>Actus tres,
+          <lb/>ACADEMIAE! Reipub. Argentoratensis:
+          <lb/>I. Classicorum,! Il. Baccalaureorum,) III. Magistrorum.
+          <lb/>Ex quibus, &amp;amp; Promotionum, &amp;amp; Legum, &amp;amp; Disciplinae,
+          <lb/>&amp;amp; Lectionum cùm Publicarum, tùm Classicarum ratio,
+          <lb/>pro hoc tempore, verè cognosci potest.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

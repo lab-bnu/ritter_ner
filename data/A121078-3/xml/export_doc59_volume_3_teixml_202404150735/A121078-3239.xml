@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:09.389970+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3239.tif
+IMAGE WIDTH: 2328
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>683
+          <lb/>letzten Bl. Druckerm. Grüningers. (HA B Tafel I Nr. 1; Silvestre
+          <lb/>40, Antig., 20 unn. Bll., Sign. A-C, Init. Auf der Vorders, des
+          <lb/>Nr. 503.)
+          <lb/>Octastichon. Darunter: Thomas aucuparius ad Lectorem. (7 Dist.)
+          <lb/>Auf der Rücks, des Titelbl.: In Gallinarij Budorini Ad Lectorem.
+          <lb/>Bl. A 2a: THOMAS WOLPHIVS JVNIOR. D: doctor Ioanni
+          <lb/>Keysersbergio... — Argentinae cursim ex aedibus no stris
+          <lb/>pridie idus Februarij Anno. M. D.V. (2 S.)
+          <lb/>*R101.366. Prov. : Geschenk der Stadt Heilbronn 1872.
+          <lb/>GK: UB Göttingen. BN Paris, Rés. D. 7809; Proctor II Sectio
+          <lb/>I Nr. 9895. London Brit. Museum; Schmidt I Nr. 70: «Jadis Bibl.
+          <lb/>de Strasbourg, Incun. 2185 et Bibl. Ch. Schmidt; BM Strasbourg 522.»
+          <lb/>1004
+          <lb/>GERSON Johannes
+          <lb/>Strassburg, (M. Schürer] 1509
+          <lb/>Christianissimi doctoris Joannis de Gerson; sermo
+          <lb/>de passione domini: Nuper e Gallico in latinum tra¬
+          <lb/>ductus. (Holeschn.: Christus am Kreuze; vor ihm knieend ein Mann,
+          <lb/>der ihm sein Herz darbietet; darüber Spruchband mit den Worten:
+          <lb/>Sursum corda. Das Ganze inmitten einer mit Bäumen bepflanzten Land¬
+          <lb/>schaft; im Hintergrunde das Meer.) Unten Monogramm H. G. (nicht
+          <lb/>Hans Baldung-Grien); dasselbe Monogramm findet sich auch bei Geiler:
+          <lb/>Das irrig Schaf; Strassburg, Schürer 1509.
+          <lb/>Am Schluss: Argentine. M. D. viiij. M. Januar. (Rücks, leer.)
+          <lb/>4°, Got., 46 unn. Bll., Sign. a-i, Kopft., Init.
+          <lb/>Auf der Rücks, des Titelbl.: Jaçobus Ottherus! Lectori sa¬
+          <lb/>lu- tem.... — Ex Argentina pridie kal. Februarias. M. D. IX.
+          <lb/>(Folgen 4 Bll. Index u. I leeres Bl.).
+          <lb/>*R102.2213. Prov. : Geschenk des Barons von Dörnberg 29. IV.
+          <lb/>1890. Exlibris Dörnberg’s u. handschr. Notis:, Ex Libris Adolphi Guil¬
+          <lb/>helmi de Thurmberg&amp;quot;.
+          <lb/>Stadtbibl. Strassburg 176. Schmidt VIII Nr. 12; Jadis Bibl. de
+          <lb/>Strasbourg u. sein Exemplar.
+          <lb/>1005
+          <lb/>GERSON Johannes
+          <lb/>Strassburg, M. Schürer 1511
+          <lb/>Alphabetum diuini amorisVarios tradens modos
+          <lb/>&amp;amp; vi) as secundum diuersos Alphabeti or dines; quibus
+          <lb/>humana mens in deum eleuatur.
+          <lb/>Bl. G 2a: Argentine Mathias schu rerius emisit.
+          <lb/>M. D. XI.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

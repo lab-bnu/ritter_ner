@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:01.960036+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002022.tif
+IMAGE WIDTH: 2508
+IMAGE HEIGHT: 3930
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>ANTORFISCHE Zeitung. Voir: ZEITUNG, Antorfische, nos 3578
+          <lb/>et 3607.
+          <lb/>ANTWURTEN : so ein Burgermeyster, Radt und der grosz
+          <lb/>Radt, die man nempt die zwey hundert der Statt Zürich,
+          <lb/>iren... Eydgnossen... geben habendt. (signé Caspar Frey).
+          <lb/>— (Strasbourg, J. Prüss 1524), in-4°.
+          <lb/>GKV, 5302 : BN Munich.
+          <lb/>830
+          <lb/>ANZEIGUNG: Eygentliche und Warhafftige Anzeigung welcher
+          <lb/>massen der beschehen Mordt zu Ober Hasel im Breüsch¬
+          <lb/>thale in dem Bistumb Straszburg, unter dem Ampt
+          <lb/>Schirmeck sich zugetragen. Anno M.D.LVII. (Sur
+          <lb/>l’instigation de la femme, la servante tue le mari le
+          <lb/>3 janvier 1557, l’exécution des deux femmes eut lieu à
+          <lb/>Haslach le 5 janvier.] — Strasbourg, Th. Berger 1557,
+          <lb/>placard in-fol.
+          <lb/>Bibl. Centrale Zurich.
+          <lb/>831
+          <lb/>APHTONIUS. Voir: ERASMUS no 1575.
+          <lb/>APOGRYPHI : Biblische Bücher so wiewol bey den Alten
+          <lb/>under Biblischer Schrifft nit gezelt, yedoch bewert,
+          <lb/>nutzlich und in hohem brauch. Newlich verteütscht
+          <lb/>durch Leo, genant Jud. j. Die zwey letzten bücher Ezra. ij.
+          <lb/>Tobias, iij. Judith... (5 lignes) ix. Die hystory Bel zu
+          <lb/>Babel. — Zu Strasszburg bey dem jungen Hans Knobloch
+          <lb/>Anno Christi M. D. XXX, in-fol. (Titre encadré).
+          <lb/>Bibl. Grand Sém. Strasbourg.
+          <lb/>832
+          <lb/>APOLOGIA in Jacobum Lopium. — Strasbourg, Ulric Morhart
+          <lb/>1522.
+          <lb/>Ritter, Hist. impr. p. 306.
+          <lb/>833
+          <lb/>APOLONIUS, Rex Tyri : Hie nach volget gar ein schöne
+          <lb/>Hystori von dem künig Apoloni... — (Strasbourg,
+          <lb/>Mathias Hupfuff, 1516), in-80.
+          <lb/>20
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

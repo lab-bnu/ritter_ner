@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:37.012603+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu045.tif
+IMAGE WIDTH: 2378
+IMAGE HEIGHT: 3842
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>BARTHOLOMAEUS ANGLICUS : De proprietatibus rerum. Stras¬
+          <lb/>bourg (imprimeur du Jordanus (— G. Husner), 14 fé¬
+          <lb/>vrier 1485), in-fol.
+          <lb/>G W 3410, Hain 2506-2511, Madsen 550, Pellechet 1873, Pelle¬
+          <lb/>chet: Colmar 258, Proctor 592, Voulliéme: Berlin 2403.
+          <lb/>K 585. Proy.: Bielefeld, Carlsruhe, 12. XIl. 1873, 4 M. Note mss.
+          <lb/>au haut du titre: liber Heinrici voigt lichenst. Rel. anc. 66
+          <lb/>BARTHOLOMAEUS ANGLICUS : De proprietatibus rerum. Stras¬
+          <lb/>bourg (imprimeur du Jordanus (— G. Husner),
+          <lb/>11 août 1491, in-fol.
+          <lb/>G W 3412, Hain 2509, Madsen 553, Pellechet 1875, Pellechet:
+          <lb/>Colmar 259, Proctor 665, Voufliéme: Berlin 2445.
+          <lb/>K 587. Prov.: Don de Fid. Butsch fils, Augsbourg, 1871. Note
+          <lb/>mss. à l’intérieur du premier plat. Rel. anc.
+          <lb/>67
+          <lb/>BARTHOLOMAEUS DE CHAIMIS. Voir: Chaimis.
+          <lb/>BARTHOLOMAEUS DE GLANVILLA. Voir: Bartholomaeus Angli¬
+          <lb/>cus.
+          <lb/>BARZISIUS GASPARINUS: Epistolae. Strasbourg, J. Prüss,
+          <lb/>24 déc. 1486, in-4°.
+          <lb/>G W 3683. Hain 2676, Madsen 573, Pellechet 1985, Pellechet;
+          <lb/>Colmar 272, Proctor 519, Schmidt III, 11, Voulliéme: Berlin
+          <lb/>2343.
+          <lb/>K607. Prov.: Don de la Bibl. Univ. de Gœttingue, 1871. Notes
+          <lb/>mss. au f. du titre et dans le texte.
+          <lb/>68
+          <lb/>BAYSIO GUIDO DE: Rosarium decretorum. (Strasbourg,
+          <lb/>J. Mentelin vers 1473), in-fol.
+          <lb/>G W 3744, Hain 2713, Pellechet 2011, Proctor 213, Madsen
+          <lb/>579, Voulliéme: Berlin 2101; Walter: Sélestat 78, Schorbach:
+          <lb/>Mentelin N° 30.
+          <lb/>K 609. Prov.: Don de la ville de Trèves, 1871.
+          <lb/>69
+          <lb/>15
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:05.730302+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3064.tif
+IMAGE WIDTH: 2326
+IMAGE HEIGHT: 3840
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>508
+          <lb/>ERASMUS : De constructione octo partium orationis
+          <lb/>Strassburg, J. Knobloch, 1523
+          <lb/>DE OCTO ORATIONIS PARTIVM] constructione Libellus,
+          <lb/>tum elegans in primis, tum dilucida breuitate copio¬
+          <lb/>sissi-mus. ERASMO ROTERODA-MO AVTORE.
+          <lb/>Am Schluss: ARGENTORATI JOHANNES KNOBLOCHVS STAN¬
+          <lb/>NEIS CHA-RACTERIBVS EXCVDEBAT.) OCTAVO CALENDAS MA¬
+          <lb/>IAS. PROPE SACRVM DI-VAE BARBARAE PHANVM. ANNO
+          <lb/>M. D. XXIII.
+          <lb/>den, Marginalien, Init. H, O, N; Titeleinfassung (H A B Tafel XI
+          <lb/>80, Kursiv, 27 num. u. 1 unn. Bl., Sign. A-D, Kopftitel, Kusto¬
+          <lb/>Nr. 9).
+          <lb/>Bl. A 2a: IOANNES COLETVS DECANVS Sancti Pauli,
+          <lb/>Gulielmo Lilio ad diuum! Paulum ludi moderatori pri¬
+          <lb/>mario Salu. D.... M. D. XXI.
+          <lb/>Bl. A 2b: Widmung des Erasmus an die Leser: Basileae. In1. Ca¬
+          <lb/>lendas Augusti. M. D. XV.
+          <lb/>Auf der Rückseite des letzten Bl. Druckermarke Knoblochs (HEB
+          <lb/>Tafel IX Nr. 2, Silvestre Nr. 635).
+          <lb/>*RI01.202. Prov.: Prof. Hommel, München, 9. I. 1901. Zahlreiche
+          <lb/>handschr. Notizen.
+          <lb/>Verfasser vielm.: William Lilly.
+          <lb/>Fehlt bei Schmidt.
+          <lb/>766
+          <lb/>ERASMUS: Enchiridion militis Strassburg, J. Knobloch, April 1523
+          <lb/>ENCHIRI DION MILITIS CHRI-STIANI, SALVBER rimis
+          <lb/>praeceptis refertum, authore D. ERAS. Roterodamo, cui
+          <lb/>accessit noua, mi- réque utilis Praefatio.
+          <lb/>APVD FELICEM ARGENTINAM. (Rückseite leer.)
+          <lb/>Am Schluss: ARGENTORATI APVD IOAN-] nem Knoblouchium
+          <lb/>Mense Aprili. Anno M. D. XXIII.
+          <lb/>80, Kursiv, 105 num. u. 1 leeres Bl., Kopftitel, Kustoden, Margi¬
+          <lb/>nalien, Init. O, E; Titeleinfassung (H a B Tafel X Nr. 7). Auf der
+          <lb/>Rückseite des letzten Bl. Druckermarke Knoblochs (H E B Tafel IX
+          <lb/>Nr. 2, Silvestre Nr. 635).
+          <lb/>Bl 2b-15b: Widmung des Erasmus an Paul Volz aus Basel 1518.
+          <lb/>R101953. Prov.: Baer de Co., Frankfurt a. M., 13. II1.1886, 15M.
+          <lb/>2. Ex. &amp;quot;R 100.907, Geschenk von F. Butsch, Augsburg 1871.
+          <lb/>Rest S. 52; Schmidt VII Nr. 257 setzt: Apvd liberalem Argenti¬
+          <lb/>nam, während meine beiden Ex.: Apvd foelicem Argentinam setzen. 767
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

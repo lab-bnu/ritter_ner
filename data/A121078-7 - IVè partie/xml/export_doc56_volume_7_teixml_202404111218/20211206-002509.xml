@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:14.137362+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002509.tif
+IMAGE WIDTH: 2484
+IMAGE HEIGHT: 3992
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>opus... — (Haguenau, H. Gran pour J. Rynman,
+          <lb/>1er décembre 1518), in-4°.
+          <lb/>Burg, n° 439; Bibl. St. Guillaume, Strasbourg [éd. Gran 1513:
+          <lb/>Ritter, Rép. n° 2426).
+          <lb/>3431
+          <lb/>VIVES, Johannes Ludovicus : Von der gemeynschaft aller
+          <lb/>dingen... — Strasbourg, Jacques Cammerlander 1536,
+          <lb/>in-40.
+          <lb/>Kuczynski, n° 270; Ritter : B M Strasbourg, n° 2186; Bibl.
+          <lb/>St. Guillaume, Strasbourg.
+          <lb/>3432
+          <lb/>VIVES, Joh. Ludovicus : De disputatione... — Au recto du
+          <lb/>dernier f. blanc: en haut, vignette, puis marque typ. de
+          <lb/>Chr. Mylius, en-dessous : Argentorati excudebat
+          <lb/>Christianus Mylius, anno 1368 (pour 1568), in-8°;
+          <lb/>sign. J., fait suite à Chasparus, Rodolphus : Dialectica.
+          <lb/>Grand Sém. Strasbourg, AT 188; f. du titre et la feuille
+          <lb/>suivante manquent.
+          <lb/>3433
+          <lb/>VIVES, Johannes Ludovicus ; Scholia in Somnium Scipionis. —
+          <lb/>Strasbourg, Samuel Emmel 1567, in-8°. A la suite de:
+          <lb/>CICERO, Ex sexto libro de Republica Scipionis Somnium
+          <lb/>(n° 1388).
+          <lb/>Bibl. S. Guillaume, Strasbourg. (Vives voir aussi : Ritter,
+          <lb/>Rép. nos 2427-2429).
+          <lb/>3434
+          <lb/>VOCABULARIUS, breviloquus ; cum arte diphthongandi
+          <lb/>punctandi et accentuandi. — (Strasbourg, Jean Prüss
+          <lb/>7.1x.1504), in-40.
+          <lb/>Panzer 6, 22; Schmidt III, no 44. — Bibl. cantonale Aarau.
+          <lb/>3435
+          <lb/>VOCABULARIUS (Gemma gemmarum) : noviter impressus,
+          <lb/>multarum dictionum additione exornatus. — (Strasbourg,
+          <lb/>René Beck 1513), in-4°.
+          <lb/>Schmidt IV, p. 18, n° 9. B M Colmar, Jadis Bibl. de Strasbourg,
+          <lb/>507
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

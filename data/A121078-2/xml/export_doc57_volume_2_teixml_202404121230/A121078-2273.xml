@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:34.707176+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2273.tif
+IMAGE WIDTH: 2302
+IMAGE HEIGHT: 3820
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>CALVIN Johannes
+          <lb/>Strasbourg, W. Rihel, 1542.
+          <lb/>VIVERE APVD CHRISTVM non dormire animis sanctos,
+          <lb/>qui in fide Christi decedunt.! Assertio.! Ioannis Caluini.
+          <lb/>Marque typographique de W. Rihel. (H A B, Planche XXIX,
+          <lb/>N° 4; Silvestre, No 741.)
+          <lb/>ARGENTORATI per Vuendelinum Rihelium. Anno
+          <lb/>M. D. XLII.
+          <lb/>A la fin: Argentorati per Vuendelinum Ri! helium.
+          <lb/>Anno. M. D. XLII.
+          <lb/>Au verso du dernier f. blanc, marque typ. de W. Rihel, (HEB,
+          <lb/>Planche XXIX, N° 2, Silvestre, No 742.)
+          <lb/>In-80, car. ital., 8 ff. non ch., 51 ff. ch. et 1 f. blanc, titre cou¬
+          <lb/>rant, réclames, notes marginales, initiale d’attente Cet initiale ornée I.
+          <lb/>Au verso du titre: Praefatio Ioannis Caluini ad amicum
+          <lb/>quendam.... — Aureliae. M. D. XXXIIII. (Préface de 7 p.)
+          <lb/>fol. a 5a: LECTORIBVS... — Basileae. M. D. XXXVI.
+          <lb/>(Préface de l’auteur de 8 p.)
+          <lb/>R100.557. Prov.: Harrassowite, Leipaig, 25/VIII. 1917; 40 M.50.
+          <lb/>Très-rare.
+          <lb/>Oxford, Bibl. Bodleiana; BU Fribourg en Br. à la suite de L
+          <lb/>6716; GPB: Berlin BN, Gœttinque BU, Greifswald BU, Kœnigsbera
+          <lb/>BU.
+          <lb/>Voir: Calvin, Opera Vol. V, Prol. p. XXXIV, texte p. 165-232
+          <lb/>(Psychopannychia).
+          <lb/>406
+          <lb/>269
+          <lb/>CALVIN
+          <lb/>Strasbourg, W. Rihel, 1543.
+          <lb/>INSTITVTIO CHRI- STIANAE RELIGIONIS NVNC uerè
+          <lb/>demum suo titulo respondens.! Authore loanne Caluino.
+          <lb/>Joannes Sturmius, (8 lignes sur Calvin et l’Institution.)
+          <lb/>Habacuc. 1. Quousque Domine?
+          <lb/>Marque typographique de W. Rihel. (H C B, Planche XXIX,
+          <lb/>No 4; Silvestre, No 741.)
+          <lb/>Argentorati per Vuendelinum Rihelium.! Mense Mar¬
+          <lb/>tio! ANNO M. D. XLIII.
+          <lb/>A la fin: Argentorati per Vuendelinum Rihelium. Mense
+          <lb/>Martio. ANNO M. D. XLIII. (Verso blanc.)
+          <lb/>In-fol., car. rom., 22 ff. non ch., dont le dernier blanc, 505 p.
+          <lb/>ch., titre courant, réclames, notes marginales en ear. ital., initiales ornées.
+          <lb/>Au verso du titre: Epistola ad Lectorem... — Argen¬
+          <lb/>torati Calend. August. Anno 1539.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

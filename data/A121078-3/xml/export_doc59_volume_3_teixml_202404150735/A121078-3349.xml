@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:12.005783+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3349.tif
+IMAGE WIDTH: 2380
+IMAGE HEIGHT: 3856
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>HISTORIAE
+          <lb/>[Hagenau, H. Gran um 1506]
+          <lb/>eccle sie virorum gesta feliciter] complectentis : li- bri
+          <lb/>Ecclesiastice Tripartite hy-storie: Insignia primitiue
+          <lb/>duode-] cim.
+          <lb/>Auctoribus grecis. Theoderico. Sozomeno. Socrate.)
+          <lb/>Traductore. Latino Epiphanio (Scholastico.) Auspicante.
+          <lb/>Cassiodoro Senatore. (Rûcks, leer.)
+          <lb/>20, Got., 2sp., XCVI num. Bll., Kopft. Init.
+          <lb/>R10.3023. Prov.: Heberle, Köln 29. X. 1897,5M.
+          <lb/>Auf dem Titelbl.:, Hagenau, Gran ca. 1506.&amp;quot; Die gleichen Typen
+          <lb/>vie in Eusebius, Ecclesiastica Historia. Hagenau, Gran 1506.
+          <lb/>1175
+          <lb/>HISTORIEN von Meister Lucidario. Siche: LUCIDARIUS
+          <lb/>HISTORY, ein schöne vnnd warhaffte. Siche: HUG SCHAPLER
+          <lb/>HISTORY, ein schone — vss francösischer sprach in tütsch
+          <lb/>gebracht. Siche: FLORIO ET BIANCAFIORA
+          <lb/>HOCK DE BRACKENAU Wendelin
+          <lb/>Strassburg, J. Schott 1514
+          <lb/>Mentagra, siue tractatus! de causis, praeseruatiuis,
+          <lb/>regimine &amp;amp; cu ra morbi Gallici: vulgo Malafrançosz:
+          <lb/>ingenio, peritia &amp;amp; experientijs artium! &amp;amp; medicinae Do¬
+          <lb/>ctoris studij Bononi-ensis approbatissimi, Vuendelini
+          <lb/>hock de Brackenau, exactissimis diligentia &amp;amp; studio
+          <lb/>comportatus.
+          <lb/>Quem subsequitur tractatus eiusdem utilissi mus de
+          <lb/>curandis ulceribus hunc morbum! ut in plurimum conse¬
+          <lb/>quentibus. Rara &amp;amp; inuisa Lector non post-habeas, auro
+          <lb/>preciosiora.
+          <lb/>Cum gratia et priuilegio imperiali ad triennium. 1514.
+          <lb/>Am Schluss vor dem Index:... Ioanne Schotto pressore
+          <lb/>Argentino: Anno Christi! Millesimo quingentesimo quarto:
+          <lb/>vicesimaquarta mensis Martij.
+          <lb/>40, Antiq., 52 num., 4 unn. Bll., Kopft., Marg., Titel rot u. schwarz.
+          <lb/>Auf der Rücks, des Titelbl.: Illustrissimo Ducatus Vuirten¬
+          <lb/>bergensis princi-pi Vdalrico, Vuendelinus hock de Brack¬
+          <lb/>791
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

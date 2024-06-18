@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:11.955914+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3346.tif
+IMAGE WIDTH: 2378
+IMAGE HEIGHT: 3856
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>788
+          <lb/>HIPPOCRATES
+          <lb/>Hagenau, Joh. Setzer 1532
+          <lb/>HIPPOCRA- TIS MEDICORVM OMNI-um longe principis
+          <lb/>Epide- miorum Liber Sextus iam! recens Latinitate dona
+          <lb/>tus, Leonardo Fuch! sio interprete.
+          <lb/>ADDITA EST LVCVLENTA uniuersi eius libri expositio,
+          <lb/>eodem Leo nardo Fuchsio authore. ADIECTA INSVPER SVNT
+          <lb/>AD calcem Graeca, ut diligens lector haec ipsa! cum
+          <lb/>Latinis conferre possit.
+          <lb/>Haganoe, ex officina Iohan. Secer. Anno! M. D. XXXII.
+          <lb/>Mense Februario. Additus est Index commentarij.
+          <lb/>Am Schluss : Haganoe, ex officina Iohan. Secer. Anno
+          <lb/>M. D. XXXII. Mense Februario.
+          <lb/>40, Antiq., Griech, u. Kursiv, 4 unn., 160 num. Bll. — 4 unn.
+          <lb/>(Index). Folgt neuer Titel für den griech. Text (12 unn. Bll. Sign.
+          <lb/>A-C); Kopft., Kust., Marg., Init. C, E, O; Titel rot u. schwara;
+          <lb/>Titeleinfassung: Oben eine Urne, daneben sitzen zuvei greifartige Tiere
+          <lb/>mit Menschenköpfen, von denen jedes ein Füllhorn halt; Seitenborduren:
+          <lb/>guvei bauchige Saulen mit Quasten u. Perlenschnuren; am Sockel zwez
+          <lb/>menschliche Halbfiguren. Unten ein nackter Knabe, der von fünf andern
+          <lb/>an Haaren u. Beinen nach rechts über eine Schüssel gezerrt wird; ein
+          <lb/>siebenter bläst Schalmei.
+          <lb/>Auf der Rücks. des Titelbl.: VINCENTIVSOBSOPŒVS LEC¬
+          <lb/>TORI. (25 lat. Dist.).
+          <lb/>Bl. A 2b: EpISTOLA.. DOMINO Guilielmo, Comiti
+          <lb/>Palatino Rheni, ac utriusque Boioariae Duci, Leonardus
+          <lb/>Fuchsius S. D.... — Onoltzbachij quarto Calend. De¬
+          <lb/>cembris. Anno M. D.( XXXI. (5S.)
+          <lb/>R101441. Prov.: Bibl. Prof. F. A. Menke, Bremen 1873 mit dem
+          <lb/>Autograph Menke’s u. der Jahreszahl 1845.
+          <lb/>2. Ex. R101.876. Prov.: Geschenk der UB Gôttingen 1872. Auf
+          <lb/>dem Titelbl.: Zachariae Rosenbachij, 1630.
+          <lb/>1171
+          <lb/>HIPPOCRATES: De natura hominis, 1564. Siche: MASSARIUS
+          <lb/>Hieronymus
+          <lb/>HISTORI
+          <lb/>Strassburg, Joh. Knobloch 1510
+          <lb/>Ein, hübsche, histori. von, der. Künigelichen.
+          <lb/>stat. troy. wie. Si, zersto rett. wart. (Holeschn.: Belagerung
+          <lb/>der Stadt Troja durch die Griechen, die sich der Kanonen bedienen.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

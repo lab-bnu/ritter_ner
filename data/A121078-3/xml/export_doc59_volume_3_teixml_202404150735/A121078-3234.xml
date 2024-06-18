@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:09.312632+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3234.tif
+IMAGE WIDTH: 2328
+IMAGE HEIGHT: 3852
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>678
+          <lb/>80, Kursiv, 15 unn. Bll., Sign. A-B, Kopft., Kust., Init., Titel¬
+          <lb/>umrahmung (HE B Tafel LXIX Nr. 2).
+          <lb/>Auf der Rücks. des Titelbl.: HIERONYMO ADVLESCENTI OP¬
+          <lb/>TIMo Theobaldus Billicanus... — Nordlingiaci Calend.
+          <lb/>Nouembribus ANNo! M. D. XXVI.
+          <lb/>R105.804. Prov.: Th. Ackermann, München 6. VIII. 1894;
+          <lb/>1M. 85.
+          <lb/>998
+          <lb/>GERSDORFF Hans von
+          <lb/>Strassburg, J. Schott 1517
+          <lb/>Feldtbuch der wundtartzney. (Blattgrosser Holeschn.: S. Cos¬
+          <lb/>mas u. Damianùs, Schutzpatrone der Arste; Cosmas hält in der Hand
+          <lb/>ein Uringefäss, Damianus ein Gefäss mit Salbe.)
+          <lb/>Mit Keyserlicher freyheit getruckt zû Straszburg durch
+          <lb/>Ioannem Schott.
+          <lb/>Am Schluss: M. CCCCC. XVij.
+          <lb/>Zù Straszburg in der freyen statt
+          <lb/>Ioannes Schott mich getruckt hat
+          <lb/>Als man tusent fünff hundert zalt
+          <lb/>Vnd sybenzeh, vorm winter kalt.
+          <lb/>20, Got., 2sp., 4 unn. u. XCV num. Bll. (Druckfehler Bl. XCIV
+          <lb/>statt XCI, XCI statt XCIV), Kopft., zahlreiche Init.
+          <lb/>Vor Bl. I. 2 grosse zusammengelegte Tafeln:
+          <lb/>1) Ein contrafact Anatomy der inneren glyderèn des
+          <lb/>menschen durch den hochgelerten physicum vnd medi¬
+          <lb/>cinae doctorem Wendelinum hock von Brackenau, zû
+          <lb/>Straszburg declariert, vnd eygentlich in beysein viler
+          <lb/>Scherer vnd Wundärtzt gründtlich durchsûcht. Holeschn.:
+          <lb/>Anatomie des Rumpfes; darunter: 46 deutsche Verse mit dem Kolophon:
+          <lb/>Getruckt zu Straszburgdurch Ioannem Schott&amp;quot; nebst Monogramm
+          <lb/>Schotts. Uberschrift: Anatomia corporis Humani, 1517. Der Holeschn.
+          <lb/>ist von Hans Wechtelin, laut Vers 13-16:
+          <lb/>(Mit gzeügnusz sag ich dir fürwor)
+          <lb/>Hans Wächtlin hat recht bey eim hor
+          <lb/>Ab kontrafayt kunstlich vnd wol.
+          <lb/>2) Ein Contrafacter Todt mit seinen beinen fûgen vnd
+          <lb/>glydern vnnd gewrerben, vsz beuelh loblicher gedächtnüsz
+          <lb/>hertzog Albrecht, bischoff zû Straszburg durch meister
+          <lb/>Nicklaus bildhaver zû Zabern worlich in stein abgehauen,
+          <lb/>vnd noch anzöig rechter gewisser Anatomy mit sein
+          <lb/>lateinischen namen verificiert.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:38.611219+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu123.tif
+IMAGE WIDTH: 2416
+IMAGE HEIGHT: 3856
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>SUMMENHART CONRADUS: Septipertitum opus de contrac¬
+          <lb/>tibus. Haguenau, H. Gran, 13 oct. 1500, in-fol.
+          <lb/>Hain 15179, Pellechet: Colmar 1220. Voulliéme: Berlin 1187.
+          <lb/>K 3432. Prov.: Don de la ville de Heilbronn, 1871. A l&amp;#x27;inté¬
+          <lb/>rieur du 1er plat: «Ex legato Egregij viri Artium ac sacrae
+          <lb/>Theol. doctoris domini Joan. krener ex. Scherding concio¬
+          <lb/>natoris Heylpronensis». Rel. anc.
+          <lb/>443
+          <lb/>SUMMENHART CONRADUS: Tractatulus bipartitus de decimis.
+          <lb/>Haguenau, H. Gran, 13 nov. 1497, in-fol.
+          <lb/>Hain 15177, Pellechet: Colmar 1219, Proctor 3189, Voulliéme;
+          <lb/>Berlin 1177, Walter: Sélestat 449.
+          <lb/>K. 3430. Prov.: Don de la ville de Heilbronn, 1871. A la suite
+          <lb/>de Summenhart, Septipertitum opus. Haguenau, 1500, K 3432.
+          <lb/>SUNGZELL. Voir: Sünzell.
+          <lb/>444
+          <lb/>SüNzEIL FRIDERICUS MOSELLANUS: Collecta in octo libros
+          <lb/>Physicorum Aristotelis. Haguenau, H. Gran pour
+          <lb/>Rymman, 11 mai 1499, in-4°.
+          <lb/>Hain 15186, Madsen 3815, Proctor 3198, Voulliéme: Berlin
+          <lb/>1182.
+          <lb/>K 3436. Prov.: Don de Fid. Butsch, Augsbourg, 1871. Au-des¬
+          <lb/>sus du titre; «Ranshofen».
+          <lb/>445
+          <lb/>SYLVATICUS MATTHAEUS. Voir: Silvaticus.
+          <lb/>SYNTHEN JOHANNES: Dicta super prima et secunda parte
+          <lb/>Alexandri, Strasbourg, J. Prüss, 14 mars 1499, in-8°.
+          <lb/>(Gravures.)
+          <lb/>Hain 14763 (1), Proctor 554, Schmidt III, 29, Schreiber 5268.
+          <lb/>K 3332. Prov.: BN Munich, 4. XI. 1880, 4 M. Au-dessous de
+          <lb/>la gravure du titre; attinet Tegernsee Emptus anno 1515.»
+          <lb/>Rel. anc.
+          <lb/>446
+          <lb/>SYNTHEN Johannes. Voir aussi: Johannes de Garlandia.
+          <lb/>TERENTIUS Afer Publius: Comediae cum commentariis.
+          <lb/>Strasbourg, J. Grüninger, 1er novembre 1496, in-fol.
+          <lb/>Hain 15431, Madsen 3847, Pellechet: Colmar 1232, Proctor 473,
+          <lb/>Schmidt I, 26, Schreiber 5331, Voulliéme: Berlin 2296, Walter:
+          <lb/>Sélestat 454; Schramm, Bilderschmuck XX, grav. N° 240-338.
+          <lb/>93
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

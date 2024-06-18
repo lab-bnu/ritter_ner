@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:03.905837+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002093.tif
+IMAGE WIDTH: 2494
+IMAGE HEIGHT: 3982
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Münster zu Straszburg, sich vor seinen widersächeren
+          <lb/>zu verhüten und bewaren... — [Strasbourg ?1 1524, in-40.
+          <lb/>Bibl. S. Guillaume Strasbourg.
+          <lb/>1227
+          <lb/>BUGENHAGEN, Joh. : Annotationes in Deuteronomium, in
+          <lb/>Samüelem prophetam, id est duos libros regum... —
+          <lb/>Strasbourg, Jean Knobloch 1524, in-8°.
+          <lb/>Geisenhof, n° 35; Schmidt VII, n° 282. Geisenhof, Georg,
+          <lb/>Bibliographia Bugenhagiana. Leipzig 1908. (Quellen. u. Darstel¬
+          <lb/>lungen aus der Geschichte des Reformationsjahrhunderts VIl.
+          <lb/>1228
+          <lb/>BUGENHAGEN, Joh. : Annotationes in x. Epistolas Pauli... —
+          <lb/>Strasbourg, Jean Herwagen mai 1524, in-80.
+          <lb/>Geisenhof, n° 56. (B N Strasbourg R 102.218 (3) : Ritter,
+          <lb/>Rép. n° 325).
+          <lb/>1229
+          <lb/>BUGENHAGEN, Joh. : Annotationes in epistolas Pauli ad
+          <lb/>Galatas... — Strasbourg, Jean Knobloch, juillet 1525,
+          <lb/>in-80.
+          <lb/>Geisenhof, n° 63; Schmidt VII, n° 294 : B U Goettingen;
+          <lb/>Panzer 6, 107, 702.
+          <lb/>1230
+          <lb/>BUGENHAGEN, Joh. : Annotationes uber die zehen Epistel
+          <lb/>S. Pauli... Verteütscht durch Caspar Turnawer. —
+          <lb/>(Strasbourg, Jean Knobloch, 14 janvier 1525), in-80.
+          <lb/>Geisenhof, no 61, Schmidt VII, n° 288.
+          <lb/>1231
+          <lb/>BUGENHAGEN Joh. (Annotationes): In regum duos ultimos
+          <lb/>libros Annotationes, post Samuelem iam primum
+          <lb/>emissae. — Strasbourg, Jean Knobloch 1525, in-8°.
+          <lb/>L’Art ancien S. A. Zurich, Liste 172, n° 16; Geisenhof 160,
+          <lb/>2. Ausg.
+          <lb/>1232
+          <lb/>BUGENHAGEN, Joh. (Epistola Pauli) : In epistolam Pauli ad
+          <lb/>Romanos interpretatio... a Doctore Ambrosio Moiobano
+          <lb/>excerpta. — Haguenau, Jean Secer, janvier 1527, in-8°.
+          <lb/>Geisenhof, n° 215; Burg, n° 116.
+          <lb/>1233
+          <lb/>91
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

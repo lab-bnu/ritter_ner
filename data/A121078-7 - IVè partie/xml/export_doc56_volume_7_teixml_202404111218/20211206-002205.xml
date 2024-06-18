@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:06.899926+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002205.tif
+IMAGE WIDTH: 2516
+IMAGE HEIGHT: 3986
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>GEILER, Joh. (Evangelia) : Das plenarium uszerlesen. —
+          <lb/>Strasbourg, Jean Grüninger (II mars) 1522, in-fol.
+          <lb/>Kristeller 103; Schmidt I, n° 186; BN Paris Réa. A 1632;
+          <lb/>Weller, Rep. 2071; Ritter, Grand Sém. Strasbourg, n° 177.
+          <lb/>1836
+          <lb/>GEILER, Joh. (Granatapfel) : Das Buch Granatapfel... —
+          <lb/>Strasbourg, Jean Knobloch 14.III.1511, in-fol. (Réim¬
+          <lb/>pression de l’éd. d’Augsbourgl.
+          <lb/>Schmidt VII, n° 74; Panzer : Annalen, Zusätze 120; Dacheux,
+          <lb/>Geiler CVII. (Ritter, Rép. n° 9571
+          <lb/>1837
+          <lb/>GEILER, Joh. (Granatapfel) : Das Buch Granatapfel, in latin
+          <lb/>genant Malogranatus. — Strasbourg, Jean Knobloch
+          <lb/>25.VI.1516, in-fol.
+          <lb/>Schmidt, VII, 116.
+          <lb/>1838
+          <lb/>GEILER, Joh. : Herr der küng... — Strasbourg, Jean Grüninger
+          <lb/>20.111.1517, in-fol.
+          <lb/>Schmidt, Hist. litt. II, p. 387, n° 195.
+          <lb/>1839
+          <lb/>GEILER, Joh. (Herr der König) (Idem). — (Strasbourg,
+          <lb/>Jean Grüninger «uff sant Mathis abend » 1516, in-fol.
+          <lb/>Goedeke I2, p. 402, n° 24; Schmidt, Hist. litt. II, p. 387,
+          <lb/>n° 195.
+          <lb/>1840
+          <lb/>GEILER, Joh. : Das Narrenschiff... usz latin in tütsch bracht. —
+          <lb/>Strasbourg, Jean Grüninger 23.VIII.1520, in-fol.
+          <lb/>Dacheux, Geiler, p. CLXV; Kristeller 102; Panzer, Annalen I,
+          <lb/>434; BN Paris Rés. D. 1650bis ; Schmidt I, n° 172. (BN
+          <lb/>Strasbourg R10.113 et R10.112; Ritter, Rép. n° 982l.
+          <lb/>1841
+          <lb/>GEILER, Joh. : De oratione dominica Sermones. —
+          <lb/>(Strasbourg, Mathias Schürer (4.XIII 1515), in-40.
+          <lb/>Dacheux, Geiler CIII; Schmidt VIII, n° 170 : Exemplaire
+          <lb/>Charles Schmidt. [Ritter, Rép. n° 951 : éd. Schürer 1509,
+          <lb/>Rép. n° 954 : Schürer 1510l.
+          <lb/>1842
+          <lb/>203
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

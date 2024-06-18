@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:06.957478+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002208.tif
+IMAGE WIDTH: 2514
+IMAGE HEIGHT: 3980
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>GEILER, Joh. (Der Trostspiegel) : Der Trostspiegel... so dir
+          <lb/>vatter, muter, kind oder frund gestorben sind. —
+          <lb/>(Strasbourg s. d.], in-40,
+          <lb/>Goedeke Ia, p. 398, n° 7.
+          <lb/>1856
+          <lb/>GEILER, Joh. (Der Trostspiegel) : (Idem). — (Strasbourg)
+          <lb/>(Jean Knobloch] 1503, in-40.
+          <lb/>Schmidt VII, n° 4; B M Colmar; Communication Rest.:
+          <lb/>B U Fribourg-en-Br., BN Paris Rés. D. 7755.
+          <lb/>1857
+          <lb/>GEILER, Joh. (Der Trostspiegel) : (Idem). — Strasbourg,
+          <lb/>Jean Knobloch 1511, in-fol.
+          <lb/>Goedeke I2, p. 398, n° 7.
+          <lb/>1858
+          <lb/>GEILER, Joh. (Der Trostspiegel) : (Idem). — (Strasbourg,
+          <lb/>Jean Knobloch 1519), in-40.
+          <lb/>Schmidt VII, n° 184: Bibl. Dresde; Dacheux, Geiler,
+          <lb/>p. LXXXVII; Panzer : Annalen, Zusätze 152, 931.
+          <lb/>1859
+          <lb/>GEILER, J. Voir : BIETHENUS, Jac., Sermones n° 1010.
+          <lb/>Geiler, voir aussi: RITTER, Rép, nos 947-986).
+          <lb/>GEISSLER, Heinrich : Formulare und deutsch Rhetorik. —
+          <lb/>Strasbourg, Jean Prüss vers 1505, in-fol.
+          <lb/>Gilhofer &amp;amp; Ranschburg (Vienne) Catal. 260 (1936). (Ritter,
+          <lb/>Rép. n° 987 : éd. Prüss 1502; n° 988 : Paul Goetz 1514 et
+          <lb/>n° 989 ; éd. Knobloch 1519).
+          <lb/>1860
+          <lb/>GEISSLER, Heinrich : Formulare und tütsch Rhetorica. —
+          <lb/>(Strasbourg, Jean Knobloch 3 mars 1511), in-fol.
+          <lb/>Kristeller n° 370; Schmidt VII, n° 331; BN Berlin; Klemm
+          <lb/>277.
+          <lb/>1861
+          <lb/>GELLIUS, Aulus : Noctium Atticarum libri 21. — Strasbourg,
+          <lb/>Mathias Schürer 1514, in-fol.
+          <lb/>Graesse III, p. 45. [Ritter, Rép, no 992 ; éd. Knobloch 1517 et
+          <lb/>1521 (n° 993) Schmidt VII, n° 214: Schürer 1517). 1862
+          <lb/>206
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

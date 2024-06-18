@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:06.749367+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002196.tif
+IMAGE WIDTH: 2500
+IMAGE HEIGHT: 3982
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Cartha marina. — Strasbourg, Jean Grüninger 22.IV.
+          <lb/>1530, in-fol. (Préface à la carte de Waldseemüllerl.
+          <lb/>Brunet (5e éd.) 2, 1399; Harisse, Additions, p. 99, n° 90;
+          <lb/>Schmidt I, n° 246: B U Vienne.
+          <lb/>1779
+          <lb/>FRIES, L. (Practica der Juden) : Der Juden practica für
+          <lb/>1525. — Haguenau, Armand Farckall 1524, in-4°.
+          <lb/>Weller 3407, Zinner 1297.
+          <lb/>1780
+          <lb/>FRIES, L. : Prognostication uff das iar... M.D.XXVI. —
+          <lb/>(Strasbourg, Jean Grüninger] 1525, in-4°.
+          <lb/>Schmidt I, n° 228 : B N Strasbourg (exemplaire disparu
+          <lb/>avant 1918).
+          <lb/>1781
+          <lb/>FRIES, L. : Prognostication... Auff das jar M.CCCCCxXXi...
+          <lb/>— (Strasbourg, Jean Grüninger] 1530, in-4°.
+          <lb/>Schmidt I, n° 249. — Trübner, Strasbourg 1883.
+          <lb/>1782
+          <lb/>FRIES, L. : Prognostication... — Strasbourg, Jean Knobloch
+          <lb/>1530, in-40.
+          <lb/>Schmidt VII, n° 322; Nuremberg, Musée germanique. 1783
+          <lb/>FRIES, L. (Von den Speisen) : Von allerley speysen So
+          <lb/>dienstlichen zur menschlicher narung Durch Doctor
+          <lb/>Laurentium Friesen vor dreyssig Jaren beschriben...
+          <lb/>Und jetz durch M. Matthys Erben in truck geben. —
+          <lb/>Mulhouse, Pierre Schmid 1559, in-40.
+          <lb/>Werner, p. 89, n° 1; Coudre, p. 81, note 1.
+          <lb/>1784
+          <lb/>FRIES, L. : Spiegel der Artzney... — Strasbourg, Jean
+          <lb/>Grüninger 1526, in-fol.
+          <lb/>Graesse V, p. 277 [éd. Grüninger 1518, 1519 : Ritter, Rép.
+          <lb/>n° 888/9).
+          <lb/>1785
+          <lb/>FRIES, Lor. : Spiegel der Artzny gemachet und widerumb
+          <lb/>mit ernst übersehen und gebessert... — Straszburg,
+          <lb/>194
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

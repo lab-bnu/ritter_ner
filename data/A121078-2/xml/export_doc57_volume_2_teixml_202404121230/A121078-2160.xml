@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:31.416506+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2160.tif
+IMAGE WIDTH: 2298
+IMAGE HEIGHT: 3826
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>156
+          <lb/>BRANT Sebastian
+          <lb/>Strasbourg, J. Albrecht, 1533.
+          <lb/>Der Richterlich ClagspiegelEin nutzbarlicher begriff,
+          <lb/>Wie man setzen vndformiren sol nach ordnung der
+          <lb/>rechten ein jede clag, antwurt, vnd! auszsprechene vrtei¬
+          <lb/>len. Gezogen ausz geystlichen vnd weltlich en rechten. Da
+          <lb/>durch sich ein jeder, er sey Clager, Antwor- ter oder
+          <lb/>Richter, in recht geschickt machen, daz selb üben, brau¬
+          <lb/>chen, vnd dargegen vor vnrechter that, anfech- tung vnd
+          <lb/>fürnemen verhüten mag. Durch Do- ctorem Sebastianum
+          <lb/>Brandt wider durch- sichtiget, vnd mit mererm fleisz
+          <lb/>von neü- wem zûm theyl gebessert.
+          <lb/>Gravure sur bois, comme dans les éditions précédentes; elle est
+          <lb/>répétée fol. 102b.
+          <lb/>A la fin, avant les vers de Brant: Getruckt zû Straszburg
+          <lb/>durch den Ersamen Johannem Albrecht. Jm jar als
+          <lb/>man zalt nach der geburtChristi vnsers Herrn.
+          <lb/>M. D. XXXIII.
+          <lb/>In-fol., car. goth., 8 ff. non ch., CXXXV ff. ch., titre courant,
+          <lb/>réclames, notes marginales, initiales goth. N, A; titre rouge et noir.
+          <lb/>fol. 8b la même gravure que dans les éditions de 1516 et 1518,
+          <lb/>mais la partie supérieure, le couronnement de la Ste. Vierge manque, elle
+          <lb/>est remplacée par une bande d’ornement, et la partie inférieure contient
+          <lb/>trois cavaliers à cheval, un à gauche et deux à droite.
+          <lb/>Au verso du titre, les vers de Brant, puis viennent la préface, la
+          <lb/>dédicace et la table à 2 colonnes comme dans les éditions de 1518 et
+          <lb/>1521; de même au verso du dernier f., les vers de la fin de S. Brant
+          <lb/>comme dans ces éditions.
+          <lb/>R10.236. Prov.: Weiss d Neumeister, Leipeig, 8/X. 1881,I0M.
+          <lb/>Annotations mes, au haut du titre: Cœnobij Roth. Ord. Prae¬
+          <lb/>monstr., au milieu, cachet: D. Sintenis, au bas: C. I. I. Sintenis, Ictus
+          <lb/>Giessensis 1839.
+          <lb/>GPB. Berlin SB, Breslau UB, Halle UB, Göttingen UB.
+          <lb/>245
+          <lb/>BRANT Sebastianus
+          <lb/>Strasbourg, J. Albrecht, 1536.
+          <lb/>Der Richterlich Clagspiegel. Ein nutzbarlicher begriff,
+          <lb/>Wie man setzen vnd for-mieren sol nach Ordnung der
+          <lb/>Rechten eyn yede Clag, Antwurt, vnnd auszsprechene
+          <lb/>Vrteylen. Gezogen ausz Geystlichen vnd Weltlich-en
+          <lb/>Rechten. Dadurch sich eyn yeder, er sey Clager, Antwor¬
+          <lb/>ter oder Richter in recht geschickt machen, das selb
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

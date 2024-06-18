@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:06.066003+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie061.tif
+IMAGE WIDTH: 2482
+IMAGE HEIGHT: 3920
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>JACOBUS de Voragine : Legenda aurea. — Strasbourg,
+          <lb/>Jean Grüninger] 1496, in-4°.
+          <lb/>Copinger 6466; Polain 2208; Proctor 630(?); Voulliéme:
+          <lb/>Berlin 2290, 5.
+          <lb/>369
+          <lb/>JACOBUS de Voragine : Legenda aurea. — Strasbourg, Jimpr.
+          <lb/>du Jordanus — Georges Husner vers le 12 mai) 1496,
+          <lb/>in-fol.
+          <lb/>Copinger 6467, Proctor 630, Polain 2210; Ritter, Rép. Inc.
+          <lb/>261; Voulliéme : Berlin 2463.
+          <lb/>370
+          <lb/>JACOBUS de Voragine : Legenda aurea. — (Haguenau,
+          <lb/>Henri Granl 22 août 1497, in-40.
+          <lb/>Copinger 6469.
+          <lb/>371
+          <lb/>JACOBUS de Voragine : Legenda aurea. — (Strasbourg,
+          <lb/>Jean Grüninger) 1497, in-4°.
+          <lb/>Polain 2211; Proctor 484.
+          <lb/>372
+          <lb/>JACOBUS de Voragine : Sermones. — [Strasbourg, impr.
+          <lb/>C. W. s. d.], in-fol.
+          <lb/>Voulliéme : Berlin 2192, 5.
+          <lb/>373
+          <lb/>JACOBUS de Voragine : Sermones. — [Strasbourg 1474),
+          <lb/>in-fol.
+          <lb/>Copinger III, 6530; Pellechet : Jac. de Voragine n° 157. 374
+          <lb/>JACOBUS de Voragine : Sermones de sanctis. — [Strasbourg,
+          <lb/>Jean Grüninger! 14. VII. 1484, in-fol.
+          <lb/>Copinger 6551; Polain 2232; Proctor 441; Voulliéme : Berlin
+          <lb/>2272.
+          <lb/>375
+          <lb/>JOB : Dieses büchlin sagt von dem heiligen Job. —
+          <lb/>Strasbourg (Barth. Kistler), 1498, in-4°.
+          <lb/>Hain 9377; Voulliéme : Berlin 2547.
+          <lb/>376
+          <lb/>59
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

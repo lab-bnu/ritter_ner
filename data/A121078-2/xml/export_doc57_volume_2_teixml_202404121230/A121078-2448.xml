@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:39.584086+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2448.tif
+IMAGE WIDTH: 2400
+IMAGE HEIGHT: 3820
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>444
+          <lb/>DRUTHMARUS Christianus
+          <lb/>Haguenau, J. Secer, août 1530
+          <lb/>CHRI- STIANI DRVTHMA ri, Theologie uetustissimi,
+          <lb/>in! Euangelium Matthaei expo! sitio, per Menradum
+          <lb/>Moltherum re stituta. FLOR VIT AVTHOR Anno DCCC.
+          <lb/>Haganoe, per lohan. Secer. Anno M. D.XXX.
+          <lb/>A la fin: Haganoe, per Iohannem Secerium.Anno
+          <lb/>M. D.XXX. Mense Augusto. Au-dessous, marque typ. de J. Secer,
+          <lb/>(H. d B., Planche LXXI, no 9; Silvestre, n° 567.)
+          <lb/>In-89, car, rom., 343 ff. ch. -- 1 f. non ch., au recto Explicit et
+          <lb/>marque typ., verso blanc, titre courant, réclames au verso des ff., notes
+          <lb/>marginales, initiales ornées A. H; tître encadré. (H. a B., Planche
+          <lb/>LXIX, n° 2.)
+          <lb/>Au verso du titre: Ad... Iohannem Locerum Herbensem
+          <lb/>.. Menradi Moltheri Elegiacum, (10 distiques.)
+          <lb/>fol. A 2a:... D. Rudigero, Praeposito in Wissenburg,
+          <lb/>Menradus Moltherus S. D.... — Eittelbergae Idibus Februarij.
+          <lb/>Anno... M. D. XXX. (Dédicace, 6 p.).
+          <lb/>R101.351. Prov.: Olschki, Verona, I/VIII. 1886; 10 M. 20. Au
+          <lb/>bas du titre, note mss.: Editio prima hujus Operis facta fuit Argentinae
+          <lb/>1514 a Jacobo Wimpfelingio; nee facile invenitur.
+          <lb/>BN Paris A 8579.
+          <lb/>665
+          <lb/>DUNCKELSPUHEL. Voir: NIÇOLAUS DE DüNCKELSPÜHEL.
+          <lb/>DUNUS Thaddäus
+          <lb/>Strasbourg, 1. Rihel, 1565
+          <lb/>MVLIEBRIVM MOR- BORVM OMNIS GENERIS Remedia,
+          <lb/>ex Dioscoride, Gale No, PLINIO, BARBARISQUE ET ARA¬
+          <lb/>bibus studiose collecta &amp;amp; disposita, a Thaddaeo Duno
+          <lb/>Locarnen si Medico.Cum gratia &amp;amp; priuilegio Caesareo.
+          <lb/>Marque typ. de Josias Rihel (H. &amp;amp; B., Planche XXXI, n° 8;
+          <lb/>Silvestre, n° 821).
+          <lb/>Argentorati excudebat Iosias Rihelius. M. D. LXV.
+          <lb/>(Verso blanc.)
+          <lb/>In-80, car. ital., 104 pages ch. — 1 f. non ch. (Index), réclames,
+          <lb/>initiales ornées L, A.
+          <lb/>fol. A 2a: ... Gablero Medico Tubingensi, amico optimo:
+          <lb/>Thaddaeus Dunus Locarnen! sis Medicus Salutem optat
+          <lb/>.. — Tiguri Nonis lan, 1565, (4 pages en car, rom.)
+          <lb/>RI01551(1). Prov.: Bibl. de l’ancienne Faculté de médecine, Stras¬
+          <lb/>bourg. A l&amp;#x27;intérieur du 1er plat: Ex-libris de Johannes Boeclerus; au
+          <lb/>recto du titre: Ex bibliotheca Th. Fabrj. D., en bas, timbre de la Faculté
+          <lb/>de Médecine de Strasbourg.
+          <lb/>BN Paris, 80, Te 19. 3; Oxford, Bibl. Bodleiana.
+          <lb/>666
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

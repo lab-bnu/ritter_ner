@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:13.720899+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002494.tif
+IMAGE WIDTH: 2524
+IMAGE HEIGHT: 3964
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>TRACTAETLEIN : Ein gar schen trattetlin von der erkantnüss
+          <lb/>der sünden... Der Beicht Spiegel. — (Strasbourg,
+          <lb/>Jean Knobloch 1519), in-40.
+          <lb/>Schmidt VII, n° 188; Weller, Rep. 1274. — B N Munich;
+          <lb/>[éd. Knobloch 1517 : Ritter, Rép. n° 2354).
+          <lb/>3356
+          <lb/>TRACTAT : Dieser Tractat helt yn von bereitung der wein zu
+          <lb/>gesuntheyt und nutzbarkeyt der menschen. — (Stras¬
+          <lb/>bourg, Mathias Hupfuff 1506), in-4°.
+          <lb/>Panzer, Annalen I, 274; Schmidt V, n° 58.
+          <lb/>3357
+          <lb/>TRACTAT : (Idem). — (Strasbourg, Mathias Hupfuff 1512),
+          <lb/>in-40.
+          <lb/>Panzer, Annalen 1, 345; Schmidt V, n° 101.
+          <lb/>3358
+          <lb/>TRACTAT : (Idem). — (Strasbourg, Martin Flach 1522), in-4°.
+          <lb/>Schmidt VI, p. 36, n° 68 : Bâle; Weller, Rep. 2281. 3359
+          <lb/>TRACTAT : EJn warhafftiger tractat wie man das hochwirdig
+          <lb/>heiligthum verkündt und geweist in der heiligen stadt
+          <lb/>Trier jm thum. Dar bey die ware historia, wie das selb
+          <lb/>heiligthum da hin kommen sey. Auch ein schöne taffel
+          <lb/>von allem heiligthum das zu Trier ist im thum (Dom)...—
+          <lb/>[Strasbourg, Jean Knobloch (?) 1513), in-4°.
+          <lb/>Rosenthal (Munich) Catal. 89 (1928), n° 787 : 200 M. Weller
+          <lb/>745 l’attribue à Knobloch.
+          <lb/>3360
+          <lb/>TRACTATUS : Tractatus de fraternitate rosarii gloriosae
+          <lb/>Virginis Mariae. — Strasbourg, Barth. Kysteller
+          <lb/>(Kistler) im Grüneck 1501, in-40.
+          <lb/>Schmidt IV, p. 6, n° 15, d’après le Catalogue Weislinger 258.
+          <lb/>3361
+          <lb/>TRACTATUS : Tractatus de ruine ecclesie planctu. —
+          <lb/>(Haguenau), [Th. Anshelm? 1519 ?l.
+          <lb/>Burg, n° 402. (Probablement Ritter, Rép. n° 2352). 3362
+          <lb/>492
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

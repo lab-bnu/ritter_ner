@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:46.504304+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078134.tif
+IMAGE WIDTH: 2312
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1020
+          <lb/>die 16.  Februarii... (8 pp.) Fol. 6a: Typographus! Lectori. (2 pp.)
+          <lb/>Fol. 2a : Praefatio Phi- lippi Melanch- thonis... — Anno 1560
+          <lb/>l&amp;#x27;intérieur de la couverture: Aus den Büchern seines seligen. Vaters der
+          <lb/>R100.886. Prov. : Altgelt, Dusseldorf 1871. Annotations mss. à
+          <lb/>Universitäts Bibliothek zu Strasburg von dem Geheimrat Altgelt zu Düssel¬
+          <lb/>dorf. 1871.
+          <lb/>Au verso du f. de garde : Haec Editio Corporis doctrinae perrara
+          <lb/>et sine dubio instigante Rectore illustriss. Jo. Sturmio tunc cum Pappis,
+          <lb/>Andraeis, Osiandris, defensoribus formulae Concordiae, Melanchthonisque
+          <lb/>detrectatoribus digladianté, in lucem hic, Argentorati prodiit. Reperiuntur
+          <lb/>igitur nonnulla hoc in volumine quae nulla in alia editione exstant.
+          <lb/>1562
+          <lb/>MELBER a Gerolzhofen Johannes Strasbourg, J. Knobloch vers 1504
+          <lb/>Vocabularius Predicantium. Hexastichon ad lec.
+          <lb/>(3 dist.) Verso blanc.
+          <lb/>A la fin : Hunc nuper librum Knoblouchus rite pre¬
+          <lb/>mebat Cuius apud Tribonos calchographia viget. (Verso blanc.)
+          <lb/>In-4°, car. goth., 172 ff. non ch., sign. a-2, titre courant, init.
+          <lb/>d’attente.
+          <lb/>Fol. a 2a: Principium Vocabularius dictus Variloquus, qui verbum
+          <lb/>polisemon ac aequivocum lingua Germanica multifariam exponit,! prae¬
+          <lb/>dicantibus utilissimus. Per Ioannem Melberium Ge- roltzhoffiensem ex ser¬
+          <lb/>monibus auditis et scriptis sub Iudoco! Eychmino de Kalb, egregio doc¬
+          <lb/>tore, famigeratiss.... Heidelbergii.
+          <lb/>R101.907. Prov, inconnue. Notes mss. Au milieu du titre: Mat¬
+          <lb/>thaeus Diepolt me possidet. Au dessous du titre: Ex lib. Michaelis Cra¬
+          <lb/>meri Anno 75. 12 Dezembris. Au verso du titre, timbre : Bibliotheca
+          <lb/>Regia Monacensis.
+          <lb/>&amp;quot;BN Paris, Rés. X. 1471; Schmidt VII n° 8 dit : circa 1504.
+          <lb/>1563
+          <lb/>MELUSINE
+          <lb/>Strasbourg, J. Knobloch 1516
+          <lb/>DYe Histori odergeschicht von der edeln und
+          <lb/>schönen Melusina, (Grav, sur bois: au milieu Melusine nue, à côté
+          <lb/>d&amp;#x27;elle 2 reines et un roi, en outre 4 personnes placées plus haut. Verso
+          <lb/>blanc.)
+          <lb/>A la fin : Getruckt unnd volendet in der loblichen
+          <lb/>statt Straszburg, durch Johannem Knob- loch. Als man
+          <lb/>zahlt nach der geburt Chri-sti unsers herren, Tausent
+          <lb/>Fünffhun dert und Sechtzehen Jare. (Verso blanc.)
+          <lb/>In-4°, car. goth., 70 ff. non ch., sign. A-P, init. ornée S. 54 pe¬
+          <lb/>tites grav. sur bois, assez primitives.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

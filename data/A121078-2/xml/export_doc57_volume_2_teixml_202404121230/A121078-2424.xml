@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:39.030327+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2424.tif
+IMAGE WIDTH: 2384
+IMAGE HEIGHT: 3828
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>420
+          <lb/>fol. a 5a: ELEGIA IN] LAVDEM LIBRORVM, ... Iaco-] bi
+          <lb/>Scheckij... SCRIPTA A M. ANDREAWunstio Wimpinensi.
+          <lb/>(18 distiques.)
+          <lb/>R102.201. Prov, inconnue.
+          <lb/>Bibliographie de Degen: Schottenloher I, N° 3969-3969a. 625
+          <lb/>DEIDRICIUS Georgius
+          <lb/>Strasbourg, C. Kieffer, 1589.
+          <lb/>HODOEPORIÇON ITINERIS, AR- GENTORATENSIS INSI¬
+          <lb/>GNIVMQVE ALIQVOT LOCORVM ET VRBIVM CVM VNGA- RIAE
+          <lb/>TVM VERO MAXIME GERMA-] niae descriptiones: fluviorum
+          <lb/>item ac montium quo- rundam appellationes: Historias
+          <lb/>denique nonnullas aliaque lectu non iniu- cunda, conti¬
+          <lb/>nens. SCRIPTVM A GEORGIO DEIDRICIO TEC- KENSI TRANS¬
+          <lb/>SYLVANO. Suivent 3 vers d’Horace; puis vignette.
+          <lb/>Au-dessous: ARGENTORATI Excudebat Carolus Kieffer,
+          <lb/>M. D. LXXXXIX. (!)
+          <lb/>A la fin: Datae Heidelbergae Idibus Aprilis 1588.
+          <lb/>In-4°, car, ital., 16 ff. non ch., sign. A-E, réclames, notes margi¬
+          <lb/>nales, initiales ornées; titre encadré (ornements), de même le verso du titre,
+          <lb/>qui contient les noms de ceux auxquels l’auteur a dédié le livre, c’est à
+          <lb/>dire: Albertus Hutterus et Stephanus Helnerus.
+          <lb/>fol. A 2a non ch.: AD EOSDEM PRAEFATIO (21 distiques).
+          <lb/>A la fin, épigrammes de différents auteurs.
+          <lb/>R 102.112. Prov : Fid. Butsch, Augsbourg, 94/X1. 1879, 30M.
+          <lb/>Comme Kieffer imprimait seulement de 1587-1590, la date 1599 du titre
+          <lb/>est probablement une erreur pour 1589, ce qui est d’autant plus proba¬
+          <lb/>ble qu’à la fin il y a la date 1588.
+          <lb/>626
+          <lb/>DEMOS THENES
+          <lb/>Strasbouro, Th. Rihel, s. d.
+          <lb/>Demosthenis ORATIONES OLYN-thiacae tres, &amp;amp; qua¬
+          <lb/>tuor Philippicae, eum quibusdam alijs eiusdem argu¬
+          <lb/>menti nunc primum adiectis, in v- sum adolescentum recte
+          <lb/>Graecè discere cupientium sepa-ratim editae.
+          <lb/>Marque typ. de Theodosius Rihel. (HEB, Planche XXXI, n° 10;
+          <lb/>Silvestre, No 854.)
+          <lb/>Au-dessous: ARGENTORATI! Excudebat Theodosius Rihe¬
+          <lb/>lius.
+          <lb/>In-80, car. grecs, 109 ff. ch. et 4 ff. blancs, titre courant, récla¬
+          <lb/>mes, notes marginales, initiales ornées.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

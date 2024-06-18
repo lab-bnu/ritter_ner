@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:31.532141+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2166.tif
+IMAGE WIDTH: 2296
+IMAGE HEIGHT: 3826
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>162
+          <lb/>M
+          <lb/>Iuants Porassitani Tu
+          <lb/>bingensis Pædotribæ Institudoz
+          <lb/>nes grãmaticæ elimatissimæ.
+          <lb/>8
+          <lb/>IN OSORES,
+          <lb/>*
+          <lb/>Brassica si quibus ingrata est, nastureia rodant,
+          <lb/>Et gratis his sunto Carduus at filix.
+          <lb/>2
+          <lb/>ALEXANDER BRASSIGA¬
+          <lb/>NVS IVNIOR.
+          <lb/>I nunc perge liber Sosiorum punice leuis
+          <lb/>Et limæ impatiens ũlterioris abi
+          <lb/>G
+          <lb/>Sis gratus cunctis namte pia Brassica fudiz
+          <lb/>Quæ semper viridis non peritura manct,
+          <lb/>Panegyrica epistola qua gymnasium
+          <lb/>Tubingense extollitur &amp;amp;
+          <lb/>commendatur,
+          <lb/>C
+          <lb/>15
+          <lb/>RN
+          <lb/>ANNO. M. D. XVIII.
+          <lb/>3
+          <lb/>*
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

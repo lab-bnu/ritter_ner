@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:46.949463+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078150.tif
+IMAGE WIDTH: 2308
+IMAGE HEIGHT: 3844
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1036
+          <lb/>A la fin: Getruckt zû Straszburg beim Jacob Cam¬
+          <lb/>merlander in der grossen Stadelgassen.
+          <lb/>Au-dessous, trois bandes d’ornement, de même f. 15a. Verso blanc,
+          <lb/>en plus un f. blanc.
+          <lb/>In-4°, car, goth., 20 ff. non ch., sign. A-E, réclames, notes marg.
+          <lb/>avec 24 petites grav. à la marge, titre encadré de 4 pièces d’ornement.
+          <lb/>Au verso du titre: Das sich von der Künigin fraw Untrew iren
+          <lb/>Räthen und stet verordneten hauptlewten, sampt allen iren dienern und
+          <lb/>hof-gesind niemants in iren fürgenummen Feldstreit befiel- len lasz,
+          <lb/>ein trewe warnung, terminé fol. A 2a par 10 vers.
+          <lb/>Fol. A 2b: Vorred disz Buchs en vers.
+          <lb/>Fol. D 3b :. Ermanung zâ den fürsten unnd be! schlusz red disz
+          <lb/>Büchleins, (8 pp.)
+          <lb/>Au verso du dernier f. blanc, marque typ. de J. Cammerlander.
+          <lb/>(H a B Planche XXIV n° 1; Silvestre no 816.)
+          <lb/>R100.310. Prov.: Trubner, Strasbourg 6/VI 1883; 35 M.
+          <lb/>1595
+          <lb/>MOSELLANUS Petrus: Progymnasmata. Voir: BUCOLDIANUS:
+          <lb/>De Inventione oratoria. Strasbourg, J. Albrecht 1534.
+          <lb/>MOTIS Johannes
+          <lb/>Strasbourg, R. Beck 1511
+          <lb/>Apologia mulierum! in viros probrosos Joannis! Motis
+          <lb/>Neapolitani Sacre sedis apostolice Secretarii. Io. Hiso
+          <lb/>Lectori, (8 vers en car, rom.)
+          <lb/>Hecatosticha et penthadecas ele giaca: de obscenis
+          <lb/>mundi volu ptatibus extemporalis Georgii Gockenschna
+          <lb/>belii Oringensis. (Verso blanc.)
+          <lb/>A la fin: Excussum in Thermis Anthoninis Oppi di
+          <lb/>Badensis per Renatum Beck Civem! Argentinensem. Anno
+          <lb/>M. D. XI. No no Kalendas Ianuarii, quando pestis! preter
+          <lb/>solitam crudelitatem! Argentorati incrudesce bat.
+          <lb/>In-40, car. rom., les titres en car. goth., 18 ff. non ch., sign. a-d,
+          <lb/>titre courant, init. ornée S.
+          <lb/>Fol. A 2a : Epistola Ioannes Hiso Badensis... Guillelmo Sesz¬
+          <lb/>lern.... Ex Ther mis Anthoninis, viii kalendas Augusti. Anno. M. CCCCC.
+          <lb/>XI. Au recto du dernier f. blanc, marque typ. de R. Beck. (HCB
+          <lb/>Planche XV n° 2.)
+          <lb/>R 100.141. Prov.: Bibl. Ch. Schmidt avec son ex-libris.
+          <lb/>BN Paris, Rés. Z 870; Proctor II Sectio I n° 11963: Londres,
+          <lb/>Brit. Museum; Schmidt IV p. 16, n° 3 : Bibl, cantonale Aarau.
+          <lb/>Brunet III? 1929.
+          <lb/>1596
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

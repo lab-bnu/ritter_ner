@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:29.286478+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2100.tif
+IMAGE WIDTH: 2318
+IMAGE HEIGHT: 3828
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>96
+          <lb/>BEATUS RHENANUS
+          <lb/>Strasbourg, M. Schürer, 1510.
+          <lb/>IOANNIS GEILERI CAESA- REMONTANI, PRIMI I CONCIO¬
+          <lb/>NATORIS IN AEDE SACRAE MAIORIS ECCLESIAE ARGENTO¬
+          <lb/>RATENSIS VITA! PER BEATVM RHENANVM SELESTATINVM.
+          <lb/>A la fin: Excriptum in aedibus! Schürerianis. (Verso blanc.)
+          <lb/>In-40, car, rom., 6 ff. non ch., titre courant, initiale d’attente S.
+          <lb/>Au verso du titre: Beatus Rhenanus Selestatinus Iudoco
+          <lb/>Gallo Rubeaquensi Doctori Theologo, ac diuiMauritij
+          <lb/>apud Nemetes Canonico S. d.... — Ex larario nostro litera¬
+          <lb/>torio in vrbe Selestatina. Idibus Maijs. Anno M.D.X.
+          <lb/>Fol. A 6a: Epitaphium Thomae Volphij Iunioris, De¬
+          <lb/>cretorum Doctoris! conditum a Beato Rhenano Selestatino.
+          <lb/>.... VIXIT ANN. XXXIII. MENS. IX. OBIIT AN. SALUTIS. M.D.IX.
+          <lb/>R 102.028. Prov.: Don de la ville de Heilbronn, 1871.
+          <lb/>2e ex. M 24.270. Introuvable.
+          <lb/>Manque chez Schmidt, VIII.
+          <lb/>163
+          <lb/>BEATUS RHENANUS, Compendiosae vitae eiusdem (Geiler)
+          <lb/>descriptio. Voïr: GEILER, Navicula fatuorum. Strasbourg,
+          <lb/>M. Schürer, 1510, 1511, 1513.
+          <lb/>BEBELIUS Henrieus
+          <lb/>Strasbourg, J. Grüninger, 1503.
+          <lb/>Commentaria Epistolarum! Conficiendarum Henrici Be¬
+          <lb/>belij Iustingensis Poetae Lau reati; poeticam &amp;amp; oratoriam
+          <lb/>publice profitentis in stu- dio Tubingensi:Contra Epi¬
+          <lb/>stolandi modos Pontij &amp;amp; aliorumContra Epistolas Caroli
+          <lb/>Commentaria de Abusione linguae latinae apud germa! nos
+          <lb/>et proprietate eiusdem: Vocabularius optimarum dictio¬
+          <lb/>num
+          <lb/>A la fin: Impressum Anno M.CCCCCIII. Pridie Kalendas
+          <lb/>Apriles. (Verso blanc.)
+          <lb/>Fol. A 8b: Impressum in nobili Heluetiorum vrbe Ar¬
+          <lb/>gentina Per prouidum virum Joannem Grüninger: Atque
+          <lb/>acri! laboriosaque castigatione emendatum Anno. M.CCC¬
+          <lb/>CCIl.Pridie Kalendas Apriles.
+          <lb/>In-40, car. rom., CLXII ff. ch., en vérité il n’y en a que 140, parce
+          <lb/>que la pagination saute de f. 44 à 56; titre courant, init. à fig. C.
+          <lb/>Au verso du titre: Ad Lectorem Hen. Bebeli! us Poeta
+          <lb/>Laureatus. (8 vers latins.) Au-dessous: Armoiries de Wurtemberg.
+          <lb/>Fol. A 2a: AD ILLVSTRISSIMVM PRINCIPEM VDALRICVM
+          <lb/>VIRTENBERGENSEM ET THECCENSEM DVCEM MONTIS QVE
+          <lb/>PELLIGARDI COMITEM... — Ex Tubinga quarto Idus Iulias.
+          <lb/>M.CCCCC. (Préface de 5 p.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

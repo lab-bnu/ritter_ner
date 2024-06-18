@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:06.044878+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3086.tif
+IMAGE WIDTH: 2314
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>530
+          <lb/>AVTOREValentino Erythraeo Lindauiensi.
+          <lb/>seite leer.)
+          <lb/>ARGENTORATI APVD! Christianum Mylium.) 1565. (Rüek-
+          <lb/>Marg., Init. O, C.
+          <lb/>20, Griech., Antiq. u. Kursiv, 4 unn. Bll, 86 S., Kopft., Kust,
+          <lb/>berrima Tubingensi Academia,... Valentinus Ervthraeus.
+          <lb/>Bl. A 2a:... NICOLAO VARENBVLERO, professori in cele¬
+          <lb/>S. P. D.... — Argentorati, M. D. LXV. duodecimo! Calendas
+          <lb/>Apriles. (Vorrede, 6 S.)
+          <lb/>Bl. A 5a: D. VALENTINO ERYTHRAEO Iacobus Fabricius
+          <lb/>Chemnicensis, (14 Verse.)
+          <lb/>Auf der Rücks.: Matthiae Huebneri Schnebergensis in
+          <lb/>Tabu- las Valentini Erythraei carmen. (17 Dist.)
+          <lb/>R 10.4652. Prov.: Bibl. des Gymnasiums von Heilbronn, Tausch;
+          <lb/>2. IV. 1878.
+          <lb/>Oxford, Bibl. Bodleiana; GK: SB Berlin, UB Königsberg. 803
+          <lb/>ERYTHRAEUS Valentinus
+          <lb/>Strassburg, Chr. Mylius 1566
+          <lb/>DE VSV DECEM CATE- goriarum, in simplici quae¬
+          <lb/>stione, per eas, ducen- da... (3 Z. griech.) seu, Exemplum
+          <lb/>huius Deductio-nis, non personae, aut rei: sed actionis,
+          <lb/>Coena Dominica. AvoreValentino Erythraeo, Lin¬
+          <lb/>dauiensi.
+          <lb/>ARGENTORATI APVD Christianum Mylium. 1566. (Rück-
+          <lb/>seite leer.)
+          <lb/>80, Griech. u. Kursiv, 24 unn. Bll., 602 S., 1 unn. Bl., Kopft..
+          <lb/>Kust., Marg., Init. E.
+          <lb/>Bl. a 2a: ... CHRISTOPHORO, Duci Wirtembergensi...
+          <lb/>VALENTINVS ERYTHRAEVS... (Vorrede, 23 S.)
+          <lb/>RI01778. Prov.: L. Rosenthal, München, 26. I1I. 1887; 6 M.
+          <lb/>Handschr. Notiz auf dem Titelbl.: Sum Joh. Georgij Schwartz, Diaconi...
+          <lb/>Unten: Fridericus Fingerle Ambergensis.
+          <lb/>Oxford, Bibl. Bodleiana; GK: SB Berlin, UB Breslau. 804
+          <lb/>ERYTHRAEUS Valentinus
+          <lb/>Strassburg, J. Rihel 1567
+          <lb/>(Zierleisten.) VALENTINI ERY- THRAEI LINDAVIENSIS, DE
+          <lb/>Elocutione libri tres... (9 Z.) CONFECTI EX QVARTO AD
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

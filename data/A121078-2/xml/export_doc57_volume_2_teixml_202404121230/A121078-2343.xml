@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:36.541978+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2343.tif
+IMAGE WIDTH: 2328
+IMAGE HEIGHT: 3818
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>CICERO
+          <lb/>Strasbourg, [J. Rihell, 1558.
+          <lb/>M. T. Ciceronis ALTERVM EPI- stolarum Volumen.
+          <lb/>Ad T. Atticum.Ad M. Brutum.Ad Quintum fra¬
+          <lb/>trem. CVM PRAEFATIONE IOAN- nis Sturmij.! INDICE ET
+          <lb/>PAVLI MA- nutij Annotationibus.
+          <lb/>Marque typ. de Josias Rihel. (H ee B, Planche XXIX, No 5;
+          <lb/>Silvestre, N° 757.)
+          <lb/>Cum Gratia &amp;amp; Priuilegio Caesareo ad annos octo.
+          <lb/>M. D. LVIII. (Verso blanc.)
+          <lb/>In-8o, car. ital., 16 ff. non ch., 331 ff. ch., 32 ff. non ch. (Index)
+          <lb/>— 23 ff. non ch. (Annotationes Manutiï.), titre courant, réclames, initiale
+          <lb/>ornée O et initiales d’attente.
+          <lb/>fol. a 2a non ch.: AD REVERENDVM)... DoMI- num Vuolff¬
+          <lb/>gangum a Grüenensteyn Abba- tem Campidunensem. (Préface
+          <lb/>de 6 p.)
+          <lb/>fol. a 5a non ch.: VERBA GRAECA LATINE EXPRESSA.
+          <lb/>(23 p. en car. ital. et grees.)
+          <lb/>R 101.649 Prov.: Don de la Bibl. du Gymnase de Thorn, 1871
+          <lb/>avec le cachet de cette bibliothèque au haut du titre. Rel. anc.
+          <lb/>GPB. BN Berlin, B U Breslau, Muenster.
+          <lb/>515
+          <lb/>339
+          <lb/>CICERO
+          <lb/>Strasbourg, J. Rihel, 1558.
+          <lb/>(Vol. I.] M. T. CICERONIS ORATIONVM VO¬ LVMINA TRIA.)
+          <lb/>POST POSTREMAM NAVGERIA- nam, &amp;amp; Victorianam correc¬
+          <lb/>tionem emendata à JOANNE STVRMIO. Omnia &amp;amp; pagina¬
+          <lb/>rum, &amp;amp; uersuum numero atque longitu- dine Aldinis res¬
+          <lb/>pondent. ACCESSIT HVIC EDITIONI ELEN- chus uariarum
+          <lb/>lectionvm.
+          <lb/>Marque typ. de Josias Rihel (HEB, Planche XXIX, No 5;
+          <lb/>Silvestre, No 757.)
+          <lb/>Cum gratia &amp;amp; priuilegio Caesareo ad annos octo.
+          <lb/>M. D. LVIII. (Verso blanc.)
+          <lb/>Avant l&amp;#x27;Elenchus à la fin: Argentorati per Josiam! Rihe¬
+          <lb/>lium. ANNo M. D. LVIII. Mense Maio.
+          <lb/>In-8°, car. ital,, 16 ff. non ch. — 305 ff. ch. — 22 ff. non ch.
+          <lb/>(Index et Elenchvs varia rvm Lectionvm primi vo- lumi¬
+          <lb/>nis Orationum Ciceronis), titre courant, réclames, initiales ornées
+          <lb/>F, V et initiales d’attente.
+          <lb/>fol. a 2a: Ad illustrissi- mvm Principem Gvilielmvm,
+          <lb/>Dy! cem Geldrorum... Ioannis Sturmij Praefatio... (5 ff.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

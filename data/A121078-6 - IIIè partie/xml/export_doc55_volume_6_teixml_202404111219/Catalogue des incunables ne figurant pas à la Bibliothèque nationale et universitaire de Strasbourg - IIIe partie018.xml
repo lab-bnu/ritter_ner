@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:05.447187+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie018.tif
+IMAGE WIDTH: 2458
+IMAGE HEIGHT: 3930
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>ARTICULI abbreviati de la Bulle de la croisade d’Innocence
+          <lb/>VIII du 11. XII. 1488 (en allemand). — Strasbourg,
+          <lb/>J. Prüss vers 1489/90), Placard 341 x252 mm.
+          <lb/>GW2698. — B M Augsbourg.
+          <lb/>94
+          <lb/>ASTESANUS. Voir MENTELIN, Joh, n° 479.
+          <lb/>AUERBACH, Johannes : Processus iudiciarius. — (Strasbourg,
+          <lb/>J. Grüninger vers 1488/89), in-4°.
+          <lb/>G W 2844; Ritter : Grand Sém. Strasbourg n° 26; Copinger
+          <lb/>4595; Reichling Suppl. 146; Proctor 499; Voulliéme : Berlin
+          <lb/>2326, 5. Bâle, B N Berlin, Bibl. Centr. Zurich etc.
+          <lb/>95
+          <lb/>AUGUSTINUS, Aurelius : Enchiridion de fide, spe et caritate. —
+          <lb/>(Strasbourg, impr. civis C. W. pas après 1473), in-fol.
+          <lb/>G W 2904 : un des 3 ex. de la B N Munich porte la date
+          <lb/>manuscrite 1473; Hain-Copinger 2029; Pellechet 1535;
+          <lb/>Proctor 345; Voulliéme : Berlin 2190. B N Berlin, Munich,
+          <lb/>Paris, etc.
+          <lb/>96
+          <lb/>AUSLEGUNG der Hymnen. — [Strasbourg, J. Grüninger)
+          <lb/>(21.I1 1494, in-40.
+          <lb/>G W 3083; Hain-Copinger 2145 — Hain 16107; Proctor
+          <lb/>2426; Brit. Mus. Cat. III, 710; Voulliéme : Berlin 2287, 8.
+          <lb/>BN Amsterdam, B N Berlin, Munich etc.
+          <lb/>97
+          <lb/>BADIUS, Jodocus. Voir: BAPTiSTA Mantuanus, Adolescentia
+          <lb/>n° 103.
+          <lb/>BALBUS, Johannes : Catholicon. — (Strasbourg, Adolphe
+          <lb/>Rusch vers 1470), in-fol.
+          <lb/>G W 3184; Hain-Copinger 2253, Pellechet 1698, Proctor 247;
+          <lb/>Brit. Mus. Cat. I, 64; Voulliéme : Berlin 2112; Walter:
+          <lb/>Sélestat 74. B N Berlin, Munich, Paris etc.
+          <lb/>98
+          <lb/>BALBUS, Johannes : Catholicon. — (Strasbourg, impr. du
+          <lb/>Jordanus pas après 1483), in-fol.
+          <lb/>G W 3186; GK2664; Pellechet 1694 — 1695; Proctor 632;
+          <lb/>16
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:28.863190+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2090.tif
+IMAGE WIDTH: 2328
+IMAGE HEIGHT: 3826
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>86
+          <lb/>cum vtilibus concor! dantijs in marginibus passim an¬
+          <lb/>nexis. (3 feuilles de lierre.)
+          <lb/>A la fin: Argentinae in officina Joannis Knob ! louch
+          <lb/>diligentiori longe recogni tione impressa. Anno domini.
+          <lb/>M.D.XVIII, post diui Mathiae Apostoli! natalem. (Verso
+          <lb/>blanc).
+          <lb/>In-4°, car. rom., 42 ff. non ch., sign. Aa-Hh, titre courant, notes
+          <lb/>marginales.
+          <lb/>fol. Aa 2a: Jacobi Montuani Spirensis, ad candidum
+          <lb/>lectorem Epigramma. (10 distiques.)
+          <lb/>RI01.017. Prov.: Don de F. Butsch fils, antiquaire à Augsbourg
+          <lb/>1871.
+          <lb/>2e ex. R101015 (3). Prov.: BN Munich, 1. 2. 1877; rel. anc.
+          <lb/>Proctor II, Sectio I. N° 10.115c: Londres, British Museum.
+          <lb/>Schmidt VII, No 154.
+          <lb/>148
+          <lb/>BAPTISTA Mantuanus
+          <lb/>Strasbourg, J. Prüss fils, 1520.
+          <lb/>(Feuille de lierre) BAPTISTE! Mantuani Bucolica seu Ado¬
+          <lb/>lescentia in! decem aeglogas diuisa: a Jodoco Badio! As¬
+          <lb/>censio familiariter exposita: cum indice dictionum.
+          <lb/>Carmen eiusdem de sancto Joanne Baptista. Dialogus
+          <lb/>eiusdem de uita beata.! Hermanni Buschij oda de contem¬
+          <lb/>nendo mun- do &amp;amp; amanda sola uirtute &amp;amp; scientia.
+          <lb/>IN EGLOGAS MANTVANI DECA- tostichon omnium earum
+          <lb/>argumenta complectens! Joannis Gallinarij Budorini, (5 dis¬
+          <lb/>tiques.)
+          <lb/>A la fin: Excusum Argentine in Aedibus Joannis Prüsz.
+          <lb/>ductu &amp;amp; auspi cijs honesti viri Pauli Getz Ciuis Argenti¬
+          <lb/>nensis An no Millesimo quingentesimo vigesimo. die vero
+          <lb/>quarta Mensis Februarij.
+          <lb/>In-4°, car. rom., 4 ff. non ch., LXXII ff. ch. pour les Eglogues
+          <lb/>et 17 ff. non ch. pour le reste: titre courant, notes marginales, initiale
+          <lb/>ornée F.; titre encadré, composé de 4 pièces comme l’édition des Bu¬
+          <lb/>colica, Prüss 1513. (R100.138).
+          <lb/>Au verso du 3e fol.: Jodocus Badius ascensius Joannis
+          <lb/>Alexandri optime andegauensium Bibliopole ingenuis liberis
+          <lb/>Lao-] dislao &amp;amp; Clementi suis... — Ex celeberimo Parrhi¬
+          <lb/>siorum! gymnasio Sexto Kalendas Apriles, Anno M.D.H.
+          <lb/>Au verso du 4e fol.: BAPTISTA MANTVANVS CARME! lita
+          <lb/>Paridi Ceresario... — Kalendis Septembris. M.CCCC.XCVIII.
+          <lb/>Au-dessous: In Thomam wolphium iuniorem... &amp;amp; Albertum
+          <lb/>de Ratsamhusen germanicos amicicia coniunctissimos Te¬
+          <lb/>trastichon Baptistae Mantuani. (2 distiques.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

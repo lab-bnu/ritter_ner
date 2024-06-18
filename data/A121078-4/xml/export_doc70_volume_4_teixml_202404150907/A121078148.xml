@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:46.919146+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078148.tif
+IMAGE WIDTH: 2308
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1034
+          <lb/>der Römer Croni-ca gezogen, wie die so unmensch¬
+          <lb/>liche grosse liebe zû einander gewun-nen, das sich auch
+          <lb/>ye einer für den anderen inn tod gab.Durch Marti¬
+          <lb/>num! Montanum in truck verfertiget.
+          <lb/>Gedruckt zû Straszburg bey Paulo Messerschmidt.
+          <lb/>et noir.
+          <lb/>In-8°, car. goth., 36 ff. non ch., sign. A-E, réclames, titre rouge
+          <lb/>R100.308. Prov.: Trubner, Strasbourg 9/VI 1881; 15 M. Au
+          <lb/>titre: ¿Bibl. royale de Berlin.&amp;quot; Prix marqué au crayon 16 M. 1591
+          <lb/>MONTANUS Petrus
+          <lb/>Strasbourg, Ch. Egenolphe 1529
+          <lb/>SATYRAE PETRI MONTANI, POETAE CLA-rissimi, qui obiit,
+          <lb/>Anno M. D. VIl. I. De Poetis... H. De Medicis... IIl.
+          <lb/>De Principibus... IIII. De vita beata. (Marque typ. d’Egenolphe
+          <lb/>semblable à HEB Planche XXI n° 2.)
+          <lb/>ARGENTORATI, apud Christianum Egenolphum. An.
+          <lb/>M. D. XXIX.
+          <lb/>In-8°, car. ital., 16 ff. non ch., sign. A-B, titre courant, réclames,
+          <lb/>init, ornée P.
+          <lb/>R101227 (7). Prov.: Don de la BM de Mayence 1871.
+          <lb/>BN Paris, Yc. 8007.
+          <lb/>1592
+          <lb/>MORGENSTERN Gregorius
+          <lb/>Strasbourg, W. Schaffner 1513
+          <lb/>Sermones contra omnem mundi perversum statum.
+          <lb/>quem deus gloriosus et equi- tas naturalis damnat. Egregii
+          <lb/>et famosissimi do- mini Gregorii Morgenstern. Decretorum
+          <lb/>docto- ris celeberrimi. Qui iura canonica in gymnasio.
+          <lb/>Liptzensi quam fideliter docuit. Et verbum dei fru- ctuose
+          <lb/>ac devotissime populo praedicavit, omnibus! volentibus
+          <lb/>divinum seminare verbum perutiles. Ex Secunda recogni¬
+          <lb/>tione. (Verso blanc.)
+          <lb/>A la fin avant le registre : Impressum per me Wilhelmum
+          <lb/>procuratorem de roperschwiler.x. die Marcii. Anno do¬
+          <lb/>mini. Millesimo quingentesimo tredecim. Argentine.
+          <lb/>In-40, car. goth., 2 col., XCIII ff. ch., verso blanc- 6 ff. non ch.
+          <lb/>(Registrum), au verso du dernier f. grav. sur bois : Le Christ à la croix
+          <lb/>entre les deux larrons, sa mère et quelques saintes femmes ainsi que
+          <lb/>quelques soldats au pied de la croix; titre courant, init. d’attente.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

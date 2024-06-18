@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:27.247741+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2033.tif
+IMAGE WIDTH: 2376
+IMAGE HEIGHT: 3828
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>29
+          <lb/>E11537 &amp;amp; E11537a. (Le premier est un don de l’antiquaire
+          <lb/>Butsch fils, Augsbourg, 1871, le second provient de la Bibliothèque
+          <lb/>de Buxheim.)
+          <lb/>GPB III, 7210: Berlin, Munich, Breslau, Göttingen, Greifswald. 43
+          <lb/>ALTENSTAIG Johannes
+          <lb/>Haguenau, H. Gran, 1522.
+          <lb/>Vocabularius Joan nis Altenstaig Mindelhaimensis.
+          <lb/>Vocum que in opere grammatico plurimorum continentur:
+          <lb/>breuis et vera interpretatio.
+          <lb/>Directorium vocabu- lorum iuxta Alphabeti ordinem:
+          <lb/>indi-ce certo perlatum. Henrici Bebelij Epigramma.
+          <lb/>(4 distiques latins.)
+          <lb/>A la fin: Henricus Gran chalcographus Hagenauensis
+          <lb/>in officina sua expensis circumspecti viri Joan nis Rynman
+          <lb/>de Oringaw archibiblio! pole: impressit A no gratie. M.
+          <lb/>quingentesimo xxij. mense Mar tio.
+          <lb/>in-4°, car. goth., 2 col., 38 ff. non ch., CXIX ff. ch. — 1 f. blanc,
+          <lb/>initiale ornée A, titre courant, titre encadré (H&amp;amp;B, Planche LXIV, n° 2).
+          <lb/>Au verso du titre: Osualdus molitor Lucernus. M. Joanni
+          <lb/>Xilo tecto Canonico Lucerno. (30 ff. non ch.)
+          <lb/>fol. A 2a: Dictionum Index.
+          <lb/>fol. a: Nouveau titre... Opus emendatum et denuo re¬
+          <lb/>visum ab ipso operis autore. Nouvel encadrement. (H&amp;amp; B, Planche
+          <lb/>LXVI No 3.)
+          <lb/>fol. a 2 non ch.: Joannes Altenstaig Joan ni Rynman Archi¬
+          <lb/>bibliopole...
+          <lb/>fol. a 5 non ch.: Index operis.
+          <lb/>Réimpression de l’édition de 1516, le Directorium vocabularum
+          <lb/>vient ici avant l’Opus emendatum.
+          <lb/>C133419. Prov.: Brockhaus, Leipsic, 27/11 1875; 6 M., notes mss.
+          <lb/>GPB III, 7209: Munich.
+          <lb/>44
+          <lb/>ALTHAMER Andreas
+          <lb/>Strasbourg, J. Schott, 1527.
+          <lb/>ANDRAE] ALTHAMERI] BRENZII! Annotationes in Episto¬
+          <lb/>lam! beati Jacobi iamprimum editaeCum Indice.
+          <lb/>Argentorati apud Joannem! Schottum 1527. (Verso blanc)
+          <lb/>in-80, Car. ital., 56 ff. ch. — 4 non ch. (Index, 2 col.) notes marg.,
+          <lb/>au recto du dernier f. marque typogr. de Schott. (HAB, Planche IV,
+          <lb/>n° 9) titre courant, réclames, titre encadré. (H &amp;amp; B, Planche IX, n° 8.)
+          <lb/>*E112469, Prov.: L. Rosenthal, Munich, 18/xII 1889, 10 M.
+          <lb/>Schmidt II, No 102: Stuttgart; GPB III, 7369: Berlin, Munich,
+          <lb/>Vienne, Marbourg, Bonn.
+          <lb/>45
+          <lb/>ALTVATER. Voir: LEBEN der heiligen Altväter.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

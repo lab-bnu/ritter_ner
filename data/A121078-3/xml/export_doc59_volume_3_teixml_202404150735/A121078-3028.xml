@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:05.198074+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3028.tif
+IMAGE WIDTH: 2348
+IMAGE HEIGHT: 3838
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>472
+          <lb/>Auf der Rückseite: Vuymphelingius Vniuersis poetis &amp;amp;
+          <lb/>poeticae cultoribus Salutem... — Ex Argentoraco Idi.
+          <lb/>Au-gusti Anno... M. D. XI.
+          <lb/>40, Antig., 53 unn. Bll. Sign. A-H. Kopftitel, Marginalien, leerer
+          <lb/>Raum für Init.
+          <lb/>Auf der Rückseite des Titelbl.: Brief des Erasmus an Thomas
+          <lb/>Morus (3 S.).
+          <lb/>Auf der Vorderseite des vorletsten Bl.: Brief Wimpfelings an Eras¬
+          <lb/>mus, datiert von Strassburg »14. Kal. Septembriss 1511.
+          <lb/>Uber dem Explicit: Hexastikon von Seb. Brant.
+          <lb/>R 100.935. Herkunft unbekannt.
+          <lb/>GK: SB Berlin, UB Breslau; Proctor, Sectio I Nr. 10189. Lon¬
+          <lb/>don British Museum, Schmidt VIII Nr. 56: Strassburg, Bibl. Wulh.
+          <lb/>Rest S. 52.
+          <lb/>706
+          <lb/>ERASMUS: Adagia
+          <lb/>Strassburg, Math. Schürer, 1512
+          <lb/>COLLECTANEA ADAGIORVM VETERVM DESIDERII ERASMI
+          <lb/>ROTERO DAMI Germa-] niae) Decoris Ex Tertia Recogni¬
+          <lb/>tione. Addita est tabula in ipsius operis calce, a Schü¬
+          <lb/>rerio con- dita, quo dicto citius quaerenti quoduis
+          <lb/>occurrat. LECTOR EME, LEGE, ET PROBABIS.Tempus ob¬
+          <lb/>serua.
+          <lb/>Am Schluss: Argentorati stanneis calamis Denuo ex¬
+          <lb/>scripta sunt in officina Mathiae Schürerij Sele- stensis
+          <lb/>Mense lunio Anno a Christo nato M. D. XII. VSVI STu¬
+          <lb/>DIOSORUM. REGNANTE IMP. CAES. MAXIMILIANO. P. F. AVG.
+          <lb/>P. P. Neudruck der Ausgabe 1510.
+          <lb/>40, Antiq., 4 unn., LVI num. Bll. u. S unn. Bll., Kopftitel.
+          <lb/>Auf der Rückseite des Titelbl.: Widmung des Erasmus an Guill.
+          <lb/>Monoie in Paris, sodann Vorwort Schürer&amp;#x27;s, datiert: »Argentorati, XIIII.
+          <lb/>Calend. Julii Anno M.D.IX..
+          <lb/>R100.924. Prov.: Bibl. Böckina.
+          <lb/>GK: SB Berlin, UB Bonn; Van der Haeghen I, 27; Berlin,
+          <lb/>Bonn, Köln, Dessau, Dresden, Freiburg i. Br., Giessen, Heidelberg, Jena,
+          <lb/>Innsbruck, Kopenhagen, London (British Museum), München, Praq. —
+          <lb/>Proctor, Sectio I Nr. 10197, Schmidt VIII Nr. 75.
+          <lb/>707
+          <lb/>ERASMUS: Encomium moriae
+          <lb/>Strassburg, M. Schürer, 1512.
+          <lb/>MORIAE ENCOMIVM ERA SMI ROTERODAMI DECLAMATIO.
+          <lb/>Ad Lectorem. ... (9 Zeilen.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

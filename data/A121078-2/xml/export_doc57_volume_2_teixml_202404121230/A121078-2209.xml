@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:32.783676+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2209.tif
+IMAGE WIDTH: 2282
+IMAGE HEIGHT: 3824
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>periment von mir Jheronymo Brunschwick vff geklubt
+          <lb/>vnd geoffenbart, zû trost vnd heil der menschen vnd
+          <lb/>nutzlich ir leben vnd leib daruszz6 erlengeren vnd in
+          <lb/>gesuntheit zû behalten.
+          <lb/>Gravure sur bois: Grand appareil auquel sont occupés deux hom¬
+          <lb/>mes à distiller, en haut les mots : Distillatorium ad Aqua (!) vite.
+          <lb/>A la fin: Hie endet sich disz buoch seligklich getruckt
+          <lb/>vnd volendet in der Kei- serlichen stat Straszburg durch
+          <lb/>Johannem Grüninger vff Sanct Adolffs abent Jn dem
+          <lb/>Jar so man zalt nach Christi geburt. M.CCCCCvnd. xix.
+          <lb/>(Verso blanc.)
+          <lb/>In-fol., car. goth., 2 col., CCCXXX ff. ch.; titre courant, initiales
+          <lb/>ornées; mêmes gravures que dans l’édition du 25 février 1512 (entre
+          <lb/>autres grand nombre d’appareils de laboratoire, très souvent répétés),
+          <lb/>quelques planches nouvelles.
+          <lb/>Au verso du titre, le poète lauréat assis au pupitre devant un
+          <lb/>livre ouvert, à l’entrée de la porte le disciple entrant dans la chambre.
+          <lb/>fol. 2a-3a: Préface; fol. 3b-18b; Table.
+          <lb/>FR10.418. Prov.: Vente Welter, Paris, 5/VI. 1895; 50 frs.
+          <lb/>Rel, anc.
+          <lb/>2. ex. R 10.413. Prov.: Bibl. Royale de Stuttgart, 1871.
+          <lb/>Annotations mss. Rel, anc.
+          <lb/>Proctor II Sectio I. No 9952: Londres, British Museum, Schmidt,
+          <lb/>L N° 167: Stuttgart; Rosenthal, Munich, Cataloque 135 (1914), No 383:
+          <lb/>100 M. GPB. Berlin, Gœttingue U B, Greifswald UB.
+          <lb/>310
+          <lb/>205
+          <lb/>BRUNSCHWIG Hieronymus
+          <lb/>Strasbourg, J. Grüninger, 1521.
+          <lb/>Das distilierbuoch.
+          <lb/>Gravure sur bois: Jardin: deux jeunes filles cueillant des fleurs,
+          <lb/>deux jeunes gens, dont l’un est occupé près d’un fourneau avec un
+          <lb/>alambic, l’autre tenant de la droite une baguette et de la gauche une
+          <lb/>fleur arrachée avec sa racine.
+          <lb/>Au-dessous: Das buoch der rechten kunst zu distilieren
+          <lb/>vnd die wasser zu brennen angezögt mit figuren nutz¬
+          <lb/>lich den menschlichen leib in gesuntheit zû behalten. Erst¬
+          <lb/>mals von meister Jeronimo Brunschweick zûsamen coli¬
+          <lb/>giert, vnd von Marsilio Ficino des hoch berümpten, des
+          <lb/>langen vnd gesunden lebens, als er an im selbs bewert,
+          <lb/>hundert vnd zehen iar rüwiklich gelebt hat.
+          <lb/>A la fin: Getruckt zû Straszburg von Johann Grün¬
+          <lb/>ninger vszgangen vff vnser lieben frawen ge burt abent.
+          <lb/>Jm iar Tusent fünff hundert vnd. xxi.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

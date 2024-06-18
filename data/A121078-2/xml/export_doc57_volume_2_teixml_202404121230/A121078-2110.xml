@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:29.640926+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2110.tif
+IMAGE WIDTH: 2320
+IMAGE HEIGHT: 3824
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>106
+          <lb/>In-4°, car. goth., 10 ff. non ch., sign. a-b, 3 ff. blancs.
+          <lb/>Traduction des Lamentationes germanicae.
+          <lb/>R100.715. Prov, inconnue.
+          <lb/>Ex-libris signé Champel, avec la devise: MEnTe LIBERA. Note ms.
+          <lb/>au bas du titre de la main du bibliothécaire Schorbach (O. O. n. Ll,
+          <lb/>Strassburg, ca. 1526.
+          <lb/>2e exemplaire avec variantes. R 100.716. Prov.: Bibl. Böcking.
+          <lb/>Notes mss. A l&amp;#x27;intérieur de la couverture: Berlin 1838, März
+          <lb/>avec autographe de Heyse. Plus bas: Ulrich von Hutten? D&amp;#x27;une autre
+          <lb/>main: Gewiss nicht. Der Frager (Heyse) hatte Huttens, Beklagung
+          <lb/>der Freistette deutcher Nation im Sinne.
+          <lb/>GPB. Berlin.
+          <lb/>177
+          <lb/>BECLAGUNG
+          <lb/>[Strasbourg, W. Köpfel, vers 1526.)
+          <lb/>Beclagung Teütscher nation über die vnbillichen be¬
+          <lb/>schwerd vnnd be-zwingknusz des Römischen stûls.
+          <lb/>Diser bûchstab bedeüt den text des Propheten Hiere¬
+          <lb/>mie. T.
+          <lb/>Diser bûchstab bedeüt die auszlegung desz texts. A.
+          <lb/>S. l. n. d.
+          <lb/>In-40, car. goth., 10 ff. non ch., sign. A-B.
+          <lb/>R100718. Prov.: Bibliothèque Böcking.
+          <lb/>GPB. Berlin.
+          <lb/>178
+          <lb/>BECLAGUNG
+          <lb/>[Strasbourg, J. Knobloch, 1526.]
+          <lb/>Beclagung Tütscher Nation.Disz zeychen bedüt den
+          <lb/>text des propheten Hieremie. (
+          <lb/>Disz zeychen bedüt die vszlegung des texts. 65
+          <lb/>Gedruckt zû Schnerszheym an dem Koch- erszberg.
+          <lb/>in dem iar.M. D. XXVI. (Verso blanc.)
+          <lb/>In-4°, car. goth., 13 ff. non ch., sign. a-c, 1 f. blanc.
+          <lb/>R100.717. Prov.: K. J. Trübner, Strasbourg, 18/XI.1882, 7 M. 50.
+          <lb/>Notes mss. GPB: Berlin.
+          <lb/>179
+          <lb/>BEDA, Ecclesiastica historia gentis anglorum. Voir: EUSEBIUS,
+          <lb/>Ecclesiastica Historia, 1500.
+          <lb/>BEKANDTNUSS der vier Frei- und Reichstädt. Voir: BUCER.
+          <lb/>1579.
+          <lb/>BELIAL. Voir: JACOBUS DE THERAMO.
+          <lb/>BELLARMINUS Robertus. Voir. PAPPUS Iohannes, Contradic¬
+          <lb/>tiones 1597.
+          <lb/>BELLUM Henrici Quarti contra Saxones, Strasbourg, J. Gruninger,
+          <lb/>1508. Voir: SOPHER Gervasius.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

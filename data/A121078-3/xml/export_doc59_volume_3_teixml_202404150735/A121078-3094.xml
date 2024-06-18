@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:06.154032+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3094.tif
+IMAGE WIDTH: 2320
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>538
+          <lb/>EUCLIDES. Siche: HERLINUS Christianus: Analysis Geometriae
+          <lb/>sex librorum Euclidis, Strassburg, J. Rihel 1566. R10.436.
+          <lb/>EUCLIDES
+          <lb/>Strassburg, Chr. Mylius Erben 1570
+          <lb/>EYKAELOT TTOIXEION TO HPQ-TON.
+          <lb/>HPONOE AAEZANAPEOE ( ovóparα yoperρwά.
+          <lb/>EVCLIDIS ELEMEN- torum Liber primus.
+          <lb/>HERONIS ALEXANDRI- ni vocabula geometrica : ante¬
+          <lb/>hac nunquam edita. graecè  latinè. Per Cunradum
+          <lb/>Dasypodium, in vsum Academiae Argentinensis.
+          <lb/>ARGENTORATI! Apud haeredes Christiani Mylii. M. D.
+          <lb/>LXX. (Rücks, leer.)
+          <lb/>80, Griech, u. Kursiv, 8 unn., 50 num. Bll, für den 1. Teil u. 75
+          <lb/>für den 2. Teil, Kopft., Kust., Init. G, geometr. Figuren.
+          <lb/>Bl. 2a: Ad... Principem Dominum! D. Danielem Archi¬
+          <lb/>episcopum Mo- guntinensem... Cunradi Dasy-podij Prae¬
+          <lb/>fatio.... — Calendis Maij.AnnoM. D. LXX. (Vign.)
+          <lb/>R1013221. Prov. : Friedrichs-Gymn. Frankfurt a. M. 14. XII.
+          <lb/>1888. Handschr. Notiz auf dem Schutzbl. Auf dem Umschlag Perga¬
+          <lb/>mentbl. mit Neumen.
+          <lb/>GK: SB Berlin, UB Breslau; Oxford, Bibl. Bodleiana; Stadt-
+          <lb/>bibl. Strassburg O 28331.
+          <lb/>814
+          <lb/>EUCLIDES
+          <lb/>Strassburg, Chr. Mylius Erben 1570
+          <lb/>EYKAEIAOY HPOTAXEIE... (4 griech. Zeilen.)
+          <lb/>EVCLIDISPropositiones.Elementorum. 15. Optico¬
+          <lb/>rum. Catoptricorum. Harmonicorum. Et Apparentiarum.
+          <lb/>Per Cunradum Dasypodium.
+          <lb/>ARGENTORATI Apd (1) haeredes Christiani Mylii. Anno
+          <lb/>M. D. LXX. (Rücks, leer.)
+          <lb/>Am Schluss: Excusum Argentorati apud haeredes Chri¬
+          <lb/>stiani Mylii. ANNo M. D. LXX. (Vign.)
+          <lb/>80, Griech, u. Kursiv, 8 unn. u. 81 num. Bll. für den 1. Teil
+          <lb/>u. 87 für den 2., Kopft., Init. E.
+          <lb/>Bl. a 2a: Ad... Principem, Dominum! D. Salancenum
+          <lb/>Archiepiscopum Coloniensem... Cunradi Dasypodij Prae¬
+          <lb/>fatio.... — Cal. Julij, Anno 1570. (Vorrede, 13 S.)
+          <lb/>Bl. a 7b: Ad Lectorem. Bl. a 8 leer.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

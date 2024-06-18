@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:09.422657+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3241.tif
+IMAGE WIDTH: 2328
+IMAGE HEIGHT: 3852
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>rhisien. Compendiosa Laus; a Petro Schoto Ar- gentora¬
+          <lb/>Auf der Rücks.: IOANNIS DE GERSON CANCELLARI PAR
+          <lb/>cen. hortatu loannis Geileri Keisers- bergij illic conciona¬
+          <lb/>toris elucubrata. (2 S.)
+          <lb/>(I1.) Secunda pars operum Jo annis de Gerson Cancel
+          <lb/>larii parrhisiensis sacra! rum litterarum doctoris re! solu¬
+          <lb/>tissimi. (5 Dist.)
+          <lb/>Am Schluss: Secunda pars... Finit feliciter Ar- gento¬
+          <lb/>raci per Joannem Knoblouch. Anno. M. ccccc. xiiij. decimo
+          <lb/>quinto kalendas Martij. (Rücks, leer.) 224 unn. Bll. Titelumrahmung
+          <lb/>wie oben.
+          <lb/>Bl. A 2b: Epitaphium Magistri Joannis de Gerson...
+          <lb/>(6 Verse.)
+          <lb/>(III.) Tertia pars operum Joan nis de Gerson Cancel
+          <lb/>larii Parrhisiensis chri! stianissimi sacrarum! litterarum
+          <lb/>docto- ris supermun dana contemplatione mirum in
+          <lb/>modum precellens.
+          <lb/>Am Schluss: Finiunt opera cencella rij Parrhisiensis...
+          <lb/>denuo elima! tissima castigatione recognita. Anno! a Christi
+          <lb/>natiuitate. M. D.xiij. Pridie JdusAprilis, 308 unn. Bll.
+          <lb/>Titelumrahmung vie oben.
+          <lb/>(IV.) Quarta et nuper conquisita pars operum Joannis
+          <lb/>de Gerson Parrhisiorum Academie cancellarii: chri¬
+          <lb/>stianissimi the- ologi: Wuimphe! lingiana reco! gnitione
+          <lb/>illu- strior.Jam quoque lon ge emaculatior prece
+          <lb/>dentibus tribus adiecta.
+          <lb/>Am Schluss: Finit quarta pars operum Joannis ger¬
+          <lb/>sonis doctoris christianissimi apud tribo tes ex calcogra¬
+          <lb/>phica Joannis Knob louchi taberna: longe quam antea
+          <lb/>consumatior: pridie idus Au! gusti Anno. M. I cccce. xiiij.
+          <lb/>238 unn. Bll. Titelumrahmung wie oben.
+          <lb/>Bl. aa 2a: Prologus Jacobi Wuimphelingi in opera Joan¬
+          <lb/>nis gerson noua: prius non impressa.... Ex heremitorio
+          <lb/>diui Guilhermi in suburbano Argentinensi : Kal. Decembris.
+          <lb/>Anno Christi. M. ccccc. j.
+          <lb/>Auf der Rücks.: Exhortatio. Jacobus Wuimphelin- gus
+          <lb/>ad lectorem christianum....
+          <lb/>*R10318. Prov.: Bibl. Baum, Strassburg 20. II. 1879, Auf dem
+          <lb/>Titelbl. : Bibliothecae Georgii Augustae. Auf dem Schutabl.: Autograph
+          <lb/>von Th. Fritz, Prof. adj. Zahlr. handschr. Notizen.
+          <lb/>685
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

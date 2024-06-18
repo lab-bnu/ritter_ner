@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:12.078892+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002412.tif
+IMAGE WIDTH: 2508
+IMAGE HEIGHT: 4004
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>PLANETENBUCH (Das Gross). — Strasbourg, Josias Rihel
+          <lb/>1590, in-80.
+          <lb/>Zinner, n° 3397.
+          <lb/>2928
+          <lb/>PLANETENBUCH (Das Gross). — Strasbourg, Josias Rihel
+          <lb/>1593, in-80.
+          <lb/>Zinner 3548.
+          <lb/>2929
+          <lb/>PLANUDES, Maximus. Voir: AESOPUS, n° 747.
+          <lb/>PLATINA, Bartholomaeus : Historia von der Bäpst und Keiser
+          <lb/>Leben... (trad, en allemand par Caspar Hedio). —
+          <lb/>Strasbourg, Josias Rihel 1565, in-fol.
+          <lb/>Graesse V, p. 313. [Une éd. 1546 Strasbourg. Voir : Ritter,
+          <lb/>Rép. n° 1881).
+          <lb/>2930
+          <lb/>PLATINA, Bartholomaeus: Von allen Speisen und Gerichten
+          <lb/>&amp;amp;c. Wie man sie allerhandt art, künstlich und wol,
+          <lb/>kochen, ein machen und bereytten sol. Sampt eines jeden
+          <lb/>Essen wirckung und natur, zu auffenthaltung mensch¬
+          <lb/>licher gesundtheit... Wje man gutten Wein und Essig
+          <lb/>ziehen, halten, widerbringen, und mit allerhand kreuttern
+          <lb/>zugesundtheit bereytten unnd gebrauchen sol. Alles
+          <lb/>new und ordenlich zusamenbracht. — (Strasbourg,
+          <lb/>Christian Egenolph, janvier 1530, in-40.
+          <lb/>Ritter: B M Strasbourg, n° 1714; Benzing-Egenolff, n° 22.
+          <lb/>2931
+          <lb/>PLATINA, Barth. : (Idem). — Strasbourg, Christian Egenolph,
+          <lb/>juin 1530, in-40.
+          <lb/>Benzing : Egenoff, n° 31 : Rosenthal Kat. 70.945.B N
+          <lb/>Munich.
+          <lb/>2932
+          <lb/>PLATO : Alcibiades posterior et Menexenus. Graece. —
+          <lb/>Strasbourg, Wendelin Rihel 1538, in-4°.
+          <lb/>Graesse V, p. 315.
+          <lb/>2933
+          <lb/>410
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

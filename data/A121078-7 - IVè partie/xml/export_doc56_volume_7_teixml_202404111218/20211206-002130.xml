@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:05.054133+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002130.tif
+IMAGE WIDTH: 2492
+IMAGE HEIGHT: 3966
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>CONTRAFACTUR : einer Wunderbarlichen geburt so zu Bischen
+          <lb/>bei Roszen, in dem Elsasz gelegen, geschehen... den
+          <lb/>fünfften tag des Mertzens im Jar M. D. LXIII. —
+          <lb/>Strasbourg, Pierre Hug 1563, placard in-fol.
+          <lb/>Ritter, Hist. de l’impr. p. 569, app. 392; Holländer p. 74-75;
+          <lb/>Sonderegger p. 15-16; Bibl. Centrale Zurich.
+          <lb/>1436
+          <lb/>CONTRAFEIT : des Durchleuchtigen Fürsten und Herrn.
+          <lb/>Herrn Johan Casimirs, Pfaltzgrave bei Rein... —
+          <lb/>Strasbourg, Bernard Jobin 1578, placard in-fol.
+          <lb/>Bibl. Centrale Zurich.
+          <lb/>1437
+          <lb/>COPERNICUS. Voir: PEUCER n° 2884.
+          <lb/>COPEY : eines brieffs, Durch einen gelerten, und glaübwürdigen
+          <lb/>mann, den eylfften tag des Augstmonats warhafftig zu
+          <lb/>Mechlen geschriben, von dem erschröcklichen und
+          <lb/>grausamen ungewitter zu Mechlen inn dem Niderland
+          <lb/>den sibenten tag des Augstmonats, zwischen zehen und
+          <lb/>eylff uren in der nacht geschehen. M.D.XLVI. —
+          <lb/>(Strasbourg, Jean Prüss 1546), in-4°. (Même impression
+          <lb/>que le Rechenbüchlein de 1546).
+          <lb/>Schmidt III, p. 43, n° 54. Bibl. S. Guillaume, Strasbourg.
+          <lb/>1438
+          <lb/>CORNUCOPIA. Voir : CALEPINUS, Ambr.
+          <lb/>CORTESIUS, Thomas Alexander : Liber unus de virtutibus
+          <lb/>bellicis Matthiae Corvini, Hungariae regis invictissimi,
+          <lb/>Vincentii Obsopoei opera in lucem aeditus. — Haguenau,
+          <lb/>Jean Secer juillet 1531, in-80.
+          <lb/>BN Paris : Yc 10.244; Burg, n° 150.
+          <lb/>1439
+          <lb/>CORVINUS, Antonius : Postilla in Evangelia Dominicales
+          <lb/>totius anni, jamque primum typis excusa... [Traduit de
+          <lb/>l’allemand par J. Lonicer). — Strasbourg, Wolfgang
+          <lb/>Köpfel 1536, in-8°.
+          <lb/>Londres, Brit. Museum 1016. d. 11. (1.).
+          <lb/>1440
+          <lb/>128
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

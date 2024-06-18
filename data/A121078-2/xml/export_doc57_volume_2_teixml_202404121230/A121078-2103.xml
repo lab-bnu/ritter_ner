@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:29.340574+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2103.tif
+IMAGE WIDTH: 2322
+IMAGE HEIGHT: 3824
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>99
+          <lb/>Strasbourg, Incun. N° 679, GPB Berlin, Bonn, Gœttingue, Marbourg.
+          <lb/>NB Paris, Rés. p. Y2 282; Schmidt VIII, No 87: Jadis Bibl, de
+          <lb/>Les ex. de Berlin et de Gœttingue ont à l’explicit Argentine
+          <lb/>166
+          <lb/>BEBELIUS Henr.
+          <lb/>Strasbourg, M. Schürer, 1512.
+          <lb/>LIBER TERTIVS, ET NOVVS FACETIA RVM BEBELIANARVM.
+          <lb/>Prognostica (quas vulgo practicas vocant) quae durant
+          <lb/>usque in finem mundi. Carmina adolescentie Bebelianae,
+          <lb/>non nihil etiam aliqua ad facetias facientia. Carmen
+          <lb/>elegiacum de miseria humanae con ditionis. Carmen Saty¬
+          <lb/>ricum contra liuorem &amp;amp; de- tractores. Carmen contra
+          <lb/>Simoniacos. Carmen de Baccho.! Carmen de Philomelae
+          <lb/>cantu et laudibus.! Carmen de conquerimonia puellarum
+          <lb/>con! tra Luciferum. Varia alia de rebus laetis et iucundis.
+          <lb/>A la fin: Argentorat. Ex Aedibus Matthiae Schürerij.
+          <lb/>Mense Nouembri. Anno M.D.XII.
+          <lb/>Regnante Imperatore Caesare Maximi- liano. P. F. Aug.
+          <lb/>Au verso: armoires de Bebel. Au-dessous: H. BEBELIVS IVSTIN¬
+          <lb/>GENSIS POETA LAVREATVS. Suivent 3 lignes: Errata.
+          <lb/>In-4°, car. rom., 64 ff. non ch., sign. S-Z, Aa-Dd, titre courant,
+          <lb/>initiales d’attente.
+          <lb/>Au verso du titre:... Iuriconsul to Vito de Furst ...
+          <lb/>Heinricus Bebelius Iustingen- sis Sueuus.... — Ex Tu¬
+          <lb/>binga IIII. Kal. Mart. Anno Domini M. D. XII. (3 p.)
+          <lb/>Fol. S 3a: Ad lectorem Heinricus Bebelius.
+          <lb/>Dernière partie du numéro précédent.
+          <lb/>*R102.006. Prov. : Bibl, de Stuttgart, dont le cachet se trouve
+          <lb/>au bas du titre, à côté un autre cachet: Veräusserte Doublette.
+          <lb/>167
+          <lb/>BEBELIUS Henrieus
+          <lb/>Strasbourg, M. Schürer, 1513.
+          <lb/>Ars versificandi et carminum! condendorum cum quan¬
+          <lb/>titatibus syllabarum Henrici Bebelij lustingensis poetae
+          <lb/>laureati.
+          <lb/>Haec omnia de nouo emendata sunt diligentissime per
+          <lb/>auctorem ipsum cum additione nouissima plus quam du¬
+          <lb/>centarum dictionum maxime graeca rum, quae in vsu sunt
+          <lb/>apud latinos poetas. Ex Tubinga Pridie Ka lendas Iulias
+          <lb/>Anno M. D.XII.
+          <lb/>Hexastichon Ioannis Hyphantici Vueissenho! rensis
+          <lb/>in absolutissimam traditionem Versificandi artis Bebelij.
+          <lb/>(3 distiques.)
+          <lb/>A la fin: T. O. ] Argentorati. in aedibus Matthiae Schu¬
+          <lb/>rerij! Selestensis Mense Iunio Anno. M. D.XIII. RE¬
+          <lb/>GNANTE IMPERATORE CAES. ] MAXIMILIANO P. F. AVG. P. F.
+          <lb/>(Verso blanc.)
+          <lb/>gatiens
+          <lb/>Strasbour
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

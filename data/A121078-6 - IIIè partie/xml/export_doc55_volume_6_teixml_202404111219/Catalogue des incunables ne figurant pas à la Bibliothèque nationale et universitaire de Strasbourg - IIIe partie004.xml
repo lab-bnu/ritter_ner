@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:05.230067+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie004.tif
+IMAGE WIDTH: 2474
+IMAGE HEIGHT: 3944
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Pellechet 196, Proctor 387 : Brit. Mus. Catal. I. 88. Voulliéme:
+          <lb/>Berlin 2216. B N Berlin, Munich, Vienne, Paris etc.
+          <lb/>AESOPUS : Vita et fabulae (allemand par Henri Steinhöwel). —
+          <lb/>(Strasbourg, Henri Knoblochtzer) 1482, in-fol.
+          <lb/>G W 355; Pellechet 223 (1-6). Proctor 372 (seulement 7).
+          <lb/>BN Vienne, Munich, Paris etc.
+          <lb/>AESOPUS : Vita et fabulae sallemand par Henri Steinhöwel). —
+          <lb/>(Strasbourg, Henri Knoblochtzer vers 1483), in-fol.
+          <lb/>G W 356; Schreiber 3029. Bibl. Rég. Darmstadt (f. 1 et
+          <lb/>114 manquent).
+          <lb/>AESOPUS moralisatus. — (Haguenau, Henri Gran) 1494, in-4°.
+          <lb/>(Graecia... et glose lat.).
+          <lb/>GWAI1; Hain 311 ; Proctor 3180 ; Brit. Mus. Cat. III, 683;
+          <lb/>Voulliéme : Berlin 1172. B N Berlin, Munich, Zurich etc. 10
+          <lb/>AESOPUS moralisatus avec commentaire. — (Strasbourg,
+          <lb/>Martin Flach 1479), in-4°.
+          <lb/>Hain-Copinger 300, Schmidt VI, p. 1, n° 6, GW I, colonne
+          <lb/>182 : « Fälschung ». BN Berlin, Cambridge, BN Paris,
+          <lb/>Vienne, etc.
+          <lb/>10
+          <lb/>AGENDA sive Exsequiale sacramentorum. — (Strasbourg,
+          <lb/>Jean Prüss vers 1500); in-4°.
+          <lb/>G W 455 : Aschaffenburg, Regensburg.
+          <lb/>1I
+          <lb/>AGENDA sive Exsequiale sacramentorum. — (Strasbourg,
+          <lb/>J. Prüss vers 1500), in-4°.
+          <lb/>G W 456 : Dettelbach (Bibl. des Franciscaines, f. 1 manque)
+          <lb/>fou Agenda Argentinensis G W 459a?l.
+          <lb/>12
+          <lb/>AGENDA sive Exsequiale. — (Strasbourg, J. Prüss vers
+          <lb/>1500), in-4°.
+          <lb/>G W 457 : Darmstadt, Fribourg en Br.
+          <lb/>13
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:05.513971+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002156.tif
+IMAGE WIDTH: 2498
+IMAGE HEIGHT: 3956
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>ERASMUS (Colloquia) : Familiarium Colloquiorum Formulae...
+          <lb/>— Strasbourg, Jean Knobloch 1520, in-8°.
+          <lb/>Van der Haeghen, Colloquia p. 82. [éd. Prüss 1520: Ritter,
+          <lb/>Rép. n° 743).
+          <lb/>1568
+          <lb/>ERASMUS (Idem). — (Strasbourg, Jean Knobloch (avril)
+          <lb/>1521), in-80.
+          <lb/>Rest p. 49: B U Fribourg-en-Br. ; Van der Haeghen, p. 92 :
+          <lb/>BN Munich, Aarau, Utrecht; Schmidt, VII, n° 214 : Bibl.
+          <lb/>cantonale Aarau, Panzer 6, 95, 587.
+          <lb/>1569
+          <lb/>ERASMUS (Idem). — Strasbourg, Jean Knobloch, juin 1522.
+          <lb/>Rest p. 49 : B U Fribourg-en-Br. [éd. Knobloch, octobre 1522 :
+          <lb/>Ritter, Rép. n° 758).
+          <lb/>1570
+          <lb/>ERASMUS (Idem). — Haguenau, Thomas Anshelm 1522, in-8°.
+          <lb/>Edition Froben, Bâle 1522l.
+          <lb/>Rest p. 49 : B U Fribourg-en-Br.; Von der Haeghen, Colo¬
+          <lb/>quia p. 122: Wolfenbüttel.
+          <lb/>1571
+          <lb/>ERASMUS (Idem); adiectis aliquot colloquiis antehac non
+          <lb/>excusis. M.D.XXVII. — (Strasbourg, Jean Knobloch,
+          <lb/>février 1528, in-8°. (D’après l’édition Froben, Bâle
+          <lb/>15271.
+          <lb/>Van der Haeghen, Coloquia p. 194; Bibl. des Pères Jésuites
+          <lb/>à Innsbruck, B N St. Petersbourg. [éd. Köpfel 1529 : Ritter,
+          <lb/>Rép. n° 785 et Frölich 1537 (Rép. n° 792)].
+          <lb/>1572
+          <lb/>ERASMUS (Idem): ab anno M. D. vicesimo septimo veteribus
+          <lb/>additae. In commodum eorum, qui priores habent,
+          <lb/>separatim editae... Adiectus est libellus elegans, nec
+          <lb/>minus utilis Plutarchi Chaeronei, De immodica vere¬
+          <lb/>cundia, eodem Eras. Rot. interprete. — Strasbourg,
+          <lb/>Christian Egenolph, janvier 1530, in-8°.
+          <lb/>Van der Haeghen, Colloquia p. 211: BN et B U Munich;
+          <lb/>Benzing: Egenoff, n° 39.
+          <lb/>1573
+          <lb/>ERASMUS (Idem). — Ein hübsch lustspyl d’Weiber Reichstag
+          <lb/>154
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

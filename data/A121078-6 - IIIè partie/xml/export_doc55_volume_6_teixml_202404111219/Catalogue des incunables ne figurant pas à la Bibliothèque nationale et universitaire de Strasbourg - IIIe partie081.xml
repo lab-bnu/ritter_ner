@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:06.354388+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie081.tif
+IMAGE WIDTH: 2460
+IMAGE HEIGHT: 3940
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>MOSEL &amp;amp; RHEIN : Hie wirdet etwas gesagt wie disse land
+          <lb/>hie disshalb mers iren erste Ursprung hand und sund&amp;#x27;
+          <lb/>an der Mosel und am Rine. — [Strasbourg 1470 (2)],
+          <lb/>in-40.
+          <lb/>Copinger 4367 : Brit. Mus. Catal. Londres 33b, 35. (1). 509a
+          <lb/>MUTIUS, Macarius: De triumpho Christi. Liber tripartitus... —
+          <lb/>(Strasbourg 1500), in-4°.
+          <lb/>Copinger 4383.
+          <lb/>510
+          <lb/>NICOLAUS de Baumgarten. Voir: MISsAle Cisterciense n° 491.
+          <lb/>NICOLAUS de Blony : Tractatus sacerdotalis de sacramentis.
+          <lb/>(Strasbourg (?) ou Bâle, Michael Wenssler?21. x. 1486,
+          <lb/>in-fol.
+          <lb/>Hain 3250, Polain 2809.
+          <lb/>511
+          <lb/>NICOLAUS de Blony. (Idem). — Strasbourg, (impr. du
+          <lb/>Jordanus — Georges Husner] 18. VI. 1487, in-4°.
+          <lb/>Hain 3251, Pellechet 2430, Polain 2810, Proctor 611,
+          <lb/>Voulliéme : Berlin 2416.
+          <lb/>512
+          <lb/>NICOLAUS de Blony. (Idem). — Strasbourg, (impr. du
+          <lb/>Jordanus — Georges Husner] 22. XI. 1494-1495, in-fol.
+          <lb/>Hain 3262, Pellechet 2428, Polain 2812, Proctor 636,
+          <lb/>Ritter, Rép. Inc. 334; Voulliéme : Berlin 2455.
+          <lb/>513
+          <lb/>NICOLAUS de Blony (Idem). — (Strasbourg, Martin Flach
+          <lb/>1496), in-4°.
+          <lb/>Hain 3258, Voulliéme : Berlin 2502, 5. Schmidt VI, p. 12, n° 61:
+          <lb/>BN Munich.
+          <lb/>514
+          <lb/>NICOLAUS de Blony (Idem). — Strasbourg, Martin Flach
+          <lb/>1499, in-40.
+          <lb/>Hain 3259, Pellechet 2433, Polain 2811, Proctor 714;
+          <lb/>Voulliéme : Berlin 2509, 5.
+          <lb/>515
+          <lb/>78
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

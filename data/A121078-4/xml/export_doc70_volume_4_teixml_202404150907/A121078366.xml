@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:53.521828+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078366.tif
+IMAGE WIDTH: 2346
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1252
+          <lb/>avec des têtes de chien. — Grandes init., faites exprès pour le volume
+          <lb/>elles renferment des instruments de géométrie et d’astronomie, des cal¬
+          <lb/>culs et des figures mathématiques.
+          <lb/>Aux cartes suivent 8 ff. sans pagination, mais se rattachant par
+          <lb/>la signature S au texte de Ptolémée. Ils contiennent des notions cosmo¬
+          <lb/>graphiques par Phries, avec 4 dessins et 3 tableaux. Les deux derniers
+          <lb/>des 8 ff. sont occupés par une table alphabétique de concordance des
+          <lb/>noms anciens et des noms modernes des principales villes. (Schmidt I
+          <lb/>n° 187.) Titre encadré de 4 pièces juxtaposées, ornements d’architecture.
+          <lb/>Le tout comprend 194 ff.
+          <lb/>Au verso du titre: THOMAS D. AVCVPARIVS ARGENTIN.
+          <lb/>POE. ET IVRECON. D. LAVRENCIO PHRISIO! MEDIÇO ET MATHE¬
+          <lb/>MATICO SALVTEM D. PLVRIMAM... — Argentorati ex Edibus
+          <lb/>nostrisDie. x. Mensis Januarii. Anno Chri. M. D. xxii.
+          <lb/>Au-dessous, texte du privilège impérial pour 10 années.
+          <lb/>Fol. 3a- 23b: REGISTRVM ALPHABETICVM.
+          <lb/>Fol. 25a-26b: ERROTOCI OPE.  LAVRENTIVS FRISIVS LEC¬
+          <lb/>TORI PIO. (12 lignes suivies des Errata.)
+          <lb/>Le texte commence fol. 37, les chiffres de 26 (par erreur 22) à 37
+          <lb/>ont été sautés.
+          <lb/>R 60. Prov.: Trubner, Strasbourg 9/VIII 1883; 450 M.
+          <lb/>Schmidt I n° 187: BM de Colmar et BN de Paris (Rés. G 634
+          <lb/>1958
+          <lb/>et Smith-Lesouef 36l.
+          <lb/>PTOLEMAEUS Claudius
+          <lb/>Strasbourg, J. Gruninger 1525
+          <lb/>CLAVDII PTO LEMAEI GEO GRAPHICAE ENARRATIONIS
+          <lb/>LIBRI OCTO BILIBALDO PIRCKEYM HERO INTERPRETE.! Anno¬
+          <lb/>tationes IOANNIS DE RECIO&amp;#x27; MONTE in errores commissos
+          <lb/>a IACOBO ANGELO in translatione sua.
+          <lb/>Fol. 9, 8a avant la table: Argentoragi (sic), Johannes Grie¬
+          <lb/>ningerus, communibus! Johannis Koberger impensis excude¬
+          <lb/>bat. Anno a Christi Nativitate M. D. XXV. Tertio Kalen¬
+          <lb/>das Apriles.
+          <lb/>Sait avec un nouveau titre encadré: INDEX PTO LEMAEI
+          <lb/>COPIOSVS ADMO DVM NEC ANTEA VISVS! Cum explanatione
+          <lb/>locorum quorundam ad nostram aetatem.... (8 lignes.)
+          <lb/>Grand in-fol., car, rom., 2 col., 82 ff. ch. et 14 ff. non ch., sign.
+          <lb/>4-9, en plus 34 ff. non ch. à 2 col. sign. a-f (table). Suivent 50 ff.
+          <lb/>ch. avec texte, au verso desquels se trouvent les cartes correspondantes.
+          <lb/>Le recto de ces 50 ff. est chaque fois encadré et commence avec une init.
+          <lb/>géométrique, de même la plupart du temps aussi le verso.
+          <lb/>Le titre de l&amp;#x27;ouvrage est encadré, de même que les pages jusqu’à
+          <lb/>la sign. O. Ils ont les mêmes bordures, culs de lampes que l’édition de
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:36.700873+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu022.tif
+IMAGE WIDTH: 2386
+IMAGE HEIGHT: 3840
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Agenda pour le diocèse de Breslau en 1499, dont le pre¬
+          <lb/>mier contient une gravure sur bois, représentant le Christ
+          <lb/>à la croix (Schramm, vol. XX, N° 2084).
+          <lb/>GUILLAUME SCHAFFENER (1498- 1515)
+          <lb/>était, d’après Schmidt, Rép. Vol. IV, p. VI originaire de
+          <lb/>Roppertswiller (comté de Ferrette); Voulliéme, Die deut¬
+          <lb/>schen Drucker des 15. Jahrhunderts, p. 159, confond
+          <lb/>«Ropertswilr» avec Rappoltsweiler (Ribeauvillé) *).
+          <lb/>Schaffener semble avoir été un imprimeur ambulant
+          <lb/>et n’a laissé que peu de monuments de son activité; on ne
+          <lb/>connaît que deux impressions de lui avant la fin du
+          <lb/>15e siècle, le Hortulus animae du 13 mars 1498 et une réim¬
+          <lb/>pression du 15 mars 1500; le premier contient 72, le deu¬
+          <lb/>xième 74 gravures assez remarquables (Schramm, vol. XX.
+          <lb/>N° 2211–2290).
+          <lb/>JEAN SCHOTT (1500 1544)
+          <lb/>Fils de Martin Schott, né le 19 juin 1477 à Strasbourg,
+          <lb/>Jean Schott fit des études aux Universités de Fribourg en
+          <lb/>Br., Heidelberg et Bâle. A la mort de son père survenue le
+          <lb/>22 novembre 1499 il renonça aux études pour s’adonner
+          <lb/>tout entier à l’imprimerie et il publia ainsi à la fin du
+          <lb/>15e siècle encore cinq ouvrages: Die 24 Alten d’Otto de
+          <lb/>Passau du 21 mars 1500 avec 25 gravures, empruntées à
+          <lb/>l’édition de son père de 1483, De consolatione philosophiae
+          <lb/>de Boëthius du 31 août 1500, qui contient trois fois
+          <lb/>la même gravure, Boëthius sur son lit, devant lui la philo¬
+          <lb/>sophie et les 9 muses (Schramm, vol. XX. N°2296), l’Acker¬
+          <lb/>mann von Böhmen 1500 (sans indication du jour) avec
+          <lb/>armoiries, Exceptiones legum Romahorum du 4 novembre
+          <lb/>*) Voir: Clauss J., Historisch-topographisches Wörterbuch des
+          <lb/>Elsass: Zabern, p. 914: Roppenzweiler: Ropertzwilr 1290... Rop¬
+          <lb/>perswyler 1540» etc
+          <lb/>XXII
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

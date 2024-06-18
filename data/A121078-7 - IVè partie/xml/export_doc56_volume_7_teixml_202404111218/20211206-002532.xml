@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:14.646578+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002532.tif
+IMAGE WIDTH: 2524
+IMAGE HEIGHT: 3986
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>WOLKENSTEIN, David : Psalmen für Kirchen und Schulen
+          <lb/>auff die gemeinen Melodeyen sylbenweisz zu vier
+          <lb/>Stimmen gesetzt durch Dav. Wolkenstein. — Strasbourg
+          <lb/>1583, in-40.
+          <lb/>Goedeke I12, p. 209, n° 10.
+          <lb/>3555
+          <lb/>WOLKENSTEIN, David : Harmonia Psalmorum Davidis
+          <lb/>quatuor vocum. — Strasbourg, Nicolas Wyriot 1583,
+          <lb/>in-40.
+          <lb/>Vogeleis, p. 347.
+          <lb/>3556
+          <lb/>WOLKENSTEIN, David : Primum musicum volumen Scholarum
+          <lb/>Argentoratensium. Quartae editionis... — Strasbourg,
+          <lb/>Antoine Bertram 1585, in-80.
+          <lb/>Vogeleis, p. 350 : B U Breslau.
+          <lb/>3557
+          <lb/>WOLKENSTEIN, David. Voir aussi : FABER, Henr., n° 1679.
+          <lb/>WOLSEY (Cardinal). Voir : Roy, W. et Hier. BARLOW, n° 3126.
+          <lb/>WONNECK, Joh. Voir: (WARTENBUCH, Bernh.), n° 3472.
+          <lb/>WUNDERGESICHT : Anno M.D.LXVI auff den ersten tag
+          <lb/>hornungs, am morgen frü umb acht uren ist obgesetzte
+          <lb/>Wundergesicht am Himmel gesehen worden in einem
+          <lb/>thal auf dem Schwartzwald, aller nechst bey der Newen
+          <lb/>statt in der langen ohren. (Ohrental dans la Forêt Noire;
+          <lb/>de même le 6 février à Saint-Jostal et à Neuenstatt près
+          <lb/>Villingen). — Strasbourg, Th. Berger 1566, placard in-fol.
+          <lb/>Bibl. Centrale Zurich.
+          <lb/>3558
+          <lb/>WUNDERGEWACHS : Zwey seltzam Wundergewechs, die in
+          <lb/>disem M. D.LXIII. Jare auf dem Kornfeld hie diseit und
+          <lb/>jhenseit des Rheins gefunden, abbrochen und alhie
+          <lb/>eygentlich abconterfetet sind... — Strasbourg, Th.
+          <lb/>Berger (1563), in-4°.
+          <lb/>Bibl. Centrale Zurich.
+          <lb/>3559
+          <lb/>530
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

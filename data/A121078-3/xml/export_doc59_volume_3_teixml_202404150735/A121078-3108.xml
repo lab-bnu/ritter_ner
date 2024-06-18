@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:06.367059+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3108.tif
+IMAGE WIDTH: 2314
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>552
+          <lb/>Auf der Rückseite des letsten Bl., Druckermarke von W. Rihel,
+          <lb/>(H A B Tafel XXIX, Nr. 3); darüber: Nemesis Rihelii”; dar¬
+          <lb/>unter: 2 griechische Verse: q vépsois xpohéyet...
+          <lb/>80, Antig. u. Griech., 4 unn., 89 num. u. 3 unn. Bll. (Index, 2sp.),
+          <lb/>Kopft., Kust., Zierinit.
+          <lb/>Auf der Rückseite des Titelbl: M. TOXITES R. AD PVERVM
+          <lb/>GRAECAE LIN-guae studiosum. (17 lat. Verse).
+          <lb/>Bl. a 2a: GEORGIVS FABRI-CIVS CHEMNICENSIS, GENE¬
+          <lb/>roso adolescenti, Sigismundo Georgio! à Ditrichstein, Baroni
+          <lb/>Stirio, S. D.... — Argentorati. Ibid. Martij. Anno Christi
+          <lb/>M. D. XLVI. (Epistola nuncupatoria, 5 S.)
+          <lb/>R 102.2352. Prov. : Austausch mit der Gymnasialbibliothek von
+          <lb/>Heilbronn, 2/1V. 1878. Alter Einband.
+          <lb/>GK: SB Berlin, UB Breslau.
+          <lb/>836
+          <lb/>FABRICIUS Jakob
+          <lb/>Strassburg, Sam. Emmel 1554
+          <lb/>(Epheubl.) Ad Vrbem (Epheubl.) Memmingam Oda laco¬
+          <lb/>bi Fabricii Chemni- censis. Darunter 37 lat. Distich. u. 8 mit
+          <lb/>der Uberschrift: AD EANDEM MARTINUS Crusius M. F.
+          <lb/>Unten: Impressum Argentinae in aedibus Samuelis
+          <lb/>Emmelij. M. D. LIIII. (Rücks. leer.)
+          <lb/>20, Antig., Einblattdruck; am Rande folgende Namen von Ge¬
+          <lb/>lehrten, mit je einem Dist, auf jeden derselben: D. Ludovicus Rabus,
+          <lb/>M. Iacobus Rabus, David Unger, M. Johannes Schmelcius, Laurentius
+          <lb/>Basch, Johannes Lang, Michael Laminet, Jacobus Calb, D. Johannes
+          <lb/>Baptista Weber, D. Johannes Funk, D. Melchior Heintsel, D. Noe
+          <lb/>Meurer, D. Ulricus Wolphardus, P., D. Bartholomäus Wolffhardt, D. Ul¬
+          <lb/>ricus Wolffhardt, F., D. Adam Zwicker, D. Cyriacus Weber, D. Michael
+          <lb/>Mendler, D. Alexander Zangmeister, M. Johannes Hummel.
+          <lb/>R 10.029. Prov. : G. Lissa, Berlin, 3. VIII. 1894; 9M.
+          <lb/>Bibliographie des I. Fabricius: Schottenloher I, Nr. 5981-5982.
+          <lb/>837
+          <lb/>FABULAE. Siche: AESOPUS
+          <lb/>FAGIUS Paulus. Siche: TARGUM Onkelos
+          <lb/>FARRAGO epigrammatum. Siche: MELANCHTHON
+          <lb/>FAUSTUS, Siche: ANDRELINUS
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

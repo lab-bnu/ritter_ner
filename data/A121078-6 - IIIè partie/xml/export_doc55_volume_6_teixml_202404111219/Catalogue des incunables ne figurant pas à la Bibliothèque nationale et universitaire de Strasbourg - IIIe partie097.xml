@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:06.568515+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie097.tif
+IMAGE WIDTH: 2452
+IMAGE HEIGHT: 3930
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>SIXTUS IV. Voir: ANGELUS (Gherardini), n° 77; EPISTOLA
+          <lb/>contra quendam n° 237.
+          <lb/>Soccus : Sermones Socci de tempore et de sanctis. — Stras¬
+          <lb/>bourg, J. Grüninger 12.11.84, in-fol. (Conrad, v.
+          <lb/>Brundelsheim).
+          <lb/>Hain 14826; Voullième : Berlin 2269.
+          <lb/>626
+          <lb/>SOMMERFELD, Johannes. Voir: HELLIAE, Petrus no 320.
+          <lb/>SOPHOLOGIUM. Voir : MAGNI, Jac, no 442.
+          <lb/>SPANGEL, Pallas : Oratio funebris Philippi ducis Bavariae. —
+          <lb/>(Strasbourg s. d.).
+          <lb/>Copinger III, 5538; Pellechet : Colmar 1203.
+          <lb/>627
+          <lb/>SPECHTHART. Voir : Hugo von Reutlingen, n° 348.
+          <lb/>SPECULUM exemplorum. — Strasbourg 1497.
+          <lb/>Hain 14920.
+          <lb/>628
+          <lb/>SPRENGER, Jacobus. Voir: INSTITORIS, Henricus, no 354.
+          <lb/>STATUTA provincialia Moguntinensia. — (Strasbourg, impr.
+          <lb/>de Petrus Blesensis s. d.l, in-fol.
+          <lb/>Reichling 339, Madsen 3764, Voulliéme : Berlin 2564, 6. 629
+          <lb/>STATUTA (Idem). — (Strasbourg, Jean Prüss entre 1484-87),
+          <lb/>in-fol.
+          <lb/>Hain 15041; Proctor 529; Ritter, Rép. Incun. 442. 630
+          <lb/>SUMMENHART, Conradus : Opus septipartitum de contractibus
+          <lb/>pro foro conscientiae. — Haguenau, Henri Gran 1497,
+          <lb/>in-4°.
+          <lb/>Hain 15178.
+          <lb/>631
+          <lb/>SYNTHEN, Johannes : Dicta Synthis super prima parte
+          <lb/>Alexandri. — [Strasbourg, Martin Schott 27. XII 1487,
+          <lb/>in-40.
+          <lb/>95
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

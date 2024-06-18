@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:44.215872+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078059.tif
+IMAGE WIDTH: 2338
+IMAGE HEIGHT: 3842
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>guten! wercken. d. M. L. vnd von den zehn geboten
+          <lb/>gottes. Hagenau 1520., Au-dessous: «München 1872.
+          <lb/>Nach Straszburg will ich zieh’n,
+          <lb/>Der alten deütschen Stadt,
+          <lb/>Aus München Michel Mäyer
+          <lb/>Mich hin gespendet hat....
+          <lb/>doie (Pmeet-
+          <lb/>Don Oen guten 2ver
+          <lb/>Een/ain gants nuglich biicblin
+          <lb/>oem layen;ũ leßen/ ourcb
+          <lb/>D. Qartinum Puter
+          <lb/>sũ Dittenberg ge
+          <lb/>picòigt.
+          <lb/>*
+          <lb/>*
+          <lb/>&amp;amp;
+          <lb/>945
+          <lb/>R. 60
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

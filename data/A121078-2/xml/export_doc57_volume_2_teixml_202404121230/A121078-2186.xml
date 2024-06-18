@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:32.046120+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2186.tif
+IMAGE WIDTH: 2294
+IMAGE HEIGHT: 3824
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>182
+          <lb/>Pelcps
+          <lb/>Machaon.
+          <lb/>2
+          <lb/>A
+          <lb/>1
+          <lb/>A
+          <lb/>L
+          <lb/>V
+          <lb/>Acieptades.
+          <lb/>illustrium Medicorum,
+          <lb/>3
+          <lb/>C.Ccltus.
+          <lb/>siue de primis NEZ
+          <lb/>DICIN AE
+          <lb/>8
+          <lb/>Scriptoribus,
+          <lb/>Per OT. BRVNNZ
+          <lb/>.Hcrophiluis.
+          <lb/>FELSIVR.
+          <lb/>Actuaritis.
+          <lb/>M.
+          <lb/>Argentorati apud Ioannem
+          <lb/>Schotrü, Anno , s; o¬
+          <lb/>Cum Priuilegio Cæf. Maiest.
+          <lb/>ad Sexennium¬
+          <lb/>E
+          <lb/>.Plittiuts.
+          <lb/>Oribatius
+          <lb/>Sorànts.
+          <lb/>E
+          <lb/>lui mi-
+          <lb/>veravtys Tet iarpor¬
+          <lb/>Malcriti.
+          <lb/>Anno Christi M. D. XXX, et cite la BN de Strasbourg. Je ne
+          <lb/>trouve pas de trace de cet exemplaire dans la Bibliothèque, de sorte que
+          <lb/>je dois admettre une erreur de la part de M. Schmidt.)
+          <lb/>In-40, car, rom., 4 ff. non ch, 77 ff. ch., 1 f. blanc, titre courant, grande
+          <lb/>initiale à fig. P, titre encadré: la bordure d’en haut et celles des 2
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

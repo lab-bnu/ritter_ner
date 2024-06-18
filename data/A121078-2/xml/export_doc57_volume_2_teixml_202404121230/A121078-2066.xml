@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:28.204325+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2066.tif
+IMAGE WIDTH: 2350
+IMAGE HEIGHT: 3822
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>62
+          <lb/>Au verso du titre: Innhalt dises wercks.
+          <lb/>Fol. 2a non ch.: ... herrn Wilhelmen Grauen Eisenberg
+          <lb/>vnd Budingen... D. Caspar! Hedio... Geben Straszburg. Im
+          <lb/>Jar, xxxij. den ersten tag! Martij. (Préface de 7 pages.)
+          <lb/>Fol. A 2b : Erklärung etlicher wörter... (5 pages.)
+          <lb/>R. 10.290. Prov.: Rosenthal, Munich, 25. VI. 1885; 10 M.
+          <lb/>B. M. Colmar.
+          <lb/>110
+          <lb/>AULUS GELLIUS. Voir: GELLIUS Aulus.
+          <lb/>AUREOLUS Petrus
+          <lb/>Strasbourg, J. Schott, 1514.
+          <lb/>Compendium Biblie totius hoc est, Epitoma sacrae
+          <lb/>scripturae, utriusque, s. testa! menti iuxta literalem sensum:
+          <lb/>auctore F. PETRO AVREOLI ordinis Minorum theologiae
+          <lb/>pro- fundissime docto: quibusuis theosophiae studio sis
+          <lb/>opus fructuosissimum.
+          <lb/>Joannes Guida Lectori! bene agere. (2 distiques.)
+          <lb/>A la fin: Joanne Schotto pressore Argentinensi:! 21.
+          <lb/>Februarij: Anno Christi 1514.
+          <lb/>In-4°, car, rom., 160 ff. non ch., sign. a-2, A-F, initiale ornée J
+          <lb/>et initiales d’attente.
+          <lb/>Au verso du titre: Joanni de Acie (vulgo, Eck) Ingolsta¬
+          <lb/>densis gym nasij Lectori in sacris ordinario... Jacobus
+          <lb/>Vuympfe lingius Seletstanus Licentiatus S. D... — Datae
+          <lb/>Argentinae pridus Nouembris 1513.
+          <lb/>Fol. A 2a: F. Petri Aureoli ordinis Minorum... Prae¬
+          <lb/>fatio... (4 pages.)
+          <lb/>Fol. A 3b: Commendatio alia specialis sacrae scripturae
+          <lb/>F. Petri. Aureoli...
+          <lb/>R 102.069. Prov.: Max Harrwitz, Berlin, 6. L. 1897; 13 M. 50.
+          <lb/>Notes mss.: au milieu du titre: Pet. Aureolus, ein berühmter vnd
+          <lb/>subtiler Theologe, mit dem Zunahmen Doctor Facundus, von Verberio
+          <lb/>an der Oise gebürtig, war vorerst ein Barfüsser, hernach Theol. Pro¬
+          <lb/>fessor zu Paris, ferner Provincial in Guienne und endlich Erzbischof
+          <lb/>zu Aix. Ist anno 1323 gestorben.
+          <lb/>BN Paris, Rés. A 2980; Schmidt II, No 26: Grand Séminaire
+          <lb/>Strasbourg.
+          <lb/>111
+          <lb/>AURELIUS Sextus, De Vitis Caesarum. Voir: NEPOS, Vita Catonis.
+          <lb/>Strasbourg, J. Prüss, 1505.
+          <lb/>AURIFABER Aegidius. Voir: SPECULUM exemplorum.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

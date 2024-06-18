@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:12.798524+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3380.tif
+IMAGE WIDTH: 2398
+IMAGE HEIGHT: 3858
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>822
+          <lb/>40, Got., 8 unn. Bll., Sign. a-b, Kopft., Marg., Titeleinfassung, die
+          <lb/>Knobloch eigen ist. Siehe Nr. 9 S. 6.
+          <lb/>R 102.136. Prov.: Bibl. Böcking mit handschr. Notizen von seiner
+          <lb/>Hand :, (Ebernburg 1520.) Erste Ausgabe dieser Schrift, ganz wie sie
+          <lb/>Panzer U. v. Hutten S. 149 f. beschreibt, nur dass hier die Angabe der
+          <lb/>3 Druckfehler am Ende, wovon Panzer berichtet, sich nicht findet. In
+          <lb/>Berlin ist ein Exemplar mit (n° 81) und eins ohne das Druckfehlerver¬
+          <lb/>zeichnis (n° 82).
+          <lb/>Beide Abdrücke, der mit den Druckfehlern und der vorliegende ohne
+          <lb/>dieselben sind bis auf die kleinsten Buchstabenmängel im Ubrigen iden¬
+          <lb/>tisch. Die Abdrücke mit der Druckfehlerangabe sind offenbar die neueren.
+          <lb/>Das Facsimile der Druckfehler habe ich nach einem Exemplar der Wol¬
+          <lb/>fenbütteler Bibliothek gemacht. Böcking. — Cf. Ind. bibliograph. Hutte¬
+          <lb/>nian. n. XXXV. p. 69*-71*. Abrah. Seutteti Annales evangelii renovati
+          <lb/>bei v. d. Hardt Hist. lit, reform. part. V. p. 32 ad a. M. D. XX.&amp;quot;
+          <lb/>Ulricus Huttenus Nobilis Francus Germanica lingua edit libellum
+          <lb/>historicum de perpetua Pontificum Romanorum inobedientia adversus Im¬
+          <lb/>peratores : in quo sub finem recitat dictum Maximiliani I. de Leone Pon¬
+          <lb/>tifice, cum fidem non servasset : Nun ist dieser Bapst auch zu einem
+          <lb/>Bösewicht an mir geworden: Nu mag ich sagen, dass mir kein Bapst, so
+          <lb/>lang ich gelebt, je Treu oder Glauben gehalten hat; hoffe ob Gott will,
+          <lb/>dieses soll der letzte seyn.&amp;quot;
+          <lb/>Bibliographie Huttens: Schottenloher I Nr. 9157-9301. 1223
+          <lb/>HUTTEN Ulrich von
+          <lb/>[Strassburg, M. Schürer 1516)
+          <lb/>EPI STOLA AD MAXIMILI-anum Caesarem! Italiae
+          <lb/>fictitia. Hulde- richo de Hutten equ. Authore
+          <lb/>(Rücks. leer.)
+          <lb/>40, Antiq., 8 unn. Bll., wovon das letste leer, Sign. A, Titelein¬
+          <lb/>fassung, die Schürer eigen ist. Siche Nr. 97 S. 55.
+          <lb/>Bl. A 2a: HOLDERICHVS HVTTENVS eq. Nicolao Ger¬
+          <lb/>bellio Pontificii iu- ris consulto. Salutem D.... — Bono¬
+          <lb/>niae secundo Calendas August. Anno. M. D. XVI.
+          <lb/>Im gleichen Jahre gedruckt in Erfurt bei Matth. Maler im Monat
+          <lb/>November, aber ohne die Widmung an Gerbellius.
+          <lb/>*R102.016. Prov.: Bibl. Böcking; handschr. Notizen.
+          <lb/>Böcking, Hutteni opera I S. 14; Proctor II Sectio I Nr. 10241.
+          <lb/>London, Brit. Museum; fehlt bei Schmidt.
+          <lb/>1224
+          <lb/>HUTTEN Ulrich!
+          <lb/>[Hagenau, Th. Anshelm 1518)
+          <lb/>Triumphus Doc. Reuchlini HABES STV DIOSE LECTOR,
+          <lb/>IO! ANNIS CAPNIO nis viri praestantissimi Enco mion.
+          <lb/>Triumphanti illi ex deuictis Obscuris viris. Id est Theo¬
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

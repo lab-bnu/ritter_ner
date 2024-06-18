@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:27.282179+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2035.tif
+IMAGE WIDTH: 2368
+IMAGE HEIGHT: 3828
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>31
+          <lb/>page 1—26: Préface d’Amerbach:Principi D. Christiano,
+          <lb/>Regi Norbergiæ &amp;amp; Daniæ, duci Slesuicensi etc... Datum
+          <lb/>Vitebergæ X. Calend. Octo-bris, Anno Domini M. D. XLI.
+          <lb/>(feuille de lierre).
+          <lb/>B 109077. Prov.: Bibl. de Königsberg.
+          <lb/>Königsberg.
+          <lb/>GPB III, 10887: BN Berlin, Munich, Vienne, BU Breslau,
+          <lb/>48
+          <lb/>AMERBACH Vitus
+          <lb/>Strasbourg, Crato Mylius, 1547.
+          <lb/>VITI AMER] BACHI IN ARTEM Poëticam Horatij com¬
+          <lb/>mentaria.
+          <lb/>Marque typ. de Crato Mylius. (H&amp;amp;B, Planche XXVII, no 8).
+          <lb/>Au-dessous: ARGENTORATI] M. D. XLVII. Cum Gratia
+          <lb/>&amp;amp; privilegio.
+          <lb/>A la fin: ARGENTORATI in OFFICINA CRATO- MYLIANA
+          <lb/>ANNO M. D. XLVII. MENSE APRIL.
+          <lb/>Au verso du dernier f.: marque typ. de Crato Mylius. (HAB,
+          <lb/>Planche XXVIII, No 11; Silvestre, No 1266.)
+          <lb/>in-8°, car. rom., 76 pages ch. — I f. non ch., titre courant, réclames;
+          <lb/>initiales à fig. T, N.
+          <lb/>Au verso du titre: AMICVS AD Av-] thorem, (3 distiques.)
+          <lb/>Idem ad lectorem, (4 distiques.)
+          <lb/>C138100. Prov.: Bibliothèque du Gymnase de Heilbronn, 2/IV
+          <lb/>1878, contre échange.
+          <lb/>GPB III, 10891: Berlin, Munich, Vienne, Halle, Göttingen. 49
+          <lb/>AEMILIANUS Quintus
+          <lb/>Strasbourg, M. Schürer, 1512.
+          <lb/>CIMBRIACI POE. ECOMIA-ISTICA AD DIVOS CAESS, FOEDE¬
+          <lb/>RICVM IMPERA-]TOREM ET MAXI-MLIANVM REGEM] Ro.
+          <lb/>Au dessous: PALIVRVS
+          <lb/>Fortia gesta volens cognoscere Maximiliani,
+          <lb/>Nec non Foedrici Caesaris acta sacri.
+          <lb/>Fulgida Cimbriaci pellustret carmina Vatis.
+          <lb/>Cui fudit diuam flauus Apollo Chelim. (Verso blanc.)
+          <lb/>A la fin: Argent. apud Schürerium Mense Maio
+          <lb/>M. D. XII.
+          <lb/>in-40, car, rom,, 18 ff. non ch., sign.: a-d.
+          <lb/>Au verso du titre: JOANNES Camers ordinis minorum, in
+          <lb/>vrbe! Vienna publice Theologiae professor diuo Caesari
+          <lb/>MAXIMILIANO. S. P. D.
+          <lb/>Cd 100879. Prov. : Don de F. Butsch fils, antiquitaire à Augs¬
+          <lb/>bourg, 1871. Les ff. sont numérotés à l’encre rouge au recto de
+          <lb/>203-222, 217 est sauté.
+          <lb/>Schmidt VIII, NO71; GPB II, 503: Berlin, Munich, Vienne. 50
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

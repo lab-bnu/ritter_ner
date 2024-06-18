@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:05.351363+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002147.tif
+IMAGE WIDTH: 2512
+IMAGE HEIGHT: 3950
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Angli. Omnia nunc primum edita. — Strasbourg,
+          <lb/>(Jacques Jucundus (Frölich) 1550), in-8°.
+          <lb/>Ritter : B M Strasbourg no 859.
+          <lb/>1525
+          <lb/>DRESSELBERG, Andreas et GULIELMUS fratres. Voir:
+          <lb/>GILDELEIANUS, Isaac Mauritius no 1905.
+          <lb/>DUARENI. Voir: BAUDOUIN n° 948.
+          <lb/>DUMOULIN, Guillaume : Notable et utile traicté du zele et
+          <lb/>grant desir que doibt avoir ung vrai chrestien pour garder
+          <lb/>a Jesus Christ son honneur entier... — Strasbourg,
+          <lb/>Jean Prüss 1527, in-80.
+          <lb/>Brunet, Manuel (4e éd.). Il, p. 147 ; Schmidt III, p. 39, n° 40.
+          <lb/>Ni Brunet ni Schmidt ne mentionnent l’endroit où le livre
+          <lb/>se trouve.
+          <lb/>1526
+          <lb/>DUMOULIN, Guillaume : Tres utile traicté du vray regne de
+          <lb/>l’Antechrist, maintenant revele et cogneu... —
+          <lb/>Strasbourg, Jean Prüss 1527, in-80.
+          <lb/>Brunet, Manuel (4e éd.) II, p. 147; Schmidt III, p. 39, n° 40.
+          <lb/>1527
+          <lb/>DUMOULIN, Guillaume : Traicté de l’utilité et honnesteté de
+          <lb/>mariage et s’il est licite aux prestres de soy marier. —
+          <lb/>Strasbourg, Jean Prüss 1527, in-80
+          <lb/>Brunet, Manuel (4e éd.) II, p. 147 ; Schmidt III, p. 39, n° 40.
+          <lb/>1528
+          <lb/>DURUS de Pascolo: Aulicus politicus. — Strasbourg, Lazare
+          <lb/>Zetzner 1599, in-8°. (Voir: Speculum Aulicarum IIIl.
+          <lb/>1529
+          <lb/>EBERLIN von Güntzburg, Joh. : Wie gar geferlich sey. So ein
+          <lb/>Priester kein Eeweyb hat. Wie unchristlich und schedlich
+          <lb/>eim Gemeynnen nutz Die menschen seind Welche
+          <lb/>hindern die Pfaffen aus Eelichen stand... — (Strasbourg,
+          <lb/>J. Schwan 1522l, in-40.
+          <lb/>Bibl. St. Guillaume Strasbourg, Weller 2042.
+          <lb/>1530
+          <lb/>145
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

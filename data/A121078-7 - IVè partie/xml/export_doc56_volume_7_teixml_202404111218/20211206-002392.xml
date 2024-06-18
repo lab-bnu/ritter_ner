@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:11.641245+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002392.tif
+IMAGE WIDTH: 2510
+IMAGE HEIGHT: 3952
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>PAPPUS, Joh. Voir : BADER, Mathaeus, n° 901; CRUSIUS,
+          <lb/>Paulus, no 1469; FABRICIUS, G., n° 1683; LUTHER
+          <lb/>n° 2576; MoTH, Joh, n° 2727a.
+          <lb/>[Ritter, Rép. nos 1755-1766).
+          <lb/>2818
+          <lb/>PARACELSUS, Theophr. (Bad Pfeffers) : Von dem Bad Pfeffers,
+          <lb/>gelegen in Oberschweitz... — Strasbourg 1571, in-80.
+          <lb/>Graesse V, p. 128.
+          <lb/>2819
+          <lb/>PARACELSUS, Theophr. (Chirurgia) : Corpus chirurgicum. —
+          <lb/>Strasbourg 1564, in-fol.
+          <lb/>Graesse V, p. 127.
+          <lb/>2820
+          <lb/>PARACELSUS, Theophr. (Chirurgia) : Opus chirurgicum,
+          <lb/>vollkommene Wundartzney in Truck geben durch
+          <lb/>Adam von Bodenstein. — Strasbourg, 1566, in-fol.
+          <lb/>Graesse V, p. 127. [Ritter, Rép, n° 1782 : Von der Wund¬
+          <lb/>tartzney vier Bücher, Strasbourg, Christian Mylius 15771.
+          <lb/>2821
+          <lb/>PARACELSUS, Theophr. (Chirurgia) : Chirurgia magna. —
+          <lb/>Strasbourg 1573, in-fol.
+          <lb/>Graesse V, p. 127. [Ritter, Rép. n° 1778).
+          <lb/>2822
+          <lb/>PARACELSUS (Chirurgia) : Chirurgia minor. — Strasbourg
+          <lb/>1573, in-fol.
+          <lb/>Graesse V, p. 127. [Ritter, Rép, n° 1777).
+          <lb/>2823
+          <lb/>PARACELSUS (Defensiones septem) : Libri duo... I. Defensiones
+          <lb/>septem. II. De tartaro sive de morbis tartareis. —
+          <lb/>Strasbourg 1566, in-80.
+          <lb/>BN Paris: Te97 3.
+          <lb/>2824
+          <lb/>PARACELSUS, Theophr. (De generatione) : Drey Tractatus de
+          <lb/>generatione hominis, massa corporis humani... secretis
+          <lb/>creationis (en allemand). — Strasbourg 1577, in-8°.
+          <lb/>Graesse V, p. 128.
+          <lb/>2825
+          <lb/>390
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

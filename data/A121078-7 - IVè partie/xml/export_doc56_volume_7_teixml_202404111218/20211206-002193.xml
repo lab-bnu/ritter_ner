@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:06.551922+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002193.tif
+IMAGE WIDTH: 2500
+IMAGE HEIGHT: 3986
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Postulirten Administratoris, der Stifft zu Straszburg,
+          <lb/>Auszschreiben. — [Strasbourg) 1592, in-4°.
+          <lb/>Ritter: B M Strasbourg, n° 1017.
+          <lb/>1764
+          <lb/>FRAUENSPIEGEL. Voir: SPIEGEL der Frauen n° 3266.
+          <lb/>FREIDANK : Den freydanck nüwe mit den figuren... —
+          <lb/>[Strasbourg), Jean Grüninger 1508, in-8°,
+          <lb/>Brunet, 1860, 2, 1393; Kristeller 93; Goedeke I2, p. 391,
+          <lb/>n° 31; Schmidt I, n° 95; Weller, n° 435. — BN Munich.
+          <lb/>1765
+          <lb/>FREINSHEMIUS, Wolfgangus : Disputatio de quinque vocibus,
+          <lb/>quae a dialecticis praedicabilia dicuntur : ex Porphyrii
+          <lb/>introductione instituta in Academia Argentoratensi.
+          <lb/>Praeside M. Joanne Hawenreutero... Nonis Maiï. —
+          <lb/>Strasbourg, Josias Rihel 1575, in-4°.
+          <lb/>Ritter: B M Strasbourg, n° 1018.
+          <lb/>1766
+          <lb/>FRENZELIUS, Salomon : Germania supplex, Jesu Christo suo
+          <lb/>redemptori et Conservatori unico, aeterno, optimo,
+          <lb/>maximo... — Strasbourg, Antoine Bertram 1585, placard
+          <lb/>in-fol.
+          <lb/>Bibl. Centrale Zurich. Voir : Ritter, Histoire de l’impr. p. 574,
+          <lb/>app. 406 (2). (Ritter, Rép. n° 885 : Frenzelius, Poemata sacra.
+          <lb/>Strasbourg, A. Bertram 1585).
+          <lb/>1767
+          <lb/>FREY, Claus. Voir : CApiro, Wiedertäufer Claus Frey, n° 1288.
+          <lb/>[FREY, Jacob) : Ein schönes und kurtzweiliges Fasznacht
+          <lb/>Spil, welches auf die klein Fasznacht zu Maursmünster
+          <lb/>gespilt, sagt von einem Krämer oder Triackersman und
+          <lb/>zwei Mägden, deren die eine mit einem Kind ging und
+          <lb/>die andere die faul Kranckheit hatt. — (Strasbourg 1556),
+          <lb/>in-80. Ritter, Hist. impr. app. 215,2. Vogeleis p. 290. 1768
+          <lb/>FREY, Jacob : Von dem armen Lazaro, und dem reichen
+          <lb/>Mann... — Strasbourg, Paul Messerschmidt 1556, in-8°.
+          <lb/>Vogeleis, p. 290 (sans datel; Goedeke IIa, p. 466, n° 2. 1769
+          <lb/>191
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

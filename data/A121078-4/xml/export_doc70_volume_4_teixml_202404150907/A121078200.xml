@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:48.294234+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078200.tif
+IMAGE WIDTH: 2304
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1086
+          <lb/>pore quam de Sanctis, cum nonnul lis conclusionum re¬
+          <lb/>gulis, ex probatissi mis divinorum officiorum codicibus
+          <lb/>(attentis non minus Orthogra- phiae canonibus) selectae,
+          <lb/>ac pro sacrarum li- terarum tyrun- culis seor sum aereis
+          <lb/>excriptae characteribus. HEXASTICHON, G, A, AD SACRAE
+          <lb/>Paginae Tyrunculum,(3 dist.)
+          <lb/>A la fin: ... Impressa Argentinae per Ioannem Kno¬
+          <lb/>blouch Chalcographum, Anno domini M. D. XVI.Quarta
+          <lb/>feria post festum Ma-thiae apostoli. (Verso blanc.)
+          <lb/>In-40, car, rom., XLI ff. ch., sign. A-H et LIII ff. ch., sign.
+          <lb/>A-K, init, ornées S, 0, E et init. d’attente Q.
+          <lb/>R101.968. Prov.: BN Munich 30/X1 1877, 1M.
+          <lb/>1671
+          <lb/>Schmidt VII n° 110: BM Strasbourg.
+          <lb/>ORDNUNG
+          <lb/>[Strasbourg s. d.])
+          <lb/>Ordnung Keyserlicher! Maiestat delegierten! Cammer¬
+          <lb/>richtern inn l der stadt Straszburg. (Grav. sur bois: la madone
+          <lb/>avec l’enfant Jésus; au-dessus l’aigle impériale, le tout entouré de l&amp;#x27;in¬
+          <lb/>scription suivante: Sigillum. Appellationum. Camere. Imperial. In. Urbe.
+          <lb/>Argent. —.)
+          <lb/>In-40, car. goth., 13 ff. non ch., sign. A-C, init. goth. Au verso
+          <lb/>du titre: armoiries de la ville de Strasbourg encadrées.
+          <lb/>R102.274. Prov.: Bibliothèque Heite, Strasbourg 1871. 1672
+          <lb/>ORDNUNG
+          <lb/>Strasbourg, J. Gruninger 1523
+          <lb/>Ordenung und sundere gesatz des heilgen römschen
+          <lb/>reichs hof gericht zû rotweil. Auch wie weilet Künig
+          <lb/>Cunrat ein hertzog zù schwa ben solchs einr stat rotweil
+          <lb/>um irs sondern verdienens gnediklich geben hat. (Grav, sur
+          <lb/>bois: Aigle impériale.)
+          <lb/>ILe titre manque dans mon exemplaire; je le cite d’après Schmidt
+          <lb/>1199.]
+          <lb/>A la fin : Getruckt von Johannes Grieninger uff sant
+          <lb/>Adolfs abent in dem iar nach der geburt Christi unsers
+          <lb/>herren. M. D. XXIII.
+          <lb/>In-fol., car. goth., 49 ff. non ch., sign. A-J, tître courant, init.
+          <lb/>ornées, fol. A 3a grande grav. sur bois: Wie der hertzog denen von
+          <lb/>Rotweil das hofgericht uberantwürt. Le roi assis sur un trône, devant
+          <lb/>lui à genoux des citoyens de Rotiveil, recevant du roi le Hofgericht;
+          <lb/>au-dessus du trône, grande bannière. (Verso blanc.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

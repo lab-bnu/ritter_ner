@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:49.234033+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5017.tif
+IMAGE WIDTH: 2414
+IMAGE HEIGHT: 3900
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1325
+          <lb/>nuperque diligentissime recognitum : etacuratissime
+          <lb/>castigatum.
+          <lb/>Insunt sermones sequentium beate virginis festiuitatum...
+          <lb/>(11 lignes.)
+          <lb/>A la fin : Mariale preclarissimum a fratre!! Sanctio de Porta
+          <lb/>...1 finit. Impressum Hagenaw. An-no domini. M. D. XV.
+          <lb/>Mense Mart, arte et industria Henrici Gran: impensis Jo¬
+          <lb/>annis Rynman de Oringaw.
+          <lb/>In-fol., car. goth., 2 col., XCVIII ff. ch., titre courant, init. ornées,
+          <lb/>titre rouge et noir, encadré comme le titre principal.
+          <lb/>Au verso du titre :... fratri! Joanni Enguera sacri ordinis predicato¬
+          <lb/>rum Ilerdensi episcopo... frater Alphonsus de castro...
+          <lb/>(Pars IV.) Sanctorale vel Sermo] nes de Sanctis...
+          <lb/>Insunt etiam contiones siue collationes pro de- ] functis...
+          <lb/>(4 lignes.)
+          <lb/>Continentur preterea sex figure de quattuor peccatis...
+          <lb/>(3 lignes.)
+          <lb/>Annexus est postremo libellus introducto- rius omnium
+          <lb/>contionum normam continens... (3 lignes.)
+          <lb/>A la fin : ... Sermones de sanctis... impressi in imperiali
+          <lb/>oppido Hagenaw! industria &amp;amp; labore probi viri Henrici
+          <lb/>Gran : Il iussu vero et ere honesti viri Joannis!! Rynman de
+          <lb/>Oringaw archibi bliopole. Anno domini sesqui! millesimo.
+          <lb/>XV. pridie Kal. Aprilis. (Verso blanc.)
+          <lb/>In-fol., car. goth., 2 col., 6 ff. non ch. (table), LXXVI ff. ch. et XII ff.
+          <lb/>ch. pour l’Annexe : Libellus introductorius, titre courant, init. ornées;
+          <lb/>titre encadré comme le titre principal.
+          <lb/>A la fin de l’annexe nouvel explicit... Impresse Hagenaw:
+          <lb/>in officina literaria probi viri Henri- ci Gran : aere honesti
+          <lb/>vi-ri Joannis Ryn-man de Orin-gaw.Anno
+          <lb/>M. D. XV. Mense Apr. (Verso blanc.)
+          <lb/>R. 10.365. Prov. : BN Munich, 9/III, 1878; 5 M.
+          <lb/>Notes mss au bas du titre : Monasterij Benedictoburanj, au verso du
+          <lb/>f. de garde : Duplum Bibliothecae regiae Monacensis.
+          <lb/>Ritter, Catal. BM Strasbourg n° 1874; Proctor II, Sectio I, No 11666:
+          <lb/>Londres, British Museum.
+          <lb/>2070
+          <lb/>SAPIDUS Johannes, Sylva epistolaris. Voir: VALERIANUS,
+          <lb/>Apologia.
+          <lb/>Strasbourg, J. Albrecht, 1534
+          <lb/>SAPIDUS Johannes
+          <lb/>Strasbourg, Cr. Mylius, 1539
+          <lb/>Anabion!! sive Lazarus redivi-vus, Comœdia nova &amp;amp;
+          <lb/>sacra. Joanne Sapido Selestadi-ensi autore.
+          <lb/>Marque typ. de Crato Mylius. (H. &amp;amp; B. Planche XXVII, n° 5;
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:12.449355+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002427.tif
+IMAGE WIDTH: 2504
+IMAGE HEIGHT: 3956
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>PSALMEN : (Idem). — (Strasbourg, Wolfgang Köpfel) 1543,
+          <lb/>in-80.
+          <lb/>3007
+          <lb/>PSALMEN : Psalmen und Geystliche lieder, die man zu
+          <lb/>Straszburg und auch die man inn anderen Kirchen
+          <lb/>pflägt zu singen. Form und gebet zum einsegen der Ee
+          <lb/>dem heiligen Tauff, Abentmal, besuchung der Kranken
+          <lb/>und begrebnüs der abgestorbnen. Alles gemert und
+          <lb/>gebessert. Das Erst Teyl. (Encadrement). p. xvib:
+          <lb/>Gedruckt zu Straszburg, durch Georgen Messerschmidt.
+          <lb/>In verlegung Wolffgang Köph. (Köpfel), s. d., in-8o.
+          <lb/>Hubert, n° 31 : B U Breslau.
+          <lb/>3008
+          <lb/>PSALMEN : und Geistliche lieder, die man zu Straszburg und
+          <lb/>auch die man in anderen Kirchen pflägt zu singen.
+          <lb/>Form und gebet zum einsegen der Ee... Alles gemert
+          <lb/>und gebessert. Das erst Teyl. — (Strasbourg, Georges
+          <lb/>Messerschmid, aux frais de Wolfgang Köpfel) 1541,
+          <lb/>in-80.
+          <lb/>Hubert, n° 32. (B N Strasbourg R 102.406 : Ritter, Rep.,
+          <lb/>n° 1937l.
+          <lb/>3009
+          <lb/>PSALMEN : und Geistliche lieder die man zu Straszburg und
+          <lb/>auch die man in anderen Kirchen pflägt zu singen.
+          <lb/>Form und gebet zum einsegen der Ee dem heilegen
+          <lb/>Tauff, Abentmal besuchung der Krancken und begrebnis
+          <lb/>der abgestorbnen. Alles gemert und gebessert. Das
+          <lb/>Erst Teyl. M.D.XLIII (1543), in-8°,
+          <lb/>Hubert n° 34 : B N Munich. [Une éd. de 1537 par Prüss,
+          <lb/>une par Th. Rihel 1575: Ritter, Rép., n° 1936, et 1939). 3010
+          <lb/>PSALMEN : Das ander teyl aller Psalmen Davids. Auch
+          <lb/>geystliche Lieder, wölche im Ersten teyl nit begriffen,
+          <lb/>mit jren schönen Melodeyen Anno 1544... — (Strasbourg,
+          <lb/>Wolfgang Köpfel) 1544, in-8°.
+          <lb/>Hubert, n° 35; Wackernagel, p. 189.
+          <lb/>3011
+          <lb/>425
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:07.620200+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002231.tif
+IMAGE WIDTH: 2520
+IMAGE HEIGHT: 3956
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>HEGENDORF, Christophorus : Integrae, in omnia Marci capita
+          <lb/>adnotationes recognitae. In Epistolam Pauli ad Hebraeos.
+          <lb/>In Epistolam Petri Priorem. Matthaei In Supplicium
+          <lb/>Johannis Ad Lectorem... — Haguenau, J. Secer 1526,
+          <lb/>in-80.
+          <lb/>Burg, n° 203 ; Bibl. S. Guillaume, Strasbourg.
+          <lb/>1970
+          <lb/>HEGENDORF, Christophorus : Christiana studiosae Iuventutis
+          <lb/>Institutio. Explicatio locorum implicatissimorum in
+          <lb/>Colloquiis Erasmi... — (Haguenau, J. Secer 1526), in-8°,
+          <lb/>Burg, n° 204.
+          <lb/>1971
+          <lb/>HEGENDORF, Christophorus : De instituenda vita. —
+          <lb/>Haguenau, Jean Secer 1529, in-8°,
+          <lb/>Ritter, Grand Sém. Strasbourg n° 251.
+          <lb/>1972
+          <lb/>HEGENDORF, Christophorus : Quae iuvenibus eloquentia
+          <lb/>cupidis in primis scribenda sint, ex Fabio relata, et
+          <lb/>exemplis pulcherrimis illustrata. Item oratio in artium
+          <lb/>liberalium laudem coram frequenti eruditorum homi¬
+          <lb/>num concessu, in Neacademia Posnaniensi habita. —
+          <lb/>(Haguenau, J. Secer 1531), in-80,
+          <lb/>Burg, n° 208.
+          <lb/>1973
+          <lb/>HEGENDORF, Christophorus : Enarrationes Novae Evangelij
+          <lb/>Sancti Marci. His conciones sex Divi Chrysostomi de
+          <lb/>providentia divina, latine facte, accessere. — Haguenau,
+          <lb/>J. Secer (juin 1533), in-8°.
+          <lb/>Burg, n° 209.
+          <lb/>1974
+          <lb/>HEGENDORF, Christophorus : Dialogi pueriles. A la suite de:
+          <lb/>PETRUS Mosellanus, Paedologia. — (Strasbourg, Jean
+          <lb/>Knobloch, décembre 1521) [n° 2879).
+          <lb/>1975
+          <lb/>HEGENDORF, Chr. Voir: ARISTOTELES n° 846; CICERO
+          <lb/>nos 1350, 1380; ERASMUS n° 1582; PETRUS Mosellanus
+          <lb/>n° 2879. (RITTER, Rép, nos 1101-1109).
+          <lb/>229
+          <lb/>8-1
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

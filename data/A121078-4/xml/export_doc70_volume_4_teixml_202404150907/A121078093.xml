@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:45.277404+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078093.tif
+IMAGE WIDTH: 2320
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>979
+          <lb/>Introductio perbrevis in literas Sanctas, hoe est
+          <lb/>Hebraeos.
+          <lb/>A la fin: Hagenoae, Formulis Thomae Anshelmi Ba¬
+          <lb/>densis. Anno Christi M. D. XIX. (Au-dessous: Marque typ. de
+          <lb/>Th. Anshelm. H a B Planche EXII n° 4; Silvestre n° 545.)
+          <lb/>In-8°, car, rom., grecs et hébreux, 40 ff. non ch., sign. a-e, titre
+          <lb/>courant, réclames, init. à fig. C.
+          <lb/>Au verso du titre: Domino Vito Aegidermo, Decano Surburgensi
+          <lb/>Mœcenati suo. Iohan. Secerius Lauchensis... — Vale Mœcenas optime,
+          <lb/>Seceriumque) ne desere. Hagenoae, ex officina nostra Anshel- miana.
+          <lb/>Mense Maio.
+          <lb/>R101.245. Prov.: Butsch fils, Augsbourg (Vente de la Bibl. Bux¬
+          <lb/>heim) 12/x 1883; 6 M. 10.
+          <lb/>1475
+          <lb/>MANUTIUS Aldus
+          <lb/>Haguenau, Th. Anshelm 1522
+          <lb/>ALDI MANVTII ROMANI INSTITV TIONVM GRAMMATICARVM
+          <lb/>LIBRI QVATVOR. IN PRIMO LIBRO HABENTVR PRAECIPVA HAEC
+          <lb/>(7 lignes); IN SECVNDO VERO HAEC (6 lignes); IN TERTIO HAEC
+          <lb/>(3 lignes); IN QVARTO HAEC (6 lignes. Verso blanc.)
+          <lb/>Au recto du dernier f.: Haganoe apud Thomam Anshel¬
+          <lb/>mum! Badensem. Anno M. D. XXII. Mense Augusto.
+          <lb/>(Au-dessous: Marque typ. de Thomas Anshelm. H AB Planche LXII
+          <lb/>n° 2; Silvestre n° 771.) Verso blanc.
+          <lb/>In-4°, car. rom., 186 ff. non ch., sign. a–2; init. d’attente.
+          <lb/>Fol. a 2a : Aldus Manutius Romanus! literarii! Ludi Magistris
+          <lb/>S. D. P.... — Venetiis. Mense octobri. M. D. VII.
+          <lb/>R101.585. Prov.: BN Munich 1/11 1877, 0,40 M. A l’intérieur de
+          <lb/>la couverture ex-libris 1755 avec la légende: Ad Bibliothecam Canoniae
+          <lb/>Regularis in Diessen; en haut: hic liber constat 5 karran anno 1533.
+          <lb/>1476
+          <lb/>MANUTIUS Paulus
+          <lb/>Strasbourg, W. Rihel 1549
+          <lb/>PAVLI MANVTII SCHOLIA, QVIBVS ET LOCI FAMI- LARIVM
+          <lb/>EPISTOLARVM DIFFI¬CILORES EXPLICANTVR, ET CA-STIGATIO¬
+          <lb/>NVM, QVAE IN IIS- DEM EPISTOLIS FACTAE SVNT, RATIO RED¬
+          <lb/>DITVR. (Marque typ. de Wend. Rihel. HŒ B Planche XXIX n° 3;
+          <lb/>Silvestre n° 740.)
+          <lb/>Argentorati per Vuendelinum Rihelium, Anno M. D.
+          <lb/>XLIX.
+          <lb/>In-80, car. ital., 40 ff. non ch., sign. AAA-EEE, titre courant,
+          <lb/>init. d’attente.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

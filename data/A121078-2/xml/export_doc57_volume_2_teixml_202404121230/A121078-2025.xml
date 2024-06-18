@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:26.948450+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2025.tif
+IMAGE WIDTH: 2382
+IMAGE HEIGHT: 3828
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>ALCUINUS
+          <lb/>Haguenau, J. Secer, 1529.
+          <lb/>D. ALBI (NI CAROLI ILLIVS MAGNI OLIM] praeceptoris,
+          <lb/>in Genesim! Quaestiones, à Men-rado Molthero! restitute.
+          <lb/>Haganoe per Jo. Sec. Anno, M. D. XXIX.
+          <lb/>ALBIN
+          <lb/>DIACONI ANGLICI IN
+          <lb/>D. Ioanni Euangelioncommen
+          <lb/>tariorum libri septem, Chri
+          <lb/>stiana fruge refer¬
+          <lb/>ußimi¬
+          <lb/>**
+          <lb/>ARGENTORAT
+          <lb/>ANNO, M. D. XXVII
+          <lb/>21
+          <lb/>(Voir le No 33 à la page précédente.)
+          <lb/>A la fin: Haganoae Johannes! Secerius excudebat, Anno
+          <lb/>a. nato! Christo, M. D. XXIX. Mense Martio. (Verso blanc.)
+          <lb/>in-8°, car, rom., 64 ff. non ch., sign. A-H, titre courant, réclames,
+          <lb/>initiale à fig. N., titre encadré. (H &amp;amp; B, Planche LXIX, n° 2.)
+          <lb/>Au verso du titre: EPISTOLA INVNCVPATORIA]... DOMINO
+          <lb/>LAUREN-TIO TRVCHSES A Bo-mersfelden, S. Mogun-tinensis
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:46.934476+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078149.tif
+IMAGE WIDTH: 2308
+IMAGE HEIGHT: 3844
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>&amp;quot;R101.407. Prov.: BN Munich 24/V 1877; 0.80 M. Note ms.
+          <lb/>en haut du titre: Monasterii Sancti Johannis Baptiste In Beyhartung
+          <lb/>Anno 1513.
+          <lb/>Strasbourg; Schmidt IV p. 11 n° 4: Jadis Bibl. de Strasbourg, Incun.
+          <lb/>Proctor II Sectio I n° 10164: Londres, British Museum; BM
+          <lb/>n° 3474; Walter n° 1899; BM Sélestat.
+          <lb/>Les éditions de 1508 et de 1515 (Schmidt IV p. II et 12 n° 2
+          <lb/>et 6), qui ont été achetées aussi de la BN de Munich en 1877, ont
+          <lb/>malheureusement disparu; elles manquaient déjà au temps du numéro¬
+          <lb/>tage en 1920.
+          <lb/>Bœr, Francfort-s.-M., Catal, 500 (1907) n° 1102; 36 M. 1593
+          <lb/>MORITZ Erasmus
+          <lb/>Strasbourg, A. Bertram 1599
+          <lb/>DISPVTATIO de usucapionibus, materia utili &amp;amp; quo¬
+          <lb/>tidiana: In inclyta Argentoratensium Academia publici
+          <lb/>exercitii causa propositaà GEORGIO OBRECHTO IC.
+          <lb/>Respondente ERASMO MORITZ MAGDEBVRGENSI Saxone &amp;amp;c.
+          <lb/>(Marque typ. de Bertram. HEB Planche XLIV n° 2; Silvestre
+          <lb/>n° 1022.)
+          <lb/>ARGENTORATI Excudebat Antonius Bertramus. (1599.)
+          <lb/>(Verso blanc.)
+          <lb/>In-4°, car. ital., 24 ff. non ch., sign. A-F, réclames, init. ornée M.
+          <lb/>R10.548 (6). Prov.: Kubasta æ Voigt, Vienne 25/X1 1896.
+          <lb/>Voir: OBRECHT Georgius: Selectissimae disputationes ex juris
+          <lb/>civilis materiis. Strasbourg, A. Bertram 1599.
+          <lb/>1594
+          <lb/>1035
+          <lb/>MORSSHEIM Johannes von
+          <lb/>Strasbourg, J. Cammerlander 1539
+          <lb/>Aulica Vita. Hofflebenn. Und sunst der gantzen welt
+          <lb/>hän-del, Wie jedermann mit dem lincken schenckel
+          <lb/>schlecht.
+          <lb/>Fraw Untrew ein gwaltig küngin
+          <lb/>Nimbt jetzund alle länder in,
+          <lb/>Mit einer grossen rüstung geschwind,
+          <lb/>Lugt ir Herrn das sie euch nit gwind,
+          <lb/>Vnd ir sampt ewerm hoffgsinnd verderben
+          <lb/>Got geb uns allen das ewig leben.
+          <lb/>Gedicht von Johan Morszheym.
+          <lb/>Getruckt zû Straszburg beim Jacob Cammerlander
+          <lb/>in der grossen Stadelgassen.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

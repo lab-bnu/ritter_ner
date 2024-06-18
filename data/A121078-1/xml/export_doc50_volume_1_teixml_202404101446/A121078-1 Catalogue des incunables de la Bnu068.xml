@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:37.331720+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu068.tif
+IMAGE WIDTH: 2384
+IMAGE HEIGHT: 3844
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>FLISCUS Stephanus: Varietates sententiarum. Strasbourg,
+          <lb/>J. Prüss, 1487, in-4°.
+          <lb/>Hain 7153, Proctor 531, Schmidt III, 15, Voulliéme: Berlin
+          <lb/>2344.
+          <lb/>K 1609. Prov.: Bibliothèque du prof. Baum, 1879. Note mss.
+          <lb/>au verso du dernier f.
+          <lb/>172
+          <lb/>FLORES legum. Strasbourg, (J. Grüninger, ), 1496, in-4°.
+          <lb/>Hain 7170. Pellechet 4845, Proctor 475.
+          <lb/>K 1612. Prov.: BN Munich, 16/XII. 1879, 0 M. 50.
+          <lb/>173
+          <lb/>FORMULARE und Deutsch Rhetorica. Strasbourg, J. Prüss,
+          <lb/>1483; in-8°.
+          <lb/>Hain 7260, Pellechet 4866, Schmidt III, 7, Voulliéme: Berlin
+          <lb/>2337, 15.
+          <lb/>K 1634. Prov.: Librairie Trübner, Strasbourg, 11/VII. 1879,
+          <lb/>25 M. Note mss. au f. du titre. Rel. anc.
+          <lb/>174
+          <lb/>FORMULARE und Deutsch Rethorica. (Strasbourg, J. Prüss),
+          <lb/>1486, in-fol.
+          <lb/>Copinger 2562, Schmidt III, 12, Voulliéme: Berlin 2341, 5.
+          <lb/>K 1637. Prov.: Don de la ville de Marktbreit, 25/VII. 1881.
+          <lb/>Notes mss. au verso du dernier f.
+          <lb/>175
+          <lb/>GABRIEL de Urach. Voir; Sermones tres de passione Christi.
+          <lb/>Strasbourg, 1490.
+          <lb/>GALLUS, Abbas Cisterciensis: Dialogus Malogranatum dic¬
+          <lb/>tus. (Strasbourg, H. Eggestein, vers 1474), in-fol.
+          <lb/>Hain 7449, Madsen 1655, Pellechet 4981, Pellechet: Colmar
+          <lb/>634, Proctor 298, Voulliéme: Berlin 2153.
+          <lb/>K 1662. Prov.: B N Munich, 22/I. 1880, 5 M. A l’intérieur
+          <lb/>du 1er plat: Conventus Monacensis. 1er f. manque. Rel. anc.
+          <lb/>176
+          <lb/>GARLANDIA. Voir: Johannes de Garlandia.
+          <lb/>GASPARINUS PERGAMENSIS. Voir: Barzizius Gasparinus.
+          <lb/>38
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:08.230140+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002252.tif
+IMAGE WIDTH: 2496
+IMAGE HEIGHT: 3954
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>HOSPEINIUS, Michael : Equus Troianus sive de eversione Ilii
+          <lb/>tragoedia nova ex lib. II. Aeneid. Virgilii confecta. —
+          <lb/>Strasbourg, Antoine Bertram 1590, in-8°. (Traduit et
+          <lb/>imprimé la même année en allemand à Strasbourg).
+          <lb/>Vogeleis, p. 360; Goedeke IIa, p. 142, n° 57 (a). Skopnik,
+          <lb/>p. 50-53.
+          <lb/>2078
+          <lb/>HOSPEINIUS, Michael : Dido tragoedia nova ex libris IV.
+          <lb/>prioribus Virgilianae Aeneidos. — Strasbourg, Bernard
+          <lb/>Jobin 1591, in-80.
+          <lb/>Goedeke II2, p. 142, n° 57 (b); Skopnik, p. 53.
+          <lb/>2079
+          <lb/>HOTOMANN, François : Epistre envoyée au Tygre de la France.
+          <lb/>— [Strasbourg s. d.), in-8o.
+          <lb/>Graesse III, p. 377 : « Pamphlet violent dirigé contre le cardinal
+          <lb/>de Lorraine après la conspiration d’Amboise. On ne connaît
+          <lb/>qu’un seul exemplaire de ce libelle, celui de M. G. Brunet
+          <lb/>à Bordeaux. (Voir : Dareste, Essai sur Fr. Hotman, Paris
+          <lb/>1850, in-8°) ».
+          <lb/>2080
+          <lb/>HUEBNER, Mathias: Effigies duarum et septuaginta spicarum,
+          <lb/>refertarum tritico, quae singulis culmis insistentes ex
+          <lb/>uno grano, unaque radice enatae, ad maturitatem
+          <lb/>omnes pervenerunt et repertae sunt in agro Alsatico ad
+          <lb/>Rhenum prope Argentinam, mense Julio. Anno
+          <lb/>M.D.LXIII... — Strasbourg, Thiébaud Berger 1563
+          <lb/>162 vers et une gravurel.
+          <lb/>Wickersheimer, Ernest : Catalogue des folia naturales. Dans :
+          <lb/>Revue des Bibliothèques nos 11/12 (1925), n° 202.
+          <lb/>2081
+          <lb/>HüCKEL, Johannes Jacobus: Von dem Aussatz. Durch was
+          <lb/>zeichen ein yeder, so mit dem Aussatz behafft, erkannt
+          <lb/>möge werden, und so einer solchs uberkäme und noch
+          <lb/>nicht gar bey jhm eingewurtzlet were, wie jhm möge
+          <lb/>gehuolffen werden... — (Mulhouse, P. Schmid) 1563,
+          <lb/>in-80.
+          <lb/>Werner, p. 106, n° 27.
+          <lb/>2082
+          <lb/>250
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

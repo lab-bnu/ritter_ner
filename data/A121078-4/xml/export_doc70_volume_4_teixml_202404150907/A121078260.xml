@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:49.944603+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078260.tif
+IMAGE WIDTH: 2308
+IMAGE HEIGHT: 3844
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1146
+          <lb/>In-fol., car, rom., 6 ff. non ch., 223 pp. ch., 14 ff. non ch. à 2 col.
+          <lb/>(table), titre courant, réclames, notes marg., init. à fig. M, O et init.
+          <lb/>ornées.
+          <lb/>Fol. 2a non ch.:... Domino Petro de! Grantrye Domino in Besne...
+          <lb/>Petrus Perna Typographus... Basileae XIIII. Cal. Sept. anno 1573.
+          <lb/>(2 pp. et demie.)
+          <lb/>Fol. 3b non ch.: ... Ad... Principem, Divum Ferdi- nandum..:
+          <lb/>D. Theophrasti Paracelsi! Praefatio.... — Datum in Munchrath VII. Maii,
+          <lb/>anno CIO IO XXXVI. Theophr. ab Hohenheim. (2 pp.)
+          <lb/>Fol. 4b non ch.: ... Doctori Wolfgango Talhusero Augu- stanae
+          <lb/>Reipublicae Medico &amp;amp; Physico,  Theophrastus Paracelsus... — Augustae,
+          <lb/>Pridie Calendarum Augusti, Anno M. D. XXXVI. (1 p.)
+          <lb/>TOMVS SECVNDVS. CONTINENS De Tumoribus, Pu¬
+          <lb/>stulis, &amp;amp; Ulceribus! Morbi Gallici Lib. X.De Curatione
+          <lb/>&amp;amp; Imposturis Morbi Gallici Lib. octo. QVIBVS INSVNT
+          <lb/>EIVSDEM! Authoris. ANATOMIA. CHIRVRGIA MINOR, &amp;amp;c.
+          <lb/>Omnia à IOSOVINO DALHEMIO HIETICH-! TAWIO OSTROFRANCO
+          <lb/>GERMANO! LATINITATE DONATA.
+          <lb/>ANNO SALVTIS M. D. LXXIII. (Verso blanc.)
+          <lb/>250 pp. ch., 18 ff. non ch. à 2 col. (table), init. à fig. E et init.
+          <lb/>ornées.
+          <lb/>P. 1:... Hieronymo Bo- nero, urbis Colmariensis Dictatori! Theo¬
+          <lb/>phrastus... Colmariae n. Iunii 1528. (2 pp.)
+          <lb/>P. 3-4: Lectori Benevolo! D. Theophrastus ab Hohen-] heim....
+          <lb/>Colmarie.
+          <lb/>R10.391 (1). Pror. : Bibl. de l’ancienne faculté de médecine de
+          <lb/>Strasbourg.
+          <lb/>1778
+          <lb/>PARACELSUS Theophrastus: Explicatio vocum. Voir: TOXI¬
+          <lb/>TES: Onomastica. Il. Strasbourg, B. Jobin 1574.
+          <lb/>PARACELSUS Theophrastus
+          <lb/>Strasbourg, Chr. Muller 1574
+          <lb/>DE TINCTVRA PHYSICORVM LIBEL-] lus Philippi Theo¬
+          <lb/>phrasti Bombasti (p. 327-354). La première partie p. 1-326
+          <lb/>manque.
+          <lb/>Tesaurus Tesaurorum Alchimistarum PHILIPPI THEO¬
+          <lb/>PHRASTI Bombast, Paracelsi magni, des hocherfarnen
+          <lb/>Philosophi und beyder Artz-ney Doctoris, (p. 355-402.)
+          <lb/>LIBER DE OCCVLTA PHILOSOPHIA PHI- lippi Theophrasti
+          <lb/>Paracelsi Bombast, des berümbtesten Philosophi, und
+          <lb/>beyder Artz-ney Doctoris. (p. 403-492.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

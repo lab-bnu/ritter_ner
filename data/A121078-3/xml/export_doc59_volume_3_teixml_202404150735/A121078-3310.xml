@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:11.087379+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3310.tif
+IMAGE WIDTH: 2356
+IMAGE HEIGHT: 3858
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>752
+          <lb/>Sammt eynem nutzlichen Register vnd schö- nen Figuren
+          <lb/>gezieret. Mit Römischer Key. Maiest. Freiheyt. M. D.
+          <lb/>LXXIIII.
+          <lb/>Am Schluss: Getruckt zu Strassburg, durch! Theodo¬
+          <lb/>sium Rihel. (Druckerm. Rihels. HEB Tafel XXXII Nr. 17.)
+          <lb/>Darunter: M. D. LXXIIII.
+          <lb/>Bl. leer, Kopft., Kust., Marg., Init., Titel rot u. schwvarz, Titelum¬
+          <lb/>20, Got., 6 unn., 118 num., 6 unn. Bll. (Register, 2sp.), letztes
+          <lb/>rahmung.
+          <lb/>Auf der Rücks, des Titelbl. Druckprivileg fur 8 Jahre.
+          <lb/>Bi. 2a : ... Herren, Burgermeyster, Rath, vnd gemeyner
+          <lb/>Burgerschafft zu Reichenweiler, meinen Günstigen Her¬
+          <lb/>ren vnd lieben Freunden... Geben zu Hunaweiler, am
+          <lb/>Christag, Anno M. D. LXXIIII. ... Conradus Lautenbach
+          <lb/>Pfarherr! zu Hunaweiler.
+          <lb/>R 582. Geschenk des deutschen archäologischen Instituts in Rom
+          <lb/>1871.
+          <lb/>1113
+          <lb/>HEGESIPPUS
+          <lb/>[Strassburg, Th. Rihell 1575
+          <lb/>Egesippi, des Hochberühmten Für- trefflichen Christ-
+          <lb/>lichen Geschichtschrei- bers, fünff Bücher: Vom Jüdischen
+          <lb/>Krieg, vnd endlicher zerstörung der Herrlichen! vnd ge¬
+          <lb/>waltigen Statt Je-rusalem.
+          <lb/>Jetz newlich ausz dem Latein auffs trewlichest ver¬
+          <lb/>teutschet, mit kurtzen Summarien aller vnd jeder! Bücher
+          <lb/>vnd Capitel, Auch ordenlicher Jarrechnung ge-! zieret, vnd
+          <lb/>mit Concordantzen beydes auff die Hey- lige Bibel vnd
+          <lb/>vnsern newen Teutschen Josephum gerich- tet. Sammt
+          <lb/>eynem nutzlichen Register vnd schö-nen Figuren.
+          <lb/>Mit Römischer Keys. Maiest. Freiheyt. (Rücks, leer.)
+          <lb/>20, Got., 6 unn. Bll., 214 S., 5 unn. Bll. (Index, 2sp.), Kopft.,
+          <lb/>Kust., Marg., Init., Titel rot u. schwarz, Titelumrahmung, zahlreiche
+          <lb/>Holeschn. Neudruck von 1574, mit der gleichen Vorrede, aber datiert :
+          <lb/>am Newen Jarstag Anno M. D. LXXV.
+          <lb/>R10487. Geschenk aus dem Nachlass des Prof. E. Martin,
+          <lb/>Strassburg 11. II. 1911.
+          <lb/>1114
+          <lb/>HEGESIPPUS
+          <lb/>[Strassburg, Th. Rihell 1581
+          <lb/>Egesippi, des Hochberühmten Für-trefflichen Christ-
+          <lb/>lichen Geschichtschri- bers fünff Bücher: Vom Jüdischen
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

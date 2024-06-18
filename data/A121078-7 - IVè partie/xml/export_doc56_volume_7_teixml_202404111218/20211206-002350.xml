@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:10.859950+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002350.tif
+IMAGE WIDTH: 2492
+IMAGE HEIGHT: 3984
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>MANTINUS, Jacobus. Voir: AVICENNA.
+          <lb/>MANTUANUS, Baptista. Voir : BAPTISTA Mantuanus.
+          <lb/>MANTURANTIUS, Franciscus. Voir: BASiliUs Magnus, no 939.
+          <lb/>MANUEL, Nicolaus : Klag und bekanntnus der Armen Götzen
+          <lb/>wie es inen gat mit trüwem rat, sich vor allem götzen
+          <lb/>leben zu hüten. — (Strasbourg, Jacques Cammerlander)
+          <lb/>1538, in-8°.
+          <lb/>Goedeke I12, p. 341, n° 8 (6).
+          <lb/>2593
+          <lb/>MANUEL, Nicolaus : Das Barbeli, Ein gespräch... (End disz
+          <lb/>Spils). — Strasbourg, Christian Müller héritiers s. d.,
+          <lb/>in-8°.
+          <lb/>Goedeke II2, p. 340, n° 4 (8).
+          <lb/>2594
+          <lb/>MANUEL, Nicolaus : Newe Zeittung. Von Bäpstlicher ver¬
+          <lb/>mainten Mesz, fröliche Badenfart... Gedruckt zu Rom
+          <lb/>auff dem Palacium Durch doctor Mesz Ancken... —
+          <lb/>(Strasbourg, Jacques Cammerlander 1545), in-4°.
+          <lb/>Goedeke II2, p. 340, n° 7 (g).
+          <lb/>2595
+          <lb/>MANUTIUS, Paulus. Voir: CICERO, n° 1373. (RITTER, Rép.
+          <lb/>n° 14771.
+          <lb/>MARBACH, Erasmus :... Commentariorum in Pentateuchum:
+          <lb/>Tomus I. Continens Hypomnemata In Genesin &amp;amp; Exo¬
+          <lb/>dum. (Marque typ. de Bern. Jobin). — Argentorati,
+          <lb/>Ex Officina Haeredum Bernhardi Jobini Anno CIO
+          <lb/>D.XCVII. (1597), in-4°. Tomus II. Continens Hypomne¬
+          <lb/>mata In Leviticum Numeros &amp;amp; Deuteronomium. Addito
+          <lb/>indice rerum &amp;amp; verborum... (Marque typ. de B. Jobin). —
+          <lb/>Argentorati, Ex Officina Haeredum Bernhardi Jobini
+          <lb/>Anno CIDIO XCVII (1597), in-4°.
+          <lb/>Bibl. S. Guillaume, Strasbourg.
+          <lb/>2596
+          <lb/>MARBACH, Erasmus. Voir : EPICEDIA, n° 1552. Voir aussi
+          <lb/>(RITTER, Rép. n° 1478).
+          <lb/>348
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:14.070112+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002505.tif
+IMAGE WIDTH: 2492
+IMAGE HEIGHT: 3988
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>VESPUCCI. Voir : (WALDSEEMÜLLER, Martin), n° 3455/6;
+          <lb/>n° 3459.
+          <lb/>VICTOR von Carben : Ein schön und seüberlich Tractat von
+          <lb/>der edlen... junckfrawschafft Marie... — (Strasbourg,
+          <lb/>Mathias Schürer 1519), in-40.
+          <lb/>Schmidt VIII, n° 253; Weller 1175. B M Zurich. 3409
+          <lb/>VIELFELDT, J. Voir : AURELIUS, Victor S., n° 881; LUCIANUS,
+          <lb/>n° 2433; SaLUsTIus, n° 3159; RITTeR, Rép. n° 2408.
+          <lb/>VIGERIUS, Marcus : Decachordum Christianum Julio II.
+          <lb/>Pont. Max, dicatum. Controversia de excellentia Instru¬
+          <lb/>mentorum Dominicae Passionis. — (Haguenau, Thomas
+          <lb/>Anshelm et Jean Albert aux frais de Jean Koberger,
+          <lb/>janvier 1517), in-fol.
+          <lb/>Proctor 11.684; Baer (Francfort-s.-M.), Catal. 500 (1907),
+          <lb/>n° 1207 : « Mit 10 schönen Holzschnitten von Hans Schäuffelin,
+          <lb/>Passepartouts u. Titelbordüre von Urs Graf... Die Holzchnitte
+          <lb/>sind sämtlich zum ersten Male verwendet»; Burg, n° 435.
+          <lb/>3410
+          <lb/>VILLA NOVA, Arnoldus de. Voir: ArNoLDUs de Villa Nova.
+          <lb/>VILLEQUIERS. Voir : ZEITUNGEN, n° 3620.
+          <lb/>VIPERA, Mercurius Beneventanus: De divino et vero nomine
+          <lb/>apologeticon. — Strasbourg, Jean Knobloch 1520, in-4°.
+          <lb/>Panzer 9, 371, 562b; Schmidt VII, n° 209 : Olim Bibl. Arg.
+          <lb/>Incun, n° 4807.
+          <lb/>3411
+          <lb/>VIRDUNG. Hans : Nova medicinae methodus curandi morbos,
+          <lb/>ex Mathematica scientia deprompta, nunc denuo revisa,
+          <lb/>&amp;amp; exactissime emendata... — Haguenau, Valentin
+          <lb/>Kobian (mars) 1533, in-4°.
+          <lb/>Burg, n° 436.
+          <lb/>3412
+          <lb/>VIRDUNG, Hans : Prattica Teütsch. Etlich Jar werende von...
+          <lb/>503
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

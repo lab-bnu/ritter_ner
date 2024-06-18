@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:31.962042+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2181.tif
+IMAGE WIDTH: 2286
+IMAGE HEIGHT: 3826
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>177
+          <lb/>RI01704. Prov.: Bibliothèque Charles Schmidt, dont l&amp;#x27;Exlibris
+          <lb/>se trouve à l’intérieur du Ier plat; annotations mss.
+          <lb/>Schmidt II, No 91; Roth, loco cit. N0 8: Vienne. Il donne comme
+          <lb/>date d’impression 1523. GPB: Berlin, Gœttingue BU.
+          <lb/>276
+          <lb/>BRUNFELS Otto
+          <lb/>[Strasbourg, J. Schott, 1523.]
+          <lb/>VEREVM (!) DEt multo magis expedit au dire, quàm
+          <lb/>MISSAM, Ad Episcopum! Basiliensem.
+          <lb/>CHRISTVS N PA-rabolis quare loeutus sit.
+          <lb/>EVANGELIORVM ! ratio, &amp;amp; authoritas.
+          <lb/>Ab Otthone Brunn- felsio congesta.
+          <lb/>In-40, car, rom, 21 ff. non ch., sign. a-e, titre courant, notes
+          <lb/>marginales, grande initiale à fig. G. Titre encadré: la destruction du
+          <lb/>veau d’or; bordure latérale de droite, le feu descendant sur l’autel, bor¬
+          <lb/>dure latérale de gauche, paysage: le grand prêtre en prière, au dessus,
+          <lb/>un messager montrant le ciel.
+          <lb/>Au verso du dernier f., marque typographique de Jean Schott.
+          <lb/>(H è B, Planche IV, No 9.)
+          <lb/>Au verso du titre: IOANNES SCHOTTVS! Lectori S. D....
+          <lb/>R 101752. Prov.: A. Cohn, Berlin, 20/VII. 1885; 6M.
+          <lb/>Roth, loco cit., N° 6: 1523; Schmidt II, No 90, d’après son
+          <lb/>exemplaire, met comme date d’impression: 1524.
+          <lb/>GPB: Berlin.
+          <lb/>277
+          <lb/>BRUNFELS Otto
+          <lb/>[Strasbourg, J. Schott,] 1526.
+          <lb/>Almanach ewig werend, Teütszsch! vnd Christlich
+          <lb/>Practick, von dem xXVj. Jar an, bitz zû endt der welt
+          <lb/>aller welt.Durch Othonem Brunnfelsz zûsamen gesetzt.
+          <lb/>Du côté droit, gravure sur bois: Jésus-Christ dans un paysage;
+          <lb/>à gauche versets de l’Ecriture Sainte. (13 lignes.)
+          <lb/>A la fin: M. D. XXVI.
+          <lb/>In-4°, car. goth., 12 ff. non ch., sign. A-C.
+          <lb/>A la fin: 2 gravures.
+          <lb/>Au verso du titre: Dem leser Gnad vnnd Heyl... — Anno.
+          <lb/>1526.
+          <lb/>*RI01.975. Prov.: Bibliothèque Heitz.
+          <lb/>Roth, loco citato No 17: Nürnberg german. Museum (42,329),
+          <lb/>Wolfenbüttel; manque chez Schmidt. GPB: Berlin, Breslau BU. 278
+          <lb/>R.12
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

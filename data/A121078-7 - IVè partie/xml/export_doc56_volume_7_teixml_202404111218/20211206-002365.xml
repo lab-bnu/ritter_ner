@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:11.072712+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002365.tif
+IMAGE WIDTH: 2510
+IMAGE HEIGHT: 3972
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>MEYENBRUNN, Andreas : Tragoedia. Johannis des heiligen
+          <lb/>Vorläuffers und Täuffers Jesu Christi... Ausz den vier
+          <lb/>Evangelisten in Reimen gesetzt unnd gespilt durch ein
+          <lb/>Ehrsame Burgerschafft zu Colmar, auff den 25 und 26
+          <lb/>tag Maij, Anno 1573. — Strasbourg, Nicolas Wyriot
+          <lb/>12.VI.1575, in-80.
+          <lb/>Goedeke II2, p. 391, n° 322 b; Graesse IV, p. 512; Vogeleis,
+          <lb/>p. 329.
+          <lb/>2677
+          <lb/>MEYENLIED : Ein hübpsch new geystlich Meyenlied von dem
+          <lb/>gnadenreichen lieblichen Meyen Christum am Creütz
+          <lb/>hangende... — T. B. S. (— Th. Berger, Strasbourgl,
+          <lb/>in-8°.
+          <lb/>Heitz, p. 5; Wackernagel III, 1267.
+          <lb/>2678
+          <lb/>MEYER, Joachim : Gründliche Beschreibung der... Kunst des
+          <lb/>Fechtens... — Strasbourg, Th. Berger 1520, in-4°,
+          <lb/>(Gravure de Tobie Stimmerl.
+          <lb/>Walter, n° 1872; Hiersemann (Leipzig), Catal, 666, n° 946:
+          <lb/>750 M. : « Ausserordentlich seltene erste Ausgabe eines der
+          <lb/>berühmtesten alten deutschen Fechtbücher».
+          <lb/>2679
+          <lb/>MEYER, Peter. Voir: CRONBERG, Hartmuth, n° 1462.
+          <lb/>MEYER, Sebastian. Voir: HISTORY (von den vier Kätzer¬
+          <lb/>mönchen), n° 2031 (RITTER, Rép, nos 1566/671.
+          <lb/>MICHAEL DE UNGARIA : Sermones de sanctis... Biga salutis
+          <lb/>intitulati. — (Haguenau, H. Gran pour J. Rynman
+          <lb/>116 janvier] 1502), in-80.
+          <lb/>Burg, no 316a.
+          <lb/>2680
+          <lb/>MICHAEL de Ungaria : Evagatorium. In presenti libello
+          <lb/>continentur... Optimus modus praedicandi. Sermones
+          <lb/>xiij... — Strasbourg, [Jean Knobloch) 28.111.1503,
+          <lb/>in-80.
+          <lb/>Panzer 11, 356, 31; Schmidt VII, n° 3: B M Mayence [Ritter,
+          <lb/>Rép. n° 1570l.
+          <lb/>2681
+          <lb/>363
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

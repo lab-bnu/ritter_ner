@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:52.631676+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078336.tif
+IMAGE WIDTH: 2330
+IMAGE HEIGHT: 3840
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1222
+          <lb/>POLLIO Symphorianus
+          <lb/>Strasbourg, W. Kœpfel 1525
+          <lb/>Wes man sich ge- gen newen meren; so teglich
+          <lb/>von den predigern des Evangelii werden auszgeben, halten
+          <lb/>sollen.Was zu Straszburg der schrifft nach von der Ee
+          <lb/>gepredigt würt.) Verantwortung Simpho- riani Pollionis,
+          <lb/>von etlicher lugen wegen, aüff in erdacht die Ee belan¬
+          <lb/>gend. (Verso blanc.)
+          <lb/>Getruckt zû Straszburg bey Wolff Köpphel am ersten
+          <lb/>tag Februarii. An. 1525.
+          <lb/>W et G.
+          <lb/>In-40, car. goth., 12 ff. non ch., sign. A-C, notes marg., init.
+          <lb/>R102375. Prov. inconnue.
+          <lb/>Bibl. St-Guillaume, Strasbourg.
+          <lb/>1909
+          <lb/>POLYANTHEA. Voir: NANUS MIRABELLIUS Dominicus
+          <lb/>POLYBIUS
+          <lb/>Haguenau, J. Secer 1530
+          <lb/>(Feuille de lierre.) HOATBIOY ( METAAOHOAITOI, (I¬
+          <lb/>TOPION BI( BAIAE.
+          <lb/>(Feuille de lierre.) POLYEI HI STORIARVM LIBRI quinque,
+          <lb/>opera Vincentii Ob sopoei in lucem editi. (Feuille de lierre.)
+          <lb/>IDEM LA tini Nicolao Perotto Episco po Sipontino Inter¬
+          <lb/>prete.
+          <lb/>Haganoae, per Johannem Secerium) Anno M. D. XXX.
+          <lb/>Mense Martio. (Verso blanc.)
+          <lb/>In-fol., car. grecs, 4 ff. non ch., 106 ff. ch., titre courant, récla¬
+          <lb/>mes; belles et grandes init. à fig. M,E, T. Au verso du titre: Johan¬
+          <lb/>nes! Sapidus ad Le-ctorem. (7 dist.)
+          <lb/>Fol. A 2a non ch.:... Domino Georgio, Marchioni Brandenbur¬
+          <lb/>gensi... Vincentius Obsopoeus. S.... — Ex Onoltzpachio, decimo
+          <lb/>quarto kalendas Octobris, Anno M. D. XXIX. (Dédicace de 6 pp. en
+          <lb/>car. rom.)
+          <lb/>R10.516. Pror.: E. Freiesleben, Strasbourg 14/XI 1881; 7 M.
+          <lb/>2ème ex. C18.704 (1). Prov.: Don de Maurice Menzel, curé,
+          <lb/>Weissenstadt 5/VIII 1883. Endommagé. Rel, anc.
+          <lb/>BN Paris I 929; Oxford, Bibl. Bodleiana; Beaulieux p. 242:
+          <lb/>BU Paris, Rés. 293.
+          <lb/>Brunet IV2, 789: Première édition de ces cinq livres : elle est
+          <lb/>rare, mais peu recherchée, parce qu’elle n’est pas complète.
+          <lb/>1910
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

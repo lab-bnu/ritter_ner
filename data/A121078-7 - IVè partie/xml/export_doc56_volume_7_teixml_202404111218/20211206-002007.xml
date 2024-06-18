@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:01.725687+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002007.tif
+IMAGE WIDTH: 2506
+IMAGE HEIGHT: 3936
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>AEMILIANUS, Quintus Cimpr. : Epicedion Tetracolon in
+          <lb/>divum Fridericum III. A la suite de : Isocrates (n° 2133).
+          <lb/>— Strasbourg, Jean Prüss 1514, in-4°.
+          <lb/>744
+          <lb/>AEMILIANUS Quintus. Voir aussi : RITTER, Rép. n° 50.
+          <lb/>AENEAS Sylvius. Voir : PIUS II (Pape).
+          <lb/>AEPINUS, Johannes : In psalmum XV. Davidis Commen¬
+          <lb/>tarius... Recens nunc primum aed. — Strasbourg,
+          <lb/>Jacques Cammer-Lander (1543), in 4°,
+          <lb/>GKII, 676: B N Berlin, Vienne, Königsberg.
+          <lb/>745
+          <lb/>AESCHINES. Voir : DEMOSTHENES n° 1499. Voir aussi (Ritter,
+          <lb/>Rép. n° 86-88).
+          <lb/>AESOPUS : Fabulae (en allemand). In diesem Buch ist des
+          <lb/>ersten theils : das Leben unnd fabel Esopi; (Flaviil
+          <lb/>Aviani [Fabulae en allemand), Doligani (Fabulae en
+          <lb/>allemand), Adelfonsi (Petrus Alphonsus : Disciplina
+          <lb/>clericalis (extrait en allemand) mit schimpffreden (Face¬
+          <lb/>tiae en allemand] Pogii.
+          <lb/>Des andern theils usszüge schoner fabeln und exempelen.
+          <lb/>(extraits). Doctoris S. Brant : Alles mit synen fig.
+          <lb/>und Reg. — Strasbourg, J. Prüss 1508, in-4°, (Trad.
+          <lb/>par Henr. Steinhöwell.
+          <lb/>GKII, 1550: BN Munich, Vienne, B U Munster; Schmidt
+          <lb/>III n° 69. Graesse I, 37.
+          <lb/>746
+          <lb/>AESOPUS : Fabularum quae hoc libro continentur, interpretes
+          <lb/>atque autores sunt hi : Guilielmus Goudanus, Hadrianus
+          <lb/>Barlandus... Aesopi vita ex Maximo Planude excerpta
+          <lb/>et aucta. — [Haguenau), Ex Academia Anshelmiana
+          <lb/>(1511), in-80.
+          <lb/>GKII, 1774: B N Berlin, Munich.
+          <lb/>747
+          <lb/>AESOPUS : (Idem). — Strasbourg, (Mathias Schürer) 1514,
+          <lb/>in-4°.
+          <lb/>Panzer 6, 68, 346; Schmidt VIII, n° 147.
+          <lb/>748
+          <lb/>1—1
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:39.427796+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2438.tif
+IMAGE WIDTH: 2388
+IMAGE HEIGHT: 3824
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>434
+          <lb/>I. ARCHTECTURA von Portalen vnnd Thürgerichten
+          <lb/>mancherley arten. Das Annder Buch! DurchWendel
+          <lb/>Dietterlin Malern vonn Straszburg. 1594. Mit Kö.
+          <lb/>Kay. Mt. gnad vnnd freyheit auff 10. lar.
+          <lb/>En bas, même texte latin qu’au 1er volume. (Verso blanc.)
+          <lb/>A la fin: Gedruckt zu Straszburg bei Bernhardt Jobins
+          <lb/>Erben. Anno M. D. XCIIII. Au-dessus pièce d’encadrement, au¬
+          <lb/>dessous cul de lampe avee deux enfants au milieu.
+          <lb/>In-fol., car. goth., 60 ff. non ch., dont 4 ff. de texte et 56 planches
+          <lb/>représentant des portails et des portes, suivi de 7 ff. blancs, plusieurs
+          <lb/>pièces d’ornement, initiales D, G.
+          <lb/>fol. 2a: Dem... Herrn Ernst Friederichen Margrafen zu
+          <lb/>Baden vnd Hochberg... Meinem gnedigen Fürsten vnd
+          <lb/>Herrn... Wendel Dietterlin...
+          <lb/>Au verso: Vorrede an den günstigen Leser.
+          <lb/>R 10.002. Prov.: Trübner, Strasbourg, 28/x. 1890; 170 M.
+          <lb/>Brunet 115, col. 706.
+          <lb/>Bibliographie de Dietterlin: Schottenloher I, N° 3805-3811.
+          <lb/>653
+          <lb/>DINLINGIUS Johannes. Voir: GRASECCIUS Paulus, Theses de
+          <lb/>verborum obligatione. Strasbourg, A. Bertram, 1591.
+          <lb/>DINTERUS Edmundus, Genealogia ducum Burgundiae. Voir:
+          <lb/>GERARDUS Noviomagus, Vita Philippi a Burgundia. Strasbourg,
+          <lb/>Chr. Egenolph, 1529
+          <lb/>DIOMEDES Grammatieus
+          <lb/>Haguenau, J. Secer, 1526
+          <lb/>DIOME DIS GRAMMA TICI OPVS, AB Johanne Cæsa¬
+          <lb/>rio, ita emendatum,! Scholiisque illustratum, ut nulla
+          <lb/>porro labes insideat.
+          <lb/>Item Donati de octo orationis parti bus, &amp;amp; Barba¬
+          <lb/>rismo libellus, ab eoden recognitus.
+          <lb/>Haganoe, per Johannem Secerium Anno M. D. XXVI.
+          <lb/>(Verso blanc.)
+          <lb/>A la fin: Haganoe, per Johan. Sece.! Anno. M. D. XXVI.
+          <lb/>(Verso blanc.)
+          <lb/>In-80, car. ital., 8 ff. non ch., 208 ff. ch., titre courant, réclames,
+          <lb/>notes marginales, initiales à fig. Q, A, J, plusieurs feuilles de lierre.
+          <lb/>Titre encadré. (H. 8 B., Planche LXIX, NO I.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

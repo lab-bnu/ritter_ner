@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:04.584935+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002119.tif
+IMAGE WIDTH: 2504
+IMAGE HEIGHT: 3978
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>trati. Eiusdem de perfecto oratore ad Brutum liber.
+          <lb/>Item Rhetorica ad Herennium. — Haguenau, Pierre
+          <lb/>Brubach, juin 1535, in-80.
+          <lb/>BN Paris: X 17.037 (1); Ritter : B M Strasbourg, n° 727.
+          <lb/>1379
+          <lb/>CICERO (Oratoria Partitio) : De Partitione oratoria dialogus...
+          <lb/>una cum scholiis Christophori Hegendorphini jam
+          <lb/>recens... editis, et alia quaedam opuscula graeca elegan¬
+          <lb/>tissima. (Oratio Isocratis adversus sophistas. Dialogus
+          <lb/>Luciani cui titulus est Harmonides, Vitam tam Isocratis
+          <lb/>quam Luciani, ex Suida) ab eodem Hegendorphino latine
+          <lb/>reddita... — Haguenau, Jean Secer 1528, in-80.
+          <lb/>BNParis: Z 47.913; B U Fribourg-en-Br.: D 5977 (Communi¬
+          <lb/>cation de M. Rest).
+          <lb/>1380
+          <lb/>CICERO (Philosophia) : Philosophicorum librorum pars prima
+          <lb/>(-secunda). Ex Dionys. Lambini emendatione.
+          <lb/>Strasbourg (impensis J. Dupuys et J. Rihelii) 1572,
+          <lb/>2 vol. in-8°.
+          <lb/>B N Paris : R 31.475-31.476; 2 ex. Pars prima : R 31.477.
+          <lb/>[éd. Wendelin Rihel 1541 et 1549 : Ritter, Rép, nos 506 et
+          <lb/>510; puis Josias Rihel 1569 : Rép. nos 530 et 1574 : Rép.
+          <lb/>n° 532l.
+          <lb/>1381
+          <lb/>CICERO (Ad Quintum) : Ad Quintum fratrem dialogi de
+          <lb/>oratore. — Strasbourg, Jean Knobloch septembre 1524,
+          <lb/>in-80.
+          <lb/>Bibl. Budapest : A. lat. 1383 (Communication de Mme Soury,
+          <lb/>Strasbourg). Schmidt VII, n° 278 [éd. Josias Rihel 1568:
+          <lb/>Ritter, Rép. n° 5271.
+          <lb/>1382
+          <lb/>CICERO (Ad Quintum) : Epistola scripta ad O. fratrem, pro
+          <lb/>schola Argentoratensi. — Strasbourg, Josias Rihel 1560,
+          <lb/>in-80.
+          <lb/>B N Paris : 80 R 15.648 (5).
+          <lb/>1383
+          <lb/>117
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

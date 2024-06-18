@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:37.905260+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu097.tif
+IMAGE WIDTH: 2392
+IMAGE HEIGHT: 3842
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>MELBER JOHANNES: Vocabularius praedicantium, (Stras¬
+          <lb/>bourg, vers 1500), in-4°.
+          <lb/>Hain 11033.
+          <lb/>K 2572. Prov.: F. Butsch fils, Augsbourg, 28. XII. 1872,
+          <lb/>3 M. 30. Notes mss. Rel. anc.
+          <lb/>313
+          <lb/>MELBER JOHANNES: Vocabularius praedicantium. (Stras¬
+          <lb/>bourg, G. Husner, vers 1500), in-4°.
+          <lb/>Hain 11036, Madsen 2722, Proctor 752, Voulliéme: Berlin 2533.
+          <lb/>K 2571. Prov.: Librairie Staat (Vente Paul Schmidt, Paris),
+          <lb/>19. IV. 1910, 24 frs. A l’intérieur du 1er plat, exlibris avec
+          <lb/>la devise: Tout à tous. Au-dessous: «Ex Libris Paul Schmidt.»
+          <lb/>314
+          <lb/>MELUSINE. (Strasbourg, H. Knoblochtzer, s. d.), in-fol.
+          <lb/>Hain 11061, Goedeke, Grundriss, 2. Aufl. I, 355, N° 2, Pelle¬
+          <lb/>chet 1327, Proctor 366, Schorbach et Spirgatis, Knobloch¬
+          <lb/>tzer 7, Schreiber 4629.
+          <lb/>Schramm, Bilderschmuck, XIX, grav. N° 302-368.
+          <lb/>K 1001. Prov.: Librairie Trübner, Strasbourg, 27. IX. 1887,
+          <lb/>800 M.
+          <lb/>315
+          <lb/>MICHAEL DE DALEN: Casus breves decretalium Sexti et Cle¬
+          <lb/>mentinarum libellus. Strasbourg, (typ. du Jordanus
+          <lb/>(— G. Husner)), 15 juin 1485, in-fol.
+          <lb/>Hain 4660, Madsen 2741, Pellechet: Colmar 459, Proctor 595,
+          <lb/>Voulliéme: Berlin 2405, Walter: Sélestat 132.
+          <lb/>K1103. Prov.: BN Munich, 22. I. 1880. A la suite de: Ber¬
+          <lb/>nardus Parmensis, Casus longi super decretales, Strasbourg,
+          <lb/>1484, K 668.
+          <lb/>316
+          <lb/>MICHAEL DE DALEN: Casus breves decretalium Sexti et Cle¬
+          <lb/>mentinarum Libellus. Strasbourg, (G. Husner), 1493,
+          <lb/>in-fol.
+          <lb/>Hain 4662. Proctor 732, Voulliéme: Berlin, 2520, 5 dit:
+          <lb/>Drucker der Casus breves decretalium.
+          <lb/>K 1105, Prov.: Don de la ville de Nördlingen, 1871. Au recto
+          <lb/>du f. de garde: «Panzer Annal. I. 50 249.»
+          <lb/>317
+          <lb/>MICHAEL DE HUNGARIA: Sermones dominicales. (Biga salu¬
+          <lb/>tis). Haguenau, H. Gran, 22 janvier 1498, in-4°.
+          <lb/>Hain 9052, Proctor 3192, Voulliéme: Berlin 1179.
+          <lb/>K 2336. Prov.; Don de Fid. Butsch fils, Augsbourg, 1871. Au
+          <lb/>haut du titre: «Monasterij Ranshouen.» Rel. anc.
+          <lb/>318
+          <lb/>67
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:07.726782+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002237.tif
+IMAGE WIDTH: 2524
+IMAGE HEIGHT: 3978
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>HERR, M. : Gründlicher Unterricht aller vierfüssigen
+          <lb/>Tiere. — Strasbourg 1546. (Ritter, Rép, n° 1160).
+          <lb/>[Le 16-7-1942 Dr J. H. Anderlub de Wiesbaden-Biebrich
+          <lb/>s’est adressé à la Bibliothèque BN de Strasbourg pour
+          <lb/>s’informer si la Bibliothèque possède cet ouvrage).
+          <lb/>1998
+          <lb/>HERR, Michael : Die ritterlich reyss herren Ludovico
+          <lb/>Vartomano de Bologna. — (Strasbourg, Jean Knobloch
+          <lb/>1515), in-fol.
+          <lb/>Panzer, Annalen, I, 381, Schmidt VII, n° 107.
+          <lb/>1999
+          <lb/>HERR, Michael : (Idem). — (Strasbourg, Jean Knobloch
+          <lb/>1516), in-40.
+          <lb/>Panzer, Annalen, Zusätze 139, 853; Schmidt VII, n° 132:
+          <lb/>Donaueschingen.
+          <lb/>2000
+          <lb/>HERR, Michael. Voir aussi : CASSIANUS Bassus, Der Feldbau
+          <lb/>n° 1301; HUTTICH, Joh, n° 2117; (RITTER, Rép, n° 1160:
+          <lb/>Gründlicher Underricht... aller vierfüssigen Tier.
+          <lb/>Strasbourg, B. Beck 1546]; SENECA n° 3219.
+          <lb/>HERTZOG, Samson : Notariats Gemeine Eynleitung, sampt
+          <lb/>dem Formular, Und zweyen unterschiedlichen Registern.
+          <lb/>— Strasbourg, Lazare Zetzner 1597, in-fol.
+          <lb/>Ritter : B M Strasbourg, n° 1205.
+          <lb/>2001
+          <lb/>HERTZOG, Samson : Notariats Von Testamenten unnd
+          <lb/>andern letsten Willen auszführliche unnd in Geistlichen
+          <lb/>und Weltlichen Rechten gegründte Unterrichtung.
+          <lb/>Ausz... Zasii, Sichardi, Fischardi und anderer mehr
+          <lb/>Rechtsgelerten... trewlich gezogen, und mehrerstheils
+          <lb/>in nutzliche Fragen verfasset... — Strasbourg, Lazare
+          <lb/>Zetzner in verlegung 1599, in-fol.
+          <lb/>Ritter : B M Strasbourg, n° 1206.
+          <lb/>2002
+          <lb/>HERTZOG, Samson: Notariats Von Contracten auszführliche
+          <lb/>und in Geistlichen und Weltlichen Rechten gegründte
+          <lb/>235
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

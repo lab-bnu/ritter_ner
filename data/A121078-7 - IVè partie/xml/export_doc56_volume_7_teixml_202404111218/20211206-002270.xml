@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:08.798039+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002270.tif
+IMAGE WIDTH: 2528
+IMAGE HEIGHT: 3968
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Herkommen der Juden. Eins von Meysterschafft der
+          <lb/>vernunfft, und der Machabeer Martyrum. Item Beschrei¬
+          <lb/>bung des lebens Flavij Josephi so vormals in Teütscher
+          <lb/>spraach nicht auszgangen ist. Alles Durch D. Caspar
+          <lb/>Hedion verteütscht. Und jetzundt Von neüwen auffs
+          <lb/>fleissigst nach den Alten Griechischen Exemplaren
+          <lb/>restituiert. Getruckt zu Straszburg bey Samuel Emmel.
+          <lb/>M.D.LXII, in-fol.
+          <lb/>Bibl. Grand Sém. Strasbourg X 26. [Ritter : Rép. n° 1275:
+          <lb/>S. Emmel 1553).
+          <lb/>2162
+          <lb/>JOSEPHUS, Flavius. Voir: RAGEL n° 3071; [RITTER, Rép.
+          <lb/>nos 1270-1284).
+          <lb/>JosT d’Illkirch, Lienhard. Voir : HOFMANN, Melchior:
+          <lb/>Prophetische Gesicht n° 2035.
+          <lb/>JOVIUS, Paulus : Turciarum rerum commentarius... Ex
+          <lb/>Italico Latinus factus, Francisco Nigro Bassianate
+          <lb/>interprete. Origo Turcini Imperii. Vitae omnium Turci¬
+          <lb/>corum Imperatorum. Ordo ac disciplina Turciae mili¬
+          <lb/>tiae... — Strasbourg, Wendelin Rihel 1537, in-80.
+          <lb/>Ritter: B M Strasbourg, n° 1309.
+          <lb/>2163
+          <lb/>Jovius, Paulus : Berümter fürtrefflicher Leut Leben, Hand¬
+          <lb/>lung und Thaten [trad, par G. Klee). — Strasbourg 1580,
+          <lb/>in-fol.
+          <lb/>Graesse III, p. 490. (Édition Jobin 1589; voir Ritter, Rép.
+          <lb/>n° 1286/7l.
+          <lb/>2164
+          <lb/>JOYE, Georgius : Translation of the Prophet Essay. —
+          <lb/>Printed at Strasbury by Balthasar Backneth! — Beck)
+          <lb/>1531, in-80.
+          <lb/>Ritter : Hist. Impr., p. 234.
+          <lb/>2165
+          <lb/>JUD, Leo. Voir : APOGRYPHI n° 832; ERASMUS n° 1622.
+          <lb/>(RITTER, Rép. n° 1288. B N Strasbourg R 10.087 (3)).
+          <lb/>268
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

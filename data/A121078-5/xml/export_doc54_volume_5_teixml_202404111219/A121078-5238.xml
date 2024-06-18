@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:58.001941+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5238.tif
+IMAGE WIDTH: 2388
+IMAGE HEIGHT: 3858
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1548
+          <lb/>fol. a VIa : Ringmannus philesius Nobi I! li Jacobo Sturmio S.
+          <lb/>R. 101.069. Prov. inconnue.
+          <lb/>Grand Séminaire Strasbourg, Incun. C. 20; Proctor II, Sectio I,
+          <lb/>No 10.018 : Londres, British Museum; Schmidt V, N° 54 : BM Sélestat;
+          <lb/>Walter: Sélestat 2435. Knepper, Wimpfeling, p. 207-208.
+          <lb/>2478
+          <lb/>WIMPHELING
+          <lb/>Strasbourg, J. Knobloch, 1506
+          <lb/>Jacobi Wimphelingi! De Integritate Libellus cum epistolis
+          <lb/>praestantissimorum virorum hunc! libellum approbantium
+          <lb/>&amp;amp; confirmantium.
+          <lb/>Ringmanni Philesij Iambi-cum ad ephoebos.
+          <lb/>Suit un acrostiche de 12 vers, dont les premières lettres
+          <lb/>donnent les mots Rumpere Livor.
+          <lb/>A la fin : Ioannes knoblouchus Ciuis Ar-[ gentinensis, ex
+          <lb/>Archetypo denuoimprimebat. Anno quingentesi-mo sexto
+          <lb/>supra millesimum. XI. ka lendas Nouembris.
+          <lb/>In-4°, car. rom., 38 ff. non ch., dont le dernier blanc, sign. A-G, titre
+          <lb/>courant en car. goth., init. d’attente.
+          <lb/>Au verso du titre : Capita in libellum.
+          <lb/>fol. Aija : Thomas Wolphius iunior!! D. doctor suo Joanni Galli¬
+          <lb/>nario Budorino Salutem... — Argentinae. ex!! Aedibus nostris cursim
+          <lb/>Pridie Kalendas Februarij. Anno !! Christi. M. CCCCCV.
+          <lb/>R. 101.070 et R. 101.457 : tous les deux comme don de la ville de
+          <lb/>Heilbronn, 1871.
+          <lb/>Schmidt VII n° 19 : exemplaire personnel; il dit sign. A-E, les exem¬
+          <lb/>plaires de la BN de Strasbourg ont sign. A-G. Ritter, BM Strasbourg
+          <lb/>2225 (sign. A-G.) ; BM Colmar; Proctor II, Sectio I, 10.051 : Londres,
+          <lb/>Brit. Mus. ; Walter : Sélestat 2424.
+          <lb/>2479
+          <lb/>WIMPHELING
+          <lb/>Strasbourg, J. Prüss, 1506
+          <lb/>Vita sancti Adelphi patroni Collegij Nouillarensis.
+          <lb/>(Neuwiller) Jn dominio Liechtenbergensi: Dyo!! cesis Argen¬
+          <lb/>tinensis. Ubi et corpus eius requiescit.
+          <lb/>Armoiries de Hanau-Lichtenberg.
+          <lb/>Au-dessous : Virtuti Auitae.
+          <lb/>A la fin : Ioannes Prys impressit. Anno. M. CCCCC. VI.
+          <lb/>(Verso blanc.)
+          <lb/>In-4°, car. rom., 10 ff. non ch., sign. A-B, init. ornées R, J. Au verso du
+          <lb/>titre, gravure sur bois : reproduite p. 1549.
+          <lb/>fol. A 2a : ... Philippo Comiti in Hanaw : &amp;amp; Baroni in Liechten-]] berg,
+          <lb/>Jacobus Wimphelingius... — Ex aedibus validi Equestris ordinis !! Martini
+          <lb/>Sturmi. XVII. Kalendas Augusti Anni salutis nostrae. Millesimo quingen¬
+          <lb/>tesimo sexto.
+          <lb/>Au-dessous : Ad Philippum comitem de Hanaw Ringmanni Philesij
+          <lb/>Epigramma. (5 dist.).
+          <lb/>fol. A 3a: Vita sancti Adelphi Episcopi.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

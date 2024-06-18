@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:55.627956+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5178.tif
+IMAGE WIDTH: 2346
+IMAGE HEIGHT: 3856
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1486
+          <lb/>SYLVA EPISTOLARIS, SEV
+          <lb/>BARBA IO. SAPIDI.
+          <lb/>BARBA VIRI ORÑA¬
+          <lb/>MENTVM.
+          <lb/>fol. A 2a : Maternus Hattenus Spiren-[! sis Iacobo Schenckio Juricon¬
+          <lb/>sulto, Impe-] rialis camerae aduocato incor- Il ruptiss... — Pridie Calen¬
+          <lb/>das Februarij. Anno!! M. D. XXXIIII.
+          <lb/>R. 101.577. Prov. : Bibliothèque Charles Schmidt avec son ex-libris.
+          <lb/>2370
+          <lb/>VALERIUS FLACCUS
+          <lb/>Strasbourg, J. Knobloch, 1525
+          <lb/>C. Vale! rii Flacci Argonau! ticôn libri octo, à Philippo
+          <lb/>Engen-tino emendati, &amp;amp; ad uetustissi! ma exemplaria
+          <lb/>recogni ti, adiectis praeterea singulorum libro- rum
+          <lb/>argumen-tis per eun dem.
+          <lb/>A la fin : Argentorati ExcudebatToannes Knoblochus,
+          <lb/>Anno. M. D. XXV. Mense Iulio. (Verso blanc.)
+          <lb/>In-8°, car. ital., 115 ff. ch. et 1 f. blanc avec l’explicit au recto; titre
+          <lb/>courant, réclames, init. ornées P, I, T, V, A, titre encadré, bordures
+          <lb/>latérales, colonne avec un enfant grimpant, au haut portique; dans le
+          <lb/>coin le mot Herman, bordure inférieure, sirène terminée en queue de
+          <lb/>poisson, dans les 2 coins deux génies nus.
+          <lb/>fol. A 2a : Candidissimo Iuveni Paulo! Richart Hagenoensi. Philippus
+          <lb/>Engen! tinus... — Friburgi in medijs militum! gladijs mense Maio,
+          <lb/>Anno 1] M. D. XXV.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

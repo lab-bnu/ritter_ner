@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:05.888710+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002162.tif
+IMAGE WIDTH: 2486
+IMAGE HEIGHT: 3970
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>ERASMUS (Exomologesis) : Exomologesis sive methodus
+          <lb/>confitendi. — (Strasbourg, imprimerie Jean Knobloch
+          <lb/>1524), in-80.
+          <lb/>Kuczynski, n° 749; Rest p. 55 : B U Fribourg-en-Br. 1605
+          <lb/>ERASMUS (Liturgia) : Liturgia Basiliana ab Erasmo conversa.
+          <lb/>— Colmar, Barth. Grüninger 1541.
+          <lb/>Ritter, Hist. impr., p. 417.
+          <lb/>1606
+          <lb/>ERASMUS (Modus orandi) : Modus orandi Deum. —
+          <lb/>Strasbourg, Jean Knobloch 1525, in-80.
+          <lb/>Kuczynski, n° 752. [éd. J. Knobloch, décembre 1524 : Ritter,
+          <lb/>Rép. n° 777 et Schmidt VII, 284).
+          <lb/>1607
+          <lb/>ERASMUS (De octo Orationis partium Constructione) : Libellus
+          <lb/>absolutissimus... — Strasbourg, Mathias Schürer 1515,
+          <lb/>in-40.
+          <lb/>Schmidt VIII, n° 169; B U Fribourg. Panzer 6, 75, 405. 1608
+          <lb/>ERASMUS (Idem). — (Strasbourg, Jean Prüss 1515), in-4°.
+          <lb/>Schmidt III, p. 33, n° 13; Bibl. S. Guillaume Strasbourg, 1609
+          <lb/>ERASMUS (Idem). — Strasbourg, Jean Knobloch, décembre
+          <lb/>1512), in-8°.
+          <lb/>Van der Haeghen, Bibl. Erasmiana, Gand 1893, I, p. 60;
+          <lb/>Schmidt VII, n° 251. (éd. Th. Anshelm 1522 : Ritter, Rép.
+          <lb/>n° 760; Knobloch 1523 (Rép. n° 766)).
+          <lb/>1610
+          <lb/>ERASMUS (Idem). — Strasbourg 1524.
+          <lb/>Rest p. 50 : B U Fribourg.
+          <lb/>1611
+          <lb/>ERASMUS (Idem). — Strasbourg, Jacques Frölich 1540, in-80.
+          <lb/>Ritter, Hist. impr., app. 371.
+          <lb/>1612
+          <lb/>ERASMUS (Parabolae) : Parabolae. — Sélestat, Lazare
+          <lb/>Schürer, août 1520, in-80.
+          <lb/>Rest p. 57: B U Fribourg-en-Br.
+          <lb/>1613
+          <lb/>160
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

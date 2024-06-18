@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:58.814538+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5268.tif
+IMAGE WIDTH: 2420
+IMAGE HEIGHT: 3860
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1578
+          <lb/>2/IV, 1878. Notes mss.
+          <lb/>R. 100.899. Prov. : Bibliothèque du Lycée de Heilbronn contre échange,
+          <lb/>Bibliothèque St.-Guillaume, Strasbourg; Schmidt, VIII, N° 77; Proc¬
+          <lb/>tor 10.190; Rosenthal, Münich (Catalogue 135 (1914), N° 965 ; 66 M.).
+          <lb/>2528
+          <lb/>ZORN Philippus Christophorus. Voir : HAWENREUTER Joh.
+          <lb/>Lud., Strasbourg, A. Bertram, 1582. R 101.564 (21); n° 1087.
+          <lb/>ZORN ZUM RIED Clauss
+          <lb/>Strasbourg, 1546
+          <lb/>Certificat délivré aux soldats au service de la ville de
+          <lb/>Strasbourg.
+          <lb/>Wir Claus Zorn zum Riet, der Mai]] ster vnd der Raht zu
+          <lb/>Straszburg, thun kunth, das vnszeiger dises vnder den
+          <lb/>zweien Fenlin Landtsknechten,so wir ietzo ein zeitlang,
+          <lb/>vnser gelegenheit nach, inn vnserbestallung gehalten,
+          <lb/>ehrlich vnd redlich gedient, vnd dem- nach mit vnserm
+          <lb/>gut wissen vnd willen von vns abgeschei den ist. Derhalben
+          <lb/>an meniglich vnser bit vnd beger, den! selben seiner notdurfft
+          <lb/>nach, passieren zu lassen. Gebenmit vnserm zu end auffge¬
+          <lb/>trucktem Secret, Sambstagden xiij Nouembris, Nach
+          <lb/>Christi Geburt als man zalt !! M. D. xlvi. jar. (Verso blanc.).
+          <lb/>Placard, in-8°, car, goth., 11 lignes. Entre la 2e et la 3e ligne un espace
+          <lb/>vide pour y mettre le nom.
+          <lb/>R. 21 (23). Prov. : Collection Heitz, Strasbourg. 1871.
+          <lb/>2 ex. R. 22 (46). Même provenance. Au-dessus du texte : Passeport.
+          <lb/>Certificat délivré aux soldats au service de la ville de Strasbourg de
+          <lb/>l’année 1546.
+          <lb/>Plus bas : Claus Nicolas Zorn zum Ried fut Stettmeister dans les
+          <lb/>2529
+          <lb/>années 1542, 1543, 1545, 1546 et 1548.
+          <lb/>ZORN ZUM RIED Claus. Voir aussi ORDONNANCE (Enrôle¬
+          <lb/>ments), Strasbourg, 1531, R 214, nos 1694 et 1543, R2117,
+          <lb/>n° 1708.
+          <lb/>ZSCHORN Johann
+          <lb/>Strasbourg, P. Messerschmidt, 1559
+          <lb/>Chronica, oder Key! ser Büchlin Darinn alle Römische
+          <lb/>Keyser, von dem ersten Keyser!! Julio, biss auff den yetzt
+          <lb/>regieren-den Keyser Ferdinandum, mit eygentlicher
+          <lb/>abconterfeytung, wie sie auff den alten pfen-ingen gfunden
+          <lb/>werden, sampt der zeit jrerRegierung, Leben, Thaten,
+          <lb/>Auch Wunder!] zeichen, Finsternissen, Cometen, Monstras,
+          <lb/>so under eynem yeden ergangen, aus alten warhafftigen
+          <lb/>Chronicken, die fürnemisten! stuck gezogen, vffs kürtzst inn
+          <lb/>Reimengestelt, yedem liebhaber derHistorien kurtz¬
+          <lb/>weilig zu lesen, vormalsnie gesehen.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

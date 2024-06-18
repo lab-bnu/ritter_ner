@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:32.082062+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2188.tif
+IMAGE WIDTH: 2292
+IMAGE HEIGHT: 3818
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>184
+          <lb/>en 1529; sur le socle, où est placé Dioscoride, il y a le chiffre 15, sur
+          <lb/>celui d’Apollon 59 (29, le 2 étant retourné.)
+          <lb/>Au 1er f. après le titre, vers de Jean Sapidus, imprimés en noir
+          <lb/>et en rouge; au verso, armoiries de la ville de Strasbourg. Suit une
+          <lb/>dédicace de Brunfels au magistrat de Strasbourg, 7 mars 1530.
+          <lb/>Les pages 1 et 22 ont le même encadrement que la Ière page de
+          <lb/>l’Austrias, 1531 (2 médaillons avec des bustes d’empereurs romains dans
+          <lb/>chacune des bordures lat.); la page 21 a celui qui est au r° du f. après
+          <lb/>le titre du Ligurinus dans l’Austrias. (avec 3 médaillons d’empereurs
+          <lb/>dans chaque bordure lat.)
+          <lb/>R 10.504.(1) Prov. inconnue. Incomplet: titre et 20 premières pp.
+          <lb/>manquent; de même l’Appendice.
+          <lb/>2 ex. *R10.410.(1) Prov.: Bibl. Hermann, Strasbourg. Notes mss.
+          <lb/>bibliographiques de la main de Hermann. Entre autres, sur une fiche
+          <lb/>entre p. 18 et 21: ,Nihil hie deest. In alliis Brunfelsii Exem¬
+          <lb/>plaribus pagina 19 &amp;amp; 20 ex folio vacuo ejusdem chartae
+          <lb/>constant, p. 23, quae incipit corum aliquid deest. Sunt hi
+          <lb/>errores typographi.
+          <lb/>BN Paris, Te 142, 23; Roth, loco citato No 27: BM Mayence;
+          <lb/>Schmidt II. N 117; GPB: Berlin (incomplet), Bonn BU. Breslau BU,
+          <lb/>Gœttingue BU, Munster BU. Schreiber, Die Kräuterbücher des 15, und
+          <lb/>16. Jahrh. p. XXXI.
+          <lb/>Voir: Rytz Walther, Pflangenaquarelle des Hans Weiditz aus dem
+          <lb/>Jahre 1529. Die Originale zu den Holzschnitten im Brunfels’schen
+          <lb/>Kräuterbuch... 15 Tafeln im Offsetdruck. Bern, Paul Haupt, 1936,
+          <lb/>287
+          <lb/>44 p. in-fol. — 15 planches.
+          <lb/>BRUNFELS Otto
+          <lb/>Strasbourg, J. Schott, 1531.
+          <lb/>Biblisch! Bettbüchlin Der Altuätter, vnd herrlichen
+          <lb/>Weibern, beyd Alts vnd Newes Te- staments.Erma¬
+          <lb/>nung zû dem Gebett, vnd wie man recht Betten sol.
+          <lb/>A la fin: Zû Straszburg bey Hans Schotten zûm
+          <lb/>Thyergarten.! Anno. M. CCCCC. XXXI.
+          <lb/>Au-dessus de l&amp;#x27;explicit, marque typogr. de J. Schott. (HdB,
+          <lb/>Planche IV. No 9.)
+          <lb/>In-8°, car. goth., 6 ff. non ch. (Index) —-18 ff. non ch. (Préface
+          <lb/>de Brunfels, Ermanung zum Gebet), OX ff. ch., 2 ff. non ch., titre
+          <lb/>courant, notes marginales, titre encadré: au haut et à gauche, têtes
+          <lb/>d’anges avec des ailes; au bas, Manassé en prison, couché, enchaîné; à
+          <lb/>droite, le mur de la prison avec une fenêtre et la date 1528; de fol.
+          <lb/>I-CIX les pages sont encadrées comme dans l’édition latine de 1528,
+          <lb/>(16 encadrements différents, en partie fort remarquables; scènes de
+          <lb/>chasse, jeux d’enfants, sujets antiques etc.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

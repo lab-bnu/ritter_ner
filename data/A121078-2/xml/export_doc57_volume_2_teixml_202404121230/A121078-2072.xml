@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:28.315882+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2072.tif
+IMAGE WIDTH: 2348
+IMAGE HEIGHT: 3820
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>68
+          <lb/>In-8°, car. goth., 48 ff. non ch., sign. A-F, titre courant, initiales
+          <lb/>ornées.
+          <lb/>Au verso du titre: Ringmannus Philesius lectori (10 distiques.)
+          <lb/>où il est dit entre autre:
+          <lb/>Hactenus eterna sed digna poemata cedro
+          <lb/>Nemo habuit pressis multiplicata notis
+          <lb/>Quae bona Gruningeri nunc calchographia colendi
+          <lb/>Milleno certa codice pressit ope.
+          <lb/>Au-dessoue:
+          <lb/>Joannes Adelphus Mulingus Argentinensis, (4 distiques.)
+          <lb/>fol. A 2a: Ad... Jacobum! Archiepiscopum Trevirensem
+          <lb/>.. Johannis Adel phi Mulingi commendatio... - Argentoraci,
+          <lb/>xij Kalen. Septembris. Annora sesquimellisimum
+          <lb/>Septimo.
+          <lb/>R 100.0626). Prov.: Librairie Lippert, Halle, 16. I. 1888; 5 M.
+          <lb/>Schmidt I, No 81 dit:
+          <lb/>«On avait donc une édition de 1000 exemplaires. C’est l’édi¬
+          <lb/>tion principale de St. Avit. On avait trouvé le ms. dans une bi¬
+          <lb/>bliothèque en Allemagne et on l’avait envoyé à Bologne pour le
+          <lb/>faire corriger par Phil. Béroalde. Ald Manuce devait l’imprimer,
+          <lb/>mais étant empêché, il était venu à Strasbourg, où Jean Adelphus
+          <lb/>se chargea de le publier, comme il est dit dans la dédicace à
+          <lb/>l’archevêque de Trêves, du 21 août 1507.»
+          <lb/>GPB: Berlin SB, München SB. Breslau UB, Göttingen UB.
+          <lb/>121
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

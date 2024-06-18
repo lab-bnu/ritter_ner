@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:05.754694+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie039.tif
+IMAGE WIDTH: 2484
+IMAGE HEIGHT: 3924
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>DONATUS, Aelius : Ars minor. — (Strasbourg, J. Prüss,
+          <lb/>vers 1500), in-4°.
+          <lb/>G W 8951: BN Munich.
+          <lb/>219
+          <lb/>DONATUS, Aelius: Ars minor. — (Strasbourg, Jean Prüss
+          <lb/>vers 1500), in-40.
+          <lb/>G W 8952; Hain 6344; Rosenthal (Munich) Catal. 40 (1905),
+          <lb/>n° 2160. Washington LC.
+          <lb/>220
+          <lb/>DONATUS, Aelius : Ars minor. — (Strasbourg, Jean Prüss
+          <lb/>vers 1500), in-4°.
+          <lb/>G W 8968; Pellechet 4405. B N Paris.
+          <lb/>221
+          <lb/>DONATUS moralisatus. Voir: GERSON, no 290-293.
+          <lb/>DRACOLE WEYDA. Voir : HISTORIE von Dracole Weyda,
+          <lb/>n° 335.
+          <lb/>DUNS SCOTUS : Quaestiones in libr. IV Sententiarum. —
+          <lb/>(Strasbourg, impr. C. W.] 1474, in-fol.
+          <lb/>G W 9084; Hain 6430= 6429 (par erreur 1473). Pellechet
+          <lb/>4462, Proctor 342, Voulliéme : Berlin 2187; Brit. Mus. Cat.
+          <lb/>I, 182; Baer (Francfort s. M.), Catal, 500 (1905), n° 331; 90 M.
+          <lb/>222
+          <lb/>DURANTI, Guilelmus : Rationale divinorum officiorum. —
+          <lb/>(Strasbourg, impr. de Jordanus (— G. Husner) pas après
+          <lb/>1483, in-fol.
+          <lb/>G W 9125. Pellechet 4482, Proctor 633, Brit. Mus. Cat. 1 130.
+          <lb/>B U Amsterdam, B M Arras, B N Berlin, Munich, Vienne et
+          <lb/>de nombreux autres.
+          <lb/>223
+          <lb/>EBERHARDUS Würtembergensis. Voir : WIMPHELING, Jac.
+          <lb/>n° 707.
+          <lb/>EBRARDI, Udalricus : Modus latinitatis. — [Strasbourg,
+          <lb/>Jean Prüss) 1490, in-4°.
+          <lb/>G W 9194, Hain 6535. Bâle, Bamberg, Edinburgh, BN Munich
+          <lb/>etc.
+          <lb/>224
+          <lb/>37
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

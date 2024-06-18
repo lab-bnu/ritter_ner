@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:42.822840+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078011.tif
+IMAGE WIDTH: 2372
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>895
+          <lb/>Fol. 5a non ch.: LECTORI BE-LNEVOLO, I JOSEPHVS LAN¬
+          <lb/>GIVS ] Caesaremontanus. S. P. D. (4 pages.)
+          <lb/>R101730 (2). Prov.: Dr Halm, Bibliothécaire en chef, Munich
+          <lb/>11/12 1875.
+          <lb/>1332
+          <lb/>LANG Josephus
+          <lb/>Strasbourg, J. Rihel héritiers 1598
+          <lb/>LOCI COMMVNES! SIVE FLORILEGIUM RERUM ET MATERI¬
+          <lb/>ARUM SELECTA- RUM :  Praecipuè SENTENTIARUM] APOPH¬
+          <lb/>THEGMATUM SIMILITUDINUM EXEMPLORUM HIEROGLYPHI¬
+          <lb/>CORUM : Ex Sacris Literis: Patribus item;! aliisque Lin¬
+          <lb/>guae Graecae &amp;amp; Latinae Scripto- ribus probatis collectum:
+          <lb/>Studio &amp;amp; operà JOSEPHI LANcii CAESARE-montani.! Ap¬
+          <lb/>DITVS EST INDEX FABV-] larum. Emblematum ac Symbo¬
+          <lb/>lorum. Cum Gratia &amp;amp; Priuilegio Imperiali.ARGENTORATI.
+          <lb/>Excudebant Josiae Rihelii Haeredes. (Verso blanc.)
+          <lb/>In-80°, car. rom. et ital., 12 ff. non ch., 639 ff. ch., titre courant,
+          <lb/>réclames, init. ornées, vignettes.
+          <lb/>Fol. 2a non ch.: ILLUSTRISSI MO PRINCIPI AC DO- MINO,
+          <lb/>DOMINO AUGUSTO! JUNIORI, DUCI BRUNSUIGEN-] SI... —
+          <lb/>Scripsi Argentinae, 3. Cal. Aprilis Anno 1598... JOSEPHUS
+          <lb/>LANGIUS Caesa-remontanus, (6 pages.)
+          <lb/>Fol. 5a non ch.: Préface de l’auteur au lecteur, en haut bande
+          <lb/>d’ornement.
+          <lb/>R 101.233. Prov.: Oberschulrat Dr Berlage, Strasbourg 19/11
+          <lb/>1884; 2 M. Notes mss., au haut du titre: &amp;quot;Sum ex libris Bernardi
+          <lb/>Wulffen. 1677.2
+          <lb/>Oxford: Bibl. Bodleiana.
+          <lb/>1333
+          <lb/>LANGENSTEIN Heinrich. Voir: HENRICUS DE HASSIA
+          <lb/>LANTZ Hans
+          <lb/>[Strasbourg] 1592
+          <lb/>Ein Lustig Glossierendt! Liedt. ! Vff das Bäbst-] lich
+          <lb/>gedicht, von der Statt STRASBVRG, &amp;amp;c. Anfangent, 1 Jr Kir¬
+          <lb/>chen rauber alle, &amp;amp;c. Allen RömischenCortisanen vnnd
+          <lb/>Poetischen Babst- freunden zugefallen gesungen, jhe zwey
+          <lb/>Gesätz vff eines. Durch Hans Lantz von Teutschenhausen.
+          <lb/>Im thon, Wie das Liedt vom Graffen von Serin. (Petite
+          <lb/>gravure sur bois; un cheval.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:58.531282+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5251.tif
+IMAGE WIDTH: 2406
+IMAGE HEIGHT: 3858
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1561
+          <lb/>fol. D. 5P : Hexasticon Sebastiani Brant... (3 dist.) et des vers de diffé¬
+          <lb/>rents auteurs.
+          <lb/>R. 101.465. Prov. : Collection Böcking.
+          <lb/>2e ex. R. 101.466. Prov. : Tregaskis, London, 1/VIII, 1894; 4 M.
+          <lb/>Au milieu du titre : « J. Jodoco de Aufses u. j. Doctori, viro nobili...»
+          <lb/>(le reste illisible).
+          <lb/>Schmidt I, n° 89 : jadis Bibl. de Strasbourg, Incun. No 4927 et Bibl.
+          <lb/>Vadiana S. Gall; Ritter, BM Strasbourg, No 2254; Walter: Sélestat,
+          <lb/>No 2467.
+          <lb/>2501
+          <lb/>WOLF Thomas jun., Responsiva. Voir : WIMPHELING, Adoles¬
+          <lb/>centia. Haguenau, H. Gran, 1508. R101.064; n° 2484.
+          <lb/>WOLFF Henricus, Vom Holz des Lebens... Voir: VILLANOVA
+          <lb/>Arnoldus de, Herliche Medicinische Tractat... Strasbourg,
+          <lb/>B. Jobin, 1576. R 101.054; n° 2409.
+          <lb/>WORMSER Bernard. Voir : Ordonnance (Blasphèmes), Strasbourg,
+          <lb/>1533. R 22 (14); n° 1697.
+          <lb/>(WUERFELBUCH]
+          <lb/>Strasbourg, (Christian Egenolff), 1529
+          <lb/>En haut, trois dés; au-dessous:
+          <lb/>Dem würdt grosz weiszheyt gemessen zu
+          <lb/>Der innerlich erkennen thu
+          <lb/>Sich selb. Hie magsts vergebens lern,
+          <lb/>Den weissagern nit darffest fern
+          <lb/>Nachlauffen, Frag dein nachpurn drumm
+          <lb/>Die nähsten drei, wilts in einr Summ
+          <lb/>Erfarn, Oder würff hie ein schantz
+          <lb/>Mit würfflen drei, Disz Täflin gantz
+          <lb/>Zeygt aller würff, vnd findst dabei
+          <lb/>An welchem blat es gschriben sei.
+          <lb/>Au-dessous : tableau des dés en 3 rangées, avec les chiffres
+          <lb/>romains I-XIIII.
+          <lb/>A la fin : Zu Straszburg. M. D. XXIX. (Verso blanc.)
+          <lb/>In-4°, car. goth., 8 ff. non ch., sign. A-B, réclames, les différentes
+          <lb/>positions des dés de I-XIV, avec 4 vers chaque fois sous le chiffre.
+          <lb/>R. 100.407. Prov. : Bibl. de Mitau par échange. Exemplaire très rare;
+          <lb/>Goedeke 112, 461, 5 cite un exemplaire de Berlin, qui est introuvable.
+          <lb/>Annotations mss.
+          <lb/>Nouvelle édition par Alfred Götze, Strasbourg 1918.
+          <lb/>2502
+          <lb/>WURTZGARTEN der Seele. Voir: SEELENWURTZGARTEN.
+          <lb/>WYDMANN Johann. Voir : WIDMANN Johann.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

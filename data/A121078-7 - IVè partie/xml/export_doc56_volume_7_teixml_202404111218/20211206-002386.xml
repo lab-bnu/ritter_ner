@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:11.554268+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002386.tif
+IMAGE WIDTH: 2478
+IMAGE HEIGHT: 4000
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>OECOLAMPADIUS, Johannes : Quae hoc opusculo continentur.
+          <lb/>Oratio Ioannis Oecolampadii Theologi ad Clerum. Ex
+          <lb/>Plutarcho Chaeronensi, De nota Pythagorica, qua
+          <lb/>hospitem Hirundinem recipi nolebant. Philippo Melanch¬
+          <lb/>thone Brettano interprete. Lysidis epistola ad Hippar¬
+          <lb/>chum elegantiss. à Churrerio latinitate donata. —
+          <lb/>(Haguenau, Th. Anshelm 1517), in-4°.
+          <lb/>Burg, n° 335.
+          <lb/>2786
+          <lb/>OECOLAMPADIUS, Joh. : De Genuina Verborum Domini, Hoc
+          <lb/>est corpus meum, iuxta vetustissimos authores, exposi¬
+          <lb/>tione liber. — (Strasbourg, 1525).
+          <lb/>Voir : Staehelin, Das theologische Lebenswerk Joh.
+          <lb/>Oecolampads, Leipzig, 1939, p. 276 ; « (Oecolampad] wagte es
+          <lb/>nicht sie [die Genuina) einem Basler Drucker anzuvertrauen.
+          <lb/>Vielmehr übergab er sie einem Strassburger Drucker... »l.
+          <lb/>Bibl. St. Guillaume Strasbourg.
+          <lb/>2787
+          <lb/>OECOLAMPADIUS, Joh. Voir : LUTHER (Vom Abendmal),
+          <lb/>n° 2458 (RITTER, Rép. nos 1662-1665).
+          <lb/>OFFENBARUNG. Voir : JOHANNES, Apostolus, n° 2148.
+          <lb/>OFFICIUM sancti Josephi : Officium ex evangelio et probatis
+          <lb/>doctorum Bernardi, Petri de heliaco et Johannis Gerson
+          <lb/>sententijs absque apochrifis collectum de sancto Joseph
+          <lb/>nutritore Christi : cuius festum. xix. die marci celebran¬
+          <lb/>dum instituit... dominus Albertus ex bavariae ducibus.
+          <lb/>Argentinensis Episcopus. — (Strasbourg, Jean Wähinger,
+          <lb/>9 mars 1504), in-40.
+          <lb/>Schmidt, Répertoire bibl. IV, p. 14, n° 5 : Bibl. St. Guillaume,
+          <lb/>Strasbourg.
+          <lb/>2788
+          <lb/>OLINGER, Paul : Genesis oder das erste buch Mose in hübsche
+          <lb/>und christliche Lied gestellt. — Strasbourg, Blaise
+          <lb/>Fabricius (II mars 1555), in-8°.
+          <lb/>Vogeleis, p. 289; Wackernagel 704. (Voir aussi Fabricius;
+          <lb/>1555: Ethicorum legalium liber primus. Ritter, Rép. n° 1669].
+          <lb/>2789
+          <lb/>384
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

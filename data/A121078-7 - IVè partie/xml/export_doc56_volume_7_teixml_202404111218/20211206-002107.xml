@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:04.388233+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002107.tif
+IMAGE WIDTH: 2492
+IMAGE HEIGHT: 3994
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>CATECHISMUS : Christliche unterrichtung, oder Lehrtafel.
+          <lb/>Für die gemeinen Pfarrherrn, Schulmeister, Hauszväter,
+          <lb/>Jugend und Lehrkinder zu Straszburg und auch anders¬
+          <lb/>wo... — Strasbourg, Bernard Jobin 1578, in-8°. (Avec
+          <lb/>des vers de Fischart : Anmahnung zu Christlicher
+          <lb/>Kinderzucht). Nouvelle éd. 1591 par Jobin.
+          <lb/>Hauffen, Fischarts Werke I, p. LXXI; Meusebach, Fischart¬
+          <lb/>studien 228. Ed. dont il n’existe plus aucun ex.
+          <lb/>1305a
+          <lb/>CATECHISMUS : Christliche Unterrichtung oder Lehrtafel...
+          <lb/>(Idem). — (Strasbourg, Christian Müller (Mylius) 1564),
+          <lb/>in-80.
+          <lb/>Wackernagel 860.
+          <lb/>1306
+          <lb/>CATECHISMUS : (Idem). — Strasbourg, Antoine Bertram
+          <lb/>1585, in-80.
+          <lb/>Wackernagel, Kirchenlied vol. I, p. 546.
+          <lb/>1307
+          <lb/>CATECHISMUS : Etliche Christliche Frag und Antwort,
+          <lb/>gestellt zu einem eingang in den Catechismus oder
+          <lb/>Kinderlehr... — Strasbourg, Christian Müller (Mylius)
+          <lb/>1565, in-80.
+          <lb/>Vogeleis, p. 306.
+          <lb/>1308
+          <lb/>CATECHISMUS. Voir aussi: BUCER, LUTHER ainsi que
+          <lb/>RITTER, Rép. nos 466-468.
+          <lb/>CATO : Cato in latin, durch Sebastianus Brant getützschet. —
+          <lb/>(Strasbourg, Mathias Hupfuff 1501), in-4°.
+          <lb/>Schmidt V, n° 16; Weller, Rep. 184. — BN Munich. 1309
+          <lb/>CATo : [Texte latin et traduction allemande). — (Strasbourg,
+          <lb/>Mathias Hupfuff 1504), in-4°.
+          <lb/>Schmidt V, n° 31; Weller, 275. — B U Fribourg-en-Br. (titre
+          <lb/>manque).
+          <lb/>1310
+          <lb/>105
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

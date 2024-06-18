@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:44.561432+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078070.tif
+IMAGE WIDTH: 2336
+IMAGE HEIGHT: 3844
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>956
+          <lb/>Lectoribus S. (6 pp.)
+          <lb/>Fol. a 2a: Praefatio (Feuille de lierre.) Vincen! tius obsopœus,
+          <lb/>mo Mart. Lutheri, cum pro concione legeret Exo-! dum, dictus in Cap.
+          <lb/>Au verso du titre: Quatenus Moses à Christianis accipi debeat, Ser
+          <lb/>XIX. &amp;amp; XX. (Fol. e 2a-9 2b.) Epistola eiusdem adversus Bucerum, Sa¬
+          <lb/>cramen-I tarium errorem novum refellens. (Fol. 9 3b—9 5b.) Titre: Mar¬
+          <lb/>tinus! Lutherus, Iohan! ni N. (— Secer) typographo! Gratiam &amp;amp;̀ Pacem.
+          <lb/>de Eucharistia, quae in Psalterio, sub no mine eius germanice translato,
+          <lb/>Oratio Iohan. Bugenhagii Pomerani, quod ipsius non! sit opinio illa
+          <lb/>legitur. (Fol. 9 6a-h 4a.)
+          <lb/>Querela Fidei, Autore Vincentio Obsopœo. (Fol, h 4a—k 3a.)
+          <lb/>R102.184. Prov.: Bibl. Heitz, Strasbourg 1871.
+          <lb/>1438
+          <lb/>LUTHER Martin
+          <lb/>Strasbourg, J. Herwagen 1528
+          <lb/>(Feuille de lierre.) ENARRATIONES] QVAS POSTILLAS VOCANT
+          <lb/>IN LECTIONES ILLAS quae ex Evangelicis historiis, Aposto¬
+          <lb/>lorum scriptis, atque l nonnunquam ex aliis quoque S. Scrip¬
+          <lb/>turae libris! desumptae, per universum annum, tam in
+          <lb/>diebus Dominicis, quam festis me-! moriae Divorum sacris
+          <lb/>ad! Missam recitari so-] litae sunt. PER MARTINVM Ly¬
+          <lb/>THERVM.Index item locorum insignium, ac Lectionum
+          <lb/>Dominicalium, per ordinem digestus.
+          <lb/>ARGENTORATI APVD IOHANNEM! HERVAGIVM, AN. M. D.
+          <lb/>XXVIII. I MENSE IANVARIO. (Verso blanc.)
+          <lb/>A la fin: ARGENTORATI APUD IOHANNEM HERVAGIVM
+          <lb/>MENSE! IANVARIO. ANNO! M. D. XXVIII, (Verso blanc.)
+          <lb/>In-fol., car, rom., 10 ff. non ch. à 2 col. (Table), 453 ff. ch., titre
+          <lb/>courant, récl., notes marg., init. à fig.
+          <lb/>Fol. 2a non ch.: Bande d’ornement. Praefatio in! Postillas, (Pré¬
+          <lb/>face d’une page et demie.)
+          <lb/>*R10.282. Prov. : C. H. Beck, Nœrdlingen 13/X11883; 8M.
+          <lb/>Notes mss.
+          <lb/>Kelchner Ernest: Die Luther-Drucke der Stadtbibliothek zu Frank¬
+          <lb/>furt a. M. 1518-1546, Francfort s. M. 1883 p. 25.
+          <lb/>1439
+          <lb/>LUTHER Martin
+          <lb/>Haguenau, J. Secer 1529
+          <lb/>D. MARTINI LVTHERI THEO) logi Catechismus, lectu
+          <lb/>dig nissimus, latinus factus per Vincentium Obsopœum.
+          <lb/>Huic adiecti sunt alii quoque gemi- ni Catechismi, Iohan¬
+          <lb/>nis Brentii Ecclesiastae Hallensis, eo- dem interprete.
+          <lb/>Haganoae, An. M. D. XXIX. (Verso blanc.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

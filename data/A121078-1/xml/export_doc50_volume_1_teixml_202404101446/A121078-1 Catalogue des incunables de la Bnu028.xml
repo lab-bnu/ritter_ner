@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:36.795503+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu028.tif
+IMAGE WIDTH: 2382
+IMAGE HEIGHT: 3840
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>A ces quatre groupes, Proctor avait encore ajouté ceux
+          <lb/>de l’imprimeur du Jordanus de Quedlinbourg, de l’impri¬
+          <lb/>meur des Casus breves decretalium et de l’imprimeur qui
+          <lb/>se servait d’un R bizarre; mais ce dernier n’est autre
+          <lb/>qu’Adolphe Rusch, comme il a été dit plus haut, tandis que
+          <lb/>l’imprimeur des deux autres groupes a été reconnu comme
+          <lb/>étant l’imprimeur Georges Husner, dont nous avons déjà
+          <lb/>parlé également.
+          <lb/>Un mot encore pour répondre à une observation que
+          <lb/>mon collègue, Monsieur Kolb, le savant et distingué biblio¬
+          <lb/>thécaire-en-chef de la Bibliothèque Universitaire de
+          <lb/>Nancy, a faite au sujet du Répertoire dans le compte
+          <lb/>rendu qu’il a publié dans la Revue des Bibliothèques. Mon¬
+          <lb/>sieur Kolb dit qu’il aurait désiré que j’eusse inséré aussi
+          <lb/>dans le Répertoire les livres qui ne se trouvent pas à la
+          <lb/>Bibliothèque Nationale de Strasbourg, vu qu’il n’y en a
+          <lb/>que très peu que la Bibliothèque ne possède pas. J’avoue
+          <lb/>que j’étais aussi de l’avis de Monsieur Kolb quand j’ai
+          <lb/>commencé le travail en 1930. Mais plus mon travail avan¬
+          <lb/>cait, plus je constatais que je m’étais trompé et que la
+          <lb/>Bibliothèque Nationale ne renferme probablement pas
+          <lb/>même la moitié des livres alsaciens des 15e et 16e siècles, de
+          <lb/>sorte que je résolus, quoi qu’à contre cœur, de m’en tenir
+          <lb/>aux deux mille trois cents ouvrages environ que j’avais
+          <lb/>trouvés à la Bibliothèque, quitte de faire le reste plus tard,
+          <lb/>si le temps me le permettait. Comme le manuscrit des
+          <lb/>livres anciens de la Bibliothèque est terminé depuis environ
+          <lb/>trois années, j’ai pu me mettre depuis ce temps à la
+          <lb/>recherche des livres qui ne se trouvent pas à la Biblio¬
+          <lb/>thèque et j’espère en pouvoir publier les résultats comme
+          <lb/>seconde partie du Répertoire, dès que l’impression de la
+          <lb/>première partie sera terminée, qui grâce aux subventions
+          <lb/>du Conseil Général du Bas-Rhin et de la Caisse de recher¬
+          <lb/>ches scientifiques du Ministère de l’Instruction Publique
+          <lb/>avance plus rapidement ces derniers temps.
+          <lb/>Les incunables qui ne se trouvent pas à la Bibliothè¬
+          <lb/>que Nationale paraîtront comme second volume en fasci¬
+          <lb/>XXVIII
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

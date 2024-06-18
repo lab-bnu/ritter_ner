@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:08.330519+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3203.tif
+IMAGE WIDTH: 2324
+IMAGE HEIGHT: 3852
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>GEILER Johannes
+          <lb/>Strassburg, M. Schürer 1512
+          <lb/>Nauicula Penitentie Per excellentissimum sacre pa¬
+          <lb/>gine doctorem Jo annem Keyserspergium Argentinensium
+          <lb/>Concionatorem predicata. A Ja-cobo Otthero Collecta.
+          <lb/>Am Schluss: Sermones quadragesimales fructuosissimi
+          <lb/>de Nauicula peni tentie... sunt impres- si Argentorati:
+          <lb/>Jn Aedibus Mathie Schurerij Mense Maio. ANo. M. D.
+          <lb/>xii. Tempus Obserua.
+          <lb/>40, Got., 168 unn. Bll., Sign. A-Z, Aa-Bb, Kopft., Marg., Init. A.
+          <lb/>Auf der Rücks, des Titelbl.: Exhortatorium Carmen Vrbani
+          <lb/>Rieger Philirani ad lectores, (12 Dist.)
+          <lb/>Bl. 2a: Venerabili viro domino Georgio Reysch, Patri
+          <lb/>ac Priori domus Carthusiane prope Friburgen.prouincie
+          <lb/>Rhenane visitatori... Jacobus ottherus... — Ex Friburgo.
+          <lb/>xvij. Kalendas Decembris. Anno. M. D.X.
+          <lb/>R101357. Prov.: Butsch Sohn, Augsburg 12. X. 1883; 8M.
+          <lb/>Auf dem Titelbl.: Carth. Buxheim.
+          <lb/>2. Ex. R 101.3581. Geschenk der Stadt Heilbronn.
+          <lb/>3. Ex. 101.360. Geschenk von Albert J. Siewert, Pfarrer in Müll¬
+          <lb/>heim (Breisgau) 1871.
+          <lb/>Bibl. des Priesterseminars, Strassburg, Inkun. A 131, 010, C21.
+          <lb/>GK: SB Berlin, UB Bonn, Göttingen, Münster. Proctor II Sectio I
+          <lb/>Nr. 10196: London Brit. Museum; Schmidt VIII Nr. 73 : Stadtbibl.
+          <lb/>Strassburg; Walter : Schlettstadt Nr. 1376 u. 1377; Catalogue de la
+          <lb/>Bibliothèque Ch. Louis Fière, Auktion Paris 14-17. Juni 1937. 961
+          <lb/>647
+          <lb/>GEILER Johannes
+          <lb/>Strassburg, Joh. Grüninger 1512
+          <lb/>Das schiff des Heils! Auff das aller kürzest hie vszge¬
+          <lb/>leget Nach der figur die doctor Johannes von Eck gemacht
+          <lb/>hat zû Ingolt stat. bewegt ausz den predigen des wirdigen
+          <lb/>Herren doctor Johannes gei- ler von Keisersperg etwan
+          <lb/>Predicant zû Straszburg in dem Elsas. M. D. xii.
+          <lb/>Holeschn.: Ein Apfelbaum mitten auf einem Schiff, um den Stamm
+          <lb/>eine Schlange; unter dem Baum Adam u. Eva, Adam hält eine Hacke
+          <lb/>auf der rechten Schulter, Eva spinnend hält ein Kleines Kind auf ihren
+          <lb/>Knien; am Steuer sitet ein Mann, neben ihm eine an einen Baum an¬
+          <lb/>gelehnte Leiter; im Hintergrunde ein Schloss. Der Holeschn. Rehrt auf
+          <lb/>Bl. 2b Moieder. Abb. im Katal. LXXXI von Olschki S. 91. (Rücks.
+          <lb/>leer.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

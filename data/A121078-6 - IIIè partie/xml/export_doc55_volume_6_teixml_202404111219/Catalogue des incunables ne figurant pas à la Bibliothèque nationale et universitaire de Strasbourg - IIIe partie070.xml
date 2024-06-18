@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:06.195535+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie070.tif
+IMAGE WIDTH: 2482
+IMAGE HEIGHT: 3932
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>LOCHMEYER, Michael : Sermones de sanctis. A la suite
+          <lb/>de: WANN, Paulus: Sermones de tempore, n° 701. 430
+          <lb/>LOMBARDICA Historia. Voir: JACOBUS de Voragine n° 360.
+          <lb/>LUCIANUS, Samosatensis : Asinus aureus ex Poggii versione
+          <lb/>latina, germanice translatus a Nicolao de Wyle. —
+          <lb/>(Strasbourg (?), Henri Eggestein (?) vers 1475), in-4°.
+          <lb/>Reichling, Appendices 603 II, p. 63 : « Strassburg, Eggestein
+          <lb/>um 1475»; Polain 2526.
+          <lb/>431
+          <lb/>LUCIANUS Samosatensis : Ein hübsch history von lucius
+          <lb/>apuleius in gestalt eines esels verwandelt und verkerd...
+          <lb/>— (Strasbourg, Barth. Kistler (?)1 1499, in-4°.
+          <lb/>Hain 1320 (Jean Grüninger); Schmidt IV, p. 4, n° 6 et
+          <lb/>Schreiber (Barth. Kistler).
+          <lb/>432
+          <lb/>LUCIDARIUS : Lucidarius Deutsch. — (Strasbourg, Jean Prüss
+          <lb/>vers 1482, in-4°.
+          <lb/>Madsen 2536, Schorbach : Lucidarius, p. 63, n° 3; Heitz¬
+          <lb/>Ritter n° 293; B M Colmar, Copenhague, etc.
+          <lb/>433
+          <lb/>LUCIDARIUS. (Idem). — (Strasbourg, Jean Schott, vers 1481),
+          <lb/>in-40.
+          <lb/>Copinger III, 3041; Kristeller 80; Schmidt II, no 18,
+          <lb/>Voulliéme : Berlin 2245; Schorbach n° 1 ; Heitz-Ritter n° 288.
+          <lb/>434
+          <lb/>LUCIDARIUS : Meister Lucidarius. — (Strasbourg, Mathias
+          <lb/>Hupfuff 1499), in-4°.
+          <lb/>Hain 8814, Schmidt V, n° 8, Schorbach, Lucidarius n° 27.
+          <lb/>435
+          <lb/>LUCIDARIUS. (Idem). — (Strasbourg, Martin Schott vers
+          <lb/>1483), in-fol.
+          <lb/>Hain 8807; Schorbach, Lucidarius n° 4 ; Heitz-Ritter n° 295 :
+          <lb/>Budapest.
+          <lb/>436
+          <lb/>68
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

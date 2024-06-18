@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:10.687567+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3294.tif
+IMAGE WIDTH: 2348
+IMAGE HEIGHT: 3856
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>736
+          <lb/>Am Schluss: ELECIDION:ad... Philippum Christopho¬
+          <lb/>rum Zornium... — M. Sebastianus Gramannus Romhil¬
+          <lb/>densis Francus, (17 Dist.)
+          <lb/>R10156421. Prov.: Hiersemann, Leipaig 25. I. 1935. 1087
+          <lb/>HAWENREUTER Johann Ludwig
+          <lb/>Strassburg, A. Bertram 1593
+          <lb/>FAVENTE ALTISSIMO Themata Medica Physica: DE
+          <lb/>FACVLTATIBVS SIVE POTENTHS NATVRA- LIBVS, PASSIM EX
+          <lb/>TRIBVS GALENI, quos de ijs scripsit, libris congesta: &amp;amp; in
+          <lb/>quatuor genera causarum peboòwxõc xà ovorTtx dige¬
+          <lb/>sta: IN SCHOLIS MEDICORVM ET PHILOSOPHORVM ILLV¬
+          <lb/>STRISSIMAE Academiae Argentoratensis: Sub praesidio
+          <lb/>D. IOANNIS LVDOVICI HAWENREV- TERI, DOCTORIS MEDICI
+          <lb/>PHILOSOPHI, pro tempore spectabilis Academiae Decani,
+          <lb/>Praecep- toris sui omni obseruantiae &amp;amp; gratitu- dinis
+          <lb/>genere colendi discutienda, &amp;amp; pro virili defendenda pro¬
+          <lb/>ponit M. IOANNES BVRGOWERVS Scaphusianus. (Vign.)
+          <lb/>ARGENTORATI, Excudebat Antonius Bertramus. CIO
+          <lb/>ID XCIII. (Rücks, leer.)
+          <lb/>40, Antig, u. Kursiv, 18 unn. Bll., wovon das letste leer, Sion.
+          <lb/>A-D. Kust., Init., Titelumrahmung, Schlussvign.
+          <lb/>Bi. A 2a: Viris... Scaphusianae Reipublicae Ecclesiae
+          <lb/>&amp;amp;! Scholae Antistitibus dignissimis... — Datum Argento¬
+          <lb/>rati 13. Cal. Decemb. Anno aerae Christianae 1593.
+          <lb/>Ioannes Burgouuer, (Widmung von 4 S.)
+          <lb/>R101.56411. Prov, : Hiersemann, Leipzig 25. I. 1935; 4M.
+          <lb/>1088
+          <lb/>HAWENREUTER Johann Ludwig
+          <lb/>Strassburg, A. Bertram 1593
+          <lb/>ARISTOTELIS PHI-LOSOPHORVM OMNIVM] PRINCIPIS DE
+          <lb/>IVVENTVTE ET SENE-ctute: de Vita et Morte; &amp;amp; de Re¬
+          <lb/>spiratione libelli in Theses resoluti:Quas! IN LAVDA¬
+          <lb/>TISSIMA ARGEN- toratensium Academia publici exercitij
+          <lb/>causa à se con-scriptas, &amp;amp; ad discutiendum propositas
+          <lb/>Sub praesidio! D. Io. LVDOVICI HAWENREVTERI! Medicinae
+          <lb/>&amp;amp; Philosophiae Doctoris, pro tem- pore Academiae Decani
+          <lb/>ASSISTENTE DEO VNO TRINOQVE Respondendo tueri cona¬
+          <lb/>bitur M. IOANNES BVRGOWERVS SCAPHVSIANVS! Mense
+          <lb/>Septembri. (Vign.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

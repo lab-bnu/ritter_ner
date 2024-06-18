@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:04.337163+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002104.tif
+IMAGE WIDTH: 2516
+IMAGE HEIGHT: 3950
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>(Au recto du f. suivant : portrait du pape Paul IVl.
+          <lb/>Bibl. S. Guillaume Strasbourg.
+          <lb/>1291
+          <lb/>CARBEN, Victor von : ... Tractat von der edlen reinen
+          <lb/>unbefleckten junckfrawschafft Marie... Durch mich
+          <lb/>Victor von Carben, vor zeyten ein Jud und Rabbi der
+          <lb/>Jüdischen geschrifft und nun nach Christenlicher ordnung
+          <lb/>ein armer unwürdiger Priester. — (Strasbourg, Mathias
+          <lb/>Schürer 1519), in-4°.
+          <lb/>Schmidt VIII, n° 253 : B M Zurich; Schottenloher 39.897;
+          <lb/>Lehmann : Bucers Karsthans (Neudrucke des XVI. u. XVII.
+          <lb/>Jhd., fasc. 282-2841 p. XIII.
+          <lb/>1292
+          <lb/>CARGIUS, Stephanus : Isaac immolandus carmine descriptus
+          <lb/>et in amplissime Reipub. Argentoratensis Academia
+          <lb/>publice recitatus... — Strasbourg, Nicolas Wyriot 1580,
+          <lb/>in-40.
+          <lb/>BN Paris : Yc. 1920.
+          <lb/>1293
+          <lb/>CARION, Johannes &amp;amp; Mag. SALOMON : Practica unnd pro¬
+          <lb/>gnostication für die Jahre bis 1560. — Strasbourg,
+          <lb/>Jacques Cammerlander 1543, in-4°.
+          <lb/>Zinner 1817.
+          <lb/>1294
+          <lb/>CARION, Johannes &amp;amp; Mag. SALOMON : (Idem). — Strasbourg,
+          <lb/>Jacques Cammerlander 1545, in-4°.
+          <lb/>Zinner, n° 1872.
+          <lb/>1295
+          <lb/>CARION, Johannes &amp;amp; Mag. SALOMON : (Idem). — Strasbourg,
+          <lb/>Jacques Cammerlander 1544, in-4°. [Ritter, Rép, n° 447:
+          <lb/>éd. Cammerlander 1545 et n° 448 : W. Rihel 1549).
+          <lb/>Zinner 1848.
+          <lb/>1296
+          <lb/>CARLETTI (Angelus de Clavasio) : Summa angelica de casibus
+          <lb/>conscientiae. — Haguenau, H. Gran pour J. Rynmann
+          <lb/>1505, in-fol.
+          <lb/>102
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:51.187785+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078293.tif
+IMAGE WIDTH: 2312
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>PELBARTUS DE THEMESWAR
+          <lb/>Haguenau, H. Gran 1515
+          <lb/>Pomerium sermonum de Sanctis Hyemales et Esti¬
+          <lb/>valesediti per Fratrem Pel bartum de Themes- war
+          <lb/>divi Ordi nis sancti Franci sci. (Verso blanc.)
+          <lb/>A la fin de la 2ème partie, après le Sermon 124 : Sermones...
+          <lb/>impressi ac di-ligenter revisi per industrium Henricum
+          <lb/>Gran in imperia li oppido Hagenaw; expensis ac sumpti¬
+          <lb/>bus providi vi! ri archibibliopole Joannis Rynman: Finiunt
+          <lb/>felici- ter Anno ab incarnatione domini Millesimo quin¬
+          <lb/>gente-simo quindecimo: mense Decembri.
+          <lb/>In-fol., car. goth., 2 col., 316 ff. non ch., sign. a–2, 4Z, A4–
+          <lb/>CC, tître courant, init. ornées, titre encadré. (H &amp;amp; B Planche LXIII
+          <lb/>n° 1.)
+          <lb/>Fol. 2a: Tabula partis hyemalis de Sanctis (8 pp.), puis nouveau
+          <lb/>titre: Pomerium sermonum de Sanctis! Hyemalium Estivalium. Au verso:
+          <lb/>Prologus.
+          <lb/>Après l’explicit: Historia sancti Joannis elemosynarii. (3 pp.), sui¬
+          <lb/>vent 1 f. blanc, 5 ff. de table (Partis Estivalis) et 1 f. blanc.
+          <lb/>R10.343 (1). Prov.: Don de la Bibl. Rég. de Dusseldorf 1871.
+          <lb/>Notes mss., au milieu du titre: &amp;quot;Sum f. Antony Staleny Arweilerensis.&amp;quot;;
+          <lb/>au-dessous :,Sum ex libris Hermanni Wimborn.&amp;quot;; en bas:,Ex libris
+          <lb/>Matthiae Reidt Lintzensis 1709... obiit 1720 28 Maiï. Nunc vero ex Libe¬
+          <lb/>rali donatione &amp;amp; Amicitiae meae Frozeim Haeredis prioris inservio Mat¬
+          <lb/>thiae Reidt Lintzensi Nepoti prioris 1720. 20 Junii.&amp;quot;
+          <lb/>1843
+          <lb/>1179
+          <lb/>PELBARTUS DE THEMESWAR
+          <lb/>Haguenau, H. Gran 1516
+          <lb/>Sermones de sanctis perutiles a quodam fra¬tre
+          <lb/>hungaro ordinis mi-norum de observantia com- portati
+          <lb/>bige salutis in- titulati feliciter incipiunt. (Verso blanc.)
+          <lb/>A la fin: Sermones... impensis quoque sumptibus
+          <lb/>providi viri Joannis Rynman de Orin- gaw: per indu¬
+          <lb/>strium Henricum Gran in imperiali oppido Hagenaw
+          <lb/>inibi incolam! diligentissime impressi ac emendati Finiunt
+          <lb/>feliciter Anno a nativitate domini Mil- lesimo, quingente¬
+          <lb/>simo decimo sexto invigilia Pentecostes.
+          <lb/>In-4°, car. goth., 2 col., 112 sermons, 308 ff. non ch., sign. A–Z,
+          <lb/>Aa-Pp, titre courant, init, ornée V; titre encadré. (H a B Planche
+          <lb/>LXIV n° 2.)
+          <lb/>R 101423. Prov. : Bibl. Ch. Schmidt avec son ex-libris et son
+          <lb/>autographe avril 1839 (Paris).
+          <lb/>1844
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

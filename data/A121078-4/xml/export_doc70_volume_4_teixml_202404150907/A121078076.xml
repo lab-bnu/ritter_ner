@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:44.843707+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078076.tif
+IMAGE WIDTH: 2324
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>962
+          <lb/>EX OFFICINA CRATONIS! Cratomiliani Argentoratensis,
+          <lb/>Mense Septembri. Anno. M. D. XL.
+          <lb/>In-8°, car, rom., 636 pp., titre courant, réclames, quelques notes
+          <lb/>marg.; init. au commencement des psaumes.
+          <lb/>Fol. 2a: Principi Georgio... Vitus Theodorus Norigensis Salutem
+          <lb/>dicit. — Datae Noribergae ex Parochia Sebaldina! Idib. Martiis, Anno!
+          <lb/>M. D. XL.
+          <lb/>R100.843. Prov.: Don de la BU de Kœnigsberg 1872. Rel. anc.,
+          <lb/>au dos à l’encre Anno 1540.
+          <lb/>1448
+          <lb/>LUTHER Martin
+          <lb/>Strasbourg, J. Pruss fils 1541
+          <lb/>Ein Predig, D. Marti. Luther,Das man Kinder zur
+          <lb/>Schulen hal ten solle.Wittemberg. M. D. XLI.
+          <lb/>A la fin: Getruckt z6 Straszburg bey! Hans Preüssen.
+          <lb/>In-4°, car. goth., 27 ff. non ch., sign. A-G, réclames, init, goth.,
+          <lb/>titre encadré, en haut : deux empereurs, tenant en main le sceptre; bor¬
+          <lb/>dures latérales, colonnes; en bas: l’écu de Strasbourg tenu par deux
+          <lb/>lions. Encadrement employé assez souvent par Pruss, p. ex, dans Gueb¬
+          <lb/>wiler : Panegiris Carolina 152i, Suetonius: De vita duodecim Caesarum
+          <lb/>1520.
+          <lb/>Le sermon a été imprimé la même année à Wittemberg par Nickel
+          <lb/>Schirlentz. BN de Strasbourg E 100,742.
+          <lb/>R100.846. Prov.: Bibl. Prof. Baum 20/11 1879.
+          <lb/>Schmidt III p. 42 n° 50: Bibl. St. Guillaume, Strasbourg. 1449
+          <lb/>LUTHER Martin: Eyn schöne Vorred. Voir: LINCK Wenceslaus;
+          <lb/>Das alte Testament. Annotation. Strasbourg, B. Beck 1543.
+          <lb/>R 101152.
+          <lb/>LUTHER Martin
+          <lb/>Strasbourg, W. Kœpfel d544
+          <lb/>PostillOder Auszlegun gen der Evange! lien und
+          <lb/>Epistelen, nach der zeyt, und der Heyligen fest, durchs,
+          <lb/>gantz jar, gepredigt durch D. M. Luther.
+          <lb/>(LJ Das Erste theyl vom Er- sten Sontag nach Epy¬
+          <lb/>phanie. Mit Eyn er Christlichen Vorreden, und Register.
+          <lb/>Truckt zû Straszburg bey Wolff Köphl. Anno. M. D.
+          <lb/>XLIHII.
+          <lb/>A la fin dé cette première partie: Ende der Postillen über
+          <lb/>die Epistelen unndEvangelien vom ersten Sontag im
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

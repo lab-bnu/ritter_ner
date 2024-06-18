@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:50.690951+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5052.tif
+IMAGE WIDTH: 2384
+IMAGE HEIGHT: 3858
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1360
+          <lb/>fol. a 7a : Iacobi Fabricii Chem-1] nicensis (4 dist.). Suivi d’un f. blanc.
+          <lb/>R. 101.845 (1). Prov. : BN Munich, 11/VII, 1879; 1 M. 40.
+          <lb/>R. 101.845 (2) contient la traduction française des Tabulae, datée de la
+          <lb/>même année.
+          <lb/>2e ex. R. 101.846.
+          <lb/>Prov. : Bibl. Baum, 1879; sans la traduction française. 2140
+          <lb/>SLEIDANUS Johannes
+          <lb/>Strasbourg, Josias Rihel, 1559
+          <lb/>Joannis! Sleidani!! Warhafftige vnd Ei!! gentliche besch¬
+          <lb/>reibung, was sich in Geistlichen! vnd Weltlichen Sachen...
+          <lb/>verlauffen... Même titre et même marque que dans l’édition
+          <lb/>de 1558.
+          <lb/>Au-dessous de la marque : Getruckt zu Straszburg im jar
+          <lb/>1559.
+          <lb/>Au verso du dernier f. : Getruckt zu Strasz-] burg durch
+          <lb/>Josiam Rihel.Anno M. D. LIX.
+          <lb/>In-fol., car. goth., 6 ff. non ch., CCCLXXXIV ff. ch., 5 ff. pon ch.
+          <lb/>à 2 col. (table et explicit.), titre courant, réclames, notes marg., init.
+          <lb/>goth., titre rouge et noir.
+          <lb/>Préfaces comme dans l’édition de 1558, dont le livre est une réimpres¬
+          <lb/>sion.
+          <lb/>R. 10.477. Prov. : Bibliothèque Menzel, Stuttgart, 19/III, 1874.
+          <lb/>2141
+          <lb/>SLEIDANUS Johannes
+          <lb/>Strasbourg, Josias Rihel, 1559
+          <lb/>Ioan. Sleidani, De statu Religionis &amp;amp; Reipublicae,
+          <lb/>Carolo Quinto, Caesare, Com-mentariorum libri XXVI.
+          <lb/>Quibus praeter Accuratiorem totius operis recognitio-nem
+          <lb/>etiam nunc primum uigesimus sextus liber accessit, quem
+          <lb/>author ipse! post primam aeditionem conscribere cœpit,
+          <lb/>&amp;amp; usque ad profectionem Caesa- ris in Hispaniam perduxit.
+          <lb/>Vnà cum! Apologia ab ipso Avthore conscripta, et Indice
+          <lb/>locupletissimo.
+          <lb/>Marque typ. de Josias Rihel. (H. &amp;amp; B. Planche XXX, No 6.)
+          <lb/>Sub calcem adiectae sunt tabulae, qvibus singu- lari
+          <lb/>industria ac compendio Religionis Reipublicaeque negotium
+          <lb/>uniuersum, 1 ceu in pictura, spectandum exhibetur.
+          <lb/>A la fin : Argentorati! Excudebat Iosias Rihelius Anno
+          <lb/>M. D. LIX.
+          <lb/>In-fol., car. rom., 6 ff. non ch. dont le dernier blanc, 342 ff. ch., 47 ff.
+          <lb/>non ch. à 4 col. (Tabulae) et 2 ff. blancs, titre courant, réclames, notes
+          <lb/>marg., init. ornées.
+          <lb/>Au verso du titre : Author Lectori S. D. (avec initiale d’attente A.).
+          <lb/>fol. a 2a non ch. : Illustrissimo Principi Augusto, Electo !] ri, Saxoniae
+          <lb/>Duci... Ioannes Sleidanus S. P. D... — Dat. decimo Cal. April. M. D. LV.
+          <lb/>(4 pp. en car. ital.).
+          <lb/>fol. a 4a non ch. : Ioannis Sleidani Apologia... (2 pp. et demie).
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

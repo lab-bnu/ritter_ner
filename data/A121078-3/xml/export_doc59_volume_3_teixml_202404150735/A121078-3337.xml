@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:11.818174+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3337.tif
+IMAGE WIDTH: 2374
+IMAGE HEIGHT: 3856
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>HERR Michael: Der veldtbaw. Siehe: BASSUS Cassianus. Strass¬
+          <lb/>burg 1545, 1551, 1561. Nr. 160, 161, 162.
+          <lb/>HERR Michael
+          <lb/>Strassburo, B. Beck 1546
+          <lb/>Gründtlicher vn- derricht, warhaffte vnd eygent
+          <lb/>liche beschreibung, wunderbarlicher seltza mer art, natur,
+          <lb/>krafft vnd eygenschafft aller! vierfüssigen thier, wild vnd
+          <lb/>zam, so auff vnd in der erden oder wassern wonen,
+          <lb/>Auch deren so vnder die würm gezält werden, sampt
+          <lb/>jrer (so uil müglich gwesen) gantz artlicher Contrafactur
+          <lb/>vnd leblicher abmalung. Ausz den vralten erkündi- gern
+          <lb/>der natur, als Aristotele, Plinio, Solino, etc. mitt höchstem
+          <lb/>fleiss zûsamen getragen, vnd auffs kürtzest in Teütsche
+          <lb/>sprach verfasset, durch den hochgelerten Mi chael Herr,
+          <lb/>der artzney Doctor.
+          <lb/>Mit klarem bericht, was von eim yeden thier in sun¬
+          <lb/>derheit zur artzney nütz, oder zû anderm! gebrauch der
+          <lb/>menschen dienstlich sey, alles ausz obgemelten Lerern
+          <lb/>gezogen. M. D. XLVI. (Holeschn. Siche Abb.)
+          <lb/>779
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

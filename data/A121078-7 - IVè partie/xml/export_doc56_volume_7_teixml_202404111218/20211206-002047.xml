@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:02.894051+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002047.tif
+IMAGE WIDTH: 2508
+IMAGE HEIGHT: 3986
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>ungern... (grav.). Ein ander new Lied, ausz der Römer
+          <lb/>History gezogen... (Titus Manlius Torquatus). — T.B. S
+          <lb/>1— Th. Berger, Strasbourg vers 1571), in-8°.
+          <lb/>Heitz p. 75.
+          <lb/>978
+          <lb/>BERICHT : Ein Christlicher Bericht von dem Brot und weyn
+          <lb/>desz Herren. — (Strasburg) 1526, in-4°.
+          <lb/>Kuczynski 209; Weller 3739.
+          <lb/>979
+          <lb/>BERICHT : der neüwen zeytung... so D. Hans Fabri, jüngst
+          <lb/>ufftriben, unnd Wolffgang Capitons brieff gefälschet
+          <lb/>hat... — Strasbourg 1526, in-4°.
+          <lb/>Kuczyński 381.
+          <lb/>980
+          <lb/>BERICHT: Gründlicher Bericht wie man alle Wein Teutscher
+          <lb/>und Welscher landen vor allen zufällen bewaren, die
+          <lb/>bresthaften widerbringen, Medt, Bier, Essig.., machen
+          <lb/>sol. — Strasbourg 1538, in-4°.
+          <lb/>Graesse IV, p. 9.
+          <lb/>981
+          <lb/>BERICHT: Ein Richtiger und kurtzer Bericht über den Wunder¬
+          <lb/>sternen oder besonderen Cometen, so nun manche
+          <lb/>Monatszeit disz 72. und 73. Jar zu sonderem Warnungs¬
+          <lb/>zeichen dieser letzten Zeit ist erschienen... — Strasbourg,
+          <lb/>Bernard Jobin 1573, in-8°.
+          <lb/>Hauffen, Adolf : Fischartstudien IV, p. 35, Anm. 9.
+          <lb/>982
+          <lb/>BERINGER, Jac. Voir : Testament (das Neue).
+          <lb/>BERNARDINUS de Bustis. Voir: BUSTiS, Bernardinus de.
+          <lb/>BERNARDUS, Claravallensis : De planctu Mariae Virginis. —
+          <lb/>(Strasbourg, Jean Knobloch 1508), in-4°.
+          <lb/>Panzer 6, 42, 129; Schmidt VII, n° 44.
+          <lb/>983
+          <lb/>BERNARDUS, Claravallensis: Ein christenliche und nutzliche
+          <lb/>45
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

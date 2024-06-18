@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:11.926461+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002401.tif
+IMAGE WIDTH: 2516
+IMAGE HEIGHT: 3964
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>PELLICANUS, Conradus : In Psalmos Paraphrasis. —
+          <lb/>Strasbourg, Wolfgang Koepfel 1527, in-8°.
+          <lb/>Ritter, Grand Sém. Strasbourg, no 387a.
+          <lb/>2865
+          <lb/>PELLICANUS, Conradus : Psalterium Davidis (Traduction
+          <lb/>latine des psaumes avec des annotations). — Strasbourg
+          <lb/>1527, in-80.
+          <lb/>Schottenloher 17.066; Riederer, J. B. : Nachrichten zur
+          <lb/>Kirchen-Gelehrten-und Büchergeschichte 4 (1768), p. 263/64.
+          <lb/>2866
+          <lb/>PERAUDI, Raimundus: Literae indulgentiarum. — Strasbourg,
+          <lb/>Jean Grüninger s. d., in-fol.
+          <lb/>Proctor 508.
+          <lb/>2867
+          <lb/>PERGER, Bernhardus : Grammatica nova Ab innumeris fere
+          <lb/>mendis quibus hactenus impressorum incuria extitit
+          <lb/>infecta... emendata... — (Strasbourg, Martin Flach
+          <lb/>(14.II.1 1501), in-40.
+          <lb/>Panzer 6, 27; Schmidt VI, p. 20, n° 6; Schöpflin, Vind.
+          <lb/>typogr. 103. — Bibl, cantonale Aarau et Jadis Bibl. de
+          <lb/>Strasbourg Incun., n° 2243.
+          <lb/>2868
+          <lb/>PERGER, Bernhardus : Grammatica nova. — (Strasbourg,
+          <lb/>Guillaume Schaffner (12.III.1 1510), in-40.
+          <lb/>Schmidt IV, p. 11, no 3 : Jadis Bibl. de Strasbourg, Incun.
+          <lb/>3721. (Gran, Haguenau 1511 : Ritter, Rép, n° 1847.
+          <lb/>2869
+          <lb/>PERIONIUS, Joachimus. Voir: ARISTOTELES, De natura,
+          <lb/>n° 849.
+          <lb/>PERSIUS, Aul. Voir: JUVENALIS, n° 2182.
+          <lb/>(Ritter, Rép. n° 1849 : Persius, Aubus : Satyrarum liber. J.
+          <lb/>Knobloch 15171.
+          <lb/>PERSIUS, Baptista: Thyrsis. A la suite de Bucolicae querelae
+          <lb/>(n° 1158). Strasbourg, Jacques Frölich 1541, in-80
+          <lb/>(n° 1197).
+          <lb/>2870
+          <lb/>399
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

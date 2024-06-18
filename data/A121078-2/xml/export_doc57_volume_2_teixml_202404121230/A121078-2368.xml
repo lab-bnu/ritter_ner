@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:37.295373+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2368.tif
+IMAGE WIDTH: 2346
+IMAGE HEIGHT: 3822
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>364
+          <lb/>libris et l’annotation suivante de sa main au recto du Ier f. de garde: «fol.
+          <lb/>R402.220. Prov.: Bibl. Ch. Schmidt, I0/IV, 1895 avec son ex¬
+          <lb/>B 4: Carmen Philesii de monte Vogeso»; Au-dessous: Köchlin ou Coc¬
+          <lb/>cinius n’a rien de commun avec les Köchlin d’Alsace. Voir sur lui mon
+          <lb/>Hist, litt. 2, 103.»
+          <lb/>Schmidt I, No 77: BMIA29I et Jadis Bibl. de Strasbouro, Incun¬
+          <lb/>N° 1412, BM Colmar et son exemplaire qui se trouve maintenant à la
+          <lb/>BN de Strasbourg.
+          <lb/>BN Paris: M. 3963. B U Fribourg en Br. H 608, GPB. BU
+          <lb/>Berlin. Proctor 9900: British Museum, Londres.
+          <lb/>Bibliographie de Coccinius (Koch) : Schottenloher I, No 9932.
+          <lb/>543
+          <lb/>COCCIUS SABELLICUS Marcus Antonius, Voir: Sabellicus Mar¬
+          <lb/>cus Antonius Coceius.
+          <lb/>COCHLAEUS Johannes
+          <lb/>Strasbourg, R. Beck, 1513.
+          <lb/>Grammatica Io. Cochlei Norici Rudimen- ta ad usum
+          <lb/>Latinae linguae necessaria continens. Si ue Prosa, siue
+          <lb/>Carmine! latine scribendum, lo! quendumue sit. Ale
+          <lb/>xandri etiam ver siculis utilio ribus in-] troser- tis.
+          <lb/>Anno. M. D. XIIII.
+          <lb/>A la fin: Excusum Argentinae per Renatum Beck, in
+          <lb/>offi- cina sua, quam vulgo zum thiergarten nomi! nant:
+          <lb/>acriori castigationis lima adhibi- ta. Anno salutis huma¬
+          <lb/>nae M. D. XIII.
+          <lb/>In-4°, car, rom., 4 ff. non ch. (index) — LXXXII ff. ch., titre
+          <lb/>courant, notes marginales, initiales ornées, titre en rouge, encadré. (H æ
+          <lb/>B, Planche XV, No 2).
+          <lb/>Au verso du titre: Ioannes Cocleus Noricus domino suo
+          <lb/>Antonio Kress... — M. D. XI. Pridie Calendas Martij.
+          <lb/>fol. 4a non ch.: Vuimphelingo.. Ihe ronymus Gebuiller
+          <lb/>insignis Argentinensis eccle- siae puerorum moderator
+          <lb/>S.D...
+          <lb/>Le livre fut achevé d’après l’explicit fin 1513, mais le titre ne fut
+          <lb/>imprimé qu’en 1514.
+          <lb/>*R101.572. Prov.: Butsch fils, Augsbourg, 12/x. 1883; 8 M.50.
+          <lb/>Notes mss. dans le texte et au dernier f. blanc.
+          <lb/>BU Fribourg en Br. D 4123 f; GPB: BN Berlin, BU Fri¬
+          <lb/>bourg. Schmidt IV, p. 19, N° 13: Fribourg. Pour l’encadrement Schmide
+          <lb/>renvoie par erreur au No 2, c’est celui de No 1: Pocabularius Gemma
+          <lb/>gemmarum, 1511.
+          <lb/>Bibliographie de Cochlaeus. Voir: Schottenloher I N° 2986-3033.
+          <lb/>OA¬
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

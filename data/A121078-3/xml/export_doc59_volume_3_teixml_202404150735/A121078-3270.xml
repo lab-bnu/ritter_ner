@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:10.192989+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3270.tif
+IMAGE WIDTH: 2340
+IMAGE HEIGHT: 3856
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>712
+          <lb/>R 10222. Prov.: Bibl. Hermann, Strassburg. Handschr. Notizen:
+          <lb/>&amp;quot;Liber hic latine prodiit sub titulo : Novus orbij regionum ac insularum
+          <lb/>veteribus incognitarum, una cum tabula cosmographica, et aliquot alijs
+          <lb/>consimilis argumenti libellis (cum praefatione Sam. Grynaei. Ex officina
+          <lb/>Jo. Hervagii). Basil. 1532, fol. Edit, novae accessit: navigatio Caroli Cae¬
+          <lb/>saris auspicio in comit. August. instituta seu navigatio Maximiliani Tran¬
+          <lb/>sylvani. Basil. 1534. fol. — Basil. 1555. fol.»
+          <lb/>&amp;quot;Gegenwärtige Uebersetzung Michael Herr’s scheint nach der Aus¬
+          <lb/>gabe von 1532 gemacht zu seyn. Zu der Ausgabe von 1555 sind vier
+          <lb/>neue Schriften gekommen, von welcher Vermehrung aber auf dem Titel
+          <lb/>keine Erwähnung geschehen (ausser von Maximilian). Ubrigens hat Joh.
+          <lb/>Hervagius diese Sammlung herausgegeben: Grynaeus aber eine Vorrede
+          <lb/>dazu gemacht, weswegen sie auch bald unter jenem, bald unter diesem
+          <lb/>Namen angeführt zu werden pflegt. Allgemeine Geschichte von Amerika.
+          <lb/>1. Th. Vorrede.» Darunter: « Liber si non ob alias rationes, saltem ob.
+          <lb/>antiquas germanicas voces, excutiendus. Tum &amp;amp; quod a Michaeli Herr viro
+          <lb/>nostrato docto, hodie vero ignoto fere editus est.»
+          <lb/>Stadtbibl. Strassburg 1178. Ein Ex, im, Catalogue de la Bibl. Ch.
+          <lb/>Louis Fière&amp;quot;, 2e vente, Paris 14-17 juin 1937, N° 361: «Edition origi¬
+          <lb/>nale de la traduction allemande, faite par Mich. Herr, de la compilation
+          <lb/>de Jean Huttich et de-Simon Grynaeus, publiée d’abord en latin en 1582.»
+          <lb/>GK: SB Berlin, UB Breslau, Göttingen, Greifswald, Königsberg,
+          <lb/>Münster.
+          <lb/>Bibliographie von Grynaeus: Schottenloher I Nr. 7691-7699.
+          <lb/>1048
+          <lb/>GUALTHERUS. Siche: GWALTHER
+          <lb/>GUARINI Baptista: De arte, diphthongandi. In: REUCHLIN:
+          <lb/>Vocabularius breviloquus. Strassburg 1504.
+          <lb/>1049
+          <lb/>GUARINI Baptista
+          <lb/>Strassburg, M. Schürer 1514
+          <lb/>BAPTISTA GVARINVS DE MODO ET ORDINE DOCENDI AC
+          <lb/>DSCENDI. (Druckerm. Schürers. H C B Tafel XII Nr. 2.)
+          <lb/>Am Schluss: Argentorati, ex aedibus Schurerianis,) Men.
+          <lb/>Martio. ANN. M. D. XIIII. (Rücks, leer.)
+          <lb/>40, Antiq., 14 num. Bll., Kopft., Marg., Init.
+          <lb/>Auf der Rücks, des Titelbl.: BEATVS RHENANVS LVCAE
+          <lb/>Paliuro rubeaquensi... — Ex Selezia, Kalendis Martijs.
+          <lb/>M. D. XIIII.
+          <lb/>R101282. Prov.: Geschenk der Stadtbibl. Hamburg.
+          <lb/>Schmidt VIII Nr. 129: Stadtbibl. Strassburg [6cOl. GK: SB
+          <lb/>Berlin.
+          <lb/>1050
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

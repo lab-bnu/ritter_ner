@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:02.001926+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002025.tif
+IMAGE WIDTH: 2484
+IMAGE HEIGHT: 3972
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>ARISTOTELES : Oeconomica a Christophero Hegendorffino et
+          <lb/>latina facta et annotationibus illustrata... — Haguenau,
+          <lb/>Pierre Brubach, juillet 1535, in-8°.
+          <lb/>G KVI, 6858: B N Vienne, B U Königsberg, Marbourg;
+          <lb/>Burg n° 71.
+          <lb/>846
+          <lb/>ARISTOTELES : [Titre grecl puis : Aristotelis de moribus ad
+          <lb/>Nicomachum libri decem. (Marque typ. de Wendelin
+          <lb/>Rihell. — Argentorati per Wendelinum Rihelium Mense
+          <lb/>Martio. Anno M. D. XL (1540), in-8° : (Préface de
+          <lb/>Jean Sturm à Louis Vivèsl.
+          <lb/>Bibl. S. Guillaume Strasbourg.
+          <lb/>847
+          <lb/>ARISTOTELES : [Texte grec, puis] : Aristotelis Politicorum
+          <lb/>Libri octo. — Argentorati per Wendelinum Rihelium.
+          <lb/>Mense Martio. Anno M.D. XL. 11540), in-8°. (Texte grec,
+          <lb/>Préface de Jean Sturm. Au verso du dernier f. marque
+          <lb/>typ. de W. Rihell.
+          <lb/>Bibl. S. Guillaume Strasbourg.
+          <lb/>848
+          <lb/>ARISTOTELES : De natura aut de rerum principiis libri VIII.
+          <lb/>Joachimo Perionio Carmoeriaceno interprete. Raphaelis
+          <lb/>Volaterrani siogycoyoi in singulos libros, quibus accesse¬
+          <lb/>runt brevia singulorum capitum argumenta. —
+          <lb/>Strasbourg, Samuel Emmel 1549, in-80.
+          <lb/>Ritter : B M Strasbourg no 420.
+          <lb/>849
+          <lb/>ARISTOTELES : Meteorologicorum lib. I. graece et latine
+          <lb/>distinctus per capita et scholiis brevibus illustratus pro
+          <lb/>Schola Argentinensi... — Strasbourg, Josias Rihel 1566,
+          <lb/>in-8° (éd. par Conradus Dasypodius).
+          <lb/>GKVI, 6799: B N Vienne; Ritter : B M Strasbourg no 422.
+          <lb/>850
+          <lb/>ARISTOTELES : Epitome doctrinae moralis, ex decem libris
+          <lb/>Ethicorum Aristoteles ad Nicomachum collecta, pro
+          <lb/>Academia Argentinensi per Theophilum Golium...
+          <lb/>23
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:52.580149+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5092.tif
+IMAGE WIDTH: 2356
+IMAGE HEIGHT: 3842
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1400
+          <lb/>Cum gratia &amp;amp; priuilegio Caesareo ad annos octo.
+          <lb/>Excudebat Iosias Rihelius.
+          <lb/>In-8°, car. rom., 76 p. ch., en dehors du titre, réclames, init. ornées.
+          <lb/>fol. 1a : Ad Sena -] tum. (Préf. de 7 pp.)
+          <lb/>La première lettre à Conrad Dasypodius (p. 27-32) est datée de 1569.
+          <lb/>R. 102.296. Prov. : Bibl. Ch. Schmidt avec son ex-libris et l’annotation
+          <lb/>de sa main : « Publié en 1569. Sturm avait l’intention de publier encore
+          <lb/>un 2e et un 3e livre; il ne paraît pas l’avoir fait. (V. Sturm, p. 193)».
+          <lb/>Ritter, BM Strasbourg, n° 2001.
+          <lb/>2217
+          <lb/>STURM Joahnnes. Voir: CICERO, Librorum philosophicorum
+          <lb/>volumen I et II.
+          <lb/>Strasbourg, J. Rihel, 1569. R101.685
+          <lb/>STURM Johannes. Voir: CICERO, Orationum volumina tria.
+          <lb/>Strasbourg, J. Rihel, 1569. R101.664
+          <lb/>STURM Johannes
+          <lb/>Strasbourg, J. Rihel, 1569
+          <lb/>De morte reverendissimi principis : domini Erasmi
+          <lb/>argentinensis episcopi.
+          <lb/>Ioannis Sturmij aliquot epistolae.
+          <lb/>Marque typ. de Josias Rihel. (H. &amp;amp; B. Planche XXXI,
+          <lb/>No 8; Silvestre, No 821.)
+          <lb/>Argentorati excudebat!! Iosias Rihelius.! M. D. LXIX.
+          <lb/>(Verso blanc.)
+          <lb/>In-4°, car. rom., 12 ff. non ch., dont le verso du dernier, blanc, titre
+          <lb/>courant, réclames, init. ornées S, M, F, 9, D. (6 lettres de J. Sturm.)
+          <lb/>R. 102.247. Prov. : Trübner (Vente Noiriel), Strasbourg, 4/IV, 1874;
+          <lb/>sans indic. de prix.
+          <lb/>BM Colmar.
+          <lb/>2218
+          <lb/>STURM Johannes
+          <lb/>Strasbourg, Josias Rihel, 1570
+          <lb/>Ioan. Sturmii! Scholae in libros IIII. ! Hermogenis de
+          <lb/>in!! ventione.
+          <lb/>Marque typ. de Josias Rihel. (H. &amp;amp; B., Planche XXXII,
+          <lb/>No 14.)
+          <lb/>Cum Gratia &amp;amp; Priuilegio Caesareoad annos octo.
+          <lb/>M. D. LXX. (Verso blanc.)
+          <lb/>A la fin: Argentorati Excudebat Iosias Rihelius! Anno
+          <lb/>M. D. LXX. I1 Mense Iulio.
+          <lb/>In-8°, car. ital. et grecs, 226 ff. non ch., sign. a-z, aa-ee, titre courant
+          <lb/>réclames, init. L.
+          <lb/>R. 101.396 (2). Prov. : Don de la BU de Königsberg,, 1872.
+          <lb/>Ritter, BM Strasbourg, n° 2003.
+          <lb/>2219
+          <lb/>STURM Iohannes
+          <lb/>Strasbourg, Josias Rihet, 1570
+          <lb/>Ioan. Sturmii Scholae in partitio- nes rhetoricas
+          <lb/>Hermogenis.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:53.187914+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078358.tif
+IMAGE WIDTH: 2338
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1244
+          <lb/>les frères avaient fourni un local pour sa presse, pour qu’il imprimât
+          <lb/>leur livre liturgique, qui n’était pas destiné à la vente, mais dont tous
+          <lb/>les exemplaires devaient rester au couvent, au seul usage des frères.&amp;quot;
+          <lb/>R102.407. Prov.: Rosenthal, Munich 14/III 1881; 60 M. Rel, anc.
+          <lb/>Schmidt IV p. 25 n° 30.
+          <lb/>1944
+          <lb/>PSALTERIUM
+          <lb/>Haguenau, Th. Anshelm 1522
+          <lb/>Psalterium ex hebreo diligentissi me ad verbum
+          <lb/>fere trans! latum : fratre Felice! ordinis Heremi tarum
+          <lb/>sancti Au- gustini inter-prete per sum mum pontificem
+          <lb/>Leonem decimum approbatum.
+          <lb/>A la fin: Haganoae in aedibus Thomae Anshelmi Ba
+          <lb/>densis Mense Decembri. M. D. XXII. (Verso blanc.)
+          <lb/>In-40, car, rom., 2 ff. non ch., 74 ff. ch., notes marg., init. à fig.
+          <lb/>V, 0, B; titre rouge, de même les titres des chapitres et la première
+          <lb/>lettre des versets. Au verso du titre:... Leoni X. Pontifici maximo F.
+          <lb/>Felix pratensis Eremitanae familiae
+          <lb/>Fol. Ba: Idem frater Felix lectori... Au verso: Ad lectorem, (4 dist.)
+          <lb/>R101.084. Prov.: Butsch, Augsbourg 5/VII 1878, 15 M.
+          <lb/>Oxford, Bibl. Bodleiana.
+          <lb/>1945
+          <lb/>PSALTERIUM
+          <lb/>Strasbourg, W. Kœpfel 1524
+          <lb/>TAATÉPION] Hpogntoo xaì Sagiléos] toö Aagtò. Argento¬
+          <lb/>rati, apud Vuolf. Cephal.
+          <lb/>A la fin: EKTETTTOTAI ́v Apysvtivn tn elsobcoz̃, èv oxía
+          <lb/>Bolgíoo τoö Κegαλaĺoo. Eroo eñe! cornoías 7tov. ] doxλ. ] Mnvi
+          <lb/>Bonòpontovt. (Au verso, marque typ. de W. Kœpfel. HAB planche
+          <lb/>XVII n° Sb.)
+          <lb/>Petit in-8°, car. grecs, 198 ff. ch., 9 ff. non ch. (table), titre cou¬
+          <lb/>rant, réclames, init. d’attente; titre encadré en haut et des &amp;amp; côtés (ara¬
+          <lb/>besques), en bas, à droite le roi David assis avec la harpe, à gauche
+          <lb/>2 génies avec une pierre taillée, caractéristique de W. Kœpfel.
+          <lb/>R101057. Prov. : Rosenthal, Munich 2/x1 1887; y2 M. De
+          <lb/>nombreuses annotations mss. dans le texte. Rel. anc.
+          <lb/>La Librairie Petitot (Paris) a offert à la Bibliothèque avant la
+          <lb/>guerre un ex, pour 450 fr.
+          <lb/>1946
+          <lb/>PSALTERIUM
+          <lb/>Strasbourg, W. Kœpfel 1527
+          <lb/>PSALTE- RIVM DAVIDIS, Cunradi Pelicani opera! ela¬
+          <lb/>boratum. (Marque typ. de W. Kœpfel. H C B planche XVII n° Sa.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

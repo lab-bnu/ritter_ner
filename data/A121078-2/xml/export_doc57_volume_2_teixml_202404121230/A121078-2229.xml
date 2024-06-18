@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:33.394104+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2229.tif
+IMAGE WIDTH: 2292
+IMAGE HEIGHT: 3820
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>225
+          <lb/>BN Paris, Rés. D. 6712; Proctor II, Sectio I. N° 10.086: Lon¬
+          <lb/>dres, British Museum, Schmidt VII, N° 90: Jadis Bibl. de Strasbourg,
+          <lb/>Incun. N° 2843, Bâle; Weislinger, Catal. 36. Autres exemplaires: Grand
+          <lb/>Séminaire, Strasbourg, Inc. C17 et A143. GPB: Berlin SB, Gœttin¬
+          <lb/>que BU.
+          <lb/>336
+          <lb/>BURGO Iohannes de
+          <lb/>Strasbourg, J. Schott, 1517.
+          <lb/>Pupilla oculi.De septem Sacramentorum admini
+          <lb/>stratione: de decem Preceptis decalogi: ceterisque eccle¬
+          <lb/>siasticorum! (quae rite institutum sacerdotem haud qua¬
+          <lb/>quam igno- rare decet) officijs: Joannis de Burgo, alme
+          <lb/>quondam! Cantabrigi-ensis Vniuersitatis Cancellarii:
+          <lb/>presbyteris omnibus, sacreque militie studiosis maiorem
+          <lb/>in modum necessaria.
+          <lb/>Adiectis tabula Capitulorum, atque Jndice alphabetario
+          <lb/>omni- um in hoc opusculo contentorum.
+          <lb/>Augustinus Aggeus ad Clerum.! (7 distiques) 1516.
+          <lb/>A la fin: Tabule cum opusculo, Pupilla oculi! noncu¬
+          <lb/>pato finis: sumptibus prouido rum Joannis Knoblouchi,
+          <lb/>etPauli Götz ciuium et biblio polarum Argen, prelo
+          <lb/>Joan- nis Schotti vrbis in- cole. sub Annum domini.
+          <lb/>M. D. xvij. Kal. Martij.
+          <lb/>In-4°, car. goth., 2 col. CLXX ff. ch., 18 ff. non ch. (Index) dont
+          <lb/>le dernier blanc, titre courant, initiales d’attente, titre rouge et noir.
+          <lb/>Au verso du titre: Augustinus aggeus Haius consumma¬
+          <lb/>tissimo viro et mercatori fi. Guilhelmo bretton. S. P. D.
+          <lb/>... — Lon dini ex edibus nostris pridie kal. Februarias.
+          <lb/>Anno domini Millesimo. CCCCC.X.
+          <lb/>*R102.128. Prov. : Don de F. Butsch, antiquaire, Augsbourg,
+          <lb/>1871. Rel, anc.
+          <lb/>2 ex. *R101.346. Prov.: BU Munich. Notes mss. Rel. anc.
+          <lb/>Schmidt II, No 38: BM 512 et Bibl. St. Guillaume, Strasbourg,
+          <lb/>avec la remarque que le traité a été écrit en 1386.
+          <lb/>GPB: Berlin SB.
+          <lb/>337
+          <lb/>BURGOWER Johannes
+          <lb/>Strasbourg, A. Bertram, 1592.
+          <lb/>THESES PHYSICAE EX LIBRO ARISTO- TELIS DE SENSV
+          <lb/>ET SEN- SILI DESVMPTAE: In inclyta Argentinensium Aca¬
+          <lb/>demia publici exercitij causa ad disputandum propositae.
+          <lb/>R. 15
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

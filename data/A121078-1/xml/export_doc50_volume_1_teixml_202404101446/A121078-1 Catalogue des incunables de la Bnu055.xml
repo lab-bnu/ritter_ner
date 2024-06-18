@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:37.156501+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu055.tif
+IMAGE WIDTH: 2382
+IMAGE HEIGHT: 3842
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>BRANT Sebastinus: Stultifera navis en latin par J. Locher.
+          <lb/>Strasbourg, J. Grüninger, 1er juin 1497, in 4°. (Gra¬
+          <lb/>vures.)
+          <lb/>G W 5057, Hain 3749, Madsen 862, Pellechet 2821, Pellechet:
+          <lb/>Colmar 390, Proctor 480, Schmidt I, 30, Schreiber 3570, Voul¬
+          <lb/>liéme: Berlin 2301, Schramm, Bilderschmuck XX, grav. vol. 22.
+          <lb/>K 947. Prov.: O. Harrassowitz, Leipzig, 24. II. 1891, 80 M.
+          <lb/>Notes mss. A l’intérieur du 1er plat: «Ueber die verschiedenen
+          <lb/>Ausgaben dieses seltenen Buches s. Flögel, Geschichte der
+          <lb/>Comischen Litteratur, Theil III, S. 112 ff. — Dictionnaire
+          <lb/>bibliographique, Tome I, p. 189. — Catalogue des livres du
+          <lb/>duc de la Vallière par de Bure, Tome II, p. 137 f. — Clément,
+          <lb/>Bibliothèque curieuse, Tome V, p. 191 ff. — Ueber die gegen¬
+          <lb/>wärtige (Ausgabe) noch: Biblioth. G. J. Breitkopf P. I, p. 348».
+          <lb/>Au recto du f. de garde: «Alia extat perantiqua editio sub
+          <lb/>anno 1406 quod necessario falsum, quia post illud demum
+          <lb/>tempus typographia coepit et primus auctor Seb. Brant ante
+          <lb/>annum 1457 non vixit. Nihilominus illa Ascensii Badii Editio
+          <lb/>notis illustrata et typis nitidior majorem quam hic codex typi
+          <lb/>antiquitatem refert.»
+          <lb/>114
+          <lb/>BRANT Sebastianus: Varia Carmina. Strasbourg. J. Grünin¬
+          <lb/>ger, 1er août 1498, in-4°.
+          <lb/>G W 5069, Hain 3732, Madsen 870, Proctor 487, Schmidt I, 36,
+          <lb/>Schreiber 3544, Voulliéme: Berlin 2304.
+          <lb/>Schramm, Bilderschmuck XX, grav. 570-573.
+          <lb/>K 930. Prov.: Bibliothèque Ch. Schmidt, Strasbourg, 10. IV.
+          <lb/>1895. Note mss. de la main de Schmidt: Exemplaire complet,
+          <lb/>comprenant aussi les Scenica progymnasmata de Reuchlin et
+          <lb/>le Turcorum terror. A l&amp;#x27;intérieur du 1er plat, exlibris de
+          <lb/>Ch. Schmidt.
+          <lb/>115
+          <lb/>BREVIARIUM Argentinense. Strasbourg, J. Grüninger, 20 mars
+          <lb/>1489, in-8°.
+          <lb/>G W 5261, Hain 3790, Pellechet 2852 et 2852 A. Schreiber 3584,
+          <lb/>Schmidt I, 8, Schramm, Bilderschmuck XX, grav. N° 113.
+          <lb/>K 964. Prov.: Librairie Trübner, Strasbourg, 15/XI. 1879,
+          <lb/>8 M. Notes mss. Incomplet.
+          <lb/>116
+          <lb/>25
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

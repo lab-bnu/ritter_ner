@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:06.014400+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3084.tif
+IMAGE WIDTH: 2314
+IMAGE HEIGHT: 3842
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>528
+          <lb/>QVIBVS ADDITA EST PRAE- cipuorum illius artis locorum
+          <lb/>explicatio, cùm ex Sturmij annotationibus, tum! ex Aristo¬
+          <lb/>tele; caeterisque disseren- di rationis peritis scriptoribus.
+          <lb/>(Kleeblatt.)
+          <lb/>ARGENTINAE CHRISTIANVS Mylius expressit, in foro
+          <lb/>Frumentario, Anno Christi, M. D. LXI. 6. Calend. Septem¬
+          <lb/>bris. (2 Kleeblätter u. Vign., Rücks, leer.)
+          <lb/>Am Schluss: ARGENTINAE IMPRIMEBAT) Christianus My¬
+          <lb/>lius. Anno, 1561.
+          <lb/>20, Griech., Antig. u. Kursiv, 4 unn. Bll., 154 S. u. 3 unn. 2sp. S.
+          <lb/>(Index), 1 leeres Bl., Kopft., Kust., Init. M, P.
+          <lb/>Bl. a 2a: D. Nicolao Varnbulero Lin-DAVIENSI VTRIVS¬
+          <lb/>QVE Ivris DOCTORI, .. Professori, atque Interprete, in cele¬
+          <lb/>berrima Academia Tubingensi amico suo perueteri VA¬
+          <lb/>LENTI- NVS ERYTHRAEVS S. P. D.... — Argen- torati,
+          <lb/>Pridie Calend. Septemb. M. D. Ll. (Vorrede, 3 S., Kursiv.)
+          <lb/>Bl. a 3b: MICAELI TOXITAE RHAE- ti in Tabulas Va¬
+          <lb/>lentini Erythraei, ad studiosam iuuentutem Elegia, (21 Dist.)
+          <lb/>Bl. a 4a: ODE IOANNIS SAPIDI! ad Lectorem. (11 vierzeilige
+          <lb/>Strophen.) Auf der Rücks.: GEORCIVS FABRICIVSValentino
+          <lb/>Erythraeo... (19 Dist.)
+          <lb/>Bl. Aa: IOANNES STVRMIVS VALENTINO ERYTHRAEO
+          <lb/>S. P. D.... — Argen- torati, Quarto idus Augusti.Anno
+          <lb/>1547.
+          <lb/>R10.4651. Prov.: Bibl. des Gymnasiums von Heilbronn, Tausch;
+          <lb/>Heilbronn, 2. IV. 1878. Auf der Rückseite des Titelbl.: Exlibris der
+          <lb/>Stadt Heilbronn.
+          <lb/>GK: SB Berlin, UB Breslau, Königsberg; BN Paris, X. 7461;
+          <lb/>801
+          <lb/>Oxford, Bibl. Bodleiana; Bibl. Wilh. Strassburg.
+          <lb/>ERYTHRAEUS Valentinus
+          <lb/>Strassburg, Chr. Mylius 1565
+          <lb/>AVGVSTANAE CONFESSIONIS EIVSQVE Apologiae Ta¬
+          <lb/>bulis delineatae, et resolutae, PARS PRIMA.
+          <lb/>ADDITA EST E REGIONE CON- fessio Ecclesiarum Saxo¬
+          <lb/>nicarum, et Vuirtembergensium, Synodo Tridentinae oblata:
+          <lb/>ut ha- rum omnium formularum Christianae, &amp;amp; orthodoxae,
+          <lb/>vereque Catholicae do- ctrinae ex illa comparatione har¬
+          <lb/>monia, atque con¬ centus, uno, quasi intuitu cerni possit.
+          <lb/>Concinnata haec omnia sunt, opera, &amp;amp; studio VALENTINI
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

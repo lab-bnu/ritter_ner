@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:33.328964+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2226.tif
+IMAGE WIDTH: 2290
+IMAGE HEIGHT: 3822
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>222
+          <lb/>R 10.459(1). Provenance inconnue. Rel anc.
+          <lb/>BM Strasbourg; GPB: Berlin BN et BU. Breslau BU, Halle
+          <lb/>BU, Gœttinque BU, Kiel B U. Kœniosberg BU, Marbourg BU.
+          <lb/>Cf. Holder-Egger et Bernhard v. Simson, Die Chronik des Propstes
+          <lb/>Burchard von Ursberg, 2e Auft. [— Scriptores rerum germanicarum in
+          <lb/>usum scholarum, Bd. 181, 1916 p. XXXVI:, Die Strassburger Ausgabe
+          <lb/>vom Jahre 1537 ist durch Melanchton, der diese Chronik hoch schätzte,
+          <lb/>veranlasst und von Caspar Hed o besorgt....&amp;quot; Walter: Sélestat, No 930.
+          <lb/>331
+          <lb/>Strasbourg. Crato Mylius, 1540.
+          <lb/>BURCHARDUS Urspergensis
+          <lb/>CHRONICVM ABBATIS VRSPERGENSIS, CONTI] NENS HISTO¬
+          <lb/>RIARVM RERVM MEMORABILIVM, A NINO ASSYRIORVM REGE
+          <lb/>AD TEMPORA FRIDERICI II.Romanorum Imperatoris, &amp;amp;
+          <lb/>Germanorum Imperatorum res praeclarè ac fortiter pro
+          <lb/>salute publica gestas, bona fide ab autore con scriptas,
+          <lb/>complectens : Diligenter per Eruditum quendam uirum &amp;amp;
+          <lb/>recognitum, &amp;amp; beneficio ueterum manu scripto rum exem¬
+          <lb/>plariorum ab infinitis mendis repurga! tum.
+          <lb/>PARALEIPOMENA RERVM MEMORABILIVM,  a Friderico II.
+          <lb/>usque ad Carolum V. Augustum, hoc est, ab anno Do¬
+          <lb/>mini M. CC XXX. usque ad annum M. D. XXXVIl. ex pro¬
+          <lb/>batioribus qui habentur scriptoribus in arctum coacta, &amp;amp;
+          <lb/>historiae Abbatis Vrspergensis per eundem STVDIOSVM
+          <lb/>annexa. (— Caspar Hedio.)
+          <lb/>CVM ICONIBVS IMP. ET PRINCIPVM ad uiuum expressis.
+          <lb/>Marque typographique de Craton Mylius. (Hdt B, Planche XXVII,
+          <lb/>N° 6; Silvestre, N° 626).
+          <lb/>Au-dessous: ANNO M. D. XL.Mense Septembri. (Verso
+          <lb/>blanc.)
+          <lb/>A la fin: ARGENTORATI APVD CRATONEM MYLIVM.! Mense
+          <lb/>Martio M. D. XXXVIII. (Verso blanc.)
+          <lb/>Au verso du dernier f. blanc, marque typographique de Mylius.
+          <lb/>(H e B, Planche XXVI, No 2.)
+          <lb/>In-fol., car, rom., 4 ff. non ch. dont le verso du dernier blanc,
+          <lb/>572 pages ch. dont CCCLXXXIX pour le chronicon et CLXXXIII
+          <lb/>pour les Paraleipomena qui ont un titre spécial avec feuille de lierre et
+          <lb/>marque typographique de Mylius (H CB, Planche XXVI, NO 4), titre
+          <lb/>courant, réclames, notes marginales, initiales à fig. de moyenne et de
+          <lb/>petite grandeur, de nombreux médaillons d’empereurs.
+          <lb/>Mêmes dédicaces, mêmes préfaces, et même catalogue des sources
+          <lb/>au dernier f. que dans l’édition de 1537.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

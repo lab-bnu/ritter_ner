@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:55.123562+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078417.tif
+IMAGE WIDTH: 2388
+IMAGE HEIGHT: 3838
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>A l’intérieur du Ier plat. Ex-libris de Reiber.
+          <lb/>L’exemplaire de la Bibliothèque ne contient que les deux premières
+          <lb/>parties du livre.
+          <lb/>2034
+          <lb/>RYFF Walther Hermann
+          <lb/>Strasbourg, B. Beck, 1541
+          <lb/>EJn wolgegründet, nutzlich und heilsam handtbüchlin,
+          <lb/>gemeyner Practick dergantzen leib artzney, wie solche bei
+          <lb/>den ältesten vnd namenhafftigsten, Griechischen, Lati¬
+          <lb/>nischen, und Arabischen!! etc., comme dans l’édition précé¬
+          <lb/>dente, mais les lignes se terminent autrement. En plus : Mit
+          <lb/>Künigklicher Maiestat freiheyt.
+          <lb/>La date M. D. XLI est en chiffres arabes; dans l’autre édition,
+          <lb/>en chiffres rom.
+          <lb/>Cette édition contient en plus avec un nouveau titre la 3e
+          <lb/>et la 4e partie ainsi que : Latinischer nammen aller Simplicien so
+          <lb/>in rechtgeschaffenen Apotecken gebreüchlich seind, Teütsche
+          <lb/>erklärung und auszlegung.
+          <lb/>A la fin de ces parties : Getruckt zu Straszburg! bey Bal¬
+          <lb/>thassar Beck.
+          <lb/>In-4°, car. goth., 344 ff. non ch., sign. A-Z, a-z, aa-kk pour les 2 premières
+          <lb/>parties, que contient aussi l’édition précédente sur 364 ff. non ch.
+          <lb/>En outre pour la 3e et 4e partie : 136 ff. non ch., sign. A-Z, a-l, et pour
+          <lb/>le dernier traité XC ff. ch.- 11 ff. non ch. (Index)-2 ff. blancs.
+          <lb/>Tandis que l’édition précédente n’a pas de gravures, celle-ci contient
+          <lb/>2 fœtus fol. aa 2a et 12 au verso, et 7 gravures dans la 3e partie (repré¬
+          <lb/>sentant le corps de l’homme ou des parties); la 3e partie a des notes
+          <lb/>marg. en car. rom.
+          <lb/>R. 102.212. Prov. : Bibl. Hermann, Strasbourg. A l’intérieur du ler plat,
+          <lb/>ex-libris du docteur Boehm, au-dessous : « Ex bibliotheca Mich. Frid.
+          <lb/>Boehm Med. Dris &amp;amp; Practic. Argentor». Au verso du f. de garde : « Biblio¬
+          <lb/>thecae Hermannianae Argentorati Celebrem compilatorem vocat auctorem
+          <lb/>Hallerus in Meth. Stud. Med. pag. 721 ubi se ejus libros non legisse dicit;
+          <lb/>neque possedit. Imperfecte quoque libri titulum dedit, &amp;amp; perperam
+          <lb/>formam in 8° huic praesenti adscribit».
+          <lb/>2035
+          <lb/>RYFF Walther Herm.
+          <lb/>Strasbourg, G. Messerschmidt, 1542
+          <lb/>latroma !] thematicae, hoc est, medicationis accom!
+          <lb/>modatae ad Astrologicam rationem Enchiri-dion, de Crisi,
+          <lb/>deque investigatione &amp;amp; inven-tione dierum Criticorum,
+          <lb/>Indicativorum, Intercadentium, sive provocativorum, et
+          <lb/>Va!! cuorum, rationali modo, &amp;amp; plane Astro- logico. Cum
+          <lb/>canonibus aliquot, et  multis aliis, quorum cata-¡ logum
+          <lb/>reperies in proxima pa gella,! Futuro Medico Admo¬
+          <lb/>dum Necessariis. In rei Medicae studiosorum gra-  tiam
+          <lb/>opera &amp;amp; diligentia M.Gual. H. Ryff. Argen.Medici
+          <lb/>concin- nata. Argentinae.
+          <lb/>1303
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

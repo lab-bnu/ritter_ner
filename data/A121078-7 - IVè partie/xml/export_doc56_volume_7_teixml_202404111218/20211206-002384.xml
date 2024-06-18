@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:11.527091+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002384.tif
+IMAGE WIDTH: 2484
+IMAGE HEIGHT: 4006
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>gart... Zweybrucken, den 19. Julij anno M.D.LVIII... —
+          <lb/>Mulhouse, P. Schmid 1559, in-40.
+          <lb/>Werner, p. 91, n° 5.
+          <lb/>2775
+          <lb/>NUBER, Vitus : Ettliche sehr nötige und tröstliche Gebett... —
+          <lb/>Strasbourg, Thiébaud Berger 1562,
+          <lb/>B M Colmar.
+          <lb/>2776
+          <lb/>OBERNAI (Bas-Rhin). Voir : Morp n° 2723.
+          <lb/>OBRECHT, Georg. Voir: LUPI, Joh. Sigism., n° 2443; OBRECHT,
+          <lb/>Henricus, n° 2777. Voir aussi (RITTER, Rép, nos 1642¬
+          <lb/>1659).
+          <lb/>OBRECHT, Henricus : Theses ex titulo digestorum quod
+          <lb/>quisque iuris... collectae. In inclyta Argentoratensium
+          <lb/>Academia exercitii causa proposita a Georgio Obrechto
+          <lb/>J. C. Respondente Heinrico Obrechto. — Strasbourg,
+          <lb/>Antoine Bertram s. d., in-4°.
+          <lb/>Ritter : B M Strasbourg, no 1574.
+          <lb/>2777
+          <lb/>OBSEQUENS, Julius : Prodigiorum Liber. A la suite de :
+          <lb/>Aurelius, Victor Sextus : De viris illustribus in re
+          <lb/>militari. — Strasbourg, Math. Schürer 1514, in-4°.
+          <lb/>2778
+          <lb/>OBSOPOEUS, Vincentius. Voir : CORTESIUS, Thomas Alex, :
+          <lb/>n° 1439; HOMERUS, n° 2040 ; LUCIANUS, n° 2432;
+          <lb/>LUTHER, nos 2479/80. PSALMI, n° 3029; TESTAMENTUM
+          <lb/>Novum (graece), n° 3335; XÉNOPHON, n° 3572. Voir
+          <lb/>aussi (RITTER, Rép. n° 1660).
+          <lb/>OCTAVIAN (History) : Eine schöne Unnd kurtzweilige Histori
+          <lb/>von dem Keyser Octaviano, seinem weib und zweyen
+          <lb/>sunen, wie die in das ellend verschickt unnd wunder¬
+          <lb/>barlich in Franckreich bey dem frummen Künig Dagobert
+          <lb/>wiederumb zusamen komen sind. Newlich usz frant¬
+          <lb/>382
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

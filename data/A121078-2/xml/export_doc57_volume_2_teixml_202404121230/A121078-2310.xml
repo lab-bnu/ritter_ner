@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:35.687747+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2310.tif
+IMAGE WIDTH: 2304
+IMAGE HEIGHT: 3820
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>306
+          <lb/>II. Das Vater vnser.
+          <lb/>IV. Der heylig Tauff.
+          <lb/>V. Das heylig Abendtmal.
+          <lb/>VI. Die Christlich bûszzucht.
+          <lb/>Petite gravure sur bois: Un pasteur donnant l’instruction du
+          <lb/>catéchisme, devant lui les fidèles.
+          <lb/>Au-dessous: Für die gemeinen Pfarhern, Schûl-meister,
+          <lb/>Hauszuätter, jugend vnd Lehr-kinder zû Straszburg vnd
+          <lb/>anderswa.
+          <lb/>In-8°, car. goth., 6 ff. non ch., réclames, titre rouge et noir, en¬
+          <lb/>cadré (ornements), toutes les pages sont encadrées comme le livre des
+          <lb/>Psaumes R100.700(1) avec lequel le catéchisme est relié; petites gravu¬
+          <lb/>res sur bois, se rapportant au texte.
+          <lb/>R 100.700 (2). Prov.: Dr Eichhorn, Strasbourg, P4/V. 1897, 25 M.
+          <lb/>Incomplet, toutes les pages sont endommagées. Notes mss. à la fin:
+          <lb/>Strassburg, Erschien bei Berger. s. d. Rand mit andern Vignetten und
+          <lb/>Bildern. Text derselbe, auch bei Köpffel, s. d.“ De même notes mss. au
+          <lb/>recto du dernier f. blanc:... Getruckt zu Strassburg bey Thiebold Ber¬
+          <lb/>ger jam Barfüsserplatz (s. d.). Hierauf folgt: Erklärung Luthers. - Die
+          <lb/>Haustafel: Sprüch zum gottseligen Leben- Wie man die Kinder soll
+          <lb/>beten lehren. Ein Gesang für die Kinderlehre (Herr Gott dein Treu mit
+          <lb/>Gnaden leert!) - Was hier fehlt. Inhalt sonst ganz dasselbe. Andere Rand¬
+          <lb/>bordüre und andere Illustrationen.
+          <lb/>Im Besitz von Pfr. Auberlen in Harsfelden Württemberg 1895.
+          <lb/>466
+          <lb/>Strasbourg, Th. Berger, vers 1562.
+          <lb/>CATECHISMUS
+          <lb/>Catechismus, Christliche vnderrichtung oder Lehr¬
+          <lb/>tafel, kurtzlich in sechs nachfolgende stuck verfasset.
+          <lb/>I. Die zehen Gebott.
+          <lb/>II. Der Christlich Glaub.
+          <lb/>III. Das Vater vnser.
+          <lb/>IV. Der heilig Tauff.
+          <lb/>V. Das heilig Abendtmal.
+          <lb/>VI. Die Christlich bûszzucht.
+          <lb/>Petite Gravure sur bois: Leçon de catéchisme donné par un pas¬
+          <lb/>teur.
+          <lb/>Au-dessous: Für die gemeinen Pfarhern, Schûl-meister,
+          <lb/>Hauszvätter, Jugend vnd Lehrkin- der zû Strasburg vnd
+          <lb/>anderswa.
+          <lb/>Getruckt zû Strasburg bey Thiebolt Berger, am Bar¬
+          <lb/>fûsser platz. (Verso blanc.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

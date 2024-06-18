@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:34.993990+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2279.tif
+IMAGE WIDTH: 2300
+IMAGE HEIGHT: 3818
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>CALVIN
+          <lb/>(Strasbourg, B. Jobin), 1584.
+          <lb/>Der Heylig Brotkorb Der H. Römi- schen Reliquien,
+          <lb/>oder Würdigen Heylig- thums procken: Das ist, JOHAN¬
+          <lb/>NIS CALVINI Notwendige vermanung, von der Papisten
+          <lb/>Heyligthum: Darausz zusehen, was damit für Abgötterey
+          <lb/>vnd Betrug getrie- ben worden, dem Christlichen Leser
+          <lb/>zu gute verdeutscht.
+          <lb/>Même gravure qu’à l’édition de 1583.
+          <lb/>Gedruckt zu Christlingen, Bey Vrsi-no Gutwino, 1584.
+          <lb/>(Verso blanc.)
+          <lb/>In-8°, car. goth., 24 ff. non ch (Préface de Eysenberg et vers de
+          <lb/>Fischart, 86 ff. ch., 2 ff. non ch. (Index), tître courant, réclames, init.
+          <lb/>ornées, titre rouge et noir.
+          <lb/>Réimpression exacte de l&amp;#x27;édition de 1583, à l’exeption que le mot
+          <lb/>Heilig est toujours écrit avec y. (Heylig).
+          <lb/>R102.481. Prov.: J. Bensheimer, Strasbourg, 16. VII. 1879, 12M.
+          <lb/>GPB: Berlin BN, Breslau BU, Halle BU.
+          <lb/>415
+          <lb/>275
+          <lb/>CALVIN
+          <lb/>[Strasbourg, B. Jobin), 1590.
+          <lb/>Der Heilig Brotkorb! Der H. Römi- schen Reliquien
+          <lb/>oder Wür- digen Heiligthumhs (!) Pro¬ cken: Das ist,
+          <lb/>IOANNIS CALVINI Notwendige vermanung, von der Pa¬
+          <lb/>pisten Heiligthum: Darausz zusehen, was damit für! Ab¬
+          <lb/>götterey vnnd Betrug getrieben worden, dem Christlichen
+          <lb/>Le- ser zu gute verteutscht.
+          <lb/>Sampt beigethanen Wunders Wundern inn der Statt
+          <lb/>Rom.
+          <lb/>Même gravure qu’aux 2 éditions précédentes de 1583 et 1584.
+          <lb/>Getruckt zu Christlingen, bei Vrsi- no Gutwino, 1590.
+          <lb/>(Verso blanc).
+          <lb/>Au verso du dernier f.: ANNO(Vignette)! M. D. LXXXX.
+          <lb/>In-8°, car. goth., 24 ff. non ch., 85 ff. ch., 3 ff. non ch. (Index)
+          <lb/>et 91 pages ch, pour les Mirabilia Vrbis Romae — 2 ff. blancs, titre
+          <lb/>courant, réclames, init, ornées, titre rouge et noir.
+          <lb/>Réimpression de l&amp;#x27;édition 1583 en plus: MIRABILIA VRBIS
+          <lb/>ROMAE. Das ist:Die wundersa- me verwunderliche
+          <lb/>Wun-der, so in der Stat Rom dem gros- sen Römi¬
+          <lb/>schen Binnkorb zufinden, mit erzehlung derselben Zellinen
+          <lb/>vnd Hülinen... — M. D. LXXXX.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

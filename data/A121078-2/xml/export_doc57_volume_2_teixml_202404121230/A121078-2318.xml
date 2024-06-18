@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:35.985635+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2318.tif
+IMAGE WIDTH: 2314
+IMAGE HEIGHT: 3818
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>314
+          <lb/>F
+          <lb/>M
+          <lb/>EPΩTHMATA TOI
+          <lb/>XPTZOAQPA.
+          <lb/>Erotemata Chrysoloræ.
+          <lb/>roϋ oομώςον ακdo.
+          <lb/>Ει θεόβεμ ρἰρλους ἀνθρώπαιών τμιαθιὸη
+          <lb/>κιωᾶς ταῦια μόνη δέλάς ἐθονε σοφη.
+          <lb/>Ottomari Luscinij Distichon,
+          <lb/>P4U
+          <lb/>Sacra simul penitus iuuat quem nosse propbana
+          <lb/>Argolicas studeat voluere litrerulas
+          <lb/>ND
+          <lb/>Voir No 476.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

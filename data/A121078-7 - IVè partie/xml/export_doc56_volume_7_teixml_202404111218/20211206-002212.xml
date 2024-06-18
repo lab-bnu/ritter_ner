@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:07.024735+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002212.tif
+IMAGE WIDTH: 2514
+IMAGE HEIGHT: 3938
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>doctores veranwerung... — (Haguenau, A. Farkal s. d.],
+          <lb/>in-40.
+          <lb/>Burg, n° 240.
+          <lb/>1877
+          <lb/>GERICHTSORDNUNG : (G)Erichts Ordenung und Prozess
+          <lb/>ietzläuffiger übungen. Mit Rechtmässiger deren Gründ
+          <lb/>und klarer anzeyg in Keyserlichen unnd Geystlichen
+          <lb/>Rechten (Grav.). — (Strasbourg, Christian Egenolph,
+          <lb/>juin 1530), in-4°.
+          <lb/>Benzing: Egenolff, n° 32: J. Baer, Versteigerung v. 6. Oktober
+          <lb/>1931, n° 65. B M Mayence.
+          <lb/>1878
+          <lb/>GERNOLD, Wolff. Voir: LIEDER (zwei schöne neue geistliche),
+          <lb/>n° 2394.
+          <lb/>GERSDORF, Hans von : Feldtbuch der Wundartzney. —
+          <lb/>Strasbourg, Jean Schott 1526, in-4°.
+          <lb/>Schmidt II, n° 99; Weller, Rep. 3794. B U Fribourg-en¬
+          <lb/>Br.; Choulant, Graph. Incunabeln, p. 96. [Ritter, Rép.
+          <lb/>nos 999-1002; autres éd. de Schott 1517, 1528, 1530 et 1540l.
+          <lb/>1879
+          <lb/>GERSDORF, Hans von : Feldtbuch der Wundtartzney, newlich
+          <lb/>getruckt und gebessert. — [Strasbourg, Jean Schott)
+          <lb/>1535, in-4°.
+          <lb/>Schmidt II, n° 132; Ritter : B M Strasbourg, n° 1116. — Bâle.
+          <lb/>Choulant-Frank, p. 155; Choulant, Graph. Incunabeln,
+          <lb/>p. 87.
+          <lb/>1880
+          <lb/>GERSON, Joh. : Opera. — Strasbourg, Jean Knobloch 1511,
+          <lb/>in-fol [et éd; 1514 : Schmidt VII n° 87l.
+          <lb/>Schmidt, Hist. litt. Il, p. 374, n° 174.
+          <lb/>1881
+          <lb/>GERSON, Joh. : Sermo de passione domini. (Edidit Jacobus
+          <lb/>Otther). — Strasbourg, Mathias Schürer, mai 1510,
+          <lb/>in-8°.
+          <lb/>Proctor 10176. [Schmidt VIII, n° 12 ; une éd. Schürer 1509].
+          <lb/>1882
+          <lb/>210
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

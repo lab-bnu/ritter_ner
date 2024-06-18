@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:50.821490+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078285.tif
+IMAGE WIDTH: 2310
+IMAGE HEIGHT: 3852
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>genaw : expen sis ac sumptibus providi Joannis Rynman
+          <lb/>Finiunt! feliciter: Anno ab incarnatione domini millesimo
+          <lb/>quin- gentesimo quinto, xxiii die Januarii.
+          <lb/>In-fol., car. goth., 2 col., 358 ff. non ch., sign. a—2, A–Z, titre
+          <lb/>courant, init. d’attente.
+          <lb/>R10.349. Prov. : BN Munich 28/XII 1877; 3 M. Notes mss.
+          <lb/>Iste liber attinet... Tegernsee Emptus ab haeredibus domini Leonhardi
+          <lb/>Stocki Anno domini 1523... Au-dessous: Duplum Bibliothecae regiae
+          <lb/>Monacensis.
+          <lb/>1825
+          <lb/>PELBARTUS DE THEMESWAR
+          <lb/>Strasbourg, J. Knobloch 1505
+          <lb/>Sermones Pomerii de Sanctis Hyemales et Estivales
+          <lb/>editi per! Fratrem Pelbartum de Theme- swar divi Ordi¬
+          <lb/>nis sancti Francisci. (Verso blanc.)
+          <lb/>A la fin, avant la table, fol. CXXIV: Sermones... impressi
+          <lb/>ac diligenter revisi Ar gen, per providum et industriosum
+          <lb/>virum magistrum Joannem Knoblouch: equalibus ex¬
+          <lb/>pensis et sumptibus docti viri Joannis de Ravesberch
+          <lb/>Coloniensis. Finiunt fe! liciter : Anno ab incarnatione do¬
+          <lb/>mini. M. quingente- simoquinto, iiii, die. Februarii.
+          <lb/>In-fol., car. goth., 2 col., 308 ff. non ch., sign. a—, A–Z, AA¬
+          <lb/>CC, tître courant, init. d’attente. Au verso du titre: Prologus.
+          <lb/>*R10.340 (I). Prov.: Trubner (Vente Aimberlin n° 557), Stras¬
+          <lb/>bourg 29/IV 1886; 6 M. Note ms.: Bibliotheca fratrum Eremit. S. Augu¬
+          <lb/>stini Colmariae. Anno 1529.
+          <lb/>Schmidt VII n° 9: Jadis Bibl. de Strasbourg, Incun, n° 3674,
+          <lb/>BM Strasbourg et BM Colmar; il dit 124 ff., prenant le chiffre CXXIIII
+          <lb/>du dernier f., qui indique le nombre des sermons, pour le nombre des ff.
+          <lb/>Walter n° 2005: BM Sélestat.
+          <lb/>1826
+          <lb/>PELBARTUS DE THEMESWAR
+          <lb/>Haguenau, H. Gran 1505
+          <lb/>Stellarium Corone benedicte! virginis Marie in laudem
+          <lb/>eius pro singulis predicationibus ele gantissime coapta¬
+          <lb/>tum. (Verso blanc.)
+          <lb/>A la fin, avant la table alphabétique : Opus perutile... im¬
+          <lb/>pensis sumpti- busque providi viri Joannis Rymman (!) de
+          <lb/>Orin gaw: in Imperiali oppido Hagenaw: per indu strium
+          <lb/>Henricum Gran inibi incolam diligen tissime impressum
+          <lb/>ac emendatum Finit feliciter Anno salutis nostre Mille¬
+          <lb/>simo quingentesimo- quinto. viii kl. Maii. (Verso blanc.)
+          <lb/>1171
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

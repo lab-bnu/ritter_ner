@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:07.539637+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3172.tif
+IMAGE WIDTH: 2318
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>616
+          <lb/>GK: SB Berlin, UB Göttingen, Kiel, Königsberg.
+          <lb/>BN Paris Rés. V. 539. Rosenthal, München, Katalog 135 (1914)
+          <lb/>Nr. 887:,400 M. Avec une planche hors texte et la musique notée.
+          <lb/>39 ff. non ch. (!), petit in-fol. Le titre donne un bois assez curieux: un
+          <lb/>joueur de cornemuse et un berger avec des moutons; à droite, un cheva¬
+          <lb/>lier et une châtelaine à gauche; au milieu un écusson avec un A, la marque
+          <lb/>de Schoeffer et d’Apiarius... Roth dans son ouvrage: Les Schœffers du¬
+          <lb/>rant le 16e siècle cite la même édition, mais ornée d’un autre bois (p. 146).
+          <lb/>16 pages d’exemples à 4 et à 6 voix termine le traité.&amp;quot;
+          <lb/>Brunet II5, 1411:, Argentor., Petr. Schöffer, 1555, in fol., fig. 24
+          <lb/>à 30 fr.° (1555 irrtümlich fur 1535. Schäffer druckte in Strassburg
+          <lb/>von 1529-1540.)
+          <lb/>925
+          <lb/>FUCHS Leonhard
+          <lb/>Strassburg, J. Albrecht 1535
+          <lb/>COMPEN! DIARIA IN ARTEM MEDENDI ! INTRODVCTIO, DILI¬
+          <lb/>GENTER] recognita, &amp;amp; locis multis quam antea au-ctior.
+          <lb/>LEONARDO FVCHSIO! Autore. (Eleeblatt.)
+          <lb/>ACCESSIT PRIORI AEDITIONI ! conficiendorum medicamen¬
+          <lb/>torum ratio: itemque de Vrina &amp;amp; Pulsibus! praeceptio.
+          <lb/>ARGENTORATI, ANNO) M. D. XXXV.
+          <lb/>ARGENTINAE IN OFFICINA! IOAN. ALBERTI, MENSE ! SEP¬
+          <lb/>TEMBRI, ANNO! M. D. XXXV. (Epheubl.)
+          <lb/>86, Antig. u. Kursiv, 16 unn., 108 num. v. 4 unn. Bll. (Index),
+          <lb/>wovon das letste leer, Kopft., Kust., Marg., Init. Auf der Rücks. des
+          <lb/>letsten Bl., Druckerm. Albrechts.
+          <lb/>Auf der Rücks, des Titelbl.: NICOLAVS! GERBELIVS, (3 Dist.)
+          <lb/>Bl. 2a: ... Georgio Marchioni Brandenburgensi, Ste¬
+          <lb/>tinae, Pomeraniae, Cassuborum, Sclauorum, atque! Sile¬
+          <lb/>siae, &amp;amp; legerdorffensi Duci, Burggrauio Norimbergensi,
+          <lb/>ac Rugiae Principi... Le-nardus Fuchsius S. D. P....
+          <lb/>— Ex Onoltzbachio secundo Idus! Augusti. Anno Do¬
+          <lb/>mini, M. D. XXXII. (Epistola nuncupatoria, 7 S.)
+          <lb/>Bl. 5b: RERVM AC VOCVM SCITV AC MEMORA- tu di¬
+          <lb/>gnarum in hoc opere contentarum! INDEX. (21 S., 2sp.)
+          <lb/>Bl. 16a: (Vign.) VINCENTIVS OBSOPOEVS Lectori, (14 Dist.)
+          <lb/>(Vign.) Dieselben Distichen am Schluss Bl. O7a.
+          <lb/>Bl. O 5a (Epheubl.) Verzeichnis der Kapitel. (4 S.)
+          <lb/>R 102.208. Prov.: Bibl. der Strassburger medisinischen Fakultät.
+          <lb/>2. Ex. R 102.2092. Geschenk von Hofrat Dr. Tiemann, Bielefeld,
+          <lb/>durch Vermittlung von Albrecht Delius; 26. IX. 1876.
+          <lb/>GK: SB Berlin, UB Königsberg.
+          <lb/>Bibliographie von Fuchs: Schottenloher I Nr. 6743-6746. 926
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

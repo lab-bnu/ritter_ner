@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:38.229899+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2403.tif
+IMAGE WIDTH: 2372
+IMAGE HEIGHT: 3824
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>399
+          <lb/>fol. » 3a: Beschlussz dises Bûchs an... fraw Eli¬
+          <lb/>zabeth, geborne Marggräffin z6! Brandenburg, 8c.... —
+          <lb/>Datum Witzenhausen im Jar nach der gepurt Christi Tau¬
+          <lb/>sent fünff hundert vnd viertzig. &amp;amp;c. A. Coruinus, (8 p.)
+          <lb/>R 102.173. Prov.: L. Rosenthal. Munich, 11/VI. 1889; 10M.
+          <lb/>GPB: BU Kœnigsberg.
+          <lb/>594
+          <lb/>CRATOALDUS Valentinus
+          <lb/>Strasbourg, P. Schaefer, 1530.
+          <lb/>VALENTI NI CRATOALDI IN TRIA PRIORA CAPITA LIBRI)
+          <lb/>GENESEOS ANNOTATA:Quibus creationem &amp;amp; la¬ um
+          <lb/>hominis graphice de- pingit.
+          <lb/>ARGENTORATI, ANNO) M. D. XXX. (Verso blanc.)
+          <lb/>A la fin: Petrus Schaefer, &amp;amp; Iohan nes Apronianus
+          <lb/>com munibus expensis excudebant. (Verso blanc.)
+          <lb/>In-8°, car. goth., 40 ff. non ch., sign. A-E, titre courant, récla¬
+          <lb/>mes, notes marginales, feuilles de lierre au commencement des chapitres
+          <lb/>1 et 2.
+          <lb/>fol. A 2a:.. BENI GNO AB ALDENAV, VTRIVSQVE luris
+          <lb/>consulto... Petrus Scheferus «Johannes Apronia- nus:
+          <lb/>Gratiam &amp;amp; felicitatem optant... — Argentorati, Kalendas
+          <lb/>Ianuarijs: Anno Christi, M. D. XXX(6 pages.)
+          <lb/>R 101.137. Prov.: Rosenthal, Munich, 14/1. 1891; 16 M.
+          <lb/>Au recto du titre: Ioannis Ephraim Scheibelii theol, 1755 d. 3 Ian.
+          <lb/>GPB: BN Berlin.
+          <lb/>Bibliographie de Cratoaldus (Crautwald): Schottenloher I, No 3458
+          <lb/>et 3458a.
+          <lb/>595
+          <lb/>CRESCENTIIS PETRUS DE
+          <lb/>Strasbourg, J. Schott, 1518.
+          <lb/>Petrus de Crescentiis. Von dem! nutz der ding, die in
+          <lb/>äckeren gebuwt werden. Von nutz der buw- leüt. Von
+          <lb/>natur, art, gebruch, vnd nutzbarkeit aller gewächsz, früch¬
+          <lb/>ten, thyereren, vnd alles des der mensch geleben, oder
+          <lb/>in dienstlicher übung haben soll.
+          <lb/>Jnnhalt disz Bûchs nach der abteylung seiner zwölff
+          <lb/>minder bücher.
+          <lb/>Das Erst bûch. Von erwölten wonungen, stetten, heïs¬
+          <lb/>zeren, vnd höfen. Vnd was nutz sey zû der äckerwonung...
+          <lb/>(21 lignes de texte.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

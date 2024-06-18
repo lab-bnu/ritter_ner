@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:09.715039+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3250.tif
+IMAGE WIDTH: 2338
+IMAGE HEIGHT: 3856
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>694
+          <lb/>S. 389-486: EPITOME PROSODIAE GRAECAE CONSCRIP¬
+          <lb/>TA IN VSVM STV- DIOSAE JVVEN- TVTIS) PER] M. JOSEPHVM
+          <lb/>LANGIVM CAESAREMONTANVM. (Vign.)
+          <lb/>R102.417i. Prov.: Lippert, Halle 7. XII. 1886.
+          <lb/>1022
+          <lb/>GOTHOFREDUS Dionysius
+          <lb/>Strassburg, A. Bertram 1592
+          <lb/>DISPVTATIO DE IVREIVRANDO EIVSQVE SPECIEBVS causis
+          <lb/>atque effectis, Quam PRAESIDE! D. DIONYSIO GOTHOFREDO
+          <lb/>IC. Et in celeberrima Argentoratensium Academia Ante¬
+          <lb/>cessore ordinario publica ovvnrnost ad diem 15. Iulij! hora
+          <lb/>7. in auditorio nouo excutiendam proponit IOANNIS PI¬
+          <lb/>STORIVS TRIBVRIENSIS. I. V. C. (Vign.)
+          <lb/>ARGENTORATI Excudebat ANTONIVS BERTRAMVS ! M. D.
+          <lb/>XCII. (Rücks, leer.)
+          <lb/>40, Antiq. u. Kursiv, 29 unn. Bll., die letaten 4 leer, Kust., Init.
+          <lb/>Bl. A 2a:... LVDOVICO LANDGRAVIO Hassiae, Comiti
+          <lb/>in Catzenelnbogen,... Principis ac Domini GE- ORGII Land¬
+          <lb/>grauij Hassiae &amp;amp;c. filio... — Ex celeberrima Argentoraten¬
+          <lb/>sium Academia.! 20. Iunij Anno salutis, humanae CIO.ID.
+          <lb/>VIII C.Ioannes Pistorius Triburiensis, (2 S.)
+          <lb/>Bl. F4b: AD D. IOANNEM PISTORIVM... Respon- dentem
+          <lb/>&amp;amp; authorem... — Ludouicus Lutzius Stutgardianus! Wir¬
+          <lb/>tenbergiacus, (20 Dist.)
+          <lb/>R 10.549. Herkunft unbekannt. Handschr. Notis:
+          <lb/>«Dissertationes aliquos (!) à clarissimo Domino Boeclero habita (!).
+          <lb/>1. Sacrum Romanum Imperium Respondente Carolo Henrico Morawizki.
+          <lb/>2. Conductor Carolinus Respondente Paula à Steten. (?).
+          <lb/>3. Argo Nova Respondente Hugone à Zenten.
+          <lb/>4. Scipio Polybij. Respondente Ehrenfrid à Zankirch.
+          <lb/>5. Annona Augg. Respondente Georgio Heintz.
+          <lb/>6. Hannonis Periptus. Respondente Jos. Jac. Müllero....»
+          <lb/>1023
+          <lb/>GOTSCHALCUS HOLEN. Siche: HOLEN
+          <lb/>GOUDA Guilhelmus de. Siche: GUILHELMUS DE GOUDA
+          <lb/>GRANATAPFEL. Siche: GEILER
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

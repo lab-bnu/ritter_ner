@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:53.012390+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078347.tif
+IMAGE WIDTH: 2330
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>A la fin: Getruckt zû Straszburg durch Mathiam Hüpf¬
+          <lb/>uff. Als man zalt von der geburt Christi unnsers herren.
+          <lb/>Tau- sent fünffhundertund fünfftze-hen Jare.
+          <lb/>In-4°, car. goth., 24 ff. non ch., sign. A-D, petite init. ornée Z.
+          <lb/>FRI01.111. Prov.: Trubner, Strasbourg 17/VII 1886, 5M.
+          <lb/>1928
+          <lb/>Schmidt Y n° 129: Berne.
+          <lb/>PROBLEMATA.
+          <lb/>cagffuct Plristotelis
+          <lb/>MPuicenne Galeni bnno Allberti Roa¬
+          <lb/>gni. Dariñ menschlicher vnd tbierlicher natur eygen
+          <lb/>scafften ourd frag vno antpourt/ Aud mancerbanòt arunei
+          <lb/>en-d̀en mensen zũ gũt/ Furs angez cygt merd̀en. Juunt
+          <lb/>von netoem gemert/ gebessert /vnò dae onnũn berauf
+          <lb/>gerilcfr òuro Q. Apollinarem.
+          <lb/>1283
+          <lb/>Otrafburg beim jacob Camerlan.
+          <lb/>R. 78
+          <lb/>(Titre du n° 1927)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

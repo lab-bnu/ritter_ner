@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:39.531981+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2445.tif
+IMAGE WIDTH: 2402
+IMAGE HEIGHT: 3822
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>CVM PRAEFATIONE JOAN. ] STVRMII. QVIBVS ADIECIMVS
+          <lb/>CONNV- bium Aduerbiorum Ciceronianorum HERBeRTI
+          <lb/>SVSSANAEI.
+          <lb/>Marque typ. de J. Rihel. (H. E B., Planche XXXII, NO 14.)
+          <lb/>(Verso blanc.)
+          <lb/>A la fin: ARGENTORATI Excudebat Josias Rihelius.
+          <lb/>M. D. LXXVI. (Verso blanc.)
+          <lb/>In-8°, car. rom., 8 ff. non ch., 284 ff. ch., titre courant, réclames,
+          <lb/>initiales ornées.
+          <lb/>fol. A 2a non ch.: AD IOANNEM BAP ] TISTAM filium...
+          <lb/>Ioannis Cratonis à Crafftheim Medici &amp;amp; Consilia rij
+          <lb/>Imp. Maiestatis: Ioannis Stvrmii! Præfatio... — Ar¬
+          <lb/>gentorati sexto No- nas Martij, M. D. LXXVI. (Préface de
+          <lb/>10 pages et demie.)
+          <lb/>fol. 8b non ch.: AD LECTOREM. (3 distiques.)
+          <lb/>R101905 (1). Prov.: Rosenthal, Munich, 17/XII. 1883, 18M.
+          <lb/>Note mss. au bas du titre: Cartæ, in Buxheim.
+          <lb/>BM Strasbourg O 2803a. Brunet I15, 794: Argentorati 1576,
+          <lb/>661
+          <lb/>1596 et 1610.
+          <lb/>441
+          <lb/>DOLET Etienne
+          <lb/>Strasbourg, J. Rihel, 1585
+          <lb/>PHRASES! ET FORMVLAE LINGVAE LATINAE ELE¬
+          <lb/>GANTIORES, STEPHANO DOLETO AVTORE. Nunc denuo re¬
+          <lb/>cognitae.
+          <lb/>CVM PRAEFATIONE JOAN. STVRMII.
+          <lb/>Qvibvs Adiecimvs Connv- bium Aduerbiorum Cicero¬
+          <lb/>nianorum, HVBERTI SVSSANNAEI.
+          <lb/>Marque typ. de Josias Rihel. (H. d B., Planche XXXII, No 16.)
+          <lb/>CVM PRIVILEGIO CAESAREO. M. D. LXXXV.
+          <lb/>A la fin: ARGENTORATIExcudebat Josias Rihelius.
+          <lb/>M. D. LXXXV.
+          <lb/>In-8°, car, rom. et ital., 2 col, 4 ff. non ch.. 187 ff. ch. et 1 f.
+          <lb/>blanc, titre courant, réclames, initiales ornées.
+          <lb/>Au verso du titre: AD LECTOREM. (3 distiques.)
+          <lb/>fol. 2a non ch.: AD IOANNEM BAP- TISTAM, Filium nobil¬
+          <lb/>lissimi... Ioannis Cratonis à Crafftheim... IOANNIS STVRMII
+          <lb/>Praefatio... — Argentoratisexto Nonas Martij. M.D.
+          <lb/>LXXVI.
+          <lb/>R 101.906(1). Prov.: Friedrich-Gymnasium, Francfort s. M.,
+          <lb/>14/XII. 1888, sans indic. de prix.
+          <lb/>Notes mss.
+          <lb/>662
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

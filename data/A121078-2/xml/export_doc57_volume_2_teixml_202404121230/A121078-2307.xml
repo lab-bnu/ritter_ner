@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:35.648406+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2307.tif
+IMAGE WIDTH: 2302
+IMAGE HEIGHT: 3818
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>In-8°, car. goth., 8 ff. non ch., 223 pages ch., 10 ff. non ch., dont
+          <lb/>le dernier blane, (Index à 2 col.), titre courant, réclames, initiales
+          <lb/>goth., titre rouge et noir.
+          <lb/>fol. A 2a: ... Herren Matthiae Holtz-wart, der freien
+          <lb/>Künsten Magistro, Stat-schreiber zu Rapperschweyer,
+          <lb/>meinem in sonders vertrawten guten! Freundt... — M.
+          <lb/>Toxites D. Medicinae.
+          <lb/>R101700(2). Prov.: Don de M. C. Wehrmann à Lubeck; notes
+          <lb/>mss. Rel. anc.
+          <lb/>GPB: BU Breslau.
+          <lb/>Manque chez Schreiber, Kräuterbücher.
+          <lb/>462
+          <lb/>CARRICHTER Bartholomaeus
+          <lb/>Strasbourg, Ant. Bertram, 1590.
+          <lb/>Practica, Ausz den fürne-mesten Secretis, weiland
+          <lb/>des Edelen vnnd Hochgelehrten Herren Bartholomei Car¬
+          <lb/>richters, der Röm. Kay. May. Herrn Maximilian des
+          <lb/>Andern, vnsers aller genedig-sten Herren, &amp;amp; Hoff¬
+          <lb/>Doctors. Von allerhand Leibskranckhey- ten : Von
+          <lb/>Vrsprung der Offenen schäden, vnd jhrer heylung.
+          <lb/>(Vignette.)
+          <lb/>Au-dessous: Cum priuilegio Caesareo. Gedruckt zu
+          <lb/>Straszburg, durch! Antonium Bertram. M. D. XC. (Verso
+          <lb/>blanc.)
+          <lb/>In-4°, car. goth., 8 ff. non ch., 160 et 183 pages ch,, titre cou¬
+          <lb/>rant, réclames, initiales goth., titre rouge et noir.
+          <lb/>fol. A 2a: ... Herrn Philipsen Grauen Leyningen,
+          <lb/>Herren zu Westerburgvnd Schawenburg, desz H. Röm.
+          <lb/>Reichs Semperfrey, meinem gene-digen Herren... —
+          <lb/>Da tum Hagenaw den ersten Augu-sti Anno M.D.LXXIIII.
+          <lb/>... Michael Toxites. (3 ff.)
+          <lb/>fol. A 5a : Index. (4 ff.)
+          <lb/>R 101700. Prov.: Don de M. C. Wehrmann à Lubeck, 1871.
+          <lb/>Notes mss. Rel. anc.
+          <lb/>BN Paris, Tel30, 15; GPB: RU Breslau.
+          <lb/>463
+          <lb/>303
+          <lb/>CARRICHTER Bartholomaeus: Horn des Heils. Voir: PEGIUS
+          <lb/>Martinus.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

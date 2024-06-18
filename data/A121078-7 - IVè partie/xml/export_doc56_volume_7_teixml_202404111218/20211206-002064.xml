@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:03.159204+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002064.tif
+IMAGE WIDTH: 2464
+IMAGE HEIGHT: 3976
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>BRENTIUS, Joh. : Catechismus. — Haguenau, Pierre Brubach
+          <lb/>1536, in-8° (A la suite de: LUTHER, Martin, Catechismus,
+          <lb/>latinus factus 1536l.
+          <lb/>Ritter: B M Strasbourg n° 595.
+          <lb/>1066
+          <lb/>BRENTIUS, Joh. : Catechismus continens summa &amp;amp; necessaria
+          <lb/>capita Christianae Religionis. — Haguenau, Valentin
+          <lb/>Kobian mars 1536, in-8°.
+          <lb/>Köhler, no 83 ; Franckfurt-s.-M., Wien.
+          <lb/>1067
+          <lb/>BRENTIUS, Joh. : Catechismus pro iuventute. — Strasbourg
+          <lb/>1555, in-8°.
+          <lb/>Köhler, n° 285 : Cassel.
+          <lb/>1068
+          <lb/>BRENTIUS, Joh. (Cicero) : Erotemata in M. T. Ciceronis
+          <lb/>libros III de Officiis, itemque de Senectute et de Amicitia
+          <lb/>Dialogos... omnibus ingenuis adolescentibus cognitu
+          <lb/>dignissima. — Strasbourg, Antoine Bertram 1589.
+          <lb/>Ritter, Hist. impr., app. 407 (4).
+          <lb/>1069
+          <lb/>BRENTIUS, Joh. : (Ecclesiastes) : Ecclesiastes Salomonis per
+          <lb/>H. Gast e Germano in Latinum tralatus... — Haguenau,
+          <lb/>Jean Secer 1529, in-80.
+          <lb/>Köhler, no 32. Au no 33, Köhler cite un exemplaire de la Bibl.
+          <lb/>Universitaire de Leipzig où il est dit à la fin : « Haganoe,
+          <lb/>Johannes Secerius excudebat, anno 1529. Mense Februario».
+          <lb/>1070
+          <lb/>BRENTIUS, Joh. (Ehesachen) : Wie in Eesachen... Christenlich
+          <lb/>zu handeln sey.... —Strasbourg, Balthasar Beck 1529,
+          <lb/>in-40.
+          <lb/>Köhler, n° 38 : Gotha.
+          <lb/>1071
+          <lb/>BRENTIUS, Joh. (Ehesachen) Idem. — Strasbourg, Balthasar
+          <lb/>Beck 1530, in-80.
+          <lb/>Köhler, n° 43.
+          <lb/>1072
+          <lb/>62
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

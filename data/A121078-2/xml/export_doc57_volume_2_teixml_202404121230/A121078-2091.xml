@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:28.883302+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2091.tif
+IMAGE WIDTH: 2328
+IMAGE HEIGHT: 3830
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Au verso de l’avant-dernier f.: THOMAS WOLPHIVS JUNIOR
+          <lb/>Jacobo Vuimphelingio sacrae paginae Licentiato..... —
+          <lb/>Argentine cursim! ex aedibus nostris sesto kalen. Martij
+          <lb/>Anno Christi milesimo quingente- simo tertio.
+          <lb/>Au recto du dernier fol.: JACOBVS WIMPHELINGIVS ! Thomae
+          <lb/>Vulphio iuniori. ...— Ex Hieremitorio diui Guiller- mi
+          <lb/>Kalendas Martii. Anno... M.CCCCCIII.
+          <lb/>Au-dessous: AD LECTOREM.
+          <lb/>&amp;quot;R100.139. Prov.: Bibl. Böcking. Notes mss.
+          <lb/>Schmidt III, p. 34, N0 18. BM de Strasbourg.
+          <lb/>GPB: Berlin SB, Göttingen UB.
+          <lb/>149
+          <lb/>BAPTISTA Mantuanus
+          <lb/>Strasbourg, M. Hupfuff, 1520.
+          <lb/>F. BAPTI STAE MANTVA N CARMEL(TAE THEO) LOGI,
+          <lb/>FASTORVM LIBRI DVO DECIM.
+          <lb/>Quibus praemittitur.Carmen ad Julium. Il. Ponti
+          <lb/>ficem maximum.Carmen ad Leonem. X. Ponti ficem
+          <lb/>maximum. Vita authoris, a seipso descripta Carmine
+          <lb/>elegiaco.
+          <lb/>Item &amp;amp; alia quaepiam. (Verso blanc.)
+          <lb/>A la fin: FASTORVM LIBRI F. BAP. MAN. Con- tente
+          <lb/>admodum emaculati, stanneis characteribus excepti sunt
+          <lb/>Argentorati, Instinctu &amp;amp; aere Matthiae hupfuff, Mense Martio.
+          <lb/>ANNO M. D.XX.
+          <lb/>In-4° car, rom., 157 ff. non ch., sign. A-Z, Aa-Oo, titre courant,
+          <lb/>grandes initiales ornées M, R, J, Q. A; titre encadré, composé de 4
+          <lb/>pièces, les pièces latérales: 2 colonnes avec un enfant grimpant à
+          <lb/>chaque colonne, pièce inférieure, un roi porté en triomphe sur une
+          <lb/>litière; encadrement fréquent chez Flach.
+          <lb/>fol. A 2a MATTHIAE SCHVRERIO GENTILI Chariss. Jocobus
+          <lb/>Vuimphelingius! Seletstatinus... — Ex patria nostra com¬
+          <lb/>muni. Calendas Maij. Anni Christi. M.D.XX.
+          <lb/>Cette lettre de Wimpheling à Schürer se trouve en tête de l’édi¬
+          <lb/>tion du même livre imprimé en 1518 par Schürer, on a seulement
+          <lb/>changé la date 1518 en 1520.
+          <lb/>*R100.136. Prov.: J. Noiriel, Strasbourg, 4. V. 1892; 3 M.;
+          <lb/>rel. anc.
+          <lb/>Au milieu du titre: «P. Rosellus,; au verso du f. de garde:
+          <lb/>«Cuvier Charles 15 juillet 1815.»
+          <lb/>Schmidt V, No 140: Fribourg. Il remarque en outre: «Si cette
+          <lb/>édition ne portait pas le nom de Hupfuff, on pourrait douter qu’elle
+          <lb/>fut de lui; ni les bordures du titre, ni les caractères ne rappellent
+          <lb/>son genre habituel.» GPB: Halle.
+          <lb/>150
+          <lb/>87
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

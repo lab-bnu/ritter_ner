@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:32.447215+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2200.tif
+IMAGE WIDTH: 2284
+IMAGE HEIGHT: 3826
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>196
+          <lb/>In-8°, car. goth., 2 ff. non ch., dont le dernier blane. XXVIII ff.
+          <lb/>ch., titre courant, réclames; fol, xiïj: gravure sur bois: «Figur der
+          <lb/>aderläss»; fol. XVII; gravure sur bois : Figur der adern.
+          <lb/>Au verso du dernier f. marque typographique de Cammerlander. (HEB,
+          <lb/>Planche XXIV, No 1.) Au haut du titre, bande d’ornement.
+          <lb/>R101711. Prov.: K. Theodor Völcker, Francfort s. M., 23/x.
+          <lb/>1900; 32 M. A l’intérieur de la couverture, annotation mss.: Erste
+          <lb/>Auflage der,, Newe Badenfart&amp;quot;, dieselbe enthält noch nicht
+          <lb/>die Wildbäder, ist aber höchst selten. Kostete bei der Auk¬
+          <lb/>tion Lobris :... M. 44. Au verso du titre: Ex-Labris Th. Renz.
+          <lb/>GPB IX, 6314 sous Badenfahrt: Berlin. Dangig, Darmstadt LB,
+          <lb/>Erlangen B U. Notre Bibliothèque l’a sous Brunfels; Wenzel Bernhard,
+          <lb/>Cammerlander und Vielfeld l’attribue à ce dernier (p. 61, N° 16). 300
+          <lb/>Strasbourg, J. Schott, 1536.
+          <lb/>BRUNFELS Otto
+          <lb/>NOVI HERBARII TOMVS II (entre 2 ff. de lierre.) PER
+          <lb/>OTHONEM BRVNFELS IVM DENVO NATVS. Continens
+          <lb/>quae uersa pagina subnotantur.Subiecto Indice, rem
+          <lb/>ob oculos omnem uel! digito monstrans.
+          <lb/>ARGENT, apud Ioannem Schottum, cum! Caes. Maiest.
+          <lb/>Priuilegio ad Sexennium. M. D. XXXVI. (Verso blanc.)
+          <lb/>A la fin: ARGENTORATI apud Ioannem Schot- tum
+          <lb/>librarium. Anno. M. D. XXXVI.
+          <lb/>In-fol., car. rom. et goth, 95 pp. ch., (p. 1-6 sans chiffre, la
+          <lb/>pagination commence avec p. 7.)
+          <lb/>Suit: DE VERA HERBARVM cognitione APPENDIX, cui
+          <lb/>sequentia insunt. 1. Exegesis omnium Simplicium Dios¬
+          <lb/>coridae... fol. 99.2. Scribonij Largi Medici uetustissimi,
+          <lb/>De Sim plicibus fragmentum. 1273 lo. Mainardi Ferrariensis.
+          <lb/>Medici... Annotationes aliquot Simplicium... 128 4 Nicolaus
+          <lb/>Leonicenus de falsa quarundam herbarum inscriptione a
+          <lb/>Plinio, 140 5 Pandulphus Collinutius de interpretatione
+          <lb/>Simplicium quae sunt apud Plinium... 205 6 Generosi
+          <lb/>Comitis Heremanni a Neüenar cen- surae aliae Herbarum...
+          <lb/>2327 Leonardi Fuchsij, Principis Brandenburg. Medici
+          <lb/>Annotationes de Simplicibus... 2408 Do. loachimi
+          <lb/>Schylleri Medici iudicium de Garyophillis. 271 9 Hiero¬
+          <lb/>nymi Tragi medici dissertationes fere! quinguaginta, de
+          <lb/>herbarum quarundam nomenclaturis 272 10 Marci Gati¬
+          <lb/>nariae medici quondam Ticinen. Annotatio una &amp;amp; altera
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

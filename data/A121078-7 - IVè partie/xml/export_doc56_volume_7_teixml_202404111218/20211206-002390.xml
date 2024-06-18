@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:11.614570+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002390.tif
+IMAGE WIDTH: 2494
+IMAGE HEIGHT: 3974
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>OTTHER, Jacobus. Voir: GERSON, Joh., Sermo, n° 1882.
+          <lb/>Voir aussi (RITTeR, Rép., n° 1736).
+          <lb/>OVIDIUS : Fastorum libri IV. Vita autoris... — (Strasbourg,
+          <lb/>Mathias Schürer, juin 1515), in-4°,
+          <lb/>Graesse V, p. 78; Schmidt VIII, n° 160 : B M Cassel. (Ritter,
+          <lb/>Rép. n° 1745 : Fastorum libri sex. Schürer, mai 1519]. 2806
+          <lb/>OVIDIUS : Metamorphoseon Libri XV (éd. Nic. Gerbelius). —
+          <lb/>(Strasbourg, Mathias Schürer, juillet 1515), in-40.
+          <lb/>Panzer 6, 74, 393; Schmidt VIII, n° 161 : B U Fribourg. 2807
+          <lb/>OVIDIUS : De Ponto Libri Quattuor... — (Strasbourg,
+          <lb/>Mathias Schürer, mars 1515), in-40.
+          <lb/>Panzer 6, 74, 392; Schmidt VIII, n° 154: B M Cassel. 2808
+          <lb/>OVIDIUS : Heroidum epistolae... — (Strasbourg, Mathias
+          <lb/>Schürer, mars 1518), in-40.
+          <lb/>Graesse V, p. 73; Panzer, 6, 88, 518; Schmidt VIII, n° 229:
+          <lb/>B M Zurich.
+          <lb/>2809
+          <lb/>OVIDIUS : Heroidum Epistolae... Suite du n° suivant
+          <lb/>2811. — Strasbourg, Mathias Schürer, mai 1520, in-4°.
+          <lb/>Schmidt VIII, n° 257; Panzer 6, 94, 575.
+          <lb/>2810
+          <lb/>OVIDIUS : Epistolae. P. Ovidii de nuce Elegia de Medicamine
+          <lb/>faciei. Item Auli Sabini epistolae tres. — Strasbourg,
+          <lb/>Mathias Schürer, mai 1520, in-4°.
+          <lb/>Panzer 6, 94, 575; Schmidt VIII, n° 257. — Olim bibl. Arg.
+          <lb/>3609.
+          <lb/>2811
+          <lb/>OVIDIUS : De Tristibus libri V. — Strasbourg, Mathias
+          <lb/>Schürer, février 1520, in-40.
+          <lb/>Panzer 6, 94, 574; Graesse V, p. 79; Schmidt VIII, n° 256.
+          <lb/>(Ritter, Rép, n° 1744 ; éd. Schürer, mai 1515).
+          <lb/>2812
+          <lb/>OVIDIUS. Voir aussi: [RITTER, Rép, nos 1740-1748).
+          <lb/>388
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

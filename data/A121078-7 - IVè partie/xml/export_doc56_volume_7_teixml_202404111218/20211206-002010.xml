@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:01.771086+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002010.tif
+IMAGE WIDTH: 2474
+IMAGE HEIGHT: 3954
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>complectens officia, e Graeco per Menradum Moltherum
+          <lb/>heroico carmine tralatum. — (Haguenau, H. Gran),
+          <lb/>1527, in-80.
+          <lb/>GKII, 2546: B N Munich, Vienne; Ritter : B M Strasbourg
+          <lb/>367.
+          <lb/>762
+          <lb/>AGAPETUS Diaconus. Voir aussi : Ritter, Rép. n° 13.
+          <lb/>AGENDBÜCHLEIN der Kirche zu Basel für das Jahr 1564. —
+          <lb/>(Mulhouse, P. Schmid 1563).
+          <lb/>Werner, p. 107, n° 30, note 2 ; « M. Graf, Geschichte der
+          <lb/>Stadt Mülhausen 1819, I, p. 192 cite ce volume parmi
+          <lb/>les impressions de Pierre Schmid.»
+          <lb/>763
+          <lb/>AGERIUS, Nicolaus : Theses medicae physicae, de homine
+          <lb/>sano... — Strasbourg, Antoine Bertram 1593, in-4°.
+          <lb/>Londres: B M Cat. Il, col. 232; 1179, i. 1 (12).
+          <lb/>764
+          <lb/>AGERIUS, Nicolaus : Theses medicae de dysenterio... —
+          <lb/>Strasbourg, Antoine Bertram 1593, in-4°.
+          <lb/>Londres : B M C. II, col. 232 ; 1179, i. 1. (13).
+          <lb/>765
+          <lb/>AGRICOLA, Johannes : In Evangelium Lucae Annotationes,
+          <lb/>summa Scripturarum fide tractatae... — Haguenau
+          <lb/>(A. Farckall) 1526, in-8°.
+          <lb/>GKII 3676: B N Berlin, Munich, Vienne, B U Munster, 766
+          <lb/>AGRICOLA, Joh. : Elementa pietatis congesta a Johanne
+          <lb/>Agricola Isleb. — Haguenau, Armand Farckall 1527,
+          <lb/>in-80.
+          <lb/>Ritter, Hist. impr. app. 466.
+          <lb/>767
+          <lb/>AGRICOLA, Johannes: Hundert und LVI gemeyner Fragstucke
+          <lb/>für die jungen Kinder in der teütschen kinder Schule. —
+          <lb/>(Strasbourg 1528), in-80.
+          <lb/>GKII, 3695; B N Berlin, Munich.
+          <lb/>768
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:44.973348+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078085.tif
+IMAGE WIDTH: 2324
+IMAGE HEIGHT: 3842
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>971
+          <lb/>In-4°, car. rom., 4 ff. non ch. (titre et table à 2 col.), CV ff. ch¬
+          <lb/>et 1 f. blanc, titre courant, réclames, init. d’attente.
+          <lb/>*R100.681. Prov.: BN Munich 1/II 1877; 0,60 M.
+          <lb/>Proctor II Sectio I n° 9969: Londres, Brit. Museum; Schmidt III
+          <lb/>n° 41: Bibl. St. Guillaume, Strasbourg.
+          <lb/>1460
+          <lb/>MAILLARDUS Oliverius
+          <lb/>Strasbourg, J. Knobloch 1506
+          <lb/>Sermones de adventu; quadra gesimales: dominicales:
+          <lb/>et de peccati stipendio et gratie premio: una cum pul¬
+          <lb/>cerrimis (!) juris questionibus quolibet in sermone insertis et
+          <lb/>spi! ritualiter explicatis per venerabilem patrem sacre scrip¬
+          <lb/>ture inter- pretem et divini verbi preconem fratrem Oli¬
+          <lb/>verium Maillardi ordinis minorum Parhisiis declamati.
+          <lb/>noviter impressi et accura- tissime emendati. (Petite gravure
+          <lb/>sur bois: la Vierge couronnée avec l’enfant Jésus sur le bras, debout
+          <lb/>dans une gloire, la gravure est entourée de 5 dist. (Verso blanc.)
+          <lb/>A la fin: Utilissimorum sermonum Patris Olive rii
+          <lb/>Maillardi... — Argentine impres- sorum: et diligen¬
+          <lb/>tissime castigatorum: impen! sis solertis viri Johannis Kno¬
+          <lb/>blouchi eiusdem civitatis calchographi. Anno sa lutis
+          <lb/>super sesquimillesimum sexto. v. Kal. Septembr. Finis.
+          <lb/>(Verso blanc.)
+          <lb/>In-40, car. goth., 2 col., 6 ff. non ch. (titre et table), CCCLXVI
+          <lb/>ff. ch., titre courant, init. d’attente, titre rouge et noir.
+          <lb/>F*R101401. Prov.: BN Munich I/II 1877; 2 M. En haut du
+          <lb/>titre : «Ad Bibliothecam Windbergensis Monasterii.»
+          <lb/>2ème ex.: *R101400. Prov.: Don de la ville de Heilbronn 1871;
+          <lb/>f. du titre manque; à l’intérieur de la couverture: «Ex legato Egregii
+          <lb/>viri Artium ac sacre Theologiae doctoris domini Johannis Krener ex Scher¬
+          <lb/>ding Concionatoris Heilpronensis.»
+          <lb/>Kristeller 343, Schmidt VII n° 18: Jadis Bibl. de Strasbourg Incun.
+          <lb/>n° 3213 et Bâle. Bœr, Francfort-s.-M., Catal. 500 (1907) n° 1064;
+          <lb/>36 M.
+          <lb/>1461
+          <lb/>M RILLNPAUE
+          <lb/>—R 40Akot
+          <lb/>MAILLARDUS Oliverius
+          <lb/>Maibeua 156)
+          <lb/>Strasbourg, J. Knobloch 1518
+          <lb/>Sermones de adventu: quadra gesimales: dominicales:
+          <lb/>... (Le titre est le même que dans l’édition de 1506.) Même fin que
+          <lb/>dans l&amp;#x27;édition de 1506; il n’y a que la date qui diffère:
+          <lb/>Anno sa lutis sesquimillesimum duodecimo: pridie
+          <lb/>Kal. septembris. Finis.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

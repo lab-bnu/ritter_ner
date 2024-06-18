@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:32.413018+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2198.tif
+IMAGE WIDTH: 2278
+IMAGE HEIGHT: 3824
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>194
+          <lb/>Getruckt zâ Straszburg beim M. Jacob Cammerlander.
+          <lb/>(Verso blanc.)
+          <lb/>Au haut du titre, bande d’ornement. Au verso du dernier f.: mar¬
+          <lb/>que typographique de J. Cammerlander, (H e B, Planche XXIV, NOI;
+          <lb/>Silvestre, N° 816) entouré de 4 pièces d’encadrement.
+          <lb/>In-4°, car. goth., 4 ff. non ch., XLIV ff. ch., titre courant, récla¬
+          <lb/>mes, bandes d’ornement, notes marginales.
+          <lb/>fol. 2a non ch.: Jnhalt dieser zweier Büchlein, (4 pages.)
+          <lb/>fol. 4b non ch. : Vorred. (Préface de Cammerlander, 1 p.)
+          <lb/>R101.546. Prov.: Alex. Hatefeld, geb. Schaum, Flacht près Diez,
+          <lb/>1871. Notes mss., au bas du titre, au cravon, 1534.
+          <lb/>Roth, loco citato No 3: BN Vienne; Graesse, I, p. 533.
+          <lb/>298
+          <lb/>Strasbourg, G. Ulricher, 1535.
+          <lb/>BRUNFELS Otto
+          <lb/>ANNOTATIONES OTHONIS BRVNFELSII, REL ME- DICES
+          <lb/>DOCTORIS PERITISSIMI, THEO- LOGIAE, TRIVM LINGVARVM,
+          <lb/>VARIA-rvmque Artium insignite eruditi, in quatuor Euan¬
+          <lb/>gelia &amp;amp; Acta Apostolorum, ex Orthodo- xis Sacrarum
+          <lb/>Literarum scriptoribus congestae, plusquam credi po¬
+          <lb/>test, Diuinarum rerum! Candidatis, usui futurae.
+          <lb/>Feuille de lierre; marque typographique de G. Ulricher d’Andlau
+          <lb/>(H eB, Planche XXII, No 6; Silvestre, No 737.)
+          <lb/>Au dessous: ARGENTORATI GEORGIO VLRICHERO! Andlano
+          <lb/>Impressore, An. M. D. XXXV. Mense Septemb.
+          <lb/>A la fin: Argentorati imprimebat Georgius Vlricher
+          <lb/>Andlanus Mense Septemb. Anno M. D. XXXV.
+          <lb/>In-fol., car, rom, 6 ff. non ch., 245 ff. ch. et 1 f. blanc avec la
+          <lb/>marque typographique d’Ulricher au verso (H d B, Planche XXII,
+          <lb/>N° 4.), titre courant, réclames, notes marginales, initiales à fig. et ini¬
+          <lb/>tiales ornées.
+          <lb/>Au verso du titre, grande gravure sur bois: portrait de Brunfels,
+          <lb/>au-dessus les mots : EFFIGIES DOCT. OTHONIS( Brunfelsii Anno¬
+          <lb/>aetatis suae! XXXXVI.
+          <lb/>fol. 2a non ch: SENATVI POPVLOQVE ARGENTINO DOCT.
+          <lb/>IOANNES Munterus Gandauus atque Georgius Vlricher
+          <lb/>Andlanus. S. D.... — ARGENTORATI AN. D. M. XXXV. (!)
+          <lb/>Calendis Semptemb. (!) (Préface de 3 pages.)
+          <lb/>Suivent 5 pages d’Index à 2 col.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

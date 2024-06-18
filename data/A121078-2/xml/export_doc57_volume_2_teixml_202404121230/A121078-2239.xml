@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:33.766377+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2239.tif
+IMAGE WIDTH: 2296
+IMAGE HEIGHT: 3816
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>235
+          <lb/>Au verso du titre:... Herrn Fridreich Pfaltzgraue bey
+          <lb/>Rheyn, hertzog in Beyern, meinem gnädigsten herren...—
+          <lb/>Geben zû Straszburg. XXVj. Decembris. 1524. E. F. G.
+          <lb/>vndertheniger diener Martin Butzer. (13 pp.)
+          <lb/>A la fin: Vnd seind vnser namen, Wolffgangus Capito.
+          <lb/>Caspar Hedio. MattheusZell. Symphorian Pollio. Theo¬
+          <lb/>baldus Niger. Jo. Lato mus. Antonius Firn. Martinus Hag.
+          <lb/>Martinus Butzer.
+          <lb/>R102.432. Prov.: Bibl. Ch. Schmidt avec son exlibris à l&amp;#x27;inté¬
+          <lb/>rieur du 1er plat. Au bas du titre:,Epist. 1524 24 Decemb”. Notes
+          <lb/>mss. dans le texte.
+          <lb/>Bibl. St. Guillaume, Strasbourg.
+          <lb/>Manque chez Mentz qui a une édition de 1524.
+          <lb/>353
+          <lb/>BUTZER Martin
+          <lb/>Strasbourg, J. Herwagen, 1527.
+          <lb/>ENAR- RATIONVM IN EVAN-gelia Matthaei, Marci, &amp;amp;
+          <lb/>Lucae, libri duo. Loci communes syncerioris Theologiae
+          <lb/>supra centum, ad simplicem scriptu-rarum fidem, citra
+          <lb/>ullius insecta! tionem aut criminationem, excussi, PER
+          <lb/>M. BVCERVM. Argentorati, Anno, M. D. XXVII.
+          <lb/>In-8°, car. ital., 8 ff. non ch., 256 ff. ch. — 48 ff. ch. et 16 ff.
+          <lb/>non ch. (Index), titre courant, réclames, notes marginales, initiales à
+          <lb/>fig.; bandes d’ornement, titre encadré comme N° 33 et 34.
+          <lb/>Au verso: ELENCHVS. (9 lignes).
+          <lb/>fol. 2a non ch.:... Senatoribus inclytae urbis Argento¬
+          <lb/>raten sis, Martinus Bucerus... — Argen.15 Kalend.
+          <lb/>Apriles. M. D XXVII. (Epistola nuncupatoria, 15 pages.)
+          <lb/>fol. 8b non ch.: Liber ad lectorem, Johan. Sap. (10 distiques).
+          <lb/>Les 256 ff. suivants contiennent l’Evangile de st. Mathieu; Le 2e
+          <lb/>livre sur Marc et Luc manquent.
+          <lb/>L’appendice de 48 ff., chiffrés à part a un nouveau titre:
+          <lb/>CORONIS QVA ORDINE, QVIBVS IN] Enarrationibus Matthaei
+          <lb/>locis, singula Marci &amp;amp; Lucae, quae cum Matthaeo, uel
+          <lb/>eadem uel similia habent, explicata sunt, indicatur, tum
+          <lb/>quae habent propria, enarrantur,&amp;quot;
+          <lb/>Au verso: M. Bucerus Christianis lectoribus... — Argen¬
+          <lb/>torati VII. Martij. Anno Domini M. D. XXVII.
+          <lb/>R 101180. Prov.: Bibliothèque Reuss, avec son exlibris, (Stras-
+          <lb/>bourg 1891) et son autographe avec l’annotation de sa main: Monachii
+          <lb/>1868 fr. 5.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

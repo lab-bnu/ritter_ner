@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:33.370095+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2228.tif
+IMAGE WIDTH: 2288
+IMAGE HEIGHT: 3824
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>224
+          <lb/>BURGER ARTICKEL
+          <lb/>Strasbourg, (W. Köpfel?] 1525.
+          <lb/>Burger Artickel. Es soll ein yeder burger vnnd ein¬
+          <lb/>woner diser Statt Straszburg, bey den pflich ten, damit
+          <lb/>er seiner ordenlichen Oberkheit zugethon, auch bey trewen,
+          <lb/>glauben, vnd christlichem gewissen, zu yetz igem zug
+          <lb/>wider den Turcken, von allen seinen beweglichen vnd vn¬
+          <lb/>beweglichen hab vnd guetern, ye von hundert guldin
+          <lb/>rechts werts ain halben guldin, vnd von Thausendt guldin
+          <lb/>wert guetern, fünff gulden, vnd also vf vnd ab zerech¬
+          <lb/>nen.... — (Verso blanc.)
+          <lb/>Placard, in-fol., car. goth., 24 lignes, init, ornée E.
+          <lb/>R 22(48), Prov.: Collection Heitz, Strasbourg, 1871. (Verso blanc).
+          <lb/>Note mss.: Abgab von 1/2°/o für den Türkenzug, 1525.
+          <lb/>335
+          <lb/>Strasbourg, J. Knobloch, 1514.
+          <lb/>BURGO Iohannes de
+          <lb/>Pupilla oculi- De septem sacramentorum admini¬
+          <lb/>stratione: de decem preceptis decalogi, ceterisque eccle¬
+          <lb/>siasticorum (que rite institutum sacerdotem haud qua¬
+          <lb/>quam! ignorare decet) officijs:! Joannis de! Burgo alme
+          <lb/>quondam Canta-brigiensis vniuersitatis Cancellarij: presby¬
+          <lb/>teris omnibus sacreque militie studiosis maiorem in modum
+          <lb/>necessaria.
+          <lb/>Adiectis tabula Capitulorum, atque indice alphabe¬
+          <lb/>tico omnium hoc in opusculo contento- rum absolutissi¬
+          <lb/>me concinnatis.
+          <lb/>Augustinus Aggeus ad clerum. (7 distiques latins.)
+          <lb/>A la fin: ... opera! litterarioque prelo Jo. Knoblouchij:
+          <lb/>impen sis vero Pauli Goetz ciuis et Bibliopo le Argen¬
+          <lb/>tini; extremam manum sensit Nonis septembris. M.d.xiiij.
+          <lb/>In-4°, car. goth., 2 col., OXX ff. ch. — 15 ff. non ch. (Table),
+          <lb/>tttre courant, initiale ornée H et initiales d’attente; titre rouge et noir.
+          <lb/>Au verso du titre: Augustinus aggeus Haius... Guilhelmo
+          <lb/>bretton... — Londini ex edibus nostris pridie kalendas
+          <lb/>Februarias. Mil. CCCCCX.
+          <lb/>FR101.45. : Prov.: Völcker, Francfort s. M., 22/11. 1883; 8M.
+          <lb/>Note mes. à l&amp;#x27;intérieur du ter plat:»N. B. Editio rarissima.
+          <lb/>Rel, anc.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

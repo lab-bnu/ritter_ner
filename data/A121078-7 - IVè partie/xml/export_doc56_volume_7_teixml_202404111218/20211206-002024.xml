@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:01.988293+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002024.tif
+IMAGE WIDTH: 2484
+IMAGE HEIGHT: 3976
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Dreyer Personen... Alles D. M. L(uthers) lere betreffend.
+          <lb/>— [Strasbourg, René Beck, 1522), in-4°.
+          <lb/>G KVI, 2545 (met sans lieu) : B N Munich, Berlin; Cat.
+          <lb/>Breslauer, Verzeichnis 32, n° 1083 : 110 M.
+          <lb/>840
+          <lb/>ARGUMENTA, Teutsche. Voir : [HUNNIUS, Aegidius), n° 2085.
+          <lb/>Voir aussi: RITTER, Rép, n° 73.
+          <lb/>ARGYROPYLUS, Joh. Voir : ARISTOTELES, n° 844.
+          <lb/>ARISTIDES, Aelius : (Oratio Ulyssis legati ad Achilleml
+          <lb/>(grec et lat.). — Haganfoe), Pierre Brubach] (15) 35,
+          <lb/>in-80.
+          <lb/>GKVI, 5448: B N Munich.
+          <lb/>841
+          <lb/>ARISTOPHANES : Plutus (éd. Petrus Mosellanus). —
+          <lb/>(Haguenau, Thomas Anshelm novembre 1517), in-4°.
+          <lb/>GKVI, 5788: BN Munich, Breslau, Goettingen; Burg no 69.
+          <lb/>842
+          <lb/>ARISTOPHANES : Nubes ac Plutus... (éd. Phil. Melanchthon)
+          <lb/>scholiis brevissimis adnotatae. — Haguenau, J. Secer
+          <lb/>1528, in-4°.
+          <lb/>GKVI, 5715; Burg : Haguenau n° 70.
+          <lb/>843
+          <lb/>ARISTOTELES : Libri octo physicorum per Johannem Argyro¬
+          <lb/>pylum (éd. Wolfgang Mosnauer). — (Sélestat, Lazare
+          <lb/>Schürer 1er août 1521), in-8°.
+          <lb/>GKVI, 7033 : BN Munich; Legrand III n° 233, Hoffmann I,
+          <lb/>p. 349. (La B N de Strasbourg a une éd. du l. IV, 1521 :
+          <lb/>R101856).
+          <lb/>844
+          <lb/>ARISTOTELES : In Aristotelis aliquot Libros politicos Philippi
+          <lb/>Melanchthonis Commentaria. — Haguenau Jean Secer)
+          <lb/>1531, in-8°.
+          <lb/>Walter n° 647.
+          <lb/>845
+          <lb/>22
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

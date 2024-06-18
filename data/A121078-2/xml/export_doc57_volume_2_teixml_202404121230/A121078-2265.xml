@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:34.585614+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2265.tif
+IMAGE WIDTH: 2300
+IMAGE HEIGHT: 3820
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>CALAMINUS Georg
+          <lb/>Strasbourg, N. Wyriot, 1575.
+          <lb/>EPITHALAMIA] SCRIPTA! IN HONOREM Nuptiarum Doc¬
+          <lb/>tissimi viri Domi-ni Magistri Georgii Poppii Gotthani:
+          <lb/>&amp;amp; Castissimae &amp;amp; honestissimae virginis Margarethae
+          <lb/>Fesnerin, honestissimi viri, Domini Theobaldi de Fessen¬
+          <lb/>heim, piae memoriae, relictae filiae. PRIVs à! Georgio
+          <lb/>Calamino, Silberbergensi, Silesio. ALTERVM à! Sebastiano
+          <lb/>Figulo Landauiensi.
+          <lb/>Marque typographique de N. Wyriot, (H &amp;amp; B, Planche XLIII,
+          <lb/>No 2; Silvestre N° 763.)
+          <lb/>Au-dessous: ARGENTORATI Typis Nicolai Wirioti: Anno
+          <lb/>1575.
+          <lb/>In-4°, car. ital. et rom., 4 ff. non ch., sign. A, réclames.
+          <lb/>R 100.159. Prov.: L. Rosenthal, Munich, 11. XI. 1889; 3M.
+          <lb/>Incomplet, quelques feuilles manquent, vu qu’au verso du dernier f.
+          <lb/>il y a la réclame, Mater&amp;quot;. Au bas du titre avec autographe de l’auteur:
+          <lb/>Honesto, docto, praeclaro viro D. Joanni Marenitio (?) amico suo singulari...
+          <lb/>Calaminus.
+          <lb/>Bibl. St. Guillaume, Strasbourg.
+          <lb/>Schottenloher, Bibliographie de Calaminus (Rorich): I, N° 2311-2313.
+          <lb/>393
+          <lb/>CALAMINUS Georg
+          <lb/>Strasbourg, N. Wyriot, 1575.
+          <lb/>Thyrsis M. GEORGH CALAMI ni Silesij: in abitum
+          <lb/>M. CHILIANI PASSAVERI Landauiensis! amici sui.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

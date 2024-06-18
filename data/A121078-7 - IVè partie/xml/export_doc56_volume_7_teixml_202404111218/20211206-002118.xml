@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:04.562469+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002118.tif
+IMAGE WIDTH: 2504
+IMAGE HEIGHT: 3942
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>restituit. (Marque typ. de Sam. Emmell. — Argentorati
+          <lb/>Sammuel Emmel exprimebat (1567), in-8°.
+          <lb/>Bibl. S. Guillaume Strasbourg.
+          <lb/>1373
+          <lb/>CICERO (Orationes) : Orationum volumen primum. —
+          <lb/>(Strasbourg, Jean Knobloch, janvier 1524), in-80.
+          <lb/>Schmidt VII, n° 274: B M Colmar; B U Fribourg-en-Br. :
+          <lb/>D 5977 (Communication de M. Rest); Panzer 6, 105, 676 [éd.
+          <lb/>W. Rihel, Orationes, volumina tria, 1540: Ritter, Rép, n° 503,
+          <lb/>de même 1544 : Rép, n° 507, puis 1550 : Rép. n° 511; Josias
+          <lb/>Rihel 1558, 1562/3, 1569, 1574, 1578 : Rép, nos 516, 520/1,
+          <lb/>529, 531, 534).
+          <lb/>1374
+          <lb/>CICERO (Orationes) : Orationum volumen secundum. —
+          <lb/>(Strasbourg, Jean Knobloch, février 1524), in-80.
+          <lb/>Schmidt VII, n° 275; B M Colmar; B U Fribourg-en-Br. :
+          <lb/>D 5977 (Communication de M. Rest); Panzer 6, 105, 676.
+          <lb/>1375
+          <lb/>CICERO (Orationes) : Duae orationes, altera pro M. Caelio,
+          <lb/>altera pro T. Annio Milone, ad puerilem ac scholasticum
+          <lb/>usum selectae, cum scholiis Joachimi Camerarii. —
+          <lb/>Strasbourg, Wendelin Rihel 1550, in-8°.
+          <lb/>BN Paris: X 17.662 (4).
+          <lb/>1376
+          <lb/>CICERO (Orationes) : Orationes duo. — Strasbourg, Josias
+          <lb/>Rihel 1567.
+          <lb/>BU Fribourg : D 5885 (Communication de M. Rest). 1377
+          <lb/>CICERO : Orator ad M. Brutum a Phil. Melanchthone passim
+          <lb/>scholiis... adnotatus... Item. Eiusdem Ciceronis Libri
+          <lb/>Rhetorices ad Herennium. Anno XLII. — (Haguenau,
+          <lb/>J. Secer, mars 1534), in-8°.
+          <lb/>Burg, n° 146.
+          <lb/>1378
+          <lb/>CICERO (De Oratore) : De Oratore libri tres, a Philippo
+          <lb/>Melanch (thone)... locorum insignium enarratione illus¬
+          <lb/>116
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

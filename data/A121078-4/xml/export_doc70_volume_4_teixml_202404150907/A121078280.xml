@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:50.742562+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078280.tif
+IMAGE WIDTH: 2310
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1166
+          <lb/>PELBARTUS De THEMESWAR
+          <lb/>Haguenau, H. Gran 1502
+          <lb/>Sermones dominicales peruti les a quodam fratre hun¬
+          <lb/>garo ordinis Minorum de obser! vantia comportati. Biga
+          <lb/>salutis! intitulati feliciter incipiunt, (Verso blanc.)
+          <lb/>A la fin: Sermones dominicales... Impensis quoque et
+          <lb/>sum- ptibus providi viri Johannis rvmman (!) de Orin¬
+          <lb/>gawe: per industrium Hen ricum Gran in Imperiali op¬
+          <lb/>pido Ha genaw inibi incolam diligentissime emen-dateque
+          <lb/>impressi Finiunt feliciter Anno! ab incarnatione domini.
+          <lb/>M. D. Il. Die vero! xvii. Februarii, (Verso blanc.)
+          <lb/>A-2, aa-hh, titre courant, init. d’attente. Fol, 2 non ch.: Prologus.
+          <lb/>In-4°, car. goth., 2 col., 124 sermons, 436 ff. non ch., sign. a-,
+          <lb/>R101.419. Prov.: BN Munich 24/V 1877; sans indic. de prix.
+          <lb/>Annotations mss.; au milieu du titre: Ad Monasterium Windberg.
+          <lb/>1816
+          <lb/>PELBARTUS DE THEMESWAR
+          <lb/>Haguenau, H. Gran 1502
+          <lb/>Sermones Quadragesimales Pomerii fratris Pelbarti
+          <lb/>de! Themeswar divi ordinis sancti! Francisci incipiunt
+          <lb/>feliciter, (Verso blanc.)
+          <lb/>A la fin: Sermones tripartiti Quadragesimales... Im¬
+          <lb/>pressique ac diligenteremendati expensis providi Johan¬
+          <lb/>nis Rymman (!) in im periali oppido Hagenaw per indu¬
+          <lb/>striosum Hen ricum Gran Finiunt feliciter Anno salutis
+          <lb/>nostre Millesimo quingentesimo secundo, x. die mensis
+          <lb/>Junii. (Verso blanc.)
+          <lb/>In-fol., car. goth., 2 col., 110 ff. non ch., sign. a–p, titre courant,
+          <lb/>init, d’attente.
+          <lb/>R10.346 (1). Prov. : Bibl. Ch. Schmidt avec son ex-libris et son
+          <lb/>autographe, daté du 8 octobre 1842. Note ms, en haut du titre: Liber
+          <lb/>Conventus Hammonensis. Fol. a 2 manque.
+          <lb/>2ème ex. R10.357(2). Prov.: BN Munich 28/XII 1877.
+          <lb/>BM Strasbourg; Oxford, Bibl. Bodleiana; Proctor II Sectio I
+          <lb/>n° 11615: Londres, Brit. Museum.
+          <lb/>1817
+          <lb/>PELBARTUS DE THEMESWAR
+          <lb/>Haguenau, H. Gran 1502
+          <lb/>Sermones Pomerii de Sanctis Hyemales et Estivales
+          <lb/>editi per Fratrem Pelbartum de Theme- swar divi Or¬
+          <lb/>dinis sancti Francisci. (Verso blanc.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

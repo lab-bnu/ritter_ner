@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:10.434557+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002342.tif
+IMAGE WIDTH: 2510
+IMAGE HEIGHT: 3950
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>LUTHER (De scholis) : An die Rhadherrn aller stedte Teütsches
+          <lb/>lands : das sy Christliche schulen uffrichten und halten
+          <lb/>sollen. Martinus Luther. Wittemberg M. D.xxiiij... —
+          <lb/>[Strasbourg, Jean Prüss 1524), in-4°. Benzing Schürer
+          <lb/>n° 27.
+          <lb/>Schmidt III, p. 39, n° 37. Bibl. St. Guillaume.
+          <lb/>2549
+          <lb/>LUTHER (Schriften Deutsche) : Mancherley büchlin unnd
+          <lb/>tractetlin... Item Apologia : das ist ein schirmred...—
+          <lb/>(Strasbourg (?), Mathias Schürer (?)1 1520, in-40.
+          <lb/>Dommer, Lutherdrucke, n° 177 : « Zweite Sammlung deutscher
+          <lb/>Schriften Luthers... Sie galt nach Veesenmeyers Vorgange,
+          <lb/>für einen Basler Druck und noch die sonst sorgfältig gearbeitete
+          <lb/>Bibliothek Luther von Beck in Nördlingen (1883), n° 10 nennt
+          <lb/>Adam Petri als Drucker. Aber das ganze darin verwendete
+          <lb/>typogr. Material weist auf Strassburg u. beachtenswerte
+          <lb/>Merkmale (Bordüren. Initiale) deuten auf Mathias Schürer
+          <lb/>hin.»
+          <lb/>2550
+          <lb/>LUTHER (Wider die Schwärmgeister) : Ein Brieff an die
+          <lb/>Christen zu Straszburg; wider den Schwermergeist...
+          <lb/>an. 1525. — (Strasbourg, Wolfg. Köpfell (d’après
+          <lb/>l’encadrement) 1525, in-4°.
+          <lb/>Weller 3488. Bibl. St. Guillaume, Strasbourg.
+          <lb/>2551
+          <lb/>LUTHER (Sermo) : Sermo de triplici justicia R. Patris Martini
+          <lb/>Lutheri... Anno M.D.XIX. — Sélestat, Lazare Schürer
+          <lb/>1519, in-40.
+          <lb/>Ritter, Hist. impr. app. 474 (2).
+          <lb/>2552
+          <lb/>LUTHER (Sermon nach der Auffahrt Christi) : Ain sermon.
+          <lb/>Am Sontag nach der auffart des herren Jesu das Evange¬
+          <lb/>lium Joha. am XV... — (Strasbourg, René Beck 15221,
+          <lb/>in-4°.
+          <lb/>Kuczynski, n° 1488.
+          <lb/>2553
+          <lb/>LUTHER (Sermon vom Bann) : Ein sermon von dem Bann
+          <lb/>340
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

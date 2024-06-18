@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:05.609169+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie028.tif
+IMAGE WIDTH: 2486
+IMAGE HEIGHT: 3908
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>BREVIARIUM Monasteriense : — (Strasbourg, J. Grünninger)
+          <lb/>1497, 4 parties in-8°.
+          <lb/>G W 5406; Reichling 853; Bohatta : Lit. Bibl. 307; Pellechet¬
+          <lb/>Polain 2900; Schreiber 3618. — B U Munster et Bibl. du
+          <lb/>Sém., B N Paris.
+          <lb/>153
+          <lb/>BREVIARIUM Olomucense : sur demande de l’évêque d’Olmütz,
+          <lb/>Stanislas de Turzo, éd. par Paul Reyhel d’Evanczicz. —
+          <lb/>Strasbourg, Jean Grüninger (21. X.) 1499, 5 parties,
+          <lb/>in-80.
+          <lb/>G W 5415; Reichling 437; Brit. Mus. Cat. I, 114; Bohatta:
+          <lb/>Lit. Bibl. 315; Schreiber 3611. — B U Breslau, B N Naples,
+          <lb/>B N Vienne etc.
+          <lb/>154
+          <lb/>BREVIARIUM Osnabrugense. — Strasbourg, (J. Grüninger)
+          <lb/>1489, 4 parties in-8°.
+          <lb/>G W5417: Gymn. Car. Osnabrück (incomplet). Reichling 857;
+          <lb/>Bohatta : Lit. Bibl. 431.
+          <lb/>155
+          <lb/>BREVIARIUM Praemonstratense. — (Strasbourg, Jean Grü¬
+          <lb/>ninger] 1490, 4 parties in-8°.
+          <lb/>G W 5231; Copinger 4510; Reichling, Suppl. 35; Proctor
+          <lb/>3208 A. ; Brit. Mus. Cat. III, 860; Bohatta : Lit. Bibl. 364 —
+          <lb/>365 — 768. B N Munich, Bibl. Rég. Darmstadt, Londres
+          <lb/>(Brit. Museum).
+          <lb/>156
+          <lb/>BREVIARIUM Praemonstratense. — Strasbourg, (J. Prüss)
+          <lb/>1500, I. hyemalis, II. aestivalis, chaque fois 4 parties,
+          <lb/>in-80.
+          <lb/>GW 5232; Hain 3882; Bohatta : Lit Bibl. 366 ; Schreiber
+          <lb/>3617. Cambridge, Chicago, Innsbruck, B N Munich. 157
+          <lb/>BREVIARIUM Ratisponense, sur demande de Henri VI
+          <lb/>d’Asperg, évêque de Ratisbonne. — (Strasbourg,
+          <lb/>Georges Reyser avant le 13 juin 1480), in-4°.
+          <lb/>G W 5433, Hain 3838—3883; Copinger 1292—1293? Reichling
+          <lb/>439, Proctor 3255, Brit. Mus. Cat. II, 485; Bohatta : Lit.
+          <lb/>26
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

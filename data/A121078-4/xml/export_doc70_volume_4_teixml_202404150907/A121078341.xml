@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:52.716867+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078341.tif
+IMAGE WIDTH: 2332
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>PORPHYRIUS Tyrius
+          <lb/>Haguenau, H. Gran 1501
+          <lb/>dicamentorum Aristotelis simul cum duobus libris pe
+          <lb/>Textus veteris artis. s. Isagogarum Porphirii.pre¬
+          <lb/>rihermenias eiusdem. ItemExercitata circa hoc secun¬
+          <lb/>dum doctrinam Modernorum collecta et bene emendata
+          <lb/>per venera bilem virum magistrum Johannem, parreudt
+          <lb/>sacre theologie baccalaureatum formatum in alma Uni¬
+          <lb/>versitate Ingolstatensi.
+          <lb/>A la fin: Exercitata Veteris artis... Impressa per indu¬
+          <lb/>strium virum Henricum Gran in imperiali oppido Hage¬
+          <lb/>nawe ex- pensis ac sumptibus providi circumspectique
+          <lb/>viri Johannis Rynman... M. d. j. ultimo die Augusti. (Verso
+          <lb/>blanc.)
+          <lb/>In-4°, car. goth., 130 ff. non ch., sign. a-q, titre courant, notes
+          <lb/>marg., init. d’attente.
+          <lb/>Au verso du titre: Magister Joannes Par- reudt... (Préface.)
+          <lb/>R101.531. Prov.: BN Munich 28/XI1 1877; 1M.
+          <lb/>1917
+          <lb/>PORPHYRIUS Tyrius
+          <lb/>Strasbourg, W. Rihel 1539
+          <lb/>... Porphyrii Philosophi Homericarum, quaestio! num
+          <lb/>liber. Eiusdem de Nympharum antro in Odyssea, opus¬
+          <lb/>culum. (Marque typ. de W. Rihel. H &amp;amp; B planche XXIX n° 4; Sil¬
+          <lb/>vestre n° 741. Verso blanc.)
+          <lb/>A la fin: Argentorati in Aedibus Wendelini Rihelii
+          <lb/>Mense Septembri. Anno M. D. XXXIX. (Au verso du dernier
+          <lb/>f. marque typ. de Wend. Rihel. HEB planche XXIX n° 2; Silvestre
+          <lb/>n° 742))
+          <lb/>In-8°, car. grecs, 74 pp. ch.  2 ff. non ch., réclames, init. ornées.
+          <lb/>R101478 (2). Prov.: Quaritsch. Londres I0/IV 1895.
+          <lb/>2ème ex. RI01477 (3). Prov.: Don de la Bibl. de Kœnigsberg.
+          <lb/>BM Strasbourg; BN Paris 4 ex.: Yb 832 (2), Yb 830 (1), Rés.
+          <lb/>Yb 536 et 539.
+          <lb/>1918
+          <lb/>PORSENA. Voir: ATHANASIUS : Opera. Strasbourg, J. Knobloch
+          <lb/>1522. N° 106.
+          <lb/>PORTA Santius de. Voir: SANTIUS DE PORTA
+          <lb/>1227
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

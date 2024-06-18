@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:03.965413+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002097.tif
+IMAGE WIDTH: 2476
+IMAGE HEIGHT: 4002
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>BUSTIS, Bernardinus de : (Idem). — Haguenau, H. Gran
+          <lb/>pour J. Rynman, 20 août 1518, in-fol.
+          <lb/>Burg, n° 129.
+          <lb/>1252
+          <lb/>BUTTERMILCHLIED : Eins bawren son hat sich vermessen
+          <lb/>er wolt ein gute buttermilch essen... — Strasbourg,
+          <lb/>Jacques Frölich s. d., in-8°.
+          <lb/>Vogeleis p. 241.
+          <lb/>1253
+          <lb/>BUTZER, Martin. Voir: BUceR.
+          <lb/>BUXBAUMLIED : Der Buxbaum und Felbinger... — Strasbourg,
+          <lb/>Jacques Frölich s. d., in-8°.
+          <lb/>Vogeleis p. 241.
+          <lb/>1254
+          <lb/>BYECHLIN. Voir: BÜCHLEIN der geystlichen gsäng, n° 1209.
+          <lb/>CAESAR, Julius : Von seinen Kriegen (trad, par Math.
+          <lb/>Ringmann Philesius). — (Strasbourg, Jean Grüninger
+          <lb/>7.III.] 1507), in-fol.
+          <lb/>Kristeller, n° 93; Schmidt I, n° 78; Panzer, Annalen I, 283. —
+          <lb/>Bibl. Centrale Zurich. (Ritter, Rép, n° 464 ; éd. Grüninger
+          <lb/>1508l.
+          <lb/>1255
+          <lb/>CALAMINUS, Georgius : Carmius Sive Messias in praesepi...
+          <lb/>Ecloga. Ad Ioannem Schenckbecherum Tredecemvirum.
+          <lb/>Acta in Scholis Argentoratensibus [petite grav. : l’enfant
+          <lb/>Jésus dans le berceau, Marie et Joseph en adoration
+          <lb/>devant lui). — Argentorati, excudebat Nicolaus Wyriot.
+          <lb/>Anno M.D.LXXVI (1576), in-4°.
+          <lb/>Bibliothèque S. Guillaume, Strasbourg. Goedeke IIa ; page
+          <lb/>142, n° 59 (a).
+          <lb/>1256
+          <lb/>CALAMINUS, Georgius : Daphnis Seu Christus patiens. Ecloga.
+          <lb/>— Strasbourg, Nicolas Wyriot 1580, in-4°.
+          <lb/>Ritter, B M Strasbourg no 1831.
+          <lb/>1256a
+          <lb/>95
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

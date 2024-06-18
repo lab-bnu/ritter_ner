@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:06.122678+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie065.tif
+IMAGE WIDTH: 2450
+IMAGE HEIGHT: 3948
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>JOHANNES Vincellensis: Sermones Vademecum. — (Strasbourg,
+          <lb/>Jean Prüss s. d.), in-4°.
+          <lb/>Hain 9432, Proctor 577; Voulliéme : Berlin 2385.
+          <lb/>399
+          <lb/>JOHANNES Vincellensis: Sermones Vademecum. — (Strasbourg
+          <lb/>Jean Prüss s. d.), in-4°.
+          <lb/>Hain 9431; Proctor 561; Polain 2322; Voulliéme : Berlin 2384.
+          <lb/>400
+          <lb/>JORDANUS de Quedlinburg : Sermones de sanctis.
+          <lb/>(Strasbourg, Henri Knoblochtzer ou Henricus Arimi¬
+          <lb/>nensis s. d.), in-fol.
+          <lb/>Hain 5919, Polain 2329; Proctor 334, Voullième : Berlin 2170.
+          <lb/>401
+          <lb/>JOSEPHUS Flavius : De antiquitatibus Judaeorum Ruffino
+          <lb/>interprete, de bello iudaico lib. VII. — (Strasbourg,
+          <lb/>Jean Mentelin s. d.), in-fol.
+          <lb/>Hain 9449; Proctor 226.
+          <lb/>402
+          <lb/>JUNG, Ambrosius : De pestilentia. — Strasbourg 1491, in-4°.
+          <lb/>(Sans indication de source)
+          <lb/>403
+          <lb/>JUSTINIANUS. Voir : CORPUs juris civilis n° 196.
+          <lb/>KAGENECK, Bernhard von. Voir: ORDONNANCE, n° 537.
+          <lb/>KARL, Kaiser: Voir: LIED von Keiser Karls recht n° 425.
+          <lb/>KARL IV. Voir : CAROLUS IV.
+          <lb/>KASTEL, Peter von. Voir: BoeTHius n° 122.
+          <lb/>KÜNG, Hermann von Vache. Walfart und Strasz zu sant
+          <lb/>Jacob. (Strasbourg, Mathias Hupfuff s. d.), in-4°,
+          <lb/>Copinger 3461; Voulliéme : Berlin 2544.
+          <lb/>404
+          <lb/>63
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

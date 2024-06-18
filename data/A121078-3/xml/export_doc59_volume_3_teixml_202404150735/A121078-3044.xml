@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:05.440524+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3044.tif
+IMAGE WIDTH: 2338
+IMAGE HEIGHT: 3838
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>488
+          <lb/>Coleto, Decano sancti Pauli apud Londinum.... Londini.
+          <lb/>Bl. 6a: DESYDERIVS ERASMVS ROTERO-damvs Ioanni
+          <lb/>Anno. M. D. XIl.ij. Calen. Maias.
+          <lb/>an Wimpfeling.
+          <lb/>Die 5 unn. Bll. am Schluss enthalten einen Brief des Erasmus
+          <lb/>*R100.100. Prov.: Rosenthal, München, 21. V. 1885,8M.
+          <lb/>ausserdem handschr. Notizen im Texte und am Ende des Buches.
+          <lb/>Handschr. Eintragung auf dem Titelbl.: Monasterii Schyrensis (!);
+          <lb/>GK: SB Berlin; Schmidt VIII Nr. 239: Stadtbibl, Zurich. 730.
+          <lb/>ERASMUS: Encomium matrimonii
+          <lb/>[Strassburg, M. Schürer, 1518)
+          <lb/>ENCOMIVM MATRIMONII, PER DES. ERASMVM ROTE¬
+          <lb/>RODA. ENCOMIVM ARTIS MEDICINAE PER EVNDEM. (Rück-
+          <lb/>seite leer).
+          <lb/>4°, Antig., 22 unn. Bll., Sign. a-d. Kopftitel, Titeleinfassung (Siche
+          <lb/>Nr. 97 S. 55). Da diese Titeleinfassung Schürer eigen ist und Erasmus
+          <lb/>mit Vorliebe bei ihm drucken liess, ist dieser Druck aohl auch Schürer
+          <lb/>zuzuschreiben.
+          <lb/>Bl. b 8a: ERASMVS ROTERODAMVS D. HENRICO AFINIO
+          <lb/>CYRA NO INSIGNO MEDICO... — Louanij, tertio Id. Mar.
+          <lb/>An. M. D. XVIII.
+          <lb/>*R100.111. Prov.: Bibl. Ed. Böcking mit dessen Exlibris.
+          <lb/>Fehlt bei Schmidt.
+          <lb/>731
+          <lb/>ERASMUS: Parabolae
+          <lb/>Strassburg, M. Schürer, 1518
+          <lb/>ERASMI RO TERODAMI PARABOLA- rum, siue Similium
+          <lb/>Liber. CVM PRIVILEGIO IM- periali, ad Sexennium.
+          <lb/>Am Schluss: Finis Argentorati, ex Aedibus Schurerianis,
+          <lb/>Mense Iulio. Anno. M. D. XVIIl. Regnante Imperatore Cae¬
+          <lb/>sare Maximiliano. P. F. Aug. P. P.
+          <lb/>4°, Antig., 62 unn. Bll., Sign. a-k, Marginalien, Zierinit. O. Titel¬
+          <lb/>einfassung (Siche Nr. 97).
+          <lb/>Auf der Rückseite des Titelbl.: ERASMVS ROTERODAMVS
+          <lb/>Petro Aegidio Celebratissimae ciuita-ts Antuuerpiensis
+          <lb/>a libellis... — Basileae. Anno.... M. D. XIIII. Idi-bus
+          <lb/>Octobris.
+          <lb/>R100.112. Geschenk des Antiquars Butsch in Augsburg. Handschr.
+          <lb/>Eintragung auf dem Titelbl.: Monfaste )rij Schleyrn nebst einigen handschr.
+          <lb/>Notizen im Text.
+          <lb/>GK: SB Berlin, UB Breslau, Kiel (das letste Bl. fehlt). Schmidt
+          <lb/>VIII Nr. 232.
+          <lb/>732
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

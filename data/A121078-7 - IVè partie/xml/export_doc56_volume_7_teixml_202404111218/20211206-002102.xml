@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:04.305728+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002102.tif
+IMAGE WIDTH: 2490
+IMAGE HEIGHT: 3962
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>institutionum imperialium Justiniani. — Haguenau,
+          <lb/>Pierre Brubach, août 1534, in-fol.
+          <lb/>Walter n° 909; Burg, n° 138.
+          <lb/>1279
+          <lb/>CANTIUNCULAE: Viginti Cantiunculae gallicae quatuor vocum.
+          <lb/>— Strasbourg, Pierre Schœffer 1530, in-4°.
+          <lb/>Vogeleis, p. 225.
+          <lb/>1280
+          <lb/>CANTZLEIBÜCHLEIN Wie man schreiben soll... — Strasbourg,
+          <lb/>Mathias Hupfuff 5-XII-1513, in-4°.
+          <lb/>Schmidt V, n° 105; Bâle; Weller, Rep. 762.
+          <lb/>1281
+          <lb/>CANTZLEIBÜCHLEIN : (Idem). — (Strasbourg, Mathias Hupfuff
+          <lb/>1515), in-4°.
+          <lb/>Schmidt V, n° 130; Weller, Rep. 885.
+          <lb/>1282
+          <lb/>CANTZLEIBÜCHLEIN : (Idem). — (Strasbourg, Jean Knobloch
+          <lb/>1520), in-4°.
+          <lb/>Schmidt VII, n° 211: BN Munich. (Ritter, Rép, n° 426 ; éd.
+          <lb/>Knobloch 1522l.
+          <lb/>1283
+          <lb/>CAOURSIN, Guilelmus : Obsidionis Rhodine urbis descriptio
+          <lb/>(en allemand). — (Strasbourg après 1500), in-4°.
+          <lb/>Copinger 1439; Schreiber 3668. GWVI, col. 116 : « Nach
+          <lb/>Typen und Ausstaltung 16. Jahrhundert.»
+          <lb/>1284
+          <lb/>CAOURSIN, Guilelmus : Der vermaledigsten unfromen Türggen
+          <lb/>anschlag... — (Strasbourg, Barth. Kistler 1502), in-4°.
+          <lb/>Schmidt IV, p. 8, n° 20; Kristeller, 109; Weller, 247. 1285
+          <lb/>CAOURSIN, Guilelmus : Alexandri Magni, regis Macedonum,
+          <lb/>vita... (éd. Gautier de Chatillon : Gautier de Lille). —
+          <lb/>Strasbourg 1513, in-4°.
+          <lb/>BN Paris : Rés. p. Yc. 1249.
+          <lb/>1286
+          <lb/>CAOURSIN, Guill. Voir : RITTER, Rép, n° 427 : Historia von
+          <lb/>Rhodis. — Strasbourg, Martin Flach 1513.
+          <lb/>100
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

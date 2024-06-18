@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:07.079011+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002215.tif
+IMAGE WIDTH: 2496
+IMAGE HEIGHT: 3974
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>GESANGBÜCHLEIN : (Idem). — Strasbourg, Th. Berger 1562,
+          <lb/>in-8° (3e éd.).
+          <lb/>Vogeleis, p. 296. (B N Strasbourg R 100.639 (1) Rép. 1008).
+          <lb/>1892
+          <lb/>GESANGBÜCHLEIN : (Idem). — Strasbourg, Th. Berger 1566,
+          <lb/>in-8° [4e éd.).
+          <lb/>Vogeleis, p. 296; Hoberg, Martin, Die Gesangbuchillustration
+          <lb/>des 16.Jhd. (Strasbourg, Heitz 1933), n° 106; Wackernagel
+          <lb/>876.
+          <lb/>1893
+          <lb/>GESANGBÜCHLEIN : Ein new ausserlesen Gesangbüchlin für
+          <lb/>die Kirchen. Von newen übersehen... mit dreyen nütz¬
+          <lb/>lichen Registern und schönen Figuren geziert. —
+          <lb/>Strasbourg, édition Paul Acker 1568, in-8°, (Ne pas
+          <lb/>confondre avec celui de Bucerl.
+          <lb/>Wackernagel 897; Hoberg, p. 106; Vogeleis, p. 309. 1894
+          <lb/>GESANGBÜCHLEIN : Gesangbüchlin von Psalmen, Kirchenge¬
+          <lb/>sängen und Gaistlichen Liedern. D. Mart. Luthers.
+          <lb/>Auch viler anderer Gotseligen Leut... auffs neu übersehen
+          <lb/>und Gemehret. — Strasbourg, Bernard Jobin 1576,
+          <lb/>in-8° (avec une préface de J. Fischart qui soigna l’édition
+          <lb/>avec environ une trentaine de cantiques de lui).
+          <lb/>Vogeleis, p. 332; Hoberg, p. 109; Wackernagel 386-390;
+          <lb/>Hauffen, Fischart-Studien dans : Euphorion VII, p. 26 et
+          <lb/>suiv. : Brit. Museum Londres, Wernigerode.
+          <lb/>1895
+          <lb/>GESANGBÜCHLEIN : Darinnen Psalmen, Kirchengesäng unnd
+          <lb/>geistliche Lieder D. Mart. Lutheri. Auch anderer Lehrer
+          <lb/>und Männer... — Strasbourg, Jost Martin 1600, in-4°
+          <lb/>131 cantiques sans mélodies).
+          <lb/>Weller, Annalen III, p. 568; Hauffen, Fischart-Studien VII,
+          <lb/>p. 64, München : « Diese Sammlung, die nicht im Verlage
+          <lb/>von Jobins Erben erschienen ist, hat 122 Gesänge, nur zum
+          <lb/>kleineren Teil mit Jobins Auswahl übereinstimmend u. in
+          <lb/>sechs Teile geordnet.»
+          <lb/>1896
+          <lb/>213
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

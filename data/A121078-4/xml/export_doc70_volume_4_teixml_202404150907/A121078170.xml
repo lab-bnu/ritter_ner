@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:47.436321+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078170.tif
+IMAGE WIDTH: 2304
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1056
+          <lb/>tis, &amp;amp; Petrarchae, quos ipsi Italico idiomate conscripse¬
+          <lb/>runt. IN LIBERA ARGENTINA, Apud Matthiam Schurerium.
+          <lb/>A la fin: Matthias (Schurerius Argentorati exscripsit,
+          <lb/>Anno Domini. M. D. XVII. Mense Augusto. Ductu Leo¬
+          <lb/>nardi &amp;amp; Lucae Alantsee. (Au-dessous : marque typ. des Alantsee.
+          <lb/>H AB Planche XIII n° 1.)
+          <lb/>In-fol., car. goth., 2 col., 8 ff. non ch., CCXXIII ff. ch., titre
+          <lb/>courant, réclames, notes marg., init. ornée A; titre rouge et noir, en¬
+          <lb/>cadré: les bordures latérales ne sont pas faites pour les 2 autres, elles
+          <lb/>se composent d’ornements, faits par Urs Graf, celle de droite porte au
+          <lb/>milieu un écusson avec le monogr. d’Urs Graf; la bordure supérieure
+          <lb/>espèce de fronton en forme de coguille, a aux deux bouts des chapi¬
+          <lb/>teaux, chacun entre deux enfants nus, dont l&amp;#x27;un joue de la trompe; sur
+          <lb/>un des chapiteaux il y a un écusson avec I°, sur l’autre un deuxième
+          <lb/>écusson avec deux bourdons, ce sont les signes de Io. Wœchtelin; la bor¬
+          <lb/>bordure inférieure, qui paraît être du même graveur, a une sirène au
+          <lb/>milieu, entre 2 enfants nus.
+          <lb/>Au verso du titre: Authores hoc opere citati, au-dessous : Domini¬
+          <lb/>cus Nanus ad Lectorem Elegia. (13 dist.)
+          <lb/>Fol. 2a non ch. : Ad... principem Guili! elmum Marchionem mon¬
+          <lb/>tifferrati sacrique romani imperii vi- carium perpetuum : Do-! minici
+          <lb/>Nani mirabel lii in Polyanthe- am praefatio... Saonae idibus Februariis.
+          <lb/>M. CCCCC iii. (2 pp.) Suivent 6 ff. de table à 4 col.
+          <lb/>R 10.467. Prov. : Bibl. Ch. Schmidt avec son ex-libris à l&amp;#x27;inté¬
+          <lb/>rieur de la couverture. Annotation ms, au-dessous du tître: Johannes
+          <lb/>scholten Ecclesie divi Maximi in Embrica Curatus... Anno millesimo quin¬
+          <lb/>gentesimo vicesimo primo.... Datus est hic liber fratribus dom. s. Gre¬
+          <lb/>gorii in Embrica ab eodem venerabili domino. Anno domini 1531 ut ore¬
+          <lb/>mus pro eo et suis.
+          <lb/>2ème ex.: R10.466. Prov.: Don de la ville de Nœrdlingen 1871.
+          <lb/>Annotations mss. au dernier f. blanc.
+          <lb/>1621
+          <lb/>BM Strasbourg. Schmidt VIII n° 217.
+          <lb/>NEGELIN Matthaeus
+          <lb/>Strasbourg, Jost Martin 1598
+          <lb/>HistoriaVon der aller Heylig- sten Empfengnuss
+          <lb/>unnd Geburt Jhesu Christi, sampt der selbigen Erkle¬
+          <lb/>rung. In kurze und einfeltige Fragstuck für die heran¬
+          <lb/>wachsende Jugent, Auch allen ein-faltigen Christen zû
+          <lb/>nutzlichem underricht. Gestellet durch Mattheum Negelin,
+          <lb/>Anno 1586. (Au-dessus l’enfant Jésus assis, un crucifix à la main
+          <lb/>gauche, entouré d’une couronne de feuille.)
+          <lb/>Getruckt zû Straszburg, bei Jost Martin! am Korn¬
+          <lb/>marckt, Im Jahr, 1598.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

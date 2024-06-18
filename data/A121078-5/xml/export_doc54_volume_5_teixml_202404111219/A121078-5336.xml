@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:20:02.818576+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5336.tif
+IMAGE WIDTH: 2410
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Incunables, Livres rares, Mss., etc., etc.
+          <lb/>Périodiques et livres scientifiques neufs et d’occasion
+          <lb/>P. H. HEITZ, STRASBOURG
+          <lb/>Foreign dept. Postbox 173
+          <lb/>Dépôt de périodiques, dont entre autres:
+          <lb/>Annales de l’Institut de Physique du Globe
+          <lb/>(Université de Strasbourg).
+          <lb/>Archives d’Anatomie, d’Histologie et d’Embryologie
+          <lb/>(Université de Strasbourg).
+          <lb/>Bulletin de la Faculté des Lettres
+          <lb/>(Université de Strasbourg)
+          <lb/>Cahiers d’Archéologie et d’Histoire d’Alsace
+          <lb/>Collection d’Études Musicologiques
+          <lb/>Études de l’Histoire du droit et des Institutions en Alsace
+          <lb/>Bulletin de l’Institut de Géologie de l’Université de Strasbourg
+          <lb/>Mémoires de l’Institut de Géologie de l’Université de Strasbourg
+          <lb/>Publications de la Faculté des Lettres
+          <lb/>de l’Université de Strasbourg
+          <lb/>Publications de la Société Savante d’Alsace
+          <lb/>Revue d’Histoire et de Philosophie Religieuses
+          <lb/>Revue du Moyen-Age latin
+          <lb/>Revue des Sciences Religieuses
+          <lb/>Revue de la Navigation intérieure et rhénanc
+          <lb/>Strasbourg-Médical
+          <lb/>Studien zur deutschen Kunstgeschichte
+          <lb/>Zur Kunstgeschichte des Auslandes
+          <lb/>Fournisseurs attitrés des Grandes Bibliothèques Publiques
+          <lb/>en France et à l&amp;#x27;étranger
+          <lb/>Expertises (Mr. Paul H. Heitz, expert ass.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

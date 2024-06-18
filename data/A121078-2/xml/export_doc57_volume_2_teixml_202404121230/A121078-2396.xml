@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:38.111561+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2396.tif
+IMAGE WIDTH: 2374
+IMAGE HEIGHT: 3822
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>392
+          <lb/>Marque typogr. de Josias Rihel. (Hdt B, Planche XXXI, N° 12.)
+          <lb/>M. D. Ll. (Verso blanc.)
+          <lb/>Cum Gratia &amp;amp; Priuilegio Caesareo ad annos octo.
+          <lb/>DE- bat Iosias Rihelius. Anno M. D. LXI.
+          <lb/>A la fin, avant la table des annotations: ARGENTORATI EXCV¬
+          <lb/>à 3 col, en car. ital.) titre courant, récl., notes marg., init, ornées.
+          <lb/>In-fol., car, rom., 8 ff. non ch., 301 ff. ch., 8 ff. non ch. (Table
+          <lb/>Dans l&amp;#x27;histoire des plantes (f. 86-216) de nombreuses et belles gravures
+          <lb/>de plantes.
+          <lb/>fol. a 2a non ch.: ... Collegio medi-CORVM IN ILLVSTRI
+          <lb/>ACADEMIA Witeber-gensi, CONRADVS GESNERVS Medicus
+          <lb/>&amp;amp; Philosophiae interpres in schola Tigurina salutem... —
+          <lb/>Tiguri, tertio Cal. Iunij  anni M. D. LXI. (Préface de 3 pp.)
+          <lb/>fol. a 3b non ch.: CON. GESNERVS MAGNAE SPEI IVVENI
+          <lb/>N. IOANNIS RALLAE PHARMACOPOLAE LIPSENSIS FOE- licis
+          <lb/>memoriae, filio S.... — Tiguri Heluetiorum, anno Salutis
+          <lb/>M. D.LXI. Calendis Augusti (1 p. et demie.)
+          <lb/>fol. a 4a non ch.: CON. GESNERVS CANDIDO LECTORI. S.
+          <lb/>.. (4 pp.)
+          <lb/>fol. b 2a non ch.: IOANNES CRATO FERDINANDI CAE- SARIS
+          <lb/>AVGVSTI MEpicys, Con. GESNERO MEDI- co Tigurino S.
+          <lb/>... — Vratisla-uiae ex meis aedibus die Lucae Medi ci
+          <lb/>&amp;amp; Euangelistae Anno 1559. (3 pp.)
+          <lb/>fol. b 3b non ch.: Ex GVALTHERI RIFFI ARGENTINENSIS,
+          <lb/>IN PRIMAM VALERII CORDI ANNOTATIONVM] in Dioscoridis
+          <lb/>libros editionem, praefatione...
+          <lb/>Au-dessous: Ex BIBLIOTHEÇA CON. GESNERI. EVRICIVS
+          <lb/>Cordus Simesusius, natione Germanus, Valerii pater, utra¬
+          <lb/>que lingua! doctus, Marpurgi medicinam professus est:
+          <lb/>&amp;amp; rem herbariam non parum adiuuit. Botanologicum eius,
+          <lb/>siue Colloquium De uariis herbis, excusum est Coloniae
+          <lb/>a- pud Ioan. Gymnicum anno 1534. in 8. chartis 13.
+          <lb/>eodem anno ab authore scriptum. Idem Theriaca &amp;amp; Ale¬
+          <lb/>xipharmaca Nicandri poëtae Graeci Latinis uersibus heroi¬
+          <lb/>cis reddidit eleganter. Liber impressus est apud Egenol¬
+          <lb/>phum Francforti anno 1532. in 8 chartis 5.
+          <lb/>Epigrammata quoque scripsit, prae- sertim à Graecis
+          <lb/>translata.
+          <lb/>fol. b 4a non ch.: 15 distiques du médecin André Ellinger. (Verso
+          <lb/>blanc.)
+          <lb/>fol. 287b: AD LECTOREM: His fere perscriptis accepi
+          <lb/>catalogum Stirpium instructissimi horti loannis Schmid¬
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

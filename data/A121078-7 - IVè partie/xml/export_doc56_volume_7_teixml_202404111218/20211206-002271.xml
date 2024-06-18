@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:08.813099+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002271.tif
+IMAGE WIDTH: 2522
+IMAGE HEIGHT: 3962
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>JUDEX, Matthaeus : Etliche Argument unn beweysung dasz
+          <lb/>Busse predigen, das ist, Sünde straffen und zur rewe
+          <lb/>predigen, sey eigentlich desz gesetzes unnd nicht desz
+          <lb/>Evangelij Ampt. — Mulhouse, P. Schmid 1562, in-4°.
+          <lb/>(Préface dédiée au magistrat de Dippoldiswalde, datée de
+          <lb/>1562 et signée par Mattheus Richter — Judex). Werner,
+          <lb/>p. 102, n° 21.
+          <lb/>2166
+          <lb/>JUDAS, Ischarioth. Voir: KIRCHMAIR n° 2244.
+          <lb/>JUDAS, Nazarei. Pseudonyme pour WATTs, J. Voir : KÜcK,
+          <lb/>Judas Nazarei. [Neudrucke des XVI. u. XVII. Jhd.,
+          <lb/>fasc. 142/31 p. 69 et suiv. : Judas Nazarei ein Pseudonym
+          <lb/>von Watts. Nebst Quellenuntersuchungen u. Kommen¬
+          <lb/>tar.
+          <lb/>JUDITH : eine schöne History in Spielweiss. — Strasbourg,
+          <lb/>Christian Mylius 1559, in-80.
+          <lb/>Ritter : Hist. Impr. app. n° 267.
+          <lb/>2167
+          <lb/>JUDITH : Ein schön Biblisch Spyl, beide lehrhaft und lustig,
+          <lb/>Judith genennt. Newlich zu Strassburg durch ein Junge
+          <lb/>Burgerschafft... offentlich gespilet im jar 1564. —
+          <lb/>Strasbourg, Th. Berger (1564), in-80.
+          <lb/>Vogeleis, p. 305; Goedeke IIe, p. 390, n° 317.
+          <lb/>2168
+          <lb/>JULIUS II (pape). Voir: VIGERIUS, Marcus n° 3410.
+          <lb/>JUNIUS, Melchior : In Oratorem M. Tullii Ciceronis ad
+          <lb/>M. Brutum. Scholae Melchioris Junii Witebergensis...
+          <lb/>Antonius Bertramus CID. ID.LXXXV (1585), in-8°,
+          <lb/>Grand Sém. Strasbourg, BA 177.
+          <lb/>2170
+          <lb/>JUNIUS, Melchior : Artis dicendi praecepta secundum officii
+          <lb/>oratorii partes breviter ex Platone, Aristotele, Hermo¬
+          <lb/>269
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

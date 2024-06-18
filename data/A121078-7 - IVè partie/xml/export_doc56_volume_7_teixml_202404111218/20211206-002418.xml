@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:12.160874+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002418.tif
+IMAGE WIDTH: 2482
+IMAGE HEIGHT: 4000
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>PLUTARCHUS : Plutarchi von Cheronea und anderer kurtz
+          <lb/>weise und höfliche Sprüche... Neulich durch Heinrich
+          <lb/>von Eppendorf usz dem Latin in Teutsch verdollmetscht.
+          <lb/>— Strasbourg, Jean Schott 1554, in-fol.
+          <lb/>Graesse V, p. 365 : « C’est une version de la collection
+          <lb/>d’apophthegmes d’Erasme».
+          <lb/>2960
+          <lb/>PLUTARCHUS. Voir aussi: ERASMUS, n° 1573; OECOLAM¬
+          <lb/>PADIUS, Johannes, n° 2786; (RITTER, Rép. nos 1893-
+          <lb/>18981.
+          <lb/>POGGIO. Voir : AESOPUS, n° 746; FRISCHLIN, n° 1793;
+          <lb/>RITTER, Rép. nos 1900-1902; VALLA, Laur, n° 3392;
+          <lb/>WYLE, Nic, n° 3570.
+          <lb/>POLDERMANN, Cornelius : Die Epistel des Apostell Sanct
+          <lb/>Judas erklert. — (Haguenau, Valentin Kobian ?1 1534,
+          <lb/>in-4°.
+          <lb/>Ritter, Hist. impr., p. 406.
+          <lb/>2961
+          <lb/>POLICARP von Kirrlarissen (Finkenritter). Voir: HISTORY
+          <lb/>und Legend, n° 2032.
+          <lb/>POLITIANUS, Angelus : Epistolae quaedam. A la suite de :
+          <lb/>PHILELPHUS, Franciscus (n° 2891). — Strasbourg,
+          <lb/>J. Prüss vers 1520.
+          <lb/>[Une éd. Schürer 1513 : Ritter, Rép. n° 1905.]
+          <lb/>2962
+          <lb/>POLITIANUS, Ang. : Breviuscule quedam et ameniores
+          <lb/>epistolae. A la suite de PHILELPHUS, Franciscus, Epistolae
+          <lb/>familiares. — Haguenau, H. Gran, mai 1521, in-80
+          <lb/>(nos 2892).
+          <lb/>2963
+          <lb/>POLLICARIUS, Johannes : Von der Kirchen Wider die zwey
+          <lb/>Bücher des Bischoffs zu Naumburg (Julius Pflug) und
+          <lb/>Martini Venatorij zu Mentz und Erffurd im Truck
+          <lb/>auszgangen, wider unsere Lehr und Kirchen, andere
+          <lb/>416
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

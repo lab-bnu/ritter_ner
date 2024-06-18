@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:53.731937+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5132.tif
+IMAGE WIDTH: 2332
+IMAGE HEIGHT: 3852
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1440
+          <lb/>Marque typ. de W. Rihel. (H. &amp;amp; B. Planche XXIX, n° 3.)
+          <lb/>146 ff. ch. et 6 ff. non ch. (Index).
+          <lb/>Nouveau titre pour les Castigationes de Rivius et de
+          <lb/>Fabricius:
+          <lb/>1) Castiga-tiones Plurimo-rum ex Terentio Loco-[ rum,
+          <lb/>adiecta quorundam obiter explicatione, per Ioan.Rivium
+          <lb/>Atthendo-riensem. Post Primam editionem Colo-[ niensem
+          <lb/>nonaginta penè locis auctae!! atque locupletatae.
+          <lb/>Même marque typogr. qu’au titre principal.
+          <lb/>Argentorati apud
+          <lb/>Vuendelinum Rihelium.An
+          <lb/>M. D. XLVIII.
+          <lb/>90 ff. ch., 6 ff. non ch.
+          <lb/>2) Georgii Fabricii Explica-tio Castigationum in
+          <lb/>Te-rentij comoedias, in quibus multorum loco- rum
+          <lb/>obscuritas explicatur &amp;amp; ue-terum imitatio in plerisque!
+          <lb/>ostenditur.Epistolamad Ioannem Riuium, quaere in
+          <lb/>fine. (Même marque typ. qu’au titre principal.
+          <lb/>Argentorati apud Vuendelinum Rihelium.An
+          <lb/>M. D. XLVIII. 86 ff. ch. et 16 ff. non ch.
+          <lb/>3) Loci aliquot Pri] oribus Castigationibus additi, cum
+          <lb/>emenda-tione Mendo-! rum.Adiecto Indice Proverbi!
+          <lb/>orum apud Terentium.
+          <lb/>Même marque typ. qu’au titre principal.
+          <lb/>Argentorati per Vuendelinum Rihelium.Anno M. D. XLIX.
+          <lb/>16 ff. non ch.
+          <lb/>In-8°, car. ital. et rom., titre courant, réclames, init. ornées et init.
+          <lb/>d’attente.
+          <lb/>Au verso du titre principal : Joannes Sturmius (17 vers).
+          <lb/>fol. A 2a : ... Au !I gusto Duci Saxoniae... Georgius Fabricius... —
+          <lb/>Misenae ex Collegio D. Afrae V. Cal. 11 Iunij M. D. XLVI. (Préface de
+          <lb/>12 pp.).
+          <lb/>R. 101.784. Prov. : Bordes, Strasbourg, 28/II, 1880; 2 M.
+          <lb/>Note ms. au titre : « Johann Friderich 1643».
+          <lb/>Bibl. St. Guillaume, Strasbourg.
+          <lb/>2292
+          <lb/>TERTULLIANUS. Voir : HEDIO Caspar, Chronica, 1530.
+          <lb/>TERTULLIANUS
+          <lb/>Strasbourg, W. Rihel, 1546
+          <lb/>Quinti Septimij Flo rentis Tertulliani aus Car-] thago,
+          <lb/>Edel vnd Christlich buch.De Patientia.Von der
+          <lb/>Gedult. Geschriben nach dem todt Christi C. Ix. Jar.
+          <lb/>Verteütscht durch D. Caspar Hedion, im ! Jar M. D. xlvi.
+          <lb/>StrasburgDediciert dem Hochwürdigsten Ertzbischoff
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

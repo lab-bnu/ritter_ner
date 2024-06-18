@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:36.857911+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu034.tif
+IMAGE WIDTH: 2382
+IMAGE HEIGHT: 3844
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>K 104. Prov.: Don de la ville de Heilbronn, 1871.
+          <lb/>2e ex. K 104a. Prov.: Librairie Trübner (Vente Noiriel), 4 IV.
+          <lb/>1874, s. ind. de prix. A l’intérieur du 1er plat, armoiries avec
+          <lb/>la date 1587. Rel. anc.
+          <lb/>13
+          <lb/>ALBERTUS MAGNUS: De secretis mulierum. (Strasbourg,
+          <lb/>H. Knoblochtzer, vers 1483), in-4°.
+          <lb/>G W 727, Hain 558, Pellechet 370, Proctor 376, Schreiber 3058;
+          <lb/>Schorbach et Spirgatis N° 19; Schramm, Bilderschmuck XIX,
+          <lb/>grav. N° 81.
+          <lb/>K 138. Prov.: Echange avec la Bibl. du Gymnase de Heil¬
+          <lb/>bronn, 2 IV. 1878. Belle initiale peinte P au commencement
+          <lb/>fol. a 2a.
+          <lb/>14
+          <lb/>ALBERTUS MAGNUS: Sermones de Eucharistiae sacramento.
+          <lb/>(Strasbourg, imprimeur des Casus breves decretalium
+          <lb/>(— G. Husner), vers 1494), in-4°.
+          <lb/>G W 769, Hain 452, Pellechet 290 l’attribue à Quentel, Cologne,
+          <lb/>vers 1498, Proctor 740, Voulliéme: Berlin 2524.
+          <lb/>K 84. Prov.: B N Munich, 26 H. 1874, 8 M.
+          <lb/>15
+          <lb/>ALEXANDER GALLUS. Voir: Alexander de Villa Dei.
+          <lb/>ALEXANDER MAGNUS. Voir: Leo Archipresbyter.
+          <lb/>ALEXANDER DE VILLA DEI: Doctrinale, la pars. Haguenau,
+          <lb/>H. Gran, 20 juillet 1495, in-4°.
+          <lb/>G W 1075, Hain 688, Schreiber 3087, Reichling: Doctrinale
+          <lb/>115. I.
+          <lb/>K 168. Prov.: Librairie Trübner (Vente Noiriel), Strasbourg,
+          <lb/>4 IV. 1874. A l’intérieur du premier plat, exlibris exécuté par
+          <lb/>J. E. Belling, Cath. Sc. A. V., avec les 2 vers latins suivants:
+          <lb/>«Wessofontani proba sum possessio claustri.
+          <lb/>«Heus! Domino me redde meo: sic jura reposcunt.» 16
+          <lb/>ALEXANDER DE VILLA DEI: Doctrinale Secunda pars. Hague¬
+          <lb/>nau, H. Gran, 7 sept. 1495, in-4°.
+          <lb/>G W 1108, Hain 714, Schreiber 3107, Reichling: Doctrinale
+          <lb/>115. II.
+          <lb/>K 174. Prov.: Librairie Trübner (Vente Noiriel), Strasbourg,
+          <lb/>4 IV. 1874. A la suite de K 168. (— N° 16.)
+          <lb/>1
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

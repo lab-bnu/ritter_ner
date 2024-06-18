@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:03.921756+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002094.tif
+IMAGE WIDTH: 2494
+IMAGE HEIGHT: 3982
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>BUGENHAGEN, Joh. (Von der Keuschheit) : Von der Closter
+          <lb/>keüscheyt unnd Christenlicher Beicht... — Haguenau
+          <lb/>(Guillaume Seltz) 1529, in-80.
+          <lb/>Geisenhof, n° 241; Burg, n° 115.
+          <lb/>1234
+          <lb/>BUGENHAGEN, Joh. (Kriegsrüstung) : Von der jetzigen
+          <lb/>Kriegsrüstung. — Strasbourg 1546, in-40.
+          <lb/>Geisenhof, n° 349.
+          <lb/>1235
+          <lb/>BUGENHAGEN, Joh. (Postillatio) : Postillatio in Evangelia... —
+          <lb/>Strasbourg, Jean Knobloch (1524), in-8°.
+          <lb/>Geisenhof, no 46.
+          <lb/>1236
+          <lb/>BUGENHAGEN, Joh. : Postillatio in Evangelia... — Strasbourg,
+          <lb/>Cnob loch) (1524), in-8°.
+          <lb/>Geisenhof, n° 47; Walter, n° 838.
+          <lb/>1237
+          <lb/>BUGENHAGEN, Joh. : Postillatio in Evangelia... — (Haguenau,
+          <lb/>Jean Secer vers 1525), in-8°.
+          <lb/>Geisenhof, n° 48.
+          <lb/>1238
+          <lb/>BUGENHAGEN, Joh. (Von den Sünden) : Was und weliches die
+          <lb/>sünd sey in den heyligen geyst... — (Haguenaul 1524,
+          <lb/>in-4°.
+          <lb/>Geisenhof, n° 24.
+          <lb/>1239
+          <lb/>BUGENHAGEN, Joh. Voir aussi : RITTER, Rép, nos 326-329.
+          <lb/>BUHAHYLYHA, Bynyezla : Schachtaffeln der Gesundheit...—
+          <lb/>Strasbourg, Jean Schott 1533, in-fol.
+          <lb/>Choulant, Handbuch p. 370; Haller, Bibl. botan. II, 649.
+          <lb/>(Ritter, Rép. n° 330 : éd. lat. Tacuinus Aegritudinum, J. Schott
+          <lb/>1532l.
+          <lb/>1240
+          <lb/>BULLINGER, Henricus: Die offenbarung Jesu Christi. Anfangs
+          <lb/>durch den heiligen Engel Gottes Joanni dem säligen
+          <lb/>92
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:06.729428+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie108.tif
+IMAGE WIDTH: 2490
+IMAGE HEIGHT: 3926
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>WIMPHELING, Jacobus : Agatharchia. — (Strasbourg, Martin
+          <lb/>Schott 21 XI 1498), in-4°.
+          <lb/>Hain 16169, Proctor 411; Rltter, Rép. Inc. 489.
+          <lb/>705
+          <lb/>WIMPHELING, Jac. : Disceptatio oratorum duorum (videlicet
+          <lb/>Jacobi Wimphelingi et Roberti Gaguini) regum Romani
+          <lb/>Maximiliani et Franci Caroli VIII super rapta illustr.
+          <lb/>ducissae Annae Britanniae. — (Strasbourg (?) s. d.],
+          <lb/>in-40
+          <lb/>Hain 16187; Pellechet 4345.
+          <lb/>706
+          <lb/>WIMPHELING, Jacobus : Carmen hecatosticon ad Eberhardum
+          <lb/>Würtembergensem. — Strasbourg, Jean Prüss 1490,
+          <lb/>in-40.
+          <lb/>Ritter, Gr. Sém. Strasbourg no 490.
+          <lb/>707
+          <lb/>WIMPHELING, Jac. : Isidoneus germanicus ad R. D. Georgium
+          <lb/>de Gemmingen Spirensem prepositum. — (Strasbourg,
+          <lb/>Jean Grüninger 1496), in-4°. (La dédicace est du
+          <lb/>21 juin).
+          <lb/>Goedeke I2, p. 408, n° 14.
+          <lb/>708
+          <lb/>WIMPHELING, Jacobus: Isidoneus Germanicus. — Strasbourg,
+          <lb/>J. Grüninger [vers 1497), (?) in-4°.
+          <lb/>Hain 16177; Voulliéme: Berlin 2081 : Conv. Hist. Spire. 709
+          <lb/>WIMPHELING, Jacobus: Isidoneus Germanicus. — Strasbourg,
+          <lb/>J. Grüninger 1497, in-4°.
+          <lb/>Hain 16180.
+          <lb/>710
+          <lb/>WIMPHELING, Jac. : Isidoneus Germanicus ad R. P. D. Geor¬
+          <lb/>gium de Gemmingen... Epistola ad filios Philippi.
+          <lb/>Com, rhe. Pala. In Fridericum victorissimum bavarie
+          <lb/>Ducem oratio funebris. Ac ipsius Epigrammata in
+          <lb/>eumden. — (Strasbourg, Jean Grüninger 1498), in-40.
+          <lb/>Copinger III, 6578; Schmidt I, 38. ; ex. sans Oratio. —
+          <lb/>Bibl. Grand Sém. Strasbourg.
+          <lb/>711
+          <lb/>106
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

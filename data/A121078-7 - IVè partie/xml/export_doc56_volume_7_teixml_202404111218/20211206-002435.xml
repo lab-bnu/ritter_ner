@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:12.750025+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002435.tif
+IMAGE WIDTH: 2516
+IMAGE HEIGHT: 3966
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Municipales de Strasbourg : « Kurze Beschreibung Dreier
+          <lb/>kunstreicher schöner u. herrlicher Gebeute in der weit
+          <lb/>berümpten Stadt Strasburck, der Hoheturm, die grose kirchen
+          <lb/>und konstreich Uhrwerck in der Kirchen, welche man zu
+          <lb/>Strasburg nennet Münster oder Münstra... Dis Alles in 17.
+          <lb/>unterschiedlichen Meisterthön gedichtet, und deren Melodie
+          <lb/>darzu genotieret Anno 1580». Publié par E. Martin dans les
+          <lb/>Hans Sachs-Forschungen de Ziebel (Nürnberg 1894, p. 382-
+          <lb/>396).
+          <lb/>3053
+          <lb/>PYTHAGORAS : Poemata Pythagorae et Phocylides graeca
+          <lb/>cum duplici interpretatione Viti Amerbachii. —
+          <lb/>Strasbourg, Crato Mylius, mars 1545, in-8°.
+          <lb/>Walter n° 2108. [Une éd. de Crato Mylius 1539 : Ritter,
+          <lb/>Rép. n° 1960).
+          <lb/>3054
+          <lb/>PYTHAGORAS : Poemata Pythagorae et Phocilidis. Cum
+          <lb/>duplici interpretatione Viti Amerbachii. — Strasbourg,
+          <lb/>Christian Mylius 1565, in-80.
+          <lb/>Ritter: B M Strasbourg, n° 1768a; Walter, n° 2108. 3055
+          <lb/>QUADUS, Nicolaus : Epistola Nicolai Quadi nuper ex urbe
+          <lb/>missa ad Hermannum Comitem de nova Aquila, miranda
+          <lb/>nuncians de quodam novo opere... cui titulus De memora¬
+          <lb/>bilibus praedicatorum et carmelitarum. — Sélestat,
+          <lb/>Lazare Schürer [vers 1520), in-4°.
+          <lb/>Ritter, Hist. impr., app. 477 (1).
+          <lb/>3056
+          <lb/>QUALLE, Mathias : Habes hic amande lector textum Parvuli
+          <lb/>quod aiunt, philosophiae naturalis cum commentariis
+          <lb/>V. Chr. M. O. Carniolani et college gymnasii Viennensis
+          <lb/>vigilantia e gravissimis authoribus deceptis...
+          <lb/>Haguenau, Henri Gran aux frais de Rynman 1513,
+          <lb/>in-40.
+          <lb/>Graesse V, p. 519.
+          <lb/>3057
+          <lb/>QUARINUS, Andreas. Voir: GUARNA, Andreas.
+          <lb/>433
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:37.318556+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu067.tif
+IMAGE WIDTH: 2384
+IMAGE HEIGHT: 3844
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>FARINATOR Mathias: Lumen animae. (Strasbourg, impri¬
+          <lb/>meur de la Legenda aurea), 22 mars 1482, in-fol.
+          <lb/>Hain 10333, Madsen 1559, Pellechet: Colmar 915, Proctor 413,
+          <lb/>Voullième: Berlin 2249.
+          <lb/>K 2438. Prov.: Don de la Bibl. Univ. de Goettingue, 1871. Au
+          <lb/>haut du f. de garde: «Liber Johannis Alberti (?)». Rel. anc.
+          <lb/>167
+          <lb/>FASCICULUS temporum. Voir: Rolewinck Werner.
+          <lb/>FERRARIIS Johannes Petrus de: Practica nova judicialia.
+          <lb/>(Strasbourg, H. Eggestein, s. d.), in-fol.
+          <lb/>Hain 6985, Pellechet 4769, Proctor 280.
+          <lb/>K 1581. Prov.; B N Munich, 22/1. 1880, 12 M. Rel. anc. 168
+          <lb/>FERRERIUS Vincentius; Sermones de tempore. Pars hiema¬
+          <lb/>lis, 1488. Sermones de tempore, Pars æstivalis. Sermo¬
+          <lb/>nes de sanctis. Strasbourg, (impr. du Jordanus (— G.
+          <lb/>Husner) ), 1488/9, 3 vol. in-fol.
+          <lb/>Hain 7005. I. Il. II., Voullième: Berlin 2418, 2424, 2427.
+          <lb/>K 3734a, Prov.: Oswald Weigel, Leipzig, 2/XII. 1893, 20 M.
+          <lb/>Au-dessous du titre du 1er et du 2e vol.: «Fratrum Minorum Bam
+          <lb/>bergae ad S. Annam. Au-dessous du titre du 3e vol.: Langheim
+          <lb/>1641. Rel. anc.
+          <lb/>169
+          <lb/>FERRERIUS Vicentius S.: Sermones de tempore. Pars æsti¬
+          <lb/>valis. Strasbourg, (impr. du Jordanus (— G. Husner)),
+          <lb/>1493, in-fol.
+          <lb/>Hain 7009, Pellechet: Colmar 615.
+          <lb/>K 3735a. Prov.: C. Geyling héritiers, Vienne, 18/1. 1886, 8 M.
+          <lb/>Au-dessous du titre: «Conventus Colmariensis Ordinis prae¬
+          <lb/>dicatorum». Rel. anc.
+          <lb/>170
+          <lb/>FERRERIUS Vincentius S.: Sermones de tempore. Pars hie¬
+          <lb/>malis. Strasbourg, (impr. du Jordanus (— G. Husner)),
+          <lb/>1493, in-fol.
+          <lb/>Hain 7009, Pellechet: Colmar 615.
+          <lb/>K 3735b. Au-dessus du titre: Adam Reiner. Rel. anc.
+          <lb/>171
+          <lb/>37
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

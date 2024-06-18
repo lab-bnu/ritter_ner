@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:38.640856+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu125.tif
+IMAGE WIDTH: 2414
+IMAGE HEIGHT: 3852
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>THOMAS DE AQUINO: Tractatus de universalibus. (Stras¬
+          <lb/>bourg, H. Eggestein), s. d., in-4°.
+          <lb/>Hain 1512, Pellechet: Colmar 151, Proctor 282, Voulliéme:
+          <lb/>Berlin 2159, 8.
+          <lb/>K 3556. Prov.: Librairie Trübner, Strasbourg, 29. X. 1883,
+          <lb/>10 M.
+          <lb/>452
+          <lb/>THOMAS DE AQUINO: De veritate catholicae fidei. (Stras¬
+          <lb/>bourg, imprimeur du H. Ariminensis, vers 1469), in-fol.
+          <lb/>Hain 1385, Madsen 3951, Pellechet 986, Proctor 322, Voul¬
+          <lb/>liéme; Berlin 2179; Walter; Sélestat: 464 dit vers 1473.
+          <lb/>K 3509. Prov.: Don de la ville de Heilbronn, 1871. Rel. anc.
+          <lb/>453
+          <lb/>THOMAS DE ARGENTINA: Super quatuor libros Sententiarum.
+          <lb/>Strasbourg, Martin Flach, 1490, 2 vol., in-fol.
+          <lb/>Copinger 603, Madsen 3954, Pellechet 1164, Proctor 690,
+          <lb/>Schmidt VI, 33, Voulliéme: Berlin 2489, Walter: Sélestat:
+          <lb/>478.
+          <lb/>K 3561. Prov.: Don de la ville de Heilbronn, 1871. Rel, anc.
+          <lb/>454
+          <lb/>THOMAS EBENDORFER DE HASELBACH: Sermones dominicales.
+          <lb/>(Strasbourg, H. Knoblochtzer), 13 déc. 1478, 2 vol.,
+          <lb/>in-fol.
+          <lb/>Hain 8370, Madsen 1489, Pellechet: Colmar 730, Proctor 333,
+          <lb/>Schorbach-Spirgatis, Knoblochtzer p. 9, Schreiber 5344,
+          <lb/>Voulliéme: Berlin 2209, 5.
+          <lb/>Schramm Bilderschmuck XIX, grav. N° 7-9.
+          <lb/>K 3563. Prov.: Ia Pars: Don de Fid. Butsch fils, Augsbourg,
+          <lb/>1872. Au recto du 1er f.; «Monasterij Ranshouen». Rel. anc.
+          <lb/>Ila Pars Prov.: Librairie Trübner, Strasbourg, 31. VIII. 1887,
+          <lb/>15 M. Notes mss, au recto du f. de garde: «Ex dono Ven¬
+          <lb/>erabilis domini Johannis Vilakiri (?) Capellani Basiliensis
+          <lb/>sed tunc temporis vitam agens in Freyburgo Anno domini
+          <lb/>1536 ipsa die Epiphaniae.» Rel. anc.
+          <lb/>455
+          <lb/>THOMAS A KEMPIS: De imitatione Christi. Strasbourg, Mar¬
+          <lb/>tin Flach, 1487, in-4°.
+          <lb/>Hain 9092, Madsen 2063, Pellechet: Colmar 810, Proctor 673,
+          <lb/>Schmidt VI, 12, Voulliéme: Berlin 2475, 15.
+          <lb/>K 3569. Prov.: Theodor Müller, Helmstadt, 31. VII. 1889,
+          <lb/>20 M. Note mss. au f. du titre avec les dates 1536 et 1545.456
+          <lb/>95
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

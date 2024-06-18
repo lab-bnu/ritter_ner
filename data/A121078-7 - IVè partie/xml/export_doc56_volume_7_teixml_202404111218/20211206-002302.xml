@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:09.430874+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002302.tif
+IMAGE WIDTH: 2540
+IMAGE HEIGHT: 3942
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Margraff Albrechten von Brandenburg, Anno 1553,
+          <lb/>gehalten worden... (grav.). — (Strasbourg, Th. Berger
+          <lb/>1553), in-8°.
+          <lb/>Heitz, p. 71; Wackernagel IV, 452: N. Selnecker. 2331
+          <lb/>LIED (ein neues) : Ein neüw Lied, vonn der Schlacht so sich
+          <lb/>zwischen dem Künig ausz Engellant unnd Künig inn
+          <lb/>Franckreich zugetragen, und wie die statt S. Quintin
+          <lb/>erobert und gewunnen ist worden, Anno 1557... (grav.). —
+          <lb/>(Strasbourg, Th. Berger 1557), in-8° (Auteur à la fin:
+          <lb/>Lorentz Rosenzwig von Than).
+          <lb/>Heitz, p. 65.
+          <lb/>2332
+          <lb/>LIED (ein neues) : Ein neuw Lied von den geschichten so
+          <lb/>sich zu Frona in Zibbs, im Ungerischen kreis zugetragen,
+          <lb/>im Monat Mey. 1557. Jar. (grav.)... [Strasbourg,
+          <lb/>Th. Berger 1557), in-8° (Auteur à la fin : Hans Franck
+          <lb/>von Altenburg).
+          <lb/>Heitz, p. 72.
+          <lb/>2333
+          <lb/>LIED (ein neues) : Ein neüw Lied, Von der Schlacht
+          <lb/>in Frankreich, zwischen dem Hertzog von Conde und
+          <lb/>dem Hertzog von Guiss, geschehen am Weynacht abend,
+          <lb/>Anno 1562... Ein ander Lied, von den Schweitzerischen
+          <lb/>Hauptleüten, wie es inen ergangen ist... — (Strasbourg,
+          <lb/>Thiébaud Berger) [vers 1563), in-8°.
+          <lb/>Vogeleis, p. 302.
+          <lb/>2334
+          <lb/>LIED (ein neues) : Ein New Lied Ausz der Histori Eusebii.
+          <lb/>Von den zehen verfolgungen, Und zerstörung des
+          <lb/>Christenthums. Mehr Ein Lied vom Reich des Anti¬
+          <lb/>christs.. — Strasbourg, Thiébaud Berger [vers 1565),
+          <lb/>in-80.
+          <lb/>Vogeleis, p. 314; Wackernagel, Kirchenlied vol. I, p. 779.
+          <lb/>2335
+          <lb/>LIED (ein neues) : Ein newes Lied von dem grausamen und
+          <lb/>300
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

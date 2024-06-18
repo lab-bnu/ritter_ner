@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:47.426539+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078169.tif
+IMAGE WIDTH: 2304
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>NACHTGALL (Nachtigal) Ottomar. Voir: LUSCINIUS Ottomar
+          <lb/>NAGEL Philippe. Voir: CARMINA gratulatoria, n° 457.
+          <lb/>NAME
+          <lb/>Strasbourg 1523
+          <lb/>Von dem weyt erschollenen Namen
+          <lb/>Luther, waz
+          <lb/>er bedeut unnd wie er wirt missbraucht. Er hevst nit
+          <lb/>der trüber vil mer der lauterer Er heyst auch nit der
+          <lb/>lotter, vil mer der bewerer. Marschalck.
+          <lb/>Straszburg. M. D. XXIII. (Verso blanc.)
+          <lb/>In-4°, car. got., 4 ff. non ch., sign. A, init. à fig. E (avec 3 fig.);
+          <lb/>titre encadré, en haut et en bas des ornements, dans la bordure de
+          <lb/>gauche un homme nu avec un enfant nu, dans celle de droite une femme
+          <lb/>nue avec un enfant nu.
+          <lb/>R101723. Prov. inconnue.
+          <lb/>1620
+          <lb/>NANNUS MIRABELLIUS Dominicus Strasbourg, M. Schurer 1517
+          <lb/>POLYAN thea Opus suavissimis floribus exornatum
+          <lb/>compositum per Dominicum Nanum Mirabellium, Civem
+          <lb/>Albensem artiumque doctorem ad communem utilitatem.
+          <lb/>Addita nunc primum est latina interpretatio versuum Dan¬
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

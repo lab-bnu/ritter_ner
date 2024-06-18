@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:48.203186+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078194.tif
+IMAGE WIDTH: 2302
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1080
+          <lb/>Udalrici ducis Wirtenbergensis! &amp;amp; Teccen. cancellario vigilantiss. Io.
+          <lb/>Fol. A 2a :... D. Gregorio Lamparter. Illustriss, prin! cipis nostri
+          <lb/>Icolampadius Winspurgensis. S. D.... (2 pp.)
+          <lb/>Fol. G 54 : Io. Icolampadii. De Ascen ! sione Domini. (50 vers.)
+          <lb/>*R100.899 (4). Prov.: Échange avec la Bibl. du Lycée de Heil¬
+          <lb/>bronn; 2/IV 1878.
+          <lb/>Schmidt VIII n° 88: BM Strasbourg et Bâle.
+          <lb/>Voir: HESS Salomon: Lebensgeschichte D. Joh. Oekolampads, Re¬
+          <lb/>formators der Kirche in Basel... Zürich, Ziegler &amp;amp; Söhne, 1793, in-8°,
+          <lb/>542 pp. [= Biographien berühmter Schweizerischer Reformatoren Il;
+          <lb/>Schottenloher I n° 16529-16567.
+          <lb/>1662
+          <lb/>OECOLAMPADIUS Johannes
+          <lb/>Strasbourg, M. Apiarius 1533
+          <lb/>IN HIEREMIAM PROPHETAM COMMENTARIORVM! libri tres
+          <lb/>Ioannis Oecolampadii EIVSDEM IN THRENOS HIEREMIAE! ENAR¬
+          <lb/>RATIONES. ARGENTINAE ANNO! M. D. XXXIII.
+          <lb/>A la fin: ARGENTINAE IN OFFICINA MATTHIAE APIARII
+          <lb/>MENSE SEPTEMBRI. I ANNO M. D. XXXIII.
+          <lb/>In-4°, car, rom,, 4 ff. non ch. (Préface), 271 ff. ch., titre courant,
+          <lb/>réclames.
+          <lb/>Au verso du titre: Gvolfgangus Capito Wandalino! Rihelio diacono
+          <lb/>ecclesiae in Evangelio Argen- tinae, sibi tanquam fratri dilecto, gratiam
+          <lb/>&amp;amp; pacem. (7 pp.)
+          <lb/>R102.151. Prov.: Don de la BM de Hambourg 1871. Notes mss.
+          <lb/>Bibl. St-Guillaume, Strasbourg; Beaulieux p. 217: BU Paris, Rés.
+          <lb/>888.
+          <lb/>1663
+          <lb/>OECOLAMPADIUS Johannes
+          <lb/>Strasbourg, M. Apiarius 1534
+          <lb/>IN EPISTO LAM AD HEBRAEOS, Io- annis Oecolampadii,
+          <lb/>explana tiones, ut ex ore praelegentis exceptae, per quos¬
+          <lb/>dam ex auditoribus di- gestae sunt. (Feuille de lierre.)
+          <lb/>ARGENTORATI APVD Mathiam Apiarium. Mense Augusto,
+          <lb/>Anno! M. D. XXXIIII, (Verso blanc.)
+          <lb/>A la fin: ARGENTORATI in Officina Mathiae Appiarii.
+          <lb/>Anno salutis humanae! M. D. XXXIIII Mense Augusto.
+          <lb/>In-80, car, rom., 8 ff. non ch. (titre, préfâce et table), 180 ff. ch.,
+          <lb/>2 f. non ch., titre courant, réclames, notes marg., init. d’attente.
+          <lb/>Fol. A 2a: Mathias Apiarius ! Pio Lectori... Argentorati Mense
+          <lb/>septembri Anno MD XXXIIII.
+          <lb/>R101243. Prov.: Donation Edouard Cunitz, Strasbourg 1886.
+          <lb/>Au recto du f. de garde, «R. Lutz 1786,; le dernier f. avec la marque
+          <lb/>typ. d’Apiarius manque.
+          <lb/>Bibl. St-Guillaume, Strasbourg.
+          <lb/>1664
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

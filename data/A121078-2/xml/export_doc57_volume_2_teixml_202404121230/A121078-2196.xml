@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:32.382449+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2196.tif
+IMAGE WIDTH: 2282
+IMAGE HEIGHT: 3824
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>192
+          <lb/>BRUNFELS Otto
+          <lb/>Strasbourg, J. Schott, 1534.
+          <lb/>LocI omnium ferme Capitum! Euangelij secundum
+          <lb/>Mathaeum. Marcum. Lucam. Ioannem. Actorum item
+          <lb/>Apo- stolicorum.
+          <lb/>Argentorati apud Ioan-nem Schotum. Anno. 1534.
+          <lb/>A la fin: ARGENTORATI APVD! IOAN. SCHOTTVM, I MENSE
+          <lb/>IANVA- RIO, ANNO M. D. XXXIIII. (Verso blanc.)
+          <lb/>titre courant, réelames, notes marginales, titre encadré. (H e B, Plan¬
+          <lb/>In-8°, car, rom., 158 ff. non ch., dont le dernier blanc, sign. A-V,
+          <lb/>che IV, N° 8.)
+          <lb/>Au verso du titre: Nicolao Mauro suo, Pastori Darmstat¬
+          <lb/>tensi, Otho Brunfelsius S. D.... Argentorati Idihus (!) Martij.
+          <lb/>Anno. M. D. XXXIIII.
+          <lb/>Au-dessus de l&amp;#x27;explicit: IOAN. SCHOTTVS! Librarius, Lec¬
+          <lb/>tori. (12 lignes.)
+          <lb/>R 102.239.(2) Prov.: Echange avec la Bibl. du Gumnase de Heil¬
+          <lb/>bronn, 2/1V. 1878.
+          <lb/>Schmidt II, N° 128: Grand Séminaire, Strasbourg, Nouvelle édi¬
+          <lb/>tion de 1529.
+          <lb/>296
+          <lb/>BRUNFELS Otto
+          <lb/>Strasbourg, J. Schott, 1534.
+          <lb/>ONOMA ETIKON MEDICINAE. ] CONTINENS Omnia nomina
+          <lb/>Herbarum, Fruticum, Suffruticum, Arborum, Senti-um,
+          <lb/>Seminum, Florum, Radicum, Lapidum preciosorum, Metal¬
+          <lb/>lorum, Colorum, Definitionum Medicinalium, Instrumento¬
+          <lb/>rum Medicinae, Un guentorum, Diapasinatum, Emplastro¬
+          <lb/>rum, Eclegmatum, Acoporum, Suffituum, Electariorum,
+          <lb/>Pharmacorum, Clysterium, Bolanorum, Pes-! sorum, Pas¬
+          <lb/>tillorum, Malagmatum, Balnearum, Chirurgiae, Morborum
+          <lb/>Pecudum, Animantium omnis generis nomina propria:
+          <lb/>eorum quae in! myropolijs habentur, Morborum, Medico¬
+          <lb/>rum, &amp;amp; InuentorumMedicinae, Anatomiae, Ponderum,
+          <lb/>Philosophiae naturalis, Magiae, Achimiae (!) &amp;amp; Astrologiae;
+          <lb/>ex optimis, pro- batissimis, &amp;amp; uetustissimis Autoribus,
+          <lb/>cum Graecis, tum Latinis, Opus recens, nuper multa
+          <lb/>lectione OTHONIS Brunfelsij, Medicinae professoris, con¬
+          <lb/>gestum in gratiam eorum qui se priscae MEDICINAE dedi¬
+          <lb/>derunt.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:51.690814+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078308.tif
+IMAGE WIDTH: 2316
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1194
+          <lb/>PICTORIUS Ludovicus
+          <lb/>Strasbourg, M. Schurer 1509
+          <lb/>LODOVICI BIGI PICTORH Ferrariensis Opusculorum
+          <lb/>Christia- norum, libri tres eloquen- tissimi sanctissimi¬
+          <lb/>que Quorum Primus Io. Francisco Pico, Mirandulae
+          <lb/>domino, &amp;amp; Concordiae Comiti, Secundus Alberto pio Car¬
+          <lb/>porum Principi, Tertius vero Guieloni Ubaldo Urbi¬
+          <lb/>natum Duci dieatus est.PONTI PAVLINI Carmen lam¬
+          <lb/>bicum Christianam pietatem commendans. L. B. C.
+          <lb/>Parvum opus est, sed forte sua brevitate putabis Gran¬
+          <lb/>dius, e terris sternit ad astra viam.
+          <lb/>A la fin : Matthias Schürerius Helvetensis Studiosis Sal.! Mos
+          <lb/>fuit apud Priscos minime ignobilis, stre nas, aut xeniola Calendis Janua¬
+          <lb/>riis pro foelici in- euntis anni auspicio quotannis amicis missitare! quod
+          <lb/>tum ex hystoriographorum, tum poetarum monumentis notissimum est.
+          <lb/>Ego itaque cum erga studiosos omnes optime affectus sim, Haec Chri¬
+          <lb/>stiana Bigi carmina bonarum litterarum sectatori! bus velut pro strena
+          <lb/>aut (ut vulgi more loquar) natalitio donario emisi. Vos grati estote &amp;amp;
+          <lb/>bene! valete, semper quae meliora sunt, quaevales.! Ex Argentoraco.
+          <lb/>Haec Christiana Lodovici Bigi Opuscula! stamneis calamis Argen¬
+          <lb/>toraci emenda- tissime exscripta sunt. Decimo l’sexto K. Februar. Anno
+          <lb/>a natali Christiano! M. D. VIIII....
+          <lb/>In-4°, car. rom., 60 ff. non ch., sign. A-M, notes marg.
+          <lb/>Fol. A 2, préface : Beatus Rhenanus Arnoaldo gentili suo. S.... —
+          <lb/>Vale. Ex Helveto. K. Decemb. 1508.
+          <lb/>*R100.890. Prov.: Don du baron de Dœrnberg, Cassel 29/IV
+          <lb/>1890 avec son ex-libris et annotations mss.
+          <lb/>Schmidt VIII n° 11; Walter: Sélestat n° 791.
+          <lb/>1868
+          <lb/>Strasbourg, J. Pruss 1504
+          <lb/>PICUS a MIRANDOLA Johannes
+          <lb/>Opera Joannis Pi-] ci : Mirandule Comitis Con-cordie:
+          <lb/>litterarum principis: novissime accurate revisa (addito
+          <lb/>generali super! omnibus memoratu dignis regesto) ! qua¬
+          <lb/>rumcunque facultatum professoribus ! tam iucunda quam
+          <lb/>proficua.... (21 lignes.)
+          <lb/>A la fin: Disputationes has Joannis Pici Mirandulae,
+          <lb/>concordiae Comitis, litterarum princi- pis, adversus Astro¬
+          <lb/>logos: diligenter impressit Industrius Joannes Prüss Ci¬
+          <lb/>vis Argentinus. Anno salutis. M. CCCCCHII. Die vero. XV.
+          <lb/>Marcii.
+          <lb/>In-fol., car. rom., 12 ff. non ch., COXVI ff. ch., titre courant,
+          <lb/>notes marg., init. d’attente.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

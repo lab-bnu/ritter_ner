@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:35.540256+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2300.tif
+IMAGE WIDTH: 2304
+IMAGE HEIGHT: 3822
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>296
+          <lb/>anderen D. Carionis prognosticationen, bisz! auffs LX. Jar
+          <lb/>sich erstreckend. Darbei auch ein christliche ermanung
+          <lb/>an K. M. vnd alle an-dere Christliche Obergkeiten.
+          <lb/>Zû̀ letst folgt M. Salomonis Practica, vnd die Offen barung
+          <lb/>Raimundi, von grossen straffen.
+          <lb/>prêtres juifs.
+          <lb/>Au-dessous, gravure sur bois: un roi en conversation avec des
+          <lb/>A la fin: Getruckt zû Straszburg bei Wen- del Riehel.
+          <lb/>Anno M.D.XLIX. (Verso blanc).
+          <lb/>gravures sont empruntées aux éditions précédentes.
+          <lb/>In-4°, car. goth., 32 ff. non ch., sign. A-H, réclames, plusieurs
+          <lb/>jusqu’en 1560. Au-dessous: 16 vers allemands.
+          <lb/>Au verso du titre, préface, disant que les prophécies s’étendent
+          <lb/>R 101162. Prov.: Hans Gnad, Wurtebouro, 18/IV. 1899, 5M.
+          <lb/>GPB: BN Berlin, Vienne.
+          <lb/>448
+          <lb/>CARLETTI Angelo. Voir: ANGELUS DE CLAVASIO.
+          <lb/>CARLSTADT Andreas. Voir: KARLSTADT.
+          <lb/>CARMINA GRATULATORIA
+          <lb/>Strasbourg, 1584.
+          <lb/>Carmina gratulatoria.! IN HONOREM ET! Laudem docti
+          <lb/>cumprimis, &amp;amp; honesti luue- nis HELFRICI EMMELII, Won¬
+          <lb/>bachensis, Wet- terauij, cum ei in inclyta Argentoraten¬
+          <lb/>sium Academia secundus Philosophiae gra- dus decer¬
+          <lb/>neretur.
+          <lb/>SCRIPTA AB AMICIS. (Vignette).
+          <lb/>ARGENTORATI. Anno Domini. M. D. LXXXIIII. (Verso
+          <lb/>blanc.
+          <lb/>In-4°, car. ital, et grecs, 4 ff. non ch., sign. A, réclames. Des vers
+          <lb/>de Joannes Frider. Gernandus Hessus, M. Petrus Friderus Mindensis,
+          <lb/>Michael Clenouius Hamburgensis Saxo, Josephus Langius Cœsaremon¬
+          <lb/>tanus et Christophorus Furgang Olsnicensis.
+          <lb/>R102.2881. Prov.: Bibliothèque Ch. Schmidt, Strasbourg. 440
+          <lb/>CARMINA GRATULATORIA
+          <lb/>Strasbourg, Nic. Wyriot, 1583.
+          <lb/>CARMINA! Gratulatoria in honorem optimae! spei ac
+          <lb/>indolis luuenis, Ioannis Iacobi Braun Ar- gentoratensis,
+          <lb/>cùm ei prima laurea decerneretur à! Spectabili Domino
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

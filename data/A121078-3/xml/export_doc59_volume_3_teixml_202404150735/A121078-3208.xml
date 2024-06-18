@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:08.564294+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3208.tif
+IMAGE WIDTH: 2326
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>652
+          <lb/>tung. Cristliche küngin Von vnderscheid tödtlicher vnd
+          <lb/>teglicher sünden. Der dreveckechte Spiegel der gebot, der
+          <lb/>beicht vnd wol sterben. Der Eschengrüdel Anfang der
+          <lb/>menschen in dem dienst gottes. Das Clappermaul Sagt
+          <lb/>von der hinterred. Der Trostspiegel Des vnuernünfftigen
+          <lb/>traurens. Gepredigt vnd geteutschet durch den wirdigen
+          <lb/>vnd hochgelerten Doctoren Johannes Geiler von Keisers¬
+          <lb/>perg mitsampt den obbestimpten tractäten.
+          <lb/>Am Schluss: vnd getruckt durch Johannem Gryenin¬
+          <lb/>ger auszgangen vff Samstag zû mitfast im iar. Tausent
+          <lb/>fünffhundert vnd fierzehen.
+          <lb/>Erschien am gleichen Tage wie der vorhergehende Druck, jedoch
+          <lb/>mit andern Typen; die Fehler der 1. Ausgabe sind meist verbessert, wie
+          <lb/>schon aus dem Titel ersichtlich; ausserdem ist der Titel rot u. schwarz
+          <lb/>gedruckt. Die Holzschn. sind die gleichen mit Ausnahme desjenigen vom
+          <lb/>Höllischen Löwen Bl. 20b, der ein Monogr, aufweist; die Seitenzahl
+          <lb/>ist die gleiche; ausserdem ist dieser Druck mit Init, ausgestattet.
+          <lb/>R10.129. Prov.: Otto Brand, Strassburg (Auktion Maehn) 20. IV.
+          <lb/>1883; 45 M. Auf dem Titelbl, oben: Verus hujus libri possessor est
+          <lb/>Ludovicus Mauritius Carburgh à Carbenstein Anno 1709; unten: Sum
+          <lb/>Io. Carburghs de Bopardia.
+          <lb/>GK: SB Berlin, UB Bonn, Göttingen. Fehlt bei Schmidt. 967
+          <lb/>GEILER Johannes
+          <lb/>Strassburg, Joh. Grüninger 1514
+          <lb/>Doctor Keiserspegrs (!) Passion Des Herren Jesu.
+          <lb/>Fürgeben vnd ge- prediget gar betrachtiglich (particuliert)
+          <lb/>vnd geteilt in stückes weisz eins! süszen Lebkûchen vszzû¬
+          <lb/>geben (per quadragesimam) als durch die gantze fasten
+          <lb/>allen tag wol ein Predig darusz zû nemen ist. Neulich vsz
+          <lb/>dem latyn in tütsche sprach Transueriert, durch Johan¬
+          <lb/>nem Adelphum Physicum von Strassburg.
+          <lb/>Holeschn.: Geiler auf der Kanzel; über dem Haupte Geilers auf
+          <lb/>dem Pfeiler, an den die Kanzel angelehnt ist, die Buchstaben DIK;
+          <lb/>vor der Kanzel sitzen 3 Männer und eine Frau, daneben liegt ein Hund;
+          <lb/>die Türe der Kirche ist geöffnet u. man sieht draussen einen Baum und
+          <lb/>ein Haus. Der Holzschn. befindet sich auch in der Predigt fur Bischof
+          <lb/>Albrecht, Grüninger 1513.
+          <lb/>Bl. 109b: Vnd ist dis bûch Getruckt vnnd seliklichen
+          <lb/>volen- det durch Johannem grüninger bûchtruck- er zû
+          <lb/>Straszburg, vff montag vor sant An dreas tag im aduent
+          <lb/>vnd iar. M. D. xiiij.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

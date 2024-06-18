@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:28.811603+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2087.tif
+IMAGE WIDTH: 2330
+IMAGE HEIGHT: 3830
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>83
+          <lb/>R i0L011. Prov.: BN Munich, 1. Il. 1877; 1 M. 20. Notes mss.
+          <lb/>dans le texte et au verso du dernier f.
+          <lb/>Proctor II, Sectio I, N° 11688: Londres, British Museum.
+          <lb/>GPB: Münster.
+          <lb/>143
+          <lb/>BAPTISTA Mantuanus
+          <lb/>Strasbourg, M. Schürer, 1518.
+          <lb/>F. BAPTI STAE MANTVANI CARMELITAE THEO LOGI,
+          <lb/>FASTORVM LIBRI DVODECIM.
+          <lb/>Quibus praemittitur. Carmen ad Julium. Il. Ponti¬
+          <lb/>ficem maximum. Carmen ad Leonem. X. Pon- tificem
+          <lb/>maximum. Vita Authoris, a seipso descri- pta Carmine
+          <lb/>elegiaco. Item &amp;amp; alia quaepiam.
+          <lb/>A la fin: Argentorati, Ex aedibus Schurerianis,! Mense
+          <lb/>Augusto. ANNO. M.D.XVIII.
+          <lb/>In-4°, car. rom,, 164 ff. non ch., les 3 derniers blancs, sign. a-e, A,
+          <lb/>titre courant, initiales ornées M, R. A, T, J, S. O. F, titre encadré; au
+          <lb/>haut, entrée triomphale d’un général romain; des deux côtés, des
+          <lb/>ornements et des génies; au bas, silène endormi, entouré de 6 petits
+          <lb/>génies.
+          <lb/>Au verso du titre, portrait de Baptiste de Mantoue, en médaillon.
+          <lb/>Au dessous: AD MORTALIVM OBLECTATIO NEM. AVCTORIS
+          <lb/>EFFIGIEM HVIC DIVINO OPERI STE- ] PHANVS BASIGNANAS
+          <lb/>GORGONIVS CAR] MELITA, THEO- LOGVS, PO] NENDAM
+          <lb/>CVRA-) VIT.
+          <lb/>fol. a 2a: MATTHIAE SCHVRERIO GEN- tili Chariss. Ja¬
+          <lb/>cobus Vimphelingius Selet-statinus Salutem plurimam...
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

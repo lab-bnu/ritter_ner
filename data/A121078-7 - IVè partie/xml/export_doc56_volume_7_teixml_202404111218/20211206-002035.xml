@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:02.447066+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002035.tif
+IMAGE WIDTH: 2476
+IMAGE HEIGHT: 3978
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>BADIUS, Jodocus : (Idem). — (Strasbourg) (Jean Prüss
+          <lb/>1502), in-8°.
+          <lb/>GKIX, 6834.
+          <lb/>903
+          <lb/>BADIUS, Jodocus Ascensius. Voir aussi: BAPTISTA MAN¬
+          <lb/>TUANUS 916; CICERO (Epistolae), n° 1349; RITTER,
+          <lb/>Rép. n° 124.
+          <lb/>BALDUNG GRIEN, Hans. Voir: CALEpINUS n° 1265; RYFF. W.
+          <lb/>n° 3134.
+          <lb/>BALTHASAR, Franz : Canon sacratissime missae... —
+          <lb/>(Strasbourg, Mathias Hupfuff 1507), in-8°.
+          <lb/>GKX, 7241: BN Berlin, Munich, etc.
+          <lb/>904
+          <lb/>BALTHASAR, Franz : Canon sacratissime missae... —
+          <lb/>(Strasbourg, Mathias Hupfuff vers 1510), in-8°.
+          <lb/>GKX, 7246; B U Göttingen, Darmstadt etc. Panzer 6, 38;
+          <lb/>Schmidt V, n° 61 : B M Colmar.
+          <lb/>905
+          <lb/>BANNHOLTZER, Valentin : Salve regina (en allemand). —
+          <lb/>[Strasbourg, Jean Grüninger vers 1500), in-4°.
+          <lb/>GKX, 12541: BN Munich.
+          <lb/>906
+          <lb/>BANNISIUS Jac. de. Voir : IsocRaTes n° 2133.
+          <lb/>BAPTISTA, Mantuanus : Bucolica... (éd. par J. Wimpheling). —
+          <lb/>(Strasbourg) (Jean Prüss) [après 1503), in-8°.
+          <lb/>GKXI, 69: BN Munich, B U Wurzbourg. (Une éd. Prüss
+          <lb/>1503 : Ritter, Rép. n° 129, une Prüss 1504 : Rép. n° 130,
+          <lb/>puis Prüss 1506, 1507, 1510, 1513, 1514, Knobloch 1515,
+          <lb/>Haguenau, Th. Anshelm 1517, Prüss 1520 : Ritter, Rép.
+          <lb/>nos 131/2, 134, 138/9, 140, 143).
+          <lb/>907
+          <lb/>BAPTISTA, Mantuanus: (Idem)... — [Strasbourg, Jean Prüss
+          <lb/>vers 1505), in-8°.
+          <lb/>GKXI, 72 : Bibl. Wiesbaden.
+          <lb/>908
+          <lb/>33
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:12.466688+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002428.tif
+IMAGE WIDTH: 2504
+IMAGE HEIGHT: 3956
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>PSALMEN : Alle Psalmen, Hymni und Geystliche Lieder, die
+          <lb/>man zu Strassburg und andern Kirchen pflägt zu singen.
+          <lb/>Form und Gebett zum Ehe einsegen, heiligen Tauff... —
+          <lb/>Strasbourg (Paul et Philippe Köpfel frères) 1557, in-8°
+          <lb/>(Encadrement du titre).
+          <lb/>Vogeleis, p. 294; Hubert, n° 41: B U Erlangen; p. CCCXVII
+          <lb/>folgt die Deutsche Lytania... durch Vitum Diettrich. 3012
+          <lb/>PSALMEN : und Geystliche Gesäng, so in der Gemein Gottes
+          <lb/>fürnemlich geübt und gesungen werden. — Strasbourg,
+          <lb/>Christian Müller (Mylius) 1568, in-80.
+          <lb/>Vogeleis, p. 309. (BN Strasbourg R 100.700 (1) : Ritter,
+          <lb/>Rép., n° 1938).
+          <lb/>3013
+          <lb/>PSALMEN : Psalmen, geystliche Lieder und Gesänge, sambt
+          <lb/>etlichen Gebetten. D. Mar. Luther... — (Strasbourg,
+          <lb/>Theodosius Rihel 1569), in-8°.
+          <lb/>Hoburg, p. 107; Wackernagel 899; Vogeleis, p. 310. 3014
+          <lb/>PSALMEN : Psalmen, Geystliche Lieder und Lobgesänge,
+          <lb/>D. Mar. Luther... Auch Anderer Gottseligen Lehrer... —
+          <lb/>Strasbourg (Theodosius Rihel) 1569, in-120.
+          <lb/>Hoburg, p. 108; Wackernagel 900; Vogeleis, p. 310.
+          <lb/>Rathgeber, Strassburg im 16. Jahrhundert, p. 336, dit que ce
+          <lb/>livre de cantiques est la dernière édition complète de celle de
+          <lb/>Bucer de 1545 « Ein new auserlesen Gesangbüchlein». 3015
+          <lb/>PSALMEN : (Idem). — Strasbourg (Theodosius Rihel) 1571,
+          <lb/>in-80.
+          <lb/>Hoburg, p. 108; Wackernagel 919; Vogeleis, p. 319:
+          <lb/>« reproduit exactement l’édition de 1569».
+          <lb/>3016
+          <lb/>PSALMEN : (Idem). — Strasbourg, Théodose Rihel 1573,
+          <lb/>in-12°.
+          <lb/>Vogeleis, p. 324.
+          <lb/>3017
+          <lb/>PSALMEN : Psalmen, geistliche Lider und Kirchengesänge.
+          <lb/>426
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

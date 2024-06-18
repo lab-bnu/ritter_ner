@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:37.541066+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu083.tif
+IMAGE WIDTH: 2392
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>HUGO DE STRASBOURG. Voir Albertus Magnus, Compendium
+          <lb/>theologiae N° 8.
+          <lb/>INNOCENTIUS IV, Papa: Apparatus super V libros decreta¬
+          <lb/>lium. Strasbourg, (H. Eggestein), 1478, in-fol.
+          <lb/>Hain 9191, Madsen 2094, Proctor 267, Voulliéme: Berlin 2141.
+          <lb/>K 2150 Prov, inconnue. Au haut du 1er f.: Weihenstephan.»
+          <lb/>Rel. anc.
+          <lb/>246
+          <lb/>INNOCENTIUS VIII, Papa: Copia confirmationis indulgentia¬
+          <lb/>rum in favorem Hospitalis Sancti Spiritus in Sassia de
+          <lb/>Urbe (Roma)... Datum Argentine in domo nostre solite
+          <lb/>residentie. Sub anno domini... millesimo quadringen¬
+          <lb/>tesimo octuagesimo sexto. (Strasbourg, J. Prüss, pas
+          <lb/>avant le 29 nov. 1486), in-fol., 1 f.
+          <lb/>G W 833 sous; Albrecht von Bayern, Bischof von Strassburg:
+          <lb/>Einblattdrucke 104; Schramm XX, grav. N° 1209.
+          <lb/>K 2152. Prov: Bibl. Heitz, Strasbourg.
+          <lb/>247
+          <lb/>INNOCENTIUS VHI, Papa: Regulae cancellariae apostolicae.
+          <lb/>(Strasbourg, J. Prüss, vers 1492), in-8°.
+          <lb/>Hain 9221, Pellechet: Colmar 813, Proctor 570, Voulliéme:
+          <lb/>Berlin 2380.
+          <lb/>K 2151. Prov.: O. Rauthe, Berlin, 23. I. 1918, 85 M.
+          <lb/>248
+          <lb/>ISIDORUS HISPALENSIS: Etymologiarum dibri XX. [Stras¬
+          <lb/>bourg, J. Mentelin, vers 1472), in-fol.
+          <lb/>Hain 9270, Madsen 2111, Proctor 227, Schreiber 4267, Voul¬
+          <lb/>liéme: Berlin 2104; Schorbach: Mentelin N° 24; Schramm,
+          <lb/>Bilderschmuck XIX, grav. N° 1-7.
+          <lb/>K 2233 Prov.: Don de la ville de Trèves. Sans l’explicit.
+          <lb/>2. ex.: K 2234. Prov.; B N Munich, 14. IV. 1880, 12 M. Avec
+          <lb/>l’explicit.
+          <lb/>Au haut du 1er f.: «Monasterij B. V. in Diessen.» Au bas du
+          <lb/>1er f., cachet de la B M de Trèves, au-dessus à l’encre: «Bibl.
+          <lb/>publ. Trev. 1805». Au verso du f. de garde: «Editio princeps
+          <lb/>impr. Argentor. Joh. Mentelin. cf Hain II, 1, 141». Rel. anc.
+          <lb/>249
+          <lb/>JACOBUS DE DONDIS. Voir: Dondus Jacobus.
+          <lb/>53
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

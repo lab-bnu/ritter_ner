@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:13.276355+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002461.tif
+IMAGE WIDTH: 2510
+IMAGE HEIGHT: 3962
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>SCHNEIDEWIN, Johannes : In quatuor Institutionum Imperia¬
+          <lb/>lium D. Justiniani libros Commentarii, nunc post
+          <lb/>mortem eius in usum &amp;amp; gratiam Studiosorum, nec non
+          <lb/>omnium aliorum praxim sectantium, cum multis libello¬
+          <lb/>rum, &amp;amp; actuum iudicialium formis atque iuris Saxonici
+          <lb/>consensu &amp;amp; antinomia, editi. Ex recognitione et cum
+          <lb/>annotationibus ac supplemento. Matthaei Wesenbecii...
+          <lb/>— Strasbourg, Théodose Rihel 1575, in-fol.
+          <lb/>Walter, n° 2209; [une éd. de Th. Rihel, 1580: Ritter, Rép.
+          <lb/>n° 2084l.
+          <lb/>3180
+          <lb/>SCHNEIDEWIN, Johannes: In quatuor Institutionum Imperia¬
+          <lb/>lium D. Justiniani libros, Commentarii... Ex recognitione
+          <lb/>et cum annotationibus ac supplemento Matthaei
+          <lb/>Wesenbecij. — Strasbourg, Théodose Rihel 1585, in-fol.
+          <lb/>Walter, n° 2209 [des éd. de Th. Rihel 1583 et 1599 : Ritter,
+          <lb/>Rép, nos 2085/6 et 2087l.
+          <lb/>3181
+          <lb/>SCHNEIDEWIN, Johannes :.. In quatuor Institutionum
+          <lb/>Imperialium D. Justiniani libros, Commentarii, nunc
+          <lb/>post mortem eius... editi... Praeterea non modo legum...
+          <lb/>loca plenius citata, sed &amp;amp; multa per Schneidewinum
+          <lb/>directè prolata, in orationem obliquam Justi Hartmanni,
+          <lb/>legum candidati doctissimi... conversa sunt... (Marque
+          <lb/>typ. de l’imprimeur). — Argentorati. Excudebat
+          <lb/>Theodosius Rihelius, Anno M.D.XCVII, in-fol.
+          <lb/>Bibl. Grand Sém. Strasbourg H? 53.
+          <lb/>3182
+          <lb/>SCHNEPF, Erhard : Oratio de utilitate linguae hebraicae,
+          <lb/>habita in Academia Jenensi anno 1549, die 22 Julii. Dans :
+          <lb/>Selectarum declamationum professorum Academiae
+          <lb/>Jenensis. Tomus I. — Strasbourg 1544, p. 36-38.
+          <lb/>Schottenloher 37.695. (Schnepf voir aussi : Ritter, Rép. n° 2088).
+          <lb/>3183
+          <lb/>SCHNEWYL, Johannes : Der Blinden Fürer bin ich genennt,
+          <lb/>459
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

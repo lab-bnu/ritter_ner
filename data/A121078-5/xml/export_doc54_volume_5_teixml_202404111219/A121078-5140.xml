@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:54.210162+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5140.tif
+IMAGE WIDTH: 2344
+IMAGE HEIGHT: 3858
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1448
+          <lb/>titre courant, réclames, notes marg., init. d’attente, titre rouge et noir,
+          <lb/>de nombreuses petites grav., se rapportant à l’Evangile.
+          <lb/>fol. Aija-b vib : Calendrier avec une petite grav. en haut de la page
+          <lb/>de chaque mois.
+          <lb/>R. 101.083. Prov. : Cromer, curé à Saverne, 29/VII, 1879.
+          <lb/>Note mss. au recto du f. de garde : « Adolphus Oberkampf Anno 77 ».
+          <lb/>2394
+          <lb/>TESTAMENTUM NOVUM
+          <lb/>Strasbourg, Th. Rihel, 1567
+          <lb/>Novi Te- stamenti D. E-rasmi Rotterodami Aedi-io
+          <lb/>postrema, scripturae Concordantijs accuratè il-lustrata,
+          <lb/>cum Calendario Romano Calendis, Nonis,atque Idibus e
+          <lb/>regione positis: Adiuncto insuper indiEuangeliorum &amp;amp;
+          <lb/>Epistolarum, quae per an- ni cursum, tàm in diebus Domi¬
+          <lb/>nicis, quàm Festis, memoriae Diuorum sacris recitari
+          <lb/>consue— uerunt.
+          <lb/>His praeterea accesseruntDisticha quaedam Moralia,
+          <lb/>cuiuslibetCapitis continentia Sum-mam.
+          <lb/>Argentorati.M. D. LXVII. (Verso blanc.)
+          <lb/>A la fin : Argentorati expensisTheodosij Rihelij &amp;amp;
+          <lb/>Samuelis! Emmelij. (Verso blanc.)
+          <lb/>In-8°, car. ital., 24 ff. non ch., 391 ff. ch. et 1 f. non ch., titre courant,
+          <lb/>réclames, notes marg., titre rouge et noir, init. d’attente; de nombreuses
+          <lb/>petites gravures se rapportant à l’Évangile.
+          <lb/>fol. aija-bvjb : Calendrier de l’année avec des gravures en haut de
+          <lb/>chaque mois. Réimpression de l’édition de 1559,
+          <lb/>R. 101.081. Prov. : Don d’Erasmy, receveur à Buerchingen 1871;
+          <lb/>fol. aviij (mois de juin du calendrier) manque.
+          <lb/>2305
+          <lb/>TESTAMENTUM NOVUM (en allemand)
+          <lb/>Strasbourg, J. Schott, 1522
+          <lb/>Ihesu.Das New Testament! Deutsch.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

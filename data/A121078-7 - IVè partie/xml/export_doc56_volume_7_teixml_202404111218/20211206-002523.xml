@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:14.515382+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002523.tif
+IMAGE WIDTH: 2530
+IMAGE HEIGHT: 3954
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>wunder selzame Figuren Schimpfweis einem jeden seine
+          <lb/>Art anzeiget auch was ihm sein Lebenlang für Glück und
+          <lb/>Unglück begegnen werde. — (Strasburg), gedruckt in
+          <lb/>diesem Jahr, in-80,
+          <lb/>Graesse IV, p. 257.
+          <lb/>3500
+          <lb/>WICKRAM, Jörg (Loosbuch) : Ein Schöne Unnd fast
+          <lb/>schimpfliche kurtzweil, so durch umbtreiben evner
+          <lb/>scheyben, Alten und Jungen, mann unnd weiblichen
+          <lb/>personen. Auch den Züchtigen Junckfrawen, zu
+          <lb/>traurigen zeitten, vil lächeriger und schimpflicher
+          <lb/>sprüch und fürbildnüssen fürbringet, den menschen
+          <lb/>kurtzweil zu machen... — (Strasbourg 1534), in-fol.
+          <lb/>Goedeke II2, p. 461, n° 5; Graesse IV, p. 257; Werner
+          <lb/>(Mulhouse), p. 93, note 1/: « L’édition originale, imprimée à
+          <lb/>Strasbourg porte la date 1534 et non 1539 comme l’indique
+          <lb/>à tort Coudre et se trouve à Bâle ».
+          <lb/>3501
+          <lb/>WICKRAM, Jörg (Idem): Strasbourg 1539, in-fol.
+          <lb/>Werner (Mulhouse), p. 93, note 1 : « La seconde édition est de
+          <lb/>1539, elle est également imprimée à Strasbourg et conservée
+          <lb/>à Berlin».
+          <lb/>3502
+          <lb/>WICKRAM, Jörg (Idem): Das Weltlich Loszbuch. —
+          <lb/>Strasbourg 1557, in-4°.
+          <lb/>Goedeke II2, p. 461, n° 5; Werner, p. 93, n° 7, note I : « Une
+          <lb/>troisième éd. in-4°, imprimée à Strasbourg, a paru sous le
+          <lb/>titre « Das weltlich Lossbuch » 1557».
+          <lb/>3503
+          <lb/>WICKRAM, Jörg (Idem). — Strasbourg 1559, in-8°.
+          <lb/>Graesse IV, p. 257; Werner, p. 93, n° 7, note 1 : « Une
+          <lb/>quatrième éd. de 1559, format in-8°, existe à Berlin et à
+          <lb/>Munich».
+          <lb/>3504
+          <lb/>WICKRAM, Jörg (Idem) : Das weltlich Lossbuch. Ein schöne...
+          <lb/>Kurtzweil, so durch umbtreiben eyner scheiben Alten
+          <lb/>und Jungen... vil lächeriger und schimpflicher Sprüch
+          <lb/>521
+          <lb/>17-2
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

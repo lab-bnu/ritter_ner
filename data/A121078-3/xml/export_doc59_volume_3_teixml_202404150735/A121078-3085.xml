@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:06.030233+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3085.tif
+IMAGE WIDTH: 2314
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>ERY THRAEI Lindauiensis: in gratiam catechumenorum,
+          <lb/>ac rudium huius sanae, piaeque doctrinae.
+          <lb/>Accessit confessio de Coena Dominica, eodem Ery¬
+          <lb/>thraeo autore.... (8 Zeilen, Sprüche aus dem Neuen Testament,
+          <lb/>Math. X, Paulus an die Römer X, Fsalm. CXIX.)
+          <lb/>ARGENTORATI EXPRIMEBAT CHRISTIANVS MYLIVS.) M. D.
+          <lb/>LXV.
+          <lb/>Am Schluss: Excusum Argentorati, apud! Christianum
+          <lb/>Mylium.Anno 1565.
+          <lb/>20, Antig, u. Kursiv, 4 unn. Bll., 246 S., 3 unn. 2sp. Bll. (Index
+          <lb/>u. Errata), Kopft., Kust., Marg., Init., Zierleisten.
+          <lb/>Auf der Rücks, des Titelbl.: Ad Lectores.
+          <lb/>Bl.A24: PRAEFATIO AD CAESAREM CAROLVM! QVIN¬
+          <lb/>TVM. (6 S.)
+          <lb/>... PARS SECVNDA. Eodem Valentino Erythraeo! Lin¬
+          <lb/>dauiensi authore. (Vign.)
+          <lb/>ARGENTORATI APVD Christianum Mylium. 1567.
+          <lb/>20, Got., Antig. u. Kursiv, 6 unn. Bll., 139 S., 4 unn. Bll. (Index),
+          <lb/>Kopft., Kust., Marg.
+          <lb/>Auf der Rücks.: Catalogus locorum vndecim! partis se¬
+          <lb/>cundae; unten: Typographus ad lectorem.
+          <lb/>... PARS TERTIA. (3 Z.)
+          <lb/>Eodem Valentino Erythraeo Lindauiensi authore. (Vign.)
+          <lb/>ARGENTORATI APVD Christianum Mylium. 1567.
+          <lb/>20, Antiq. u. Kursiv, 8 unn. Bl., 117 S., 6 unn. Bll., Kopft., Kust.,
+          <lb/>Marg., Zierleisten.
+          <lb/>Auf der Rücks. des Titelbl.: Articuli de Abusibus..., darunter:
+          <lb/>Typographus, pio Lectori.
+          <lb/>Die 6 folgenden Bll, enthalten die»Testimonia Phil. Melanchthonis-.
+          <lb/>R10.381. Prov.: Geschenk der Stadt Heilbronn, 1871.
+          <lb/>Handschr. Eintragung auf dem Titelbl. : Johannes Lauterbachius
+          <lb/>Poeta lauro corronatus.
+          <lb/>Bibl. Wilh. Strassburg; Gk: SB Berlin, UB Breslau, Königsberg.
+          <lb/>802
+          <lb/>ERYTHRAEUS Valentinus
+          <lb/>Strassburg, Chr. Mylius 1565
+          <lb/>AIATPAMMATA, Hoc est, TABVLAE! Tertij, &amp;amp; Quarti:
+          <lb/>libri par- titionum Dialecticarum IOANNIS STVRMII, cor¬
+          <lb/>rectae, &amp;amp; alicubi auctae.... (8 Z.)
+          <lb/>R.34
+          <lb/>529
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

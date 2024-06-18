@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:06.001649+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie057.tif
+IMAGE WIDTH: 2484
+IMAGE HEIGHT: 3916
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>HORTULUS animae. — Strasbourg, Guillaume Schaffner de
+          <lb/>Ropenswiller, 15 mars 1500, in-8°.
+          <lb/>Hain 8938; Proctor 761; Schmidt IV, p. 11, n° 1.
+          <lb/>340
+          <lb/>HORTUS sanitatis. — (Strasbourg, Jean Prüss vers 1483),
+          <lb/>in-fol.
+          <lb/>Hain 8941; Polain 2001; Proctor 1447; Schmidt III, n° 5:
+          <lb/>Voulliéme : Berlin 2383 à Johannes de Cuba.
+          <lb/>341
+          <lb/>HORTUS sanitatis. — (Strasbourg s. d.), in-fol.
+          <lb/>Hain 8942. B N Paris Rés. Te 138, 23. D (à CUBA, Johannes de);
+          <lb/>Polain 2002.
+          <lb/>342
+          <lb/>HORTUS sanitatis (en allemand). — (Strasbourg, Jean Grü¬
+          <lb/>ninger s. d.), in-fol.
+          <lb/>Copinger 3178, Proctor 497; Voulliéme : Berlin 2321, 5. 343
+          <lb/>HUG SCHAPLER : Ein lieplichs lesen und ein wahrhafftige
+          <lb/>Hystorii wie einer (der da hiesz Hug schäpler und was
+          <lb/>metzgersgschlecht), ein gewaltiger küng zu Franckreich
+          <lb/>ward... — Strasbourg. Jean Grüninger 4. IX. 1500,
+          <lb/>in-fol.
+          <lb/>Hain 8970; Schmidt I, n° 53 ; Munich; Voulliéme:
+          <lb/>Berlin 2314; Kristeller n° 91 ; Heitz-Ritter n° 240.
+          <lb/>344
+          <lb/>HUGo de Campo Florido (de Prato); Sermones dominicales. —
+          <lb/>(Strasbourg, impr. du Jordanus — Georges Husner 1482)
+          <lb/>in-fol.
+          <lb/>Hain 9003; Polain 2018; Proctor 633 A; Voulliéme : Berlin
+          <lb/>2473, 5; Hiersemann (Leipzig) Catal, 550 (1925) n° 76; 360 M.
+          <lb/>Bolchert 60.
+          <lb/>345
+          <lb/>HUGO de Campo Florido (Pratensis): Sermones dominicales
+          <lb/>super evangelia et epistolas. — (Strasbourg, Georges
+          <lb/>Husner pas après 1478), in-fol.
+          <lb/>Hain 8997, Polain 2016; Proctor 364; Voulliéme : Berlin
+          <lb/>2204, 2.
+          <lb/>346
+          <lb/>55
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

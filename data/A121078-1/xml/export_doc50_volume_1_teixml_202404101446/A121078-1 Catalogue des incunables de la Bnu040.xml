@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:36.940085+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu040.tif
+IMAGE WIDTH: 2386
+IMAGE HEIGHT: 3840
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>ASTESANUS DE AST: Summa de casibus conscientiae. (Stras¬
+          <lb/>bourg, J. Mentelin, pas après 1469), in-2°.
+          <lb/>G W 2749, Hain 1888, Pellechet 1401, Pellechet: Colmar 186,
+          <lb/>Proctor 207, Schorbach: Mentelin N° 12.
+          <lb/>K 388. Prov.; BN Munich, 16. XII. 1879, 12 M.
+          <lb/>42
+          <lb/>ASTESANUS DE AST: Summa de casibus conscientiae. [Stras¬
+          <lb/>bourg, J. Mentelin, pas après 1473), in-fol.
+          <lb/>G W 2750, Hain 1889, Madsen 364, Pellechet: Colmar 187,
+          <lb/>Proctor 211, Voulliémé: Berlin 2091, Schorbach: Mentelin
+          <lb/>N° 28.
+          <lb/>K 389. Prov.: B. N. Munich 16. XII. 1879, 16 M.
+          <lb/>43
+          <lb/>ASTESANUS DE AST: Summa de casibus conscientiae. [Stras¬
+          <lb/>bourg, J. Mentelin, pas après 14731, in-fol.
+          <lb/>G W 2751, Hain 1890, Pellechet 1402, Pellechet: Colmar 188,
+          <lb/>Proctor 220, Vouilliéme: Berlin 2092 et 2092a, Walter:
+          <lb/>Sélestat 39, Madsen 365, Schorbach: Mentelin N° 29.
+          <lb/>K 390. B N Munich, 16. XII. 1879, 18 M.
+          <lb/>44
+          <lb/>ASTESANUS DE AST: Summa de casibus conscientiae. [Stras¬
+          <lb/>bourg, impr. du H. Ariminensis, pas après le 9 mai
+          <lb/>1474), in-fol.
+          <lb/>G W 2752, Hain 1891, Pellechet 1403, Proctor 337, Voulliéme:
+          <lb/>Berlin 2160, 5.
+          <lb/>K 391. Prov.: Don des héritiers de Bethmann Hollweg, Berlin,
+          <lb/>16. V. 1878.
+          <lb/>44a
+          <lb/>AUBUSSON PETRUS DE: Relatio de obsidione urbis Rhodiae
+          <lb/>ad Fridericum Imp. [Strasbourg, H. Knoblochtzer,
+          <lb/>après le 13 sept. 1480), in-4°.
+          <lb/>G W 2775, Hain 5922, Proctor 378, Schorbach et Spirgatis
+          <lb/>N° 23.
+          <lb/>K 399a. Prov.: O. Harrassowitz, Leipzig, 14. HI. 1889, 45 M.
+          <lb/>Note mss. sur l’auteur à l’intérieur du premier plat.
+          <lb/>45
+          <lb/>AUERBACH JOHANNES DE: Summa de sacramentis. (Stras-
+          <lb/>bourg, typ. du H. Ariminensis, vers 1475), in-fol.
+          <lb/>G W 2854, Hain 2123, Madsen 379, Proctor 318, Voulliéme:
+          <lb/>Berlin 2182.
+          <lb/>K 488. Prov.: Don du docteur Halm, Munich, 1871. Notes mss.
+          <lb/>46
+          <lb/>10
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

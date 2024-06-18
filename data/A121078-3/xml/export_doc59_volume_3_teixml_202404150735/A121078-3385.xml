@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:13.034421+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3385.tif
+IMAGE WIDTH: 2398
+IMAGE HEIGHT: 3856
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>80, Kursiv, 68 unn. Bll., Sign. a-i, Kopft., Kust, auf der Rücke.
+          <lb/>des letzten Bl. Porträt des Erasmus.
+          <lb/>R 100.970. Prov.: Bibl. Ch. Schmidt, Strassburg mit seinem Ex¬
+          <lb/>libris u. handschr. Notizen von seiner Hand:,Rare. La lère édition de
+          <lb/>l’Expostulatio a au titre un médaillon avec le portrait de Hutten; à la fin
+          <lb/>sont indiqués des Errata qui, sauf quelques fautes d’impression, ne sont
+          <lb/>pas corrigés dans cette 2e édition. Le dernier f. de Brunfels qui man¬
+          <lb/>quait, est remplacé par une copie.
+          <lb/>Böcking, Hutten, Opera I S. 83* Nr. 3; Schmidt II Nr. 82.
+          <lb/>1231
+          <lb/>VLRICHI AB HVTTEN
+          <lb/>Cum Erafma Roterodamo, prese
+          <lb/>bytero, tbeologo,
+          <lb/>EXPOSTVLATIO
+          <lb/>A priore depranatione
+          <lb/>umdicata iom.
+          <lb/>OTHONIS BRVNFELSII
+          <lb/>Pro Vlricbo Huttena defuncto, ad
+          <lb/>Erasmi Roter. Spongtam,
+          <lb/>RESPONSIO.
+          <lb/>827
+          <lb/>(HUTTEN Ulrich)
+          <lb/>[Strassburg, J. Schott 1525]
+          <lb/>Geistlicher Blûthandel Johannis Hussz, zu Constentz
+          <lb/>verbrannt Anno Domini M. CCCC. XV.am sechsten tag
+          <lb/>Julij.
+          <lb/>Mit gegen vergleichung göttlicher schrift, vnd
+          <lb/>(Zu Nr. 1230)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

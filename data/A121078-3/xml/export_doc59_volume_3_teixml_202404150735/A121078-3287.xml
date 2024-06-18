@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:10.580888+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3287.tif
+IMAGE WIDTH: 2350
+IMAGE HEIGHT: 3856
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>HANDLUNG
+          <lb/>[Strassburg, W. Köpfell. 1526
+          <lb/>WArhaf-tige handlungder disputation in obern
+          <lb/>Ba den, des D. Hansz Fabri, Jo. Ecken, vnndirs ge¬
+          <lb/>waltigen anhangs gegen Joan Eco lampadio vnd den die¬
+          <lb/>nern des wortsAngefangen auff den xix. tag Maij. An.
+          <lb/>1526.
+          <lb/>Zwingly antwurt auff Ecken, daselbst! in geleyt schlusz¬
+          <lb/>reden. Jr torheit wurt offenbar werden. (Rücks, leer.)
+          <lb/>Klein-8°, Got,, 28 unn. Bll., Sign. A-G, Kust., Init.
+          <lb/>Bl. 9b-10a : Schluszred des waren! alten glaubens dem
+          <lb/>Zwin gli durch Johann Eck zûerhalten...
+          <lb/>Bl. 104-10b: Conclusiones Doctoris Murnarri, con tra
+          <lb/>Huldrichum Zuinglium &amp;amp; o- mnes suae doctrinae adhae¬
+          <lb/>rentes...
+          <lb/>Bl. 18b-21a: Hulderichen Zwing- lins antwurt auff
+          <lb/>die vij. schluszre-den des Ecken.... — Geben Zürich.
+          <lb/>21. tags Mey, 1526.
+          <lb/>R102.476. Prov.: H. Kerler, Ulm (Kat. 12 Nr. 463) 17. X. 1878,
+          <lb/>1 M. 75.
+          <lb/>Murner in seinem Brief an die Eidgenosenschaft vom November
+          <lb/>1526: Solche disputation zu verkleinen vnd argwenig zu machen het
+          <lb/>sich wolff köpflin understanden und alles das zusammen gerasplet was
+          <lb/>In dienstlich mõchte sein solches zu volstrecken, vnd ein biechlin lassen
+          <lb/>uszgon, das Capito selber nennet ein nerrisch biechlin, ein armes biechlin,
+          <lb/>und D. huszschin das es unwiszlich geschribben sey. Aber gemein eidt¬
+          <lb/>genossen zu Baden versamlet habent die biechlin gehalten mit sampt den
+          <lb/>gefündenen brieffen, das fil din sey, das nit die worheit, sunder erdicht
+          <lb/>und erlogen vnd hettent wol vermeint Capito wer solcher biechlin und
+          <lb/>schriben wider sy miesis gegangen....&amp;quot; Siche : Scheible, Das Kloster,
+          <lb/>Zelle 14, S. 595 etc. und Archio für Schueiserische Kirchengeschichte
+          <lb/>Bd. x (1855), S. 2r7-278.
+          <lb/>1073
+          <lb/>729
+          <lb/>HANDT-BÜCHLIN
+          <lb/>Strassburg, Joh. Schott 1536
+          <lb/>Kurtz viler Historien Handt Büchlin.
+          <lb/>In diszem Büchlin findtst bericht
+          <lb/>Von vil Historien alter Gschicht,
+          <lb/>Wenn die geschehen seind, fürwar,
+          <lb/>Zù welcher zeit, in welchem jar,
+          <lb/>Wie sollchs die jarzal neben meldt.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

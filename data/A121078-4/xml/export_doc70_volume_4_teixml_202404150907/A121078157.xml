@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:47.058725+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078157.tif
+IMAGE WIDTH: 2308
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>MURNER Thomas
+          <lb/>Strasbourg, Sixte Murner vers 1510
+          <lb/>Thomae murner Argentini or dinis Minorum: sacrae
+          <lb/>Theologiae professoris eximii: de sil- labarum quantitati¬
+          <lb/>bus; et arte carminandi facilima praxis! In Alma Univer¬
+          <lb/>sitate Friburgensi lecta.
+          <lb/>Mathias Sambucellus! Lectori, (2 dist.)
+          <lb/>Tractatus
+          <lb/>Applicatio
+          <lb/>~4
+          <lb/>4
+          <lb/>1043
+          <lb/>(Voir p. 1042, n° 1604)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

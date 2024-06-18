@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:06.734579+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002195.tif
+IMAGE WIDTH: 2500
+IMAGE HEIGHT: 3982
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>FRIES, Lorenz (Ars memorativa) : Artis memorativae...
+          <lb/>verax traditio. — Strasbourg, Jean Grüninger 1523,
+          <lb/>in-4°.
+          <lb/>Schmidt I, p. 103, Supplément n° 3 : BN Paris. 1773
+          <lb/>FRIES, L. (Ars memorativa) : Ein kurtzer bericht, wie man
+          <lb/>die gedechtnisz... strecken mag... — (Strasbourg,
+          <lb/>Jean Grüninger (12 mars), 1523, in-4°.
+          <lb/>Schmidt I, n° 197; Weller 2428. — BN Munich.
+          <lb/>1774
+          <lb/>FRIES, L. (Astrologie) : Ein zu samen gelosen urteyl, aus
+          <lb/>den... meistern der Astrology... — (Strasbourg, Jean
+          <lb/>Grüninger) 1523, in-4°.
+          <lb/>Schmidt I, n° 208. — B N Strasbourg, exemplaire disparu
+          <lb/>déjà avant 1918.
+          <lb/>1775
+          <lb/>FRIES, L. (Badenfahrt) : Ein hochnutzlicher tractat, eygen¬
+          <lb/>schafft unnd würckung der wunderbaren natur aller
+          <lb/>Wildbeder, so in Teutschen landen gelegen. Sampt
+          <lb/>getrewer underweysung, wie sich menigklich zur baden¬
+          <lb/>fart erstlich rüsten und wie mann alle zufell unnd
+          <lb/>gebrästen, des Iybs zuvor eins theils aufledigen und
+          <lb/>abwenden sol. — Strasbourg, Bartholomé Grüninger
+          <lb/>1538, in-40.
+          <lb/>Schottenloher 34.698 [éd. Grüninger 1519 : Ritter, Rép.
+          <lb/>no 891).
+          <lb/>1776
+          <lb/>FRIES, L. (Badenfahrt) : New Badenfart. — Strasbourg,
+          <lb/>Jacques Cammerlander 1548, in-4°.
+          <lb/>Ritter, Hist. impr. app. n° 320 [éd. Cammerlander vers 1537:
+          <lb/>Ritter, Rép. n° 898).
+          <lb/>1777
+          <lb/>FRIES, L. (Carta marina) : Uslegung der Mercarthen... —
+          <lb/>Strasbourg, Jean Grüninger 3.VI.1527, in-fol.
+          <lb/>Graesse II, p. 635; Kristeller 104; Schmidt I, n° 233; Bâle, 1778.
+          <lb/>FRIES, L. (Carta marina) : Underweisung und Uslegung der
+          <lb/>193
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

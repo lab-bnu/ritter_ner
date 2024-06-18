@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:38.164920+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2399.tif
+IMAGE WIDTH: 2374
+IMAGE HEIGHT: 3820
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>CORNELIUS NEPOS. Voir: NEPOS.
+          <lb/>CORNUCOPIAE Voir: PEROTTUS Nicolaus.
+          <lb/>CORVINUS Antonius
+          <lb/>Strasbourg, W. Köpfel, 1537.
+          <lb/>COLLO-QVIORVM THEO-] logicorum Libri duo, in co¬
+          <lb/>mo- dum Theologiae candida- torum, Jam primum œditi,
+          <lb/>per M. Antonium Coruinum.
+          <lb/>Quintilianus... (5 lignes.)
+          <lb/>Cum priuilegio Caesareo.
+          <lb/>A la fin: ARGENTORATI APVD Vuolffgangum Cœphaleum
+          <lb/>ANNO M. D. L XXXVII.
+          <lb/>Au verso du f. blanc suivant, marque typ. de W. Köpfel. (He
+          <lb/>B, Planche XVIII, No 9; Silvestre, No 1018.)
+          <lb/>In-8°, car. ital., 8 ff. non ch. dont le dernier blane, 123 ff. ch.,
+          <lb/>titre courant, réclames, notes marginales, titre encadré, (H eB. Plan¬
+          <lb/>che XIX, N° 15).
+          <lb/>fol. A 2a non ch.: Ad... Philippum Hessorum Landgrau¬
+          <lb/>ium... Elogion Helij Eobani Hessi. (14 distiques.)
+          <lb/>fol. A 3b: .. Cattorum Principi Philippo... — Ex Vui¬
+          <lb/>cenhusio tuo. Anno M. D. XXXVII.! Antonius Coruinus.
+          <lb/>(Préface de 9 pages.)
+          <lb/>R101769. Prov. : L. Rosenthal, Munich, 24/XII. 1890,8M.
+          <lb/>GPB: BN Berlin, BU Breslau, Kœnigsberg, Marbourg.
+          <lb/>Bibliographie de Corvinus: Schottenloher I, N° 3242-3282. 589
+          <lb/>395
+          <lb/>Strasbourg, W. Köpfel, 1537.
+          <lb/>CORVINUS Antonius
+          <lb/>LOCI IN EPISTOLAS ET EVANGELIA, quae dominicis
+          <lb/>diebus ac in diuorum ferijs per totius anni cireulum legi
+          <lb/>consueuerunt, ita annotati, ut uel commentarij uice esse
+          <lb/>possint, nunc primum pub- licati.
+          <lb/>Antonio Coruino Autore.
+          <lb/>ADIECTA EST PHILIPPI Melanthonis de officio conciona¬
+          <lb/>toris dissertatio.
+          <lb/>A la fin: Argentorati apud Vuolffgangum Cæphaleum.
+          <lb/>Au verso du f. blanc suivant, marque typographique de W. Köpfel.
+          <lb/>(HEB, Planche XVIII, N) 8; Silvestre, N° 559.)
+          <lb/>In-80, car. ital. et goth., 79 ff. ch. et 1 f. blanc, titre courant,
+          <lb/>réclames, notes marginales.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

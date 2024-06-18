@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:11.996852+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002406.tif
+IMAGE WIDTH: 2516
+IMAGE HEIGHT: 3958
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>PHILESIUS. Voir: RINGMAN, Matthaeus Philesius.
+          <lb/>PHILETICUS, Martinus. Voir : Isocrares, n° 2133.
+          <lb/>PHILIPP, Freiherr zu Winneberg der Jüngere : Christliche
+          <lb/>Reuter Lieder. Gestellet durch Herrn Philipsen den
+          <lb/>Jüngern, Freiherr zu Winneberg und Bethelsteyn... —
+          <lb/>Strasbourg, Bernard Jobin 1582, in-8°. [Avec 18 grav.
+          <lb/>de Tobie Stimmerl.
+          <lb/>Wackernagel I, 239; Andresen III, 154.
+          <lb/>2893
+          <lb/>PHILIPP, Freiherr zu Winneberg der Jüngere : (Idem). —
+          <lb/>Strasbourg 1580, in-8°.
+          <lb/>Goedeke IIe, p. 519, n° 2; Vogeleis, p. 346.
+          <lb/>2894
+          <lb/>PHILIPP Freiherr zv Winneberg: Christliche Reuterlieder...
+          <lb/>jetz zum andern mahl mit viel Newen Gesängen
+          <lb/>vermehrt... — Strasbourg, Bernard Jobin 1586, in-8°.
+          <lb/>Goedeke IIe, p. 519, n° 2.
+          <lb/>2895
+          <lb/>PHILIPP, Graf zu Hanau-Lichtenberg : Neuwe Ordnung,
+          <lb/>wider die heimlichen Eheverlobnüssen, und das sich
+          <lb/>keiner ihrer Gnaden underthanen, in denen darinn
+          <lb/>erzelten verpotnen graden der Blutfreündtschafft und
+          <lb/>Schwagerschafft, verheurathen soll. Publiciert, und
+          <lb/>verkündt den zweyten Aprilis, im Jar. M.D.LXV. —
+          <lb/>(Strasbourg, Christian Müller (Mylius] 1565, in-fol.
+          <lb/>Ritter : B M Strasbourg, no 1591.
+          <lb/>2896
+          <lb/>PHILOMATES, Wenceslaus (de Novo Domo) : Musicorum
+          <lb/>libri quatuor : Compendioso carmine elucubrati. —
+          <lb/>Strasbourg, Jacobus Jucundus (Frölich) 1543, in-80.
+          <lb/>Vogeleis, p. 246 : B N Berlin, Munich, etc.
+          <lb/>2897
+          <lb/>PHILOMATES, Wenceslaus : (Idem). — Strasbourg 1533,
+          <lb/>in-8° (4e éd.] (2e et 3e éd. : Leipzig 1518; 5e éd. Wittem¬
+          <lb/>berg 1534).
+          <lb/>Bibliographie Universelle de Felis.
+          <lb/>2898
+          <lb/>404
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

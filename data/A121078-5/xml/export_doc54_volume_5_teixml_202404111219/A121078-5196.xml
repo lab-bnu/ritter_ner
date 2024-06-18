@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:56.485979+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5196.tif
+IMAGE WIDTH: 2350
+IMAGE HEIGHT: 3858
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1506
+          <lb/>Sacrobusto ins Latin zusamengesetzt, vnd nachmals durch
+          <lb/>M. Cunrad Heynfogel von Nürnberg verteutscht, zuletst
+          <lb/>aber den alten exemplaen nach, durch M. Polychorium,
+          <lb/>allen der Astronomi liebha- bern zu gut fleissig widerumb
+          <lb/>verlesen, vnd in vier teyl ge- tailt, desz himels lauff sampt
+          <lb/>allem gstirn, leichtlicher ausz den bei gesatzten figuren
+          <lb/>zuerlernen.
+          <lb/>Grav. sur bois : la sphère encadrée de 2 lignes, répétée
+          <lb/>fol. A 2a.
+          <lb/>Zu Straszburg, bei Jacob Cammerlandern von Mentz.
+          <lb/>Anno. 1533. (Verso blanc.)
+          <lb/>Nmn¬
+          <lb/>netié
+          <lb/>RR BL E.
+          <lb/>copais
+          <lb/>Sicdeng?
+          <lb/>tntromèuombioat
+          <lb/>sentrum da lagtrf
+          <lb/>eurromlòec boll¬
+          <lb/>In-4°, car, goth., 32 ff. non ch. dont le dernier blanc, sign. A-H, réclames,
+          <lb/>init. ornées S, D, E, 14 gravures sur bois (figures astronomiques).
+          <lb/>fol. A 2b : Vorred M. Johannis II in Sphaeram materialem (1 p.).
+          <lb/>R. 102.199. Prov. : F. Butsch, antiquaire, Augsbourg, 24/xI, 1879;
+          <lb/>8 M.
+          <lb/>Un exemplaire dans le Catalogue XVI de l’antiquaire Hans P. Kraus,
+          <lb/>Vienne (1937), No 49 pour 125 fr. suisses, avec la remarque suivante:
+          <lb/>« Offenbar einzig erhaltenes Exemplar eines bisher unbekannten
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

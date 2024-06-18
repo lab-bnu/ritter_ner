@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:08.242966+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3198.tif
+IMAGE WIDTH: 2320
+IMAGE HEIGHT: 3852
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>642
+          <lb/>von einem Narren gehalten; auf dem Wagen ein Narr, Kopf nach
+          <lb/>unten, Füsse in der Luft.
+          <lb/>Auf der Rücks, des Titelbl.: Reuerendo... domino Joanni
+          <lb/>wydell ex Gersbach fratrum ordinis beati Benedicti in
+          <lb/>Schuterana eremo... Jacobus Otherus... — Ex Argen.
+          <lb/>iij Jdus Februarij. Anno. M. D.X.
+          <lb/>Bl. A: Jntroductio in speculum fatuorum! Dominica
+          <lb/>Quinquagesime: que erat altera Matthie. Anno. M. CCCC
+          <lb/>XCVIII.
+          <lb/>Am Schluss: Jacobus Ottherus lectori salutem... ex Argen.
+          <lb/>iij. Jdus Februarij. Anno. 1510.
+          <lb/>In einigen&amp;#x27; Exemplaren befindet sich auch das Leben Geilers von
+          <lb/>Beatus Rhenanus, mit eigenem Titelbl., 6 unn. Bll.; diese Lebensbeschrei¬
+          <lb/>bung wurde auch getrennt verkauft; einige dieser Exemplare haben am
+          <lb/>Schluss: Excriptum in aedibus! Schürerianis.
+          <lb/>R100.483 ohne das Leben Geilers, Prov.: Weigel, Leipzig 29. IX.
+          <lb/>1876; 6 M. Auf dem Titelbl.: Collegii Societatis Iesu Ratisponae. Auf
+          <lb/>der Innens, des Vorderdeckels : Diese Ausgabe von 1510 blieb Brunet
+          <lb/>unbekannt. (!)
+          <lb/>GK: SR Berlin, UB Bonn, Breslau; Proctor II Sectio I Nr.
+          <lb/>10.177: London British Museum; Schmidt VIII Nr. 44: Bibl. Wilh.
+          <lb/>u. ein Exemplar der Vita Geilers an der Stadtbibl. Strassburo; Walter:
+          <lb/>Schlettstadt Nr. 1373 mit dem Explicit: in aedibus Schürerianis. Katalog
+          <lb/>Baer, Frankfurt a. M. 500 (1907) Nr. 831; 25 M.
+          <lb/>955
+          <lb/>GEILER Johannes
+          <lb/>Strassburg, M. Schürer 1510
+          <lb/>Dis schön bûch genant der seelen Paradisz, von
+          <lb/>waren vnd volkummen tugenden sagend. hatt geprediget,
+          <lb/>vnd zûletst corrigiert, der gottförchtig, hochberümt doctor
+          <lb/>vnd predicant. Johannes Gei- ler von Keyszersperg zû
+          <lb/>den Reüwren in Strasz burg. Als man zalt nach der ge¬
+          <lb/>burt Chri sti vnszers herren Tausent Fünff- hundert vnd
+          <lb/>dreii Jar.
+          <lb/>Holeschn.: Adam u. Eva im Paradies, links vom/ Baume mit der
+          <lb/>Schlange Gott in der Gestalt Jesu Christi. Das Paradies ist von einer
+          <lb/>Mauer mit 4 kleinen Pforten umgeben; aus jeder Pforte ergiesst sich ein
+          <lb/>Fluss. An der grossen Pforte ein Engel mit gezücktem Schwvert. (Rücks.
+          <lb/>leer.)
+          <lb/>Am Schluss: Gedruckt in der keyszerlichen frey stat
+          <lb/>Straszburg von dem wolgeleerten magistro Matthiae
+          <lb/>Schürer, im jar als man zalt fünfzehen hundert vnd
+          <lb/>zehen jar, nach christus geburt, am zwen vndzweintzi
+          <lb/>gisten tag des Brach-monat.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:27.364594+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2040.tif
+IMAGE WIDTH: 2366
+IMAGE HEIGHT: 3832
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>36
+          <lb/>ANDRELINUS P. Faustus
+          <lb/>P. FAVSTI
+          <lb/>ANDRELINI FO¬
+          <lb/>roliuiensis Poetæ Laureati
+          <lb/>at Oratoris clarissimis E¬
+          <lb/>pistolæ prouerbiales &amp;amp; mo
+          <lb/>rales longe lepidissimæ
+          <lb/>nec minas sententiose.
+          <lb/>&amp;quot;
+          <lb/>tdt
+          <lb/>EX SECVNDA RE¬
+          <lb/>COGNITIONE.
+          <lb/>Strasbourg, J. Prüss, 1520.
+          <lb/>A la fin: Bande d’ornement. Au-dessous: ARGEN TINAE APVD
+          <lb/>IOAN. PRYS MENSE SEPTEM. Anno. M. D. XX. (Verso blanc.)
+          <lb/>in-8°, car, rom., 50 p. p. ch. — 1 f. non ch. dont le verso blanc, titre
+          <lb/>courant, réclames, titre encadré, composé de 4 pièces d’ornement juxta¬
+          <lb/>posées.
+          <lb/>Au verso du titre: BEatus Rhenanus, Hieronymo Gebui¬
+          <lb/>lerio Selestati bonas! literas profitenti. S.... — Selestati.
+          <lb/>pridie! Calendas septembris. An.! M. D. VIII. (2 p.)
+          <lb/>p. 4: EPIST. NVNCVPATORIA. Faustus illustri Franciae
+          <lb/>Cancel- lario, Joanni de Ganay Mecoe nati suo, felici¬
+          <lb/>tatem. (2 p p.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:11.911915+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002400.tif
+IMAGE WIDTH: 2518
+IMAGE HEIGHT: 3968
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Burg, n° 351 féd. Gran VIII. Kal. Aprilis 1501, III. nonas
+          <lb/>Augusti 1501 (Ritter, Rép, nos 1810/11); Gran nonas Augusti
+          <lb/>1502 (Rép. n° 1819); Gran nonas Octobris 1504 (Rép. n° 1823)].
+          <lb/>2860
+          <lb/>PELBARTUS de Themeswar (Sermones de tempore) : (Idem). —
+          <lb/>(Strasbourg, Jean Knobloch aux frais de Jean de
+          <lb/>Ravensberg 1506), in-fol.
+          <lb/>Panzer VI, 35, 72; Schmidt VII, n° 326 : B U Fribourg. [éd.
+          <lb/>Gran, III nonas Octobris 1507 (Ritter, Rép. n° 1831); Gran
+          <lb/>idus I April 1509 (Rép. n° 1837); Gran 31 août 1511 (Rép.
+          <lb/>n° 1839)l.
+          <lb/>2861
+          <lb/>PELBARTUS de Themeswar (Sermones per annum) : Pomerium
+          <lb/>Sermonum... per anni circulum copiosissime ministrans.
+          <lb/>Has quattuor partes continet. De Tempore dominicales,
+          <lb/>De Sanctis, Quadragesimale triplex, Stellarium beatae
+          <lb/>virginis... — (Haguenau, H. Gran pour J. Rynman
+          <lb/>11 Kal. Martuï 1516), in-fol.
+          <lb/>Burg, n° 374 [éd. Gran 1521 : Ritter, Rép, n° 1845].
+          <lb/>2862
+          <lb/>PELBARTUS de Themeswar (Stellarium) : Stellarium Coronae
+          <lb/>benedicte virginis Marie... — (Strasbourg, Jean Knobloch
+          <lb/>aux frais de Jean de Ravensberg 1506), in-fol.
+          <lb/>Schmidt VII, n° 325; B U Fribourg; Ritter : B M Strasbourg,
+          <lb/>n° 1658 [éd. Gran 28 janvier 1501 (Rép, n° 1814); VIII. Kal.
+          <lb/>Aprilis 1501 (Rép, n° 1815); VIII. Kal, maii 1502 (Rép.
+          <lb/>n° 1820); VIII. Kal, maii 1505 (Rép, n° 1827); 1er mars 1508,
+          <lb/>(Rép. n° 1834)].
+          <lb/>2863
+          <lb/>PELLICANUS, Conradus : De modo legendi et intelligendi
+          <lb/>Hebraeum. — Strasbourg 1504.
+          <lb/>Schottenloher 17.065 a. (Deutschlands erstes Lehr — Lese —
+          <lb/>und Wörterbuch der hebräischen Sprache, verfasst in Tübingen
+          <lb/>1501, gedruckt in Strassburg 1504, durch Lichtdruck neu
+          <lb/>hrsg. von Eberhard Nestle. Tübingen 1877).
+          <lb/>2864
+          <lb/>398
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

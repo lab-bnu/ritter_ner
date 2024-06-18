@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:05.945823+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3079.tif
+IMAGE WIDTH: 2320
+IMAGE HEIGHT: 3842
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Bl. B 1a:... Frawen! Catharinen, Künigin z4 Engel¬
+          <lb/>land... Erasmus.... — Ba- sel, Jm jar, M. D. xxvi. auff
+          <lb/>den sechzehenden! tag Julij.
+          <lb/>R101954. Prov.: K. Theod. Völcker, Frankfurt a. M., 4. III.
+          <lb/>1904; 30 M.
+          <lb/>793
+          <lb/>Bibl. Wilh., Strassburg.
+          <lb/>ERASMUS: Adagia classica, scholis Argentinensibus digesta.
+          <lb/>Strassburg, Josias Rihel, 1573. Siche: HAWENREUTER Johannes
+          <lb/>Ludovicus, R 102.419.
+          <lb/>BN Paris Z. 17710; Van der Haeghen 1 S. 429.
+          <lb/>ERASMUS: Ein gût bûch von der ehe. Siche Nr. 151: BARBA¬
+          <lb/>RUS Franciscus. Haguenau, V. Kobian, 1536.
+          <lb/>ERASMUS a Limburg, Bischof von Strassburg
+          <lb/>[Strassburgl 1549
+          <lb/>ERASMVS Dei et Apostolicae sedis gratia Electus et con¬
+          <lb/>firmatus Ecclesiae Argentinensis, Alsatiaeque Landgrauius...
+          <lb/>Abbatibus, Prioribus, Praepositis, Decanis, Scholasticis...
+          <lb/>aeternam in Domino salutem... Datum in oppido nostro
+          <lb/>Zabern, die quarta mensis Februarij. Anno à Nati- uitate
+          <lb/>Domini Millesimo Quingentesimo Quadragesimo Nono. (Rück¬
+          <lb/>seite leer.)
+          <lb/>Einblattdruck, Antio., 37 Zeilen. Einberufung zu der am 2. April
+          <lb/>1549 in Zabern stattfindenden Synode.
+          <lb/>R 90. Prov.: Bibl. Heitz Strassburg, 1871. Handschr. Notizen.
+          <lb/>794
+          <lb/>523
+          <lb/>ERENHALT. Siche: STURM Caspar
+          <lb/>ERKANDTNUSS
+          <lb/>Strassburg 1590
+          <lb/>Vnserer Herren Räht vndEin vnd zwäntzig Erkandt¬
+          <lb/>nusz, das Ganthausz vnd Stattgericht belangend.
+          <lb/>Wappen der Stadt Strassburg. (Rücks, leer.)
+          <lb/>Am Schluss: Actum &amp;amp; Decretum Mitwoch den xxij Julij,
+          <lb/>Anno Tau- sent Fünffhundert, Neuntzig. (Rücks, leer.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

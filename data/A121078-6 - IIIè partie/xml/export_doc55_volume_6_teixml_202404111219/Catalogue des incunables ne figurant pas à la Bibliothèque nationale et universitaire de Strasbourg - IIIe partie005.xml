@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:05.244077+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie005.tif
+IMAGE WIDTH: 2496
+IMAGE HEIGHT: 3940
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>AGENDA Argentinensis — (Strasbourg (?), Jean Prüss (?)
+          <lb/>vers 1500 (2)), in-4°.
+          <lb/>G W 459a, Pellechet 233: B N Paris (incomplet).
+          <lb/>14
+          <lb/>AGENDA Moguntinensis — (Strasbourg, J. Prüss vers 14921,
+          <lb/>in-fol.
+          <lb/>G W 469; Copinger 130; Proctor 3276; Brit. Mus. Catal. III,
+          <lb/>860. Goerlitz, Mayence, Zeitz.
+          <lb/>18
+          <lb/>AGENDA Wratislaviensis ; éd. Martin, Paulsdorff. —
+          <lb/>(Strasbourg), Frédéric Ruch de Dumbach 1499, in-4°.
+          <lb/>G W478; Copinger 131; Voulliéme : Berlin 2557. Schmidt IV,
+          <lb/>p. 2, n° 2 : Frédéric Dumbach. B N Berlin, Breslau, Dresde,
+          <lb/>Wurzbourg.
+          <lb/>16
+          <lb/>AGRICOLA, Rodolphus : Anna mater... — (Strasbourg (?),
+          <lb/>Bâle (?)] pas avant 1485), in-4°.
+          <lb/>G W 483; Pellechet 238: BN Paris.
+          <lb/>17
+          <lb/>ALANUS DE INSULIS : De maximis theologiae. — (Strasbourg,
+          <lb/>Jean Grüninger vers 1497), in-4°.
+          <lb/>G W 511 : B M Zittau.
+          <lb/>18
+          <lb/>ALBERTANUS Causidicus Brixiensis : De arte loquendi et
+          <lb/>tacendi. — (Strasbourg, impr. de Henricus Arimi¬
+          <lb/>nensis (?) vers 1476).
+          <lb/>G W 533 : B M Hambourg, Pommersfelden (Schœnb.), Bibl.
+          <lb/>Rég. Stuttgart; Tübingen (Wilh. Stift).
+          <lb/>18
+          <lb/>ALBERTUS, episcopus Argentinensis Voir : Albrecht von
+          <lb/>Bayern, Bischof von Strassburg.
+          <lb/>ALBERTUS Magnus : Liber aggregationis. En plus : De mira¬
+          <lb/>bilibus mundi. — (Strasbourg, impr. de Henricus Ari¬
+          <lb/>minensis vers 1478), in-4°.
+          <lb/>G W619; Hain 523. B M Augsbourg, Metz, B N Munich etc. 20
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

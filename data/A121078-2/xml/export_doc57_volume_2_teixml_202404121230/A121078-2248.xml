@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:34.120321+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2248.tif
+IMAGE WIDTH: 2294
+IMAGE HEIGHT: 3818
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>244
+          <lb/>BUTZER Martin
+          <lb/>Strasbourg, M. Apiarius, 1533
+          <lb/>QVID DE BAPTISMATE! INFANTIVM IVXTA SCRI- pturas
+          <lb/>DEI sentiendum, ex cussis, quæcumque uel pro hac
+          <lb/>obseruatione, uel con tra eam, adfer- ri solent.
+          <lb/>Epistola ad quendam hac in re impulsum, MARTINI
+          <lb/>BVCERI.
+          <lb/>ARGENTORATI AN. M. D. ( XXXIII. Mense Decembri.
+          <lb/>A la fin: ARGENTORATI EX AEDIBVS MATTHIAE APIARII
+          <lb/>XV. Kalend. Januarij. M. D. XXXIII.
+          <lb/>In-80, car. rom., 48 ff. non ch., sign. A-F, titre courant, récla¬
+          <lb/>mes, notes marginales, initiale ornée G.
+          <lb/>Au verso du titre:... D. IOAN. A. WYCK, I.V.! Doctori...—
+          <lb/>Argentorati, XVI. Calend. Ianuarias.! Martinus Bucer.
+          <lb/>fol. A 24: RELIGIONIS, ET BONAE ERV- DITIONIS STV¬
+          <lb/>DIOSO,  N. fratri percharo...
+          <lb/>Comme la date du titre est Décembre 1533 et celle de l&amp;#x27;explicit
+          <lb/>Janvier 1533, Baum admet qu’il y a une faute d’impression à l’explicit
+          <lb/>et qu’il faut mettre Janvier 1534.
+          <lb/>R 101753. Prov. inconnue. Au haut du titre: Collegij Wilhelmitani.
+          <lb/>Bibl. St. Guillaume, Strasbourg; Walter: Sélestat No 864.
+          <lb/>GPB. Berlin SB, Marbourg RU.
+          <lb/>Baum No 29; Mentz N° 32: In einer der beiden auf dem Titel
+          <lb/>und am Schluss angegebenen Jahreszahlen muss ein Druckfehler stecken,
+          <lb/>da sonst die beiden Data um ein Jahr auseinander liegen würden....
+          <lb/>Baum nimmt deshalb an, dass am Ende 1584 zu setzen sei.
+          <lb/>367
+          <lb/>BUTZER Martin
+          <lb/>Strasbourg, M. Apiarius, 1534.
+          <lb/>Bericht ausz der hey-ligen geschrift von der recht
+          <lb/>gott- seligen anstellung vnd hauszhaltung Christlicher
+          <lb/>gemeyn, Eynsatzung der diener des worts, Haltung vnd
+          <lb/>brauch der heyligen Sacra-menten.Vom heyligen
+          <lb/>Tauff, vnnd das die kinder zû teüffen, mit satter schrifftli¬
+          <lb/>cher widerlegung was bisz her hie wider vffbracht.
+          <lb/>Von dem H. Sacrament des leybs, vnnd blûts vnsers
+          <lb/>Herrn Jesu,vnnd Christlicher eynigkeit inn di- sem
+          <lb/>handel zehalten. Durch die Prediger des heyli- gen
+          <lb/>Euangeli, zû Straszburg, der Stat, vnd kirchen zû Müns¬
+          <lb/>ter in Westfal,erstlich geschriben. (Verso blanc.)
+          <lb/>A la fin: Die Prediger des Euangeli Christi V. Herren
+          <lb/>zû Straszburg. D. Wolffgang Capito D. Caspar Hedio.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

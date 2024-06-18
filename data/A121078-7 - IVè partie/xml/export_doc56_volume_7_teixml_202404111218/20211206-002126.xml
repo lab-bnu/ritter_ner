@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:04.976848+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002126.tif
+IMAGE WIDTH: 2500
+IMAGE HEIGHT: 4000
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>COLLINUS, Matthaeus : Harmoniae univocae in odas Hora¬
+          <lb/>tianas et in alia quaedam carminum genera, collectae
+          <lb/>et moris piorum versuum exemplis illustratae... —
+          <lb/>Strasbourg 1568, in-12°.
+          <lb/>Vogeleis, p. 308.
+          <lb/>1419
+          <lb/>COLUMNA, Aegidius : Historia destructionis Trojae [en
+          <lb/>allemand). — Strasbourg, uf Mitfasten (10 mars] 1499
+          <lb/>(probablement, Jean Knobloch, vers 15091 in-fol.
+          <lb/>G W VI, col. 802 : « Ist nach den Typen ein Druck von Joh.
+          <lb/>Knobloch, Anfang des 16. Jahrhunderts. Das Impressum ist
+          <lb/>aus der vorhergehenden Ausgabe übernommen. Die Verwen¬
+          <lb/>dung Kistlerischer Holzstöcke, die seit 1509 in Knoblochs
+          <lb/>Besitz nachweisbar sind, macht Entstehung um 1509
+          <lb/>wahrscheinlich ». Copinger III zu Hain 5519, Proctor 758,
+          <lb/>Brit. Mus. Cat. I, 164; Schmidt II, n° 17 l’attribue à
+          <lb/>Martin Schott; Schreiber 4110. — Bâle.
+          <lb/>1420
+          <lb/>COLUMNA, Aegidius : Ein hübsche histori von der künigck¬
+          <lb/>lichen stat troy, wie Si zerstoret wart. — (Strasbourg,
+          <lb/>Jean Knobloch 1510), in-4°.
+          <lb/>Goedeke 12, p. 372 n° 1 (6); Kristeller, n° 365; Panzer I, 324,
+          <lb/>684; Heitz-Ritter, n° 680. [B N Strasbourg R 10.042 à Histori.
+          <lb/>Ritter, Rép. n° 1172l.
+          <lb/>1421
+          <lb/>COLUMNA, Aegidius. Voir aussi : RITTER, Rép, no 16.
+          <lb/>COMES antiquus. Voir: BERNARDUS, Comes Trevirensis.
+          <lb/>COMESTOR, Petrus : Scholastica historia... — (Haguenau,
+          <lb/>H. Gran pour J. Rynman 21 janvier 1519), in-fol.
+          <lb/>Burg, n° 147.
+          <lb/>1422
+          <lb/>COMINES, Phil. : De rebus gestis Ludovici undecimi, Galliarum
+          <lb/>regis, &amp;amp; Caroli, Burgundiae Ducis, Commentarij. Ex
+          <lb/>Gallico facti latini, à Joanne Sleidano. Adiecta est brevis
+          <lb/>quaedam illustratio rerum, &amp;amp; Galliae descriptio. [Marque
+          <lb/>typ. de Rihel). — Argentorati Excudebat Josias Rihelius
+          <lb/>(1545), in-8°.
+          <lb/>124
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

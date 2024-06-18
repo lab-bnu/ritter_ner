@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:10.334207+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3280.tif
+IMAGE WIDTH: 2344
+IMAGE HEIGHT: 3854
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>722
+          <lb/>Am Schluss: Impressum FRIBU. (Druckort ist jedoch nicht Frei¬
+          <lb/>burg, sondern Strassburg und zwar Joh. Grüninger. Siehe: Proctor II
+          <lb/>Sectio I Nr. 9887.)
+          <lb/>40, Antiq., 18 unn. Bll., Sign. a-c, Init. F. V.
+          <lb/>Auf der Rücks. des Titelbl.: Querela. la, vuympfelingij de
+          <lb/>Fra- tre Thoma Murner.
+          <lb/>Bl. a 2a: Petrus Guntherus Murena lectori praecipue
+          <lb/>Argentinensibus salutem...
+          <lb/>Defensio Germanide Jacobi
+          <lb/>Mympfelingũ quam frater Thomas
+          <lb/>Murner lmpugnauit.
+          <lb/>Epistola, C. Molfu Juniors
+          <lb/>D. D.ad F. Tho. Murner in defensu¬
+          <lb/>onem lacobi Vympfelingi.
+          <lb/>~
+          <lb/>Melim
+          <lb/>(ZENVS)
+          <lb/>Pr Nos eenMer re
+          <lb/>SHO
+          <lb/>QCECN
+          <lb/>B
+          <lb/>OH
+          <lb/>(Zu Nr. 1064)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

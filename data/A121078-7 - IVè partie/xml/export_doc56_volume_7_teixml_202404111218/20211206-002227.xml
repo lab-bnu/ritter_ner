@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:07.552359+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002227.tif
+IMAGE WIDTH: 2490
+IMAGE HEIGHT: 3942
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>bekandte Melodien gestellt durch Paschasium Reinicken.
+          <lb/>— Strasbourg, héritiers de Bern. Jobin 1595, in-240.
+          <lb/>Vogeleis, p. 371.
+          <lb/>1948
+          <lb/>HABERMANN, Johannes : Bettbüchlein Gesangweise, in
+          <lb/>artige inn Kirchen und Schulen bekandte und gebreuch¬
+          <lb/>liche Reumenbundt und Melodias (von Thomas Birk). —
+          <lb/>Strasbourg, Bernard Jobin 1595.
+          <lb/>Vogeleis p. 371; Weller, Annalen II, p. 60.
+          <lb/>1949
+          <lb/>HABERMANN, Johannes. Voir aussi : REINIGIUS, Paschasius
+          <lb/>n° 3091.
+          <lb/>HACHELBERGER, Jonas. Voir : Ein neüw Liep von der Stadt
+          <lb/>Calais, n° 2325.
+          <lb/>HADRIANUS IV (pape). Voir: LuTHeR n° 2528.
+          <lb/>HAFERNITZ, Simon. Voir: BRENTIUS, Joh., Der Job ausgelegt
+          <lb/>n° 1078.
+          <lb/>HALESIUS, Alex, : De authoritate verbi Dei liber contra
+          <lb/>episcopum Lundensem. — (Strasbourg, Crato Mylius,
+          <lb/>septembre 1542), in-8°.
+          <lb/>Walter, n° 1462.
+          <lb/>1950
+          <lb/>HANDBÜCHLEIN : Kurtz viler Historien Handt Büchlin... —
+          <lb/>Strasbourg, Jean Schott 1536, in-4°.
+          <lb/>B M Colmar. Walter, n° 1667.
+          <lb/>1951
+          <lb/>HANDBÜCHLEIN : Geistliches Handbüchlein, darin der
+          <lb/>Psalter Davids, die Sprüche und Prediger Salomonis,
+          <lb/>sampt den gebruchlichsten Christlichen Lobgesängen. —
+          <lb/>Strasbourg, Bernard Jobin 1593, in-120.
+          <lb/>Vogeleis, p. 370; Goedeke IIe, p. 175, n° 24.
+          <lb/>1952
+          <lb/>HANDLUNG : Ernstlich handlung der Universitet zu Witten¬
+          <lb/>berg an den Durchleüchtigsten Hochgebornen Chur¬
+          <lb/>225
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:39.378925+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu151.tif
+IMAGE WIDTH: 2444
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>TABLE ALPHABÉTIQUE DES
+          <lb/>NOMS PROPRES
+          <lb/>(sauf les noms d’imprimeurs ou d’auteurs qui figurent les premiers
+          <lb/>dans la liste des imprimeurs, les autres dans le corps de l’ouvrage
+          <lb/>comme védettes).
+          <lb/>Aurifaber Aegidius 440, 441.
+          <lb/>Alberti Joh. 167.
+          <lb/>Albertus Episcopus 201.
+          <lb/>Bader 109.
+          <lb/>Alburg 380.
+          <lb/>Badius Ascensius 114.
+          <lb/>Alexander Magnus 281-283.
+          <lb/>Bâle 4, 25.
+          <lb/>Altendorffer Henr. 204.
+          <lb/>Bamberg 169, 241, 258.
+          <lb/>Altomünster (Bavière) 210.
+          <lb/>Baer (antiquaire) 2, 7, 91, 123,
+          <lb/>Amberg (Bavière) 35.
+          <lb/>Aemilius Montfordensis 354.
+          <lb/>136, 143, 150, 151, 254, 260,
+          <lb/>Andechs 61, 158, 217, 297, 382.
+          <lb/>277, 299, 300, 335, 356, 415,
+          <lb/>Anvers 354.
+          <lb/>417, 420, 426, 436, 442, 491,
+          <lb/>Arensberg 434.
+          <lb/>Baum Joh. Wilh. 172, 263, 421,
+          <lb/>460.
+          <lb/>Aristoteles 445.
+          <lb/>Beck 145, 295.
+          <lb/>Arnoldus de Villa Nova 408.
+          <lb/>Artur Henri 413.
+          <lb/>Belial 250, 251.
+          <lb/>Belling J. C. 16.
+          <lb/>Auerbach Joh. 464.
+          <lb/>Augsbourg 6, 19, 49, 51, 54, 67,
+          <lb/>Bensheimer (Libr. Strasbourg)
+          <lb/>81, 85, 98, 118, 121, 139, 142,
+          <lb/>344, 361.
+          <lb/>180, 192, 193, 197, 198, 206,
+          <lb/>Bentheim Prince de 28, 89, 152,
+          <lb/>211. 251, 252, 256, 266, 270,
+          <lb/>214. 218, 223, 232, 301, 310,
+          <lb/>271, 278, 292, 297, 298, 304,
+          <lb/>319, 324, 334, 359, 366, 375,
+          <lb/>305. 308, 313, 318, 320, 322,
+          <lb/>406, 418.
+          <lb/>327. 328, 346, 352, 353, 358.
+          <lb/>Berlin 1, 2, 44a, 94, 127, 132,
+          <lb/>363, 370, 372, 381, 393, 394,
+          <lb/>146, 147, 159, 190, 236, 248,
+          <lb/>398. 411, 416, 421, 441, 445,
+          <lb/>290, 337, 403, 413, 468, 470.
+          <lb/>447, 455, 457, 459, 473, 482,
+          <lb/>480, 492.
+          <lb/>483, 485.
+          <lb/>(Voir aussi Voulliéme: Berlin.)
+          <lb/>121
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

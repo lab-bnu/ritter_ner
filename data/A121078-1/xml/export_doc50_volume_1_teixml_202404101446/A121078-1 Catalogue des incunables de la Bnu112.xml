@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:38.283773+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu112.tif
+IMAGE WIDTH: 2398
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>PETRUS FRATER: Legende der h. Katharina. Strasbourg,
+          <lb/>J. Grüninger, 2 juillet 1500, in-4°.
+          <lb/>Hain 12.851, Kristeller 94, Proctor 493 B. Voulliéme: Berlin
+          <lb/>2311; Schreiber 4922, Schramm, Bilderschmuck XX, grav.
+          <lb/>N° 647-660.
+          <lb/>K 2879. Prov.: Librairie Bull (Vente Leser), Strasbourg,
+          <lb/>10/II. 1872. A la suite de Legende von st. Annan, Strasbourg
+          <lb/>1500, K 2356,
+          <lb/>389
+          <lb/>PETRUS HISPANUS: Commentum novum in primum et quar¬
+          <lb/>tum tractatus. Haguenau, H. Gran, 3 mars 1495, in-4°.
+          <lb/>Hain 8708, Proctor 3183, Walter: Sélestat 270.
+          <lb/>K 2916. Prov.; B N Munich, 16/xIl. 1879, 2 M., 20. De nom¬
+          <lb/>breuses notes mss, se rapportant au texte. Rel. anc.
+          <lb/>390
+          <lb/>PETRUS LOMBARDUS: Sententiarum libri IV. [Strasbourg,
+          <lb/>impr. du H. Ariminensis, s. d.), in-fol.
+          <lb/>Hain 10184, Proctor 309, Voulliéme: Berlin 2177; Walter:
+          <lb/>Sélestat 375.
+          <lb/>K 2919. Prov.; K. Trübner, Strasbourg, 10/VI. 1887, 55 M.
+          <lb/>A l’intérieur du 1er plat: «Panzer 1. 96. 5 19 Cf. IV. 224.
+          <lb/>438b. IV. 154.736. (Argentorati, Georg Reysser 1475)»; plus
+          <lb/>bas: «Eggestein, Argentinae 1475». Rel. anc.
+          <lb/>391
+          <lb/>PETRUS LOMBARDUS: Sententiarum libri IV. (Strasbourg,
+          <lb/>H. Eggestein, vers 1471), in-fol.
+          <lb/>Hain 10.183, Pellechet: Colmar 888, Proctor 259.
+          <lb/>K 2918. Prov.: Albert Cohn, Berlin (Catal. 137) N° 332, 24/II.
+          <lb/>1881, 45 M. A l&amp;#x27;intérieur du 1er plat: «Contenta hujus libri
+          <lb/>Textus librorum sententiarum. Da gloriam Deo. V. W. 14712.
+          <lb/>L’ouvrage a donc paru au plus tard en 1471. Rel. anc. 392
+          <lb/>PETRUS DE PALUDE. Voir: Paludanus Petrus.
+          <lb/>PHARETRA doctorum, philosophorum et poetarum. (Stras¬
+          <lb/>bourg, J. Mentelin, s. d.), in-fol.
+          <lb/>Hain 12908, Pellechet: Colmar 1091, Proctor 225, Voulliéme:
+          <lb/>Berlin 2107.
+          <lb/>K 2936a. Prov.: F. Butsch, Augsbourg, 12/x. 1883, 18 M. Au
+          <lb/>recto du f. de garde: «Liber Cartusien, in Buxheim, prope
+          <lb/>Memmingen proveniens... domino hildepranto Brandenbg de
+          <lb/>Bibraco». Au bas du 1er f.: Cachet: «Bibl. Buxheim». Rel. anc.
+          <lb/>393
+          <lb/>82
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:30.557387+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2136.tif
+IMAGE WIDTH: 2316
+IMAGE HEIGHT: 3828
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>132
+          <lb/>nvmi TRAGI] ANNO AETATIS SVAE 46; dans les bandes latérales
+          <lb/>de l&amp;#x27;encadrement, les lettres D. K. (— David Kandell (Verso blane),
+          <lb/>1200 pages ch. et 32 ff. non ch. Index avec car. ital., goth. et hébreux;
+          <lb/>notes marginales en car. ital.; initiales ornées Q, V, N, C et initiales
+          <lb/>d’attente; de nombreuses gravures coloriées de plantes très fines.
+          <lb/>fol. a 2a non ch..... PRINCIPI,AC] DOMINO, D. WOLFGANGO
+          <lb/>PALATINO APVD RHE-nVm, Duci Bauariae...-Argentinae,
+          <lb/>anno salutis M. D. LII men- se Martio.Dauid Kyberus
+          <lb/>Argentinensis. (Epistola nuncupatoria en car. ital.)
+          <lb/>fol. a 6b non ch.: DAVIDIS KYBERI AD CAN- DIDVM LEC¬
+          <lb/>TOREM PRAEFATIO.
+          <lb/>fol. a 8b non ch.: CONRADI GESNERI MEDICI TI! GVRINI AD
+          <lb/>REI MEDICAE STVDIOSIS PRAEFATIO...
+          <lb/>fol. d 1b non ch.: HIERONYMI TRAGI IN SVOS DE STIRPIVM
+          <lb/>HISTORIA, COMMENTA- ROS PRAEFATIO.
+          <lb/>R102.074. Prov.: Bibliothèque de Johannes Boeclerus avec son exlibris
+          <lb/>à l’intérieur du Ier plat. Au verso du f. de garde annotations mss., entre autres:
+          <lb/>«Bibliothecae Hermanianae Argentin. Hier. Bock vulgo
+          <lb/>Tragus, verbi divini Minister, vixit Hornbaei apud Bipon¬
+          <lb/>tinos — 1554... Sunt figurae eaedem quae in germanicis
+          <lb/>editionibus in folio. Video tamen non omnes Fuchsianas
+          <lb/>eum recepisse. Nam Erucae icon e. g. alia est. Hanc
+          <lb/>editionem allegare solet Hallerus.» Rel. anc.
+          <lb/>2. ex. R102.075. Prov.: Butsch, Augsbourg, 4/XII.1883; 10M.
+          <lb/>Au verso du f. de garde annotation au crayon: « Duplum Biblio¬
+          <lb/>thecae regiae Monacensis»; au bas du titre: »Ex libris
+          <lb/>clarissimi viri d. Huberti Fabri Christina eius relicta vidua
+          <lb/>propter veterem quem mihi cum modo memorato suo marito
+          <lb/>intercessit amicitiam. Anno Domini XI Maii 1568.» Rel. anc.
+          <lb/>BN Paris, S. 3488; Oxford, Bibl. Bodleiana.
+          <lb/>216
+          <lb/>BOCK Hieronymus
+          <lb/>Strasbourg, W. Rihel, 1555.
+          <lb/>Teütsche Speiszkam- mer...
+          <lb/>Même titre que dans l’édition de 1550. Voir No 214.
+          <lb/>Gedruckt zû Straszburg bei Wendel Rihel.jar
+          <lb/>M. D. LV.
+          <lb/>Au verso du dernier f., marque typogr. de W. Rihel. (H.CB.
+          <lb/>Planche XXIX, NO I.
+          <lb/>In-4°, car. goth., 14 ff. non ch., GXIX ff. ch., titre couran,
+          <lb/>réclames, notes marginales.
+          <lb/>Préface comme dans l&amp;#x27;édition de 1550, dont le livre est une réim¬
+          <lb/>pression.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:05.276966+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie007.tif
+IMAGE WIDTH: 2494
+IMAGE HEIGHT: 3934
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>ALEXANDER Magnus : Historia Alexandri Magni (allemand)
+          <lb/>par J. Hartlieb. — Strasbourg, Martin Schott (10. XII.)
+          <lb/>1488, in-fol.
+          <lb/>G W 888 ; Voulliéme : Berlin 2232 ; Heitz-Ritter n° 8;
+          <lb/>Schmidt II, n° 6; Kristeller n° 28; Proctor 399. BN Berlin,
+          <lb/>Munich, Zurich etc.
+          <lb/>2
+          <lb/>ALEXANDER Magnus: Historia Alexandri Magni (en allemand).
+          <lb/>— Strasbourg, Martin Schott 1489, in-fol.
+          <lb/>G W 888a; « Nicht nachweisbar ». Hain-Copinger 792; Schmidt
+          <lb/>II, n° 8; Heitz-Ritter n° 9; Kristeller n° 27.
+          <lb/>28
+          <lb/>ALEXANDER Magnus : Historia Alexandri Magni (en allemand)
+          <lb/>par J. Hartlieb. — Strasbourg, Martin Schott 12. VI.
+          <lb/>1493, in-fol.
+          <lb/>G W 889; Hain 793; Kristeller no 31 ; Heitz-Ritter n° 10;
+          <lb/>Schmidt II, n° 11; Voulliéme : Berlin n° 2238. — B N Berlin,
+          <lb/>Munich etc.
+          <lb/>29
+          <lb/>ALÉXANDER VI (pape): Clipeus defensionis fidei. — Strasbourg
+          <lb/>1497, in-fol.
+          <lb/>G W col. 453 : « nicht nachweisbar».
+          <lb/>30
+          <lb/>ALEXANDER VI (pape) : Bulla (Inter curas multiplices)
+          <lb/>betr. Ablass des Jubeljahrs. Rom 20. XII. 1499. —
+          <lb/>(Strasbourg). J. Prüss (après le 22. XI. 1499). Placard
+          <lb/>in-fol. 360 x 227 mm.
+          <lb/>B M Strasbourg; Archiv, Alte Ordnungen n° 2. Exemplaire
+          <lb/>unique. G W 907; Einblattdrucke n° 110; Scott (Schmidt II,
+          <lb/>Suppl.) n° 30.
+          <lb/>31
+          <lb/>ALEXANDER VI (pape): Regulae cancellariae (27. VIII. 1492;
+          <lb/>8, VIII, 1495; 18. I. 1496; 26, I. 1496). — (Strasbourg,
+          <lb/>J. Prüss après le 26. I. 1496), in-4°,
+          <lb/>G W 922, Hain 635 = 636; Proctor 1451; Pellechet 426;
+          <lb/>Voullième : Berlin 2704. B N Berlin, Munich, Vienne.
+          <lb/>32
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

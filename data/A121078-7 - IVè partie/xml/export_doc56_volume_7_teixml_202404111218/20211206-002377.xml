@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:11.418335+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002377.tif
+IMAGE WIDTH: 2504
+IMAGE HEIGHT: 3964
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Badenfahrt... — Strasbourg, Jean Grüninger 1518,
+          <lb/>in-4°.
+          <lb/>Schmidt. Hist. litt. Il, p. 424, n° 323.
+          <lb/>2738
+          <lb/>(MURNER) (Ermahnung, christliche): Ein christenliche und
+          <lb/>briederliche ermanung zu dem hochgelerten Doctor
+          <lb/>Martino luter... — (Strasbourg, Jean Grüninger (10.XII
+          <lb/>1520), in-4°.
+          <lb/>Schmidt I, no 174. — Bâle.
+          <lb/>2739
+          <lb/>[MURNER) (Ermahnung, christliche): Ein christliche und
+          <lb/>brüderliche ermanung zu dem hochgelerten doctor
+          <lb/>Martino luter... — (Strasbourg, Jean Grüninger (21.I.)
+          <lb/>1521), in-4°.
+          <lb/>Schmidt I, n° 179. — Bâle.
+          <lb/>2740
+          <lb/>MURNER (Mühle von Schwindratzheim) : Die mülle von
+          <lb/>Swyndelszheym und gredt Müllerin Jarzeit. —
+          <lb/>(Strasbourg, Mathias Hupfuff 1515), in-4°.
+          <lb/>Panzer, Annalen 1, 384; Schmidt V, n° 123. Balke : Murner
+          <lb/>(Deutsche National-Litteratur Bd. 17, 1; p. LIII. — BN
+          <lb/>Berlin, B M Colmar et Wolfenbüttel (incomplet).
+          <lb/>2741
+          <lb/>MURNER, Thomas (Narrenbeschwörung). — (Strasbourg,
+          <lb/>Jean Knobloch 6.IX.1518), in-4°. (Gravures).
+          <lb/>Goedeke IIa, 216; Kristeller, n° 126; Schmidt VII, n° 161:
+          <lb/>BN Berlin; Panzer, Annalen I, 421, 922; Spanier: Murners
+          <lb/>Narrenbeschw. (Neudrucke des XVI. u. XVII. Jhd., fasc. 119-
+          <lb/>124), p. 1x-x. Exempl. in Berlin, Frankfurt-a.-M., Frauenfeld,
+          <lb/>Göttingen, München, Wien, etc. [Une éd. Hupfuff 1512:
+          <lb/>Ritter, Rép. n° 1606).
+          <lb/>2742
+          <lb/>MURNER (Narrenbeschwörung). — Strasbourg, Jean Knobloch
+          <lb/>1522, in-40.
+          <lb/>Schmidt, Hist. litt. II, p. 424, n° 323 d’après Goedeke; Spanier;
+          <lb/>Narrenbeschwörung, loc. cit., p. XIV : Es ist unwahrscheinlich,
+          <lb/>dass neben den Ausgaben 1512 u. 1518 noch eine andere
+          <lb/>375
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

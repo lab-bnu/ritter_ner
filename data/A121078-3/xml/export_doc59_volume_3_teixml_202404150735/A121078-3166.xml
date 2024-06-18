@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:07.442015+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3166.tif
+IMAGE WIDTH: 2310
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>610
+          <lb/>Darunter: Cum Gratia &amp;amp; Priuilegio.Argentorati apud
+          <lb/>Bernhardum Iobinum. M. D. LXXXXV.
+          <lb/>Am Schluss: ARGENTORATI. Apud Bernhardum Iobi¬
+          <lb/>num. M. D. LXXXXV.
+          <lb/>Gleiche Druckerm, wie auf dem Titelbl.
+          <lb/>80, Antiq., 3 unn. Bll., 136 S., Kopft., Kust., Init. Auf der
+          <lb/>Rücks. des Titelbl.: Vign.
+          <lb/>Bl. A2a (irrtumlich sign. A 3): Ad... D. GEORGIVM CHISELI¬
+          <lb/>VM: DOMINVM IN KALTEN- BRVN ET GANVIZ... PROGRAMMA
+          <lb/>AVCTORIS (18 Verse.)... — Venetijs, Id. Septemb. M. D. XXCIII.
+          <lb/>Auf der Rücks.: IOANNES SAMBVCVS] NICODEMO FRISCH¬
+          <lb/>LINO Svo S. D.... — Ca.Maij. 84. Viennae.
+          <lb/>Bl. A 3a: SIMON FABRICIVS SY-LESIVS NICODEMO FRI¬
+          <lb/>SCHLINO S. P.... — Augustae Vindelicorum, 15. Sept. 84.
+          <lb/>S.133-136: Strig. Gramm. Nic. Frischl. Lectori S.... —
+          <lb/>Argentorati. Idib. Decemb. Frischlinus. (4S.)
+          <lb/>R100.9502. Prov.: Bibl. Wolfg. Menzel, Stuttgart 1874.
+          <lb/>GK: SB Berlin (2 Ex.) (W 1250a) 1595 [vielmebr 1585l.
+          <lb/>BN Paris, Z.13540.
+          <lb/>918
+          <lb/>FRISCHLIN Nikodemus
+          <lb/>[Strassburg, B. Jobins Erbenl 1596
+          <lb/>POPPYSMI ! GRAMMA-]TICI DIALOGVS ! TERTIVS CONTRA
+          <lb/>AN tistrigilim Martini Crusij, &amp;amp; Moropolitarum Tubin¬
+          <lb/>gae bacchantium. Conscriptus à NICODEMO FRISCHLINO
+          <lb/>POE- ta Laur. Comite Palatino Caesareo. Nunc! verò pri¬
+          <lb/>mùm post autoris obitum in lucem editus. Argumentum
+          <lb/>huius libri ostendit! versa pagella.
+          <lb/>EIVSDEM DE RATIONE I- stituendi puerum, ab Anno
+          <lb/>Aetatis sexto &amp;amp;! septimo, ad annum vsque decimum quar¬
+          <lb/>tum: ita vt praeter duas, aut tres maternas linguas,
+          <lb/>etiam Latinam discat rectè loqui, &amp;amp; scribere: T Graecam
+          <lb/>verò mediocriter intelligere; in- superquè rudimenta Dia¬
+          <lb/>lecticae &amp;amp; Rhetoricae ad usum scri- bendi conferre.
+          <lb/>ANNO M. D. XCVI.
+          <lb/>80, Kursiv, 5 unn., 120 num. u. 7 unn. Bll., Kopft., Kust., Init.,
+          <lb/>Vign. u. Zierleisten, die sich speziell bei Jobin finden, Titeleinfassung
+          <lb/>(Arabesken).
+          <lb/>Bl. A2a: ILLVSTRISSIMO PRIN- CIPI AC DOMINO : D. Ly¬
+          <lb/>po- uico: Duci Wirtembergensi &amp;amp; Teccensi:!Comiti Montis
+          <lb/>Belgarum... NICODEMVS FRISCHLINVS... — Pragae) Calend.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

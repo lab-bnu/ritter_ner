@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:49.674987+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5031.tif
+IMAGE WIDTH: 2372
+IMAGE HEIGHT: 3882
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1339
+          <lb/>charissimis M. Casparus Heppius S. P. D... — Ex Musaeo nostro die XII
+          <lb/>Augusti Anno M. D. XCVII.
+          <lb/>Dans cette préface Heppius loue entre autres l’imprimeur Iosias Rihel
+          <lb/>en le nommant: vir omni laude &amp;amp; aeterna posteritatis memoria dignissimus
+          <lb/>Dn. Iosias Rihelius, felicis memoriae, Typographus celeberrimus &amp;amp; optimè
+          <lb/>de Repub. literaria meritus, nouam hanc editionem adornare est agressus.
+          <lb/>Et quelques lignes plus loin il dit que Iosias Rihel est mort pendant
+          <lb/>l’impression et que les héritiers de Iosias Rihel ont pris la succession:
+          <lb/>praesertim cum ob interuenientem Dn. Rihelii morbum ac mortem, meo
+          <lb/>labore interrupto, Index vocum Germanicarum cum aliquot pagellarum
+          <lb/>interpollatione non mea, sed correctoris, quem vocant, accesserit opera:
+          <lb/>quia tamen &amp;amp; ipsi haeredes Rihelanii ius mihi darent hunc librum si
+          <lb/>liberet, aliquibus dedicandi.
+          <lb/>fol. 5a non ch. : Ad... D. Henricum Witzlebium, Joannis Sturmij
+          <lb/>Praefatio.
+          <lb/>R. 101.698. Prov. : Don de la Bibliothèque de la ville de Heilbronn,
+          <lb/>dont l’ex-libris se trouve au verso du titre. Annotations mss. à l’intérieur
+          <lb/>du 1 er plat et au recto du 1 er f. de garde.
+          <lb/>2096
+          <lb/>SCHORUS Henricus
+          <lb/>Strasbourg, J. Rihel, 1572
+          <lb/>Specimen et forma legiti-me tradendi sermonis
+          <lb/>orationis disciplinas, ex P. Ramiscr-ptis collecta, &amp;amp; Taber¬
+          <lb/>nensi Scho- lae accomodata:PerHenricum Schorum!
+          <lb/>Surburgensem Praepositum.
+          <lb/>Ejusdem Epistola de linguarum usu &amp;amp; utilitate.cum
+          <lb/>Praefatione Io. Sturmii.
+          <lb/>Argentorati per! Josiam Rihelium. Anno M. D. LXXII.
+          <lb/>(Verso blanc.)
+          <lb/>A la fin : Argentorati!! Excudebat Iosias Rihelius,! Anno
+          <lb/>M. D. LXXII. (Verso blanc.)
+          <lb/>In-8°, car. rom., 61 pp. ch., réclames, init. ornées C, O, M, A, P.
+          <lb/>p. 3-5 : Hepricvs!! Schorvs Io. (l Sturmio. — Taberni Alsatiae.
+          <lb/>p. 5-7 : Ioannes Stvrmius Hen-] rico Schoro... — In meo!! Sturmiano,
+          <lb/>Calendis Martij. 1! M. D. LXXII.
+          <lb/>p. 8-9 : Bonarum Disci- (] plinarum professoribvs No- ]! vae [Scholael,
+          <lb/>liberalitate Reverendissimi... Domini Ioannis! Argentinensis Episcopi,
+          <lb/>&amp;amp;c. 11 Tabernis institutae, Henricus Schorus, Surbur- I1 gensis Praepo¬
+          <lb/>situs...
+          <lb/>R. 102.421. Prov. : Bibl. Ch. Schmidt avec son ex-libris et la date 1853
+          <lb/>de sa main.
+          <lb/>2097
+          <lb/>SCHORUS Henricus
+          <lb/>Strasbourg, B. Jobin, 1588
+          <lb/>Breviarium!! Romanorum Pontificum Qui Ro-!] manam
+          <lb/>Rexerunt! Ecclesiam.
+          <lb/>Abbreuiatore Henrico Schoro S. P.Cum triplici
+          <lb/>Indice. Marque typ. de B. Jobin. (H. &amp;amp; B. Planche XXXVII,
+          <lb/>n° 5
+          <lb/>Argentorati Apud Bernhardum Iobinum. M. D.
+          <lb/>LXXXVIII.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

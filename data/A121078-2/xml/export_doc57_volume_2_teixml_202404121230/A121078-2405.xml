@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:38.537304+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2405.tif
+IMAGE WIDTH: 2370
+IMAGE HEIGHT: 3838
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>401
+          <lb/>Jnnhalt. XII. Bücher, wie am nechsten blatt ver¬
+          <lb/>zeychnet.
+          <lb/>New getruckt durch Hanszen Knoblouch den Jungen.
+          <lb/>Nach Christi geburt M. D. XXXI.
+          <lb/>A la fin: Gedruckt zû Straszburg durch Hans! Knob¬
+          <lb/>louch den Jungen, am Mitwoch nach sant Adolffs tag.
+          <lb/>Als man zalt nach der ge- burt Christi vnsers Herren.
+          <lb/>M. D. XXXI. (Verso blanc).
+          <lb/>réclames, initiales ornées, presque toutes les gravures sont empruntées à
+          <lb/>In-fol., car. goth., 4 ff. non ch., CLXXXII ff. ch., titre courant,
+          <lb/>l’édition Knobloch, 1518. Titre encadré, comme le 2e titre du No 238.
+          <lb/>Au verso du titre: Jnnhalt disz Bûchs.
+          <lb/>fol. 2a non ch.: Das Register, 3 ff. à 3 col. sans les 3 gravu¬
+          <lb/>res qui se trouvent au Register de 1518.
+          <lb/>R 10.385. Bibliothecae Hammerianae. Ex Ebner Norimb. 1817, avec
+          <lb/>la remarque Rarissimus. Derrière l’explicit 26 ff. blancs dont 15 avec
+          <lb/>notes mss. se rapportant à l’agriculture; les gravures sont en partie co¬
+          <lb/>loriées
+          <lb/>Manque chez Schmidt. GPB: BN Berlin, BU Breslau, Gœttin¬
+          <lb/>que; Walter: BM Sélestat, No 2017.
+          <lb/>597
+          <lb/>CREUTZ BÜCHLIN Voir: HOHENLOE Sigmund Graf von.
+          <lb/>CREUTZIGER. Voir: CRUCIGER.
+          <lb/>CRINITUS Petrus, Horatii vita. Voir: Horatius, Epodon Liber.
+          <lb/>Strasbourg, M. Schürer, 1515.
+          <lb/>CRUCIGER Caspar
+          <lb/>Strasbourg, Cr. Mylius, 1540.
+          <lb/>IN EPISTO LAM PAVLI AD TIMOTHEVM priorem Com¬
+          <lb/>mentarius, dictatus in Schola Vuittebergensi, per Doc¬
+          <lb/>torem Casparum! Crucigerum.
+          <lb/>Marque typ. de Mylius, (HeB, Planche XXVII, n° 5; Silvestre,
+          <lb/>No 1264.)
+          <lb/>ARGENTORATI M. D. XL. (Verso blane).
+          <lb/>A la fin: (feuille de lierre). ARGENTORATI APVD] CRATONEM
+          <lb/>MYIVM, MENSE SEPT. ANNOM. D. XL. (Verso blanc.)
+          <lb/>In-8°, car. rom., 8 ff. non ch., 267 pages ch. — 2 ff. blancs, au
+          <lb/>verso du dernier, marque typogr. de Mylius. (Hdt B, Planche XXVIII,
+          <lb/>n° 11; Silvestre, N° 1266.), titre courant, réclames, initiales à fig. B,
+          <lb/>P, I, S, I, V au commencement des chapitres.
+          <lb/>R.26
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

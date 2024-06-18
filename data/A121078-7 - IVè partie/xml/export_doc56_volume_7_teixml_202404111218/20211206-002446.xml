@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:12.907079+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002446.tif
+IMAGE WIDTH: 2486
+IMAGE HEIGHT: 4008
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>RHENANUS, Beatus. Voir: ANDRELINUS, n° 821; BIGUS,
+          <lb/>Lud., n° 1011; ERASMUS, n° 1584. Missa latina, n° 2693.
+          <lb/>RICCIUS, Bartholomaeus : Apparatus latinae locutionis.
+          <lb/>Ex M. T. Cicerone, Caesare, Sallustio, Terentio, Plauto,
+          <lb/>ad Herennium, Asconio, Celso, ac de Republica... His
+          <lb/>Accessit index in Ciceronem Et alia non nulla, ut suo
+          <lb/>loco videbis. (Marque typ. d’Apiarius). — Argentorati
+          <lb/>apud Mathiam Apiarium M. D.XXXV, in-4°.
+          <lb/>Bibl. Grand Sém. Strasbourg BE 316. (B N Strasbourg
+          <lb/>R 101.900 : Ritter, Rép, n° 2015).
+          <lb/>3109
+          <lb/>RICCIUS, Stephanus. Voir: PLAUTUS, n° 2944.
+          <lb/>RICCOLDUS : Confutatio Alcorani. — (Strasbourg (?)] s. d.,
+          <lb/>in-4°.
+          <lb/>Copinger III, 5121, Walter, n° 414.
+          <lb/>3110
+          <lb/>RICHARDIUS, Johannes. Voir : BeBIo, Lud., n° 969; MELANCH¬
+          <lb/>THON, n° 2632.
+          <lb/>RICHARDUS de sancto Victore : De duodecim patriarchis. —
+          <lb/>(Strasbourg, Jean Knobloch 1516), in-80.
+          <lb/>Panzer 6, 78, 434; Schmidt VII, n° 128 : Aarau, bibl. can¬
+          <lb/>tonale.
+          <lb/>3111
+          <lb/>RICHART, Joh. Voir: KALENDER der Strassburger Domherren,
+          <lb/>nos 2196, 2199.
+          <lb/>RICHTER, Matthaeus. Voir: JUDEX, Matthaeus.
+          <lb/>[RINGMANN, Mathias Philesius) : Hemistichia poetarum
+          <lb/>sentenciosiora pro pueris. — (Strasbourg, Jean Knobloch)
+          <lb/>vers 1505, in-8°. (La préface est du 1er oct. 1505l.
+          <lb/>Schmidt VII, n° 13 : B M Zurich; Panzer 6, 33, 58.
+          <lb/>3112
+          <lb/>444
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

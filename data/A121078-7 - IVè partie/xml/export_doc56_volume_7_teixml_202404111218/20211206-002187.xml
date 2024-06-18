@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:06.462817+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002187.tif
+IMAGE WIDTH: 2494
+IMAGE HEIGHT: 3960
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Zeitung von einem newen Propheten... — (Probablement
+          <lb/>Strasbourg vers 1573), in-8°.
+          <lb/>Voir: Hauffen : Fischart-Studien dans Euphorion III, p. 229,
+          <lb/>Anm. 2.
+          <lb/>1731
+          <lb/>(FISCHART, Joh.] (Wunderzeitung) : Ain gewisse Wunder¬
+          <lb/>zeitung von einer Schwangeren Jüdin zu Binzwangen... —
+          <lb/>Strasbourg après 1574. Graesse II, p. 586; Wickers¬
+          <lb/>heimer, E. : Catalogue des Folia naturales res spectantia
+          <lb/>a Johanne Hermann collecta. Dans Revue des Biblio¬
+          <lb/>thèques n° 11/12 (1925), n° 100.
+          <lb/>1732
+          <lb/>FISCHART, Joh. : Beschläge zum Heiligthums kästlin. Heilig¬
+          <lb/>thumsspang Jesuwalti Pickhart — Johann Fischart).
+          <lb/>Voir : CALVIN, Jean. Brotkorb der H. Römischen
+          <lb/>Reliquien. — Strasbourg 1583. (Nouv. éd. 1584, 1590,
+          <lb/>1594.) Voir n° 1270.
+          <lb/>1733
+          <lb/>FISCHART. Voir: ANTIMARTYRION n° 828; ARNAULD, Ant.
+          <lb/>n° 856; BARNAUD n° 930/1; BESCHREIBUNG nOS 995, 997;
+          <lb/>BULLINGER n° 1243; CALVIN n° 1270; CATECHISMUS
+          <lb/>n° 1305a; ESTIENNE, H n° 1646; EUSTACHIUS n° 1666;
+          <lb/>EULENSPIEGEL n° 1658; FRIEDENSARTICKEL n° 1772;
+          <lb/>HAUFFEN dans Euphorion III-X; HERTZOG n° 2002;
+          <lb/>HOLTZWART n° 2039; PATRIOT n° 2844/5; PROGNOSTICON
+          <lb/>n° 2993; EGENOLF von Stauffenberg n° 1534;
+          <lb/>WUNDERZEITUNGEN n° 3564; ZEITUNG nOS 3579, 3606.
+          <lb/>(RITTER, Rép, nos 848-865l.
+          <lb/>FISCHFANG : Wie man Fisch und Vogel fahen soll mit den
+          <lb/>henden... — Strasbourg, s. d. (commencement du
+          <lb/>XVIe sièclel, in-40.
+          <lb/>Copinger II, 2515; Voulliéme : Berlin 2564.
+          <lb/>1734
+          <lb/>FISCHFANG : Wie man visch und vogel fahen soll... —
+          <lb/>(Strasbourg, Mathias Hupfuff 1508), in-4°.
+          <lb/>Schmidt V, n° 72; Weller 470.
+          <lb/>1735
+          <lb/>185
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:05.902115+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3076.tif
+IMAGE WIDTH: 2320
+IMAGE HEIGHT: 3844
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>520
+          <lb/>HAGANOAE EX OFFICINAPetri Brubachij. An. M. D.
+          <lb/>XXXIIII. Mense Augusto. CVM GRATIA ET PRIVILEGIO
+          <lb/>Caesareo ad Sexennium. (Rücks, leer.)
+          <lb/>Am Schluss: Haganoae ex officina Petri Brubachij. An.
+          <lb/>M. D. XXXIIII. Mense Augusto. (Rücks, leer.
+          <lb/>40, Antiq., 8 unn., 212 num. Bll., Kopft., Kust., Init. U, N.
+          <lb/>Bl. 2a: PHILIPPVS MELANCH. TYPOGRAPHO Haganoensi.
+          <lb/>... — Wittenber-gae.
+          <lb/>Bl. 3a-6b: Index Capitum.
+          <lb/>Bl. 6b: DESYDERIVS ERASMVS ROTERODAMVS Ioanni
+          <lb/>Coleto, Decano Sancti Pauli apud Londinum. S. D.... —
+          <lb/>Lon- dini. Anno. M. D. XIII. Kalend. Maias, Darunter 4 lat.
+          <lb/>Distichen von Phil. Engentinus an den Leser.
+          <lb/>R 100.9101. Prov.: Baer, Frankfurt a. M., 24. XI. 1879; 6M.
+          <lb/>GK: UB Gôttingen.
+          <lb/>789
+          <lb/>ERASMUS : Vorbereitung zum Tode
+          <lb/>Hagenau, V. Kobian 1534
+          <lb/>Eyn vast Gotselig buch des hoch gelerten vnnd weit
+          <lb/>berümpten Desiderij Erasmi von Roterdam, Wie sich
+          <lb/>ein jeder mensch zûm sterben vndtodt schicken vnd
+          <lb/>bereytten soll, erstlich ausz dem Latein in Teütsch
+          <lb/>bracht.Esaie. XXXViij. (6 Zeilen.)
+          <lb/>M. D. XXXIIII. (Rucks, leer.)
+          <lb/>Am Schluss: Getruckt Zû Hagnaw Durch Valatinum
+          <lb/>Kobian vff den 29 tag des Augsmon, alsz man zalt Tau¬
+          <lb/>sent Fünffhun-dert treissig vier jar.
+          <lb/>Darunter ein Kleiner Holeschnitt: Bildnis eines Edelmannes nebst
+          <lb/>Epheublatt. (Rücks, leer.)
+          <lb/>4°, Got., 4 unn. u. XL num. Bll., Kopft., Kust., Marg., Init.
+          <lb/>Bl. 2a:... herrn Johan ni Buttbrott, Abt zû Schwartzach,
+          <lb/>meinem günstigen lieben herren... — Straszburg M. D.
+          <lb/>XXXIIII. den 20. Augusti.Caspar Hedio Doctor im
+          <lb/>Münster zû Straszburg. (6 S.)
+          <lb/>R 102.081. Prov.: J. Noiriel, Strassburg, 12. V. 1892, 6 M. Auf
+          <lb/>dem Titelblatt: Johann Warmundt.
+          <lb/>GK: SB Berlin, UB Greifswald.
+          <lb/>790
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

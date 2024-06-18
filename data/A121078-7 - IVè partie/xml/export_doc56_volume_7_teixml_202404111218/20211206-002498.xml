@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:13.952911+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002498.tif
+IMAGE WIDTH: 2508
+IMAGE HEIGHT: 3956
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>TURNEBUS, Adrianus :... Opera. Nunc primum ex bibliotheca
+          <lb/>amplissimi viri Stephani Adriani F. Turnebi Senatoris
+          <lb/>regii, in unum collecta, emendata &amp;amp; tributa in tomos III...
+          <lb/>— Strasbourg, Lazare Zetzner 1600, in-fol.
+          <lb/>Ritter: B M Strasbourg, n° 2121; Bibl. S. Guillaume,
+          <lb/>Strasbourg.
+          <lb/>3377
+          <lb/>TUSCUS, Leo. Voir: MiSsA, n° 2693.
+          <lb/>UBELIUS, G. Voir: PTOLEMAEUS, n° 3052.
+          <lb/>UFFENBACH, Petrus. Voir: BADER, Math., n° 901.
+          <lb/>ULSTADIUS, Philippus : Coelum philosophorum seu de secretis
+          <lb/>naturae liber. — (Strasbourg, Jean Grüninger (6 mars)
+          <lb/>1526), petit in-fol.
+          <lb/>Panzer 6, 109; Schmidt I, n° 229; Eggimann Charles,
+          <lb/>Catalogue, nouvelle série no 2 (1935), p. 37, n° 596: [c’est la)
+          <lb/>« Ire éd. de cet ouvrage; c’est une compilation des différents
+          <lb/>traités d’Arnaud de Villeneuve, du grand Albert, de Raymond
+          <lb/>Lulle, de Jean de Roquetaillade (Rupescissa), etc. — BN
+          <lb/>Munich.
+          <lb/>3378
+          <lb/>ULSTADIUS, Philippus : Coelum philosophorum. Heimlichkeit
+          <lb/>der naturen genant... — (Strasbourg, Jean Grüninger
+          <lb/>(23.I1.1 1527), in-fol.
+          <lb/>Schmidt I, n° 231; Rosenthal (Munich), Catal. 135 (1914),
+          <lb/>n° 2376: 150 M. — Bâle; [éd. Cammerlander 1536 : Ritter,
+          <lb/>Rép. n° 2366).
+          <lb/>3379
+          <lb/>ULSTADIUS, Phil. : Coelum philosophorum seu de secretis
+          <lb/>naturae liber... — (Strasbourg, Jean Grüninger (I.IX.)
+          <lb/>1528), in-fol.
+          <lb/>Schmidt I, n° 238; Baer (Francfort-s.-M.), Catal, 500 (1907),
+          <lb/>n° 829 : 40 M. — Bâle et BN Paris.
+          <lb/>3380
+          <lb/>UNGNAD, Andreas. Voir: WALDSTEIN, Idenko à, n° 3460.
+          <lb/>496
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:07.136689+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002218.tif
+IMAGE WIDTH: 2494
+IMAGE HEIGHT: 3972
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Gildeleiano Dano. — Strasbourg, Samuel Emmel 1558,
+          <lb/>in-40.
+          <lb/>Ritter : B M Strasbourg, n° 1122.
+          <lb/>1905
+          <lb/>GILETTA-VOLKSBUCH. Voir: LURCKER, Erhart n° 2445/6.
+          <lb/>GIPHANIUS. Voir : DIETRICH, Ulr, n° 1512.
+          <lb/>GLAUBE : Saracenisch, Türckisch und Mahometisch Glaub,
+          <lb/>Gesatz, Gotsdienst, Ceremonien, alle Gebräuch, Ordnun¬
+          <lb/>gen, Disciplinen in Kriegs unnd Friedenszeiten. Durch
+          <lb/>einen Sibenbürger, umb das M.CCCC unnd Sechs und
+          <lb/>Dreisigst Jar, selb erfaren unnd beschriben... —
+          <lb/>(Strasbourg, Christian Egenolph, mai 1530), in-40.
+          <lb/>Kuczynski, n° 922; Benzing : Egenolff, n° 28; Neuausgabe
+          <lb/>von n° 23. Die Seb. Francksche Ubersetzung des « Tractatus
+          <lb/>de ritu et moribus Turcorum», die unter dem Titel « Chronica
+          <lb/>unnd beschreibung der Türckei oder Chronica, Abconter¬
+          <lb/>faytung und entwerffung der Türckey » herauskam. 1906
+          <lb/>GLETTING, Benedikt : Zwey schöne newe Geistliche Lieder.
+          <lb/>Das erst. Von dem Frewlein von Samaria bey Sanct
+          <lb/>Jacobs Brunnen... Das ander Geistlich lied, von der
+          <lb/>Bilgerfahrt... — Strasbourg, Th. Berger (vers 1560),
+          <lb/>in-80.
+          <lb/>Vogeleis, p. 298.
+          <lb/>1907
+          <lb/>GLETTING, Benedict. Voir : LIED (Ein hüpsch neues von dem
+          <lb/>frommen Joseph) n° 2316 (Ein hüpsch new geistlich Lied
+          <lb/>vom Fräulein von Samaria) n° 2322 (ein schönes neues
+          <lb/>von dem Hauptmann) n° 2355.
+          <lb/>GLOBUS : Globus mundi. Der Weltkugel. Beschréybung der
+          <lb/>welt. — (Strasbourg, Jean Grüninger 8. IV.1509), in-40.
+          <lb/>Schmidt I, n° 103; Weller 321. — Nuremberg (Musée Germa¬
+          <lb/>nique).
+          <lb/>1908
+          <lb/>GLOBUS : Globus mundi. Declaratio sive descriptio mundi et
+          <lb/>216
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

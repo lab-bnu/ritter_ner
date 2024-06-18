@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:37.219858+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2363.tif
+IMAGE WIDTH: 2344
+IMAGE HEIGHT: 3824
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Strasbourg, L. Zetzner, 1594.
+          <lb/>CICERO
+          <lb/>Ex M. TVL. CICERONIS] ORATIONIBVS LOCI ALIOVOT
+          <lb/>COMMVNES, EVM IN FINEM SE- LECTI ATQVE EXPLICATI,
+          <lb/>vt eorundem tractandi ratio appareat. AUTHORE MEL¬
+          <lb/>CHIORE JVNIO! Witebergensi: Eloquentiae in Ar¬ NTI¬
+          <lb/>NENSI Academia Professore. Cum gemino INDICE cùm
+          <lb/>Locorum commu- nium, tùm Rerum &amp;amp; Verborum me¬
+          <lb/>morabilium locupletiss, (Vignette.)
+          <lb/>Au-dessous: ARGENTORATI PER LAZARVM ZETZNERVM
+          <lb/>CIDIDXCIV. (Verso blanc.)
+          <lb/>In-80, car. ital., 8 ff. non ch., 384 p. ch., 16 ff. non ch. (Index),
+          <lb/>titre courant, réclames, notes marginales, initiales à fig. M. (Moïse, tenant
+          <lb/>les tables des 10 Commandements), bandes d’ornement, init. ornées.
+          <lb/>fol. a 2a non ch.:... SAMSONI A RHATSAM-HAVSEN, IN
+          <lb/>STEIN, &amp;amp;c. MELCHIOR IVNIVS S. P. D.... — ARGENTINAE.
+          <lb/>4. Calend. Martij, 1594.
+          <lb/>R 101692. Prov.: Don de la RU de Kœnigsberg, 1871.
+          <lb/>GPB: BN Berlin, BU Breslau, Kœnigsberg, Marbourg. 537
+          <lb/>359
+          <lb/>Strasbourg, J. Rihel, 1594.
+          <lb/>CICERO
+          <lb/>RESOLVTIO BREVIS ORATIONVM M. T. CICERONIS SE¬
+          <lb/>CVNDVM CAVSARVM GENERA,) Orationum partes, materias,
+          <lb/>IN ELOQUENTIAE STVDIOSORVM gratiam ea potissimùm de
+          <lb/>causa instituta: vt dilatandae atque ampliandae Orationis
+          <lb/>ratio ex ipsius CICERONIS exemplis appareat. AvTORE
+          <lb/>MELCHIORE IVNIO WI- tebergensi, Eloquentiae Argentinensi
+          <lb/>in Academia Professore. TRIPLICI INDICE ADDITO.
+          <lb/>Marque typ. de Iosias Rihel, (H è B, Planche XXXII, NO 16).
+          <lb/>Au-dessous: Cum Gratia &amp;amp; Priuilegio Caesareo. M. D. XCIV.
+          <lb/>A la fin: Argentorati, Excvdebat Iosias Rihelivs.
+          <lb/>M. D. XCIIII. (Verso blane.)
+          <lb/>In-80, car. ital, 8 ff. non ch., 896 p. ch., 40 ff. non ch. (Index)
+          <lb/>Verso du dernier f. blanc; titre courant, réclames, initiales ornées,
+          <lb/>quelques notes marginales.
+          <lb/>fol. 2a non ch.:... D. BALTHASARO A MARVITZ. D.
+          <lb/>ANDREAE GEORGIO A ZYGESSAR. D. IOACHIMO A RANDOW.
+          <lb/>MELCHIOR IVNIVS) S. P. D.... — Argentinae, IV. Non. Martij
+          <lb/>Anno... M. D. XCIV, Au-dessous Cul de lampe. (Préface de 14 p.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

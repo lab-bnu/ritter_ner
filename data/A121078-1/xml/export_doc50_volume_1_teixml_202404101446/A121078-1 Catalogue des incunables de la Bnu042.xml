@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:36.968134+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu042.tif
+IMAGE WIDTH: 2384
+IMAGE HEIGHT: 3840
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>AUGUSTINUS AURELIUS: Confessionum libri XIII. (Stras-
+          <lb/>bourg. J. Mentelin, pas après 1470), in-fol.
+          <lb/>G W 2893, Hain 2030, Madsen 406, Pellechet 1536, Proctor 205,
+          <lb/>Voulliéme: Berlin 2096, Schorbach: Mentelin N° 18.
+          <lb/>K 451. Prov.; B N Munich, 16. XH. 1879, 15 M
+          <lb/>52
+          <lb/>AUGUSTINUS AURELIUS (Pseudo): De conflictu vitiorum ac
+          <lb/>virtutum. (Strasbourg, G. Husner, vers 1474), in-fol.
+          <lb/>GW 2939, Hain 2085, Pellechet 1572, Proctor 350, Voulliéme:
+          <lb/>Berlin 2199.
+          <lb/>K 475. Prov.: Don du docteur Halm, Munich, 1871. Notes mss.
+          <lb/>53
+          <lb/>AUGUSTINUS AURELIUS: Liber de arte praedicandi seu de
+          <lb/>doctrina christiana. (Strasbourg, J. Mentelin, vers 1466),
+          <lb/>in-fol.
+          <lb/>G W 2871, Hain 1956, Madsen 387, Pellechet 1472, Proctor 200,
+          <lb/>Voulliéme: Berlin 2094, Schorbach: Mentelin N° 6.
+          <lb/>K 415. Prov.: Don de Fid. Butsch fils, Augsbourg, 1871. Note
+          <lb/>mss. fol. 1a: «Hoc est primum opus, ex quo Joannem Mente¬
+          <lb/>lium per industrium artis typographicae propagatorem, ejus¬
+          <lb/>que characteres novimus, juxta quos opera tam multa aeque,
+          <lb/>ac magnifica ab ipso impressa dijudicare possumus. Editio
+          <lb/>haec per vetusta merito Bibliothecarum cimeliis adnumeratur,
+          <lb/>cum praestantiores Bibliographi altum de ea silentium teneant.
+          <lb/>V. Braunij Notitiam Historica-Litterariam, Vol. I, pag. 3 et
+          <lb/>Panzeri Annales Typograph. Vol. I, pag. 67, n° 389. Sunt enim
+          <lb/>duae hujus editiones. Extat et alia hujus opusculi editio in
+          <lb/>officina Joh. Fust typis excusa; quae vero editio alteram
+          <lb/>praecesserit, dubium adhuc est. Cl. Laire Ind. I, pag. 19 argu¬
+          <lb/>mentis non spernendis Mentelii originalem esse contendit. Pan¬
+          <lb/>zer L. C. — quae si ita sint, nostra editio saltem ante an. 1466
+          <lb/>prodierit necesse est, cum Fust post hunc annum nullo monu¬
+          <lb/>mento innotescit.»
+          <lb/>54
+          <lb/>AUGUSTUS AURELIUS: De doctrina christiana, Lib. A. (Stras-
+          <lb/>bourg, J. Mentelin, vers 1468), in-fol.
+          <lb/>G W 2873, Hain 1955, Pellechet 1471, Proctor 218, Voulliéme:
+          <lb/>Berlin 2093; Walter: Sélestat 44, Schorbach: Mentelin N° 10.
+          <lb/>K 414. Prov.: Librairie Trübner, Strasbourg, 22. VII. 1887,
+          <lb/>280 M. Note mss. au verso de l’avant dernier f. blanc.
+          <lb/>55
+          <lb/>12
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

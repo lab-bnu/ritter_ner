@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:07.458782+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3167.tif
+IMAGE WIDTH: 2316
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Augusti. 27. (Vign., die hauptsächlich in den früheren Drucken
+          <lb/>Jobins vorkommt.) Vorrede von 8 S. in Antig.; die 7 unn. Bll. am
+          <lb/>Schluss handeln von der Erziehung der Kinder, ebenfalls in Antiq.
+          <lb/>R 100.9551. Prov.: Lippert, Halle S. XII. 1887.
+          <lb/>GK: UB Breslau. BN Paris, X. 19861, zusammen mit Strigilis
+          <lb/>Grammatica 1594.
+          <lb/>919
+          <lb/>FRISCHLIN Nikodemus
+          <lb/>Strassburg, B. Jobins Erben 1598
+          <lb/>OPERVM POETICORVM NICODEMI FRI- SCHLINI, BALIN¬
+          <lb/>GENSIS, ... (2 Zeilen.)
+          <lb/>PARS SCENICA:) in qua sunt; COMOEDIAE SEX: RE¬
+          <lb/>BECCA. IVLIVS REDIVI. SVSANNA. PRISCIAN. VAPVL. HILDEGAR.
+          <lb/>HELVETIO GERM. TRAGOEDIAE DVAE : VENVS. DIDO.
+          <lb/>611
+          <lb/>Cùm occant alijs, Frischlinum toxica sanant:
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

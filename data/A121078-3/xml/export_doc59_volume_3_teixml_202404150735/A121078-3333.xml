@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:11.598297+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3333.tif
+IMAGE WIDTH: 2374
+IMAGE HEIGHT: 3856
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>775
+          <lb/>HERO Alexandrinus: Vocabula geometrica. In: EUCLIDES:
+          <lb/>Elementorum Liber primus. Strassburg, Chr. Mylius 1570. 1152
+          <lb/>HERODIANUS
+          <lb/>Strassburg, Matth. Schürer 1513
+          <lb/>HERODIANI HISTORICI GRAECI! Libri octo, in quibus hi
+          <lb/>Impe-ratores continentur.... (13 Zeilen.) ANGELO POLITIANO
+          <lb/>INTERPRETE.
+          <lb/>Am Schluss: ARGENTORATI. Ex aedibus Schürerianis.
+          <lb/>Mense Nouembri, ANN. M. D. XIII. Regnan. Caesa. Maxi¬
+          <lb/>miliano. P. F. Aug.
+          <lb/>40, Antiq,, 6 unn., LXXXV num., 1 unn. Bl., Kopft., Init.
+          <lb/>Auf der Rücks, des Titelbl.: S. Murrho Iunior Studiosis.
+          <lb/>Bl. A 2a: Angelus Politianus Andreae Magnanimo suo...
+          <lb/>— In rusculo Fesulano, Pridie No nas Maias, Anno
+          <lb/>salutis. M. cccc. Ixxxxiij. (2 S.)
+          <lb/>Bl. A Sa: PRAEFATIO. ANGELI POLITIANI AD INNOCEN
+          <lb/>TIVM. VIHI. PONTIFICEM MAXI( mvm... (2S.)
+          <lb/>*R101.874. Herkunft unbekannt.
+          <lb/>Bibl. Schmidt VIII Nr. 113; Walter: Schlettstadt Nr. 1487. 1153
+          <lb/>HERODIANUS
+          <lb/>Kolmar, A. Farkal 1523
+          <lb/>HERODIANI HISTORICI GRAE] ci Libri octo, in quibus
+          <lb/>hi im peratores continentur. M. Antonius Verus...
+          <lb/>L. Anton. Commodus... (Namen von 13 Kaisern.)
+          <lb/>Angelo politiano interprete.
+          <lb/>Colmariae AN. M. D. XXIII.
+          <lb/>Am Schluss: Colmariae, Ex aedibus Amandi Farcallii,
+          <lb/>Mense Decembri ANN. M. D. XXIII.
+          <lb/>80, Kursiv, 10 unn. Bll, 239 S., Kopft., Kust., Init., Titelumr.
+          <lb/>(H A B Tafel LXXIV Nr. 3), desgleichen Titelumr, 2u Beginn jedes
+          <lb/>Buches S. I, 41, 79, 115, 146, 166, 188, 219. Auf der Rücks. des
+          <lb/>letzten Bl. Druckerm. Farkals. (HEB Tafel LXXIII Nr. I; Sil¬
+          <lb/>vestre Nr. 903.)
+          <lb/>Auf der Rücks. des Titelbl.: AMANDVS FARCKALLIVS] LEC¬
+          <lb/>TORI SALVTEM... — Colmariae ex aedibus A- mandi Far¬
+          <lb/>callii. Anno Domini. M. D. XXIII.Decima octaua Mensis
+          <lb/>Nouembris.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

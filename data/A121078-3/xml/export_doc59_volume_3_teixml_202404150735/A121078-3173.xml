@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:07.559633+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3173.tif
+IMAGE WIDTH: 2316
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>617
+          <lb/>FUCHS Leonard: Annotationes de simplicibus. Siehe: BRUNFELS
+          <lb/>Otto: Novi Herbarii Tomus HI. Strassburg, J. Schott 1536. Nr. 301.
+          <lb/>FUCHS Leonhard
+          <lb/>Strassburg, H. Vogtherr 1539
+          <lb/>Alle Kranckheyt der Augen durch den hochge lerten
+          <lb/>Doctor Leonhart fuchsen zû Onoltz- bach zûsammen ge¬
+          <lb/>zogen allen augen artzten hochnöttig zû- wissen.
+          <lb/>(3 Epheubl.), darunter Druckerm. Vogtherrs (HR B Tafel XXXIV
+          <lb/>Nr. 2) mit je einem Kleebl, an beiden Seiten; desgleichen am Schlusse
+          <lb/>des Buches.
+          <lb/>Getruckt zû Straszburg durch Heinrich Vogtherren,
+          <lb/>Anno. M. D. XXXIX.
+          <lb/>4°, Deutsch, 16 unn. Bll., Sign. A-D, Kust., Init. A. Auf der
+          <lb/>Rücks, des Titelbl.: Abbildung eines Auges mit Benennung der verschie¬
+          <lb/>denen Teile desselben.
+          <lb/>R101405. Prov. I. Noiriel, Strassburg 17. V. 1892, 2 M. 50.
+          <lb/>GK: SB Berlin.
+          <lb/>927
+          <lb/>FULGENTIUS Episcopus Ruspensis
+          <lb/>Hagenau, Th. Anshelm 1520
+          <lb/>OPERA B. FVLGEN TII APHRI, EPISCOPI] RVSPENSIS,
+          <lb/>THEOLOGI ANTI qui. Nuper in vetustissimo codice apud
+          <lb/>Germanos! inuenta, obsoletis &amp;amp; Longobardicis literis con¬
+          <lb/>scri pta. Antea nunquam impressa. Nunc primum, ad re
+          <lb/>ctiorem veteris Theologiae institutionem, qua ut erudi¬
+          <lb/>tione intellectus, sic lingua eloquio &amp;amp; uita moribus cultior
+          <lb/>fiat, Deo auspice, pro desyderiis votisque multorum in
+          <lb/>lucem emissa.
+          <lb/>ITEM OPERA MA XENTH IOHANNIS, SERVI Dei, pulchra
+          <lb/>vetustatis Monumenta, in eodem Codice reperta.
+          <lb/>Index operum continuo pagina versa conspicitur.
+          <lb/>Am Schluss: Impressa in Hagenau, impensis Koberge¬
+          <lb/>rorum Norinbergen sium. In officina Thomae Anshelmi
+          <lb/>Anno XX.
+          <lb/>Druckerm. Anshelms (H&amp;amp; B Tafel LXII Nr. 2). (Rücks, leer.)
+          <lb/>20, Antiq., CII num. Bll. für Fulgentius u. XXXV für Maxen¬
+          <lb/>tius — 1 unn. Bl., Kopft., Kust., Marg.; grosse, schöne Init., Titelein¬
+          <lb/>fassung (Arabesken u. Meerungetüme; in der oberen Ecke Büste eines
+          <lb/>Kaisers u. einer Frau; in der Mitte Blumengewinde; unter der Kaiser¬
+          <lb/>büste Monogramm Schäufelins.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

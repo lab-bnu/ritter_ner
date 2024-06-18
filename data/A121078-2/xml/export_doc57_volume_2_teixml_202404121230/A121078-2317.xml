@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:35.972960+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2317.tif
+IMAGE WIDTH: 2314
+IMAGE HEIGHT: 3818
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>uestri,... 1562. 8. Cal. Decembris... Paulus Cherlerus
+          <lb/>Elsterburgensis. (5 p.)
+          <lb/>R102.010. Prov.: L. Rosenthal, Munich, 24/X1I. 1890, 3M50.
+          <lb/>Note mes., au bas du titre: 1563. Sum Ernesti Loheri. (?)
+          <lb/>Bibliographie de Cherlerus: Schottenloher No 2858-2860 475
+          <lb/>CHRONICA der alten christlichen Kirche. Voir: HEpio Caspar.
+          <lb/>CHRONICA, die Türkisch. Voir: ADELPHUS Joh.
+          <lb/>CHRONICA Venediger. Voir: MENGIN Nicolaus.
+          <lb/>CHRONICON ABBATIS VRSPERGENSIS. Voir: BURCHARDUS.
+          <lb/>313
+          <lb/>CHRYSOLORUS Manuel
+          <lb/>Strasbourg, J. Knobloch, 1516.
+          <lb/>’EPQTHMATA TOT XPYXOAQPA.
+          <lb/>Erotemata Chrysolorae.
+          <lb/>Toυ OTroμάρou anôto. (Distique grec.)
+          <lb/>Ottomari Luscinij Distichon. (Distique latin; Verso blanc.)
+          <lb/>A la fin: Excusus est Chrysoloras formulis Graecis
+          <lb/>Ar gentorati, in officina Ioannis Knoblouch calcographi
+          <lb/>Argentinensis Anno. M. CCCCC.XVI. Die. iij, mensis
+          <lb/>De- cembris. (Verso blanc.)
+          <lb/>In-4°, car, grecs, 34 ff. non ch. 1 f. blanc, sign. A-H, titre en¬
+          <lb/>cadré (Ornements d’architecture, colonnes, animaux, enfants grimpant
+          <lb/>sur des colonnes, bustes de femmes, monstres.) Voir: page suivante.
+          <lb/>R 101.304. Prov.: Ribliothèque Ch. Schmidt avec son ex-libris et
+          <lb/>un ex-bbris de Soyer-Willemet, pharmacien à Nancy, avec la devise:
+          <lb/>Vigilate Timentes. Notes mss. au verso du titre et dans le texte des 3
+          <lb/>premières pages.
+          <lb/>Brunet 15, col. 1894; Schmidt VII, NO 123, GPB. BU Bonn
+          <lb/>Gœttinque.
+          <lb/>476
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

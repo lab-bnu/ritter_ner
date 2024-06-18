@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:13.708188+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002493.tif
+IMAGE WIDTH: 2524
+IMAGE HEIGHT: 3964
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Historias : Urbes : Insulas : Fluvios &amp;amp; montes illustres.
+          <lb/>Diligenter denuo revisus. Item vocabula et interpreta¬
+          <lb/>tiones Graecorum &amp;amp; Hebraicorum... Anno M.D.XIIII. —
+          <lb/>(Strasbourg, Rèné Beck M.D.XIIII), in-40.
+          <lb/>Schmidt IV, p. 20, n° 14 [éd. Prüss 1505 et 1510, Gran 1507,
+          <lb/>1510, 1512, 1514, 1518; Hupfuff 1507, 1515 et 1516; R. Beck
+          <lb/>1514, 1516; Knobloch 1518 et 1520 : Ritter, Rép. nos 2334-
+          <lb/>23471.
+          <lb/>3350
+          <lb/>TORRENTINUS, Hermann : Syntaxis Joannis Despauterii... —
+          <lb/>Strasbourg, Mathias Schürer 1515, in-4°.
+          <lb/>Schmidt VIII, n° 162; Ritter, Rép. n° 633 à Despauterius. 3351
+          <lb/>TORRENTINUS, H. Voir aussi: ALEXANDER de Villa Dei,
+          <lb/>n° 802/3; VIRGILIUS, n° 3425.
+          <lb/>TOXITES, Michael : Spongia stibii adversus Lucae Stenglini
+          <lb/>medicinae doctoris et physici Augustani aspergines. —
+          <lb/>Strasbourg, Crato Mylius 1567, in-4°.
+          <lb/>Schottenloher 20.606.
+          <lb/>3352
+          <lb/>TOXITES, Michael : De Podagrae laudibus doctorum hominum
+          <lb/>lusus. — Strasbourg, Christian Mylius 1570.
+          <lb/>Ritter : Hist. Impr., p. 258.
+          <lb/>3353
+          <lb/>TOXITES, Michael : De tinctura Physicorum libellus. —
+          <lb/>Strasbourg, Christian Mylius 1574, in-4°.
+          <lb/>Ritter : Hist. Impr., p. 258.
+          <lb/>3354
+          <lb/>TOXITES, Michael. Voir: BERNARDUS Trevisanus, n° 985;
+          <lb/>CARRICHTER, n° 1300; NILUS (Episcopus), n° 2773;
+          <lb/>PARACELSUS, nos 2829, 2831; RITTER, Rép. nos 2348-
+          <lb/>2350.
+          <lb/>TOXITES, Michael : De secretis creationis. Von Heimlichkeiten
+          <lb/>der Schöpfung aller dingen. — Strasbourg, Christian
+          <lb/>Mylius 1575.
+          <lb/>Ritter : Hist. Impr., p. 258.
+          <lb/>3355
+          <lb/>491
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:58.753765+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5265.tif
+IMAGE WIDTH: 2422
+IMAGE HEIGHT: 3862
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1575
+          <lb/>Aegyptus, iisdem auctoribus. Praeterea Ioanne Leone arabe
+          <lb/>grammatico, secundum recentionem locorum situm, illustrata.
+          <lb/>Schondia, tradita ab auctoribus, qui in eius o-peris
+          <lb/>prologo memorantur.
+          <lb/>Holmiae, ciuitatis regiae Suetiae, deplorabilis exci¬]dij
+          <lb/>per Christiernum Datiae cimbricae regem, historia.
+          <lb/>Regionum superiorum, singulae tabulae Geogra-phicae.
+          <lb/>Argentorati ]l apud Petrum Opilionem. 11 M. D. XXXII.
+          <lb/>In-fol., car, rom., CXVI ff. ch., 18 ff. non ch. (8 grandes cartes à double
+          <lb/>pp. et Errata), titre courant, réclames.
+          <lb/>Au verso du titre : Petrus Schoeffer Moguntinus candidis inspectoribus.
+          <lb/>Ne quis culpet in hac nostra opera, spacia versuum largius explicata,
+          <lb/>&amp;amp; alios per frontes largiusculos titulos, satis contra morem excusorum
+          <lb/>per Germaniam librorum inductos, &amp;amp; calumnietur nos sequutos, aut
+          <lb/>inutilem elegantiam, aut per imposturam precium operi facere voluisse...
+          <lb/>fol. II. Illustrissimae et sublimi stemmate natae principi Renatae à
+          <lb/>Gallia, Ludovici xij. Francorum regis &amp;amp; Annae, secundum reginae Galliae,
+          <lb/>&amp;amp; Britanniae unicae heredis filiae, Ferrariae &amp;amp; Carnoti Duci, Gisorzij
+          <lb/>Comiti, Jacobus Zieglerus, Landavus, Il foelicitatem.
+          <lb/>R. 10.083. Prov. : Bibl. Edouard Reuss (1891), dont l’ex-libris se trouve
+          <lb/>à l’intérieur de la reliure. Au f. de garde: « Ex. J. G. Schweighaeuseri libris
+          <lb/>Nov. 1814. fr. 3 Ed. Reuss».
+          <lb/>Olschki, Florence, Catalogue LXXXI (1912), N° 250 : « Première
+          <lb/>édition d’un recueil de monographies sur les pays de l’Orient et ceux du
+          <lb/>Nord... 250 francs ».
+          <lb/>Brunet V5, 1535 : première éditiop in-fol., moins complète que l’édition
+          <lb/>[suivante) 1536.
+          <lb/>Bibliographie de Jacques Ziegler: Schottenloher II, N° 22947-22962.
+          <lb/>2525
+          <lb/>ZIEGLER Jacobus
+          <lb/>Strasbourg, W. Rihel, 1536
+          <lb/>Terrae san ctae, quam Palestinam no! minant, Syriae,
+          <lb/>Arabiae, Aegypti &amp;amp; Schondiae doctissima descriptio, unà cum
+          <lb/>singulis tabulis earundem regio-num topographicis, authore
+          <lb/>Iacobo Zieglero Landauo Bauaro.
+          <lb/>Holmiae plane regiae urbis calamitosissima clades ab
+          <lb/>eodem descripta. (8-10. Nov. 1520).
+          <lb/>Terrae sanctae!! altera descriptio iuxta ordinem al I] phabeti
+          <lb/>quae ad Scripturam proxime directa est, utilissi- ma etiam
+          <lb/>plebeio lectori, Vuolffgango!! Vueissenburgio pridie Academiae
+          <lb/>Basi-liensis Mathematico.dex, totius operis locuple¬
+          <lb/>tissimus, qui in!! priori aeditione desyderabatur.Elenchus,
+          <lb/>quo libro &amp;amp; capite Biblio-]] rum, &amp;amp; quoties singuli Palestinae
+          <lb/>loci continentur.
+          <lb/>Argentorati, apud Vuendelinum Rihelium, An.
+          <lb/>M. D. XXXVI. 11 Mense Septembri. (Verso blanc.).
+          <lb/>A la fin avant les tables (fol. CXLIIb) : Excusum, apud
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

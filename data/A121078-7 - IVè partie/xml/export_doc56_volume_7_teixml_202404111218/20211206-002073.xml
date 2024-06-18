@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:03.293327+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002073.tif
+IMAGE WIDTH: 2490
+IMAGE HEIGHT: 3974
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>medicinis opus praeclarum... (éd. Johannes Serapion).
+          <lb/>— Strasbourg, 1531, in-fol.
+          <lb/>BN Paris : Telss 5.
+          <lb/>1124
+          <lb/>BRUNFELS, Otto (De Simplicibus): Appendix de usu &amp;amp; admi¬
+          <lb/>nistratione Simplicium... — (Strasbourg, Jean Schott
+          <lb/>1539), in-fol.
+          <lb/>Scott (Schmidt II, Supplément) p. 18, n° 27.
+          <lb/>1125
+          <lb/>BRUNFELS. Voir aussi: HUTTEN n° 2108; LANFRANCUS
+          <lb/>n° 2270; (RITTER, Rép. nos 272-306).
+          <lb/>BRUNI, Leonardo : De bonis studiis Epistola ad Baptistam
+          <lb/>de Malatesta. — Strasbourg, Jean Knobloch 1521,
+          <lb/>in-4°. (Ne pas confondre avec l’édition du mois de
+          <lb/>novembre de Knobloch. B. N. Strasbourg R. 101.831,
+          <lb/>Ritter, Rép, n° 72 et Schmidt VII, n° 121).
+          <lb/>Panzer 6, 86, 599; Schmidt VII, n° 228; Steiff. Der erste
+          <lb/>Buchdruck in Tübingen, p. 245, n° 50.
+          <lb/>1126
+          <lb/>BRUNN des Rats : Disz ist der Brunn des radts usz welichem
+          <lb/>einn bekümerter oder ein betrüpter Mensch trost, radt
+          <lb/>unnd wyszheit... entpfahet. — (Strasbourg, Jean
+          <lb/>Grüninger vers 1500), in-4°.
+          <lb/>Hain 11074; Nijhoff (La Haye), Catal. 487, n° 297 : 20 florins.
+          <lb/>1126a
+          <lb/>BRUNN des Rats : Das ist der brun des Rades ausz welchem
+          <lb/>ein bekümmerter oder betrüpter mensch trost radt und
+          <lb/>wyszheit empfahet. — (Strasbourg, Math. Hupfuff 1504),
+          <lb/>in-4°.
+          <lb/>ALBERTANUS Caussidicus).
+          <lb/>1127
+          <lb/>BRUNN des Rats : (Idem). — (Strasbourg, Martin Flach 1508),
+          <lb/>in-4°.
+          <lb/>Kuczyaski, n° 296; Panzer, Annalen 288; Schmidt VI,
+          <lb/>p. 23, n° 20 : B N Strasbourg (manque depuis 1918).
+          <lb/>1128
+          <lb/>71
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

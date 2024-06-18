@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:53.669924+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5129.tif
+IMAGE WIDTH: 2344
+IMAGE HEIGHT: 3858
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1437
+          <lb/>In-4°, car, rom., 8 ff. non ch., CXLVI ff. ch., 2 ff. non ch. dont le dernier
+          <lb/>blanc, titre courant, notes marg., init. ornées C, P, S, H et init. d’attente,
+          <lb/>titre rouge et noir; encadrement de Hans Baldung Grien, dont le mono¬
+          <lb/>gramme se trouve en bas, dans le coin de droite.
+          <lb/>Au verso du titre : Benedicti Philologi Florentini!! praefatio super
+          <lb/>P. Terentij comœdijs : !! ad Petrum Crinitum.
+          <lb/>fol. A 2a-A 5a: Traité sur la Comédie.
+          <lb/>R. 100.081. Prov. : BN Munich, 10/IV, 1882; 0,30 M.
+          <lb/>Au f. du titre : Monasterij Andechs; de nombreuses annotations mss.
+          <lb/>dans le texte.
+          <lb/>Schmidt VII, N° 81.
+          <lb/>2286
+          <lb/>TERENTIUS Afer Publius
+          <lb/>Strasbourg, J. Knobloch, 1514
+          <lb/>P. TerentiusPoeta comicus in sua metra restitutus
+          <lb/>Cum elucubratiunculis Petri Marsi!! &amp;amp; adnotationibus margi¬
+          <lb/>narijs Pau li Malleoli adamussim exornatus.
+          <lb/>Ad Auctorem LibriIoan, Nib. Argen toracensis?
+          <lb/>(4 dist.) Anno domini. M. D. XIIII.
+          <lb/>Fol. CXLVID : ... per Ioannem Knoblouchium rei publicae
+          <lb/>litterato-riae haud quaque poenitendum chalcographum
+          <lb/>urbe! Argentipoli foelicem fortiuntur exitum deci-(] monono
+          <lb/>Kalendas Aprilis. 11 M. D. XIIII.
+          <lb/>In-4°, car. rom., 8 ff. non ch., CXLVI ff. ch. 4 ff. non ch. dont les
+          <lb/>3 derniers blancs, titre courant, notes marg., init. ornées C, P, S, le reste
+          <lb/>init. d’attente, titre rouge et poir, encadré : dans la bordure supérieure
+          <lb/>2 griffons tenant chacun une corne d’abondance; piliers ornés dans les
+          <lb/>bordures latérales; dans la bande inférieure, au milieu, 5 génies (dont
+          <lb/>un sonne la trompette), tirant et poussant un sixième couché sur un plat.
+          <lb/>Encadrement employé aussi par Prüss à Strasbourg et Thomas Anshelm
+          <lb/>à Haguenau.
+          <lb/>R. 100.079. Prov. : O. Harrassowitz, Leipzig (Catal. 57, N° 1127),
+          <lb/>28/x, 1879; 4 M.
+          <lb/>Au recto du f. de garde: « Iohannes Steiger von Bern»; plus bas:
+          <lb/>« Sam. Wyttenbach. Stud. Eloqu. 1765 »; annotations mss. dans le texte
+          <lb/>et à la fin.
+          <lb/>Kristeller 377; Schmidt VII No 88; Baer Francfort-sur-M. Catalogue
+          <lb/>500 (1907) N° 1297; 15 M.
+          <lb/>2287
+          <lb/>TERENTIUS Afer Publius
+          <lb/>Strasbourg, M. Schürer, 1516
+          <lb/>P. Terentii Aphri Poe! tae comici Lepidissimi.
+          <lb/>Andria.Eunuchus.Heautontimorumenos.Adelphi.
+          <lb/>Phormio.Ecyra.Recognitae nuper, &amp;amp; castiga tissime
+          <lb/>impressae.
+          <lb/>Sunt his adiecta nonnulla alia, haud qua quam inutilia
+          <lb/>futura studiosis.! quae cuiusmodi sint, se- quenti epistolis
+          <lb/>annotatur. In libera Ar- gentina.
+          <lb/>A la fin, avant l’Index (fol. CXXXVIb) : Argentorati, Apud
+          <lb/>Matthiam Schure-rium, Mense Ianuario. Anno!! M. D. XVI.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

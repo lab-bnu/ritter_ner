@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:44.808416+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078074.tif
+IMAGE WIDTH: 2326
+IMAGE HEIGHT: 3842
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>960
+          <lb/>ARGENTORATI GEORGIO VLRICHERO( Andlano Impressore,
+          <lb/>An. M. D. XXXV. Mense Martio. (Verso blanc.)
+          <lb/>A la fin: ARGENTORATI APVD GEORGIVM VLRICHERVM
+          <lb/>ANDLANVM, I MENSE MARTIO, ANNO) M. D. XXXV.
+          <lb/>In-fol., car. rom., 4 ff. non ch. dont le dernier blanc, 453 ff. ch.
+          <lb/>et 2 ff. blancs, titre courant, récl., notes marg., init. à fig. Au verso de
+          <lb/>l&amp;#x27;avant-dernier f. blanc, marque typ. de G. Ulricher. (H 6B Planche
+          <lb/>XXII n° 4; Silvestre n° 736.)
+          <lb/>Fol. 2a non ch.: Martini Lutheri! Praefatio in Postillas. (Préface
+          <lb/>d’une p. et demie.)
+          <lb/>Fol. 3a non ch.: Lectionum Ex Epistolis Et Evangeliis quae,
+          <lb/>tam diebus festis Divis, quàm! Dominicis solent legi, Index. (2 pp.) Suit
+          <lb/>1 f. blanc. La table à 2 col. de l’édition Herwagen 1528/E 11.046 man¬
+          <lb/>que dans mon exemplaire, qui semble être incomplet.
+          <lb/>&amp;quot;RI0.284. Prov.: Rosenthal, Munich 9/x1883; 24 M. Notes mss.
+          <lb/>Au verso du dernier f. blanc: 15E50 15 B50. Gott verleih Gnadt. Gott
+          <lb/>wird Dein ewig. Balthasar b. Thanhausen. Austrasina b. Thanhausen.
+          <lb/>Sur la couverture au milieu, aigle impériale avec une couronne au dessous
+          <lb/>de la tête; plus haut les lettres M. D., au dessous de l’aigle XXXVII
+          <lb/>(probablement 1537).
+          <lb/>1444
+          <lb/>Londres Brit. Museum 3266. gg. 12.
+          <lb/>LUTHER Martin
+          <lb/>Haguenau, P. Brubach 1535
+          <lb/>IN EPI] STOLAM S. PAVLI] ad Galatas Commentarius
+          <lb/>ex praelectione D. Mar tini Luth, collectus.! Vitebergae.
+          <lb/>M. D. XXXV. ( ... (5 lignes.)
+          <lb/>A la fin: HAGANOE IN AEDIBVS! PETRI BVRBACHII. ] ANNo
+          <lb/>M. D. XXXV. (Verso blanc.)
+          <lb/>In-8°, car. ital., 448 ff. ch., les 8 premiers ff. (Préface et Index)
+          <lb/>ne sont pas chiffrés, la pagination commence avec chiffre 9, fol. 9, titre
+          <lb/>courant, récl., notes marg., init. V, P, titre encadré. (HRB Planche
+          <lb/>LXIX n° 2.) Au verso du titre: Praefatio! D. Martini Lu! theri. (6 pp.)
+          <lb/>*RI01.232. Prov.: Rettig, Strasbourg 2/XI 1894; 4 M. Notes
+          <lb/>mss.
+          <lb/>1445
+          <lb/>LUTHER Martin
+          <lb/>Strasbourg, J. Albrecht 1536
+          <lb/>ENARRATIO D. MARTINI LVTHERIIN] TRES PROPHETAS,
+          <lb/>Iohelem, Amos, &amp;amp; Abdiam.Nunc primum in lucem
+          <lb/>edita. ACCESSIT AEDITIONI HVIC! Index locupletissimus.
+          <lb/>ARGENTORATI, ANNO! M. D. XXXVI.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

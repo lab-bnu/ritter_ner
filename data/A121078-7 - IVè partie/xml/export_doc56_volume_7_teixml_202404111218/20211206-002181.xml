@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:06.360328+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002181.tif
+IMAGE WIDTH: 2506
+IMAGE HEIGHT: 3964
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>eigentlicher Bericht von der Herrlichen Victori, so die
+          <lb/>Königliche May, in Franckreich wider den Hertzog
+          <lb/>von Mayne und die Ligischen, den 14. tag Martij dieses
+          <lb/>1590. Jars in der Schlacht bei Jury erhalten. Psalm XX...
+          <lb/>3 strophes à 4 vers). Ausz dem Frantzösischen tran¬
+          <lb/>ferirt (sic) und ins Teutsch gebracht. 1590. — [Strasbourg,
+          <lb/>Bern. Jobin) 1590, in-4°. (Attribué par quelques-uns à
+          <lb/>Fischart).
+          <lb/>Hauffen, Fischart-Studien dans Euphorion X, p. 21/22:
+          <lb/>Breslau.
+          <lb/>1709
+          <lb/>FISCHART, Joh. Voir: EULENSPIEGEL Reimensweis (1572)
+          <lb/>n° 1658.
+          <lb/>FISCHART, Joh. Voir : EUSTACHIUS : Histori von der Lieb
+          <lb/>des Jünglings Ismeni, n° 1666.
+          <lb/>FISCHART, Joh. : Flöh Hatz Weiber Tratz... — (Strasbourg,
+          <lb/>Bernard Jobin 1573), in-80.
+          <lb/>Goedeke 112, p. 492, n° 8; Wendeler, Camille : Der Flöhhatz,
+          <lb/>Neudrucke des XVI. u. XVII Jhds, n° 6. Hauffen : Fischarts
+          <lb/>Werke [Deutsche National-Litteratur XVIII, 1), p. X-XVI.
+          <lb/>1710
+          <lb/>[FISCHART, Joh.) (Idem): Durch Hultrich Elloposcleron,
+          <lb/>auf ein neues abgestossen und behobelt... — (Strasbourg,
+          <lb/>Bernard Jobin 1577), in-80.
+          <lb/>Goedeke II2, p. 492, n° 8; Hauffen : ibidem, p. XVI-XXIII.
+          <lb/>1711
+          <lb/>FISCHART, Joh. (Idem). — Strasbourg, Bernard Jobin
+          <lb/>héritiers 1594, in-8°.
+          <lb/>Goedeke I12, p. 492, n° 8 : « Diese Ausgabe so wie die von
+          <lb/>1578 sind fast völlig gleich mit der Ausgabe von 1577»;
+          <lb/>Hauffen, loc. cit., p. XX.
+          <lb/>1712
+          <lb/>FISCHART, Joh. (Gargantua) : Affenteurliche und Ungeheur¬
+          <lb/>liche Geschichtschrift Vom Leben, rhaten und Thaten der
+          <lb/>179
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

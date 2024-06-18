@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:04.623791+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002121.tif
+IMAGE WIDTH: 2502
+IMAGE HEIGHT: 3978
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>CICERO : M. T. C. Tusculanarum Quaestionum Libri Quinque.
+          <lb/>— (Strasbourg, Math. Schürer, novembre 1514), in-4°.
+          <lb/>Panzer 6, 68, 339; Schmidt VIII, n° 144: Dresde féd. Schürer
+          <lb/>1511, 1516 : Ritter, Rép. nos 487 et 493).
+          <lb/>1391
+          <lb/>CICERO (Verrina): Verrina sexta. — Strasbourg (Josias Rihel)
+          <lb/>vers 1570), in-40.
+          <lb/>B U Fribourg-en-Br. : D 5886 (Communication de M. Rest).
+          <lb/>1392
+          <lb/>CICERO. Voir aussi : AMBROSIUS, S. n. 814; AMERBACH n° 815;
+          <lb/>BOLERUS, Mart, n° 1028; BRENTIUs, Joh, n° 1069;
+          <lb/>BRUNFELS n° 1103; JUNIUS, Melchior n° 2170; ERx¬
+          <lb/>THRAEUS n° 1636; LOCHER, Jac. n° 2416; METZLER,
+          <lb/>Joh. n° 2675a; RICcIUs n° 3109; (RITTER, Rép. nos 485-
+          <lb/>539), STURM, Joh. n° 3287; VIVES, Joh. Lud, n° 3434.
+          <lb/>CILICIUS, Christian; Belli Dithmarsici, ab inclyto Daniae
+          <lb/>rege Friderico II et illustrissimis Holsatiae Ducibus,
+          <lb/>Johanne et Adelpho fratribus, gesti anno... 1559, vera
+          <lb/>descriptio, duobus libris comprehensa. — Strasbourg,
+          <lb/>Bernard Jobin 1574, 2e éd. in-8°. (Parut d’abord à Bâle,
+          <lb/>chez Samuel Regius en 1570).
+          <lb/>Schottenloher 36.574.
+          <lb/>1393
+          <lb/>CINGULARIUS, Hieronymus (Gürtler): Tersissima latini
+          <lb/>eloquii Synonymorum collectanea... — (Strasbourg,
+          <lb/>René Beck 1518), in-4°.
+          <lb/>Panzer 6, 90; Schmidt IV, p. 25, n° 28 ; jadis Bibl. de
+          <lb/>Strasbourg, Incun. n° 1398 et Bibl. S. Guillaume Strasbourg.
+          <lb/>(Ritter : Rép. n° 1066; éd. sans impr. 1519 et n° 1067; éd.
+          <lb/>Mart. Flach 1522l.
+          <lb/>1394
+          <lb/>CIRKEL : Der Mannen-Frauwen-Junggesellen und Jungfrauen¬
+          <lb/>Cirkel. — Mulhouse, Pierre Schmid s. d. [vers 1560),
+          <lb/>in-4°.
+          <lb/>Goedeke I12, p. 461, n° 5; Graesse IV, p. 257. [Peut-être
+          <lb/>119
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

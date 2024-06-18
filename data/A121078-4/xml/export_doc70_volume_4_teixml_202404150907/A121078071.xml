@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:44.578116+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078071.tif
+IMAGE WIDTH: 2334
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>A la fin: Haganoae per Iohan. Secerium.! M. D. XXIX.
+          <lb/>(Verso blanc.)
+          <lb/>In-8°, car. ital., les titres des chapitres en car, rom., 136 ff. non
+          <lb/>ch., sign. A-R, titre courant, récl., grande init. à fig. I avec un génie
+          <lb/>au milieu; titre encadré (H e B Planche LXIX n° 2).
+          <lb/>Fol. A 2a: Epistola !... Principi... Alberto Iuniori, Marchi-! oni
+          <lb/>Brandenburgensi... Vincen! tius Obsopœus... — Ex Onoltzpachio Kalen¬
+          <lb/>dis Iulii. Anno M. D. XXIX. (4 pp. et demie.)
+          <lb/>Fol. A 4a: Martini  Lutheri, in Cate- chismum Praefatio. (1 p.
+          <lb/>et demie.)
+          <lb/>*Rio1.965. Prov.: Guill. Schole, Brunswig 30/111 1897; 50 M.
+          <lb/>Notes mss. «liber heynonis in uckel ultzensis olim abbatis 1732., Fol.
+          <lb/>4 2a: Ministerial Bibliothek Uelzen.
+          <lb/>1440
+          <lb/>LUTHER Martin
+          <lb/>Strasbourg, G. Ulricher 1530
+          <lb/>ENARRATIONES SEV POSTILLAE MARTINI LUTHERI IN
+          <lb/>LECTI ! ones, quae ex Evangelicis historiis, Apostolorum
+          <lb/>scriptis, aliisque S. Scripturae literis desumptae, per uni¬
+          <lb/>versum annum, tam in die bus Dominicis, quàm Divorum
+          <lb/>memoriae sacris, super Missam faciendum, recitantur, ad
+          <lb/>Iohan. Hervagii! exemplar, fidelius tamen atque diligentius
+          <lb/>quam antehac recognitae &amp;amp; excusae. (Marque typ. de Georges
+          <lb/>Ulricher. HAB Planche XXII nO 2.)
+          <lb/>ARGENTORATI GEORCIO VLRICHERO! Andlano Impressore,
+          <lb/>An. M. D. XXX. Mense Augusto. (Verso blanc.)
+          <lb/>A la fin: ARGENTORATI APVD GEORGIVM VLRICHERVM
+          <lb/>Andlanum,! Mense Septembri, ! ANNO XXX.
+          <lb/>In-fol., car. rom., 10 ff. non ch., 455 ff. ch., 2 ff. blancs, tître cou¬
+          <lb/>rant, récl., notes marg., init. à fig.
+          <lb/>Au verso du dernier f. blanc, marque typ. de G. Utricher. (HCB
+          <lb/>Planche XXII n° 1; Silvestre n° 1210.)
+          <lb/>Fol. A 2a: Martini Lutheri Praefatio in Postillas. (Préface d’une
+          <lb/>page.) Au verso: Index! Locorum Nobi ! lium... (13 pp. à 2 col.)
+          <lb/>Fol. B 3a non ch.: Lectionum ex! Epistolis et Evangeliis! quae,
+          <lb/>tam diebus festis Divis, quam Dominicis! solent legi, Index. (1 p. et
+          <lb/>demie.) Suit 1 f. blanc.
+          <lb/>*R10.283. Prov.: C. H. Beck, Nœrdlingen 13/x1 1883; 10 M. 50.
+          <lb/>BN Paris, D2. 40.182; Bibl. St. Guillaume, Strasbourg. 1411
+          <lb/>LUTHER Martin
+          <lb/>Strasbourg, W. Kœpfel 1531
+          <lb/>Postill! Oder Auszlegun gen der Evange! lien und
+          <lb/>Episteln nach derzeyt, und der heyligen fest, durchs
+          <lb/>gantze jar, gepredigt durch D. M. Luther.
+          <lb/>957
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

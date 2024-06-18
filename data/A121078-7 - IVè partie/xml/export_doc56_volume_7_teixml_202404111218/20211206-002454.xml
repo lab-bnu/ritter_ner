@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:13.020190+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002454.tif
+IMAGE WIDTH: 2502
+IMAGE HEIGHT: 4004
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>SABINUS, Georgius : Poemata. — Strasbourg 1538, in-80.
+          <lb/>Goedeke II2, p. 93, n° 24 (4). [Une éd. Crato Mylius 1544:
+          <lb/>Ritter, Rép. n° 2051l.
+          <lb/>3144
+          <lb/>SACHS, Hans : Ein hüpsch Spil vonn einem alten Wittling.
+          <lb/>T. B. [— Th. Berger, Strasbourg), entre 1565-70, in-8°.
+          <lb/>Vogeleis, p. 315.
+          <lb/>3145
+          <lb/>SACHS, Hans. Voir: LIED (ein neüw), n° 2328; LIEDER (zwei
+          <lb/>schöne geistliche) n° 2387. PILGERSCHAFT der Christen,
+          <lb/>no 2909. [Hans Sachs, voir aussi; Ritter, Rép. no
+          <lb/>2054].
+          <lb/>3146
+          <lb/>SACROBUSTO. Voir: JOHANNES de Sacrobusto.
+          <lb/>SADOLETUS, Jacobus : Interpretatio in Psalmum Miserere
+          <lb/>mei Deus. — Haguenau, J. Secer 1526, in-8°.
+          <lb/>Burg, n° 403. [B N Strasbourg R I01.161 : Ritter, Rép, n° 2055).
+          <lb/>3147
+          <lb/>SADOLETUS, Jacobus : Epistolae de dissidiis religionis... —
+          <lb/>Strasbourg, Crato Mylius, septembre 1539, in-8°.
+          <lb/>Ritter: B M Strasbourg, n° 1866. [Sadoletus voir aussi:
+          <lb/>Ritter, Rép. nos 2055-2057).
+          <lb/>3148
+          <lb/>SALAT, Hans : Ein warhafftige history ausz dem heiligen
+          <lb/>Evangelio Luce am XVI. Cap. Von dem reychen mann
+          <lb/>und armen Lazaro. Gespilt zu Zürgch von einer loblichen
+          <lb/>Burgenschafft. — (Mulhouse, Pierre Schmid vers 1560),
+          <lb/>in-8°. Voir Coudre et Werner.
+          <lb/>3149
+          <lb/>SALM (Julius, Comes) : Anathema sive arae sepulcrales
+          <lb/>inclytae familiae Salmensis : auspiciis Julii Comitis
+          <lb/>Salmae positae Viennae Austriae in aede D. Dorotheae.
+          <lb/>Cum Elogiis et Epitaphiis Nicolai Reusneri. —
+          <lb/>Strasbourg, Antoine Bertram 1586, in-8°.
+          <lb/>3150
+          <lb/>452
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

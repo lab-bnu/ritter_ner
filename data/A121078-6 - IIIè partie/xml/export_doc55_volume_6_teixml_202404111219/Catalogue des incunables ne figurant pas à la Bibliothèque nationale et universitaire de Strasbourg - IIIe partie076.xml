@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:06.282813+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie076.tif
+IMAGE WIDTH: 2482
+IMAGE HEIGHT: 3952
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>MENNICKEN, Carolus : Formule epistolarum domini Karoli.—
+          <lb/>(Strasbourg, Martin Schott 28, VI.] 1487, in-4°.
+          <lb/>Hain 10670; Ritter, Rép. Inc. 295; Scott, Suppl. Schmidt II,
+          <lb/>n° 6. — Londres, Brit. Mus, et Bibl. S. H. Scott, Oxford. 475
+          <lb/>MENNICKEN, Carolus : Formulae epistolarum domini Karoli. —
+          <lb/>(Strasbourg, Martin Schott 11, I.] 1490, in-4°.
+          <lb/>Hain 10674; Proctor 402; Scott (Schmidt II, Suppl.) n° 14. —
+          <lb/>Oxford, Bodleian Libr. et Bibl. S. H. Scott.
+          <lb/>476
+          <lb/>MENNICKEN, Carolus : Formulae epistolarum. — (Strasbourg,
+          <lb/>Jean Grüninger 21, I.] 1490, in-4°.
+          <lb/>Hain 10675; Voulliéme : Berlin 2281.
+          <lb/>477
+          <lb/>MENNICKEN, Carolus : Formulae epistolarum. — (Strasbourg,
+          <lb/>impr. des Casus breves — Georges Husner] 1493, in-4°.
+          <lb/>Hain 10679; Proctor 735; Voulliéme : Berlin 2520, 8. 478
+          <lb/>MENTELIN, Johannes. (Bücheranzeige der Erstausgabe von
+          <lb/>Astesanus : Summa de casibus conscientiae). —
+          <lb/>(Strasbourg, Jean Mentelin, au commencement de
+          <lb/>1469), Placard in-fol. 204 x 198 mm.
+          <lb/>Copinger II, 715 — 3987; Proctor 221; Schorbach : Mentelin
+          <lb/>I1 a et I1 b: « Von dieser ersten Bücheranzeige sind noch zwei
+          <lb/>Abdrucke vom gleichen stehengebliebenen Satze erhalten.
+          <lb/>Beide Abzüge sind rubriziert und in den beiden ist das zweite
+          <lb/>Wort am Anfang «emere» handschriftlich in «legere»
+          <lb/>abgeändert». Das erste Ex. ist kurz erwähnt: Einblattdrucke
+          <lb/>999. b) Das zweite Ex. bisher unbekannt: B N Strasbourg,
+          <lb/>eingeklebt auf der Innenseite des Vorderdeckels von Mente¬
+          <lb/>lins 2. Astesanus Ausgabe (Hain 1889)».
+          <lb/>479
+          <lb/>MENTELIN, Joh. (Bücheranzeige II. Sammelanzeige). —
+          <lb/>(Strasbourg, Jean Mentelin pas après 1471), in-80.
+          <lb/>Einblattdrucke 1000; Schorbach : Mentelin no 21. Ex. unique
+          <lb/>BN Munich.
+          <lb/>480
+          <lb/>74
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

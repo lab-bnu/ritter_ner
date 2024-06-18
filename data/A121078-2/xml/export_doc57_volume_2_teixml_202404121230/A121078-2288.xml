@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:35.168134+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2288.tif
+IMAGE WIDTH: 2296
+IMAGE HEIGHT: 3816
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>284
+          <lb/>CAPELLA Galleacius
+          <lb/>Haguenau, P. Brubach, 1535.
+          <lb/>COMMEN TARII GALEACH CAPELLAE de rebus gestis
+          <lb/>pro restitutione Francisci H. Mediolanensium Du cis,
+          <lb/>nuper ab ipso auctore re- cogniti, &amp;amp; antea impressis
+          <lb/>emendiatores.
+          <lb/>Marque typ. de P. Brubach (HEB, Planche LXIX, NO 4.)
+          <lb/>Haganoe M. D. XXXV. (Verso blanc.)
+          <lb/>A la fin: HAGANOE EX OFFICINA Petri Brubacchij Anno
+          <lb/>Domini M. D. XXXV. decima tertia die Mensis Julij.
+          <lb/>(Verso blanc.)
+          <lb/>In-8°, car, rom., OXX ff. ch., titre courant, réclames au verso des
+          <lb/>ff, initiales à fig.
+          <lb/>fol. a 2a: Préface de l’auteur à François II:»Mediolanensium
+          <lb/>Ducem“. (4 pages.)
+          <lb/>R101545./1) Prov. : Don de la ville de Schweinfurt 1871. Rel. anc.
+          <lb/>BU Fribourg en Br. G 5632; GPB: Berlin BN, Gœttingue
+          <lb/>BU, Greifswald BU.
+          <lb/>428
+          <lb/>CAPELLA Galeacius, Kryegszhändel. Voir: EPPENDORF, Römi¬
+          <lb/>scher Historien Bekürtzung.
+          <lb/>Strasbourg, J. Schott, 1536
+          <lb/>CAPELLA Galleacius
+          <lb/>Strasbourg, Cr. Mylius, 1538
+          <lb/>COMMEN- TARII CALEACI CAPELLAE, de rebus gestis
+          <lb/>pro restitutione Francisci Sfortiae H. Mediolani Ducis, ab
+          <lb/>ipsomet authore postremo recogniti, plurimisque in locis
+          <lb/>à priore aedi- tione mutati, ut planè diuersi uideri
+          <lb/>possint. EODEM ACCESSIT ET HISTO ria belli Musziani,
+          <lb/>quasi appendix superiorum. unà cum Præfatione loachimi
+          <lb/>Camerarij.
+          <lb/>Marque typ. de Mylius (HE B, Planche XXVI, NO 1a).
+          <lb/>(Verso blanc). Au-dessous: M. D. XXXVIII.
+          <lb/>A la fin: ARGENTORATI APUD CRATONEM MYLIUM MENSE
+          <lb/>MARTIO, ANNO M. D. XXXVIII.
+          <lb/>In-8°, car. ital., 8 ff. non ch., 235 p. ch. ou plutôt 234 parce que
+          <lb/>la pagination commence avec le chiffre 2, 2 ff. blancs dont le dernier a
+          <lb/>au verso la marque typ. de Mylius (HEB, Planche XXVI, NO 4),
+          <lb/>titre courant, réclames, initiales à fig. L, C, E, P, D et initiales orrées.
+          <lb/>fol. 2a: Christophoro Scheurlae... Ioachimus Came.
+          <lb/>S. D.... — Tubingae Id. Februarij. (3 p.)
+          <lb/>fol. 3b: Adolescenti Hyppolyto Maino... Gaudentius Meru¬
+          <lb/>la... — Mediolani XV. Kal. Maias AnnoM.D.XXXVII.
+          <lb/>R101544. Prov.: Don de la BU Tubingue 1871.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

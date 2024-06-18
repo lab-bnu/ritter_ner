@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:10.956555+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002357.tif
+IMAGE WIDTH: 2480
+IMAGE HEIGHT: 3974
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>MELANCHTHON, Phil. (Daniel) : Danielis enarratio. Praefatio
+          <lb/>ad regem Ferdinandum. — Haguenau, J. Secer 1529,
+          <lb/>in-80.
+          <lb/>Burg, n° 306.
+          <lb/>2630
+          <lb/>MELANCHTHON, Phil. (Declamationes) : Declamationum
+          <lb/>omnium, quae ab ipso et aliis in Academia Wittebergensi
+          <lb/>recitatae sunt... — Strasbourg 1566-69, 7 vol. in-40.
+          <lb/>Graesse IV, p. 468.
+          <lb/>2631
+          <lb/>MELANCHTHON, Phil. (Declamationes) : Declamationum
+          <lb/>omnium quae ab ipso et aliis in Academia Wittebergensi
+          <lb/>recitatae sunt, optime ordine in tres tomos dist. T. I-III.
+          <lb/>opera et studio M. Joh. Richardii. — Strasbourg 1570,
+          <lb/>in-8°.
+          <lb/>Graesse IV, p. 468. [Ritter, Rép, nos 1558-1560: Th. Rihell.
+          <lb/>2632
+          <lb/>MELANCHTHON, Phil. (Dialectica) : .. De Dialectica libri
+          <lb/>quatuor, ab authore postremo recogniti... [Marque typ.
+          <lb/>de Crato Mylius). — (Argentorati, apud Cratonem
+          <lb/>Mylium, mense martio) M.D.XXXVIII (1538), in-8°.
+          <lb/>Bibl. S. Guillaume, Strasbourg; Walter : Sélestat no 1860.
+          <lb/>(Ritter, Répertoire bibliogr, n° 1536 ; éd. Crato Mylius 1539.
+          <lb/>2633
+          <lb/>MELANCHTHON, Phil. (Dispositio) : Dispositio orationis in
+          <lb/>Epistola Pauli ad Romanos. — Haguenau, J. Secer
+          <lb/>1529, in-80.
+          <lb/>Burg, n° 305. Gr. Sém. Strasbourg no 332.
+          <lb/>2634
+          <lb/>MELANCHTHON, Phil. (Dispositio) : Dispositio orationis in
+          <lb/>epistola Pauli ad Romanos. A la suite de: AGRICOLA,
+          <lb/>Joh. : Epistola sancti Pauli ad Titum.
+          <lb/>Haguenau, Secer 1530.
+          <lb/>2635
+          <lb/>355
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

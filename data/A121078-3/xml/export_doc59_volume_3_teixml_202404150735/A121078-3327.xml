@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:11.499774+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3327.tif
+IMAGE WIDTH: 2366
+IMAGE HEIGHT: 3858
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>HERBARIUS
+          <lb/>Strassburg, B. Beck 1528
+          <lb/>Das kreuter bûch oder Herbarius. Das bûch von
+          <lb/>allen kreüttern, wurtzlenvnd andern dingen, wie mans
+          <lb/>bruchen soll zû ge- sundtheit der menschen, von neüwem
+          <lb/>corrigiert vnd gebessert. Item wie man verston soll
+          <lb/>die gradus. Als vann man liszt, das kraut ist warm,
+          <lb/>kalt, trucken, oder feücht. &amp;amp;c. Am ersten, andern, drit¬
+          <lb/>ten, oder vier-den grad, vor nit jm truck] auszgongen.
+          <lb/>M. D. xxviij.
+          <lb/>Am Schluss : End disz Kreüter bûchs. Getruckt 1 zû
+          <lb/>Straszburg durch Balthassar! Beck an dem Holtzmarckt.
+          <lb/>Jn dem jar nach der geburt! Christi, als man zalt] fünff¬
+          <lb/>zehenhundert vnd) acht vnd zwentzig.) Am achtzehenden
+          <lb/>tag des Augst! monats. (Rücks. leer.)
+          <lb/>2°, Got., 2sp., 18 unn. (Index, 3sp.), CLXI num. u. 6 unn. Bll.,
+          <lb/>Init., Titelrahmen, oben rechts u. links je ein Mann, sitzend; seitlich
+          <lb/>links Galenus, rechts Askulap; unten ein Kaufmann an einem Tische
+          <lb/>sitzend; er hält in der Hand eine Waage; vor dem Tische eine Frau,
+          <lb/>avelche Kräuter einkauft; links von ihr sitzt eine andere Frau, rechts
+          <lb/>vom Kaufmann ein Mann, der in einem Tigel rùhrt. Zahlr. Abb. von
+          <lb/>Pflanzen.
+          <lb/>Auf der Rücks, des Titelbl.: Zù dem leszer, (Vorrede.) Dahinter
+          <lb/>Index (15 Bll., 2sp.).
+          <lb/>Darunter Kleiner Holeschn.: ein Apotheker in der Hand eine Fla¬
+          <lb/>sche haltend, neben ihm eine Frau mit einem Korbe.
+          <lb/>R 10.4132. Geschenk der Königl. Bibl. Stuttgart 1871. Handschr.
+          <lb/>Notizen. Das letzte Bl. mit dem Explicit ist stark beschädigt.
+          <lb/>2. Ex. R 553. Prov.: Bibl. Hermanniana, Strassburg, mit handschr.
+          <lb/>Notizen Hermanns: «Bibliothecae Hermannianae Argentorati... Icones hae
+          <lb/>plantarum sunt eaedem cum illis horti Sanitatis, sed alio ordine digestae
+          <lb/>&amp;amp; textu plane alio.» Darunter: Nunc video etiam non omnes icones esse
+          <lb/>easdem. Artemisia quae hic primo capite locata est, ibi Capite XXXIX in
+          <lb/>editione mea latina occurrit, &amp;amp; sane diversa.
+          <lb/>Abrotanum utrobique capite secundo, icon. eadem. Sermo diversissimus.
+          <lb/>Absinthium hic et istic capite tertio. Sermo plane alius.
+          <lb/>Alläum Cap. IV. istic Cap. XIV. figura eadem. In universum video
+          <lb/>in hac germanica plura nomina cumulari apud varios usitata: negligi
+          <lb/>magis ea quae non sunt practica.
+          <lb/>Agrimonia Cap. V. ibi IX. icon. eadem.
+          <lb/>Apium Cap. Vl. ibi XXXIII. figura eadem....
+          <lb/>,Von einer Ausgabe des Herbarius. Augsburg 1485. gross folio.
+          <lb/>S. Panzers Annalen der ältern deutschen Literatur Nr. 219.
+          <lb/>Fehlt bei Schmidt u. Schreiber.
+          <lb/>1139
+          <lb/>R. 49
+          <lb/>769
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

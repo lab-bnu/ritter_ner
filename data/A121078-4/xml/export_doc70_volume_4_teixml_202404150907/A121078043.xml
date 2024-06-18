@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:43.780638+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078043.tif
+IMAGE WIDTH: 2348
+IMAGE HEIGHT: 3842
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>nis Knoblouch. Anno a salute christiano! M. D. XVII.
+          <lb/>A la fin: Excusum Argentorati typis solertis uiri Ioan¬
+          <lb/>IIII. Kalend, aprilis.
+          <lb/>titre encadré de 4 pièces juxtaposées, dans la bordure supérieure: orne¬
+          <lb/>In-4°, car, rom., 22 ff. non ch. dont le dernier blanc, sign. A-E,
+          <lb/>ment d’architecture, dans chaque coin un cygne, dans les bordures laté¬
+          <lb/>rales des colonnes sur lesquelles grimpent des enfants nus, en bas des
+          <lb/>un génie. (Voir p. 926.)
+          <lb/>Au verso du titre : Clarissimo iureconsulto, Laurentio Hell Diui
+          <lb/>Petri Iu- nioris Argentinensis Decano meritissimo... Ottomarus Lusci¬
+          <lb/>nius Argentinus S. D....
+          <lb/>R100.044. Prov. : Bibl. Ch. Schmidt, Strasbourg avec son ex-libris.
+          <lb/>Proctor II Sectio I n° 10108: Londres Brit. Museum; Schmidt
+          <lb/>VII n° 139: «Jadis Bibl. de Strasbourg, Incun. n° 3164b.» 1389
+          <lb/>LUCIANUS
+          <lb/>[Strasbourg, M. Schurer] 1518
+          <lb/>LVCIANI PI SCATOR, SEV REVI- I viscentes, Bilibaldo
+          <lb/>Pirckhey- mero, Caesareo Consiliario, Patricio ac Sena¬
+          <lb/>tore! Nurenbergensi! interprete.!,Eiusdem Epistola
+          <lb/>Apologetica... (Au-dessous : Vers de Pindare.)
+          <lb/>A la fin: Anno Nativitatis Dei. M. D. XVIII. mense
+          <lb/>Ianuarii, (Verso blanc.)
+          <lb/>In-4°, car. rom., 52 ff. non ch., sign. a-i, notes marg. Encadre¬
+          <lb/>ment du titre propre à Schürer; les caractères concordent aussi avec
+          <lb/>ceux de Schürer.
+          <lb/>Au verso du titre:... Doctori Laurentio Beheym Diui Stepha- ni
+          <lb/>Babenbergae Canonico Bilibaldus Pirck-] heimer. S. D.... — Ex Aodibus
+          <lb/>nostris tertio ka- lendas Septembris, Anno) redemptionis nostrae.
+          <lb/>M. D. XVII.
+          <lb/>R100.043. Prov.: Bibl. Bœcking 1872. Note me.: «Dialogus,
+          <lb/>interlocutores Joannes Reuchlin et Georgius Benignus.»
+          <lb/>1300
+          <lb/>927
+          <lb/>LUCIANUS
+          <lb/>Strasbourg, J. Schott 1519
+          <lb/>MANIUM Luciani omnes dialogi, iucundis salibus, &amp;amp;
+          <lb/>impen dio festivis iocis referti; quibus aequissi¬ma
+          <lb/>trutina expenditur ab iis qui! vita defuncti sunt, quantis
+          <lb/>in malis vita mortalium ! versetur.! Erasmo Roterodamo
+          <lb/>interprete. Pontico Virunio.! Ottomaro Luscinio.
+          <lb/>Vitarum dein, seu philosophorum auctio,! Luciani dia¬
+          <lb/>logus, Nycholao Beral-] do interprete.! Querela item vir¬
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:09.863366+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3259.tif
+IMAGE WIDTH: 2336
+IMAGE HEIGHT: 3854
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>701
+          <lb/>4°, Got., 19 unn. Bll., Sign. A-E, Kopft., Kust., Marg., Vign.
+          <lb/>Bl. A 3a u. am Schluss.
+          <lb/>Bl. A 2a: Vorred Der lieben Posteritet vnd Nach¬
+          <lb/>kommen... Jacobus Graeter. (3 S.)
+          <lb/>Bl. E 2: Delineatio concionis; auf der Rücks.: In Annum
+          <lb/>Christi M. D C. Carmen Seculare. (9 vierzeilige Strophen von
+          <lb/>Grâter.)
+          <lb/>R102.387. Prov.: Geschenk von N. Iltis, Mühlbach bei Metzeral
+          <lb/>28. 11. 1899.
+          <lb/>GK: UB Breslau.
+          <lb/>1032
+          <lb/>GRAETER Jacobus
+          <lb/>Strassburg, J. Martin 1600
+          <lb/>HerbstpredigDem allmächtigen miltreichen GOTT
+          <lb/>zu Lob, Ehr vnd danck seiner heiligen. Gemeine zur
+          <lb/>Nachrichtung, Warnung vnd Vermahnung,) über den Rei¬
+          <lb/>chen Herbst, vnd auss- bündigen Wein des 1599. Jahrs:
+          <lb/>gehalten Durch! M. Jacobum Graetern. Holeschn.: Das Oster¬
+          <lb/>lamm mit Umrahmung; in den 4 Ecken die Tiere der Apokalypse; dar¬
+          <lb/>unter Druckerm. des Jost Martin. (H e B Tafel XLIV Nr. 1.)
+          <lb/>4°, Got. u. Antiq, 14 unn. Bll., Sign. A-C, Kopft., Kust., Marg.,
+          <lb/>Init., Schlussvign.
+          <lb/>Bi. A 2a: Vorred. Dem Edlen vnd Ve-sten Schweig¬
+          <lb/>hard von vnnd zû! Sickingen, etc. meinem grossgünsti¬
+          <lb/>gen Junckern.... — Datum Gernspach, gegen dem ein¬
+          <lb/>lauffenden Jubeljahr, 1600.
+          <lb/>R102.386. Prov.: Geschenk von N. Iltis, Mühlbach bei Metzeral
+          <lb/>28. I1. 1889.
+          <lb/>1033
+          <lb/>GRAVAMINA
+          <lb/>Strassburg, S. Emmel 1565
+          <lb/>ADVERSVS Synodi Tridentinae Re- STITVTIONEM SEV
+          <lb/>CON-tinuationem, à Pio IIII. Pontifice indictam, opposita
+          <lb/>gra-uamina: quibus causae necessariae et gravissimae
+          <lb/>exponun- tur, quare ea ELECTORIBVS caeterisque Imperij
+          <lb/>Princi- pibus &amp;amp; Ordinibus Augustanae Confessionis, ne¬
+          <lb/>que agnoscenda neque adeun-da fuerit. PRO DEFEN¬
+          <lb/>SIONE SYNCE- rae &amp;amp; Orthodoxae Religionis, proposita
+          <lb/>primum in NAOBVRGICO conuentu Principum: Et deinde
+          <lb/>repetita, atque oblata MA¬IESTATI CAESAREAE in Imperij
+          <lb/>conuentu publico, qui ob Electio-em &amp;amp; Coronationem
+          <lb/>Inclyti REGIS ROM. habitus fuit Francofurti:Nunc uerò
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

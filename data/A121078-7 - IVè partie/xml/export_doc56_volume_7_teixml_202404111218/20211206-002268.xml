@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:08.767700+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002268.tif
+IMAGE WIDTH: 2530
+IMAGE HEIGHT: 3954
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>JOHANNES, Chrysostomus : Ein tröstliche predig [éd.
+          <lb/>J. Wimpheling). — Strasbourg, J. Grüninger 1509,
+          <lb/>in-fol. Nouvelle éd. 1514 : Schmidt I n° 132.
+          <lb/>Schmidt, Hist. litt. II, p. 326.
+          <lb/>2152
+          <lb/>JOHANNES, Chrysostomus. Voir aussi: ERB, Math, n° 1633;
+          <lb/>HEGENDORF n° 1974; (RITTER, Rép, nos 477-480l.
+          <lb/>JOHANNES, Gallensis Anglus. Voir: (DRESCHLER, Wolfgang)
+          <lb/>n° 1525.
+          <lb/>JOHANNES, Glogoviensis : Exercitium super omnes tractatus
+          <lb/>parvorum logicalium magistri Petri Hispani per mag.
+          <lb/>Johannem Glogoviensem... — (Strasbourg, J.fean)
+          <lb/>Knfobloch! 1517, in-40.
+          <lb/>Schmidt VII, n° 147; Panzer 6, 83, 477.
+          <lb/>2153
+          <lb/>JOHANNES, Glogoviensis : Exercitium veteris artis. —
+          <lb/>fol. T. 6 a : Strasbourg, J. Knobloch 22.1.1517, in-40.
+          <lb/>Panzer 6, 83, 476; Schmidt VII, n° 148; (B N Strasbourg
+          <lb/>R 101.560 : Ritter, Rép. n° 1263).
+          <lb/>2154
+          <lb/>JOHANNES, Glogoviensis. Voir aussi: JOHANNES de Sacrobusto
+          <lb/>n° 2156; PETRUS Hispanus n° 2877.
+          <lb/>JOHANNES de Hese : Itinerarius describens dispositiones
+          <lb/>terrarum, Insularum. — [Strasbourg, Jean Knobloch
+          <lb/>s. d.], in-4°.
+          <lb/>Copinger 2949.
+          <lb/>2155
+          <lb/>JOHANNES de Sacrobusto : Introductorium compendiosum
+          <lb/>in tractatum sphere materialis magistri Joannis de
+          <lb/>Sacrobusto; quem abbreviavit ex Almagesti sapientis
+          <lb/>Ptolomei Claudii philosophi Alexandrini ex Pheludio
+          <lb/>pergeniti per magistrum Joannem Glogoviensem feliciter
+          <lb/>recollectum... — Fol, 55 a : (Strasbourg, Jean Knobloch,
+          <lb/>8 décembre 1518), in-4°.
+          <lb/>Panzer 6, 88, 513; Schmidt VII, n° 165: B N Berlin. 2156
+          <lb/>266
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

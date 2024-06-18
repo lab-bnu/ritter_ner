@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:43.226099+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078022.tif
+IMAGE WIDTH: 2366
+IMAGE HEIGHT: 3844
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>906
+          <lb/>LEO Jud. Voir: JUD Leo
+          <lb/>LEODIUS Hubertus Thomas. Voir: THOMAS Hubertus Leodius
+          <lb/>L’ESCUT Nicolaus de
+          <lb/>Haguenau, Val. Kobian 1536
+          <lb/>ACTIONES IVRIS, IN COMPENDIOSAS, l&amp;#x27;iuxta ac utiles
+          <lb/>figuras, &amp;amp; formulas, lure- consultis, Aduocatis, Procurato¬
+          <lb/>ribus, &amp;amp; LL. cupidis, subleuandi gratia stu- dii, alias
+          <lb/>taediosissimi, diligenter nec hucusque publicatas, redac¬
+          <lb/>tae...
+          <lb/>Serenissi: atque inclytiss: D. D. ANTHO! MO DyCr Lo¬
+          <lb/>THORIN- GIAE, Gc. Per D. Nicolaum de Lescut, &amp;amp;c. merito
+          <lb/>conse- cratas.
+          <lb/>Haganoiae ex officina Valentini Kobiani, Anno Chri¬
+          <lb/>stianae redemptionis! M. D. XXXVI. Kalend;! August.
+          <lb/>In-fol., car, rom., 12 ff. non ch., sign. a-b, 9 ff. non ch. pliés en
+          <lb/>double, sign. A-I, 12 ff. non ch. à 2 col., sign. K-M, titre courant, ré¬
+          <lb/>clames, initiale goth. M et init. ornées, bandes d’ornement; titre encadré:
+          <lb/>en haut, branches et fruits, aux côtés latéraux, colonnes sur chacune
+          <lb/>desquelles est placé un homme nu, au bas, au milieu un singe, entre
+          <lb/>2 enfants nus, dont celui de gauche tend un fruit au singe.
+          <lb/>Au verso du titre: IN PRAESENTIS LIBRI LAV, ] dem, D. M.
+          <lb/>Hieronymi Gebuilleri Littera- riae pubis Hagnoviensis
+          <lb/>moderato- ris Elegiacum carmen (6 distiques); au-dessous : Ap
+          <lb/>D. NICOLAVM DE Lescut Nanceiensem, Eiusdem! Hiero¬
+          <lb/>nymi, Tetrastichon Carmen, (2 distiques), en haut et aux côtés
+          <lb/>latéraux, pièces d’encadrement.
+          <lb/>Fol. 2a: A mon tres redoubte et souuerain seigneur,
+          <lb/>monseigneur! Anthoine Duc de Calabre, de! Lorraine, et
+          <lb/>de Bar &amp;amp;c.... — De Spire ce penul:Jour de Juillet Lan
+          <lb/>de grace nostre seigneur, mil cinq cens trente six... Ni¬
+          <lb/>colas de Lescut &amp;amp;c. (Feuille de trèfle; en haut et aux côtés laté¬
+          <lb/>raux, pièces d’encadrement.)
+          <lb/>Au verso: TYPOGRAPHVS, LECTORI S. (entre 2 feuilles de trè¬
+          <lb/>fie.)...Vale. (Feuille de trèfle, plus bas bande d’ornement, au-dessus
+          <lb/>de laquelle se trouvent 4 feuilles de trèfle.)
+          <lb/>Fol. 3a: ILLVSTRISSIMO... Domino ANTHONIO... Cala¬
+          <lb/>briae, Lothoringiae, nec non Barroducis, memoratissimo
+          <lb/>Duci... NICOLAVS DE LESCVT, patre Lypovico De Lescut
+          <lb/>Nanceien... (A la fin, bande d’ornement.)
+          <lb/>Fol. b 4b: Armoiries, aigle impériale.
+          <lb/>R10.276. Prov.: Trubner, Strasbourg 9/XI 1883; 12 M. 1352
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

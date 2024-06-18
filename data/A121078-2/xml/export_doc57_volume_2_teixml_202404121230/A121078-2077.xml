@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:28.383088+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2077.tif
+IMAGE WIDTH: 2346
+IMAGE HEIGHT: 3826
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Mant. in poetas impudice scribentes; ensuite CII ff. ch. pour
+          <lb/>l’Opus Calamitatum avec la date de l’impression 1402 pour 1502.
+          <lb/>Carmen panegyricum du frère Sapistae (!) Mantuani (10 ff. non ch.)
+          <lb/>Somnium Romanum (9 ff. non ch.), divers autres carmina ad
+          <lb/>Falconem Prothonotarium (12 ff. non ch.), enfin 6 ff. non ch. à
+          <lb/>2 col. pour l’index des Parthenicae qui est mis par erreur à la suite
+          <lb/>de l’Opus calamitatum; titre courant, réclames, notes marginales.
+          <lb/>Au verse du titre: Joannis Gallinarij ad Lectores Carmen
+          <lb/>(16 distiques).
+          <lb/>fol. a 2a non ch.: Frater Baptista Mantuanus Carmelita
+          <lb/>Lodouico Fuscarario: ac Joanni Baptistae Refrigerio:
+          <lb/>viris integerrimis. S. P. D.... (2 ff.)
+          <lb/>fol. a 3b non ch. Apologeticon ad Eosdem, (8 ff.), suivi de
+          <lb/>11 distiques: Francisei Cereti Parmensis.
+          <lb/>fol. b 5b non ch.: Clarissimo Patri domino Georgio de
+          <lb/>Gem-] mingen Spirensis Ecclesiae Praeposito Se- bastianus
+          <lb/>Murrho Colmariensis. S. D. (1 f.) suivi de: Epitaphium Se¬
+          <lb/>bastiani Murrhonis (4 distiques.)
+          <lb/>* RIOL.014 (1). Prov.: Don de Fidelis Butsch fils, antiquaire à Augs¬
+          <lb/>bourg, 1871. Annotations mss. au verso du dernier f. blanc. Rel. anc.
+          <lb/>2. ex. R 101.013 (1). Prov.: Bibl. Ch. Schmidt avec son exlibris,
+          <lb/>au-dessous, note mss. de sa main: «Acheté en 1880 du libraire Butsch
+          <lb/>à Augsbourg; au-dessus, de la main d’Arnold, doyen de la faculté de
+          <lb/>droit de Strasbourg, mort en 1829; «Ouvrage très-rare et qui ne se
+          <lb/>trouve même pas dans la Bibliothèque publique de Bâle. Voir: mes
+          <lb/>notes sur les Alsaciens qui se sont illustrés dans la république des
+          <lb/>lettres.» Sans la faute 1402. Voir le No suivant. Rel. anc.
+          <lb/>BM. Strasbourg I, 687.
+          <lb/>Proctor II Sectio I, No 10135a: Londres, British Museum.
+          <lb/>Schmidt II, No 6: Jadis Bibl. Strasbourg, Incun. N° 626 et Bâle.
+          <lb/>GPB: Münster, Göttingen, Greifswald, Königsberg.
+          <lb/>127
+          <lb/>BAPTISTA Mantuanus
+          <lb/>Strasbourg, J. Schott, 1502.
+          <lb/>Opus Calamitatum Baptistae Mantuani cum Commen¬
+          <lb/>tario Sebastiani Murrhonis Germani Colmariensis. (Verso
+          <lb/>blanc.)
+          <lb/>A la fin du 3e livre fol. Cla, marqué UL (ultimum.): Per
+          <lb/>Joannem Schottum calcogra- phum Argentinen. Idibus
+          <lb/>Marcij. An- no... M. CCCCC. II.
+          <lb/>Marque typ. de J. Schott, (H &amp;amp; B, Planche II, No 3.)
+          <lb/>In-40, car. rom., CII ff. ch. — 32 ff. non ch., sign. AA-XX, titre
+          <lb/>courant; notes marginales, initiales d’attente.
+          <lb/>*R101.004. Prov.: Bibl. Ch. Schmidt avec son exlibris. Au
+          <lb/>recto du f. de garde: «A partir de fol. 47b le commentaire finter¬
+          <lb/>rompu par la mort de Murrhol est continué par Séb. Brant-.
+          <lb/>73
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

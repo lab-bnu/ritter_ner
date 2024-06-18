@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:10.238606+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002329.tif
+IMAGE WIDTH: 2512
+IMAGE HEIGHT: 3974
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Büchern Zusammengestellt. — Strasbourg, Bernard
+          <lb/>Jobin 1571, in-8°,
+          <lb/>Ritter, Hist. impr. app. 340.
+          <lb/>2474
+          <lb/>LUTHER (Betglöcklein) : Beteglöcklin Doctoris Martini
+          <lb/>Lutheri... ausz allen desz Mannes Gottes getruckten
+          <lb/>Büchern zusammen gestimmet... Treulich und auffs neu
+          <lb/>zugericht durch M. Petrum Trewer Coburgensem... —
+          <lb/>Strasbourg, Bernard Jobin 1579, in-8°.
+          <lb/>Ritter: B M Strasbourg, n° 1439.
+          <lb/>2475
+          <lb/>LUTHER (Betglöcklein): Auffs neu zugericht Beteglöcklin
+          <lb/>Martin Luthers (par Pierre Trewers). — Strasbourg,
+          <lb/>Bernard Jobin 1580, in-8°.
+          <lb/>Ritter, Hist. impr. app. 340. (Ritter : Rép. n° 1454: B N
+          <lb/>Strasbourg R 102.190).
+          <lb/>2476
+          <lb/>LUTHER (Betglöcklein) : (Idem). — Strasbourg, Bernard Jobin
+          <lb/>1591, in-80.
+          <lb/>Ritter, Hist. impr., app. 340.
+          <lb/>2477
+          <lb/>LUTHER (Die Busspsalmen) : Dje syben Buospsalmen. Mit
+          <lb/>teütscher auszlegung. Nach dem schrifftlichen synne
+          <lb/>zu Christi und Gottes gnaden... — (Strasbourg,
+          <lb/>Jean Knobloch 1519), in-4°.
+          <lb/>Horning, n° 5, Kuczyński 1320, Schmidt VII, n° 183; Bibl.
+          <lb/>S. Guillaume, Strasbourg; Walter, no 1751; Hiersemann
+          <lb/>(Leipzig) Catal. 1557 (1925), n° 251 : 85 M. ; Breslauer
+          <lb/>(Berlin), Katal. III (1908), n° 340; 80 M.
+          <lb/>2478
+          <lb/>LUTHER (Catechismus) : Catechismus lectu dignissimus,
+          <lb/>latinus factus per Vincentium Obsopoeum. Huic adiectus
+          <lb/>est alius quoque Catechismus Johannis Brentii
+          <lb/>ecclesiastae Hallensis, iam recens scriptus. M. D.XXVI.—
+          <lb/>(Haguenau, Pierre Brubach 1526), in-8°.
+          <lb/>Bibl. St. Guillaume, Strasbourg [éd. J. Secer 1529 : Ritter,
+          <lb/>Rép. n° 1440).
+          <lb/>2479
+          <lb/>327
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

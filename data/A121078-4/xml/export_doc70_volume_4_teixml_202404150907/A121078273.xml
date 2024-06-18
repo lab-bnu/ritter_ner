@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:50.375941+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078273.tif
+IMAGE WIDTH: 2310
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>A la fin: ARGENTORATI, APVD Hulderichum Morhar¬
+          <lb/>dum, Mense lanua-rio Anno. M. D. XXI. REGNANTE IM¬
+          <lb/>PERATORE! CAES. CAROLO P. F. AvG.
+          <lb/>In-40, car. rom., XCIII ff. ch., titre courant, réclames, init, ornées
+          <lb/>et à fig.; tître encadré. (HRB Planche XXI n° 1.)
+          <lb/>Au verso du titre: Index Quatuordecim Epistolarum! Pauli.
+          <lb/>*R100.460. Prov. : Albert Cohn, Berlin 4/V 1885; 4 M. De
+          <lb/>1802
+          <lb/>nombreuses annotations mss, à la marge des pages.
+          <lb/>PAULUS Apostolus
+          <lb/>Strasbourg, H. Morhard 1522
+          <lb/>EPISTO] LAE PAVLI APO stoli ad Graecam veritatem etc....
+          <lb/>Texte et encadrement comme dans l’édition de 1521.
+          <lb/>A la fin: ARGENTORATI APVD( Hulderichum Morhardum,
+          <lb/>Mense Aprili Anno. M. D. XXII. REGNANTE IMPERATORE
+          <lb/>CAES. CAROLO P. F. AVG. (Verso blanc.)
+          <lb/>In-4°, car. rom., 92 ff. ch., titre courant, réclames, init, ornées et
+          <lb/>à fig. Réédition de l’édition de 1521.
+          <lb/>R100.459. Prov.: Don de Fidelis Butsch fils, antiquaire à Augs¬
+          <lb/>bourg en 1871. De nombreuses annotations mss. à la marge des pages
+          <lb/>et dans le texte.
+          <lb/>1803
+          <lb/>1159
+          <lb/>PAULUS III.
+          <lb/>[Strasbourg, W. Rihell 1541
+          <lb/>CONSILI-VM ADMODVM PA- TERNVM PAVLI. III. Ponti
+          <lb/>ficis Romani, datum Imperatori in! Belgis, per Cardinalem
+          <lb/>foernesium! Pontificis nepotem, pro! Lutheranis.) Anno.
+          <lb/>1540. Et EVSEBI PAMPHILI EIVSDEM consilii pia et sa¬
+          <lb/>lalutaris explicatio. (Verso blanc.)
+          <lb/>A la fin: IMPRESSVM PER IOHANNEM!Zelotem Nicopoli
+          <lb/>Pamphiliae (— Wendelin Rihell.
+          <lb/>In-80, car, rom. et ital,, 52 ff. non ch. dont le dernier blanc, sign.
+          <lb/>A-G, tître courant, réclames, init. blanches sur fond noir M, H.
+          <lb/>A la fin avant l’explicit: Datum Bethuliae Iu- deae Anno 1541.
+          <lb/>Mense Martio.
+          <lb/>Fol. A 2a : Epistola.
+          <lb/>R 101.502. Prov.: Bibl. Reuss, Strasbourg 12/XII 1888.
+          <lb/>Au recto du f. de garde: ,unicum praeter hoc exemplar exstat
+          <lb/>Ienae in bibl. univ. Ed. Reuss.
+          <lb/>1804
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:37.814375+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu091.tif
+IMAGE WIDTH: 2392
+IMAGE HEIGHT: 3842
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>LEGENDA AUREA. Voir: Jacobus de Voragine.
+          <lb/>LEO ARCHIPRESBYTER: Historia Alexandri magni. Stras¬
+          <lb/>bourg, (imprimeur du Jordanus (— G. Husner),
+          <lb/>14 octobre), 1486, in-fol.
+          <lb/>G W 876, Hain 779, Proctor 606, Voulliéme; Berlin 2413.
+          <lb/>K 2358. ProV.: BN Munich, 14. IV. 1880, M. 0,70.
+          <lb/>Figure généralement sous Alexander Magnus ou Historia Ale¬
+          <lb/>xandri; notre catalogue l’a sous Léon Archipresbyter. 281
+          <lb/>LEO ARCHIPRESBYTER: Historia Alexandri, magni. Stras¬
+          <lb/>bourg, (imprimeur du Jordanus (— G. Husner),
+          <lb/>17 mars 1489), in-fol.
+          <lb/>G W 877, Hain 780, Madsen 121, Pellechet 447, Proctor 619,
+          <lb/>Voulliéme: Berlin 2426.
+          <lb/>K 2358a. Prov.; B N Munich, 14. IV. 1880, 2 M., avec le cachet
+          <lb/>de cette bibliothèque au verso du dernier f.
+          <lb/>282
+          <lb/>LEO ARCHIPRESBYTER: Historia Alexandri magni. Stras¬
+          <lb/>bourg, (imprimeur du Jordanus (— G. Husner),
+          <lb/>26 mai 1494), in-fol.
+          <lb/>G W 879, Hain 783, Madsen 123, Pellechet 449, Proctor 628,
+          <lb/>Voulliéme: Berlin 2452.
+          <lb/>K 2358b. Prov.: BN Munich, 14. IV. 1880, 2 M. Note mss. au
+          <lb/>verso du titre; cachet de la BN Munich au recto du f. al et
+          <lb/>au-dessous de l’explicit.
+          <lb/>283
+          <lb/>LOCHER JAÇOBUS: Panegyricus ad Maximilianum. Tragoe¬
+          <lb/>dia de Turcis et Soldano, Dialogus de heresiarchis.
+          <lb/>Strasbourg, J. Grüninger, 1497, in-4°.
+          <lb/>Hain 10153, Madsen 2505, Pellechet: Colmar 880, Proctor 483,
+          <lb/>Schmidt I, 32, Schreiber 4513, Voulliéme; Berlin 2298.
+          <lb/>Schramm, Bilderschmuck XX, grav N° 374-389.
+          <lb/>K 2391. Prov.: Don de la B U de Goettingue, 1871, avec le
+          <lb/>cachet de cette bibliothèque au-dessous du titre.
+          <lb/>284
+          <lb/>LOCHMAIER et LOCHMAYER. Voir: Lochmeyer.
+          <lb/>LOCHMEYER MICHAEL: Parochiale. Haguenau, H. Gran,
+          <lb/>20 août 1498, in-4°.
+          <lb/>Hain 10169, Pellechet: Colmar 885, Proctor 3196.
+          <lb/>61
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

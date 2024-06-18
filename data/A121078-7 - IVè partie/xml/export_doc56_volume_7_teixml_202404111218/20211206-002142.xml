@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:05.256084+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002142.tif
+IMAGE WIDTH: 2508
+IMAGE HEIGHT: 3962
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>DEMOSTHENES : Graeciae excellentium Oratorum Aeschinis
+          <lb/>&amp;amp; Demosthenis orationes adversae. — (Haguenau, ex
+          <lb/>Academia Anshelmiana, avril 1522), in-8°,
+          <lb/>Burg, n° 152.
+          <lb/>1499
+          <lb/>DEMOSTHENES : Encomium demosthenis ex Luciano iam
+          <lb/>primum versum &amp;amp; aeditum, authore Philippo Melanch¬
+          <lb/>thone. Additae sunt duae gravissimae Orationes Isocratis
+          <lb/>latine versae. — (Haguenau, J. Secer 19 mars 1533),
+          <lb/>in-80.
+          <lb/>Burg, n° 155.
+          <lb/>1500
+          <lb/>DEMOSTHENES. Voir aussi : RITTER, Rép, nos 627-631.
+          <lb/>DENCK, Johannes : Denckens Ubersetzung und Auslegung
+          <lb/>des Propheten Mischa. — Strasbourg 1552, in-8°.
+          <lb/>Riederer, J. B. : Nachrichten zur Kirchen-Gelehrten-und
+          <lb/>Büchergeschichte 2 (1765) p. 396 et suiv.
+          <lb/>1501
+          <lb/>DENCK, Joh. Voir aussi : BUCER n° 1179; WARNUNG nO 3470.
+          <lb/>DENYSSE, Nicolaus : Sermones de Sanctis Hyemales. Esti¬
+          <lb/>vales. De festivitatibus Jesu christi beatae virginis et
+          <lb/>aliorum Sanctorum... — (Strasbourg, Jean Grüninger
+          <lb/>aux frais d’Ant. Koberger 1510), in-fol.
+          <lb/>Ritter: B M Strasbourg n° 1565.
+          <lb/>1502
+          <lb/>DENYSSE, Nic. : Sermones de sanctis et de festivitatibus. —
+          <lb/>Haguenau, Henri Gran 1510, in-8°.
+          <lb/>Panzer VII, p. 76, n° 72; Proctor 11.645; St. Gallen, Kloster¬
+          <lb/>neuenbourg.
+          <lb/>1503
+          <lb/>DENYSSE, Nic. Voir aussi : RITTER, Rép, nos 1632-1635.
+          <lb/>DESPEUTERIUS, Joh. Voir : TORRENTINUS nos 3348, 3351;
+          <lb/>RITTER, Rép. nos 632-633.
+          <lb/>DETERMINATIO : Theologicae facultatis Parisiensis super
+          <lb/>140
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

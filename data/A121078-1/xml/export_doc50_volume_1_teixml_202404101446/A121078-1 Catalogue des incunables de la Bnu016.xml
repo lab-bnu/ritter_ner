@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:36.609357+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu016.tif
+IMAGE WIDTH: 2386
+IMAGE HEIGHT: 3842
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>52 grav., Melusine 67 grav., etc. Sa première impression
+          <lb/>datée est de 1476; Pius II, De duobus amantibus, dont Schor¬
+          <lb/>bach (p. 72) dit qu’il n’a pas connu d’exemplaire; il y en a
+          <lb/>cependant un à la BN de Paris, un dans le British Museum
+          <lb/>à Londres et un à la Bibliothèque de Copenhague.
+          <lb/>MARTIN SCHOTT (1481-1498)
+          <lb/>Martin Schott appartenait à une famille patricienne
+          <lb/>de Strasbourg; il était le cousin du chanoine Pierre Schott
+          <lb/>qui inaugura à Strasbourg les études humanistes, le gendre
+          <lb/>de Mentelin dont il hérita la maison de la Rue de l’Epine
+          <lb/>et le beau-frère de l’imprimeur Adolphe Rusch. Comme
+          <lb/>l’officine de Mentelin avait passé aux mains de ce der¬
+          <lb/>nier, Schott dut se pourvoir d’un nouveau matériel. Ses
+          <lb/>impressions se distinguent par le format et les caractères
+          <lb/>de celles de Mentelin et de Rusch. On ne sait presque rien
+          <lb/>sur sa vie, sinon qu’il est mort le 22 novembre 1499.
+          <lb/>Son premier livre daté est le Plenarium allemand
+          <lb/>(1481), son dernier, l’Agatharchia de Wimpheling du
+          <lb/>21 novembre 1498. Il a imprimé environ quarante livres
+          <lb/>dont douze en langue allemande, ornés de nombreuses
+          <lb/>initiales et gravures. Schramm Vol. XIX (N° 663-890) en
+          <lb/>mentionne vingt-trois avec illustrations, entre autres les
+          <lb/>quatre éditions du Plenarium, les Vier-und-zwanzig Alten
+          <lb/>d’Otto de Passau (26 illustrations), Melusine dont on ne
+          <lb/>connaît plus d’exemplaire, l’Histoire d’Alexandre le Grand
+          <lb/>en trois éditions, les Vier-und-zwanzig Harfen de Nieder
+          <lb/>avec 25 gravures etc.
+          <lb/>JEAN GRUNINGER (1483-1531)
+          <lb/>Dans le premier volume de son Répertoire Bibliogra¬
+          <lb/>phique Strasbourgeois Charles Schmidt appelle Grünin¬
+          <lb/>ger zun des plus industrieux et des plus entreprenants des
+          <lb/>anciens typographes strasbourgeois», avec la remarque
+          <lb/>XVI
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

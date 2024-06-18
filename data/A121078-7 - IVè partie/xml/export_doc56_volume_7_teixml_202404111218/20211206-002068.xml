@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:03.214340+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002068.tif
+IMAGE WIDTH: 2458
+IMAGE HEIGHT: 3968
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>BRIGITTA, S. : Ermanunge und gebet sant Brigitten von dem
+          <lb/>heiligen leyden unsers seligmachers... — (Gedruckt
+          <lb/>durch Johannem Prüss zu Strauszburg) (sic) vers 1518,
+          <lb/>in-320.
+          <lb/>Schmidt III, p. 34 n° 16; Weller 26. — Einsiedeln.
+          <lb/>1095
+          <lb/>BRISMANNUS, Johannes: Ad Gasparis Schatzgeyri Minoritae
+          <lb/>plicas Responsio per Johannem Brismannum pro
+          <lb/>Lutherano libello de Missis &amp;amp; Votis Monasticis. Martini
+          <lb/>Lutheri ad Brismannum de eodem Praefatio. —
+          <lb/>(Strasbourg, Jean Herwagen), 1523, in-40.
+          <lb/>Dommer, Lutherdrucke, n° 381 : « Der Drucker ist Johann
+          <lb/>Herwagen in Strassburg, die Schriften sammt dem grossen
+          <lb/>P wiederholen sich in dessen Enarrationes Lutheri in epp.
+          <lb/>Petri &amp;amp; Judae 1524, in-8° ». Walter n° 819 l’attribue à
+          <lb/>Jean Knobloch.
+          <lb/>1096
+          <lb/>BROT : Täglich Brot von den Heiligen. — (Haguenau,
+          <lb/>Henri Gran pour J. Rynman (28 juillet) 1522), in-fol.
+          <lb/>Burg, n° 419.
+          <lb/>1097
+          <lb/>BROTBEYHEL, Hier. Voir : KALENDER der Strassburger
+          <lb/>Domherrn n° 2195.
+          <lb/>BRUDER Rausch. Voir: RAUSCH (Bruder).
+          <lb/>BRUNFELS, Otto (Anatomia) : Anatomice sive de Hystoria
+          <lb/>corporis humani libri quinque... — Strasbourg, 1528,
+          <lb/>in-8° (éd. Alexandro Benedetti).
+          <lb/>BN Paris : Taꝯ 10.
+          <lb/>1098
+          <lb/>BRUNFELS, Otto : (Aphorismi); Aphorismi Institutionis
+          <lb/>puerorum... — (Strasbourg, Jean Schott (30.VIIII
+          <lb/>1519), in-4°.
+          <lb/>Panzer 6, 90; Schmidt II, 48. — BN Paris R 6041; Bibl.
+          <lb/>Centr. Zurich.
+          <lb/>1099
+          <lb/>BRUNFELS, Otto (Apothek) : Von aller handt apotheckischen
+          <lb/>66
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:08.902722+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3218.tif
+IMAGE WIDTH: 2326
+IMAGE HEIGHT: 3858
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>662
+          <lb/>der liechtmesz,  in dem iar von der geburt Christi vnsers
+          <lb/>herren. 15.17. (Rücks, leer.)
+          <lb/>Folgt der 2. Teil, ohne besonderen Titel, aber mit neuer Paginie¬
+          <lb/>rung von I-XCII.
+          <lb/>Am Schluss: Vnd ist getruckt in der Keiserlichen freien
+          <lb/>statt Straszburg, von Johannes Grüninger. Vnd vszgangen
+          <lb/>vff vnser lieben frawen abent der verkündung. In dem iar
+          <lb/>als man zalt von der geburt christi tausent fünffhundert
+          <lb/>vnd. xvii.
+          <lb/>20, Got., 2sp., L. Teil: Ox Bll., Il. Teil: XCII Bll., Kopft.
+          <lb/>Init., Titel des I. Teiles rot u. schwarz, 34 Holeschn., von denen viele
+          <lb/>früheren Werken entnommen sind, aus dem Buch von den Ameisen, dem
+          <lb/>Layenspiegel, aus Hug Schapler, der französischen Königstochter von
+          <lb/>1500 u. der Vita sanctorum 1504; einige sind neu. Titelumrahmung.
+          <lb/>Pl. 11: Hienach folgt ein gemein register der zweintzig
+          <lb/>sermon... [vonl Doctor Johannes Geiler von Keisersperg...
+          <lb/>von Brûder Johann pauli in druck geordinet...
+          <lb/>Bl. VIIa: In dem nechsten sontag! vor vnser frawen
+          <lb/>tag als sie in dem tempel geopffert ward, in dem iar da
+          <lb/>man zalt na ch christus geburt. 150.8 iar Hat der hoch¬
+          <lb/>gelert gotzförchtig Doctor Keisersperg im hohen stifft zû
+          <lb/>Straszburg geprediget... Die hat frater Johannes Pauli
+          <lb/>Barfüsser Guardian zû Straszburg in dem selben kloster,
+          <lb/>von seinem mund gehört, vnd! vffgeschriben...
+          <lb/>R10.099. Prov.: Bibl. Ch. Schmidt mit seinem Exlibris, seinem
+          <lb/>Autograph Januar 1873 u. Notizen von seiner Hand: « Les gravures
+          <lb/>depuis fol, 45b-87b portent le monogramme HF avec la date 1516.
+          <lb/>Selon Ebert I, 657 les gravures sont de Hans Furtenbach.» Zahlreiche
+          <lb/>Paginationsfehler.
+          <lb/>2. Ex. R 10.107. Prov.: I. Béguin, Strassburg 20. VII. 1885.
+          <lb/>Handschr. Notisen, unter andern: disz hatt uns umb gottswillen geben...
+          <lb/>her Hainrich abt des ehrwürdigen Gottshauss wiblingen an sant Catha¬
+          <lb/>rinen tag 1594 jar.
+          <lb/>Dacheux, Geiler S. CXXXXIX (Beschreibung der Holzschn.),
+          <lb/>Kristeller 100, Proctor II Sectio I Nr. 9941b: London Brit. Museum,
+          <lb/>Schmidt I Nr. 154: Ehemalige Strassburger Bibl. Incun. 1997 u. Babl.
+          <lb/>Wilh., Strassburg. 1 Ex. Strassburger Priesterseminar Inkun. C 33.
+          <lb/>GK: SB Berlin, UB Berlin, Breslau, Halle.
+          <lb/>976
+          <lb/>GEILER Johannes
+          <lb/>Strassburg, Joh. Grüninger 1517
+          <lb/>Euangelia mit vszlegung Des hochgelerten Do- ctor
+          <lb/>Keiserspergs; vndvsz dem Plenarium vnd sunst vil gût
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

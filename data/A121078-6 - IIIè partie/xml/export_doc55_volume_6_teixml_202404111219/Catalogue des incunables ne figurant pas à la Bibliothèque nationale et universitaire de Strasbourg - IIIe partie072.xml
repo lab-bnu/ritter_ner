@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:06.224689+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie072.tif
+IMAGE WIDTH: 2482
+IMAGE HEIGHT: 3926
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>MAMMOTRECTUS. Voir : MARCHESINUS, J. n° 447.
+          <lb/>MANDEVILLE. Voir MONTEVILLA.
+          <lb/>MANEKEN. Voir : MENNICKEN, Carolus.
+          <lb/>MANUALE. Manuale parochalium sacerdotum. — (Strasbourg,
+          <lb/>impr. des Vitas patrum), s. d., in-40.
+          <lb/>Hain 10728; Proctor 428; Polain 2599; Voulliéme : Berlin
+          <lb/>2264; Londres, Brit. Museum I, 100; Gilhofer et Ranschburg
+          <lb/>(Vienne), Catal. 261 (1936), n° 206.
+          <lb/>445
+          <lb/>MANUALE scholarium qui studentium universitatem aggredi
+          <lb/>ac postea perficere in eisdem intendant. — Strasbourg,
+          <lb/>Martin Flach 1481, in-4o.
+          <lb/>Hain 10740; Graesse IV, p. 372; Schmidt VI, p. 2, n° 8. 446
+          <lb/>MARCHESINUS, J. : Mammotrectus super Bibliam. —
+          <lb/>(Strasbourg, Georges Husner vers 1476), in-fol.
+          <lb/>Hain 10551; Voulliéme : Berlin n° 2205; Hiersemann (Leipzig)
+          <lb/>Catal. 500 (1925), n° 80; 180 M.
+          <lb/>447
+          <lb/>MARCHESINUS, J. (Idem). — Strasbourg 1493, in-fol.
+          <lb/>Hain 10571.
+          <lb/>448
+          <lb/>MARIa zum Elend. O Maria zum Ellend bey dem dorff
+          <lb/>Wyberscheynn (Wiwersheim près Strasbourg) bitt Gott
+          <lb/>den herren für uns. — (Strasbourg, Jean Prüss vers
+          <lb/>1500), in-80.
+          <lb/>Madsen 3234.
+          <lb/>449
+          <lb/>MARIAlE seu de laudibus V. Mariae. — Strasbourg, Martin
+          <lb/>Flach 1483, in-fol.
+          <lb/>Hain 10767.
+          <lb/>450
+          <lb/>70
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:37.266104+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2366.tif
+IMAGE WIDTH: 2346
+IMAGE HEIGHT: 3822
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>362
+          <lb/>Jag vnd Hetzhundt auff jn gearbeit, er geludert, geschliich¬
+          <lb/>tet, ange- ayst, an ein gewisz ort eingethon, Wolff, vnd
+          <lb/>Wölffin an fart vnd gefert voreinander erkennt, die Vor¬
+          <lb/>such angestellt, bestettet, Parforce, vnd der kein Hund
+          <lb/>hat, durch Zeug, Garn, Gruben, Fallen, oder andere Ins¬
+          <lb/>trumenten gefangen vnd erlegt werden soll.
+          <lb/>Gravure sur bois: chasse au loup.
+          <lb/>blanc.)
+          <lb/>In Jägerisch Teutsch erst von Newem verfertigt. (Verso
+          <lb/>(Probablement Strasbourg, Bernhard Jobin vers 1590, caractères
+          <lb/>et gravures comme ceux du New Jägerbuch, Jobin 1590, qui précède la
+          <lb/>Wolffejagd. Monsieur Benzing, Berlin, vient de me communiquer que le
+          <lb/>GPB le date 1579).
+          <lb/>In-fol., car. goth., 2 ff. non ch., 20 ff. ch., titre courant, réclames,
+          <lb/>initiales goth., 13 gravures sur bois, scènes de chasse au loup.
+          <lb/>fol. A a 2a: ... Herrn Caralo (!) dem Neundten König
+          <lb/>in Franckreich, Meinem gnädigsten Herrn... — Johan
+          <lb/>von Clamorgan. (Cul de lampe.)
+          <lb/>R10.384.(4) Prov. : Bibliotheca Hammeriana.
+          <lb/>BN Paris, S. 549. GPB. BN Berlin.
+          <lb/>541
+          <lb/>CLAMORGAN Johann von, Von der Wolffjagt. Voir: LIBALTUS
+          <lb/>Johannes, XV. Bücher von dem Feldbau, Livre XV. 1598.
+          <lb/>CLAVASIO Angelus de. Voir: ANGeLUs de Clavasio.
+          <lb/>CLEMANGIIS Nicolaus de. Voir: NICOLAUS DE CLAMANGHS.
+          <lb/>CLEOFILO Francesco Ottavio. Voir: CLEOPHILUS Franciseus Oc¬
+          <lb/>tavius.
+          <lb/>(CLEOPHILUS) Franciscus Octavius : Elegiae... Epistolae amo¬
+          <lb/>rum ad Juliam. Voir: GREGORIUS Trifernas, Opuscula. —
+          <lb/>(Argentorati, ex officina Schureriana, 1509), in-4°.
+          <lb/>BN Paris: Rés, m. Yc. 724; B U Fribourg en Br. D 8119.
+          <lb/>CLICHTOVAEUS Iodocus
+          <lb/>Strasbourg. M. Schürer, 1512.
+          <lb/>Dogma Moralium Philosophorum, compen diose &amp;amp;
+          <lb/>studiose! collectum.»
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

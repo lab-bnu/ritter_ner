@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:06.529052+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie094.tif
+IMAGE WIDTH: 2482
+IMAGE HEIGHT: 3912
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>multis alijs inclusis sermocionanti perutiles...
+          <lb/>(Strasbourg, Martin Schott, pas après 1487), in-fol.
+          <lb/>Hain 4471; Proctor 405; Scott (Schmidt II) Suppl, n° 10. —
+          <lb/>Londres, Brit. Mus, et Bibl. S. M. Scott, Oxford; Voulliéme:
+          <lb/>Berlin 2243 à Caracciolus.
+          <lb/>605
+          <lb/>ROMANUS, Jacobus : Congratulatio pro patria. — (Venice)
+          <lb/>Florentinus de Argentina 1472, in-4°.
+          <lb/>Hain 13963; Procter 4207; Voulliéme : Berlin 3705. 606
+          <lb/>ROSARIUM Beatae Mariae Virginis (en allemand). — Strasbourg
+          <lb/>s. d., in-40.
+          <lb/>Hain 13970.
+          <lb/>607
+          <lb/>ROSENGARTEN. Voir: LAURIN n° 408.
+          <lb/>ROTINGA, Philippus de. Voir : ANTONINUS de Bitonto,
+          <lb/>Sermones dominicales nos 84/5.
+          <lb/>RUFINUS. Voir : EUSEBIUS nos 243-245; JOSEPHUS Flavius
+          <lb/>n° 402.
+          <lb/>RUTH (Pilgrim). Voir: LIECHTENBERGER, Joh., n° 416.
+          <lb/>SALICETO, Nicolaus : Antidotarius animae. — Strasbourg,
+          <lb/>J. Grüninger 6. IX. 1490, in-80.
+          <lb/>Hain 14159; Schmidt I, n° 13, Voulliéme : Berlin 2282. 608
+          <lb/>SALICETO, Nicolaus : Antidotarius animae. — Strasbourg,
+          <lb/>J. Grüninger 11. VIII. 1491, in-8°,
+          <lb/>Hain 14160; Panzer I, 46; Serapeum 1861, p. 316. — Bâle,
+          <lb/>Nancy, Rastatt.
+          <lb/>609
+          <lb/>SALICETO, Nicolaus : Antidotarius animae. — Haguenau,
+          <lb/>(Henri Gran) 1493, in-8°.
+          <lb/>Copinger 5217.
+          <lb/>610
+          <lb/>92
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

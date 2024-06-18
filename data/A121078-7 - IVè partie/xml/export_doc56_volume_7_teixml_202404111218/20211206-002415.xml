@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:12.120183+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002415.tif
+IMAGE WIDTH: 2492
+IMAGE HEIGHT: 4012
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>encore une traduction de cette comédie par Lipsius
+          <lb/>Schmalk, 1766 in-8° »; Vogeleis p. 311.
+          <lb/>2946
+          <lb/>PLENARIUM. — (Strasbourg, Jean Grüninger (27.III.] 1510),
+          <lb/>in-fol.
+          <lb/>Kristeller 95 (planche 17); Schmidt I, n° 115. — BN Berlin.
+          <lb/>2947
+          <lb/>PLENARIUM. Voir aussi: GEILER, Joh. (Evangelia), n° 1835/6.
+          <lb/>PLESCH, Maximilianus : Disputatio XXIII. Ethica. De
+          <lb/>nequitate et questionibus nonnullis ad iustitiae doctrinam
+          <lb/>melius cognoscendam, pertinentibus. Ex Aristotelis
+          <lb/>Ethicorum ad Nicomachum Libri Quinti c. 10 &amp;amp; 11
+          <lb/>petita. Quam C.F.N. In Inclyta Argentoratensium
+          <lb/>Academia sub praesidio M. Laurentii Thomae Wallisseri,
+          <lb/>Argentinensis : Privati Exercitii causa, Respondendo
+          <lb/>tuebitur Maximilianus Plesch, Petaviensis, Styrus.
+          <lb/>Mense Octobri. — Strasbourg, Antoine Bertram 1597,
+          <lb/>in-40.
+          <lb/>Ritter : B M Strasbourg n° 1721.
+          <lb/>2947a
+          <lb/>PLESCH, Maximilianus : Disputatio XXXII. Ethica. De
+          <lb/>collatione specierum amicitiae, cum speciebus civilis
+          <lb/>societatis. Ex Libri Aristotelis Ethicorum ad Nico¬
+          <lb/>machum Octavi c. 9.10.11.&amp;amp; 12. excerpta. Quam in
+          <lb/>Inclyta Argentoratensium Academia sub Praesidio
+          <lb/>M. Laurentii Thomae Wallisseri, Argentinensis Privati
+          <lb/>Exercitii causa, Respondendo tuebitur Maximilianus
+          <lb/>Plesch Petaviensis, Styrus. Mense Decembri. —
+          <lb/>Strasbourg, Antoine Bertram 1597, in-4°,
+          <lb/>Ritter : B M Strasbourg n° 1722.
+          <lb/>2948
+          <lb/>PLIENINGER, Lambertus Floridus : Kurtz Bedencken von
+          <lb/>der Emendation dess Jars durch Babst Gregorium den
+          <lb/>xiii fürgenommen und von seinem Kalender, nach ihm
+          <lb/>Kalendarium Gregorianum perpetuum intituliert. Ob
+          <lb/>solcher den Protestierenden Ständen anzunemen seie
+          <lb/>413
+          <lb/>14
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

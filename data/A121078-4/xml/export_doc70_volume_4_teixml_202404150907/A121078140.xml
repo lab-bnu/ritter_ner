@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:46.601329+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078140.tif
+IMAGE WIDTH: 2308
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1026
+          <lb/>matum in Schola Vuittenbergensi. Anno Domini 1534.
+          <lb/>(Marque typ. de P. Brubach. H e B Planche LXIX n° 4.) Au-dessous:
+          <lb/>HAGANOÆ EX OFFICINA Petri Brubacchii An. Do. XXXV.
+          <lb/>(Verso blanc.)
+          <lb/>A la fin: HAGANOE EX OFFICINA PETRI BRVBACHII.
+          <lb/>Anno Domini M. D. XXXV. Mense Augusto.
+          <lb/>In-4°, car, rom., 8 ff. non ch., 128 ff. ch., mais de f. 1-12 les
+          <lb/>chiffres manquent, la pagination commence avec le chiffre 13; titre cou¬
+          <lb/>rant, réclames, init. ornées 0, L, M, 14 figures planétaires. Le recto
+          <lb/>du fol. ii, avec la dédicace a un encadrement de titre, composé de
+          <lb/>4 pièces. La pièce d’en haut se trouve aussi au fol. 1; le livre est dédié
+          <lb/>par l’auteur au prince Georges d’Anhalt.
+          <lb/>RIOI749. Prov.: Jacques Rosenthal, Munich 14/1X1899, 20 M.40.
+          <lb/>Bibliographie de Millichius, voir: Schottenloher I n° 15684-15685.
+          <lb/>1575
+          <lb/>MIMUS PUBLIANUS: Septem sapientum illustres sententiae.
+          <lb/>Voir: CATO: Praecepta moralia, 1515, 1516, 1519, 1520.
+          <lb/>MIRABELLIUS Nanus Dominicus. Voir: NANUS MIRABELLIUS
+          <lb/>MIRANDOLA et MIRANDULA. Voir: PICUS A MIRANDULA
+          <lb/>MIRANDULA Octavianus
+          <lb/>Haguenau, Th. Anshelm 1517
+          <lb/>VIRIDA  RIVM ILLVSTRIVM) poetarum, Cum ipsorum
+          <lb/>con cordantiis in Alphabetica tabula accuratissime
+          <lb/>contentis.
+          <lb/>A la fin: Hagenoiæ in aedibus Thomae Anshelmi Ba¬
+          <lb/>densis Mense lunii. Anno M. D. XVII. Max, aemili ano
+          <lb/>Pio Imperatore. (Verso blanc.)
+          <lb/>In-80, car, rom., 55 ff. non ch. (table), CLXXXIX ff. ch., titre
+          <lb/>courant.
+          <lb/>Au verso du titre: Ad lectorem Octavianus Mirandula...
+          <lb/>Fol. A 2a non ch.: ... Octaviano Arcimboldo proth. apostolico
+          <lb/>Octavianus Mirandula....
+          <lb/>Au verso: Philippus Beroaldus! Lectori... Au-dessous, épigramme
+          <lb/>d’Antoine Balbus. (10 dist.) Suivent 52 ff. non ch. : Tabula Viridarii
+          <lb/>Alphabetica.
+          <lb/>RI01.894. Prov.: Bibl. Bœcking. A la fin, 4 pp. de notes mss.,
+          <lb/>entre autres: Hymnus in divum Joannem Baptistam. Carmine Saphico
+          <lb/>Adonico. (10 strophes à 4 vers.) Au-dessous:,Autor J. Minsinger a Fron¬
+          <lb/>dorph I. C.&amp;quot;
+          <lb/>1576
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

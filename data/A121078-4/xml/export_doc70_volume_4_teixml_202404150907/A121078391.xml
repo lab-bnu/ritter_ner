@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:54.292617+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078391.tif
+IMAGE WIDTH: 2360
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>DEACETI
+          <lb/>TIBVS,ETORTHOGRA
+          <lb/>PHIA, LINGVAE HEBRAI
+          <lb/>cæ, à lohame Reuchlin Phorcensi
+          <lb/>LL.Doctore Libri Tres Car
+          <lb/>dinali Adriano dicati.
+          <lb/>C
+          <lb/>u
+          <lb/>1277
+          <lb/>8
+          <lb/>2
+          <lb/>-48
+          <lb/>04
+          <lb/>ONI
+          <lb/>3N
+          <lb/>S
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

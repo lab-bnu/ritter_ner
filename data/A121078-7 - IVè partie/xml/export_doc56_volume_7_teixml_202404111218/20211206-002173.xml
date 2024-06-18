@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:06.048507+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002173.tif
+IMAGE WIDTH: 2500
+IMAGE HEIGHT: 3964
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>EVANGELIA : Evangelia und Epistel mit der glosz... — Stras¬
+          <lb/>bourg, Jean Grüninger 27-III. 1510, in-fol.
+          <lb/>Schmidt I, n° 115: BN Berlin. Ch. Louis Fière, Catalogue,
+          <lb/>2e vente 14-17 juin 1937, n° 363. (Ritter, Rép. n° 827 ; éd.
+          <lb/>Grüninger 1506).
+          <lb/>1669
+          <lb/>EVANGELIA: (Idem). — (Strasbourg, Mathias Hupfuff 1512),
+          <lb/>in-fol.
+          <lb/>Schmidt V, n° 100; Panzer, Annalen I, 335.
+          <lb/>1670
+          <lb/>EVANGELIA : (Idem). — (Strasbourg, Mathias Hupfuff 1513),
+          <lb/>in-fol.
+          <lb/>Dacheux, Geiler, p. LXIV; Schmidt V, n° 110; Weller, Rep.
+          <lb/>775. — BN Berlin.
+          <lb/>1671
+          <lb/>EVANGELIA : (Idem). — (Strasbourg, Jean Grüninger (14 sep¬
+          <lb/>tembre] 1513), in-fol.
+          <lb/>Schmidt I, n° 130; Panzer, Annalen I, 391.
+          <lb/>1672
+          <lb/>EVANGELIA und Episteln samt den Summarien und Gebett
+          <lb/>auf alle Sonntag und die fürnembste Feste durch das
+          <lb/>ganze Jar. — Strasbourg, Christian Müller (Mylius] 1580,
+          <lb/>in-80.
+          <lb/>Wackernagel, Kirchenlied I, p. 546. Ritter : Hist. Impr.
+          <lb/>p. 260.
+          <lb/>1673
+          <lb/>EVANGELIA und Episteln, auch schöne Gebett auf alle Sonntag.
+          <lb/>— Strasbourg, Christian Müller (Mylius) 1581, in-8°.
+          <lb/>Ritter : Hist. Impr. p. 260. (B N Strasbourg R 102.400 :
+          <lb/>Ritter, Rép. n° 829l.
+          <lb/>1674
+          <lb/>EVANGELIEN und Episteln. — Colmar, Barth. Grüninger
+          <lb/>1543.
+          <lb/>Ritter, Hist. impr. p. 419.
+          <lb/>1675
+          <lb/>EVANGELIUM Johannis. Voir: JOHANNES, Apostolus, n° 2148.
+          <lb/>171
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

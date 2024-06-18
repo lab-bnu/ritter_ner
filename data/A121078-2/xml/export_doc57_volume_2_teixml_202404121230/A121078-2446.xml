@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:39.550630+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2446.tif
+IMAGE WIDTH: 2402
+IMAGE HEIGHT: 3822
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>442
+          <lb/>DREUBEL (Drübel) Eckard zum. Voir: TREUBEL Eckard zum.
+          <lb/>DREWISCH Mich. Voir: N° 453.
+          <lb/>DROETUS Petrus
+          <lb/>Strasbourg, B. Jobin, 1576
+          <lb/>CONSILIVM NOVVM DE PESTI- LENTIA, AVTORE P.
+          <lb/>DROETO, MEDICO, E Schola Parisiensi AD ILLVSTRISSIMVM
+          <lb/>VIDAMVM CARNVTEN SEM, PRINCIPEM CHABA- neum, me¬
+          <lb/>coenatum suum liberalissimum.
+          <lb/>Marque typ. de B. Jobin. (H. d B., Planche XXXVIII, NO 3.)
+          <lb/>Argentorati apud Bernhardum! Iobinum. M. D. LXXVI.
+          <lb/>(Verso blanc.)
+          <lb/>In-89, car, rom., 32 ff. non ch. dont les 2 derniers blancs, sign.
+          <lb/>A-D, titre courant, réclames, notes marginales, init. ornées T, M, gravure
+          <lb/>sur bois, fol. D 4b; un fourneau sur lequel est placé un vase.
+          <lb/>fol. 42a:... VIDAMO CARNV-TENSI, PET. DROETVS
+          <lb/>Medicus... Ex Bliothe-ca (!) nostra IIII. Idus Iunij.
+          <lb/>M. D. LXXII. (Préface de deux pages et demie.)
+          <lb/>fol. A 3b: P. DROETI MEDICI TETRASTICON AD ILLVSTR.
+          <lb/>I. TORNEMINE, EQVITEM Rhodium. (2 distiques); au-dessous:
+          <lb/>C. Coronei Vernolini Carmen ad Lectorem. (7 distiques.)
+          <lb/>R101. 920. Prov.; Th. Ackermann, Munich, 26/VII. 1881, 1M80.
+          <lb/>BN Paris, Td53, 36. A; Oxford, Bibl. Bodleiana; B M Strasbourg
+          <lb/>0 4516.
+          <lb/>663
+          <lb/>DRUTHMARUS Christianus Strasbourg, J. Grüninger, 10 août 1514
+          <lb/>Christiani Druthmari Grammatici. Expositio in Ma¬
+          <lb/>theum euangelistam. Familiaris luculenta: et lectu iucun¬
+          <lb/>da! Cum epithomatibus in Lucam &amp;amp; Joannem. San Marcini
+          <lb/>episcopi ad Mironem regem.
+          <lb/>EX BVLLA LEONIS! decimi. Super reformatione ecclesiae.
+          <lb/>(Extrait de la bulle sur l’enseignement, 14 lignes.)
+          <lb/>Cum Priuilegio.
+          <lb/>Gravure sur bois: Armoiries du pape Léon X. (Voir p. 443.)
+          <lb/>A la fin: Excusum Argentoraci opera et Im-pensis
+          <lb/>probati viri Joannis Grünigeri. Anno incar-nationis
+          <lb/>dominiceM. Vc. xiiij.Mense Augusto: DieDecima.
+          <lb/>(Verso blanc.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

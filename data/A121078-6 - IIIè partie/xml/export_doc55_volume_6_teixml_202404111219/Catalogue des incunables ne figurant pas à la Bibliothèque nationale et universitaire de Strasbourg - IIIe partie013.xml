@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:05.370956+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie013.tif
+IMAGE WIDTH: 2486
+IMAGE HEIGHT: 3932
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>ALMANACH pour 1493 (en allemand). — (Strasbourg,
+          <lb/>J. Grüninger), Placard 687 x? mm.
+          <lb/>G W 1484; Einblattdrucke 281; Copinger 2265; Schreiber
+          <lb/>3318. Blaubeurn (Bibl. du Sém.), BN Munich.
+          <lb/>64
+          <lb/>ALMANACH pour 1494 (en allemand). — (Strasbourg,
+          <lb/>J. Prüss), Placard 736 x261 mm.
+          <lb/>G W 1494; Einblattdrucke 290; Copinger 27 ; Schreiber 3231.
+          <lb/>Bibl. Rég. Stuttgart.
+          <lb/>65
+          <lb/>ALMANACH pour 1497 (en allemand). — (Strasbourg,
+          <lb/>J. Grüninger), Placard 700 x260 mm.
+          <lb/>G W 1523, Einblattdrucke 319. B N Munich (incomplet),
+          <lb/>v. Rath (Crefeld).
+          <lb/>66
+          <lb/>ALMANACH de Breslau pour 1497 (en allemand). —
+          <lb/>[Strasbourg, J. Prüss), Placard? x 239 mm.
+          <lb/>G W 1525 ; Einblattdrucke 321. B U Göttingen (partie
+          <lb/>inférieure manque).
+          <lb/>6
+          <lb/>ALMANACH de Strasbourg pour 1500 (en allemand).
+          <lb/>G W 1547; Einblattdrucke 341. Hofbibl. Regensburg (mais
+          <lb/>introuvable là).
+          <lb/>68
+          <lb/>ALMANACH pour 1500 (en allemand). — Strasbourg,
+          <lb/>Jean Grüninger, Placard (? x 249 mm.).
+          <lb/>G W 1551; Einblattdrucke 345; Copinger 2289; Schreiber
+          <lb/>3259. B N Munich.
+          <lb/>69
+          <lb/>ALPHABETUM divini amoris. — (Strasbourg, impr. de
+          <lb/>Henr. Ariminensis vers 1476), in-fol.
+          <lb/>G W 1555; Hain 7632; Proctor 306. B M Augsbourg, Colmar,
+          <lb/>Londres (Brit. Mus.) etc.
+          <lb/>70
+          <lb/>ALTEN, die vierundzwanzig. Voir : OrTo von Passau n° 538.
+          <lb/>AMIS (der Pfaffe). Von dem Stricker. — Probablement:
+          <lb/>(Strasbourg, Jean Prüss 1483), in-4°.
+          <lb/>11
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

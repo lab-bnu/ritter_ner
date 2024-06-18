@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:28.774294+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2085.tif
+IMAGE WIDTH: 2330
+IMAGE HEIGHT: 3830
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>81
+          <lb/>In-4°, car. rom., 67 ff. non ch., sign. A-M, titre courant, initiales
+          <lb/>ornées.
+          <lb/>Au verso du titre: BAPTISTA MANTVANVS! Carmelita Paridi
+          <lb/>Caesario... — Kalen- dis Septembris M.CCCCXCVIII.
+          <lb/>fol. M6b: Thomas Wolphivs ivnior Ja cobo Vuimphe¬
+          <lb/>lingio sacre pagine licenciato... — Argentinae cursim ex
+          <lb/>aedibus nostris sexto Kal. Martij. Anno Christi millesimo
+          <lb/>quingentesimo tertio.
+          <lb/>fol. M7: Jacobus Wimphelingius Thomae Vuolphio
+          <lb/>iuniori... — Ex Heremitario diui Guillermi Kalen- das
+          <lb/>Martij. Anno... M.CCCCC.III.
+          <lb/>*R101.007. Prov.: K. Th. Völcker Francfort s. M., 5. VIl. 1880;
+          <lb/>2 M. Notes mss. Au haut du titre: Hironymes laütinger est possessor
+          <lb/>libelli collegij Beyberge.
+          <lb/>Manque chez Schmidt. GPB; Breslau.
+          <lb/>140
+          <lb/>BAPTISTA Mantuanus
+          <lb/>Strasbourg, J. Enobloch, 1515.
+          <lb/>Fratris Baptiste Man tuani Carmelite Theo- logi.
+          <lb/>Oratoris. ac Poe te clarissimi prima Par thenice, que
+          <lb/>Mariana inscribitur.
+          <lb/>Ortuini Gratij Coloniae bonas litteras docenlis Te¬
+          <lb/>trastichon. (2 distiques.)
+          <lb/>A la fin: Primae Parthenices opus diuinum Argen! tinae
+          <lb/>impressum per Joannem knob louch. Anno natiuitatis
+          <lb/>do- minicae. M.D.XV. die XX. mensis Julij.
+          <lb/>In-4°, car, rom,, 58 ff. non ch. dont le dernier blanc, sign. A-K,
+          <lb/>initiales ornées, coloriées; S. A, E, M, F, O, R, J. H; titre en rouge,
+          <lb/>encadré, composé de 4 pièces: en haut ornement d’architecture, aux
+          <lb/>extrémités deux cygnes; pièces latérales: 2 colonnes avec des enfants
+          <lb/>nus grimpants et des bustes de femme; pièce inférieure, deux che¬
+          <lb/>vaux couchés sur lesquels sont assis deux enfants nus.
+          <lb/>R100.437b. Prov.: K. Th. Völcker, Francfort s. M. (Catal, 68,
+          <lb/>No 840), 11.VI, 1879; de nombreuses annotations mss. dans le texte.
+          <lb/>Schmidt VII, No 95.
+          <lb/>141
+          <lb/>BAPTISTA Mantuanus
+          <lb/>Strasbourg, J. Knobloch, 1515.
+          <lb/>Baptiste Mantuani vatis pre! stantissimi diuinum se¬
+          <lb/>cundae Parthenices Opus, sacrosan ctam diuae virginis
+          <lb/>Catharinae passionem heroico carmi- ne illustrans, non
+          <lb/>minus cultum quam pium, Ad domi! num Bernardum Bem¬
+          <lb/>bum Patricium Venetum &amp;amp; iure- consultum peritissimum.
+          <lb/>Ortuini Gratij Coloniae bonas litteras pro! fitentis Epi¬
+          <lb/>gramma, quod summus Poetarum Baptista non immerito
+          <lb/>dicatur. (8 distiques.)
+          <lb/>R.6
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

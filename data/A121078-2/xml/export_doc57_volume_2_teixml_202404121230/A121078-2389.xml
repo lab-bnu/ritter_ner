@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:37.817941+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2389.tif
+IMAGE WIDTH: 2370
+IMAGE HEIGHT: 3822
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>385
+          <lb/>CONFIRMATIO FIDEL CHRISTIANAE. Voir: CApREOLUS Helias.
+          <lb/>CONFLAGRATIO Chordigerae Navis, Voir: BRixIus Germanus.
+          <lb/>CONRADUS DE ALEMANNIA. Voir: CONRADUS DE Halberstadt.
+          <lb/>CONRADUS DE HALBERSTADT
+          <lb/>Strasbourg, J. Knobloch, 1526.
+          <lb/>CONCORDANTIAE! MAIORES SACRAE BIBLIAE, IAM] recens
+          <lb/>praeter priorem locupletationem, summis uigilijs passim
+          <lb/>cum adau- ctae tùm recognitae.
+          <lb/>PIO LECTORI S. (12 lignes.)
+          <lb/>EX LIBERA ARGENTINA. ANNOM. D. XXVI.MENSE
+          <lb/>AVGVSTO. (Verso blanc).
+          <lb/>A la fin: ARGENTORATI EXCVDEBAT IOANNES ! Cnoblou¬
+          <lb/>chus. Mense Augusto. An. M. D. XXVI.
+          <lb/>In-fol., car. goth., 3 col., 324 ff. non ch. — 1 f. blanc, sign. a-z,
+          <lb/>A-Z, aa-gg. Suivent les CONCORDANTIAE PARTIVM SIVE Dic¬
+          <lb/>TIONVM IN- ] declinabilium totius Bibliae.
+          <lb/>84 ff. non ch., dont le dernier blanc, sign. AA-OO.
+          <lb/>Titre courant, réclames, notes marginales, initiale à fig. C.
+          <lb/>Au verso du titre de la 2e partie: SACRAE PAGINAE DocTo¬
+          <lb/>RIS EXIMH IOHANNIS de Secubia in Concordantias partium
+          <lb/>siue dictionum indeclinabilium PROLOGVS... (2 pages.)
+          <lb/>Nouvelle édition des Concordantiae achevées au 14e siècle par le
+          <lb/>frère Conrad de Halberstadt, et souvent imprimées depuis la fin du 15e
+          <lb/>siècle.
+          <lb/>*R10.271. Prov.: Friedrichs-Gymnasium, Francfort s. M., 14/XII
+          <lb/>1888; sans indic. du prix.
+          <lb/>Annotations manuscrites; au haut du titre: « Hic liber commenda¬
+          <lb/>tur ab Andrea Hypuario, in libro cui titulus fuit: De Theologo, seu de
+          <lb/>ratione studij theologici Libri inli. fol. 168.» Au milieu du tître: « Valen¬
+          <lb/>tini Simonis Serpesta-Anhaltini pastoris Leptiensis ex donatione Viri Dei
+          <lb/>Dn. Ant. Bunhosij... Anno 1640.»
+          <lb/>A l&amp;#x27;intérieur du dernier plat: «Lipsiae emit me Georgius Gertne¬
+          <lb/>rus 5 Maij Anno 1556.» Rel, anc.
+          <lb/>Bibl. St. Guillaume, Strasbourg.
+          <lb/>GPB: BN Berlin, BU Breslau. Schmidt VII, NO 309: BM
+          <lb/>Colmar et Bibl. Aarau.
+          <lb/>576
+          <lb/>R.25
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

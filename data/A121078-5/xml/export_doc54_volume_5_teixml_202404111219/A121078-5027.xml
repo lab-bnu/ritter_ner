@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:49.589527+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5027.tif
+IMAGE WIDTH: 2376
+IMAGE HEIGHT: 3882
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1335
+          <lb/>Marque typ. de Theod. Rihel. (H. &amp;amp; B. Planche XXXII,
+          <lb/>n° 17.
+          <lb/>Cum gratia &amp;amp; Priuilegio Caesareae Maiestatis.
+          <lb/>Argentorati.Excudebat Theodosius Rihelius, Anno!
+          <lb/>M. D. XCIX. (Verso blanc.)
+          <lb/>A la fin : Argentorati. (Même marque typ. qu’au f. du titre,)
+          <lb/>Excudebat Theodosius Rihelius, Anno Il M. D. XCIX.
+          <lb/>Grand in-fol., car, rom. et ital., 6 ff. non chiffrés, 1142 pp. ch., 39.
+          <lb/>ff. non ch.à 2 col. (Index) et 2 ff. blancs, titre courant, réclames,
+          <lb/>notes marg., init. ornées.
+          <lb/>Préface et dédicaces comme au n° précédent.
+          <lb/>R. 50. Prov. inconnue.
+          <lb/>Annotation mss., au bas du ler plat : Liber Bibliothecae Academiae
+          <lb/>Basiliensis.
+          <lb/>2e ex. R. 10.610. Prov. : Don de la BU de Fribourg-en-Br., 20/x, 1938.
+          <lb/>Timbre au f. du titre : Bibliothek des K. Landgerichts zu Elberfeld.
+          <lb/>2087
+          <lb/>SCHNELLENBERG. Voir: OCYORUS Tarquinius.
+          <lb/>SCHNEPFF Erhardus
+          <lb/>Strasbourg, Bl. Fabricius, 1555
+          <lb/>Confes-sio erhardi schne-) pffi, de eucharistia,hanc
+          <lb/>ob causam, hoc potissimum! tempore edita, quod certamina
+          <lb/>uetera, de Coena Dominica, nouis libellis classicum! canen¬
+          <lb/>tibus, recrude-scere incipiunt. (Feuille de lierre.)
+          <lb/>A la fin: Argentorati e- cudebat blasius fabricivs. (Verso
+          <lb/>blanc.).
+          <lb/>Imprimé à la suite de I. Westphal : Recta fides de coena
+          <lb/>domini.
+          <lb/>In-80, car. rom., 45 pp. non ch., sign. N 4a-S 8b, titre courant, réclames,
+          <lb/>init. ornées H. M.
+          <lb/>Au verso du titre :... principibus et do- Il minis, D. Iohanni Friderico
+          <lb/>II. D. Iohanni! Wilhelmo, &amp;amp; D. Iohanni Friderico III. I! Fratribus:
+          <lb/>Ducibus Saxoniae... — Iene in Thurin gis. Kalen. Decemb. Anni
+          <lb/>M. D. LV.  Erhar- dus Schnepfius. (Préface de 6 pp.)
+          <lb/>R. 102.181 (2). Prov. inconnue.
+          <lb/>Bibligoraphie. Voir : Schottenloher II, No 19281-19286.
+          <lb/>2088
+          <lb/>SCHNEWYL Johann
+          <lb/>S. I., 1526
+          <lb/>Der Blinden fürer bin ich genennt;
+          <lb/>Dem der sich selbs blind erkennt.
+          <lb/>Wer blind ist wils nitt verston,
+          <lb/>Der mag meyn wol müssig gon.
+          <lb/>Auszgang der ding die witz nympt war,
+          <lb/>Ursach des Büchs am end erfar.
+          <lb/>Gravure sur bois : une femme précède un aveugle à travers
+          <lb/>des buissons.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

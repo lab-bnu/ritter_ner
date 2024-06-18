@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:09.301015+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002293.tif
+IMAGE WIDTH: 2486
+IMAGE HEIGHT: 3958
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>LEBEN der Altväter. Voir: BUCH der Altväter n° 1181/2.
+          <lb/>RITTER, Rép, nos 1345-13481.
+          <lb/>LEFÈVRE d’Étables, Jacques. Voir: FABER Stapulensis.
+          <lb/>LEGEND von Peter Diemeringen, geboren von Staufenberg.
+          <lb/>Voir: EGENOLF von Staufenberg, RITTER von.
+          <lb/>LEGENDA aurea. Voir: JACOBUS de Voragine.
+          <lb/>LEHRE :... Hienach so folgt ein nutzliche leer... wo und wy
+          <lb/>man betten sol... [par Marc de Weidal. — Strasbourg,
+          <lb/>Jean Grüninger 1516, in-fol. [Ritter, Rép. n° 1488).
+          <lb/>Schmidt I, n° 152; Weller 995. Kristeller 99.
+          <lb/>2277
+          <lb/>LEO X (pape). Voir: CRONBERG, Hartmuth n° 1461; HUTTEN
+          <lb/>nos 2090, 2094; MIRANDULA n° 2692; WIMPHELING
+          <lb/>n° 3543; (RITTER, Rép. n° 1351).
+          <lb/>LEONARDUS de Utino : (Sermones aurei de sanctis). —
+          <lb/>(Strasbourg, Martin Schott, s. d., in-fol.).
+          <lb/>Hain 16.126; Proctor 394; Scott, (Suppl. Schmidt II), n° 2. —
+          <lb/>Londres, Brit. Mus. [Xve sièclel.
+          <lb/>2278
+          <lb/>LEONTONIOUS, J. Voir : PSALTERIUM n° 3045.
+          <lb/>LE TOURNEUR. Voir: VERSOR, Johannes.
+          <lb/>LEYENBUCH : Das Weltlich Leyenbuch. — Strasbourg,
+          <lb/>Jean Schott 1541, in-4°.
+          <lb/>Goedeke II, 324, n° 8 ; Scott (Schmidt II, Suppl.), n° 29. —
+          <lb/>Bibl. S. H. Scott, Oxford.
+          <lb/>2279
+          <lb/>LIBELLUS : Libellus auro praestantior de animae praepara¬
+          <lb/>tione... — (Haguenau, Thomas Anshelm, septembre)
+          <lb/>s. d., in-40.
+          <lb/>Kuczyński, n° 1261 ; Burg, n° 245; Walter, n° 2215 donne
+          <lb/>comme auteur Secer.
+          <lb/>2280
+          <lb/>291
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

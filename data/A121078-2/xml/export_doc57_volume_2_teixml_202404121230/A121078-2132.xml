@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:30.487067+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2132.tif
+IMAGE WIDTH: 2302
+IMAGE HEIGHT: 3828
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>128
+          <lb/>A la fin: Gedruckt zû Strasburg bei Wendel Rihel,
+          <lb/>den xxviij. Augusti, im Jar! M. D. XLVI.
+          <lb/>In-fol., car. goth., 19 ff. non ch., CCOLIII ff. ch. pour les 2 pre¬
+          <lb/>mières parties, LXXI pour la Je partie qui a un titre spécial:
+          <lb/>Kreüter Bûchs dritte Theile, Von Stauden, Hecken vnnd
+          <lb/>Beüme... M. D. XLVI. (Verso blanc.) Titre courant, réclames, notes
+          <lb/>marg., initiales goth. Après les 2 premières parties: Gedruckt zù
+          <lb/>Straszburg bei Wendel Rihel, den ersten Aprilis, Jm Jar.
+          <lb/>M. D. XLVI.
+          <lb/>Fol. 4 2a non ch.: ... Herrn Philipsen Landgrauen zû
+          <lb/>Hessen... Empeut Hieronymus Bock der Artznei lieb¬
+          <lb/>haber, wonhafftig zu Hornbach im! Waszgaw, sein... dienst
+          <lb/>... — Datum Hornbach, den ersten Aprilis Anno XLVI.
+          <lb/>(Préface de 2 pages et demie.)
+          <lb/>Fol. A 3b non ch.: Vorrede H. Hieronymi Bock! zûm
+          <lb/>Leser... (3 pages et demie.)
+          <lb/>Fol. b 1a: Wendel Rihel der Bûchdruckerzûm Leser.
+          <lb/>Dleweil ich freündtlicher Leser wider! meine fürgefaszte
+          <lb/>meinung im vorauszgangnen kreüter- bûch (édition 1539)
+          <lb/>befunden, das das selbige,... nit wenig hinderschlagen
+          <lb/>wor-den, darumb das die abbildung der kreütter nit
+          <lb/>drinnen, dann ich von vie- len, ja gar nahe jederman
+          <lb/>selb gehöret, so bald das Bûch erstlich ausgang-en, auch
+          <lb/>nachgehends für vnd für mir zû mehr malen zû geschri¬
+          <lb/>ben, warumb ich doch nit die Figuren der kreüter zû
+          <lb/>der artlichen vnd nutzlichen beschrei- bung gethon, habe
+          <lb/>ich allemal wie auch mein fürnemen geantwortet, des
+          <lb/>lesers vnd gemeinen mans hierinnen zû uerschonen, damit
+          <lb/>die selbigen di- ses nutzbarlichen Bûchs, von wegen das
+          <lb/>etwas höher am gelt nit entpe- ren müsten.
+          <lb/>Als ich aber befunden wie droben anzeigt, das me¬
+          <lb/>niglich solcher abbil-dung fast begirig, Jtem das auch
+          <lb/>wol andere kreüter Bücher so noch inn höherm kauff,
+          <lb/>dannocht jren gang vnd dem gemeinen man nit so be¬
+          <lb/>schwer- lich als ich gemeint. Habe ich auch des Kostens
+          <lb/>mühe vnnd arbeit nit ver- schonen wöllen, vnd für drei
+          <lb/>jaren angefangen die abbildung zûzerichten, vnd jetzunder
+          <lb/>zû der beschreibung hinzûgesetzet... — den 30. Martij
+          <lb/>1546. Suivent 14 ff. de table à 2 col.; 530 gravures de plantes. Cette
+          <lb/>Be édition de Rihel surpasse non seulement la première mais encore toutes
+          <lb/>les postérieures en beauté. Les gravures portent le monogramme DE=
+          <lb/>David Kandel; en général elles mesurent 142 mm en hauteur, tandis
+          <lb/>que la largeur varie entre 45-90 mm.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

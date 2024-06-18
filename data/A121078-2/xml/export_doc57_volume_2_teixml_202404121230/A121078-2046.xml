@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:27.456239+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2046.tif
+IMAGE WIDTH: 2362
+IMAGE HEIGHT: 3826
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>42
+          <lb/>ARETINO, Leonardo Bruni.
+          <lb/>Strasbourg, J. Knobloch, 1521.
+          <lb/>LEONAR DI ARETINI VIRI VN-] decunque docti, De bonis
+          <lb/>studijs E-! pistola mirè docta, tum studio-[sis omnibus
+          <lb/>eximiè com-moda. (Verso blanc.)
+          <lb/>Au verso du dernier f.: ARGENTINAE APVD JOANNEM
+          <lb/>KNOBLOCHIVM MENSE ] NOVEMBRI. ANNO.) M. D. XXI.
+          <lb/>d’attente; titre encadré (H&amp;amp; B Planche X, NO 5.)
+          <lb/>in-8°, car. ital, 12 ff. ch. titre courant, réclames, initiales
+          <lb/>Fol. 2a: ELEGANTISSIMI INGENI IVVENI! DN. CHRISTO¬
+          <lb/>PHORO TRVCH-(ses Baroni Ex Walpurg. Vuihelmi filio
+          <lb/>Dn. atque patrono suo mire can-dido Joannes Alexander
+          <lb/>Bras-(sicanus... — Tubingae ex aedi- bus nostris Ann.
+          <lb/>à nato Jesu M. D. XXI Mensis VIII bris XX die. (2pp.)
+          <lb/>Fol. 3a: ILLUSTRI DOMINAE BAPTISTAE DE MALATESTIS
+          <lb/>LEONARDUS ARETINUS. S....
+          <lb/>R 101.831 Prov.: L. Rosenthal, Munich, 2/xI. 1887; 12M.
+          <lb/>Notes mes. Au verso du titre, timbre: «Bibliotheca regia
+          <lb/>Monacensis».
+          <lb/>Schmidt, VII, No 221.
+          <lb/>72
+          <lb/>ARETINUS, Dialogus de moribus. Voir: FABER Jacobus, Artifi¬
+          <lb/>ciolis Introducto. Strasbourg, J. Grüninger, 1511.
+          <lb/>ARETIUS, Stocc-Hornii et Nessi in Bernatium Helvetiorum
+          <lb/>ditione montium. Voir: CORDUS Valerius, Annotationes,
+          <lb/>1561, fol. 232—235.
+          <lb/>ARGUMENTA
+          <lb/>Strasbourg, A. Bertram, 1599.
+          <lb/>Teudsche ARGUMENTA Oder Jnnhalt der Tragoediae
+          <lb/>M. Samuelis Junij Suebusinatis Silesij, LVCRETIA genant:
+          <lb/>Sampt! Einer Vorred und beschlusz! darausz der Jnnhalt
+          <lb/>vnd die Lehren derselbigen Tragoedi ab-zunemen.! Ge¬
+          <lb/>halten auff dem Theatro zu Straszburg, den 31. Augusti
+          <lb/>Anno 1599. (Vignette.)
+          <lb/>Getruckt zu Straszburg durch! Antonium Bertram. (Verso
+          <lb/>blanc.)
+          <lb/>A la fin, Vignette avec mascaron.
+          <lb/>in-8°, car. goth., 10 ff. non ch., sign. A-B, réclames.
+          <lb/>M 12.737. (3) Prov.: K. Theod. Völker, Francfort s. M., 3/x. 1900.
+          <lb/>73
+          <lb/>ARISTOTELES
+          <lb/>Strasbourg, W. Rihel, 1540.
+          <lb/>APIXTO TEAOTE HOAI] TIKON BIBAIA OKTO.
+          <lb/>ARISTOTELIS POLITICORVM! Libri octo.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

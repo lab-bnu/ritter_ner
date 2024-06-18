@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:03.836648+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002089.tif
+IMAGE WIDTH: 2506
+IMAGE HEIGHT: 3976
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>BÜCHLEIN (Von den Pferdarzneien). — Strasbourg, Mathias
+          <lb/>Hupfuff 1511, in-4°.
+          <lb/>Schmidt V, n° 91. (Double de n° 1215).
+          <lb/>1204
+          <lb/>BÜCHLEIN (Complexion der Menschen) : In disem biechlin
+          <lb/>wirt erfunden von complexion der menschen... —
+          <lb/>(Strasbourg, Martin Flach (29.x.] 1519), in-40.
+          <lb/>Schmidt VI, p. 29, n° 39; Rosenthal (Munich) Catal. 135 (1914)
+          <lb/>n° 1828; 110 M. Weller 1168.— Manque à la BN de Strasbourg,
+          <lb/>depuis 1918; mais il y en a une éd. de Hupfuff 1511 (Ritter
+          <lb/>Rép. n° 569), de Knobloch 1516 (Rép. n° 570) et une de
+          <lb/>Cammerlander avant 1539 (Rép. n° 571).
+          <lb/>1205
+          <lb/>BÜCHLEIN (die himmlich Fundgrub) : Diesz Büchlin wirt
+          <lb/>-
+          <lb/>genant die hymelisch Fundtgrub. Das gar nutzlich ist zu
+          <lb/>lesen und betrachten das leyden Christi unsers herren
+          <lb/>(par Johannes von Vattz?). — (Strasbourg, Mathias
+          <lb/>Hupfuff 1503), in-4°.
+          <lb/>Schmidt V, n° 26; Weller 255.
+          <lb/>1206
+          <lb/>BÜCHLEIN (die himmlisch Fundgrub) : (Idem). — (Strasbourg,
+          <lb/>Mathias Hupfuff 1507), in-4°.
+          <lb/>Schmidt V, no 69; Weller, 379. — Jadis Bibl. de Strasbourg,
+          <lb/>Incun, n° 4734, B M Zurich, B N Strasbourg (manque).
+          <lb/>1207
+          <lb/>BÜCHLEIN (die himmlich Fundgrub) : (Idem). — (Strasbourg,
+          <lb/>Conrad Kerner 1517), in-4°.
+          <lb/>Panzer, Annalen I, 401; Schmidt IV, p. 27, n° 1 ; Weller 1041.
+          <lb/>— Bâle.
+          <lb/>1208
+          <lb/>BÜCHLEIN (Gesangbüchlein) : Byechlin der geystlichen
+          <lb/>gsäng : Ire partie 1534; 2e partie : Von der Erscheinung,
+          <lb/>Wandel und Leiden Christi unsers heylandts; 3e partie:
+          <lb/>Von der Auferstehung, Hymelfart Christi unsers Herren
+          <lb/>und von dem Heyligen Geyst. M. D.XXXVI; 4e partie:
+          <lb/>87
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

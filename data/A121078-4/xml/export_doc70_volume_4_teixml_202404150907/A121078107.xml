@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:45.684556+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078107.tif
+IMAGE WIDTH: 2314
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>MEDULLA
+          <lb/>Sélestat, L. Schurer 1520
+          <lb/>DIVO (entre 2 feuilles de lierre) MAXIMILIANO IV] bente
+          <lb/>Pragmaticae sancti- onis Medulla ex- cerpta. (Verso blanc.)
+          <lb/>A la fin: SELESTADH IN AEDIBVSLazarii Schurerii,
+          <lb/>Mense Ma-io. An. M. D. XX.
+          <lb/>In-4°, car. rom., 18 ff. non ch., sign. A-D, titre courant, récla¬
+          <lb/>mes, notes marg., titre encadré avec la date 1519 en bas, en haut et en
+          <lb/>bas des hommes nus avec toutes sortes d’animaux fantastiques, des deux
+          <lb/>côtés colonnes avec des têtes humaines.
+          <lb/>Au recto du dernier f., marque typ. de L. Schurer. (HEB
+          <lb/>Planche LXXVI n° 2), au-dessous de l’écu: LAZA. SCHVR, et 6 lignes
+          <lb/>de texte.
+          <lb/>Fol. a 2a:... Domino Maximiliano a Bergis... Iacobus Spiegel
+          <lb/>Slestadiensis, Regius secretarius... Ex aedibus nostris! Selestadii die
+          <lb/>XV. Maii. M. D. XX. (Préface, 4 pp.)
+          <lb/>Fol. A 4a: Maximilianus... Iacobo Vimphe-] lingo... Datum in op¬
+          <lb/>pido no! stro imperiali Uberlingen, die. XVin̈. Mensis Septem- bris. Anno
+          <lb/>domini M. D. X. Regni nostri Ro-mani XXV.
+          <lb/>Au verso: Invictissimo D. nostro! Imp. Maximiliano Iacobus Vim¬
+          <lb/>phelingus... Ex Argentorato! Cal. Novemb. M. D. X. (4 pp.)
+          <lb/>R100.608. Prov. inconnue.
+          <lb/>BM et Grand Séminaire, Strasbourg ine. A 174.
+          <lb/>1500a
+          <lb/>MEINARDUS Joh.: Annotationes aliquot simplicium. Voir:
+          <lb/>BRUNFELS Otto: Novi Herbarii Tomus Il. Strasbourg,
+          <lb/>J. Schott 1536.
+          <lb/>MEISTER: Die sieben weisen Meister. Voir: GESTA ROMANO¬
+          <lb/>RUM.
+          <lb/>MELANCHTHON Philippus: Annotationes. Voir: CICERO: Offi¬
+          <lb/>ciorum libri III. Strasbourg, W. Rihel s. d. R101.656.
+          <lb/>993
+          <lb/>MELANCHTHON Philippus
+          <lb/>Haguenau, J. Secer s. d.
+          <lb/>PH. MEL ANCHTHONIS DE ARTE DICEN di Declamatio.
+          <lb/>Eiusdem de corrigendis studiis sermo. Rodolphi Agricolae
+          <lb/>de formandis stu diis Epistola doctissima, Luciani in
+          <lb/>Calumniam oratio, latine reddita à Melanchthone.! Item
+          <lb/>Luciani opusculum ad indoctum! &amp;amp; multos libros ementem.
+          <lb/>R. 63
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

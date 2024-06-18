@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:33.863174+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2244.tif
+IMAGE WIDTH: 2292
+IMAGE HEIGHT: 3820
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>240
+          <lb/>Jar! gehalten, ihres glaubens vnd fürhabens, der Religion
+          <lb/>halb, rechenschafft gethan haben.
+          <lb/>Schriftliche Beschirmung vnd verthe- digung der sel¬
+          <lb/>bigen Bekantnusz, gegen der Confuta- tion vnd Wider¬
+          <lb/>legung, so den gesandten der vier! Stätten vff bemeldtem
+          <lb/>Reichstage, offen lich fürgelesen, vnnd hie getrewlich
+          <lb/>einbracht ist. (Verso blanc.)
+          <lb/>A la fin: Getruckt zû Straszburg, durch Johan. Schweint-
+          <lb/>zer, vff den xxij. Augusti, Anno, M. D. XXXI. (Verso blanc.)
+          <lb/>In-40, car. goth., 72 ff. non ch., réclames, notes marginales, ini¬
+          <lb/>tiales goth.
+          <lb/>fol. A 2a: ALlen vnnd ie! den Christglaubigen wesz
+          <lb/>Stands, würden, oder ! wesens, die seyen, Entbietten wir
+          <lb/>die Meister, Burgermei ster, vnnd Räthe, der stätt,
+          <lb/>Straszburg, Costentz, Mem! mingen, vnnd Lindaw, vn ser...
+          <lb/>früntlich dienst... — (2 ff.)
+          <lb/>R 101469. Prov.; Bibl. Ed. Cunite, Strasbourg, 1886. Notes mes.
+          <lb/>Au recto du f. de garde:Editio princeps.&amp;quot;, au verso: Index in hanc
+          <lb/>Confessionem Argentinensem. — Au bas du titre: Sum Petri Venetscherj.
+          <lb/>2. ex. R102351. Prov.: Recteur Müller, Quedlinbourg, 15/V.
+          <lb/>1889, sans indication de prix. Notes mss, dans le texte.
+          <lb/>3. ex. R 102.395. Prov.: Bibl. Heitz. Netes mss. au recto du f.
+          <lb/>de garde:¿ Jacob Sturm und Mathias Pfarrer, die edlen Männer von Fes¬
+          <lb/>tigkeit und Einsicht, voll Vaterlandsliebe und echtem Christentum, waren
+          <lb/>von dem Magistrat zu Strassburg auf den Reichstag zu Augsburg geord¬
+          <lb/>net. Einige Zeit später verlangten diese Abgesandten dass ihnen der Ma¬
+          <lb/>gistrat von Strassburg einige sachkundigen Theologen zur Aufsetzung
+          <lb/>einer gründlichen Verantwortung zusenden möge. Zum 16. Juni kamen
+          <lb/>Butzer und Capito zu diesem Behufe in Augsburg an. In 16 Tagen been¬
+          <lb/>digten sie gegenwärtige Schrift in lateinischer und deutscher Sprache,
+          <lb/>welcher der griechische Name Tetrapolitana wurde.
+          <lb/>Vide Rœhrich, Geschichte der Reformation in Elsass. Vol. II p. 129 ff.
+          <lb/>Edel, Geschichte der Uberweisung der Augsburg. Confession p. 40 ff.
+          <lb/>B M Strasbourg. Walter: Sélestat, N° 747. GPB: Berlin SB.
+          <lb/>361
+          <lb/>Baum N° 25; Mentz No 27.
+          <lb/>(BUTZER Martin)
+          <lb/>Strasbourg, G. Ulricher 1531.
+          <lb/>Confessio re ligionis christianae, sacra-tissimo Impera¬
+          <lb/>tori Carolo V. Caesari Au-gusto in Comitijs Augustae.
+          <lb/>Anno M. D. XXX. per Legatos Ciuitatum Argentorati,
+          <lb/>Constantiae, Mem-mingae, &amp;amp; Lin- dauiae ex- hibita.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

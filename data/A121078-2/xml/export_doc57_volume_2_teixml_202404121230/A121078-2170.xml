@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:31.597142+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2170.tif
+IMAGE WIDTH: 2294
+IMAGE HEIGHT: 3826
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>166
+          <lb/>BRASSICANUS Johannes Alexander Strasbourg, J. Knobloch, 1523.
+          <lb/>HYMNVS IN APOLLINEM, STV diorum pariter ac stu¬
+          <lb/>diosorum! omnium EXEMPLAR.
+          <lb/>Ordine conscriptus alphabetico. à D. Ioanne Alexan¬
+          <lb/>dro Brassicano lurecon sulto conuersus,) atque scho¬
+          <lb/>lijs neutiquam aspernandis illustratus.
+          <lb/>A la fin: ARGENTORATI IOHANNES KNOBLOCHVS STAN¬
+          <lb/>NEIS CHA- RACTERIBVS EXCVDEBAT. QVINTO NONAS MA¬
+          <lb/>IAS. PROPE SACRVM DI- VAE BARBARAE! PHANVM. ] ANNO
+          <lb/>M. D. XXIII.
+          <lb/>Au verso: marque typographique de J. Knobloch. (H e B. Plan¬
+          <lb/>che IX, N0 2, Silvestre, No 941.)
+          <lb/>In-80, car. ital. et grecs, 24 ff. non ch, sign. A-C, réclames,
+          <lb/>grandes et belles initiales à fig. E, A; titre encadré (H dt B, Planche
+          <lb/>X. No 6.
+          <lb/>Au verso du titre: DE PATRONO SVO IN-) comparabili.
+          <lb/>D. Christophoro Tru- chses Barone ex Vualdpurg
+          <lb/>Libellus loquitur. (3 distiques, 3 feuilles de lierre.)
+          <lb/>fol. A 2a non ch.: VIRO POLY-HISTORI IOANNI FABRO
+          <lb/>SVO, CONSTANTIENSI CANONICO PROBE MERITO, IOAN.
+          <lb/>ALEXAND. BRAS SICANVS. L L. DOCTOR... — Anno...
+          <lb/>M. D. XXIII. Mense Martio.
+          <lb/>R 101.878. Prov. : Don de Fidelis Butsch, Augsbourg 1871.
+          <lb/>Oxford Bibl. Bodleiana : Schmidt VII, N0 258; BU Gœttinque.
+          <lb/>259
+          <lb/>BRASSICANUS, Carmen óootxoouxòv. Voir: CAMERARIUS, Elegiae.
+          <lb/>Strasbourg, Cr. Mylius, 1541.
+          <lb/>BRAUN Ioh. lac. Voir: CArMina gratulatoria. R 102,288.(8)
+          <lb/>BRAUNSCHWEIG Hieronymus. Voir: BRUNSCHWIG Hieronymus.
+          <lb/>BREDERODIUS Petrus Cornelius
+          <lb/>Strasbourg, Th. Rihel, 1593.
+          <lb/>ANAATXIX Seu! RESOLVTIO DI ALECTICA QVATVOR
+          <lb/>Librorum Institutionum Im-! perialium. In Qua! Svis
+          <lb/>LOCIS PRO IVRE ANTIQVOmultae vtiles &amp;amp; Cottidianae
+          <lb/>Iuris Quaestiones breue! explicatione restitutae sunt.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

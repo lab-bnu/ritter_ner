@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:05.503051+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie021.tif
+IMAGE WIDTH: 2486
+IMAGE HEIGHT: 3926
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>BERNARDUS (Pseudo) : Floretus. — Strasbourg, Martin Flach,
+          <lb/>1478, in-8°.
+          <lb/>Hain-Copinger 2915, Schmidt VI, p. 1, n° 5; Panzer I, 22, 27.
+          <lb/>(Bibl. Coenobii Campilil.); GW III, col. 705 : « Fälschung».
+          <lb/>111
+          <lb/>BERNARDUS, (Pseudo): De planctu B. Mariae. Avec: TEXTOR,
+          <lb/>Sermones tres de passione Christi. — (Strasbourg,
+          <lb/>1496), in-fol. (n° 642/3).
+          <lb/>G W vol. III, col. 730: Ist der letzte Teil von Copinger 5778 ;
+          <lb/>Sermones tres de passione Christi. Strasbourg (impr. du
+          <lb/>Jordanus) 11. février, 1496. Hain 2909.
+          <lb/>112
+          <lb/>BERTHOLDUS : Zeitglöcklein des Lebens und Leidens
+          <lb/>Christi. — Kirchheim, (Marcus Reinhard vers 1491),
+          <lb/>in-8°.
+          <lb/>G W 4166; Schreiber 3449. B M. Mayence, Musée Germ.
+          <lb/>Nuremberg.
+          <lb/>113
+          <lb/>BERTRANDUS de Turre : Sermones de tempore. Pars hiema¬
+          <lb/>lis. — (Strasbourg, impr. du Jordanus — Georges Husner
+          <lb/>vers 1500), in-4°.
+          <lb/>GW4180; Hain-Copinger 3003; Pellechet 2252. B U Budapest,
+          <lb/>Copenhague, B N Munich etc.
+          <lb/>114
+          <lb/>BIBLIA (lat.) : — (Strasbourg, J. Mentelin pas après 1460
+          <lb/>ou 1461), in-fol.
+          <lb/>G W 4203. Hain 3003. Pellechet 2278. Proctor 196; Voulliéme:
+          <lb/>Berlin 2098. B N Berlin, Paris, Vienne etc.
+          <lb/>115
+          <lb/>BIBLIA (lat.) : — (Strasbourg, H. Eggestein pas après 1468),
+          <lb/>in-fol,
+          <lb/>G W 4206. B N Berlin n’a que Pars I avec la date manuscrite
+          <lb/>1468. Hain-Copinger 3036, Pellechet 2273, Proctor 256;
+          <lb/>Voulliéme : Berlin 2145, 3; Brit. Mus. Cat. I, 66. B N Berlin,
+          <lb/>Madrid, Vienne etc.
+          <lb/>116
+          <lb/>19
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

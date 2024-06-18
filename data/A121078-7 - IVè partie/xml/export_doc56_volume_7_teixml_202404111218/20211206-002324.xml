@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:09.890549+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002324.tif
+IMAGE WIDTH: 2488
+IMAGE HEIGHT: 3982
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>LUSCINIUS, Ottomar : Musicae institutiones... — Strasbourg,
+          <lb/>Knobloch faoût 1515), in-4°. (La dédicace de l’auteur
+          <lb/>à Pollion et à Rudolphinger est du 5.VIII.1515].
+          <lb/>Graesse IV, p. 299; Schmidt VII, n° 100 : Bâle et jadis bibl.
+          <lb/>de Strasbourg, incun, n° 3491; Panzer 6, 72, 376 et 11, 362,
+          <lb/>376.
+          <lb/>2447
+          <lb/>LUSCINIUS, Ottomar: Progymnasmata graecanicae litera¬
+          <lb/>turae... — (Strasbourg, Jean Knobloch (29 mars] 1517),
+          <lb/>in-40.
+          <lb/>Schmidt VII, n° 138: B M Colmar; Ritter: B M Strasbourg,
+          <lb/>n° 1413 ; Panzer 6, 83, 474.
+          <lb/>2448
+          <lb/>LUSCINIUS, Ottomar : Progymnasmata Graece et latinae
+          <lb/>literaturae. Senarii proverbiales ex diversis Poetis
+          <lb/>graecis à Stoloco collecti... — (Strasbourg, Jean
+          <lb/>Knobloch, décembre 1521, in-80.
+          <lb/>Panzer 6, 96, 595; Ritter, Rép. 2193; Schmidt VII, n° 224.
+          <lb/>2449
+          <lb/>LUSCINIUS, Ottomar : (Idem). — (Strasbourg, Jean Knobloch
+          <lb/>1521), in-8°.
+          <lb/>Panzer 6, 103; Schmidt VII, n° 225. (B N Strasbourg
+          <lb/>R 100.033, Rép. 1411).
+          <lb/>2450
+          <lb/>LUSCINIUS, Ottomar : Progymnasmata graecae literaturae...
+          <lb/>— (Strasbourg, Jean Knobloch 1523), in-8°.
+          <lb/>Panzer 6, 103, 661; Schmidt VII, n° 269 : Bibl, royale Dresde.
+          <lb/>2451
+          <lb/>LUSCINIUS, Ottomar : Seria Jocique dulcissimo literarum
+          <lb/>mecœnati D. Ant. Fuggero ab Ottomar Luscinio...
+          <lb/>congesta. Ex Academia Friburgensi, idibus Januarii Anno
+          <lb/>1529. — [Strasbourg) 1529.
+          <lb/>Graesse IV, p. 299; Beaulieux, p. 192 : U B Paris (Réserve
+          <lb/>12278 et Rés. Y2 3192).
+          <lb/>2452
+          <lb/>LUSCINIUS, Ottomar : Musurgia seu Praxis Musicae... duobus
+          <lb/>Libris absoluta. Eiusdem... de Concentus polyphoni,
+          <lb/>322
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

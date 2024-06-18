@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:13.431086+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002472.tif
+IMAGE WIDTH: 2498
+IMAGE HEIGHT: 3990
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>fürnemer, und bisz auff jetzige zeit verlauffener Sachen.
+          <lb/>Durch Michaelem Beuther von Carlstatt... — Strasbourg,
+          <lb/>Théodose Rihel 1568, in-fol.
+          <lb/>Ritter: B M Strasbourg, n° 1936.
+          <lb/>3237
+          <lb/>SLEIDAN, Johannes : (Idem). — Strasbourg, Théodose Rihel
+          <lb/>1570, in-fol.
+          <lb/>Ritter : B M Strasbourg, n° 1937.
+          <lb/>3238
+          <lb/>SLEIDAN, Joh. : Histoire de l’Estat de la Religion et Répu¬
+          <lb/>blique sous l’empereur Charles Cinquiesme... En outre
+          <lb/>ont este adiont (sic) trois Livres des Quatre Empires
+          <lb/>souverains, nouvellement mis en lumière par ledit
+          <lb/>Auteur peu de temps avant son trespas. — Strasbourg
+          <lb/>(Josias Rihel) 1568, in-fol.
+          <lb/>Ritter, Hist. de l’impr., p. 368.
+          <lb/>3239
+          <lb/>SLEIDAN, Joh. : Trois livres des Quatre Empires souverains,
+          <lb/>nouvellement mis en lumière. — Strasbourg, Josias Rihel
+          <lb/>1568, in-fol. (Impression à part des trois livres de
+          <lb/>l’Histoire de la Religionl.
+          <lb/>3240
+          <lb/>SESELLIUS, Cl., n° 3222.
+          <lb/>(Sleidan, voir auss : Ritter, Rép. nos 2127-2152l.
+          <lb/>SMARAGDUS (Abbas) : Zmaragdi abbatis viri sanctimonia et
+          <lb/>doctrina clarissimi (qui vixit anno Domini D.CCCC.
+          <lb/>LXX). In Evangelia et Epistolas quae per circuitum
+          <lb/>anni in templis leguntur, cum primis docta &amp;amp; pia explica¬
+          <lb/>tio, ex principibus Ecclesiae doctoribus... Iam recens
+          <lb/>inventa revisa &amp;amp; in Ecclesiae Christianae profectum
+          <lb/>aedita (Marque typ.). — Strasbourg, G. Ulricher, mars
+          <lb/>1536), in-fol.
+          <lb/>Bibl. S. Guillaume et Bibl. Grand Sém. A C 92. Strasbourg.
+          <lb/>Walter, n° 2245 [éd. allemande, Crato Mylius 10 août 1536:
+          <lb/>Ritter, Rép. n° 2153).
+          <lb/>3241
+          <lb/>470
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

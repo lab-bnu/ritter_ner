@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:05.850322+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3072.tif
+IMAGE WIDTH: 2324
+IMAGE HEIGHT: 3840
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>516
+          <lb/>80. Kursiv, 19 unn. Bll., Kopft., Kust., Marg., Init. N. P,
+          <lb/>C, 0. Vign.
+          <lb/>Bl. 2a: ERASMVSROTERODAMVS PETRO! Viterio, libe¬
+          <lb/>ralium disciplinarum professori eximio, S. D. (2S.)
+          <lb/>Notiz auf dem Titelbl.: Carmeli Strigoniensis, (?)
+          <lb/>R 100.943. Prov.: Bibl. Böcking. Bl. 12 u. 13 fehlen. Handschr.
+          <lb/>GK: UB Kiel; BN Paris, Rés. Z. 2002.
+          <lb/>782
+          <lb/>ERASMUS: De copia verborum (Epitome)
+          <lb/>Strassburg 1527
+          <lb/>EPITOME LIBRI DE COPIA VERBORVM] Erasmi Rotero¬
+          <lb/>dami, qua ratio uariandae orationis exemplis atque expla¬
+          <lb/>na tionibus paulò apertio ribus traditur.
+          <lb/>ARCENTORATI. ANNO M. D. XXII. (Rücks, leer.)
+          <lb/>80. Antiq, 47 num. Bll., Kopft., Kust., Marg.
+          <lb/>&amp;quot;R100,908. Prov. unbekannt.
+          <lb/>Fehlt bei Schmidt.
+          <lb/>783
+          <lb/>ERASMUS: De conscribendis epistolis Strassburg, Ch. Egenolf 1529
+          <lb/>DE CON SCRIBENDIS EPI-stolis, D. ERASMI Rotero¬
+          <lb/>dami Opus, lam denuo ab Autore, multis locis, &amp;amp; au¬
+          <lb/>ctum, &amp;amp; recognitum. ! ANNO, M. D. XXIX.
+          <lb/>IMpENSIS HONESTI CI- uis, Pauli Goetz, ARGENTO- RATI
+          <lb/>excudebat Christi- anus Aegenolphus.
+          <lb/>8°, Kursiv, 208 num. Bll., Kopft., Marg., Init. Q, Titeleinfassung
+          <lb/>(Siehe Nr. 33).
+          <lb/>R102.070. Prov.: Rosenthal, München, 21. V. 1885. Handschr.
+          <lb/>Eintragung auf dem Titelbl.: Fahnenberg 1824.
+          <lb/>2. Ex.: R100.020. Prov.: R. Walde, Einbeck (Hannover), 9. XI.
+          <lb/>1897. Auf dem Titelbl, wird handschr, bemerkt, dass im Literarischen
+          <lb/>Anzeiger 1806 S. 265 eine Ausgabe von 1532 verzeichnet ist. Darunter:
+          <lb/>Exemplaria hujus editionis omnino disparuerunt et sese non solum in doc¬
+          <lb/>tiorum Bibliothecas sed et vulgarium hominum scrinia penitus obdiderunt.
+          <lb/>GK: UB Königsberg.
+          <lb/>784
+          <lb/>ERASMUS: Colloquia
+          <lb/>Strassburg, Wolfg. Köpfel 1529
+          <lb/>FAMILIA RVM COLLOQVIO-rum Des. ERASMI ROTE
+          <lb/>rodami opus multis nomini- bus utilissimum, adiectis
+          <lb/>aliquot colloquijs an- tehac non ex cusis. (Epheublatt.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

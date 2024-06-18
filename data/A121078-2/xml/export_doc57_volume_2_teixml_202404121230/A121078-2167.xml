@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:31.543847+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2167.tif
+IMAGE WIDTH: 2292
+IMAGE HEIGHT: 3826
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>163
+          <lb/>R102.101.(1) Prov.: Echange avec la bibl. du gymnase de Heil¬
+          <lb/>bronn, 2/IV, 1878. De nombreuses notes mss. Rel. anc.
+          <lb/>Schmidt IV, p. 24, No 25; Jadis Bibl. de Strasbourg, Incun.
+          <lb/>No 1197.
+          <lb/>254
+          <lb/>BRASSICANUS Johannes
+          <lb/>Haguenau, Th. Anshelm, 1518.
+          <lb/>Joannis Brassicani Tubingensis Pedotribae Institu
+          <lb/>tiones grammaticae elima tissimae.
+          <lb/>IN OSORES (Distique.)
+          <lb/>ALEXANDER BRASSICANVS Ivnior, (2 distiques.)
+          <lb/>Panegyrica epistola qua gymnasium Tu bingense
+          <lb/>extollitur &amp;amp; commendatur.
+          <lb/>Hagenoe.
+          <lb/>A la fin: Impressum Hagnoae in aedibus Thomae Ans¬
+          <lb/>helmi Badensis. Mense Iunio. Anno M. D. XVIII.
+          <lb/>Marque typographique de Th. Anshelm. (H dt B, Planche LXII,
+          <lb/>No 3; Silvestre, No 61.) (Verso blanc.)
+          <lb/>In-4°, car, rom., 112 ff. non ch., sign. a-x, titre courant, titre
+          <lb/>rouge et noir, encadré. (H d B, Planche LXI, NO I.)
+          <lb/>Au verso du titre: Ad... Ioannem de Salm. Ioannis
+          <lb/>Brassica ni epistola.... — Datae. XVI. kalendas Martias.
+          <lb/>fol. A 3a non ch.: IOANNIS BRASSICANI AD EXTERNARVM
+          <lb/>nationum eruditissimos epistola... — Ex Tubinga kalendis
+          <lb/>Maiis. (2 pages et demie.)
+          <lb/>fol. A 4a non ch.: IOANNES (!) BRASSICANI AD LIBRVM! Phal¬
+          <lb/>lecium. (22 vers.)
+          <lb/>Suivent des distiques de : Udalricus Rusticus, Iohannes
+          <lb/>Iunior, Dionysius Reuchlin et Bebelius ad Brassicanum.
+          <lb/>R101.891. Prov.: Don de K. Trübner, Strasbourg, 1871.
+          <lb/>GPB: Berlin (incomplet), Halle BU; Kœnigsberg BU.
+          <lb/>255
+          <lb/>BRASSICANUS Iohannes
+          <lb/>Strasbourg, J. Prüss fils, 1519.
+          <lb/>IOANNIS BRASSICANI TV-) bingensis Paedotribae
+          <lb/>Insti tutiones grammaticae elimatissimae. IN OSORES,
+          <lb/>(1 distique) ALEXANDER BRAS- [ SICANVS IVNIOR. (2 distiques.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

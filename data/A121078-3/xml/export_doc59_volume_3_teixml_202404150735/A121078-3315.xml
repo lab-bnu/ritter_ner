@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:11.154119+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3315.tif
+IMAGE WIDTH: 2362
+IMAGE HEIGHT: 3856
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>HELDELIN Kaspar
+          <lb/>Strassburg, Cr. Mylius 1538
+          <lb/>PARAPHRA SIS IN XVI. ORATIONES Vergilij, quae quidem
+          <lb/>prima Aeneidos libro con tinentur. PER GASPAREM HEL¬
+          <lb/>DELINVM Ludimagistrum Lindauiensem. Cum alijs, quae
+          <lb/>proxima pagina indicat.
+          <lb/>AD LECTOREM. (3 Dist.)
+          <lb/>M. D. XXXVIII. Cum Gratia &amp;amp; Priuilegio.
+          <lb/>Am Schluss: ARGENTORATI APVD CRA- TONEM MYLIVM,
+          <lb/>AN. M. D. XXXVIII. MENSe SEPT. (Epheubl.)
+          <lb/>Auf der Rücks, des letzten. Bl. Druckerm, des Cr. Mylius. (HCB
+          <lb/>Tafel XXVI Nr. 3; Silvestre Nr. 1089.)
+          <lb/>8°, Kursiv, 205 S., Kopft., Kust., Marg., Init.
+          <lb/>Bl. A 2a: ... lacobo Bedroto, Domino suo amicissimo,
+          <lb/>Gaspar Hel-delinus.... — Lindauij XXVI.Ianuarij,
+          <lb/>Anno M. D. XXXVIII.
+          <lb/>R101.817. Prov.: H. Lesser, Breslau 28. xI. 1889; 1 M. 50.
+          <lb/>BN Paris, R. 25951-25952 u. Yc. 5369.
+          <lb/>1121
+          <lb/>757
+          <lb/>HELDELIN Kaspar
+          <lb/>[Strassburg] 1575
+          <lb/>Eine Christliche predigt vber der Leiche des Ehrwür¬
+          <lb/>digen hochgelerten Herrn M.: Matthiae Flacij Illyrici, Wei¬
+          <lb/>land getrewen Dieners! vnd bestendigen Merterers Jesu
+          <lb/>Christi, Frommen Hertzen! zu gut gestellet,Durch! M.
+          <lb/>Gasparem Heldelinum Lindauiensem.
+          <lb/>Item Summarischer Bericht, der Handlungen vnd
+          <lb/>Streitsachen Herrn Matthiae Flacii! Illyrici, von im selbst
+          <lb/>verzeichnet.Esaie 56.... 1575.
+          <lb/>Auf der Rû̈cks.: Ware Bildnus des Ehrwürdigen Herrn
+          <lb/>Mat- thiae Flacij Illyrici, Diener des Worts Gottes. Dar¬
+          <lb/>unter: Portrãt des Flacius Illvricus.
+          <lb/>40, Got., 136 unn. Bll., Sign. A-Z, Aa-Kk, Kopft., Kust., Init.
+          <lb/>Bl. 2: Vorrede des Verfassers an Adolff Hermann Riedesel 2u
+          <lb/>Eysenbach, Erbmarschalck zu Hessen.
+          <lb/>Bl. Siij: Erzehlunge der Handlungen, oder Religions¬
+          <lb/>strei! ten vnd Sachen Matthiae Fl. Illvrici, von im! selbs
+          <lb/>trewlich vnd warhafftiglich, auf Be¬
+          <lb/>Strasburg, beschrieben, Anno 1568. Strasburg.
+          <lb/>ger der Prediger zu
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:52.110364+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078318.tif
+IMAGE WIDTH: 2322
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1204
+          <lb/>R101795. Prov.: Bibl. de l&amp;#x27;ancienne faculté de médecine de Stras¬
+          <lb/>bourg. A l&amp;#x27;intérieur de la reliure, ex-libris du Prof. Philippe Henri
+          <lb/>Bœcler, signé J. Striedbeck.
+          <lb/>Proctor II Sectio I n° 10113: Londres, British Museum; Schmidt
+          <lb/>1880
+          <lb/>VII n° 146.
+          <lb/>PLATINA Baptista
+          <lb/>Strasbourg 1546
+          <lb/>Historia von der Bäpst und Keiser Leben.Deutsch
+          <lb/>von Casp. Hedio.
+          <lb/>A la fin: Mit Keiserlicher freiheit auff Siben jar. Ge¬
+          <lb/>druckt zû Straszburg. Als man zalt nach! Christi gepurt.
+          <lb/>M. D. XLVI.
+          <lb/>In-fol,, car. goth., 14 ff. non ch., CCLXXXI ff. ch., 7 ff. non ch.
+          <lb/>à 2 col. (table), titre courant, réclames, notes marg.
+          <lb/>Fol. AA 2a :... Herrn Ott! Heinrichen Pfaltzgraven bei Rhein...
+          <lb/>C. Hedio... — Datum Straszburg im! Jar unsers einigen Heilands Chri¬
+          <lb/>sti, M. D. XLVI. den xX. Martii. (Préface de 6 pp.)
+          <lb/>Fol. A4 5b: Namen der Bäpst... (9 pp. à 2 col.)
+          <lb/>Fol. CC 4a: Vorred Bap. Platine in das Buch vom! leben der
+          <lb/>Bäpst, An Bapst Sixtum iiï. (2 pp.)
+          <lb/>Fol. 278b: Oration oder Predig in der! leich Doctor Martin Lu¬
+          <lb/>thers! gehalten.Durch Philippum Melanchthonem.Wittenberg. Anno
+          <lb/>M. D. XLVI auff den xxiï tag Fe-] bruariï. Durch Caspar Hedion aus be¬
+          <lb/>sonderer Liebe zu! den beden preceptoren, verteutscht den xxii. Martii.
+          <lb/>(7 pp.)
+          <lb/>R10.361. Prov.: Bibl. Heitz, Strasbourg 18r1. Feuille du titre
+          <lb/>manque.
+          <lb/>Bibl. St-Guillaume, Strasbourg.
+          <lb/>1881
+          <lb/>PLAUTUS
+          <lb/>Strasbourg, J. Pruss vers 1510
+          <lb/>Aulularia Plautina: comediarum lepidissima: quae
+          <lb/>etsi alias incompleta, a Codro Urceo tamen est perfecta.
+          <lb/>Cum familiari explanatione.
+          <lb/>A la fin: ... opera providi Jo! annis Prüsz Argentini
+          <lb/>ea dem comoedia est! exarata. [vers 1510, date à laquelle Jean
+          <lb/>His et Philesius, dont le fol. A 2a contient des vers, ont été à Stras¬
+          <lb/>bourg; Philesius mourut en 1511.] (Verso blanc.)
+          <lb/>In-40, car, rom., 40 ff. non ch., sign. A-H, titre courant, init.
+          <lb/>goth.; au verso du titre grav. représentant 3 personnages [commentator,
+          <lb/>Plautus et Codrusl. (Voir p. 1205.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

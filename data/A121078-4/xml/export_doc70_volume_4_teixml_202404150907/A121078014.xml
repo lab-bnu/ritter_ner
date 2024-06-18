@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:42.876061+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078014.tif
+IMAGE WIDTH: 2372
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>898
+          <lb/>LA TOUR DE LANDRY Geoffroy de Strasbourg, J. Knobloch 1519
+          <lb/>Der Ritter vom turn Oder der Spiegel der Tugent
+          <lb/>vnd Ersamkeyt, mit gar schönen vnd köstlichen hy¬
+          <lb/>storien Exemplen, zû vnderwysung syner Kynd... (Grav. sur
+          <lb/>bois: Paysage, à l’arrière plan deux troncs d’arbre et une ville au pied
+          <lb/>d’une montagne, à l&amp;#x27;avant plan le chevalier de la Tour en armes, pré¬
+          <lb/>sentant son livre à ses deux filles. La gravure revient fol. 118a.)
+          <lb/>A la fin, avant la table: Der Spiegel der Tugent vnd Er¬
+          <lb/>sam- kevt... in Frantzösischer sprach begrif-fen, vnd
+          <lb/>durch den Edlen fürnemen vnd Stren- gen herrn Mar¬
+          <lb/>quart von Steyn, Ritter, vnd Landtuogt zu Montpellicart,
+          <lb/>in Tütsch transzferiert vnd gezogen in dem jar na¬ch
+          <lb/>Christi geburt tusent fierhundert nüntzig vnnd dry jar.
+          <lb/>Jetz nüw ge- truckt zù Straszburg durch den! Ersamen
+          <lb/>Johannem Knob- louch. Am sybenden tag des! Mertzens.
+          <lb/>Als man zalt M. ccccc. vnd. xix. jar.
+          <lb/>In-4°, car. goth., 118 ff. ch.; 5 ff. non ch. (table), 46 grav. d’après
+          <lb/>celles de l&amp;#x27;éd. de Bâle de 1513. La Tour a vécu vers 1370; le traducteur
+          <lb/>est le chevalier Marquard vom Stein, Landvogt de Montbéliard. La
+          <lb/>traduction parut d’abord à Bâle chez Furter en 1493 et de nouveau en
+          <lb/>1513, in-40.
+          <lb/>R100.205. Prov.: A. Cohn, Berlin 26/VII1 1878, 450M. Anno¬
+          <lb/>tations mss. au verso du f. de garde: « Ubersetzt von Marquard von
+          <lb/>Stein. Vide Panzer, Annalen Bd. I, S. 430; Ebert Bd. I, S. 317, n° 4078.
+          <lb/>Complett u. m. 46 Holzschnitten.»
+          <lb/>Schmidt VII n° 172.
+          <lb/>1338
+          <lb/>LA TOUR DE LANDRY Geoffroy de
+          <lb/>Strasbourg, J. Cammerlander 1538
+          <lb/>Der Ritter vom Thurn, Zuchtmaister der Weiber vnd
+          <lb/>Junckfrawen. Anweisung der Junck-frawen vnd Frawen,
+          <lb/>wesz sich eyn jede in jrem standt, gegen jderman in
+          <lb/>diser arglistigen Welt, mit geberden, sitten vnd worten,
+          <lb/>halten sol. Ausz beiden Testamenten, Altem vnd Neuwem,
+          <lb/>historien, von frummen vnd! bösen Weibern hierin z6̂¬
+          <lb/>sammen gesetzt, die bösen zûfliehen, vnnd die gûtten zû
+          <lb/>eym Eben- bildt anzûnemmen.
+          <lb/>Gravure sur bois: Le Chevalier de la Tour offrant son livre à ses
+          <lb/>deux filles; des 2 côtés pièces d’encadrement.
+          <lb/>Au-dessous : Von neuwem verteutscht, vnd getruckt z0̂t
+          <lb/>Straszburg! beim M. Jacob Cammerlander von Mentz.
+          <lb/>Anno M. D. xxxviii.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

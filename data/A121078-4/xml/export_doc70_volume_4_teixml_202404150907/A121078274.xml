@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:50.392114+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078274.tif
+IMAGE WIDTH: 2310
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1160
+          <lb/>PECTORALE
+          <lb/>Strasbourg, J. Knobloch, 1509
+          <lb/>Pectorale dominice passionis : sive divini amoris.
+          <lb/>A la fin: Impressum Ar- gentine per Joannem knob
+          <lb/>louch. Anno domi-ni. M. cecec. ix. (Au-dessous, marque typ. de
+          <lb/>J. Knobloch. (H. 8 B Planche IX n° 3.)
+          <lb/>In-8°, car. goth., 167 ff. non ch., sign. A-X, init. ornées; au verso¬
+          <lb/>du titre, grav. d’une page: Jésus-Christ sur la croix, à côté sa mère et
+          <lb/>l’apôtre St. Jean.
+          <lb/>R102.155. Prov.: I. Windprecht, Augsbourg 2x11872; M. 0,50.
+          <lb/>1805
+          <lb/>PEDIANUS. Voir: ASCONIUS Pedianus
+          <lb/>PEGIUS Martinus)
+          <lb/>Strasbourg, Christ. Muller 1576
+          <lb/>Horn des Heils mensch- licher blödigkeit. Oder,
+          <lb/>Kreütterbuch Darinn die Kreüter des Teut- schen lands,
+          <lb/>ausz dem Liecht der Natur, nach! rechter art der him¬
+          <lb/>melischen einflies- sungen beschriben.! Durch Philomu¬
+          <lb/>sum Anonymum allen Liebhabe- ren der Teutschen ge¬
+          <lb/>wechsz zû einem Exempel, dardurch erndern weitter
+          <lb/>zû suchen ursach und an- leittung geben wöllen.! Jetz¬
+          <lb/>under erst durch Doctorem Toxitem allen me- dicis, Phar¬
+          <lb/>macopœis, und Chirurgis, auch andernẑ gefallen in
+          <lb/>truck geben. Mit Keiserlicher Maiestat freyheit auff
+          <lb/>zehen Jar.Getruckt zû Straszburg bey Christian Müller,
+          <lb/>Im Jhar Christi M. D. LXXVI.
+          <lb/>A la fin: Getruckt zù Straszburg am Korn- marckt,
+          <lb/>bey Christian Müller, 1576. Au-dessus; marque typ. de Christ.
+          <lb/>Muller (H d B planche XXVIII n° 1), de chaque côté de la marque
+          <lb/>bande ornem., larges bandes ornem, en haut et en bas de la page; entre
+          <lb/>la marque et l’explieit les lettres CK.
+          <lb/>In-fol., car. goth., 13 ff. non ch., CLXXXVIII f. ch., 5 ff. non
+          <lb/>ch. (table à 2 col. et explicit), titre courant, réclames, notes marg., init.
+          <lb/>ornées; titre rouge et noir, 58 grav. de plantes.
+          <lb/>Fol. à 2a non ch.: ... Herrn Wilhelmen Pfaltz Grauen bey Rheyn,
+          <lb/>Hertzog in Bayrn... — Datum Hagenaw den dritten Janua- riï Anno
+          <lb/>1576.1 Michael Toxites, D. (2 pp.)
+          <lb/>Fol. a 3a non ch.: Vorred des Autoris dises Bâchs.... (3 pp.)
+          <lb/>Fol. a 4b non ch.: Auszlegung der zwölff Himli- schen zeichen....
+          <lb/>(12 pp.)
+          <lb/>Fol. b 3b non ch.: Auszlegung der siben Planeten. (9 pp.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

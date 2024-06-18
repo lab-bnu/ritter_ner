@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:26.819771+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2017.tif
+IMAGE WIDTH: 2390
+IMAGE HEIGHT: 3824
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>13
+          <lb/>AGRIPPA Henricus Cornelius
+          <lb/>Strasbourg, P. Schäffer, 1535.
+          <lb/>EPISTOLA! APOLOGETICA AD! CLARISSIMVM VRBIS! Agrip¬
+          <lb/>pinae Romanorum Colo-niae Senatum, contra insaniam
+          <lb/>Conradi Cölin de Vlma or-dinis Praedicatorij Mona-chum
+          <lb/>Henrici Cornelij! Agrippae ab Nettesz-heim Equitis! Aurati.
+          <lb/>A la fin: ARGENTORATI APUD! Petrum Schoeffer.) M. D.
+          <lb/>XXXV.
+          <lb/>in-8°, car, rom., 14 ff. non ch., sign. A–B, réclames, notes marg.,
+          <lb/>initiale à fig. P.
+          <lb/>Fol.A 24: CLARISSIMIS VI-IRIS VRBIS AGRIPPINAE I Ro¬
+          <lb/>manorumque Coloniae Senatoribus! &amp;amp; Consulibus, Henricus
+          <lb/>Corne- lius Agrippa ab! Netteszheym. S. D...
+          <lb/>A la fin, avant l&amp;#x27;explicit: Ex Bona! undecimo Janua-[rij.
+          <lb/>1533.
+          <lb/>B111773. Prov.: L. Rosenthal, Munich, 16. II1. 1887; 12 M.
+          <lb/>GPB, II, 3969. Munich, Marbourg.
+          <lb/>22
+          <lb/>ALANUS DE INSULIS, Liber parabolarum, 1510.
+          <lb/>Voir: LIBELLUS metricus! de contemptu mundi, 1510,
+          <lb/>Cd 164480.
+          <lb/>ALBENGNEFIT, Voir: TACUINUS Sanitatis.
+          <lb/>ALBERTUS Magnus
+          <lb/>Haguenau, H. Gran, 1504.
+          <lb/>Postilla apprime ma! gistralis Super Jo-]annis Euan¬
+          <lb/>geliare. Venerabilis domini: domini Alberti magni quon¬
+          <lb/>dam Ratisponensis Episcopi Ordi! nis Predicatorum. (Verso
+          <lb/>blanc.)
+          <lb/>A la fin:... Jmpensis Circumspecti viri Joannis Ryn¬
+          <lb/>man de Orin- gaw archibibliopole: Jn officina Jndustrij
+          <lb/>Henrici Gran: Ciuis Jm perialis opidi Hagenaw occura
+          <lb/>tiori ratione qua perfici potuit instau-rata Anno virginei
+          <lb/>partus. M. D. iiij. Augusti Kal. ix. metà nanciscitur
+          <lb/>feliciter.
+          <lb/>in-fol., car, goth., 2 col., 28 fr. non ch. dont le dernier blanc.
+          <lb/>(Table.) CLXVII ff. ch. et 1 f. blanc, titre courant, grande initiale
+          <lb/>ornée A et initiales d’attente.
+          <lb/>Après la table nouveau titre: Postilla opido magistralis super
+          <lb/>Joannem! Venerabilis domini Alberti magni quondam
+          <lb/>Ratisponensis Episcopi Ordinis Predicatorum.
+          <lb/>E 11527. Prov.: Butsch, antiquaire à Augsbourg. 12/x.1883, 6 M.
+          <lb/>Quelques annotations mss.; au haut du titre: Cartusiae Buxiensis.
+          <lb/>2e exemplaire E 11526a. Prov.: Butsch, 12/X. 1883; 6 M.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

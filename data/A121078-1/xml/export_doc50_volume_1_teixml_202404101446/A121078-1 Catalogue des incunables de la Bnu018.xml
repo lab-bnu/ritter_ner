@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:36.639913+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu018.tif
+IMAGE WIDTH: 2384
+IMAGE HEIGHT: 3842
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>D’après une vieille tradition*) qui n’est confirmée
+          <lb/>par aucun document, Grüninger aurait eu ses ateliers dans
+          <lb/>la rue de l’Outre, où fut établie au commencement du
+          <lb/>18e siècle l’imprimerie Heitz, encore florissante aujourd’hui.
+          <lb/>C’est là qu’il travaillait jusqu’en 1531. Son dernier livre,
+          <lb/>l’Alchimia du philosophe Geber est daté du 29 août 1531,
+          <lb/>mais déjà en 1530 Armand Farkall avait imprimé deux
+          <lb/>ouvrages avec les presses de Grüninger et à ses frais.
+          <lb/>JEAN PRUSS (1480-1510)
+          <lb/>Jean Prüss était originaire du Wurtemberg. Dans le
+          <lb/>Bréviaire Strasbourgeois, sa dernière publication, il est dit
+          <lb/>qu’il est mort le 16 novembre 1510 dans sa 63e année; il
+          <lb/>était donc né en 1447. D’après Charles Schmidt **) il fit ses
+          <lb/>débuts comme imprimeur à Strasbourg vers 1480, mais il
+          <lb/>n’acheta le droit de bourgeoisie qu’en 1490. Son premier
+          <lb/>livre daté est le «Formulare und Tütsch Rhetorica» (1483),
+          <lb/>mais il est certain qu’il avait déjà publié auparavant quel¬
+          <lb/>ques petits livres non datés.
+          <lb/>A partir de 1504 il eut son officine dans la maison
+          <lb/>«Zum Thiergarten», là où Mentelin avait déjà eu la sienne
+          <lb/>ainsi que son successeur Adolphe Rusch. Il eut en outre
+          <lb/>une boutique de vente parmi celles qui étaient adossées à
+          <lb/>la cathédrale. Sa veuve épousa l’imprimeur Reinhart Beck,
+          <lb/>de sorte que son fils Jean Prüss dut établir son officine
+          <lb/>dans un autre quartier de la ville.
+          <lb/>On a de Prüss quelques romans allemands populaires,
+          <lb/>des ouvrages de théologie, de médecine, d’auteurs classi¬
+          <lb/>ques et d’humanistes et surtout des livres liturgiques (mis¬
+          <lb/>sels, graduels, psautiers etc.).
+          <lb/>Un grand nombre de ses ouvrages sont illustrés de gra¬
+          <lb/>vures. Schramm n’en nomme pas moins de 63 dans le
+          <lb/>*) Voir: Schmidt, Répertoire, Vol. I, p. XIV.
+          <lb/>**) Ibidem Vol. III, p. V.
+          <lb/>XVIII
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

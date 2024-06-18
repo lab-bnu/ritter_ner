@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:28.174466+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2064.tif
+IMAGE WIDTH: 2354
+IMAGE HEIGHT: 3822
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>60
+          <lb/>Fol. 2a: JOANNES KNOBLOCHVS CHALCOGRA- ] PHVS STV¬
+          <lb/>DIOSIS OMNIBVS... Ar-[gent. Mense! Martio! Anno M. D. XXII.
+          <lb/>Au verso: ERASMI ROTERODAMI PARACLE SIS AD LECTOREM
+          <lb/>PIVM... (6 pages.)
+          <lb/>R10.288. Prov.: Butsch, antiquaire, Augsbourg, 26. XI. 1882; 6M.
+          <lb/>Schmidt VII, No 234: BM Strasbourg et Jadis Bibl. de Stras¬
+          <lb/>bourg. Incun. No 459; Walter, No 679; BM Sélestat; B. M. Colmar.
+          <lb/>106
+          <lb/>AUGUSTINUS Sanctus
+          <lb/>Strasbourg, J. Grüninger, 1508.
+          <lb/>DIVI AVRELII AVGVSTINI] artis grammaticae libellus
+          <lb/>nitidissimus.
+          <lb/>A la fin: IMPENSIS JOANNIS GRIENINGE (!) Argentinae
+          <lb/>foeliciter impressum. Anno re- demptionis nostrae Octauo,
+          <lb/>supra. M. D.
+          <lb/>Marque typ. de J. Grüninger (H &amp;amp; B, Planche IN° 1; Silvestre,
+          <lb/>No 503.)
+          <lb/>In-4°, car, rom., 27 ff. non ch., sign. A-D, initiales d’attente; fol.
+          <lb/>A 3b en haut, petite gravure sur bois: un évêque assis, devant lui
+          <lb/>un livre ouvert.
+          <lb/>Au verso du titre: ... Geruasij Souffheri Bris- goici Epi¬
+          <lb/>gramma ad lectorem. (6 distiques.)
+          <lb/>Fol. A 2a: GERVASIVS SOVPHERUS BRIS goieus... Hiero¬
+          <lb/>nymo Gebwiler Argentuariensi... In Selecistadio(!) praeceptori
+          <lb/>suo... — ex Argentoraco: pridie Calendas Apriles anno
+          <lb/>viij.
+          <lb/>Au verso du dernier f.: JOANNIS HISONIS BADENSIS! HEXA¬
+          <lb/>STICON. (3 distiques.)
+          <lb/>R101633. Prov.: Fid. Butsch, antiquaire à Augsbourg 1871.
+          <lb/>Schmidt I. No 100.
+          <lb/>107
+          <lb/>AUGUSTINUS Sanctus
+          <lb/>H aguenau, H. Gran, 1521
+          <lb/>Praeclarissima Diui Aurelii Au! gustini Sermonum
+          <lb/>opera: summa nuper diligentia re- uisa atque recognita:
+          <lb/>tum plerisque locis emendata: que! illo ordine in hoc
+          <lb/>continentur volumine, etc. (17 lignes de texte.) (Verso blanc.)
+          <lb/>A la fin: Impressum est preclarum hoc opus in officina
+          <lb/>in-dustrij Henrici Gran; ciuis imperialis oppidi Ha¬
+          <lb/>genaw: sumptibus &amp;amp; expensis probi viri Joannis Ryn! man
+          <lb/>de Oringaw Archibibliopole: mense Octo-bri. Anno a
+          <lb/>nato Christo. M. D. XXI.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

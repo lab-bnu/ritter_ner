@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:34.724533+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2274.tif
+IMAGE WIDTH: 2302
+IMAGE HEIGHT: 3820
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>270
+          <lb/>fol. a 2a: PRAEFATIO.!... Monarchae Francisco Franço¬
+          <lb/>rum Regi... Ioannes Caluinus... — Basileae Calen. Augusti.
+          <lb/>ANNO 1536. (43 p.)
+          <lb/>Le reste des ff non ch.: Index à 2 col.
+          <lb/>R 10.400.(1) Prov.: Bibliothèque Reuss, Strasbouro, 1887.
+          <lb/>A l&amp;#x27;intérieur du Ier plat, exlibris, au-dessus: «M. G. Comer.»
+          <lb/>2 ex. R 10.401.(1) Prov.: Bibl. Ch. Schmidt avee son ex-libris à
+          <lb/>l&amp;#x27;intérieur du 1er plat. Notes mes. Rel. anc.
+          <lb/>Bibl. St. Guillaume, Strasbourg; BU Fribourg en Br. N 239,
+          <lb/>dm; GPB: Berlin BN, Breslau RU, Kœnigsberg BU.
+          <lb/>Voir: Calvin, Opera Vol. I, Prol, p. XXXIV, texte p. 253 et
+          <lb/>407
+          <lb/>suiv.
+          <lb/>CALVIN
+          <lb/>Strasbourg, W. Rihel, 1545.
+          <lb/>CATECHISMVS ECCLESIAE GENEVENSIS, hoc est, for¬
+          <lb/>mula erudiendi! pueros in doctrina! Christi.!Authore
+          <lb/>Ioan. Caluino.
+          <lb/>Marque typographique de W. Rihel. (H A B, Planche XXIX,
+          <lb/>No 3; Silvestre, No 740.)
+          <lb/>ARGENTORATI APVD Wen- delinum Rihelium. Anno
+          <lb/>1545. (Verso blanc.)
+          <lb/>In-8°, car. rom., 88 ff. non ch., dont le dernier blanc, sign. A-L,
+          <lb/>titre courant, réclames, initiales ornées C, 0.
+          <lb/>fol. A 2a: IOANNES CALVI-NS FIDELIBVS CHRISTI
+          <lb/>MINI- stris, qui per Frisiam Orientalem puram Euangelij
+          <lb/>doctrinam! annunciant... — Geneuae, 4. Calendas! Decem¬
+          <lb/>bris. 1545. (Préface de 8 p.)
+          <lb/>R101.964. Prov : Bibliothèque Ed. Reuss, 1887.
+          <lb/>GPB. Berlin BN, Kœnigsberg BU.
+          <lb/>Voir Calvin, Opera Vol. VI, Prol. p. XIII, texte p. 1-160.
+          <lb/>Brunet 15, 1500: On peut supposer que l’édition de 1541 était en
+          <lb/>français, puisque Bèze et ceux qui en parlent après lui ajoutent que Cal¬
+          <lb/>vin en fit une traduction latine qui fut imprimée à Strasbourg, en 1545,
+          <lb/>in-8°. Cette même version latine a été souvent réimprimée de format
+          <lb/>in -80.
+          <lb/>408
+          <lb/>CALVIN Joh.
+          <lb/>Strasbourg, W. Rihel, 1545.
+          <lb/>INSTITVTIO CHRI- STIANAE RELIGIONIS NVNC!uerè
+          <lb/>demum suo titulo respondens.
+          <lb/>Authore loanne Caluino.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:38.186847+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu105.tif
+IMAGE WIDTH: 2396
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Copinger II, 5424, Pellechet: Colmar 1190, Voulliéme: Berlin
+          <lb/>2258, Eggimann (Paris), Catalogue (La Licorne), Bulletin
+          <lb/>N° 10, (1937) N° 1839 offre un ex. pour 650 fr., provenant d’un
+          <lb/>monastère franciscain du Tyrol, orné d’un exlibris gravé du
+          <lb/>XVIIe siècle.
+          <lb/>K 3304b. Prov. inconnue. Au-dessous du titre: «45 k emptus
+          <lb/>et pro ff. Capuccinis Norimberg. 1630. A l’intérieur du
+          <lb/>1er plat, fiche découpée d’un catalogue: «Argentinae, Joh.
+          <lb/>Pryss, 1486. Holzbd. mit Pergamentrücken. Copinger II, 5424,
+          <lb/>296 Bl., 2 col., 47 Z., got. Type, rubiziert. Schönes breitran¬
+          <lb/>diges Exemplar.» Au haut dans le coin: «J. Mozley Starck,
+          <lb/>London.» Joh. Pryss est rayé au crayon, au-dessous:
+          <lb/>«Drucker der Vitas patrum.» Rel. anc.
+          <lb/>355
+          <lb/>PALUDANUS PETRUS: Sermones thesauri novi de sanctis.
+          <lb/>Strasbourg, Martin Flach, 1489, in-fol.
+          <lb/>Copinger III, 5426, Madsen 3014, Proctor 684, Voulliéme: Ber¬
+          <lb/>lin 2482, 5.
+          <lb/>K 3305a. Prov.; Baer 8 Co., Francfort-s.-M., 29. VIII. 1883,
+          <lb/>7 M. 50. Au-dessus du titre: Monasterij Weissenaw. Notes
+          <lb/>mss. Rel. anc.
+          <lb/>356
+          <lb/>PALUDANUS PETRUS: Sermones thesauri novi de sanctis.
+          <lb/>Strasbourg, Martin Flach, 1491, in-fol.
+          <lb/>Copinger 5427, Proctor, 693, Schmidt VI, 40, Voulliéme: Ber¬
+          <lb/>lin 2492, 4.
+          <lb/>K 3306. Prov.: Echange avec la Bibl. du Gymnase de Heil¬
+          <lb/>bronn, 2. IV. 1878. Rel. anc.
+          <lb/>357
+          <lb/>PALUDANUS PETRUS: Sérmones thesauri novi de sanctis.
+          <lb/>Strasbourg, Martin Flach, 1493, in-fol.
+          <lb/>Copinger 5428, Madsen 3015, Schmidt VI, 47, Voulliéme:
+          <lb/>Berlin 2497, 2.
+          <lb/>K 3307. Prov.: Don de Fid. Butsch, Augsbourg 1872. Au-dessus
+          <lb/>Rel. anc.
+          <lb/>358
+          <lb/>PALUDANUS PETRUS: Sermones thesauri novi de sanctis.
+          <lb/>Strasbourg, Martin Flach, 13 nov. 1497, in-fol. (En¬
+          <lb/>dommagé.)
+          <lb/>78
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

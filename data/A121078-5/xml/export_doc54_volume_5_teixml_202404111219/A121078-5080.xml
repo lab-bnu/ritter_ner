@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:52.079849+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5080.tif
+IMAGE WIDTH: 2370
+IMAGE HEIGHT: 3860
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1388
+          <lb/>historiae in libris Moysis, Sa-muelis, Regum &amp;amp; Paralipo¬
+          <lb/>menon recitantur: quibus! adiunctae sunt &amp;amp; quaedam aliae
+          <lb/>eiusdem authoris,! lectu dignissimae : cum praefatione !I
+          <lb/>M. Alberti Timanni, ad Ge-nerosum &amp;amp; Magnificum Domi¬
+          <lb/>num, D.Nicolaum Caas, Serenissimi ac potentis-simi
+          <lb/>Danorum Regis &amp;amp; c. Friderici II!] Cancellarium Illustrem.
+          <lb/>Marque typ. de Bern. Jobin (H. &amp;amp; B. Planche XXXVIII,
+          <lb/>No 10).
+          <lb/>Argentorati.Excudebat Bernhardus Iobinus. Anno
+          <lb/>M. D. LXXXIII. (Verso blanc.).
+          <lb/>In-8°, car. ital., 8 ff. non ch., 639 pp. ch., titre courant, réclames, de
+          <lb/>nombreuses init. ornées.
+          <lb/>fol. 2a non ch. :.. Domino, D. Nicolao !! Caas, Domino de Torup...
+          <lb/>M. Albertus Timannvs... — Argentinae, Cal. Septembris Anno post!
+          <lb/>Christum natum 1583. (Vignette.)
+          <lb/>R. 101.256. Prov. : F. Steinkopf, Stuttgart, 28/x1, 1887; 4 M. 50.
+          <lb/>Au recto du f. de garde: « Inservio Studijs Ignatij Molleri. Anno
+          <lb/>1639. 3 Februar. Constat 6 arg. ». Oxford, Bibl. Bodleiana.
+          <lb/>Bibliographie Strigel. Voir : Schottenloher II, Nos 20858-20864.
+          <lb/>2194
+          <lb/>STROMER Henricus
+          <lb/>Strasbourg, J. Grüninger, 1518
+          <lb/>Henrici Stromers Aur-bachii, Medicine Docto- Il ris,
+          <lb/>saluberrime aduer sus pestilentiam ob- seruationes,
+          <lb/>re-cens edite. Eque pauperibus prosunt, lo-cupletibus
+          <lb/>eque. Eque neglecte pueris, senibusque nocebunt.
+          <lb/>Recognouit &amp;amp; auxit. (Verso blanc).
+          <lb/>A la fin : Impressore Joanne Grünin-ger. Anno restitute
+          <lb/>salutis. M. D. xviij. Septimo Idus! Septembris. (Verso blanc.)
+          <lb/>In-4°, car. goth., 26 ff. non ch., sign. A-F, titre courant, réclames,
+          <lb/>notes marg., de nombreuses init. ornées, titre encadré, au haut, feston,
+          <lb/>des deux côtés, ornements de fleurs, raisins, insectes, mascarons, en bas
+          <lb/>deux génies, entre eux des fleurs.
+          <lb/>R. 101.260. Prov. : Th. Ackermann, Munich, 26/VII, 1881; 9 M. avec
+          <lb/>quelques annotations mss. A l’intérieur de la couverture: Henricus Stromer
+          <lb/>amicus, Eobani et Hutteni. Vide Haller, Bibl. med. t. I, 502.
+          <lb/>Prector II, Sectio I, No 9946 : Londres, British Museum; Schmidt I,
+          <lb/>No 161; Rosenthal, Munich, Catalogue 135 (1914), N° 2264 : 40 M.
+          <lb/>Bibliographie Stromer. Voir : Schottenloher II, Nos 20873-20877.
+          <lb/>2195
+          <lb/>STURM Caspar
+          <lb/>Strasbourg? 1523
+          <lb/>Warlicher bericht... (Voir : titre à la page suivante).
+          <lb/>In-4°, car. goth., 16 ff. non ch., sign. A-D, init. ornées : D, N. A.
+          <lb/>Au verso du titre : Den... hern Rey !! charten Ertzbischoffen zû
+          <lb/>Trier... und Chûrfürst Ludwigen Pfaltzgraffen bey Reyn... und Churfürst
+          <lb/>Philipsen Landt.  graffen zu Hessen... entbeüt Caspar Sturm Erenholt
+          <lb/>genant Deütschlandt sein schuldig gehorsam...
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

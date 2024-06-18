@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:04.527899+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002116.tif
+IMAGE WIDTH: 2504
+IMAGE HEIGHT: 3944
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>CICERO (Epitheta) : Epitheta, antitheta et adjuncta ex
+          <lb/>M. T. Cicerone collecta. — Strasbourg, Théodose Rihel
+          <lb/>s. d., in-8°.
+          <lb/>BN Paris: X. 20.062; Ritter : B M Strasbourg nos 721 et 722.
+          <lb/>1360
+          <lb/>CICERO (De officiis) : De officiis libri tres. — [Strasbourg,
+          <lb/>Mathias Schürer vers 1512), in-4°.
+          <lb/>B U Fribourg-en-Br. : D 6047 (Communication de M. Rest).
+          <lb/>[éd. Schürer juillet 1512 : Ritter, Rép. n° 489).
+          <lb/>1361
+          <lb/>CICERO (De officiis) (Idem). — [Strasbourg, Mathias Schürer
+          <lb/>15161, in-40.
+          <lb/>Schmidt VIII, n° 201 : son exemplaire.
+          <lb/>1362
+          <lb/>CICERO (De officiis) : De officiis libri tres... — (Strasbourg,
+          <lb/>Jean Knobloch et Paul Götz janvier 1521), in-80.
+          <lb/>B U Fribourg-en-Br. : D 6047h (Communication de M. Rest);
+          <lb/>Schmidt VII, n° 212 : Bibl. cantonale Aarau; Panzer 6, 95, 584.
+          <lb/>1363
+          <lb/>CICERO (De officiis) (Idem). — (Strasbourg, Mathias Schürer
+          <lb/>juin 1521), in-40.
+          <lb/>Schmidt VIII, n° 264; B U Munich; Communication de
+          <lb/>M. Rest: B U Fribourg-en-Br. D 5978b.
+          <lb/>1364
+          <lb/>CICERO (De officiis) (Idem). — (Strasbourg, Jean Knobloch
+          <lb/>et Paul Götz septembre 1522), in-8°.
+          <lb/>Schmidt VII, n° 240 : Strasbourg, Bibl. de M. Paul Heitz.
+          <lb/>1365
+          <lb/>CICERO (De officiis) (Idem). — Haguenau, Jean Secer 1526,
+          <lb/>in-4°.
+          <lb/>B U Fribourg-en-Br. : D 6047m (Communication de M. Rest).
+          <lb/>1366
+          <lb/>CICERO (De officiis). — Officia... multo quam antea casti¬
+          <lb/>114
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

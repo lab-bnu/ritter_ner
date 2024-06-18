@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:06.913456+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3143.tif
+IMAGE WIDTH: 2314
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>ster, an vilen vnd mancherley orten, zû samen gesûcht
+          <lb/>vnd colligiert, auch in dises Büchlin verfaszt, vnd an
+          <lb/>tag ge bracht. (Rücks, leer.)
+          <lb/>Am Schluss: Gedruckt zû Straszburg, in Knoblauchs
+          <lb/>druckerey. M. D. LVIl. (Rücks, leer.)
+          <lb/>80, Got., 8 unn. u. XCVI num. Bll., Kopft., Kust., Titel rot und
+          <lb/>schwarz.
+          <lb/>Bl. A 2a: Vorred. DEm Edlen, Ehrnue sten Rein¬
+          <lb/>bolten von Kagen-ck, Amptman zû Lor... — Datum
+          <lb/>Maurszmünster, vff sanct Martins des heyligen Bischoffs
+          <lb/>tag,Tausent Fünffhundert, fünffzig vnd sechs jare...
+          <lb/>Jacob Frey, Stattschreiber zâ Maurszmünster.
+          <lb/>Folgen 9 S. Index. Bl. 1a: An den gütigen Leser... Jacob Frey.
+          <lb/>Die erste Ausgabe ist von 1556.
+          <lb/>R 100.254. Prov.: Baer u. Co., Frankfurt a. M., 19. VII. 1893;
+          <lb/>270 M. Bl. 76 fehlt, handschr, auf einem eingeklebten Bl. ergänst. Auf
+          <lb/>dem Titelbl.: Dr M. Lexer. — Hirtzel, Leipzig notiert als Preis 500 M.
+          <lb/>Bibliographie von J. Frey: Schottenloher Nr. 6580-6580a. 886
+          <lb/>587
+          <lb/>FREY Jakob
+          <lb/>Strassburg, P. Messerschmidt 1562
+          <lb/>Von den drey vnd viertzig alten, noht uesten vnnd
+          <lb/>starcken helden, wie die ihre leib, leben, gût vnnd blût,
+          <lb/>für jre vnderthanen, für den gemeinen nutz, land, leut,
+          <lb/>freund, vnd ver wandte dargestreckt, also thewr vnd
+          <lb/>ritterlich ge stritten, vnd gefochten, oder freywilliglich
+          <lb/>sich in das ellend begeben, darein gezogen, vnd aller
+          <lb/>vn! erschrocknen mannlichen standthafftigkeit, darinn
+          <lb/>bliben, auch sich selbs in todt geben, vnd darüber ge¬
+          <lb/>storben sind, Habend auch damit ihnen ein ewigs lob
+          <lb/>vnd ge dächtnuss ge- macht.
+          <lb/>Newlich durch Jaco- ben freyen, der zeit Stattschrei¬
+          <lb/>ber zû Maursmünster, aus den alten Römisch en vnd
+          <lb/>Griechischen historien zusamen ge- sûcht, vnd gesetzt,
+          <lb/>gantz kurtzwei- lig, lustig, vnd lieblich! zû lesen.
+          <lb/>Anno M. D. LXII. (Rücks, leer.)
+          <lb/>Am Schluss: Getruckt zû Strasz-burg, bey Paulo Mes¬
+          <lb/>serschmidt. (Rücks. leer.)
+          <lb/>80, Got., 3 unn., XCV num. Bll. u. 1 unn. Bl., Kopft., Kust.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

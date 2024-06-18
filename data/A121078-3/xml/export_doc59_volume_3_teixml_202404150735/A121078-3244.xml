@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:09.469566+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3244.tif
+IMAGE WIDTH: 2332
+IMAGE HEIGHT: 3854
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>688
+          <lb/>GESTA ROMANORUM
+          <lb/>Strassburg, J. Cammerlander 1538
+          <lb/>Die alten Römer. Sittliche Historien vnd Zuchtgleich¬
+          <lb/>nussen der Alten Römer, dardurch der mensch, jung! oder
+          <lb/>alt, mit mannlichen thaten vnd sprüchen ettli-cher Rö¬
+          <lb/>mischen keyser, vnd auszlendiger kö¬ nig, Graffen vnnd
+          <lb/>Rittern &amp;amp;c. zûr besser-ung seins stands gefürt mag wer¬
+          <lb/>den, Alles notwendig vnd lâstig zelesen jederman.
+          <lb/>Jtzunt von newem kürtzlich vnnd wol hierin! zesa¬
+          <lb/>men verteutscht, sampt eyner jglichen para beln ver¬
+          <lb/>gleichnusz mit heyliger geschrifft.
+          <lb/>Getruckt z6̂ Straszburg beim Jacob! Cammerlander
+          <lb/>von Mentz. Anno M. D. XXXVIII. (Rücks, leer.).
+          <lb/>Auf der Rücks. des letzten Bl., dessen Vorders, leer ist, Druckerm.
+          <lb/>Cammerlanders, (H &amp;amp; B Tafel XXIV Nr. 1; Silvestre Nr. 816.)
+          <lb/>20, Got., 4 unn. LXXXVII num. Bll., Kopft., Kust., Titelum¬
+          <lb/>rahmung: 7 Kaiserbildnisse in den Seitenbordüren; zahlreiche Holeschn.
+          <lb/>Bl. 2a: Vorred zum Leser.... — Datum Straszburg
+          <lb/>kalen. Martias. (2 S.)
+          <lb/>R 104912 Prov.: Graf Pocci, Strassburg 12. I. 1891; ohne
+          <lb/>Preisangabe.
+          <lb/>GK. SB Berlin, UB Breslau, Göttingen, Kiel, Königsberg.
+          <lb/>Rosenthal, München, Katalog 135 (1914), Nr. 2048; 120 M. Goe¬
+          <lb/>deke II, 316. Zarncke:, Aus protestantischen Gründen unternommene
+          <lb/>Purificierung der alten Bearbeitung der Gesta Romanorum. Bearbeiter ist
+          <lb/>wahrscheinlich der Drucker Jac. Cammerlander selbst oder Jac. Vielefeld.
+          <lb/>Siehe Holzmann u. Bohatta No. 12.473.
+          <lb/>Siche: WENZEL Bernhard: Cammerlander und Vielefeld, Berlin
+          <lb/>1891, S. 41-44 u. S. 62, Nr. 20.
+          <lb/>1012
+          <lb/>GIEFFTHEIL Joachim
+          <lb/>Strassburg, N. Wyriot 1580
+          <lb/>Ein Predigt vber das Finsternusz des Monds am 31.
+          <lb/>tag! Januarij im Jar 80 Geschehen, vnd was! solche
+          <lb/>Zeichen weissagen,! gethanDurch Joachim Giefftheil
+          <lb/>Prediger zu Pfortzheim. (Vign.)
+          <lb/>Getruck (!) zû Straszburg bey Niclausz Wyriot M. D.
+          <lb/>LXXX. (Rücks. Ieer.)
+          <lb/>40, Got., 12 unn. Bll. (letstes leer), Kopft., Kust., Marg., Init.
+          <lb/>Bl. A 2a: Der... Frawen Ameley, Geborne Margreffin
+          <lb/>von Baden vnd Hochbergck... Gegeben in Pfortzheim den
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:12.265862+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3356.tif
+IMAGE WIDTH: 2382
+IMAGE HEIGHT: 3856
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>798
+          <lb/>Bl. 3a: GOTEFRI-] DO, LVDOVICI F. COMTI OETIN-gensi
+          <lb/>&amp;amp; Domino suo clemen- tissimo, O. GIPHANIVS IVRIS
+          <lb/>CONS.... — A. D. XIIII. Kal. Aprilis, (9 S.)
+          <lb/>Bl. 6b: GIPHANIVS BENIGNO! LECTORI. (4 S.)
+          <lb/>Liber Hermanni felini; darunter: Sum P. P. Birgittanon. Coloniensis.
+          <lb/>R101450. Prov.: E. Nolte, Bonn 15. XII. 1881. Auf dem Titelbl.:
+          <lb/>2 M. Handschr.: Ex Museo Jo. Jac. Simon, Presb. Trev.
+          <lb/>2. Ex. R101.451. Prov.: Prof. J. Kraus, Strassburg 25. X. 1877;
+          <lb/>1185
+          <lb/>HOMERUS
+          <lb/>Strassburg, Th. Rihel o. J.
+          <lb/>OMHPOY OAYZXEIA. HOMERI! ODYSSEA. Eiusdem
+          <lb/>Batrachomyomachia, Hymni, aliaque eius opuscula, seu
+          <lb/>catalecta.
+          <lb/>Omnia Graece et Latine edita quam emendatissima,
+          <lb/>cum Praefatione, Scholiis, &amp;amp; Indice! D. Giphanii, Druckerm.
+          <lb/>Rihels (H e B Tafel XXXII Nr. 15).
+          <lb/>Cum Gratia &amp;amp; Priuilegio Caesareo.
+          <lb/>ARGENTORATI Excudebat Theodosius Rihelius. (Rücks.
+          <lb/>leer.)
+          <lb/>40, Griech., Antig. u. Kursiv, 827 S. u. 25 unn. Bll., Kopft.,
+          <lb/>Kust., Marg., Init.
+          <lb/>S. 322: ILLVSTRI... LUDOVICO LUDOVICI F. COMITI
+          <lb/>Otingensi et Domino suo cle-mentissimo, OB. GIPHANIVS...
+          <lb/>— Argentorato, Idib. Septemb.
+          <lb/>R 101461. Prov.: Bibl. F. A. Menke 1873, mit Autograph
+          <lb/>Menke&amp;#x27;s 1809.
+          <lb/>2. Ex. R 101.462. Geschenk der UB Königsberg 1872. 1186
+          <lb/>HOMERUS
+          <lb/>Strassburg, J. Schott 1510
+          <lb/>HOMERI POETARVM CLA- RSSIMI ODYSSEA DE ERRORIBVS
+          <lb/>VLYXIS.
+          <lb/>Am Schluss: ARGENTORACI Ex officina Ioannis Schotti:
+          <lb/>impensis vero egregij. I. V. Doctoris! Georgij Maxilli: alias
+          <lb/>übelin: episcopalis curiae Ar-! gen. Signatoris, ad nonum
+          <lb/>Kal. Iunij. Anno a natali christiano! M. D.X.
+          <lb/>2°, Antig., LI num. Bll. Kopft., Marg. Init.
+          <lb/>Auf der Rücks. des Titelbl.: Gregorius Maxillus, alias übelin.
+          <lb/>V. I. D. spectabili Hiero- nymo Baldung. LL. Canonumque
+          <lb/>Doctori Poetae, Oratorique celeberrimo... — Raptim Ar¬
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

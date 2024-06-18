@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:10.947278+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3301.tif
+IMAGE WIDTH: 2356
+IMAGE HEIGHT: 3854
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>HEDIO Kaspar: Paraleipomena, 1540. Siche: BURCHARDUS:
+          <lb/>Chronicon abbatis Uspergensis. Nr. 332.
+          <lb/>HEDIO Kaspar: Ein auszerleszne Chronica von C. Julio Cesare
+          <lb/>etc. 1541. Siche: CUSPINIANUS Johannes. Nr. 607.
+          <lb/>HEDIO Kaspar
+          <lb/>Strassburg, Cr. Mylius 1543
+          <lb/>EIn Auszerleszne Chronick von anfang der welt
+          <lb/>bis auff das iar nach Christi vnsers eynigen Heylands
+          <lb/>Gepurt M. D. XLIIII. In vier teyl oder bücher abgeteylet, an
+          <lb/>fürnemen Hi- storien, durch die Teutschen herrlich ver¬
+          <lb/>richt, reich vnd auszbündig. Auch mit vilen vnd man¬
+          <lb/>cherley Denckwürdigen diser zeit Handlungen, Reichstäg,
+          <lb/>Samlungen, die Religion, Türckenzug, vnd andere mehr
+          <lb/>sachen belangen reylich (!) gemehret vnd verbessert. Alles
+          <lb/>zû nutz vnd wolfart Teutscher Nati-on, Durch Caspar
+          <lb/>Hedion Doctor, ausz dem Latein in das Teutsch gebracht,
+          <lb/>Auch sonst trewlich vnd freundt lich zûsammen tragen
+          <lb/>vnndt be- schriben.
+          <lb/>Hie findest du auch lieber Leser eyn nutzliche Vorred
+          <lb/>Herr! Philippi Melanchtons, bei dem Andern teyl diser
+          <lb/>Chronick, von Frûcht vnd nutzbar- kevt rechter Chronick
+          <lb/>bücher.
+          <lb/>Strassburg. M. D. XLIII.
+          <lb/>Mit keyserlicher Maiestat Gnaden vnd Freiheyt, dise
+          <lb/>Auszerlesne Chronick nicht nach zû trucken, bei zehen
+          <lb/>Marck lötigs golds. (Rûcks, leer.)
+          <lb/>Am Schluss: Getruckt zû Straszburg bei Crafft Myller
+          <lb/>Als man zalet nach Christi vnsers Herrn! Gepurt,! M. D.
+          <lb/>xl iij.
+          <lb/>Auf der Rücks, des letzten Bl. Druckerm. des Cr. Mylius. (HEB
+          <lb/>Tafel XXVIII Nr. 10.)
+          <lb/>20, Got., 22 unn. Bll., DCCCXVIII (818) S., 1 unn. Bl. XLVIII
+          <lb/>S. u. 16 unn. Bll., wovon die zwei letzten leer, Kopft., Kust., Marg.,
+          <lb/>Init,, zahlreiche Kaiserbüsten.
+          <lb/>Auf der Rücks, des 5. Bl. Holeschn.: Portrât Hedio&amp;#x27;s; S. 742
+          <lb/>Eleiner Holeschn.: Neptun mit dem Dreizack, in der Rechten einen
+          <lb/>Fisch, zu seinen Füssen ein Seeungeheuer.
+          <lb/>Bl. 2a: Dem Durchleuchtigen... Fürsten vnd herrn
+          <lb/>Albrechten... Marggrafen zû Brandenburg, in Preussen...
+          <lb/>743
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

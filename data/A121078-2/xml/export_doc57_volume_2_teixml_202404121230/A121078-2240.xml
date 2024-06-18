@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:33.793353+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2240.tif
+IMAGE WIDTH: 2296
+IMAGE HEIGHT: 3816
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>236
+          <lb/>La Bibliothèque possède en outre un second exemplaire du supplé¬
+          <lb/>ment: Coronis, qua ordine: R 101.179. Prov.: W. Gläser, Lubeck,
+          <lb/>20/XI. 1877; 1 M. 30, avec le cachet de la BM de Lubeck au milieu
+          <lb/>du titre.
+          <lb/>GPB: Berlin SB, Breslau BU, Bonn BU, Munster BU
+          <lb/>(Incomplet).
+          <lb/>Mentz N) 13 dit qu’il y a un exemplaire complet de l’ouvrage à
+          <lb/>354
+          <lb/>la Bibliothèque de Wolffen büttel.
+          <lb/>BUTZER Martin
+          <lb/>[Strasbourg, J. Herwagenl, 1527
+          <lb/>PRAEFATIO M. BVCERI IN QVARTVM To-mum
+          <lb/>Postillae Lutheranae, continens sum- mam doctrinae
+          <lb/>Christi.
+          <lb/>EIVSDEM, Epistola, explicans locum 1. Corinth. 10...
+          <lb/>Epistola M. Lutheri ad Iohannem Heruagium supe- riora
+          <lb/>criminans. Responsio ad hanc M. Buceri, Item ad Pome¬
+          <lb/>ranum satisfa ctio, de uersione Psalterij. Probate om¬
+          <lb/>nia, quod bonum est, tenete, 1 Thessal, 5.
+          <lb/>ANNO M. D. XXVHI. (Verso blanc).
+          <lb/>In-80, car. ital., 48 ff. non ch. dont le dernier blanc, sign. A-F,
+          <lb/>titre courant, réclames, notes marginales, initiales ornées P, Q et initia¬
+          <lb/>les d’attente.
+          <lb/>fol. A 2a: Christianis M. Bucerus Gratiam &amp;amp; pacem.
+          <lb/>(Préface de 2 pages, dans laquelle Herwagen est désigné comme impri¬
+          <lb/>meur.)
+          <lb/>R101490. Prov.: Rosenthal, Munich, 15/VII. 1885; 4M.
+          <lb/>Bibl. St. Guillaume, Strasbourg. GPB: Berlin SB. Kœnigsberg
+          <lb/>BU.
+          <lb/>Baum No 11; Mente No 14.
+          <lb/>355
+          <lb/>BUTZER Martin
+          <lb/>Strasbourg, J. Herwagen, 1528.
+          <lb/>ENARA TIO IN EVANGE-lion Iohannis, PRAEFATIO,
+          <lb/>Svmmam Disputationis &amp;amp; Reformationis! Bern, complec¬
+          <lb/>tens, Per M. Bvcervm.
+          <lb/>ARGENTORATI.) AN. M. D. XXVIII.
+          <lb/>A la fin: ARGENTORATI APVD IOANNEM] HERVAGIVM Mense
+          <lb/>APRILI. Anno M. D. XXVIII, (Verso blanc.)
+          <lb/>In-8°, car. ital., 280 ff. ch, (de nombreux erreurs de pagination)
+          <lb/>titre courant, réclames, notes marginales, initiales à fig., titre encadré.
+          <lb/>comme No 33 et 34.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

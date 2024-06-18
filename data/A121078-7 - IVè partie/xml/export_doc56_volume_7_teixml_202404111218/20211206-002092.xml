@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:03.890273+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002092.tif
+IMAGE WIDTH: 2504
+IMAGE HEIGHT: 3984
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>BÜCHLEIN (Ringkunst): In diesem büchlin findt man die
+          <lb/>rechte kunst und art des Ringens... — [Strasbourg,
+          <lb/>Mathias Hupfuff vers 1512), in-4°.
+          <lb/>Hain 9802; Schreiber 5098; Sudhof 171; GW V, colonne 628:
+          <lb/>« Nach Typen und Austattung 16. Jahrhundert.» 1222
+          <lb/>BÜCHLEIN (Titel aller Stände), : Büchlein der Titel aller
+          <lb/>Stände: In dissem biechlin vindet man... — Strasbourg,
+          <lb/>Mathias Hupfuff 1504, in-4°.
+          <lb/>Schmidt V, n° 35; Panzer, Annalen I, 267. — BN Berlin.
+          <lb/>1223
+          <lb/>BÜCHLEIN (Titel aller Stände) : In disem büchlin vindet man
+          <lb/>die Tittel aller Stende... — (Strasbourg, Mathias Hupfuff
+          <lb/>1507), in-4°.
+          <lb/>Schmidt V, n° 68 : Panzer, Annalen, Zusätze 106.
+          <lb/>1224
+          <lb/>BÜCHLEIN : Wie man visch und vogel fangen soll... — Voir:
+          <lb/>FISCHFANG n° 1735/7.
+          <lb/>BÜCHSENMEISTEREI : Von Geschosz, Büchsen, Pulver,
+          <lb/>Salpeter und Feuerwerck... — Strasbourg, Christian
+          <lb/>Egenolph 1529, in-40.
+          <lb/>Benzing : Egenolff, n° 13 : B M Francfort-s.-M. 1225
+          <lb/>BÜHEL, Hans : Von eines küniges tochter von franckreich
+          <lb/>ein hübsches lesen wie der künig sie selbs zu der Ee erwolt
+          <lb/>hon, desz sie doch got vor im behut und darumb sie vil
+          <lb/>trübsal und not erlidt. Zu letst ein Küngin in Engellandt
+          <lb/>ward. — (Strasbourg, Jean Grüninger (8.Ix] 1508),
+          <lb/>in-fol.
+          <lb/>Brunet III, 363; Panzer, Annalen I, 300; Schmidt I, n° 94. —
+          <lb/>Dresde.
+          <lb/>1226
+          <lb/>BUELLHEIM, Stephan von : Ein brüderliche warnung an
+          <lb/>meister Mathis Pfarrherren zu sanct Lorentzen im
+          <lb/>90
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

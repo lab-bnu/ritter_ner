@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:09.880691+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3260.tif
+IMAGE WIDTH: 2336
+IMAGE HEIGHT: 3854
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>702
+          <lb/>summorum quorundam Imperij Ordinum mandatu &amp;amp; uolun¬
+          <lb/>tate, à delectis ad hoc Ecclesiarum suarum Doctoribus,
+          <lb/>&amp;amp; Consiliarijs politicis uberiore! explicatione singulorum
+          <lb/>capitum, ex Sacrarum literarum testimonijs, Patrum
+          <lb/>scriptis, Theologorum scholasticorum commentarijs, ac Ca¬
+          <lb/>nonum interpretibus, alijsque Scriptoribus compluribus,
+          <lb/>ad eum usum iampridem diligentia singulari collectis,
+          <lb/>illustrata: &amp;amp; hoc scripto, quod ad posteritatem de ho¬rum
+          <lb/>Ordinum erga Religionem &amp;amp; Rempub. sudio extet, com¬
+          <lb/>pre- hensa.
+          <lb/>E Germanico in Latinum conuersa à D. Laurentio
+          <lb/>Tuppio Pomerano, Scholae Agentoratensis (!) Iurisconsulto.
+          <lb/>ARGENTORATI Excudebat Samuel Emmel. AnNo Do¬
+          <lb/>mini M. D. LXV. (Rücks. leer.)
+          <lb/>Am Schluss: ARGENTORATI Excudebat Samuel Emmel.
+          <lb/>Anno Domini! M. D. LXV.
+          <lb/>40, Antig. u. Kursiv, 8 unn. Bll., 470 S., 21 unn. Bll., Kopft.,
+          <lb/>Kust., Marg., Init.
+          <lb/>Bl. 2a:... Domino Nicolao Christophoro Radziuuilo:
+          <lb/>Duci Olicae &amp;amp; Niesuuisij... NICOLAI RADZIWILLI, PALATINI
+          <lb/>VILNEN sis... filio... LAVRENTIVS TVPPIVS IVRISCONS.
+          <lb/>S. P. D.... — Argentorati pri- Calendis Aprilis.
+          <lb/>M. D. LXV. (Widmung, 6 S. Kursiv.)
+          <lb/>Bl. 7a: PRAEFATIO OPE- RIS. (2 Bll. Antiq.)
+          <lb/>Bl. Gg 4a: INDEX RERVM! MEMORABILIVM, QVAE ] IN TOTO
+          <lb/>OPERE CONTI- NENTVR. (40 Bll. Kursiv.)
+          <lb/>Bl. Hh 6a: CATALOGVS] AVTHORVM. (5 S., 2sp., Kursiv.)
+          <lb/>Bl. Ii Ia: EPISTOLA Ioannis Sturmij de Re-] FVTA¬
+          <lb/>TIONE TRIDEN- tini Concilij &amp;amp; dissidiis Religionis. A
+          <lb/>... Nicolaum Rad-ziuuilum, Ducem Olicae... — Argento¬
+          <lb/>rati Idi-bus Mar-tij. (4 Bll. Antia.)
+          <lb/>Bl. Ii 5a: Bernhardus Botzhey-MVS IVRECONSVLTVS
+          <lb/>&amp;amp; Aduocatus Reipub. Argentoratensium D. Laurentio
+          <lb/>Tuppio... — Argentorati die aequinoctij verni. An- no
+          <lb/>M. D. LXV. (5 S. Antia.)
+          <lb/>R102.170. Prov.: Tausch mit der Gymnasialbibl. Heilbronn 2. IV.
+          <lb/>1878.
+          <lb/>GK: 8. 7780 (unter Ausführung, Stattliche der Ursachen, lat.):
+          <lb/>SB Berlin, München, SB Wien, UB Breslau, Halle, Münster, Göttin¬-
+          <lb/>1034
+          <lb/>gen, Greifswald, Königsberg.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

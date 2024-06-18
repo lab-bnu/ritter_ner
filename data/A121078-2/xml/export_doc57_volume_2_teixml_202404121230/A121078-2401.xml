@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:38.195188+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2401.tif
+IMAGE WIDTH: 2376
+IMAGE HEIGHT: 3822
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Iam primum cum Indice Typis excusa.
+          <lb/>Adiecta est Phil. Melanthonis de Officio Concionato¬
+          <lb/>ris Dissertatio.
+          <lb/>A la fin: ARGENT. APVD WOLFG.Caephalevm, An.
+          <lb/>M. D. XXXVII.
+          <lb/>Au verso: marque typ. de W. Köpfel. (H&amp;amp; B, Planche XVIII,
+          <lb/>No 9; Silvestre, No 1018).
+          <lb/>In-8°, car. ital. et goth., 247 ff. ch., 9 ff. non ch. (Index), titre
+          <lb/>courant, réclames, notes marginales; grav. se rapportant au texte, titre
+          <lb/>encadré. (H d B. Planche XIX, No 15.)
+          <lb/>fol. A 2a; gravure sur bois: entrée triomphale de Jésus à Jéru¬
+          <lb/>salem.
+          <lb/>Au verso du titre: Wolfgangvs Ce-phalaeus pio Lectori...
+          <lb/>Argentorati. Mense Septembri. Anno, 1556.
+          <lb/>R 101.979.(1) Prov.: K. J. Trübner, Strasbourg (Vente Freiesle¬
+          <lb/>ben, N° 207), 23/XI. 1880, sans indication du prix.
+          <lb/>Un exemplaire dans le Catalogue de la Bibliothèque Ch. Louis
+          <lb/>Fière, 2e vente Paris 14-17 juin 1937, N° 357: Texte est illustré de
+          <lb/>18 très jolies et curieuses vignettes sur bois représentant pour la plupart
+          <lb/>des scènes de l’Evangile.
+          <lb/>592
+          <lb/>397
+          <lb/>CORVINUS Antonius
+          <lb/>Strasbourg, W. Köpfel, 1540.
+          <lb/>Postilla ANTHONII CORVINI, IN EPISTO- LAS ET EVAN¬
+          <lb/>GELIA cum de Tempore, tum de Sanctis, totius anni,
+          <lb/>per ipsum Auto- rem denuo recognita &amp;amp; lo cupletata,
+          <lb/>ut sequens indicat pagella.
+          <lb/>Anno. M. D. XL.Cum Gratia &amp;amp; Priuilegio Caesareo.
+          <lb/>A la fin: Argentorati apud Vuolffg. Cephaleum. Anno
+          <lb/>M. D. XL.
+          <lb/>Au verso, marque typ. de W. Köpfel. (He B. Planche XVIII,
+          <lb/>No 9; Silvestre, N° 1018.)
+          <lb/>In-49, car. ital, 10 ff. non ch., CCCCLXVI ff. ch. et 1 f. non ch.,
+          <lb/>titre courant, réclames, notes marginales, initiales à fig. G. F, titre en¬
+          <lb/>cadré, bordure supérieure, 4 hommes avec pelle, pieche, hoyau et houe:
+          <lb/>bordures latérales, à gauche, Jésus Christ, à droite, un prédicateur, bor¬
+          <lb/>dure inférieure, au milieu, la pierre comme marque de Köpfel, tout autour
+          <lb/>des hommes avec des croix, au devant 2 hommes étendus à terre, du
+          <lb/>côté droit, un cœur, entouré de rayons, au milieu une croix.
+          <lb/>fol. 318b; gravure sur bois, Jésus, le bon pasteur, avec une brébis
+          <lb/>sur les épaules, sous un arbre, devant lui les apôtres, au fond les tours
+          <lb/>d’une ville.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

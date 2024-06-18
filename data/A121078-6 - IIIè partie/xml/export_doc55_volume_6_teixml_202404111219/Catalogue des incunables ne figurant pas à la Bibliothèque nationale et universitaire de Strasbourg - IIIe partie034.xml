@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:05.689738+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie034.tif
+IMAGE WIDTH: 2456
+IMAGE HEIGHT: 3948
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>CHRYSOSTOMUS. Voir : JOHANNES Chrysostomus.
+          <lb/>CICERO : De officiis... Manlio Torquato. Flaccus, (p. 92).
+          <lb/>— Strasbourg, H. Eggestein 1472, in-4° et in-8°.
+          <lb/>G W 6923; Hain 5240; Pellechet-Polain 3730; Proctor 262,
+          <lb/>Voulliéme : Berlin 2136. B N Berlin, Munich, Vienne etc.
+          <lb/>186
+          <lb/>CLEMENS V (Pape). Constitutiones et Extravagantes Decre¬
+          <lb/>tales cum apparatu Joh. Andreae. — (Strasbourg,
+          <lb/>Jean Grüninger 19 marsl 1491, in-fol.
+          <lb/>G W7107; Hain 5444, Pellechet-Polain 2757, T. 2; Voulliéme:
+          <lb/>Berlin 2284. B N Berlin, Munich, B M Montbéliard etc. 187
+          <lb/>COLUMBUS, Christophorus : Epistola de insulis nuper inventis
+          <lb/>(en allemand). — Strasbourg, Barth. Kistler, 130.
+          <lb/>IXI 1497, in-4°.
+          <lb/>GW7179; Hain-Copinger 5493, Proctor 755; Brit. Mus. Cat. I,
+          <lb/>163; Schmidt IV, p. 2, n° 1. B N Berlin, Munich, B M
+          <lb/>Colmar etc.
+          <lb/>188
+          <lb/>COLUMNA, Aegidius de : Historia destructionis Troiae (en
+          <lb/>allemand). — Strasbourg, Martin Schott (13 mars)
+          <lb/>1489, in-fol.
+          <lb/>G W 7238; Hain-Copinger 5518; Proctor 401; Brit. Mus.
+          <lb/>Cat. I, 94, Schmidt II, n° 7 ; Voullième : Berlin 2234.
+          <lb/>BN Berlin, Munich, Vienne etc.
+          <lb/>189
+          <lb/>COLUMNA, Aegidius de : (Idem) en allemand. — Strasbourg,
+          <lb/>(B. Kistler) (10 mars) 1499, in-fol. [Schmidt l’attribue
+          <lb/>à Martin Schottl.
+          <lb/>G W 7239; Hain-Copinger 5519; Proctor 774; Brit. Mus.
+          <lb/>Cat. I, 164; Schreiber 4139; Schmidt II, n° 17. Heitz-Ritter
+          <lb/>n° 676 : Bâle, Londres, Vienne.
+          <lb/>190
+          <lb/>COMMUNIO : De Communione et conversatione Judaeorum
+          <lb/>et Christianorum. — (Strasbourg, impr. de Henricus
+          <lb/>Ariminensis vers 1476), in-fol.
+          <lb/>32
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

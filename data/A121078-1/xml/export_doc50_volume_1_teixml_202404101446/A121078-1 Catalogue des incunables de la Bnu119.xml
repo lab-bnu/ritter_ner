@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:38.551902+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu119.tif
+IMAGE WIDTH: 2410
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>SALICETO NICOLAUS DE: Liber meditationum. Haguenau,
+          <lb/>(H. Gran), 5 sept. 1494, in-8°.
+          <lb/>Hain 14165, Proctor 3179, Voulliéme: Berlin 1175.
+          <lb/>K 3217a. Prov.: J. M. Heberle, Cologne, 20/III. 1891, 10 M.
+          <lb/>Notes mss. au commencement et à la fin. Rel. anc.
+          <lb/>424
+          <lb/>SALOMON und MoroLr, Strasbourg, Math. Hupfupf, 1499,
+          <lb/>in-40.
+          <lb/>Manque chez Hain et Panzer. Copinger III, 5250, Kristel¬
+          <lb/>ler 253, Schramm, Bilderschmuck XX, grav. N° 2107-2152.
+          <lb/>Schmidt V, 4, Schreiber 5193, Voulliéme: Berlin 2538.
+          <lb/>K 1008. Prov.: Bibliothèque Heitz, Strasbourg. Notes mss.
+          <lb/>Rel. anc. Réédité en facsimilé dans Elsässische Frühdrucke
+          <lb/>N° 2 par l’Elsässische Bibliophilen-Gesellschaft, Strasbourg,
+          <lb/>Heitz 8 Cie, 1930. Voir: Fr. Ritter, Erläuterungen zu den
+          <lb/>Elsässischen Frühdrucken der Elsässischen Bibliophilen¬
+          <lb/>Gesellschaft, N° 2, Strasbourg, Heitz &amp;amp; Cie, 1931, in-8°, 32 p.
+          <lb/>SCHIFFLEIN von St. Ursula. Voir: Ursula St.
+          <lb/>425
+          <lb/>SCHOTT PETRUS: Lucubratiunculae, ed. Wimpfeling, Stras¬
+          <lb/>bourg, Martin Schott, 2 octobre 1498, in-4°.
+          <lb/>Hain 14524, Madsen 3640, Pellechet: Colmar 1171, Proctor 409,
+          <lb/>Schmidt II, 13, Voulliéme: Berlin 2239, Walter: Sélestat 426,
+          <lb/>427, 428.
+          <lb/>K 3254. Prov.: Baer 8 Co., Francfort s. M., 19/VI. 1879, 18 M.
+          <lb/>Au-dessus du titre: «pertinet ad Monasterium SS. Mart. Mar¬
+          <lb/>cellini et Petri,» Sur une fiche blanche collée devant le titre:
+          <lb/>«Aus K. Schmidts Doubl.» Au-dessous: Epitaphe de Schott
+          <lb/>chez Mieg: Monumenta, Vol. II, f. 417 (publié 1870), et dans
+          <lb/>les Amoenitates Frib. p. 189. Plus bas, armoiries de P. Schott.
+          <lb/>A la fin 3 ff. blancs dont les deux premiers contiennent une
+          <lb/>copie de la lettre de P. Schott à sa sœur «Geben vff den ersten
+          <lb/>tag der heiligen vasten zu Bononiae in dem jar von Christi
+          <lb/>Geburt 1476».
+          <lb/>Au-dessous: Disen brief hat mir mein allerliebster bruder
+          <lb/>Petrus Schot geschriben von Bononi in dem ersten jor do wir
+          <lb/>von sant agnesz in disz closter sante Margreden komen. Anne
+          <lb/>Schoetin». Rel. anc.
+          <lb/>426
+          <lb/>(SCHOTT PETRUS]: De mensuris syllabarum epithoma.
+          <lb/>Strasbourg, J. Schott, 24 déc. 1500, in-8°.
+          <lb/>89
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

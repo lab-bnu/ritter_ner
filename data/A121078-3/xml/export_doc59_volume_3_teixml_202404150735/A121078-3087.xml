@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:06.059037+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3087.tif
+IMAGE WIDTH: 2314
+IMAGE HEIGHT: 3842
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>C. Herennium, Cicerone &amp;amp; Hermogene.Cum Gratia, &amp;amp;
+          <lb/>Priuilegio Caesareo.
+          <lb/>ARGENTORATI Excudebat Iosias Rihelius, Anno) M. D.
+          <lb/>LXVII. (Rücks, leer.)
+          <lb/>80, Griech., Antiq, u. Kursiv, 8 unn. Bll., 320 S., 4 unn. Bll.
+          <lb/>(Index), Rücks, leer, Kopft., Kust., Marg., Init. A, G, M, PI.H.
+          <lb/>Bl. a 24: VALENTINVS ERYTHRAEUS LINDAVIEN-] sis...
+          <lb/>adolescenti) bus WOLFANGO, &amp;amp; IOANNI ADOLPHO SALZMANNIS,
+          <lb/>Culm- bacensibus Variseis, fratribus germanis. S. P.D....
+          <lb/>— 3 Non. Feb. 1567. (Vorrede, 9 S.)
+          <lb/>R101.2041. Geschenk der Mainzer Bibl., 1871. Handschr. Noti¬
+          <lb/>auf dem Titelbl.: Collegij Soc. Jesu Heidelberg... Alte Sign.: Siv 11.
+          <lb/>GK: SB Berlin, UB Breslau, Königsberg, Marburg; BN Paris,
+          <lb/>805
+          <lb/>X. 17975; Oxford, Bibl. Bodleiana; Stadt-Bibl. Strassburg.
+          <lb/>Strassburg, N. Wyriot 1574
+          <lb/>ERYTHRAEUS Valentinus
+          <lb/>ORATIO, DE HONORIBVS ACADEMICIS, ET EO-] rum
+          <lb/>gradibus: Item, de RENVNCIATIONE MAGISTRORVM PHILO¬
+          <lb/>SOPHIAE, recitata IX. Februarij, CID ID LXXIIII.A VA¬
+          <lb/>LENTINO ERYTHRAEO, LINDAVIENSI, Decano Collegij Facul¬
+          <lb/>tatis artium, in Academia Argentoratensi: Cum gradus
+          <lb/>Magisterij Philosophici decerneretur tribus honestissimis,
+          <lb/>ac doctissimis uiris: ANDREAE WALTHERO, GOTHANO, Ec¬
+          <lb/>clesiae Wilhelmitanae Ministro: &amp;amp; Academiae Visitatori.
+          <lb/>IOANNI LVDOVICO HAWENREVTERO, ARGENTO- RATENSI Phy¬
+          <lb/>sices Professori publico. MELCHIORI IVNIO, Wittebergensi,
+          <lb/>Classis secundae Moderatori.
+          <lb/>ACTVS TRES. HENRICO À MYLHEIM, Praetore. ABRa¬
+          <lb/>HAMO HELDIO, H. Consule.
+          <lb/>Druckerm. Wyriots (He B Tafel XLIII Nr. 2; Silvestre Nr. 768).
+          <lb/>ARGENTORATI, Excudebat Nicolaus Wyriot.) M.D.LXXIIII.
+          <lb/>(Rücks, leer.)
+          <lb/>40, Griech., Antiq. u. Kursiv, 4 unn. Bll., 143 S., Kopft., Kust.
+          <lb/>Marg., Init. C, 0, G, P.
+          <lb/>Bl. 2a: Ap... ARBOGASTVM RECHBERGE-rum: Ioannem
+          <lb/>Carolum Locherum: Fridericum Goteshe- mium Scholar¬
+          <lb/>chas; Ioannis Sturmij Pre- fatio... — Argen- torati,
+          <lb/>Calendis Martij) 1574. (2S.)
+          <lb/>531
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

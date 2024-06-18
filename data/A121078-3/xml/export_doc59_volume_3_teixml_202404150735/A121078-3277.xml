@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:10.299524+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3277.tif
+IMAGE WIDTH: 2342
+IMAGE HEIGHT: 3856
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>R101921. Prov.: Rosenthal, München 15. I. 1884; 12 M.
+          <lb/>Auf dem Titelbl. : Doublette der K. U.-Bibl. Erlangen,
+          <lb/>Trewo M. D.
+          <lb/>Auf der Rücks. des Titelbl.: Exlibris des Christophorus Jacobus
+          <lb/>GK: SB Berlin.
+          <lb/>1061
+          <lb/>Bericbt) Ren intent
+          <lb/>Dno Gronung /mie bet oisen sterben¬
+          <lb/>òen leüffen sòie Destilents vnò Destilentischen Sie¬
+          <lb/>ber jũerbennen/ mes sich inn sollicben zeitten su bal
+          <lb/>tensau mie man sich voz oiser Erancebeit
+          <lb/>bervaren/vnò mit was Artney
+          <lb/>òieselb su curieren vnò
+          <lb/>beilen seie.
+          <lb/>Plusz beresch eines Ersamen Babte
+          <lb/>ver statt Strafburg/ gestellet òur dh d̀en Dü̃ròigen
+          <lb/>vnd hocbgelerten verren Jobaun Gmyntber von Xn¬
+          <lb/>oernady/oie;men Oromarios vnò andere
+          <lb/>ber Arnney Doctores daselbst,
+          <lb/>719
+          <lb/>Mit Romiscber Rey. HHay. Fresbeyt
+          <lb/>auff acht Jar.
+          <lb/>M- DE LXIIII»
+          <lb/>(Zu Nr. 1060)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

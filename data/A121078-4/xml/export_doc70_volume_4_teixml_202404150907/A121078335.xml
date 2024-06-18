@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:52.615534+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078335.tif
+IMAGE WIDTH: 2330
+IMAGE HEIGHT: 3840
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>POLLICARIUS Johannes
+          <lb/>Strasbourg, S. Emmel 1557
+          <lb/>Antwort Auff das vergiffte bûch! des Bischoffs zu
+          <lb/>Naumburg, welchs erst lich blind, hernachmals aber under
+          <lb/>seinem na-men, zû Erffurd im offentlichen truck ist ausz
+          <lb/>gangen, wider unsere Lehr und! Kirchen.! Durch! Jo¬
+          <lb/>hannem Pollicarium, Pre- diger zû Weissenfelsz. In wel¬
+          <lb/>cher, mit beständigem grundt der warheyt,! Fürnemlich
+          <lb/>VI. Stuck widerlegt werden, inn gemeltem Bûch, unrecht
+          <lb/>erfunden..
+          <lb/>Getruckt zû Straszburg durch Samuel Emmel.
+          <lb/>M. D. LVII.
+          <lb/>In-4°, car. goth., 4 ff. non ch., XXXVIII ff. ch., sign. A-K,
+          <lb/>réclames.
+          <lb/>Au verso du titre, 24 vers allemands: Du siehst, mein lieber
+          <lb/>frommer Christ, Wie unser Bapst voll schalckheyt ist...
+          <lb/>Fol. A 2a: Vorred unnd Summari-scher Innhalt dises Büchlins.
+          <lb/>(Préface, 8 pp.)
+          <lb/>Au recto du dernier f., 5 strophes à 4 vers : Erhalt uns HERR
+          <lb/>bey deinem wort, Und steür des Bapsts und Türcken
+          <lb/>mordt...
+          <lb/>R100.567. Prov.: M. Breslauer, Berlin 27/1X 1916; 48 M.
+          <lb/>Bibl. St-Guillaume, Strasbourg.
+          <lb/>Bibliographie de Joh. Pollicarius, voir: Schottenloher II n° 17426—
+          <lb/>17428.
+          <lb/>1907
+          <lb/>1221
+          <lb/>POLLIO Symphorianus
+          <lb/>Strasbourg, W. Kœpfel 1525
+          <lb/>Ein predig vom glauben wider die falschen stend,
+          <lb/>sampt einem sendtbrieff an die Priorin und Convent zû
+          <lb/>S. Katharinen zû Straszburg.Durch Symphorianum
+          <lb/>Pollionem dienern des worts zû Straszburg.) Anno 1525.
+          <lb/>Wenn mir Balack sein hauss, vol silber und goldts geb,
+          <lb/>so kündte ich doch nit übergen das wort des herren
+          <lb/>meins gotts. Nume. XXii.
+          <lb/>A la fin: Getruckt zû Straszburg bey Wolff Köpphel
+          <lb/>am! Rossmarckt, im M. D. XXV. jar.des vii. tags Janua¬
+          <lb/>rii. (Verso blanc.)
+          <lb/>In-40, car. goth., 16 ff. non ch., sign. A-D, notes marg., init.
+          <lb/>ornées E et D.
+          <lb/>R102.374. Prov.: Bibl. Heitz, Strasbourg 18ri.
+          <lb/>Bibl. St-Guillaume, Strasbourg.
+          <lb/>1908
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

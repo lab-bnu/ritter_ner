@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:33.225555+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2221.tif
+IMAGE WIDTH: 2290
+IMAGE HEIGHT: 3824
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>217
+          <lb/>Suit avec un nouveau titre: (Feuille de lierre) EPITOME! IN
+          <lb/>RHETORICAM CICERONIS VTRANQVE. ] Autore Conrado Celte
+          <lb/>.ANNO XXXIIII.Mense Septembri. (p. 219-268.)
+          <lb/>p. 269-327 (chiffré par erreur 267): DE PRIMIS APVD RHE¬
+          <lb/>TOREM EXERCI- TATIONIBVS PRAECE- PTIONES PETRI Mo¬
+          <lb/>SELLANI IN PRI VATVM DIS- CIPVLO- RVM SVORVM! VSVM
+          <lb/>COMPARATAE. ANNO XXXIIII.Mense septembri.
+          <lb/>p. 329-350: INDEX.
+          <lb/>p. 351-367: DRAGMATA LOCORVM TAM RHETOPICO- rum,
+          <lb/>quàm Dialecticorum unà cum exemplis... AvTORE CHRIS¬
+          <lb/>TOPHORO Hegendorphino. (Le nom de Chr. Hegendorphinus a été
+          <lb/>rayé à l’encre ainsi qu’au f. du titre principal.)
+          <lb/>R 102.116. Prov.: Don de la BM de Mavence, 1871; quelques
+          <lb/>notes mss., au milieu du titre ainsi qu’à la fin du livre:,,Liber
+          <lb/>Collegij Moguntini Societatis Jesu&amp;quot;; les Jésuites l’avaient recu:
+          <lb/>Ex Liberalitate Reverendissimi et Illustrissimi principis
+          <lb/>ac Domini D. Danielis Archiepiscopi &amp;amp; Electoris Moguntini&amp;quot;,
+          <lb/>comme il est dit à l’intérieur du Ier plat, où est collé l’exlibris de l’ar¬
+          <lb/>chevêque Daniel. Rel. anc.
+          <lb/>GPB: Berlin, Gœttingue BU, Kœnigsberg BU.
+          <lb/>324
+          <lb/>BUGENHAGEN Johannes
+          <lb/>Strasbourg, J. Herwagen, 1524.
+          <lb/>ANNO- TATIONES IOAN. BV- genhagij Pomerani in
+          <lb/>X. Epi stolas Pauli, scilicet, ad Ephesios, Philippenses,
+          <lb/>Colossenses, Thessalonicens, pri. &amp;amp; secun.Timotheum
+          <lb/>primam et secundam, Titum, Philomenem, Hebraeos.
+          <lb/>ITEM CONCORDIA EVAN- gelistarum de Resurrectione
+          <lb/>ac Ascensione Domini.
+          <lb/>A la fin: ARGENTORATI APVD IO-HANNEM HERVAGIVM
+          <lb/>MENSE MAIO ANNO! M. D. XXIIII.
+          <lb/>In-8°, car, ital. et rom., 149 ff. ch., titre courant, réclames, notes
+          <lb/>marginales, vignettes, titre encadré: bande inférieure, Mercure et Minerve,
+          <lb/>bande supérieure et bandes latérales, ornements. Manque chez HeB.
+          <lb/>Au verso du titre: IOHANNES HERVAGIVS sacrorum stu¬
+          <lb/>diorum Mystis. S.... — Argentorati ex aedibus nostris.
+          <lb/>Kalen. Iunij. Anno M. D. XXIIII. (2 p.)
+          <lb/>R 102.218.(3) Prov, : Don de la BU Heidelberg, 1871. Rel, anc.
+          <lb/>GPB. Berlin. Geisenhof Georg, Bibliotheca Bugenhagiana. [— Quellen
+          <lb/>und Darstellungen aus der Geschichte der Reformationszeit Bd. 6l,
+          <lb/>Leipeig 1908, p. 83, N° 56: Augsbourg B M, Berlin BN, Bremen
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

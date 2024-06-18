@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:58.777634+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5266.tif
+IMAGE WIDTH: 2422
+IMAGE HEIGHT: 3862
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1576
+          <lb/>Vuendelinum Rihelium, An.M. D. XXXVI. Mense Sep¬
+          <lb/>tembri.
+          <lb/>In-fol., car. rom., CXLVIII ff. ch., 14 ff. non ch. à 3 col. en car. ital.
+          <lb/>(tables), titre courant, réclames, notes marg. en car. ital.
+          <lb/>Après f. CVIII la pagination reprend CIII au lieu de CIX de sorte
+          <lb/>qu’il y a en réalité 148 ff. ch.
+          <lb/>Dédicace comme au n° précédent.
+          <lb/>R. 10.536 (1). Prov. : Don de Fidelis Butsch fils, Augsbourg, 15/x,
+          <lb/>1883. Note ms. au bas du titre : Cartusiae Buxianae. Les cartes manquent.
+          <lb/>2e ex. R. 10.596. Prov. : Bibl. Edouard Reuss avec son ex-libris et
+          <lb/>note ms. de sa main : emptum Argentorati 13. Aug. 1869 plourl 2 [fr.].
+          <lb/>Au recto du f. de garde: Sum Barthelomei Collini Anno 1591; à l’intérieur
+          <lb/>du Ier plat : Librairie Salomon, Strasbourg; au verso du titre, timbre:
+          <lb/>Bibl. Publ. Basiliensis. Rel, ancienne. Beaulieux, p. 302 : BU Paris (Réserve
+          <lb/>656) avec 8 cartes à la fin comprenant 16 ff. non ch. ; Olschki, Florence,
+          <lb/>Catalogue LXXXI (1912), no 251 : 300 francs; Brunet Vs, 1534 : «rare.
+          <lb/>Vendu I1 sh. Heber; 21 fr. en 1859».
+          <lb/>2526
+          <lb/>ZIEGLER Vitus, Warhaffter Bericht verlauffener Sachen. Voir
+          <lb/>VERANTWORTUNG Warhaffte... 1590. R 102.267; n° 2392.
+          <lb/>ZIRALDUS Lilius Gregorius
+          <lb/>Strasbourg, M. Schürer, 1511
+          <lb/>Lilii Graegorii Ziraldi(Ferrariensis Synta! gma de Mvsis.
+          <lb/>Grav. sur bois : La fontaine d’Hippocrène, autour de celle-ci un
+          <lb/>bassin, dans lequel se baignent les neuf Muses; dans un cadre
+          <lb/>carré entourant le tout èvvéx Opyœozose psyéhou otóc, au-dessus:
+          <lb/>Ab Jove Principum Musae, d’un côté : Dulces ante omnia
+          <lb/>Musae », de l’autre : « Nymphae noster amor», en bas : yœípers
+          <lb/>*exνα Otóς.
+          <lb/>A la fin :... Matthi as Schurerius artium doctor summa!
+          <lb/>cum diligentia impressit, non omissis accentibus in eis
+          <lb/>quae Graeca sunt. Argentorat. Ann. salutis.! M. D. XI. Il
+          <lb/>Idibus August. (Verso blanc.)
+          <lb/>In-4°, car. rom. et grecs, 16 ff. non ch., sign. A-C, titre courant, notes
+          <lb/>marg., init. d’attente D, 9 belles petites grav., représentant chacune une
+          <lb/>Muse.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

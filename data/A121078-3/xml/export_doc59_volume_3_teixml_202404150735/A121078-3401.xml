@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:13.419478+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3401.tif
+IMAGE WIDTH: 2408
+IMAGE HEIGHT: 3856
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Darunter: Druckerm. des Joh. Prüss. (HE B Tafel VIII Nr. 2.)
+          <lb/>(Rücks, leer.)
+          <lb/>40, Got., 2 unn., XCVIII num. Bll., Marg., Init. 1, 4, 32 pri¬
+          <lb/>mitive Holeschn., von denen verschiedene mehrere Male wiederkehren.
+          <lb/>(Paginationsfehler.)
+          <lb/>Plialin feutsh,
+          <lb/>Ein gericθh bandclz uisen Beleab hellisem
+          <lb/>verweser lals Eleger cinem teil l vnò Jesu Cristo
+          <lb/>Aymmelisem got lantwurter anderm teuc Ai
+          <lb/>solobe Ibesua den hellishen ftirsten recbtlichen¬
+          <lb/>Die belle zerstorct beraubet oñ die tuiscf varinn
+          <lb/>Aesunden babe zi.Al les mit claq antuurtir eò
+          <lb/>miderredlappellierung rechtsanung rl. mie mã
+          <lb/>sic in recbten brucben sot¬
+          <lb/>848
+          <lb/>6
+          <lb/>(Zu Nr. 1255)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

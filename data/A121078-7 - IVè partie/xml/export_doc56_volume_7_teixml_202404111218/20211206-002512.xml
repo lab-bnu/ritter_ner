@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:14.179372+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002512.tif
+IMAGE WIDTH: 2482
+IMAGE HEIGHT: 3968
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>VOGTHERR, Heinrich (Kunstbüchlein) : Ein Frembds und
+          <lb/>wunderbars kunstbüchlin allen Molern, Bildschnitzern...
+          <lb/>hochnutzlich zu gebrauchen... — Strasbourg, Henri
+          <lb/>Vogtherr 1538, in-4°.
+          <lb/>B M Colmar; Walter, n° 2400.
+          <lb/>3447
+          <lb/>[VOGTHERR, Georg] Sumari Büchlein aller Sonnen uhr. —
+          <lb/>Strasbourg, Henri Vogtherr 1540, in-4°.
+          <lb/>Zinner 1765.
+          <lb/>3448
+          <lb/>(VOGTHERR, Georg) : (Idem). — Strasbourg, Frölich 1544,
+          <lb/>in-4°, 1re éd. 1539, voir ; n° 3454.
+          <lb/>Zinner 1862.
+          <lb/>3449
+          <lb/>VOGTHERR, Heinrich (Kunstbüchlein) : Libellus artificiosus...
+          <lb/>— Strasbourg, Henri Vogtherr 1540, in-8°.
+          <lb/>Graesse IV, p. 235.
+          <lb/>3450
+          <lb/>VOGTHERR, Heinrich (Kunstbüchlein) : Ein fremds und
+          <lb/>wunderbars Kunstbüchlein... — Strasbourg, Christian
+          <lb/>Müller (Mylius) 1572, in-4°.
+          <lb/>Graesse, IV, p. 235.
+          <lb/>3451
+          <lb/>VOGTHERR, Heinrich: Ein warhafft wunderbarlich vor uner¬
+          <lb/>hörte Figur unnd gewächs So zu Albersweiler bey
+          <lb/>Landaw am Rhein im Jar... M.D.XLI zu Herbstzeit
+          <lb/>erfonden worden... — Strasbourg, Thiébaud Berger
+          <lb/>1541, placard in-fol.
+          <lb/>Bibl. Centrale Zurich.
+          <lb/>3452
+          <lb/>VOGTHERR, Heinrich : Ein wunderbar doch fröliche gestalt
+          <lb/>unnd gewechs eines halmen, zimlicher dick eines
+          <lb/>geraden Mannes hoch mit fünffzehen Ehren (Ahren),
+          <lb/>iedoch die mittelst Ehre lenger und volkomenner dan die
+          <lb/>andern, bei Malsch am Buchrein. Im 1541 Jar gewachsen.
+          <lb/>— Strasbourg, Th. Berger 1541, placard in-fol.
+          <lb/>Bibl. Centrale Zurich.
+          <lb/>3453
+          <lb/>510
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

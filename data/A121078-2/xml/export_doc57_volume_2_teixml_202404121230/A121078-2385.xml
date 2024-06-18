@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:37.750358+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2385.tif
+IMAGE WIDTH: 2372
+IMAGE HEIGHT: 3818
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>COMPLEXION
+          <lb/>Strasbourg, J. Knobloch, 1516.
+          <lb/>In disem biechlin wirt erfunden von complexi¬ on
+          <lb/>der menschen, Zù erlernen leypliche vnd menschliche
+          <lb/>natur, in sitten, geberden vnd neyglichkeit zu erkennen
+          <lb/>vnd vrteylen.
+          <lb/>même gravure se trouve aussi dans le Wurtegarten de Hupfuff.
+          <lb/>Gravure sur bois: un roi oriental, au milieu d’un paysage, la
+          <lb/>A la fin: Getruckt vnnd volendet in der lob- lichen
+          <lb/>statt Strabburg, durch Jo- hannem Knobloch. Als man
+          <lb/>zalt nach der geburt Christi vnsers herren, Tausent
+          <lb/>Fünffhun- dert vnd sechtzehen Jare, (Verso blanc.)
+          <lb/>Quelques uns l’attribuent à Barth. Cocles.
+          <lb/>In-4°, 16 ff. non ch., sign. A-C, initiales ornées I. A.
+          <lb/>*R101.091. Prov, inconnue.
+          <lb/>Un exemplaire dans le Cataloque 788 de Baer, Francfort s. M.
+          <lb/>Proctor II, Sectio I, N° 10105: Londres, British Museum; GPB.
+          <lb/>BN Berlin; Schmidt VII, N° 127: Librairie Hagemann à Strasbourg,
+          <lb/>1878.
+          <lb/>570
+          <lb/>COMPLEXION
+          <lb/>Strasbourg, J. Cammerlander, avant 1539.
+          <lb/>Ein newes! Complexi on Büchlin. Der menschen
+          <lb/>natur, geburt, sitten, geberden vnd neygligkeyt, ausz
+          <lb/>der phisio- nomi der siben Planeten, xii. Zeichen, vnd
+          <lb/>den XXXVj. Bil dern des himmels, Auch nach den zwölff
+          <lb/>Monaten, eyn kurtzer bericht ausz der Astro nomi.
+          <lb/>Getruckt zû Strassburg durch M. Jacob Cam! merlan¬
+          <lb/>der von Mentz.
+          <lb/>Tout autour 10 médaillons de constellations. (Verso blanc.)
+          <lb/>In-40, car. goth., 4 ff. non ch. (Préface et Registre), 43 ff. ch., titre
+          <lb/>courant, réclames, bandes d’ornement, de nombreuses petites gravures
+          <lb/>sur bois.
+          <lb/>Au verso du dernier f., dont le recto blanc, marque typ. de Cammer¬
+          <lb/>lander. (H A B, Planche XXIV, n° 1; Silvestre, N° 816).
+          <lb/>R 101169. Prov.: Uhland. A l&amp;#x27;intérieur du dernier plat: München
+          <lb/>Anthr. 9. Titelbl. : Wolfgangus Sodeling me comparavit, Anno domini
+          <lb/>1539, le livre a donc paru au plus tard en 1539.
+          <lb/>GPB: BN Berlin.
+          <lb/>571
+          <lb/>CONCERTATIO
+          <lb/>Strasbourg, J. Grüninger, 1523.
+          <lb/>CONCER] TATIO HAVD INELEGANS) CVLSAMERI LVTH
+          <lb/>eriani et. F. Bartolom. Vsingensis theologiae con ! sulti
+          <lb/>381
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

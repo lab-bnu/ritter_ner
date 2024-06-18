@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:05.130619+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3024.tif
+IMAGE WIDTH: 2350
+IMAGE HEIGHT: 3838
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>468
+          <lb/>Reuchlinistarum exercitum pa gina inuenies mox se¬
+          <lb/>quenti.
+          <lb/>Am Schluss: Hagenoae ex Officina Thomae Anshelmi.
+          <lb/>Anno Incar nationis Verbi M. D. XIX. Mense Maio.
+          <lb/>Darunter: Druckermarke Anshelm&amp;#x27;s. (He B, Tafel LXII, Nr. 2;
+          <lb/>Silvestre, Nr. 771.)
+          <lb/>40, Antiq., Griech. u. Hebr., 116 unn. Bll., Sign. a-2, A-F. Kopf¬
+          <lb/>titel, Init., Titeleinfassung. (Siche Nr. 691.)
+          <lb/>Auf der Rückseite des Titelbl.: THOMAS ANSHEL mi Ba¬
+          <lb/>densis Typographus Candidis Lectoribus. (11 Zeilen.)
+          <lb/>Bl. a 2a: CAPNIONIS DEFEN SORES ACERRIMI... (folgen
+          <lb/>die Namen der 42 Verteidiger Reuchlins).
+          <lb/>Bl. a 3a: IOANNES HILTEBRANDVSSuecingenis Studiosis
+          <lb/>omnibus...
+          <lb/>Auf der Rückseite: Philippus Melanchthon Brettanus
+          <lb/>Lectori...
+          <lb/>Bl. F1a: MAXIMILIANVS CAE] SAR, ROMANORVM IMPERA
+          <lb/>tor. Ad Leonem Decimum Pontificem Maximum... Datum
+          <lb/>in Inspruck xxiiï. Octobris. [anno 1514.)
+          <lb/>Darunter: Finis additionum ad epistolas Clarorum Viro¬
+          <lb/>rum ex Char- tophylacio secundo uiri, nostae (!) aetatis,
+          <lb/>celeberrimi do! ctissimique Iohannis Reuchlin Phorcensis.
+          <lb/>Seque tur tandem liber tertius, qui erit Ro manorum ex
+          <lb/>Chartophylacio tertio.
+          <lb/>R 102.020. Prov.: Bibl. Ed. Böcking mit Exlibris Böckinos und
+          <lb/>Porträt. Vor dem Titelbl., Faksimile der Ausgabe von Tübingen im Jahre
+          <lb/>1514 u. Notizen Böckings:»Die erste Ausgabe dieser Briefe hat gegen¬
+          <lb/>überstehende ersten 4 Zeilen auf dem Titel, ohne alle Verzierung. 47 Bll.
+          <lb/>4°. Auf der Rückseite des 47. Blattes steht der gegenüber facsimilierte
+          <lb/>Schluss. Diese erste Ausgabe ist 1548 (durchstrichen u. verbessert) 1558,
+          <lb/>und vielleicht noch öfters (ebenfalls gestrichen) in 8°, Tiguri apud Christo.
+          <lb/>phorum Froschhouerum nachgedruckt worden.&amp;quot;
+          <lb/>2. Ex. R1008416). Prov.: Bibl. Ch. Schmidt, der es 1856 auf
+          <lb/>der Versteigerung Busch erworben: Exlibris Schmidts u. Notiz von seiner
+          <lb/>Hand: »Sur la rareté des Epistolae illustrium virorum V. Vogt, Catal.
+          <lb/>libr. rar. 578.-
+          <lb/>Proctor II, Sectio I. Nr. 11.702: London, British Museum; Bibl.
+          <lb/>Wilh. u. Stadtbibl. Strassburg Inkun. 515. GE: SB Berlin, UB Breslau,
+          <lb/>Göttingen, Münster.
+          <lb/>702
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

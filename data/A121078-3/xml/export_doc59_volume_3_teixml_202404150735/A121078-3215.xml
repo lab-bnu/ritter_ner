@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:08.696620+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3215.tif
+IMAGE WIDTH: 2322
+IMAGE HEIGHT: 3852
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>GEILER Johannes
+          <lb/>Strassburg, Joh. Knobloch 1516
+          <lb/>Das bûch Granatapfel. im la- tein genant Malogra¬
+          <lb/>natus. helt in im gar vil vnd manig heilsam vnd süsser
+          <lb/>vnderweysung vnd leer, den anhebenden, vffne! menden
+          <lb/>vnd volkommen menschen, mit sampt geistlicher bedeütung
+          <lb/>des vszgangs der kinder Israel von Egypto. Item ein
+          <lb/>merckliche vnder- richtung der geistlichen spinnerin. Item
+          <lb/>etlich predigen von dem ha¬ sen im pfeffer. Vnnd von
+          <lb/>syben schwertern, vnnd scheiden, nach geistlicher vszle¬
+          <lb/>gung. Merers teyls gepredigt durch den hoch-gelerten
+          <lb/>doctor Johannem Geyler von Keysersperg etc.
+          <lb/>Am Schluss: Getruckt zû Straszburg durch Jo hannem
+          <lb/>Knobloch vff Freytag vor Johannis baptiste. Des jars da
+          <lb/>mann zalt. M. D. xvi.
+          <lb/>20, Got., 2sp., 162 unn. Bll., Sign. A-P, a-m, Kopft., Init. Die¬
+          <lb/>selben Holzschn, wie in der Ausg. 1511 mit Ausnahme des Titelholeschn.
+          <lb/>Bl, A 2; Vorrede.
+          <lb/>*R10.107. Prov.: I. Béguin, Strassburg (Auktion Huber), 20. VII.
+          <lb/>1885; 200 M.
+          <lb/>Dacheux, Geiler S. CVIII; Schmidt VII Nr. 116: Bibl. Wilh, und-
+          <lb/>Ehemalige Strassburger Bibl. Inkun. 1991; GK: SB Berlin, UB Göt¬
+          <lb/>tingen.
+          <lb/>973
+          <lb/>659
+          <lb/>GEILER Johannes
+          <lb/>Strassburg, Joh. Grüninger 1516
+          <lb/>Die EmeisDis ist das bûch von der Omeissen.
+          <lb/>vnnd auch Her der künnig ich diente gern. Vnd sagen
+          <lb/>von Eigentschafft der Omeissen vnd gibt vnderweisung von
+          <lb/>den vnholden vnd hexen, vnd von gespenst der geist,
+          <lb/>vnnd von dem wütenden heer! wunderbarlich, vnd nütz¬
+          <lb/>lich ze wissen, was man daruon halten oder glauben soll.
+          <lb/>Vnd ist von dem hoch-gelerten doctor Joannes
+          <lb/>Geiler von Keisersperg Predicant der Keiserli-chen freien
+          <lb/>statt Strasz- burg, der selben zeit. in eim quadragesimal
+          <lb/>ge-predigt worden alle son- tag in der fasten, mag¬
+          <lb/>stu die euangelia darzû sûchen, in seinem euan geli
+          <lb/>bûch. Vnnd ist hie angezeugt an der ersten predig, die
+          <lb/>figur vonn! dem euangelium an dem Sontag Sexagesima
+          <lb/>ist der erst Sontag vor! herren fastnacht. Cum! turba
+          <lb/>plurima conueni! ret....
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

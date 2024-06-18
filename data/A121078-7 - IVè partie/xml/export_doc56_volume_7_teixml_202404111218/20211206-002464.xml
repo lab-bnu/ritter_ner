@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:13.319097+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002464.tif
+IMAGE WIDTH: 2510
+IMAGE HEIGHT: 3976
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>selben Reimen auch klein vnd grosse (/ gschrifften
+          <lb/>vormals der gleichen nit// auszgangen Durch mich
+          <lb/>Jörg Schrep — (/ peler Burger vnnd Rechen-(/ meister
+          <lb/>zu Straszburg ge// schriben, gemacht in druck// gfertigt
+          <lb/>vnd den 31. September. (/Anno 54. Volendt. —
+          <lb/>Strasbourg, Th. Berger 1554, in-4°.
+          <lb/>Ritter, Hist. impr. p. 334. Ex. unique à Danzig. 3195
+          <lb/>SCHREPPELER, Jörg : Ein künstlich Alphabet, sampt derselben
+          <lb/>Reimen, auch klein und grosse Geschriften... den
+          <lb/>31. Sept. anno 54 volendt. — Strasbourg, Th. Berger
+          <lb/>(1568), in-4°. Peut-être confusion avec n° 3195. 3196
+          <lb/>SCHRICK, Michael : Von den usz gebrenten wassern... —
+          <lb/>(Strasbourg, Mathias Hupfuff 1502), in-4°.
+          <lb/>Schmidt V, n° 22: B N Berlin (incomplet).
+          <lb/>3197
+          <lb/>SCHRICK, Michael : (Idem). — (Strasbourg, Jean Knobloch
+          <lb/>1519), in-4°.
+          <lb/>Schmidt VII, n° 182; Weller, Rep. 1266; Ritter: B M
+          <lb/>Strasbourg, n° 1882. — BN Munich.
+          <lb/>3198
+          <lb/>SCHRICK, Michael : (A)usgebrannte und Distillierte wasser,
+          <lb/>wie sie zu iedem gebressten des Menschenleibs und
+          <lb/>warzu sunst deren gebrauch fürträglich dienen. —
+          <lb/>(Strasbourg, Christian Egenolph, août 1530), in-40.
+          <lb/>Une offre a été faite à la Bibliothèque par M. E. Schwarzschild,
+          <lb/>Amsterdam le 28 mars 1935, pour 1.000 fr. français. Benzing:
+          <lb/>Egenolff, n° 34.
+          <lb/>3199
+          <lb/>SCHROETTER, Heinrich : Etliche wenige On wider sprechliche
+          <lb/>Ertzbubenstücke, der von Gott verblendten Juden in
+          <lb/>gemein. Item, wie sie uns Christen (durch ihren Vatter den
+          <lb/>Teüffel getriben) alle Sabatstag in ihren Synagogen
+          <lb/>greülich verfluchen... — Strasbourg, Th. Berger 1563,
+          <lb/>in-80.
+          <lb/>Schottenloher 38.358 (c).
+          <lb/>3200
+          <lb/>462
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

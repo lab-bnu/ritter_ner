@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:11.685376+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002395.tif
+IMAGE WIDTH: 2502
+IMAGE HEIGHT: 3972
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>nutzbar und lustig zu wüssen den Medicis. Ins Lateinische
+          <lb/>übersetzt von Adam von Bodenstein. — Strasbourg
+          <lb/>1572, in-80.
+          <lb/>Graesse V, p. 128.
+          <lb/>2837
+          <lb/>PARACELSUS, Theophr. (Schreiben) : Schreiben von den
+          <lb/>Krankheiten, so den Menschen der Vernunft natürlich
+          <lb/>berauben, sammt ihren Kuren. — Strasbourg 1576,
+          <lb/>in-80.
+          <lb/>Graesse V, p. 127.
+          <lb/>2838
+          <lb/>PARACELSUS, Theophr. (Testamentum) : Testamentum
+          <lb/>Philippi Theophrasti Paracelsi... Weiter Innhat (sic)
+          <lb/>dises Büchlins hastu auff der andern seitten dieses Plats.
+          <lb/>Hierinn findestu, lieber Leser, wer Theophrastus und
+          <lb/>seine Eltern gewesen, wa sie gelebt und gestorben und
+          <lb/>was er verlassen. Vormals nie in trnk (sic) geben... —
+          <lb/>Strasbourg, Christian Müller (Mylius) 1474 (faute pour
+          <lb/>1574), in-80.
+          <lb/>Ritter: B M Strasbourg, n° 1631.
+          <lb/>2839
+          <lb/>PARACELSUS (De urinis) : De urinarum ac pulsuum indiciis
+          <lb/>tum de physiognomia quantum medico opus est. —
+          <lb/>Strasbourg, Samuel Emmel 1568, in-4°.
+          <lb/>(Ritter, Rép. n° 1771).
+          <lb/>2840
+          <lb/>PARACELSUS. Voir : FISCHART, n° 1724.
+          <lb/>(Ritter, Rép. nos 1767-1785).
+          <lb/>PARATUS : Sermones de tempore et de sanctis. — Strasbourg,
+          <lb/>Jean Knobloch, 24 mars 1517, in-4°.
+          <lb/>Schmidt VII, n° 137; B N Strasbourg; Weislinger 157. 2841
+          <lb/>PARATUS : Sermones parati de tempore et de sanctis. —
+          <lb/>Haguenau, Henri Gran aux frais de Jean Rynman,
+          <lb/>décembre 1517, in-4°.
+          <lb/>Beaulieux, p. 267, n° 765. (Ritter, Rép. nos 1786-1790). 2842
+          <lb/>393
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

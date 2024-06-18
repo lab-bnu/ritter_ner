@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:14.311188+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3440.tif
+IMAGE WIDTH: 2428
+IMAGE HEIGHT: 3852
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>882
+          <lb/>KLAG
+          <lb/>Strassburg 1593
+          <lb/>VNderthenigste Klagvnd Trewhertzige Erinnerung
+          <lb/>der Ritter-schafft in Lottringen vnd Hertzog- thumb
+          <lb/>Barr: An die Königlich May, in Franckreich! wegen der
+          <lb/>inn Lottringen eingewurtzelterSpanischer bedrengnus,
+          <lb/>in Schatzungen vnd zugenöttigten Kriegs-wesen.! Ausz
+          <lb/>dem Frantzösischen in Teutsch gebracht vnd menniglichen
+          <lb/>zu nachrichtung an Tag gegeben. (Vign., die in Drucken von
+          <lb/>Jost Martin vorkommt.)
+          <lb/>Getruckt zu Straszburg, Anno 1593.
+          <lb/>40, Got., 6 unn. Bll,, wovon das letste leer, Sign. A, Kust., Init.
+          <lb/>R 102.269. Prov.: Bibl. Heitz, Strassburg 1871.
+          <lb/>1312
+          <lb/>KLAGSPIEGEL (Clagspiegel). Siche: BRANT Sebastian
+          <lb/>KNAUST Heinrich
+          <lb/>Strassburg, P. Messerschmidt 1562
+          <lb/>AGAPE-] TVS SCHOLASTI-! cus praedo factus &amp;amp; conuer¬
+          <lb/>sus. COMŒDIA DE RECTA INSTITVTI-one &amp;amp; è contra, cor¬
+          <lb/>ruptela Iuuentutis, com! plectens pulchram illam &amp;amp; lepi¬
+          <lb/>dam narrati- onem, de sancto IOANNE AposTo! Lo, com¬
+          <lb/>mendante cuidam Episcopo prae clarum luuenem apud
+          <lb/>Ephesum, quem! deinde prauis sodalitijs corrup- tum, ad
+          <lb/>meliorem ui- tam reuocavit.
+          <lb/>Ex EVSEBH CAESARIENSIS! Historia Ecclesiastica, capite
+          <lb/>22. AVTHORE HEINRI! co Knaust Iurisconsulto.
+          <lb/>ARGENTORATI EX OFFICINA Pauli Macheropœi. Anno
+          <lb/>M. D. LXII.
+          <lb/>Am Schluss: ARGENTORATI IN OFFICINA PAV] LI MACHÆ¬
+          <lb/>ROPŒI. AN- [NO M. D. LXII. (Rucks, leer.)
+          <lb/>80, Kursiv, 48 unn. Bll. Sign. A-F. Kopft., Kust., Init., Vign.
+          <lb/>Auf der Rücks, des Titelbl.: Paulus Holtzenius à Demmin, Pomeranus.
+          <lb/>2 Dist.)
+          <lb/>Bl. 42-45: Vorrede des Verfassers an Bischof Michaëli von
+          <lb/>Merseburg aus Erfurt 1561.
+          <lb/>R 100.995. Prov.: E. Berndorf, Berlin 10. V. 1893, 15 M.
+          <lb/>Siche: MICHEL Hermann: Heinrich Knaust. Berlin, B. Behr 1903.
+          <lb/>1313
+          <lb/>KOBENHAUPT Joh. Seb. Siche: SPACH Israel : Disputatio me¬
+          <lb/>dica. Strassburg, A. Bertram 1591, R101.564 (4) u. Theses medicae.
+          <lb/>Strassburg, C. Kieffer 1590. R 101564 (3).
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

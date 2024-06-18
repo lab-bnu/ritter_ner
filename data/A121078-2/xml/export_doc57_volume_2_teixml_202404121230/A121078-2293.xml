@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:35.248722+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2293.tif
+IMAGE WIDTH: 2294
+IMAGE HEIGHT: 3816
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>CAPITO Wolfgang Fabricius
+          <lb/>Strasbourg, W. Köpfel, 1525.
+          <lb/>INSTI (précédé et suivi d’une feuille de lierre) TVTIONVM
+          <lb/>He,braicarum, LibriDo.V. FABRITIO CAPITONE
+          <lb/>AVTORE. CVM PRIVILEGIO Imperiali, ad Triennum.
+          <lb/>Argentorati apud Vuolfium Cephalaeum. Anno
+          <lb/>M. D. XXV. (2. édition) (Verso blanc).
+          <lb/>A la fin: Excudebatur Argentorati apudVuolfium Ce¬
+          <lb/>phalaeum, Anno M. D. XXV. prima A- prilis.
+          <lb/>In-8°, car. rom. et hebr., 8 ff. non ch., C ff. ch., 2 f. non ch.
+          <lb/>(Index), titre courant, réclames, grande initiale ornée A fol. I; titre
+          <lb/>encadré, dans la bande supérieure, ornement de feuillage, aux bouts 2
+          <lb/>bustes de femmes avec des ailes, dans les bordures latérales, colonne
+          <lb/>avec tête d’ange dans la partie supérieure; au milieu de la bordure
+          <lb/>inférieure un écusson vide avec la date I. 5. 23; des deux côtés un
+          <lb/>homme sauvage assis jouant d’un instrument.
+          <lb/>fol. a 2a: HULDERICHO VARNBVIERO, CAN-cellario
+          <lb/>Regimenti Imperialis,v. FABRITI US CAPITO...
+          <lb/>— Argentinae. Sexto Kalendas Aprilis Anno 1525.
+          <lb/>Suivent 5 distiques de Georgius Caselius.
+          <lb/>R100.029. Prov.: Bibliothèque Edouard Reuss avee son ex-libris,
+          <lb/>1891, son autographe au recto du f. de garde et l’annotation: Geschenk
+          <lb/>von W. Rœhrich 4. Jan. 1841, au verso du f. au crayon: Ière éd. Basel,
+          <lb/>Froben 1518 Liber rarissimus. Stein John, hebr. Bibliogr. p. 32, No 344.
+          <lb/>GPB: BN Berlin. Baum Capito und Butzer No 19.
+          <lb/>437
+          <lb/>289
+          <lb/>[CAPITO Wolfgang Fabricius)
+          <lb/>[Strasbourg, W. Köpfell, 1525.
+          <lb/>Der Stifft von sanct Thoman zu Straszburg vszschry¬
+          <lb/>ben vnd protesta tion, Wider ettliche ungüttliche handlung
+          <lb/>Jüngst vor Keyser-licher Maiestatt Regiment zû Eszlingen
+          <lb/>fürgenomen.
+          <lb/>Anno M. D. XXV. Mense Februarij. (Feuille de lierre.)
+          <lb/>A la fin:... Straszburg an gewo-nem ort vnsers
+          <lb/>Capitels vff den zehenden tag Februarij. Anno domini
+          <lb/>XVe XXV jar.
+          <lb/>Au verso du dernier f.: Probst, Vicedecan, Capittel vnd
+          <lb/>gemeynen personen der Stifft zû sanct Thoman! zû Strasz¬
+          <lb/>burg nemlich...(Suivent les noms à commencer par Capito:
+          <lb/>Doctor Wolffgangus Capito prepositus vnd Canoni. (en tout
+          <lb/>21 noms, entre autres 6 chanoines, 12 vicaires. Voir les noms ches
+          <lb/>Baum N° 18).
+          <lb/>R. 19
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

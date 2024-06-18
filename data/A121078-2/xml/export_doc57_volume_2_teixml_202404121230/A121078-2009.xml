@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:26.481701+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2009.tif
+IMAGE WIDTH: 2400
+IMAGE HEIGHT: 3826
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>initiale D, 23 grav., dont 5 très barbares (l’une est répétée 3 fois),
+          <lb/>in-fol., car. goth., 2 col., 48 ff. non ch., sign. A-H, titre courant,
+          <lb/>sont tirées de la Historia von Rhodis comme celle du titre d’après
+          <lb/>l&amp;#x27;édition de Caoursin, Ulm 1496; celles qui sont nouvelles sont exé¬
+          <lb/>cutées avec finesse, mais superficiellement.
+          <lb/>Fol. A 2a: Chronica! Dem wolberichten... herren Peter¬
+          <lb/>mann Etterlin, gericht schreiber zu Lutzern, meinem be¬
+          <lb/>sondern lieben guten freund vnd günder Entbeut ich Jo¬
+          <lb/>hannes Adelphi Physicus Mein allzeit früntlich willig dienst...
+          <lb/>— Geben zu Trier am iars abent nach der geburt christi
+          <lb/>vnsers seligmachers. Tausend fünffhundert vnd dreyzehen.
+          <lb/>&amp;quot;R 10079. Prop.: B N Munich, 22/1. 1880, 12 M.
+          <lb/>Schmidt, VI, p. 28, N°. 36; exemplaire de Schmidt.
+          <lb/>GPB, I, 10498: Berlin, München, Wien, Göttingen.
+          <lb/>ADELPHUS Johannes
+          <lb/>Strasbourg, J. Enobloch, 1516.
+          <lb/>DJe Türkisch Chronica won (!) irem vrsprung ane¬
+          <lb/>fang vnd! regiment, bisz vf dise zeyt, sampt irem (1) krie¬
+          <lb/>gen vnd streyten mit den Christen begangen,! Erbärmk¬
+          <lb/>lich zu lesen.
+          <lb/>Grav, sur bois: cinq Turcs armés, à cheval, traversant une cam¬
+          <lb/>pagne.
+          <lb/>A la fin: Getruckt vnd volendet in der lob-] lichen statt
+          <lb/>Straszburg, durch Johannem Knobloch. Als man zalt
+          <lb/>nach der geburt Chri-sti vnsers herren Tausent! fünff¬
+          <lb/>hundert vnn (!) sech zehen Jare.
+          <lb/>in-fol., car. goth., 2 col., 48 ff. non ch., sign. A-H, titre courant,
+          <lb/>initiale D, le texte correspond presque page par page à celui de
+          <lb/>l’édition de 1513 de Martin Flach; les grav. sont les mêmes, seule la
+          <lb/>marque typ. de Martin Flach est remplacée à la fin par une grav.; la
+          <lb/>préface est identique.
+          <lb/>*RI0080. Prov.: Bibliothèque du Gymnase de Heilbronn, 2/IV
+          <lb/>1878; contre échange.
+          <lb/>Schmidt, VII, No 126. B M Colmar.
+          <lb/>GPB, I, 10499. Berlin, München, Göttingen.
+          <lb/>6
+          <lb/>ADELPHUS Johannes
+          <lb/>Strasbourg, J. Knobloch, 1519.
+          <lb/>Sequentiarum! luculenta interpretatio:! nedum scho¬
+          <lb/>lasticis: sed! et ecclesiasticis cogni! tu necessaria: per
+          <lb/>Jo an. adelphum phy sicum Argentin. collecta.
+          <lb/>Anno domini M. D. XIX.
+          <lb/>Ile partie: Hymni de tem pore et de sanctis: in eam
+          <lb/>formam qua a suis autori bus scripti sunt denuo) redacti:
+          <lb/>et secundum legem! carminis diligenter] emendati atque
+          <lb/>interpre- tati.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

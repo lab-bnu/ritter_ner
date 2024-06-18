@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:05.275255+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3033.tif
+IMAGE WIDTH: 2346
+IMAGE HEIGHT: 3838
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Am Schluss: Argentorati ex Aedibus Schurerianis! Mense
+          <lb/>Nouembri. Anno a Chri- sto nato. M. D. XIIII. REGNANTE
+          <lb/>IMP. CAES. MAXIMILIANO PIO FOELICI AVG.
+          <lb/>4°, Antiq., 53 unn. Bll., Sign. a-i, Kopftitel, Marginalien, Zierinit.
+          <lb/>S, V; Titeleinfassung Nr. 97 S. 55.
+          <lb/>Auf der Rückseite des Titels: ERASMVS ROTERODAMVS! THO¬
+          <lb/>MAE MORAE Svo... Ex Rure, Quinto Idus Iu- nias.
+          <lb/>&amp;quot;R100.408. Prov.: Hauwitz, Berlin, 18. X. 1917; 20 M. Handschr.
+          <lb/>Notizen im Texte.
+          <lb/>GK: SB Berlin, UB Gôttingen, Münster; Proctor Sectio I
+          <lb/>Nr. 10222: London, British Museum; Schmidt VIII Nr. 143 zitiert
+          <lb/>715
+          <lb/>nach Panzer 6, 68, 338; Rest S. 52.
+          <lb/>ERASMUS: Parabolae
+          <lb/>Strassburg, M. Schürer, 1514
+          <lb/>ERASMI ROTERODAMIParabolarum, siue Similium
+          <lb/>Liber. CVM PRIVILEGIO IMPE- riali, ad Sexennium.
+          <lb/>Am Schluss: Argentorati, Ex Aedibus Schurerianis,
+          <lb/>Mense Decem! bri, Anno M. D. XIIIl.Regnante Imperatore
+          <lb/>Caesare Maximiliano. P. F. Aug. P. F. (Rückseite leer.)
+          <lb/>40, Antiq., 56 unn. Bll., Sion. A-I, Zierinit. V, 9, einige Margi¬
+          <lb/>nalien.
+          <lb/>Auf der Rückseite des Titelbl.: ERASMVS ROTERODAMVS
+          <lb/>Petro Aegidio Celebratissimae ciuita- tis Antverpiensis a
+          <lb/>libellis. S. D.... — Basileae. Anno a Christo nato M. D. XIIII.
+          <lb/>Idibus Octobriis (!). (3 Seiten.)
+          <lb/>R100,909. Prov.: J. Windprecht, Augsburg, 9. 1.1879, 2 M.
+          <lb/>GK: SB Berlin, UB Breslau; BN Paris, Rés. p. Z.472; Schmidt
+          <lb/>VIII, 146 braucht fur den ganzen Titel Majuskeln, wohl durch Ver¬
+          <lb/>sehen; Rest S. 57.
+          <lb/>716
+          <lb/>477
+          <lb/>ERASMUS: De ratione studiorum
+          <lb/>Strassburg, M. Schürer, 1514
+          <lb/>ERASMI ROTERODAMI De ratione studij, ac legendi,
+          <lb/>interpretandique auctores! libellus aureus.! Officium disci¬
+          <lb/>pulorum ex Quintiliano.Qui primo legendi, ex eodem.
+          <lb/>ERASMIConcio de puero IESV in schola! Coletica Londini
+          <lb/>instituta pronuncianda. EIUSDEM ExPostulatio IESV ad
+          <lb/>mortales. EIVSDEM! CARmina scholaria. Ex RECOGNITIONE
+          <lb/>Autoris, dum Mense Augusto Argentinae de- geret, Anno
+          <lb/>M. D. XHII.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

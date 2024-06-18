@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:52.640502+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5095.tif
+IMAGE WIDTH: 2352
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1403
+          <lb/>Au-dessous : Argentorati! Excudebat Nicolaus Wyriot.
+          <lb/>M. D. LXXV. (Verso blanc.)
+          <lb/>In-8°, car. rom., 55 ff. non ch., sign. A-G, titre courant, réclames,
+          <lb/>init. à figure S, D, T.
+          <lb/>fol. A 2a : Ioanni Stur- Il mio, academiae Ar- [! gentinensis Rectori :
+          <lb/>Leonhar-dus Hertelius S. D... — Argentinae XV. Aprilis, Anno
+          <lb/>M. D. LXVI (5 ff. en car. ital.).
+          <lb/>fol. A 7a : Io. Sturmius !! Michaeli Boschio, Phi-[ losophiae Magistro:
+          <lb/>primae Classis!! Praefecto : S. P. D... — Vale in Sturmiano, 23. Decemb.
+          <lb/>1574. (3 pp.)
+          <lb/>fol. A 8b : Gravure, représentant Jean Sturm, au-dessus : Ioannis
+          <lb/>Sturmii, De!! literarum studijs annos iam XLVIII. opti-me merentis :
+          <lb/>&amp;amp; Argentinae, olim Scholae, !] nunc Academiae. Rectoris perpetui, 11
+          <lb/>uera effigies.!Anno aetatis LXVIII.
+          <lb/>En bas : Corporis effigiem potui producere sculptor :!! Mentem non
+          <lb/>potui : quam monumenta docent.
+          <lb/>fol. B : Ad Philippum!! Lippianum Comitem : ! Hermanni Simonis
+          <lb/>Lip- 11 piani Comitis filium : de Rheto-! ricis exercitationibus Ioannis!
+          <lb/>Sturmij Rectoris liber!! Academicus.
+          <lb/>R. 100.024. Prov. : Lippert, Halle, 7/XII, 1876; sans indic. de prix.
+          <lb/>Au recto du titre, timbre du Dr Eckstein.
+          <lb/>2e ex. R. 102.308. Prov. : Bibl. Ch. Schmidt avec son ex-libris; la
+          <lb/>marque typ. du titre a été découpée.
+          <lb/>3e ex. R. 102.163. Prov, : Don de la BU Goettingen, 1872.
+          <lb/>Ces deux derniers exemplaires n’ont pas le portrait de J. Sturm.
+          <lb/>Ritter, BM Strasbourg, n° 2008.
+          <lb/>2225
+          <lb/>STURM Johannes
+          <lb/>Strasbourg, B. Jobin, 1575
+          <lb/>Commentarii!! in M. T. Ciceronis!! Tusculanam primam
+          <lb/>confecti ex Scholis! Joannis Sturmii in eandem : Nunc
+          <lb/>primum editi, opera &amp;amp; studio!! Ioannis Lobarti Borussi.
+          <lb/>Marque typ. de Bernard Jobin. (H. &amp;amp; B. Planche XXXVII,
+          <lb/>No 2
+          <lb/>Au-dessous: Privilegio CaesareoArgentorati excusi apud
+          <lb/>Bernhardum!! Iobinum. Anno 1.5.75. (Verso blanc.)
+          <lb/>In-8°, car. rom. et ital., 160 ff. non ch., sign. A-V; titre encadré, manque
+          <lb/>chez H. &amp;amp;B.
+          <lb/>Titre courant, réclames, init. E, S; au verso de fol. 9 : Portrait de
+          <lb/>Jean Sturm, tenant un livre en main, au-dessous : Effigies !! Johannis
+          <lb/>Sturmii:!! Argentoratensis!! Academiae Rectoris.
+          <lb/>fol. 2 :.. Domino Ioanni Heslero... Domino Joanni. Keidel... —
+          <lb/>Argentorati. 14. Martij. Anni. 1. 5. 75. Ioannes Lobartus Borussus.
+          <lb/>fol. 4a : Typographus lectori.
+          <lb/>R. 101.701. Prov. : don de la Bibliothèque du Gymnase de Thorn 1871.
+          <lb/>2226
+          <lb/>STURM Iohannes
+          <lb/>Strasbourg, B. Jobin, 1575
+          <lb/>De Statibus! causarum Ci- vilium Universa Do-! ctrina
+          <lb/>Hermogenis, Graeci!] Rhetoris, quam ille xsot̀ Axtoé¬
+          <lb/>inscripsit : Ex-! plicata à! Ioanne Sturmio.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

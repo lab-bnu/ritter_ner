@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:38.777252+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu134.tif
+IMAGE WIDTH: 2430
+IMAGE HEIGHT: 3858
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>WIMPHELING JACOBUS: Philippica. Strasbourg, Martin
+          <lb/>Schott, 19 nov. 1498, in-4°.
+          <lb/>Hain 16186, Madsen 4241, Proctor 410, Schmidt II, 15, Schrèi¬
+          <lb/>ber 5483, Voullième: Berlin 2240, Walter: Sélestat 523 et 524.
+          <lb/>K 3823. Prov.: Don de la ville de Heilbronn, 1871. A l&amp;#x27;intérieur
+          <lb/>du 1er plat: (Riegger) Amoenitates Friburg, p. 190, n° 16.
+          <lb/>Hain 16186.
+          <lb/>494
+          <lb/>WOLFRAM VON ESCHENBACH: Titurell. (Strasbourg, J. Men¬
+          <lb/>telin, 1477), in-fol.
+          <lb/>Hain 6683, Copinger 6883, Proctor 217, Voulliéme; Ber¬
+          <lb/>lin 2086, Schorbach: Mentelin N° 40.
+          <lb/>K 3838. Prov.: Don de M. Klemm. Au haut du titre: «Aus der
+          <lb/>ersten Ausgabe des Parsival u. Titurel von Wolfram von
+          <lb/>Eschenbach.» 1 f. seulement dont le texte commence: vache
+          <lb/>herte, en bas: «Vil rein ee sel vnd leib von einander
+          <lb/>scheyde.» Au verso, en haut: Von all ir schiff gereyte; en bas:
+          <lb/>Dawaren an ir weise. Do si nz d’wag.
+          <lb/>495
+          <lb/>ZACHARIAS Chrysopolitanus: Concordantia Evangeliorum.
+          <lb/>(Strasbourg, civis C. W.), 1473, in-fol.
+          <lb/>Hain 5023, Madsen 1129, Pellechet 3582, Proctor 339, Voul¬
+          <lb/>liéme; Bonn 1234 (met pour civis C. W. = Clas Wencker?).
+          <lb/>K 1165. Prov.: Abbé Cromer, curé à Saverne, 23 VIII. 1879.
+          <lb/>Notes mss. Rel. anc.
+          <lb/>2e ex. K 1165a. Prov.: Bibl. Ed. Reuss, Strasbourg 1891 avec
+          <lb/>exlibris et autographe de Reuss à l’intérieur du 1er plat, où
+          <lb/>il y a en outre la note mss. suivante de Reuss: Ex libris
+          <lb/>F. Buschii 1856, frs. 62. Rel, anc. Incomplet.
+          <lb/>496
+          <lb/>104
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:10.480951+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002345.tif
+IMAGE WIDTH: 2500
+IMAGE HEIGHT: 3968
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>LUTHER (zehn Sermones): Hyrin findstu Zehn nützliche
+          <lb/>Sermones. — (Strasbourg, Wolfgang Köpfel] 1523,
+          <lb/>in-40.
+          <lb/>Bibl. St. Guillaume.
+          <lb/>2568
+          <lb/>LUTHER (De servo arbitrio) : De servo arbitrio Martini
+          <lb/>Lutheri ad D. Erasmum Roterodamum. M.D.XXVI. —
+          <lb/>(Strasbourg, Wolfg. Köpfel] (d’après l’encadrement),
+          <lb/>1526, in-8°.
+          <lb/>Bibl. St. Guillaume, Strasbourg.
+          <lb/>2569
+          <lb/>LUTHER (Syrach) : Jesus Syrach. M. Luther. — (Strasbourg,
+          <lb/>Jean Prüss) 1540, in-8°.
+          <lb/>Horning, n° 153; Schmidt III, p. 41, n° 49; Bibliothèque
+          <lb/>St. Guillaume, Strasbourg.
+          <lb/>2570
+          <lb/>LUTHER (Theologia Deutsch) : Theologia Teütsch. —
+          <lb/>Strasbourg, Jean Knobloch 1519, in-4°.
+          <lb/>Horning, n° 1; Kuczynski, n° 1337.
+          <lb/>2571
+          <lb/>LUTHER (Theologia Deutsch) : Theologia Teütsch. —
+          <lb/>(Strasbourg, Jean Knobloch (I.VIII] 1520), in-40.
+          <lb/>Schmidt VII, n° 197, cite la B N de Strasbourg, où la fiche et
+          <lb/>le livre manquent. Panzer, Annalen I, 435, 970.
+          <lb/>2572
+          <lb/>LUTHER (Treatise) : Treatise of the cohabytacion of the
+          <lb/>faithfull. — Strasbourg, Wendelin Rihel 1555.
+          <lb/>Johnson, A. F. dans : The Library Serie V, vol. IV. 2573
+          <lb/>LUTHER (Unterrichtung) : Underrichtung uff etlich artickel die
+          <lb/>jm von seinen miszgönnern uffgelegt und zugemessen
+          <lb/>werden. — (Strasbourg, Martin Flach 1520), in-4°.
+          <lb/>Horning, n° 7; Schmidt VI, p. 31, n° 46 : Bibl. S. Guillaume,
+          <lb/>Strasbourg; Weller 1592.
+          <lb/>2574
+          <lb/>LUTHER (Vater Unser) : Ein Christliche vorbetrachtung so
+          <lb/>man will betten das heylig Vatter unser... Die Epistel
+          <lb/>343
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

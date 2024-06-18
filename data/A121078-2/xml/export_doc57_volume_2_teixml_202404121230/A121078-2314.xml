@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:35.932025+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2314.tif
+IMAGE WIDTH: 2312
+IMAGE HEIGHT: 3818
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>310
+          <lb/>fol. 2a Préface: ERASMVS Roterodamus. M. Ioanni Hon¬
+          <lb/>disco- tano Lilianorum Louanij Gymnasiarchae. S. D. P....
+          <lb/>— Louanij. Anno M. D. XIIII. Ka! lendas Augu.
+          <lb/>*R100.066. Prov.: Rosenthal, Munich, 15/VII. 1885;6M.
+          <lb/>Quelques annotations mss, dans le texte.
+          <lb/>Schmidt VII, N° 196; BM Colmar; GPB: BN Berlin. 472
+          <lb/>CAUCIUS Antonius
+          <lb/>Strasbourg, B. Jobin, 1586.
+          <lb/>ANTONII CAVCHI! GRAMMA- TICAE GALLICAE LI- ] BRI
+          <lb/>TRES, Ap illv- strissimos Holsatiae Duces. GRAMMATICA,
+          <lb/>Per me Celtarum celebrat quoque Cimbria linguam, In
+          <lb/>patria illustres quam didicère Duces.
+          <lb/>Petite gravure en médaillon: une femme tenant dans sa main droite
+          <lb/>une branche, tandis que la main gauche tient une banderole avec les mots:
+          <lb/>« Defendit ab annis.»
+          <lb/>Au-dessous: Cum Gratia &amp;amp; Priuilegio.
+          <lb/>Excudebat Argentinae Bernhardus Jo- binus, Anno
+          <lb/>Domini 1586 (Verso blanc.)
+          <lb/>In-80, car, rom. et ital., 8 ff. non ch., 110 ff. ch., titre courant,
+          <lb/>réclames, initiale ornée C, vignettes.
+          <lb/>fol. a 2a non ch.: ILLVSTRISSIMIS PRIN-CIPIBVS... FRIDE¬
+          <lb/>RICO ET D. PHILIPPO FRA- tribus, Noruagiae haeredibus...
+          <lb/>— Scripsi men-se Februario anni 1586. Antonius Caucius.
+          <lb/>(Dédicace de 4 p.)
+          <lb/>fol. a 4a: Epigramme grecque (16 vers.), au verso, épigramme la¬
+          <lb/>tine de J. Levenklavu. (16 vers.)
+          <lb/>fol. a 5 non ch.: distiques latins de différents auteurs et proverbe
+          <lb/>français: «Sur ferme chaussée fait bon à cheminer.»
+          <lb/>fol. a 6a non ch.: ANTONIVS CAVCIVS MARTINO BARNECO¬
+          <lb/>uio nobili Dano, S. P. D.... — Data Colo-ae Agrip.
+          <lb/>pridie Kalendas la-nuarias Anni 1575. (Dédicace de 6 p.)
+          <lb/>R102.117. Prov.: Butsch fils, antiquaire, Augsbourg, 26/IV. 1873.
+          <lb/>Au milieu du titre, cachet: «Stift Schlierbach.»
+          <lb/>GPB: BU Bonn.
+          <lb/>473
+          <lb/>CAVRIOLO Elias. Voir: CApREOLUS Helias.
+          <lb/>CEBES Thebanus, Tabula e graeco in latinum conversa per
+          <lb/>Ludovicum Odaxium Patavinum. Voir: ATHANASIUS, In psal¬
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

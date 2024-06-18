@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:10.641468+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3291.tif
+IMAGE WIDTH: 2348
+IMAGE HEIGHT: 3852
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Duobus, de Gener.: &amp;amp; Interitu : Quatuor, Meteorologicorum:
+          <lb/>Tribus, de Animo. (Druckerm. Bertrams. H&amp;amp; B Tafel XLIV
+          <lb/>Nr. 2; Silvestre Nr. 1022.)
+          <lb/>ARGENTORATI Exeudebat Antonius Bertramus.! M. D.
+          <lb/>LXXXIX.
+          <lb/>2 sp.), Init.
+          <lb/>80, Kursiv, 12 unn. Bll., 494 S., I leeres Bl., 15 unn. Bll. (Index,
+          <lb/>Auf der Rücks. des Titelbl. 11 Dist. von Adelarius Crauelius!
+          <lb/>Leubingensis Th. in Compendium Physicae.
+          <lb/>Bl. 2a: Widmung des Druckers. Sodann 9 S. Vorrede: Georgii
+          <lb/>Kauffungeri Hessi u. 14 S. Prolegomena.
+          <lb/>R100.853. Prov.: Völcker, Frankfurt a. M. 22. I1. 1883; 1 M. 20.
+          <lb/>2. Ex. R 100.854. Prov. : Roth, Geisenheim 3. VI. 1892; 4M. Alter
+          <lb/>Einband, oben HG B, unten 1589.
+          <lb/>GK: SB Berlin, UB Gôttingen, Halle, Kiel.
+          <lb/>1081
+          <lb/>HAWENREUTER Johann Ludwig
+          <lb/>Strassburg, C. Kieffer 1589
+          <lb/>THESES DE FLVMINVM ORTV, EX LIBRO PRIMO METEORO
+          <lb/>LOGICORVM ARISTOTELIS IN ( Academia Argentoratensi ad
+          <lb/>disputandum propositae : Praeside loANe Lypovico
+          <lb/>HAW- ENREVTERO. D.Respondente NICOLAO AGERIO AR¬
+          <lb/>GEN-toratensi Philosophiae Candidato.)vSeptembris
+          <lb/>Hora VH. (Vign.)
+          <lb/>Argentorati Typis Caroli Kiefferj. Anno.) M. D. LXXXIX.
+          <lb/>40, Kursiv, 12 unn. Bll., Sign. A-C, Kust., Init. P. Titelumrahmung.
+          <lb/>Auf der Rücks. des Titelbl.: D. DOCTORI VLRICO CHE- LIO
+          <lb/>REIPVB. ARGENTINENSIS PHYSICO ORDINARIO Eiusdemque
+          <lb/>GENERO D. DOCTORI IOAN.  SEBASTIANO FRIDT....
+          <lb/>R101.56419. Prov.: Hiersemann, Leipzig 25. I. 1935; 4M.
+          <lb/>1082
+          <lb/>HAWENREUTER Johann Ludwig
+          <lb/>Strassburg, A. Bertram 1591
+          <lb/>UTXOAOTIA : ] siue! PHILOSOPHICA, DE! ANIMO XTNH¬
+          <lb/>THXIX, EX LIBRIS tribus Aristotelis vóet (!) dvyñe, excerpta,
+          <lb/>inque Argentoratensium Academia ad disputandum,
+          <lb/>sub PRAESIDIO! IOANNIS LVDOVICI HAWEN- reuteri Doct.
+          <lb/>Medici &amp;amp; Philosophi.Proposita à GALLO RHOMANNO
+          <lb/>TECCENSI Transyluano. Disputabit còv 6s9 28. Nouemb.
+          <lb/>(Vign.)
+          <lb/>ARGENTORATI Excudebat Antonius Bertramus. M.
+          <lb/>D. XCI.
+          <lb/>733
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

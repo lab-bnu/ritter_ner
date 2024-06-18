@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:03.096306+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002060.tif
+IMAGE WIDTH: 2484
+IMAGE HEIGHT: 3952
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>BRANDAN St. : Sant Brandans leben, was wunders er uff dem
+          <lb/>mer erfaren hat. — (Strasbourg, Mathias Hupfuff 1514),
+          <lb/>in-4°.
+          <lb/>Schmidt V, n° 116; Weller, Rep. 823. — S. Gall (Stiftsbiblio¬
+          <lb/>thek).
+          <lb/>1040
+          <lb/>BRANDAN St. : (Idem). — (Strasbourg, Jean Knobloch 1518),
+          <lb/>in-40.
+          <lb/>Schmidt VII, 170; Weller 1156. — Bamberg.
+          <lb/>1041
+          <lb/>BRANT Séb. (Heiligenleben) : Der heilgen leben nüw mit vil
+          <lb/>me Heilgen und darzu der Passion und die grossen fest,
+          <lb/>daz lesen, mit figuren zierlich und nutzlich dem
+          <lb/>menschen. — (Strasbourg, Jean Grüninger 28.11.1502),
+          <lb/>in-fol.
+          <lb/>Weller 232; Kristeller 91; Schmidt I, n° 58. — Einsiedeln.
+          <lb/>1042
+          <lb/>BRANT, Séb. : Der heiligen leben nüw getruckt mit vil schönen
+          <lb/>figuren... — (Strasbourg, Jean Grüninger (18.1II1 1510,
+          <lb/>in-fol.
+          <lb/>Kristeller 95; Schmidt I, n° 114; Weller 566. — BN Munich.
+          <lb/>1043
+          <lb/>BRANT, Séb. : Der heiligen Leben Summer und Winter
+          <lb/>teil. — (Strasbourg, Jean Grüninger 1508), in-fol.
+          <lb/>-
+          <lb/>B M Colmar.
+          <lb/>1044
+          <lb/>BRANT, Séb. : Der Heilgen Leben Summer und Winterteil... —
+          <lb/>(Strasbourg, Jean Grüninger (30.VIII] 1514, in-fol.
+          <lb/>Schmidt I, n° 139 : « Panzer : Annalen Zusätze I, 352 a une
+          <lb/>éd. de 1513, mais ne connaît pas celle de 1514; se serait-il
+          <lb/>trompé de date?» — Bibl. Centr. Zurich. [Une éd. Hupfuff
+          <lb/>1513 : Ritter, Rép. n° 236l.
+          <lb/>1045
+          <lb/>BRANT, Séb. : (Idem). — (Strasbourg, Martin Flach aux frais
+          <lb/>de Jean Knobloch (3O.VIII.] 1521), in-fol.
+          <lb/>58
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

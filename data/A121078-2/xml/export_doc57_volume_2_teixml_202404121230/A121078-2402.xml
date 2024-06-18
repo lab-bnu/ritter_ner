@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:38.212323+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2402.tif
+IMAGE WIDTH: 2376
+IMAGE HEIGHT: 3822
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>398
+          <lb/>fol. 319a: St. André avee la croix dans la main droite.
+          <lb/>Au verso du titre: Index; au-dessous: CORVINVS AD] Lecto¬
+          <lb/>rem. (3 distiques.)
+          <lb/>fol. 2a non ch. : (Feuille de lierre) SPLENDIDIS- SIMIS...
+          <lb/>VIRIS, Consulibus, adeoque Senatoribus Vrbis Rigae in
+          <lb/>Liuonia... An-tonius Coruinus... — Ex Vuicenhusio
+          <lb/>Anno. 39. Mense Iulio. (6 pages.)
+          <lb/>Suivent des distiques d’E. Eobanus Hessus à J. Ficinus, de J.
+          <lb/>Glandorpius au lecteur, de Melanchthon à Ant. Corvinus.
+          <lb/>fol. 6b: CORVINUS AD LECTOREM.
+          <lb/>fol. 7a: INDEX HVIVS OPERIS. (8 pages à 2 col.)
+          <lb/>R101980. Prov.; Friedr. Cohen, Bonn, 15/XI. 1897, 3M 80.
+          <lb/>593
+          <lb/>GPB: BN Berlin, BU Kœnigsberg, Munster.
+          <lb/>(Strasbourg, W. Köpfel. ] 1541.
+          <lb/>CORVINUS Antonius
+          <lb/>Auszlegung derherlichen Historien Josephs ausz
+          <lb/>dem Ersten bûch Mose, vnnd würdt sonderlich inn die¬
+          <lb/>sem bûch gehandelt.
+          <lb/>1 Vom Creütz vnd erhöhung der Christen.
+          <lb/>2 Vom laster des Eebruchs.
+          <lb/>3 Wie sich herrn vnd Fürsten in jrem ampt ge gen
+          <lb/>got vnd jedermenglich halten sollen.
+          <lb/>4 Von theürer zeit, warumb die selbigen Got schicke,
+          <lb/>Alles auff diese zeit dienlich. Durch M. Antonium Corui¬
+          <lb/>num. 1541.
+          <lb/>Marque typ. de W. Köpfel. (Hd B, Planche XVIII, N° 10, mais
+          <lb/>sans encadrement.)
+          <lb/>In-8°, car. goth., 158 ff. non ch., sign. a-7, réclames, initiales
+          <lb/>ornées, les caractères du texte de la Bible sont plus grands que ceux des
+          <lb/>commentaires.
+          <lb/>Au verso du titre: Der durchleich tigen vnd hochgepor¬
+          <lb/>nen Fürstinnen vnd frawen, fraw Eliszabeth, geporne
+          <lb/>Marggräffin zû Brandenburg! Herzoginnen zu Braunschwig
+          <lb/>vnd! Leuneburg, meiner gnedigen Fürstinnen vnd fra¬
+          <lb/>wen... — Gegeben zû Witzenhausen im jar der minder
+          <lb/>zaal! XXXX.! Anto. Coruinus, (Dédicace de 10 p.)
+          <lb/>fol. a 6b: Vorred inn die herlichen histo rien Josephs.
+          <lb/>(Préface de 13 p.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

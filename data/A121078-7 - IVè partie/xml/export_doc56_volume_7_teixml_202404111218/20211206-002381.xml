@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:11.480324+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002381.tif
+IMAGE WIDTH: 2494
+IMAGE HEIGHT: 4006
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>NEUHEUSER, Samuel : Christlich Trostbüchlein... —
+          <lb/>Strasbourg, Bernard Jobin 1580, in-8°.
+          <lb/>Ritter, Hist, impr. opp. n° 340 ; Vogeleis, p. 344 2757
+          <lb/>NEUHEUSER, Samuel : (Idem). — Strasbourg, Bernard Jobin
+          <lb/>1585, in-12°.
+          <lb/>Wackernagel, Kirchenlied vol. I, p. 535.
+          <lb/>2758
+          <lb/>NEUHEUSER, Samuel : (Idem). — Strasbourg, Bernard Jobin
+          <lb/>1593, in-120.
+          <lb/>Graesse IV, p. 660; Vogeleis, p. 369; Wackernagel, Kirchen¬
+          <lb/>lied I, p. 577 : « Neue Auflage der Ausgabe 1585». [Une éd.
+          <lb/>1595 chez Jobin héritiers).
+          <lb/>2759
+          <lb/>NEUSIDLER, Melchior : Teütsch Lautenbuch... — Strasbourg,
+          <lb/>Bernard Jobin 1574, in-fol.
+          <lb/>Graesse IV, p. 662; Vogeleis, p. 324.
+          <lb/>2760
+          <lb/>NEUSIDLER, Melchior : (Idem). — Strasbourg (Bernard
+          <lb/>Jobin] 1596, in-fol.
+          <lb/>Vogeleis, p. 372.
+          <lb/>2761
+          <lb/>NEUSIDLER, Melchior : Sex Motetten von Josquïn de Prés,
+          <lb/>à six parties en tablature de luth. — Strasbourg 1587,
+          <lb/>in-40.
+          <lb/>Vogeleis, p. 354.
+          <lb/>2762
+          <lb/>NIAVIS, Paulus (Schneevogel) : Dialogus Magistri Pauli
+          <lb/>Niavis parvulis scolaribus. Ad latinum ydeoma perutil¬
+          <lb/>lissimus. — (Strasbourg, Mathias Hupfuff 1502), in-4°.
+          <lb/>Schmidt V, n° 18 : Jadis Bibl. de Strasbourg, Incun, n° 3501
+          <lb/>et B N Munich.
+          <lb/>2763
+          <lb/>NIAVIS, Paulus : (Idem). — (Strasbourg, Jean Prüss 1504),
+          <lb/>in-40.
+          <lb/>Schmidt III, n° 46. — Bibl. S. Gall. Stiftsbibliothek. 2764
+          <lb/>379
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

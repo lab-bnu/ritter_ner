@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:55.198602+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5168.tif
+IMAGE WIDTH: 2344
+IMAGE HEIGHT: 3852
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1476
+          <lb/>R. 102.048. Prov. : Donation Cunitz 1886.
+          <lb/>Bibliothèque St. Guillaume, Strasbourg.
+          <lb/>Bibliographie d’Eckart zum Treubel : Schottenloher I, Nos 3903-3905.
+          <lb/>2357
+          <lb/>TREUBEL Ekhart zum
+          <lb/>(Strasbourg, R. Beckl, 1528.
+          <lb/>Ein petterlichel georuge gutel
+          <lb/>sucbt lere vno bericbt Cbristlich
+          <lb/>suleben vnnõ sterben an
+          <lb/>meine l&amp;#x27;ynder pno
+          <lb/>alle frumme
+          <lb/>Chusten.
+          <lb/>Iectbart;um Cteübel.
+          <lb/>Anto domint
+          <lb/>A la fin : Datum zu Hündeszheym.Anno M. D. XXVIII.
+          <lb/>Eckhart zum Treübel von Hündiszheym. Da gloriam Deo.
+          <lb/>In-4°, car. goth., 16 ff. non ch. dont le dernier blanc, sign. A-D, titre
+          <lb/>courant, init. à fig. D, I.
+          <lb/>fol. A 2a : Eckhart zum Trübel.! Ich Eckhart zum Treybel von
+          <lb/>Hündeszheym! ewer getrewer vatter, hab biszher geschriben,!! vod
+          <lb/>ettlich tractat lassen auszgon....
+          <lb/>fol. A 4a:... Jetz werden mich die widerchristen aber !! mals schreiben
+          <lb/>vnd nennen, Eckhart zum Teüffel, vnd nit zum!! Treübel, wie mir dann
+          <lb/>vormals mer von in beschehen.
+          <lb/>R. 102.047. Prov. : Recteur Müller, Quedlinbourg, 15/V, 1889; sans
+          <lb/>indic. du prix.
+          <lb/>2358
+          <lb/>Ritter, Catal. BM Strasbourg, N° 2111.
+          <lb/>Hl. D. Aviij¬
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

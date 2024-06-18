@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:33.830455+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2242.tif
+IMAGE WIDTH: 2294
+IMAGE HEIGHT: 3820
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>238
+          <lb/>BM Strasbourg. GPB: Berlin SB, Kiel BU.
+          <lb/>Mente No 20.
+          <lb/>Baer, Francfort s. M., Catalogue 500 (1907), N° 1354a: 28 M.
+          <lb/>357
+          <lb/>BUTZER Martin
+          <lb/>Strasbourg, W. Köpfel, 1528.
+          <lb/>Vergleichung D. Lu- thers, vnd seins gegentheyls,
+          <lb/>vom! Abentmal Christi.
+          <lb/>Dialogus Das ist, eyn freundtlich gespräch! Gar nahe
+          <lb/>alles so D. Luther in seinem letsten búch Bekäntnüsz
+          <lb/>genennt, für! bracht hat, würdt hierinn gehan delt, wie
+          <lb/>das zû erkäntnüsz der warheyt vnd Christ! lichem frid
+          <lb/>dienet.
+          <lb/>Marque typogr. de W. Köpfel. (HEB, Planche XVII, NO Sa).
+          <lb/>Au dessous: Anno I. 5. 28. Am letsten des Aügsts.
+          <lb/>Au verso du dernier f. même marque typogr. qu’au titre.
+          <lb/>In-8°, car. goth,, 60 ff. non ch, sign. A-H, réclames, initiale or¬
+          <lb/>née W.
+          <lb/>Au verso du titre: Paulus Philipp. ij. (16 lignes.)
+          <lb/>fol. A 2a: Dem Christlichen le- ser... — Straszburg.
+          <lb/>xxj. Junij.M. Bucer.
+          <lb/>fol. A 3a: Was in disem Dialogo gehandelt würdt.
+          <lb/>(Table, 2 p.)
+          <lb/>R102.102. Prov. inconnue. Notes mss.
+          <lb/>Au verso du titre: Adam Christian bach. Anno 1645. Der Zit Schul¬
+          <lb/>meister zu Dorfgüll.
+          <lb/>GPB: Berlin SB. Baum N° 17, Mente No 20a.
+          <lb/>358
+          <lb/>[Strasbourg, 1530).
+          <lb/>BUTZER Martin
+          <lb/>Das einiger-lei Bild bei den Gotgläubigen, an orten
+          <lb/>da sie verehrt, nit mögen geduldet werden, helle anzeyg,
+          <lb/>ausz Göttlich er Schrifft, der alten heili. Vätter leer, vnd
+          <lb/>beschluss et- licher Concilien, Mit auszweisung, ausz wasz
+          <lb/>falschem! grunde,vnd durch weliche die Bilder in die
+          <lb/>Kirchen erst nach der zeit der heil, vätter Hieronymi,
+          <lb/>Au gustini vnd anderer, kommen sindt. Do durch die
+          <lb/>Vandalen vnnd Gotthen, der Recht ver stand anfieng zû
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

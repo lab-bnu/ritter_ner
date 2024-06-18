@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:31.434242+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2161.tif
+IMAGE WIDTH: 2300
+IMAGE HEIGHT: 3828
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>üben, brauchen, vnd dargegen vor vnrechter that, an¬
+          <lb/>fech! tung, vnd fürnemen verhüten mag. Durch Doctorem
+          <lb/>Sebastianum Brandt wider durchsichtiget, vnd mit mererm
+          <lb/>fleisz! von newem zûm theyl gebessert. Anno M. D. XXXVI.
+          <lb/>Gravure sur bois, comme dans l’édition de 1529; mais au fol.
+          <lb/>103b il y a celle du titre des éditions de 1516 et 1518.
+          <lb/>A la fin, avant les vers de Brant: Getruckt zu Straszburg,
+          <lb/>durch Johan- nem Albrecht, am xxiij. tag des Mertzen.
+          <lb/>Im jar als man zalt nach der geburt Christi vn- sers
+          <lb/>Herren. M. D. XXXVI.
+          <lb/>In-fol., car. goth., 8 ff. non ch., CXXXV ff. ch., titre courant,
+          <lb/>réclames, notes marginales, initiales goth. N. W, A; titre rouge et noir.
+          <lb/>fol. 8b après la table, gravure comme dans l’édition de 1533.
+          <lb/>Les vers de Brant au verso du titre et au verso du dernier f.,
+          <lb/>la préface, la dédicace et la table à 2 col, comme dans l’édition de
+          <lb/>1533, dont le livre est une réimpression.
+          <lb/>R10.237.(1) Prov, inconnue.
+          <lb/>Annotations mss. à l&amp;#x27;intérieur du premier plat :,, Joan. Bartholom.
+          <lb/>Kobolt à Dambach, D.&amp;quot; Rel. anc.
+          <lb/>BM Colmar; GPB. Berlin SB, Breslau UB, Gôttingen UB,
+          <lb/>Greifswald UB, Königsberg UB.
+          <lb/>246
+          <lb/>157
+          <lb/>BRANT Sebastian
+          <lb/>Strasbourg, J. Albrecht et W. Rihel, 1538.
+          <lb/>Der Richterlich Clagspiegel... (10 lignes de titre, semblable
+          <lb/>au texte des éditions 1533 et 1536, mais en noir.)
+          <lb/>A la fin: Getruckt zû Straszburg, durch Johan- nem
+          <lb/>Albrecht, vnd Wendel Rihel, am xxviij. tag des! Augst¬
+          <lb/>monats, Jm jar als man zalt nach! der geburt Christi
+          <lb/>vnsers Herren. M. D. XXXVIII.
+          <lb/>In-fol, car. goth., 6 ff. non ch. CXXXV ff., titre courant,
+          <lb/>réclames, notes marginales, initiales goth. Gravures comme dans l’édition
+          <lb/>de 1536.
+          <lb/>Au verso du titre et au verso du dernier f. les vers de Brant,
+          <lb/>préface, dédicace, registre à 2 col.
+          <lb/>Réimpression de l’édition de 1536.
+          <lb/>R10.238. Prov.: E. Lindner, Strasbourg, (Vente Stober No 784)
+          <lb/>II. 1885, 18M.
+          <lb/>BN Paris, Rés. F. 670 (2); GPB. Berlin SB, Berlin UB,
+          <lb/>Breslau UB, Marburg UB, Göttingen UB.
+          <lb/>247
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

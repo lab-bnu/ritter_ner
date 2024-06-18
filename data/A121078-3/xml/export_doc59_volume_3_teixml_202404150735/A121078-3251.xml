@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:09.731145+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3251.tif
+IMAGE WIDTH: 2340
+IMAGE HEIGHT: 3858
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>GRAPALDI Francesco Mario
+          <lb/>Strassburg, J. Prüss 1508
+          <lb/>Francisci Marij Grapaldi De partibus aedium Dic¬
+          <lb/>tionarius longe! lepidissimus) nec minus! fructuosus.
+          <lb/>Beatus Arnoaldus: Selestatinus. (15 lat. Verse.)
+          <lb/>Am Schluss: Finiunt Libri F. Grapaldi... impressi in
+          <lb/>vrbe Argentina per Industrium! Ioannem prysz In aedibus
+          <lb/>Lustri vulgo zum tier- gartten Anno salutis M CCCCC. viij.
+          <lb/>(Druckerm, von Prüss. H 2 B Tafel VIII Nr. 2.) Rücks, leer.
+          <lb/>40, Antig., 16 unn. Bll. (Index), CXX num. Bll. u. 1 unn. Bl.,
+          <lb/>Kopft., Kust., Init.
+          <lb/>Auf der Rücks. des Titelbl.: Franciscus Marius Grapaldus
+          <lb/>Parmensis lectori Sal....
+          <lb/>Darunter: 8 lat. Verse des Bernardinus Saxoguidanus.
+          <lb/>Bl. 04a: Franciscus Marius Grapaldus Par-mensis
+          <lb/>Illustri Horlando Marchioni Palla vicino. (6 Dist.); auf der
+          <lb/>Rücks.: Philippus Reroaldus Bono- niensis in Laudem Operis.
+          <lb/>(8 Verse.)
+          <lb/>Bl. I Vorrede des Verfassers: Horlando Marchioni Pallaui¬
+          <lb/>cino.
+          <lb/>R100057. Prov.: Geschenk der Univ.-Bibl. Göttingen 1872.
+          <lb/>BN Paris, Rés. p. V. 383; Schmidt III S. 20 Nr. 68. Stadtbibl.
+          <lb/>u. chemalige Bibl. Strassburg Inkun. Nr. 2246; Proctor II Sectio I
+          <lb/>Nr. 9986: London Brit. Museum. GK: SB Berlin, UB Bonn, Breslau,
+          <lb/>Göttingen, Königsberg, Marburg, Münster.
+          <lb/>1024
+          <lb/>695
+          <lb/>GRASECCIUS Paulus
+          <lb/>Strassburg, A. Bertram 1589
+          <lb/>DE TERTIA PRIN- CIPALI PERSONARVM. ( DIVISIONE, ET DE
+          <lb/>TVTELIS, Disputatio ordinaria, PAVLI GRASECKH IC. In
+          <lb/>illustri Argentinensi Academia,! Respondente! REINHARDO
+          <lb/>WILHELMO! MECKBACH! Proposita die 12. Lunij. (!) (Druckerm.
+          <lb/>Bertrams. H a B Tafel XLIV Nr. 2; Silvestre Nr. 1022.)
+          <lb/>Argentorati, excudebat Antonius Bertramus,! Anno
+          <lb/>M. D. LXXXIX.
+          <lb/>40, Kursiv, 4 unn. Bll., Sign. A, Kust., Init., 24 Thesen.
+          <lb/>Auf der Rücks. des Titelbl.: Parenti suo D. WILHELMO
+          <lb/>RV- DOLPHO MECKBACH IC. ] ET CANCELLARIO MAGDEBVRGIA¬
+          <lb/>co, &amp;amp;c. in studiorum testimonium, &amp;amp; obser-uantiae mo¬
+          <lb/>numentum! Dicat! Obsequentiss. Filius! Respondens.
+          <lb/>R 10.569. Herkunft unbekannt.
+          <lb/>1025
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

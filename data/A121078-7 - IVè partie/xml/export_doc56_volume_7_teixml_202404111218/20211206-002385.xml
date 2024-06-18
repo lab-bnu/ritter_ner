@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:11.540444+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002385.tif
+IMAGE WIDTH: 2478
+IMAGE HEIGHT: 4000
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>zösischer sprach in teutsch verdolmetscht. — (Strasbourg,
+          <lb/>Jean Grüninger 1535), in-fol.
+          <lb/>Graesse V, p. 8; Heitz-Ritter, n° 469; Berlin, Dresde, Nurem¬
+          <lb/>berg, Germ. Museum.
+          <lb/>2779
+          <lb/>OCTAVIAN : (Idem). — Strasbourg, Jacques Frölich 1548,
+          <lb/>in-40.
+          <lb/>Heyses Bücherschatz 1681; Maltzahn 1183; Heitz-Ritter,
+          <lb/>n° 471: BN Berlin.
+          <lb/>2780
+          <lb/>OCTAVIAN : (Idem). — Strasbourg, Jacques Frölich 1557,
+          <lb/>in-40
+          <lb/>Heitz-Ritter, n° 474 : Colmar, Bibl. Chauffour, n° 2867. 2781
+          <lb/>OCTAVIAN : (Idem). — Strasbourg [vers 1560).
+          <lb/>Heitz, Formschneiderarbeiten II, planche CXVI, nos 1 et 2;
+          <lb/>Heitz-Ritter, no 473.
+          <lb/>2782
+          <lb/>OCTAVIUS, Horatianus : Rerum Medicinarum Lib. Quatuor.
+          <lb/>Per Heremannum Comitem a Neüenar integro candori
+          <lb/>nuper restitutus
+          <lb/>Autor. Albucasis Chirurgicorum
+          <lb/>omnium Primarij, Lib. tres... — Strasbourg, Jean
+          <lb/>Schott (26.11)1532, in-fol.
+          <lb/>Schmidt II, n° 123.
+          <lb/>2783
+          <lb/>OCTAVIUS, Franciscus. Voir : GREGORIUS Tifernas, n° 1929.
+          <lb/>ODENBACH, Johannes : Eyn sendbrieff und Rathschlag an
+          <lb/>verordnete Richter uber die armen gefangen zu Altzen,
+          <lb/>so man nent Widerteuffer. Anno M.D.XXVIII. —
+          <lb/>(Strasbourg 1528), in-8°.
+          <lb/>Schottenloher 44.215 f.
+          <lb/>2784
+          <lb/>ODENBACH, Johannes : Ein trostbüchlein für die Sterbenden
+          <lb/>an die... fürstin frauwe Elizabeth Pfaltzgräffin bey
+          <lb/>Rhein... — (Strasbourg, Jean Prüss 1530), in-8°.
+          <lb/>Schmidt III, p. 40, n° 41 : Bibl. S. Guillaume Strasbourg.
+          <lb/>2785
+          <lb/>383
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

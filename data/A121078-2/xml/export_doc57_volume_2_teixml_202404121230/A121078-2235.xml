@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:33.692331+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2235.tif
+IMAGE WIDTH: 2294
+IMAGE HEIGHT: 3818
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Au-dessous: Ad lectorem. (7 lignes.)
+          <lb/>In-fol., car. goth., 2 col., 1er vol. 26 ff. non ch. (Table) —
+          <lb/>CCXXXIII ff. ch. et 1 f. blanc; 2e vol. 16 ff. non ch. dont le dernier
+          <lb/>blanc (table), CCCXLIII ff. ch., titre courant, initiales d’attente.
+          <lb/>R 10.310; le 1er vol. a été donné par Fidelis Butsch, antiquaire
+          <lb/>à Augsbourg en 1871, le second a été acheté chez R. Klemm, Zürich,
+          <lb/>28/11. 1887, 4 M. Rel. anc.
+          <lb/>Au haut du titre du Ier vol.: Monasterij Ranshouen; à l&amp;#x27;intérieur
+          <lb/>de la couverture du 2e: exlibris de Rodolphe Klemm.
+          <lb/>Walter: Sélestat, No 848. GPB: Breslau BU; Ière partie:
+          <lb/>Gœttingue BU, 2e partie: Berlin SB, Marbourg RU.
+          <lb/>346
+          <lb/>BUSTIS BERNARDINUS DE
+          <lb/>Haguenau, H. Gran, 1513.
+          <lb/>Mariale eximii viri Bernardi-ni de Busti Ordinis
+          <lb/>seraphi- ci Francisci de singulis festiuitatibus beate vir¬
+          <lb/>ginis per modum sermonum! tractans: omni theologia
+          <lb/>copiosum. Denique vtriusque iuris auctori- tatibus appli¬
+          <lb/>catis: et arte humanitatis refertum: in omnibus allegatio¬
+          <lb/>nibus promptissimum. (Verso blanc.)
+          <lb/>A la fin:... Jmpensis circumspecti viri archibiblio¬
+          <lb/>pole Joannis rynman Jn officina industrij! Henrici Gran,
+          <lb/>ciuis in oppido imperiali Ha-genaw: Jmpressum anno
+          <lb/>salutis nostre Mdxiij. Jn Vigilia natiuitatis Marie finit
+          <lb/>feliciter.
+          <lb/>In-fol., car. goth. 2 col., 356 ff. non ch.. sign. A-B, a-2, aa-22,
+          <lb/>titre courant, notes marginales, initiales d’attente.
+          <lb/>fol. A 2a comme dans l’édition de 1506, de même la table.
+          <lb/>R 10.311. Prov.: Don de la, Fürstlich Bentheim&amp;#x27;sche Ribl. du
+          <lb/>couvent de Frenswegen&amp;quot; 1874. Rel. anc.
+          <lb/>Au haut du titre: Liber Monasterij Nemoris beate Marie virginis
+          <lb/>Ordinis Canonicorum Regularium prope Northœrn.
+          <lb/>GPB: Berlin SB, Breslau RU.
+          <lb/>347
+          <lb/>BUSTIS BERNARDINUS DE
+          <lb/>Haguenau, H. Gran, 1513.
+          <lb/>Rosarium Sermonum predicabilium! per fratrem Ber¬
+          <lb/>nardinum de Bustis ordinis Mino rum ad faciliorem prae¬
+          <lb/>dicantium commoditatem nouissime! compilatum. Jn quo
+          <lb/>quicquid praeclarum &amp;amp; vtile in cunctis sermonarijs vsque
+          <lb/>in hodiernum editis pertinet: hoc in- geniose enucleatum
+          <lb/>atque solerti cura collectum in- uenies.
+          <lb/>Pars prima Rosarii.
+          <lb/>231
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

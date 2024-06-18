@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:27.375420+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2041.tif
+IMAGE WIDTH: 2364
+IMAGE HEIGHT: 3830
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>37
+          <lb/>p. 6: P. FAVSTI ANDRELINI. Eiusdem Fausti ad illus¬
+          <lb/>trem Fran-ciae Cancel larium Guidonem Ru¬pefortem
+          <lb/>Epigramma. (4 distiques.)
+          <lb/>R101842. Prov.: Abbé Gromer, curé à Saverne, 1879. Notes mes.
+          <lb/>Schmidt III, p. 36, No 24, GPB IV, 7640: Berlin, Wien. 60
+          <lb/>AENEAS SILVIUS. Voir: PIUS II.
+          <lb/>ANGELUS DE CLAVASIO
+          <lb/>Strasbourg, M. Flach fils, 1502.
+          <lb/>Summa Angelica de casibus conscientie cum quibus¬
+          <lb/>dam nouis &amp;amp; opor tunis additionibus. (Verso blanc.)
+          <lb/>A la fin: ... Ar- gentine impressa per Martinum Flach
+          <lb/>iunio- rem Anno domini. Mcccccij. Mensis vero Ju lij
+          <lb/>octaua Johannis baptiste. (Suivent 6 distiques et non 8 comme
+          <lb/>dit Schmidt VI, p. 20, No 8.)
+          <lb/>in-fol., car. goth., 2 col., 16 ff. non ch., CCCXLII ff. ch., titre
+          <lb/>courant, init. d’attente.
+          <lb/>Fol. 2a non ch.: Epistola. F. Hieronymi tormeli lectoris;
+          <lb/>ad R. p. F. Angelum de clauasio praesentis operis auc¬
+          <lb/>torem... (2 p.)
+          <lb/>Au-dessous: Responsio... fratris Angeli ad fratrem Hiero¬
+          <lb/>nymum. (6 lignes.)
+          <lb/>&amp;quot;R10.211. Prov.; F. Butsch fils, Augsbourg, 1883.
+          <lb/>Note mss. au haut du titre: Cartusia in Buxheim.
+          <lb/>Schmidt VI, p. 20, N° 8. BM Colmar, Jadis Bibl. de Strasbourg,
+          <lb/>Incun. N° 320.
+          <lb/>61
+          <lb/>ANGELUS DE CLAVASIO
+          <lb/>Haguenau, H. Gran, 1505.
+          <lb/>Summa Angelica de casibus conscientie cum quibus¬
+          <lb/>dam no-uis et oportunis additionibus. (Verso blanc.)
+          <lb/>A la fin:... diligenter reuisa ac emendata Jmpensis
+          <lb/>pro uidi Joannis Rynman de Oringaw: Jn of! ficina indus¬
+          <lb/>trij Henrici Gran, ciuis in opi do imperiali Hagenaw
+          <lb/>impressa Finit feliciter Anno virginei partus. 1505, pridie
+          <lb/>Jdibus Maij. (Suivent 6 distiques.)
+          <lb/>in-fol., car. goth., 2 col., 16 ff. non ch., CCCXIX ff. ch., 1 f. blanc,
+          <lb/>titre courant, init. d’attente.
+          <lb/>Fol, 2a non ch.: «Epistola F. Hieronymi Tormeli lectoris
+          <lb/>ad R. F. Angelum de Clauasio...» et la réponse de ce dernier
+          <lb/>comme dans l’édition de 1502.
+          <lb/>R10.213. Prov.: Treuttel &amp;amp; Würtz, Strasbourg, 16/VI. 1891, 15 M.
+          <lb/>Note mss. au-dessous du titre: Liber Societatis Jesu Rubenci.
+          <lb/>A Mot Aistepiy etootavt A poogax.
+          <lb/>BM Colmar.
+          <lb/>62
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

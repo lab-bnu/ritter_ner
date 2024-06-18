@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:49.417301+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078238.tif
+IMAGE WIDTH: 2306
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1124
+          <lb/>R11.567 (2). Prov.: Beck, antiquaire, Nœrdlingen 26/x 1877.
+          <lb/>Incomplet, lElégia manque entièrement, Philoméla seulement jusqu’au
+          <lb/>vers 64 : Garrula limosis Rana coaxat aquis. Annotations mss. au verso
+          <lb/>du titre : 27 vers latins.
+          <lb/>Schmidt VIII n° 267 :,Strasbourg, Université, exemplaire auquel
+          <lb/>1740
+          <lb/>manque la fin.&amp;quot;
+          <lb/>OVIDIUS
+          <lb/>Strasbourg, M. Schurer 1514
+          <lb/>PVBLII OVIDH NASONIS! Heroidum Epi-stolae.! AVLI
+          <lb/>SABINI! Epistolae tres.! Item Eiusdem P. O. N.! De Nuce
+          <lb/>Elegeia. De Medicamine faciei Elegeia.
+          <lb/>A la fin: Argentorati, Ex officina Schureriana, Men¬
+          <lb/>se Maio, Anno. M. D. XIIIl. Reg. Caes. Maximiliano, P F
+          <lb/>Aug. (Verso blanc.)
+          <lb/>In-4°, car, rom., 92 ff. non ch., sign. A-P, titre courant, init.
+          <lb/>ornées.
+          <lb/>&amp;quot;R100.173 (3). Prov. : Trubner, Strasbourg 29/1V 1886. Anno¬
+          <lb/>tations mss. dans le texte.
+          <lb/>Schmidt VIII n° 135: Bibl. Cantonale de Zurich.
+          <lb/>1741
+          <lb/>OVIDIUS
+          <lb/>Strasbourg, M. Schurer 1514
+          <lb/>PVBLH OVIDH NASONIS De Remedio amoris, Libri Duo.
+          <lb/>De Philomela, Elegia. (Marque typ, de Mathias Schurer. (HEB
+          <lb/>Planche XII n° 2. Verso blanc.)
+          <lb/>A la fin: Argentorati, ex Aedibus Schurerianis,! Mense
+          <lb/>Martio, Anno M. D. XIIII. (Au-dessous, même marque typ. qu’au titre.
+          <lb/>In-40, car. rom., 34 ff. non ch., sign. A-F, titre courant, init.
+          <lb/>ornées.
+          <lb/>*R101736. Prov.: Don de la BU de Gœttingue (1872). Anno¬
+          <lb/>tations mss. sur toutes les pages jusqu’au f. Dii.
+          <lb/>Manque chez Schmidt.
+          <lb/>1742
+          <lb/>OVIDIUS
+          <lb/>Strasbourg, J. Schott 1515
+          <lb/>P. Ovidii Na sonis METAMOR PHOSEON libri XV.
+          <lb/>Index repertorius omnium! fabularum, ad numerum char¬
+          <lb/>tarum, &amp;amp; seriem Al- phabeti, illis appositus est.! Ioanne
+          <lb/>Schotto Argen. pressore, 1515.
+          <lb/>A la fin: Communibus impensis Pauli Goetz, ac loannis
+          <lb/>Schotti, concivium urbis Ar-GENTINAE. Iulii 27. Anni
+          <lb/>Christiani 1515.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

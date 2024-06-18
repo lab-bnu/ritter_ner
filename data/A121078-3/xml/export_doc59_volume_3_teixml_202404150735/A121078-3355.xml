@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:12.249766+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3355.tif
+IMAGE WIDTH: 2382
+IMAGE HEIGHT: 3856
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>797
+          <lb/>Am Schluss: Getruckt zû Straszburg! durch losiam
+          <lb/>Rihel. M. D. LXVIII.
+          <lb/>Marg., Titel rot u. schware. Auf der Rücks, des Titelbl, grosser Holeschn.:
+          <lb/>20, Got., 4 unn., 173 num., 2 unn. Bll. (Register), Kopft., Kust.,
+          <lb/>Wappen des Hauses Würtemberg mit Krone, darûber ein Genius (Honor)
+          <lb/>mit einem Lorbeer in jeder Hand; rechts Minerva gewappnet, links
+          <lb/>Diana mit Jagdhorn; ausserdem zwei Jagdhunde; darunter 2 lat. Verse:
+          <lb/>Nec te paeniteat doctam coluisse Mineruam.
+          <lb/>Sit nec horrori, gnaua Diana tibi.
+          <lb/>Schòner Holeschn, 2u Beginn eines jeden Buches.
+          <lb/>Bl. 2a: Dem Durchlüchtigen Hochgebornen Fürsten
+          <lb/>vnnd Herren, Herrn Christoffen Hertzogen zû Würtenberg
+          <lb/>vndz Deck... — vnnd thû mich als ein armen ohn¬
+          <lb/>würdi- gen studenten vnnd Würtenberger, E. F. G. vnder¬
+          <lb/>thenigbefehlen. Datum Rappoltzweiler den ersten tag
+          <lb/>Septem- bris, Anno M. D. LXVII.... Matthias Holtzwart
+          <lb/>von Harburg.
+          <lb/>Bl. 3b: Dem Günstigen Leser. (1 S.)
+          <lb/>Bl. 4a: MATTHIAS HOLTZWART HARBVRGENSIS, LEC¬
+          <lb/>TORI S. (12 lat. Dist.) Auf der Rücks. : Inhalt des Ersten Buches.
+          <lb/>(28 deutsche Verse.)
+          <lb/>Bl. 96/97 : Beschreibung des Würtembergischen Wappens in Versen.
+          <lb/>Bl. 101b: Stammtafel des Hauses Würtemberg.
+          <lb/>Bl. 144: Herkunft des Dichters.
+          <lb/>Bl. 150: Pêter von Hagenbach.
+          <lb/>Bl. 151: Herrschaft Reichenweier.
+          <lb/>R 10.056. Prov.: Gumnasialbibl. Heilbronn, Tausch 2. IV. 1878.
+          <lb/>Auf dem Titelbl. handschr.: Johann Lauterbach, gekrönter Poeta.
+          <lb/>Stadtbibl. Strassburg.
+          <lb/>Siche : Merz A., Mathias Holzwart, eine litterarhistorische Unter¬
+          <lb/>suchung. Rappoltsweiler 1885, 4°, 35 S.
+          <lb/>1184
+          <lb/>HOMERUS
+          <lb/>Strassburg, Th. Rihel um 1572
+          <lb/>OMHPOY IAIAE,... HOMERI ILIAS, SEV POTIVS OMNIA
+          <lb/>eius quae quidem extant opera.Studio &amp;amp; cura OB.
+          <lb/>GIPHANII I. C. quam emen datissimè edita, cum eiusdem
+          <lb/>Scho-liis &amp;amp; Indicibus nouis. (Druckerm. Rihels. H A B Tafel
+          <lb/>XXXI Nr. 10, Silvestre Nr. 854.)
+          <lb/>ARGENTORATI! Excudebat Theodosius Rihelius.
+          <lb/>80, Griech. u. Antig., 913 S., Seitenzählung beginnt erst mit Ziffer
+          <lb/>16, Bl. 9; am Schluss 34 unn. Bll. (Scholia u. Index), Kopft., Kust.,
+          <lb/>Marg., Init.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

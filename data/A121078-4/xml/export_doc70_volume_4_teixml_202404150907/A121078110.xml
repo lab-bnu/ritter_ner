@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:45.732064+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078110.tif
+IMAGE WIDTH: 2316
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>996
+          <lb/>A la fin: ARGENTORATI APVD IOANNEM HERVAGIVM
+          <lb/>MENSE DECEMB. 1 ANNO, M. ] D. XXII.
+          <lb/>rant, réclames, notes marg., grandes init. à fig. E et V; titre encadré:
+          <lb/>In-80, car. ital., 23 ff. ch. et 1 f. non ch., verso blanc, titre cou¬
+          <lb/>bordure supérieure, 3 femmes entre des fleurs, tenant un fil et 2 que¬
+          <lb/>nouilles, la femme du milieu est assise sur le corps d’un homme couché;
+          <lb/>dans chacune des bordures latérales, 3 femmes debout, à droite aux pieds
+          <lb/>des 3 femmes un dragon à gueule ouverte; bordure inférieure, à gauche,
+          <lb/>Minerve avec un instrument de musique, à droite, Mercure debout.
+          <lb/>secretis, Phi- lip. Melanchthon.... — Vuittenbergae Saxonum. M. D. XX.
+          <lb/>Au verso du titre: D. Hieronymo Bronner! divi Caroli Aug. à se¬
+          <lb/>recto dú dernier f., notes mss.
+          <lb/>R100.879. Prov.: L. Rosenthal, Munich 10/VI 1890, 6M. Au
+          <lb/>1506.
+          <lb/>MELANCHTHON Philippus
+          <lb/>Haguenau, J. Secer 1523
+          <lb/>PHILIPPMELANCHTHO-NIS, ANNOTATIO nes in lohan¬
+          <lb/>nem, castigatiores quàm quae antea invulgatae sunt.
+          <lb/>Utpote in quibus multa, quae de- sunt in aliis, habentur,
+          <lb/>uná cum! Epistola commendatitia M. Lu theri, Indicéque
+          <lb/>rerum memora bilium quae passim in hoc Anno! tationum
+          <lb/>opere excutiuntur. Ex Foelicissima Hagenoa.
+          <lb/>A la fin: Haganoae, Ex Neacademia IohannisSecerii
+          <lb/>Lauchensis. Salutis anno M. D. XXIII.
+          <lb/>In-80, car. ital., 146 ff. ch., 7 ff. non ch. (table), erreurs de pagi¬
+          <lb/>nation, elle saute de 97 à 100, de sorte qu’il n’y a que 144 ff. ch., titre
+          <lb/>courant, réclames, notes marg., init. à fig. G, O. T; titre encadré
+          <lb/>(H AB Planche LXIX n° 1).
+          <lb/>Au verso du titre: (bande d’ornement) D. Nicolao Gerbellio...
+          <lb/>Mar! tinus Luther... — Wittembergae. Anno XXIII. (3 pp.) Fol. a 3a,
+          <lb/>bande d’ornement et feuille de lierre.
+          <lb/>R101.236. Prov.: Bibliothèque Ed. Reuss, Strasbourg 1891 avec
+          <lb/>son ex-libris et son autogr.; au recto du f. de garde: Nœrdlingen 1860.
+          <lb/>Ed. Reuss. Annotations mss. dans le texte.
+          <lb/>1507
+          <lb/>MELANCHTHON Philippus
+          <lb/>Strasbourg, J. Herwagen 1523
+          <lb/>ANNO TATIONES PHILIPPI! Melanchthonis in Epistolam
+          <lb/>Pauli) ad Rhomanos unam, Et ad! Corinthios duas. (Feuille
+          <lb/>de lierre.)
+          <lb/>ARGENTORATI APVD! Ioannem Hervagium.) An. M. D.
+          <lb/>XXIII. (Verso blanc.)
+          <lb/>A la fin: ARGENTORATI APVD IOANNEM HERVAGIVM MENSE
+          <lb/>IANVAR.  ANNO M. D. XXIII. (Verso blanc.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

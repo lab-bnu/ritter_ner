@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:26.989785+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2028.tif
+IMAGE WIDTH: 2380
+IMAGE HEIGHT: 3828
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>24
+          <lb/>A l&amp;#x27;avant dernier f. non ch.: Joannes Altenstaig ex Mindel¬
+          <lb/>heim ad discipulos suos.... — Ex Tubinga septimo! Ka¬
+          <lb/>lendas Novembris. Anno !... M. CCCCC. VIIl, (4 pages.)
+          <lb/>Suit: Joannes Altenstaig Mindelhaimensis! Gregorio
+          <lb/>Weselin Schorndorffensi amico suo... — Ex domo conduc¬
+          <lb/>titia. Anno... M. CCCCC. VIII.
+          <lb/>Au-dessous: 4 distiques: Ad eunden gentilem suum Sebas¬
+          <lb/>tiani Refeck Carmen.
+          <lb/>*R100058b, à la suite de Heinrichmann, Grammaticae institu¬
+          <lb/>tiones 1509.
+          <lb/>manque. Notes mss.
+          <lb/>2e exemplaire: *R100050. Prov.: Bibl. de Tübingen, 1871; titre
+          <lb/>Schmidt, III, p. 21, N° 73: BM. de Strasbourg et Jadis Bibl. de
+          <lb/>Strasbourg, Incun. No 242.
+          <lb/>GPB III, 7202: Berlin, Munich, Marbourg.
+          <lb/>37
+          <lb/>ALTENSTAIG
+          <lb/>Haguenau, H. Gran, 1511.
+          <lb/>Vocabularius Joannis! Altenstaig Mindelhaimensis.
+          <lb/>Vocum quae in opere grammatico plurimorum con
+          <lb/>tinentur: brevis et vera interpretatio.! Opus emendatum
+          <lb/>et denuo reuisum] ab ipso operis auctore: cum additi¬
+          <lb/>one quorundam quae alii non habent. Henrici Bebelij
+          <lb/>Epigramma. (4 distiques latins.)
+          <lb/>A la fin: Henrieus Gran chalcographus Hage- nawensis
+          <lb/>in officina sua: expensis circumspecti viri Joan-nis Ryn¬
+          <lb/>man de Oringaw archibibliopole: impressit Anno gratiae
+          <lb/>M. D. XI die xxvni, mensis martij fini! uit feliciter.
+          <lb/>in-4°, car, rom., 2 col.; 6 ff. non ch. - CVII ff. ch.; sign. a—v,
+          <lb/>titre courant, init. d’attente.
+          <lb/>Au verso du titre: Carmen saphicum Sebastiani Kefer
+          <lb/>(4 strophes à 4 vers.) et Tetrasticon Math. Kretz.
+          <lb/>Fol. a 2a non ch.: Jacobus henrichman Sindel fingensis.
+          <lb/>S. P. B. Joanni Altenstaigio Min delhaimensis... — Ex
+          <lb/>Crespachio nonis Maij: Anno octauo vltra sesquimillessi¬
+          <lb/>mum.
+          <lb/>Fol, a3 non ch.: Henrico Bebelio... Tubinge publice
+          <lb/>profit tenti Joannes Altenstaig...
+          <lb/>Fol. a 4a non ch.: Generosi baroni Schwartzen- bergio
+          <lb/>Joannes Altenstaig...
+          <lb/>Au-dessous: Joannes Altenstaig... Lectori.
+          <lb/>Fol, a 5b non ch.: Index à 2 col. (3 pages).
+          <lb/>Fol. CVIIa: Joannes Altenstaig ex Mindelhaim ] ad dis¬
+          <lb/>cipulos suos... septimo calendas nouembres: Anno
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:03.064124+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002058.tif
+IMAGE WIDTH: 2482
+IMAGE HEIGHT: 3976
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Benzing : Egenolff n° 17: «B N Paris (Wahrscheinlich ein
+          <lb/>Druck von Egenolff)».
+          <lb/>1029
+          <lb/>BONACIULI, Lodovico : De Uteri partiumque ejus consecu¬
+          <lb/>tione. Ejusdem quonam usu in absentibus etiamnum
+          <lb/>Venus citetur. Quid, quale, undeque prolificum semen,
+          <lb/>unde menstrua... — Strasbourg, Henri Sybold « mense
+          <lb/>Decembri 1530 », in-80.
+          <lb/>BN Paris 2 exemplaires Ta5é, 1 et Tb68 11 (1), met par erreur
+          <lb/>1537 au lieu de 1530.
+          <lb/>1030
+          <lb/>BONACIULI, Lodovico : De Conceptionis indiciis nec non
+          <lb/>maris foemineique partis significatione. Ejusdem quae
+          <lb/>utero gravibus accidant et eorum medicinae prognostica
+          <lb/>causaeque effluxionum et abortuum, etc. proceritatis
+          <lb/>improceritatisque partuum causae (éd. par Henri Sybold,
+          <lb/>professeur de médecine à Strasbourg, ayant aussi une
+          <lb/>imprimerie). — Strasbourg, Henri Sybold 1530, in-8°.
+          <lb/>BN Paris Tb68 11 (2), indique par erreur 1538 au lieu de 1530.
+          <lb/>1031
+          <lb/>BONIFACIUS (Ord. Min.) : Defensorium elucidativum obser¬
+          <lb/>vantiae regularis fratrum Minorum... — (Strasbourg,
+          <lb/>Jean Schottl, 1516, in-4°.
+          <lb/>Scott (Schmidt II supplément) p. 10 n° 3; Proctor 10281. —
+          <lb/>Londres, Brit. Mus, et Oxford, Bibl. S. H. Scott.
+          <lb/>1032
+          <lb/>BORKOWSKI, Petrus : Disputatio XXXI. Ethica. De amicitiae
+          <lb/>divisione duplici (auspice Laur. Thom. Walliseri). —
+          <lb/>Strasbourg, Antoine Bertram 1597, in-40.
+          <lb/>Ritter: B M Strasbourg n° 573.
+          <lb/>1033
+          <lb/>BORKOWSKI, Petrus : Disputatio XXII. Ethica. De jure et
+          <lb/>injuria (auspice Laur. Thom. Walliseri). — Strasbourg,
+          <lb/>Antoine Bertram 1597, in-40.
+          <lb/>Ritter: B M Strasbourg n° 574.
+          <lb/>1034
+          <lb/>56
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

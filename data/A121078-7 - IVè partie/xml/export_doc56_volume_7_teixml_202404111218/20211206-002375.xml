@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:11.227768+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002375.tif
+IMAGE WIDTH: 2506
+IMAGE HEIGHT: 3968
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Täglichen Commercien und Handthierungen, sich noch
+          <lb/>aller hand unrichtigkeiten erzeigen, wollen :... Das
+          <lb/>wir die hiernach folgende puncten erkandt und
+          <lb/>verordnet... (Ordonnance fixant la valeur de la monnaie
+          <lb/>en 5 paragraphes). Actum et Decretum Sambstags den
+          <lb/>zwey und Zwanzigsten Januarii... 1597. — (Strasbourg)
+          <lb/>1597, placard in-fol.
+          <lb/>Ritter: B M Strasbourg, n° 1511.
+          <lb/>2728
+          <lb/>MUELICH, Johannes Adelphus : Declaration und erclerung
+          <lb/>der warheit des Rocks Jesu Christi newlich zu Trier
+          <lb/>erfunden... andermals beschriben. — (Strasbourg, Martin
+          <lb/>Flach (6 mars) 1513), in-4°.
+          <lb/>Schmidt VI, p. 27, n° 33 : B N Munich.
+          <lb/>2729
+          <lb/>MUELICH, Joh. Adelphus : Barbarossa. Ein warhafftige
+          <lb/>beschreibung des lebens und der geschichten Keiser
+          <lb/>friderichs des ersten genant Barbarossa... — (Strasbourg,
+          <lb/>Jean Grüninger (28.VIII] 1520), in-fol.
+          <lb/>Kristeller, n° 102; Panzer, I, 443; Schmidt I, n° 173. (B M
+          <lb/>Colmar) et Hist. litt. II, p. 406, n° 250.
+          <lb/>2730
+          <lb/>MUELICH, Joh. Adelphus : Barbarossa (Idem). — Strasbourg,
+          <lb/>Jean Grüninger 1520, in-fol.
+          <lb/>Londres, Brit. Mus. Catal. I, col. 864: 10.703 g. 22.
+          <lb/>2731
+          <lb/>MUELICH, Joh. Adelphus : Barbarossa... — (Strasbourg,
+          <lb/>Jean Grüninger (22.1X.] 1530), in-fol.
+          <lb/>G K 10.493. Schmidt I, n° 248. — B N Berlin. (Une éd. de
+          <lb/>1535 chez Barth. Grüninger. Ritter, Rép. n° 11).
+          <lb/>2732
+          <lb/>MUELICH, Adelphus. Voir aussi : GEILER, n° 1846; MUNDINUS,
+          <lb/>n° 2734; PLAUTUS, n° 2940. Voir de même (RITTER,
+          <lb/>Rép. nos 4-11).
+          <lb/>MUENTZER, R. Voir: LIEDER (zwei neue geistliche), n° 2385.
+          <lb/>373
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

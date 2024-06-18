@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:13.060613+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3387.tif
+IMAGE WIDTH: 2400
+IMAGE HEIGHT: 3856
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>mal brobiert vnd gerecht ist, so hat si ch ein gût fründ
+          <lb/>bedacht, woltz doch nun guten fründen behalten hon.
+          <lb/>Vnd hat alen menschen zû gût hie vsz lassen gon ein
+          <lb/>bad mit krütern ze machen! mit kleinen kosten zê baden
+          <lb/>in x. tagen so wol, als wer eins vier wochen ineim
+          <lb/>wiltbad gesin. Es wörmbt vnd sterkt im sein glider, als
+          <lb/>weren im zwentz- ig iar abgenumen. Item es vertreibt
+          <lb/>auch den bruch, so eins den trank yn nimt wie hie nach
+          <lb/>stot Vnd ist an etlichen man vnd frowen versûcht vnd
+          <lb/>bewert.
+          <lb/>Ein in der Mitte durch eine Säule geteilter Holeschn.: rechts in
+          <lb/>einer Badewanne eine Frau, die von einer anderen Frau mit Wasser
+          <lb/>begossen wird (Siehe Abb.); links ein Apotheker mit einer Waage, vor
+          <lb/>ihm ein Kunde.
+          <lb/>Am Schluss: Vnnd ist disz Büchlin getruckt vor ab
+          <lb/>daz bad, mit priui legien ausz gna! den K. M.inhalt
+          <lb/>des briefs darüber, in eim iar nit nach zutrucken.Vol¬
+          <lb/>endet zu Straszburg vonn Johann. Grüninger Als man
+          <lb/>zalt. M. D. xXIX. vff sanct Adolffs abent. (Rûcks, leer.)
+          <lb/>40, Got., 8 unn. Bll., Sign. a-b; Bl. b 3a: Frau in der Bade¬
+          <lb/>wanne. (Siehe Abb.)
+          <lb/>Don dem bab Sie voz gemelt.
+          <lb/>829
+          <lb/>~
+          <lb/>4
+          <lb/>7
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:02.460532+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002036.tif
+IMAGE WIDTH: 2476
+IMAGE HEIGHT: 3978
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>BAPTISTA, Mantuanus : (Idem). — (Strasbourg, Jean Prüss
+          <lb/>aux frais de Paul Götz 1506), in-80.
+          <lb/>GKXI, 74 : Bibl. Wolfenbüttel.
+          <lb/>909
+          <lb/>BAPTISTA, Mantuanus : (Idem). — (Strasbourg) (Jean Prüss
+          <lb/>1506/7), in-8°.
+          <lb/>GKXI, 78 : Bamberg, Heidelberg.
+          <lb/>910
+          <lb/>BAPTISTA, Mantuanus: (Idem) (éd. Jacques Wimpheling). —
+          <lb/>((Strasbourg), Jean Prüss 1507), in-80,
+          <lb/>GKXI, 85: BN Vienne, B U Bonn, Breslau, BN Strasbourg
+          <lb/>R101.013 (Rép. n° 132) etc.
+          <lb/>911
+          <lb/>BAPTISTA, Mantuanus : (Idem). — ((Strasbourg), Jean Prüss
+          <lb/>1510), in-80.
+          <lb/>GKXI, 91: BN Munich, B U Göttingen, Heidelberg, BN
+          <lb/>Strasbourg R. 101.009 (1) (Rép. n° 134) etc.
+          <lb/>912
+          <lb/>BAPTISTA, Mantuanus : (Idem) (éd. par Jacques Wimphe¬
+          <lb/>ling). — (Strasbourg, René Beck 1515), in-80.
+          <lb/>GKXI, 99: BN Berlin, Munich, Panzer 6, 76; Schmidt IV,
+          <lb/>p. 22, nos 22 : Bibl. cant. Aarau.
+          <lb/>913
+          <lb/>BAPTISTA, Mantuanus : (Idem). — (Strasbourg, René Beck
+          <lb/>1517), in-80.
+          <lb/>GKXI, 102: BN Berlin, Munich. Schmidt IV, p. 24, n° 26
+          <lb/>Jadis Bibl. de Strasbourg, Incun, n° 610 et Bibl. cant. Aarau.
+          <lb/>914
+          <lb/>BAPTISTA, Mantuanus (Georgius): Georgius. — (Strasbourg,
+          <lb/>J. Prüss vers 1510), in-8°.
+          <lb/>GKXI, 248: BN Munich, B U Leipzig.
+          <lb/>915
+          <lb/>BAPTISTA, Mantuanus : Georgius... ab Ascensio familiariter
+          <lb/>explicatus. — (Strasbourg), Jean Schott (IO.VIII.]
+          <lb/>(1510), in-fol.
+          <lb/>Schmidt II, n° 14. — B M Colmar.
+          <lb/>916
+          <lb/>34
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

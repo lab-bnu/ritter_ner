@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:46.203491+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078127.tif
+IMAGE WIDTH: 2314
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1013
+          <lb/>Notes mss. dans le texte et sur les 3 ff. blancs à la fin. A l&amp;#x27;intérieur
+          <lb/>R102.240 (2). Prov.: L. Rosenthal, Munich II/VI 1889, 3M.
+          <lb/>de la couverture: «Clarissimo viro Ioanni Castnero Doctori Medico Am¬
+          <lb/>burgen. R. P. Physico, amico venerando.» Au-dessus du titre de R102.240:
+          <lb/>«Josephus Hirnbach sibi emit Ingolstadii Anno 1550, Mense Octobri,
+          <lb/>9 Bazeis.» Rel. anc.
+          <lb/>1547
+          <lb/>MELANCHTHON Philippus
+          <lb/>Strasbourg, Crato Mylius 1558
+          <lb/>SELECTA- RVM DECLAMATIONVM] Philippi Melanthonis,
+          <lb/>quas con- scripsit, &amp;amp; partim ipse in schola Viteber- gensi
+          <lb/>recitavit, partim aliis recitan- das exhibuit.
+          <lb/>TOMVS PRIMVS. (Marque typ. de Crato Mylius. HE B Planche
+          <lb/>XXVII n° 7; Silvestre n° 1265.)
+          <lb/>Cum Gratia et Privilegio. ARGENTORATI ANNO M. D.
+          <lb/>LVIII. (Verso blanc.)
+          <lb/>In-80, car. ital., 784 pp., 8 ff. non ch. (table), titre courant, ré¬
+          <lb/>clames, notes marg., init. à fig., initiales ornées.
+          <lb/>Fol. A 2a : Iacobo Myli- chio, nobili Medico et Mathematico, ! Ni¬
+          <lb/>colaus Gerbelius.... Argentorati, Ca- lend. Ianuarii, Anno M. D. XLI.
+          <lb/>(Dédicace de 5 pp.)
+          <lb/>TOMVS TERTIVS. (Même marque typ, qu’au Ier volume.)
+          <lb/>ARGENTORATI.
+          <lb/>In-8°, car. ital., 881 pp., 25 ff. non ch. (table à 2 col.), titre
+          <lb/>courant, réclames, notes marg., init. ornées.
+          <lb/>Fol. A 2a: Praefatio ad Lectorem.... Datum. &amp;amp;c. Calend. Martii.
+          <lb/>(8 pp.)
+          <lb/>TOMVS QVARTVS. (Marque typ. de S. Emmel. (He B Planche
+          <lb/>XXXV n° 1; Silvestre n° 822.)
+          <lb/>Cum Gratia &amp;amp; Privilegio. ARGENTORATI, ANNO M. D.
+          <lb/>LVIII. (Verso blanc.)
+          <lb/>In-8°, car. ital., 933 pp., 16 ff. non ch. (table à 2 col.), titre
+          <lb/>courant, réclames, notes marg., init. ornées.
+          <lb/>Fol. A 2a : Ulrico Mordisin... Caspar Peucerus... Cal. Septemb.
+          <lb/>Anni. M. D. LVIII. (Préface de 5 pp.)
+          <lb/>R102.001. Prov.: Rud. Hœnisch, Leipaig 28/VIII 1917; 10M.
+          <lb/>Notes mss. Tome 2 manque.
+          <lb/>Oxford, Bibl. Bodleiana.
+          <lb/>1548
+          <lb/>MELANCHTHON Philippus
+          <lb/>Strasbourg, Paul Messerschmidt 1559
+          <lb/>PHILIP-PI MELANTHO-NS PHILOSOPHIAE moralis libri
+          <lb/>duo, ad usum Studioso-rum paulò quàm antè accom
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

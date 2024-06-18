@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:13.233872+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002458.tif
+IMAGE WIDTH: 2498
+IMAGE HEIGHT: 3952
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>et publice in Academia Argentinensi recitata... —
+          <lb/>Strasbourg, Jost Martin 1591, in-80,
+          <lb/>Ritter: B M Strasbourg, n° 1884 et Hist. de l’impr., p. 576,
+          <lb/>app. 411 (8) ; Bibl. St. Guillaume, Strasbourg.
+          <lb/>3169
+          <lb/>SCHADAEUS, El. Voir aussi: TESTAMENT das Neue (en hébreu),
+          <lb/>n° 3340.
+          <lb/>(Schadaeus, voir aussi : Ritter, Rép. nos 2077-2079l.
+          <lb/>SCHAPLER. Voir : HUG Schapler.
+          <lb/>(SCHAPPELER, Christoph) : Verantwurtung unnd Aufflösung
+          <lb/>etlicher vermaynter Argument unnd ursachen, so zu
+          <lb/>widerstandt und verdruckung des wort Gottes und
+          <lb/>hayligen Evangelions, von denen die nitt Christen sein,
+          <lb/>und sich doch Christen namens riemen, täglich gebraucht
+          <lb/>werden... — (Strasbourg, Wolfgang Köpfel 1524), in-4°.
+          <lb/>Flugschriften aus den ersten Jahren der Reformation vol. II,
+          <lb/>fasc. 4, p. 11 : B N Berlin, B U Fribourg; Kuczynski 2693.
+          <lb/>3170
+          <lb/>SCHATZKAMMER : schöner und zierlicher Orationen, Send¬
+          <lb/>brieffen, Gesprächen und dergleichen, ausz den vier und
+          <lb/>zwentzig Büchern des Amadis von Franckreich zusam¬
+          <lb/>mengetragen. — Strasbourg, Lazare Zetzner 1596, in-8°.
+          <lb/>Goedeke IIe, p. 479, n° 260.
+          <lb/>3171
+          <lb/>SCHATZGEYER, Gasp. Voir : BRISMANNUS, Joh., n° 1096.
+          <lb/>SCHENCK, Conradus : Evangelia Dominicorum, Festorumque
+          <lb/>dierum carmine Hexametro reddita. Item Passio Domini
+          <lb/>Nostri Jesu Christi secundum quatuor Evangelistas.
+          <lb/>Per. M. Conradum Schenck literariae pubis, inclyte urbis
+          <lb/>Haganoe apud D. Georgium moderatorem. Ad Lecto¬
+          <lb/>rem... — Argentorati, Excudebat Nicolaus Vuiriot &amp;amp;
+          <lb/>Petrus Hug. M.D.LX, in-8°.
+          <lb/>Bibl. Grand Sém. Strasbourg BB 235.
+          <lb/>3172
+          <lb/>456
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

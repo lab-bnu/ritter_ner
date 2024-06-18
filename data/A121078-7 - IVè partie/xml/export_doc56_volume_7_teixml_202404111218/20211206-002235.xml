@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:07.690316+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002235.tif
+IMAGE WIDTH: 2510
+IMAGE HEIGHT: 3950
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Panzer 6, 82; Walter, nos 1482/1483; Proctor 10.309;
+          <lb/>Schmidt, IV, p. 23, n° 23; Roth zur Bibliographie des Henricus
+          <lb/>de Hassia, p. 5 (Centralbl. für Bibliothekswesen Beiheft II.).
+          <lb/>Baer (Francfort-s.-M.), Catal, 500 (1907), n° 895 ; 60 M. —
+          <lb/>B M Sélestat.
+          <lb/>1988
+          <lb/>HENRICUS de Hassia. Voir aussi: [RITTER, Rép, nos 1132¬
+          <lb/>1135).
+          <lb/>HENRICUS, Valesius: Effigies quam accuratissima... D. Henrici
+          <lb/>Valesii, Galliarum quondam Regis Filij, modo in Regem
+          <lb/>Poloniae, Lithuanieque Ducem &amp;amp; electi. — Strasbourg,
+          <lb/>Bernard Jobin 1574, placard in-fol. (Portrait et poème
+          <lb/>latin en honneur de Henri de Valois, roi de Pologne).
+          <lb/>Bibl. Centrale de Zurich.
+          <lb/>1989
+          <lb/>HENSELIN von Stotzingen. Voir: LIED n° 2293.
+          <lb/>HERBARY. Voir : HORTUS sanitatis.
+          <lb/>HERMAN, Nicolaus : Ein Mandat Jesu Christi an alle seine
+          <lb/>getrewen Christen. — Strasbourg, Jean Schwan 1524,
+          <lb/>in-4°.
+          <lb/>Flugschriften aus den ersten Jahren der Reformationszeit Bd.
+          <lb/>II, Heft 2, p. 10 n° 6: BN Berlin, Munich, B U Breslau,
+          <lb/>Dessau (B N Strasbourg, disparu), Wolfenbüttel; Kuczynski
+          <lb/>1008; Weller 2909.
+          <lb/>1990
+          <lb/>HERMAN, Nicolaus : Ein new Mandat Jesu Christi an alle
+          <lb/>seine getrewen Christen... — (Strasbourg, Hans Grymm)
+          <lb/>daté 1547.
+          <lb/>Kuczyński n° 1012. Hans Grimm ne figure pas parmi les
+          <lb/>imprimeurs strasbourgeois. Il s’agit probablement d’un
+          <lb/>endroit fictif.
+          <lb/>1991
+          <lb/>HERMANN, Comes à Neüenar : Epistola Germaniae studio¬
+          <lb/>sorum ad Carolum Caesarem. Oratio Germaniae Nobilium
+          <lb/>ad Carolum Augustum de rebus quibusdam corrigendis
+          <lb/>233
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

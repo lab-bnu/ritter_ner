@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:37.128095+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu053.tif
+IMAGE WIDTH: 2384
+IMAGE HEIGHT: 3842
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>BONAVENTURA S.: Auctoritates utriusque testamenti. Voir:
+          <lb/>Nicolaus de Hanapis.
+          <lb/>BONAVENTURA S.: Breviloquium. (Strasbourg, typ. du Hen¬
+          <lb/>ricus Ariminensis, vers 1473/4), in fol.
+          <lb/>G W 4652, Hain 3469 — 15592, Proctor 311, Voulliéme: Ber¬
+          <lb/>lin 2161, 7.
+          <lb/>K 841. Prov.; Librairie Lindner (vente Stöber, 27. II, 1891),
+          <lb/>Strasbourg, 30 M. A l’intérieur du 1er plat: Panzer 1, 97, 521.
+          <lb/>Argentorati, Georg Reyser 1471/2.
+          <lb/>104
+          <lb/>BONAVENTURA S. (Pseudo-: Sermones de tempore et de
+          <lb/>sanctis. Haguenau, (H. Gran, 9 janvier 1496), in-4°.
+          <lb/>G W 4815, Hain 3520, Pellechet 2656, Proctor 3184, Voulliéme:
+          <lb/>Berlin 1175, 5; Walter: Sélestat 111.
+          <lb/>K 862. Prov.; B N Munich, 16. XII. 1879, 2 M. 40. Notes mss.
+          <lb/>Au-dessous du titre: «Conventus Rambsauiensis.» Rel. anc.
+          <lb/>105
+          <lb/>BONAVENTURA S. (Pseudo-: Sermones mediocres de tem¬
+          <lb/>pore. Strasbourg, (typ. du Jordanus (— G. Husner) I,
+          <lb/>12 mars) 1496.
+          <lb/>G W 4801, Hain 3523, Madsen 820, Pellechet 2650, Proctor 668,
+          <lb/>Voulliéme: Berlin 2461.
+          <lb/>K 864. Prov.: Don de la ville de Heilbronn, 1871. Rel. anc.
+          <lb/>106
+          <lb/>BONAVENTURA S.: Soliloquium. (Strasbourg, H. Eggestein,
+          <lb/>pas après 1474), in-4°.
+          <lb/>G W 4686, Hain 3483, Pellechet 2672, Proctor 287, Voulliéme:
+          <lb/>Berlin 2146, 6.
+          <lb/>K 847. Prov.: B N Munich, 22. I. 1880, 5 M.
+          <lb/>107
+          <lb/>BONIFACIUS VIII: Liber sextus Decretalium. (Strasbourg, H.
+          <lb/>Eggestein, vers 1470/2), in-fol.
+          <lb/>G W 4849, Hain 3583, Pellechet 2725, T. I. Pellechet; Colmar
+          <lb/>377, Proctor 271, Voulliéme: Berlin 2147, Walter: Sélestat 294.
+          <lb/>K 893. Prov.: BN Munich, 24. XI. 1880, 12 M. Rel. anc. 108
+          <lb/>23
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

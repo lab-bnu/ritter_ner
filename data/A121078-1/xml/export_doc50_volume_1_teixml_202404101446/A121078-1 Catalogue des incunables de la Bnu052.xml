@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:37.114022+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu052.tif
+IMAGE WIDTH: 2382
+IMAGE HEIGHT: 3840
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>K 828. Prov.: Don de M. Puder, Breslau, 1871. Note mss. au
+          <lb/>recto du f. de garde: Von den Kindern des verstorbenen Kauf¬
+          <lb/>manns Puder in Breslau durch ihren Vormund, Herrn Stadt¬
+          <lb/>gerichtsrath Stenzel, der Strassburger Bibliothek geschenkt,
+          <lb/>am 4. Juli 1871.
+          <lb/>99
+          <lb/>BOETHIUS (Pseudo-): De disciplina scholarium. Strasbourg,
+          <lb/>(G. Husner), 1415, erreur pour 1495, in-4°.
+          <lb/>G W 4601, Hain 3424, Proctor 743, Schreiber 3513, Voulliéme:
+          <lb/>Berlin 2527, 15; Schramm, Bilderschmuck XIX, grav. N° 10.
+          <lb/>K 829. Prov.: L. Rosenthal, Munich, 15. I. 1884, 10 M. Au-des¬
+          <lb/>sous de l’explicit: Cartus, in Buchshaim.
+          <lb/>100
+          <lb/>BOLLANUS Dominicus: De conceptione Beatae Virginis
+          <lb/>Mariae. (Strasbourg, Adolphe Rusch (typ. R), vers
+          <lb/>1475), in-fol.
+          <lb/>G W 4616, Hain 3436, Pellechet 2567, Pellechet: Colmar 360,
+          <lb/>Proctor 235, Voulliéme: Berlin 2114.
+          <lb/>K 834. Prov.; B. N. Munich, 22. I. 1880, 3 M.
+          <lb/>101
+          <lb/>BONAVENTURA S.: Opuscula. Strasbourg, Mart. Flach, 31 oc¬
+          <lb/>tobre 1489, in-fol.
+          <lb/>G W 4647, Hain 3465 (— Hain — 3565a), Madsen 791, Pelle¬
+          <lb/>chet 2620, Pellechet: Colmar 364, Proctor 683, Schmidt VI,
+          <lb/>23. Voulliéme: Berlin 2486.
+          <lb/>K 838. Prov.: Don de la ville de Heilbronn, 1871. A l’intérieur
+          <lb/>du 1er plat: «Ex legato Joan. Krener ex Scherding Concio¬
+          <lb/>natoris Heylpronensis 1520». Rel. anc.
+          <lb/>102
+          <lb/>BONAVENTURA S.: Opuscula parva. Strasbourg (typ. du Jor¬
+          <lb/>danus (— G. Husner), 18 déc. 1495, in-fol.
+          <lb/>G W 4648, Hain 3468, Madsen 792, Pellechet 2616, Pellechet:
+          <lb/>Colmar 365, Proctor, 639, Schreiber 3521, Voulliéme: Berlin
+          <lb/>2458, Walter: Sélestat 113.
+          <lb/>K 840. Prov.; Pars I: Don de la ville de Heilbronn, 1871.
+          <lb/>Rel. anc. Pars II: B. N. Munich, 24. II. 1882, 4 M. Au-dessus
+          <lb/>du titre: Fratrum Rottenbuechensium. Rel, anc.
+          <lb/>103
+          <lb/>22
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

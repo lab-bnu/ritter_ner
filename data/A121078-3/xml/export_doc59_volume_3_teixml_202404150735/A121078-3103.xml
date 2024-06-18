@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:06.305029+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3103.tif
+IMAGE WIDTH: 2308
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>547
+          <lb/>EXPOSITIO in Evangelium secundum Matheum, Siche: DRUTH¬
+          <lb/>MARUS Chr, 1514. Nr. 664.
+          <lb/>EXPOSITIO MISSALIS, Quadruplex. Siche: BECHOFFEN Joh.
+          <lb/>Nr. 176.
+          <lb/>EXPOSITIO MYSTERIORUM MISSAE. Siehe: GOUDA Guilh. de
+          <lb/>EYB Albertus
+          <lb/>Strassburg, Joh. Prüss 1503
+          <lb/>Margarita poetica. Ringmannus Philesius Vosagigena
+          <lb/>Lectori, (5 Dist.) Rücks, leer.
+          <lb/>Am Schluss Bl. 398a vor dem Index: ... Impressum Argenti¬
+          <lb/>nae per in dustrium virum loannem Prüs : Ciuem Argen¬
+          <lb/>tinensem. Anno M. CCCCC. III. Septimo Idus Septembris.
+          <lb/>(Rücks, leer.)
+          <lb/>40, Got., 2sp., 6 unn., CCCXCVIII num. u. 30 unn. Bll. (Sign.
+          <lb/>Aa-Dd, Inhaltsverzeichnis).
+          <lb/>Bl. 5b: In Ioannem Camerarium Dalburgum: Episco¬
+          <lb/>pum worm! maciensem Distychon Doctoris Sebastiani Brant:
+          <lb/>Argentini In quo reperitur numerus anni obitus sui.
+          <lb/>Bl. 6: PRAEFATIOAd... Ioannem Mona steriensem
+          <lb/>Episcopum: Illustrissimumque Bauariae ducem : Alberti
+          <lb/>de Eyb... Praefatio.
+          <lb/>R102.076. Prov.: Pfarrer Cromer, Zabern 23. VII. 1879, Auf
+          <lb/>der Innens, des Vorderdeckels: Ex libris Io. Adler Augustanij.
+          <lb/>GK: SB Berlin; UB Breslau, Göttingen, Halle, Königsberg;
+          <lb/>Proctor II Sectio I Nr. 9968: London, British Museum; Schmidt III
+          <lb/>Nr. 40: Bibl. Wilh. u. alte Stadtbibl. Strassburg Inkun. Nr. 203,
+          <lb/>Walter : Schlettstadt Nr. 1307.
+          <lb/>830
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

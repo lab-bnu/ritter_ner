@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:05.472363+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3046.tif
+IMAGE WIDTH: 2340
+IMAGE HEIGHT: 3838
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>490
+          <lb/>E
+          <lb/>8
+          <lb/>
+          <lb/>AVETA
+          <lb/>RIVM SELECTA
+          <lb/>RVM ALIQVOT
+          <lb/>&amp;amp;
+          <lb/>EPISTOLARV M
+          <lb/>2
+          <lb/>Jax
+          <lb/>ERASMIROTE
+          <lb/>—
+          <lb/>DA
+          <lb/>RODAMI AD
+          <lb/>ERVDITOS,
+          <lb/>ET HORVM
+          <lb/>AD IL¬
+          <lb/>LVM.
+          <lb/>M
+          <lb/>2
+          <lb/>S
+          <lb/>~X
+          <lb/>2
+          <lb/>6
+          <lb/>&amp;quot;
+          <lb/>SQuul
+          <lb/>D
+          <lb/>E
+          <lb/>C
+          <lb/>4
+          <lb/>Mása
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:45.292914+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078094.tif
+IMAGE WIDTH: 2320
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>980
+          <lb/>Au verso du tître: Paulus Manutius Aldi F. literarum stu-diosis.
+          <lb/>S. P. D.... (13 lignes.)
+          <lb/>annotations mes. à la fin; entre autres, au verso du dernier f. blane:
+          <lb/>R101652 (2). Prov.: Don du pasteur Riedel, Lubeck 21/XI 1877;
+          <lb/>Jacobus Schmidt Anno Domini 1650; et à l&amp;#x27;intérieur de la couverture:
+          <lb/>Hauschild 1785 Schleizae d° 20. Jan.
+          <lb/>gème ex.: R101.673 (2); 3ème ex.: R 101.687 (2).
+          <lb/>1477
+          <lb/>MARBACH Erasmus
+          <lb/>Strasbourg, Ant. Bertram 1586
+          <lb/>THESES DE EVANGELIO. Ad quas, DEI GRATIA ET
+          <lb/>AVXILIO IN Academia Argentoratensi Praeside, ERASMO
+          <lb/>MARBACHIO D. Respondebit M. PAVLVS ALBERVS HAYNEN¬
+          <lb/>SIS! MISNiCVS] 22 &amp;amp; 29 lanuarii. (Marque typ. d’Ant. Bertram.
+          <lb/>H&amp;amp;B Planche XLIV n° 1; Silvestre n° 1023.)
+          <lb/>ARGENTORATI Excudebat Antonius Bertramus Anno
+          <lb/>M. D. LXXXVI. (Verso blanc.)
+          <lb/>In-4°, car. rom., 6 ff. non ch., sign. A, réclames, init. ornée C.
+          <lb/>R101.858. Prov.: Bibl. du Gymnase de Heilbronn 2/IV 1878;
+          <lb/>contre échange.
+          <lb/>1478
+          <lb/>MARBACH Johannes
+          <lb/>Strasbourg 1561
+          <lb/>Iohannis Marba- CHII, S. THEOLOGIAE po- ctoris, ac
+          <lb/>collegii Thomensis Decani, consolatio funebris. Item,
+          <lb/>ADIECTA EST ELEGIA STV- diosi adolescentis.
+          <lb/>ARGENTINAE M. D. LXI. (Verso blanc.)
+          <lb/>A la fin, avant l’élégie: M. D. LXI. 9 Iunii.
+          <lb/>In-8°, car. ital. (pour l’élégie car. grecs), 6 ff. non ch., sign. A,
+          <lb/>réclames, init. à fig. H.
+          <lb/>Fol. A 2a: Iohannes Marba- chius... Professoribus, ! praeceptori¬
+          <lb/>bus, ac Scholasticis nostri Gymnasii. S. Heri mane intra ho  ram quar¬
+          <lb/>tam et quintam decessit vir optimus, atque humanissimus senex, Iohannes
+          <lb/>Sapidus, socer clarissimi viri D. Iohannis Sturmii... (6 pp.)
+          <lb/>Fol. A5a: ELEGEION... (3 pp., dist, grecs.)
+          <lb/>R102.319. Prov.: Friedrichs-Gymnasium, Francfort-s.-M. 18/XII
+          <lb/>1888.
+          <lb/>Voir: Horning, Guillaume: Dr. Johann Marbach, Pfarrer zu
+          <lb/>St. Nikolai, Münster prediger, Professor u. Präsident des luth. Kirchen¬
+          <lb/>convents in Strassburg 1545-1581... Strassburg, Selbstverlag (1887),
+          <lb/>in-80, 252 pp.
+          <lb/>Bibliographie de Jean Marbach, voir: Schottenloher I n° 14818—
+          <lb/>14827.
+          <lb/>1479
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

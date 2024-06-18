@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:49.375169+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5024.tif
+IMAGE WIDTH: 2372
+IMAGE HEIGHT: 3878
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1332
+          <lb/>(H. &amp;amp; B. Planche LXIV, No 2).
+          <lb/>In-4°, car. goth., 13 ff. non ch., sign. A-C, notes marg., titre encadré
+          <lb/>Au verso du titre : Ad Joannem Scheurlum Juri !! um doctorem:
+          <lb/>Canonicum multijugum : Vratislauiensis Anti- ] stitis Vicarium Richardi.
+          <lb/>Sbrulij Endecassyllabon (12 vers, signés R S), au-dessous encore 2 dist.
+          <lb/>du même auteur.
+          <lb/>fol. A 2a : ... Joanni Scheurlo Patritio Vratislauiensi. J. V. Doctori
+          <lb/>Ca! nonico Augustuno Tridentino Legnizensi et Vratislauiensi : Ar Il
+          <lb/>chidiacono Glocouiensi... Christophorus Scheur !! lus... — Vittenberge
+          <lb/>ex! edibus nostris. Calendis Martias. Anno... undecimo supra sesqui¬
+          <lb/>millesimum.
+          <lb/>fol. A 2b : Oratio doctoris Scheurli] de Sacerdotum et rerum sacrarum
+          <lb/>laude habita ad achademiam Vittenber!] gensem in promotione Andree
+          <lb/>sacerdotis Sarmate: die decima!! Februarij Anno millesimo quingentesimo
+          <lb/>undecimo.
+          <lb/>R. 101.429. Prov. : BN Munich, 25/11, 1879; 0.20 M.
+          <lb/>Au-dessous du titre : P. A. 1514. V. S.
+          <lb/>Walter : Sélestat 2208.
+          <lb/>Voir : Graf Wilhelm, Doktor Christoph Scheurl von Nürnberg. Diss.
+          <lb/>Leipzig, 1928, in-80, 156 p., publié dans les Beiträge zur Kulturgeschichte
+          <lb/>des Mittelalters u. der Renaissance. Leipzig-Berlin, B. G. Teubner, 1930,
+          <lb/>in-8°, 159 p.
+          <lb/>Bibliographie. Voir : Schottenloher II, N° 19092-19107. 2082
+          <lb/>SCHILLER Joachim, Judicium de Gargophillis. Voir: BRUN¬
+          <lb/>FELS Otto, Novi Herbarii Tomus II.
+          <lb/>Strasbourg, J. Schott, 1536
+          <lb/>SCHIMPF und Ernst. Voir : PAULI Johannes.
+          <lb/>SCHLEIDANUS Joh. Voir : SLEIDANUS Ioh.
+          <lb/>SCHMIDT Bernhard
+          <lb/>Strasbourg, B. Jobin, 1590
+          <lb/>Eygentliche vnnd ordentli- che Beschreibung, desz
+          <lb/>löblichen Vbungschies-sens, mit groben Stucken oder
+          <lb/>hal- ben Schlangen.So ein Ersamer Wolweiser Rath der
+          <lb/>Statt! Straszburg, dero Unterthanen vnd Burgerschafft, zu
+          <lb/>ner Notvorständigen Wissenschafft vnd Ubung angestellt,
+          <lb/>so den 25.Maij, gegenwärtigen 1590. Jars, sein löblichen
+          <lb/>anfang ge-nommen, glücklich, wol vnd rühmlich vollen¬
+          <lb/>det ist.Derselbigen zu unterthänigen Ehren auch!
+          <lb/>Wolgefallen, in diese Teutsche Rei- men gebracht. Durch
+          <lb/>Bernhard Schmidt den ältern, Or-ganisten vnd Burgern
+          <lb/>daselbst.
+          <lb/>Marque typ. de B. Jobin. (H. &amp;amp; B. Planche XXXVII, n° 5.)
+          <lb/>Getruckt zu Straszburg, bey Bernhard Jobin.Anno
+          <lb/>9XC. (Verso blanc.) A la fin : Vignette (voir repro¬
+          <lb/>duction à la page suivante).
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

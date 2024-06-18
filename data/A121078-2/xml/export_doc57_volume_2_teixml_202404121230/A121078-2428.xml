@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:39.095040+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2428.tif
+IMAGE WIDTH: 2388
+IMAGE HEIGHT: 3826
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>424
+          <lb/>fol. 4a non ch.: Epistola despauteriana... — Ex Berga¬
+          <lb/>rum diui Guinnoci ludo literario Ad ca lendas Octobris.
+          <lb/>M. D. IX.
+          <lb/>R100.054. Prov.: B N Munich, 22/1. 1880;070M.
+          <lb/>Proctor II. Sectio I. N° 10926: Londres, British Museum;
+          <lb/>Schmidt VIII, No 162: BM de Strasbourg. Brunet 115, col. 639.
+          <lb/>633
+          <lb/>DESTILLIRBUCH. Voir: BRUNSCHWIG Hieronymus.
+          <lb/>DICKIUS Leopoldus
+          <lb/>Haguenau, J. Secer, 1530.
+          <lb/>ADVERSVS ! IMPIOS ANABAPTISTA RVM ERRORES, LONGE
+          <lb/>OMNI um pestillentissimos, Leopoldi Dickii LL. Doctoris,
+          <lb/>Sacri Romani Im! perialis Consistorii ab Aduo! cationi¬
+          <lb/>bus, &amp;amp; Procurato! ris, Iuditium. ROMAN. III.! Omnes
+          <lb/>enim peccauerunt, &amp;amp; egent gloria Dei.
+          <lb/>Haganoae apud Iohan. Sec. Anno M. D. XXX. Mense
+          <lb/>Martio. (Verso blanc.)
+          <lb/>In-40, car. rom., 43 ff. non ch., sign. A-L, titre courant, récla¬
+          <lb/>mes, notes marginales, grande et belle initiale à fig. Q.
+          <lb/>fol. A 2a: .. Principi Domino D.! Christophoro, Epis¬
+          <lb/>copo Augustensi, Leopoldus Dickius... (Epistola Nuncupatoria,
+          <lb/>5 p.)
+          <lb/>R 102.051. Prov.: Fried. Cohen, Bonn, 15/XI. 1897; 16 M.
+          <lb/>Oxford, Bibl. Bodleiana, BN Paris, D. 4853(2); Walter, No
+          <lb/>1099: RM Sélestat.
+          <lb/>Bibliographie de Dickius (Dick): Schottenloher I, N° 3740-3743.
+          <lb/>634
+          <lb/>DICTIONARIUM
+          <lb/>Haguenau, H. Gran, 1514.
+          <lb/>Dictionarium: quod Gemma gemmarum vo! cant:
+          <lb/>nuper castigatum In quo nihil eorum: que in prioribus
+          <lb/>excu sa sunt: desiderantur.
+          <lb/>A la fin: ..Impressusque in imperiali oppido Hagenaw
+          <lb/>per in- dustrium Henricum Gran inibi incolam. impensis
+          <lb/>ac sumptibus circumspecti viri...! Joannis Rynman de
+          <lb/>Oringaw... Anno... Millesimo quin gentesimo. xiiij, men¬
+          <lb/>se Nouem bri.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

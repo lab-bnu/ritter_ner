@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:31.104927+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2153.tif
+IMAGE WIDTH: 2298
+IMAGE HEIGHT: 3826
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>149
+          <lb/>Gravure sur bois : l’empereur sur le trône, devant lui des
+          <lb/>plaideurs, au haut, dans le coin à gauche, des instruments de torture.
+          <lb/>(Verso blane.)
+          <lb/>A la fin, au verso de l’avant dernier f.: Getruckt seliglichen
+          <lb/>durch Mathis Hüpff-uff Burger zû Straszburg. Vnd voln¬
+          <lb/>bracht vff Mathie apo-! stoli. Als man zalt von der geburt
+          <lb/>Christi vnsers herren. Tausent, Fünffhundert vnd Sech¬
+          <lb/>zehen Jare. Re- gnante diuo Maximiliano Rhomanorum
+          <lb/>imperatore felicissimo, Augusto inuictis- simo. Anno im¬
+          <lb/>perij eiusdem tricesimo.
+          <lb/>In-fol., car. goth., 8 ff. non ch., CLI ff. ch. et 1 f. non ch., dont
+          <lb/>le verso blanc, titre courant, notes marginales, initiales ornées N.W,A;
+          <lb/>tère ligne du titre en noir, le reste en rouge.
+          <lb/>Après la table, fol. A 8b, gravure sur bois de la grandeur d’une
+          <lb/>page: l’empereur assis sur le trône, à sa droite les électeurs ecclésiasti¬
+          <lb/>ques, à sa gauche, les laïques; devant lui à genoux l’auteur, lui présen¬
+          <lb/>tant son livre; au haut, sur des nuages, le couronnement de la Ste. Vierge.
+          <lb/>fol. 115b, au titre de la seconde partie, l&amp;#x27;empereur ou un juge,
+          <lb/>assis, entouré de plaideurs et d’accusés.
+          <lb/>fol. A 2a non ch.: Vorred disz bûchs. (13 lignes.)
+          <lb/>Au-dessous:... Herrn Johanns Bock Rittern vnnd Petern
+          <lb/>MuszlernBurgern vnd des Rats der Stat Straszburg,...
+          <lb/>wünscht Sebastianus Brant doctor, Cantzler der Statt
+          <lb/>Straszburg heil vnd seligkeit, (20 distiques allemands.) Actum
+          <lb/>zô Straszburg den viertzehenden tag Februarij. Anno
+          <lb/>XVC. XVj.
+          <lb/>Suivent 11 pages d’Index à 2 col.
+          <lb/>fol. A 8a: Sebastianus Brandt. (17 vers allemands.)
+          <lb/>Au recto du dernier f.: Sebastian Brandt beschlusz red
+          <lb/>ex Salustio. (8 vers allemands); au-dessous, Eneas Syluius (8 vers
+          <lb/>allemands).
+          <lb/>*R 10.231. Prov.: K. Th. Völcker, Francfort s. M. (Catal. 68,
+          <lb/>No 956), HI/VI. 1879, 18 M.
+          <lb/>Schmidt V, No° 134; GPB, Berlin SB, Halle U B. Marburg
+          <lb/>UB, Münster UB, Göttingen UB.
+          <lb/>237
+          <lb/>BRANT Sebastian
+          <lb/>Strasbourg, J. Knobloch, 1517.
+          <lb/>Der heiligen leben neüw getruckt. Der hohen! un¬
+          <lb/>teylbarlichen dreyualtigkeit zû lob. Ma-rie der würdigs¬
+          <lb/>ten Junckfrawen vnnd mûtter gottes zû eren, vnd allen
+          <lb/>heili-gen, vnd den Christen menschen zûheil vnd
+          <lb/>seligen vnderweysung. M. D. XVII. (L. Sommerteil.)
+          <lb/>IIe Partie avec un nouveau titre: Der heiligen leben! win¬
+          <lb/>terteil mit sein figuren, legenden exemplen vnd geschich¬
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

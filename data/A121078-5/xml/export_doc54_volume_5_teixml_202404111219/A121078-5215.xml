@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:56.965762+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5215.tif
+IMAGE WIDTH: 2374
+IMAGE HEIGHT: 3864
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>WAELCKL Georg
+          <lb/>Strasbourg, M. Apiarius, 1536
+          <lb/>Die Wälsch pra ctica, gezogen ausz der kunst der
+          <lb/>Proportion, lernt gar grunt- lich vnnd behend Rechnen
+          <lb/>alle kauffmans händel vnd der gleichenfürgab.
+          <lb/>Hie bey seind auch ettliche geselschafften mit söl- cher
+          <lb/>kürtze inn Rechnung der Practic verfasset der! gleichen imm
+          <lb/>Truck nie meer auszgangen.
+          <lb/>Durch Geörgen Wälcklen Bur-gern vnd teutschen Schul-
+          <lb/>meistern zu Straszburg.
+          <lb/>Mit Keyserlicher friheit in dreyen jaren nit nachzu¬
+          <lb/>trucken.Anno M. D. XXXVI.
+          <lb/>À la fin: Getruckt zu Straszburg!] bey Mathia Api!] ario, &amp;amp;c.
+          <lb/>Au verso marque typ. de Math. Apiarius (H. &amp;amp; B.
+          <lb/>Planche XXIV, No 2.)
+          <lb/>In-8°, car. goth., 48 ff. non ch., sign. A-F, réclames.
+          <lb/>Au verso du titre : Einem yeden laser vnd!! Liebhaber der Rechnung
+          <lb/>wünscht Georg Wälckl... glück (] vndn heyl.
+          <lb/>R. 101.108. Prov. : Rosenthal, Munich, 16/VI, 1877; 18 M.
+          <lb/>2444
+          <lb/>WALDIS Christophe. Voir: CARMINA gratulatoria. R. 102.288 (4);
+          <lb/>n° 451.
+          <lb/>WALEYS John. Voir : Johannes GALLENSIS.
+          <lb/>WALTHER Rudolf. Voir: GUALTHERUS Rodolphus.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

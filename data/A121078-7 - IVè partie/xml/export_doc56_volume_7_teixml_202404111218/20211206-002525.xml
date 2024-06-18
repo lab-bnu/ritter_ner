@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:14.542987+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002525.tif
+IMAGE WIDTH: 2490
+IMAGE HEIGHT: 3966
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>WICKRAM, Jörg (Idem). — Strasbourg 1591.
+          <lb/>Hayn, Bibliotheca Germ, erotica, p. 345; Heitz-Ritter, n° 525.
+          <lb/>3512
+          <lb/>WICKRAM, Jörg (Tobias Spiel) : Ein recht schön christlich
+          <lb/>Burger Spiel, Tobias genant.., offentlich gespielt von
+          <lb/>einer ehrlichen Bürgerschafft zu Straszburg. Anno 1562.
+          <lb/>(Strasbourg, Thiébaud Berger) 1562, in-8°.
+          <lb/>Goedeke II2, p. 462, n° 8 b.
+          <lb/>3513
+          <lb/>WICKRAM, Jörg (Tobias-Spiel) : Ein recht schön christlich
+          <lb/>Burgerspiel, Tobias genant... — (Strasbourg, Jacques
+          <lb/>Frölich 1541), in-8°.
+          <lb/>(Éd. 1551. Voir : Ritter, Rép. n° 2458: B N Strasbourgl.
+          <lb/>3514
+          <lb/>WICKRAM, Jörg (Zehen Alter) : Die Zehen alter : nach
+          <lb/>gemeynem lauff der Welt, Mit vil schönen newen
+          <lb/>historien begriffen. Ausz der Bibel gezogen... Und seiend
+          <lb/>dise Zehen alter, von wort zu wort, von innhalt der
+          <lb/>matery, nach anzeygung der figuren von newem gespilt,
+          <lb/>gemert und gebessert worden. Durch ein Ersame Burger¬
+          <lb/>schafft einer löblichen statt Colmar, etc. Im Jar M. D.xxxi.
+          <lb/>— (Strasbourg, Jacques Frölich 1534), in-8°.
+          <lb/>Goedeke II2, p. 459. (Wickram voir aussi : Ritter, Rép.
+          <lb/>nos 2457-2461el.
+          <lb/>3515
+          <lb/>WIDEBRAMUS, Frid. Voir: PSALTERIUM Davidis, n° 3050.
+          <lb/>WIEDERTAUFER. Voir : LIED (ein hübsch neues geistliches),
+          <lb/>n° 2321; MELANCHTHON, n° 2662; ODENBACH, n° 2784.
+          <lb/>WIDMANN, Johannes : Regimen... wie man sich in pestilentzi¬
+          <lb/>schem lufft halten soll. — (Strasbourg, Mathias Schürer,
+          <lb/>septembre 1511), in-40.
+          <lb/>Panzer, Annalen I, 335; Schmidt VIII, n° 57; Weller, Rep.
+          <lb/>659; [éd. Knobloch 1519 : Ritter, Rép. n° 2462).
+          <lb/>3516
+          <lb/>523
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

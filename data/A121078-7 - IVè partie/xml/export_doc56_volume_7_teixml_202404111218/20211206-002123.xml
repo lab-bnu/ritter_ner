@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:04.927610+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002123.tif
+IMAGE WIDTH: 2500
+IMAGE HEIGHT: 4000
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>COCHLAEUS, Johannes (Joh. Vogelsang) : Grammatices
+          <lb/>rudimenta... — (Strasbourg, Jean Knobloch, 5 avril
+          <lb/>1519), in-4°.
+          <lb/>B U Fribourg-en-Br.: D 4123 fm (Communication de M. Rest);
+          <lb/>1401
+          <lb/>Schmidt VII, no 176. BN Paris : Rés. X. 809.
+          <lb/>COCHLAEUS, Joh. (Joh. Vogelsang) : De gratia Sacramen¬
+          <lb/>torum. Liber Unus adversus assertionem Martini Lutheri.
+          <lb/>(Encadrement du titre). — (Strasbourg, Jean Grüninger
+          <lb/>1522), in-40.
+          <lb/>(Bibliothèque Nationale Strasbourg R 101.764 : Ritter,
+          <lb/>Rép. n° 548l.
+          <lb/>1402
+          <lb/>COCHLAEUS, Joh. : Adversus cucullatum Minotuanum Wittem¬
+          <lb/>bergensem... — Strasbourg, Jean Grüninger 1523.
+          <lb/>ranedes
+          <lb/>B U Fribourg-en-Br. : N 6219 (Com. Rest).
+          <lb/>1403
+          <lb/>COCHLAEUS, Joh. Voir: BERNARDUS, St. n° 984; CYPRIANUS,
+          <lb/>Ein heilsamer Tractat no 1476; FISHER, John no 1737;
+          <lb/>LUTHER (Contra Cochlaeum) n° 2483; RITTER, Rép.
+          <lb/>nos 544-553.
+          <lb/>COCHLAEUS, Jodocus : Glos und Comment auff den XIII.
+          <lb/>Artickel vom rechten Mesz halten... — (Strasbourg,
+          <lb/>Jean Grüninger) 1523, in-4°.
+          <lb/>Schmidt I, n° 207; communication de M. Rest : B U Fribourg¬
+          <lb/>1404
+          <lb/>en-Br. — B N Munich.
+          <lb/>COCHLAEUS, Jod. : Glos unnd Comment... uff CLIIII
+          <lb/>Artickeln... von der h. mesz und nüem Testament. —
+          <lb/>(Strasbourg, J. Grüninger (20.IX.) 1523), in-4°.
+          <lb/>Schmidt I, n° 200; Panzer, Annalen II, 216. — Bâle. 1405
+          <lb/>COCHLAEUS, Jod. : Auff Martin Luth... Appellation. —
+          <lb/>(Strasbourg, Jean Grüninger (20.XII] 1525), in-4°.
+          <lb/>Schmidt I, n° 224: BN Munich.
+          <lb/>1406
+          <lb/>121
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

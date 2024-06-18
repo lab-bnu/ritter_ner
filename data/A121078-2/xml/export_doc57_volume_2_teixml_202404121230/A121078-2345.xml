@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:36.745207+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2345.tif
+IMAGE WIDTH: 2328
+IMAGE HEIGHT: 3818
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>CICERO
+          <lb/>Strasbourg, J. Rihel, 1559.
+          <lb/>M. T. CICERONISEpistolarum uO LVMEN PRIMVM,
+          <lb/>quod est librorum sedecim. CVM PRAEFATIONE IOAN. STVR
+          <lb/>mij, ad Erasmum Argentoratensium Episcopum delectum.
+          <lb/>Additus est etiam Index copiosus; &amp;amp; scholia Pauli Manutij.
+          <lb/>Cum gratia &amp;amp; Priuilegio Caesareo adAnnos octo.
+          <lb/>Argentorati, Anno M. D. LIX. (Verso blanc.)
+          <lb/>A la fin, avant les Scholia ARGENTORATI Excudebat Iosias
+          <lb/>Rihelius. Anno! M. D. LIX.
+          <lb/>In-80, car, ital., 8 ff. non ch., 367 ff. ch., 24 ff. non ch., (Index)
+          <lb/>et 40 ff. non ch. pour les Scholia de Manutius, titre courant, réclames,
+          <lb/>initiale ornée E, le reste initiales d’attente.
+          <lb/>fol. a 2a: Préface de Jean Sturm à Erasme (8 p.).
+          <lb/>fol. a 7b: Franciscus Pe- trarcha. M. T. Ciceroni S...
+          <lb/>M. CCCXL, (2 p.)
+          <lb/>R101.650. Prov.: Ed. Zahn, Hirsau, 9/1x. 1886; 4M.
+          <lb/>Notes mss. à l’intérieur du 1er plat. Au recto du f. de garde:
+          <lb/>&amp;quot;Iohann Friderich Bühler. Al. Blavis, 1701.»
+          <lb/>GPB: BN Berlin, BU Breslau, Kœnigsberg, Halle.
+          <lb/>517
+          <lb/>341
+          <lb/>CICERO
+          <lb/>Strasbourg, Chr. Mylius, 1560.
+          <lb/>M. T. CICE- RONIS EPI- stolarum libri tres, à! Ioanne
+          <lb/>Sturmio pue- rili educationi confecti. VALENTINI ERY¬
+          <lb/>THRAEI Lindauiensis axoonustó- cetς τexvoλoγtxαὲ in! eos¬
+          <lb/>dem. Accessit liber quartus ab eodem Erythraeo expli¬
+          <lb/>catus. Est &amp;amp; quintus additus, cum annotatio- nibus Phi¬
+          <lb/>lippi Melanchthonis, Christopho-ri Hegendorphini, &amp;amp; Seba¬
+          <lb/>stiani Corradi. OMNIA HAEC SVNT RECOGNITA, emendata,
+          <lb/>&amp;amp; alicubi locupletata. AD FINEM EXEMPLVM POSITVM est
+          <lb/>analyseos verborum. (Verso blanc.)
+          <lb/>A la fin: ARGENTINAE EXCVDE- bat Christianus Mylius.
+          <lb/>M. D. LX. (Verso blanc.)
+          <lb/>In-80, car. ital., grecs et rom., 16 ff. non ch., — 513 p. ch., (p. 6
+          <lb/>est numérotée 21), — 31 ff. non ch. (Exemplum analysis), titre courant,
+          <lb/>réclames, notes marginales, initiale à fig. E et initiales ornées M, A
+          <lb/>fol. a 24: VALENTINVS Erythraeus Vuolfgan¬Kœd¬
+          <lb/>nit, adolescenti nobilitate, ac uirtu-te praestanti, S.P.D...
+          <lb/>— Argentinae VII. Idus Augusti, Anno.1560.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

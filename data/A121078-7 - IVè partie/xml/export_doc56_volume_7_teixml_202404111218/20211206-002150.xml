@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:05.406244+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002150.tif
+IMAGE WIDTH: 2512
+IMAGE HEIGHT: 3952
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>ELEMENTALE Introductorium. Voir : INTRODUCTORIUM
+          <lb/>Elementale.
+          <lb/>ELENCHUS : Consulum Romanorum Elenchus. Cum privilegio
+          <lb/>Caesareo. — Strasbourg, Wolfgang Cephaleus (Köpfell,
+          <lb/>1534, in-40.
+          <lb/>Eggimann, Catal. La Licorne, Bulletin no 10 (1937), n° 1732 :
+          <lb/>« première éd. de cet opuscule dont la typographie est très
+          <lb/>remarquable».
+          <lb/>1539
+          <lb/>ELEUTHERIUS, Aug. Pseudonyme de Sebastian FRANCK.
+          <lb/>ELIMATHAR Elluchasem : Tacuinus Sanitatis. Sex Rerum non
+          <lb/>naturalium, cum earum naturis, operationibus &amp;amp; recti¬
+          <lb/>ficationibus. Tacuini Aegritudinum &amp;amp; Morborum ferme
+          <lb/>omnium corporis humani : cum curis eorundem. Albenc¬
+          <lb/>nefit De virtutibus Ciborum et Medicorum. Jac. Alkindus.
+          <lb/>De rerum Gradibus... — Strasbourg, Jean Schott 1533,
+          <lb/>in-fol.
+          <lb/>Panzer 6, 112; Scott, (Schmidt II, Suppl.) p. 16, n° 21.–
+          <lb/>BN Vienne. [Ritter, Rép. n° 678 ; éd. Schott 1531 et n° 679
+          <lb/>éd. allemande 1533l.
+          <lb/>1540
+          <lb/>ELLOPOSCLEROS, Hultrich. Voir : FISCHART nOS 1713,
+          <lb/>1724a.
+          <lb/>ELUCIDARIUS Carminum. Voir : TORRENTINUS, Herm.
+          <lb/>n° 3350.
+          <lb/>EMSER, Hieronymus : Opuscula... — Strasbourg, Jean
+          <lb/>Knobloch 27.IV.1516, in-40.
+          <lb/>Panzer 6, 77, 422; Schmidt VII, n° 112.
+          <lb/>1541
+          <lb/>EMSER, Hier. Voir aussi: LUTHER (An Bock Emser) n° 2487;
+          <lb/>RITTER, Rép, n° 684.
+          <lb/>ENCHIRIDION : Enchiridion poeticum... — Strasbourg,
+          <lb/>Jean Schott, 17.VII.1514, in-40.
+          <lb/>Schmidt II, n° 28. (Ritter, Rép. n° 685 ; éd. J. Schott 1513l.
+          <lb/>1542
+          <lb/>148
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

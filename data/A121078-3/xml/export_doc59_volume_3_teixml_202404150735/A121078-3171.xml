@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:07.522289+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3171.tif
+IMAGE WIDTH: 2318
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Bl. 8b-15b: PRAEFATIO. ( VLRICVS BOLLINGERVS Lec¬
+          <lb/>tori... — E Scholâ illustri Bebenhusanâ Wir- tembergicâ
+          <lb/>Anno post natum! Christum 1599. (Vign.) (15 S.)
+          <lb/>Bl. 16a-18b: Brief Georg Pflügers an Martin Aichmann vom
+          <lb/>19. Juni 1599 aus Strassburg und ein Epigramm von Joh. Ulrich Schad
+          <lb/>(10 lat. Verse).
+          <lb/>R100.961. Prov.: Bibl. Ed. Reuss, Strassburg 1891. Auf dem
+          <lb/>Titelbl.: M. Johann Conrad Rieger; auf der Rüeks, des Schutzbl.: Auto¬
+          <lb/>graph von Ed. Reuss, daneben:,Ex libris C. W. Justi 1850. 25c.°
+          <lb/>2. Ex. R100.9621. Prov.: Bibl. Böcking. Handschr. Notie auf
+          <lb/>der Rücks, des Schutabl.: XTqRa Joh. Hildebrandi Withofii Anno 1745.
+          <lb/>18 Iunii. Symbolum : Mundus regitur opinionibus.
+          <lb/>3. Ex. R100.9542. Herkunft unbekannt.
+          <lb/>GK: SB Berlin, UB Breslau, Göttingen, Greifswald, Königsberg,
+          <lb/>Marburg. BN Paris Yc. 9000; Oxford, Bibl. Bodleiana.
+          <lb/>924
+          <lb/>FRONTINUS Sextus Iulius; De aquaeductibus urbis Romae.
+          <lb/>In: VITRUVIUS: De architectura. Strassburg, G. Messerschmidt
+          <lb/>1543.
+          <lb/>FRONTINUS Sextus Iulius : De aquaeductibus urbis Romae.
+          <lb/>In: VITRUVIUS: De architectura libri X. Strassburg, G. Messer¬
+          <lb/>schmidt 1550.
+          <lb/>613
+          <lb/>FROSCH Johann
+          <lb/>Strassburg, P. Schaeffer 1535
+          <lb/>RERVM MVSICARVM OPVSCVLVM RARVMACIN-signe,
+          <lb/>totius eius negotii rationem mira in- dustria &amp;amp; breuitate
+          <lb/>complectens, iam recens publicatum. IOAN. FROSCHIO,
+          <lb/>Autore.
+          <lb/>Darunter: Druckerm. Schäffers. (HÆB Tafel XXIII Nr. 1.)
+          <lb/>Am Schluss: ARGENTORATI APVD PETRVM Schoeffer &amp;amp;
+          <lb/>Matthiam Apiarium. Anno Salutis. — M. D. XXXV.
+          <lb/>20, Antig., 34 unn. Bll., wovon das letste leer, Sign. A-F, Kopft.,
+          <lb/>Kust., Marg.; zwischen Bl. Cu. D ein grosses, gefaltetes Bl.: Hemi¬
+          <lb/>cycliorum literae perfectas, figurae vero consonantias imperfectas certo
+          <lb/>representant numero.... Veterum chordarum ordo. Bl. D u. E bis Fy
+          <lb/>Musiknoten.
+          <lb/>Bl. 2a: 5 lat. Dist. von Melchior Germanus in musicales minutias
+          <lb/>Ioannis Froschii u. 3 Dist. von Frosch. (Rücks, leer.)
+          <lb/>Bl. 3: Widmung: Domino Georgio Comiti in Wirttemberga...
+          <lb/>Argentorati, Idibus Septembris, Anno Domini M. D. XXXII.
+          <lb/>R10.003. Prov.: Albert Cohn, Berlin 19. III. 1890; 135 M.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:36.476255+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2339.tif
+IMAGE WIDTH: 2316
+IMAGE HEIGHT: 3816
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>335
+          <lb/>Academicae quaestiones. Editionis primae liber quar¬
+          <lb/>tus, qui Lucullus inscribitur.Editionis secundae liber
+          <lb/>primus. De finibus bonorum &amp;amp; malorum. Tusculanae
+          <lb/>quaestiones. Indice rerum uerborumque insignio- rum
+          <lb/>adiecto.
+          <lb/>Marque typ. de Wendelin Rihel, (HEB. Planche XXIX, No 3,
+          <lb/>Silvestre. No 740.)
+          <lb/>Au-dessous: Cum gratia &amp;amp; priuilegio Caesareo! ad sep¬
+          <lb/>tennium. (Verso blanc.)
+          <lb/>A la fin: Impressum Argentorati, apud Wendelinum
+          <lb/>Rihelium. An- no. M. D. XLIX
+          <lb/>In-8°, car. ital, 8 ff. non ch., 251 ff. ch, 37 ff. non ch. (Index),
+          <lb/>titre courant, réclames, initiale ornée H, le reste initiales d’attente.
+          <lb/>fol. a 2a: AD SEVERINVM BO NERVM IOAN. STVRMII
+          <lb/>praefatio... — Argentorati Calend. Martij.
+          <lb/>fol. a 3a: FRANCISCVS ASVLANVS LECTORI. (12 p.)
+          <lb/>(Vol. II.): M. T. CICERONIS PHILOSOPHICORVM VOLVMEN!
+          <lb/>secundum. Post postremam Naugerianam &amp;amp; Victorianam.
+          <lb/>correctionem. EMENDATVM A IOAN. STURMIO.
+          <lb/>De Natura deorum. De Diuinatione. De Fato.De
+          <lb/>Somnio Scipionis.De Legibus. De Uniuersitate. De Pe¬
+          <lb/>titione Consulatus. Cum Indice locupletissimo.
+          <lb/>Marque typ. de Wendelin Rihel, (H dt B. Planche XXIX, No 3;
+          <lb/>Silvestre, N° 740.)
+          <lb/>Au-dessous: Cum gratia &amp;amp; Priuilegio Caesario ad sep¬
+          <lb/>tennium. (Verso blanc.)
+          <lb/>In-8), car ital., 9 ff. non ch., dont les 3 derniers blancs, 213 ff.
+          <lb/>ch., numérotés de 2 à 214, 14 f. non ch. (Index); titre courant, récla¬
+          <lb/>mes, initiale ornée D, le reste initiales d’attente.
+          <lb/>fol. a 2a: IOAN. STVRMII AD IOAN. BONERVM SEVERI¬
+          <lb/>ni filium praefatio.. — Argentorati! Octauo Cal. Apriles.
+          <lb/>Anno M. D. XLI.
+          <lb/>R101686. Prov.: Don de Hugo Barbeck, antiquaire à Nurem¬
+          <lb/>berg, 1871; Notes mss. Rel. anc.
+          <lb/>GPB: BN Berlin; 1er vol. seul: BU Breslau, Munster. 510
+          <lb/>CICERO
+          <lb/>Strasbourg, W. Rihel, 1550.
+          <lb/>M. T. CICERONIS ORATIONVM VOLVMINA TRIA.] Post
+          <lb/>postremam Naugerianam, &amp;amp; Victo- rianam correctionem
+          <lb/>EMENDATA A lOAN. STVRMIO.] Omnia &amp;amp; paginarum, &amp;amp; uer¬
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

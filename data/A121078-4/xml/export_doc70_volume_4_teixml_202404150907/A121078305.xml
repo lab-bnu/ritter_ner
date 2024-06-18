@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:51.632776+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078305.tif
+IMAGE WIDTH: 2316
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>in Rebdorff Ordinis! Canonicorum Regularium. Jacobo Vuimphelingio...
+          <lb/>Au recto du dernier f. non ch.: Deditus frater Kylianus Leib, Prior
+          <lb/>Ex Rebdorff Anno XVIII. Quinta Junii.
+          <lb/>tations mss. au recto du titre et à la fin.
+          <lb/>R101.034. Prov.: Rosenthal, Munich 25/VI 1885; 10 M. Anno¬
+          <lb/>Schmidt VIII n° 235.
+          <lb/>1863
+          <lb/>PHILOMUSUS. Voir: LOCHER Jacobus
+          <lb/>PHILOMUSUS anonymus. Voir: PEGIUS Martinus
+          <lb/>PHILOSTRATUS Flavius
+          <lb/>Strasbourg, M. Schurer 1516
+          <lb/>FLAVII PHILO-(strati de Vitis Sophistarum Libri duo,
+          <lb/>Antonio Bomfino in- terprete.,CVM GRATIA ET PRI¬
+          <lb/>vilegio Imperiali, ad sex-ennium. (Verso blanc.)
+          <lb/>A la fin: Ex AEDIBVS SCHVRERIANISMense Martio.
+          <lb/>Anno a restitu- ta salute. M. D. XVI.
+          <lb/>In-8°, car, rom., 4 ff. non ch., LVI ff. ch., sign. A-E, titre cou¬
+          <lb/>rant, init. ornées P, D; titre encadré.
+          <lb/>Fol. 2a non ch. : Nicolaus Gerbelius!... Ioanni Ru-! dolphingio.
+          <lb/>S.... Fol. 3b non ch.: Gerbelius Lectori. (édité par Gerbelius.) Fol.
+          <lb/>IVa non ch.: Sophistarum Nomina (au nombre de 59).
+          <lb/>Au verso du dernier f, marque typ. de M. Schurer. (HEB
+          <lb/>planche XIII n° 5; Silvestre n° 692.)
+          <lb/>*R100.045. Prov, inconnue.
+          <lb/>Proctor II Sectio I n° 10234: Londres, Brit. Museum; BN Paris
+          <lb/>Rés. R. 1499; Schmidt VIII n° 183: BM de Sélestat; Walter: Sélestat
+          <lb/>n° 2027.
+          <lb/>Bœr, Francfort-s.-M., Catal. 500 (1907) n° 1145; 20 M. 1864
+          <lb/>PHLEGON TRALLIANUS : De rebus miris, deque longaevis
+          <lb/>libellus. Voir: ANTONINUS : De vita sua Lib. XIl. Stras¬
+          <lb/>bourg, L. Zetzner 1599. N0 69.
+          <lb/>PHOCYLIDES. Voir: PYTHAGORAS ET PHOCYLIDES: Poemata.
+          <lb/>Strasbourg, Cr. Mylius 1539.
+          <lb/>PHRIES Laurentius. Voir: FRIES Laurentius
+          <lb/>1191
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

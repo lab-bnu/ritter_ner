@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:08.581389+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3209.tif
+IMAGE WIDTH: 2322
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>20, Got., 2sp., CXII num. Bll. (Bl. VII u. VIII irrtümlich 2mal,
+          <lb/>so dass der Druck 114 Bll. aufweist), Kopft., Init,, 42 Holeschn,, von
+          <lb/>denen 14 in Blattgrösse; die meisten sind früheren Werken entlehnt,
+          <lb/>8 stammen aus der Passion der vier Evangelisten (1509), 22 aus dem
+          <lb/>Hortulus animae; nur wenige sind neu.
+          <lb/>Auf der Rücks, des Titelbl.: Druckprivileg auf 3 Jahre:... Ac¬
+          <lb/>tum montags nach martini Episcopi. Anno domini im
+          <lb/>XVC. vnd xiii jar.
+          <lb/>Bl. A4a: Vorred.... herren Christophern von Reinecken
+          <lb/>etc. Thûmeustor der heiligen stifft Trier... Johannes Adel¬
+          <lb/>phus Phisicus.... Geben z0̂! Straszburg vff sant Michels
+          <lb/>tag des heiligen engels. Anno domini. Fünfftze-hen¬
+          <lb/>hundert vnd dreizehen.
+          <lb/>Bl. Cxb: Beschlusz dis buchs! Conclusio Adelffi.
+          <lb/>Bl. CXIIa: Ein kurtz gedicht zu lob vnd ere disz
+          <lb/>bûchs vnd des Doctors T. M. J. (12 Verse, darunter ein 2. Ge¬
+          <lb/>dicht mit 18 Versen.)
+          <lb/>R 10.118. Prov.: Bull (Auktion Noiriel), Strassburg 17. IV. 1874,
+          <lb/>ohne Preisangabe. Handschr. Notizen. Auf dem letzten Bl.: Dis Buch ist
+          <lb/>in der Bücher.... (ein Wort unleserlich) aufgehoben worden im Jahre
+          <lb/>1787 Von Thomas Hueber Schmidt von Frauendorf. Hernach von der
+          <lb/>Hinter &amp;amp; Kirchnerischen Familia von demselben erkauft um 30 x.
+          <lb/>Dacheux S. CXXIX mit Beschreibung der Holeschn.; GE: SB
+          <lb/>Berlin, UB Göttingen; Kristeller 97; Schmidt I Nr. 141: Basel. Baer,
+          <lb/>Frankfurt a. M., Katal, 500 (1907) Nr. 867; 180 M.:43 Holeschn.,
+          <lb/>darunter 36 verschiedene, 14 davon blattgross.“ Olschki, Florenz, Katal.
+          <lb/>LXXX (1912) Nr. 273: 1000 frs.
+          <lb/>968
+          <lb/>653
+          <lb/>GEILER Johannes
+          <lb/>Strassburg, Joh. Grüninger 1514
+          <lb/>Sermones prestan tissimi sacrarum litterarum doc¬
+          <lb/>toris Johannis Geileri keyserspergij Concionatoris Argen¬
+          <lb/>tinensis fructuosissimi de tempore et de sanctis acco¬
+          <lb/>modandi.
+          <lb/>De arbore Humana. De xii. Excellentiis arboris Cru¬
+          <lb/>cifixi. De (!) xij. fructibus spiritus sancti. De xiij. Condi¬
+          <lb/>tionibus mortis subtypo maioris villani arborum cesaris:
+          <lb/>dorfmeier, holtzmeier. De morte Virtuali siue gratie.! De
+          <lb/>xxiij. obsequiis mortuis impenden dis que in sermonibus
+          <lb/>de morte virtuali annectuntur.
+          <lb/>Am Schluss: Sermones... quos Joannes Grüninger vir
+          <lb/>circumspectus ac prouidus. Argentine im- pressit. Anno.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

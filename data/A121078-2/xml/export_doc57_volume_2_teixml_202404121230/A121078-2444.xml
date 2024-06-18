@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:39.517664+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2444.tif
+IMAGE WIDTH: 2400
+IMAGE HEIGHT: 3820
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>440
+          <lb/>DISCIPULUS. Voir: HEROLT Johannes.
+          <lb/>DISDORPIUS Mauritius
+          <lb/>Strasbourg, A. Bertram, 1588
+          <lb/>CARMEN DE AVSPICATA FOEDERIS VETUSTI, INTER
+          <lb/>TRES PRINCIPES AC POTENTISSIMAS CIVITATES, TIGVRINAM,
+          <lb/>BERNENSEM, ET ARGENTINENSEM, renouatione, facta IIl.
+          <lb/>Idus Maias, Anno Domini CID ID. XIIC.
+          <lb/>AD EARUNDEM CIVITATVM INCLY TISSIMI SENATORII
+          <lb/>ORDINIS VIROS Illustres, Nobiles, &amp;amp; Magnificos, Dominos
+          <lb/>suos clementissimos.Ominis fausti &amp;amp; obseruantiae ergo
+          <lb/>Scriptum a MAURITIO DISDORPIO HOLSATO. (Vignette).
+          <lb/>ARGENTORATI Excudebat Antonius Bertramus. (Verso
+          <lb/>blanc.)
+          <lb/>In-4°, car. ital., 8 ff. non ch., sign. A-B — 3 ff. doubles pliés,
+          <lb/>réclames, initiale ornée F.
+          <lb/>Au 1er f. double à la fin: Verzeichnus des Inzugs der löblichen
+          <lb/>Eydgnosz-schafft zu Straszburg, den 11. Maij, Anno 88.
+          <lb/>Au 2me f. double: Glück vnd Heylwünschung Zur Christ¬
+          <lb/>lichen... verei! nigung! vnd Bunds Ernewerung, Der dreyen
+          <lb/>Weit vnd Hochberümpten Stätt, Zürich, Bern, vnd Strasz¬
+          <lb/>burg im Maio disz 88. Jars beschehen... En bas: Getruckt
+          <lb/>zu Straszburg, durch Antonium Bertram. (Vers allemands,
+          <lb/>3 col., Verso blanc.)
+          <lb/>Au 3me f. double: AD INCLYTVM ARGENTORATVM DE RENO¬
+          <lb/>VATIONE VETVSTI FOEDERIS, cum Illustrissimis ac poten¬
+          <lb/>tissimis Ciuitatibus Heluetiorum TIGVRO &amp;amp; BERNA, Facta
+          <lb/>13. Maij AnnoDomini 1588.... En bas: Ominis boni &amp;amp;
+          <lb/>obseruantiae ergo. F. F. (Vers latins à deux col.)
+          <lb/>R102.246. Provenance inconnue.
+          <lb/>660
+          <lb/>DISTICHA Catonis. Voir: CATO.
+          <lb/>DISTILLIERBUCH. Voir: BRUNSCHWIG Hier.
+          <lb/>DOCANDER Friedr. Voir: N° 455.
+          <lb/>DOLET Etienne
+          <lb/>Strasbourg, J. Rihel, 1576
+          <lb/>PHRASES ] FORMVLAE] LINGVAE LATINAE ELEGANTIO¬
+          <lb/>RES, I STEPHANO DOLETO AUTORE. Nunc denuo recognitae.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:13.143896+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3392.tif
+IMAGE WIDTH: 2398
+IMAGE HEIGHT: 3856
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>834
+          <lb/>Bl. 2a: Scriptores hymnorum; auf der Rücks.: HYMNORVM
+          <lb/>ANNOTATIO ALPHABETICA. (5 S.)
+          <lb/>4 M. 50.
+          <lb/>*R101.971. Prov. : Butsch, Antiquar, Augsburg 12. VI. 1883;
+          <lb/>Schmidt VII Nr. 174: SB München.
+          <lb/>1240
+          <lb/>HYPERIUS Andreas Gheerards
+          <lb/>Mülhausen, P. Schmid 1562
+          <lb/>Ein trewer vnd Christlicher Rath. Wie man die
+          <lb/>Heilige Schrifft teglich lesen vnd betrachten soll, allen
+          <lb/>Stenden der Christen men- schen sehr notwendig, Zwey
+          <lb/>Bücher.
+          <lb/>Erstlich in Latein beschrieben, von! dem Hochgelehrten
+          <lb/>vnnd Ehrwirdigen Herrn Andrea Hyperio, der heiligen
+          <lb/>SchrifftDoctor zu Marpurgk, etc. Vnnd yetzvndt ver¬
+          <lb/>deutscht von! Georgio Nigrino.
+          <lb/>Gedruckt zû Mülhau-sen im oberen Elsasz, durch
+          <lb/>Peter Schmid.! Anno. M. D. LXII.
+          <lb/>Auf der Rücks, des letzten Bl. Druckerm. Schmids. (HRB Tafel
+          <lb/>LXXV Nr. 1; Silvestre Nr. 1183.)
+          <lb/>40, Got., 1. Teil: 18 unn. LXXXIV num. Bll.; 2. Teul; XL
+          <lb/>num. Bll., 1 unn. Bl., Kopft. Kust., Marg., Titel rot u. schwvarz.
+          <lb/>Bl. A 2a: Dem Edlen:Ludwigen von Beyneburg
+          <lb/>dem Jüngern... Datum Homburg auff der Ohm, den zehen¬
+          <lb/>den tag! Augusti, Anno M. D. LXII. Georg Nigrinus. (Vor¬
+          <lb/>rede, 7 S.)
+          <lb/>Bl. B 1a: ... Herrn Ludowigen Hertzog in Beyern...
+          <lb/>Andreas Hype- rius... Idibus Martij, M. D. LXII. (Vor¬
+          <lb/>rede, 27 S.
+          <lb/>Bl. XL (2. Teil): Nun folgen etliche Teutsche Carmi-na
+          <lb/>oder Verse, von etlichen Sten-den... (3 S.)
+          <lb/>R 100.586. Prov.: Rosenthal, München 24. IV. 1889, 24 M.
+          <lb/>Bibl. With. Strassburg.
+          <lb/>Bibliographie: Schottenloher I Nr. 9311-9317.
+          <lb/>1241
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

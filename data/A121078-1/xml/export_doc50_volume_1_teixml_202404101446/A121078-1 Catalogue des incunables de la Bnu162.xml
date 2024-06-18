@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:39.797311+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu162.tif
+IMAGE WIDTH: 2454
+IMAGE HEIGHT: 3844
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>ADDITIONS ET CORRECTIONS
+          <lb/>N° 43; Rel. anc. Notes mss. Au haut du titre; «Monasterij S.
+          <lb/>Zenonis» (Reichenhall). A la fin du volume, en rouge,
+          <lb/>de la main du rubricateur: «Summa est 1473° rubricata
+          <lb/>per v. S.» A l’intérieur du 1er plat, placard de 42 lignes,
+          <lb/>imprimé par Mentelin, dans lequel Mentelin recommande
+          <lb/>le livre à ses clients: «Commendatio hujus famosae Sum¬
+          <lb/>mae. Volentes legere summam vere amabilem...» Schor¬
+          <lb/>bach: Mentelin N° 11b.
+          <lb/>N° 114: Lire Sebastianus au lieu de Sebastinus Brant.
+          <lb/>N° 134; Lire La Haye au lieu de Hague.
+          <lb/>N° 139: Rayez Schorbach: Mentelin N° 33.
+          <lb/>N° 150: GW 9102; vers 1470.
+          <lb/>N° 151; GW 9117; vers 1479. Proctor 361.
+          <lb/>N° 152; Gw 9114; pas après 1478.
+          <lb/>N° 153; GW 9118; pas après 1479. Proctor 362, Voulliéme: Ber¬
+          <lb/>lin 2202, 2.
+          <lb/>N° 154: GW 9126.
+          <lb/>N° 155: GW 9131: Voulliéme: Berlin 2341, 3.
+          <lb/>N° 156; GW 9132.
+          <lb/>N° 157: GW 9135.
+          <lb/>N° 158; GW 9137.
+          <lb/>N° 159; GW 9148: G. Husner et J. Beckenhub.
+          <lb/>NB. Le directeur de la B. U. de Fribourg en Br., M. Rest, auquel
+          <lb/>je tiens à exprimer ici mes remerciements, a eu l’obligeance de
+          <lb/>me signaler ces numéros du 7e volume du GW qui paraîtra pro¬
+          <lb/>chainement.
+          <lb/>132
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

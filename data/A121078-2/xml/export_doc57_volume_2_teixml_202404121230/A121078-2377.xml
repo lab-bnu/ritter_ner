@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:37.610745+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2377.tif
+IMAGE WIDTH: 2370
+IMAGE HEIGHT: 3816
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>373
+          <lb/>A la fin: ARGENTORATI APVD IOANNEM] ALBERTVM, MENSE
+          <lb/>SEPT. ANNO, M. D. XXXVI.
+          <lb/>In-80, car. ital., 115 ff. non ch., sign. A-O - 1 ff. blanc avec la
+          <lb/>marque typ. de J. Albrecht au recto (H8B, Planche XXV, No 2;
+          <lb/>Silvestre, No 1116.) Titre courant, réclames au verso des ff, initiale à
+          <lb/>fig. P au commencement du prologue comme dans les éditions de 1533
+          <lb/>et 1534, mais une nouvelle à la fin fol. 115b: O comme dans l’édition de
+          <lb/>1535; titre encadré, de nombreuses gravures comme dans les autres édi¬
+          <lb/>tions.
+          <lb/>RI01538. Prov.: Rosenthal, Munich, 22/X1. 1893, 5M.
+          <lb/>Au verso du f. de garde Prof. Schorbach a inscrit au crayon:
+          <lb/>,Titel und Schutzblatt sind ergänzt&amp;quot;, il en est de même du dernier f.
+          <lb/>avec la marque typographique.
+          <lb/>GPB: BU Kœnigsberg.
+          <lb/>557
+          <lb/>COCLES Bartholomaeus
+          <lb/>Strasbourg, G. Messerschmidt, 1555.
+          <lb/>BARPTO- LOMAEI COCLITIS Bo-] noniensis, naturalis
+          <lb/>Phi- losophiae ac Medicinae Do- ctoris, Physiognomiae
+          <lb/>&amp;amp; Chiromantiae Compendi um.
+          <lb/>ARGENTORATI ANNO M. D. LV. (Verso blanc.)
+          <lb/>A la fin: ARGENTORATI APVD( Greorgium (!) Machaero¬
+          <lb/>poeum,! Anno. LV.
+          <lb/>In-80, car, rom., 115 ff. non ch., sign. A-O., titre courant, récla¬
+          <lb/>mes au verso des ff., initiale ornée P au commencement du Prologue, elle
+          <lb/>diffère de celle des autres éditions; puis O comme dans l’édition de 1536;
+          <lb/>de nombreuses gravures comme dans les anciennes éditions; titre encadré
+          <lb/>comme le Nò précédent.
+          <lb/>R101.537. Prov.: Antiquaire Bensheimer, Strasbourg, 27/IV. 1878;
+          <lb/>8M.
+          <lb/>BN Paris: V. 21863; GPB: BU Breslau.
+          <lb/>558
+          <lb/>CODRUS Antonius. Voir: URcEUS Antonius Codrus.
+          <lb/>COLER Christophorus
+          <lb/>Strasbourg, A. Bertram, 1595.
+          <lb/>SENTENTIAE ( EX VTROQVE ] IVRE DENVO COL- ( lectae,
+          <lb/>&amp;amp; in ordinem Alphabeti adfabrè dispositae à! CHRISTO¬
+          <lb/>PHORO COLERO Fr. Opus, ad disputationes praecipue, Iuris
+          <lb/>studiosis optatissimum &amp;amp; aptissimum. (Vignette).
+          <lb/>ARGENTORATI! excudebat Antonius Bertramus, Anno
+          <lb/>M. D. XCV. (Verso blanc.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

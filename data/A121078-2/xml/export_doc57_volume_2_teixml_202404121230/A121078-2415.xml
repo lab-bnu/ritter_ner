@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:38.698708+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2415.tif
+IMAGE WIDTH: 2384
+IMAGE HEIGHT: 3822
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Statt Schaffhausen, seinen insbesonders groszgünstigen
+          <lb/>Herren 8c... — Datum den 20 tag Feb. 1578. Straszburg.
+          <lb/>E. DienstwilligerCunradus Dasypodius Mathematicus.
+          <lb/>(Vignette.) Préface de 11 p.
+          <lb/>R102 280. Provenance inconnue.
+          <lb/>Ont été ajoutés 30 ff. blancs, dont les 5 premiers contiennent en
+          <lb/>manuscrit: Der Kampff des Roraffen vnder der Orgeln im Münster(zu
+          <lb/>Straszburg mit dem Hanen vor 200 Jharen beschriben daselbst, auff
+          <lb/>dem Uhrwerck. Poésie allemande, copie de l’édition 1580 du n° suivant,
+          <lb/>175 vers. A la fin: Gedruckt zu Straszburg! bey Niclausz Wyriot 1580.
+          <lb/>Annotation mss. au recto du f. de garde: «A la fin de: Carmen de
+          <lb/>Astronomico Horologio Argentinensi scriptum a M. Nic. Fritschlino. Eleg.
+          <lb/>1575, se trouve une description de cette horloge par Guilielmus Xylan¬
+          <lb/>drus (?) et Conrade Dasypodie. Au-dessous extrait d’un catalogue impri¬
+          <lb/>mé: Dasypodii wahrhafftige Auslegung und Beschreybung des astronomi¬
+          <lb/>schen Uhrwerks zu Strassburg. Strasb. 1580. 1 vol. in-4° av. fig parch.
+          <lb/>Volume très-rare; à la fin se trouve: Der Kampff des Roraffen etc.»
+          <lb/>Une gravure de l’horloge a été collée à l&amp;#x27;intérieur du Ier plat.
+          <lb/>611
+          <lb/>GPB: BN Berlin, BU Breslau, Kœnigsberg.
+          <lb/>411
+          <lb/>Strasbourg, N. Wyriot, 1580.
+          <lb/>DASYPODIUS Conradus
+          <lb/>CVNRADI DYSYPODIIWarhafftige Auszle-gung vnd
+          <lb/>Beschreybung des Astro-nomischen Uhrwercks zu Strasz¬
+          <lb/>burg, wel- ches er Anfänglichs Erfunden vnnd angeben
+          <lb/>hat. Auch Ein Altes Lied vom (!) dem Kampff vnd streyt,
+          <lb/>so entstanden, Zwischen dem RORAFFEN (welcher vnder
+          <lb/>der Orglen im Münster zu Straszburg ist) und dem HANEN,
+          <lb/>so auff der AltenUhren war, vor 200. Jharen Gedicht.
+          <lb/>Gravure sur bois: Horloge de la cathédrale de Strasbourg. (Verso
+          <lb/>blanc.)
+          <lb/>A la fin: Gedruckt zu Straszburg bey Niclausz Wyriot
+          <lb/>1580. (Cul de lampe.) Verso blanc.
+          <lb/>In-40, car. goth., 10 ff. non ch., 63 p. ch, titre courant, réclames,
+          <lb/>initiales goth,, titre rouge et noir, encadré de 4 pièces d’ornement.
+          <lb/>fol. a 2a:... Herren Doctor JohannCunrad Meyer
+          <lb/>Burgenmeister, Juncker Johann im Thurn, M. Cunrad
+          <lb/>Vlmer, Henrich Ramsaw, Doctor Cosma Holtzacher, vnd
+          <lb/>Doctor Benedict Burgawer, Herrn Scholarchis der Statt
+          <lb/>Schaff-hausen, seinen Jnsonders groszgün- stigen Herren...
+          <lb/>— Datum den 11. tag Maij, 1580. Straszburg. Cunradus
+          <lb/>Dasypodius Mathematicus. (Préface de 17 p.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

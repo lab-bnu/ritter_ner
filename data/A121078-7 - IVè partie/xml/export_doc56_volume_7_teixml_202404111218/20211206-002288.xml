@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:09.234713+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002288.tif
+IMAGE WIDTH: 2474
+IMAGE HEIGHT: 4010
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>KRAFFT, Ulrich : Das ist der geistlich Streit... — (Strasbourg,
+          <lb/>Jean Knobloch pour Joh. Haselperg] 1517, in-4°.
+          <lb/>Schmidt IV, p. 27, n° 2 (manque à la B N de Strasbourg
+          <lb/>depuis 1918). Kuczynski 1210; Art ancien, Catal. 46 n° 53:
+          <lb/>145 frs. suisses; Schmidt attribue l’impression à Conrad
+          <lb/>Kerner.
+          <lb/>2253
+          <lb/>KRANTZ, Albert : Hystoria von den alten Hussen zu Behemen
+          <lb/>in Keiser Sigismunds Zeiten... — (Strasbourg (?)), 1523,
+          <lb/>in-40.
+          <lb/>Graesse IV, p. 47.
+          <lb/>2254
+          <lb/>KRANTZ, Albert. Voir aussi : HISTORY Hertzog Heinrichs,
+          <lb/>genant Lewen n° 2033; MISsale Hamburgense n° 2698;
+          <lb/>(RITTER, Rép, nos 1314-1317).
+          <lb/>KRAEUTERBUCH. Voir: HERBARIUS. [RITTER, Rép, nos 1137-
+          <lb/>1140 à Herbarius et nos 1205-1206 à Hortus sanitatis).
+          <lb/>KRIECHINGEN, Franz von. Voir : FRANZ von Kriechingen.
+          <lb/>KRIEGSRÜSTUNG : Geystliche Kriegsrüstung, Wider den
+          <lb/>Turcken, Das ist Gebett, Psalmen... zu Gott... um
+          <lb/>Victori und Sieg wider des Christlichen Namens Erbfeind,
+          <lb/>den Turcken. Allen Christen,... so man die Turckenglock
+          <lb/>leuttet, und sonst, zu gebrauchen. — Strasburg, am
+          <lb/>Kornmarckt (Christian Mylius) 1566, in-8°.
+          <lb/>Wackernagel 335; Vogeleis, p. 307.
+          <lb/>2255
+          <lb/>KÜCHENMEISTEREI. — (Strasbourg, Mathias Hupfuff 1507),
+          <lb/>in-40.
+          <lb/>Schmidt V, n° 71; Panzer, Annalen, Zusätze 107. — BN
+          <lb/>Vienne.
+          <lb/>2256
+          <lb/>KÜCHENMEISTEREI. — (Strasbourg, Jean Knobloch 1516),
+          <lb/>in-40.
+          <lb/>Schmidt VII, n° 134; Ritter, B M Strasbourg, n° 1349;
+          <lb/>Weller, Rep. 1004. — BN Munich.
+          <lb/>2257
+          <lb/>286
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

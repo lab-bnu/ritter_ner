@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:47.805044+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078181.tif
+IMAGE WIDTH: 2304
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>NONNUS PANOPOLITANUS
+          <lb/>Haguenau, J. Secer 1528
+          <lb/>NON-N POETAE PA NOPOLITANI, In Evangelium
+          <lb/>Sancti IohannisParaphrasis Graeca, à Christo-phoro
+          <lb/>Hegendorphino Latina facta. Cui addita est Contio Ele¬
+          <lb/>gan-] tissima Divi Chrysostomi, de Magistratibus, ab eodem
+          <lb/>He- gendorphino Latinitate donata.
+          <lb/>A la fin: Hagenoae Ex officina Iohan. Secerii. Anno
+          <lb/>M. D. XXVIII. (Verso blanc.)
+          <lb/>In-8°, car, rom., 120 ff. non ch., sign. A-P, titre courant, récla¬
+          <lb/>mes, init. à fig. N, I, S; titre encadré. (HEB Planche LXIX n° 2.)
+          <lb/>Au verso du titre: Ad Lecto! rem. (2 pp.)
+          <lb/>Fol. A 2b: Epistola Exíxtovoc Kapte ! ponáyop. (3 dist. grecs
+          <lb/>suivis de la traduction latine.)
+          <lb/>Fol. A 3a : Reveren! dissimo in Christo Pa-] tri, ac Principi...
+          <lb/>Alberto Romanae Ecclesiae T. S. Chry sogoni presbytero, Moguntinensi,
+          <lb/>ac Magdenburgensi Archiepiscopo... Christophorus He- gendorphinus...
+          <lb/>(Dédicace de 10 pp.)
+          <lb/>Fol. O 4b : Epistola.Principi ac Domi no, Domino Georgio,
+          <lb/>Saxoniae Duci... Christophorus Hegendorphinus... (4 pp.)
+          <lb/>R100476 (2). Prov.: Rosenthal, Munich 25/VII 1885; sans
+          <lb/>indic. de prix.
+          <lb/>Londres, British Museum 11.335, b. 11.
+          <lb/>1639
+          <lb/>NONNUS Theophanes
+          <lb/>Strasbourg, Josias Rihel 1568
+          <lb/>NONI I MEDICI CLARISSIMI! DE OMNIVM PARTI-] CVLARIVM
+          <lb/>MORBORVM CVRATIO- ne, sic ut Febres quoque &amp;amp; Tumores
+          <lb/>praeter naturam com- plectatur, LIBER, nunc primum in
+          <lb/>lucem editus, &amp;amp; summa diligentia conversus! PER HIERE¬
+          <lb/>MIAM MARTIVM MEDICVM) PHYSICVM AVGVSTANVM. ! HIERONI¬
+          <lb/>MVS WOLPHIVS! Oetingensis ad Lectorem. (4 dist, latins.)
+          <lb/>ARGENTORATIExcudebat Iosias Rihelius M. D.
+          <lb/>LXVIII. CVM GRATIA ET PRIVILEGIO CAE] sareo ad annos
+          <lb/>octo. (Verso blanc.)
+          <lb/>In-8°, car. grecs et rom., 2 col., le texte grec dans l&amp;#x27;une et la tra¬
+          <lb/>duction latine dans l’autre colonne, 12 ff. non ch. — 322 pp. ch.★ 12 ff.
+          <lb/>non ch. (table), dont les 2 derniers blancs, réclames, init. ornées M, T. Q.
+          <lb/>F. 2a : Achillis P. Gasseri L. Epi! gramma in Nonum medicum,
+          <lb/>quem! ex reipublicae Augstburgensis, Biblio- theca Hieremias Martius
+          <lb/>medicinae doctor, Gallicani- que nosocomaei apud eandem ordinarius
+          <lb/>Physicus, nunc primum in lucem grae- ce edebat, ac Latinum! faciebat.
+          <lb/>(6 dist. latins.) Au verso: Interpretes ad! Zoilum. (4 dist, latins)
+          <lb/>signé: Hieremias Martius F. 28. Iulii 1567.
+          <lb/>1067
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:51.223584+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5068.tif
+IMAGE WIDTH: 2368
+IMAGE HEIGHT: 3860
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1376
+          <lb/>Getruckt zu Straszburg, durch! Theodosium Rihel. !! Jm
+          <lb/>Jar, M. D. LXXVIII. (Verso blanc.)
+          <lb/>In-8°, car. goth., 15 ff. non ch., CCCCLXVIII ff. ch., 22 ff. non ch.
+          <lb/>(table), titre courant, réclames, notes marg., titre rouge et noir.
+          <lb/>Préface comme dans l’édition de 1570.
+          <lb/>R. 101.994. Prov. : Zerrenner, Pforzheim, 25/11I, 1892; 10 M.
+          <lb/>2172
+          <lb/>SPANGENBERG Cyriacus
+          <lb/>Strasbourg, B. Jobin hér., 1599
+          <lb/>Hennebergische Chronica.Der Vralten Löb!! lichen
+          <lb/>Grauen vnd FürstenHenneberg, Genealogia Stam¬
+          <lb/>menbaum vnd Historia Jhrer ankunfft, Lob vnd gedenck-
+          <lb/>würdigen Thaten, Geschichten, vnd sachen, ware vnnd gründ-
+          <lb/>liche Berchreibung...Mit sondern vleisz ausz alten Briefen,
+          <lb/>Urkunden der Clöster und Verzeichnussen... zusammen
+          <lb/>getragen...
+          <lb/>A la fin : Gedruckt zu Straszburg durch Bernhard Jobins
+          <lb/>(seligen) Erben. (Marque typ. de Jobin. H. &amp;amp; B. Planche
+          <lb/>XXXVII, NO 7.)
+          <lb/>fol. 3a dédicace à Sophie née duchesse de Brunswig, avec ses armoiries
+          <lb/>f. 2b
+          <lb/>R. 72. Prov. : Don de la Bibl. de Carlsruhe, 1871. Au milieu du f. du
+          <lb/>titre : Gustav Schuelerj, Jena; en bas : Carl Vogt.
+          <lb/>Ritter, Catal. BM Strasbourg, n° 1960.
+          <lb/>2173
+          <lb/>SPECKER Melchior
+          <lb/>Strasbourg 11560?]
+          <lb/>Disputatio!! Ex XI. Cap. ad Rom. de! Gratia &amp;amp; Operibus.
+          <lb/>Ad IIII. et III. non. iulii in novo! Auditorio, hora VIII.
+          <lb/>Praeside M. Melchiore Speccero, Professore Theologiae, in
+          <lb/>Academia Argentinensi.
+          <lb/>Argentinae. (s. d.)
+          <lb/>In-4°, car. ital., 8 ff. non ch., sign. A-B, réclames, init. ornée I.
+          <lb/>R. 102.202. Prov. : Bibl. Heitz, Strasbourg.
+          <lb/>Bibliographie Specker. Voir : Schottenloher II, Nos 20366-20366a.
+          <lb/>2174
+          <lb/>SPECKER Melchior
+          <lb/>Strasbourg, S. Emmel, 1560
+          <lb/>Vom Leiblichen Todt.Was er sey, waher er komme,
+          <lb/>vnd!! wie man sich darzu be-! reyten solle,!! Auch! Von
+          <lb/>der Begräbnusz vnd Begänck- nussen, vnd wie man sich
+          <lb/>der Abge-storbenen halben, tröstenvnd halten solle.!
+          <lb/>Item Von der Seelen vnd jrem ort, stand.vnd wesen,
+          <lb/>bisz auff den Jüng-[I sten tag. !! Alles ausz H. Schrifft vnd der
+          <lb/>Vätter auszlegung, fleissig zusammen gebracht, durch M.
+          <lb/>Mel-chior Specker, Pfarrherren zu S. Thoman,u
+          <lb/>Straszburg.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

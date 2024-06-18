@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:13.262263+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002460.tif
+IMAGE WIDTH: 2502
+IMAGE HEIGHT: 3994
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>hensa. Denuo operâ &amp;amp; studio Jacobi Schickfusi Suibu¬
+          <lb/>siensis, in lucem edita. Accessit iàm consimilis
+          <lb/>Porphyrianae introductionis, libri Categorici...
+          <lb/>Argentorati, Excudebat Antonius Bertramus, Academiae
+          <lb/>Typographus. Anno 1597, in-8°.
+          <lb/>Bibl. Grand Sém. Strasbourg AT 125.
+          <lb/>3176
+          <lb/>SCHILLER, Jörg : Ein hüpsch kurtzweylich lied von Frawen
+          <lb/>und Jungfrawen zu singen genant der Meyen zyt. Im
+          <lb/>schillers thon und hat es Jörg schiller selbs gemacht.—
+          <lb/>(Strasbourg, Mathias Hupfuff (?) vers 1505), in-80.
+          <lb/>(Bibliothèque de Zwickau, où il se trouve dans le même volume
+          <lb/>avec la même impression que Herrn Ecken Ausfahrt de
+          <lb/>Hupfuff 1503). Centralblatt f. Bibliothekswesen X (1893),
+          <lb/>p. 334, Schmidt V, n° 43.
+          <lb/>3177
+          <lb/>SCHLAFFER, Hans. Voir: LIEDER (zwei schöne neue geistliche),
+          <lb/>n° 2395.
+          <lb/>SCHLICK, Séb. Voir : ZACK, Joh., no 3574.
+          <lb/>SCHMID, Bernhard (Fabricius) : Zwey Bücher Einer Neuen
+          <lb/>Kunstlichen Tabulatur auff Orgel und Instrumenten... —
+          <lb/>Strasbourg, Bernard Jobin 1577, in-fol.
+          <lb/>Merian, Der Tanz, p. 25-28; Vogeleis, p. 333 ff. (Schmid voir
+          <lb/>aussi : Ritter, Rép. n° 2083].
+          <lb/>3178
+          <lb/>SCHMID, Hans. Voir : LIED (ein schön geistliches von der
+          <lb/>Gemeinschaft Christi), n° 2347.
+          <lb/>SCHNEEVOGEL, P. Voir : NIAVIS, Paulus.
+          <lb/>SCHNEIDEWIN, Johannes :.. In quatuor Institutionum
+          <lb/>Imperialium D. Justiniani libros Commentarium, nunc
+          <lb/>post mortem eius in usum &amp;amp; gratiam iuris Studiosorum...
+          <lb/>cum multis libellorum &amp;amp; actuum iudicalium formis,
+          <lb/>atque iuris Saxonici consensu &amp;amp; antinomia, editorum.
+          <lb/>Pars I. II. — Strasbourg, Théodose Rihel 1571, in-fol.
+          <lb/>Ritter : B M Strasbourg, n° 1887.
+          <lb/>3179
+          <lb/>458
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

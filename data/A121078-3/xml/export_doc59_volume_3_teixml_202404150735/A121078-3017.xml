@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:05.020988+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3017.tif
+IMAGE WIDTH: 2360
+IMAGE HEIGHT: 3840
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>ARGENTORATI Excudebat Antonius Bertramus, 11599).
+          <lb/>Am Schluss: Vign.
+          <lb/>40. Antiq., 8 unn. Bll., Sign. A-B, Kustoden, Marginalien in
+          <lb/>Kursiv, Titeleinfassung (4 Zierleisten). Verzeichnis von 149 Thesen.
+          <lb/>R 10.548tà, Prov.: Kubasta e Voigt, Wien, 25/x1. 1896.
+          <lb/>GK: SB Berlin.
+          <lb/>687
+          <lb/>ENGELHARDT Heinrich
+          <lb/>Strassburg, W. Köpfel, 1546
+          <lb/>Eyn Neüwe zeytung, wie yetzt alle Fürsten vnd
+          <lb/>Herren, Stätt, vnd Lender, alle lassen knecht annemen,
+          <lb/>vnd wil einer das Rey- che, der ander dises besytzen,
+          <lb/>als dann ein jeder sicht vnd wol höret, so sei euch allen
+          <lb/>auch zû wissen, das vnser aller gnedigster vnd Ob erster
+          <lb/>Herr in Hymmeln, vnd auff Erden, lasst aubschreien vnd
+          <lb/>verkünden, in aller Welt, das wir uns rüsten, vnnd im zû
+          <lb/>ziehen, es sey Reich oder Arm, Edel oder vnedel. Er wil
+          <lb/>vns allen hundertfeltige besoldung geben, vnd Ewigen dienst
+          <lb/>zûsagen, vnnd wil mitt! vns besitzen, vnd vns eingeben
+          <lb/>sein Reich.... (folgen 29 Zeilen, in denen die Nachfolge Christi
+          <lb/>anempfohlen wird. Christus wird als Anführer einer Armee dargestellt.
+          <lb/>Unten: Getruckt zû Straszburg bey Wolffgang Köpfel.
+          <lb/>Anno M. DXLVI. Heynrich Engelhardt.
+          <lb/>Einblattdruck, Got., Titeleinfassung aus mehreren aneinander ge¬
+          <lb/>reihten Leisten bestehend (Arabesken, Blumenranken u. symbolische Fi¬
+          <lb/>guren).
+          <lb/>R 10. Prov. unbekannt.
+          <lb/>688
+          <lb/>461
+          <lb/>ENGELHARDT Heinrich
+          <lb/>Strassburg, (W. Köpfell, 1546
+          <lb/>Eyn Neüwe zeytung...
+          <lb/>Wie die vorhergehende Nummer, aber ohne Angabe des Druckers.
+          <lb/>Zum Teil andere Leisten bei der Titeleinfassung.
+          <lb/>R 100.673. Prov. unbekannt.
+          <lb/>689
+          <lb/>ENTSCHULDIGUNG
+          <lb/>Strassburg, B. Beck, um 1524
+          <lb/>Entschuldigung gemeyner Eydtgenossen: über die
+          <lb/>artickel so jnen von etlichen geltsüchtigenPfarrherrn
+          <lb/>als weren sye von jnen zû Lucern vszgangen, felschlich
+          <lb/>zû- geschriben vnd vszgebreyt werden. (Rückseite leer.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

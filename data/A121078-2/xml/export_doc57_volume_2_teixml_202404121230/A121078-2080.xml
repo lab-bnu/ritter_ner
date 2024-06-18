@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:28.682833+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2080.tif
+IMAGE WIDTH: 2344
+IMAGE HEIGHT: 3820
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>76
+          <lb/>In aeglogas Mantuani Decatostichon omnium earum
+          <lb/>argumenta complectens: Joannis Gallinarij Budorini. (5 dis¬
+          <lb/>tiques).
+          <lb/>A la fin: Denuo castigatum: Impressit Johannes Prüsz
+          <lb/>Ciuis Argentinus in aedibus! Zum Thyergarten.
+          <lb/>In-4°, car. rom., 6 ff. non ch., LXXX ff. ch., sign. 4-O, 2 ff.
+          <lb/>non ch. dont le verso du dernier blanc, titre courant, notes margi¬
+          <lb/>nales, initiale ornée F.
+          <lb/>A la suite des Bucolica viennent 18 ff. non ch., sign. R-T, con¬
+          <lb/>tenant: Fratris Baptistae Mantuani, ordinis Carmeli pro¬
+          <lb/>fessoris, de vita beata libellus et Hermanni Buschii Oda
+          <lb/>(10 strophes à 4 vers.)
+          <lb/>Au-dessous, nouvel explicit avec la date de l&amp;#x27;impression: Joannes
+          <lb/>Prüsz Ciuis Argen, impressit. M. CCCCCVIl. (Verso blanc.)
+          <lb/>fol. A 5a non ch.: Thomas Wolphius Junior Jacobo Wym
+          <lb/>phelingio. Sa, pa. licenciato... - Argentinae cursim! ex ae¬
+          <lb/>dibus nostris sexto Kalen. Martij. Anno Christi Millesi-] mo
+          <lb/>quingentesimo tertio.
+          <lb/>fol. A 5b non ch., Jacobus Wymphelingius Thomae Wol¬
+          <lb/>phio Juniori... — ex Hieremitorio diui Guillermi Kalen.
+          <lb/>Mar! tij Anno salutis nostrae. M. CCCCC.III.
+          <lb/>fol. A 6b non ch.: Baptista Mantuanus Carmelita! Paridi
+          <lb/>Ceresario. S. P. D.... — Kalendis Septembris MCCCCXCVIII.
+          <lb/>R 101.013 (3). Prov.: Bibl. Ch. Schmidt qui l’a acheté en 1880
+          <lb/>chez Butsch, antiquaire à Augsbourg.
+          <lb/>Schmidt III, p. 18, No 62: Jadis Bibl. de Strasbourg, Incun.
+          <lb/>No 608a et son exemplaire qui se trouve maintenant à la BN de
+          <lb/>Strasbourg.
+          <lb/>GPB: Breslau, Halle, Bonn.
+          <lb/>132
+          <lb/>BAPTISTA Mantuanus
+          <lb/>Strasbourg, Mathias Schärer, 1508.
+          <lb/>BAPTISTAE MANTUANI THEOLOGI LIBRI TRES ! DE VITA
+          <lb/>DIONYSII] non continentur in! alijs operibus.
+          <lb/>T. D. A. [Thomas Didymus Aucuporius.) (Distique.)
+          <lb/>A la fin: Mathias Schürerius Schletstatinus! Argento¬
+          <lb/>raci imprimebat Mense Junio. Anno! M. D. VIII.
+          <lb/>In-4°, car. rom., XLV ff. ch., titre courant, notes marginales,
+          <lb/>initiales d’attente.
+          <lb/>Au verso du titre: Baptistae Mantuani Theologi. Jafrede
+          <lb/>Carole Mediolani Vicecancellarie! Praeses Delphinatus...
+          <lb/>*R101.012. Prov. inconnue.
+          <lb/>Schmidt, VIII, 2: Bibl. Cantonale Zurich et Bibl. St. Guillaume
+          <lb/>Strasbourg.
+          <lb/>133
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

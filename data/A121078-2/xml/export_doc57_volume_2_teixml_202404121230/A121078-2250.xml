@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:34.155118+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2250.tif
+IMAGE WIDTH: 2292
+IMAGE HEIGHT: 3818
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>246
+          <lb/>Au recto du f. de garde autographe de Röhrich.
+          <lb/>BN Paris, De. 3572 (5); Oxford, Bibl. Bodleiana; Bibl. St.
+          <lb/>Guillaume, Strasbourg. GPB: Berlin SB.
+          <lb/>Baum N° 33: Mente No 35.
+          <lb/>369
+          <lb/>BUTZER Martin
+          <lb/>Strasbourg, M. Apiarius, 1534.
+          <lb/>Kurtze schrifft-liche erklärung für die kinder vnd
+          <lb/>angohnden. Der gemeinen artickeln vnsers christlichen
+          <lb/>glaubens. Der zehen gebott. Des Vatter vnsers. Hierin
+          <lb/>findestu einfeltigen christ-chen bericht aller stucken,
+          <lb/>die einem christen nutz vnnd not zu wissen sind.
+          <lb/>Durch die Prediger vnd diener der! gemein zu Strassburg.
+          <lb/>A la fin : Getruckt zu Strassburg, durchMatthiam
+          <lb/>Apiarium! M. D. xxxiiij. (Dernier f. verso: Marque typographique
+          <lb/>d’Apiarius), (HEB, Planche XXIV, n° 1; Silvestre, No 587.)
+          <lb/>In-8°, car. goth., 128 ff. non ch., sign. A-P, titre courant, récla¬
+          <lb/>mes, notes marginales.
+          <lb/>Au verso du titre: Préface de 5 pages.
+          <lb/>R 102.399. Prov.; Noiriel, Strasbourg, 4/III. 1881; 4M.
+          <lb/>Mentz l. c. N° 36 cite d’après Hubert, Verzeichnis der Schriften
+          <lb/>Bucers et donne le titre en abrégé: Der gröszer Catechismus. Das ist
+          <lb/>kurtze christliche Erklärung für die Kinder und angehenden der gemei¬
+          <lb/>nen Artikeln unsres christl. Glaubens, Zehn Gebott, Vatter unser &amp;amp;c.
+          <lb/>1534. 1l dit 20 ff.
+          <lb/>Manque chez Baum.
+          <lb/>370
+          <lb/>BUTZER Martin
+          <lb/>Strasbourg, W. Rihel, 1536.
+          <lb/>METAPHRASES ET ENARRATIONES PERPETVAE EPISTOLA¬
+          <lb/>RVM D. Pauli Apostoli, quibus singulatim Apostoli omnia,
+          <lb/>cum argumenta, tum sententiae &amp;amp; uerba, ad autori- tatem
+          <lb/>D. scripturae, fidemque Ecclesiae catho- licae tam priscae
+          <lb/>quàm praesentis, religiose ac paulo fusius excutiuntur.
+          <lb/>DISSIDENTIVM IN SPECIEM LOCORVM Scri- pturae, &amp;amp;
+          <lb/>primarum hodie in religionis doctrina con-trouersiarum
+          <lb/>conciliationes &amp;amp; decisiones. XLII.Omnia citra dentem
+          <lb/>xaì êxtet] xõc, &amp;amp; ad communem Ecclesiarum restituendam
+          <lb/>concordiam modis omnibus accomodata.
+          <lb/>TOMVS PRIMVS. ! CONTINENS METAPHRASIM ET ENARRA¬
+          <lb/>TIONEM in Epistolam ad Romanos, in qua ut Apostolus
+          <lb/>praecipuos totius Theologiae! locos tractauit quàm exac¬
+          <lb/>tissime &amp;amp; plenissime, ita est hoc Tomo maxima  pars
+          <lb/>totius non tam Paulinae quam uniuersae S. Philosophiae
+          <lb/>explicata. PER MARTINVM BVCERVM.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

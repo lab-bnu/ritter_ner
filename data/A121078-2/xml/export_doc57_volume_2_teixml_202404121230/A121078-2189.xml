@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:32.103252+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2189.tif
+IMAGE WIDTH: 2292
+IMAGE HEIGHT: 3820
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>185
+          <lb/>Au verso du titre: Hans Schott Trucker, wünscht allen
+          <lb/>so disz Büchlin zûkumpt, die huld... Gotts... (1 p.)
+          <lb/>R102.385. Prov.: K. J. Trübner, Strasbourg, T/VII. 1885;
+          <lb/>40M.
+          <lb/>Roth, loco citato No 31, cite d’après Graesse, Trésor I p. 554;
+          <lb/>Schmidt II. No 121: Berlin. GPB: Berlin.
+          <lb/>288
+          <lb/>BRUNFELS Otto
+          <lb/>Strasbourg, J. Schott, 1532.
+          <lb/>COntrafayt Kreüterbûch! Nach rechter vollkommener
+          <lb/>art, vnud (!) Beschreibungen der Alten, besst- berümpten
+          <lb/>ärtzt, vormals in Teütscher sprach, der masszen nve
+          <lb/>gesehen, noch im Truck auszgangen.
+          <lb/>Sampt einer gemeynen Inleytung der Kreüter vrhab,
+          <lb/>erkant- nüssz, brauch, lob vnd herrlicheit.! Durch Otho
+          <lb/>Brunnfelsz Newlich beschriben. M. D. XXXIl.
+          <lb/>Mit eim besonderen Register, zùm fleisszigsten verord¬
+          <lb/>net auff allerley kranckheyten, nach anzeyg der Kreüter
+          <lb/>krafft so hyer- inn begriffen. Bey dem auch ein Kreüter
+          <lb/>Register mit sein en Synonymis vnd beynammen.
+          <lb/>Mit Keiszerlicher Maiestät Freyheit! vff Fünff jar, nit
+          <lb/>nachzûtrucken, &amp;amp;c. bey der pen fünff marck lötigs golds.
+          <lb/>Z6 Strasszburg bey Hans Schotten! zûm Thyergarten.
+          <lb/>(Verso blanc.)
+          <lb/>A la fin, avant le Registre: Zû Straszburg bey Hans Schot¬
+          <lb/>ten zûm Thyergarten. M. D. XXXII.
+          <lb/>In-fol., car. goth., 16 ff. non ch., CCCXXAII pages ch., 8 ff. non
+          <lb/>ch. à 2 col. dont le dernier f. blanc, titre courant, de nombreuses initiales
+          <lb/>à fig., la plupart des gravures de plantes (176) par Weyditz sont em¬
+          <lb/>pruntées au Ie tome du,, Herbarum vivae icones&amp;quot; de 1530.
+          <lb/>Au verso du fol. 16 non ch., grande gravure sur bois: les armoi¬
+          <lb/>ries de Strasbourg de la grandeur de la page.
+          <lb/>fol. a 2a non ch.:... herren Ludwigen Pfaltzgrauen bey
+          <lb/>Rhein, Hertzogen in Bay-eren... meinem gnedigen her¬
+          <lb/>ren, Entbeüt ich Ottho Brunnfelsz mein vnderthän-ig
+          <lb/>willig dyenst zûuor.... — Datum zû Straszburg am 24.
+          <lb/>tag des Augstmonats... 1532. (Dédicace d’une page et demie.)
+          <lb/>fol. a 3a non ch. : Vorred! Introductorium; das ist:
+          <lb/>Ein gemeyne Inleytung zù lob, vrsprüngklicher alter¬
+          <lb/>farnüssz, gebrauch, vnd erkantuüssz (!) der Kreüter.
+          <lb/>Durch Otho Brunfelsz new-lich beschriben... (Préface de
+          <lb/>27 pages.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

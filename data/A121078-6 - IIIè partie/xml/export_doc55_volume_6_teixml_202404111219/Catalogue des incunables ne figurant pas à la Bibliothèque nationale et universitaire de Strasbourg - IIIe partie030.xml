@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:05.636221+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie030.tif
+IMAGE WIDTH: 2484
+IMAGE HEIGHT: 3898
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>BREVIARIUM : Fragment d’une édition inconnue. Psalterium.
+          <lb/>— (Strasbourg, J. Grüninger vers 1495).
+          <lb/>G W 5518 : Bibl. Rég. Stuttgart.
+          <lb/>165
+          <lb/>BRUNN des Rats. Voir : MELIBEUS, n° 468.
+          <lb/>BRUNSCHWIG, Hieronymus : Liber pestilentialis (Pestbuch). —
+          <lb/>(Strasbourg), J. Grüninger 19. VIII.] 1500, in-fol.
+          <lb/>G W 5596; Hain-Copinger 4020, Pellechet-Polain 3040;
+          <lb/>Proctor 495; Brit. Mus. Cat. I, 115, Schmidt I, n° 52;
+          <lb/>Sudhoff 205; Voullième : Berlin 2313. B N Berlin, Munich,
+          <lb/>Vienne, etc.
+          <lb/>166
+          <lb/>BRUNUS Aretinus, Leonardus : De duobus amantibus, [trad.
+          <lb/>en allemand par Nic. Wyle). (Strasbourg, Henri Knobloch¬
+          <lb/>tzer vers 1476/8), in-fol.
+          <lb/>G W 5644; Copinger 2885; Pellechet 1136, Proctor 767;
+          <lb/>Brit. Mus. Cat. I, 87; Schreiber 4488. B N Paris, Brit. Museum
+          <lb/>Londres.
+          <lb/>167
+          <lb/>BRUNUS Aretinus, Leonardus : De duobus amantibus, [trad.
+          <lb/>par Nic. Wyle). (Strasbourg, Henri Knoblochtzer)
+          <lb/>1482, in-fol.
+          <lb/>G W 5645; Proctor 372; Schreiber 4489. — Oxford, San
+          <lb/>Marino, Vienne (Liechtenstein).
+          <lb/>168
+          <lb/>BRUNUS, Leonardus Aretinus. Voir aussi: ARISTOTELES,
+          <lb/>Ethica n° 87.
+          <lb/>BÜCHERANZEIGE. [Imprimeur strasbourgeois CW. — Concerne
+          <lb/>BERCHORIUS, Liber bibliae moralis. 7. X. 1474); Pla¬
+          <lb/>card 76 x 117 mm.
+          <lb/>G W 5674: B U Tübingen; Einblattdrucke 476.
+          <lb/>169
+          <lb/>BÜCHLEIN der Titel aller Stände. In disem biechlin findet
+          <lb/>man. — Strasbourg, Mathias Hupfuff (14/99, in-4°.
+          <lb/>G W 5705; Copinger 1365-1366, Proctor 753; Brit. Mus.
+          <lb/>28
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

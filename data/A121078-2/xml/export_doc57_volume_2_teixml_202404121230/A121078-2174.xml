@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:31.664555+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2174.tif
+IMAGE WIDTH: 2292
+IMAGE HEIGHT: 3824
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>170
+          <lb/>In-fol., car. rom., 6 ff. non ch. (Préface et Index), 241 ff. ch.;
+          <lb/>erreurs de pagination: 59 p. 58, 101 p. 110, 121 p. 112, 226 p. 122,
+          <lb/>421 p. 241; titre courant, réclames, notes marginales, initiales à fig.
+          <lb/>Au verso du titre:... IOHANNI SCHOPPERO ABBATI IN
+          <lb/>HEILS BRUNNEN... — Ex Hala Sueuorum uicesimo se¬
+          <lb/>cundo lanuarij ANNO XXXIIII. Iohannes Brentius.
+          <lb/>(Dédicace de 4 pp.)
+          <lb/>R 10.216.(1) Prov.: Don de la ville de Heilbronn. A l’intérieur
+          <lb/>du premier plat : « Johannis Wurff anno 47» Endommagé et in¬
+          <lb/>complet, le dernier f. manque. Rel. anc.
+          <lb/>Bibl. St. Guillaume. Strasbourg; Köhler W., Bibliographia Bren¬
+          <lb/>tiana N° 75: Berlin, Carl. Alexander Bibl. Eisenach, Erlangen, Franc¬
+          <lb/>fort s. M., Fribourg en Br., Giessen, Gœttingue, Helmstedt, Jena. Kœnigs¬
+          <lb/>berg, BN et B U Munich, Munster, Rostock, Stuttgart, Vienne, Würz¬
+          <lb/>bourg, Zittau, Zivickau. GPB en outre: Halle BU.
+          <lb/>265
+          <lb/>BRENTIUS Johannes
+          <lb/>Haguenau, P. Brubach, 1536.
+          <lb/>(Feuille de lierre) IN ACTA APO STOLICA HOMILIAE CENTVM
+          <lb/>VIGINTI DVAE. AVTORE Ioanne Brentio.
+          <lb/>Marque typographique de Brubach. (HCB, Planche LXIX, NO 3.)
+          <lb/>STATVS HVIVS LIBRI.... (4 lignes, 3 citations de la Bible).
+          <lb/>HAGANOAE IN OFFICINA PET.BRVBACHIÍ ANNO
+          <lb/>M DXXXVI. (Verso blanc.)
+          <lb/>A la fin: HAGANOAE EXCVSVM PER PETRVM Brubacchium,
+          <lb/>mense Martio, Anno M. D. XXXVI. (Verso blanc.)
+          <lb/>In-fol,, car, rom., 10 ff. non ch., 230 ff. ch., titre courant, réclames,
+          <lb/>notes marginales, initiales à fig.; erreurs de pagination: 33 p. 35, 102
+          <lb/>et 103 p. 101, 102.
+          <lb/>fol. 2a non ch.:... D. IOANNI Schoppero, Abbati in
+          <lb/>Heilsbrunnen Domino suo... — Ex Hala Sueuorum
+          <lb/>uicesimo secundo lanuarij Anno Domini 1534. Io. Brentius.
+          <lb/>(Dédicace de 4 pp.)
+          <lb/>fol. 3b non ch. (fol. 3a blanc). Pièce d’encadrement, au-dessous:
+          <lb/>IO. BRENTIVS LECTORI SALVT.... — Ex Hala Sueuorum
+          <lb/>An. M. D. XXXVI. (10 lignes.)
+          <lb/>R10.422. Prov.:.RM Hambourg, 1871. Notes mss.
+          <lb/>Köhler W., Bibliographia Brentiana No 82; Berlin BU, Dresde,
+          <lb/>Gœttingue, Gotha, Hamburg, Helmstedt, Karlsruhe, Kœnigsberg, BU
+          <lb/>et BN Munich, Zwickau.
+          <lb/>266
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:46.553758+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078137.tif
+IMAGE WIDTH: 2304
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1023
+          <lb/>Ex-libris d’un évêque avec armoiries et les lettres BAZW; à la page
+          <lb/>R101.390. Prov.: Bær e C°, Francfort-s.-M. 20/1 1880; 12 M.
+          <lb/>du titre: Monasterii Weissenaw, et en haut: Certo me comparavit...
+          <lb/>frater Michael Werterlin (!) ex Emendorf (2)... Anno domini 1538. Dans
+          <lb/>le corps de l’ouvrage quelques annotations mss. à l’encre rouge.
+          <lb/>Hain 5609.
+          <lb/>dres, Brit. Museum.
+          <lb/>BN Paris, Rés. D. 8138; Proctor II Sectio I n° 11614: Lon¬
+          <lb/>1568
+          <lb/>MICHAEL DE UNGARIA
+          <lb/>Haguenau, H. Gran 1502
+          <lb/>Sermones dominicales peruti 7 les a quodam fratre
+          <lb/>hungaro ordinis Minorum de obser-vantia comportati
+          <lb/>Biga salutis intitulati feliciter incipiunt. (Verso blanc.)
+          <lb/>A la fin: Sermones dominicales... Impensis quoque et
+          <lb/>sum- ptibus providi viri Johannis rymman de Oringau¬
+          <lb/>we; per industrium Hen ricum Gran in Imperiali oppido
+          <lb/>Ha genaw inibi incola diligentissime emen- dateque im¬
+          <lb/>pressi Finiunt feliciter Anno ab incarnatione domini.
+          <lb/>M. D. Il. Die vero xvii. Februarii. (Verso blanc.)
+          <lb/>In-40, car. goth., 2 col., 430 ff. non ch., sign. a—2, A-Z, aa-hh,
+          <lb/>titre courant, init. d’attente.
+          <lb/>Fol. 2a non ch. : Prologus. (2 pp.); suivent 8 pp. de table.
+          <lb/>R101.339. Prov.: Don de Fidelis Butsch fils, antiquaire à Augs¬
+          <lb/>bourg 1871. Notes mss.; en haut du titre: Monasterii Ranshoven.
+          <lb/>1569
+          <lb/>MICHAEL DE UNGARIA
+          <lb/>Strasbourg, [J. Knobloch] 1503
+          <lb/>Evagatorium In presenti libello continentur hec
+          <lb/>infra per ordinem notata. Optimus modus praedicandi
+          <lb/>Sermones, xiiï. Michae- lis de Hungaria universales.
+          <lb/>Cum applicationibus Thematum perutilibus de Tempore
+          <lb/>et de Sanctis: omni tempore predicabiles.! Sermones elec¬
+          <lb/>tissimi de Rosario beate vir-ginis Marie. Et de sancta
+          <lb/>Anna eius matre. Passio domini nostri lesu Christi: ex
+          <lb/>quattuor evan gelistis diligentissime collecta. Misse pe¬
+          <lb/>culiares pro itinerantibus. (Verso blanc.)
+          <lb/>A la fin: Jmpressis Argentine. Anno domini. M. ve. iii.
+          <lb/>Vicesimo octavo die Marcii. (Verso blanc.)
+          <lb/>In-80, car. goth., à 2 col. pour les sermones, 156 ff. non ch., sign.
+          <lb/>A-2, titre courant, init. d’attente.
+          <lb/>*R102.186. Prov.: BN Munich 24/V 1877; 0,50 M.
+          <lb/>Schmidt VII n° 3: BM Mayence.
+          <lb/>1570
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

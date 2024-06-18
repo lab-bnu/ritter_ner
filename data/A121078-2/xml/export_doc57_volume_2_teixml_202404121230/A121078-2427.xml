@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:39.077885+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2427.tif
+IMAGE WIDTH: 2388
+IMAGE HEIGHT: 3826
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>In-4°, car. rom., 8 f. non ch., CLXXXV ff. ch. — 10 ff. non
+          <lb/>ch. (dont 7 pour la table), titre courant, notes marginales, initiales
+          <lb/>d’attente.
+          <lb/>R 101.627. Prov.: BN Munich, 22/1. 1880, 1 M. Au verso du
+          <lb/>titre, timbre: Bibliotheca Regia Monacensis.
+          <lb/>Panzer 6, 57, 266; Proctor II, Sectio I, No 10.205: Londres,
+          <lb/>British Museum; Schmidt VIII, n° 89.
+          <lb/>Brunet I15, col. 639: Une des plus anciennes éditions Ide ce livrel.
+          <lb/>632
+          <lb/>DESPAUTERIUS Iohannes
+          <lb/>Strasbourg, M. Schürer, 1515.
+          <lb/>Syntaxis Ioannis De! spauterij Niniuitae Bergarum
+          <lb/>diui Guinno ci ludimagistri. Ex optimo quoque gram¬
+          <lb/>maticorum, summo iudicío excerpta, cum! festiuo dictio¬
+          <lb/>num earumque syntaxe os Indice, in superioribus im
+          <lb/>pressionibus nimirum desyderato.
+          <lb/>ITEM Epistolae componendae Ratio ex Erasmo! Rote¬
+          <lb/>rodamo viro vndecumque do-ctissimo eloquentissimoque.
+          <lb/>(Verso blanc.)
+          <lb/>A la fin des ff. ch.; Argentorati ex Aedibus Matthiae
+          <lb/>Schurerij ! Mense, IVLIo. Anno, M. D. XV. REGNANTE IM¬
+          <lb/>PERATORE CAE SARE MAXIMILIAN. P.F. AVG. P. P.
+          <lb/>In-4°, car, rom., 4 ff. non ch. CXXVII ff. ch. et 5 non ch. à 2
+          <lb/>col., dont le Ier blanc (Index), titre courant, initiales ornées, titre en¬
+          <lb/>cadré de 4 pièces juxtaposées (ornement d’architecture, dans la bordure
+          <lb/>supérieure aux bouts 2 génies ailés tenant chacun un épi, au milieu,
+          <lb/>plaquette vide, souvent employé par Schürer.)
+          <lb/>fol. 2a non ch.: Epistola commendativa operis. Nicolai
+          <lb/>Buscoducensis. Nicolaus Buscoducensis. Ioanni Despau¬
+          <lb/>terio Niniuitae suo. S... — Louanij ex lilio. VI, calendas
+          <lb/>Apriles Anno domini. M. D. IX.
+          <lb/>Au-dessous: Iodoci Laeti Carmen in syntaxim Despau¬
+          <lb/>terianam. (7 distiques.)
+          <lb/>Au verso: Epistola commendativa operis. Martinus Dor¬
+          <lb/>pius philosophiam Louanij in gymnasio! lilianorum profi¬
+          <lb/>tens, Ioanni Despauterio Niniuitae suo Salutem... Louanij
+          <lb/>quinto calendas aprilis. M. D. IX.
+          <lb/>Suit une page et demie de vers latins de Martin Dorpius, ainsi
+          <lb/>qu’une lettre de Iodocus Ghisius Philomosus.
+          <lb/>423
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

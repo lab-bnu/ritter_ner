@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:07.424975+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3165.tif
+IMAGE WIDTH: 2310
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>FRISCHLIN Nikodemus
+          <lb/>Strassburg, Bern. Jobins Erben 1595.
+          <lb/>OPERVM POETICORVM! NICODEMI] FRISCHLINI, POETAE,
+          <lb/>ORATORIS, ET PHILOSOPHI, pars scenica: in qua sunt Co¬
+          <lb/>MOEDIAE SEPTEM: REBECCA, SVSANNA, HILDEGARDIS,
+          <lb/>IVLIVS REDIVIVVS, PRISCIANVS VAPVLANS, HELVETIO GER¬
+          <lb/>MANI, PHASMA.
+          <lb/>TRAGOEDIAE DVAE: VENVS, DIDO. Ex recentissima
+          <lb/>ac omnium postrema ipsius Auctoris emendatione relicta.
+          <lb/>Druckerm. Jobins (HRB Tafel XXXVII Nr. 5).
+          <lb/>ARGENTORATI, Excudebant Haeredes Bernhardi Iobini
+          <lb/>1595. (Rücks. leer.)
+          <lb/>80, Kursiv, 7 unn. Bll., 678 S., Kopft., Marg., Init., Vign. und
+          <lb/>Zierleisten.
+          <lb/>Bl. 2a Widmung Frischlins in lat. Versen: Principi... D. Chri¬
+          <lb/>stiano... Designato Regi Daniae...; Bl. 3a Neue Widmung an den
+          <lb/>König Friedrich von Dänemark; Bl. 5a Vorwort. Folgen:
+          <lb/>1) Rebecca (S. 1-78), 2) Susanna (S. 78-149), 3) Hildegardis magna
+          <lb/>(S. 149-227), 4) Julius Redivivus (S. 227-309), 5) Priscianus Vapulans
+          <lb/>(S. 309-394) mit den 4 Holzschnitten der früheren Ausgaben, 6) Venus
+          <lb/>(S. 395-428), 7) Dido (S. 428-457), 8) Helvetio Germani! Comoedia
+          <lb/>Nova (S. 463-559), 9) Phasma (S. 561-668; von S. 669-672, 2 Chöre
+          <lb/>u. Epilog [deutschl.
+          <lb/>R 100.953. Prov.: Pfarrer Hartter, Luitzhausen 22. x. 187r.
+          <lb/>Vor dem Titelblatt 12 leere Bll. mit handschr. Notizen über das Leben
+          <lb/>Frischlins nebst Autograph: Schopper Pastor Bernecensis. Am Schluss
+          <lb/>102 leere Bll., wovon die 65 ersten beschrieben sind; sie enthalten:
+          <lb/>1) Priscianus et Didascalus; 2) Oratio de praestantia ac dignitate
+          <lb/>P. Virgilii Maronis Aeneidos, habita Tubingae VI. id. Junii Anno M.10
+          <lb/>LXXIV. a Nico. Fris. [chlino] Balingensi; 3). M. P. Virgilii Maronis
+          <lb/>Aeneida Nicodemi Frischlini prolegomena.
+          <lb/>Stadtbibl. Strassburg 1315. Gk: SB München, LB Dresden; UB
+          <lb/>Tübingen, Würaburg.
+          <lb/>917
+          <lb/>609
+          <lb/>FRISCHLIN Nikodemus
+          <lb/>Strassburg, Bern. Jobin 1595
+          <lb/>STRIGILIS GRAMMATICA,) QVA! Grammatistarum quo¬
+          <lb/>rundam sordes, Arti liberalissimae aspersae,! detergun¬
+          <lb/>tur. AVCTORE NICODEMO FRISCHLINO POETA LAVREATO
+          <lb/>COMITE PALATINO Caesario.
+          <lb/>Druckerm. Jobins (H E B Tafel XXXVII Nr. 4; Silvestre
+          <lb/>Nr. 647.)
+          <lb/>R. 39
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

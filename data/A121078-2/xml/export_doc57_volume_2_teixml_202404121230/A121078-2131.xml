@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:30.226241+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2131.tif
+IMAGE WIDTH: 2302
+IMAGE HEIGHT: 3828
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>127
+          <lb/>Schreiber, «Die Kräuterbücher des XV. u. XVI. Jhd.»,
+          <lb/>P. XLII: «Ein anderer Freund des Brunnfels, Hieronmuvs
+          <lb/>Bock, eigentlich ein Theologe, der neun Jahre lang in Zwey¬
+          <lb/>brücken Schullehrer gewesen war, bevor er 1533 nach dem
+          <lb/>benachbarten Hornbach als Prediger berufen wurde, gab
+          <lb/>ebenfalls ein Kräuterbuch heraus, das 1539 bei Wendel
+          <lb/>Rihel in Strassburg erschien. Dieser mochte wohl gehört
+          <lb/>haben, wie wenig Erfolg Schott mit den Brunnfelschen Bil¬
+          <lb/>dern erzielt hatte und glaubte daher, besonders klug zu
+          <lb/>handeln, wenn er sein Kräuterbuch überhaupt nicht illu¬
+          <lb/>strieren liess.»
+          <lb/>GPB: Berlin (BN et BU), Gœttingue, Munster.
+          <lb/>211
+          <lb/>BOCK Hieronymus
+          <lb/>Strasbourg, G. Messerschmidt, 1544.
+          <lb/>Kurtz Regiment! für das grausam Haupt! wehe vnd
+          <lb/>Breune, vor die Ge- mein vnd armes heuflin hin vnd
+          <lb/>wider im Wasgaw vnd Westereich ge stellet durch
+          <lb/>Hieronymum Bock der Artz-ney erfarnen vnd lieb¬
+          <lb/>habern.
+          <lb/>Gedruckt zû Strassburg, in Knob- lochs druckerey.
+          <lb/>1544. (Verso blanc.)
+          <lb/>A la fin: Zù Strasburg, in Knoblochs druckerei,! durch
+          <lb/>Georgen Messerschmid.! M. D. x l iiij.
+          <lb/>In-40, car, goth., 4 ff. non ch., sign. A, notes marginales.
+          <lb/>R102.332. Prov.: Bibliothécaire W. List, 15/VII. 1891; 10 M.
+          <lb/>212
+          <lb/>BOCK Hieronymus
+          <lb/>Strasbourg, W. Rihel, 1546.
+          <lb/>Kreüter Bûch.Darin Vnderscheid, Würckung vnd
+          <lb/>Namen der Kreüter so in Deutschen Lan- den wachsen,
+          <lb/>Auch der selbigen eigentlicher vnd wolge- gründter ge¬
+          <lb/>brauch inn der artznei fleissig darge- ben Leibs gesundheit
+          <lb/>zû behalten vnd zû für- deren seer nutzlich vnd tröstlich,
+          <lb/>Vorab dem gemeinen einfaltigen man. Durch H. Hiero¬
+          <lb/>nymum Bock aus lang wiriger vnd gewisser erfarung be¬
+          <lb/>schriben, Vnd jetzundVon newem fleissig übersehen,
+          <lb/>gebessert vnd gemehret, Dazû mit hüpschen artigen
+          <lb/>Figuren allenthalben gezieret. Darüber findestu Drei
+          <lb/>volkomene nutzliche Register,vnder welchen, Das erst
+          <lb/>die gemeine Latinische vnd! Griechische Namen der Kreüter
+          <lb/>hat, Das an-der die Deutsche, Das dritt die anzeig der
+          <lb/>Artznei vnd rhat für allerlei kranck heiten vnd leibs ge¬
+          <lb/>presten. Mit Keiserlicher Freiheit auff Siben Jar. M.D.
+          <lb/>XLVI. (Verso blanc.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

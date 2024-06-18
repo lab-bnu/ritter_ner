@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:06.781671+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002198.tif
+IMAGE WIDTH: 2504
+IMAGE HEIGHT: 3986
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Hildegardin Hertzog Hildebrandts in Schwaben Tochter,
+          <lb/>Keysers Caroli Magni Gemahlin. — Strasbourg, Antoine
+          <lb/>Bertram 1599, in-4°.
+          <lb/>Goedeke II2, p. 386, n° 291(4).
+          <lb/>1792
+          <lb/>FRISCHLIN, Nicodemus : Facetiae selectiores : quibus ob
+          <lb/>argumenti similitudinem accesserunt Henrici Bebelii
+          <lb/>P. L. Facetiarum libri tres. Sales item seu facetiae ex
+          <lb/>Pogii Florentini oratoris libro selectae. Nec non Alphonsi
+          <lb/>Regis Arragonum &amp;amp; Adelphi facetiae. Ut et Prognostica
+          <lb/>Jacobi Henrichmanni. — Strasbourg, Bernard Jobin
+          <lb/>héritiers 1600, in-80.
+          <lb/>Ritter, B M Strasbourg no 1038.
+          <lb/>1793
+          <lb/>FRISCHLIN, Nic. Voir aussi RITTeR, Rép, nos 901-924.
+          <lb/>FROSCH, Johannes : Jo. Batrachii seu Froschii de origine et
+          <lb/>principiis naturalium impressionum in singulis aëris
+          <lb/>regionibus nascentium, impr. ignitarum lucentiumque
+          <lb/>significationibus. — Strasbourg 1562, in-4°.
+          <lb/>Graesse VI, p. 23.
+          <lb/>1794
+          <lb/>FROSCH, Joh. : Ewiger Herr und starker Gott. [Cantique). —
+          <lb/>Strasbourg, Th. Berger 1530.
+          <lb/>Ritter, Hist. impr., app. 362.
+          <lb/>1795
+          <lb/>FROSCH, Joh. Voir : LIEDER, 65 teutsche Lieder n° 2376/7.
+          <lb/>(Voir aussi RITTER, Rép, n° 925 : Rerum muscicarum
+          <lb/>opusculum. Strasbourg, P. Schaeffer 1535).
+          <lb/>FRUCK, Ludwig : Teutsch Formular, wie man in Gerichts-
+          <lb/>sachen... handeln mag... Mit einem Titel Büchlin, wie
+          <lb/>man an einen jeden Hohen und nidern schreiben soll. —
+          <lb/>Strasbourg (Christian Egenolff] 1529.
+          <lb/>Graesse II, p. 641; Benzing : Egenolff, n° 12.
+          <lb/>1796
+          <lb/>FUCHS, Jacobus: Von der Ehe der Priester an den Bischof
+          <lb/>von Würzburg. — Strasbourg, Wolfgang Köpfel 10.VI.
+          <lb/>1523, in-80.
+          <lb/>Weller, 2430.
+          <lb/>1797
+          <lb/>196
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

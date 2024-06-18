@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:03.820861+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002088.tif
+IMAGE WIDTH: 2508
+IMAGE HEIGHT: 3978
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Schmidt I, n° 244. — Bibl. S. Guillaume Strasbourg. (Sur
+          <lb/>Buchstab voir : Ritter, Rép. nos 321-323).
+          <lb/>1196
+          <lb/>BUCOLICAE querelae : Eucharii Synesii Romulus. Baptistae
+          <lb/>Persii Thyrsis. — Strasbourg, Jacques Frölich 1540,
+          <lb/>in-80.
+          <lb/>Walter no 827.
+          <lb/>1197
+          <lb/>BUDAEUS, Gulielmus : De contemptu rerum fortuitarum
+          <lb/>Libri tres... — (Strasbourg, Georges Ulricher d’Andlau
+          <lb/>1529), in-8°.
+          <lb/>1198
+          <lb/>BUDAEUS, Gulielmus : De ponderibus et mensuris... —
+          <lb/>Haguenau, Jean Secer octobre 1530, in-80.
+          <lb/>BN Paris : V 29.868 et Rés. Z. 2512.
+          <lb/>1199
+          <lb/>BUECHLEIN (Aristoteles) : Ein hüpsch biechlin das durch die
+          <lb/>natürlichen meister Aristotelem, Avicennam, Gallienum,
+          <lb/>Albertum... beschriben... — Strasbourg, Mathias Hupfuff
+          <lb/>1515, in-40.
+          <lb/>Schmidt V, n° 129 : Berne. Ritter, Rép. n° 1928. 1200
+          <lb/>BUECHLEIN (Aristoteles) : Idem. — (Strasbourg, Martin Flach
+          <lb/>1520), in-4°.
+          <lb/>1201
+          <lb/>Schmidt VI, p. 33, n° 58; Weller, Rep. 1336.
+          <lb/>BÜCHLEIN (Beyssen mit dem Habicht) : Ein schones buchlin
+          <lb/>von den beyssen mit dem habich von einem hund... —
+          <lb/>(Strasbourg, Jean Knobloch 1510), in-40.
+          <lb/>Schmidt VII, n° 330 : Musée germanique de Nuremberg.
+          <lb/>1202
+          <lb/>405 517
+          <lb/>BÜCHLEIN (Beyssen mit dem Habicht) : (Idem). —
+          <lb/>Strasbourg, Mathias Flach 1520, in-4°.
+          <lb/>1203
+          <lb/>Schmidt VI, p. 33, n° 58.
+          <lb/>86
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:06.047594+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie060.tif
+IMAGE WIDTH: 2482
+IMAGE HEIGHT: 3920
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>JACOBUS de Voragine : Legenda aurea. — (Strasbourg,
+          <lb/>Georges Husner vers 1480), in-fol.
+          <lb/>Copinger III, 6388.
+          <lb/>361
+          <lb/>JACOBUS de Voragine: Legenda aurea. — (Strasbourg, impr.
+          <lb/>de la Legenda aurea) 1481, in-fol.
+          <lb/>Copinger 6423; Ritter: B M Strasbourg n° 164; Proctor 412;
+          <lb/>Brit. Mus. Cat. I, p. 96; Pellechet : Jacobus de Voragine 17;
+          <lb/>Voulliéme : Berlin 2248; Gilhofer et Ranschberg (Vienne),
+          <lb/>Catal. 261 (1936) n° 60 : 250 fr. suisses; Olschki (Florence),
+          <lb/>Catal. 76, n° 704 ; 300 fr. ; Walter 510.
+          <lb/>362
+          <lb/>JACOBUS de Voragine: Legenda aurea. — (Strasbourg, impr.
+          <lb/>de la Legenda aurea] 1482, in-fol.
+          <lb/>Reichling 1109; Proctor 415; Voulliéme : Berlin 2248, 3. 363
+          <lb/>JACOBUS de Voragine: Legenda aurea. — Strasbourg, (impr.
+          <lb/>du Jordanus — Georges Husner] 4 mai 1485, in-fol.
+          <lb/>Copinger III, 6443; Voulliéme : Berlin 2404.
+          <lb/>364
+          <lb/>JACOBUS de Voragine: Legenda aurea. — (Strasbourg 14871,
+          <lb/>in-fol.
+          <lb/>Copinger 6448; Pellechet : Jac. de Voragine (éd. incertaine). 365
+          <lb/>JACOBUS de Voragine : Legenda aurea. — Strasbourg,
+          <lb/>s. impr. 1496, in-4°.
+          <lb/>Cop. III, 6466; Walter n° 511.
+          <lb/>366
+          <lb/>JACOBUS de Voragine : Legenda aurea. — (Haguenau 1491 ?1,
+          <lb/>in-fol.
+          <lb/>Copinger III, 6383; Pellechet : Jac. de Voragine n° 87. 367
+          <lb/>JACOBUS de Voragine: Legenda aurea. — Strasbourg, (impr.
+          <lb/>du Jordanus — Georges Husner] 9. VIII. 1492, in-fol.
+          <lb/>Copinger 6458; Polain 2203; Proctor 624; Ritter Rép.
+          <lb/>Inc. 260 ; Voulliéme : Berlin 2446, 5.
+          <lb/>368
+          <lb/>58
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:12.968975+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3381.tif
+IMAGE WIDTH: 2402
+IMAGE HEIGHT: 3858
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>logistis Colo niensibus &amp;amp; Fratribus de Ordine Praedi¬
+          <lb/>cato rum, ab Eleutherio Byzeno decan tatum.
+          <lb/>E, D, L; Titeleinfassung (Gôte Alfred: Die hochdeutschen Drucker
+          <lb/>40, Antiq., 22 unn. Bll., Sign. A-E, Kopft., Marg,, schöne Init.
+          <lb/>S. 85 Nr. 82).
+          <lb/>phus Capnionis. Im ganzen 1063 lat. Verse.
+          <lb/>Am Schluss vierfach gefaltetes Bl. mit grossem Holeschn.: Trium¬
+          <lb/>R100.969. Prov.: Bibl. Böcking mit handschr. Notizen von seiner
+          <lb/>Hand:¿Druck von Thomas Anshelm in Hagenau, wie das bieliegende
+          <lb/>Exemplar der oratio Ioannis Francisci Pici Mirandolae zeigt. Dieses aus
+          <lb/>den Doubletten der Münchener Hofbibliothek von mir erkaufte Exemplar
+          <lb/>des sehr seltenen Druckes gehörte ehemals dem berüchtigten Huttenfeinde
+          <lb/>Nicolaus Weislinger, dessen Handschrift auf der Rückseite des zweiten
+          <lb/>Blattes sich findet. Wann Hutten den Triumphus Capnionis geschrieben
+          <lb/>habe, ergibt sich aus Erasmi Spongia 8 71.°
+          <lb/>1225
+          <lb/>HUTTEN Ulrich
+          <lb/>Strassburg, J. Grüninger 1519
+          <lb/>Ulichen von hutten eins teut schen Ritters von der
+          <lb/>wunderbarlichen artzney des holtz Guaiacum genant, vnd
+          <lb/>wie man die Fran- tzosen oder blatteren heilen sol, z0
+          <lb/>herrn Albre- chten dem Churfürsten, Cardinalen, vnd Ertz¬
+          <lb/>bischoff von Mentz ein bûch beschriben! Durch den hoch¬
+          <lb/>gelerten herren Thomas Murner der heiligen geschrifft
+          <lb/>vnd beider rechten Doctor geteut- schet vnd verdol¬
+          <lb/>metschet. (Holzschn, : ein Apotheker verkauft Arzneimittel an drei
+          <lb/>Kranke.)
+          <lb/>Am Schluss: Getruckt vnd seliglich vollendet durch
+          <lb/>Johannes Grieninger in der keyserlichen stat Straszburg
+          <lb/>vff sant Laurentzen ab ent Jn dem Jar nach der geburt
+          <lb/>Chri-sti M. D. vnd. XIX. »C
+          <lb/>40, Got., 42 unn. Bll., Sign. B-K, Kopft., Init.
+          <lb/>Auf der Rücks. des Titelbl.: Cum privilegio ad Caesarem.
+          <lb/>R100.987. Prov.: Bibl. Böcking mit seinem Exlibris. Titelbl.
+          <lb/>u. 2 Bll. am Schluss fehlen, handschr, ergänst.
+          <lb/>Böcking, Hutteni Opera I S. 43; Kristeller 102; Schmidt I
+          <lb/>Nr. 166: Bern (unvollst.).
+          <lb/>1226
+          <lb/>HUTTEN Ulrich
+          <lb/>[Strassburg, J. Schott 15211
+          <lb/>Concilia wie man die halten sol. Vnd von verleyhung
+          <lb/>geystlicher lehenpfrûnd en. Antzoig damit, der Bäpst,
+          <lb/>Cardinälen, vnd aller! Curtisanen list, vrsprung vnd handel
+          <lb/>823
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

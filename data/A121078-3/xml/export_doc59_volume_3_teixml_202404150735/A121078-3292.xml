@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:10.657233+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3292.tif
+IMAGE WIDTH: 2348
+IMAGE HEIGHT: 3852
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>734
+          <lb/>Zierleiste auf der Rücks, des Titelbl.
+          <lb/>40, Antiq., 16 unn. Bll., wovon das letste leer, Kust., Init. C,
+          <lb/>R101.5645. Prov.: Hiersemann, Leipeig 85. 1. 1935; 4M.
+          <lb/>1083
+          <lb/>HAWENREUTER Johann Ludwig
+          <lb/>Strassburg, A. Bertram 1591
+          <lb/>THESES PHYSICAE DE SOMNO ET VI GILIA, INSOMNIIS
+          <lb/>ET DIVI-] NATIONE, EX LIBRIS ARISTOTELIS, [ de communibus
+          <lb/>animi &amp;amp; corporis affectioni-bus, desumptae, atque con¬
+          <lb/>scriptae. In Inclyta Argentoratensium Academia publicè
+          <lb/>ad disputandum propositae, sub PRAESIDIO Io. LVDOVICI
+          <lb/>HAWENREVTERI! DOCTORIS MEDICI ET PHILOSOPHI.) à
+          <lb/>CHRISTIANO FLEISCHMANNO PFORTZENSI: qui die 21. Augu¬
+          <lb/>sti hora 7.loco solito Deo iuvante respondere! conabi¬
+          <lb/>tur. (Vign.)
+          <lb/>ARGENTORATIExcudebat Antonius Bertramus,! M.
+          <lb/>D. XCI.
+          <lb/>40, Kursiv, 12 unn. Bll., wovon das letete leer, Sign. A-C, Kust.,
+          <lb/>Marg., Schlussvign.
+          <lb/>Bl. C 3b: DOMINO CHRISTIANO FLEISCHMAN! No, docto
+          <lb/>ivveni... carmen hoc scripsit... — Iohannes Ieremias
+          <lb/>Meifisch, Vormaci- ensis. Anno 1591. (12 Dist.)
+          <lb/>R101.5646. Prov.: Hiersemann, Leipeig 25. 1. 1935; 4 M.
+          <lb/>1084
+          <lb/>HAWENREUTER Johann Ludwig
+          <lb/>Strassburg, J. Martin 1591
+          <lb/>THESES PHYSICAE: DE MVNDI PAR- ] TIBVS PRINCIPALI¬
+          <lb/>BVS RA- tione situs motusque localis: Ex QVATVOR ARI¬
+          <lb/>STOTELISDE COELO libris desumptae, &amp;amp; In inclyta
+          <lb/>Argentoratensium Academia publicè ad! disputandum pro¬
+          <lb/>positae.SubPRAESIDIO Io. Lvdovici Hawenrevteri
+          <lb/>Doctoris Medici &amp;amp; Philosophi! à PAVLO VIRDVNGO KITTIN¬
+          <lb/>GENSI:Qui die 20. Nouemb. hora 7. auxiliante DEo
+          <lb/>respondere conabitur.
+          <lb/>ARGENTORATI, EXCVDEBAT IODOCVS MARTINVS, IN FORO
+          <lb/>FRVMENTARIO. M. D. XCI.
+          <lb/>40. Kursiv u. Antiq., 16 unn. Bll., wovon das letzte leer, Kust.,
+          <lb/>Marg. Init. C; auf der Rücks, des vorletsten Bl. Druckerm. Martins
+          <lb/>(Osterlamm mit Druckersignet, wie H a B Tafel XLIV Nr. 1, aber
+          <lb/>Kleiner und mit deutschem statt latein. Text am Rande: Siehe das ist
+          <lb/>Gottes! Lamb, welches der Welt Sünde tregt.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

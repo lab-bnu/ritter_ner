@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:56.448884+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5193.tif
+IMAGE WIDTH: 2348
+IMAGE HEIGHT: 3858
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1503
+          <lb/>VESPUCIUS Americus
+          <lb/>Strasbourg, M. Hupfuff, 1505
+          <lb/>De ora antarctica...
+          <lb/>l Raaufattfifn
+          <lb/>per rrarm pmtugallie
+          <lb/>netnuem iuuentd.
+          <lb/>A la fin : Impressum Argentine per Mathiam hupfuff.
+          <lb/>M. Vo. V. (Verso blanc.)
+          <lb/>In-4°, car. goth., 6 ff. non ch., sign. A., init. ornée S.
+          <lb/>Au verso du titre : M. Ringmannus Philesius. V. !! Jacobo Bruno
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

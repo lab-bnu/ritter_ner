@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:47.409123+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078167.tif
+IMAGE WIDTH: 2304
+IMAGE HEIGHT: 3844
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>MURNER Thomas
+          <lb/>Strasbourg, J. Knobloch 1558
+          <lb/>kurtzweyliges unnd lustiges Büchlin, Jn welchem gemel¬
+          <lb/>Die Narren beschwerung. Ein gar sehr nutzlich es,
+          <lb/>det unnd angezeigt wirdt, was yetzund der welt Lauff
+          <lb/>und Monier sey, mit vil schönen Figu-ren, sampt einem
+          <lb/>neuwen Re- gister gezieret. (Grav, sur bois : la même que dans
+          <lb/>l’édition précédente.)
+          <lb/>Au-dessous: Durch Georg Wickram auff ein neuwes
+          <lb/>uberlesen, Auch die Reimen gemehret unnd gebessert.
+          <lb/>(Verso blanc.)
+          <lb/>A la fin: Getruckt zû Straszburg, In Knoblouchs
+          <lb/>Druckerey. M. D. Iviii.
+          <lb/>In-4°, car. goth., CLXXV ff. ch., 4 ff. non ch. (Entschuldigung
+          <lb/>des dichters et table), titre courant, réclames; titre rouge et noir. Réim¬
+          <lb/>pression presque mot à mot de l’édition 1556 avec les mêmes gravures.
+          <lb/>L’édition de 1556 compte 177 ff. ch. parce que l’excuse du poète de 2 ff.
+          <lb/>est chiffrée, tandis que dans l’édition de 1558 elle ne l’est pas.
+          <lb/>R100.402. Prov.: Trubner, Strasbourg 6/1 1883; 135 M. 1619
+          <lb/>MURRHO Sebastianus: Opus calamitatum. Voir: BAPTISTA
+          <lb/>MANTUANUS : Opus calamitatum. Strasbourg, J. Schott 1502.
+          <lb/>MUSAEUS Raph.: Epistola ad Osores. Voir: MURNARUS Levia¬
+          <lb/>than. 1521.
+          <lb/>MUSURGIA seu Praxis Musicae. Voir: LUSCINIUS Ottmarus
+          <lb/>1053
+          <lb/>MUTIUS Macarius, Voir: MACARIUS Mutius
+          <lb/>MYLIUS Joh. Voir: SPACH Israel: Progymnasma. Strasbourg,
+          <lb/>A. Bertram 1590.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

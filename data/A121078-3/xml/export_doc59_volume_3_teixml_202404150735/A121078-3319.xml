@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:11.211137+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3319.tif
+IMAGE WIDTH: 2364
+IMAGE HEIGHT: 3856
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Dictiones graecae quas habet opusculum! insertas
+          <lb/>cum elegantissimis characteribus &amp;amp; apicibus, accen ! tiun¬
+          <lb/>culis siue vocum moderamentis, quae in aliis im pressio¬
+          <lb/>nibus non reperies. Alexandri Brassicani, (2 Dist.)
+          <lb/>40, Antiq., 45 unn. Bll., Sign. A-I, Kopft.
+          <lb/>Notisen.
+          <lb/>R101584. Geschenk von Fid. Butsch, Augsburg 1871. Handschr.
+          <lb/>1125
+          <lb/>HENRICHMANN Jakob
+          <lb/>Strassburg, Joh. Prüss 1509
+          <lb/>Grammaticae institutiones! IACORI HENRICHMANNI SIN¬
+          <lb/>DELFIN GENSIS CASTIGATAE DENVO AT] QVE DILIGENTER ELA¬
+          <lb/>BORATAE.
+          <lb/>Ars condendorum carminum Henrici Bebelij Iustin¬
+          <lb/>gensis Poete laureati.... (6 Zeilen.)
+          <lb/>Am Schluss: Argentinae in aedibus loannis Prüsz: vulgo
+          <lb/>zum Thier- garten Impressum: Anno. M. D. IX.
+          <lb/>40, Antig., 4 unn., CXX num. Bll., Kopft.; Druckerm, des Joh.
+          <lb/>Prüss (H e B Tafel VIII Nr. 3; Silvestre Nr. 1106).
+          <lb/>Auf der Rücks, des Titelbl.: AD LECTOREM.
+          <lb/>Bl. A 2a: IN GRAMMATICAM IACOBI HEN] richmanni
+          <lb/>Henricus Bebelius Iustingensis poeta. (3 Dist.) u.: VERSI¬
+          <lb/>CVLI SEBASTIANI KEFER] artium cultoris in grammaticam
+          <lb/>lacobi! Henrichmanni praeceptoris sui. (6 Dist.) Darunter:
+          <lb/>... Henrico Bebelio... praeceptori suo egregie amando laco¬
+          <lb/>bus Henrichmann. S. D. p.... — Tubingae ex contubernio
+          <lb/>nostro decimo kalendas Apriles. Anno M. D.VI. (2 S.)
+          <lb/>Bl. A 4a: Iacobus Henrichmannus Gaspari Hummel...
+          <lb/>— Ex Lustnoia, vij. kalendas Martias: Anno octavo supra
+          <lb/>sesquimillesimum. I. H. (2 S.)
+          <lb/>R 101.580. Prov.: Bibl. Böcking; zahlr. handschr. Notizen.
+          <lb/>2. Ex.: R 100.0581. Prov.: SB München 22. 1. 1880; 0.50M.
+          <lb/>Schmidt III S. 23 Nr. 79: ,Jadis Bibl. de Strasbourg, Incun. No
+          <lb/>2508a &amp;quot;
+          <lb/>1126
+          <lb/>HENRICHMANN Jakob
+          <lb/>Strassburg, Joh. Grüninger 1509
+          <lb/>Prognostica alioquin barbare practica nun cupata:
+          <lb/>ab lacobo Henrichman: lati nitate donata, paucis quibus¬
+          <lb/>dam annexis: quae in pri ori lingua non re-periebantur.
+          <lb/>Tetrastichon eiusdem Henrichmanni. (2 Dist.)
+          <lb/>Distichon loannis Adelphi. (1 Dist.)
+          <lb/>761
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

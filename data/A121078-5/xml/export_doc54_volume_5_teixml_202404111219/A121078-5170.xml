@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:55.493927+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5170.tif
+IMAGE WIDTH: 2346
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1478
+          <lb/>fol. 58b : Libri primi exhortationum ad mona-chos finis adest manu
+          <lb/>mei propria. Jo !! annis Tritemij abbatis Spanhemen !] sis scripti. IX
+          <lb/>die mensis Junij. Anno chri!! stianorum Millesimo Quadringentesi-] mo
+          <lb/>Ixxxvi. Indictione quarta. Anno!! etatis mee. xxiiij. Hoc opus dicaui
+          <lb/>an !! tecessori meo nunc abbati Telgenstaten !! si charissimo.
+          <lb/>Avant l’explicit fol. 74a : Finis libri exhortationum secundi ad mo¬Il
+          <lb/>nachos Joannis tritemij abbatis prima !] die septembris. M. cccc.Ixxxvi.
+          <lb/>&amp;quot;R. 10.374. Prov. : BN Munich, 28/XII, 1883; 1 M. 50. Notes mss.
+          <lb/>2e ex. &amp;quot;R. 10.368 (3). Prov. : BN Munich, 18/xI, 1878; 1 M. 50.
+          <lb/>3e ex. K 3564b. Prov. : Butsch, antiquaire à Augsbourg, 12/x 1883,
+          <lb/>de la vente de la Bibl. de Buxheim à Munich du 20/1x, 1883.
+          <lb/>Proctor II, Sectio I, No 10.100 : Londres, British Museum; Ritter,
+          <lb/>Catal. BM Strasbourg, N° 2114.
+          <lb/>Schmidt VII, No 120 : « Jadis Bibl. de Strasbourg, Incun. No 4666,
+          <lb/>Bibl. St.-Guillaume, Strasbourg et son exemplaire à lui. Eug. Stubenvoll,
+          <lb/>antiquaire, Strasbourg-Meinau, possède aussi un exemplaire très bien
+          <lb/>conservé». Catalogue de la Bibl. Ch. Louis Fière, 2e vente, Paris, 14-17 juin
+          <lb/>1937, No 366 : « Première édition; ces sermons, dit Daunou, se recom¬
+          <lb/>mandent par la pureté de la morale, par la naïveté du style et par l’intérêt
+          <lb/>de quelques détails ». Baer, Francfort-s.-M., Catalogue 500 (1907),
+          <lb/>N° 921 (2); 45 M.
+          <lb/>2360
+          <lb/>TRITHE MIUS Johannes
+          <lb/>Haguenau, P. Brubach, 1536
+          <lb/>Ioannis Tri-temii abbatis Spanhemensis Epistolarum
+          <lb/>familiarium libri duo ad diuer sos Germaniae Principes,
+          <lb/>Episcopos, ac eru ditione praestantes uiros, quorum
+          <lb/>Catalogus subiectus est.
+          <lb/>Marque typ. de Pierre Brubach (H. &amp;amp; B. Planche LXIX,
+          <lb/>n° 3.)
+          <lb/>Au-dessous : Cautum est publico edictoCaesareae Maies¬
+          <lb/>tatis, ne quis alius impune intra quatuor annos imprimat.
+          <lb/>Haganoae ex officina Petri Brubachij, 1536.
+          <lb/>In-40, car, rom., 8 ff. non ch., 343 pp. ch., mais seuls les chiffres impairs
+          <lb/>sont en haut des pages, les chiffres pairs manquent; titre courant, réclames,
+          <lb/>notes marg., belles et grandes init. à figures C, O, V, et de nombreuses
+          <lb/>petites init. ainsi qu’une bande d’ornement fol. A 2b.
+          <lb/>Au verso du titre : Privilège de Charles V.
+          <lb/>fol. A 2b : Dédicace :... Domino Mathiae Held, Caesareo Consiliario &amp;amp;
+          <lb/>Procancellario Germaniae, Jacobus Spiegel Selestadiensis S. D... — Ex
+          <lb/>Selestadio die tertia Martii: Anno a nato Seruatore M. D. XXXVI.
+          <lb/>fol. A 4b : ... Petro Brubacchio Typographo Haganoensi Jacobus
+          <lb/>Spiegel Doctor, Sacrique Lateranensis Palatii Comes. S. D... — Ex Selesta¬
+          <lb/>dio Nonis Januariis M. D. XXXVI.
+          <lb/>R. 101.061. Prov. : Don de la Bibl. Univ. de Königsberg 1872. A l’inté¬
+          <lb/>rieur de la couverture : ex-libris d’André Hedio, au-dessus : Andreas
+          <lb/>Hedio, Philosophiae in Academia Regiomontana Professór Publ. Ordinar.
+          <lb/>Electoralium Alumnorum Collegii et Convictorii Inspector Primarius.
+          <lb/>Au-dessous : 2 dist. lat.
+          <lb/>Au recto du f. de garde on a collé une grav. représentant une étoile
+          <lb/>avec une banderolle au-dessous : Plurimis Coelum, Paucissimis terram
+          <lb/>aspicit.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

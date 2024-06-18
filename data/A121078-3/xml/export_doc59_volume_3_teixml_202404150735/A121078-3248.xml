@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:09.681857+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3248.tif
+IMAGE WIDTH: 2334
+IMAGE HEIGHT: 3854
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>692
+          <lb/>Druckerm. Rihels. (HE B Tafel XXXI Nr. 9, Silvestre Nr. 599.)
+          <lb/>Cum Gratia &amp;amp; Privilegio, Excudebat Iosias Rihelius
+          <lb/>M. D. LXXVIII. (Rücks, leer.)
+          <lb/>Am Schluss: IN LIBERA ARGENTINA ! imprimebat, Iosias
+          <lb/>Rihelius.
+          <lb/>80, Kursiv u. Got., 72 unn. Bll., Sign. a-i, Kopft., Kust., Marg.,
+          <lb/>Init. M.
+          <lb/>1018
+          <lb/>R1024141. Prov.: Lippert, Halle 7. XII. 1886.
+          <lb/>GOLIUS Theophilus
+          <lb/>Strassburg, J. Rihel [um 15801
+          <lb/>GRAMMATICAE, SIVE Educationis puerilis, LINGVAE
+          <lb/>GRAECAE PARS ! ALTERA, PRO SCHOLA ARGEN- tinensi con¬
+          <lb/>scripta, &amp;amp; iam denuò! recognita atque aucta, PER THEO¬
+          <lb/>PHILVM GOLIVM.
+          <lb/>Druckerm. Rihels. (H E B Tafel XXXII Nr. 16.)
+          <lb/>CVM PRIVILEGIO CAESAREO. ] ARGENTORATI EX-] cudebat
+          <lb/>Iosias Rihelius. (Rücks, leer.)
+          <lb/>Am Schluss: ARGENTORATI EXCVDEBAT Iosias Rihelius.
+          <lb/>Dahinter ein gefaltetes Doppelbl.: Appendix de dictionibus Encli¬
+          <lb/>ticis, &amp;amp; Synencliticis Graecorum, M. Michaelis Boschij.
+          <lb/>8°, Griech, u. Antig., 372 S. u. 13 unn. Bll. (Index, 2sp.), Kopft.,
+          <lb/>Kust., Marg., Init.
+          <lb/>R102.416. Prov.: Geschenk der Mainzer Stadtbibl, 1871. Am
+          <lb/>Schluss 3 S. handschr. Notisen. Auf dem Titelbl.: P. Minorum Capuci¬
+          <lb/>norum Frankendalensium ex liberali donatione R. R. P. Sacellani Maioris
+          <lb/>1646.
+          <lb/>1019
+          <lb/>GOLIUS Theophilus
+          <lb/>Strassburg, J. Rihel 1582
+          <lb/>ONOMASTICON! LATINOGER-] MANICVM, IN VSVM ] scholae
+          <lb/>Argentoratensis! collectum à THEOPHILO GOLIO. ! Cum
+          <lb/>praefatione IOAN. STVRMII.
+          <lb/>Druckerm. Rihels. (He B Tafel XXXI Nr. 9; Silvestre Nr. 599.)
+          <lb/>Cum gratia &amp;amp; priuilegio Caesareo ad annos octo.
+          <lb/>M. D. LXXXII. (Rücks, leer.)
+          <lb/>80, Antig., Kursiv, Got., 2sp., 13 unn. Bll., 536 num. Sp., 18 S.
+          <lb/>(num, 537-554), Kust., Init.
+          <lb/>Bl. a 2a: AD ILLVSTRIS SIMVM PRINCIPEM D. JA- cobum
+          <lb/>Marchionem Badensem, Dominum in Hochburg &amp;amp;c. IOANNIS
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

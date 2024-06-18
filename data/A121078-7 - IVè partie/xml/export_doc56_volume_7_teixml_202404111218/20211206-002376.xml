@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:11.402278+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002376.tif
+IMAGE WIDTH: 2506
+IMAGE HEIGHT: 3968
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>MUENTZER, Thomas : Die Histori Thome Muntzers, des
+          <lb/>anfengers der Doeringischen uffrur... — Haguenau,
+          <lb/>Jean Secer s. d., in-4°.
+          <lb/>Walter, n° 1907.
+          <lb/>2733
+          <lb/>MUNDINUS : De omnibus humani corporis interioribus
+          <lb/>membris Anathomia. (Ed. Joh. Adelphus Muelichl. —
+          <lb/>(Strasbourg, Martin Flach 1513), in-4o.
+          <lb/>Choulant, Graph. Incunabeln, p. 130.
+          <lb/>2734
+          <lb/>MURMELIUS, Johannes : Anzeigung viler Päbstlicher miss¬
+          <lb/>breuch und Abgöttereyen. Mit gründtlicher Ableinung
+          <lb/>der selbigen... — (Strasbourg, dans l’imprimerie de
+          <lb/>Knobloch) s. d., in-80.
+          <lb/>Goedeke I2, p. 426, n° 42; Graesse IV, p. 628.
+          <lb/>2735
+          <lb/>MURMELIUS, Johannes : Quae Grammaticis Rudimenta
+          <lb/>affectantibus impendio conducibilis... — (Strasbourg,
+          <lb/>Martin Flach, novembre 1521), in-40.
+          <lb/>Schmidt VI, p. 35, n° 62 : Strasbourg, bibl. municipale et M.
+          <lb/>X; Weller 1902.
+          <lb/>2736
+          <lb/>MURNER, Thomas (Babylon. Gefängnis) : Von der Baby-
+          <lb/>lonischen gefengknusz der kirchen Doctor Martin
+          <lb/>Luthers. — Strasbourg, Jean Grüninger 1520, in-4°.
+          <lb/>Schmidt, Hist. litt. II, p. 427, n° 334; Balke : Thomas
+          <lb/>Murner (Deutsche National-Litteratur B 17, Il P. LVIII. 2737
+          <lb/>MURNER, Thomas : Ein andechtig geistliche Badenfart... —
+          <lb/>Strasbourg, Jean Grüninger uf sant Oszwalts tag
+          <lb/>(5 août] 1511, in-40.
+          <lb/>Balke, Thomas Murner (Deutsche National-Litteratur Bd. 17,
+          <lb/>I.] Stuttgart, p. XXI. [Une éd. Grüninger 1514, voir Ritter,
+          <lb/>Rép. n° 16081.
+          <lb/>2737a
+          <lb/>MURNER, Thomas (Badenfahrt) : Ein andechtig geistliche
+          <lb/>374
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

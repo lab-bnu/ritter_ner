@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:26.443355+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2007.tif
+IMAGE WIDTH: 2400
+IMAGE HEIGHT: 3824
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>d’encadrement.
+          <lb/>Gravure sur bois: la sainte robe sans couture, entourée de 4 pièces
+          <lb/>uff. Im iar. Tusent Fünff-hundert vnd Zwölff. (Verso blanc.)
+          <lb/>A la fin: Getruckt zu Straszburg durch Ma! thiam Hupf¬
+          <lb/>avec celle du titre; au verso du titre, la sainte Vierge avec l’enfant
+          <lb/>in-4°, car. goth., 14 ff. non ch., sign. a-c, init. à fig. D; 8 gravures
+          <lb/>Jésus sur les bras, à ses pieds deux anges en prière, fol. b 4b; deux
+          <lb/>anges debout, tenant la sainte robe.
+          <lb/>N° 921), 11/VI. 1879; 12 M.
+          <lb/>*R 100538. Prov.: K. Th. Völcker, Francfort s. M. (Catal. 68,
+          <lb/>Schmidt, V, No 98: Munich.
+          <lb/>ADELPHUS Joh. Historia von Rhodis, Strasbourg, M. Flach, 1513.
+          <lb/>Voir: Caoursin Guillaume, R 10.082.
+          <lb/>ADELPHUS Johannes
+          <lb/>Mundinus! De omnibus humani corporis! interioribus
+          <lb/>Strasbourg, M. Flach, 1813.
+          <lb/>menbris (!)! Anathomia.
+          <lb/>A la fin: Impressit Argentine Martinus Flach! Anno
+          <lb/>domini. M. D. Xiij.
+          <lb/>in-40, car. goth., 40 ff. non ch., sign. A-K, titre courant, notes
+          <lb/>marginales, initiales ornées et initiales d’attente.
+          <lb/>Au-dessous de l’explicit: grav. sur bois, homme nu, le torse ouvert,
+          <lb/>entouré des signes du zodiaque.
+          <lb/>Traité d’un médecin italien du 14e siècle, publié par Adelphus.
+          <lb/>Au verso du titre: Joannes Adelphus! Physicus Egregio
+          <lb/>Leonardo Apothecario Medico expertissimo, apud Basi¬
+          <lb/>leam, Amico Unico et dilecto... — Ex Argentina, ipso die
+          <lb/>beatorum martirum testium christi,... Anno... Millesimo
+          <lb/>quingentesimo Tredecimo.
+          <lb/>R 100618. Proo.: BN Munich, 19/VI. 1877; 1 M.
+          <lb/>Schmidt, VI, p. 28, No 38.
+          <lb/>ADELPHUS Johannes
+          <lb/>Sequentiarum! luculenta interpretatio:! nedum scho¬
+          <lb/>Strasbourg, J. Enobloch, 1513.
+          <lb/>lasticis, sed! et ecclesiasticis cogni! tu necessaria: per
+          <lb/>Jo an. adelphum phy sicum Argentinensem! collecta.
+          <lb/>Anno domini: M. D. XIII.
+          <lb/>in-4°, car. goth., sauf la préface qui est en car, rom., CXXXVI
+          <lb/>ff. ch., titre courant, notes marginales, fol. IIla: grande initiale G
+          <lb/>dans laquelle est représentée la mort de la sainte Vierge; titre encadré
+          <lb/>par J. Wechtelin, de chaque côté un arbre, sur chacun des arbres
+          <lb/>un homme sauvage; sur la bordure supérieure deux petits génies nus,
+          <lb/>dont celui de gauche prend l’homme avec un lacet, tandis que celui
+          <lb/>de droite tire sur l’homme de droite avec une flèche; au bas, un écu
+          <lb/>avec l’aigle impérisle; sur une banderole qui s’enroule en passant
+          <lb/>derrière l’écu avec l’inscription: cum privilegio imperiali.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

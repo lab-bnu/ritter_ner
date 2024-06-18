@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:37.083599+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu050.tif
+IMAGE WIDTH: 2382
+IMAGE HEIGHT: 3844
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>BIBLIA latina Pars IV. Strasbourg, (J. Grüninger), 3 novem¬
+          <lb/>bre 1492, in-fol.
+          <lb/>G W 4292, Hain 3169, Madsen 702, Pellechet 2348, Pellechet:
+          <lb/>Colmar 327, Proctor 462, Schreiber 3474, Voulliéme: Berlin
+          <lb/>2286, Schramm, Bilderschmuck XX, grav. N° 128-162.
+          <lb/>K757. Prov.: Don du prince de Bentheim. Notes mss. A l&amp;#x27;inté¬
+          <lb/>rieur du 1er plat: Carmeli Strigoviensis, au-dessous; «Aus der
+          <lb/>Bibliothek des Karmeliter Klosters zu Gross-Strenz.» Rel. anc.
+          <lb/>89
+          <lb/>BIBLIA latina cum concordantiis. Strasbourg, (J. Grüninger)
+          <lb/>26 avril 1497, in-fol.
+          <lb/>G W 4277, Hain 3122, Madsen 692, Pellechet 2338, Proctor 479,
+          <lb/>Schmidt I, 29, Schreiber 3471, Voulliéme: Berlin 2300.
+          <lb/>Schramm, Bilderschmuck XX, grav. N° 346.
+          <lb/>K 728. Prov.: Bibliothèque Reuss, Strasbourg, 28. IV. 1891.
+          <lb/>Incomplet, f. 1-8 manquent. Au recto du 1er f. de garde: Ulm
+          <lb/>1861, fr. 6. A côté, autographe d’Ed. Reuss. Rel. anc. 90
+          <lb/>BIBLIA germanica. 2. Bible allemande. (Strasbourg, H. Egge¬
+          <lb/>stein, pas après 14707, in-fol.
+          <lb/>G W 4296, Hain 3129, Madsen 705, Pellechet 2369, Proctor
+          <lb/>286, Voullième: Berlin 2145.
+          <lb/>K 731. Prov.: Baer et Co., Francfort-s.-M., 4. Il. 1884, 2400 M.
+          <lb/>Rel. anc.
+          <lb/>91
+          <lb/>BIBLIA germanica. Strasbourg, (J. Grüninger), 2 mai 1485,
+          <lb/>2 vol. in-fol.
+          <lb/>G W 4304, Hain 3138, Pellechet 2376, Proctor 443, Schreiber
+          <lb/>3462. Voullième: Berlin 2274.
+          <lb/>K 740. Prov.: Bibliothèque Reuss, Strasbourg, 28. IV. 1891.
+          <lb/>Notes mss. Au verso du f. de garde, en haut: Jure emptionis
+          <lb/>me possidet Joh. Georg à Zabern. Phil. C. 1754. Au-dessous,
+          <lb/>de la main d’Ed. Reuss: Ex-libris J. D. Brunneri V. D., 4 Janv.
+          <lb/>1845. Ed. Reuss. Rel, anc.
+          <lb/>92
+          <lb/>BocCACCIO Giovanni: De casibus virorum illustrium. [Stras¬
+          <lb/>bourg, G. Husner, vers 1474/5), in-fol.
+          <lb/>G W 4430, Hain 3338, Pellechet 2480, Pellechet: Colmar 352,
+          <lb/>Proctor 352, Voulliéme: Berlin 2200.
+          <lb/>K 799. Prov.: B. N. Munich, 18. XI. 1878, 15 M. Notes mss.
+          <lb/>Au 1er f.; «Monasterij Scheyensis». Rel. anc.
+          <lb/>93
+          <lb/>20
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

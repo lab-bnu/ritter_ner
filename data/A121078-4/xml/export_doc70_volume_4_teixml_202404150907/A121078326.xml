@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:52.269864+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078326.tif
+IMAGE WIDTH: 2324
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1212
+          <lb/>PLINIUS Secundus Cajus (junior) : Liber illustrium virorum.
+          <lb/>Voir aussi SEXTUS Aurelius Victor.
+          <lb/>PLUTARCHUS: Plutarchi Libellus de differentia inter odium
+          <lb/>et invidiam. Voir: ATHANASIUS: Magni Athanasii in psal¬
+          <lb/>mos opusculum. Strasbourg, M. Schurer 1508, fol. FIa-F 3a
+          <lb/>(N° 104). Voir en outre: CATO: Praecepta moralia, 1516, 1519.
+          <lb/>No 4r0-4r1.
+          <lb/>PLUTARCHUS: Liber de illustrium mulierum virtutibus. Voir:
+          <lb/>NEPOS Cornelius : Aemilii Probi vitae excellentium impe¬
+          <lb/>ratorum. Strasbourg, M. Schurer 1511.
+          <lb/>PLUTARCHUS
+          <lb/>Strasbourg, M. Schurer 1516
+          <lb/>PLVTARCHI CHE(ronei de Philosophorum Placitis libel
+          <lb/>lus elegantissimus, interpre- te Guilielmo Budeo. (Verso
+          <lb/>blanc.)
+          <lb/>A-la fin: Argentorati, Ex Aedibus Schurerianis! Mense
+          <lb/>Julio. M DXVI.! REGNANTE CAES. MAXIMILIANO. ( P. F. AVG.
+          <lb/>In-4°, car, rom., 4 ff. non ch., XXXIX ff. ch., titre courant, init.
+          <lb/>ornées P et T; titre encadré.
+          <lb/>Fol. 2a non ch.: Jacobus Stapulensis Hieronymo suo. S. Au verso:
+          <lb/>Prologus! Guillielmi Budei Parisiensis Regii Secretarii in Libros! Plu¬
+          <lb/>tarchi, De Placitis Philosophorum naturali bus e graeco in latinum con¬
+          <lb/>versos. Ad clarissi mum virum Germanum Ganeium Parla-] mentarem
+          <lb/>consiliarium, Belvacensis ec- clesiae Decanum. Prefatio.... — Parisiis
+          <lb/>calendis Januariis. M. D. Il. (4 pp.)
+          <lb/>R100.047. Prov.: J. Jolowicz, Posen 40/1 1882; 1 M. 50. Anno¬
+          <lb/>tations mss.
+          <lb/>Proctor II Sectio I n° 10239: Londres, Rritish Museum; Schmidt
+          <lb/>VIII n° 191: Jadis Bibl. de Strasbourg, incun, n° 3893 et BM de
+          <lb/>Zurich.
+          <lb/>1893
+          <lb/>PLUTARCHUS
+          <lb/>Strasbourg, J. Schott 1534
+          <lb/>Plutarchi von! Cheronea! unnd anderer Kurtz weise
+          <lb/>und höfliche! Sprüch.! Darausz ein veder Leszer, zû¬
+          <lb/>gleich! lust, und nutz schöpffen mag, in hoh! hen, auch
+          <lb/>sittlichen tugenden sich zû! regieren, usz vorbildung der
+          <lb/>Alten.Neülich durch Heinrich von Eppendorff, usz dem
+          <lb/>Latin in Teütsch verdollmetscht.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

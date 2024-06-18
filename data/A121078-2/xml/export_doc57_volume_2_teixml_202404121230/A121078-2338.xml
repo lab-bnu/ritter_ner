@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:36.460487+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2338.tif
+IMAGE WIDTH: 2318
+IMAGE HEIGHT: 3812
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>334
+          <lb/>fol. a 7b: Franciscvs Pe- trarcha. M. T. Ciceroni. S...—
+          <lb/>M. CCC. XL.
+          <lb/>Vol. II. fol. a 2a: Ad.. Domi um Vuolffgangum à
+          <lb/>Grünensteyn Abba tem Campidunensem.
+          <lb/>A l&amp;#x27;Index suivent dans les 2 volumes les Scholia Manutii avec
+          <lb/>un titre special: Vol. I. Pavli Manvtii Scholia, quibvs et loci
+          <lb/>fami-liarivm epistolarvm diffi- ciliores explicantvr, et ca¬
+          <lb/>stigationvm, quae in iis- dem epistolis factae svnt, ratio
+          <lb/>redditvr.
+          <lb/>Marque typ. de Wend. Rihel (HE B, Planche XXIX, No 3;
+          <lb/>Silvestre, N° 740.)
+          <lb/>Au-dessous: Argentorati per Vuendelinum Rihelium,
+          <lb/>Anno M. D. XLIX.
+          <lb/>In-8°, car. ital., 40 ff. non ch., sign. AAA-EEE, titre courant,
+          <lb/>initiales d’attente.
+          <lb/>Au verso du titre: Pavlvs Manvtivs Aldi F. Literarvm
+          <lb/>stv- diosis. S. P. D.
+          <lb/>Titre du vol. II: Pavli Manvtii in epistolas ad Atticvm,
+          <lb/>ad Brutum, ad Quintum fratrem scholia, quibus additi
+          <lb/>locorum sensus osten- duntur, cum explicatione ca¬stiga¬
+          <lb/>tionum, quae in his epi- stolis pene innumerabi- les
+          <lb/>factae sunt.
+          <lb/>Marque typ. de Wend. Rihel (Hd B, Planche XXIX, NO 3;
+          <lb/>Silvestre, N° 740.
+          <lb/>Argentorati per Vuendelinum Rihelium, Anno M. D. L.
+          <lb/>(Verso blanc.)
+          <lb/>In-8°, car. ital., 23 ff. non ch, sign. AAA-CCC, dernier f. blane.
+          <lb/>R101.673. Prov. : Don de Hugo Barbeck, Nuremberg, 16/X.
+          <lb/>1877. Rel. ane. avec la date 1556 à l’extérieur du Ier plat du 2e vol.
+          <lb/>2e ex. du 1er vol.: R101652.(1) Prov.: Don du pasteur Riedel,
+          <lb/>Lubeck, 21/XI. 1877. Rel, anc.
+          <lb/>3e ex. (Ier vol.): R 101.687.(2) Prov.: Don du prof. F A. Menke,
+          <lb/>Brême, 1873. Au titre : Johannes Heppius Lecensis Wascovius, Anno
+          <lb/>1690. Rel. anc.
+          <lb/>509
+          <lb/>GPB: BU Breslau.
+          <lb/>CICERO
+          <lb/>Strasbourg, W. Rihel, 1549.
+          <lb/>(Vol. Il: M. TVL. CICERONIS LIBRORVM PHILOSOPHICO¬
+          <lb/>RVMuolumen primum. Post Naugerianam &amp;amp; Vi- ctoria¬
+          <lb/>nam correctionem. EMENDATVM A IOAN. STVRMIO.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:07.098051+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002216.tif
+IMAGE WIDTH: 2496
+IMAGE HEIGHT: 3974
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>GESANGBÜCHLEIN, Wittenbergisch. Voir: WALTHER, Joh.
+          <lb/>n° 3463/4.
+          <lb/>GESATZ, und ordnunge der... statt Straszburg. — Strasbourg
+          <lb/>(Mathias Hupfuffl (17.IX.] 1501, in-4°.
+          <lb/>Schmidt V, n° 14; Weller, Rep. 189. Einsiedeln.
+          <lb/>1897
+          <lb/>GESCHICHT des pfarrers von Kalenberg. — Strasbourg,
+          <lb/>Jean Grüninger avant 1515.
+          <lb/>Heitz-Ritter, n° 263; Dollmayr : Geschichte des Pfarrers
+          <lb/>von Kalenberg [Neudrucke des XVI. u. XVII. Jhd., fasc. 212-
+          <lb/>214) p. VIII : « Verlorener Strassburger Druck », aus der
+          <lb/>Offizin Grüningers, wovon 2 Holzstöcke im Besitze Heitz,
+          <lb/>jetzt in der Strassburger Stadtbibliothek.
+          <lb/>1898
+          <lb/>GESCHICHT : Ein warhafftig geschicht wie Caspar Tawber.
+          <lb/>Burger zu Wien... für ein Ketzer zu todt verurtaylt
+          <lb/>worden ist. — [Strasbourg, René Beck) 1524, in-4°.
+          <lb/>Kuczyński 2612; Baer, Catal. 500 (1907), n° 1337; 50 M.;
+          <lb/>Rabus, Historien VI, p. 22 et suiv.
+          <lb/>1899
+          <lb/>GESCHICHT : Ein wunderbarliche und warhafftige geschicht...
+          <lb/>In der Churfürstlichen Statt Wittemberg in Sachsen
+          <lb/>gelegen, den Achtzehenden tag Herbstmonat im Jar
+          <lb/>M. D. XLVII. — Strasbourg, Jacques Frölich (15471,
+          <lb/>placard in-fol.
+          <lb/>Hellmann, p. 44; Lykostenes, p. 597; Weller, Annalen II,
+          <lb/>121. Bibl. Centrale de Zurich.
+          <lb/>1900
+          <lb/>GESCHICHT : Ein warhafftige und Erschröckliche Geschicht,
+          <lb/>welche sich den iij. tag Septembris, in disem LXXI.
+          <lb/>Jar in der... Reichsstatt Magdenburg verlauffen und
+          <lb/>zugetragen hat. — Strasbourg, Pierre Hug 1571, placard
+          <lb/>in-fol. (Mariage d’un riche citoyen Wolff Heinrich
+          <lb/>d’Erlitz dans les salles de la mairie, survient un orage,
+          <lb/>un vieillard conseille en vain d’interrompre la fête, mais
+          <lb/>les gens restent, excepté lui et sa famille; la foudre
+          <lb/>214
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:04.454751+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002111.tif
+IMAGE WIDTH: 2508
+IMAGE HEIGHT: 3994
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Benzing : Egenolff n° 25 : Mit 3 Holzschn. von H. Vogtherr:
+          <lb/>Londres, Brit. Museum. Hiersemann 276.173.
+          <lb/>1330
+          <lb/>CHARLES VIII (roi de France) : Botschaft und Werbung an
+          <lb/>Kaiser Friedrich III. — Strasbourg, Jean Grüninger
+          <lb/>s. d., in-4°.
+          <lb/>Voulliéme : Berlin 2318, II.
+          <lb/>1331
+          <lb/>CHARLES VIII. Voir aussi : COMINES, Phil, n° 1424.
+          <lb/>CHARLIER de Gerson. Voir: GERSON.
+          <lb/>CHASSANION. Jean: La réfutation des erreurs estranges et
+          <lb/>blasphèmes horribles... d’un.., malheureux qui pour
+          <lb/>telles impiétez a esté... bruslé en la cité de Metz, le
+          <lb/>29 juin 1582... — Strasbourg, Nicolas Wyriot 1583, in-80.
+          <lb/>BN Paris: D2 15.159; 1 p. Réimpression du titre seul en fac¬
+          <lb/>similé.
+          <lb/>1332
+          <lb/>CHATILLON, Gautier de. Voir : CAOURSIN n° 1286.
+          <lb/>CHELIDONIUS, Benedictus : Passio Jesu Christi... vario
+          <lb/>carminum genere... descripta. — [Strasbourg, Jean
+          <lb/>Knobloch 1506), in-fol. (illustré par Wechtelinl.
+          <lb/>Schmidt VII, n° 23 : Bâle, Bibl. der Kunstsammlung;
+          <lb/>Graesse V, p. 155 : « C’est le texte latin de l’opuscule intitulé:
+          <lb/>Das Leben Jesu Christi... Strassburg, Joh. Knobloch 1508»;
+          <lb/>Hiersemann (Leipzig), Catal, 557 (1925) n° 389.
+          <lb/>1333
+          <lb/>CHRONICA der Altenn Christlichen kirchen... durch D. Caspar
+          <lb/>Hedio verteutscht (1re éd. de la Chronique de Hédio). —
+          <lb/>Strasbourg, Georges Ulricher 1530, in-fol.
+          <lb/>(Ritter, Rép. n° 1093 à Hedio).
+          <lb/>1334
+          <lb/>CHRONICA : Türckei. Chronica, Glaube, Gesatz, Sitten,
+          <lb/>Herkommen... Von einem Sibenburger, so da in Türckei
+          <lb/>gefencklich bracht... Im 1436. Jar beschriben. —
+          <lb/>Strasbourg, Christian Egenoff, janvier 1530, in-40.
+          <lb/>109
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

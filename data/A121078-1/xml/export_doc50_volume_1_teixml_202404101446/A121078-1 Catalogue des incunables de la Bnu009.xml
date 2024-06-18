@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:36.492766+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu009.tif
+IMAGE WIDTH: 2386
+IMAGE HEIGHT: 3842
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>sieur J. Walter et ceux de la Bibliothèque Municipale de
+          <lb/>Colmar d’après le Catalogue de Pellechet. Les renvois à
+          <lb/>Kristeller, Schreiber et Schramm orientent le lecteur sur les
+          <lb/>gravures contenues en grand nombre dans les livres alsa¬
+          <lb/>ciens du 15e siècle, reproduites pour la plupart chez
+          <lb/>Schramm; j’ai eu soin d’indiquer chaque fois les numéros
+          <lb/>des reproductions de ce dernier. En dernier lieu vient la
+          <lb/>cote de l’exemplaire de la Bibliothèque Nationale de Stras¬
+          <lb/>bourg, avec l’indication de la provenance, que j’ai pu
+          <lb/>retrouver pour la plupart du temps dans les anciens inven¬
+          <lb/>taires de la Bibliothèque. La moitié des incunables environ
+          <lb/>est due à des dons faits soit par des particuliers soit par des
+          <lb/>bibliothèques publiques; une grande partie provient des
+          <lb/>doubles des grandes bibliothèques comme Munich, Vienne,
+          <lb/>Breslau, Gœttingue, Heidelberg et autres qui ont vendu ces
+          <lb/>doubles à la Bibliothèque à des prix très modérés; le reste
+          <lb/>se compose d’achats d’occasion faits chez les libraires et les
+          <lb/>antiquaires, quelquefois aussi chez des particuliers. On
+          <lb/>trouvera à la fin du livre dans la liste des noms propres les
+          <lb/>noms des donateurs ainsi que des vendeurs. Remarquons
+          <lb/>enfin qu’un grand nombre d’incunables contiennent des
+          <lb/>notes manuscrites qui nous révèlent assez fréquemment des
+          <lb/>noms d’anciens possesseurs, (anciens monastères, églises ou
+          <lb/>particuliers), parmi lesquels il est fréquent de rencontrer
+          <lb/>des personnages illustres des 15e, 16e et 17e siècles; on trou¬
+          <lb/>vera leurs noms dans la liste alphabétique des noms propres
+          <lb/>à la fin du volume. Chaque fois que j’ai trouvé des anno¬
+          <lb/>tations manuscrites de quelque intérêt, j’ai eu soin de les
+          <lb/>noter.
+          <lb/>La Bibliothèque Nationale de Strasbourg a acquis ainsi
+          <lb/>au cours des 67 années de son existence environ cinq cents
+          <lb/>incunables d’origine alsacienne, c’est de loin la plus riche
+          <lb/>collection d’incunables alsatiques qui existe en Alsace; la
+          <lb/>Bibliothèque Municipale de Sélestat malgré sa grande
+          <lb/>ancienneté n’en compte que 105 d’après le catalogue de
+          <lb/>M. Walter, et celle de Colmar, d’après le catalogue de Pelle¬
+          <lb/>chet en comptait 250 en 1895.
+          <lb/>IX
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

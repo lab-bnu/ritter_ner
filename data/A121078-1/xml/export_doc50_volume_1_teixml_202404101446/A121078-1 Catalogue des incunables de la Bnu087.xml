@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:37.754885+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu087.tif
+IMAGE WIDTH: 2392
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>JOHANNES CHRYSOSTOMUS: Homiliae super Matheum.
+          <lb/>(Strasbourg, Joh. Mentelin, vers 1465), in-fol.
+          <lb/>Hain 5034, Madsen 2253, Proctor 197, Pellechet: Colmar 470,
+          <lb/>Voulliéme; Berlin 2103, Schorbach: Mentelin N° 8.
+          <lb/>K 1174. Prov.: Don de la Bibl. Univ. Goettingue, 1871. Rel.
+          <lb/>anc.
+          <lb/>264
+          <lb/>JOHANNES GALLENSIS: Communiloquium seu Summa colla¬
+          <lb/>tionum. Strasbourg, (imprimeur du Jordanus (— G.
+          <lb/>Husner)), 25 mai 1489, in-fol.
+          <lb/>Hain 7444, Madsen 2267, Pellechet: Colmar 633, Proctor 649,
+          <lb/>Voulliéme: Berlin 2428.
+          <lb/>K 2191 (1). Prov.: BN Munich, 22. I. 1880, M. 0,50. Notes mss.
+          <lb/>Au verso du titre, cachet de la BN de Munich. Rel. anc. 265
+          <lb/>JOHANNES DE GARLANDIA: Composita verborum. (Strasbourg,
+          <lb/>J. Prüss), 1490, in-4°.
+          <lb/>Hain 5579, Proctor 575, Schmidt I, 14.
+          <lb/>K 1310. Prov.; Don de Fidelis Butsch fils, Augsbourg, 1872.
+          <lb/>A la fin du livre 12 ff. mss.
+          <lb/>266
+          <lb/>JOHANNES DE GARLANDIA: Distigium seu Cornutus. Hague¬
+          <lb/>nau, H-Gran, 1489, in-4°.
+          <lb/>Hain 7470, Pellechet 4992, Proctor 3169.
+          <lb/>K 1672. Prov.: Librairie Trübner, 21. XI. 1884, 25 M. 267
+          <lb/>JOHANNES HILDESHEMIENSIS: Buch der heiligen drei Könige.
+          <lb/>(Strasbourg, J. Prüss, vers 1480), in-fol.
+          <lb/>Hain 9400, Kristeller 37, Schramm, Bilderschmuck XX,
+          <lb/>grav. N° 1264-1271, Schreiber 4366.
+          <lb/>K 2198. Prov.: Vente Trübner, Strasbourg (Catal. N° 129),
+          <lb/>30. x. 1886, 294 M. Rel. anc.
+          <lb/>268
+          <lb/>JOHANNES DE LAPIDE. Voir: Lapide Johannes de.
+          <lb/>JOHANNES PRESBYTER: De ritu et moribus Indorum. (Stras-
+          <lb/>bourg, H. Knoblochtzer, s. d.), in-4°.
+          <lb/>Hain 9429, Madsen 2303, Proctor 386, Pellechet: Colmar 831,
+          <lb/>Schorbach-Spirgatis, Knoblochtzer 36.
+          <lb/>K 2207. Prov.: O. Harrassowitz, Leipzig 30. I. 1890, 75 M. 269.
+          <lb/>57
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

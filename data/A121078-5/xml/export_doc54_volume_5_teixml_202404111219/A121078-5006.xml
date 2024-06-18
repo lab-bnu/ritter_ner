@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:48.830766+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5006.tif
+IMAGE WIDTH: 2382
+IMAGE HEIGHT: 3882
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1314
+          <lb/>Proctor II, Sectio I, n° 10.168 A : Londres, British Museum. Schmidt
+          <lb/>VIII, n° 16 : Bibl. St.-Guillaume et jadis Bibl. de Strasbourg, Incun.
+          <lb/>n° 1415, 4140.
+          <lb/>Walter, BM Sélestat, n° 2172.
+          <lb/>2047
+          <lb/>SABELLICUS Marcus Antonius Coccius, De artium inventoribus.
+          <lb/>Voir: VERGILIUS Polydorus, De inventoribus.
+          <lb/>Strasbourg, M. Schürer, 1509, 1512
+          <lb/>SABELLICUS Marcus Antonius Coccius, Pomponii vita. Voir:
+          <lb/>POMPONIUS, Opera.
+          <lb/>Strasbourg, M. Schürer, 1510
+          <lb/>SABELLICUS Marcus Antonius Coccius
+          <lb/>Strasbourg, M. Schürer, 1511
+          <lb/>Marci Antonii Coccii Sabel-lici Exemplorum Libri
+          <lb/>Decem, Ordine Ele !! gantia et utilitate Prae-[ stantissimi...
+          <lb/>A la fin : Matthias Schürerius !! Heluetensis, stamneis usus
+          <lb/>calamis, Argen!! torati oppido que emendate denuo! exscrip¬
+          <lb/>sit. iij idus Decembris.Anno. M. D. XI. Conrado dunt¬
+          <lb/>zenhemio. II.Dictatore Argentorat.DN. Imp. Caes.
+          <lb/>Maximiliano Austrio P. F. Avg. Ro. !! Imperii Summam!
+          <lb/>Obtinente. Tempus obserua.
+          <lb/>In-fol., car, rom., XCIX ff. ch. (le dernier f. est chiffré par erreur
+          <lb/>XCXIX), titre courant, quelques annotations marg., init. d’attente.
+          <lb/>Les mêmes préfaces que dans l’édition de 1509 ainsi que l’adresse au
+          <lb/>lecteur fol. 99.
+          <lb/>&amp;quot;R. 10.228. Prov. : Don de la Bibl. Univ. de Gœttingen, 1871.
+          <lb/>Annotations mss. A l’intérieur du ler plat : Jos. Matt. Gesnerus 1716.
+          <lb/>ex auct. Hartung; au haut du titre : Ex Testamento R. P. M. Nicolai
+          <lb/>Greiffen Canonici Senioris in Haugis». Ritter, BM Strasbourg 1856;
+          <lb/>Schmidt VIII, 61 BM. de Colmar et Bâle.
+          <lb/>2048
+          <lb/>SABELLICUS Marcus Antonius Coccius
+          <lb/>Strasbourg, M. Schürer, 1518
+          <lb/>Marci An! tonii Coccii Sa-(bellici Exem-plorum libri
+          <lb/>decem, ordi-ne, elegana, et vti ] litate praestan-
+          <lb/>tissimi...
+          <lb/>A la fin : Matthias Schurerius Selestatensis, stanne-is
+          <lb/>usus calamis, Argentorati oppido que emendate exscri¬
+          <lb/>psit. iij. Nonas Nouembris. Anno. M. D. XVIII.Dn. imp.
+          <lb/>Caes. Maximiliano av! strio p. f. avg. ro. imperii summam
+          <lb/>obtinente.
+          <lb/>Au-dessous, marque typ. de Matthias Schürer, (H. &amp;amp; B., Plan¬
+          <lb/>che XIII, No 5, Silvestre, No 692.)
+          <lb/>In-4°, car. rom., 4 ff. non ch., XCIX ff. ch., titre encadré : au haut et
+          <lb/>des 2 côtés des ornements et des enfants qui jouent et font de la musique,
+          <lb/>en bas 8 enfants nus qui courent l’un derrière l’autre.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

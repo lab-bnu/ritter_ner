@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:14.692847+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002535.tif
+IMAGE WIDTH: 2520
+IMAGE HEIGHT: 3952
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>anfahend, Was hilffts, lieber bruder, so yemandts sagt,
+          <lb/>er hab den glauben &amp;amp;c. Bisz zu end des selben Capitels...
+          <lb/>Zu eren dem wirdigen und gelerten herr Jacob Kornkauff,
+          <lb/>Pfarrherren zu Geydertheim M. D.xxiiij. — (Strasbourg,
+          <lb/>J. Schwan (?)1 1524, in-4°.
+          <lb/>Bibl. S. Guillaume, Strasbourg.
+          <lb/>3568
+          <lb/>WURTZGARTLEIN : Ich zeunt mir nechten einen Zaun. —
+          <lb/>(Strasbourg, Th. Berger) (vers 1570), in-fol.
+          <lb/>Vogeleis, p. 314.
+          <lb/>3569
+          <lb/>WYLE, Nicolaus von : Transzlazion oder tütschungen des
+          <lb/>hochgeachten Nicolai von Wyle : den zyten Statschriber
+          <lb/>der Stat Esselingen ; etlicher bücher Enee silvij : Pogii
+          <lb/>florentini : felicis hemerlin : doctoris mit sampt andern
+          <lb/>schrifften dern xviii, nach einander underschydenlichen
+          <lb/>mit iren figuren und titeln begriffen sind. (En tout
+          <lb/>18 écrits, dont 16 traductions). — (Strasbourg, Jean
+          <lb/>Prüss (29. VIII) 1510), in-fol.
+          <lb/>Panzer, Annalen I, 325; Schmidt III, p. 24, n° 80. — Bibl.
+          <lb/>cantonale Aarau, B N Munich.
+          <lb/>3570
+          <lb/>(WYRIOT, Nicolaus) : Ein Newe und bewerte Rossartzney,
+          <lb/>Darinnen allerhand gebresten, so innerlich und eusserlich
+          <lb/>des leibs der Rossen zustehen oder begegnen möchten.
+          <lb/>Wie dieselben möge geholffen und geheilet werden. —
+          <lb/>Strasbourg, Nicolas Wyriot 1583, in-fol.
+          <lb/>Schottenloher 40.766 c.
+          <lb/>3571
+          <lb/>XÉNOPHON: Symposium... Compendiosa explicatio in
+          <lb/>aerrores Ulyssis odysseae Homericae, cum contempla¬
+          <lb/>tione morali elaborata, opera ac studio Vincen. Obsopoei
+          <lb/>aedita. — Haguenau, J. Secer, juillet 1531, in-8°.
+          <lb/>Burg, n° 453.
+          <lb/>3572
+          <lb/>XÉNOPHON : Xenophontis Cyri Paediae, Libri primi Latina
+          <lb/>conversio: &amp;amp; Thematum omnium, phrasiumque diffici¬
+          <lb/>533
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

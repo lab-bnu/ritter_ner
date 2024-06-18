@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:29.716653+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2114.tif
+IMAGE WIDTH: 2320
+IMAGE HEIGHT: 3830
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>110
+          <lb/>ringischen Garnison! daselbst, Geschehen Den 15. Nouem¬
+          <lb/>bris Stylo veteri, Dieses zu end lauffenden 1592. Jars.
+          <lb/>Vignette qu’on rencontre souvent chez A. Bertram.
+          <lb/>Anno Christi, 1592. (Verso blanc.)
+          <lb/>A la fin: ... Donstags (1) den 16. No- uembris, Im Jar
+          <lb/>Christi.M.D.Lxxxxij. ENDE. (Vignette.)
+          <lb/>In-40, car goth., 4 ff. non ch. dont le dernier blanc, réclames, ini¬
+          <lb/>tiale goth. D, 2 vignettes.
+          <lb/>R102.309. Prov.: Bibl. Heitz.
+          <lb/>185
+          <lb/>BERINGER Jac. Voir: TESTAMENT, das nüw. 1527. R10.225.
+          <lb/>BERKEN Johannes
+          <lb/>Strasbourg, J. Grüninger, 1505.
+          <lb/>Vita sanctorum Geruasii et Pro thasij cum sermone
+          <lb/>et translatione Ad oppidum Brisach quorum ossa ibidem
+          <lb/>habentur.
+          <lb/>Au-dessous, gravure sur bois: St. Gervase et St. Prothase, au fond
+          <lb/>une maison avec une tour; sous la gravure les armoiries de la ville
+          <lb/>de Brisach.
+          <lb/>A la fin: Impressum Argentine per Johannem Grünin¬
+          <lb/>ger. m. ccccc. v. (Verso blanc.)
+          <lb/>In-4°, ear. goth., 12 ff. non ch., sign. A-B; titre courant, notes mar¬
+          <lb/>ginales, initiales ornées I, N, A, I, S.
+          <lb/>&amp;quot;R101428. Prov.: Trübner, Strasbourg, 23/11I. 1882, 10M.
+          <lb/>Annotations mss.
+          <lb/>Proctor II, Sectio I, No 9896: Londres, British Museum; Schmidt
+          <lb/>L Ne 73; BM Strasbourg [432l.
+          <lb/>186
+          <lb/>BERNARDUS Sanctus
+          <lb/>Strasbourg, J. Enobloch, 1507.
+          <lb/>DIVVS BERNARDVS IN SYMBO- LVM APOSTOLORVM.) Idem
+          <lb/>in orationem dominicam. Idem de fide Christiana.
+          <lb/>THOMAS WOLPHIVS IVNIOR IN] PSALMVM BENEDICAM.
+          <lb/>A la fin: Argentoraci, quae in- signis Eluetiorum vrbs
+          <lb/>est: Nonis lanuarijs Anno Christi! septimo &amp;amp; quingente¬
+          <lb/>simo supra millesimum.loannes Knoblochus imprimebat,
+          <lb/>Matthias Schürerius recognouit.
+          <lb/>In-4°, car, rom., 27 ff. non ch., sign. A-F, initiales ornées A, C.
+          <lb/>Au verso du titre: IACOBVS WIMPHELANGVS IACOBOI STVR¬
+          <lb/>MO.. ET COS ME WOLPHIO HASELACEN) SI CANONICO. ... —
+          <lb/>ex aedibus! Martini Sturmi. XIX. Kalend. Decembris. Anno
+          <lb/>Christi! M.CCCCC.VI.
+          <lb/>Fol C2: THOMAS WOLPHIVS IVNIOR! DECRETORVM Doc¬
+          <lb/>TOR IOANNI KEISERSBER GIO... — Argentoraci : Cursim
+          <lb/>ex aedi, no! stris. Pridie Idus Iul. Anno. M. D.V.I.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

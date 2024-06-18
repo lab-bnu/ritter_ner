@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:53.201024+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5113.tif
+IMAGE WIDTH: 2344
+IMAGE HEIGHT: 3858
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1421
+          <lb/>fol. 2a non ch. : Prologus. 11 Iohannes ulricus Sur I! gant : utriusque
+          <lb/>iuris doctor: curatus ec- Il clesie parochialis sancti Theodori mar II tyris:
+          <lb/>minoris Basilee Constansiensis diocesis II provincie Moguntine : honora¬
+          <lb/>bilibus... viris Petro keszler de harten Herbipolensi &amp;amp;c. Iohanni
+          <lb/>Bruwyler! de opido sancti Galli Constansiensis diocesis : adiutoribus
+          <lb/>meis !! salutem... Ex Basilea. viij. idus Nouem !! bris. Anno Millesimo
+          <lb/>quingentesimosecundo. Suivent 6 ff. de table.
+          <lb/>R. 101.436. Prov. : BN Munich, 10/IV, 1882, 0,50 M.
+          <lb/>f. du titre manque, je l’ai cité d’après Schmidt III, 56. Celui-ci ne
+          <lb/>mentionne pas notre exemplaire, il signale celui de Bâle et Jadis Bibl.
+          <lb/>Strasbourg Incun. No 4354.
+          <lb/>Au recto du f. de garde, annotation mss. : « Titulum quo destitutus
+          <lb/>erat liber, descripsi ex eiusdem libri editione Basileensi, anno 1508 ».
+          <lb/>2258
+          <lb/>SURGANT Iohannes Ulricus
+          <lb/>Strasbourg, J. Schott, 1516
+          <lb/>Manu! ale Cu ra- torum: predicandi prebens!! modum:
+          <lb/>tam latino, quam v-gari, passim quoque gallico ser- mone
+          <lb/>practice illuminatum.Cum certis alijs ad curam ani¬
+          <lb/>marum pertinentibus. Omnibus!! Curatis tam conducibilis,
+          <lb/>quam salubris. 1516.
+          <lb/>En bas, sous le cadre: Ioannes Schottus, entre les deux
+          <lb/>noms, le monogramme de J. Schott en rouge (H. &amp;amp; B.
+          <lb/>Planche III, No 7),
+          <lb/>A la fin : Impensis Pauli Götz, Johannes Schottus!! Argen¬
+          <lb/>tine castigatius pressit, 26. Februarij. 1 Anno christiano 1516.
+          <lb/>(Verso blanc.)
+          <lb/>In-4°, car. goth., 6 ff. non ch., 112 ff. ch., titre courant, init. P (blanc
+          <lb/>sur fond noir) et init. ornée, titre rouge et noir, encadré. L’encadrement
+          <lb/>propre à Schott est de Wechtelin : des deux côtés, un tronc d’arbre, au
+          <lb/>sommet de chacun, un homme sauvage nu; sur celui de gauche un enfant
+          <lb/>perché sur la bande supérieure, jette un lacet; sur celui de droite un
+          <lb/>autre enfant, également debout dans la bande supérieure tire une flèche;
+          <lb/>au bas, écu avec l’aigle impériale et une bande, qui est sans inscription.
+          <lb/>Au fol. 21b grav. sur bois (voir la figure, page suivante).
+          <lb/>Au verso du titre : Prologue comme dans l’édition de 1506). Suivent
+          <lb/>6 ff. de table.
+          <lb/>&amp;quot;R 101.435. Prov. : BN Munich, 10/IV, 1882; 0,70 M. Notes mss.
+          <lb/>2e ex. &amp;quot;R. 102.153 (2). Prov. : Trübner (Vente Zimberlin), 24/IV, 1882;
+          <lb/>6M.
+          <lb/>A l’intérieur de la couverture ex-libris avec l’annotation mss. : « Ad
+          <lb/>me Ant. Georgium Zimberlin Ferrettensem. 1818. Derrière l’explicit:
+          <lb/>« Prima editio hujus libri prodiit anno 1514...».
+          <lb/>Grand Séminaire. Strasbourg, Incun. C 15; Proctor II, Sectio I,
+          <lb/>No 10278 : British Museum, Londres, Schmidt II, No 35 : BM Strasbourg
+          <lb/>15941 et Jadis Bibl. Strasbourg, Incun. No 4362; Ritter, BM Stras¬
+          <lb/>bourg, n° 2038. Walter, Sélestat, No 2233.
+          <lb/>2259
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

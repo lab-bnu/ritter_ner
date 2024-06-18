@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:11.848499+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3339.tif
+IMAGE WIDTH: 2374
+IMAGE HEIGHT: 3854
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>statt Strasz- burg, vff Sontag den sybenden Febru. des
+          <lb/>XXXV.jars. Den zünfften doselbst vff jren stuben für
+          <lb/>gehalten haben, sampt den Mandaten vnd Constitution,
+          <lb/>so darinn gemeldt werden, Vnd am nächstenBlatt ver¬
+          <lb/>zeichnet sind.
+          <lb/>Am Schluss: Getruckt z0̂ Straszburg durch Hans preüs¬
+          <lb/>sen. Anno. M. D. XXXV. (Rûcks, leer.)
+          <lb/>40, Got., 24 unn. Bll., Sign. A-G, Kust., Init.
+          <lb/>Auf der Rücks. des Titelbl.: Inhalt dis Bûchs.! L. Mandat
+          <lb/>von dem Sontag... Il. Mandat das sich die Burger der
+          <lb/>Secten vnnd für- nemlich der Widertäuffer entschlahen
+          <lb/>sollen. IIl. Mandat das die Burger ijre Kinder.., am Son¬
+          <lb/>tag zur predig füren... IIII. Mandat von den kirchenpfle¬
+          <lb/>gern vnd irem ampt. V. Mandat das allein das heilig gots¬
+          <lb/>wort geprediget sol werden... Vl. Mandat das man keine
+          <lb/>schmachbüchlein, schantlich gemäldt noch spiel, feil haben,
+          <lb/>Spielen noch verkauffen solle etc. (Im ganzen 10 Verordnungen.)
+          <lb/>*R102.277. Herkunft unbekannt. (Wahrscheinlich aus der Bibl.
+          <lb/>Heite, Strassburg.) Handschr. Randnotizen.
+          <lb/>Fehlt bei Schmidt.
+          <lb/>1161
+          <lb/>781
+          <lb/>HERTZOG Bernhard
+          <lb/>Strassburg, B. Jobin 1592
+          <lb/>CHRONICON ALSATIAE.! Elsässer Cronickvnnd ausz¬
+          <lb/>fürliche beschrei- bung des vntern Elsasses am Rhein¬
+          <lb/>strom, auch desselben fürnemmer Stätt, als Straszburg,
+          <lb/>Schlet- statt, Hagenaw, Weissenburg, vnd anderer der
+          <lb/>enden gelegener Stätt, Schlös- ser, Clöster, Stifft, Märckt,
+          <lb/>Flecken vnd Dörffer. Als auch der Landgraffschafft vnd
+          <lb/>Bisthumbs Straszburg gehabterLandgraffen, Bischof¬
+          <lb/>fen, sampt ermeldten Lands Fürstenthumben, Graff vnd
+          <lb/>Herrschafften, Adenlicher, vnd Burgerlicher Geschlechter,
+          <lb/>jhrer Genealogien, Stämmen, geburts Linien, Wappen
+          <lb/>vnd Cleinodien.
+          <lb/>Darinn jhre her vnd ankunfften, leben, handlung, tha¬
+          <lb/>ten, auch darinnen von an- fang dessen bisz auff gegen¬
+          <lb/>wertiges 1592 Jar gedenckwürdigen vorgangene geschich¬
+          <lb/>ten, gründtlich vnd vmbständig- lichen, ausz mancherley
+          <lb/>bewärten, glaubwürdigen Scribenten, Vrbarn, Brieflichen
+          <lb/>Vrkunden, auch andern vermerckungen, vnd berichten
+          <lb/>zusamen gezogen, beschrieben, vnd meniglichen zu nutz
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

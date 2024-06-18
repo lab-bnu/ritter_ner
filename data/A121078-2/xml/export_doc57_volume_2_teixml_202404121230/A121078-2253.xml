@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:34.202358+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2253.tif
+IMAGE WIDTH: 2294
+IMAGE HEIGHT: 3816
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>249
+          <lb/>A la fin: Datum zû Strassburg den 10. des Meien, 1539.
+          <lb/>E. williger,! Martin Bucer.
+          <lb/>In-40, car. goth., 18 ff. non ch. dont le dernier blanc, sign. A-E,
+          <lb/>réclames, titre encadré: bordure supérieure, au milieu, le St. Esprit en
+          <lb/>forme de colombe; au-dessous Jésus-Christ entre deux anges, dans cha¬
+          <lb/>que coin un génie ailé tenant un écu vide; bordures latérales, à gauche
+          <lb/>St. Paul, à droite M. Luther; bordure inférieure, l’enfant Jésus assis
+          <lb/>sur le trône, entouré d’une foule d’enfants à genoux, dont l’un lui offre
+          <lb/>une couronne.
+          <lb/>Au verso du titre: Vorschlag wie die Ju- den zu dulden
+          <lb/>sein sollen, dem Durch- leuchtigen Herrn Philip- sen
+          <lb/>Landgrauen zu Hessen etc. Von der Ju-den wegen vber¬
+          <lb/>geben.
+          <lb/>La première partie contient 8 ff., elle est signée par Bucer, Ku¬
+          <lb/>meus, Melander, Lenvngus, Winther J. Pistorus Niddanus et C. Kauf¬
+          <lb/>fungen: Zù Cassel Anno Domini M. D. XXXIX. La 2° est signée par
+          <lb/>Bucer, Strasbourg 1539.
+          <lb/>R102.329. Prov.: Bibliothèque Heitz, Strasbourg, 1871.
+          <lb/>Bibl. St. Guillaume, Strasbourg; Walter: Sélestat 870.
+          <lb/>Mentz, No 43b dit qu’il y a un f. blanc à la fin; celui-ci manque
+          <lb/>dans mon ex.
+          <lb/>373
+          <lb/>BUTZER Martin
+          <lb/>(Strasbourg, ] 1540.
+          <lb/>VOm tag zu Hage-aw, vnd wer verhinderet hab,
+          <lb/>das kein gesprech von vergleichung der Religion, da¬
+          <lb/>selbst für gangen ist.
+          <lb/>Auch ausz was billicheit man den protestierenden der
+          <lb/>Kirchen gûter restitution, oder inn getraws (hand erlegung,
+          <lb/>oder bewilligung ins rechten be-geret hat.
+          <lb/>Durch waremund luitholden.
+          <lb/>Vnder des ist auch angezeigt, was von wegen des
+          <lb/>fridens in der Religion zû Augspurg, Schwein-furt, Nüren¬
+          <lb/>berg, Franckfurt vnd Hagenaw gehandelt ist.
+          <lb/>1540. (Verso blane.)
+          <lb/>In-4°, car. goth., 64 ff. non ch., (Mentz No 46 dit 52 ff.) sign.
+          <lb/>A-O, titre courant, réclames, notes marginales.
+          <lb/>fol. A 2a: Waremund luithold entbeutet... herren Wal¬
+          <lb/>tern Vlmann Archidia- con zu S. Tryphonien, sein grûsz...
+          <lb/>fol. 0 2b: Ausz Wi- belsburg, (Strasbourg) prima Calend.
+          <lb/>Se-ptembris. Anno M. D. XL.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

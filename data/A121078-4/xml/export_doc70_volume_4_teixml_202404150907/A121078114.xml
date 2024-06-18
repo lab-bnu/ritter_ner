@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:45.797810+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078114.tif
+IMAGE WIDTH: 2316
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1009
+          <lb/>MELANCHTHON Philippus
+          <lb/>Strasbourg, J. Herwagen 1524
+          <lb/>ANNOTATIONES PHILIPPI! Melanchthonis, in Evange¬
+          <lb/>lium! Matthæi, Inque Historiam passio- nis Domini. Cum
+          <lb/>indice! non pœnitendo. *
+          <lb/>blanc.)
+          <lb/>Argentorati mense lulio. Anno M. D. XXIIIl. (Verso
+          <lb/>A la fin: ARGENTORATI APVD Io- hannem Hervagium,
+          <lb/>Mense Iulio, Anno! M. D. XXIIII. (Verso blanc.)
+          <lb/>clames, notes marg., titre encadré comme n° 1509.
+          <lb/>In-8°, car. ital., 56 ff. ch., 4 ff. non ch. (table), titre courant, ré¬
+          <lb/>Annotations mss.
+          <lb/>R100445. Prov.: F. Steinkopf, Stuttgart 28/XI 1887; 2 M.
+          <lb/>Oxford, Bibl. Bodleiana.
+          <lb/>1516
+          <lb/>MELANCHTHON Philippus
+          <lb/>Strasbourg, J. Knobloch 1524
+          <lb/>EPITO ME RENOVATAE EC- CLESIASTICAE DOCTRINAE
+          <lb/>AD ILL. PRINCIPEM HESSORVM. PHIL. MELANCH.Argento¬
+          <lb/>rati Anno M. D. XXIIII.
+          <lb/>A la fin: ARGENTORATI IOHANNES CNO- BLOCHVS EXCVDE¬
+          <lb/>BAT ANNO M. D. XXIIII. PRIDIE CALENDAS DE-CEMBRES.
+          <lb/>(Verso blanc.)
+          <lb/>In-80, car. ital., 8 ff. non ch., sign. A, init. à fig. D, titre en¬
+          <lb/>cadré (HC B Planche XI n° 10). Au commencement et à la fin 8 ff.
+          <lb/>blancs.
+          <lb/>R 100.863. Prov.: L. Rosenthal, Munich 6/V 1889, 6 M.
+          <lb/>Manque ches Schmidt.
+          <lb/>1517
+          <lb/>MELANCHTHON Philippus
+          <lb/>Haguenau, J. Secer 1524
+          <lb/>IN OBSCV HORA ALIQVOT CAPITA GENESEOS PHIL.
+          <lb/>MELANC. ANNOTATIO! NES.
+          <lb/>Ex Foelicissima Haganoa, per lohannem Secerium
+          <lb/>(1524l.
+          <lb/>A la fin: Haganoe per Secerium.
+          <lb/>In-80, xar. ital., 42 ff. ch., titre courant, réclames, notes marg.,
+          <lb/>init. à fig. N; titre encadré (H C B Planche LXIX nO 1).
+          <lb/>Au verso du titre: (Bande d’ornement et feuille de lierre.) Nicola
+          <lb/>us Gerbelius Stu! dioso ac pio Lecto! ri... — Argent. Anno M. D. XXIIIÍ.
+          <lb/>R100.864. Prov.: BN Munich 7/V 1877; 0,30 M.
+          <lb/>1518
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

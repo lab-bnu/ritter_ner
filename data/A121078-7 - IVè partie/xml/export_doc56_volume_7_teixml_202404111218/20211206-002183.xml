@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:06.402099+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002183.tif
+IMAGE WIDTH: 2500
+IMAGE HEIGHT: 3970
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Diese Ausgabe ist ein Abdruck von C Iéd. 1590) mit neuem
+          <lb/>Satz, in welchen Druckfebler der Ausgabe C verbessert und
+          <lb/>neue hinzugekommen sind» (une éd. Jobin 1598).
+          <lb/>1716
+          <lb/>FISCHART, Joh. (Gargantua) : (Idem). Durch Huldrich
+          <lb/>Elloposcleron... Getruckt zur Grenflug im Gänssereich.
+          <lb/>1600. — (Strasbourg, Bern. Jobin) 1600, in-80.
+          <lb/>Braune, Neudrucke, fasc. 65-71, p. XXIII-XXIV : B N Berlin
+          <lb/>2 6377.
+          <lb/>1717
+          <lb/>FISCHART, Joh. : Das Glückhafft Schiff von Zürich. Ein
+          <lb/>Lobspruch vonn der Glücklichen und Wolfertigen
+          <lb/>Schiffart, einer Burgerlichen Gesellschafft ausz Zürich,
+          <lb/>auff das auszgeschriben Schiessen gen Straszburg den
+          <lb/>21. Junij des 76 jars... Dazu eines Neidigen Verun¬
+          <lb/>glimpfers schantlicher Schmachspruch von gedachtem
+          <lb/>Glückschiff. Samt desselbigen Notwendigem Kehrab ist
+          <lb/>gethan worden. (Grav, et 4 vers). — (Strasbourg,
+          <lb/>Bernard Jobin 1576), in-8°.
+          <lb/>Hauffen, loc. cit. p. XXVI-XXXII et éd. p. 133-225. 1717a
+          <lb/>(FISCHART, Joh.] : Das Glückhafft Schiff von Zürich... den
+          <lb/>ungewonten unnd doch glückfertigen Schiffart ettlicher
+          <lb/>Burger von Zürich auff das vilberümt Hauptschiessen gen
+          <lb/>Straszburg getan... Durch Ulrich Mansehr von Treübach.
+          <lb/>— (Strasbourg, Bernard Jobin 1577), in-4°.
+          <lb/>Baeseke : Fischarts Glückhaft Schiff. [Neudrucke des XVI u.
+          <lb/>XVII. Jhd., fasc. 1821 p. v ; « Exemplare 4 in Zürich, 2 in
+          <lb/>Berlin, 1 in Strassburg und Wolfenbüttel; Hauffen, loc. cit.,
+          <lb/>p. XXVII. (B N Strasbourg R 100.247 : Rép. n° 847.). 1718
+          <lb/>FISCHART, Joh. (Glückhaft Schiff) : (Idem). — (Strasbourg,
+          <lb/>Bernard Jobin 1577), in-4°.
+          <lb/>Baeseke, p. V-VI : Exemplare in Zürich, 1 in Berlin,
+          <lb/>Strassburg (?) Stuttgart. Voir aussi p. vi et suiv. un aperçu
+          <lb/>sur la littérature du « Glückhaft Schiff».
+          <lb/>1719
+          <lb/>181
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

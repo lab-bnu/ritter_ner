@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:28.348369+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2075.tif
+IMAGE WIDTH: 2346
+IMAGE HEIGHT: 3822
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>chacune avec un fou.
+          <lb/>Gravure sur bois: Un navire avec sept fous, à côté deux barques,
+          <lb/>Argentinensis. Anno salutis! M. CCCCC.II.
+          <lb/>A la fin: Impressit honestus Johannes pruszCiuis
+          <lb/>marginales, initiales d’attente, 6 gravures outre celle du titre.
+          <lb/>In-40, car. rom., 24 ff. non ch., sign. A-E., titre courant, notes
+          <lb/>Au verso du titre: Prefatiuncula Jo. W. Slet. Jacobus
+          <lb/>wymphelingius Sletsta-tinus wolfgango Houeman ne
+          <lb/>metensi &amp;amp; Francisco paulo Argen! tino. optime indolis
+          <lb/>adolescen- tibus... — Ex Heremitorio di-ui Guilhermi
+          <lb/>Argentinensis, tertio Nonnas Januarij.! Anno M. D. Il.
+          <lb/>fol. A 2a: Préface de l’auteur à Angelbert de Marnes,
+          <lb/>Au recto du dernier f.: Péroraison de l’auteur... Ex! Lugduno
+          <lb/>anno. M. CCCC.XCVIII, quarto idus! Septembris.
+          <lb/>*R100,083. Prov.: Scheible, Stuttgart, 11. I. 1894; 20M. In¬
+          <lb/>complet, n’a que 4 gravures, plusieurs ff. manquent: D2, D4, E2.
+          <lb/>Au-dessous du tître: Huius libri carmina sunt Nasonica,
+          <lb/>non expediunt Religiosis.
+          <lb/>Schmidt III, No 36: BM Sélestat; de même Walter 718. Autres
+          <lb/>exemplaires: Grand Séminaire Strasbourg: Bmen e 20, Londres, British
+          <lb/>Museum.
+          <lb/>GPB: Berlin SB, Breslau UB, Halle UB, Göttingen UB. 124
+          <lb/>E totó (&amp;#x27;nishe)
+          <lb/>BADIUS Jodocus, J. Bapt. Mantuani Bucolica. Voir: BAPTISTA
+          <lb/>MANTUANUS, Bucolica, Strasbourg, J. Prüss, 1504.
+          <lb/>71
+          <lb/>BALDUS Elias
+          <lb/>Strasbourg 1592.
+          <lb/>Straszburgische Kriegs Sachen Kurtze vnd doch
+          <lb/>War-haffte Erzehlung, Was sich von dem! Ersten Tag
+          <lb/>Junij an, bisz auff den 26. Julij zwi-schen dem New
+          <lb/>Erwöhlten Euangelischen Bi- schoff zu Straszburg, vnd
+          <lb/>dem Cardinal von! Lottringen, jnner vnd ausser der Statt
+          <lb/>verlauffen vnd zugetra- gen habe. Wie Sollichs, ausz
+          <lb/>Glaubwürdigen Schreiben, so inn Straszburg auszgangen,
+          <lb/>Trewlich,! ohne zusatz, zusamen gebracht, auff das kürt¬
+          <lb/>zest! verfasset, vnd in den Truck verfert- tiget worden,
+          <lb/>DurchEliam Baldum, von der Freystatt.M.D. XCII.
+          <lb/>In-4°, car. goth,, 6 ff. non ch., verso du dernier f., blanc, réclames,
+          <lb/>initiale goth. N.
+          <lb/>R102.249. Prov.: Bibl. Menzel, 19. III. 1874.
+          <lb/>GPB: Berlin.
+          <lb/>125
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:09.569137+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002312.tif
+IMAGE WIDTH: 2506
+IMAGE HEIGHT: 3948
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>klagen... (grav.). — (S. T. B.) (— Strasbourg, Th. Berger
+          <lb/>s. d.], in-80.
+          <lb/>Heitz, p. 9; Wackernagel III, 549.
+          <lb/>2384
+          <lb/>LIEDER (zwei neue geistliche) : Zwey newe geistliche Lieder,
+          <lb/>Das erst, Ach Gott lasz dich erbarmen etc... Ein ander
+          <lb/>Lied ausz dem 32. Psalmen Davids, Es sey dem wol des
+          <lb/>überschrit, etc... (grav.). — (Strasbourg, Th. Berger
+          <lb/>s. d.], in-8°.
+          <lb/>Heitz, p. 25 : Wackernagel III, 899 : M. R. Müntzer. 2385
+          <lb/>LIEDER (zwei schöne geistliche) : Zwey schöne geistliche
+          <lb/>Lieder, Das erst, Ich danck dir lieber Herre... Das
+          <lb/>ander Lied. Bedacht hab ich und wundert mich...
+          <lb/>(grav.). — (Strasbourg, Th. Berger s. d.), in-8°.
+          <lb/>Heitz, p. 24; Wackernagel III, 114: Johann Kolrose. 2386
+          <lb/>LIEDER (zwei schöne geistliche) : Zwey schöne geistliche
+          <lb/>Lieder, Das erst, Von deinet wegen bin ich hie, Herr
+          <lb/>Gott vernimm mein wort... Das ander Geistlich lied,
+          <lb/>Christum von himmel ruff ich an, in disen grossen nöthen
+          <lb/>mein... (grav.). — T. B. T. (sic) (— Th. Berger, Strasbourg
+          <lb/>s. d.], in-8°.
+          <lb/>Heitz, p. 35; Wackernagel III, 885 et III 81 : Hans Sachs.
+          <lb/>2387
+          <lb/>LIEDER (zwei schöne geistliche) : Zwey schöne geistliche
+          <lb/>Lieder, Das erst, So will ich aber heben an, und singen
+          <lb/>in Gottes eer... Dz ander Lied, Nun heb ichs an zu diser
+          <lb/>frist, Gott wöll das mir gelinge, und ist in des Danheüsers
+          <lb/>thon zu singen... (grav.). — (Strasbourg, Th. Berger
+          <lb/>s. d.], in-8°.
+          <lb/>Heitz, p. 26; Wackernagel V, 784 : Sigmund von Bosch et
+          <lb/>II1 1021.
+          <lb/>2388
+          <lb/>LIEDER (zwei schöne geistliche) : Zwey schöne geistliche
+          <lb/>Lieder, Das erst, Von der usserwwölten Braut Christi...
+          <lb/>310
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

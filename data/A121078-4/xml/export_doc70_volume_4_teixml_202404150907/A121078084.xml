@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:44.957250+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078084.tif
+IMAGE WIDTH: 2328
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>970
+          <lb/>Au verso du titre: Macarius Mutius Eques! Camers Lec¬
+          <lb/>tori! Foelicita tem.
+          <lb/>de prix.
+          <lb/>*RI01.033. Prov. : Bibl, du Prof. Baum 20/11 1879; sans indic.
+          <lb/>de 1509; Schmidt croit que c&amp;#x27;était probablement un tiré à part.
+          <lb/>Panzer 6, 46, 147 a p. 77: une édition spéciale du Sermo de Bossus
+          <lb/>bourg, Incun. n° 61. Brunet 1115 1266.
+          <lb/>BN Paris, Rés. D. 5592; Schmidt VIII n° 18: Jadis Bibl. de Stras¬
+          <lb/>1458
+          <lb/>MAGEN-BUCHLEIN
+          <lb/>Strasbourg, J. Cammerlander 1540
+          <lb/>(Bande ornem.) Magen Büchlein. von allerley gebresten
+          <lb/>desz Magens, Miltzes und lebern,! Auch wie mann senffte
+          <lb/>stulgäng und laxa- tiven machen sol, viel bewerter artz¬
+          <lb/>neien, ausz den alten Artzten fleissig zûsammenge¬
+          <lb/>schrieben.
+          <lb/>Gravure sur bois: deux hommes en conversation, celui de gauche
+          <lb/>tient dans la main gauche un vase, celui de droite qui porte à ses côtés
+          <lb/>un sabre, tient de la main droite une corbeille. Au-dessous, bande ornem.
+          <lb/>Getruckt zu Straszburg bei M. J. Cammerlander Anno.
+          <lb/>LX. Faute d’impression pour M. D. XL. (Cammerlander a imprimé à
+          <lb/>Strasbourg de 1532-1548.) Verso blanc.
+          <lb/>In-4°, car. goth., 16 ff. non ch., sign. A-C, réclames.
+          <lb/>Fol. 2a : Vorred an den Leser, (3 pp.)
+          <lb/>Fol. 3b : Capitell disz artznei Büchleins, (10 lignes.) Au-dessous:
+          <lb/>Getruckt zû Straszburg bey M. Jacob Cam- merlander Anno. M. D. XL.
+          <lb/>Le reste de la page est occupé par une grav. sur bois: un homme dans
+          <lb/>une baignoire, un autre homme verse de l’eau dans la baignoire; devant
+          <lb/>la baignoire une femme assise dans une cuve; la gravure est empruntée
+          <lb/>à des impressions antérieures.
+          <lb/>Fol. 4a contient au verso une gravure sur bois, représentant un
+          <lb/>homme nu, à côté: description du corps humain.
+          <lb/>Au verso du dernier f., marque typ. de Cammerlander (HEB
+          <lb/>Planche XXIV n° 1; Silvestre n° 816.)
+          <lb/>R101218. Prov.: Th. Ackermann 26/VII 1881; 8 M. 2ème ex.:
+          <lb/>R100623. Prov.: Théodore Ungerer, Strasbourg 17/XI 1919. 1459
+          <lb/>MAGNINUS Mediolanensis
+          <lb/>Strasbourg, J. Pruss 1503
+          <lb/>Excellentissimi Magni ni Mediolanensis: Medici famo¬
+          <lb/>sissi mi Regimen sanitatis. (Verso blanc.)
+          <lb/>A la fin: Regimen sanitatis... Finit feliciter: Impres¬
+          <lb/>sum Argentine per honestum lohannem Prüs. Anno.
+          <lb/>M. CCCCC. HI.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

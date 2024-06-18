@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:01.929539+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002020.tif
+IMAGE WIDTH: 2508
+IMAGE HEIGHT: 3936
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>ANDRELINUS, Publius Faustus : Epistolae provinciales et
+          <lb/>morales... Ex secunda recognitione. — (Strasbourg,
+          <lb/>Mathias Schürer décembre 1513), in-4°.
+          <lb/>GKIV, 7635: BN Munich; Schmidt VIII, n° 118: B M
+          <lb/>Mayence; Panzer 6, 62, 303; Walter: Sélestat n° 613.
+          <lb/>819
+          <lb/>ANDRELINUS, Publius Faustus : Epistolae proverbiales et
+          <lb/>morales... Ex secunda recognitione. — (Strasbourg,
+          <lb/>Mathias Schürer, janvier 1516), in-4°.
+          <lb/>G K IV, 7636: B N Munich, B U Göttingen; Schmidt VIII,
+          <lb/>n° 178.
+          <lb/>820
+          <lb/>ANDRELINUS, Publius Faustus : Epistolae proverbiales et
+          <lb/>morales... Ex secunda recognitione. — (Strasbourg,
+          <lb/>Mathias Schürer avril 1519), in-4°. [Préface de Beatus
+          <lb/>Rhenanus).
+          <lb/>GK IV, 7639 : B N Munich; Schmidt VIII, no 243 : Bibl.
+          <lb/>cantonale Aarau.
+          <lb/>821
+          <lb/>ANDRELINUS, Publius Faustus : Epistolae proverbiales et
+          <lb/>morales... Ex tertia recognitione. — (Strasbourg, Mathias
+          <lb/>Hupfuff 1522), in-8°.
+          <lb/>GKIV, 7645: B N Berlin.
+          <lb/>822
+          <lb/>ANDRELINUS, P. F. Voir aussi : RITTER, Rép. nos 54-60.
+          <lb/>ANGELTUGENDEN : Dis sind die vier Angel tugent Wyszheit,
+          <lb/>Gerechtigkeit, Stercke und Mässigkeit... — (Strasbourg,
+          <lb/>Mathias Hupfuff 1515), in-4°.
+          <lb/>GKIV, 9531: B N Vienne; Schmidt V, n° 128; Weller, 955.
+          <lb/>823
+          <lb/>ANGELUS de Clavasio. Voir: CARLETTI. Voir aussi: RITTER,
+          <lb/>Rép. nos 61-65.
+          <lb/>ANHALT : Von einer Grefin von Anhalt, die hatt ein Grafen
+          <lb/>von Schwartzenburg gehabt ausz Schwedien. Und wie
+          <lb/>18
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

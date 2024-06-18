@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:49.107575+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078230.tif
+IMAGE WIDTH: 2304
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1116
+          <lb/>des Heil. Reichs, Policey, und Peinlichen halszgerichts Ord¬
+          <lb/>nung, bey hohen straffen und Poenen verbot- ten, das
+          <lb/>keiner den andern... an seinen Ehren antasten, mit Fa¬
+          <lb/>mos, oder Ehrrürigen schrifften, weder heimlich noch
+          <lb/>offentlich, beschweren, verschreyen, oder dargeben soll.
+          <lb/>Das doch dem allem... zûwider, Wir nicht ohne sonder
+          <lb/>hohe beschwerden vernommen, dasz zû underschidlichen
+          <lb/>malen in kurtzen laren, dergleichen Ehrrürige Schand¬
+          <lb/>schrifften und Gedicht, hin und wider angeschlagen, oder
+          <lb/>sonsten spargirt, und under die Leuth heimlicher weisz
+          <lb/>verschoben und gebracht worden, wie auch allererst new¬
+          <lb/>lich geschehen...
+          <lb/>So gebietten Wir allen... Das sich keiner.., gelu¬
+          <lb/>sten lasse, dergleichen Pasquillos, Famosschrifften, Schand¬
+          <lb/>gedicht... zfdichten, zûschreiben... —
+          <lb/>Actum et decretum Mittwoch den acht unnd zwentzig¬
+          <lb/>sten lanuarii...! Ein Tausent, Fünffhundert unnd Neuntzig.
+          <lb/>(Verso blanc.)
+          <lb/>Placard, in-fol., car. goth., 29 lignes, init. ornée W,
+          <lb/>R 22(63). Prov.: Bibl. Heitz, Strasbourg 1871. Au verso blanc:
+          <lb/>1729
+          <lb/>Famos Libell 28. Ianuarii 1590
+          <lb/>Strasbourg 1591
+          <lb/>ORDONNANCE
+          <lb/>WIr Georg lacob Bock von Erlenburg, der Meister
+          <lb/>und der Rath, diser desz Heiligen Reichs Freyen Statt
+          <lb/>Straszburg, Thun männiglich hiemit kundt und zuwissen.
+          <lb/>Nach dem wir biszher in Frönungen und Fallimentsachen
+          <lb/>vielfaltige Unordnungen, und sonderlich unter anderem be¬
+          <lb/>funden,...!... Dasz doch etliche derselben Creditorn, be¬
+          <lb/>sonder die jenigen, so verschriebene hypothicas und inn¬
+          <lb/>händige Pfand gehabt, nicht erschienen...
+          <lb/>Dasz wir demnach mit Rath und zuthun unserer lieben
+          <lb/>Mit-Rathsfreunde der Ein und Zwantzig, Erkannt, gesetzt
+          <lb/>und geordnet haben, hiemit auch setzen und ordnen,
+          <lb/>Wann forthin in Frönungs und Falliment sachen offene
+          <lb/>Citationes angeschlagen...! Dasz dann alle Gläubiger,...
+          <lb/>... auff den angesetzten! Termin, durch sich selbst, oder
+          <lb/>ihre gevollmächtigte Anwälte erscheinen,... bey verlust
+          <lb/>ihrer for¬ derung, angeben,... —
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

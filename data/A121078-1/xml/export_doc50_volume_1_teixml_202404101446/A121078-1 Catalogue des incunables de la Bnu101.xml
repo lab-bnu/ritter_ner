@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:37.964544+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu101.tif
+IMAGE WIDTH: 2396
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>NICOLAUS DE BLONY: Sermones de tempore et de sanctis.
+          <lb/>Strasbourg, (impr. du Jordanus (—G. Husner)),
+          <lb/>22 nov, 1495, in-fol.
+          <lb/>Hain 3262, Proctor 636, Voulliéme: Berlin 2455.
+          <lb/>K 2679. Prov.: Don du prince de Bentheim, 1871. Au-dessous
+          <lb/>du titre: Qui liber vulgo Viridarius nuncupatur. Ioannes
+          <lb/>Theobaldus Groschan parochus ad B. V. in... (illisible). Hic
+          <lb/>auctor circa annum Christi 1438 vixisse conjicitur.» Notes
+          <lb/>mss. Rel. anc.
+          <lb/>334
+          <lb/>NICOLAUS DE BLONY: Sermones de tempore. Strasbourg,
+          <lb/>imprimeur du Jordanus (— G. Husner)), 23 août
+          <lb/>1498, in-fol.
+          <lb/>Hain 3263, Proctor 643, Voulliéme: Berlin 2465.
+          <lb/>K 2680. Prov.: Double de la Bibl. de Darmstadt par l’inter¬
+          <lb/>médiaire de Baer &amp;amp; Co., Francfort-s.-M., 22. XI. 1878. Au¬
+          <lb/>dessus du titre: «Conventus Wimpinensis Ordinis Fratrum
+          <lb/>Praedicatorum.» fol. Aal : Conventus Ordinis Fratrum Praedi¬
+          <lb/>catorum. Wimpinae.» Rel. anc.
+          <lb/>335
+          <lb/>NICOLAUS DE BLONY: Tractatus sacerdotalis de sacramentis.
+          <lb/>Strasbourg, (Martin Flach), 1er octobre 1488, in-4°.
+          <lb/>Hain 3253, Pellechet: Colmar 346, Proctor 676, Voulliéme:
+          <lb/>Berlin 2482.
+          <lb/>K 2672. Prov.: Don de la Bibl. de Heidelberg, 1871. Introu¬
+          <lb/>vable, manquait déjà au recollement 2 novembre 1921. 336
+          <lb/>NICOLAUS DE BLONY: Tractatus sacerdotalis de sacramentis.
+          <lb/>Strasbourg, Martin Flach, 29 mai 1490, in-4°.
+          <lb/>Hain 3254, Madsen 2861, Pellechet: Colmar 347, Proctor 685,
+          <lb/>Schmidt VI, 29, Voulliéme: Berlin 2490.
+          <lb/>K 2673. Prov.: R. Sandrog, Berlin, 6. III. 1877, 6 M. Introu¬
+          <lb/>vable. Manquait déjà au recollement, 2 novembre 1921. 337
+          <lb/>NICOLAUS DE BLONY: Tractatus sacerdotalis de sacramentis.
+          <lb/>Strasbourg, Mart. Flach, 1492, in-4°.
+          <lb/>Hain 3255, Proctor 695, Schmidt VI, 41, Voulliéme: Berlin
+          <lb/>2495.
+          <lb/>K 2674. Prov.: Librairie Trübner (Vente Noiriel), 4. IV. 1874.
+          <lb/>A la suite de Antoninus, Confessionnale, 1488. K 311.
+          <lb/>338
+          <lb/>71
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

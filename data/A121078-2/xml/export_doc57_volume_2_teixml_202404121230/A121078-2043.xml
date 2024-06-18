@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:27.409353+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2043.tif
+IMAGE WIDTH: 2362
+IMAGE HEIGHT: 3826
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>39
+          <lb/>Note mes, au haut du f. 2a non ch.: «Bibliothecam P. P.
+          <lb/>Francisc. Ambergae.»
+          <lb/>Schmidt IV, p. 17, N° 7: B M Colmar et Jadis Bibl. de Stras¬
+          <lb/>bourg, Incun. N° 326.
+          <lb/>64
+          <lb/>ANGELUS DE CLAVASIO
+          <lb/>Strasbourg, J. Knobloch, 1520.
+          <lb/>Summa Angelica de casibus conscientie; cum multis
+          <lb/>vtilibus et valde necessarijs ad ditionibus nouiter insertis.
+          <lb/>SEBASTIANI BRANT Rhapsodia, in elucubrationem
+          <lb/>Angelicae Summae. (7 distiques.)
+          <lb/>Au-dessous: Kalendis Martijs. Era Christi. Anno. M. D.XX.
+          <lb/>Verso blanc.)
+          <lb/>A la fin:... diligenter reuisa denuo: ac emenda ta: Ab
+          <lb/>egregio viro Doctore Sebast. Brant. Jmpensis prouidi
+          <lb/>viri Joannis Knoblouch.Ciuis Argentinensis, impressa.
+          <lb/>Finit feliciter. Anno domini, 1520, Die vero, 14. Martij.
+          <lb/>(Verso blanc.)
+          <lb/>in-fol. car. goth., 2 col., 14 ff. non ch. CCXLVIII ff. ch., titre
+          <lb/>courant, init. ornées, titre rouge et noir, encadré: au haut, un masca¬
+          <lb/>ron, de la bouche duquel sortent deux cordons, auxquels sont enfilés
+          <lb/>des boules ou des perles qui passent par la gueule des deux mons¬
+          <lb/>tres à queues de poisson; de chaque côté un génie ailé, tenant aussi
+          <lb/>le bout d’un cordon attaché à un bouquet; les deux bandes latérales
+          <lb/>sont composées d’ornements, celles d’en bas est formée d’armes di¬
+          <lb/>verses, des cuirasses, des épées, un casque etc.
+          <lb/>Fol. 2a non ch.: Epistola Tormeli et réponse d&amp;#x27;Angelus de Clavasio
+          <lb/>comme dans les éditions précédentes.
+          <lb/>*R10.215. Prov.: M. Spirgatis, Leipsic, 26/II. 1894, 3 M. 30.
+          <lb/>Schmidt VII, No 195: BM Strasbourg et Jadis Bibl. du Sémi¬
+          <lb/>naire protestant de Strasbourg.
+          <lb/>65
+          <lb/>ANSUCHEN
+          <lb/>Strasbourg,
+          <lb/>1578.
+          <lb/>Unterthänigs Schrifftlichs Ansuchen vud Suppliciren
+          <lb/>An Seine FürstlicheDurchteuchtigkeyt, als General
+          <lb/>Gu-bernatoren &amp;amp; e. Und die Herren des Raths Ge- mevner
+          <lb/>Niderländischen Ständ, Von den Einwonern vnd Land¬
+          <lb/>sassen der Niderlanden, welche Protestiren vnd bedingen,
+          <lb/>hinfortan nach der Reformation des Evangelij zule ben:
+          <lb/>beschehen, den zwey vnd zwantzigsten Junij, 1578.
+          <lb/>Ausz Frantzösischem treulich inn Hoch Teutsch ge¬
+          <lb/>bracht. Psal. 2. Erudimini qui judicatis terram.
+          <lb/>Getruckt zu Straszburg. (Verso blanc.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

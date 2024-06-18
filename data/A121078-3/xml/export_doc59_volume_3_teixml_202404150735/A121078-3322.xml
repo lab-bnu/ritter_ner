@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:11.416891+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3322.tif
+IMAGE WIDTH: 2364
+IMAGE HEIGHT: 3854
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>764
+          <lb/>Am Schluss:... Impensis prouidi viri Joannis Ryn¬
+          <lb/>man de Oringau; impresse accurate per industrium Hen¬
+          <lb/>ricum Gran ciuem in imperiali oppido Hagenau. Anno...
+          <lb/>M. D. xviij. Mense Januario...
+          <lb/>u. schwvarz, Titelumrahmung (HeB Tafel LXIV Nr. 2).
+          <lb/>40, Got., 6 unn., CXXIII num. Bll., Kopft., Init. G, Titel rot
+          <lb/>Auf der Rücks, des Titelbl.: Vulphganus Angsteus Lectori
+          <lb/>S. P. D.... — Hagenaw! mense Augusti Anno M. D. XV.
+          <lb/>Darunter 3 Dist. Bebels.
+          <lb/>Bl. A 2a: ... Henrico Bebelio... Iacobus Henrichmannus.
+          <lb/>S. P. D.... Tubinge... Anno M. D. vi.
+          <lb/>Bl. A 3b: Iacobus Henrichmannus Casparo Humel... —
+          <lb/>ex Lustnoia... Anno octavo supra sesquimillesimum.
+          <lb/>R 101581. Prov.: Butsch, Augsburg 11. x. 1882; 4 M. Auf der
+          <lb/>Rûcks, des Titelbl.: Duplum ex Bibliotheca regia Monacensis.
+          <lb/>1130
+          <lb/>HENRICHMANN Jakob
+          <lb/>Strassburg, H. Morhard 1522
+          <lb/>Institutiones Grammaticae... (Titelbl. fehlt.)
+          <lb/>Bl. 69b: Institutiones grammaticae Etymologiam Syn¬
+          <lb/>taximque continentes lacobi! Henrichmanni Sindelfingensis
+          <lb/>finiunt feliciter.
+          <lb/>40, Antiq., 10 unn., 69 num. Bll., Kopft.
+          <lb/>Bl. 2-4: Index (3sp.).
+          <lb/>Bl. a 1b: Iohannes Hiltebrant Lectori S. D. P.
+          <lb/>Die Dist. Bebels u. Kefers sovie die Widmung Henrichmanns
+          <lb/>an Bebel vie in der vorhergehenden Ausg.
+          <lb/>Bl. a 3b: IACOBI HENRICHMANNI CASPARO HVMEL... S. P.
+          <lb/>D.... Ex Lustnoia. vij. Kalendas Martias. Anno octauo
+          <lb/>supra sesquimillesimum.
+          <lb/>(Von Bl. 72-115: Ars versificandi Bebels mit dem Explicit:
+          <lb/>Argentorati apvd Hvlde richum Morhardum, Mense Nouemb.
+          <lb/>Anno! M. D. XXII.)
+          <lb/>*R100.051b. Prov.: W. List, Bibliothekar, Strassburg 3. VI.
+          <lb/>1890;8M.
+          <lb/>Schmidt IV S. 30 Nr. 11.
+          <lb/>1131
+          <lb/>HENRICUS Quartus. Siche: SOPHER Gervasius : Henrici IV
+          <lb/>Bellum contra Saxones. Strassburg, J. Grüninger 1508.
+          <lb/>HENRICUS DE HAGENOIA. Siche : Heinrich von Hagenau
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

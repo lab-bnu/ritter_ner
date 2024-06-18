@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:12.421318+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002425.tif
+IMAGE WIDTH: 2500
+IMAGE HEIGHT: 3996
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>erschienen im Weinmonat des xxxij jars. — Strasbourg,
+          <lb/>Jean Albrecht 1532, in-40.
+          <lb/>Schottenloher 39.182 d; Ritter: B M Strasbourg, n° 1762.
+          <lb/>2994
+          <lb/>PRUCKNER, Nicolaus : Der grossen und grausamen Fynster¬
+          <lb/>nüsz der Sonnen uff das M.D.xL jar Prognosticon... —
+          <lb/>(Strasbourg, Jean Schott) (1539), in-4°.
+          <lb/>Scott, (Schmidt II, Suppl.) p. 18, n° 28. — Bibl. S. R. Scott,
+          <lb/>Oxford.
+          <lb/>2995
+          <lb/>PRUCKNER, Nicolaus : Von den dreien Finsternussen, so
+          <lb/>Anno XLVII erschienen und der vierten zukünfftigen
+          <lb/>desz Monsz Anno XLVIII, die all in zwölf Monaten
+          <lb/>verlaufen, warhafftig bedeutung... — Strasbourg,
+          <lb/>Jacques Cammerlander (1547), in-40,
+          <lb/>Zinner 1917.
+          <lb/>2996
+          <lb/>PRUDENTIUS, Aurelius : De miraculis Christi Hymnum ad
+          <lb/>omnes horas, Jacobi Spiegel Selestadiensis interpreta¬
+          <lb/>tio... — Sélestat, Lazare Schürer 1520, in-fol.
+          <lb/>Walter nos 2096-2097.
+          <lb/>2997
+          <lb/>PSALM : Der siben und dreyssigst psalm Davids : Noli emulari
+          <lb/>in malignantibus, Von dem urteyl Gottes uber der welt
+          <lb/>tyrannen. Das lobgesang Zacharie, Benedictus, Luce j.
+          <lb/>Das lobgesang Simeonis. Nunc dimittis. Luce ij. —
+          <lb/>[Strasbourg, Wolfgang Köpfel vers 1527), in-8°.
+          <lb/>Hubert n° 21 : Köpfels Verlagszeichen, p. viiI a.
+          <lb/>2998
+          <lb/>PSALMBÜCHLEIN : Das gemeinest, wolbekömlichst Psalmen¬
+          <lb/>büchlein, von den gebräuchlichsten Kirchengesängen,
+          <lb/>Psalmen und Liedern... — Strasbourg, Bernard Jobin
+          <lb/>1577, in-120.
+          <lb/>Goedeke IIa, p. 175, n° 23; Graesse V, p. 483; Vogeleis, p. 340.
+          <lb/>2999
+          <lb/>423
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:12.234349+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3354.tif
+IMAGE WIDTH: 2382
+IMAGE HEIGHT: 3854
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>796
+          <lb/>2°, Got., 2sp., 144 unn. Bll. (Pars hiemalis), Sign. a-, u. 214
+          <lb/>unn. Bll. (Pars aestivalis), Sign. A-Z, Aa-Ii; Kopft., Marg., Init.,
+          <lb/>Titel rot u. schwarz; Titeleinfassung (HRB Tafel LXIII Nr. 1).
+          <lb/>R10.322. Geschenk des Fürsten Bentheim; stammt aus dem Kloster
+          <lb/>Frenswegen, 1874. Handschr. Notiz: Liber Monasterij sancti Anthonij in
+          <lb/>Albergen ordinis minorum regularium.
+          <lb/>2. Ex. R10.323. Prov. : Gymnasialbibl. Heilbronn, Tausch 2. IV.
+          <lb/>1878. Auf dem Titelbl. Stempel der Stadtbibl. Heilbronn.
+          <lb/>BN Paris, Rés. D1802; Beaulieux S. 167: UB Paris; Proctor II
+          <lb/>1182
+          <lb/>Sectio I Nr. 11671a: London Brit. Museum.
+          <lb/>HOLLIER Blaise. Siche: HOLLERIUS Blasius
+          <lb/>HOLLERIUS Blasius
+          <lb/>Strassburg, J. Rihel 1565
+          <lb/>Medice artis The ORCA, LIBRIS DVOBVS SVCCIN-cte
+          <lb/>comprachensa, atque medicinae Studiosis apprimè ne¬
+          <lb/>cessaria.
+          <lb/>BLASIO HOLLERIO VIVARIEN- si. Doctore Medico authore.
+          <lb/>(Druckerm. Rihels. H « B Tafel XXXI Nr. 8; Silvestre Nr. 821.)
+          <lb/>Anno. M. D. LXV.
+          <lb/>80, Kursiv, 8 unn. Bll., 316 S., 1 unn. Bl., Kopft., Kust., Marg.,
+          <lb/>Init. 0, M, N.
+          <lb/>Auf der Rücks, des Titelbl.: AD LECTOREM Carolus Kyr¬
+          <lb/>ningus D. (12 lat. Dist.)
+          <lb/>Bl. A 2a:... IOANNI DE FERRIE- (res, Vidamo Carnu¬
+          <lb/>tensi... BLASIVS HOLLERIVS Vi-uariensis... — Argentinae
+          <lb/>Cal. Maijs, Anno, M. D. LXIIII. (Widmung, 5 S.)
+          <lb/>Bl. A 4b: Contentorvm Bre-issimus Index. (9 S., 2sp.)
+          <lb/>R 100.999. Prov.: Völcker (Bibliothek Erichson), Frankfurt a. M.
+          <lb/>13. 11.1902, 4 M. Bleistiftnotiz 12 M. Auf dem Titelbl.: Dr Jo. Gottl.
+          <lb/>Thierfelder 1834.
+          <lb/>1183
+          <lb/>HOLTZWART Matthias
+          <lb/>Strassburg, J. Rihel 1568
+          <lb/>Lustgart New- er deuttscher Poëteri, in! fünff Büchern
+          <lb/>beschriben, vnd gedicht durch Matthiam Holtzwart von
+          <lb/>Harburg. Z Ehren dem Fürstlichen, Hochlöblichen! hauss
+          <lb/>Würtenberg. Auch allen liebhabern der alten Poetischen
+          <lb/>Fablen, sehr nützlich zù lesen. Druckerm. Rihels (He B Tafel
+          <lb/>XXXI Nr. 12), die sich auch auf der Rücks, des letzten Bl. befindet.
+          <lb/>Darunter: Mit römischer Key. May. Freiheit auff acht
+          <lb/>jar. M. D. LXVHII.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

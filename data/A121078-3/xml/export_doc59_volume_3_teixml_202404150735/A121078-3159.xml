@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:07.172916+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3159.tif
+IMAGE WIDTH: 2314
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>605
+          <lb/>legio Caesario. Apud Bernhardum Iobinum. ANNo M.D.
+          <lb/>LXXXV. Auf der Rücks. Namen der Schauspieler.
+          <lb/>80, 17 unn. Bll., Sign. A-C, Init. O, R.
+          <lb/>Widmung Frischlins aus Tübingen, 26. Juni 1581: Othoni Rosae¬
+          <lb/>cranzio, Dano.
+          <lb/>R100.9501. Prov.: Bibl. Wolfg. Menzel, Stuttgart 1874. Hand¬
+          <lb/>schriftliche Notizen.
+          <lb/>GK: SB Berlin, UB Breslau, Göttingen.
+          <lb/>Brunet II5, 1401: Vend, 15 fr. m. r. Courtois et moins depuis.
+          <lb/>Autre édition, Argentorati, 1587, in-8. Vend, 12 fr. Courtois; 2 sh. Heber.
+          <lb/>Celles de (la même ville) 1596 ou 1604, in 8°, contiennent de plus que
+          <lb/>les précédentes une comédie intitulée: Helvetio-Germani, laquelle avait été
+          <lb/>déjà imprimée séparément, Helmstadii, 1589, pet. in-8. Vend. 9 fr. Cour¬
+          <lb/>tois; 12 fr. vél. de Soleinne.
+          <lb/>906
+          <lb/>FRISCHLIN Nikodemus
+          <lb/>Strassburg, A. Bertram 1586
+          <lb/>D. NICODEMI FRISCHLINI Comitis Palatini Caesarei &amp;amp;
+          <lb/>Poëtae Laureati &amp;amp;c. DEMONSTRATIO, GRAECOS NON CA¬
+          <lb/>rere Ablatiuo.
+          <lb/>Druckermarke Bertrams (H &amp;amp; B Tafel XLIV Nr. I, Silvestre
+          <lb/>Nr. 1023).
+          <lb/>ARGENTORATI! Excudebat Antonius Bertramus Anno
+          <lb/>M. D. LXXXVI. (Rücks, leer.)
+          <lb/>40, Kursiv, 4 unn. Bll., Sign. A, Kust., Init. E, Vign. am Schlusse,
+          <lb/>Titeleinfassung (Arabesken).
+          <lb/>R102.083. Prov.: J. Baer e Co., Frankfurt a. M. 22. XI.1878;
+          <lb/>ohne Preisangabe.
+          <lb/>GK: UB Breslau, Bonn. BN Paris, X 5469 (13).
+          <lb/>907
+          <lb/>FRISCHLIN Nikodemus
+          <lb/>Strassburg, A. Bertram 1586
+          <lb/>NICODEMI FRISCHLINI Disputatio Grammatica, TRi¬
+          <lb/>BVTA IN DVCENTAS ET PLV- RES PROPOSITIONES: IN QVI¬
+          <lb/>bus demonstrantur, &amp;amp; refutantur Solœcismi &amp;amp; Barbarismi:
+          <lb/>falsae &amp;amp; superfluae Regulae; absurdae, &amp;amp; ab omni ratione
+          <lb/>alienae, definitiones &amp;amp; diuisio-nes Grammaticorum; quas
+          <lb/>res plagosi huius etatis Orbilij, teneris puerorum animis,
+          <lb/>non sine multis verberibus, ipsi flagris dignio-res in¬
+          <lb/>culcant. CVM PRAEFATIONE Ap IAco-] bum Andreae, Doc¬
+          <lb/>torem Theologiae: Academiae Tubingensis Cancellarium.
+          <lb/>Druckermarke Bertrams (HE B Tafel XLIV Nr. 2, Silvestre
+          <lb/>Nr. 1022). Links u. rechts von der Marke 15 86.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

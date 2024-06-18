@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:42.893462+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078015.tif
+IMAGE WIDTH: 2372
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Au haut du titre: pièce d’encadrement. (Verso blanc.)
+          <lb/>In-fol., car. goth., 4 ff. non ch., LV ff. ch., titre courant, réclames,
+          <lb/>27 gravures, dont plusieurs répétées, quelques-unes très jolies.
+          <lb/>Fol. 2a non ch.: Vorred des Edlen, fürnemmen! vnd
+          <lb/>strengen herren Herren Marquart vom Stein, Ritter vnd
+          <lb/>Landtuogt zû Montpellicart etc.
+          <lb/>Fol. 3 non ch.: Register der historien von bösen! vnd
+          <lb/>gûtten frawen.
+          <lb/>Fol. 4 non ch.: Zum Leser. Datum Straszburg, kalen.
+          <lb/>Martias. (Au-dessous: pièce d’encadrement.)
+          <lb/>Fol. 1 ch.: Vorred, Was den Ritter vom Thurn bewegt
+          <lb/>disz Bûch zûschreiben.
+          <lb/>Au verso du dernier f. blanc: Marque typogr. de Cammerlander.
+          <lb/>(HAB Planche XXIV n° 1; Silvestre n° 816.)
+          <lb/>R 10.044. Prov.: M. Spirgatis, Leipeig 15/x 1894, 78 M.
+          <lb/>1339
+          <lb/>LAETUS Pomponius. Voir: POMPONIUS Laetus
+          <lb/>899
+          <lb/>LAUDINUS
+          <lb/>Strasbourg, J. Schott 1510
+          <lb/>LAVDINI EQVITIS-] hierosolymitani ad Francinum Bel¬
+          <lb/>tran dum Comitem, in epistolas magni Turci PRAEFA-TIO.
+          <lb/>A la fin: ARGENTORACIEx officina Ioannis Schotti,
+          <lb/>Impensis vero egregii I. V. Doctoris GEORGI Maxilli (alias
+          <lb/>übelin) episcopalis! curiae Argentinensis Signatoris. III.
+          <lb/>Idus! Augusti, anno a natali Christi. M.D.X.
+          <lb/>In-40, car. rom., 10 ff. non ch., sign. A-B, titre courant.
+          <lb/>FR101.995. Prov.: Don de Fid. Butsch et fils, Augsbourg 1871.
+          <lb/>Titre manque.
+          <lb/>2e ex.: TRIOLTTO (2). A la suite de: Symmachus, Epistolae fami¬
+          <lb/>liares. Strasbourg, J. Schott 1510.
+          <lb/>Manque chez Schmidt.
+          <lb/>1340
+          <lb/>LAUDINUS: Laudini Equitis Hierosolymitani in epistolas Turci
+          <lb/>magni traductio. Argent. 1511. Dans: SYMMACHUS: Epi¬
+          <lb/>stolae familiares. Argent. 1511. RIOLTTO.
+          <lb/>S~ a oeu A Gu
+          <lb/>LAURENTIUS Valla. Voir: VALLA Laurentius
+          <lb/>R40112
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

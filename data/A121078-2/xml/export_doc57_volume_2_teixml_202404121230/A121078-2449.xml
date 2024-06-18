@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:39.601940+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2449.tif
+IMAGE WIDTH: 2402
+IMAGE HEIGHT: 3828
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>DURANDUS Guilhelmus
+          <lb/>Rationale diuinorum. (Verso blanc.)
+          <lb/>A la fin: Explicit rationale diuinorum officiorum Jm¬
+          <lb/>pressum argentine Anno domini. M. D. I. Finitum tertia
+          <lb/>feria post diem sancte Lucie.
+          <lb/>In-folio, car. goth., 2 col., 3 ff. non ch., CCLX ff. ch., titre cou¬
+          <lb/>rant, initiales d’attente.
+          <lb/>fol. Ia: Prologus! Incipit rationale diuinorum officiorum
+          <lb/>Guil helmi minatensis ecclesie episcopus.
+          <lb/>*RI0.315. Prov.: B N Munich, 22/1. 1880; 2M50.
+          <lb/>Annotations mss. Au-dessous du titre: Conventus Aspacensis. A l’in¬
+          <lb/>térieur de la couverture: Duplum Bibliothecae regiae Monacensis.
+          <lb/>2e exemplaire* R10.435. Prov.: Bœr, Francfort s. M., 22/X1.1878.
+          <lb/>Incomplet, f. du titre manque.
+          <lb/>Annotation mss. au haut du Ier f. non ch.: Henrici Molitoris Cano¬
+          <lb/>nici Aschaffenbergensis, plus bas: Capucinorum Sieburgensium.
+          <lb/>Manque chez Schmidt.
+          <lb/>667
+          <lb/>Strasbourg, 1501
+          <lb/>445
+          <lb/>DURANDUS Guilhelmus
+          <lb/>Haguenau, H. Gran, 1509
+          <lb/>Rationale diuinorum (Verso blanc.)
+          <lb/>A la fin: Rationale diuinorum impensis circumspe! cti
+          <lb/>viri Joannis Rynmann de Oringau: in officina industrij
+          <lb/>Henrici Gran, in oppi-do imperiali Hagenaw impressum:
+          <lb/>et in vi- gilia Assumptionis beate virginis com- pletum:
+          <lb/>anno virginei partus M. D. IX. fi- nit feliciter.
+          <lb/>In-fol., car. goth., 2 col., 3 ff. non ch., CCXXXII ff. ch., titre cou¬
+          <lb/>rant, initiales d’attente.
+          <lb/>fol. 1a; Prologus. Incipit rationale di uinorum offi¬
+          <lb/>ciorum Guilhelmi minatensis ec- clesie episcopi,...
+          <lb/>R10.316. Prov.: B N Munich, 22/1. 1880, 2M50.
+          <lb/>Annotations mss. Au haut du titre: Emptus est per me Sebastianum
+          <lb/>Häringerum. Anno 1599; en bas: Duplum Bibliothecae regiae Monacensis;
+          <lb/>à l&amp;#x27;intérieur du ter plat, ex-libris avec les mots: Ad Bibliothecam Cano¬
+          <lb/>niae Sanctorum Apostolorum Petri et Pauli in Weyarn.
+          <lb/>2. ex. R10.369 (2). Prov.: B N Munich, 26/XI.1878, notes mss.
+          <lb/>BN Paris, Rés. D. 533 (2).
+          <lb/>Autre exemplaire: Grand Séminaire, Strasbourg, Inc. A 108.
+          <lb/>668
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

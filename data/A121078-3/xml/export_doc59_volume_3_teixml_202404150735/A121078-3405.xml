@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:13.472532+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3405.tif
+IMAGE WIDTH: 2404
+IMAGE HEIGHT: 3856
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>847
+          <lb/>tzogen, Landtgraffen in Elsasz, Burggraffen zu Nürn-berg,
+          <lb/>Fürsten zu Rügen, etc.
+          <lb/>vnd Amptleuth, auch allen Vnterthanen in gemein erbeutet,
+          <lb/>Darinn J. F. G. sich gegen desselben Stiffts Lehen
+          <lb/>sie! bey jren wolhergebrachten Freyheiten vnd Gerechtig¬
+          <lb/>keiten zu schü-tzen vnd zu schirmen, vnd sie ermahnet,
+          <lb/>gleichsfals wider sei-ne Widersacher treulich bey jm auff¬
+          <lb/>zusetzen, vnd in! seinem gehorsam vnd dienst bestendig
+          <lb/>zuverharren. (Epheubl. Wappen Johann Georgs.)
+          <lb/>Getruckt zu Straszburg, im Jar nach Christi! Geburt,
+          <lb/>M. D. XCII. (Rücks, leer.)
+          <lb/>Am Schluss: Geben... in vn- serm Bischofflichem Hofe
+          <lb/>zu Straszburg, den 9. Julij 1592. (Vign.)
+          <lb/>4°, Got., 6 unn. Bll., Sign. a, Kust., Init. W.
+          <lb/>R 102.255. Prov.: Bibl. Heite, Strassburo.
+          <lb/>Stadtbibl. Strassburg.
+          <lb/>1261
+          <lb/>JOHANNES DE BURGO. Siehe: BURGO Johannes de
+          <lb/>JOHANNES CHRYSOSTHOMUS. Siche: CHRYSOSTHOMUS Jo¬
+          <lb/>hannes
+          <lb/>JOHANNES Episcopus Tuscullanus: Constitutiones. Siche: Sta¬
+          <lb/>tuta provincialia Moguntina. Hagenau, H. Gran 1512.
+          <lb/>JOHANNES GALLENSIS
+          <lb/>Hagenau, H. Gran 1518
+          <lb/>Summa Ioannis Gal! lensis de regimine vite humane
+          <lb/>seu viridarium doctorum: ex optimis qui! busque autho¬
+          <lb/>ribus comportata: omni bus hominum statibus deserui
+          <lb/>ens: Regentibus : Consul- toribus : Confessoribus : pre
+          <lb/>dicantibus et religiosis nouiter emendata: et originali
+          <lb/>puritati! restituta: ad com- munem vtili- tatem. ! Cum
+          <lb/>Priuilegio.! Tabule due materias hu-! ius Summule indi¬
+          <lb/>cantes.
+          <lb/>Am Schluss: Impressa per prouidosviros loannem
+          <lb/>Knoblouch et Paulum getz! ciues Argentinenses... Pridie
+          <lb/>Ka lendas Junii Anno... xviij. supra millesimum quin¬
+          <lb/>gentesimum.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

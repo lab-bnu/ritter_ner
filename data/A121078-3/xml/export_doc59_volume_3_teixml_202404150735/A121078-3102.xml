@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:06.289150+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3102.tif
+IMAGE WIDTH: 2308
+IMAGE HEIGHT: 3844
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>546
+          <lb/>Dass es von G. v. K ist beweist dass dieselben Predigten in der A. 1517
+          <lb/>bei Joh. Grüninger gedruckten Evangelia mit uszlegung des hochgelehrten
+          <lb/>Dr. Kaisersberg enthalten sind.=
+          <lb/>Schmidt I Nr. 75.
+          <lb/>827
+          <lb/>EVANGELIA
+          <lb/>Strassburg, U. Morhard 1520
+          <lb/>EX NOVO TESTAMENTO Qua tuor Euangelia, Erasmo
+          <lb/>Rotero damo nuper diligentissime re-cognita, emendata,
+          <lb/>atque adeo! ad Graecam ueritatem, &amp;amp; subinde non pauco¬
+          <lb/>rum utriusque lin- guae codicum fidem libe- rius uer
+          <lb/>sa. ITEM CAPITA EVANGE- liorum Secundum Quatuor
+          <lb/>Euan gelistas antehac desyderata. (Rücks, leer.)
+          <lb/>Am Schluss: ARGENTORATI, APVD HVLDERICHVM MOR
+          <lb/>HARDVM, MENSE SE] PTEMBRI. ANNOM. D. XX.
+          <lb/>40, Antiq,, 4 unn., CXI num. Bll., Kopft., Init., Titeleinfassuno
+          <lb/>von H. Holbein: 9 Cherubine in einer Arche; unten: leeres Wappenschild.
+          <lb/>R100.458. Prov.: A. Cohn, Berlin 20. VII. 1885,6M.
+          <lb/>Proctor 10886; Schmidt IV S. 29 Nr. 2; Johnson A. F., The title
+          <lb/>borders of Holbein in Gutenberg Jahrbuch 1937, S. 115 Nr. 2. 828
+          <lb/>EVANGELIA
+          <lb/>Strassburg, Chr. Müller 1581
+          <lb/>Euangelia vnnd Epistelen, auch schöne Gebett auff
+          <lb/>alle Sontag, vnd die für- nembste Feste durchs gantze
+          <lb/>Jar. Sampt der Historien des Passions, Aufferstehung,
+          <lb/>vnnd Hymmelfart Christi, ausz den vier Euangelisten
+          <lb/>gezogen. M. D. LXXXI. (Rücks, leer.)
+          <lb/>Am Schluss: Getruckt zû Strassburg bey Chri- stian
+          <lb/>Müller, Anno 1581. (Rücks, leer.)
+          <lb/>80, Got., 144 unn. Bll., Sign. A-S. Kopft., Kust., Init., Titel-und
+          <lb/>Seiteneinfassung, Titel rot u. schwarz, zahlreiche Holeschnitte, die sich
+          <lb/>auf das Evangelium des Sonntags beziehen.
+          <lb/>R102.400. Prov.: Dr. Erichson, Strassburg 24. x. 1897; 8 M.
+          <lb/>Bl. Cs u. Di fehlen.
+          <lb/>829
+          <lb/>EVANGELISCHE MESS Siche: KANTZ Caspar
+          <lb/>EXEMPEL SPRUCH. Siche: BUCH DER WEISHEIT
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

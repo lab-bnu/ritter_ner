@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:53.442703+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078362.tif
+IMAGE WIDTH: 2336
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1248
+          <lb/>R102.160. Prov.: Bibl. Ed. Reuss, Strasbourg 1891 avec son ex¬
+          <lb/>libris et son autographe au recto du f. de garde, à côté de l’autogra¬
+          <lb/>phe:,Breslau 1869 fr. 2.50.&amp;quot; Note ms. au-dessous de l&amp;#x27;explicit : ¿Ordo
+          <lb/>numericus à Psalmo IX usque ad CXLV alius est in Hebraeo, alius in
+          <lb/>Graecis codicibus, et qui illos sequuntur, Vulg. Lat., Syr., Arab. et Aethiop.
+          <lb/>Hi scilicet Psalmum IX et X item CXIV et CXV. conjungunt velut unum:
+          <lb/>contra vero Psalmum CXVI. ut etiam CXLVII in duos dividunt. Unum
+          <lb/>etiam apogryphum, CLI. addunt monentes tamen quod velut supernume¬
+          <lb/>rarius sit, et ad praecedentes non pertineat.&amp;quot;
+          <lb/>1953
+          <lb/>PSALTERIUM
+          <lb/>Strasbourg, Cr. Mylius 1545
+          <lb/>PSALTE RIVM DAVIDIS CARMI] ne redditum per Eobanum
+          <lb/>Hessum. Cum Annota- tionibus Viti Theodori Noribergen¬
+          <lb/>sis, quae Commentarii vice esse possunt.
+          <lb/>CVI ACCESSIT ECCLESIASTES! Salomonis, eodem genere
+          <lb/>Carminis, redditus. (Marque typ. de Crato Mylius. H EB planche
+          <lb/>XXVII n° 5.)
+          <lb/>A la fin: ARGENTORATI APVD CRATONEM MYLIVM, ! AN.
+          <lb/>M. D. XLV. MEN-L SE SEPTEMB. (Au verso du f. suivant: marque
+          <lb/>typ. de Cr. Mylius. HŒ B planche XXVIII n° 11; Silvestre n° 1266.)
+          <lb/>In-80, car. ital. et rom., 453 pp. 4 8 ff. non ch. (table), titre cou¬
+          <lb/>rant, réclames, notes marg., init. à fig. O, L. Au verso du titre: LEC¬
+          <lb/>TORI (4 dist.). Les dédicaces comme dans les 4 éditions précédentes.
+          <lb/>R101.080. Prov.: Oskar Panthe, Berlin G/V 1919; 46 M. Notes
+          <lb/>ms. A l’intérieur de la couverture ex-libris avec la devise: MENTE LI¬
+          <lb/>BERA, signé Champel.
+          <lb/>1954
+          <lb/>PSALTERIUM
+          <lb/>Strasbourg, G. Messerschmidt 1545
+          <lb/>LIBER PSAL- MORVM CVM TRANS- LATIONIBVS QVATVOR,
+          <lb/>ETParaphrasibus duabus, e re- gione sic positis, ut
+          <lb/>ver sus versui pulchre! respondeat. INTERPRETES SVNT
+          <lb/>Autor editionis vulgatae. D. Hieronymus. Felix Praten¬
+          <lb/>sis. Sebast. Monsterus. PARAPHRASTAE. Autor Chal¬
+          <lb/>daeus.! Joannes Campensis.! D. AvGvSTINVS.! Utile est
+          <lb/>varias translationes conferre, unam fa- miliarem retinere:
+          <lb/>ut ex ipsa collisione multa-rum, uberior veritatis lux
+          <lb/>emicet. ARGENT, 1545.
+          <lb/>A la fin: ARGENTORATI, EX OFFICINA KNOB- LOCHIANA,
+          <lb/>PER GEORGIVM MACHAEROPOEVM. MENSE MARTIO ANNO
+          <lb/>1545. (Verso blanc.)
+          <lb/>In-8°, car. rom., ital. et goth., 2 col., 440 ff. non ch., sign. A-Z,
+          <lb/>Aa-Z2, A-O, titre courant.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

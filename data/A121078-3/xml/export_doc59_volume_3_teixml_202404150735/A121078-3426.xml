@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:13.948207+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3426.tif
+IMAGE WIDTH: 2420
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>868
+          <lb/>JUNIUS Melchior. Siche: BOSCHIUS Michael: Actus tres Aca¬
+          <lb/>demiae Reipub. Argentoratensis. Strassburg, N. Wyriot, 1578.
+          <lb/>JUNIUS Melchior
+          <lb/>Strassburg, L. Zetzner 1585
+          <lb/>METHODVS ELOQVENTIAE COMPARANDAE,] SCHOLIS ALI¬
+          <lb/>QvoT! Rhetoricis traditaA MELCHIOrE JVNIO Vuite¬
+          <lb/>bergensi, Eloquentiae in Argentinensi Academia profes¬
+          <lb/>sore. (Druckerm. Zetgner&amp;#x27;s. H a B Tafel XLV Nr. 1.) Darunter:
+          <lb/>Cum priuilegio Caes. M.
+          <lb/>ARGENTINAE Impensis Lazari Zetzneri Bibliopolae
+          <lb/>Argentinensis, &amp;amp; consortium. M. D. XVC. (Rücks, leer.)
+          <lb/>Am Schluss zwoischen 2 Vignetten: Argentorati ex officina
+          <lb/>Mvliana: sumptibus Lazari Zetzneri. M. D. LXXXV.
+          <lb/>80, Antiq., 8 unn. Bll., 158 S. (letzte S. irrtümlich 188), 1 leeres
+          <lb/>Bl. u. 8 unn. Bll. (Index), Kopft., Kust., Marg., Init.
+          <lb/>Bl. a 2a: ... GEORGIO Friderico: Comiti in Hardegg...
+          <lb/>MELCHIOR JVNIVS ] S. P. D.... — Argentinae VII. Id.! Martij.
+          <lb/>Anno...! M. D. LXXXV. (Vorrede, 5 Bll.)
+          <lb/>R102.141. Prov.: Bibl. Ch. Schmidt mit dessen Exlibris. 1292
+          <lb/>JUNIUS Melchior
+          <lb/>Strassburg, L. Zetaner 1587
+          <lb/>Scholae Rhetoricae, DE CONTEXENDARVM EPISTOLA¬
+          <lb/>RVM RATIONE MELCHIORIS JVNII Vuitebergensis, Eloquen¬
+          <lb/>tiae in Argentinensi A- cademia Professori. (Druckerm, Zetz¬
+          <lb/>ner&amp;#x27;s. HEB Tafel XLV Nr. 1.)
+          <lb/>ARGENTINAE per LAZARVM ZETZNERVM CIO ID XXCVII.
+          <lb/>(Rücks. leer.)
+          <lb/>80, Antig., 8 unn. Bll., 319 S. Kopft., Kust., Marg., Init., Vign.
+          <lb/>Bl. 2a:... JVLIO ERNESTO &amp;amp; Domi- no FRANCISCO Ducib.
+          <lb/>Brun- suicensibus &amp;amp; Luneburgensibus,. MELCHIOR
+          <lb/>JVNIVS S. P. D.... — Ar- gentinae decimo septimo Ca¬
+          <lb/>lendis Augu- sti. Anno... M. D. LXXXVII, (Vorrede, 4 Bll.)
+          <lb/>R102.140. Prov.: Bibl. Ch. Schmidt mit dessen Exlibris. 1293
+          <lb/>JUNIUS Melchior
+          <lb/>Strassburg, L. Zetzner 1592
+          <lb/>METHODVS ELOQVENTIAE COMPARANDAE,! SCHOLIS
+          <lb/>RHETORI- CIS TRADITA] à MELCHIORE JVNIO Witeber¬
+          <lb/>gensi, Eloquentie in Ar- gentinensi Academia! Professore.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

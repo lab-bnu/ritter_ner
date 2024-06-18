@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:34.301097+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2258.tif
+IMAGE WIDTH: 2294
+IMAGE HEIGHT: 3818
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>254
+          <lb/>ANNO M. D. XLV. (Verso blanc.)
+          <lb/>A la fin: ARGENTORATI, EX OFFICINA KNO- BLOCHIANA,
+          <lb/>PER GEORGIVM MA- CHAEROPOEVM, MENSE AVGV-StO. ANNO
+          <lb/>M. D. XLV.  (Feuille de lierre.)
+          <lb/>In-4°, car, rom., 80 ff. non ch., sign. a-u, titre courant, réclames,
+          <lb/>notes marginales, initiales ornées.
+          <lb/>fol. a 2a: ILLVSTRISSI- MIS PRINCIPIBVS, CLARIS- SIMIS
+          <lb/>PROCERIBVS S. Ro. IM-perij per Germaniam... —
+          <lb/>fol. t 2a: Argent. Calendis Augusti. Anno. M.D.XLV.
+          <lb/>Celsitudinibus uestris. Deditus in Domino. Martinus
+          <lb/>Bucerus.
+          <lb/>&amp;quot;R 100.748. (3) Prov, inconnue.
+          <lb/>GPB: Berlin SB, Breslau B U, Kœnigsberg BU.
+          <lb/>380
+          <lb/>Mente N° 65.
+          <lb/>BUTZER Martin
+          <lb/>[Strasbourg, Cr. Müller ?1 1545.
+          <lb/>Ein Christliche Er-innerung, an die Keis, vnd Kön.
+          <lb/>Maiestaten, sampt Churfürsten, Fürsten vnd! Stende des
+          <lb/>H. Reichs Teütscher! Nation, jetzvnd zâ Wurms versam¬
+          <lb/>let.Das jnen gepüre vnnd eigentlichzûstande, auch
+          <lb/>zûm höhisten von nöten seye, handlung, vmb vergleich
+          <lb/>ung, vnd besserung der kirchen in Teütschen landen, sur¬
+          <lb/>derlich vnd mit ernst furzûnem- men. Vnd wie man
+          <lb/>solliche vergleichung vnd Reformation leicht vnd füglich
+          <lb/>finden,vnd ins werck bringen möge.! Mit ablenung
+          <lb/>Päpstlicher gegenschrifft. Durch Martinum Bucerum.
+          <lb/>1545.
+          <lb/>ESAIAE LV. Sûchen den Herren, weil er zû finden
+          <lb/>ist. IoHAN. XII.Wandlet weil jr das liecht habet, das
+          <lb/>euch die finsternis nit begreiffe. (Verso blane.)
+          <lb/>In-4°, car. goth., 8 ff. non ch. (Préface), CLXIX p ch.; 7 p. non
+          <lb/>ch., (erreurs de pagination), sign. A-Z, a, titre courant, réclames, notes
+          <lb/>marginales.
+          <lb/>fol. A 2a: Vorrede... — Mart. Bucerus... (préface de
+          <lb/>8 ff.)
+          <lb/>Mêmes caractères que dans Butzer, Wie leicht... Strasbourg, Cr.
+          <lb/>Müller, 1545. R 101526. Voir: No 385.
+          <lb/>R101525. Prov.: Bibliothèque Heitz, Strasbourg, 1871.
+          <lb/>BM Strasbourg. GPB: Berlin SB, Breslau BU, Kœnigsberg
+          <lb/>BU.
+          <lb/>Baum No 74; Mentz No 63.
+          <lb/>381
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

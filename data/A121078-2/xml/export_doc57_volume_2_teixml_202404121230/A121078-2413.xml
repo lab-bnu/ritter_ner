@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:38.673329+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2413.tif
+IMAGE WIDTH: 2382
+IMAGE HEIGHT: 3822
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>DAMASCAENUS, Aphorismi. Voir No 180.
+          <lb/>DANIEL
+          <lb/>Strasbourg, M. Hupfuff, 1511.
+          <lb/>DJs biechlin halt yn die ausz- legung der treüm
+          <lb/>Danielis.
+          <lb/>(Gravure sur bois: Nabuchodonosor au lit, à côté de lui 6 person¬
+          <lb/>nages et Daniel interprétant les songes.) Au-dessous: Ich bin Danie¬
+          <lb/>lis ein prophet. En outre: un jeune homme expliquant quelque chose
+          <lb/>à 2 femmes portant des couronnes; elle est tirée de Morolf, 1499.)
+          <lb/>A la fin: Getruckt zû Straszburg durch Mathis Hup¬
+          <lb/>fuff Inn dem jar Als man zalt. M. CCCCC. vnd xi.
+          <lb/>In-40, car. goth., 2 col., 10 ff. non ch., sign. A-B, init. d’attente.
+          <lb/>R 100.216. Prov.: Bibl. Ch. Schmidt avec son ex-libris.
+          <lb/>Schmidt V, N° 85.
+          <lb/>609
+          <lb/>DASERUS Wilhelmus. Voir: OBRECHT Georgius, Oikonomia qua
+          <lb/>diffusa et perplexa pignorum materia breviter et perspicue
+          <lb/>explicata continetur. Strasbourg, A. Bertram, 1591.
+          <lb/>DASYPODIUS Conradus, Octo propositiones Stereometriae. Voir:
+          <lb/>EUCLIDES, Quindecim elementorum Geometriae secundum...
+          <lb/>Strasbourg, Chr. Mylius, 1564.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

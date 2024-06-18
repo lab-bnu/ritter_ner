@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:03.731110+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002083.tif
+IMAGE WIDTH: 2512
+IMAGE HEIGHT: 3942
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Christlich gehalten. Und weder vom Sacrament, noch
+          <lb/>anderm, etwas wider die warheyt, oder auch den
+          <lb/>Pommern, drin gesetzet hat. Antwurt uff des Pommers
+          <lb/>underrichtung. Hört bede parten, bewert alles, und
+          <lb/>behalten das gut. — (Strasbourg), sans impr. 1527, in-80.
+          <lb/>Mentz, n° 17; Stupperich, n° 18 : Bibl. Centrale Zurich.
+          <lb/>1172
+          <lb/>BUCER, Martin (Reconciliatio) : De vera Ecclesiarum in
+          <lb/>doctrina, ceremoniis, et disciplina reconciliatione &amp;amp;
+          <lb/>compositione. Hic cognosces veros ortus et progressus
+          <lb/>dissidiorum in religione... Responsio ad calumniam
+          <lb/>Alberti Pighij Campensis, contra Confessionem &amp;amp;
+          <lb/>Apologiam Protestantium nuper vulgatas, &amp;amp; Refutatio
+          <lb/>suggillationis Eccianae, contra Acta Ratisponensia... —
+          <lb/>(Strasbourg, Wendelin Rihel 1542), in-4°. [Avec la
+          <lb/>marque typ. de Rihel au verso du dernier f.).
+          <lb/>Bibl. S. Guillaume Strasbourg; Mentz 51; Stupperich, n° 73:
+          <lb/>B N Augsbourg, B U Bâle, B N Paris, etc.
+          <lb/>1173
+          <lb/>BUCER, Martin (Von Christlicher Reformation) : Christliche
+          <lb/>Reformation. Das ist Jnn Gottes wort, und der Heyligen
+          <lb/>Vättern Schrifften wolgegründter Bericht, von Gottseliger
+          <lb/>Reformation der Kirchen, und Pollicei... Darinn etliche...
+          <lb/>Artickel unserer Christlichen Religion erkläret werden.
+          <lb/>In sonderheyt die Lehr von der Ehe, und Ehscheydung...
+          <lb/>Auffs neüw ubersehen und in Truck verfertiget, durch
+          <lb/>Israelem Achacium. Mit einem schönen underricht
+          <lb/>Doctoris Martini Lutheri... von Christlicher Reformation
+          <lb/>und anstellung der Kirchen. M. D. LXVIII. —
+          <lb/>(Strasbourg, Sam. Emmel 1568), in-4°.
+          <lb/>Mentz, p. 154, n° 81 e; Wendel, François, Martini Buceri
+          <lb/>opera, p. LXIII; Stupperich, n° 1039: BN Augsbourg, Bibl.
+          <lb/>Centrale Zurich, etc.
+          <lb/>1174
+          <lb/>BUCER, Martin (Vom Reich Christi) : Vom Reich Christi
+          <lb/>unsers Herren... Weiland an den Durchleuchtigen König
+          <lb/>81
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

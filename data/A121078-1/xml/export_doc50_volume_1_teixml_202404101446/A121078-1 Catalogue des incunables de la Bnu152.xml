@@ -1,0 +1,150 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:39.393640+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu152.tif
+IMAGE WIDTH: 2444
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Bernard (Libraire) 416.
+          <lb/>Bibliotheca Conventus Monacen¬
+          <lb/>Berne 119.
+          <lb/>sis Ord. Eremitarum S. Augus¬
+          <lb/>Bertholdus (dominicain) 462.
+          <lb/>tini 383.
+          <lb/>Bethmann-Hollweg 44a.
+          <lb/>Bibliotheca Conventus Monacen¬
+          <lb/>Bibliophilen-Gesellschaft (Elsäs¬
+          <lb/>sis Carmelitarum Discalceato¬
+          <lb/>sische) 425.
+          <lb/>rum 75.
+          <lb/>Bibliotheca Academiae Georgiae
+          <lb/>Bibliotheca Collegii Soc. Jesu
+          <lb/>Augustae 26, 41, 48, 50, 68,
+          <lb/>Neoburgi 140.
+          <lb/>76, 131, 167, 217, 225, 264,
+          <lb/>Bibliotheca Monasterii Neustadt
+          <lb/>284, 326, 437, 479.
+          <lb/>ad Moenum 225.
+          <lb/>Bibliotheca Ducum Bavariae
+          <lb/>Bibliotheca Conventus Nieder¬
+          <lb/>204.
+          <lb/>naltanensis 29.
+          <lb/>Bibliotheca Palatina 161.
+          <lb/>Bibliotheca Monasterii Nemoris
+          <lb/>Bibliothèques de couvents:
+          <lb/>B. V. M. Canonicorum Regula¬
+          <lb/>Bibliotheca Monasterii Montis
+          <lb/>rium prope Northorn 180,
+          <lb/>Sancti Andechs 61, 158, 217,
+          <lb/>319.
+          <lb/>297. 382.
+          <lb/>Bibliotheca Conventus FF, Fran¬
+          <lb/>Bibliotheca Conventus Asper¬
+          <lb/>ciscanorum Novembergii ante
+          <lb/>nensis 196.
+          <lb/>Sylvam 252.
+          <lb/>Bibliotheca Conventus Fratrum
+          <lb/>Bibliotheca Monasterii B. M. V.
+          <lb/>Minorum Bambergge ad s.
+          <lb/>ad Nives Pragae Fratrum Re¬
+          <lb/>Annam 169, 241.
+          <lb/>gularis Observantiae 361.
+          <lb/>Bibliotheca Carthusiae Buxheim
+          <lb/>Bibliotheca Conventus Augusti¬
+          <lb/>98, 100, 121, 304, 370, 393,
+          <lb/>niani in Rambsau 105, 228.
+          <lb/>429, 441.
+          <lb/>Bibliotheca Monasterii in Rans¬
+          <lb/>Bibliotheca Conventus Colonien¬
+          <lb/>hofen 139. 142, 197, 198, 211,
+          <lb/>sis F F. Carmelitarum 179.
+          <lb/>270, 271, 318, 353, 358, 363,
+          <lb/>Bibliotheca Conventus Ordinis
+          <lb/>416, 445, 455.
+          <lb/>Praedicatorum Colmariensis
+          <lb/>Bibliotheca Conventus Francis¬
+          <lb/>170, 362.
+          <lb/>canorum Recollectarum in Ra¬
+          <lb/>Bibliotheca Conventus Carmelita¬
+          <lb/>statt 344.
+          <lb/>rum S. Batholomaei in Cre¬
+          <lb/>Bibliotheca Monasterii Rorensis
+          <lb/>mona 467.
+          <lb/>230.
+          <lb/>Bibliotheca Monasterii Beatae
+          <lb/>Bibliotheca Conventus Fratrum
+          <lb/>Virginis in Diessen 249.
+          <lb/>Rottenbuchensium 103.
+          <lb/>Bibliotheca Conventus Frens¬
+          <lb/>Bibliotheca Monasterii Scheyen¬
+          <lb/>wegen 152, 223, 232, 301, 319
+          <lb/>sis 93, 435.
+          <lb/>324, 359, 375, 406.
+          <lb/>Bibliotheca Conventus Seemans¬
+          <lb/>Bibliotheca Conventus Ord. Prae¬
+          <lb/>husiani Ord. Eremitarum S.
+          <lb/>dicatorum Frankfordensis 123.
+          <lb/>P. Augustini 36, 86.
+          <lb/>Bibliotheca Conventus Carthu¬
+          <lb/>Bibliotheca Conventus S. Mariae
+          <lb/>siae Gemnicensis 12a, 155,
+          <lb/>Magdalenae Ord. Dominici in
+          <lb/>273, 348.
+          <lb/>Speyer 369.
+          <lb/>Bibliotheca Conventus Ingolsta¬
+          <lb/>diensis B. Virg. Ord. S. Augus¬
+          <lb/>Bibliotheca Conventus Carmeli
+          <lb/>tini 292.
+          <lb/>Strigoviensis (Gross-Strenz)
+          <lb/>Bibliotheca Coenobii Benedicto¬
+          <lb/>89.
+          <lb/>rum Montis Sancti Johannis
+          <lb/>Bibliotheca Monasteri S. Marga¬
+          <lb/>(Johannisberg) 311.
+          <lb/>rethae (Strasbourg) 280, 426.
+          <lb/>Bibliotheca Monasterii Ord. S.
+          <lb/>Bibliotheca Conventus Francis¬
+          <lb/>Benedicti in Malersdorf 385.
+          <lb/>canorum de Observantia Ta¬
+          <lb/>Bibliotheca Monasterii Monacen¬
+          <lb/>bernensibus 405.
+          <lb/>sis Franciscanorum 138.
+          <lb/>Bibliotheca Conventus Treviren¬
+          <lb/>Bibliotheca Collegii Soc. Jesu
+          <lb/>sis Ord. Eremitarum S. Augus¬
+          <lb/>Monachii s. Baptistae 215.
+          <lb/>tini 475.
+          <lb/>122
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

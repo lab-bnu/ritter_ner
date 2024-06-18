@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:05.641887+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3058.tif
+IMAGE WIDTH: 2328
+IMAGE HEIGHT: 3842
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>502
+          <lb/>ERASMUS: Parabolae
+          <lb/>Strassburg, J. Knobloch, 1521
+          <lb/>D. ERAS-MROTERODA-mi, uiri doctissimi, Para
+          <lb/>bolarum seu Simi- lium Liber ele- gantissimus. (Epheubl.)
+          <lb/>Rückseite leer.
+          <lb/>Am Schluss: Argentinae apud Ioannem Knoblouchum,
+          <lb/>Anno... M. D. XXI.quarto Calen. Septemb. (Rückseite leer.)
+          <lb/>80, Kursiv, 103 num. u. 5 unn. Bll. (Vocabularium quarundam ex¬
+          <lb/>positio), Kopftitel, Kustoden, Marginalien, leerer Raum für Init., Titel¬
+          <lb/>einfassung (H&amp;amp; B Tafel X Nr. 5).
+          <lb/>S. 2: ERASMVS ROTERODA- mus, cum primis erudito
+          <lb/>Petro Aegi- dio celebratissimae civitatis An- tuuerpiensis
+          <lb/>à libellis. S. D.... — Basileae. Anno... 1514. dibus
+          <lb/>Octobris. (Vorrede, 5 S.)
+          <lb/>R100.922. Prov.: K. Th. Volcker, Frankfurt a. M., 5. VII. 1880;
+          <lb/>2 M. Handschr. Randnotizen.
+          <lb/>GK: SB Berlin, UB Göttingen, Halle; Rest S. 57; BN Paris,
+          <lb/>Rés, p. Z. 473; Schmidt VII Nr. 216.
+          <lb/>754
+          <lb/>ERASMUS: Ratio verae theologiae
+          <lb/>Strassburg, J. Knobloch, 1521
+          <lb/>RATIO] SEV METHODVS] compendiò perueniendi ad
+          <lb/>ueram Theologiam, per ERASMVM Roterodamum. Ex
+          <lb/>accurata autoris! recognitione.
+          <lb/>In foelici Ar- gentina, An. M. XXI. (Rückseite leer.)
+          <lb/>Am Schluss: ARGENTINAE APVD IOANNEM KNOBLOCHVM
+          <lb/>MENSE NOVEMBRI. ANNO, M. D. XXI. (Rückseite leer.)
+          <lb/>80, Kursiv, 89 num. Bll. (Rückseite des letsten Bl. leer), Kopftitel,
+          <lb/>Kustoden, Marginalien, leerer Raum für Init., Titeleinfassung (HeB
+          <lb/>Tafel X Nr. 5).
+          <lb/>R100.834. Prov.: Prof. Böhmer, Strassburg, 15. VII. 1876.
+          <lb/>GK: SB Berlin; BN Paris, Rés. D. 80.173; Schmidt VII Nr. 219.
+          <lb/>755
+          <lb/>ERASMUS: Antibarbara
+          <lb/>Strassburg, J. Knobloch, 1522
+          <lb/>ANTIBARBA RORVM D. ERASMI ROTERO-] dami, liber
+          <lb/>unus, quem iuuenis quidem adhuc lusit, caeterum diu
+          <lb/>desyderatum, demum repertum non iu uenis recognouit
+          <lb/>&amp;amp; uelut postliminio studiosis restituit. Ex quo reliquorum,
+          <lb/>qui dijs pro- picijs propediem accedent, le- ctor coniec¬
+          <lb/>turam facias licebit.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

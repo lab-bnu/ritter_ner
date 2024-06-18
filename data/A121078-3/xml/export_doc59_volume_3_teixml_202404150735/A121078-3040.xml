@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:05.378221+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3040.tif
+IMAGE WIDTH: 2338
+IMAGE HEIGHT: 3838
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>484
+          <lb/>Auf der Rückseite des Titelbl.: Erasmvs Roterodamys! Petro
+          <lb/>Aegidio Celebratissimae ciuita- tis Antvuerpiensis... —
+          <lb/>Basileae. Anno a Christo nato. M. D. XIIII. Idi- bus Octo¬
+          <lb/>bris.
+          <lb/>R 100.114 (3), Prov.: Pastor Harter, Luizhausen, 22.X.1877;1M.
+          <lb/>burg Inkun. Nr. 1760; GK: SB Berlin (3 Ex.), UB Breslau, Göttingen,
+          <lb/>Schmidt VIII Nr. 198; Bibl. Wilh, u. frühere Stadtbibl. Strass¬
+          <lb/>Königsberg (ohne Monatsangabe). Ist, laut GK, identifiziert mit einer
+          <lb/>Ausgabe, die an d. Schluss von Erasmus: [Teilsamml.] De duplici copia...
+          <lb/>(Arg. ex Aed. Schurerianis Mense Nouemb. 1516) angefügt ist.
+          <lb/>724
+          <lb/>ERASMUS : De ratione studiorum
+          <lb/>Strassburg. M. Schürer, 1516
+          <lb/>ERASMI ROTERODAMIDe ratione studij, ac legendi
+          <lb/>interpretandique auctores libellus aureus. Officium disci¬
+          <lb/>pulorum ex Quintilliano. Qui primo legendi, ex eodem.
+          <lb/>ERASMI Concio de puero IESU in schola Coletica Lon¬
+          <lb/>dini instituta pronuncianda. EIVSDEM ExPOstulatio IESU
+          <lb/>ad mortales.! EIVSDEM CARmina scholaria.
+          <lb/>Am Schluss: Argentorati, Ex Aedibus Matthiae Schu
+          <lb/>rerij. Mense Aprili, Anno M.D.XVI.T.O.
+          <lb/>REGNANTE MAGNANIMO IMP. CAES. MAXIMILIANO.) P. F.
+          <lb/>AVO. P. Q. P.
+          <lb/>40. Antiq., XXIII num. Bll., Kopftitel, Init. P. S, C. Titelein¬
+          <lb/>fassung (Siche Nr. 97).
+          <lb/>Auf der Rüekseite des Titelbl.: Erasmus Roterodamus Petro
+          <lb/>Viterio, liberalium disciplinarum professori eximio...
+          <lb/>R 100.113. Geschenk des Barons von Dörnberg, dessen Exlibris
+          <lb/>sich auf der Innenseite des Vorderdeckels befindet mit der Jahreszahl 1890.
+          <lb/>Handschr. Notizen im Text.
+          <lb/>2. Ex. R 100.114(1). Prov.: Pastor Harter, Luizhausen, 22. X.
+          <lb/>1877; 1 M. Handschr. Eintragung am Schluss: 1573. Sum Sigismundi
+          <lb/>Reihingii.
+          <lb/>GK: SB Berlin, UB Göttingen, Kiel, Königsberg, Münster. Rest
+          <lb/>S. 60; Schmidt VIII Nr. 186.
+          <lb/>725
+          <lb/>ERASMUS: Apologia
+          <lb/>Strassburg, M. Schürer, um 1517
+          <lb/>APOLOGIA ERASMI ROTERODA- mi ad eximium virum
+          <lb/>Iacobum Fabrum Stapulensem cu- ius argumentum versa
+          <lb/>pagella demon- strabit.AAuthore denuo reco¬
+          <lb/>gnitum.
+          <lb/>40, Antig., 64 unn. Bll., Sign. A-L, Titeleinfassung (Siehe Nr. 97).
+          <lb/>Bl. A 2a: ERASMVS ROTERODAMVS, IA- COBO FABRO
+          <lb/>STAPVLEN. INSIGNI PHILOSOPHO.S. D.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

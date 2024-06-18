@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:05.986364+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie056.tif
+IMAGE WIDTH: 2484
+IMAGE HEIGHT: 3912
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>HISTORIE von Herzog Ernst. Voir: ERNST, Herzog n° 240.
+          <lb/>HISTORIE wie Troja zerstöret ward. Voir: COLUMNA, Aegidius
+          <lb/>nos 189, 190.
+          <lb/>HISTORIE : Hie facht sich an ein graussenliche erschröcken¬
+          <lb/>liche historien von dem wilden Dracole weyde wie er
+          <lb/>die leut gespist hat und geproten.... — Strasbourg
+          <lb/>Mathias Hupfuff 1500, in-8°.
+          <lb/>B M Colmar. GW VII, 689 renvoie à Historia; Voulliéme;
+          <lb/>Berlin 2541 à Dracole Weida.
+          <lb/>335
+          <lb/>HISTORY von Lucius Apuleius. Voir: APULEIUS, Lucius n° 86.
+          <lb/>HISTORY von einer edlen jungen frawen Sigismunda
+          <lb/>genannt. Die eines fürsten tochter Tancredus von
+          <lb/>Salernia genannt gewesen ist. Und von irem liebhaber
+          <lb/>Gwysgardo... — (Strasbourg, Henri Knoblochtzer 1482,
+          <lb/>in-fol.
+          <lb/>Proctor 372; Schreiber 4489; Weller, Annalen II, p. 378;
+          <lb/>Heitz-Ritter n° 628 : Oxford, Vienne.
+          <lb/>336
+          <lb/>HORAE secundum usum ecclesiae romanae. — (Kirchheim,
+          <lb/>Marcus Reinhard vers 1490/91), in-80,
+          <lb/>Proctor 3209, Polain 1922.
+          <lb/>337
+          <lb/>HORAE secundum usum ecclesiae romanae; [en allemand]:
+          <lb/>Zeiten unserer lieben Frau. — (Kirchheim, Marcus
+          <lb/>Reinhard! 1491, in-8°.
+          <lb/>Copinger 3125, Polain 3210.
+          <lb/>338
+          <lb/>HORATIUS : Ad Manlium Torquatum (carm. IV, 7). Voir:
+          <lb/>CICERO, De officiis, n° 186.
+          <lb/>HOROLOGIUM devotionis circa vitam Christi. — Strasbourg
+          <lb/>1489, in-8°.
+          <lb/>Hain 8933.
+          <lb/>339
+          <lb/>54
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

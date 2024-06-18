@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:38.327844+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu115.tif
+IMAGE WIDTH: 2406
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>PSALTERIUM latino-germanicum. [Strasbourg, impr. du H.
+          <lb/>Ariminensis, s. d.), in-fol.
+          <lb/>Hain 13508, Pellechet: Colmar 1127, Proctor 314, Voulliéme:
+          <lb/>Berlin 2178.
+          <lb/>K 3071. Prov.: Bibliothèque Ed. Reuss, Strasbourg, 28/IV.
+          <lb/>1891 avec son exlibris, et l’annotation de sa main au recto
+          <lb/>du f. de garde: «Ex libris J. D. Brunneri 4 Jan, 1845». Au¬
+          <lb/>dessous, autographe de Reuss. Rel. anc.
+          <lb/>2e ex. K 3071a. Prov.: Directeur Halm, Munich, 28/VII. 1880,
+          <lb/>70 M. Notes mss. A l’intérieur du 1er plat: Catal. Föringer
+          <lb/>N° 2861. 70 M. Strassburg ca. 1477. Cf. Hain 13508 abwei¬
+          <lb/>chend: Panzer, Annalen p. 17, n° 14. In der Graf Törring&amp;#x27;-
+          <lb/>schen Auction erstanden. München, 23. Okt. 1834. Föringer.
+          <lb/>Scriptor der k. Hof- und Staatsbibliothek München». Rel. anc.
+          <lb/>404
+          <lb/>RABANUS MAURUS: De sermonum proprietate. (Strasbourg,
+          <lb/>impr. R. (— Ad. Rusch), avant le 20 juillet 1467), in-fol.
+          <lb/>Hain 13669, Madsen 3442, Proctor 239, Voulliéme: Berlin 2118.
+          <lb/>K 3106. Prov.: Bibliothèque du presbytère de Saverne. Notes
+          <lb/>mss. Au haut du 1er f.: Pro Franciscanos de observantia
+          <lb/>Tabernensibus». A l’intérieur du 1er et 2e plat, texte hébreux
+          <lb/>d’une page en mss. Rel. anc.
+          <lb/>405
+          <lb/>RAMPEGOLUS ANTONIUS DE: Biblia aurea. (Strasbourg), J.
+          <lb/>Grüninger, 6 août 1495, in-4°.
+          <lb/>Hain 13.685, Madsen 3445, Proctor 465, Voulliéme: Berlin
+          <lb/>2289, 5.
+          <lb/>K 3111. Prov.: Don du prince de Bentheim, 1874, provenant
+          <lb/>du couvent de Frenswegen.
+          <lb/>406
+          <lb/>RAMPEGOLUS ANTONIUS DE: Biblia aurea. Strasbourg, J. Grü¬
+          <lb/>ninger, 6 déc., 14/916, in-4°.
+          <lb/>Hain 13687, Madsen 3448, Proctor 474, Voulliéme: Berlin 2297.
+          <lb/>K 311la. Prov.: Les héritiers de C. Geyling, 18/1. 1886, 6 M.
+          <lb/>Notes mss. au recto du f. de garde et au verso du dernier
+          <lb/>f. Rel. anc.
+          <lb/>407
+          <lb/>RED und WIDERRED. Voir: Ackermann von Böhmen.
+          <lb/>85
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

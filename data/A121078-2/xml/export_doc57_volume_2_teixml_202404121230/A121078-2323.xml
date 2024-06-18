@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:36.055623+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2323.tif
+IMAGE WIDTH: 2316
+IMAGE HEIGHT: 3820
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>319
+          <lb/>fol. a 2a, 8 distiques latins : In Effigiem Cl. V. Davidis
+          <lb/>Chytraei par Josephus Langius Caesaremontanus, tertiae
+          <lb/>curiae schol. Argent. Moderator.
+          <lb/>RI01.107. Prov.: W. Gläser, Lubeck, 20/xI. 1877; 2M 40.
+          <lb/>GPB: BN Berlin, B U Breslau, Gœttinque.
+          <lb/>483
+          <lb/>CHYTRAEUS David
+          <lb/>Strasbourg, J. Rihel, 1596.
+          <lb/>CATECHESIS! DAVIDIS CHYTRAEI.
+          <lb/>RECENS RECOGNITA, ET mvltis definitioni¬bs
+          <lb/>avcta.
+          <lb/>Marque typ. de Josias Rihel. (HŒ B, Planche XXXI, No 12.)
+          <lb/>ARGENTINAE. M. D. XCVI.
+          <lb/>A la fin: IMPRESSVM AR- gentorati per losiam Ri¬
+          <lb/>helium. ANNo DOMINI) M. D. XCVI.
+          <lb/>In-80, car. rom. et ital., 7 ff. non ch., 201 pages ch., titre courant,
+          <lb/>réclames, initiale ornée P.
+          <lb/>Au verso du titre: BERNHARDO A MEN- ZINGEN, ADOLES¬
+          <lb/>CENTI nobilitate generis... (4 distiques signés: Nathan Chy¬
+          <lb/>traeus); au-dessous, un 5e distique.
+          <lb/>fol. A 2a non ch.: Clarissimi... D. PETRI A MENZINGEN..
+          <lb/>filio BErNHARDo à MENZINGEN, DAVID CHYTRAEVS... Epis¬
+          <lb/>tola Dedicatoria. (I1 pages.)
+          <lb/>R 101762. Prov.: Don du baron de Dörnberg, 1890, avec son
+          <lb/>ex-libris.
+          <lb/>GPB: BN Berlin.
+          <lb/>484
+          <lb/>CICERO
+          <lb/>(Haguenau, H. Gran, vers 1518l.
+          <lb/>M. Tullii Ciceronis Oratorum omnium principis Sy¬
+          <lb/>nonyma ad Lucium Veturium; et Stephani Fli sci Son¬
+          <lb/>cinensis viri Latialis lingue consultissimi ad Ioannem
+          <lb/>Meliorantium ciuem Vincentinum omnibus artificio sa
+          <lb/>eloquentia initiari cupientibus: ma! xime profutura: cum
+          <lb/>additio nibus multis in alijs exemplaribus olim pre¬
+          <lb/>termis! sis.
+          <lb/>S. l. n. d. IHaguenau, H. Gran, d’après l’encadrement du titre.]
+          <lb/>In-40, car. goth., 4 col., 46 ff. non ch., sign. a-h, titre courant
+          <lb/>encadrement du titre avec le monogramme de H. Gran. (H &amp;amp; B. Plan¬
+          <lb/>che LXIV, No 2).
+          <lb/>R101.688. Prov.: BN Munich, 10. IV. 1882. (Fin manque). 485
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

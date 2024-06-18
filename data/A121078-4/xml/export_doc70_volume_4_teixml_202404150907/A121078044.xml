@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:43.798070+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078044.tif
+IMAGE WIDTH: 2348
+IMAGE HEIGHT: 3842
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>928
+          <lb/>tutis, e Luciano a Carolo are tino traductus nuper dia¬
+          <lb/>logus. (2 dist. lat. de Luscinius.)
+          <lb/>Cum priuilegio caesareo ad quadriennium ab anno
+          <lb/>Christi 1519. Ioannes! Schottus Argentorati! premebat.
+          <lb/>Ottomaro Lu-] scinio Argen-tino, iuris! pont. Doctore. ] inter- prete.
+          <lb/>Fol, g nouveau titre encadré: Manium! Quod superest e Lu- cano.
+          <lb/>In-40, car. rom., 49 ff. non ch., sign. a-k, titre encadré.
+          <lb/>Au-dessus: bande d’ornement.
+          <lb/>Fol. 1b:... Christophoro urseuico, Erasmus Roterodamus S. (3 pp.)
+          <lb/>R101496. Prov.; BN Munich 23/X1 1876, 0,50 M.
+          <lb/>BM Strasbourg. Schmidt II n° 50: « Bibl. Consist. Colmar.»
+          <lb/>1391
+          <lb/>LUCIANUS
+          <lb/>Haguenau, Th. Anshelm 1520
+          <lb/>LUCIANI FUGITIVI. A BILIBALDO PIRCKAIME(RO IN
+          <lb/>LATIINUM Ver! sus. (Feuille de lierre.)
+          <lb/>A la fin: Hagnoae, ex Academia Thomae Anshelmi
+          <lb/>Anno M. D. XX. Mense Martio. (Marque typ. de Th. Anshelm.
+          <lb/>HABPlanche LXII n° 2; Sulvestre n° 77I.)
+          <lb/>In-4°, car. rom., 13 ff. non ch., sign. aa-ce, titre encadré, belles
+          <lb/>et grandes init. à fig. E, 0, V.
+          <lb/>Au verso du titre: COMITIS DE NUENAR AD PIRCKAIMER EPI¬
+          <lb/>STOLA ! SVO BILIBALDO PIR! CAIMERO NORINBERGO! PATRICIO
+          <lb/>sis Marcii. (2 pp.)
+          <lb/>Fol. aa 2b: AD COMITEM DE NUENAR PIRCAIMERI EPISTOLA
+          <lb/>... HER MANNO COMITI DE NUENAR, BILIBALDUS PIR
+          <lb/>CAIMERUS... Nurimbergae Idib. Mai. (6 pp.)
+          <lb/>Au recto du dernier f.: HIERONYMI EMSER] SAPPHICVM AD
+          <lb/>BILI] BALDVM PIRCAIMER. (6 strophes de 4 vers.)
+          <lb/>R101.880. Prov.: Bibl. Bœcking 1872. Mimbre de la BU de
+          <lb/>Stuttgart.
+          <lb/>BN Paris, Rés. X. 1111; Oxford, Bibl. Bodleiana; Proctor II
+          <lb/>Sectio I n° 11708: Londres, Brit. Museum.
+          <lb/>1302
+          <lb/>LUCIANUS
+          <lb/>Haguenau, Th. Anchelm 1520
+          <lb/>LUCIANI] RHETOR A] BILIBALDO] PIRCKAIME RO IN
+          <lb/>LATII NVM VER! sus.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

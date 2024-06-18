@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:03.186865+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002066.tif
+IMAGE WIDTH: 2452
+IMAGE HEIGHT: 4004
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>BRENTIUS, Joh. (Johannes Evangelium) : In D. Joannis
+          <lb/>Evangelion Exegesis... — Haguenau, Jean Secer mars
+          <lb/>1524, in-40.
+          <lb/>Köhler, n° 954; Panzer, Annales VII, p. 93, n° 210. 1081
+          <lb/>BRENTIUS, Joh. (Johannis Evang.) Idem. — Haguenau,
+          <lb/>Jean Secer mars 1527, in-8°.
+          <lb/>Köhler, n° 22; Burg, n° 98. [Une éd. Secer 1528; Ritter, Rép.
+          <lb/>n° 262; éd. allemande, Kobian 1539 : Rép. n° 267l. 1082
+          <lb/>BRENTIUS, Joh. (Idem). — Haguenau, Jean Secer 1529, in-80.
+          <lb/>Köhler, n° 31.
+          <lb/>1083
+          <lb/>BRENTIUS, Joh. (Johannis Evang.) (Idem). — Haguenau,
+          <lb/>Jean Secer 1530, in-80.
+          <lb/>Köhler, n° 42.
+          <lb/>1084
+          <lb/>BRENTIUS, Joh. (Johannis Evang.) Idem. — Haguenau,
+          <lb/>Jean Secer 1532, in-80.
+          <lb/>Köhler, n° 57.
+          <lb/>1085
+          <lb/>BRENTIUS, Joh. (Idem).., per Authorem iam novissime
+          <lb/>correcta et emendata. — Haguenau, Jean Secer mars
+          <lb/>1534, in-80.
+          <lb/>Köhler n° 70; Bibl. Budapest Exeg. 1718 (Communication de
+          <lb/>Mme Soury, Strasbourg); Burg, n° 109.
+          <lb/>1086
+          <lb/>BRENTIUS, Joh. (Judices) : In librum Judicum et Ruth
+          <lb/>Commentarius. — Haguenau, P. Brubach (15135,
+          <lb/>in-80.
+          <lb/>Köhler, n° 76; Burg, n° 111; Bibl. S. Guillaume Strasbourg.
+          <lb/>1087
+          <lb/>BRENTIUS, Joh. (Judices) : In librum Judicum et Ruth
+          <lb/>Commentarius. — Haguenau (Pierre Brubach) (15136,
+          <lb/>in-8°.
+          <lb/>Köhler, n° 91; Burg, n° 113.
+          <lb/>1088
+          <lb/>64
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

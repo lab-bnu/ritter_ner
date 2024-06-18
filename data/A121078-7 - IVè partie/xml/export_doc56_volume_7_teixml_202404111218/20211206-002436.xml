@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:12.766375+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002436.tif
+IMAGE WIDTH: 2516
+IMAGE HEIGHT: 3966
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>QUINTILIANUS, M. Fabius : Institutionum liber Decimus...
+          <lb/>emendatus autore Joachimo Quaestore (Camerario). —
+          <lb/>Haguenau, Jean Secer avril 1527, in-80,
+          <lb/>BN Paris X. 17.132 (2); Walter, n° 2112.
+          <lb/>3058
+          <lb/>QUINTILIANUS, Marcus Fabius : Institutionum oratoriarum
+          <lb/>libri duo... — Haguenau, Jean Secer 1531, in-8°,
+          <lb/>BNParis 2 ex. : X17.132 (1) et 8° x 11.247 (1).
+          <lb/>3059
+          <lb/>QUINTILIANUS, Marcus Fabius : Epitome seu compendium
+          <lb/>institutionum oratoriarum M. F. Quinti, autore Jona
+          <lb/>Philologo. — Strasbourg 1568, in-8°,
+          <lb/>Graesse V, p. 529 : « L’auteur Pseudonyme fut J. Gonthier
+          <lb/>(ou Günther) d’Andernac».
+          <lb/>3060
+          <lb/>RABBI, Samuel : Quod Judaei Messiam qui venit ceu venturum
+          <lb/>temere expectent... — (Strasbourg, Jean Herwagen
+          <lb/>1523), in-80.
+          <lb/>Ritter : B M Strasbourg, n° 1770.
+          <lb/>3061
+          <lb/>RABUS, Ludovicus : Tomus I. De S. Dei confessoribus
+          <lb/>veterisque ecclesiae martyribus. Ex sacris literis, vetus¬
+          <lb/>tissimorumque Ecclesiae patribus scriptis, ad senescentis,
+          <lb/>adflictaeque hodiernae Ecclesiae consolationem... —
+          <lb/>Strasbourg, héritiers de Balthasar Beck 1552, in-80.
+          <lb/>Ritter: B M Strasbourg, n° 1772.
+          <lb/>3062
+          <lb/>RABUS, Ludovicus : Historien Der Heiligen Ausserwöhlten
+          <lb/>Gottes Zeügen, Bekennern und Martyrern... warhaffte
+          <lb/>Historien... inn Latein.., zusammen getragen und
+          <lb/>jetzund durch ihn [Rabus) selbers... verdolmetscht. —
+          <lb/>Strasbourg 1555-7, in-40.
+          <lb/>Ritter, B M Strasbourg, n° 1774/5. [Une éd. Sam. Emmel 1554;
+          <lb/>Ritter, Rép. n° 1962; Emmel 1555 : Rép. n° 1963;
+          <lb/>Josias Rihel 1571 : Rép. n° 1964l.
+          <lb/>3063
+          <lb/>434
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

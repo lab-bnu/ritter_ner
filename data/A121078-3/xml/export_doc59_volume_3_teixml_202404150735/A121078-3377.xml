@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:12.748909+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3377.tif
+IMAGE WIDTH: 2396
+IMAGE HEIGHT: 3856
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>819
+          <lb/>A-G u. 14 für den deutschen Prolog u. Epilog, Sign. A-B, Kopft.,
+          <lb/>80, Kursiv, 69 unn. Bll., wovon 55 fur das Stück selbst, Sign.
+          <lb/>Kust., Init.
+          <lb/>R 100.129. Prov.: Bibl. Heitz, Strassburg 4871.
+          <lb/>Oxford, Bibl. Bodleiana.
+          <lb/>1216
+          <lb/>HUNNIUS Aegidius: Prologus et epilogus cum argumentis sin¬
+          <lb/>gulorum actuum Comoediae sacrae Josephi venditi. An:
+          <lb/>HUNNIUS Aegidius : Josephus, Comoedia sacra. Strassburg,
+          <lb/>A. Bertram 1597.
+          <lb/>Schroeder Ed. : Aegidii Hunii Josephi comoedia (editio Marpurgi
+          <lb/>1584), denuo edita. Progr. Marburg 1. Teil 1898, 42 S.; 2. Teil 1899,
+          <lb/>33 S. Marburg, 1898-99, 4°. Schottenloher I Nr. 9125- 28.
+          <lb/>1217
+          <lb/>HUS Johann
+          <lb/>[Hagenau, J. Setzer um 1523]
+          <lb/>DE CAVSA BOEMICA. PAVLVS CON]STANTIVS. Vulgo
+          <lb/>refragari quosdam celeberrimi! Constantiensis Concilii sen¬
+          <lb/>tentiae, qua HVSSITAE damnati sunt, constat. Quare
+          <lb/>visum est mihi hunc ea de re in lucem edere librum
+          <lb/>ut videtur a doctis quibusdam seriptumQuo palam fiat
+          <lb/>uniuerso orbi, qua ex causa Hussitae damnati sint,
+          <lb/>&amp;amp; Sanctae! Romanae Ecclesiae, celeberrimique Con! cilii
+          <lb/>illibata maneat auctoritas.
+          <lb/>Lector animum affer liberum, ron chos, supercilium
+          <lb/>&amp;amp; rugas ablega ad Haereticorum Inqui sitores.
+          <lb/>Am Schluss: EXPLICIT TRACTA TVS MAGISTRI, IOHAN ] NIS
+          <lb/>HVS, QVEM COLLE git Anno Domini M. CCCC. XIII. Et est
+          <lb/>pronunciatus publice in Ciuitate PRAGENSI.
+          <lb/>4° Antiq., 4 unn. Bll. (Index), 93 unn. Bll., Sign. aa-22, Kopft,,
+          <lb/>prâchtige Init. C, Titeleinfassung (4 einzelne Leisten).
+          <lb/>R 102.133. Prov.: Bibl. Böcking.
+          <lb/>1218
+          <lb/>HUS Johann
+          <lb/>[Strassburg, J. Schott 15241
+          <lb/>IOANNES Hvss! De Anatomia ANTICHRISTI, Liber
+          <lb/>unus. De mysterijs iniquitatis Antichristi, Fragmentum 1
+          <lb/>De reuelatione Christi, &amp;amp; Antichristi, Fragmentum 2! De
+          <lb/>abolendis Sectis, &amp;amp; traditionibus hominum. Lib. 1 De
+          <lb/>unitate Ecclesiae, &amp;amp; scismate uitando. Liber 1 De Euan¬
+          <lb/>gelica perfectione. Liber 1 De pernicie traditionum huma¬
+          <lb/>narum. Fragment. 3 De regno, populo, uita, &amp;amp; moribus
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

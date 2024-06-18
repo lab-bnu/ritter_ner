@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:43.338724+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078028.tif
+IMAGE WIDTH: 2362
+IMAGE HEIGHT: 3852
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>912
+          <lb/>Ab Artis fideli filio. (Marque typ. de Samuel Emmel. HEB
+          <lb/>Planche XXXV n° 1; Silvestre n° 822.)
+          <lb/>In-8, car. rom., 127 pp. ch., titre courant, réclames, init. ornée I;
+          <lb/>au verso du titre 3 dist. avec le titre: «Senior Philosophus» au-dessus
+          <lb/>et une gravure au-dessous: le Senior Philosophus assis sur un trône,
+          <lb/>tenant une table de marbre en main, 2 hommes debout de chaque côté,
+          <lb/>au-dessus de la tête du philosophe 9 aigles, qui tiennent entre leurs pattes
+          <lb/>chacun un arc, dont les flèches sont dirigées contre la tête du Senior.
+          <lb/>Fol. A2a: Au-dessous du titre, qui est reproduit de nouveau, on
+          <lb/>lit : « Dixit Senior Zadith! Filius Hamuel. Intravi ego et Oboël cha¬
+          <lb/>rissima barba, in domum quandam subter-raneam, et postea intui ego
+          <lb/>&amp;amp; Elhasam universos car- ceres Joseph ignitos, &amp;amp; vidi in tecto! ima¬
+          <lb/>gines novem aquilarum pictas, ha! bentes alas expensas, ac si volarent,
+          <lb/>pe- des vero extentos &amp;amp; apertos, &amp;amp; in pe- de uniuscuiusque aquilae,
+          <lb/>similitudo ar- cus ampli, quam solent ferre sagittarii.Et in pariete
+          <lb/>domus à dextris &amp;amp; et à sini-stris intrantis, imagines homines, stan¬
+          <lb/>tium, pro ut possent esse perfectiores, et pulchriores...»
+          <lb/>R 101.259 (5). Prov, inconnue.
+          <lb/>1360
+          <lb/>LIBER MEDITATIONIS. Voir: SALICETUS Nic.
+          <lb/>LIBER MISSARUM
+          <lb/>[Strasbourg, J. Prüss?1 avant 1504
+          <lb/>Liber missarum Specialis.
+          <lb/>In-fol., car. goth., 2 col., 9 ff. non ch., CLXXII ff. ch., après f. 79
+          <lb/>il y a 7 ff. blancs, dont le dernier a au verso une gravure sur bois de la
+          <lb/>grandeur de la page: St. Jean et la Vierge Marie sous la Croix, gra¬
+          <lb/>vure reproduite en miniature au recto du f. suivant; aux 5 ff. blancs
+          <lb/>suivants non ch.: le texte de la consécration jusqu’à la communion; la
+          <lb/>pagination continue avec f. 81: Incipit pars de sanctis. Et primo
+          <lb/>de sancto andrea In troitus, (en rouge), sign. a-p, et A-H à
+          <lb/>8 ff.; seule la sign. E n’a que 7 ff. Les 10 ff. non ch. contiennent l’index
+          <lb/>qui commence au verso du titre. Les chiffres romains sont en rouge, de
+          <lb/>même le titre; le texte est rouge et noir. Quelgues belles init. en couleur.
+          <lb/>R 87. Prov.: Bibl. Ch. Schmidt avec note ms. de sa main au recto
+          <lb/>du f. de garde: « Il existe un Liber Missarum specialis imprimé à Stras¬
+          <lb/>bourg, par Jean Prüss, en 1504, du même format, en général avec les
+          <lb/>mêmes caractères que la présente édition, avec quelques additions. Il pa¬
+          <lb/>raît d’après cela que ce volume est sorti de la même presse et qu’il est
+          <lb/>d’une édition antérieure à celle de 1504.» Rel, anc.
+          <lb/>1361
+          <lb/>LIBER PSALMORUM. Voir: PSALMI
+          <lb/>LIBRI GYNAECIORUM. Voir: SPACH Israël
+          <lb/>LIÉBAUBT (LIÉBHAULT) Jean. Voir: LIBALTUS Johannes
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

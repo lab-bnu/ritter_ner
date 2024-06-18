@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:30.985566+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2147.tif
+IMAGE WIDTH: 2298
+IMAGE HEIGHT: 3822
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>143
+          <lb/>Omnes habiti sub Decano, M. MELCHIORE IVNIO: I &amp;amp;
+          <lb/>nune partim ab eodem: partim verò à M. MICHAELE
+          <lb/>BOSCHIO WINSHE-mio, Praeceptore primae Classis, in
+          <lb/>lucem editi.
+          <lb/>Marque typographique de Nic. Wyriot. (H. d B., Planche XLIII,
+          <lb/>N°1). ARGENTORATI, Excudebat Nicolaus Vvyriot.
+          <lb/>M. D. LXXVIII. (Verso blane.)
+          <lb/>In-4°, car. rom. et goth., 124 ff. non ch., sign. A-I, a-d, A-G,
+          <lb/>A-I, titre courant, réclames, initiale à fig. S. et initiales ornées.
+          <lb/>fol. a 4a: Gravure sur bois: Tabvla Militiae Scholasticae.
+          <lb/>Arx Paledis avec 3 tours, au milieu la théologie, à gauche, la médecine,
+          <lb/>à droite, le droit, sur le premier degré les Magistri, au-dessous les
+          <lb/>Baccalaureati, puis les ennemis de l’étudiant, la paresse, la volupté etc.
+          <lb/>au-dessous 4́ distiques: AD IVVENTVTEM.
+          <lb/>Nouveau titre avec marque typographique de Nic. Wyriot pour
+          <lb/>la 2ème partie (Actus Baccalaureatus) et pour la 3ème (Actus
+          <lb/>Magistrorum). A la fin de la Ière partie l&amp;#x27;explicit: ARGENTORATI
+          <lb/>Excudebat Nicolaus Wyriot. M. D. LXXVIII.
+          <lb/>fol. a 2a... D. EVSTA-CHIO REMLINO: D. CASPARO
+          <lb/>HOFF- MANNO: D. FRIDERICO BVRTZELIO: ET! D. MARTINO
+          <lb/>REDLINO... — 4. Septemb. Anno 1578. M. Michaël Bo¬
+          <lb/>schius Winssemius. (Préface de 4 pages.)
+          <lb/>R 102.286. Prov.: Bibliothèque Heitz.
+          <lb/>BN Paris, 2 exemplaires: D2 1017 (12) et Re. 625; GPB: Berlin
+          <lb/>SB, Breslau UB, Bonn UB, Königsberg UB.
+          <lb/>Michel Bosch, né à Winsheim en Franconie en 1556, était pro¬
+          <lb/>fesseur d’histoire et de langue grecque à Strasbourg, où il mourut
+          <lb/>le 21 septembre 1608.
+          <lb/>228
+          <lb/>BOSCHIUS Michael
+          <lb/>Strasbourg, N. Wyriot, 1578.
+          <lb/>ORATIO! DE MILITIA SCHOLA-] STICA, HABITA ARGEN¬
+          <lb/>TINAE, in Progressionibus Classieis: vltimo Martij: Anno
+          <lb/>1578. Autore MICHAELE BOSCHIO WINSSEMIO: ! Praeceptore
+          <lb/>Classis Primae, ibidem.
+          <lb/>Gravure sur bois: la même que dans Boschius, Actus tres Acade¬
+          <lb/>miae, 1578, fol, a 4a. (Voir; N° 228).
+          <lb/>Au-dessous: ARGENTORATI Excudebat Nicolaus Wyriot.
+          <lb/>(Verso blanc.)
+          <lb/>In-40, car. rom., 14 ff. non ch., sign. A-D, titre courant, récla¬
+          <lb/>mes, notes marginales, initiales ornées.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

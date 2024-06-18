@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:49.277634+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5019.tif
+IMAGE WIDTH: 2372
+IMAGE HEIGHT: 3880
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1327
+          <lb/>In-8°, car. ital., 16 ff. non ch., sign. A-B, titre courant, réclames.
+          <lb/>fol. A 2a: Ioannis Sapidi, ae- ]] gloga. batrachys. Quae Il est de morte
+          <lb/>Francisci Froschii Iuris- I1 consulti &amp;amp; Eobani!! Hessi Poetae. (4 ff.)
+          <lb/>Suivent sur 21 pages des vers sur différentes tombes : 1) Tumulus
+          <lb/>Materni Circi!! Musici, 2) Tumulus Claudij Pheroei Galli, 3) Tumulus
+          <lb/>Nicolai Gerbelij Iunioris, 4) Tumulus Caspari &amp;amp; Iosephi Hedionum
+          <lb/>Fratrum, 5) Eusebij Oecolompadij, 6) Guilhelmi Zuingli, 7) Sarae Bucerae,
+          <lb/>Martini Buceri filiae, 8) Sebastiani Sophoeri, Gervasii Sophoeri filij,
+          <lb/>9) Ioannis Baptistae Ruelli, 10) Iac. Bedrot. Sacer, 11) Elizabethae
+          <lb/>filiae Martini Buceri, 12) Alexandri Itali Theologi, 13) Iacobi Villici,
+          <lb/>14) Helenae uxoris Pantaleonis Blasij, 15) Filioli Martini Bucer Sacer,
+          <lb/>16) Conradi Molsemi Pueri, etc.
+          <lb/>R. 102.303. Prov. : Rosenthal, Munich, 27/xI, 1886; 10 M. Notes mss.
+          <lb/>2e ex. R. 102.306 (3). Prov. de la Bibl. Ch. Schmidt.
+          <lb/>2073
+          <lb/>SAUFFER Gervasius. Voir : Sopher Gervasius.
+          <lb/>SAVONAROLA Hieronymus Strasbourg, (J. Herwagen), 1524
+          <lb/>Medita tio pia et erv- dita Hieronymi Sauonarolae a
+          <lb/>Papa! exusti, super Psalmos Miserere!] mei, &amp;amp; in te Domine
+          <lb/>speraui.
+          <lb/>Argentorati!! An. M. D. XXIIII.
+          <lb/>In-8°, car. ital., 35 ff. non ch., sign. A-E, réclames, grande init, à fig. G.
+          <lb/>et init. d’attente, titre encadré : au haut, au milieu Dieu sur un nuage,
+          <lb/>à gauche, Saint Pierre, à droite Saint Paul; bordures latérales, les 4 évan¬
+          <lb/>gélistes; au bas, à gauche Mercure, à droite Minerve. (Encadrement
+          <lb/>propre à J. Herwagen.)
+          <lb/>Au verso du titre : Martinvs!! Lvthervs Lecto 11 ri Pio. (Préface de
+          <lb/>2 pages.)
+          <lb/>R. 102.030. Provenance inconnue.
+          <lb/>Annotation mss. au bas du titre : Natus est die 21. Septembris an.
+          <lb/>christi 1452, exustus vero mandatu Alexand. VI. Papae an. 1498. Flo¬
+          <lb/>rentiae mense Aprili.
+          <lb/>Oxford, Bibl. Bodleiana.
+          <lb/>2074
+          <lb/>SAVONAROLA, Meditatio in psalmum LI. Voir : Luther, Enna¬
+          <lb/>ratio psalmorum
+          <lb/>Strasbourg, Cr. Mylius, 1539
+          <lb/>SAVONAROLA Michael
+          <lb/>Haguenau, V. Kobian, 1532
+          <lb/>Excellentis!! simi medici Michaelis! Sauonarolae libellus
+          <lb/>singularis de arte conficiendi Aquam vitae simplicem et
+          <lb/>compositam.Et de eiusdem admirabi li virtute ad conser¬
+          <lb/>uan dam sanitatem,] et ad diuersas Humani corporis
+          <lb/>aegritudines cu-randas. (Feuille de treffle.)
+          <lb/>Haganoe per Valentinum Kobian Anno. M. D. XXXII.
+          <lb/>Mense Septembri. Eme lege et probabis... (3 feuilles de treffle.)
+          <lb/>A la fin, avant l’Index : Haganoae, per Valent. Kob.
+          <lb/>Anno M. D. XXXII.( Mense Septemb.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

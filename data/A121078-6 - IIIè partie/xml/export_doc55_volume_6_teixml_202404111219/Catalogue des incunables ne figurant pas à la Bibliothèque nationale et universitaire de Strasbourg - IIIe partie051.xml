@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:05.921014+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie051.tif
+IMAGE WIDTH: 2464
+IMAGE HEIGHT: 3918
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Moguntinum, habita anno 1499. — [Strasbourg, Martin
+          <lb/>Flach pas avant 1499), in-4°.
+          <lb/>Hain 8050, Proctor 716.
+          <lb/>302a
+          <lb/>GRITSCH, Johannes : Quadragesimale. — [Strasbourg, impr.
+          <lb/>de Henricus Ariminensis pas après 1477], in-fol.
+          <lb/>Hain 8059; Proctor 330; Voullième : Berlin 2165.
+          <lb/>303
+          <lb/>GRITSCH, Johannes : Quadragesimale. — (Strasbourg, impr.
+          <lb/>des Vitas Patrum] 5. II. 1484, in-fol.
+          <lb/>Hain 8070; Proctor 420; Bolchert 51.
+          <lb/>304
+          <lb/>GROSSE, Erhard: Doctrinale (pour les laïques) — [Strasbourg,
+          <lb/>impr. Civis CW s. d.), in-fol.
+          <lb/>Hain 8083; Voulliéme : Berlin 2191.
+          <lb/>305
+          <lb/>GRISELDIS. Voir: PETRARCA, n° 572.
+          <lb/>GRÜNER, Vincentius: Expositio officii missae. — (Strasbourg,
+          <lb/>impr. de Henricus Ariminensis s. d.), in-fol.
+          <lb/>Hain 6808; Ritter: B M Strasbourg no 128 et Rép. Inc. 199, 306
+          <lb/>GRÜNER, Vincentius. Voir aussi : ExposiTio missae n° 263.
+          <lb/>GUARINUS, Ars diphtongandi. Voir : REUCHLIN, Joh. :
+          <lb/>Vocabularius breviloquus, nos 602.
+          <lb/>GUASCHIS, Ludovicus de. Voir : ALEXANDER de Villa Dei no 38.
+          <lb/>GUIDo de Monte Rochen (Rocherii) : Manipulus curatorum. —
+          <lb/>(Strasbourg, Martin Flach, s. d.).
+          <lb/>Hain 8166.
+          <lb/>307
+          <lb/>GUIDO de Monte Rochen : Manipulus curatorum. —
+          <lb/>(Strasbourg, impr. des Casus breves — Georges Husner)
+          <lb/>1493, in-40.
+          <lb/>Copinger 2845; Proctor 733; Voullième : Berlin 2519. 308
+          <lb/>49
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

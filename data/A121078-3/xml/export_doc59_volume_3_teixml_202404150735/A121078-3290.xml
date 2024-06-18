@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:10.625322+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3290.tif
+IMAGE WIDTH: 2348
+IMAGE HEIGHT: 3854
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>732
+          <lb/>HAWENREUTER Johann Ludwig
+          <lb/>Strassburg, C. Kieffer 1586
+          <lb/>Disputatio de Mente! Intelligente:! QVAM A SE CON¬
+          <lb/>SCRIP- TAM, PRAESIDE IOANNE LV- DOVICO HAWENREVTERO
+          <lb/>DOCTORE ME-dico Philosopho, publicè in celeberrima
+          <lb/>Argentin- sium Academia, die 15. Decembris, hora 8.
+          <lb/>pro virili defendet, M. IOANNES MENT, AvoV- stanus
+          <lb/>Vindelicius. (Druckerm. Kieffers. H&amp;amp; B Tafel XLIII Nr. 1 unten.)
+          <lb/>ARGENTINAE Excudebat Carolus Kieffer.M. D. LXXXVI.
+          <lb/>(Rüeks, leer.)
+          <lb/>40, Kursiv, 10 unn. Bll., Sign. A-C, Kopft., Kust., Marg., Init. T.
+          <lb/>Bl. A 24: Ad... D. VLRICVM! Ment, Gymnasij Reipub.
+          <lb/>Augustanae, quod ad D. Annae est, Collegam &amp;amp; Ludi¬
+          <lb/>magistrum... PRAEFATIO... — Datum Argentinae, Anno
+          <lb/>Christi M. D. LXXXVI. die 27. Nouemb, stilo veteri. Tuae
+          <lb/>Humanitatis studiosissimus semper ex fratre Nepos,
+          <lb/>M. Iohannes Ment. (Vorrede, 3 S.)
+          <lb/>R 101.56416. Prov.: Hiersemann, Leipsiq 25. 1. 1935; 4M.
+          <lb/>Handschr. Notiz: Ornatiss. &amp;amp; doctiss. viro. D. M. Iosepho Lansio domino
+          <lb/>et amico suo colendo autor Iohannes Ment A. V. Argentoratensi. 1079
+          <lb/>HAWENREUTER Johann Ludwig
+          <lb/>Strassburg, A. Bertram 1589
+          <lb/>ANALYSIS LIBRI TERTHI POLITICORVM ARI- STOTELIS:
+          <lb/>De materia &amp;amp; forma Rerum publicarum. IN INCLYTA AR¬
+          <lb/>GENTORA- tensium Academia ad disputandum proposita:
+          <lb/>PRAESIDE IOANNE LVDOVICO HAWEN- REVTERO D.  Respon¬
+          <lb/>dente PETRO EBERTZ ISNENSI.! Disp. mense Iunio. (Vign.)
+          <lb/>Argentorati excudebat Antonius Bertramus. Anno
+          <lb/>M. D. LXXXIX.
+          <lb/>40, Kursiv, 16 unn. Bll., Sign. A-D, Kopft., Kust., Titelumrahmung.
+          <lb/>R101288. Prov. : B. C. Weber, Weimar 16. VI. 1898. 1080
+          <lb/>HAWENREUTER Johann Ludwig
+          <lb/>Strassburg, A. Bertram 1589
+          <lb/>COMPENDIVM PHYSICAE: IN ACADEMIA ARGENTORA¬
+          <lb/>TENSI, A CLARIS SIMO VIRO, D. IOANNE LypoVIco! Hawen¬
+          <lb/>reutero, doctrinae huius Professore praelectum, summa¬
+          <lb/>que: diligentia &amp;amp; per- spicuitate concinnatum, ex libris
+          <lb/>Aristotelis. Octo, Physicorum:Quatuor, de Coelo:
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

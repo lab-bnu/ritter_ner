@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:38.200872+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu106.tif
+IMAGE WIDTH: 2396
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Copinger 5430, Schmidt VI, 63, Voulliéme: Berlin 2506, 6.
+          <lb/>K 3309. Prov.: Don du prince de Bentheim, 1874, provenant
+          <lb/>du couvent de Frenswegen. Rel. anc.
+          <lb/>359
+          <lb/>PALUDANUS PETRUS: Sermones thesauri novi de tempore.
+          <lb/>Strasbourg, (imprimeur des Vitas Patrum), 1483, in-fol.
+          <lb/>Copinger 5410, Pellechet: Colmar 1186, Proctor 419, Voul¬
+          <lb/>liéme: Berlin 2251, 5.
+          <lb/>K 3297. Prov.: Librairie Treuttel e Würtz, Strasbourg, 30. I.
+          <lb/>1874. Au-dessous du titre: Conventus... (illisible). Ord. Praedi¬
+          <lb/>catorum. Rel. anc.
+          <lb/>360
+          <lb/>PALUDANUS PETRUS: Sermones thesauri novi de tempore.
+          <lb/>Strasbourg, (impr. des Vitas Patrum), 1484, in-fol.
+          <lb/>Copinger III. 5411, Madsen 3017, Proctor 421, Voulliéme:
+          <lb/>Berlin 2254.
+          <lb/>K 3298. Prov.: Bibl. Böcking; fol. a2a; Pro Conventu B. Mariae
+          <lb/>ad Niues Pragae Fratrum Regularis Observantiae. Notes mss.
+          <lb/>Rel, anc.
+          <lb/>2e ex. K 3303. Prov.: J. Bensheimer, Strasbourg, 30. VII. 1879,
+          <lb/>15 M. Notes mss.
+          <lb/>361
+          <lb/>PALUDANUS PETRUS: Sermones thesauri novi de tempore.
+          <lb/>Strasbourg, Martin Flach, 1487, in-fol.
+          <lb/>Copinger 5414, Madsen 3018, Schmidt V, 12, Voulliéme: Ber¬
+          <lb/>lin 4977.
+          <lb/>K 3304. Prov.: Librairie Trübner, Strasbourg (Vente Zimber¬
+          <lb/>lin N° 605), 29 IV. 1886, 3 M. Au haut du f. a2a; «Conventus
+          <lb/>Colmariensis Ordinis Praedicatorum». Notes mss. f. al
+          <lb/>manque. Rel. anc.
+          <lb/>362
+          <lb/>PALUDANUS PETRUS: Sermones thesauri novi de tempore.
+          <lb/>Strasbourg, Martin Flach, 1488, in-fol.
+          <lb/>Copinger 5416, Schmidt VI, 14.
+          <lb/>K 3305. Prov.: Don de Fid. Butsch fils, Augsbourg, 1872. Au
+          <lb/>haut du titre: «Monasterij Ranshouen.» A l’intérieur du
+          <lb/>1er plat: «Ad Bibliothecam Mathiae Weentz. Anno 1570.» Rel.
+          <lb/>anc. Notes mss.
+          <lb/>363
+          <lb/>76
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

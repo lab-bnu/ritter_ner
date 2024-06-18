@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:08.883344+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002275.tif
+IMAGE WIDTH: 2520
+IMAGE HEIGHT: 3958
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>les deux numéros précédents). — (Strasbourg, Mathias
+          <lb/>Hupfuff 1513), in-4°.
+          <lb/>Schmidt V, n° 111 : Musée germanique de Nuremberg;
+          <lb/>Panzer, Annalen 1, 361.
+          <lb/>2186
+          <lb/>KALENDER : So man zalt nach Christi geburt M. D.xiiii
+          <lb/>jar. — Strasbourg, Jean Schott 1513, in-40.
+          <lb/>Scott (Schmidt II, Suppl.) p. 9, n° 1. — Bibl. Paul Heitz,
+          <lb/>Strasbourg.
+          <lb/>2187
+          <lb/>KALENDER : new geordnet, mitt vieln underweisungen der
+          <lb/>himmelischen Leuff, der Zeit, der Christlichen Gesatze,
+          <lb/>auch kurtzwilig (gereymt) unnd lustig mit Exempeln
+          <lb/>und Figuren getruckt. — Strasbourg, Jacques Cammer¬
+          <lb/>lander 1534, in-4° (par Jacques Koebell.
+          <lb/>Zinner 1564.
+          <lb/>2188
+          <lb/>KALENDER : Kalendarius der siben Planeten... En plus;
+          <lb/>Von dem weitberhümbten Joh. Künigsperger ausz dem
+          <lb/>Hyginio... — Strasbourg, Cammerlander 1535, in-80.
+          <lb/>Zinner 1607.
+          <lb/>2189
+          <lb/>KALENDER : Ein newer Kalender der Siben Planeten, zwölff
+          <lb/>Zeichen... — Strasbourg, Jacques Cammerlander 1536,
+          <lb/>in-40.
+          <lb/>Zinner 1644 : « Nicht von Regiomontanus».
+          <lb/>2190
+          <lb/>KALENDER : Ein newer Kalender von allerhand artznei,
+          <lb/>durch anzeygung der sieben Planeten, zwölff Zeichen
+          <lb/>und der xxxvi. Bilder des himels... Itzundt von newem
+          <lb/>verlesen, gebessert und gemeert... — Strasbourg,
+          <lb/>Jacques Cammerlander 1537, in-4°.
+          <lb/>Zinner 1675 : « Nicht von Regiomontanus».
+          <lb/>2191
+          <lb/>KALENDER (Idem). — Strasbourg, Jacques Cammerlander
+          <lb/>1538, in-40.
+          <lb/>Zinner 1698 : « Nicht von Regiomontanus ».
+          <lb/>2192
+          <lb/>273
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

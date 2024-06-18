@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:53.224394+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078360.tif
+IMAGE WIDTH: 2338
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1246
+          <lb/>de Mylius au verso, semblable à H&amp;amp;B planche XXVII n° 9, mais la
+          <lb/>tête du lion est tournée dans le sens contraire), titre courant, récla¬
+          <lb/>mes, notes marg., init. ornées C, F.
+          <lb/>Au verso du titre: LECTORI. (4 dist.)
+          <lb/>p. 3-5: VITVS THEODORVS Paulo Pfinzingo Martini
+          <lb/>filio, pa- tricio Noribergensi... — Norbergae Cal. feb.
+          <lb/>Anni, 38. ex parochiaSebaldina. *
+          <lb/>p. 6-10: Dédicace en vers latins d’Eobanus Hessus, à Philippe
+          <lb/>de Hesse.
+          <lb/>p. 10-14. ELEGIA EOBANI HESSIDE FRVCTV ET VTILI¬
+          <lb/>TATE! lectionis Psalmorum.
+          <lb/>Wittenberg Calend. Aug. M. D. XXXVII.
+          <lb/>p. 15-18: Lettre de Martin Luther à Eobanus Hessus, datée de
+          <lb/>p. 18-20 : Lettre de Melanchthon à Eobanus Hessus, datée de
+          <lb/>Wittenberg Cal. August. M. D. XXXVII.
+          <lb/>p. 21-23: Justus Jonas au Lecteur, datée de Wittenberg, Calend.
+          <lb/>August. M. D. XXXVII.
+          <lb/>p. 24-25: Épître en vers de Spalatinus à Eobanus Hessus.
+          <lb/>R101.075. Prov.: Georg Lissa, Berlin 13/VI 1890; 9 M. Note
+          <lb/>ms. au recto du f. de garde :, Possessor est Christophorus Fri¬
+          <lb/>derieus Probst, Camburgi. a. d. XIl. Septembr. 1771.* A l&amp;#x27;in¬
+          <lb/>térieur de la couverture:, Aus der Bücherei von Fedor v. Zo¬
+          <lb/>beltitz.&amp;quot;
+          <lb/>1949
+          <lb/>PSALTERIUM
+          <lb/>Strasbourg, Cr. Mylius 1541
+          <lb/>PSALTE RIVM DAVIDIS CARMINE) redditum per Eoba¬
+          <lb/>num Hessum. Cum Annota- tionibus Viti Theodori Nori¬
+          <lb/>bergensis, quae Commentarii vice esse possunt. CVi
+          <lb/>ACCESSIT ECCLESIASTES! Salomonis, eodem genere Carmi¬
+          <lb/>nis redditus. (Marque typ. de Crato Mylius. HEB planche XXVII
+          <lb/>n° 5. Au-dessous: M. D. XL.)
+          <lb/>A la fin: ARGENTORATI EX OFFICINA CRATONIS MYLII,
+          <lb/>MEN. MARTIO. ANNO M. D. XLI. (Verso blanc.)
+          <lb/>In-80, car. ital, et rom., 453 pp. 4 5 ff. non ch. (table à 2 col.),
+          <lb/>titre courant, réclames, notes marg., init, ornées C. F. Au verso du titre:
+          <lb/>LECTORI. (4 dist.) Les dédicaces comme dans l&amp;#x27;édition précédente.
+          <lb/>R101076. Prov.: Bibl. Bœcking.
+          <lb/>1950
+          <lb/>PSALTERIUM
+          <lb/>Strasbourg, Cr. Mylius 1542
+          <lb/>PSALTE RIVM DAVIDIS CARMINE! redditum per Eoba¬
+          <lb/>num Hessum. Cum Annota- tionibus Viti Theodori Nori¬
+          <lb/>bergensis, quae Commentarii vice esse! possunt.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

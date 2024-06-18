@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:05.806475+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3069.tif
+IMAGE WIDTH: 2320
+IMAGE HEIGHT: 3838
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Am Schluss: ARGENTORATI EXCVDEBAT IOHANNES KNO¬
+          <lb/>BLVCHVS (!)ANNO M.D.XXIIII. MENSE OCTOBRI.
+          <lb/>sung (Siehe Nr. 327).
+          <lb/>80, Kursiv, 59 num. Bll., Kopft., Kust., Marg., Init., Titeleinfas-
+          <lb/>Auf der Rücks. des Titelbl. :... Christophoro Episcopó
+          <lb/>Basili- ensi Des. Erasmus Reterod. S. D.... — Basileae.
+          <lb/>IIII. Calend. August. Anno M. D. XXIII.
+          <lb/>R102.104. Prov.: L. Rosenthal, München, 15. VII. 1885;6M.
+          <lb/>Schmidt VII Nr. 280.
+          <lb/>776
+          <lb/>ERASMUS: Modus orandi Deum
+          <lb/>Strassburg, J. Knobloch 1524
+          <lb/>MODVS ORANDI DEVM PER! DES. ERASMVM Rotero¬
+          <lb/>damum. (Rücks, leer.)
+          <lb/>Am Schluss: ARGENTORATI EXCVDEBAT IOHANNES KNO¬
+          <lb/>BLOCHVS ANNO M. D. XXIIII.MENSE DECEMBRI.
+          <lb/>(Rücks. leer.)
+          <lb/>80, Kursiv, 46 unn. Bll., Sign. a-f, Kopft., Kust., Marg., Init. S.
+          <lb/>Titeleinfassung (Siehe Nr. 327).
+          <lb/>Bl. A2a: CLARISSIMO POLONIAE BA-roni, Hieroslao
+          <lb/>de Lasko, &amp;amp; in Rithua nia, Palatino Siradiensi, Erasmus
+          <lb/>Roterodamus S. D....
+          <lb/>R102.080. Prov.: Pfarrer Cromer, Zabern, 29. VII, 1879.
+          <lb/>GK: SR Berlin, UB Breslau, Königsberg [defektl. BN Paris,
+          <lb/>Rés. D 80270; Schmidt VII Nr. 284 verweist fur die Titeleinfassung
+          <lb/>wieder irrtümlicher Weise auf Nr. 226.
+          <lb/>777
+          <lb/>ERASMUS: VIRGINIS ET MARTY ris comparatio. Siche: ERAS¬
+          <lb/>MUS: De immensa Dei misericordia, Bl. 45b-59b. Strassburg,
+          <lb/>J. Knobloch 1524.
+          <lb/>ERASMUS : De epistolis conscribendis
+          <lb/>Strassburg, Joh. Herwagen 1525
+          <lb/>OPUS D. ERASMI ROTERODAMI de conscribendis epi¬
+          <lb/>stolis, reco- gnitum denuo ab autore, &amp;amp; locupletatum.
+          <lb/>ARGENTORATI apud Iohannem Herua- gium. Anno
+          <lb/>M. D. XXV. (Rücks, leer.).
+          <lb/>Am Schluss: ARGENTORATI APVD IOHANNEM HERVA- GIVM
+          <lb/>DECIMO QVAR TO CALEN. SEPTEM. ANNO M. D. XXV.
+          <lb/>R. 33
+          <lb/>513
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

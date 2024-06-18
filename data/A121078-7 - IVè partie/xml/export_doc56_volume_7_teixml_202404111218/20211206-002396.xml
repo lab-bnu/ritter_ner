@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:11.857863+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002396.tif
+IMAGE WIDTH: 2502
+IMAGE HEIGHT: 3972
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>PASSAUER, Chilian (Landaviensis). Voir : CALAMINUS, G.,
+          <lb/>n° 1257.
+          <lb/>PASSIO : der vier Evangelisten. Voir: GEILER, n° 1844.
+          <lb/>PASSION : Das ist der Passion In form eines gerichtshandels
+          <lb/>darin Missiven, Kauffbrieff, Urtelbrieff und anders
+          <lb/>gestelt sein... — Strasbourg, Jean Grüninger 1514,
+          <lb/>in-fol.
+          <lb/>Schmidt, Hist. litt. Il, p. 405, n° 247 (à J. Adelphus (Muelich).
+          <lb/>2843
+          <lb/>PASSION aus den vier Evangelisten gezogen. Voir : HEYDEN,
+          <lb/>Sebald, n° 2012/3.
+          <lb/>PATER : Ad patrem pro Juvenibus. — (Strasbourg, Mathias
+          <lb/>Hupfuff, 5 décembre 5.XII.1506), in-4°.
+          <lb/>Schmidt V, n° 48; Weller, Rep. 350. — S. Gall (Stiftsbibl.).
+          <lb/>2843a
+          <lb/>PATHO, presbyter Pruniensis. Voir : BRASSICANUS, Joh.
+          <lb/>Alex., n° 1058.
+          <lb/>PATRIOT (le vray) : Le vray Patriot &amp;amp;c. Das ist:
+          <lb/>Getreues Ermanen und Auszschreiben, deren in den
+          <lb/>Niderlanden... Darinnen gründlich das vilfaltige ver¬
+          <lb/>schreien und verleumden etlicher abgewichener oder
+          <lb/>Trenniger vermeynter Stände der Niderlanden widerlegt,
+          <lb/>und die unschuld der Flandrischen... offentlich dar¬
+          <lb/>gethan wird. Ausz Frantzösischem treulich verteutschet...
+          <lb/>Anno M.D.LXXIX. (Alors comme alors; devise
+          <lb/>de Fischart). (Strasbourg, Bern. Jobin) 1579, in-4°.
+          <lb/>Hauffen, Fischart-Studien VI, p. 547/8 : Dresden, Berlin,
+          <lb/>Halle (Marienbibliothek), Zurich. (Ausgabe Al.
+          <lb/>2844
+          <lb/>PATRIOT (le vray) : (Idem). — [Strasbourg, Bern. Jobin)
+          <lb/>1578, in-4°.
+          <lb/>Hauffen, Fischart-Studien dans Euphorion VI, p. 548 : « Dieser
+          <lb/>394
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

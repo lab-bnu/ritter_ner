@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:37.280402+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2367.tif
+IMAGE WIDTH: 2346
+IMAGE HEIGHT: 3822
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>SE IVLIO. ANNO. M. D. XII. REGNANTE CAES. MAXIMI
+          <lb/>A la fin: ARGENTORAT.! EX AEDIBVS SCHVRERIANIS! MEN¬
+          <lb/>LINO P. F.AVG.(Verso blanc).
+          <lb/>— un f. non ch., verso blanc, titre courant, réclames, notes marginales,
+          <lb/>In-40, car, rom,, 25 ff. ch., commençant au f. 3 avec chiffre III
+          <lb/>initiales d’attente.
+          <lb/>Au verso du titre: Epître dédicace de l’auteur au père Guillaume
+          <lb/>Parvus de l’ordre des Prêcheurs, datée de Paris, Nonas Martias
+          <lb/>M. D. XI.
+          <lb/>fol. XXV, Lettre de Wimpfeling à Mathias Schürer, 25 juin 1512.
+          <lb/>RI0I.178. Prov.: B N Munich, 22/1. 1880; 0,20 M. Au haut du
+          <lb/>titre: Ad PP. Franciscanos Monachij Bibl.
+          <lb/>Proctor Il. Sectio I, N° 10.198: Londres British Museum.
+          <lb/>Schmidt VIII, No 76: Jadis Bibl. de Strasbourg, Incun. No 4005.
+          <lb/>GPB: BU Breslau, Munster.
+          <lb/>Bibliographie de Clichtoväus: Schottenloher I, No 2962-2966, 542
+          <lb/>COCCINIUS Michael
+          <lb/>Strasbourg, J. Grüninger, 1506.
+          <lb/>OPVSCVLVM MICHAELISCoccinij Tübingensis alias
+          <lb/>Köchlin dicti. De imperij a Graecis ad Germanos trala¬
+          <lb/>tione. In quo etiam disseritur qui Gal- liae populi spec¬
+          <lb/>tent ad ius edi-tionem imperij. Item de Francorum
+          <lb/>origine, ac de duplici Francia. De corona imperij &amp;amp; ple¬
+          <lb/>raque alia scitu memoratuque dignissi. Apologiae duae
+          <lb/>eiusdem Coccinij sese a calumniosa quorundam infama¬
+          <lb/>tione defenden- tis ac purgantis. Insuper protestatio ad
+          <lb/>lectorem.
+          <lb/>blanc).
+          <lb/>fol. D 5a, à la fin de la Protestatio ad lectorem: Vale ex Tü¬
+          <lb/>Distichon Pressit apud Tribonos solito limatius, illa! In¬
+          <lb/>clyta Grünigeri calchographa. Vale.
+          <lb/>In-4°, car. rom., 30 ff. non ch., sign. A-D, titre courant, notes
+          <lb/>marginales en car. goth., initiales ornées et à fig.
+          <lb/>Au verso du titre: Ringmanni PhilesijVogesigenae
+          <lb/>To Aexgortxov: (6 distiques.)
+          <lb/>fol. D 7b, Epistola Iacobus Oester Tübingensis vtrius¬
+          <lb/>que iuris doctor Argentinae consistorialis causidicus,
+          <lb/>Michaeli Coccinio conterraneo &amp;amp; cognato suo, amico opt.
+          <lb/>max. S. P. D. (2 p.)
+          <lb/>363
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

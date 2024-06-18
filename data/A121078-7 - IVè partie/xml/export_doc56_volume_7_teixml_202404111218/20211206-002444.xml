@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:12.880800+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002444.tif
+IMAGE WIDTH: 2496
+IMAGE HEIGHT: 4006
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>REUSNER, Jeremias. Voir: GAMELIA, n° 1810.
+          <lb/>REUSNER, Nicolas :..Elementorum artis dialecticae
+          <lb/>Libri IIII. Pro Scholis Lavinganis &amp;amp; Hornbachianis.
+          <lb/>[Marque typ. de Wyriot). — Argentine, apud Nicolaum
+          <lb/>Wyriot excusi M.D.L.XXVIII (1578), in-8°,
+          <lb/>Bibl. S. Guillaume, Strasbourg.
+          <lb/>3099
+          <lb/>REUSNER, Nicolas :... Elementorum artis Rhetoricae, Libri
+          <lb/>duo. Pro Scholis Lavinganis &amp;amp; Hornbachianis. Secunda
+          <lb/>editio emendatior, atque locupletior. (Marque typ. de
+          <lb/>Wyriot). — Argentorali, Excudebat Nicolaus Wyriot
+          <lb/>M.M.D.LXXVIII, in-80.
+          <lb/>Bibl. S. Guillaume, Strasbourg.
+          <lb/>3100
+          <lb/>REUSNER, Nicolaus : Linguae latinae resolvendae ratio... —
+          <lb/>Strasbourg, Nicolas Wyriot 1581, in-4°,
+          <lb/>Ritter, Hist. impr. app. 394 (5).
+          <lb/>3101
+          <lb/>REUSNER, Nicolaus : Icones seu imagines virorum literis
+          <lb/>illustrium. — Strasbourg 1581, in-8°.
+          <lb/>Goedeke IIe, p. 109, n° 147 (3). [Une éd. Jobin 1587 : Ritter,
+          <lb/>Rép. n° 2005).
+          <lb/>3102
+          <lb/>REUSNER, Nic. : Icones sive imagines virorum literis illus¬
+          <lb/>trium (99 grav. de portraits de Tobias Stimmer). —
+          <lb/>Strasbourg, Bern. Jobin 1593, in-8°.
+          <lb/>Rosen, Auktion XXVII, Teil I, n° 388; 80 M. Andresen III, 76.
+          <lb/>3103
+          <lb/>REUSNER, Nicolaus : Agalmatum Aureolorum emblematum
+          <lb/>liber, Thobiae Stimmeri iconibus affabre effictis exorna¬
+          <lb/>tus. — Strasbourg, Bernard Jobin 1591, in-8°.
+          <lb/>Andresen III, p. 171, n° 160; Baer (Francfort-s.-M.)
+          <lb/>Catal. 500 (1907), n° 1274 et 1275 : « Jede Seite umrahmt
+          <lb/>und mit einem Holzschnitt geschmückt... Erste Ausgabe
+          <lb/>442
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:53.998109+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078385.tif
+IMAGE WIDTH: 2360
+IMAGE HEIGHT: 3854
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>A la fin : Chalcographatum primiciali hac! pressura,
+          <lb/>Friburgi per Joannem Scho ttum Argen, citra festum Mar¬
+          <lb/>garethae anno gratiae M. CCCCC. III. (Au verso, marque typ.
+          <lb/>de Schott. HEB planche IV n° 6; Silvestre n° 819.)
+          <lb/>In-4°, car, rom., 303 ff. non ch. dont les 2 derniers blancs, sign.
+          <lb/>1-4, a–r, A-M, aa-ff, titre courant, notes marg., init. O et init. d’at¬
+          <lb/>tente; fol. 4b en bas, une bande avec deux écussons d’armoiries, entre
+          <lb/>lesquels dans un rond les init. I. S. (Jean Schott) retournées. D’après
+          <lb/>Schmidt l’image de l’encyclopédie des sciences au titre paraît avoir été
+          <lb/>traditionnelle; dans le Hortus deliciarum la Philosophie a aussi trois
+          <lb/>têtes, seulement les arts libéraux sont disposés autour d’elle, chacun sous
+          <lb/>une arcade romane. En outre 16 grav. par M. Wohlgemuth.
+          <lb/>Fol. 3 typus grammaticae, fol. 4 8b typus logicae, fol. d 6a typus
+          <lb/>rhetoricae, fol. f 1b typus arithmeticae, fol. h 3a typus arithmeticae,
+          <lb/>fol. h 3a typus musicae, fol. 1 8b Ptolemée un sextant en main, derrière
+          <lb/>lui une femme : Astrologia, fol, m 2b Astronomia, Atlas portant le monde,
+          <lb/>répété au fol. D 3b; fol. 3a Astrologia, homme nu entouré des signes
+          <lb/>du zodiaque; fol, r 6b Création de l’homme et de la femme, répété au
+          <lb/>fol. C 5b; fol. A 7b roue de la fortune; fol. E 4b mineur sortant d’une
+          <lb/>mine poussant devant lni un wagon; fol. E 5a alchimiste dans un labo¬
+          <lb/>ratoire; fol. F 4a chambre d’accouchée, une femme au lit, une autre
+          <lb/>lavant un enfant nouveau-né; fol. K7a Couronnement de la Ste Vierge
+          <lb/>au ciel; fol. L 6b l’enfer, fol. M 2b le purgatoire. En outre: Notes
+          <lb/>de neumes, fiqures de géométrie, d’astronomie et d’anatomie. Entre fol.
+          <lb/>0 6 et O7 vne carte pliée, mappemonde.
+          <lb/>Au-dessus de l’explicit : Epigramma fratris Pauli Volzii Offobor! gii
+          <lb/>coenobitae Schutterani ex Sapphi-co &amp;amp; Adonico: ad R. patrem Georgium
+          <lb/>Reisch domus Carthusianae prope Fri burgum Priorem meritissimum.
+          <lb/>(4 strophes à 4 vers.)
+          <lb/>FR 101.098. Prov. : Prof. Dr Cohen, Marbourg II/III 1876;
+          <lb/>10 M. Sous la grav. du tître : Valentinus Hoffman ostheymensis Anno
+          <lb/>salutis 1514 (ou 74), 23 Sep. dono accepi; au recto du f. de garde:
+          <lb/>Fr. Albert Lange Bonn Sept. 1857. Rel, anc.
+          <lb/>A la fin au-dessous de l’explicit: Alia editio lucem vidit Argen¬
+          <lb/>tinae. 1515. 80.
+          <lb/>Schmidt II p. 11 n° 8 : Bibl. Fribourg. Brunet IV2 1200. Rosen¬
+          <lb/>thal, Munich, Catal, 135 (1914) n° 1984: 200 M. Première édition de
+          <lb/>cette célèbre encyclopédie, qui est fort bien exécutée, tant pour la partie
+          <lb/>typographique, que pour les figures gravées sur bois.
+          <lb/>Bibliographie, voir : Schottenloher II n° 17802.
+          <lb/>1983
+          <lb/>REISCH Gregorius
+          <lb/>Strasbourg, J. Gruninger 1504
+          <lb/>AEPITOMA OMNIS PHYLOSOPHIAE. ALI AS MARGARITA
+          <lb/>PHYLOSOPHICA TRACTANS de omni genere scibili : Cum
+          <lb/>additionibus : Quae in aliis non habentur.
+          <lb/>Grav, sur bois, d’après celle de l’édition de J. Schott, 1508. Au¬
+          <lb/>dessous de la grav.: 5 mots hébraïques, signifiant: le commencement de
+          <lb/>la sagesse est la crainte de Dieu, Halleluiah. — Inicium sapientiae Timor
+          <lb/>domini. — Zogtuc Aoyos soto aptoroc.
+          <lb/>1271
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

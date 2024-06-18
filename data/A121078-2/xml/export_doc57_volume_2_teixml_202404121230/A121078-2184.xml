@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:32.013102+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2184.tif
+IMAGE WIDTH: 2294
+IMAGE HEIGHT: 3824
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>180
+          <lb/>BRUNFELS Otto
+          <lb/>[Strasbourg, J. Schott, ?1 1529.
+          <lb/>CATECHE- SIS PVERORVM, IN FIDE,in literis, &amp;amp; in
+          <lb/>moribus. Ex Cicerone, Quinti- liano. Plutarcho, Angelo
+          <lb/>Politiano, Rudol-! pho Agricola, Erasmo, Philippo Melanch.
+          <lb/>at- que alijs probatissimis Authoribus, To mis digesta
+          <lb/>quattuor, quorum! elenchus operi praefixus est. Per
+          <lb/>Othonem! Brunfels.
+          <lb/>Anno M. D. XXIX. Cum Indice. (Bande d’ornement: un
+          <lb/>vase, d’où sortent des feuillages.
+          <lb/>Index), titre courant.
+          <lb/>In-8°, car. rom., 3 ff. non ch., 77 ff. ch., 3 ff. nen ch. à 2 col.
+          <lb/>Au verso du titre: GERARDVS NOVIOMAGVSLectori.
+          <lb/>3 distiques.)
+          <lb/>fol. A 2a-A 3b: CLARISSIMIS SENATORIBVS! D. lacobo
+          <lb/>Sturmio, D. Nicolao Cnyebsio, et D. lacobo Meyer... Otho
+          <lb/>Brunfelsius. S.... — Ar! gentorati, Calendis Martij. Anno
+          <lb/>supra Mille simum Quingentesimum Vigesimo nono.
+          <lb/>R 100.669. Prov.: Ch. Schmidt, avec son exlibris et l’annotation
+          <lb/>mss. au recto du f. de garde: Nouv. éd. Coloniae, Gymnicus,
+          <lb/>1532, 8°. (Bibl, nat.)
+          <lb/>La fiche du Catalogue alphabétique de la Bibliothèque dit:
+          <lb/>.Für die Karmeliterschule in Strassburg.
+          <lb/>BN Paris, X. 8426; Schmidt II, No 108: Schott ayant imprimé
+          <lb/>la plupart des autres productions de Brunnfels, on doit lui attribuer
+          <lb/>celle-ci, qui n’a, du reste, aucun indice trahissant une autre officine.
+          <lb/>GPB. Berlin, Marbourg UB.
+          <lb/>283
+          <lb/>(BRUNFELS Ottol
+          <lb/>Strasbourg, J. Schott, 115291.
+          <lb/>Helden! Büchlin. Von den herrlichen thaten vnd har
+          <lb/>kummen der hohen Gottser- wölten Männeren vnd
+          <lb/>Weiberen, Dargegen auch von den Gotts verworffenen
+          <lb/>tyrannischen Männeren vndWeiberen beyder Testa¬
+          <lb/>ment Biblischer! Schrifft.
+          <lb/>A la fin: Zû Straszburg bey Hans Schottenẑm
+          <lb/>Thyergarten, s. d. 11529.]
+          <lb/>In-8°, car. goth., XLI ff. ch. —3 non ch. (Index), titre courant,
+          <lb/>notes marginales, titre encadré (H e B, Planche IV, N° 8). Au-dessus
+          <lb/>de l’explicit, marque typographique de J. Schott. (H d B, Planche IV,
+          <lb/>No 9.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

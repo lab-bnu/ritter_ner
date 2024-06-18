@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:01.974631+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002023.tif
+IMAGE WIDTH: 2484
+IMAGE HEIGHT: 3976
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>GKV, 7760: B N Berlin; Kristeller 119; Schmidt V, no 136.
+          <lb/>834
+          <lb/>APPELLATIO : sacerdotum maritorum, urbis Argentinae,
+          <lb/>adversus insanam excommunicationem Episcopi. —
+          <lb/>(Strasbourg 1524), in-8°.
+          <lb/>GKV, 8622: BN Berlin, Vienne.
+          <lb/>835
+          <lb/>APPELLATION : der eelichen Priester, von der vermaynten
+          <lb/>Excommunication des hochwirdigen Fürsten herrn
+          <lb/>Wilhelmen, Bischoffen zu Straszburg. — (Strasbourg,
+          <lb/>Wolfgang Köpfel) 1522, in-4°.
+          <lb/>GKV, 8623: B N Berlin, Munich, Vienne.
+          <lb/>836
+          <lb/>APULEIUS, Lucius : Floridorum libri quattuor. De dogmate
+          <lb/>Platonis Lib. unus. De philosophia Lib. unus... —
+          <lb/>(Strasbourg, Mathias Schürer, août 1516), in-4°.
+          <lb/>GKV, 9278: B N Berlin, Munich, Vienne etc.; Schmidt VIII
+          <lb/>n° 193; Walter n° 633.
+          <lb/>837
+          <lb/>APULEIUS, Lucius : Ein hübsche history von Lucius Apuleius
+          <lb/>in gestalt eins esels verwandelt... — (Strasbourg,
+          <lb/>Jean Knobloch (25. I.] 1506), in-4°.
+          <lb/>Panzer, Annalen, Zusätze 105, 574b; Schmidt VII, n° 16. 838
+          <lb/>APULEIUS, Lucius : (Idem). — (Strasbourg, Jean Knobloch
+          <lb/>(25. I.1 1509), in-4°.
+          <lb/>Panzer, Annalen, Zusätze 116, 659b; Schmidt VII, n° 54
+          <lb/>Olim bibl. Arg.
+          <lb/>839
+          <lb/>ARETINO, Leonardo Bruni. Voir: BRUNI. Voir aussi: RITTER,
+          <lb/>Rép. n° 72.
+          <lb/>ARETINUS, Benedictus. Voir: AccOLTI, Bened, n° 733.
+          <lb/>ARETINUS Felinus — BUCER Martin.
+          <lb/>ARGUMENT : Hüpsch Argument, Red, fragen und antwurt
+          <lb/>21
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

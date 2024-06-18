@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:52.783318+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5102.tif
+IMAGE WIDTH: 2342
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1410
+          <lb/>STURM Johannes
+          <lb/>Strasbourg, Josias Rihel, 1587
+          <lb/>Poeticum!! Quartum vo-!! lumen.! Cum lemmatibus
+          <lb/>Ioannis Sturmij : !! Tertiae curiae scho-[ larum Argentinen¬
+          <lb/>sium.
+          <lb/>Marque typ. de J. Rihel. (H. &amp;amp; B. Planche XXXII, No 16.)
+          <lb/>Cum Gratia &amp;amp; Priuilegio Caesareo ad annos decem.
+          <lb/>Anno M. D. LXXXVII. (Verso blanc.)
+          <lb/>In-8°, car. rom. et ital., 75 pp. ch.-2 ff. blancs, sign. O-S, titre courant,
+          <lb/>réclames, init. ornée Q.
+          <lb/>p. 3-4 : Ioannes Stur-I mius Fabiano Thoni- [] no, Baroni S. D... —
+          <lb/>(s. d.).
+          <lb/>R. 102.423 (4). Prov. : Bibl. Schmidt.
+          <lb/>2e ex. R. 102.424 (4). Prov. : Trübner (Catal. XXII, N° 741), 4/x, 1879.
+          <lb/>3 ex. R. 102.425 (4). Prov. : Don de la Bibl. de la Cour de Carlsruhe,
+          <lb/>1871.
+          <lb/>La marque typographique au f. du titre est découpée. 2239
+          <lb/>STURM Johannes
+          <lb/>Strasbourg, Josias Rihel, 1588
+          <lb/>Poeticum Quintum volu-men. Cum lemmatibus
+          <lb/>Ioannis Sturmij : Secundae curiae schola-rum Argenti¬
+          <lb/>nensium. (Verso blanc.)
+          <lb/>Marque typ. de J. Rihel. (H. &amp;amp; B. Planche XXXII, No 14.)
+          <lb/>M. D. LXXXVIII. (Verso blanc.)
+          <lb/>A la fin : Argentorati! Excudebat Iosias Rihelius.
+          <lb/>M. D. LXXXVIII.
+          <lb/>In-8°, car. rom. et ital., 71 pp. ch.—3 ff. blancs, sign. T-Z, titre courant,
+          <lb/>réclames, init. ornée T.
+          <lb/>p. 3-4 : Ioanni Wilhel- II mo : et Ioanni Bernardo !! Botzemiis :
+          <lb/>Bernardi Iureconsulti filijs(!Ioan. Sturmius. S. P. D... — (s. d.).
+          <lb/>R. 102.423 (5). Prov. : Bibl. Ch. Schmidt.
+          <lb/>2240
+          <lb/>STURM Johannes
+          <lb/>Strasbourg, Josias Rihel, 1597
+          <lb/>Poeticum Tertium volu- I] men Cum lemmatibus
+          <lb/>Ioannis Sturmij Quartae curiae schola-rum Argentinen¬
+          <lb/>sium.
+          <lb/>Marque typ. de J. Rihel. (H. &amp;amp; B. Planche XXXII, No 16).
+          <lb/>Cum Gratia &amp;amp; Priuilegio Caesareo!] ad Annos decem.
+          <lb/>Anno M. D. XCVII. (Verso blanc.)
+          <lb/>A la fin : Argentorati Excudebat Iosias Rihelius,
+          <lb/>M. D. XCVII. (Verso blanc.)
+          <lb/>In-8°, car. rom. et ital., 77 pp. ch., sign. J-N, titre courant, réclames,
+          <lb/>init. ornée T.
+          <lb/>p. 3-4 : Ioann. Stur- [¡ mius : Ioanni Ia-[ cobo Vuormsero S. D... —
+          <lb/>Argentorati 7. Ca- Il lend. Augusti. !) 1565.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

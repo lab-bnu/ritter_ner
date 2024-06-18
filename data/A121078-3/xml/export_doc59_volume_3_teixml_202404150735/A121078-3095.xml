@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:06.169481+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3095.tif
+IMAGE WIDTH: 2316
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>539
+          <lb/>1888.
+          <lb/>R101.3222. Prov.: Friedrichs Gymn. Frankfurt a. M., 14. XII.
+          <lb/>Stadtbibl. Strassburg 028332; GK: SB Berlin, UB Breslau. 815
+          <lb/>EUCLIDES
+          <lb/>Strassburg, Chr. Mylius Erben 1571
+          <lb/>EVCLIDIS ELEMENTORVM! Liber primus.
+          <lb/>Item, HERONIS ALEXANDRINI vocabula quaedam geo¬
+          <lb/>metrica: ante hac nun- quam edita, graecè &amp;amp; latinè.
+          <lb/>Per M. Cunradum Dasypodium.
+          <lb/>Druckerm. des Chr. Mylius. (H æ B Tafel XXVIII Nr. 1.)
+          <lb/>Cum gratia &amp;amp; priuilegio Caesareo, atque Regis Galliae,
+          <lb/>ad sexennium.
+          <lb/>ARGENTINAE, 1571. (Rücks, leer.)
+          <lb/>8°, Griech. u. Kursiv, Kopft., Kust., Init. G, E.
+          <lb/>1. Teil: 8 unn. u. 50 num. Bll. (Griech. Text.)
+          <lb/>Bl. 2a: Ad... Principem... D. Danielem Archiepiscopum
+          <lb/>Mo-guntinensem... Cunradi Dasy- podij Praefatio.... —
+          <lb/>Calendis Maij.AnnoM. D. L. XX. (Vorrede, 13 S.)
+          <lb/>2. Teil: EVCLIDIS ELEMEN- tum primum ex Theonis
+          <lb/>Commentarijs.
+          <lb/>75 num. Bll., 1 leeres Bl. Von Bl. 1-37 die Kommentare; Bl.
+          <lb/>38-54:,, Scholia in hoc primum Euclidis elementum, Cunradi Dasypodii.&amp;quot;
+          <lb/>Bl. 55-75:, Ex scriptis Hieronis Alexandrini de Geometricis defini¬
+          <lb/>tionibus selecta quaedam in usum Academiae Argentinensis&amp;quot;, mit dem
+          <lb/>Kopftitel :, Geometriae nomina.
+          <lb/>R101.3211. Prov.: H. Kerler, Ulm 19. x. 1878, 5M.
+          <lb/>Auf der Innens, des Vorderdeckels : M. Johannes Albertus Bengel.
+          <lb/>1720. Darunter: Williardts 1752.
+          <lb/>BN Paris, V. 18112 u. 18122; Bibl. Wilh. a. Stadtbibl. Strass-
+          <lb/>burg. Im Gk findet sich eine Ausgabe Strassburg 1571 (ohne Drueker¬
+          <lb/>marke) vorhanden in SB Berlin, UB Bonn, Breslau, Kiel, Marburg.
+          <lb/>sonst ubereinstimmend.
+          <lb/>816
+          <lb/>EUCLIDES
+          <lb/>Strassburg, Chr. Mylius Erben 1571
+          <lb/>EVCLIDIS OMNES OMNIUM LI- BRORVM PROPOSITIO¬
+          <lb/>nes, graecè &amp;amp; latinè: ditae per M. Cunradum Dasy¬
+          <lb/>podium.
+          <lb/>Druckerm. des Chr. Müller. (HEB Tafel XXVIII Nr. 2.)
+          <lb/>Cum gratia &amp;amp; priuilegio Caesareo, Regisque Galliae,
+          <lb/>ad sexennium.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:32.891275+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2215.tif
+IMAGE WIDTH: 2288
+IMAGE HEIGHT: 3824
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Anto- nij Flaminij argumenta, in singulos Psalmos:
+          <lb/>Item, Psalmos aliqvot in versvs Graecos nuper à diversis
+          <lb/>translatos. ! Annotata vbique diligenter carminum genera.
+          <lb/>Gravure sur bois, encadrée: Dieu apparaissant au roi David.
+          <lb/>Au-dessous: Cum gratia &amp;amp; priuilegio.M. D. LXXII.
+          <lb/>(Verso blanc.)
+          <lb/>A la fin: ARGENTORATI, Excudebat Iosias Rihelius,
+          <lb/>M. D. LXXII.
+          <lb/>In-80, car, rom. de 1-360, car. grecs de 360-403, 6 ff. non
+          <lb/>ch, 403 pages ch., titre courant, réclames; toutes les pages encadrées
+          <lb/>(ornements.)
+          <lb/>fol. 2a non ch.: Ad Mariam Il- Ivstrissimam Sco- torvm
+          <lb/>Reginam, Georgij Buchanani Epigramma. (12 vers.)
+          <lb/>R100.895. Prov.: K. J. Trübner, Strasbourg, 16/XII. 1880;
+          <lb/>1M 50.
+          <lb/>Au milieu du titre: Capucinorum Weissenburg. Rel. anc.
+          <lb/>GPB: Bonn BU, Halle BU.
+          <lb/>316
+          <lb/>211
+          <lb/>BÜECHLEIN Disz sagt von einer verzuckten selen eines ritters
+          <lb/>genant Tonda lus. Voir: TONDALUS.
+          <lb/>BÜCHLEIN, Disz büchlin saget wie die zwen durchtüchtigsten
+          <lb/>herren her Fernandus. K. z0 Castilien! vnd herr Emanuel.
+          <lb/>K. zû Portugal haben das weyte mòr ersûchet vnnd fun¬
+          <lb/>den vil Insulen. Voir: VESPUCCIUS Americus.
+          <lb/>BÜCHLEIN
+          <lb/>Strasbourg, H. Vogtherr, 1538.
+          <lb/>Eyn bewert vnnd hoch nutzlichs Büchlin, den Erb¬
+          <lb/>grind an alten vnd jungen von grund ausz zuheylen,
+          <lb/>vnd widerumb har zuziehen. (3 feuilles de lierre).
+          <lb/>Getruckt zû Straszburg, durch Hein-rich Vogtherren.
+          <lb/>Anno. M. D. xxxviij. (Verso blanc.)
+          <lb/>In-4°, car. goth, 5 ff. non ch., sign. A-B, réclames.
+          <lb/>fol. A 2a: Vorred.
+          <lb/>R101.527. Prov.: Don de Philippe Michel à Munich 1871.
+          <lb/>GPB: Berlin.
+          <lb/>317
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

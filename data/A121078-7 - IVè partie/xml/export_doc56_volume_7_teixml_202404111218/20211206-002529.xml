@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:14.600071+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002529.tif
+IMAGE WIDTH: 2530
+IMAGE HEIGHT: 3998
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>WIMPHELING, Jacobus : Elegantiarum medulla.
+          <lb/>—
+          <lb/>(Strasbourg, Jean Knobloch 1508), in-40.
+          <lb/>Schmidt VII, n° 52 : B U Heidelberg; Panzer 6, 41, 121;
+          <lb/>[éd. Hupfuff 1506 : Ritter, Rép, n° 24771.
+          <lb/>3536
+          <lb/>WIMPHELING, Jac. : Elegantiarum medulla. — Strasbourg,
+          <lb/>Mathias Hupfuff 1511, in-4°.
+          <lb/>Goedeke I2, p. 408, n° 10 (s).
+          <lb/>3537
+          <lb/>WIMPHELING, Jac. (Gerson) : De vita et miraculis Joannis
+          <lb/>Gerson... — (Strasbourg, Jean Knobloch 1506), in-4°.
+          <lb/>Schmidt VII, n° 25 : Strasbourg, Bibl. S. Guillaume. 3538
+          <lb/>WIMPHELING, Jac. (Gerson) : De vita et miraculis Joannis
+          <lb/>Gerson... — [Strasbourg, Jean Prüss) 21.1.1506, in-4°.
+          <lb/>Proctor 9977.
+          <lb/>3539
+          <lb/>WIMPHELING (Germania) : Germania ad rem publicam
+          <lb/>[Argentinensem). — (Strasbourg, Jean Prüss 1501), in-40.
+          <lb/>Walter, n° 2455.
+          <lb/>3540
+          <lb/>WIMPHELING, Jac. (Gravamina) : Gravamina germanicae
+          <lb/>nationis cum remediis et avisamentis ad Caesarem
+          <lb/>Maiestatem. — Sélestat, Lazare Schürer s. d., in-40.
+          <lb/>Goedeke 12, p. 412, n° 55, Gr. Sém. Strasbourg n° 499; féd.
+          <lb/>Sélestat Laz. Schürer 1518 : Ritter, Rép. n° 2497). 3541
+          <lb/>WIMPHELING, Jac. (De Integritate) : De integritate Libellus.
+          <lb/>— Strasbourg, Jean Knobloch 1515, in-4°.
+          <lb/>Schmidt VII, n° 108 : Olim bibl. Arg. 4918; [éd. Knobloch
+          <lb/>1505, 1506: Ritter, Rép. nos 2474 et 2479).
+          <lb/>3542
+          <lb/>WIMPHELING, Jac. (Ad Leonem X) : Ad Leonem decimum
+          <lb/>Pontificem Maximum Carmen... — (Strasbourg, d’après
+          <lb/>Schmidt: Mathias Schürer 1514), in-4°.
+          <lb/>Schmidt VIII, n° 148 ; exemplaire de Ch. Schmidt. 3543
+          <lb/>527
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:37.487437+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu079.tif
+IMAGE WIDTH: 2384
+IMAGE HEIGHT: 3840
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>HEROLT JOHANNES: Sermones discipuli de tempore et de
+          <lb/>sanctis. Strasbourg, (Mart. Flach), 1492, in-fol.
+          <lb/>Hain 8503, Pellechet: Colmar 751, Proctor 696, Voulliéme:
+          <lb/>Berlin 2494, 5.
+          <lb/>K1942. ProV.: BN Munich, 14. IV. 1880, 2 M. Rel. anc. 227
+          <lb/>HEROLT JOHANNES: Sermones discipuli de tempore et de
+          <lb/>sanctis, Strasbourg, (Mart. Flach), 1495, in-fol.
+          <lb/>Hain 8505, Proctor 702, Voulliéme: Berlin 2501, 5; Pellechet:
+          <lb/>Colmar 754.
+          <lb/>K 1943. Prov.; B N Munich, 14. IV. 1880, 2 M. Au haut
+          <lb/>du fol. A2a: «Ad F. F. Augustinianas in Rambsau.» A côté,
+          <lb/>note mss, au-dessous: «1543». Rel. anc.
+          <lb/>228
+          <lb/>HEROLT JOHANNES: Sermones discipuli de tempore et de
+          <lb/>sanctis. Haguenau, (H. Gran, 20 août), 1496, in-4°.
+          <lb/>Hain 8507, Proctor 3185, Pellechet: Colmar 756.
+          <lb/>K 1944. Prov.: B N Paris, 16. XII. 1879, M. 0,50. Notes mss. à
+          <lb/>l’intérieur du 1er plat, au recto et verso du f. du titre, et
+          <lb/>fol. A 2a, ainsi qu’aux 3 derniers ff. Rel. anc.
+          <lb/>229
+          <lb/>HEROLT JOHANNES: Sermones discipuli de tempore et de
+          <lb/>sanctis. Strasbourg, Mart. Flach, 28 août 1499, in-fol.
+          <lb/>Hain 8508, Proctor 712, Schmidt VI, 71, Voulliéme: Berlin
+          <lb/>2509, 10; Pellechet: Colmar 757.
+          <lb/>K 1945. Prov.; B N Munich, 14. IV. 1880, 2 M. A l&amp;#x27;intérieur
+          <lb/>du 1er plat: «Martinus Porckhmair pro tempore Capellanus
+          <lb/>Sallensis fuit olim possessor hujus libri. M. D. C. XXVII, quem
+          <lb/>huc possidere coepit Monasterium Rorense 1634». Rel. anc.
+          <lb/>230
+          <lb/>HIERONYMUS S.: Epistolae et tractatus. (Strasbourg,
+          <lb/>J. Mentelin, vers 1469), in-fol.
+          <lb/>Hain 8549, Proctor 203, Voulliéme: Berlin 2102. Walter:
+          <lb/>Sélestat 246; Schorbach: Mentelin N° 14.
+          <lb/>K 1966. Prov.: B N Munich, 14. IV. 1880, 2 M. A l’intérieur
+          <lb/>du 1er plat: exlibris avec les mots: «Closter Weihenstephen
+          <lb/>1646.2 Rel. anc.
+          <lb/>231
+          <lb/>49
+          <lb/>R.4
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

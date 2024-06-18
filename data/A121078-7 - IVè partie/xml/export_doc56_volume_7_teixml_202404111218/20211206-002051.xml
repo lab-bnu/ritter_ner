@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:02.953850+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002051.tif
+IMAGE WIDTH: 2508
+IMAGE HEIGHT: 3918
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>tag Augusti in disem 72 Jar auff des Hochgebornen
+          <lb/>Fürsten und Herren, herren Johan, Prinzen zu Conde
+          <lb/>und Hertzog von Navarren, Hochzeit zu Paris inn
+          <lb/>Franckreich und wie sie bey Nächtlicher weyl unge¬
+          <lb/>warneter sachen Fälschlich unnd verräterisch uberfallen
+          <lb/>haben und manchen hoch und wol geborne gestrengen
+          <lb/>Edlen Ritter und Herren sein leben heimlicher weiss
+          <lb/>abgestolen haben und bis in die 500 Grafen und von der
+          <lb/>Ritterschafft und in die 12000 reütter und jungen und
+          <lb/>auch gemeine burgers leuth erschlagen und ermordt
+          <lb/>haben. — S. l. n. d., in-4° (Une autre édition avec la
+          <lb/>notice « Gedruckt zu Strassburg im Jar M. D. LXXII»
+          <lb/>diffère considérablement quant au texte).
+          <lb/>Schottenloher 34719.
+          <lb/>998
+          <lb/>BESCHWERDE : Teütscher nation beschwerd von den Geist¬
+          <lb/>lichen Durch der Weltlichen Reichständ, Fürsten und
+          <lb/>Herren, Bapst Adriano schrifftlich überschickt nechst
+          <lb/>vergangen Reichstag zu Nürenberg im xxij jar ange¬
+          <lb/>fangen und im xxiii geendt. — (Strasbourg, Jean Schott
+          <lb/>15231, in-40.
+          <lb/>Schmidt II, n° 83; Weller, Rep. 2356. — Bibl. S. Guillaume
+          <lb/>Strasbourg.
+          <lb/>999
+          <lb/>BESSARION. Voir Bossus, Math, n° 1037.
+          <lb/>BEUCHTER, Johannes. Voir: COMOEDIA von König Dario,
+          <lb/>n° 1427.
+          <lb/>BEUTHER, Michael : Themata historica de quibus disputabitur
+          <lb/>X. Cal. Junii in Academia Argentinensi. Praeside
+          <lb/>Michaele Beuthero Carolopolita... — M.D.LXXIII.
+          <lb/>(Strasbourg, Josias Rihell 1573, in-4°.
+          <lb/>Ritter: B M Strasbourg n° 533.
+          <lb/>1000
+          <lb/>BEUTHER, Michael. Voir aussi : SLEIDAN, Johannes : Der
+          <lb/>erste (und] zweite Theyl Ordenlicher beschreibunge...
+          <lb/>nos 3236/7; RITTER, Rép. nos 196-197.
+          <lb/>49
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

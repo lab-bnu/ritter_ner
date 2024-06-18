@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:06.166112+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie068.tif
+IMAGE WIDTH: 2456
+IMAGE HEIGHT: 3932
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>ersten tag des aprilis durch den pylgrym Ruth der in
+          <lb/>welden verborgen Iyt, des augen synt dunckel worden,
+          <lb/>der griffel zittert vor alter... — (Strasbourg) uff grüneck
+          <lb/>(Barth. Kistler) (31 octobre 1497), in-40.
+          <lb/>Hain 10088; Copinger II, 4881, Proctor 756; Schmidt IV,
+          <lb/>p. 3, n° 2 à Ulm; Voulliéme : Berlin 2546.
+          <lb/>416
+          <lb/>LICHTENBERGER, Johannes! : Prognosticatio. Hec practica
+          <lb/>narrat de presenti anno et sequentibus quamplurimis
+          <lb/>annis de novis raris et inauditis rebus... — (Strasbourg
+          <lb/>(Barth. Kistler 3. XII] 1499, in-4°.
+          <lb/>Hain 10084; Proctor 775 (l’attribue à Jean Knobloch),
+          <lb/>Voulliéme : Berlin 2549 (l’attribue à Kistler); Olschki
+          <lb/>(Florence), Catal. LXXVI (1911), n° 712; 750 fr.
+          <lb/>417
+          <lb/>LIED: Ein hiebst lied von des brembergers end und todt... —
+          <lb/>(Strasbourg, Barth. Kistler) uff Grüneck XV. C/— 1500)
+          <lb/>ior, in-80.
+          <lb/>Wackernagel 23. Anm. d. Bibliographie p. 9. Weller 157;
+          <lb/>Schmidt IV, p. 6, n° 13. Voir aussi n° 139.
+          <lb/>418
+          <lb/>LIED. Ein hüpsch lied zu singen von den schönen frowen. —
+          <lb/>(Strasbourg, Barth. Kistler) uff Grüneck 1500, in-80.
+          <lb/>Copinger 3595; Wackernagel, Kirchenlied 9.
+          <lb/>419
+          <lb/>LIED. Ein hübsch lied zu singen im schwartzen ton von
+          <lb/>den schön frowen. — Gedruckt uff Grüneck 1500.
+          <lb/>— Barth, Kistler, Strasbourg) 1500, in-80.
+          <lb/>Wackernagel 10 ; Weller 158; Schmidt IV, p. 6, n° 11 :
+          <lb/>Erlangen.
+          <lb/>420
+          <lb/>LIED. Ein hypsch lied wie sich yetz geistlich und auch
+          <lb/>weltlich halten... — (Strasbourg, Barth, Kistler) uff
+          <lb/>Grüneck 1500, in-80.
+          <lb/>Copinger 3596, Schmidt IV p. 6, n° 10; Wackernagel II, 1306;
+          <lb/>Weller 156. — Erlangen.
+          <lb/>421
+          <lb/>66
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:37.359712+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu070.tif
+IMAGE WIDTH: 2382
+IMAGE HEIGHT: 3842
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Bilderschmuck XX, grav. N° 1232, Voulliéme: Berlin 2500 et
+          <lb/>2501. [«Volume IV: Strasbourg, Mathias Schürer, 1502.]
+          <lb/>K 1703. Prov.: B N Munich, 22/1. 1880, 10 M. Au-dessus du
+          <lb/>titre: «Monasterij Polling». A l’intérieur du 1er plat, exlibris
+          <lb/>avec les mots: «Franciscus Praepositus Cann. Regg. in Pol¬
+          <lb/>lins. Anno 1744». Rel. anc.
+          <lb/>181
+          <lb/>GERSON Johannes: De arte moriendi. (Strasbourg, H.
+          <lb/>Knoblochtzer), 1482, in-4°.
+          <lb/>Hain 7658, Proctor 381, Schorbach-Spirgatis, Knoblochtzer
+          <lb/>27, Voulliéme: Berlin 2210, 5.
+          <lb/>K 1711. Prov.: Librairie Trübner, Strasbourg, 9/XI. 1883,
+          <lb/>4 M.
+          <lb/>182
+          <lb/>GESLER (Gessler) Heinrich. Voir: Geissler.
+          <lb/>GESTA Romanorum. (Strasbourg, Martin Schott, s. d.), in-fol.
+          <lb/>Hain 7741, Madsen 1737, Pellechet 5251. Pellechet: Colmar
+          <lb/>661, Proctor 407, Walter: Sélestat 217 et 218.
+          <lb/>K 1734. Prov.: Carl Steyer, Cannstadt, 9/XI. 1883, 12 M.
+          <lb/>A l’intérieur du 1er plat: Ex Libris Adelberti de Keller, Pro¬
+          <lb/>fessor P. O. Tubingensis Academiae Monacensis.
+          <lb/>183
+          <lb/>GESTA Romanorum. (Strasbourg, J. Grüninger,) 15 janvier
+          <lb/>1488, in-fol.
+          <lb/>Hain 7745, Madsen 1733, Pellechet 5254, Proctor 450, Voul¬
+          <lb/>liéme: Berlin, 2277.
+          <lb/>K 1735. Prov.; B N Munich, 22/1. 1880, 1 M. 50. A la suite de
+          <lb/>Guilhelmus, Postilla K 1864. Rel. anc.
+          <lb/>184
+          <lb/>GESTA Romanorum. (Strasbourg, impr. du Jordanus (— G.
+          <lb/>Husner)), 6 août 1489, in-fol.
+          <lb/>Hain 7746, Madsen 1734, Proctor 621, Voulliéme: Berlin 2431.
+          <lb/>K 1736. Prov.: Carl Steyer, Cannstatt, 9/xI. 1883, 9 M. Au¬
+          <lb/>dessous du titre: «Liber prohibitus in Indice Romano». A
+          <lb/>l’intérieur du 1er plat le même exlibris de Keller comme
+          <lb/>K 1734, n° 184.
+          <lb/>185
+          <lb/>GESTA Romanorum. (Strasbourg, imprimeur du Jordanus
+          <lb/>(— G. Husner)), 25 janvier 1493, in-fol.
+          <lb/>Hain 7747, Madsen 1735, Pellechet 5255, Proctor 625, Voul¬
+          <lb/>liéme: Berlin 2448.
+          <lb/>K 1737. Prov.: B N Munich, 22/1. 1880, 2 M.
+          <lb/>186
+          <lb/>40
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

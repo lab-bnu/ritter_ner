@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:44.895396+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078079.tif
+IMAGE WIDTH: 2326
+IMAGE HEIGHT: 3844
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Allen Christen, so in ehrlicher hausz haltung, oder in
+          <lb/>Weltlichem Regiment begriffen, fast nutzlich zû lesen,
+          <lb/>und zû wissen. (Feuille de lierre.)
+          <lb/>Gedruekt zû Straszburg am Kornmarckt! bey Chri¬
+          <lb/>stian Müller.1563. (Verso blanc.)
+          <lb/>In-4°, car. goth., 4 ff. non ch., XCVI pp., réclames, notes marg.
+          <lb/>Fol. A 2a non ch.:... Herrn Johan Graven zâ Nassaw... und Herrn
+          <lb/>Philipsen dem Jüngern, Graven zu Hanaw und Herrn z6 Liechtenberg
+          <lb/>gevättern, meinem gnädigen Herrn.... — Datum Wormbss den XVIII.
+          <lb/>Januarii im jar nach der... Geburt unsers Herrn... 1563... Erhart
+          <lb/>Krausz von Eger, der Rechten Licentiat.
+          <lb/>R100.839. Prov.; Oscar Weigel, Leipeig 2/X11889, 2 M.ro. 1452
+          <lb/>LUTHER Martin
+          <lb/>Strasbourg 1578
+          <lb/>Ein Christlich Urtheyl! D. Mart. Luthers von seinen
+          <lb/>eygen Büchern.Sampt einer Unterricht, was darzu ge¬
+          <lb/>höre, wenn man in der heiligen Schrifft recht studirn,
+          <lb/>und darnach gute Bücher schreiben will. (Feuille de lierre.)
+          <lb/>A la fin: Straszburg. M. D. LXXVIII.
+          <lb/>In-fol., car. goth., 4 ff. non ch., sign. A.
+          <lb/>R100.840. Prov. : Bibl. Reuss. Au recto du f. de garde: Ex
+          <lb/>Roehrichianis 1860.
+          <lb/>1453
+          <lb/>965
+          <lb/>LUTHER Martin
+          <lb/>Strasbourg, B. Jobin 1580
+          <lb/>Beteglöcklin Doctoris Mar- tini Lutheri, Von allen
+          <lb/>wolklingenden, Geystreichen, hertzlichen, starcken und
+          <lb/>feurigen Gebetten, ausz allen desz Mannes Got- tes ge¬
+          <lb/>truckten Büchern zusammen gestimmet, frommen Christen
+          <lb/>damit zuermuntern, und zuerwe- cken, derselben inn disen
+          <lb/>letzten schwä- ren zeiten in allerley Noht undanligen
+          <lb/>zugebrauchen. Treulich und auffs neu zugericht! Durch
+          <lb/>M. Petrum Trewer, Coburgensem.
+          <lb/>IVXVI.Klinget dem HerRy mit Cimbaln, seit
+          <lb/>frölich und rufet seinen Namen an.
+          <lb/>Getruckt zu Straszburg, bei BernhardJin. Anno
+          <lb/>M. D. LXXX. (Verso blanc.)
+          <lb/>In-8°, car. goth. et rom., 160 ff. ch., titre courant, réclames, notes
+          <lb/>marg., init. ornées, titre rouge et noir.
+          <lb/>Fol. 2a: An Christlichen Leser. (Préface de 19 pp.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

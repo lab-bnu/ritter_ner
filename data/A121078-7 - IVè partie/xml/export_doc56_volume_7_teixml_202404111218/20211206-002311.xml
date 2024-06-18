@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:09.555147+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002311.tif
+IMAGE WIDTH: 2506
+IMAGE HEIGHT: 3948
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Das erste, Wacht auff in Gottes namen, die jr recht
+          <lb/>Christen seind... Das ander Lied, Nun hörend zu on
+          <lb/>allen spot... — [Strasbourg, Th. Berger s. d.), in-8°.
+          <lb/>Heitz, p. 44.
+          <lb/>2379
+          <lb/>LIEDER (zwei hübsche neue) : Zwey hüpsche newe Lieder
+          <lb/>Das erst, Was wöllen wir aber heben an, Das best das
+          <lb/>wir gelernet han... (grav.). Das ander Lied, Frölich
+          <lb/>so wil ich singen, und dancken meinem Gott... —
+          <lb/>[Strasbourg, Th. Berger s. d.), in-8°.
+          <lb/>Heitz, p. 70.
+          <lb/>2380
+          <lb/>LIEDER (zwei hübsche neue) : Zwey hübsche newe lieder,
+          <lb/>von der Küngin von Hungern, Fraw Maria, und irem
+          <lb/>gemahel Künig Ludwig, als er von ir inn streyt zoch,
+          <lb/>wider den Türcken... — Strasbourg [vers 1538); in-8°.
+          <lb/>Vogeleis, p. 238; Wackernagel p. 150.
+          <lb/>2381
+          <lb/>LIEDER (zwei hübsche neue geistliche) : Zwey hüpsche newe
+          <lb/>geistliche Lieder. Das erst, Hilff Gott das mir gelinge du
+          <lb/>Edler schöpffer mein... Das ander Lied Die Weiszheit
+          <lb/>Gottes Vatters zart... (grav.). — [Strasbourg, Th. Berger
+          <lb/>s. d.), in-80,
+          <lb/>Heitz, p. 22; Wackernagel III, 112.
+          <lb/>2382
+          <lb/>LIEDER (zwei hübsche neue geistliche) : Zwey Hüpsche
+          <lb/>newe Geistliche Lieder, Das erst, Es ist ein schaffstal
+          <lb/>und ein Hirt, ja der zum ewigen leben fürt... Ein ander
+          <lb/>hüpsch new geistlich Lied, Nun hörend zu jhr Menschen
+          <lb/>Kindt, wölt jhr recht selig werden... (grav.). —
+          <lb/>(Strasbourg, Th. Berger s. d.), in-8°.
+          <lb/>Heitz, p. 36; Wackernagel III, 795.
+          <lb/>2383
+          <lb/>LIEDER (zwei hübsche schöne) : Zwey hüpsche schöne Lieder,
+          <lb/>Das erst, Hör zu du stoltzer madensack... Das ander
+          <lb/>ein hübsch Geistlich Lied. Ach Gott wem soll ichs
+          <lb/>309
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

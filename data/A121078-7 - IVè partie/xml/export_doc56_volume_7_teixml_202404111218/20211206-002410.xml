@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:12.054181+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002410.tif
+IMAGE WIDTH: 2508
+IMAGE HEIGHT: 3972
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>PIUS II (pape) : Epistola de literarum studiis. — (Strasbourg,
+          <lb/>Mathias Schürer 1513), in-4°.
+          <lb/>Schmidt VIII, n° 120 : Cambrai (Répertoire pédagogique
+          <lb/>512).
+          <lb/>2915
+          <lb/>PIUS II (pape) : Dis büchlin sagt und meldet... von fraw
+          <lb/>glück... — (Strasbourg, Jean Grüninger (2 mail 1516),
+          <lb/>in-fol.
+          <lb/>Schmidt I, n° 150; Panzer, Annalen I, 395. — BN Munich.
+          <lb/>2916
+          <lb/>PIUS II (pape) :.. Histori von zweyen Liebhabenden
+          <lb/>Menschen Euriolo und Lucretia... durch Eneam
+          <lb/>Sylvium... beschriben und durch Nicolaum von Weil
+          <lb/>(Wyle) verteutschet. — Strasbourg vers 1550, in-4°.
+          <lb/>Goedeke 12, p. 362 (C); Heitz-Ritter, n° 128.
+          <lb/>2917
+          <lb/>PIUS II (pape) : (Idem). — Strasbourg 1560, in-4°.
+          <lb/>Goedeke I2, p. 362 (C); Heitz-Ritter, n° 129.
+          <lb/>2918
+          <lb/>PIUS II (pape). Voir : AUSFÜHRUNG (Stattliche), no 886.
+          <lb/>PIUS IV (pape). Voir : AUSFÜHRUNG (Stattliche), n° 886;
+          <lb/>FISCHART, n° 1720; SYNODUS, n° 3308.
+          <lb/>PLACOTOMUS, Johannes : Epithalamion in nuptias Clarissimi
+          <lb/>et doctiss. viri Domini Laurentii Molleri I. U. Doctoris,
+          <lb/>Sponsi : &amp;amp; honestissimae pudicissimaeque virginis
+          <lb/>Mariae, Jacobe... Valentini Burzlin inclytae urbis Uber¬
+          <lb/>lingen, Medici &amp;amp; Mathematici, Filiae, Sponsae. Ad
+          <lb/>4. Maii, Anno 1573, futuras... — Strasbourg, Nicolas
+          <lb/>Wyriot 1573, in-4°.
+          <lb/>Ritter: B M Strasbourg, n° 1711.
+          <lb/>2919
+          <lb/>PLANERUS, Andreas: Theses Medicae, Physicae. De differentiis
+          <lb/>humanae valetudinis, propositae in inclyta Academia
+          <lb/>Argentoratensium... Eas disputando tuebitur eruditus
+          <lb/>408
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

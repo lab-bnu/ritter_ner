@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:37.311851+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2369.tif
+IMAGE WIDTH: 2344
+IMAGE HEIGHT: 3824
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>COCHLÆUS Johannes
+          <lb/>Strasbourg, R. Beck, 1514.
+          <lb/>GRAMMATICA Io. Co! clei Norici. Rudimenta ad latinae
+          <lb/>linguae vsum ! necessaria continens, siue prosa, siue car¬
+          <lb/>mi-ne latine scribendum: loquendumue sit Alexandri
+          <lb/>etiam versiculis vtilio¬ ribus (additis iam pridem pluri¬
+          <lb/>bus) introsertis. Et nunc secun dis Stanneis calamis dili¬
+          <lb/>gen ter exscripta ac re- uisa.
+          <lb/>Habes insuper Candide lector Grammati cae Sintaxis
+          <lb/>&amp;amp; Prosodiae Appendicem: vbi copiosius Constructionis
+          <lb/>regulis (ex Gram- matica noua delectis) orationes &amp;amp; sim¬
+          <lb/>plici- ter &amp;amp; figurate latinas in generali saluabis.
+          <lb/>In Prosodia vero quamlibet dictionis sylla bam bre¬
+          <lb/>uiuscule specialibus regulis vbertim cognosces.
+          <lb/>Anno. M. D. XIIII.
+          <lb/>A la fin:.. Viuario Argentoraci a Renato Beck stan
+          <lb/>neis exscriptam calamis virgula Aristarchi! adhibita. Anno
+          <lb/>Humanae Redemptionis decimo quarto supra Millesi¬
+          <lb/>mum quingentesimum. Duo- decimo Calendas Nouem¬
+          <lb/>brias.
+          <lb/>In-4°, car. rom., 4 ff. non ch, XCV ff. ch. (erreurs de pagination,
+          <lb/>XCIIII pour 91, XCII deux fois, XOI pour 95), titre courant, notes
+          <lb/>marginales, initiales ornées, titre encadré. (H de B, Planche XV, No 2).
+          <lb/>Au verso du titre: Ioannes Cocleus Noricus; domino suo
+          <lb/>Antonio Kress... — Ex scholis nostris: Anno dominicae in¬
+          <lb/>car- nationis. M. D. XI. Pridie Calendas Martij.
+          <lb/>fol. 2a: Registrum in hoc Quadrivium. (2 ff. à 2 col.)
+          <lb/>fol. 4b: la. Vuimphelingo... Ihero nymus Gebuiller
+          <lb/>insignis Argentinensis ecclesiae puerorum moderator...
+          <lb/>*RI01893. Prov.: Trübner, Strasbourg, 9/XI. 1883; 3 M. 50.
+          <lb/>BU Fribourg D 4123 fd. Schmidt IV, p. 20, N° 16 dit 97 ff.
+          <lb/>ch.: Fribourg.
+          <lb/>545
+          <lb/>365
+          <lb/>COCHLÆUS Iohannes
+          <lb/>Strasbourg, J. Prüss fils, 1515.
+          <lb/>GRAMMATICA Io. Co- clei Norici. Rudimenta ad lati¬
+          <lb/>nae linguae vsum necessaria continens, siue prosa, siue
+          <lb/>carmine latine scribendum loquen dumve sit: Alexandri
+          <lb/>etiam versiculis vtilioribus (additis iam vltra, 50) intro¬
+          <lb/>sertis. Et nunc tertijs stan neis calamis diligenter ex
+          <lb/>cripta (!), ac Aristarchi virgula elimata.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

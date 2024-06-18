@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:07.587111+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002229.tif
+IMAGE WIDTH: 2494
+IMAGE HEIGHT: 3970
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>HAWENREUTER, Joh. Lud. Voir: ARISTOTELES, Compendium
+          <lb/>n° 854; FREINSHEMIUS, Wolfg, n° 1766, STURM, Joh.
+          <lb/>nos 3288, 3297; VIRDUNG, Paulus no 3418. [Ritter,
+          <lb/>Rép. nos 1075-1089).
+          <lb/>HAYMO von Halberstadt : In divi Pauli epistolas. —
+          <lb/>(Strasbourg, René Beck 1519), in-fol.
+          <lb/>Panzer 6, 92; Schmidt IV, p. 25, n° 29; Walter, no 1469.
+          <lb/>Baer (Francfort-s.-M.), Catal. 500 (1907), n° 920. — B M
+          <lb/>Colmar et Sélestat; Gr. Sém. Strasbourg.
+          <lb/>1958
+          <lb/>HAYMO von Halberstadt : Enchiridion de Christianorum
+          <lb/>rerum memoria, sive Epitome, historiae Ecclesiasticae
+          <lb/>per Eusebium descripte, authore Haymone, Episcopo
+          <lb/>Halberstatensi. — (Haguenau, J. Secer janvier 1531),
+          <lb/>in-8°.
+          <lb/>Burg, n° 199.
+          <lb/>1959
+          <lb/>HEBENSTREIT, Joh. : Vorhersage. Prognosticon historicum
+          <lb/>und physicum für 1566. — Strasbourg, Christian Müller
+          <lb/>(Mylius) 1565, in-40.
+          <lb/>Zinner 2372.
+          <lb/>1960
+          <lb/>HECKEL, Wolfgang : Lautten Buch von mancherley schönen
+          <lb/>und lieblichen stucken mit zweyen Lautten zusammen
+          <lb/>zuschlagen... Gute Teutsche, Lateinische, Frantzösische,
+          <lb/>Italienische Stuck oder Lieder. Auch vilfaltige Newe
+          <lb/>Tentz... — Strasbourg, Urban Wyss Rechenmeister.
+          <lb/>Vogeleis, p. 290: Préf de 1556. (Ritter, Hist. impr. p. 341.
+          <lb/>1961
+          <lb/>HECKEL, Wolfgang : Tenor-Lautenbuch. — Strasbourg
+          <lb/>1556.
+          <lb/>B U Hambourg.
+          <lb/>1962
+          <lb/>HECKEL, Wolff : Discant-Lautenbuch. — Strasbourg 1556.
+          <lb/>BN Berlin.
+          <lb/>1963
+          <lb/>227
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

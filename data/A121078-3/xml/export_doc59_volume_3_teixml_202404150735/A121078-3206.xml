@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:08.379033+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3206.tif
+IMAGE WIDTH: 2326
+IMAGE HEIGHT: 3854
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>650
+          <lb/>Auf dem letzten Bl.: Epitaphion von Thomas Wolf.
+          <lb/>R101.3583. Prov.: Butsch, Augsburg, 12. x. 1883;8M.
+          <lb/>Stadtbibl, u. Priesterseminar Strassburg. GK: SB Berlin, UB
+          <lb/>Breslau, Halle; Proctor II Sectio I Nr. 10080: London Brit. Museum;
+          <lb/>Schmidt VII Nr. 80 nach seinem Ex., das sich jetet an der Strassbur¬
+          <lb/>ger Univ.- u. Landes-Bibl, befindet R100.486. In diesem Ex, bemerkt
+          <lb/>Schmidt auf dem Schutebl.:
+          <lb/>des gravures. Une autre parut, s. d., in aedibus Schurerianis, in 4°, goth.,
+          <lb/>La Ire édition est de 1511, Strasbourg, in 4°, lettres goth. avec
+          <lb/>avec 2 gravures. Le titre de celle de 1511 est le suivant, Ebert I, 657;
+          <lb/>Nav. s. Spec. fat. in sermones juxta turmarum seriem divisa, suis figuris
+          <lb/>jam insignita, a Jac. Othero diligenter collecta. Argentorati conscriptum
+          <lb/>16. die mensis Ianuarii 1511. Un exemplaire de l’édition de 1513 fut
+          <lb/>vendu en 1841 à Paris, 50 frs. D’ordinaire c’est moins cher. (Brunet,
+          <lb/>1re édit. II, 398.) Un exemplaire, relié en maroq. rouge, tranche dorée,
+          <lb/>est marqué 75 frs. dans le catalogue de Colomb de Batines, Ier février
+          <lb/>1842.°
+          <lb/>964
+          <lb/>GEILER Johannes
+          <lb/>Strassburg, M. Schürer 1513
+          <lb/>Peregrinus Doctissimi sacre theologie doctoris Joan¬
+          <lb/>nis Geiler Keyserspergij Concionatoris Ar gentinensis.
+          <lb/>celebratissimi a Jaco-bo otthero discipulo suo congestus.
+          <lb/>Am Schluss: Argentinae. Ex Aedibus Matthie Schu rerij,
+          <lb/>Anno. M. D. XIII. Mense Februario. T. O. (Rücks. leer.)
+          <lb/>4°, Got., 132 Bll., Sign. A-V, Kopft., Marg., Init. Die Bll. sind
+          <lb/>mit den Buchstaben A-Z des Alphabets gezählt unter Beifügung der röm.
+          <lb/>Ziffern IXVII.
+          <lb/>Auf der Rücks, des Titelbl.:... Ioanni Brisgoico artium &amp;amp;
+          <lb/>sa- cratissime Theologie doctori atque eiusdem ordinario
+          <lb/>professori in Friburgensi archigymnasio! patrono suo bene
+          <lb/>merito, lacobus Otherus... — Ex Friburgo. M. D. XII. die.
+          <lb/>X. Iunij. (2S.)
+          <lb/>Bl. 2b: Vrbani Rieger Phylirani in Peregrinum, prae¬
+          <lb/>cellentissi mi omnium ac consummatissimi olim Argen
+          <lb/>tinensium concionatoris Ioannis Geile-ri Keiserspergij
+          <lb/>carmen incitatorium ad candidum lectorem, 20 Dist., da¬
+          <lb/>hinter Index (19 S.).
+          <lb/>*R101.3613. Prov.: Bibl. Heitz, Strassburg 1871.
+          <lb/>2. Ex. *R 101.3583. -Geschenk der Stadt Heilbronn.
+          <lb/>3. Ex. R101.363. Prov.: Bibl. Ch. Schmidt, mit folgender handschr.
+          <lb/>Notiz: Monsieur C. Schmidt, Licencié en theologie. Souvenir de l’anni¬
+          <lb/>versaire de son départ de Paris 5 Mai 1836. Th. A. Gerok (?).
+          <lb/>4. Ex. *R101.3562. Geschenk der Stadt Heidelberg 1871.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

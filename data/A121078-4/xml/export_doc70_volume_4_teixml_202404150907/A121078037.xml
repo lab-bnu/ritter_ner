@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:43.690961+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078037.tif
+IMAGE WIDTH: 2362
+IMAGE HEIGHT: 3828
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>LIVIUS Titus
+          <lb/>Strasbourg, Th. Rihel 1590
+          <lb/>Titus Liuius,! Vnd! Lucius Florus. Von Ankunfft
+          <lb/>vnd Vrsprung des! Römischen Reichs... (Réimpression littérale
+          <lb/>de l’édition de 1581 avec les mêmes gravures.)
+          <lb/>Au verso du dernier f. sous la marque typographique de Theodo¬
+          <lb/>sius Rihel: Jm Jar M. D. XC.
+          <lb/>R66. Prov.: BN Munich, 15/IV 1879, 3 M. 50. Au f. du titre
+          <lb/>en haut : «Ex liberio Joann. Sebastian Schöll Pharm... (?) Achenheimb
+          <lb/>1724.)
+          <lb/>BM Strasbourg.
+          <lb/>1379
+          <lb/>LIVIUS Titus
+          <lb/>Strasbourg, Th. Rihel 1596
+          <lb/>Titus Liuius, VndLucius Florus,! Von Ankunfft
+          <lb/>vnd Vrsprung des! Römischen Reichs etc. (Comme dans l&amp;#x27;édi¬
+          <lb/>tion de 1575.)
+          <lb/>A la fin: Getruckt zu Straszburg, durch Theodosium
+          <lb/>Rihel. (Marque typogr. de Th. Rihel. HRB Planche XXXII n° 17.)
+          <lb/>Au-dessous: M. D. XCVI.
+          <lb/>In-fol., car. goth., 14 ff. non ch., 887 pp. ch. (la dernière page est ch.
+          <lb/>par erreur 878), 11 ff. non ch. à 2 col. (table) et I f. blanc, titre cou¬
+          <lb/>rant, réclames, notes maro., init,, titre rouge et noir, encadré comme
+          <lb/>l&amp;#x27;édition de 1575, dont le livre est une réimpression; mêmes gravures,
+          <lb/>même préface et même Chronigue, mais sans les privilèges au verso du
+          <lb/>titre.
+          <lb/>R 10.495. Prov.: K. Th. Vœlcker, Francfort s. M. (Catal. 68
+          <lb/>n° 831), II/VI 1879,3M.
+          <lb/>En haut du titre: «Ex Domino Andrea Endres (?) Lang.» 1380
+          <lb/>LIVIUS Titus
+          <lb/>Strasbourg, Th. Rihel 1598
+          <lb/>Titus Liuius,¡VndLucius Florus, Von Ankunfft
+          <lb/>vnd Vrsprung des! Römischen Reichs... (Comme dans les édi¬
+          <lb/>tions de 1575 et 1596.)
+          <lb/>A la fin: Getruckt zu Straszburg, durch! Theodosium
+          <lb/>Rihel. (Marque typ. de Th. Rihel. H CB Planche XXXII n° 17.)
+          <lb/>Au-dessous: M. D. XCVIII.
+          <lb/>In-fol, car. goth., 14 ff. non ch., 887 pp. ch. (la dernière p. est
+          <lb/>ch. par erreur 878), 11 ff. non ch. à 2 col. (table) et 1 f. blanc, titre
+          <lb/>courant, réclames, notes marg., init, ornées, tître rouge et noir, encadré
+          <lb/>comme l&amp;#x27;édition de 1596, dont le livre est une réimpression; mêmes gra¬
+          <lb/>vures, même préface, même Chronique, mais sans les privilèges au verso
+          <lb/>du titre de l’édition de 1575.
+          <lb/>921
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

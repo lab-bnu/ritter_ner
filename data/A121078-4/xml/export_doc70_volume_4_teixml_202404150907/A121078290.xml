@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:51.140820+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078290.tif
+IMAGE WIDTH: 2312
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1176
+          <lb/>ditionem triplicatum. Primum! De Penitentia et eius par¬
+          <lb/>tibus. Secundum De Viciis in Genere et Specie. Ter¬
+          <lb/>tium De Decalogi preceptis. (Verso blunc.)
+          <lb/>A la fin: Pomerium Ser monum Quadragesimali¬ um
+          <lb/>tripartitum per Religiosum devotumque pa! trem... fratrem
+          <lb/>Pelbartum de Themes! war Ordinis Minorum de Observan¬
+          <lb/>tia: com pendiose compactum: impensis circumspecti
+          <lb/>viri archibibliopole Joannis Rynman de Oringaw: in offi¬
+          <lb/>cina industrii Henrici Gran Civis in imperiali opido Ha¬
+          <lb/>genaw! accurate impressum Anno virginei partus M. d. IX.
+          <lb/>octavo idibus Maii, finem adeptum est feliciter.
+          <lb/>init. d’attente.
+          <lb/>In-4°, car. goth., 2 col., 151 ff. non ch., sign. a-t, titre courant,
+          <lb/>R101421 (2). Prov.: BN Munich 28/XII 1877.
+          <lb/>BN Paris, Rés. D. 9186.
+          <lb/>1836
+          <lb/>PELBARTUS DE THEMESWAR
+          <lb/>Haguenau, H. Gran 1509
+          <lb/>Pomerium Sermonum De Tempore. s. Pars Hyemalis
+          <lb/>Estivalis. Per religiosum et devotum Patrem: littera- rum
+          <lb/>divinarum Professorem eximiissimum: fra! trem Pelbartum
+          <lb/>de Themeswar Ordinis Mi norum de Observantia accura¬
+          <lb/>tissime christi fi delibus sertum. (Verso blanc.)
+          <lb/>A la fin: Sermones Pomerii de Tempore... im-pressi
+          <lb/>ac diligentissime revisi per industrium Henricum Gran
+          <lb/>in imperiali oppido Hagenaw. expen sis ac sumptibus pro¬
+          <lb/>vidi Joannis Rynman de Oringaw Anno virginei partus.
+          <lb/>1509. idus primo Aprilis Finiunt feliciter.
+          <lb/>In-4°, car. goth., 2 col., 208 ff. non ch., sign. A-Z, Aa-Ce (pars
+          <lb/>hiemalis), 165 ff. non ch., sign. a-v (pars estivalis), titre courant, init.
+          <lb/>d’attente.
+          <lb/>R101422. Prov.: BN Munich 28/XII 1877; 2 M. Au milieu
+          <lb/>du titre:,In usum F. F. Aspacensium.
+          <lb/>BN Paris, Rés. D. 9187.
+          <lb/>1837
+          <lb/>PELBARTUS De THEMESWAR
+          <lb/>Haguenau, H. Gran 1511
+          <lb/>Pomerium Sermonum de bea ta virgine dei genitrice
+          <lb/>Vel Stellarium Corone beate virginis pro singularum
+          <lb/>festivitatum eiusdem pre- dicationibus coaptatum.! Et est
+          <lb/>in libellos duodecim partitus... (Suit l’énumération des titres des
+          <lb/>12 livres. Verso blanc.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

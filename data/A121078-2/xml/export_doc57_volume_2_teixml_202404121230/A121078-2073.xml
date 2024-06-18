@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:28.328652+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2073.tif
+IMAGE WIDTH: 2346
+IMAGE HEIGHT: 3824
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>BAD
+          <lb/>Strasbourg, H. Vogtherr, 1538.
+          <lb/>Eynn nûtzlich Bad! vnd artzney, den Bruch an! alten
+          <lb/>vnd jungen vnge-schnitten zuhey-len. (3 feuilles de
+          <lb/>Rerre.)
+          <lb/>Getruckt zû Straszburg, durch Hein- rich Vogtherren.
+          <lb/>(Verso blanc.)
+          <lb/>A la fin: Datum Straszburg Kal. Septembri. Anno
+          <lb/>M. D. XXXVIII.
+          <lb/>In-4°, car. goth., 8 ff. non ch., dont le dernier blanc, sign. A-B,
+          <lb/>réclames.
+          <lb/>R 101514. Prov.: Don d’Alex. Hatzfeld geb. Rhaum à Flacht
+          <lb/>près Diez 1871. Au verso du f. blanc: annotations mss.
+          <lb/>2. ex. R 101.513. Prov.: Rosenthal, Munich, 30. 1x 1893; 24 M.
+          <lb/>GPB: Berlin SB.
+          <lb/>122
+          <lb/>Strasbourg, H. Vogtherr, 1539.
+          <lb/>EYn nützlich Bad! vnd artznei, den Bruch an! alten
+          <lb/>vnd jungen vngeschnitten zû hey- len.
+          <lb/>Getruckt zû Straszburg, durch Hein- rich Vogtherren.
+          <lb/>(Verso blanc.)
+          <lb/>A la fin: Datum Straszburg Kal. Nouembri. Anno.
+          <lb/>M. D. XXXIX.
+          <lb/>In-4°, car. goth., 8 ff. non ch., dont le dernier blanc, réclames.
+          <lb/>Réimpression de l’édition de 1538.
+          <lb/>R 101.515. Prov.: Th. Ackermann, Munich, 26. VIl. 1881, 5 M.50.
+          <lb/>GPB. Berlin SB.
+          <lb/>123
+          <lb/>BAD
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

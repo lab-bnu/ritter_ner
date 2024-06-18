@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:03.997043+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002099.tif
+IMAGE WIDTH: 2480
+IMAGE HEIGHT: 4002
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>CALEPINUS, Ambrosius : Dictionarium. — (Haguenau,
+          <lb/>Th. Anshelm, juillet 1522), in-fol.
+          <lb/>Burg, n° 13la. (Ritter, Rép. n° 401 : Haguenau, Gran 1523
+          <lb/>et n° 402; Gran 1526).
+          <lb/>1263
+          <lb/>CALEPINUS, Ambrosius : Lexicon. — Haguenau, Jean Secer,
+          <lb/>février 1531, in-fol.
+          <lb/>Bibl. Budapest L. lat. 4. (Communication de Mme Soury,
+          <lb/>Strasbourg); Burg, n° 133.
+          <lb/>1264
+          <lb/>CALEPINUS, Ambrosius : Dictionarium... — (Strasbourg,
+          <lb/>Jean Schott) 1537, in-fol. (Encadrement du titre par
+          <lb/>J. Baldung-Grien).
+          <lb/>Kristeller, p. 135; Schmidt II, n° 137a.
+          <lb/>1265
+          <lb/>CALLIMACHUS, P. : De bello Turcis inferendo. Oratio gravis¬
+          <lb/>sima... — (Haguenau, J. Secer, février 1533), in-4°.
+          <lb/>Burg, n° 134.
+          <lb/>1266
+          <lb/>CALVIN, Joh. : La manyere de faire prieres aux eglises
+          <lb/>Francoyses tant devant la predication comme apres,
+          <lb/>ensemble pseaulmes et cantiques francoys qu’on chante
+          <lb/>aus dictes eglises, apres sensuyt lordre et facon d’admi¬
+          <lb/>nistrer les Sacrementz de Baptesme et de la saincte Cene
+          <lb/>de nostre seigneur Jesu Christ de espouser et confirmer
+          <lb/>le mariage devant lassemblee des fideles avecques le
+          <lb/>sermon tant de baptesme que de la cene... — (Imprimé
+          <lb/>à Rome par le commandement du Pape par Théodore
+          <lb/>Brüs; Allemant, son imprimeur ordinaire. Le 15 de
+          <lb/>feburier (Jean Prüss, Strasbourg] 1542, in-8°.
+          <lb/>Schmidt III, p. 42, n° 51.
+          <lb/>1267
+          <lb/>CALVIN, Joh. : Adversus fanaticam et furiosam sectam Liber¬
+          <lb/>tinorum... Nunc primum e Gallico versa Latinè per
+          <lb/>Nicolaum Gallasium. — Strasbourg, Wendelin Rihel
+          <lb/>1546.
+          <lb/>1268
+          <lb/>97
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

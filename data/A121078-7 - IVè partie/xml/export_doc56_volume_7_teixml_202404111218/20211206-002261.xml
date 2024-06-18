@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:08.384623+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002261.tif
+IMAGE WIDTH: 2524
+IMAGE HEIGHT: 3964
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Hutten, n° 88: B M Augsbourg, B U Erlangen, Göttingen,
+          <lb/>B M Mayence, B N Paris, Vienne, etc. [La B N de Strasbourg
+          <lb/>possède aussi une éd. de la même année chez Anshelm,
+          <lb/>Ritter, Rép, n° 1225l.
+          <lb/>2113
+          <lb/>HUTTEN, Ulr. (Vadiscus) : (E)Yn lustiger und nutzlicher
+          <lb/>Dialogus, Herr Ulrichen von Hutten, Vadiscus oder
+          <lb/>die Rhömisch Dreyfaltigkeyt genant. Durch Ulrichen
+          <lb/>Varnbüler den jüngern, ausz dem Lateyn neülich
+          <lb/>verteütschet... — Strasbourg, Balthasar Beck 1544,
+          <lb/>in-40.
+          <lb/>Böcking XXVIII; Goedeke IIe, p. 230, n° 23; Kuczynski,
+          <lb/>n° 1106; Benzing, n° 129 : B M Augsbourg, Brit. Mus. Londres,
+          <lb/>Steinfeld (Schlüchtern) ; Breslauer (Berlin) Catal. 42, n° 1208:
+          <lb/>82 M. Bibl. St. Guillaume, Strasbourg.
+          <lb/>2114
+          <lb/>HUTTEN, Ulr. : Hulderichi Hutteni ad Helium Eobanum
+          <lb/>Hessum pro eadem re responsorium. — (Strasbourg,
+          <lb/>Jean Schott en été 1521), in-4°.
+          <lb/>A la suite de Eobanus Hessus Helius: Hoc in libello haec
+          <lb/>continentur, n° 1546.
+          <lb/>2115
+          <lb/>HUTTEN, Ulr. Voir aussi: BRUNFELS n° 1107; SALUSTIUS,
+          <lb/>In Catilinam atque Jugurtham opuscula n° 3158;
+          <lb/>EOBANUS Hessus n° 1546  (RITTER, Rép. nos 1223¬
+          <lb/>1234).
+          <lb/>HUTTICH, Johannes : J. H. Römische Kayser abcontraveyt,
+          <lb/>vom ersten Caio Julio an untz uff den ietzigen
+          <lb/>H. K. Carolum. Mit kurtzer anzeygung ires Lebens
+          <lb/>dapffer thaten und historien. — Strasbourg, Wolfgang
+          <lb/>Köpfel 1526, in-80.
+          <lb/>Graesse III, p. 402.
+          <lb/>2116
+          <lb/>HUTTICH, Joh. : Novus orbis regionum germanice per
+          <lb/>Michaelem Herr : Die neu Welt der Landschaften und
+          <lb/>Insulen. — Strasbourg, Georges Ulricher, 14 mars 1534,
+          <lb/>in-4°,
+          <lb/>Brunet IV, 132.
+          <lb/>2117
+          <lb/>259
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

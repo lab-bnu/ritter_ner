@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:52.662454+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078338.tif
+IMAGE WIDTH: 2332
+IMAGE HEIGHT: 3840
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1224
+          <lb/>stinum tertium.... (comme dans l’édition précédente.) Index prae¬
+          <lb/>terea est hic additus, qui in prio¬ri impressione desyde¬
+          <lb/>rabatur.
+          <lb/>A la fin: Argentorati ex Aedibus Schurerianis ! Mense
+          <lb/>Octobri. Anno a Christo nato. M. D. XV. REGNANTE IMP.
+          <lb/>CAES. MAXI- miliano Pio Foelici! Aug.
+          <lb/>In-4°, car, rom., 18 ff. non ch. (titre, préface et table), LXVII
+          <lb/>ff. ch., titre courant, de nombreuses petites init. ornées, titre encadré,
+          <lb/>composé de quatre pièces juxtaposées; pièce supérieure, au milieu tête
+          <lb/>d’un génie, entourée de banderoles; pièces latérales, des piliers ornés,
+          <lb/>pièce inférieure, au milieu sirène, à ses côtés deux monstres marins.
+          <lb/>Au verso du titre: Nicolaus Gerbellins Suo Matthiae Schurerio. S....
+          <lb/>Ex Aedibus Mecoenatis nostri! Rudalphingü. Anno. M. D. XVI. Kalendas
+          <lb/>Febr.
+          <lb/>Fol. A 2a: Domici Palladii Sorani! Tetrastichon, (2 dist.) Sui¬
+          <lb/>vent 16 ff. de table.
+          <lb/>R100.421. Prov.: Don de F. Butsch fils, antiquaire à Augsbouro.
+          <lb/>Oxford, Bibl. Bodleiana; BN Paris, Rés. L. 1789; Schmidt VIII
+          <lb/>n° 165: Bibl. cantonale Zurich.
+          <lb/>1912
+          <lb/>PONTANUS Johannes Jovianus
+          <lb/>Strasbourg, M. Schurer 1513
+          <lb/>IOANNES IOVIANVS PONTANVS DE PRV dentia. LECTOR
+          <lb/>EME, LEGE, ET PROBABIS. P. O.
+          <lb/>A la fin: Argentorati excriptum (!) in libraria officina
+          <lb/>Matthiae Schurerii, Mense Marcio.Anno a felicitate
+          <lb/>huma-nae salutis. M. D.XIII. REGNANTE IMP. CAES.
+          <lb/>M. Schurer. HEB planche XII n° 2. Verso blanc.)
+          <lb/>In-40, car. rom., 4 ff. non ch., LXXXIV ff. ch., titre courant,
+          <lb/>init. d’attente.
+          <lb/>Au verso du titre : Ex Aedibus Schurerii Pridie nonas
+          <lb/>Martias. AN.. M.. D XIII. (Suivent 3 pp. et demie de table.)
+          <lb/>Fol. Ia: Joannes Corsius Cos! mo Paccio Ponti- fici Florenti¬
+          <lb/>no. ... S.
+          <lb/>R101217. Prov.: Harrwoitz, Berlin 13/V 1895; 7 M. 20.
+          <lb/>Schmidt (VIII n° *121) n’a pas eu d’exemplaire; il cite d’après
+          <lb/>le catal. Heinrich Schœningh. Vente du 22 janvier 1894.
+          <lb/>1913
+          <lb/>PONTANUS Johannes Jovianus: De bello Neaopolitano. Voir:
+          <lb/>BRACELLUS Jacobus: Libri quinque. Haguenau, J. Secer 1530.
+          <lb/>No 233.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

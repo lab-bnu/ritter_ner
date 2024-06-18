@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:05.746473+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3065.tif
+IMAGE WIDTH: 2324
+IMAGE HEIGHT: 3838
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>ERASMUS: Epistola nuncupatoria
+          <lb/>Strassburg, J. Knobloch, 1523
+          <lb/>EPISTO- LA NVNCVPATO- RIA AD CARO- LVM CAESA¬
+          <lb/>REM. Exhortatio ad studium Euange- licae lectionis.
+          <lb/>Paraphrasis in Euangelium Mat-thaei, per Desiderium
+          <lb/>Erasmum Roterodamum nunc denuo re- cognita. Epi¬
+          <lb/>stola ad R. D. Matthaeum! Cardinalem Sedunensem. (Rück¬
+          <lb/>seite leer.)
+          <lb/>Am Schluss: ARGENTORATI APVD Io-hannem Knoblochium
+          <lb/>Mense lanuario.) Anno M. D. XXIII.
+          <lb/>8°, Kursiv, 200 num. Bll., Kopftitel, Kustoden, Marginalien, Init.
+          <lb/>H, M, S; Titeleinfassung (H e B Tafel X Nr. 6). Auf der Rückseite
+          <lb/>des letsten Bl. Druckermarke Knoblochs (H ee B Tafel IX Nr. 2; Sul¬
+          <lb/>vestre Nr. 635).
+          <lb/>Bl. 2a: INVICTISSI-MO CAESARI CAROLO, EIVS NOMINIS
+          <lb/>QVIN] TO, D. ERASMVS RO TERODAMVS! S. D.... — Basi¬
+          <lb/>leae, Id. lan. Anno. M. D. XXII. (6S.)
+          <lb/>Bl. 4b: ERASMVS ROTERODAMVS PIO LECTORI S. D....
+          <lb/>Basi leae, postrid. Id. Iann. An. M. D. XXII. (23 S.)
+          <lb/>R101.192. Prov.: Rosenthal, München, 15. XI. 1886; 6 M. Hand¬
+          <lb/>schriftliche Notizen.
+          <lb/>Schmidt VII Nr. 254.
+          <lb/>768
+          <lb/>509
+          <lb/>ERASMUS: Parabolae
+          <lb/>Strassburg, J. Knobloch, 1523
+          <lb/>PARABO LAE SIVE SIMILIA D. I ERASMI ROTERODA] mi
+          <lb/>postremum ab autore reco-gnita, cum accessione non¬
+          <lb/>nulla, adiectis aliquot uocularum (!) obscurarum inter¬
+          <lb/>preta tionibus.
+          <lb/>Am Schluss: Argentorati excudebat loannes Knoblochus,
+          <lb/>Anno à restituta Salute M. D. XXIII.! Mense Septembri.
+          <lb/>80, Kursiv, 87 num. Bll., Kopftitel, Kustoden, Marginalien, Init.
+          <lb/>0; Titeleinfassung (Siehe Nr. 327).
+          <lb/>Bl. A 1b: ERASMVS ROTERODAMUS utro cum primis
+          <lb/>erudito Petro Aegidio celebratissimae ciuitatis Antuuer
+          <lb/>piensis à libellis. S. D.... — Basileae. Anno à Christo nato.
+          <lb/>M. D. XIIII. Idi- bus Octobris. (4 S.)
+          <lb/>R 100.938. Prov.: Rosenthal, München, 26. VI. 1891; 6M.
+          <lb/>GK: UB Greifswald; Rest S. 57; BN Paris, Rés. p. Z. 457;
+          <lb/>Schmidt VII Nr. 263.
+          <lb/>769
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

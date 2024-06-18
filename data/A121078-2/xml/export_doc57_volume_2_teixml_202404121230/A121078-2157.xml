@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:31.182996+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2157.tif
+IMAGE WIDTH: 2300
+IMAGE HEIGHT: 3826
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>BRANT Sebastian
+          <lb/>Strasbourg, [M. Flach fils, ] 1520.
+          <lb/>An den alerdurchleüch tigsten Groszmechtigisten
+          <lb/>Fürsten vnd herren, Herrn Carolum den fünfften Römi¬
+          <lb/>schen Keiser vnnd Hy- spanischen. Auch der gantzen
+          <lb/>Welt Imperatoren, Künigen vnd Regierer. In das leben,
+          <lb/>vnd tugendtliche geschich ten Keyser Tyti Vespasiani
+          <lb/>des miltenn. Durch! Sebastianum Brandt verteütschet.
+          <lb/>Grande gracure de deux bois ayant 6 pièces d’encadrement avec
+          <lb/>des écussons; au haut l’empereur Charles Quint, au fond une ville, au
+          <lb/>bas un écusson avec les armoiries impériales, tenu par deux lions.
+          <lb/>(Verso blanc).
+          <lb/>A la fin: Labor Sebastiani Brant. Ex Argen-toraco.
+          <lb/>Anno. XX. supra M. D.Kalendis Augusti.
+          <lb/>In-fol, car. goth., 20 ff. non ch., dont le dernier blanc, sign.
+          <lb/>A-C, notes marginales, initiales ornées A, N, M, toutes les pages ont
+          <lb/>une pièce d’encadrement d’un côté; fol. A 2a en a 3, une en haut et
+          <lb/>une de chaque côté; fol. B 3a contient le titre en latin avec ? distiques
+          <lb/>latins, 4 pièces d’encadrement et en bas la gravure de Charles Quint du
+          <lb/>Ier titre, sans la partie inférieure avec l’écusson.
+          <lb/>fol. A 2: An den allercristlichsten durchleu chtigsten..
+          <lb/>herrn! Carolen Ertzhertzogen zu österreich. Zu Burgundi...
+          <lb/>... den Fünfften Er- wölten Römischen künig, vnd bald¬
+          <lb/>künftigen Keiser... Vorred Onophrij Brandt Burgers zû
+          <lb/>Strassburg... Sebastianum Brandt Bey- der Rechten lerer,
+          <lb/>vnd der loblichen stattStrassburg Cantzler, meinem
+          <lb/>lieben herrn vnd Vatter, des namen ich (nit vnbillich)
+          <lb/>on sonder würden vnd titel der eren, nym mer für meinen
+          <lb/>mundt ausssprechen soll, Hab... Ich vor etlichen meiner
+          <lb/>iugend Jaren? mir erzalend, ge- hört sagen... — Datum auff
+          <lb/>den zehen- den tag Junij, als die frölich, vnd von gott
+          <lb/>glücklich fürgesehene ewer künigklichen Maiestat mere
+          <lb/>über- fart vnd ankunfft gon Gändt inn Flanderen, mit
+          <lb/>ho her freüden vnd begirde inn die Statt Straszburg
+          <lb/>verkündt vnd gehört, auch mit zierlicher vnd andech.
+          <lb/>tiger procession vnd lobsagung gott dem allmechtigen vn¬
+          <lb/>langs daruon celebriert vnd begangen worden ist. Anno
+          <lb/>Fünfftzehenhundert vnd zwentzig. Note marginale: Procession
+          <lb/>vnd freüd zû Stras burg.
+          <lb/>R10.075. Prov.: C. H. Beck, Nördlingen, 22/1X. 1884, 18 M.
+          <lb/>153
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

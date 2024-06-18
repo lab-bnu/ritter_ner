@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:05.542246+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3051.tif
+IMAGE WIDTH: 2326
+IMAGE HEIGHT: 3838
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Auf der Rückseite des Titelbl.: Erasmus Roterodamus Petro
+          <lb/>Viterio...
+          <lb/>R100.115. Prov.: Gumnasialbibl. Heilbronn gegen Tausch. Letztes
+          <lb/>Bl. fehlt.
+          <lb/>burg 409.
+          <lb/>GK. SB Berlin (2 Ex.); Schmidt VIII Nr. 245; Stadtbibl. Strass-
+          <lb/>740
+          <lb/>ERASMUS: Antibarbara
+          <lb/>Strassburg, J. Knobloch, 1520
+          <lb/>ANTIBAR BARORVM D. ERASMI ROTE rodami, liber unus,
+          <lb/>quem iuuenis qui- dem adhuc lusit, caeterum diu desi
+          <lb/>deratum, domum repertum non! iuuenis recognouit, &amp;amp; ue
+          <lb/>lut postliminio studiosis restituit. Ex quo reliquorum,
+          <lb/>qui diis propiciis propèdiem accedent, lector coniecturam
+          <lb/>fa- cias lice! bit.
+          <lb/>ARGENTINAE APVD Io. KNOBLOV! CHIVM ANNO. M. D. XX.
+          <lb/>(Rückseite leer.)
+          <lb/>80, Kursiv, 80 unn. Bll., Sign. A-K, Kopftitel, Kustoden, leerer
+          <lb/>Plate für Init. M, C, 0.
+          <lb/>Bl. A 2a: ERASMUS ROTERODAMUS IOAN NI SAPIDO
+          <lb/>Svo S. D. (Vorrede aus Löwen, 4 S.)
+          <lb/>Am Schluss: Finis.Mense Septembri Anno M. D. XX.
+          <lb/>Auf der Rückseite des letzten Bl.: Veritas odi vm pa- rit.
+          <lb/>Entspricht der Froben&amp;#x27;schen Ausgabe, Basel, Mai 1520.
+          <lb/>R100.913. Herkunft unbekannt. Handschr. Notizen. Die Blätter
+          <lb/>sind stark beschädigt u. wurmstichig.
+          <lb/>GK: SB Berlin, UB Göttingen; Schmidt VII, Nr. 206; Bibl.
+          <lb/>Wilh. Strassburg, Zurich. Van der Haeghen II, S. 68: Basel, Cam¬
+          <lb/>bridge, Darmstadt, Frankfurt a. M., Freiburg i. Br., Giessen, Göttingen,
+          <lb/>Heidelberg, Kopenhagen, München, Nürnberg, Stuttgart, Bibl. St. Markus
+          <lb/>in Venedig, Zürich; Rest S. 47.
+          <lb/>741
+          <lb/>495
+          <lb/>ERASMUS : Bellum
+          <lb/>Strassburg, J. Prüss, 1520
+          <lb/>BELLVM PER DES. ERAS. ROTERODA- MVM. (Epheublatt.)
+          <lb/>Am Schluss: ARGENTINAE APVD IO. PRYS.! MENSE AvGV¬
+          <lb/>STO AN. M. D. XX. Darunter Eleiner Leisten, der sich bei der Titel¬
+          <lb/>einfassung unten befindet.
+          <lb/>80, Antiq., 68 S., 1 unn. u. ein leeres Bl., Kopftitel, Kustoden,
+          <lb/>Titeleinfassung.
+          <lb/>Neudruck der Froben’schen Ausgabe, Basel 1517.
+          <lb/>R100.9216). Prov.: Pastor Harter Luizhausen, 22.x.1887; 1M.
+          <lb/>Handschr. Notizen.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

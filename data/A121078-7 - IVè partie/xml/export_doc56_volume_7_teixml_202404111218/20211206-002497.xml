@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:13.934351+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002497.tif
+IMAGE WIDTH: 2508
+IMAGE HEIGHT: 3956
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>TROSTBUECHLEIN : für die klainmütigen und einfeltigen, die
+          <lb/>sich ergern, der Spaltung halb, ausz dem Nachtmal
+          <lb/>Christi erwachssen, mit angehencktem grund, bayder
+          <lb/>partheyen, und endtlichem bericht, wie sich ain yede
+          <lb/>Christ in diser Spaltung halten soll... — (Strasbourg
+          <lb/>15261, in-4°.
+          <lb/>Kuczynski 2641, Weller 4002.
+          <lb/>3373
+          <lb/>TROSTBÜCHLEIN : (Idem). — (Strasbourg, Jean Knobloch
+          <lb/>1526), in-40.
+          <lb/>Kuczynski 2642, Weller 4003.
+          <lb/>3374
+          <lb/>TROJA (Zerstörung). Voir : COLUMNA, Aegidius, n° 1421.
+          <lb/>TUERKENBUECHLEIN : Türcken Büchlin. Gantz warhafftige...
+          <lb/>beschreibung von den pein, marter, schmertzen
+          <lb/>unnd Tyranney, so die Türcken den gefangenen
+          <lb/>Christen... anlegen... (13 lignes). — (Strasbourg, Paul
+          <lb/>Messerschmidt) s. d., in-80.
+          <lb/>Bibl. S. Guillaume, Strasbourg.
+          <lb/>3375
+          <lb/>TUNDALUS. Voir : TONDALUS.
+          <lb/>TURCUS (Magnus). Voir : MAGNUS Turcus.
+          <lb/>TUPPIUS, Laur. Voir : SYNODUS, n° 3308.
+          <lb/>TURM de Babel. Voir: THOMANUS, Joh., n° 3342.
+          <lb/>TURMAIR, Johannes : Grammatica Joannis Aventini funda¬
+          <lb/>mentalis iuvenibus utilissima prima rudimenta : ac
+          <lb/>cognitionem elogij latinitatis in reliquas scripturas
+          <lb/>aggressum prebens... — (Strasbourg, Mathias Hupfuff
+          <lb/>1515), in-40.
+          <lb/>Schmidt V, n° 126: B N Berlin; Panzer 11, 362.
+          <lb/>3376
+          <lb/>TURNAUER, Caspar. Voir: BUGENHAGEN, Joh., n° 1231.
+          <lb/>495
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

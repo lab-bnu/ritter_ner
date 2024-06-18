@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:11.585486+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002388.tif
+IMAGE WIDTH: 2478
+IMAGE HEIGHT: 3956
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>und Christlichen Pfarrherren zu Straszburg. Mit etlichen
+          <lb/>Neüwen geschrifftlichen Introit, Gebet. Vorred oder
+          <lb/>Prefation und Canon, vor und nach uffhebung des
+          <lb/>Sacraments, auch andren ordenungen, in vorigem büchlin
+          <lb/>nit begriffen. — (Strasbourg, W. Köpfel vers 1525),
+          <lb/>in-80. (Encadrement propre à Köpfell.
+          <lb/>Bibl. S. Guillaume, Strasbourg; Hubert, n° 6; Wackernagel,
+          <lb/>p. 62; Weller, no 3079.
+          <lb/>2795
+          <lb/>ORDNUNG : Ordenung des Herren Nachtmal : so man die
+          <lb/>mesz nennet sampt der Tauff und Insegung der Ee Wie
+          <lb/>yetzt die diener des wort gots zu Straszburg Erneüwert
+          <lb/>und nach götlicher gschrifft gebessert haben usz Ursach in
+          <lb/>nachgender Epistel gemeldet. M. D. XXV. — [Strasbourg,
+          <lb/>Joh. Schwan] 1525, in-8°,
+          <lb/>Hubert, n° 12; Wackernagel, p. 72; Weller, n° 3594; (BN.
+          <lb/>Strasbourg R100.640 : Rép. n° 1674).
+          <lb/>2796
+          <lb/>ORDNUNG : wie man sich in der Schweissucht... halten soll.
+          <lb/>— Strasbourg, Jean Schott 1529, in-4°.
+          <lb/>Schmidt II, n° 113 : Bâle.
+          <lb/>2797
+          <lb/>ORDNUNG : Namen, unnd Regiment, Alles Kriegsvolcks.
+          <lb/>Von Geschlechten. Namen und Zal aller Büchsen...
+          <lb/>Ausz dem Kriegs Rahtschlag Jacoben Preussen... —
+          <lb/>(Strasbourg, Christian Egenolph, janvier 1530), in-4°.
+          <lb/>Benzing: Egenolff, n° 20 : J. Baer, Ant. Kat. 710.729. 2798
+          <lb/>ORDNUNG, neuwe wider die heimlichen Eheverlobnüssen.
+          <lb/>Voir: PHILIPP, Graf zu Hanau-Lichtenberg, n° 2896.
+          <lb/>ORDNUNGEN : Der Steinmetzen Brüderschafft Ordnungen
+          <lb/>und Articul. Ernewert auff dem tag zu Straszburg auff
+          <lb/>der Haupthütten, auff Michaelis. Anno M.D.LXIII. —
+          <lb/>[Strasbourg] 1563, in-fol.
+          <lb/>Ritter: B M Strasbourg, n° 1592 et Rép. n° 1680l.
+          <lb/>2799
+          <lb/>ORIGENES. Voir: BRUNFELS, Otto, n° 1104.
+          <lb/>386
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

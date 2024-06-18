@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:08.621426+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3211.tif
+IMAGE WIDTH: 2322
+IMAGE HEIGHT: 3852
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Auf der Rücks. des Titelbl.: Jacobus Biethenus Reichen¬
+          <lb/>uuilensis re! uerendo in Christo patri ac domino domino
+          <lb/>Conrado episcopo Au rensi et Episcopi Argentinensis
+          <lb/>generali in pontificalibus vicario; atque! domino Clementi
+          <lb/>danielis in Rotpoltsuiler plebano. dominis suis obseruan¬
+          <lb/>dissimis. S. D.... Argentorati ex edi bus domini mei
+          <lb/>doctoris Petri Vitgram summae edis celeberrimi concio¬
+          <lb/>natoris.
+          <lb/>Darunter in allen 3 Ex. das Druckprivileg mit dem Datum des
+          <lb/>19. Januar 1514: lacobus oszler... per Imperium Romanum
+          <lb/>artis impressoriae censor... edicit et cauet; ne quis
+          <lb/>alius subscripto pressore dempto ab hinc lapsu triennij
+          <lb/>opus hoc probe castigatum: secundario vel imprimat, vel
+          <lb/>secundario pressum in Imperij limitibus vena le prestet.
+          <lb/>Mulcta decem marcarum auri vna cum huiusmodi librorum
+          <lb/>secun- dario pressorum confiscatione. Datum. ad. 14. Kal.
+          <lb/>Feb. Anno. christi. 15. 14.
+          <lb/>*R10.135. Herkunft unbekannt. Handschr. Notisen. Auf dem
+          <lb/>Titelbl. oben Autograph: Caspar Weisshaupt.
+          <lb/>2. Ex. R10.133a (Geküreter Titel, Jahreszahl 1414). Herkunft
+          <lb/>unbekannt. Handschr. Notigen. Auf der Innenseite des Vorderdeckels:
+          <lb/>Legavit D. Iacob Hartlieb du Ius (?) Walsporn quondam Decani S. Trini¬
+          <lb/>tatis Spirensis.
+          <lb/>3. Ex. R 10.134 (Geküreter Titel, verbesserte Jahreszahl 1514).
+          <lb/>Prov.: Bibl. Heitz, Strassburg 1871. Zahtr, handschr. Randnotizen. Auf
+          <lb/>der Innens, des Vorderdeckels Exlibris: Georgius Lautherus mit Wappen
+          <lb/>u. Autograph. Auf dem Titelbl.: Monasterii Baumberg; auf dem Schutabl.:
+          <lb/>Duplum Bibliothecae regiae Monacensis.
+          <lb/>Stadtbibl. Kolmar; Priesterseminar Strassburg; BN Paris, Rés.
+          <lb/>D. 3449; Dacheux, Geiler S. CXXIV mit Beschreibung der Holeschn.,
+          <lb/>Kristeller 47 u. Abb. 21; Schmidt I Nr. 135: Jadis Bibl. de Strasbourg
+          <lb/>Incun. 1944 u. Stadtbibl. Strassburg; Katal. der Bibl. Ch. Louis Fière,
+          <lb/>2e vente Paris 14-17 juin 1937: Nr. 360; Rosenthal, München, Katal.
+          <lb/>135 (1914) Nr. 924: 75 M.
+          <lb/>969
+          <lb/>655
+          <lb/>GEILER Johannes
+          <lb/>Strassburg, Joh. Grüninger 1515
+          <lb/>Das Euangelibuch. DAs büoch der Ewan gelien
+          <lb/>durch das gantz iar MittPredig vnd vsz-legungen
+          <lb/>durch den wirdigen hochge- lerten Doctor Jo-hannes
+          <lb/>geiler von Keisersperg der zeit Predicant in dem hohen
+          <lb/>stifft der Keiserlichen freien stat Strasz burg, die er
+          <lb/>in sei nen fier letzten Ja ren gepredigt hat.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

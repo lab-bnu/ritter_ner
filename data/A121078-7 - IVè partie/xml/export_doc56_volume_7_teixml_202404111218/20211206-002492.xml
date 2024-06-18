@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:13.694642+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002492.tif
+IMAGE WIDTH: 2496
+IMAGE HEIGHT: 3978
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>mancherley kranckheit und stechtagen der menschen. —
+          <lb/>(Strasbourg, (Martin Flach] 1508), in-4°.
+          <lb/>Schmidt VI, n° 74 : B U Fribourg (très mutilé); féd. Flach
+          <lb/>1512 et sans impr. 1518: Ritter, Rép, n° 2330/1l.
+          <lb/>3344
+          <lb/>TOLLAT von Wochenberg, Joh. : Margarita medicine... —
+          <lb/>(Strasbourg, Mathias Hupfuff 1515), in-4°,
+          <lb/>Panzer, Annalen I, 380; Schmidt V, n° 124; Ritter: B M
+          <lb/>Strasbourg, n° 2100.
+          <lb/>3345
+          <lb/>TONDALUS : Disz büchlin saget von einer verzuckten selen
+          <lb/>eines Ritters genant Tondalus... — (Strasbourg, Mathias
+          <lb/>Hupfuff 1507), in-40.
+          <lb/>Goedeke I2, p. 373, n° 9 (4); Schmidt V, n° 70; Weller 380. —
+          <lb/>S. Gall (Stiftsbibl.).
+          <lb/>3346
+          <lb/>TONDALUS : (Idem). — Strasbourg, Jean Knobloch 1519,
+          <lb/>in-40,
+          <lb/>Schmidt VII, n° 193 : Bibl. Roy. Berlin 6223; Weller, Rep.
+          <lb/>1172.
+          <lb/>3347
+          <lb/>TORRENTINUS, Hermann : Ars versificatoria Johannis
+          <lb/>Despauterii... — Strasbourg, Mathias Schürer, décembre
+          <lb/>1512, in-4°.
+          <lb/>Schmidt VIII, n° 89; Ritter, Rép. n° 632 à Despauterius. 3348
+          <lb/>TORRENTINUS, Hermann : Inter grammaticos nostrae tem¬
+          <lb/>pestatis viri doctissimi commentaria in primam partem
+          <lb/>doctrinalis Alexandri, cum vocabulorum interpreta¬
+          <lb/>tione... Demum diligenter ab auctore recognita... —
+          <lb/>(Strasbourg, Jean Prüss janvier 1513), in-40.
+          <lb/>Panzer 6, 58; Schmidt III, p. 30, n° 4 : Strasbourg, Jadis
+          <lb/>Bibl. de Strasbourg, Incun, n° 4571 et Bibl. S. Guillaume
+          <lb/>[éd. Hupfuff 1516 : Ritter, Rép. n° 2344).
+          <lb/>3349
+          <lb/>TORRENTINUS, Hermann : Elucidarius carminum et historia¬
+          <lb/>rum : Vel vocabularius poeticus continens Fabulas:
+          <lb/>490
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

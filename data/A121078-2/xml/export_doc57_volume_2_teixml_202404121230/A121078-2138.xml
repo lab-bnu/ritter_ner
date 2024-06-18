@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:30.594486+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2138.tif
+IMAGE WIDTH: 2318
+IMAGE HEIGHT: 3828
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>134
+          <lb/>Gesunden! vnd Krancken dargereicht werden sollen.
+          <lb/>Alles durch H. Hieronymum Bock, ausz langwiriger vnd
+          <lb/>gewisser erfahrung, beschriben.
+          <lb/>vbersehen, vnd mit vilen nützlichen Experimenten gebessert
+          <lb/>Jetzund zûm Andern mal, auffs new mit allem fleisz
+          <lb/>vnd gemehret. Auch wie man die Kreutter zû rechter Zeit
+          <lb/>samlen und Distillieren soll. Durch den Hoch- gelehrten
+          <lb/>MELCHIOREM SEBIZIUM Silesium, Der Artzney Doctorn,! und
+          <lb/>Ordinarium der Statt Straszburg. Sampt drey nützlichen
+          <lb/>Registern.
+          <lb/>Marque typ. de Josias Rihel. (H. ee B. Planche XXXII, NO 16.)
+          <lb/>Mit Röm. Kay. May, Freyheit auff zehen Jar.
+          <lb/>Gedruckt zù Straszburg, im JarM. D. LXXXVII.
+          <lb/>(Verso blanc).
+          <lb/>Au verso du dernier f.: Getruckt in der Freyen Reichs¬
+          <lb/>stat Straszburg, durchJosiam Rihel. M.D. LXXXVII.
+          <lb/>14 Augusti.
+          <lb/>In-fol,, car. goth. 28 ff. non ch. dont le dernier blanc, 454 ff.
+          <lb/>ch., 22 ff. non ch. à 2 col. (table); titre courant, réclames, notes marg.,
+          <lb/>initiales ornées, titre rouge et noir; la plupart des gravures sont
+          <lb/>empruntées à l’édition de 1560; en plus des nouvelles dans la 4e partie.
+          <lb/>fol. a 2a non ch.:... Herren Arbogast Rechburgern
+          <lb/>Stettmeystern, Herren Johann Carl Lorchern alt Ammey¬
+          <lb/>stern und Herren Friedrichen von Gottesheym Dreyzehnern,
+          <lb/>der allhieigen Academy, Scholarchen, seinen... Herren,
+          <lb/>Entbeüt Melchior Sebizius Silesius, der Artzney D. seine
+          <lb/>... dienst... — Datum Straszburg, den 14 Augusti 1577.
+          <lb/>Melchior Sebizius Silesius. (Préface de 8 pages.)
+          <lb/>fol. a 6a non ch.: portrait de H. Bock et distiques de J. Sapidus
+          <lb/>comme dans les éditions précédentes. Au verso: armoiries.
+          <lb/>fol. b 1a non ch.: ... Herren Philipsen Grauen zû Nassaw
+          <lb/>vnd Sarbrücken, Herren zu Lar... (Préface de 9 ff. comme dans
+          <lb/>l&amp;#x27;édition de 1560.)
+          <lb/>fol. « 2a non ch.: Von Erwölung, rechter vnnd bequemer
+          <lb/>zeit, ein jede Wurtzel, Kraut, Blûmen, ein zûsamblen.
+          <lb/>(2 feuilles avec un pressoir pour l’huile fol. c 3a.)
+          <lb/>fol. c 4a non ch.: Kurtzer... Bericht, wie man allerley
+          <lb/>Kreutter vnd Blûmen,... distil-lieren soll. (3 ff. avec 3 grav,
+          <lb/>appareils de distillation.) Suivent 9 ff. de table à 2 col. et 1 f. blanc.
+          <lb/>R10.500. Prov.: Ex Bibliotheca Hermaniana. Prix noté
+          <lb/>au crayon 60 M.
+          <lb/>2. ex. R 10.501. Prov. inconnue.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

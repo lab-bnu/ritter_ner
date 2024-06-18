@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:46.236154+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078129.tif
+IMAGE WIDTH: 2314
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>F. A 2a:... Arnoldo Burenio, Philippus Melanthon... Mense Octo¬
+          <lb/>bri. Anno 1550. (13 pp.) F. A 8b: In Ethica Phil. Me- lan. Melchior
+          <lb/>Acontius Ursellanus. (11 dist.)
+          <lb/>R100.891. Prov, inconnue.
+          <lb/>BN Paris, R 25664.
+          <lb/>1551
+          <lb/>MELANCHTHON Philippus
+          <lb/>Strasbourg, S. Emmel 1562
+          <lb/>SELECTA RVM DECLAMATI onum... Tomus tertius.
+          <lb/>(Marque typ. de S. Emmel. HEB Planche XXXV n° 1; Silvestre
+          <lb/>n° 822.)
+          <lb/>Cum Gratia &amp;amp; Privilegio. ARGENTORATI ANNO M. D.
+          <lb/>LXII. (Verso blanc.)
+          <lb/>In-80, car. ital., 818 pp., 17 ff. non ch. (Tertii Tomi Catalogus
+          <lb/>et Index à 2 col.), titre courant, réclames, notes marg., init. à fig. et
+          <lb/>init. ornées.
+          <lb/>Fol. A 2a : Nicolao Bromio, Viro Consulari in Inclita Germaniae
+          <lb/>Vrbe, cuius nomen est a Traiectu Francorum ad Moenum... Caspar
+          <lb/>Peucerus.... Vuitebergae Calendis Augusti, Anno 1557. (Préface de
+          <lb/>8 pp.)
+          <lb/>R102.002. Prov.: Leutner, Munich 2/XI 1910; 8 M. Annota¬
+          <lb/>tion ms. en bas du titre: Ex libris Francisci Wagner.
+          <lb/>Oxford, Bibl. Bodleiana.
+          <lb/>1552
+          <lb/>MELANCHTHON Philippus: Physicae propositiones; &amp;amp; de exer¬
+          <lb/>citiis corporalibus priorum. Voir: GRATAROLUS Guilhel¬
+          <lb/>mus : Praefationes duae, p. 124-131. Strasbourg 1563.
+          <lb/>1015
+          <lb/>MELANCHTHON Philippus
+          <lb/>Strasbourg, S. Emmel 1564
+          <lb/>PHILIPPI ( MELANCHTHONIS CVM PRAE-] fationum in quos¬
+          <lb/>dam illustres autores: tum! Orationum de clarissimorum
+          <lb/>vi- rorum vitis.
+          <lb/>TOMVS SECVNDVS. (2ème volume des Selectarum Declamationum.)
+          <lb/>Marque typ. de Sam. Emmel. (HCB Planche XXXV n° 1; Silvestre
+          <lb/>n° 822.)
+          <lb/>Cum Gratia &amp;amp; Privilegio. ARGENTORATI ANNO M. D.
+          <lb/>LXIIII. (Verso blanc.)
+          <lb/>M. D. LXIIII.
+          <lb/>In-8°, car. ital., 747 pp. et 12 ff. non ch. (Praefationum Catalogus
+          <lb/>et Index), titre courant, réclames, notes marg., de nombreuses init.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

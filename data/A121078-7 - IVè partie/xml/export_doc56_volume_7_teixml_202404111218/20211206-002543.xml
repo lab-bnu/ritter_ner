@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:14.818536+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002543.tif
+IMAGE WIDTH: 2500
+IMAGE HEIGHT: 4008
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>ZEITUNG : Wunderbare schröckliche Newe Zeitung. Von
+          <lb/>dreien mercklichen Himelszeichen, so in kurtz verruckten
+          <lb/>tagen zu Eltzach, einem Stätlin nahe am Schwartzwald,
+          <lb/>auff drei meilen wegs von Freiburg im Breisgaw gelegen,
+          <lb/>mit grosser Verwunderung seind gesehen worden, Wie
+          <lb/>solchs die folgende Bildniss und Schrifft eigentlichen
+          <lb/>ausweisen. — (Strasbourg, Nicolas Faber (1575), placard
+          <lb/>in-fol.).
+          <lb/>Weller, Zeitungen, n° 440; Zurich, Bibl. Centrale II, 12/1;
+          <lb/>Ritter, Hist. de l’impr. app. 398 (2).
+          <lb/>3605
+          <lb/>ZEITUNG : Ein Wunderlässliche Zeitung von einem Newen
+          <lb/>Propheten, so newlicher zeit zu Einsidelen, zwischen
+          <lb/>dem Gugelkam und Gallencock ist erstanden, und rüffet
+          <lb/>und schreiet in allen Landen, in diser letzten zeit, und
+          <lb/>hartem schlaff, zu erweckung der gemüter zuhören und
+          <lb/>zulehren. — (Newthoren, am kleinen Federmarck).
+          <lb/>(Strasbourg, Bernard Jobin 1575), placard in-fol. (La
+          <lb/>Ire partie en prose, puis 34 vers, le tout de J. Fischart).
+          <lb/>Bibl. Centr. Zurich. Weller, Zeitungen, n° 432.
+          <lb/>3606
+          <lb/>ZEITUNG : Antorfische Zeitung. Gründliche und kurze
+          <lb/>Beschreibung der Ursachen der Niderländischen Empö¬
+          <lb/>rungen... Zu Antorf den 4. Novembris, Anno 1.5.7.6...
+          <lb/>Samt andern daran hangenden Zeitungen. Von Mastricht,
+          <lb/>Holland, Seland, Gellern, etc. Folgende Warhafte ver¬
+          <lb/>zaichnus der Puncten und Articuln in der Friedhandlung
+          <lb/>zwischen den Allgemainen Ständen der Niderlanden,
+          <lb/>und dem Prinzen von Uranien... aufgericht und publicirt
+          <lb/>inn Brüssel, den 8. Novembris, eben gedachtes Jars.
+          <lb/>Alles aus Französischen Copien treulich verteutschet. —
+          <lb/>(Strasbourg), Bernard Jobin 1577, in-4°.
+          <lb/>Bibl. Centr. Zurich. Weller, Zeitungen, n° 465. Hauffen,
+          <lb/>Euphorion VI, p. 545, note 1.
+          <lb/>3607
+          <lb/>ZEITUNG : Franckreichische Zeitung. Von Schrifftlichen und
+          <lb/>durch die deputirte Abgesandte, von wegen... Johann
+          <lb/>541
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

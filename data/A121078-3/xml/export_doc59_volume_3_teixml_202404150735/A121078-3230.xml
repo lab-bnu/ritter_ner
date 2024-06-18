@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:09.255402+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3230.tif
+IMAGE WIDTH: 2326
+IMAGE HEIGHT: 3852
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>674
+          <lb/>Druckerm. Egenolphs. (H&amp;amp; B Tafel XXI Nr. 1 unten.)
+          <lb/>Am Schluss: Argentorati, apud Christianum Egenolphum.
+          <lb/>Anno. M. D. XXX. Mense lanuario.
+          <lb/>40, Kursiv, 28 num. Bll., 1 unn. Bl. (Blattzahl XIX zwveimal,
+          <lb/>XXI fehlt; XXII zweimal) Kopft., Kust., Init. M. L.
+          <lb/>Auf der Rücks. des Titelbl.: EPITAPHIVM SORANI BATAVI,
+          <lb/>AELIO! Hadriano Augusto Authore, (11 lat. Verse.)
+          <lb/>Bl. A 2a: NOBILI AC ERUDITISSIMO D. IACOBOSturmio,
+          <lb/>Senatori Argentoratensi, Gerardus Nouiomagus. S. P.... —
+          <lb/>AN. M. D. XXX.
+          <lb/>Bl. G 3: GERARDVS NOVIOMAGVS, DOCTISSIMO poc-] tori
+          <lb/>Thomae Zegero, Mathematices Professori in Academia
+          <lb/>Marburgensi, apud Hessos. S. P.... — Argentorati, Anno
+          <lb/>M. D. XXX. Kalendis Ianuariis.
+          <lb/>R 102.237. Prov.: J. Halle, München, 29. x. 1935; 13 M. 50.
+          <lb/>GK: SB Berlin, UB Breslau, Greifswald, Halle, Königsberg,
+          <lb/>Marburg.
+          <lb/>991
+          <lb/>GELLIUS Aulus
+          <lb/>Strassburg, Joh. Knobloch 1517
+          <lb/>AVLI GEL LII NOCTIVM ATTI- CARVM LIBRI VN- DEVI¬
+          <lb/>GINTI. Cvm gratia et privi- legio imperiali ad sexenni¬
+          <lb/>um. (Rücks. leer.)
+          <lb/>Am Schluss des Index: Argentinae, in Aedibus Ioan¬
+          <lb/>nis Knoblouchi. Mense Martio. Anno M. D. XVIl. Ductu
+          <lb/>Matthiae Schurerij.
+          <lb/>Darunter Druckerm. Knoblochs. (H &amp;amp; B Tafel IX Nr. 4.)
+          <lb/>20, Antiq. u. Griech., 10 unn. Bll. (3sp. Index), 105 num. Bll.,
+          <lb/>26 unn. (Verzeichnis der Kapitel u. 14 Erklärungen griech. Ausdrücke),
+          <lb/>Titelumrahmung mit dem Monogramm von Urs Graf. Titel schwarz und
+          <lb/>rot, Init. Ductu Schurerii heisst wohl auf Kosten Schürers.
+          <lb/>Bl. 9a : Copia Privilegni Maximiliani, Unterzeichnet: Ia. de Banisis.
+          <lb/>Bl. 10a: Nicolaus Gerbellius Phorcensis DD. doctoris studiosis om¬
+          <lb/>nibus salutem in Christo.
+          <lb/>R10.012. Prov.: Oswald Weigel, Leipeig, 2. XII. 1893; 4/M. 60.
+          <lb/>GK: SB Berlin, UB Bonn, Breslau, Göttingen, Greifswald, Mar¬
+          <lb/>burg, Münster. Schmidt VII Nr. 140, u. VIII Nr. 214: Bibl. Kolmar
+          <lb/>u. Basel; Beaulieux S. 145; UB Paris Rés. 417. — Oxford, Bibl. Bo¬
+          <lb/>dleiana.
+          <lb/>992
+          <lb/>GELLIUS Aulus
+          <lb/>Strassburg, Joh. Knobloch 1521
+          <lb/>AVLI GEL LII NOCTIVM ATTE-] CARVM. LIBRI VN DEVI¬
+          <lb/>GINTI. In easdem, Encomium carmine Luscinii! ad HVT¬
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

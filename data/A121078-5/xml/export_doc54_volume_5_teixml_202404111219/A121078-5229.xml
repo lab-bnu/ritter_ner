@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:57.524068+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5229.tif
+IMAGE WIDTH: 2382
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1539
+          <lb/>réclames, notes marg., titre rouge et noir, 31 grav. sur bois dont 15 de
+          <lb/>l’édition de 1556, qui est réimprimée presque textuellement.
+          <lb/>R. 100.395. Prov. : Baer, Francfort-s.-M., 2/xII, 1912; 100 M.
+          <lb/>Quelques annotations mss. ; à l’intérieur de la couverture ex-libris
+          <lb/>avec le texte : « Ex Bibliotheca Stillfridiana»; au-dessus : « Dr Schwarz,
+          <lb/>Berlin, 22. März 1883».
+          <lb/>Baer, Francfort-s.-M., catalogue 500 (1907), N° 1418; 100 M. : Erste
+          <lb/>Ausgabe (sic). Von den schönen Holzschnitten scheinen 11 (im Formate
+          <lb/>ca. 73 x 73 mm.) von dem Vorfasser selbst entworfen zu sein, was sich
+          <lb/>aus einem Vergleich mit den beglaubigten Holzschnitten im Mainzer
+          <lb/>Ovid ergibt. Die übrigen Holzschn. stammen aus einer alteren Periode.
+          <lb/>2461d
+          <lb/>WIDERGRUN VON STAUFFENBERG Hans Jacob. Voir:
+          <lb/>Ordonnance (Mariages), Strasbourg, 1550, R 21 (26); n° 1719.
+          <lb/>WIDMANN Johannes
+          <lb/>Strasbourg, J. Knobloch, 1519
+          <lb/>Regimen durch den !! hochgelerten vnd übertref!! fenlichen
+          <lb/>der artzney Do ctor Moichinger gesetzt, wie man!! sich
+          <lb/>in pestilentzi-schem lufft! halten soll.
+          <lb/>A la fin : Getruckt zu Strassburg durch Jo-hannem
+          <lb/>knoblauch, nach der geburt Christi M. D. xix.
+          <lb/>In-4°, car. goth., 20 ff. non ch., sign. A-E, notes marg., init. D, N. Titre
+          <lb/>encadré : en haut ornement, dans les coins des monstres marins; de
+          <lb/>chaque côté un enfant nu grimpant le long d’une colonne, en bas un roi
+          <lb/>porté en triomphe, cette pièce se trouve aussi chez M. Flach.
+          <lb/>Au verso du titre : Die Vorred. Dises büchlin... hatt der wurdig hochge¬
+          <lb/>lert herr Johann Widman genant Meüchinger, der artzney doctor vnnd
+          <lb/>phisicus des... fürsten... Ulrichs hertzogen zu Würtenberg vnd Theck.
+          <lb/>grauen zu Mümpelgart gemachet in teütscher sprach zu lieb...seiner
+          <lb/>dreyen töchtern...
+          <lb/>R. 101.261. Prov. : A. Cohn, Berlin, 5/VI, 1889; 24 M.
+          <lb/>Schmidt VII, No 189 : BM Colmar.
+          <lb/>Bibliographie de Widmann : Schottenloher II, Nos 22474-22478.
+          <lb/>2462
+          <lb/>WIGAND Johannes et Matheus JUDEX
+          <lb/>Mulhouse, P. Schmid, 1562
+          <lb/>Corpus Doctrinae.  Das ist, Die gantze leer vnsers Her)
+          <lb/>ren Jesu Christi, vnnd der Aposteln, von al-len vnd yeden
+          <lb/>Heuptartickeln der waaren Religion, Il ordendtlich nach dem
+          <lb/>Methodo, vnnd eigendtlich mit höchstem! fleisz vnd treuwen,
+          <lb/>ausz den Schrifften des neuwen Testamentsaleine,
+          <lb/>zusammen vnd verfaszet, vnnd ausz dem Latein ins Deutsch
+          <lb/>gebracht, Gott zu lob... vnnd allerley corruptelen vnd!
+          <lb/>irrthumen, alt vnnd neuw gründt-licher widerlegung.
+          <lb/>(Feuille de treffle.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

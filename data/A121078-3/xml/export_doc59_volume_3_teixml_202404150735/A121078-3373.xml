@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:12.688079+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3373.tif
+IMAGE WIDTH: 2390
+IMAGE HEIGHT: 3854
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>unter einem Baume, inmitten 2wei nackte Kinder. Wiederholt S. 35, 41 u. 48.
+          <lb/>S. 24 v. 34: drei Frauen, von denen die eine einen Eimer tragt; in
+          <lb/>der Mitte ein Brunnen, dessen Wasser sich in einen Eimer ergiesst.
+          <lb/>Bl. a?: ... Herren Carol, Marggrafen zù Ba- dern vnnd
+          <lb/>Hochberg, Landgrafen zû Susenberg... mei-nem gnä¬
+          <lb/>digen Her- ren... Zù Basel, den 20. Februarij im Jar
+          <lb/>Christi 1559. Johann Jacob Huggelin D.
+          <lb/>R100.626. Prov.: Baer e Co., Frankfurt a. M. 16.11.1881; 6M.
+          <lb/>BN Paris, Rés. Telc3, 100/8).
+          <lb/>1211
+          <lb/>S
+          <lb/>Son beilsamen
+          <lb/>Gãdern des Teũtschẽ lanõs
+          <lb/>Auß Den Berumptesten Ver beilsamen bũst
+          <lb/>Ver Arsney erfarnen zusame getragen/Our
+          <lb/>Hobannem Jacobum Auggelium/Ver
+          <lb/>Mruney Soctom aũ bafel.
+          <lb/>815
+          <lb/>(Zu Nr. 1211)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

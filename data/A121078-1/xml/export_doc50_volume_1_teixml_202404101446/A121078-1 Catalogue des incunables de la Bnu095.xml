@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:37.875601+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu095.tif
+IMAGE WIDTH: 2392
+IMAGE HEIGHT: 3844
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>MARTINUS POLONUS: Margarita decreti. Strasbourg, (impr.
+          <lb/>du Jordanus (— G. Husner)), 1er nov. 1486, in-fol.
+          <lb/>Hain 10843, Madsen 2682, Pellechet: Colmar 958, Proctor 607,
+          <lb/>Voullième: Berlin 2414.
+          <lb/>K 2536. Prov.: Don de la ville de Nördlingen, 1871. Rel, anc.
+          <lb/>302
+          <lb/>MARTINUS POLONUS: Margarita decreti, Strasbourg, (impr.
+          <lb/>du Jordanus (— G. Husner)), 13 juin 1489, in-fol.
+          <lb/>Hain 10845, Madsen 2683, Proctor 650, Voulliéme: Berlin
+          <lb/>2430.
+          <lb/>K 2536a. Prov.; inconnue. Rel. anc.
+          <lb/>303
+          <lb/>MARTINUS POLONUS: Margarita decreti. Strasbourg, Georges
+          <lb/>Husner), 24 déc. 1499, in-fol.
+          <lb/>Hain 10851, Pellechet; Colmar 959, Proctor 745, Voulliéme;
+          <lb/>Berlin 2529, 1.
+          <lb/>K 2538. Prov.: F. Butsch, Augsbourg, 12. X. 1883, 3 M. fol.
+          <lb/>a2a, en haut: «Carthusiae in Buxheim». Rel. anc.
+          <lb/>304
+          <lb/>MARTINUS POLONUS: Sermones de tempore et de sanctis.
+          <lb/>Strasbourg, (imprimeur du Jordanus (— G. Husner),
+          <lb/>1484, in-fol.
+          <lb/>Hain 10854, Madsen 2686, Pellechet: Colmar 960, Proctor 591,
+          <lb/>Voulliéme: Berlin 2402.
+          <lb/>K 2539. ProVs: F. Butsch, Augsbourg, 26. X. 1885, 12 M.
+          <lb/>Rel. anc.
+          <lb/>305
+          <lb/>MARTYROLOGIUM. Voir: Viola sanctorum.
+          <lb/>MATHEOLUS PERUSINUS : De memoria augenda. (Strasbourg,
+          <lb/>H. Knoblochtzer, vers 1480), in-4°.
+          <lb/>Schorbach &amp;amp; Spirgatis, Knoblochtzer N° 35.
+          <lb/>K 2552. Prov.: M. Spirgatis, Leipzig, 28. IV. 1894. Au haut du
+          <lb/>f. ala; «Editio ignota. v. P. IV. 160, N° 792.» Notes mss. 306
+          <lb/>MATHEOLUS PERUSINUS: De memoria augenda. Strasbourg,
+          <lb/>Mart. Schott, 12 octobre 1498, in-4°.
+          <lb/>Hain 10913; Schmidt II, 14; Walter: Sélestat 321.
+          <lb/>K 2553a. Prov.: O. Harrassowitz, Leipzig, 24. II. 1891, 25 M.
+          <lb/>307
+          <lb/>65
+          <lb/>R.6
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:35.104185+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2285.tif
+IMAGE WIDTH: 2298
+IMAGE HEIGHT: 3818
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>281
+          <lb/>ARGENTORATI Typis Antonij Bertrami. Anno CIO. ID.
+          <lb/>XXCVII. (Verso blanc.)
+          <lb/>A la fin: ARGENTORATI, typis Antonij Bertrami, Anno
+          <lb/>M. D. LXXXVII. (Verso blanc.)
+          <lb/>In-40, car. ital. et rom., 5 ff. non ch., 145 pages ch., 2 pages non
+          <lb/>ch. (Tableau généalogique des rois d’Espagne), titre courant, réclames,
+          <lb/>notes marginales, initiale or née P.
+          <lb/>fol. a 2a non ch.; Praefatio RODOLPHOI.. Pantaleon
+          <lb/>Candidus! Austriacus.
+          <lb/>fol. a 56: Vers latins de Henricus Fabricius, David Cythraeus,
+          <lb/>Joan. Sturz.
+          <lb/>R101062. Prov.: L. Rosenthal, Munich, 16/111 1887, 9 M. 30.
+          <lb/>Au titre: Candidus Austriacus Pantaleon pseud. f. Pantaleon Weiss.
+          <lb/>GPB: Berlin BN. Bonn BU, Breslau BU, Gœttinque BU,
+          <lb/>Halle BU.
+          <lb/>L’Amateur Fasc. 191 (mars 1938) N° 799, offre un exemplaire
+          <lb/>pour 140 frs.
+          <lb/>Biblographie de Candidus (Weiss) voir; Schottenloher N° 2598-2602.
+          <lb/>423
+          <lb/>CANOERSIN, Voir: CAOURSIN.
+          <lb/>CANTALYCIUS Johannes Baptista Strasbourg, M. Schürer, 1513.
+          <lb/>CANTALYCH, PINNENSIS ( ATQVE ADRIENSIS EPI SCOPI,
+          <lb/>DE PARTHE! NOPE BIS RECE PTA, GON SALVIA. LIBRI
+          <lb/>QVATTVOR.
+          <lb/>Ad lectorem. (un distique. Verso blanc.)
+          <lb/>A la fin: Argentorati, Ex ædibus Schürerianis.! Mense
+          <lb/>Junio, Anno M. D. XIII. REGNANTE IMPERATORE CAES.
+          <lb/>MAXIMILI. P. F. AUG., P. F. (Verso blane.)
+          <lb/>In-4°, car, rom, 68 ff. non ch., sign. A-K, titre courant, notes
+          <lb/>marginales, initiales d’attente.
+          <lb/>fol. 2a: CANTALYCIVS... imperatori! Gondisaluo Ferdi¬
+          <lb/>nan do... (3 pages.)
+          <lb/>fol. 36 : Cantalycii... epistola, ad... Cardinalem Borgiam.
+          <lb/>(une page et demie.)
+          <lb/>R 102.066. Prov.: Don de Fid. Butsch fils, antiquaire à Augs¬
+          <lb/>bourg 1871.
+          <lb/>2 ex. R101557. Prov.: Bibliothèque Ch. Schmidt.
+          <lb/>Schmidt VIII, N° 105.
+          <lb/>Brunet Is, col. 1549: Ce poëme en 4 livres, en l’honneur de Gon¬
+          <lb/>salve de Padoue [Neapoli 15061 a été réimprimé à Strasbourg 1513 en
+          <lb/>car. ronds.
+          <lb/>424
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

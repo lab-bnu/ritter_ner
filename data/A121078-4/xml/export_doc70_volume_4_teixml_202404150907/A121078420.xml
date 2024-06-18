@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:55.186303+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078420.tif
+IMAGE WIDTH: 2390
+IMAGE HEIGHT: 3838
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1306
+          <lb/>in son-der heyt geneygt, über die mass nütz-!] lich und
+          <lb/>hoch von nö-ten.
+          <lb/>Zu nutz und wolfart dem gemeinen man, und besserer
+          <lb/>underrichtung der jungen angonden schneidartzet! newlich
+          <lb/>an tag geben. Durch! M. Gualtherum H. Ryff, Agentinum (!),
+          <lb/>Me- dicum et Chirurgum.
+          <lb/>A la fin : Gedruckt zu Strasburg, in Hans Knob-] lochs
+          <lb/>druckerey, durch Georgen Mes-] serschmidt. Anno. (] 1. 5. 4. 3.
+          <lb/>In-4°, car. goth., 4 ff. non ch., LXII ff. ch., 3 ff. non ch., titre courant,
+          <lb/>réclames, notes marg.
+          <lb/>Au verso du titre : instruments de chirurgie ainsi qu’au corps de
+          <lb/>l’ouvrage, fol. Lb : Planche d’un corps humain, ayant sur les bras 2 enfants
+          <lb/>et sur la tête : un taureau et un bélier.
+          <lb/>fol. 2a non ch. : Dem... Chirurgo, Meister Rudolphen Weber, Schneidartzt
+          <lb/>in der loblichen statt Bern in Vchtland meinem... freünd unnd !! günder...
+          <lb/>— Datum Strassburg den XXiiij. Februarii. Anno. 1.5.4.3... M. Gual.
+          <lb/>H. Ryff. Argentinus, Medicus und Chirurgus. (préface 2 ff.)
+          <lb/>fol. 4a non ch. : gravure représentant la vessie et les parties génitales
+          <lb/>de l’homme; au-dessus : Warhafftige Contrafactur der Anatomi der
+          <lb/>blasen unnd!] harngeng, sampt den gefessen des samens, wie solche !l in
+          <lb/>mans personen gesehen und ge- Il staltet sind. La gravure est répétée
+          <lb/>fol. I1Ib.
+          <lb/>Au verso : les mêmes parties du corps de la femme.
+          <lb/>R. 101.518. Prov. : Bibl. Heitz, Strasbourg, 1871.
+          <lb/>2040
+          <lb/>RYFF Walther Herm.
+          <lb/>Strasbourg, Balth. Beck hér., 1551
+          <lb/>Die Kleiner Chirurgi(! M. Gualtheri H. Ryff.!Das ist der
+          <lb/>grund und kern gemeyner eyn-  leyttung der gantzen
+          <lb/>wundartznei... (6 lignes) durch heymliche griff, verborgne und
+          <lb/>bewerte stuck, bisz auff di- se zeit in Teûtscher spraach nit
+          <lb/>gelesen worden, für die jun gen angonden wundärtzt, in
+          <lb/>kürtze begriffen,und in sechs fürnäme theylUnder¬
+          <lb/>scheyden.Sampt gwisser unbetrüglicher prob, besichtigung
+          <lb/>und ! Cur der aussetzigen oder veldtsiechen.!! Auch wie man
+          <lb/>alle salben, pflaster und ól, künstlichen und artlichen be¬
+          <lb/>reytten soll, so von den erfarnesten berümpsten meystern
+          <lb/>gebraucht, auch in rechtgeschaffnen Apotecken bereyt
+          <lb/>werden. I1 M. D. LI. (Verso blanc.).
+          <lb/>A la fin : Getruckt zu Straszburg durch!] Balthassar
+          <lb/>Becken !! Erben.
+          <lb/>In-4°, car. goth., 4 ff. non ch., CXCVIII ff. ch., 9 ff. non ch. (table),
+          <lb/>titre courant, réclames, init. goth.
+          <lb/>fol. A 2a : non ch. Kurtze vorred zu dem günstigen... Leser, M. Gualtheri
+          <lb/>H. Ryff, Argentini medici. (Préface de 4 pp.)
+          <lb/>fol. A 4a non ch. gravure sur bois, homme nu, le torse ouvert, anatomie.
+          <lb/>(Verso blanc) de même fol. 21b; fol. 15b anatomie de la tête, fol. 18b,
+          <lb/>anatomie de l’œil, en outre quelques instruments de médecine.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:05.777603+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3067.tif
+IMAGE WIDTH: 2320
+IMAGE HEIGHT: 3842
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Auf der Rückseite des Titelbl.: ERASMVS ROTERODAMVS
+          <lb/>... principi Traiectensi Philippo a Burgundia. S. D.... —
+          <lb/>An. M. D. XIX. (3 S.)
+          <lb/>R1011932, Prov.: H. Kerler, Ulm, 26. XI.1883; 2 M. 50.
+          <lb/>Rest S. 58. Fehlt bei Schmidt.
+          <lb/>771
+          <lb/>ERASMUS: Querela pacis
+          <lb/>Strassburg, J. Knobloch, 1523
+          <lb/>QVERE- LA PACIS VNDI-VE GENTIVM] eiectae prosti¬
+          <lb/>gataeque AVCTORE ERASMO ROTERODAMO.
+          <lb/>Am Schluss: ARGENTINAE APVD IOANNEM  KNOBLOCHVM,
+          <lb/>MENSE JVLIO. ANNO) M. D. XXIII.
+          <lb/>80, Kursiv, 24 num. Bll., Kopftitel, Kustoden, Init. G, S; Titel¬
+          <lb/>einfassung. (Siche Nr. 327.)
+          <lb/>Bl. 2a: CLARISSIMO PRAESULI TRA IECTENSI PHILIPPO,
+          <lb/>ERASMUS ROTERO! DAMUS). S. D. (2 S.)
+          <lb/>*R100.940. Prov.: A. F. Butsch, Augsburg, 23. II. 1885. Hand¬
+          <lb/>schriftliche Notizen.
+          <lb/>GK: SB Berlin. Fehlt bei Schmidt.
+          <lb/>772
+          <lb/>ERASMUS : Testamentum Novum. Siche: TESTAMENTUM NO¬
+          <lb/>VUM. Strassburg, J. Knobloch, 1523.
+          <lb/>511
+          <lb/>ERASMUS : Das Vaterunser
+          <lb/>Strassburg, M. Flach, 1523
+          <lb/>Das Vater Un ser auszgelegt vnd geteylt in syeben
+          <lb/>teyl, noch! sveben tagen, durch De! syde- rium Eras¬
+          <lb/>mum von Ro terdam in La- tein, Newlich verteutscht
+          <lb/>jm iar Tusent fünff hundert drey vnd zwen-tzigsten.
+          <lb/>(Rückseite leer.)
+          <lb/>Am Schluss:... Gedruckt zu Straszburg durch Martin
+          <lb/>Flach vff! Mittwochen noch! sant Andres, jm! M. D. xxiij.
+          <lb/>(Rückseite leer.)
+          <lb/>80, Got., 20 unn. Bll., Sign. a-e, Titeleinfassung (Abbildung folgt
+          <lb/>Nr. 789).
+          <lb/>R100.47713, Prov.: Antiquariat Baer, Frankfurt a. M., 18. IV.
+          <lb/>1888. Handschr. Notizen. Auf der Vorderseite des Schutzbl. ein handschr.
+          <lb/>Verzeichnis der 20 Drucke, die der Sammelband enthält. Auf der Innen¬
+          <lb/>seite des Vorderdeckels: Dr. A. E. Umbreit.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

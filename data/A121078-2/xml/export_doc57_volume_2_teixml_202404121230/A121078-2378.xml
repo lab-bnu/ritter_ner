@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:37.628030+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2378.tif
+IMAGE WIDTH: 2370
+IMAGE HEIGHT: 3816
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>374
+          <lb/>A la fin: ARGENTORATI] EXCVDEBAT AN- TONIVS BER¬
+          <lb/>TRA- MVS. (Vignette.)
+          <lb/>In-80, car, rom. et ital., 4 ff. non ch., (Préface de l’auteur.) 481
+          <lb/>pages ch., titre courant, réclames, initiales ornées C, A.
+          <lb/>fol. 2a non ch.: Ap... PRINCIPEM LVDO-VICVM FRIDERI¬
+          <lb/>CVM, DVCEM Wirtembergensem... Christophori Coleri Fr.
+          <lb/>Praefatio... — Argentorati. (4 p.)
+          <lb/>Au milieu du titre: Gillot.
+          <lb/>R101055. Prov.: Heitz dt Mündel, Strasbourg, 27/IX. 1911; 5M.
+          <lb/>Kœnigsberg.
+          <lb/>BN Paris: F. 27555, GPB. BN Berlin, BU Bonn, Halle,
+          <lb/>Bibliographie de Coler: Schottenloher I, No 3046 - 3048 et No
+          <lb/>3776.
+          <lb/>559
+          <lb/>COLLATION, Voir: ZELL, Matthaeus, 1523.
+          <lb/>COLLENUCCIO Pandolfo
+          <lb/>Strasbourg, M. Schürer, 1511.
+          <lb/>PANDVLPHI COLLENVCH( PISAVRENSIS] APOLOGI QVATVOR.
+          <lb/>I. AGENORIA. II. MISOpENES.. III. ALITHIA.. IIII.
+          <lb/>BOMBARDA.HENCVLI ESTENSI FER RARIENSIVM DVCI
+          <lb/>DICATI.
+          <lb/>A la fin: Argentorati in aedibus Matthiae Schu-rerij
+          <lb/>An. M. D. XI.] REGNANTE IMP. CAES.] MAXIMILIANO P. F. IAVG.
+          <lb/>In-4°, car, rom., 32 ff. non ch., sign. A-G; titre courant, notes
+          <lb/>marginales aux 2 premières pages.
+          <lb/>Au verso du titre: BEATVS RHENANVS, IA COBO SPIEGEL
+          <lb/>SELE STATINO, CAESA-REAE MAIESTATIS AB EPISTOLIS
+          <lb/>S. D... — Ex Elephanto nostro in vrbe Selestatina. Calen¬
+          <lb/>dis Nouembrib. An. M. D.X.
+          <lb/>*R100.902. Prov.: Abbé Cromer, curé à Saverne, 29/VII. 1879,
+          <lb/>sans prix.
+          <lb/>BN Paris, Rés. Z. 1047. Proctor II, Sectio I. N0 10.195: Lon¬
+          <lb/>dres, British Museum; Schmidt VIII, N° 63: Ancienne Bibl. de Stras¬-
+          <lb/>bourg, Incun. No 1427 et BM Strasbourg. [NO 594); GPB. BN
+          <lb/>Berlin, B U Breslau, Munster.
+          <lb/>560
+          <lb/>COLLENUCCIO Pandolfo, De interpretatione simplicium quae
+          <lb/>sunt apud Plinium. Voir: BRUNFELS Otto, Novi Herbarii
+          <lb/>Tomus Il. Strasbourg, J. Schott, 1536. No 301.
+          <lb/>COLLENUCIUS Pandulphus. Voir. COLLENUCCIO Pandolfo.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

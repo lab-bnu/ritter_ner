@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:54.318446+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078393.tif
+IMAGE WIDTH: 2356
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Getruckt zu Straszburg, Durch Bernhart Jobin. Anno M. D. VHIC.
+          <lb/>(Verso blanc.)
+          <lb/>In-fol., car. goth., 4 ff. non ch., 106 pp. ch., titre courant, ré¬
+          <lb/>clames, init. goth., bandes ornem,, titre rouge et noir, de nombreuses
+          <lb/>grav. de chevaux, mors, etc.
+          <lb/>fol. 2a non ch.: (Bande d’ornement) Den... Herrn Meister! und
+          <lb/>Rhat der löblichen, des heiligen Reichs Freystatt Strasz- burg, meinen
+          <lb/>gnädigen gebietenden Herren. (2 feuilles de lierre)... — Geben zu
+          <lb/>Straszburg, den 6. Junij Anno 1593. Caspar Reuschell. (Bande d’orne¬
+          <lb/>ment; Préface de 3 pp.)
+          <lb/>fol. 3b non ch. Grav. d’une demie page:¿Wappen des heiligen
+          <lb/>Römi- schen Reichs Frey- statt Straszburg&amp;quot;.
+          <lb/>fol. 4b non ch.: (Bande ornem.) An den Leser. (48 vers, les pre¬
+          <lb/>mières lettres des vers donnent les mots suivants: Hippiatria Caspar
+          <lb/>Reislein Von Hagenaw Altstallmeister.
+          <lb/>R10396 Prov.: K. Th. Voelker, Francfort s. M. ( Catal. 68,
+          <lb/>n° 903), I1-VI. 1879, 20M.
+          <lb/>1995
+          <lb/>REUSCHEL. Caspar
+          <lb/>Strasbourg. R. Jobin hér. 1599
+          <lb/>HIPPOPRONIA! Gründtlicher! unnd eigentlicher! Be¬
+          <lb/>richt, inn zwey Bûcher verfasset,! Erstlichen von Art und
+          <lb/>Eygenschafft der Pferde, Wie die auff allerhand und vil¬
+          <lb/>faltige Manieren und Weisen zu zeumen unnd abzurichten,
+          <lb/>mit darzu gehöriger Mundstucken und Stangen, uff und
+          <lb/>abrisse und andern künstlichen Figuren vorgebildt: So¬
+          <lb/>dann fürs ander von derselben zufäll und kranckheiten,
+          <lb/>auch bewehrter Mittel, Curation und heilsamen Artz¬
+          <lb/>neyen, gegründete Beschreibung.
+          <lb/>Alles durch langwirige erfahrung, fleissige erlernung unnd! stäte
+          <lb/>ubung, an kays: Chur und Fürst: Gräf: und herrlichen Höfen, auch an¬
+          <lb/>derer Herrschafft diensten, observirt, erlernet und mit sonderm fleisz und
+          <lb/>trewen auffs kür- tzest zusammen gebracht, und gemeinem nutz zu
+          <lb/>gutem vor Jahren in truck verfertigt:!Durch den Mannhafften, er¬
+          <lb/>fahrnen und wolgeübten Caspar Reuscheln, [ des Heil. Reichs Frey Statt
+          <lb/>Straszburg alten Stallmeistern, und jetziger zeit Reuterhauptmann.
+          <lb/>Jetzt aber auffs new durch den Authoren selbst ubersehen, und
+          <lb/>allerhand nohtwen- digkeiten gemehret und verbessert...
+          <lb/>Marque typ. de B. Jobin. (H. è B., planche XXXVII, nO 7.)
+          <lb/>Au-dessous: Getruckt zu Straszburg, durch B. Jobins (seligen)
+          <lb/>Erben. Anno M. D. XCIX. (Verso blanc.)
+          <lb/>In-fol., car. goth. 4 ff. non ch., 151 pp. ch., titre courant, réclames,
+          <lb/>grandes init., bandes ornem.
+          <lb/>fol. 2a non ch.:... Herrn Meister! und Rat der löblichen, des
+          <lb/>heiligen Reichs Freystatt Strasz- burg, meinen gnädigen gebietenden
+          <lb/>Herrn. (2 feuilles de lierre).... — Geben zu Straszburg den 23. De¬
+          <lb/>cembris Anno 1598... Caspar Reuschell. (Préface, 3 pages.)
+          <lb/>1279
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

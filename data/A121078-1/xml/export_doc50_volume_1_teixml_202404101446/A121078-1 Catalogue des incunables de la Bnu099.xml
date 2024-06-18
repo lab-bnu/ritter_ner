@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:37.935834+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu099.tif
+IMAGE WIDTH: 2396
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>MISSALE WARMIENSE, Strasbourg, Fréd. Ruch de Dumbach,
+          <lb/>1497, in-fol. (Incómplet.)
+          <lb/>Copinger 4266, Schmidt IV, p. 2, N° 2*, Schreiber 4774.
+          <lb/>Schramm, Bilderschmuck XX, grav. N° 2084.
+          <lb/>K 2607. Prov.: Librairie Rosenthal, Munich, 20. VIII. 1887,
+          <lb/>280 M. Dernier f. blanc manque, 3 ff. ont été remplacés par
+          <lb/>des facsimilés. Rel. anc.
+          <lb/>325
+          <lb/>MODUS LEGENDI ABREVIATURAS. (Strasbourg, impr. R.
+          <lb/>(— Ad. Rusch), s. d.), in-fol. (Incomplet.)
+          <lb/>Hain 11480, Pellechet: Colmar 992, Proctor 250, Voulliéme:
+          <lb/>Berlin 2122.
+          <lb/>K2617. Prov.: Don de la B U de Goettingue, 1872. Cachet de
+          <lb/>cette Bibliothèque au verso du 1er f. Notes mss. Rel. anc.
+          <lb/>326
+          <lb/>MODUS LEGENDI ABREVIATURAS. Strasbourg, impr. du Jor¬
+          <lb/>danus (— G. Husner)), 9 août 1490, in-fol.
+          <lb/>Hain 11485, Madsen 2796, Proctor 655, Voulliéme: Berlin
+          <lb/>2437.
+          <lb/>K 2619. Prov.: J. Windprecht, Augsbourg, 9. I. 1879. Rel. anc.
+          <lb/>2e ex. K 3561, 2. Prov.: Don de la ville de Heilbronn, 1871.
+          <lb/>A la suite de Thomas de Argentina, Comment. 1490.
+          <lb/>3e ex. K 2536a, 2. Prov. inconnue. A la suite de Martinus
+          <lb/>Polonus, Margarita decreti, 1489, K 2536a, 1.
+          <lb/>327
+          <lb/>MODUS LEGENDI ABREVIATURAS. Strasbourg, (impr. du Jor¬
+          <lb/>danus (— G. Husner)), 21 juillet 1494, in-fol.
+          <lb/>Hain 11487, Madsen 2799, Pellechet: Colmar 994, Proctor 667,
+          <lb/>Voulliéme: Berlin 2453.
+          <lb/>K 2621. Prov.: Don de Fid. Butsch fils, Augsbourg, 9. I. 1879.
+          <lb/>Rel. anc..
+          <lb/>328
+          <lb/>MODUS LEGENDI ABREVIATURAS. Strasbourg, (G. Husner),
+          <lb/>20-30 août 1499, in-fol.
+          <lb/>Hain 11488, Proctor 778, Schmidt VI, 72 l’attribue à Martin
+          <lb/>Flach, Voulliéme; Berlin 2558; Pellechet: Colmar 994bis.
+          <lb/>Madsen 2802 met imprimeur du Jordanus (— G. Husner);
+          <lb/>d’autres l’attribuent à W. Schaffener.
+          <lb/>K 2622. Prov.: Don du prof. Charles Witte, Halle, 1871. Au
+          <lb/>verso du titre cachet rond: Ex Bibl. Univ. Viad. Vrat. Rel.
+          <lb/>anc.
+          <lb/>329
+          <lb/>69
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

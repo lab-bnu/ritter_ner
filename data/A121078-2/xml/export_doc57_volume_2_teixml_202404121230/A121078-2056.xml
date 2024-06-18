@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:27.832883+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2056.tif
+IMAGE WIDTH: 2356
+IMAGE HEIGHT: 3822
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>52
+          <lb/>IN LIBERA ARGENTINA. (Verso blanc.)
+          <lb/>A la fin: Argentorati, ex Aedibus Schurerianis, Mense
+          <lb/>De cembri. Anno a Christo nato. M. D. XV.
+          <lb/>REGNANTE IMP. CAES. MAXI.PIO FOELICI AvG.
+          <lb/>In-40, car, rom., 35 ff. non ch., sign. A-E, de nombreuses petites
+          <lb/>initiales ornées, titre encadré: au haut de chacune des deux bordures
+          <lb/>latérales un fou sur une colonne, au bas un écusson vide tenu par deux
+          <lb/>génies (H de B, Planche XIII, No 6, mais sans les lettres M. S. dans
+          <lb/>l’écusson.) Sur les 2 premiers ff. qui ne portent pas de signature:
+          <lb/>AESOPI VITA BREVISSIME, ex Maximo Planude.
+          <lb/>Fol. 3b : Martinus Dorpius Ioanni leupe. Iacobo papae! &amp;amp;
+          <lb/>Ioanni Niniuitae eruditissimis in Flan dria ludi magistris.
+          <lb/>Salutem.... Louanii, ex nominatissimo lilianorum gymna
+          <lb/>sio ad. 10. Kalendas decembres.
+          <lb/>fol. 4a: Guielmus canonicus diui Aurelii Augustini Flo
+          <lb/>rentio suo Baroni Iselsteyno. S. D. Au verso: Petri Egidii
+          <lb/>Antuerpiani Endecasvl- labon, ad Lectores, (21 vers latins)
+          <lb/>*R100.035. Prov.: L. Rosenthal, Munich, 86/VI. 1891; 12 M.
+          <lb/>Schmidt VIII, No 171: Bibl, cantonale Zürich et Bibl. Vadiana
+          <lb/>93
+          <lb/>S. Gall; Walter, N° 1310: B M. Sélestat.
+          <lb/>Strasbourg, M. Schürer, 1516.
+          <lb/>AESOPUS
+          <lb/>FABVLARVM QVAE hoc libro continentur in- terpretes
+          <lb/>atque autho-res Sunt hi
+          <lb/>Guilielmus Goudanus! Hadrianus Barlandus! Erasmus
+          <lb/>Roterodamus, Aulus Gellius Angelus Politianus! Petrus
+          <lb/>Crinitus! loannes Antonius Campanus Plinius Secundus
+          <lb/>Nouocomensis Aesopi Vita ex Max. Pla nude excerpta.
+          <lb/>IN LIBERA ARGENTINA apud Matthiam Schurerium.
+          <lb/>A la fin: Argentorati, ex Aedibus Schurerianis, Mense
+          <lb/>Iu- nio. Anno a Christo nato. M. D. XVI.
+          <lb/>REGNANTE IMP. CAES. MAXI. PIO FOELICI AVG. P. P.
+          <lb/>In-40, car, rom., 36 ff. non ch., dont le dernier blanc, sign. A-E,
+          <lb/>titre encadré d’une seule pièce: en haut debout sur les colonnes latérales
+          <lb/>2 fous qui se jettent un grelot, en bas 2 génies tenant un écusson avec
+          <lb/>les lettres M. S.
+          <lb/>Au verso du titre: Ex PHILOSTRATI IMAGINIBVS.
+          <lb/>fol. 2 et 3a: AESOPI VITA BREVISSIME! ex Maximo Pla¬
+          <lb/>nude.
+          <lb/>fol. 3b: Martinus Dorpius loanni leupe. Iacobo papae
+          <lb/>&amp;amp; Ioanni Niniuitae, eruditissimis in Flan! dria ludi magis¬
+          <lb/>tris.... — Louanij, ex nominatissimo lilianorum gymna sio, ad.
+          <lb/>10. kal. decembres.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

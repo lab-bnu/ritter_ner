@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:48.852211+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5007.tif
+IMAGE WIDTH: 2420
+IMAGE HEIGHT: 3894
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1315
+          <lb/>Au verso du titre : 6 dist. latins, au-dessus les lettres G. B. C.
+          <lb/>fol. 22 et 3a non ch. comme dans les éditions précédentes.
+          <lb/>R. 10.028 (2). Don de l’antiquaire Fidelis Butsch, Augsbourg 1871.
+          <lb/>Schmidt VIII, n° 237; Baer, Francfort-s.-M., Catalogue 500 (1907), n° 884;
+          <lb/>40 M. : « Die reizvolle Titelbordüre mit tanzenden und spielenden Kindern,
+          <lb/>schon in der Art Holbeins aufgefasst, ist GZ 1511 bezeichnet. Nagler III
+          <lb/>151, 493, der das Buch selbst nicht gesehen hat, hält den Monogrammisten
+          <lb/>für Gabriel Zehender von Basel. Das sehr schöne Druckerzeichen scheint
+          <lb/>von derselben Hand zu sein».
+          <lb/>2049
+          <lb/>SABELLICUS Marcus Antonius Coccius
+          <lb/>Strasbourg, J. Cammerlander, 1535
+          <lb/>Exempel-buch Marci An-! thonij Sabellici von wun-!
+          <lb/>derbarlichen Geschichten, Und gleich- sam eyn zeyger aller
+          <lb/>Historien, der Juden, Christen und Heyden, die sich von je
+          <lb/>wel!] ten her begeben, lustig auch nützlich der jetzigen
+          <lb/>Welt zu lesen.
+          <lb/>Durch M. Leonard Brunner Predicant zu Wormbs new
+          <lb/>verteutscht.
+          <lb/>Zu Straszburg durch Jacob Cammerlan-dern von Mentz
+          <lb/>getruckt. Anno M. D. XXXV. (Verso blanc.).
+          <lb/>A la fin : Marque typographique de J. Cammerlander.
+          <lb/>(H. &amp;amp; B., Planche XXIV, No I. Silvestre No 816.)
+          <lb/>In-fol., car. goth., 4 ff. non ch., CVI ff. ch., titre courant, réclames,
+          <lb/>notes marg., init. goth.
+          <lb/>fol. 2a non ch. : Den... Weisen, Hans Jünglern, der keyserlichen Freistatt
+          <lb/>1! Wormbs jetzigen Stättmeyster, seinem lieben gefat-  tern, Auch.
+          <lb/>Petern von Mosz alten Stättmeyster... Leonhart brunner Pre-[Idiger zu
+          <lb/>Wormbs... — Datum Wormbs am xxiiij. tag des Augstmonats!! Anno
+          <lb/>M. D. XXXV.
+          <lb/>fol. 3a non ch. : Register, 2 col.
+          <lb/>Au verso : Vorred zum Leser.
+          <lb/>R. 10.229. Prov. : Trübner, Strasbourg, 17/X, 1884; 18 M. 2050
+          <lb/>SABINUS Franciscus Floridus. Voir: FLORIDUS.
+          <lb/>SABINUS Georgius
+          <lb/>Strasbourg, Crato Mylius, 1544
+          <lb/>Georgii (] Sabini Bran- deburgensis Poëmata.A
+          <lb/>authore recens aucta &amp;amp; recognita.
+          <lb/>Marque typ. de Cr. Mylius. (H. &amp;amp; B., planche XXVII, No 5;
+          <lb/>Silvestre, N° 1264.)
+          <lb/>M. D. XLIIII. 11 Cum Gratia &amp;amp; Priuilegio.
+          <lb/>A la fin : Argentorati apud!! Cratonem Mylium, an.
+          <lb/>M. D. XLIIII. Men- I se Maio. (Verso blanc.)
+          <lb/>In-8°, car. ital. et grecs, 167 ff. non ch., sign. A-X, titre courant, réclames
+          <lb/>init. ornées.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

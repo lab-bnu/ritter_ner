@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:27.440649+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2045.tif
+IMAGE WIDTH: 2362
+IMAGE HEIGHT: 3826
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>41
+          <lb/>réclames, notes marg., init. à fig. 9, C.
+          <lb/>in-80, car. rom, et ital., 348 pp. ch., 4 pp. non ch., titre courant,
+          <lb/>Au verso du titre, 4 distiques grecs.
+          <lb/>p. 3: GVILIELMUS XYLAN- DER AVGVSTANVS, ALBERTO !
+          <lb/>à STETEN Georgij V. C. F. adolescen! ti optimae indolis atque
+          <lb/>spei, S. P. D.... — Heidelbergae, inter grauissi¬mas
+          <lb/>occupationes, a. d. V. Kal. Sextil. Anno repraesentati
+          <lb/>Seruatoris M. D. LXVIII. (Epistola dedicatoria, 4 pp. en car. ital.)
+          <lb/>R 101274. Prov.: Don de la BU Goettingen, 1872.
+          <lb/>GPB V, 4367: Berlin, München, Göttingen.
+          <lb/>69
+          <lb/>APOLLINARIS Q. fuintus) Pseudonyme pour: RYFF Walter
+          <lb/>Hermann.
+          <lb/>APOLLONIUS Dyscolus, Historiae mirabiles, Xylandro interprete.
+          <lb/>Voir: Antoninus, De vita sua lib. XII. Strasbourg, L. Zetz¬
+          <lb/>ner, 1590, p. 105–118. N° 69.
+          <lb/>GPB V, 7802.
+          <lb/>70
+          <lb/>ARATOR DIACONUS
+          <lb/>Strasbourg, J. Grüninger, 1507.
+          <lb/>ARATOR POETA CHRISTIA  NISSIMUS IN ACTVS] APOSTO¬
+          <lb/>LORVM.
+          <lb/>Marque typ. de J. Grüninger. (H&amp;amp; B Planche I, N° 3.)
+          <lb/>in-89, car. goth., 40 ff. non ch., sign. A-E, titre courant, initiales
+          <lb/>d’attente.
+          <lb/>Au verso du titre: MAXIMO ARGENTINEN. AN! tistiti et
+          <lb/>Alsatie Lantgrauio Domino Vuil! helmo... Joannes Adelphus
+          <lb/>Mulingus Argentin. sese commendat. (3 distiques.)
+          <lb/>fol. A 2a: Prohemivm!... Vuilhelmo Argentin, ecclesiae
+          <lb/>praesuli di gnissimo: Alsacieque Lantgrauio... Vuilhelmus
+          <lb/>Seszler seipsum commendat. (3 p.)
+          <lb/>Fol. E7a: CONCLVSIO D. JOANNES TRITTENHEIM. Abbas
+          <lb/>Spanheimen, in libro de Ecclesiasticis! scriptoribus... (1p.)
+          <lb/>Au verso:... Georgio Molensteiner! summe Argentin.
+          <lb/>Et Hieronimo de Geb vuiler Sletstatine scolarum modera
+          <lb/>toribus Joannes Adelphus Mu lingus Argentin, pijs olim
+          <lb/>suis preceptoribus S. P. D. ... — Ex Treueri Kalendas
+          <lb/>Nouem! bris. Anno ad Romanos calculos septimo supra
+          <lb/>Quindecentesimum. (2 pp.) Verso blanc.
+          <lb/>R. 100.062 (4). Prov.: Librairie Lippert, Halle, 16/l. 1888; 5M.
+          <lb/>Notes mss. Au bas du titre: «Daniel Otto D! 1623.»
+          <lb/>Schmidt I No 82.
+          <lb/>71
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

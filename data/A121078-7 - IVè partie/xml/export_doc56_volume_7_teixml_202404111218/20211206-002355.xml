@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:10.928212+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002355.tif
+IMAGE WIDTH: 2490
+IMAGE HEIGHT: 3976
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Burg 286 : « éd. en tous points semblable à celle de 1523».
+          <lb/>Le texte est plus long. Au n° 287 Burg mentionne une 3e éd.
+          <lb/>semblable à celle de 1524 et Ritter, Rép. n° 1507 une de
+          <lb/>Secer de 1523.
+          <lb/>2617
+          <lb/>MELANCHTHON, Phil. (Annotationes in Matthaeum) : In
+          <lb/>Evangelium Matthaei annotationes inque Historiam
+          <lb/>passionis Domini. — (Strasbourg, Jean Herwagen)
+          <lb/>1523, in-8°.
+          <lb/>Bibl. St. Guillaume, Strasbourg. [Ritter, B N Strasbourg
+          <lb/>R100.445: Rép. n° 1516, en plus une éd. Herwagen de juillet
+          <lb/>15251.
+          <lb/>2618
+          <lb/>MELANCHTHON, Phil. (Annotationes in Matthaeum): In
+          <lb/>Evangelium Matthaei, inque passionem Domini Annota¬
+          <lb/>tiones. Item in eundem Evangelistam et in lucam
+          <lb/>eruditi cuiusdam brevia quidem, sed docta Scholia... —
+          <lb/>(Haguenau, J. Secer 1526), in-8°.
+          <lb/>Burg, n° 295. (Voir aussi Ritter, Rép. n° 1531 : Secer 1531).
+          <lb/>2619
+          <lb/>MELANCHTHON, Phil. (Annotationes in S. Paulum). Annota¬
+          <lb/>tiones in epistolam Pauli ad Romanos et ad Corinthios
+          <lb/>duas. — Strasbourg, Jean Herwagen, janvier et mai
+          <lb/>1523.
+          <lb/>Nachdruck von Stuchs, Nürnberg 23. Oktober 1522.
+          <lb/>[Ritter, Rép. n° 1509 et une éd. de Herwagen septembre 1525,
+          <lb/>Rép. n° 1520).
+          <lb/>2620
+          <lb/>MELANCHTHON (De artibus lib.) : De artibus liberalibus
+          <lb/>oratio. — Haguenau, Thomas Anshelm, juillet 1517,
+          <lb/>in-40.
+          <lb/>Walter, n° 1850; Burg, n° 276.
+          <lb/>2621
+          <lb/>MELANCHTHON (Wider die Bauernschaft) : Eyn schrifft
+          <lb/>Philippi Melanchthoni wider den artickel der Baurs¬
+          <lb/>schafft... — (Strasbourg, Wolfg. Köpfel 1525), in-4°.
+          <lb/>(Encadrement de Köpfell.
+          <lb/>Bibl. St. Guillaume, Strasbourg.
+          <lb/>2622
+          <lb/>353
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

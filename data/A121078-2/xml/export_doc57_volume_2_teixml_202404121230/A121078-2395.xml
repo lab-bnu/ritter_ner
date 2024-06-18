@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:38.095415+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2395.tif
+IMAGE WIDTH: 2374
+IMAGE HEIGHT: 3822
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>COPHON
+          <lb/>Haguenau, V. Kobian, 1532.
+          <lb/>NNSNIS MEDICICophonis Tracta-tus, de arte
+          <lb/>Meden di, omnibus morbo rum curam auspica turis,
+          <lb/>apprime ne! cessarius.
+          <lb/>Excusum Haganoae, Anno 1532. Mense Septem.
+          <lb/>(Feuille de treffle.)
+          <lb/>A la fin: Haganoae per Valentinum Kobian impres¬
+          <lb/>sum. An- no M. D. XXXII.(2 feuilles de lierre).
+          <lb/>In-8°, car. rom,, 44 ff. non ch. dont le dernier blanc, sign. A-F,
+          <lb/>titre courant, réclames, petites initiales ornées, titre encadré de 4 pièees
+          <lb/>d’ornement juxta-posées.
+          <lb/>Au verso du titre: (feuille de lierre) DE LIBRI ] VTILITATE. (Ip.)
+          <lb/>R 102.209.(3) Don des héritiers du Dr A. Tiemann, Bielefeld, 1876.
+          <lb/>A l&amp;#x27;extérieur du 1er plat, en haut: «I A», en bas: «1566». Au
+          <lb/>recto du f. de garde: Fridericus David Pohlmann, 1778.
+          <lb/>GPB: BN Berlin, BU Kœnigsberg.
+          <lb/>586
+          <lb/>CORDUS Valerius Eberwein
+          <lb/>Strasbourg, J. Rihel, 1561.
+          <lb/>IN HOC VOLVMINE CONTINENTVR VALERI CORDI SI¬
+          <lb/>mesusij Annotationes in Pedacij Dioscoridis Anazarbei de
+          <lb/>Medica materia libros V. longè aliae quàm an- tè hoc
+          <lb/>sunt euulgatae.
+          <lb/>EIVSDEM VAL. CORDI HISTORIAE STIRPIVM LIB. IIII. POST¬
+          <lb/>humi, nunc primùm in lucem editi, adiectis etiam Stirpium
+          <lb/>iconibus; &amp;amp; breuissimis Annotatiunculis.
+          <lb/>SYLVA, qua rerum fossilium in Germania plurimarum,
+          <lb/>Metallorum, Lapidum &amp;amp; Stirpium aliquot rario-rum no¬
+          <lb/>titiam breuissimè persequitur, nunquam hactenus uisa.
+          <lb/>DE ARTIFICIOSIS extractionibus Liber. COMPOSITIONES
+          <lb/>medicinales aliquot, non uulgares.
+          <lb/>HIS ACCEDVNT STOCC-HORNII ET NESSI IN BERNATIVM
+          <lb/>HELVETIORVM DI-tione montium, &amp;amp; nascentium in eis
+          <lb/>Stirpium, descriptio Benedicti Aretij, Graece &amp;amp; Hebraicae
+          <lb/>linguarum in Schola Bernensi professoris clarissimi.
+          <lb/>ITEM CONRADI GESNERI DE HORTIS GERMANIAE LIBER
+          <lb/>RECENS, unà cum descriptione Tulipae Turcarum, Cha¬
+          <lb/>maecerasi montani, Chamaemespili, Chamaenerij, &amp;amp; Coni¬
+          <lb/>zoidis. Omnia summo studio atque industria doctiss, atque
+          <lb/>excellentiss. uiri CONR. GES-[NERI medici Tigurini collecta, &amp;amp;
+          <lb/>praefationibus illustrata.
+          <lb/>391
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

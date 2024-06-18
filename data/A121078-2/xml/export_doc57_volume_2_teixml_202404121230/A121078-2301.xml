@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:35.555656+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2301.tif
+IMAGE WIDTH: 2304
+IMAGE HEIGHT: 3820
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Decano M. Theophilo Golio, &amp;amp; ordinario Ethices Profes¬
+          <lb/>sore inclytae! Academiae Argentinensis 6 die lunij, Anno
+          <lb/>calculi 1583. (Vignette).
+          <lb/>ARGENTORATI] Excudebat Nicolaus Wyriot, Anno
+          <lb/>M. D. LXXXIII. (Verso blanc.)
+          <lb/>In-4°, car. rom, 4 ff. non ch., sign. A., réclames.
+          <lb/>Poésies de M. Paulus Crusius Molendinus Hennenbergiacus, Jo¬
+          <lb/>hannes Turocenus Pannonius, Petrus Friderus Mindensis, Johannes
+          <lb/>Fridericus Gernandus Wetteranus, Johannes Rulandus Aquisgranensis.
+          <lb/>R 102.288.(3) Prov.: Bibliothèque Ch. Schmidt, Strasbourg.
+          <lb/>450
+          <lb/>CARMINA Gratulatoria
+          <lb/>Strasbourg, Christ. Mylius hér,, 1583.
+          <lb/>Christophoro Vualdis REVERENDI ATQVE CLARISS.
+          <lb/>VIRI (PIAE MEMORIAE) D. M. AEGIDHI WALDIS FILIO, DE PRI¬
+          <lb/>ma laurea, quae ei in inclyta Academia Argento-ratensi,
+          <lb/>à Spectabili &amp;amp; Clariss. D. Deca-no, M. Theophilo Golio,
+          <lb/>decerne- batur die 6. Iunij, Anno! M. D. LXXXIII. Gra¬
+          <lb/>tulantur Amici.
+          <lb/>3 distiques de Joan. Turocenus.
+          <lb/>Marque typ. de Christ. Mylius (H. 8 B., Planche XXVIII, NO 1.)
+          <lb/>ARGENTORATI APVD HAE- redes Christiani Mylij.
+          <lb/>In-4°, car. ital., 4 ff. non ch., sign. A, bandes d’ornement, initiale
+          <lb/>ornée N.
+          <lb/>Poésies de Iacobus Diel Landoënsis, Cosmas Vakius Flenspurgen¬
+          <lb/>sis, Fridericus Apelles Beijreuthensis, Petrus Friderus Mindensis et
+          <lb/>Christophorus Fürgang Olsnicensis Nariscus.
+          <lb/>R102.288.(4) Prop.: Bibliothèque Ch. Schmidt, Strasbourg.
+          <lb/>451
+          <lb/>297
+          <lb/>CARMINA GRATULATORIA
+          <lb/>Strasbourg, Nic. Wyriot, 1583.
+          <lb/>Carmina gratulatoria IHONOREM PII &amp;amp; eruditi
+          <lb/>Iuuenis Iohannis Ri- gelij Meiningensis Hennenbergiaci,
+          <lb/>cùm ei prima! Laurea in celeberrima Argentinensium Aca¬
+          <lb/>demia: à Clarissimo viro M. Theophilo Golio, Decano,
+          <lb/>decerneretur VI. die Iunij. Scripta ab Amicis. (Vignette).
+          <lb/>ARGENTORATIExcudebat Nicolaus Wyriot. Anno
+          <lb/>M. D. LXXXIII.
+          <lb/>In-4°, car. ital. et grecs, 4 ff. non ch., sign. A, réclames.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

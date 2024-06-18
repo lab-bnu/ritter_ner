@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:38.954382+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu136.tif
+IMAGE WIDTH: 2430
+IMAGE HEIGHT: 3858
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1497. 13. 11.
+          <lb/>Summenhart Conr.: De decimis, 444.
+          <lb/>1497. 23. 11.
+          <lb/>Valescus de Tarenta: De epidemia et peste, 473.
+          <lb/>1498. 22. 1.
+          <lb/>Michael de Hungaria: Sermones dominicales. 318.
+          <lb/>1498. 16. 2.
+          <lb/>Guilelmus Parisiensis: Super passione Christi. 214.
+          <lb/>1498. 22. 3.
+          <lb/>Alexander de Villa Dei: Doctrinale. 3a et 4a pars.
+          <lb/>19.
+          <lb/>1498. 2. 5.
+          <lb/>Pelbartus: Sermones Coronae B. Virginis. 378.
+          <lb/>1498. 27. 7.
+          <lb/>Pelbartus: Sermones Pommerii. 372.
+          <lb/>1498. 20. 8.
+          <lb/>Lochmeyer Mich.: Parochiale. 285.
+          <lb/>1499. 20. 2.
+          <lb/>Pelbartus: Pars aestivalis sermonum Pommerii.
+          <lb/>375.
+          <lb/>1499. 20. 2.
+          <lb/>Pelbartus: Sermones Pommerii: 373.
+          <lb/>1499. 11.5.
+          <lb/>Sünzel Frid.: Collecta in VIII libros Physicorum
+          <lb/>Aristotelis. 445.
+          <lb/>1499. 14. 7.
+          <lb/>Michael de Hungaria: Sermones de sanctis. 324.
+          <lb/>1499. 28. 9.
+          <lb/>Michael de Hungaria: Sermones dominicales. 319.
+          <lb/>1499. 10. 11.
+          <lb/>Pelbartus: Sermones quadragesimales Pommerii.
+          <lb/>376.
+          <lb/>1500.
+          <lb/>Bernardinus de Bustis: Rosarium sermonum. 74.
+          <lb/>1500.
+          <lb/>Lochmeyer Mich.: Sermones de sanctis. 287.
+          <lb/>1500. 22. 2.
+          <lb/>Pelbartus: Sermones Pommerii. 374.
+          <lb/>1500. 2. 3.
+          <lb/>Exercitium puerorum grammaticale, 165.
+          <lb/>1500. 11. 4.
+          <lb/>1500. 10. 7.
+          <lb/>Acta Constantiensis concilii. 3.
+          <lb/>Pelbartus: Sermones quadragesimales Pommerii.
+          <lb/>377.
+          <lb/>1500. 13. 10.
+          <lb/>Summenhart Conr.: De contractibus. 443.
+          <lb/>STRASBOURG
+          <lb/>(Imprimeur du) Henricus ARIMINENSIS
+          <lb/>[vers 14691.
+          <lb/>Thomas de Aquino: de veritate fidei catholicae.
+          <lb/>453.
+          <lb/>[avant 14721.
+          <lb/>Henricus Ariminensis: De 4 virtutibus cardinali¬
+          <lb/>bus. 217.
+          <lb/>(avant 1473).
+          <lb/>Caracciolus : De poenitentia. 121.
+          <lb/>[vers 1473/4).
+          <lb/>Bonaventura: Breviloquium. 104.
+          <lb/>[pas après
+          <lb/>le 9. V. 1474). Astesanus: Summa de casibus conscientiae. 44a.
+          <lb/>[pas après 1474). Augustinus S.: De Trinitate. 60.
+          <lb/>(pas après 1474l. Bernardinus Senensis: De contractibus et usu¬
+          <lb/>ris. 75.
+          <lb/>[vers 1475).
+          <lb/>[vers 14751.
+          <lb/>Auerbach: Summa de sacramentis, 46.
+          <lb/>Petrus Comestor: Historia scholastica. 384.
+          <lb/>[vers 14761.
+          <lb/>Albertanus Causidicus: De doctrina dicendi et
+          <lb/>tacendi. 6.
+          <lb/>[vers 14761.
+          <lb/>Augustinus (Pseudo): Prolocutionis liber. 57.
+          <lb/>(vers 1476/8). Chaimis Barth: Interrogatorium. 130.
+          <lb/>106
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:28.126854+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2061.tif
+IMAGE WIDTH: 2354
+IMAGE HEIGHT: 3822
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>57
+          <lb/>ARGENTINAE IN AEDI] BVS KNOBLOVCHII ANNO M. D.
+          <lb/>XXII.
+          <lb/>initiales ornées A, G, P, V; titre encadré. (H&amp;amp; B, Planche X, No 5.)
+          <lb/>In-80, car. ital., 15 ff. non ch., 103 ff. ch., titre courant, réclames,
+          <lb/>Verso du titre, Index, Aesopi Vita etc. comme dans l’édition 1591.
+          <lb/>*RIO1.268. Prov. : Rosenthal, Munich, 1IV. 1885; 10M.
+          <lb/>aurait 18 ff. non ch.
+          <lb/>D’après Schmidt, VII, N° 253 l’exemplaire de la B. N. de Mayence,
+          <lb/>99
+          <lb/>AESOPUS
+          <lb/>Strasbourg, J. Knobloch, 1593.
+          <lb/>FABVLARVM QVAE HOC libro continentur interpretes,
+          <lb/>atque authores sunt etc. (Comme dans l’édition de Knobloch,
+          <lb/>1521.)
+          <lb/>A la fin: ARGENTORATI IOHANNES CNOBLOCHVS ExCV¬
+          <lb/>DEBAT, CALENDIS DECEM-BRIBVS. ANNO M. D. XXIII.
+          <lb/>In-8°, car, ital., 13 ff. non ch., 90 ff. ch.; titre courant, réclames,
+          <lb/>initiales à fig. A, G, titre encadré. (H&amp;amp; E, Planche XI, No 9.)
+          <lb/>Verso du titre, Index, Vita Aesopi etc. comme dans l’édition
+          <lb/>de 1521.
+          <lb/>&amp;quot;R101.269. Prov.: Rosenthal, Munich, 1/V. 1885, 10 M.; de
+          <lb/>nombreuses annotations mss. dans le texte.
+          <lb/>Schmidt VII, No 260: Bibl. de M. P. Heitz.
+          <lb/>100
+          <lb/>AESOPUS
+          <lb/>Strasbourg, W. Rihel, 1541.
+          <lb/>FABELLAE QUAE- DAM AESOPI GRAECAE AD PV-] erilem
+          <lb/>educationem gymnasio Argen toratensi electae.
+          <lb/>Marque typ. de W. Rihel. (H&amp;amp;B, Planche XXIX, N° 4: Silvestre.
+          <lb/>No 741.)
+          <lb/>Argentorati per Vuendelinum Rihelium Anno, 1541.
+          <lb/>(Verso blanc.)
+          <lb/>In-80, car, rom. et grecs, 24 ff. non ch., sign. a-y, dernier f. blanc
+          <lb/>avec marque typ. de W. Rihel au verso. (H&amp;amp; B, Planche XXIX,
+          <lb/>No 2; Silvestre, No 742.), titre courant, réclames; texte grec avec
+          <lb/>traduction latine.
+          <lb/>R102.098.(3) Prop.: Bibl. F. A. Menke, Bremen, 1873; Note mss.
+          <lb/>au verso du dernier f.
+          <lb/>101
+          <lb/>AESOPUS
+          <lb/>Strasbourg, W. Rihel 1543.
+          <lb/>FABELLAE QUAE-DAM AESOPI GRAECAE AD PV-] erilem
+          <lb/>educationem gymnasio Argen-toratensi electae.
+          <lb/>Marque typ. de W. Rihel (H&amp;amp;B, Planche XXIX, No 4; Silvestre
+          <lb/>N° 741.)
+          <lb/>ARGENTORATIAPUD WEN delinum Rihelium. (Verso blanc.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

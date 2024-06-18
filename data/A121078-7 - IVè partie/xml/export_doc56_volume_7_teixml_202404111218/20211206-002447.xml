@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:12.919091+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002447.tif
+IMAGE WIDTH: 2492
+IMAGE HEIGHT: 3996
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>RINGMANN, Mathias Philesius: Grammatica figurata octo
+          <lb/>partes orationes, secundum Domini editionem et regulam
+          <lb/>Remigii ita imaginibus expressae ut pueri iucundo
+          <lb/>chartarum ludi faciliora grammaticae praeludia discere
+          <lb/>et exercere queant... — Saint-Dié, Gautier Lud 1.VI.
+          <lb/>1509.
+          <lb/>Schmidt, Hist. litt. Il, p. 119 et p. 399, n° 226.
+          <lb/>3113
+          <lb/>RINGMANN, Mathias : Instructio manductionem praestans in
+          <lb/>cartam itinerariam Martini Hilacomili (Waldseemüller)
+          <lb/>cum luculentiori ipsius europae enarratione... —
+          <lb/>Strasbourg, Jean Grüninger, avril 1511, in-4°.
+          <lb/>D’Avezac, Martin Hylacomylus Waltzemüller, p. 135;
+          <lb/>Panzer 6, 92; Proctor 9922; Schmidt I, no 121 et Hist. litt.
+          <lb/>II, p. 400, n° 228; Rosenthal (Munich), Catal. 135 (1914),
+          <lb/>n° 2505 : 1800 M. « Un des livres les plus rares du commence¬
+          <lb/>ment du XVIe siècle. Il y a 2 éditions, l&amp;#x27;une avec la date à la
+          <lb/>fin de la dédicace, l’autre sans date».
+          <lb/>3114
+          <lb/>RINGMANN, Math. Voir aussi: CAESAR, Julius, n° 1255;
+          <lb/>INSTRUCTIO, n° 2124.
+          <lb/>Ris, Anne. Voir: BESCHREIBUNG (Warhafftige), n° 994.
+          <lb/>RITTER, Sebastianus : Disputatio XXVII. Ethica. De virtute
+          <lb/>heroica continentia et tolerantia. Ex Libri Septimi
+          <lb/>Ethicorum Aristotelis Nicomachiorum C. 1. 2 &amp;amp; 3
+          <lb/>deprompta. Quam C.F.N. In Inclytâ Argentoratensium
+          <lb/>Academia sub praesidio M. Laurentii Thomae Wallisseri
+          <lb/>Argentinensis : Privati Exercitii causa, Respondendo
+          <lb/>tuebitur Sebastianus Ritter, Francofurtanus, ad Moenum.
+          <lb/>Mense Novembri. — Strasbourg, Antoine Bertram 1597,
+          <lb/>in-40.
+          <lb/>Ritter: B M Strasbourg, no 1823.
+          <lb/>3115
+          <lb/>RITTER, Sebastianus : Disputatio XXXVI. Ethica. De
+          <lb/>amore sui ipsius; &amp;amp; amicis quibus Beatus maximè
+          <lb/>445
+          <lb/>15
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:10.718873+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3296.tif
+IMAGE WIDTH: 2350
+IMAGE HEIGHT: 3852
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>738
+          <lb/>écrite en français par Nicolas de Salcon... traduit en latin par le même
+          <lb/>Salcon, en 1307. Cette traduction latine fut imprimée pour la lère fois
+          <lb/>sous le titre : Liber historiarum... Haganoae per Joh. Secerium, 1529,
+          <lb/>in 4°. Vend. 11 fr. en 1829 et 32 fr. Salmon etc.
+          <lb/>1090
+          <lb/>HEDIO Kaspar
+          <lb/>[Strassburg, W. Köpfel ?1 um 1524
+          <lb/>Von dem zehen-den Zwo trefflicher pre dig, Be¬
+          <lb/>scheen im Münster zû Straszburg, Vff den. XX. tag
+          <lb/>Nouembris Anno M. D. xxiiij. Mit Sendbrieff An das
+          <lb/>christlich heüflin imRinckgaw, MentzerBistumbs.
+          <lb/>Durch D. Casparn Hedion. (Rücks. leer.)
+          <lb/>4°, Got., 12 unn. Bll., Sign. A-C, Marg., Init. Nach den Typen,
+          <lb/>wahrscheinlich Köpfel, Strassburg.
+          <lb/>Bl. A 2a: Dem christlichen heüflin im Rinckgaw
+          <lb/>Mentzer bistumb, D. Caspar Hedio, Predicant der hohen
+          <lb/>stifft Straszburg wünscht Gnad vnd frid... Es grüssen
+          <lb/>euch meine mitarbeiter im wort, D. Wolff.Capito, D. An¬
+          <lb/>tonius Engelbrecht verjagter umbs euan- geliums willen,
+          <lb/>M. Mathess Zell, Martin Butzer, Sym phorianus etc....
+          <lb/>Geben Straszburg, vff Catharine, im 24. Jare.
+          <lb/>R102.345. Prov. : L. Rosenthal, München 24. XII. 1890, 10M.
+          <lb/>Auf dem Titelbl. Stempel der Stadtbibl. Basel.
+          <lb/>Bibl. Wilh. Strassburg. Weller, Repertorium 2906: Zürich u. Basel.
+          <lb/>Bibliograghie Hedio&amp;#x27;s : Schottenloher I, 8052-8059.
+          <lb/>1091
+          <lb/>HEDIO Kaspar
+          <lb/>[Strassburg, W. Köpfel ?1 1525
+          <lb/>Von dem Zehen-den zwâ träffliche Predig, Be- schehen
+          <lb/>in dem Münster zû Straszburg, auf denXX. tag No¬
+          <lb/>uembris.
+          <lb/>Mit Sendtbrief an das Christlich heüflein im! Rinck¬
+          <lb/>gaw, MentzerBistumb.Durch D. Casparn Hedion.
+          <lb/>M. D. XXV. (Rücks, leer.)
+          <lb/>40, Got., 12 unn. Bll., Sign. A-C, Marg., Init. D, Titelumrahmung.
+          <lb/>Bl. A 2a: Dem Christlichenheüflin im Rinckgaw,
+          <lb/>Mentzer BistumbDoctor Caspar Hedio, Predicant der
+          <lb/>hohen stifft Straszburg, wünscht Gnad und Frydvon
+          <lb/>Gott... Es grüssen euch meine mitarbayter im Wott (!)
+          <lb/>D. Wolff! Capito, D. Anthonius Engelbrecht verjagt vmbs
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

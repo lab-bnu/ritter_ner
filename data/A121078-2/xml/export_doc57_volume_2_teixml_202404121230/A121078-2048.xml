@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:27.705934+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2048.tif
+IMAGE WIDTH: 2358
+IMAGE HEIGHT: 3834
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>44
+          <lb/>Argentorati perVuendelinum Rihelium, Mense Martio,
+          <lb/>ANNO M. D. XLIX. (Verso et f. suivant, blanc.)
+          <lb/>in- 80, car. grecs, 5 ff. non ch. dont le 2e et 5e blancs, 202 ff.
+          <lb/>ch. (texte grec), titre courant, réclames, init, ornées.
+          <lb/>Fol. 2a non ch.: OPTIMAE SPEI ADO- LESCENTI WOLFGANGO
+          <lb/>Mey Bernati, Jacobus Bedro-Itus S. P. D.... — Argentorati,
+          <lb/>Mense Martio.1540. (2 ff. en car. ital.)
+          <lb/>R 101833. Prov.: Bibl. Prof. Baum, 1879.
+          <lb/>76
+          <lb/>ARISTOTELES
+          <lb/>Strasbourg, W. Rihel, 1554.
+          <lb/>APIYTOTEAOYE OYXIRHE AKPOAXEOE, H HEPI( doyo͂v, xaì
+          <lb/>sie tiy aòtiv. Tà toö Zayyoo
+          <lb/>ARISTOTELIS DE NATURALI AVSCVLTATIO-ne, seu de prin¬
+          <lb/>cipijs, cum Praefatione! Doctoris Zanchi.
+          <lb/>Marque typ. de W. Rihel. (H&amp;amp; B Planche XXIX, N0 5; Silves-
+          <lb/>tre N° 757.)
+          <lb/>Argentorati excudebat Vuendelinus Rihelius Anno
+          <lb/>M. D. LIIII. (Verso blanc.)
+          <lb/>in-8°, car. grecs, 48 ff. non ch. (car. ital.), 155 ff. ch., (texte grec)
+          <lb/>1 f. non ch., titre courant, réclames, init ornées.
+          <lb/>Fol. a 2a non ch.: HIERONYMI! ZAN-CHI] BERGOMATIS,
+          <lb/>SA-[crae Theologiae in Gymnasio Argentoratensi! profes¬
+          <lb/>soris, in Physicen Aristotelis xoole-(yópeva. (39 ff. non ch.)
+          <lb/>Fol. f ia non ch.: ZANCHVS LE! ctori. S. D.... — Argen¬
+          <lb/>tinae Jdibus Julij. M. D. LIII. (3 pages.)
+          <lb/>Fol. f 2b non ch.: IOAN. STVRMIVS! HIORONYMO ZANCHO)
+          <lb/>Theologo S. P. D. (13 pages.)
+          <lb/>L’édition du texte grec qui suit a une pagination indépendante.
+          <lb/>Le titre de cette partie est:
+          <lb/>APIYTOTEAOYE OYEIRHE AKPOAXEQE, H! xsoì
+          <lb/>Qootxõv dpyõv TO A&amp;#x27;.
+          <lb/>R101.834. Prov.: Don de la BU Koenigsberg, 1872. Notes mss
+          <lb/>GPB VI, 7006: Berlin Wien, Bonn, Göttingen, Königsberg. 77
+          <lb/>ARISTOTELES
+          <lb/>Strasbourg, W. Rihel héritiers, 1556.
+          <lb/>APIETO- TEAOYE HOIKON( NIKOMAXEION BIBAIA
+          <lb/>AEKA. ARISTOTELIS DE MORI- bus ad Nicomachum Libri
+          <lb/>decem. Cum uarijs lectionibus in fine adiectis.
+          <lb/>Marque typ. de W. Rihel. (H &amp;amp; B Planche XXIX, N° 5; Silves¬
+          <lb/>tre, N° 757.)
+          <lb/>ARGENTORATI Excudebant Wendelini Rihelij haeredes.)
+          <lb/>M. D. LVI. (Verso blanc.)
+          <lb/>in-8°, car. grecs et rom., 4 ff. non ch., 116 ff. ch. (texte grec), 1f.
+          <lb/>blanc, 13 ff. non ch. (Commentaire), réclames, notes marg., init. ornées.
+          <lb/>Fol. 2a non ch.: JOANNESSTVR-I mius, (3 p. en car. ital.)
+          <lb/>Fol. 3b non ch.: JOANNES LVDOVI-cus Viues, (2 p. en car. ital.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

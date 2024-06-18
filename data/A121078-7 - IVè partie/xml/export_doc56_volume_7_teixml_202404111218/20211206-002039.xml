@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:02.504628+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002039.tif
+IMAGE WIDTH: 2492
+IMAGE HEIGHT: 3936
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>G K XI. 7163. Hauffen, Fischart-Studien VI, p. 529/30 :
+          <lb/>«Es ist ein schlecht korrigierter, augenscheinlich in der
+          <lb/>grössten Eile hergestellter Druck... Dieser Druck war bald
+          <lb/>vergriffen und so konnte noch im gleichen Jahre ein zweiter
+          <lb/>Druck mit grösserer Sorgfalt... veröffentlicht werden».
+          <lb/>Berlin, Breslau, Darmstadt, Dresden, München.
+          <lb/>928
+          <lb/>(BARNAUD, Nicolas) : Reveille matin Oder wacht früh auf.
+          <lb/>Das ist. Summarischer, und warhafter Bericht von den
+          <lb/>verschinen, auch gegenwärtigen beschwärlichen händeln
+          <lb/>in Frankreich... Durch Eusebium Philadelphum Cosmo¬
+          <lb/>politam. Izunder ins Teutsch gebracht. Durch Emeri¬
+          <lb/>cum Lebusium (Fischart). — Edimburg, Jammeus
+          <lb/>(Strasbourg, Bern. Jobin) 1575, in-80.
+          <lb/>GK11.7162 : « Verschiedene Drucke. Die Ausgabe enthält
+          <lb/>nur den ersten Teil der Schrift». B N Berlin, Munich, Paris.
+          <lb/>Hauffen, Fischart-Studien dans Euphorion VI, p. 529/30 et
+          <lb/>Fischarts Werke I, p. LXIX.
+          <lb/>929
+          <lb/>(BARNAUD, Nicolas): Wacht früe auff... (comme dans l’édition
+          <lb/>précédente)... Mit angehenckter wunderlicher Beschrei¬
+          <lb/>bung desz Lebens... der Catherinen vonn Medicis, der
+          <lb/>Königin Franckreich Mutter... (Auteur : Henricus
+          <lb/>Stephanus). Ins Teutsche gebracht Durch Emericum
+          <lb/>Lebusinum (J. Fischart). — Edimburg, Jammeus. —
+          <lb/>(Strasbourg, Bernard Jobin] 1593, in-8°.
+          <lb/>G K11.7164: B N Berlin, Munich, Vienne, etc.; Hauffen:
+          <lb/>Fischarts Werke I, p. IXX.
+          <lb/>930
+          <lb/>(BARNAUD, Nicolas) : Le reveille-matin des François, et de
+          <lb/>leurs voisins. Composé par Eusèbe Philadelphe Cosmo¬
+          <lb/>polite, en forme de dialogues. Dialogue (1), 2. —
+          <lb/>Edimbourg, James. — (Strasbourg, Bernard Jobin) 1574,
+          <lb/>in-8° (Deux impressions différentes. BN. Paris).
+          <lb/>2 ex. Lb33 344 et Lb33 344 A; en plus une variante Lb33 344 b,
+          <lb/>édition postérieure dans laquelle les fautes relevées dans
+          <lb/>l’Errata de la précédente édition sont corrigées.
+          <lb/>GKII.7165: B N Berlin, Munich, Vienne, etc.
+          <lb/>931
+          <lb/>37
+          <lb/>2—1
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

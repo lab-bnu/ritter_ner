@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:30.718228+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2145.tif
+IMAGE WIDTH: 2314
+IMAGE HEIGHT: 3828
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>BOKEL Guilelmus
+          <lb/>Strasbourg, A. Bertram, 1599.
+          <lb/>DISPVTATIO DE SVBSTITV- TIONIBVS: In Inclyta
+          <lb/>Argentoratensium Academia publici! exercitij causa pro¬
+          <lb/>posita à GEORGIO OBRECHTO IC Respondente Wilhelmo
+          <lb/>Bôkelio Iun. Saxo. (Vignette.)
+          <lb/>Argentorati, Excudebat Antonius Bertramus. (1599.)
+          <lb/>(Verso blanc.)
+          <lb/>In-4°, car. ital., 22 ff. non ch., sign. A-E, réclames, initiale ornée
+          <lb/>I; fol. A 2a, bande d’ornement.
+          <lb/>R 10.5485 et R10.54816, Prov.: Kubasta d Voigt, Vienne,
+          <lb/>25/XI. 1896.
+          <lb/>Voir: OBRECHT Georgius, Selectissimae disputationes
+          <lb/>ex juris civilis materiis. Strasbourg, A. Bertram, 1599.
+          <lb/>226
+          <lb/>BOLANI (Domenico). Voir: BOLLANUS Dominieus.
+          <lb/>BOLLANUS Dominieus
+          <lb/>Strasbourg, J. Grüninger, 1504.
+          <lb/>Tractatus Dominici Bollani! De conceptione Glorio¬
+          <lb/>sissime Dei Geni tricis Virginis Marie. Sermo eiusdem.
+          <lb/>Gravure sur bois: Ste. Anne assise, ayant sur ses genoux la
+          <lb/>Vierge comme enfant et le petit Jésus; à ses pieds un homme et une
+          <lb/>femme agenouillés, entre eux un enfant emmailloté dans un panier, au
+          <lb/>fond une église.
+          <lb/>A la fin: In nobili Heluetiorum ciui tate Argentina
+          <lb/>chalchogra- phatum per Joannem Grünin ger. M.CCCCC.
+          <lb/>Quarto:Saluatoris Anno. in Die Blasij.
+          <lb/>In-4°, car. goth., 2 col., XLVII ff. ch., titre courant, initiales
+          <lb/>à fig. C, D, 0, initiales ornées et initiales d’attente.
+          <lb/>Au verso du titre trois petites gravures, représentant la sainte
+          <lb/>Vierge, tirées du Hortus animae 1501, fol. 2b.
+          <lb/>fol. A 2a: Registrum; au verso, marque typogr. de J. Grüninger.
+          <lb/>(H. A B., Planche I, No 1; Silvestre, No 503.)
+          <lb/>R 101.344. Prov.: Don de la ville de Heilbronn 1871.
+          <lb/>Proctor II, Section I, No 9890: Londres, British Museum;
+          <lb/>Schmidt I, No 65: Jadis Bibl. de Strasbourg, Incun. No 1070.
+          <lb/>GPB: Berlin SB, Mannheim Schlossbibl.
+          <lb/>227
+          <lb/>141
+          <lb/>BONAVENTURA, Ad fratres mendicantes. Voir: GUILHERMUS
+          <lb/>PARISIENSIS, De collationibus et pluralitate ecclesiasticorum
+          <lb/>beneficiorum. Strasbourg, J. Knobloch, 1507.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:05.384774+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie014.tif
+IMAGE WIDTH: 2486
+IMAGE HEIGHT: 3932
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Hiersemann (Leipzig), catal. 556 (1925), n° 497 : « Illustr.
+          <lb/>Wiegendruck... Nach dem einzigen Original in der Bayer.
+          <lb/>Staatsbiblothek in Facsimiledruck nebst einer Einleitung.
+          <lb/>von Karl Heliand... München 1912. (Seltenheiten aus
+          <lb/>süddeutschen Bibliotheken, hrsg. von E. Freys, O. Glauning et
+          <lb/>E. Petzet. Bd. Il.
+          <lb/>70a
+          <lb/>AMOR die Lieb. Voir : Büchlein n° 173.
+          <lb/>ANDREAE, Johannes : Super arboribus consanguinitatis...
+          <lb/>una cum exemplis et enigmatibus. — (Strasbourg,
+          <lb/>H. Knoblochtzer vers 1483), in-fol.
+          <lb/>G W 1707; Hain 1021; Proctor 383; Schreiber 3287;
+          <lb/>Voulliéme : Berlin 2217, 2. Bibl. Cant. Aarau, B N Berlin,
+          <lb/>Munich etc.
+          <lb/>71
+          <lb/>ANDREAE, Johannes : Super arboribus consanguinitatis
+          <lb/>(en allemand). — (Strasbourg, H. Knoblochtzer vers
+          <lb/>1482/83), in-fol.
+          <lb/>G W 1720; Hain 1051; Pellechet 650; Schreiber 3308.
+          <lb/>B N Munich, Paris, Zurich etc.
+          <lb/>72
+          <lb/>ANDREAE, Johannes. Voir aussi : CLEMENS V : Constitutiones
+          <lb/>n° 187.
+          <lb/>ANDREAS, Capellanus : De amore et de amoris remediis.
+          <lb/>Pars 1-4. — (Strasbourg, impr. C. W. vers 1473/741
+          <lb/>in-fol.
+          <lb/>GW 1759; Hain 992; Proctor 344; Pellechet 678; Voulliéme:
+          <lb/>Berlin 2189. B N Berlin, Munich, Paris, Vienne etc.
+          <lb/>73
+          <lb/>ANDREAS, Capellanus : De amore et de amoris remediis.
+          <lb/>P. 1-4 (en allemand par J. Hartlieb). P. 4 sous le titre :
+          <lb/>Albertanus : Von der Leidigung der Liebe und Minne. —
+          <lb/>Strasbourg, Martin Schott (23 mars 1484), in-fol.
+          <lb/>GW1761 ; Hain 995; Schreiber 4885; Voulliéme : Berlin 2231.
+          <lb/>BN Berlin, B M Zurich, Bibl. Centrale Zurich etc.
+          <lb/>74
+          <lb/>ANDREAS de Escobar : Modus confitendi. — (Strasbourg,
+          <lb/>impr. de Henricus Ariminensis vers 1475-78), in-fol.
+          <lb/>12
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

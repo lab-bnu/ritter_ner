@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:56.678070+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5207.tif
+IMAGE WIDTH: 2362
+IMAGE HEIGHT: 3860
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1517
+          <lb/>Auff disz new xxxiij. Jar durchD. Casparn Hedion ver¬
+          <lb/>teütscht vnd eim! Ersamen Radt vnnd frummer bur¬ ]
+          <lb/>gerschafft zu Straszburg! zugeschriben.
+          <lb/>Allen Policeyen nutzlich!zu lesen. (Verso blanc.).
+          <lb/>In-4°, car, goth., 59 ff. non ch., sign. A-O, notes marg.
+          <lb/>fol. 2a : An ein Ersamen Radt vnnd II frumme burgerschafft zu
+          <lb/>Straszburg !! Vorred... — C. Hedio Doctor ! im Münster. szt. (9 pp.).
+          <lb/>fol. A 2b : Johannes Ludovicus Vives!! wünscht den Burgermeistern
+          <lb/>vnd dem !! Radt zu Bruck in Flandern, heil... — Zu Bruck!! auff den
+          <lb/>vij tag des Jenners!! im jar. M. D. XXV.
+          <lb/>R. 102.039. Prov. Trübper (vente Noiriel), Strasbourg, 4/IV, 1874;
+          <lb/>sans indic. de prix.
+          <lb/>Bibl. St.-Guillaume, Strasbourg.
+          <lb/>2429
+          <lb/>VOCABULARIUS Gemma gemmarum
+          <lb/>Strasbourg, J. Prüss père, 1505
+          <lb/>Vocabularius.Gemmagemmarum Quia per insertionem
+          <lb/>mul! torum vocabulorum emen! data (!) est. quare merito
+          <lb/>Gem magemmarum appellatur.
+          <lb/>A la fin : Impressit honestus Johannes Prisz! Ciuis Argen¬
+          <lb/>tinus. In edibus : zum thiergarten. Anno. M. CCCCCV.
+          <lb/>(Verso blanc.)
+          <lb/>In-4°, car. goth., 2 col., 152 ff. non ch., sign. a-z, A-E, titre courant,
+          <lb/>init. ornée A.
+          <lb/>Au verso du titre : Incipit Prologus.
+          <lb/>Au-dessous : Anthonij liberi Susatensis in laudem inclite Colonorum
+          <lb/>urbis Epigramma (20 vers.) et : Ad lectorem (4 dist.).
+          <lb/>R. 101.622. Prov. : H. Kerler, Ulm, 25/x, 1881; 15M.
+          <lb/>Annotations mss, au haut du titre : « Anno nato Domino nostro Jesu
+          <lb/>Christo salutis... 1577, au recto du f. de garde : « 1846. K. Weigand.
+          <lb/>Das buch zählt 152 Blätter.»
+          <lb/>Proctor II, Sectio I, No 9975 : Londres, British Museum; Schmidt III,
+          <lb/>No 51 : Jadis Bibl. de Strasbourg, Incun. N° 4861. Walter : Sélestat 2399.
+          <lb/>2430
+          <lb/>VOCABULARIUS Gemma gemmarum Haguenau, H. Gran, 1507
+          <lb/>Vocabularius Gemma gemmarum. Quia per in sertionem
+          <lb/>multorum vo!] cabulorum emendatus est! ideo merito
+          <lb/>Gemmage-  marum appellatur.
+          <lb/>A la fin : Vocabularius Gemmagemmarum diligenter
+          <lb/>reuisus et ca stigatus impressusque in imperiali oppido
+          <lb/>Ha-genaw per industrium Henricum Gran inibi! incolam
+          <lb/>impensis ac sumptibus circumspecti viri archibibliopole
+          <lb/>Joannis Rynman de Oringaw finit feliciter. Anno virgi-I] nei
+          <lb/>partus. 1507. iiii die mensis Augusti. (Verso blanc.)
+          <lb/>In-4°, car. goth. 152 ff. non ch., titre courant, init. d’attente.
+          <lb/>Au verso du titre : Prologus.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

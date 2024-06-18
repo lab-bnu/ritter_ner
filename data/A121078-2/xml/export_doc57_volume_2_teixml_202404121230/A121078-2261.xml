@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:34.527298+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2261.tif
+IMAGE WIDTH: 2292
+IMAGE HEIGHT: 3818
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>BUTZER Martin
+          <lb/>Strasbourg, G. Messerschmidt, 1546.
+          <lb/>DER CXX. PSALM, Ein danck vnd Bet-] psalm, wider
+          <lb/>die falschen zungen, vnd stehte Widerfechter christlicher
+          <lb/>Re! ligion, ausgelegt, zû lehre vnd trost in diser gefahr¬
+          <lb/>lichsten zeiten. An die christliche Gemeinde zû Bonn.
+          <lb/>Christliche vnd warhaf te Antwort, vff das Schandge¬
+          <lb/>dicht, wider christliche Reformation, vnd Martin Bucer,
+          <lb/>one namen des! Dichters, vnd vnder dem titel! Abconterfei¬
+          <lb/>tung Mar- tin Bucers &amp;amp;c. aus- gangen. Durch Martin
+          <lb/>Bucer. PSAL. V (2 lignes).
+          <lb/>Anno. M. D. XLVI. (Verso blanc.)
+          <lb/>A la fin: Gedruckt zû Strasburg, in Knoblochs! drucke¬
+          <lb/>rei, Durch Georg Messer- schmid. Anno M. D. XLVI.
+          <lb/>(Verso blanc.)
+          <lb/>In-4°, car. goth., 38 ff. non ch., sign. A-I, réclames, notes mar¬
+          <lb/>ginales.
+          <lb/>fol. A 2a: An die gemeinde... zu Bonn. (Préface de 2 p.)
+          <lb/>R102.349.(13) Prov, : Donation Cunite, Strasbourg 1886. Incom¬
+          <lb/>plet, sign. Get H manquent. Notes mes. A la suite de Pappus J., Bericht
+          <lb/>und Warnung, Tübingen 1581.
+          <lb/>Bibl. St. Guillaume Strasbourg; GPB. Berlin BN.
+          <lb/>Baum No 79, Mente N° 70.
+          <lb/>386
+          <lb/>257
+          <lb/>BUTZER Martin
+          <lb/>[Strasbourg?] 1546.
+          <lb/>Ein warhafftiger be-richte vom Colloquio zu Regen¬
+          <lb/>spurg, dis jars angefangen, vnd von! dem abzug der Au¬
+          <lb/>ditioren (!) vnd Col-loquenten, die von Fürsten vnd
+          <lb/>Stenden der Augspurgi-chen Confession da-hin ver¬
+          <lb/>ordnet waren. (Feuille de lierre.)
+          <lb/>Luce XX. (5 lignes.)
+          <lb/>Martin Bucer. Anno 1546. (Verso blanc.)
+          <lb/>In-40, car. goth., 8 ff. non ch., verso du dernier f. blanc, sign.
+          <lb/>A-B, réclames, initiale goth. A.
+          <lb/>R101541. Prov.: T. O. Weigel, Leipaig, (Catal. Il, N° 2070.)
+          <lb/>6/I1. 1879;3M.
+          <lb/>Oxford, Bibl. Bodleiana; GPB: Berlin BN.
+          <lb/>Mente No 71b.
+          <lb/>387
+          <lb/>R.17
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

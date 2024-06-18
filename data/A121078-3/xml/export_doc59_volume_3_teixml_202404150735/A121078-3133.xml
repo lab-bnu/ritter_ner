@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:06.761815+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3133.tif
+IMAGE WIDTH: 2306
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>FLORUS Lucius Annaeus
+          <lb/>Strassburg, Aug. Fries 1550
+          <lb/>COMPEN- DIO DE LAS CATORZE DECADAS! de Tito Liuio
+          <lb/>Paduano, principe de la! historia Romana, escrito en La¬
+          <lb/>tin por Lucio Floro, y al presen-te traduzido en lengua
+          <lb/>Castellana.
+          <lb/>Druckerm. des A. Fries: Perseus auf dem Pegasus mit einer Lanze
+          <lb/>das Seeungeheuer durchbohrend.
+          <lb/>Darunter: Ex ARGENTINA IN CASA DE] Augustin Frisio,
+          <lb/>Anno de! M. D. L. (Rücks, leer.)
+          <lb/>Am Schluss: ACABOSE DE IMPRI! mir esto libro... en la
+          <lb/>ciudad Imperial de Ar- gentina, en casa de Au- gustin
+          <lb/>Frisio en el a-nno de mill y qui! nientos y cincuen! ta.
+          <lb/>80, Antig., CLXVI num. Bll., Kopft., Kust., Eleine Zierinit., S. 108
+          <lb/>ein grosses L mit einem Mann u. einer Frau, die sich die Hand reichen;
+          <lb/>die Init., welche am Anfang der 14 Dekaden stehen, sind viel grösser
+          <lb/>als diejenigen am Anfang der Kapitel.
+          <lb/>Auf der Rücks, des letzten Bl., Druckerm, des A. Fries (HEB
+          <lb/>Tafel XXXVI Nr. 1), gleich derjenigen des Titelblattes, aber bedeutend
+          <lb/>kleiner.
+          <lb/>R 101712. Prov.: Rosenthal, München 10. IX. 1894, 18 M. 30.
+          <lb/>873
+          <lb/>FLORUS Lucius Annaeus: Von Ankunft und Ursprung des
+          <lb/>römischen Reichs... Siche: TITUS LIVIUS. Strassburg,
+          <lb/>Th. Rihel 1574, 1575, 1581, 1587, 1590, R696, 1598.
+          <lb/>577
+          <lb/>FLORUS Nicolaus
+          <lb/>Strassburg, C. Kieffer 1587
+          <lb/>Der CXXXVII.Psalm, An den Wassernzu Babel
+          <lb/>sassen wir, vnd wei-neten, &amp;amp;c. kurtzlich vnd einfäl- tig
+          <lb/>erkläret, durch M. Nicolaum Florum,! Pfarrherrn zu
+          <lb/>S. Aurelien inn Straszburg. In diesen schweren vnd
+          <lb/>küm- merlichen zeiten nutzlich! zu lesen. (Vign.)
+          <lb/>Getruckt zu Straszburg, durch Carolum Kieffer. 1587.
+          <lb/>(Rücks, leer.)
+          <lb/>8°, Got., 28 unn. Bll., Sign. A-E Kust. Init. A. Titel rot und
+          <lb/>schware, Titeleinfassung, ahnliche Einfass. auf allen Bll. des Druckes.
+          <lb/>R102.162. Prov.: Austausch mit der Gymnasialbibl, von Heil¬
+          <lb/>bronn 2. IV. 1878.
+          <lb/>874
+          <lb/>R.37
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

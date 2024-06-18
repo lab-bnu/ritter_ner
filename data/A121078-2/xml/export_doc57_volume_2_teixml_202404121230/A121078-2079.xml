@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:28.665563+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2079.tif
+IMAGE WIDTH: 2344
+IMAGE HEIGHT: 3820
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>75
+          <lb/>wimpfelingius Tho! mae wolfio Juniori... - Kal. Martij...
+          <lb/>M. D. IHI.
+          <lb/>Fol. A 8b non ch.: Baptista Mantuanus Carmelita Paridi
+          <lb/>Ceresario... - Calendis Septembris M. CCCCXCVIII.
+          <lb/>*R 101.005. Prov.: Don des barons de Dörnberg, 1890 avec
+          <lb/>leur exlibris. Notes mss.
+          <lb/>2ex.*R101.006. Proo. inconnue.
+          <lb/>Schmidt III, N° 45: Jadis Bibl. de Strasbourg, Incun. No 609
+          <lb/>et Bibl. du Grand Séminaire de Strasbourg. IIncun. C 201; Walter,
+          <lb/>No 1816: BM de Sélestat.
+          <lb/>GPB. Berlin SB, Breslau UB, Königsberg UB.
+          <lb/>130
+          <lb/>BAPTISTA Mantuanus
+          <lb/>Strasbourg, J. Prüss père, 1506.
+          <lb/>Baptiste Mantuani! Buccolica seu Adolescentia in decem
+          <lb/>aeglo gas diuisa. Ab Jodoco Badio Ascenso familia¬
+          <lb/>riter exposita; cum in! dice dictionum. Carmen eiusdem
+          <lb/>de sancto Johanne baptista. In Aeglogas Mantuani Deca¬
+          <lb/>tosticon omnium earum argumenta complectens ! Joannis
+          <lb/>Gallinarij Budorini, (Au dessous 5 distiques.)
+          <lb/>A la fin: Denuo castigatum: Impressit Johannes Prüss
+          <lb/>Ciuis Argentinus in aedibus zumThiergarten. Anno
+          <lb/>M. CCCCC. VI. (Verso blanc).
+          <lb/>In-4°, car, rom., 6 ff. non ch., LXXX ff. ch., 2 f. non ch.; dans
+          <lb/>les 10 premiers ff. les chiffres sont intervertis, 2 fois fol. I. puis fol. VII,
+          <lb/>VIII, IX, X, III, IIII, V, VI, titre courant, notes marginales,
+          <lb/>initiales ornées A, F.
+          <lb/>fol. 5a non ch.: Thomas Wolphius Junior Jacobo Wym
+          <lb/>phelingio... - Argentine cursim ex aedibus nostris sexto kalen.
+          <lb/>Martij. Anno Christi. Millesimo quingentesimo tertio.
+          <lb/>*RI01008. Prov. inconnue. Notes mss.
+          <lb/>Schmidt III, No 58 cite d’après Panzer 6,34 n’avant pas connu
+          <lb/>d’exemplaire. GPB: Münster UB.
+          <lb/>Schmidt écrit Buccolica avec un c. Ascensio avec minuscule et
+          <lb/>sépare les lignes de la manière suivante: Baptistae Mantuani Bucolica
+          <lb/>seu Adolescentia in decem aeglogas diuisa. A. Jodoco Badio ascensio
+          <lb/>familiariter! exposita, cum indice! dictionum.
+          <lb/>131
+          <lb/>BAPTISTA Mantuanus
+          <lb/>Strasbourg, J. Prüss père, 1507.
+          <lb/>Baptiste Mantuani Bucolica seu adolescentia in decem
+          <lb/>aeglogas diuisa: Ab Jodoco Badio Ascensio fami! liariter
+          <lb/>exposita: cum indice dictionum.
+          <lb/>Carmen eiusdem de sancto Johanne Baptista.! Dialogus
+          <lb/>eiusdem de vita beata.! Hermanni Buschij Oda de contem¬
+          <lb/>nendo mundo &amp;amp; amanda sola virtute &amp;amp; scientia.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

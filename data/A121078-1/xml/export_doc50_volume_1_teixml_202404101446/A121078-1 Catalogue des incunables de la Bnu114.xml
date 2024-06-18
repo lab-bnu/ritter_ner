@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:38.313263+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu114.tif
+IMAGE WIDTH: 2408
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>PONCIUS: Rhetorica. (Strasbourg, J. Grüninger), 1486, in-4°.
+          <lb/>Hain 13255, Madsen 3352, Proctor 445, Voulliéme: Berlin 2276.
+          <lb/>K 3015. Prov.: Librairie Lippert, Halle, 7/XII. 1886, sans
+          <lb/>indication du prix. Notes mss. Rel. anc.
+          <lb/>399
+          <lb/>PONTANUS LUDOVICUS: Singularia in causis criminalibus.
+          <lb/>(Strasbourg, H. Eggestein), s. d., in-fol.
+          <lb/>Hain 13267, Madsen 3360, Pellechet: Colmar 1123, Proctor
+          <lb/>293, Voulliéme: Berlin 2159, 2.
+          <lb/>K 3019. Prov.: A. Einsle, Vienne, 8/xIl. 1885, 10 M. Au verso
+          <lb/>du 1er f. de garde, fiche d’un catalogue (N° 231) donnant
+          <lb/>comme date 1478, «40 Bll., goth., 2 col., 60 Zeil, rubric.
+          <lb/>Exempl.
+          <lb/>400
+          <lb/>PORRETANUS ALANUS — Alanus de Insulis.
+          <lb/>PRAECORDIALE devotorum. Strasbourg, (Jean Prüss), 1489,
+          <lb/>in-8°.
+          <lb/>Hain 13318, Madsen 3367, Proctor 546, Schreiber 5012, Voul¬
+          <lb/>liéme: Berlin 2357; Schramm, Bilderschmuck XX, grav.
+          <lb/>N° 1234.
+          <lb/>K 3030. Prov.: B N Munich, 4/XI. 1880, 1 M. Notes mss. Rel.
+          <lb/>anc.
+          <lb/>401
+          <lb/>PRAECORDIALE devotorum. Strasbourg, (Jean Prüss, 20 jan¬
+          <lb/>vier 1490), in-8°.
+          <lb/>Hain 13320, Madsen 3368, Schreiber 5014, Ernst, Hildesheim
+          <lb/>fasc. II p. 93, N° 26.
+          <lb/>Schramm, Bilderschmuck XX, grav. N° 115, l’attribue à
+          <lb/>Grüninger.
+          <lb/>K 3032. Prov.: Kenda, Vienne, 29/x. 1896, 12 fl. Notes mss.
+          <lb/>Au-dessous du titre: «Adscribitur Bertholdo Dominicano».
+          <lb/>Rel. anc.
+          <lb/>402
+          <lb/>PREBUSINUS DE BRUN URBANUS. Voir: Brun Urbanus Pre¬
+          <lb/>businus.
+          <lb/>PSALTERIUM latino-germanicum. (Strasbourg, H. Eggestein,
+          <lb/>s. d.], in-4°.
+          <lb/>Hain, 13512, Proctor 294.
+          <lb/>K 3072a. Prov.: Albert Cohn, Berlin, 9/II. 1883, 45 M. 403
+          <lb/>84
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

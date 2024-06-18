@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:31.006666+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2148.tif
+IMAGE WIDTH: 2298
+IMAGE HEIGHT: 3822
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>144
+          <lb/>fol. A 2a:.. D. IOANNI STVRMIO RECTORI: ET D.
+          <lb/>IOANNI MARBACHIO... — Argentorati vltimo Martij. Anno
+          <lb/>1578.1 Michaël Boschius.
+          <lb/>R. 102.287. Prov. : Trübner, Strasbourg, 20/V. 1879:3M.
+          <lb/>BM Colmar, BN Paris, Rés. X. 1247.
+          <lb/>229
+          <lb/>BOSCHIUS Michael
+          <lb/>Strasbourg, A. Bertram, 1591.
+          <lb/>ORATIO, DE VELLERE AVREOScholastico; recitata
+          <lb/>Argentinae in progressionibus classicis. 20. Aprilis, Anno
+          <lb/>Christi, 1590. Authore MiCHaele BoscHio praeceptore
+          <lb/>primae Classis ibidem.
+          <lb/>Gravure sur bois : Expédition de Iason en Colchide.
+          <lb/>ARGENTORATI, Excudebat Antonius Bertramus. M. D. XCI.
+          <lb/>In-4°, car, rom, et ital., 20 ff. non ch., sign. A-E, réclames, notes
+          <lb/>marginales, initiale à fig. C.
+          <lb/>Au verso du titre, Dédicace de l’auteur.
+          <lb/>fol. D 4a: GRATIARUM ACTIO, RECITATAa Studioso
+          <lb/>Adolescente, QVIRINO KNO- GLERO, AUSTRIACO. (Poème de
+          <lb/>10 pages en car. ital.)
+          <lb/>R 102.299. Prov.: Don de J. Baer, Francfort s. M., 20/VI.1882.
+          <lb/>BN Paris, I. 7864; GPB: Berlin SB, Breslau UB. 230
+          <lb/>BOSSUS Matthäus
+          <lb/>Strasbourg, M. Schürer, 1509.
+          <lb/>CONTENTA. MATTHAEI BOSSI VERONEN SIS CANONICI
+          <lb/>RE GVLARIS DEVeris &amp;amp; salutaribus animi gaudijs,
+          <lb/>Dialogus tribus libris seu Disputationibus distinctus.
+          <lb/>EIVSDEM DE Instituendo Sapientia (!) animo, siue de
+          <lb/>vero Sapientiae cultu Libri octo.! EIVSDEM DE! Tolerandis
+          <lb/>aduersis Libri Duo. EIVSDEM DE! Gerendo magistratu
+          <lb/>iustitiaque colenda Opusculum. EIVSDEM DE Immo¬
+          <lb/>derato mulierum cultu Repraehen- soria ad Bessarionem
+          <lb/>cohortatio....
+          <lb/>A la fin: Argentoraci in aedibus Mathiae Schürerij
+          <lb/>Artium doctoris, mense Octobri... M. D. VIIII. La fin
+          <lb/>manque dans mon exemplaire; je l’ai citée d’après l’ex. de la BM de
+          <lb/>Strasbourg 572.
+          <lb/>In-40, car. rom., 198 ff. non ch., sign. a-k, B-Z, titre courant,
+          <lb/>notes marginales.
+          <lb/>Au verso du titre: Angelus Politianvs Lavrentio Me
+          <lb/>dici Patro no svo.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

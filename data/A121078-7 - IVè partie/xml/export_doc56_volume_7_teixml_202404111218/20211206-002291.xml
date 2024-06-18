@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:09.275508+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002291.tif
+IMAGE WIDTH: 2496
+IMAGE HEIGHT: 3966
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>LAMBERTUS, Franciscus : De symbolo fœderis... —
+          <lb/>(Strasbourg, Jean Herwagen) 1530, in-80,
+          <lb/>Monatshefte für rheinische Kirchengeschichte I (1907),
+          <lb/>p. 179.
+          <lb/>2268
+          <lb/>LAMBERTUS, Franc. Voir aussi : (RITTER, Rép, nos 1322¬
+          <lb/>1330).
+          <lb/>LAMBINUS, Dion. Voir: CICERO n° 1381.
+          <lb/>LAMBRECHT, J. Voir : (Versteghe).
+          <lb/>LANDINUS, Christophorus : Epistolae. — (Strasbourg,
+          <lb/>Jean Knobloch 1511), in-4°.
+          <lb/>Schmidt VII, n° 76, Panzer 6, 52, 219; Weislinger, Cata¬
+          <lb/>logue n° 128. — Olim bibl. Arg. 1381. (Voir aussi Ritter,
+          <lb/>Rép. n° 1331 : Landidus, Chrisrophorus, Libri quatuor chez
+          <lb/>Math. Schürer 1508).
+          <lb/>2269
+          <lb/>LANDINUS, Eques Hierosolymitanus. Voir : MAGNUS Turcus,
+          <lb/>n° 2584.
+          <lb/>LANFRANCUS : Kleyne Wundartzney auss fürbitt Gregorii
+          <lb/>Flüguss, Chyrurgen zu Straszburg durch Othon Brunfels
+          <lb/>verteutscht. — Strasbourg, Egenolff, 1528, in-4°.
+          <lb/>Benzing : Egenolff, n° 4 : B M Zurich, B N Paris. Rosen,
+          <lb/>Auktion XXVII (1956) Teil II, n° 2029 ; 480 M. Schmidt II,
+          <lb/>n° 105 l’attribue à Jean Schott.
+          <lb/>2270
+          <lb/>LANG, Hier. Voir: WALTHeR, Rudolphus n° 3465.
+          <lb/>LANG, Josephus : Adagia : sive Sententiae proverbiales:
+          <lb/>Graecae, Latinae, Germanicae, ex praecipuis autoribus
+          <lb/>collectae ; ac brevibus Notis illustratae... Una cum
+          <lb/>indice. (Marque typ. de J. Rihel)... — (Argentorati),
+          <lb/>Excudebat Josias Rihelius M.D.XCVI (1596), in-8°.
+          <lb/>Bibl. S. Guillaume Strasbourg. Graesse IV, p. 98; Van der
+          <lb/>Haeghen I, p. 435 : B N Berlin. (Voir aussi : Ritter, Rép.
+          <lb/>n° 1332/3l.
+          <lb/>2271
+          <lb/>289
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

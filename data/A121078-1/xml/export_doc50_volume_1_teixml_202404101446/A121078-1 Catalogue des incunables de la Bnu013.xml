@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:36.559972+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu013.tif
+IMAGE WIDTH: 2386
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>HENRI EGGESTEIN (1466—1484)
+          <lb/>Henri Eggestein, contemporain de Mentelin, avec qui
+          <lb/>il avait convenu de garder secret l’art de la typographie,
+          <lb/>était originaire de Rosheim, où l’on peut suivre sa famille
+          <lb/>jusque dans la première moitié du 14e siècle. Après avoir
+          <lb/>terminé ses études comme maître-ès-arts, il alla s’établir à
+          <lb/>Strasbourg, où il devint après 1427 «Sigillifer curiae prae¬
+          <lb/>positurae Argentinensis». En 1442 il obtint le droit de bour¬
+          <lb/>geoisie en qualité de post-constoffler, mais renonça à ce
+          <lb/>droit en 1452 pour le racheter de nouveau en 1459. Il garda
+          <lb/>sa fonction de sigillifer jusqu’en 1463, où il fut remplacé par
+          <lb/>Pierre Strube à qui il intenta un procès de diffamation.
+          <lb/>C’est probablement vers ce temps qu’il entra en relation
+          <lb/>avec Mentelin qui le prit comme associé à cause de sa
+          <lb/>qualité de maître ès-arts; mais l’association ne dura pas
+          <lb/>longtemps, car déjà le 30 avril 1466 nous voyons le Land¬
+          <lb/>vogt de la Basse-Alsace, Frédéric le Palatin, le prendre
+          <lb/>sous sa protection, lui et ses ouvriers.
+          <lb/>Eggestein s’était marié en 1448 avec Agnès, sœur de
+          <lb/>Michel Ochsensteiner, curé de Sélestat. Il posséda avec
+          <lb/>son frère Sifrid la maison «Zum Eggestein» dans la rue
+          <lb/>des Pucelles, mais demeura dès l’année 1441 dans la mai¬
+          <lb/>son «Zum Baumgarten» dans le Dumenloch, où il ins¬
+          <lb/>talla plus tard d’après Schmidt son officine *). Comme
+          <lb/>marque typographique il avait un écu barré, rose à cinq
+          <lb/>feuilles au-dessous, et son nom, Henricus Eggestein au-des¬
+          <lb/>sus. Les livres sortis de ses presses sont assez nombreux;
+          <lb/>notre Bibliothèque en possède une trentaine. Son premier
+          <lb/>ouvrage, qui lui valut tout de suite une grande renommée,
+          <lb/>fut sa Bible latine à 45 lignes (2 col.) avec 496 feuilles in-fol.,
+          <lb/>qui parut avant le 24 mai 1466; en effet l’exemplaire de la
+          <lb/>BN de Munich porte la note manuscrite: 1466. Les premiers
+          <lb/>*) Schorbach: Mentelin p. 126; «Schmidt verlegt Eggesteins
+          <lb/>Werkstatt ohne Grund in das Dumenloch (heute Thomansgasse).
+          <lb/>Eggestein hat aber zweifellos in dem grossen Doppelhause, wel¬
+          <lb/>ches er nachweislich vor 1466 besass, und das in der Jungfrauen¬
+          <lb/>gasse lag, seine bedeutende Offizin gehabt.»
+          <lb/>XIII
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

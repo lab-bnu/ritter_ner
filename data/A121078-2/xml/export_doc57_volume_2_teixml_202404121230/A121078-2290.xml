@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:35.204318+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2290.tif
+IMAGE WIDTH: 2298
+IMAGE HEIGHT: 3816
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>286
+          <lb/>A la fin: Vnd sind dise ding bescheen, jm pfarrhoff
+          <lb/>zu S. Laurentzen zû Straszburg. Vnd ich Michel Schwen¬
+          <lb/>cker von Gernspach von keyserlichen gewalt Notari &amp;amp;.
+          <lb/>R102.343. Prov.; Bibl. Böcking.
+          <lb/>2 ex. R 102.365. Prov.: Bibl. Ch. Schmidt avec son ex-libris.
+          <lb/>GPR: Berlin RN.
+          <lb/>431
+          <lb/>CAPITO Wolfgang Fabricius
+          <lb/>[Strasbourg, W. Köpfell, 1524.
+          <lb/>Das die Pfafheit schuldig sey Burgerlichen Eyd zu¬
+          <lb/>thun On verletzung jrer Eeren. (feuille de lierre) Wolffgang
+          <lb/>Capito.
+          <lb/>A la fin: Geben Straszburg, am vij. tag Decembris
+          <lb/>M. D. XXiiij.
+          <lb/>In-4°, car. goth., 6 ff. non ch., sign. a, initiale ornée D au verso
+          <lb/>du titre.
+          <lb/>R102.366. Prov.: Recteur Müller, Quedlinbourg, 15/V. 1889, sans
+          <lb/>indic. du prix.
+          <lb/>Bibl. St. Guillaume, Strasbourg; GPB: Berlin BN. 432
+          <lb/>CAPITO Wolfgang Fabricius
+          <lb/>Strasbourg, W. Köpfel, 1524
+          <lb/>Antwurt D.Wolffgang Fab. Capi- tons auff Brûder
+          <lb/>Conradts Augu- stiner ordens Prouincials ver-manung,
+          <lb/>so er an gemein Eidgnoschafft (!) jüngst geschriben hat.
+          <lb/>Darinn gewalt der kirchen vnd der geschrifft gegen
+          <lb/>ein-ander verglichen würt, mit ablenung gemeiner
+          <lb/>eynrede wider daz Euangelion vnd spitzfün dige schelt¬
+          <lb/>wort so wider die diener des worts gemeinlich jnbracht
+          <lb/>werden.
+          <lb/>Worhafftig bericht von der Böemer historien, Auch
+          <lb/>welcher gestalt ein erbare gemeyn zû Straszburg gegen
+          <lb/>dem Prouincial vnd andern, jetzt jüngst! im Herbst mondt
+          <lb/>gehandelt hat... (3 lignes.)
+          <lb/>Gedruckt zû Straszburg durch Wolff Köpphel Mense
+          <lb/>Octobri. Anno 1524.
+          <lb/>In-4°, car. goth., 64 ff. non ch. sign. A-L, verso du dernier f.
+          <lb/>blanc, notes marginales, initiales ornées.
+          <lb/>Au verso du titre: Zu dem leser D. Capito... (1 p.)
+          <lb/>fol. a 2a: DEn Ersamen weisen herrn Burgermeistern
+          <lb/>vnd Rath der stat Milhau- sen im Sundtgau... Fa.
+          <lb/>Capito... — Geben Straszburg am2. tag Octobris.
+          <lb/>Anno 1524. (7 pages.)
+          <lb/>R102.364. Prov.: Bibliothèque Ch. Schmidt avec son ex-libris.
+          <lb/>BM Colmar; GPB: Berlin BN.
+          <lb/>433
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

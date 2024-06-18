@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:54.062446+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5134.tif
+IMAGE WIDTH: 2332
+IMAGE HEIGHT: 3852
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1442
+          <lb/>23 grav., copiées en format diminué de celles de l’édition originale de
+          <lb/>Wittenberg.
+          <lb/>Cette seconde partie, qui contient les livres historiques jusqu’à Esther
+          <lb/>inclusivement, étant datée du 1er juillet, tandis que la première partie
+          <lb/>est datée du mois de novembre, il faut admettre que la 2e a été imprimée
+          <lb/>avant la 1re et qu’après l’achèvement de celle-ci, Knoblouch a donné
+          <lb/>aux deux un titre général avec la date de la mise en vente. La 3e partie
+          <lb/>n’a paru qu’en mars 1525.
+          <lb/>Au verso du titre : Das Register über die Bücher! disses teils.
+          <lb/>R. 10.265 (3). Provenance inconnue.
+          <lb/>Schmidt VII, N° 283, 2e partie; Londres, British Museum, Cat. Gén.
+          <lb/>Vol. XVI, col. 425 : C37, h. 9.
+          <lb/>2295
+          <lb/>TESTAMENT DAS ALTE
+          <lb/>Strasbourg, J. Knobloch, 1524
+          <lb/>DAS Alte Testament Deutschnach vrsprünglicher
+          <lb/>Hebreischer warheit.
+          <lb/>Mit schöner der schwersten! orter auszlegung. !! M. Luthers.
+          <lb/>Zu Straszburg bey Johan. !! Knoblouch, im Winter- monat
+          <lb/>des Jars M. D. XXIII.
+          <lb/>A la fin : Gedruckt zu Straszburg durch Johannem!! Kno¬
+          <lb/>blouch, nach Christi geburt M.D. XXIIII.
+          <lb/>In-fol., car. goth., 6 ff. non ch., CLI ff. ch. 1 f. blanc, titre courant,
+          <lb/>réclames, notes marg., init. ornées et goth., titre encadré, en haut, combat
+          <lb/>entre des guerriers antiques; les bandes latérales forment chacune deux
+          <lb/>étages, dont 3 sont partagés au milieu par une colonne, le quatrième a
+          <lb/>une colonne de chaque côté, à gauche au haut il y a des enfants qui jouent,
+          <lb/>au bas un homme nu armé d’une massue; à droite, au haut deux femmes
+          <lb/>et trois hommes sur un balcon, au bas un homme et une femme; dans
+          <lb/>la bande inférieure trois hommes fuyant devant un dragon.
+          <lb/>51 grav. de la grandeur du tiers d’une page. Celle du fol. 40a, répétée
+          <lb/>avec un léger changement au fol. 151b porte la date 1524. Cette première
+          <lb/>partie de l’Ancien Testament contient le Pentateuque. Au verso du titre:
+          <lb/>Die bücher des Alten Testaments. XXIIII. (Énumération des 24 livres).
+          <lb/>fol. 2a non ch. Vorrede Martini Luther. (Préface de 10 pp.).
+          <lb/>R. 10.265 (2). Provenance inconnue.
+          <lb/>Schmidt VII, No 283; Londres, British Museum, Cat. Gén. XVI,
+          <lb/>col. 425 a un exemplaire avec le même titre : Strassburg im Hornung
+          <lb/>1524.
+          <lb/>2296
+          <lb/>TESTAMENTUM NOVUM
+          <lb/>Strasbourg, Th. Rihel, s. d.
+          <lb/>Novum Te-] stamentum Iesu!! Christi, Filii Dei, Pri-!! mo
+          <lb/>quidem studio &amp;amp; industria D. Erasmi Roterod, ac- curatè
+          <lb/>editum, nunc autem magna diligentia col- latis compluribus
+          <lb/>exemplarijs denuò!! expressum.
+          <lb/>His accesserunt Argu-menta singulorum capitum, ita
+          <lb/>confecta, ut permultùm! &amp;amp; inuentionem &amp;amp; memoriam iuvare
+          <lb/>possint. Cum In-dice Euangeliorum &amp;amp; Epistolarum, quae
+          <lb/>per anni cursum,tam in diebus Dominicis, quam Festis,
+          <lb/>memoriaeDiuorum sacris recitari consueuerunt.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

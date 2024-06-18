@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:02.318730+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002027.tif
+IMAGE WIDTH: 2484
+IMAGE HEIGHT: 3964
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>[ARNAULD Antoine); Antiespagnol. Das ist ein kurtz, doch
+          <lb/>genug auszführliches Tractetlein... — [Strasbourg, Bern.
+          <lb/>Jobin] 1590, in-4°. (Attribué par quelques-uns à Fischart
+          <lb/>comme le n° précédent).
+          <lb/>Hauffen, Fischart-Studien dans Euphorion X, p. 18/19, ne
+          <lb/>pense pas que Fischart soit le traducteur: Halle (Marien¬
+          <lb/>bibliothek). Une autre éd. : Antiespagnol Oder Ausfürliche
+          <lb/>Erklerunge... — [Strasbourg, Bernard Jobin vers 1590),
+          <lb/>in-4°. — Munich. Voir : Englert dans Alemannia 19 p. 118-125
+          <lb/>et Hauffen.
+          <lb/>856
+          <lb/>[ARNAULD, Antoine): Discours sur l’état présent de la France
+          <lb/>(traduit en allemand par J. Fischart). — Getruckt durch
+          <lb/>Haloyonicum Windstill zur kleinen Rhuwart (plutôt
+          <lb/>Strasbourg, Bernard Jobin] 1589, in-4°.
+          <lb/>GKVI, 8993.
+          <lb/>857
+          <lb/>ARNOBIUS Afer (Gallus) :.. Commentarii pii iuxta ac
+          <lb/>sinceriter eruditi. In omnes psalmos, Sermone Latino,
+          <lb/>sed tum apud Afros vulgari per Erasmum Roterodamum
+          <lb/>proditi et emendati. Cum D. Erasmi... praefatione... —
+          <lb/>(Strasbourg, Jean Knobloch décembre 1522), in-4°.
+          <lb/>GKVII, 1177; B N Berlin, Munich, Vienne etc. Panzer 6,
+          <lb/>100, 629; Schmidt VII, n° 247 : B N Strasbourg (introuvable).
+          <lb/>858
+          <lb/>ARNOBIUS. Voir aussi: RITTER, Rép. n° 83.
+          <lb/>ARNOLDUS de Villa Nova : Opera quae edita sunt hactenus
+          <lb/>omnia... Per Gualtherum H. Ryff. Vol. I. — Strasbourg,
+          <lb/>Pistor 1541, in-80.
+          <lb/>GKVII, 2372: BN Berlin, Vienne.
+          <lb/>859
+          <lb/>ARNOLDUS de Villa Nova : (Von Bereitung und Brauchung
+          <lb/>der Weine), fol. 2a : Hye nach volget ein loblich tractat
+          <lb/>eins fürnemen doctors der artzney... — Strasbourg,
+          <lb/>Jean Schott s. d., in fol. — S. H. Scott, Suppl. Schmidt
+          <lb/>II, n° 1; Proctor 392 A. — Londres, Brit. Museum. 860
+          <lb/>25
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

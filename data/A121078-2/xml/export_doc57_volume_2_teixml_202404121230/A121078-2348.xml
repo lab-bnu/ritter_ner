@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:36.794739+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2348.tif
+IMAGE WIDTH: 2330
+IMAGE HEIGHT: 3818
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>244
+          <lb/>fol. 2a: Préface de Jean Sturm au prince électoral Hermann,
+          <lb/>archévêque de Cologne; fol, 5 blanc, fol. Ga: Petro Bembo; fol. aa 2b:
+          <lb/>Index; fol. aa 3: blane.
+          <lb/>[Vol. III]: M. T. CICERONIS ORATIONVM VO-] LVMEN
+          <lb/>TERTIVM.
+          <lb/>Marque typ. comme dans les 2 vol, précédents.
+          <lb/>ARGENTORATI! M. D. LXIIII. (Verso blanc.)
+          <lb/>A la fin: ARGENTORATI Excudebat Iosias Rihelius, Anno
+          <lb/>M. D. LXIIII.
+          <lb/>In-80, car. ital., 7 ff. non ch., 273 ff. ch. (commençant avec chiffre
+          <lb/>3 et finissant avec chiffre 275, en plus 15 ff. non ch. (Elenchus et In¬
+          <lb/>dex), titre courant, réclames, initiale ornée G, le reste initiales d’attente.
+          <lb/>fol. 2a non ch.: Préface de Jean Sturm:, ad Michaelem,
+          <lb/>Comitem Wertheimensem.
+          <lb/>fol. 4a non ch.: LIBRARIVS; fol. 5a non ch.: IACOBO SApO¬
+          <lb/>LETO,! ANDREAS NAVG. (6 p.)
+          <lb/>R101.663. Prov. des 2 premiers vol.: O. Harrassowitz, Leipzig
+          <lb/>(Cat. 57, No 847), 28/x 1879, 2 M. — Prov. du 3e vol.: Ed. Zahn,
+          <lb/>Hirsau, 9/IX. 1886.
+          <lb/>A l&amp;#x27;extérieur du Ier plat du Ier vol.: «MSF», au bas -1565»,
+          <lb/>du 2e vol. «VZE», au bas «1564»; au milieu du titre du 3e vol.;
+          <lb/>«Sum ex libris Ioannis Simonis Löberti. Anno 1665.» Rel, anc.
+          <lb/>BN Paris X. 4612. GPB: Vol. II seul: BN Berlin, B U Bres¬
+          <lb/>521
+          <lb/>lau, Halle, Kœnigsberg.
+          <lb/>Strasbourg, J. Rihel, 1564.
+          <lb/>CICERO
+          <lb/>M. T. CICERO-NIS DE OFFICHS, LIBRI III.
+          <lb/>Cato maior, siue de Senectute. Laelius, siue de Ami¬
+          <lb/>citia.Somnium Scipionis.Paradoxa. Sylloge lib. de
+          <lb/>Repub.
+          <lb/>θεοὸώρου περε γήρως έρμη- véια, κάι ὀναιρος Σκι- τvς
+          <lb/>POST POSTREMAM NAVGERIA-nam, &amp;amp; Victorianam correc¬
+          <lb/>tionem. Emendata à IOANNE STVRMIO. Cum INDICE locu¬
+          <lb/>pletissimo.
+          <lb/>Additae etiam sunt Erasmi Roterodami, &amp;amp; Philippi
+          <lb/>Melanchthonis &amp;amp; Bartholomaei Latomi an-! notationes in
+          <lb/>eosdem libros.
+          <lb/>Omnia, quàm antehac, &amp;amp; locupletiora &amp;amp; emendatiora.
+          <lb/>CVM GRATIA ET PRIVILE-] gio Caesareo ad annos octo.
+          <lb/>M. D. LXIIII. (Verso blanc.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

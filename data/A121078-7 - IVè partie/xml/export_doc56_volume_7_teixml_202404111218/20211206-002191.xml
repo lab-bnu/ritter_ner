@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:06.523949+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002191.tif
+IMAGE WIDTH: 2498
+IMAGE HEIGHT: 3996
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>FORMULA : (Idem). — (Strasbourg, Martin Flach décem¬
+          <lb/>bre 1521), in-40.
+          <lb/>Schmidt VI, p. 35, n° 63; Weller 1771 (L’ex. de la B N de
+          <lb/>Strasbourg manquait déjà avant 1918).
+          <lb/>1753
+          <lb/>FORMULARE instrumentorum. Nec non Ars Notariatus... —
+          <lb/>(Strasbourg, Jean Knobloch 1504), in-8°,
+          <lb/>Schmidt VII, n° 7 : B M Mayence; Weislinger Catal, p. 244.
+          <lb/>(Ritter, Rép. n° 878 ; éd. Knobloch 1516).
+          <lb/>1754
+          <lb/>FORTUNATUS : Von Fortunatus und seinem Seckel auch
+          <lb/>Wünschhütlein. — Strasbourg, 1546, in-80.
+          <lb/>Weller, Annalen II, 310, n° 15; Heitz-Ritter n° 166; Goedeke
+          <lb/>I2, p. 354; Sur Fortunatus, voir aussi : Günther : Fortunatus
+          <lb/>nach dem Augsburger Druck 1509. (Neudrucke des XVI u.
+          <lb/>XVII. Jhd., fasc. 240-241).
+          <lb/>1755
+          <lb/>FORTUNATUS : (Idem). — Strasbourg, Christian Müller
+          <lb/>(Mylius] 1558, in-40.
+          <lb/>Heitz-Ritter, n° 171 : Bibl. Wolfenbüttel.
+          <lb/>1756
+          <lb/>Heitz-Ritter, n° 172a.
+          <lb/>1757
+          <lb/>FOXE, John : Commentarii rerum in ecclesia gestarum
+          <lb/>maximarumque persecutionum a Wiclefi temporibus
+          <lb/>descriptio usque ad annum M. D. — Strasbourg, Wendelin
+          <lb/>Rihel 1554, in-80.
+          <lb/>englischen Philologie, Heft 91, p. 55 suiv. et p. 320. 1758
+          <lb/>FOXE, John : (Idem). — Strasbourg, Wendelin Rihel 1556,
+          <lb/>in-8°. Ritter, Hist. impr. p. 264.
+          <lb/>1759
+          <lb/>FOXE, John : (Idem). — Strasbourg, Josias Rihel 1564,
+          <lb/>in-8°. (Profitant des exemplaires de son père, Josias
+          <lb/>189
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

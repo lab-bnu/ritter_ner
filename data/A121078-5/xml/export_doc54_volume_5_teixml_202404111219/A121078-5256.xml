@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:58.610401+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5256.tif
+IMAGE WIDTH: 2402
+IMAGE HEIGHT: 3860
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1566
+          <lb/>In-8°, car. ital., 30 ff. ch. (le dernier chiffré par erreur 20 au lieu de 30),
+          <lb/>titre courant, réclames, init. à fig. O.
+          <lb/>fol. 2a : Henrico Knol-!] lo Nobili Anglo : Hieronymus Zanchus...
+          <lb/>(Dédicace de 6 pp. en car. rom.).
+          <lb/>A la fin du traité... Vale: &amp;amp; munusculum hoc meum... accipe. Argentina.
+          <lb/>Calend. Febr. 1563 11 (Vignette).
+          <lb/>R. 100.554. Prov. : Rosenthal, Munich, 18/x, 1893; 30 M. 2509
+          <lb/>ZANCHI Girolamo
+          <lb/>Strasbourg (?) 1564
+          <lb/>Het ghevoe-len Jeronymi Zanchi Bergomatis, des
+          <lb/>Leeraers der!! Godlicker Schrift binnen Straesburch:
+          <lb/>Van den twist aengaende den handel des Nachtmaels, die de
+          <lb/>Sassensche hebben teghen de Switsersche, ende alle! andere
+          <lb/>ghereformeerde! Ghemeynten. Wt den Latijne in Neder¬
+          <lb/>duydtsch ghe-trouwelick ouergheset.
+          <lb/>Ghedruckt, Anno 1564. (Verso blanc.)
+          <lb/>A la fin : Wt Straesburch, den eersten Februarh,Anno
+          <lb/>1563.
+          <lb/>In-8°, car. goth., 20 ff. non ch., sign. A-C, titre courant, réclames,
+          <lb/>notes marg.
+          <lb/>fol. A 2a : Voorreden.Den Edelen Henrich!! Knoll, wt Engelandt
+          <lb/>geboren, wenscht! Jeronymus Zanchus gheluck !! ende salicheyt.
+          <lb/>(Préface de 4 pp.).
+          <lb/>R. 102.207. Prov. : A. F. Butsch, Augsbourg, 2/xI, 1887; 14 M.
+          <lb/>Il est douteux que le livre ait été imprimé à Strasbourg, c’est peut-être
+          <lb/>plutôt à Anvers ou à Londres.
+          <lb/>Bibliographie de Zanchi : Schottenloher II, Nos 22869-22871.
+          <lb/>2510
+          <lb/>ZARTLIN Conrad, Ermanung das ein yeder beydem rechten,
+          <lb/>alten Christen glauben bleiben soll... Voir: HUTTEN, Concilia
+          <lb/>wie man die halten soll. S. l. n. d. (Strasbourg, J. Schott, 1521.]
+          <lb/>R 102.113; n° 1227.
+          <lb/>ZASIUS Udalricus
+          <lb/>Strasbourg, J. Grüninger, 1508
+          <lb/>Questiones : de paruulis Iudeorum Baptisandis : a commu¬
+          <lb/>ni doctorum assertione dissidentes. In quibus prae-ter
+          <lb/>stili nitorem: rara : iucunda &amp;amp; grata inue nias. Ab excellentiss,
+          <lb/>viro Udalrico Za sio: legum doctore: earundemque! In
+          <lb/>Gymnasio FriburgensiOrdinario:editae.
+          <lb/>A la fin : Argentinae Prouidus vir Ioannes Gruniger!! Impres¬
+          <lb/>sit. Io. Adelpho castigatore !I Anno salutis. M. D. VIII.
+          <lb/>In-4°, car. rom., 53 ff. non ch., sign. A-H, titre courant, notes marg.,
+          <lb/>init. ornées D, M et init. d’attente.
+          <lb/>Au verso du titre : Hieronimi Vehi Eiusdem Zasii di-Il scipuli... Deca II
+          <lb/>stichon (5 dist.).
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

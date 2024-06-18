@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:08.162050+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002248.tif
+IMAGE WIDTH: 2498
+IMAGE HEIGHT: 3950
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>HORATIUS (Sermones) : Sermonum libri duo. — Strasbourg,
+          <lb/>Mathias Schürer, janvier 1517, in-4°.
+          <lb/>Schmidt VIII, n° 207; Panzer 6, 84, 483.
+          <lb/>2051
+          <lb/>HORTULANUS (philosophus). Voir: ARs chemica n° 866.
+          <lb/>HORTULUS animae : Ortulus Anime... Dyses büchlin ein
+          <lb/>wurtzgart ist... — (Strasbourg) (Jean Grüninger, 4 mars
+          <lb/>1501), in-8°.
+          <lb/>Schmidt I, n° 56; Wackernagel 28. Weller, Rep. 191; Kristeller
+          <lb/>91. B N Berlin et Stiftsbibl. S. Gall.
+          <lb/>2052
+          <lb/>HORTULUS animae : Ortulus anime... Der selen gaertlin. —
+          <lb/>(Strasbourg, Jean Wähinger (31.VIII] 1502), in-8°.
+          <lb/>Schmidt IV, p. 13, n° 1; Vogeleis p. 159. — Jadis Bibl. de
+          <lb/>Strasbourg, Incun, n° 2626 et Stiftsbibl. S. Gall. 2053
+          <lb/>HORTULUS animae : — denuo diligenter et exacte castigatus.
+          <lb/>— (Strasbourg, Jean Wähinger (6 février] 1503), in-8°.
+          <lb/>Vogeleis, p. 158/9; Schmidt IV, p. 13, n° 2 : B M Zurich.
+          <lb/>L’Art ancien S. A. Zurich, Liste 179, p. 21, no 76 ; 1200 frs
+          <lb/>suisses. [Une autre éd. de Wähinger en 1503, voir Schmidt IV,
+          <lb/>p. 14, n° 3 et Ritter, Rép. n° 1204l.
+          <lb/>2054
+          <lb/>HORTULUS animae (en allemand). — Strasbourg, Jean
+          <lb/>Grüninger (7.1X.11503, in-80.
+          <lb/>Panzer, Annalen I, 492; Schmidt I, n° 64. — BN Munich.
+          <lb/>2055
+          <lb/>HORTULUS animae. — (Getruckt zu Straszburg durch
+          <lb/>Johannem Wähinger (6.III.) 1504), in-8°.
+          <lb/>Schmidt IV, p. 14, n° 4; Weller 276. — BN Munich. 2056
+          <lb/>HORTULUS animae: (Idem). — Strasbourg, Jean Grüninger
+          <lb/>(7.XI.] 1505, in-80.
+          <lb/>Panzer 6, 32; Schmidt I, n° 72.
+          <lb/>2057
+          <lb/>246
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

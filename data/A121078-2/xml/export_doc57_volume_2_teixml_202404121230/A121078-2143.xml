@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:30.685950+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2143.tif
+IMAGE WIDTH: 2314
+IMAGE HEIGHT: 3826
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>139
+          <lb/>fol. 2a non ch.: Bande d’ornement, au-dessous :...Herrn
+          <lb/>Eberhart, Herren zu Rapoltsstein Ho-[henack vnd Geroltzeck
+          <lb/>am Wasichin, &amp;amp;cMeinem Gnädigen Herrn... — Datum
+          <lb/>Forpach, den ersten Septembris, Anno 1586.Johann
+          <lb/>Fischart G. M. [–Genant Menzer ] der Rechten D. vnnd
+          <lb/>Amptmann zu Forpach. (Préface de 2 ff.)
+          <lb/>fol, 4a non ch.: Vorwarnung von Lesung vnd Vrtheilung
+          <lb/>folgender Bücher, (1 page.) Suivent 17 pp.: Vorred vom Zauber¬
+          <lb/>werck, avec répétition du titre.
+          <lb/>R1052101), Prov.: Bibl. W. Menzel, 19.111.1874 avec l’autographe
+          <lb/>de Wenzel au verso du f. de garde; sans indication de prix.
+          <lb/>2. ex. D 18.670.(2) Bibl. W. Menzel, Mars 1874.
+          <lb/>GPB: Berlin SB, Bonn UB, Göttingen UB, Münster UB.
+          <lb/>223
+          <lb/>BODIN Joh.
+          <lb/>Strasbourg, L. Zetzner, 1599.
+          <lb/>JO. BODINI ! METHODVS AD ( FACILEM HISTO-) riarum
+          <lb/>cognitio- nem; ACCVRATE DE- nuo recusa: Subiecto
+          <lb/>rerum Indice.
+          <lb/>Marque typographique de Zetzner. (semblable à H.d B., Planche
+          <lb/>XLY mais à peu près un centimètre plus grand avec les mots: Scientia
+          <lb/>immutabilis des 2 côtés.)
+          <lb/>ARGENTINAE Impensis Lazari Zetzneri.) M. D. XCIX.
+          <lb/>In-8, car, rom., 8 ff. non ch. (Préface de Bodin et Index), 550
+          <lb/>pages ch. — 5 ff. non ch. à 2 col. (Index in methodum); titre courant,
+          <lb/>réclames, notes marginales, vignettes.
+          <lb/>R101093. Prov.: Trübner, Strasbourg (Vente Dock, No 42)
+          <lb/>22.X.1890; 2 M. Rel. anc. A l&amp;#x27;extérieur du premier plat au haut,
+          <lb/>MGTSN, au bas, 1621.
+          <lb/>GPB: Breslau UB, Halle UB.
+          <lb/>224
+          <lb/>BOETHIUS
+          <lb/>[Strasbourg, J. Grüninger, 1501.
+          <lb/>Boetius de Philoso! phico consolatu! siue de conso¬
+          <lb/>latione philosophiae: cum fi- guris ornatissimis nouiter
+          <lb/>expolitus.
+          <lb/>A la fin: Impressum Argentinae per Iohannem grüninger
+          <lb/>Anno incarnationis domini Millesimo quingen! tesimo primo.
+          <lb/>Kalendas vero, viii. Septembris.
+          <lb/>Au-dessous, marque typographique de J. Grüninger. (H.dB.
+          <lb/>Planche I, No 1; Silvestre, N° 503.) (Verso blanc.)
+          <lb/>In-fol, texte et gloses marginales en car, rom., titres et glose
+          <lb/>interlinéaire en car. goth., 10 ff. non ch., CXXVI ff. ch, titre courant,
+          <lb/>notes marginales, initiales ornées et initiales à fig., 77 belles gravures
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

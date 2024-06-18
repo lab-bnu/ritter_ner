@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:14.632702+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002531.tif
+IMAGE WIDTH: 2524
+IMAGE HEIGHT: 3986
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>heist Willisaw, dry myl von Lutzern, von dryen gesellen,
+          <lb/>die mit einander gespilt habend... En bas : In truck
+          <lb/>gegeben durch Heinrich Wirri Burger zu Soloturn im
+          <lb/>1553. Getruckt zu Strassburg bey Augustin Friess 1553.
+          <lb/>placard in-fol. (Variante la même année sans le nom de
+          <lb/>l’imprimeur à la Bibl. Centrale de Zurichl.
+          <lb/>Baechtold, p. 417, Fehr, p. 103-104, planche 44. Bibl. Centrale
+          <lb/>de Zurich 11/12/42 et 13/15.
+          <lb/>3550
+          <lb/>WIRRY, Heinrich (Der Schneider). Voir : Ein hüpsch Neüw
+          <lb/>LIED, Wie der König von Frankreich in Deutschland
+          <lb/>eingezogen, n° 2318.
+          <lb/>WIRRY : Lobspruch auf Straszburg. — Strasbourg 1576.
+          <lb/>Voir : Baeseke : Fischarts Glückhaft Schiff (Neudrucke des
+          <lb/>XVI. u. XVII. Jhd., fasc. 182), p. XXI : Exemplar in Berlin.
+          <lb/>3551
+          <lb/>WOLF, Heinrich : Herliche Medicische (sic) Tractat vor nie
+          <lb/>in truck komen. — Strasbourg, Bernard Jobin 1576.
+          <lb/>A la suite de : Dominique Burgauer, Ob das Podagram
+          <lb/>möglich zu genaeren oder nicht... (fol. C 3b-E 5b).
+          <lb/>Hauffen, Werke Fischarts II, p. XLIV.
+          <lb/>3552
+          <lb/>WOLF, Thomas : In Psalmum domine quis habitabit in
+          <lb/>tabernaculo tuo. — Strasbourg, Jean Grüninger, 26 mai
+          <lb/>1508, in-40.
+          <lb/>Schmidt, Hist. litt. II, p. 397, n° 219.
+          <lb/>3553
+          <lb/>WOLFGANG (Bischof). Voir : HISTORIE (des Bischofs S. Wolf¬
+          <lb/>gang), n° 2026.
+          <lb/>WOLKENSTEIN, David : Psalmen, Für Kirchen und Schulen
+          <lb/>auff die gemeine Melodejen syllaben weiss zu vier
+          <lb/>Stimmen gesetzt... — Strasbourg, Nicolas Wyriot 1582,
+          <lb/>in-40.
+          <lb/>Vogeleis, p. 347.
+          <lb/>3554
+          <lb/>529
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

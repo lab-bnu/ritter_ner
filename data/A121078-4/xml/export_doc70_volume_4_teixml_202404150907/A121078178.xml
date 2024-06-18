@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:47.586714+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078178.tif
+IMAGE WIDTH: 2304
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1064
+          <lb/>Sermones duplices. In Quadragesima pariformiter per
+          <lb/>singulas ferias. (Verso blanc.)
+          <lb/>A la fin: Sermones de tempore hyemales Expensis
+          <lb/>circumspecti viri Joannis Ryn! man de Oringaw in officina
+          <lb/>Industrii Henrici Gran civis in oppido Ha genau impres
+          <lb/>si : Anno gratie M. d. x. die vero decimo Januarii finiunt
+          <lb/>feliciter.
+          <lb/>In-40, car. goth., 2 col., CCXV ff. ch., tître courant, init. d’attente.
+          <lb/>R101409 (1). Prov.: Don de la ville de Heilbronn 1871. Note
+          <lb/>ms.: Ex legato Egregii viri Artium ac sacre Theologiae doctoris do¬
+          <lb/>mini Joannis Krener ex Scherding Concionatoris Heilpronensis.
+          <lb/>1634
+          <lb/>NICOLAUS DE NYSE
+          <lb/>Haguenau, H. Gran 1510
+          <lb/>Sermones de SanctisHyemalesEstivales Jesu
+          <lb/>christi De festivitatibus
+          <lb/>beatae virginis et aliorum
+          <lb/>Sanctorum. de quot. quibus et ubi; vide folio sequenti....
+          <lb/>A la fin: Finiunt sermones... Impressi deni-que cir¬
+          <lb/>cumspecti viri Joannis Rynman de Oringaw archibiblio¬
+          <lb/>pole: in offi cina industrii Henrici Gran: in oppido impe¬
+          <lb/>periali Hagenaw civis impressi Anno gratie. Md X. die
+          <lb/>autem. xix. mensis Martii finiunt feliciter.
+          <lb/>In-4°, car. goth., 2 col., 6 ff. non ch. (titre et table), CCLXXXIX
+          <lb/>ff. ch. et 1 f. blanc, titre courant, init. d’attente. Au verso du titre:
+          <lb/>Calchographo: quidam frater Minor : Sermonum sequentium preconis
+          <lb/>subditus imeritus. (17 lignes.)
+          <lb/>R101.410. Prov. : Don Fidelis Butsch fils, antiquaire à Augs¬
+          <lb/>bourg 1871; au dessus du titre : Monasterii Ranshoven.
+          <lb/>2ème ex.: Ri01408. Prov.: BN Munich 15/x 1877; 2 M. Au
+          <lb/>dessus du titre: coenobii chiemensis; à l’intérieur du Ier plat: ex-libris
+          <lb/>encadré des mots :, Iacobus D. G. Praepositus et Archidiaconus Natus
+          <lb/>Cathedr. et Reg. Ecclesiae Chiemensis.6 Au-dessous : A. 1691. I. Franck
+          <lb/>sculpsit.
+          <lb/>3ème ex.: R101.409 (3). Prov. : Don de la ville de Heilbronn
+          <lb/>1871, dont l’ex-libris se trouve au verso du titre; à l&amp;#x27;intérieur de la
+          <lb/>couverture: Ex legato Egregii viri Artium ac sacrae Theologiae doctoris
+          <lb/>domini Ioan. Krener ex Scherding Concionatoris Heylpronensis.
+          <lb/>Proctor II Sectio I n° 11645: Londres, Brit. Museum. 1635
+          <lb/>NICOLAUS Panormitanus. Voir: TUDESCHIS Nicolaus de
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

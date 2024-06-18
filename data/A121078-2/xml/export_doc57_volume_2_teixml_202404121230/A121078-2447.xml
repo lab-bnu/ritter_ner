@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:39.568966+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2447.tif
+IMAGE WIDTH: 2400
+IMAGE HEIGHT: 3820
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>21
+          <lb/>E
+          <lb/>M
+          <lb/>e
+          <lb/>In-fol., car goth., 2 col. CII ff. ch., titre courant, initiales ornées.
+          <lb/>Au verso du titre, texte du privilège impérial pour 3 ans.
+          <lb/>fol. 2a: GEORGIO NIGRI EX LAPIDE LEONIS HUMA NE
+          <lb/>ET DIVINE PHILOSOPHIE PROFESSORI ORDINARIO HEIDELBER¬
+          <lb/>GENSI IACOBVS WIMPHELINGIVS SELESTANVS... (Préface d’une
+          <lb/>page et demie.)
+          <lb/>fol. 3 a: BALTHASARI GERHARDO DOMVS IOANNI TARVM
+          <lb/>VIRIDIS INSULAE ARGENTINENSIS COMMENDATORI PATRI PLV¬
+          <lb/>RIMVM OB SERVANDO IACOBVS Wimphelin gvs Selesta¬
+          <lb/>nvs... — Ex Selestadio penul tima Aprilis Anno Christi
+          <lb/>tertio decimo supra sesquimillesimum.
+          <lb/>Au verso: Ex LIBRO IOANNIS TRITTENHEMII AB BATIS
+          <lb/>SPANHEMENSIS DE SCRIP TORIBVS ECCLESIASTICIS.
+          <lb/>Suivent 3 ff. d’Index.
+          <lb/>R10314. Prov.: Butsch fils, Augsbourg, 12/X. 1883; 4M50.
+          <lb/>Au haut du titre: Cartusiae Buxiensis.
+          <lb/>BN Paris, Rés. A. 1186; Proctor II, Sectio 1, No 9933: Londres,
+          <lb/>British Museum, 467. d. 5. fol. I1a.
+          <lb/>Schmidt I, No 138, cite un exemplaire de Bâle et de Jadis Bibl.
+          <lb/>de Strasbourg, incun. 1661, avee un autre titre : Erudita admodum pre¬
+          <lb/>claraque expositio! in Euangelium secundum Ma theum di! uini Ser¬
+          <lb/>monis... F. Christiani Druthinari (!).. A cause de la faute Druthinar au
+          <lb/>lieu de Drutmar, Schmidt pense qu’on a fait un nouveau titre corrigé
+          <lb/>comme il se trouve dans l’exemplaire de la BN de Strasbourg et dans
+          <lb/>la Bibl. St. Guillaume de Strasbourg.
+          <lb/>Brunet I15, 844 : Ouvrage qu’une exacte suppression a rendu très
+          <lb/>rare (40 fr. mar. r. Mac-Carthy); l’édition de Haguenau, 1530 ne l’est pas
+          <lb/>moins; mais le texte en a été réproduit dans la Bibliotheca max. Patrum,
+          <lb/>t. XV. p. 86 et suiv.
+          <lb/>664
+          <lb/>443
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

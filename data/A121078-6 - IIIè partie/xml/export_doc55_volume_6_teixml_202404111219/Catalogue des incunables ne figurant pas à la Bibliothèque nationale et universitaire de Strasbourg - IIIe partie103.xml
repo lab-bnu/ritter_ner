@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:06.656494+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie103.tif
+IMAGE WIDTH: 2490
+IMAGE HEIGHT: 3934
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>VERSOR, Johannes: Commentum valde utile. — Strasbourg
+          <lb/>1491, in-4°.
+          <lb/>Hain 16061.
+          <lb/>669
+          <lb/>VERSOR, Johannes : Super Donato. — [Strasbourg, Jean
+          <lb/>Grüninger s. d.), in-4°.
+          <lb/>Hain 16057 (d’abord 2709); Voulliéme : Berlin 2328, 5. 670
+          <lb/>VINCENTIUS Bellovacensis (Pseudo-]: Speculum morale. —
+          <lb/>Strasbourg, Jean Mentelin 9 novembre 1476, in-fol.
+          <lb/>Manque chez Hain; Brunet V, 1253; Brit. Mus. Cat. I, 58;
+          <lb/>Schorbach, Anhang p. 22*, n° 36 : Breslau, B M Colmar
+          <lb/>(Pellechet 1319), B N Munich, BN Paris, Prague, Reims et
+          <lb/>autres.
+          <lb/>671
+          <lb/>VINCENTIUS, Bellovacensis : Speculum doctrinale. —
+          <lb/>(Strasbourg, imprimeur de R bizare — Adolphe Rusch,
+          <lb/>s. d.], in-fol.
+          <lb/>Copinger 6256; Proctor 253; Ritter, Gr. Sém. Strasbourg,
+          <lb/>n° 484. Voulliéme : Berlin 2130.
+          <lb/>672
+          <lb/>VIOLA sanctorum. — Strasbourg, Mathias Hupfuff 1492,
+          <lb/>in-40.
+          <lb/>Hain 10871; Schmidt V, n° I.
+          <lb/>673
+          <lb/>VIRGILIUS, Maro Publius : Opera. — (Strasbourg, Jean
+          <lb/>Mentelin vers 1470), in-fol.
+          <lb/>Copinger III, 5996; Madsen 4102; Proctor 219; Schorbach,
+          <lb/>Anhang p. 11, n° 15 : Besançon, Chantilly (Cond. Mus.)
+          <lb/>Darmstadt, Copenhague, Londres, Manchester, Oxford,
+          <lb/>BN Paris et Sainte Genev., BN Vienne.
+          <lb/>674
+          <lb/>VIRGILIUS, Maro Publius : Bucolica. — (Strasbourg,
+          <lb/>Henri Eggestein vers 1470), in-fol.
+          <lb/>Copinger III, 6111: BN Paris g. Yc. 157.
+          <lb/>675
+          <lb/>101
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

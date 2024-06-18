@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:38.343719+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu116.tif
+IMAGE WIDTH: 2406
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>REGIMEN sanitatis Salernitanum ab Arnoldo de Villa Nova
+          <lb/>ordinatum. Strasbourg, (impr. du Jordanus (—G.
+          <lb/>Husner)), 29 déc. 1491, in-4°.
+          <lb/>Hain 13758, Proctor 666, Voulliéme; Berlin 2446.
+          <lb/>K 3130. Prov.: B N Munich, 20/1. 1880, 1 M.
+          <lb/>408
+          <lb/>REGISTRUM ecclesiae argentinensis. (Strasbourg, J. Prüss,
+          <lb/>vers 1490?], in-8°.
+          <lb/>Copinger 5076, Schramm, Bilderschmuck XX, grav. N° 1234.
+          <lb/>K 3143. Prov.: Don de la Bibl. Univ. de Heidelberg, 1871
+          <lb/>avec le cachet de cette Bibliothèque au bas du titre. Notes
+          <lb/>mss. A l&amp;#x27;intérieur du 1er plat: «M. Balthasar Ganser Herber¬
+          <lb/>tingensis». Au-dessous: «Marcus Niibling Friburgensis». Au¬
+          <lb/>dessus du titre: «Monasterij D. Ethonis». Rel. anc. 409
+          <lb/>REGNIERIUS ELIAS: Casus longi Sexti et Clementinarum.
+          <lb/>(Strasbourg, J. Prüss), 1488, in-fol.
+          <lb/>Hain 13812, Pellechet: Colmar 1140, Proctor 540, Voulliéme:
+          <lb/>Berlin 2349.
+          <lb/>K 3146. Prov.: B N Munich, 20/1. 1880, 1 M. A la suite de
+          <lb/>Bernardus Parmensis, Casus longi, Strasbourg 1488, K 669.
+          <lb/>410
+          <lb/>REGNIERIUS ELIAS: Casus longi Sexti et Clementinarum.
+          <lb/>Strasbourg (impr. du Jordanus (—G. Husner)),
+          <lb/>18 août 1496, in-fol.
+          <lb/>Hain 13816, Madsen 3471, Pellechet: Colmar 1141, Proctor
+          <lb/>669, Voulliéme: Berlin 2464.
+          <lb/>K 3147. Prov.: Fid. Butsch fils, Augsbourg, 1871. Rel. anc.
+          <lb/>2e ex. K 1105, 2. Prov.; Don de la ville de Nördlingen, 1871.
+          <lb/>A la suite des Casus decretalium, Strasbourg 1493. K 1105, 1.
+          <lb/>411
+          <lb/>REMIGIUS: Fundamentum scolarium. Haguenau, H. Gran,
+          <lb/>1494, in-4°.
+          <lb/>Hain 13861, Proctor 3182, Schreiber 5087, Voulliéme: Berlin
+          <lb/>1174.
+          <lb/>K 3155. Prov.: Bibliothèque Ch. Schmidt, Strasbours, 10/IV.
+          <lb/>REUCHLIN JOHANNES : Vocabularius breviloquus. Strasbourg,
+          <lb/>impr. du Jordanus (— G. Husner)), 1488, in-fol.
+          <lb/>Copinger III 6293, Proctor 647, Voulliéme: Berlin 2419.
+          <lb/>K 3160c. Prov.: Henri Artur, Berlin, 5/III. 1891, 18 M. 413
+          <lb/>86
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:14.529967+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002524.tif
+IMAGE WIDTH: 2530
+IMAGE HEIGHT: 3954
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>unnd fürbildtnüssen fürbringet... — Mulhouse, P. Schmid
+          <lb/>1560, in-4°.
+          <lb/>Werner, p. 93, n° 7, note 1 : « La 5e éd. enfin, in-4°, imprimée
+          <lb/>à Mulhouse en 1560, se trouve à Berlin».
+          <lb/>3505
+          <lb/>WICKRAM, Jörg. (Idem). — Mulhouse, Pierre Schmid s. d.
+          <lb/>[vers 1561). Réimpression du précédent.
+          <lb/>Coudre, p. 76.
+          <lb/>3506
+          <lb/>WICKRAM, Jörg (Idem): Glücksrat oder Weltlich Loszbuch.
+          <lb/>— Strasbourg, Antoine Bertram 1594, in-8°.
+          <lb/>Graesse IV, p. 257.
+          <lb/>3507
+          <lb/>WICKRAM, Jörg (Narrenbeschwörung) : Die Narren besch¬
+          <lb/>werung... auff ein newes überlesen und an vil orten
+          <lb/>corrigiert. Auch die Reimen gesetzt und gebessert. —
+          <lb/>(Strasbourg, officine Jean Knobloch 1556), in-4°.
+          <lb/>Goedeke II2, p. 464, n° 18.
+          <lb/>3508
+          <lb/>WICKRAM, Jörg (Rollwagen) : Das Rollwagenbüchlein... —
+          <lb/>(Strasbourg 1555), in-8°.
+          <lb/>Heitz-Ritter, n° 513 : Bâle, Vienne, Wolfenbüttel.
+          <lb/>3509
+          <lb/>WICKRAM, Jörg (Idem) : Das Rollwagen büchlin. Ein neüws
+          <lb/>Büchlein, darinn vil guter schwenck und Historien
+          <lb/>begriffen werden, so man in schiffen und auff den
+          <lb/>rollwegen, deszgleichen in scherheüsern und badstuben
+          <lb/>zu langweiligen zeiten erzellen mag... Yetz widerumb
+          <lb/>von neüwem gedruckt, gemeeret und gebessert. —
+          <lb/>(Mulhouse, Jean Schirenbrand et Pierre Schmid) [vers
+          <lb/>1559), in-8°.
+          <lb/>Coudre, p. 77, n° VI ; Goedeke II2, p. 464, n° 14 d; Heitz¬
+          <lb/>Ritter, n° 517 : Berlin, Vienne.
+          <lb/>3510
+          <lb/>WICKRAM, Jörg : (Idem): Strasbourg, Christian Müller
+          <lb/>(Mylius] 1563, in-80.
+          <lb/>Heitz-Ritter, n° 518: B N Paris, Réserve 2091.
+          <lb/>3511
+          <lb/>522
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

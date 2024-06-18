@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:10.118875+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3265.tif
+IMAGE WIDTH: 2340
+IMAGE HEIGHT: 3858
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>707
+          <lb/>80, Antig, u. Kursiv, 393 num., 5 unn. Bll. (Index), 2 leere Bll,
+          <lb/>Kopft., Kust., Marg., zahlr. Init.
+          <lb/>R101.088. Prov.: Stadtbibl. Breslau 26. V. 1886. Alter Einband
+          <lb/>mit der Jahreszahl 1583.
+          <lb/>GE 4. 2354: SB Berlin, UB Greifswald, Königsberg.
+          <lb/>1041
+          <lb/>GRESEMUNDUS. Siehe: GRESMUNDUS
+          <lb/>GRESMUNDUS Theodericus
+          <lb/>[Strassburg, G. Husner nach dem 9. XI. 15021
+          <lb/>In hoc libello hec con! tinentur! Versiculi Theodorici
+          <lb/>Gresmundi Legum Doctoris Epistole Thome Wolffij iunio¬
+          <lb/>ris. Decretorum Doct.! Carmina Esticampiani Poete lau¬
+          <lb/>reati! Tetrastichon Jacobi Wimphelingi.Epistola Thome
+          <lb/>Murner. Lector eme et gaudebis. (Rücks, leer.)
+          <lb/>Am Schluss: Joannes Strosack feliciter impressit. (Rücks.
+          <lb/>leer.)
+          <lb/>40, Got., 6 unn. Bll., Sign. a.
+          <lb/>Bl. a 2a: Theodorieus GresemundusJunior Legum
+          <lb/>doctor Jacobo Wymphe lingo. S. d. p.... Ex Spira. V. idi¬
+          <lb/>bus Nouembri. 1502.
+          <lb/>Bl. a 6a: Thomas Wolff iunior luris pontificij Do! ctor
+          <lb/>Alberto de Ratzsamhusen... Argentine cursim ex edibus
+          <lb/>nostris. Anno christi. M. d. ij.
+          <lb/>R100.119. Prov. : Bibl. Ch. Schmidt 10. V. 1895.
+          <lb/>Nach Proctor II Sectio I Nr. 9999 stammt der Druck von Georg
+          <lb/>Husner, nach Schmidt VII Nr. 2 von Knobloch. Gk: SB Berlin.
+          <lb/>Liebenau, Thomas Murner 1912, S. 30 Anm. 2: Angeblicher Drucker
+          <lb/>Johann Strosack; eher aber kommen hierfür noch Prüss oder Grieninger
+          <lb/>in Betracht. Vgl. Erhard, Gesch. des Wiederaufblühens wissenschaftl.
+          <lb/>Bildung III, 284; Ch. Schmidt, Zur Geschichte der Bibliotheken in Strass¬
+          <lb/>burg S. 87; Pfaff, Erster Freiburger Drucker, denkt an einen wandernden
+          <lb/>Drucker; nach Spirgatis (Verzeichnis des antiquar. Bücherlagers N° 44
+          <lb/>S. 66) wäre Herlin der Drucker. Uber Gresemund den Verfasser des Car¬
+          <lb/>men de historia violatae crucis (Archiv für Lit.-Gesch. XII, 357) vergl.
+          <lb/>Schunk, Beiträge II, 496: Archiv für Frankfurts Geschichte N. F. V, S. 363.
+          <lb/>Vgl. auch: Borries, Wimpfeling und Murner (1926) S. 43-47.
+          <lb/>1042
+          <lb/>GRESMUNDUS Theoderieus
+          <lb/>Strassburg, R. Beck 1512
+          <lb/>Historia violate crucis! Theoderici Gresemundi.
+          <lb/>Holaschn.: Christus am Kreuze; am Fusse des Kreuzes seine
+          <lb/>Mutter, Maria Magdalena u. Johannes.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

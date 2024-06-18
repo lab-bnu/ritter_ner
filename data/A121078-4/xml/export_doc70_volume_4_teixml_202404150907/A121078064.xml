@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:44.472354+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078064.tif
+IMAGE WIDTH: 2336
+IMAGE HEIGHT: 3844
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>950
+          <lb/>d’abondance; bandes latérales, des piliers ornés; bordure inférieure, des
+          <lb/>génies, tirant et poussant l’un d’entre eux couché sur un plat, un autre
+          <lb/>sonne de la trompette. Cadre employé aussi par Knobloch à Strasbourg
+          <lb/>et Thomas Anshelm à Haguenau. (Reproduit p. 945.)
+          <lb/>B 120718. Prov.: Bibl. Heitz, Strasbourg.
+          <lb/>Schmidt III p. 39 n° 37: Bibl. St. Guillaume Strasbourg; Weller,
+          <lb/>Repertorium n° 2973: Bâle, Zurich; il l’attribue à Th. Anshelm, Ha¬
+          <lb/>1425
+          <lb/>guenau; de même Kuczynski n° 1598.
+          <lb/>LUTHER Martin
+          <lb/>Strasbourg, J. Knobloch 1525
+          <lb/>DE CHRI
+          <lb/>STI IESV EX IVDAE¬
+          <lb/>is ortu, matris́ cius Mariæ uirgi¬
+          <lb/>nitate, Martini Lutheri Li¬
+          <lb/>bellus m Latinum uersus
+          <lb/>per Ioannem Lo¬
+          <lb/>nicerum.
+          <lb/>M. D. XXV.
+          <lb/>5a
+          <lb/>Verso blanc.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

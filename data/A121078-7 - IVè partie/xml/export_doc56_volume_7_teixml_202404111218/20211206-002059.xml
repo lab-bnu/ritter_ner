@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:03.081261+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002059.tif
+IMAGE WIDTH: 2484
+IMAGE HEIGHT: 3952
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>BORKOWSKI, Petrus : Disputatio XL. De legum necessitate
+          <lb/>ad rectam institutionem ac perfectionem bonorum
+          <lb/>morum (auspice Laur. Thomae Walliseri). — Strasbourg,
+          <lb/>Antoine Bertram 1598, in-40.
+          <lb/>Ritter : B M Strasbourg n° 575.
+          <lb/>1035
+          <lb/>BORRHANS. Voir: CELLARIUS, Mart, n° 1324.
+          <lb/>BOSCH, Mich. : Oratio atque praefatio de vita Platonis. A la
+          <lb/>suite de PLATO, Pro Socrate defensio (n° 2938). —
+          <lb/>Strasbourg, Ant. Bertram 1591, in-8°.
+          <lb/>1036
+          <lb/>BOSCH, Michael. Voir aussi: RITTER, Rép, nos 228-230.
+          <lb/>BOSCH, Sigmund von. Voir: LIEDER (zwei schöne geistliche:
+          <lb/>So will ich heben an) n° 2388; PLATo n° 2939.
+          <lb/>BoSSUS, Matthaeus: De immoderato mulierum cultu ad
+          <lb/>Bessarion exhortatio. — Strasbourg, Mathias Schürer
+          <lb/>1508, in-40.
+          <lb/>Schmidt VIII, n° 8; Weislinger, Cat. 33.
+          <lb/>1037
+          <lb/>BoSSus, Matthaeus : De passione Christi Sermo. Ex secunda
+          <lb/>recognitione. — Strasbourg, Mathias Schürer 1514,
+          <lb/>in-4°. ¡A la suite de : MACARIUS, Mutius, De triumpho
+          <lb/>Christi, 1514).
+          <lb/>Ritter: B M Strasbourg n° 577.
+          <lb/>1038
+          <lb/>BoSSUS, Matth. Voir aussi: RITTER, Rép, n° 231.
+          <lb/>BOTZHEIM, Johannes. Voir : LIEDER (zwei schöne neue
+          <lb/>geistliche) n° 2393.
+          <lb/>BRACHELIUS, Hieremias Thriverus. Voir : Fuchs, Leonhard
+          <lb/>n° 1800.
+          <lb/>BRANDAN St. : Sant Brandans leben, was wunders er uff mer
+          <lb/>erfaren hat. — (Strasbourg, Mathias Hüpfuff 1510),
+          <lb/>in-40.
+          <lb/>Schmidt V, 80: BN Munich; Panzer, Annalen I, 322. 1039
+          <lb/>57
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

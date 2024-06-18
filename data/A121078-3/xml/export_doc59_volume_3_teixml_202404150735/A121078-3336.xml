@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:11.803411+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3336.tif
+IMAGE WIDTH: 2376
+IMAGE HEIGHT: 3856
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>778
+          <lb/>mo- do omnibus predicare volenti- bus vtilis : verum
+          <lb/>etiam cunctis fidei christianae cultoribus! summe neces¬
+          <lb/>sarius, cum! thematibus sermo- num dominicalium! et
+          <lb/>de sanctis in generali ac! de beata! virgi- ne. (Rücks, leer.)
+          <lb/>Am Schluss: Hagenoie impen sis atque ere D. Joannis
+          <lb/>Ryn- man de Oringaw cura &amp;amp; operaHenrici Gran.
+          <lb/>Anno dominiM. D. xxi circa festum! sancti Georgij
+          <lb/>militis &amp;amp; martyris.
+          <lb/>40, Got., 2sp., 164 unn. Bll., Sign. A-Z, Aa-Ee, Kopft., Init.
+          <lb/>R 101.350. Geschenk von Prof. Dr. Barack, chemaliger Direktor
+          <lb/>1158
+          <lb/>der UB Strassburg, 1871.
+          <lb/>HERPF Henricus
+          <lb/>Hagenau, H. Gran 1509
+          <lb/>Tabula Sermonum vene randi patris fratris Hen! rici
+          <lb/>Herp Ordinis Minorum de ob- seruantia.
+          <lb/>De Tempore Sanctis Tribus partibus penitentie.
+          <lb/>Triplici adventu christi. (Rûcks. leer.)
+          <lb/>Am Schluss:... Sermones in quam! venerandi patris.
+          <lb/>F. Henrici herp. di! ui Ordinis fratrum Minorum de ob¬
+          <lb/>seruan- tia: olim prouincie Coloniensis prouincialis vi
+          <lb/>carij et Conuentus Mechliensis in quo et! sepultus est
+          <lb/>Guardiani dignissimi : Im pressi expensis circumspecti
+          <lb/>viri archibi bliopole domini Joannis Rynman de Orin¬
+          <lb/>gau in officina industrij henrici Gran Ci! uis in oppido
+          <lb/>imperiali Hagenau. Anno domini M. D. ix. in vigilia sancte
+          <lb/>Catarine regi! ne : virginisque et martyris. finiunt feliciter.
+          <lb/>40, Got., 2sp., 12 unn. (Index), 380 num. Bll., Sign. a—e, A-Z,
+          <lb/>AA-BB, Kopft., Init.
+          <lb/>R101.377. Prov.: Baer, Frankfurt a. M. 22. XI. 1878. Stammt
+          <lb/>aus dem Kapuzinerkloster in Bentzheim «ex liberali legatione Martini
+          <lb/>Engelhardi... Wangensis. 1636.»
+          <lb/>BN Paris, Rés. D 8087; Proctor II Sectio I Nr. 116.441: London
+          <lb/>Brit. Museum.
+          <lb/>1159
+          <lb/>HERR Michael. Siche: ELIMITHAR Elluchasem: Schachtafelen
+          <lb/>der Gesuntheyt. Strassburg 1533. Nr. 670.
+          <lb/>HERR Michael. Siche: GRYNAEUS Simon
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:34.103428+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2247.tif
+IMAGE WIDTH: 2294
+IMAGE HEIGHT: 3818
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Diser Melchior Hoffmann würt von seinen iungern für
+          <lb/>den grossen Propheten vnd Apostel auszgeschrawen, der
+          <lb/>sich vor dem grossen tag des Herren, habe inn Nider¬
+          <lb/>landen erheben sollen, vnd das recht Euangeli! erst inn
+          <lb/>alle welt auszbringen.
+          <lb/>Die stuck dauon hierinn gehandlet würt. seind am
+          <lb/>gewenten blatt verzeychnet. M. D. XXXIII.
+          <lb/>A la fin: Getruckt zâ Straszburg durch Mathiam! Apia¬
+          <lb/>rium, Jm M. D. XXXIII. (!) (Verso blanc.)
+          <lb/>In-4°, car. goth., 46 ff. non ch., sign. A-L, le dernier feuillet a
+          <lb/>6 ff., titre courant, réclames, notes marginales.
+          <lb/>f. 42-44 Vorrede Bucers, Den lieben frommen Chris¬
+          <lb/>ten im Niderland.
+          <lb/>R102.356. Prov.: Bibl. du Prof. Eduard Cunite, Strasbourg 1886.
+          <lb/>BM Strasbourg. GPB. Berlin SB, Bonn BU, Kœnigsberg BU,
+          <lb/>Marbourg BU.
+          <lb/>Baum N° 27, Mente No 30: Marbourg.
+          <lb/>365
+          <lb/>243
+          <lb/>BUTZER Martin
+          <lb/>Strasbourg, M. Apiarius, 1533.
+          <lb/>Handlung inn dem offentlichen gesprech zû Strafs¬
+          <lb/>burg iüngst im Synodo gehalten, gegen Melchior Hoff¬
+          <lb/>man, durch die Prediger daselbet, von vier für- nemen
+          <lb/>stucken Christlicher leere vnd haltung, sampt getrewem
+          <lb/>dargeben, auch der gründen, darauff Hoff- man seine
+          <lb/>jrthumben setzet.
+          <lb/>Diser Melchior Hoffman würt von seinen iungern für
+          <lb/>den grossen Propheten vnd Apostel aufsgeschrawen der
+          <lb/>sich vor dem grossen tag des Herren, habe in Niderlan¬
+          <lb/>den erheben sollen, vnnd das recht Euangeli erst in alle
+          <lb/>welt aufsbringen. Die stuck dauon hierin gehandelt würt,
+          <lb/>seind am gewenten blat verzeichnet. M. D. XXXIII.
+          <lb/>A la fin: Getruckt zû Strassburg durch Mathiam Apia¬
+          <lb/>rium. Im M. D. XXXIII. (!)
+          <lb/>Titre diffère un peu de l’édition précédente, avec laquelle l’ouvrage
+          <lb/>concorde pour le reste.
+          <lb/>R 102.357. Prov.: Bibliothèque Ch. Schmidt.
+          <lb/>Notes mss.
+          <lb/>Bibliothèque St. Guillaume, Strasbourg. GPB: Berlin SB, Bonn
+          <lb/>BU, Kœnigsberg B U, Marbourg B U. Walter: Sélestat No 863; Mentz
+          <lb/>No 30a.
+          <lb/>366
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:05.323513+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie010.tif
+IMAGE WIDTH: 2492
+IMAGE HEIGHT: 3936
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>taire (Glossa notabilis) de Gerardus Zutphaniensis. —
+          <lb/>Strasbourg, (J. Prüss) (30. VII), 1490, in-4°.
+          <lb/>GW 1056. B U. Fribourg en. Br.
+          <lb/>45
+          <lb/>ALEXANDER de Villa Dei : Doctrinale. Pars 1. Avec commen¬
+          <lb/>taire (Glossa notabilis) de Gerardus Zutphaniensis. —
+          <lb/>Haguenau, (Henri Gran) (15. VII), 1492, in-4°.
+          <lb/>G W 1064 ; Hain-Copinger 684; Proctor 3175; Reichling
+          <lb/>Doctrinale 97, 1; Voulliéme : Berlin 1170. B N Berlin, Munich,
+          <lb/>Oxford (Bodl.) etc.
+          <lb/>46
+          <lb/>ALEXANDER de Villa Dei: Doctrinale. Pars 1. Avec commen¬
+          <lb/>taire (Glossa notabilis) de Gerardus Zutphaniensis. —
+          <lb/>Strasbourg, Martin Flach 1493, in-4°.
+          <lb/>G W 1067; Hain-Copinger 678; Schreiber 3083; Reichling:
+          <lb/>Doctrinale 100, I. — B U Fribourg en Br., BN Munich. 47
+          <lb/>ALEXANDER de Villa Dei : Doctrinale. Pars 2. Avec commen¬
+          <lb/>taire (Glossa notabilis) de Gerardus Zutphaniensis. —
+          <lb/>Strasbourg, Martin Flach 12. XI. 1491.
+          <lb/>G W 1096; Hain-Copinger 703; Reichling : Doctrinale 82. II.
+          <lb/>Schmidt VI, p. 7, n° 35. B U Breslau, Erlangen, BN
+          <lb/>Munich etc.
+          <lb/>48
+          <lb/>ALEXANDER de Villa Dei : Doctrinale. Pars 2. Avec commen¬
+          <lb/>taire (Glossa notabilis) de Gerardus Zutphaniensis. —
+          <lb/>Haguenau, Henri Gran vers 1492), in-4°.
+          <lb/>G W 1097; Hain-Copinger 698; Schreiber 3102; Voulliéme:
+          <lb/>Berlin 1171; Reichling : Doctrinale 97, II. B N Berlin, Munich,
+          <lb/>Melk (Stift).
+          <lb/>49
+          <lb/>ALEXANDER de Villa Dei : Doctrinale. Pars 1-4. Avec commen¬
+          <lb/>taire (Glossa notabilis) de Gerardus Zutphaniensis
+          <lb/>(Pars I, 2) et commentum valde utile (Pars 3-4). —
+          <lb/>(Strasbourg, J. Prüss vers 1495), in-4°.
+          <lb/>GW 1128; Copinger 330, T 1. 2 : 3.4; Reichling: Doctrinale
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

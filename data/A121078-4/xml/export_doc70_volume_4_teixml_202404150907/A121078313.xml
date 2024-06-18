@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:51.780072+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078313.tif
+IMAGE WIDTH: 2318
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>PICUS a MIRANDOLA Johannes/8 Strasbourg, M. Schurer 1511
+          <lb/>IOANNIS FRANCISCI PICI MIRANDVLANI PRIN! CIPIS, CoN¬
+          <lb/>CORDIAEQVE COMITIS HYMNI HEROICI TRES. AD SACRATISSI¬
+          <lb/>MAM TRINITATEM, AD CHRISTVM, ET] AD VIRGINEM MARIAM,
+          <lb/>UNA I CVM COMMENTARHIS LV CVLENTISS. AD Io. I THOMAM
+          <lb/>FI! LIVM.
+          <lb/>Additis sparsim ab ipso auctore pauculis, que in
+          <lb/>priori impressione deerant.Eiusdem Sylva. Eiusdem
+          <lb/>Staurostichon, hoc est Carmen de myste riis Crucis in
+          <lb/>Germaniam delapsis.
+          <lb/>A la fin, fol. S 2b, après Sulva: Argentorati in libraria offi¬
+          <lb/>cina Mathiae Schurerii! Mense Augusto. Anno salutis.
+          <lb/>M. D. XI. REGNANTE IMP. CAES. MAXII MILIANO PIO FOE¬
+          <lb/>LICI AVG.
+          <lb/>In-fol, car. rom., 8 ff. prélim, non ch., XCVI ff. ch., 8 ff. non
+          <lb/>ch. dont le dernier f. blanc, sign. A-S, tître courant, notes marg., init.
+          <lb/>d’attente. Au verso du titre: Beatus Rhenanus Studiosis sal. (13 lignes.)
+          <lb/>Fol. A 2a non ch.: Ioannes Franciscus Picus Mirand. Ioanni Tho¬
+          <lb/>mae Filio. S. D.... (2 pp.)
+          <lb/>Fol. A 3a non ch.: Ioannis Francisci Pici Mirandulani Principis
+          <lb/>In suorum Hymnorum Adnotationes,! et interpretamenta, Ioanni ! Thomae
+          <lb/>Filio dicata, ! Exordium.... (2 pp.)
+          <lb/>Fol. A 4a non ch.: Ioannis Francisci Pici Mirandulae ! domini Con¬
+          <lb/>cordiaeque comitis, Argumentum hym! norum carmine Elegiaco. (28 dist.)
+          <lb/>Suivent 4 ff. à 3 col.: Index.)
+          <lb/>Après le fol. XCVI fol. SIa: Sylva.! Ioannis Francisci Pici Miran
+          <lb/>dulae Domini &amp;amp;c. Votum pro salute ! coniugis... (2 f. non ch.)
+          <lb/>Fol. S 3a: Maximiliano Caesari Augusto! Inclyto Ioannes Fran¬
+          <lb/>ciscus Picus Foe licita- tem.... (1 p.) Au verso: Ioannis Francisci
+          <lb/>Pici Mirandulae... Heroicum carmen de my-I steriis Dominicae Crucis
+          <lb/>nuper in Germani! am delapsis, ad Maximilianum Augu! stum Romanorum
+          <lb/>Regem. (9 pp.)
+          <lb/>TR 10.461 (2). Prov.: Don de Fréd. Aug. Menke, Brême 1873.
+          <lb/>Bème ex. *R10.031. Prov. : Trubner, Strasbourg 25/1 1886; 10M.
+          <lb/>Notes mss. Au f. du titre, autographe de, Beatus Rhenanus Selestat¬
+          <lb/>tensis“ avec la remarque de B. G. Muller:Editionem hanc perraram
+          <lb/>esse testatur Bünemannus p. 30. Conf. Bauerus in Bibliotheca libror, ra¬
+          <lb/>riorum universali. Tome HI, p. 203.&amp;quot;
+          <lb/>BM Strasbourg; BN Paris Rés. g. Yc. 576; Beaulieux p. 234:
+          <lb/>BU Paris (Rés. 156); Proctor II Sectio I n° 10.190: Londres, Bri¬
+          <lb/>tish Meusum.
+          <lb/>Schmidt VIII n° 55: Bâle; il dit que le livre n’a pas de pagi¬
+          <lb/>nation. C&amp;#x27;est probablement par erreur; ou s’agirait-il d’une autre édi¬
+          <lb/>tion de la même année?
+          <lb/>Catalogue de la Bibl. Ch. Louis Fière, 3ème vente, Paris 1417
+          <lb/>juin 1937, n° 364:»Édition très rare des trois Hymnes héroïques, con¬
+          <lb/>tenant en édition originale le Staurostichon.&amp;quot;
+          <lb/>1874
+          <lb/>1199
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

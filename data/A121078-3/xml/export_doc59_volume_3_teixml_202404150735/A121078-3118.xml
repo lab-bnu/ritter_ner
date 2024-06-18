@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:06.527870+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3118.tif
+IMAGE WIDTH: 2306
+IMAGE HEIGHT: 3844
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>562
+          <lb/>FISCHART Johann
+          <lb/>Strassburg, Bern. Jobin 1578
+          <lb/>Das Philosophisch! Ehzuchtbüchlin. Oder,! Des Be¬
+          <lb/>rümtesten vnd Hocherleuch- testen Griechischen Philo¬
+          <lb/>sophi, oder Natürli- cher Weiszheyt erkündigers vnd Leh¬
+          <lb/>rers Plu-tarchi Naturgescheide Eheliche Gesaz, oder Ver¬
+          <lb/>nunft gemäse Ehegebott, durch anmutige lu-[ stige Gleich¬
+          <lb/>nussen ganz lieblich getractiret. Sammt desselbigen auch
+          <lb/>Gründli- chem Bericht von gebürlicher Ehrnge-mäser
+          <lb/>Kinder Zucht. Darzu noch eyn schönes Gespräch, von
+          <lb/>Klag des Ehestands, oder wie man eyn! Ruhig Ehe gehaben
+          <lb/>mag, ge- than worden.
+          <lb/>Alles ausz Griechischem vnd Latinischem nun das
+          <lb/>erstmal inn Teutsche Sprach verwendet.J F. G. M.
+          <lb/>[— Johann Fischart genannt Mentzer.)
+          <lb/>Zu Straszburg. M. D. LXXVIII. (Rücks, leer.)
+          <lb/>Am Schluss: Getruckt bei Bernhard Jobin.
+          <lb/>80, Got., 143 unn. Bl., Sign. A-R. Kopft., Kust., Titel rot u. schwarz.
+          <lb/>39 Holeschn.
+          <lb/>Bl. 2a: ... Herren Joachim Herb,! Burgern zâ Strasz¬
+          <lb/>burg, meinem gön-stigen Herren, Freund, vnd vertrauten
+          <lb/>lieben Gevattern... Geben inn Stras-burg, auf Letare,
+          <lb/>dises 1578. Jar.! Bernhard Jobin.
+          <lb/>R 100.719. Prov.: Hugo Barbeck, Nürnberg 21. V. 1882, 48M.
+          <lb/>GK: SB Berlin, UB Bonn.
+          <lb/>Goedeke 112, S. 498 Nr. 331; Hauffen I, 68-70, 222, 257, 265-6.
+          <lb/>275-290; II, 159, 161-2, 179, 266-7, 278, 316, 318, 357, 367-8, 353-4.
+          <lb/>854
+          <lb/>FISCHART Johann
+          <lb/>[Strassburg, Bern. Jobinl 1580
+          <lb/>Binenkorb Desz Heyl. Römischen Jmen-chwarms,
+          <lb/>seiner Hummelszellen oder! Himmelszellen! Hurnausz¬
+          <lb/>näster, Brämen-geschwürm vnd Wäspengetösz.) Sampt
+          <lb/>Läuterung der H. Römischen Kirchen Honigwaben: Ein¬
+          <lb/>weihung vnd Beräuchung oder Feg- feurung der Jmen¬
+          <lb/>stöck; vnd Erlesung der Bullenblumen, des Heydnischen
+          <lb/>Klo- sterhysops, der Suiter Säudisteln, der Saurbonischen
+          <lb/>Säubonen, desz Magi- nostrischen Liripipefenchels, vnd
+          <lb/>desz Jmenplatts der Plattjmen: auch desz Mesz- thaues
+          <lb/>vnd H Saffts von Wunderbäumen, &amp;amp;c. Alles nach dem
+          <lb/>rechten Hi- melstau oder Manna justirt, vnd mit Mentzer¬
+          <lb/>kletten durchzirt.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:05.791588+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3068.tif
+IMAGE WIDTH: 2320
+IMAGE HEIGHT: 3842
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>512
+          <lb/>GK: SB Berlin; Schmidt VI S. 38 Nr. 73. Braus-Riggenbach:
+          <lb/>Basel, Kat. 452 (1936) Nr. 131, 30 M.:»Erstausgabe der ersten deut¬
+          <lb/>schen Ubertragung. Der Ubersetzer ist unbekannt. Die Ubertragung ist
+          <lb/>nicht identisch mit der, ein Jahr später erschienenen Ubersetzung des
+          <lb/>Johannes Pinicianus. — Sehr selten.—
+          <lb/>773
+          <lb/>ERASMUS: De duplici copia
+          <lb/>Strassburg, J. Knobloch, 1524
+          <lb/>D. ERAS- MI ROTERODAMI, DE duplici Copia, Verbo¬
+          <lb/>rum, ac Rerum Commenta- rij duo, pleris- que in lo¬
+          <lb/>cis au cti. Epistola Erasmi Roterodami, ad lacobum
+          <lb/>Wimphelingium Selestatinum.
+          <lb/>Am Schluss: ARGENTORATI excudebat loan! nes Knoblou¬
+          <lb/>chus M. D. XXIIII Mense Februario. (Rückseite leer.)
+          <lb/>80, Kursiv, 8 unn., 114 num. u. 6 unn. Bll., Kopftitel, Kustoden,
+          <lb/>Init. B, V, P. Titeleinfassung (Siehe Nr. 327).
+          <lb/>Schmidt VII Nr. 276 verweist für die Titeleinfassung auf die
+          <lb/>Nr. 226, die derjenigen meines Ex. nicht entspricht.
+          <lb/>R1015741. Geschenk von Ch. Ed. Schönstedt, Magdeburg, 1871.
+          <lb/>Handschr. Notiz: J. G. Schütze 1707, Magdeburg.
+          <lb/>GK: UB Breslau.
+          <lb/>774
+          <lb/>ERASMUS: Diatribe de libero arbitrio Strassburg, J. Knobloch, 1524
+          <lb/>DE LIBE- RO ARBITRIO AIA-TPIBH, siue Collatio, De¬
+          <lb/>siderij ERASMI Roteroda.Primum legito, de inde iudi¬
+          <lb/>cato. (Rückseite leer.)
+          <lb/>Am Schluss: ARGENTORATI EXCVDEBAT IOHANNES KNO¬
+          <lb/>BLVCHVS (!) ANNO M. D. XXIIII. MENSE OCTOBRI. (Rückseite
+          <lb/>leer.)
+          <lb/>80, Kursiv, 48 unn. Bll., Sign. a-f, Kopftitel, Kustoden, Margi¬
+          <lb/>nalien, Init. I, Titeleinfassung (Siche Nr. 327).
+          <lb/>R102.103. Prov.: Pfarrer Cromer, Zabern, 23. VII. 1879.
+          <lb/>Rest S. 51. Schmidt VII Nr. 279 verweist für die Titeleinfassung
+          <lb/>wvie bei der vorhergehenden Nummer auf Nr. 226, die ebenfalls der¬
+          <lb/>jenigen meines Ex. nicht entspricht.
+          <lb/>775
+          <lb/>ERASMUS: Concio de misericordia Dei
+          <lb/>Strassburg, J. Knobloch, 1524
+          <lb/>(Epheublatt.) DE IM MENSA DEI MISERI-CORDIA, Des.
+          <lb/>Erasmi Rote-rodami Concio. VIRGINIS ET MARTY ris
+          <lb/>comparatio, per eundem.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

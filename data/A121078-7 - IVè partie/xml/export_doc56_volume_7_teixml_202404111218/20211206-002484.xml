@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:13.589842+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002484.tif
+IMAGE WIDTH: 2476
+IMAGE HEIGHT: 4002
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>euch warlich sagen... (Cantique). — Strasbourg 1596,
+          <lb/>in-80.
+          <lb/>Vogeleis, p. 372.
+          <lb/>3300
+          <lb/>SUETONIUS, Tranquillus C. : De grammaticis et rhetoribus
+          <lb/>claris libellus. A la suite de : AURELIUS, Victor Sextus :
+          <lb/>C. Plinii Secundi Junioris liber illustrium virorum. —
+          <lb/>Strasbourg, Mathias Schürer 1510.
+          <lb/>3301
+          <lb/>SUETONIUS, Tranquillus : De claris grammaticis et rhetoribus.
+          <lb/>A la suite de : AURELIUS, Victor Sextus : C. Plinii Secundi
+          <lb/>Novocomensis; De viris illustribus in re militari. —
+          <lb/>Strasbourg, Mathias Schürer 1514.
+          <lb/>3302
+          <lb/>SUETONIUS, Tranquillus C. : De vita duodecim Caesarum
+          <lb/>Libri duodecim. — (Strasbourg, Mathias Schürer, juin
+          <lb/>1521), in-4°. [Une éd. Schürer, février 1520 (Ritter,
+          <lb/>Rép. n° 2249) et Prüss 1520 (Rép. n° 2250)).
+          <lb/>Panzer 6, 96, 601; Schmidt VIII, n° 263 : B M Mayence.
+          <lb/>[Suetonius voir aussi : Ritter, Rép. nos 2244-2251).
+          <lb/>3303
+          <lb/>SUIDAS. Voir: JACOBUS Minor, n° 2139.
+          <lb/>SULPITIA : Carmina IXX. A la suite de : GREGORIUS Tifernas,
+          <lb/>Opuscula. — Strasbourg 1508, in-4° (n° 1929).
+          <lb/>3304
+          <lb/>SUMMA : Die Summa unnd namen der schlosz, auch wem
+          <lb/>ein yedes zugehört hatt, so durch versamlung der Bawern
+          <lb/>in stifften Bamberg, Würzburg... jämerlich verbrandt
+          <lb/>und zerstört sindt. — [Strasbourg, Jean Grüninger
+          <lb/>(d’après Schmidt), 1525), in-4°.
+          <lb/>Schmidt I, n° 227; Weller, Rep. 3648. — BN Munich. 3305
+          <lb/>SUMMARIBÜCHLEIN. Voir : (VOGTHERR, Georg), n° 3454;
+          <lb/>RITTER, Rép, nos 2252-2254.
+          <lb/>SUNDERREUTER, G. Voir : HEYMAIRIN, Magdalene, n° 2014.
+          <lb/>482
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

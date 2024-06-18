@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:51.649843+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078306.tif
+IMAGE WIDTH: 2316
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1192
+          <lb/>PICTORIUS Georgius
+          <lb/>Mulhouse, P. Schmid 1558
+          <lb/>Von der Pestilentz. Notwendiger bericht was die
+          <lb/>pestilentz sey, ob die zû fliehen, und wie sich vedes
+          <lb/>stands personenn, reych, arm, jung-] und alt die nit fliehen
+          <lb/>könden, damit sy der! sucht ledig bleyben, halten sollen,
+          <lb/>unnd ob! einer angriffen wurd, wie er sich durch mit
+          <lb/>tel der artzney ledigen möge, sampt an gehenckter ord¬
+          <lb/>nung so mit den! beulen und blatteren zû gebrauchen.
+          <lb/>Und wie mit den Borpelen unnd rotsucht, auch iren zû¬
+          <lb/>fälen in allweg sich ze halten, mit einem nutzlichen re¬
+          <lb/>giment allen so durch die greülich kranckheit des unsin¬
+          <lb/>nigen hauptwees, wie vor wenig jaren an vil orden ge¬
+          <lb/>wütet, behafftet sind, an die hand ze-nemmen. Alles
+          <lb/>durch D. Georgium Picto-rium der artzney Doctorn, und
+          <lb/>der Keyser lichen Regierung Ensiszheim in ober Elsasz
+          <lb/>bestellten Physicum zû dem andern mal, doch weytlöuf¬
+          <lb/>figer dann vor mit fleysz beschriben. (Verso blanc.)
+          <lb/>A la fin: Getruckt zû Mülhusen im! oberen Elsasz
+          <lb/>durch Pe-ter Schmid. 1558.
+          <lb/>In-8°, car. goth., 3 ff. non ch., 102 ff. ch., titre courant, réclames,
+          <lb/>notes marg., init, goth., bandes d’ornement.
+          <lb/>Fol. A 2a). Der Hochwirdigsten fra! wen Frauw Scolastica, ge¬
+          <lb/>borne von Falckenstein, Ebtissin der ge- stifft Sancti Leodegarii in
+          <lb/>Maszmünster, mei- ner gnädigen Frauwen... — Datum! Ensiszheim,
+          <lb/>den 20. Novembris des acht! und fünfftzigsten jars.! Jörg Maler [— Pic¬
+          <lb/>torius] Doctor! unnd der Keiserlichen Regierung Ensiszheim bestellter
+          <lb/>Physicus. (Bande d’ornement.)
+          <lb/>Au verso du dernier f. blanc, marque typ. de P. Schmid. (HAB
+          <lb/>planche LXXV no I.
+          <lb/>R100.619. Prov. inconnue. Les 20 derniers ff. sont endommagés.
+          <lb/>1865
+          <lb/>PICTORIUS Georgius
+          <lb/>Mulhouse, Schirenbrand &amp;amp; Schmid vers 1560
+          <lb/>Grien Büchlin. Durch was mittel und ordnung ein
+          <lb/>yeder vor dem Gries oder Nieren stein mög gesichert
+          <lb/>werden, oder! so er solchen hette oder überkä- me, wie
+          <lb/>im möge geholf- fen werden. Alhie fürgeschriben den
+          <lb/>gmeinen mann zû! nutz, durch D. Georgium Pictorium,
+          <lb/>der Römischen &amp;amp; Küniglichen regie-rung Ensiszheim in
+          <lb/>ober El- säsz bestellten phy- sicum. Mit angehenckter
+          <lb/>tafel zû end, was disz büchlin innhalte.
+          <lb/>Getruckt zû Mülhusen im obe- ren Elsasz, durch
+          <lb/>Hans Schiren brand, und Peter Schmid. (Verso blanc.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

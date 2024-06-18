@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:13.969155+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002499.tif
+IMAGE WIDTH: 2508
+IMAGE HEIGHT: 3966
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>UNTERRICHT : Underrichtung eins geistlichen lebens. —
+          <lb/>Strasbourg, Jean Prüss 1509, in-4°.
+          <lb/>Panzer, Annalen I, 302; Kristeller, p. 87; Schmidt III,
+          <lb/>p. 23, n° 77. — Jadis Bibl. de Strasbourg, Incun, n° 4709.
+          <lb/>3381
+          <lb/>UNTERRICHT : Ein glaubwirdige und warhafftige underricht
+          <lb/>Wie die Düringschen buwern von Franckenhausen umb
+          <lb/>ir miszhandlung gestrafft und beider stett. Mülhusen
+          <lb/>und Franckenhausen erobert worden. 1525.
+          <lb/>—
+          <lb/>(Strasbourg, Jean Grüninger, 30 mars 1525), in-40.
+          <lb/>Schmidt I, n° 223; Weller, Rep. 3664. — BN Munich. 3382
+          <lb/>UNTERRICHT : Underricht ausz Götlichen und Geistlichen
+          <lb/>Rechten, Ob ein Priester ein Eheweyb, oder Concubin,
+          <lb/>das ist, ein beschläfferin haben mög. Item, Von nutz der
+          <lb/>Pfaffen Mägdt, und ihrem erlichen leben, darumb man
+          <lb/>sie billig den Pfaffen soll unnd musz lassen Darinn wirt
+          <lb/>auch gemelt, Wie mann ein recht Christlich Concilium
+          <lb/>anbringen unnd war nach mann sich inn den Conciliis
+          <lb/>richten und halten soll. — (Strasbourg, Jacques Cammer¬
+          <lb/>lander] 1545, in-4°.
+          <lb/>Kuczynski, n° 488.
+          <lb/>3383
+          <lb/>UNTERRICHTUNG Christliche. Voir: CATECHISMUS.
+          <lb/>UNTERWEISUNG und uszlegungen. Voir: WALDSEEMÜLLER,
+          <lb/>n° 3459.
+          <lb/>URBANUS PREBUSINUS de Brun : Oratio mordacissima
+          <lb/>ostendens damnum quod omnibus se colentibus afferant
+          <lb/>virtutes &amp;amp; laudans vicia... — (Strasbourg, Jean
+          <lb/>Grüninger) s. d., in-4°.
+          <lb/>Walter, n° 2347.
+          <lb/>3384
+          <lb/>URCEUS, Ant. Voir : CODRUS, Ulr. ; voir aussi: RITTER,
+          <lb/>Rép. n° 2367.
+          <lb/>497
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

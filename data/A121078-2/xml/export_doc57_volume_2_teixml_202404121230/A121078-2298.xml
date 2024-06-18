@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:35.513284+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2298.tif
+IMAGE WIDTH: 2302
+IMAGE HEIGHT: 3820
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>294
+          <lb/>CARION Johann
+          <lb/>Biacticapnno prognosti¬
+          <lb/>cation gmeier fuirnemlichen bnò meit be¬
+          <lb/>rbumten inn der Matbematic. (O. Joban Carionie,
+          <lb/>vno, M1. Salomon der statt Ruiremunò Dbysicumsoarinn/ bif auff
+          <lb/>M.o. Ir. jar vunderlicbe vnd erscrocl lide Dropbeceien gemelòt!
+          <lb/>eim jeden.Gcystliden ond ueltliden/past not mendigzuroissen.
+          <lb/>Ein Chustliche erntanunq an. R.10¬
+          <lb/>Roulq, ¶burfursten, Pursten Grauen, beranzc. vnd̀ al¬
+          <lb/>le stande cpristlicer vetsamlung Job. Carionie.
+          <lb/>au lecst fompt. oie Offenbarunq Mai¬
+          <lb/>mundl darinn allenstãndens geystlidb vnò meltlich/ lanò
+          <lb/>ten ond leuren vil somerer stroffen getrawt/&amp;amp;ßbalben inn oieser let¬
+          <lb/>stengeit ein jeder sein leben vol mag beffern.
+          <lb/>*
+          <lb/>*
+          <lb/>*4
+          <lb/>**
+          <lb/>4
+          <lb/>*
+          <lb/>»
+          <lb/>Strasbourg, J. Cammerlander, 1543.
+          <lb/>Gravure sur bois: 14 savants, dont celui du milieu tient un globé
+          <lb/>en main, au-dessus de lui le soleil, au-dessus des autres des étoiles et à
+          <lb/>droite la lune.
+          <lb/>ERRTTRRL
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

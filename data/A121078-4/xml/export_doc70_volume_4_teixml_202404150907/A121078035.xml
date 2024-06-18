@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:43.654739+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078035.tif
+IMAGE WIDTH: 2362
+IMAGE HEIGHT: 3836
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>A la fin: Getruckt zu Straszburg, durch! Theodosium
+          <lb/>Rihel. (Marque typographique de Th. Rihel. H &amp;amp; B, Planche XXXII
+          <lb/>No 7.) M. D. LXXIIII.
+          <lb/>In-fol., car. goth., 14 ff. non ch., 887 pages ch., 12 ff. non ch. à
+          <lb/>2 col. (Table), titre courant, réclames, notes marg., initiales goth.; titre
+          <lb/>rouge et noir, encadré (empereurs et querriers romains, colonnes); de
+          <lb/>nombreuses gravures, se rapportant à l’histoire romaine.
+          <lb/>Au verso du titre: SVMMA PRIVILEGI CAESAREI... ad octo
+          <lb/>annos... — Datum in Arce Regia Pragae, vigesima secun
+          <lb/>da die Mensis Martij. Anno M. D. LXXI. Au-dessous: SVMMA
+          <lb/>PRIVILEGII ELECTO-RIS SAXONIAE... decem annos... —
+          <lb/>Datum Dres-dae, nona die Martij. Anno M. D. LXXIIII.
+          <lb/>Fol. 2a:... Herrn Maximiliano dem Andern des Na¬
+          <lb/>mens... — Geben zu Straszburg, den 18. tag Martij, jm
+          <lb/>Jar 1574... Theodosius Rihel. (Préface de 4 ff.)
+          <lb/>Suivent 9 fr.: Liuische Chronica. (Tables historiques.)
+          <lb/>Page 866-887: Lucij Flori Innhalt der vbrigen! Bücher
+          <lb/>Titi Liuij, So nicht vorhan-den seind. (Livres 46-140.)
+          <lb/>R 64. Prov.: BN Munich 15/IV 1879, 6 M. Annotations manu¬
+          <lb/>scrites. A l&amp;#x27;intérieur de la couverture: «Stephanus Thumb Parochus Fron¬
+          <lb/>denbachij Anno 1652.»
+          <lb/>1375
+          <lb/>BM Strasbourg.
+          <lb/>919
+          <lb/>LIVIUS Titus
+          <lb/>Strasbourg, Th. Rihel 1575
+          <lb/>Titus Liuius, VndLucius Florus, Von Ankunfft
+          <lb/>vnnd Vrsprung des Römischen Reichs, der alten Römer
+          <lb/>herkom men, Sitten, Weiszheyt, Ehrbarkeyt, löblichen
+          <lb/>Regi- ment, Ritterlichen Thaten, Victori vnnd Sig, gegen
+          <lb/>jhren Feinden: Auch von allerley Händeln vnd Geschich¬
+          <lb/>ten... (comme dans l’édition précédente.)
+          <lb/>A la fin: Getruckt zu Straszburg, durch Theodosium
+          <lb/>Rihel. (Marque typographique de Th. Rihel. H &amp;amp; B. Planche XXXII
+          <lb/>N° 17.) M. D. LXXV.
+          <lb/>In-fol., car. goth., 14 ff. non ch., 887 pages ch., 11 ff. non ch. à
+          <lb/>2 col. (table) et 1 f. blanc, titre courant, réclames, notes marg., init.,
+          <lb/>titre rouge et noir, encadré par Tobias Stimmer, dont le monogramme
+          <lb/>se trouve dans le coin droit de la bordure inférieure, ainsi que les lettres
+          <lb/>TS dans le coin gauche. C&amp;#x27;est le même que chez Jos. Flavius, Histoires.
+          <lb/>131 gravures, dessinées par Tobias Stimmer, gravées par Chr. Stimmer,
+          <lb/>B. Jobin, C. van Sichem et autres, se rapportant au texte, quelques-unes
+          <lb/>ont le monogramme de Stimmer, d’autres de Schäufelin; quelques-unes
+          <lb/>reviennent plusieurs fois.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

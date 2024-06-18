@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:06.537943+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002192.tif
+IMAGE WIDTH: 2498
+IMAGE HEIGHT: 3996
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>lança ceux-ci comme une nouvelle éd. en leur donnant
+          <lb/>une nouvelle feuille du titre; seule la dédicace au duc
+          <lb/>Christophe de Wurtemberg fut réimpriméel.
+          <lb/>Ritter : Hist. Impr. p. 264.
+          <lb/>1760
+          <lb/>FRAG : Ettliche Christliche Frag und Antwort, gestelt zu
+          <lb/>einem eingang in den Catechismus oder Kinderlehr... —
+          <lb/>Strasbourg, Christian Müller (Mylius) 1565, in-8°.
+          <lb/>Wackernagel 867.
+          <lb/>1761
+          <lb/>FRANCISCUS II (Mediolanensis). Voir : GALEACIUS Capella
+          <lb/>n° 1806.
+          <lb/>FRANCK, Guillaume. Voir: MARoT, n° 2602a.
+          <lb/>FRANCK, Sebastian: Chronica, zeytbuch und geschycht bibel
+          <lb/>von anbegyn bisz inn disz gegenwertig 1531 jar. —
+          <lb/>Strasbourg, Balthasar Beck 1531.
+          <lb/>B M Colmar. (B N Strasbourg R 10.291 ; Rép. 882).
+          <lb/>1762
+          <lb/>FRANCK, Sebastian : Des grossen Nothelfers und weltheiligen
+          <lb/>S. Gelts oder S. Pfennings Lobgesang durch ein Ironey
+          <lb/>und Spotlob schimpfisch gedicht... — (Strasbourg] 1542,
+          <lb/>in-80,
+          <lb/>Vogeleis, p. 245.
+          <lb/>1763
+          <lb/>FRANCK, Séb. Voir aussi : RITTeR, Rép, nos 882-884.
+          <lb/>FRANCK von Altenburg, Hans. Voir : Ein neuw LIED von den
+          <lb/>geschichten so sich zu Frona... zugetragen n° 2333.
+          <lb/>FRANZ von Kriechingen: Der Ehrwürdigen... Herrn Frantzen
+          <lb/>Freiherrn zu Kriechingen und Pittingen, Thumdechants...
+          <lb/>Erklerung, belangendt die, den Zehenden Julii Stylo
+          <lb/>Novo, Anno &amp;amp;c. Neuntzig zwey, an Ihr Ehrw. G. und
+          <lb/>Gn. fürgenommene Bischoffliche Election zu Straszburg.
+          <lb/>Sampt angehengte Copien dreyer Keyserlichen Schrei¬
+          <lb/>ben... Auch Hertzog Johann Georgen von Brandenburg...
+          <lb/>190
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

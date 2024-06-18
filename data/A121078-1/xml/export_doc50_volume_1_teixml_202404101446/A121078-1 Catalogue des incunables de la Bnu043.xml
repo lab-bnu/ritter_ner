@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:36.984374+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu043.tif
+IMAGE WIDTH: 2380
+IMAGE HEIGHT: 3840
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>AUGUSTINUS AURELIUS: Epistolarum Liber. (Strasbourg,
+          <lb/>J. Mentelin, pas après 1471), in-fol.
+          <lb/>G W 2905, Hain 1966, Madsen 413, Pellechet 1481, Pellechet:
+          <lb/>Colmar 203, Proctor 208, Voulliéme: Berlin 2097; Walter:
+          <lb/>Sélestat 51, Schorbach: Mentelin N° 22.
+          <lb/>K 422. Prov.; B N Munich, 16. XII. 1879, 12 M.
+          <lb/>56
+          <lb/>AUGUSTINUS AURELIUS (Pseudo): Manuale. Prolocutionis et
+          <lb/>meditationis Liber. (Strasbourg, typ. du H. Ariminensis,
+          <lb/>vers 1476), in-fol.
+          <lb/>GW 2969, Hain 2102, Pellechet 1587, Proctor 302.
+          <lb/>K 480. Prov.: Hess, Ellwangen, 7. VII. 1896, 25 M.
+          <lb/>57
+          <lb/>AUGUSTINUS AURELIUS (Pseudo): Sermones ad heremitas.
+          <lb/>(Strasbourg, J. Prüss, pas après 1487), in-4°.
+          <lb/>G W 3002, Hain 1997, Proctor 741, Madsen 448, Pellechet:
+          <lb/>Lyon 50, Voulliéme: Berlin 2365; Walter; Sélestat 63.
+          <lb/>K 439. Proy.; B N Munich, 22. I. 1880, 1 M.
+          <lb/>L’Amateur du livre, Fasc. 191 (Paris, mars 1938) N° 816 offre
+          <lb/>un ex. pour 750 frs.
+          <lb/>58
+          <lb/>AUGUSTINUS AURELIUS (Pseudo): Sermones ad heremitas.
+          <lb/>(Strasbourg, typ. des Casus breves (— G. Husner), vers
+          <lb/>1493/94), in-4°.
+          <lb/>GW 3006, Hain 1998, Pellechet 1508 et 1509, Madsen 452,
+          <lb/>Proctor 724, Voulliéme: Berlin 2524, 5.
+          <lb/>K 440. Prov.; B N Munich, 22. I. 1880, 1 M.
+          <lb/>59
+          <lb/>AUGUSTINUS AURELIUS: De Trinitate libri XV. [Strasbourg,
+          <lb/>typ. du H. Ariminensis, pas après 1474), in-fol.
+          <lb/>GW 2925, Hain 2034, Madsen 427, Pellechet 1540, Proctor
+          <lb/>319, Voulliéme: Berlin 2161.
+          <lb/>K 453. Prov.: B N Munich, 16. XII. 1879, 12 M.
+          <lb/>60
+          <lb/>AUREOLI PETRUS: Compendium litteralis sensus totius
+          <lb/>bibliae. [Strasbourg, G. Husner, s. d. pas après 14761,
+          <lb/>in-fol.
+          <lb/>G W 3077, Hain 2141, Madsen 467, Pellechet 1613, Proctor
+          <lb/>351. Voullième: Berlin 2199, 5.
+          <lb/>K 494. Prov.: B N Munich, 16. XII. 1879, 10 M. Note mss.
+          <lb/>fol. 1a: Monasterii M. S. Andechs. Rel. anc.
+          <lb/>61
+          <lb/>13
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

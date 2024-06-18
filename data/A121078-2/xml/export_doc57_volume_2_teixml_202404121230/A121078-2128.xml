@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:30.169700+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2128.tif
+IMAGE WIDTH: 2310
+IMAGE HEIGHT: 3828
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>124
+          <lb/>a eu (I, N° 163) contient le même titre que l’édition de Grüninger de 1509,
+          <lb/>de laquelle l&amp;#x27;édition de 1519 est une réimpression. Schmidt a déjà remarqué
+          <lb/>que Panzer, Annalen I, 431 donne un autre titre pour l’édition de 1519
+          <lb/>que pour celle de 1509. L’exemplaire de la BN Strasbourg R10.034
+          <lb/>a le titre que Panzer a donné et non celui de Schmidt, qui dit : «Grü¬
+          <lb/>ninger aurait-il fait deux tirages avec deux titres différents? Ou
+          <lb/>l’exemplaire de Berlin, le seul que j’ai trouvé, et dont j’ai copié
+          <lb/>le titre, serait-il incomplet, et aurait-on remplacé le premier feuillet,
+          <lb/>qui lui manquait, par un autre enlevé à un exemplaire de 1509?,
+          <lb/>Dr. J. Benzing de la BN Berlin qui a la grande amabilité de me signaler
+          <lb/>régulièrement les exemplaires qui figurent en manuscrit au GPB, m’écrit
+          <lb/>à ce sujet: Besagtes Titelblatt von 1509 ist in unserm Berliner Ex.
+          <lb/>angeklebt, also ein Zeichen dafür, dass es nicht organisch dazu gehört.
+          <lb/>Es könnte noch mal losgegangen sein, und man musste es ankleben.
+          <lb/>*R10.034. Pror.: Hirsch, Munich, 2I/XI. 1916; 15M.
+          <lb/>A la fin 3 pages d’annotations mes. sur l’ourage et la vie de Boc¬
+          <lb/>caccio. Au bas du titre: Franz von Rampfleuen.
+          <lb/>Au Fol. CCXXXIII se trouve une histoire qui s’est passée à Stras¬
+          <lb/>bourg en 1500 comme 101 histoire, tandis que les autres éditions n’ont
+          <lb/>que les 100 histoires de Boccaccio:
+          <lb/>Wa man aber sugen vil uss süssen blomen gifft, da
+          <lb/>hilfft kein altuetter bûch für zû lesen, vnd zû befestigen
+          <lb/>die hundert historien vorbemalt, so ist noch ein wahrhaff¬
+          <lb/>tige hie beschehen in kurtzen Jaren, als hie nach stot.
+          <lb/>Es ist beschehen in der zeit da man hat gezalt fünff
+          <lb/>zehen hundert ongeuerlich In diser loblichen statt gelegenn
+          <lb/>an dem rein vnd als alle astronomi sagen vnder dem pla¬
+          <lb/>neten venus sich begeben hat...»
+          <lb/>BN Paris, 2 exemplaires: Rés. Y2, 304 et 305; Proctor II, Sectio
+          <lb/>I N° 9950: Londres, British Museum. GPB. Berlin, Kœnigsberg. 207
+          <lb/>BOCCACCIO Giovanni.
+          <lb/>Strasbourg, Knobloch impr., 1547.
+          <lb/>Cento Nouella JohannisBoccatij.Hundert newer
+          <lb/>Historien, welche ein erbar gesel- schafft von dreien män¬
+          <lb/>nern, vnd siben weibern, fliehent ein grosz sterben zû
+          <lb/>Florentz, zûsamen geredt, jnen damit an lu- stigen enden,
+          <lb/>vff jren gesessen vnd grünen gärten, die trüb selig zeit zû
+          <lb/>uertreiben, dem Hochgebornen Fürsten vnd herrn, herr
+          <lb/>Galeotto, durch Johannem Boccatium, zûgeschriben, kurtz¬
+          <lb/>weilig zû lesen. (3 feuilles de trèfles.)
+          <lb/>Au-dessous gravure sur bois d’une demie-page: au fond une ville,
+          <lb/>au premier plan un paysage, une femme assise sous un arbre tenant un
+          <lb/>oiseau, une autre femme montant vers un jeune homme qui l’aborde.
+          <lb/>(Verso blanc.)
+          <lb/>Un peu différent de l’édition de Grüninger 1519.
+          <lb/>A la fin: Zù Strassburg, in Hans Knoblouchs Drucke¬
+          <lb/>rey. M. D. XLVII. (Verso blanc.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

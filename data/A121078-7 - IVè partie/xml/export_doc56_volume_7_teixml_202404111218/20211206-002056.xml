@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:03.030397+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002056.tif
+IMAGE WIDTH: 2484
+IMAGE HEIGHT: 3974
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>BOCCACCIO, Giovanni : Cento Novella, Hundert Newer
+          <lb/>Historien... — Strasbourg, imprimerie Knobloch
+          <lb/>(Messerschmidt] 1557, in-fol.
+          <lb/>Goedeke 12, p. 368/9, n° 2; Rosenthal (Munich). Catal. 135
+          <lb/>(1914), n° 338; 80 M.
+          <lb/>1021
+          <lb/>BOCK, Hieronymus : Kreuter Buch darin unterscheidt
+          <lb/>Nammen und Wirkung der Kreuter, Stauden... so in
+          <lb/>Deutschen Landen wachsen... beschreiben und jetz...
+          <lb/>Von neuem... übersehen, gebessert, dazu mit hüpschen...
+          <lb/>figuren der Kreuter... gezieret. Darüber drei Register...—
+          <lb/>Strasbourg, Josias Rihel 1556, in-fol.
+          <lb/>Bibl. Budapest : 600.098. (Communication de Mme Soury,
+          <lb/>Strasbourg); Ritter : B M Strasbourg n° 553. Autres éd. de
+          <lb/>1565, 1572, 1574.
+          <lb/>1022
+          <lb/>BOCK, Hier, : Kreutterbuch. Auch wie man die Kreutter zu
+          <lb/>rechter Zeit samlen und distillieren soll. Durch Melchio¬
+          <lb/>rem Sebizium Silesium... Sampt fünff nützlichen
+          <lb/>Registern. — Strasbourg, Josias Rihel 1. VIII, 1580,
+          <lb/>in-fol.
+          <lb/>Ritter: B M Strasbourg n° 555. (Autres éd. 1586, 1587, 1595),
+          <lb/>nach Stübler, p. 244, note (1) : Bocks Kräuterbuch erschien
+          <lb/>dann noch : 1551, 1552 (lateinische Ubersetzung), 1556, 1565,
+          <lb/>1572. Ferner von anderer Seite bearbeitet 1580, 1587, 1595,
+          <lb/>1630. (Ritter, Rép, nos 211-220; éd. 1539, 1544, 1546, 1550,
+          <lb/>1551, 1552, 1555, 1560, 1587, 1595).
+          <lb/>1023
+          <lb/>BOCK, Johannes : Wir Hanns Bock Ritter der Maister und
+          <lb/>der Rath zu Strassburg thun kund... das sich villerlei
+          <lb/>irrige secten... erhaben... Darum so vermanen wir alle...
+          <lb/>das sie bei dem h. Evangelio.., bestendiglich bleiben...
+          <lb/>Actum et decretum Mitwoch den xxviii, Aprilis xXXV.—
+          <lb/>(Strasbourg] 1535, placard, 83 lignes.
+          <lb/>Ritter: B M Strasbourg n° 556.
+          <lb/>1024
+          <lb/>BOCK von Erlenburg: Wir Georg Jacob Bock von Erlenburg
+          <lb/>der Maister und der Rhat... verbieten allen... das hinfüro
+          <lb/>54
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

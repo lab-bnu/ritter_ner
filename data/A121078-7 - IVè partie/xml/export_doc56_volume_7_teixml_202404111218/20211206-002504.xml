@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:14.052876+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002504.tif
+IMAGE WIDTH: 2496
+IMAGE HEIGHT: 3998
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>p. 325. Werner, p. 106, n° 28; « Il n’existe plus qu’un seul
+          <lb/>exemplaire conservé dans les collections de la Bibliothèque
+          <lb/>municipale de Zurich».
+          <lb/>3404
+          <lb/>VERZEICHNIS : Aigenlich Verzeichnus des berümten Strasbur¬
+          <lb/>gischen Hauptschiessens mit dem Stahel oder Armprost
+          <lb/>dises gegenwärtige 1576 Jar von dem xxviij. Maij.
+          <lb/>bisz auf den Neunten Junij samt dem Nathaupt¬
+          <lb/>schiesen (!) alda glücklich vollpracht und geendet, und
+          <lb/>nun gegenwärtiger gestalt inn truck gegeben... —
+          <lb/>Strasbourg, Bernard Jobin 1576, placard in-fol. avec
+          <lb/>grav. de Tobie Stimmer.
+          <lb/>Hirth 1386/89; Zurich, Bibl. Centrale II, 13/5, 6.
+          <lb/>3405
+          <lb/>VERZEICHNIS : Warhafftige unnd kurtze Verzeichniss des
+          <lb/>Krieges, in welchem König Friedrich zu Dänemark...
+          <lb/>des Namens der ander und ihrer Kön. Maj. Vettern
+          <lb/>Johann unnd Adolff, gebrüder, alle Hertzogen zu Sless¬
+          <lb/>wick Holsteyn etc., innerhalb zweyer Monaten in Maien
+          <lb/>und Brachmonat des 1559, jars wider die Dietmarsen
+          <lb/>geführt. Von der Dietmarsen ursprung und herkommen...
+          <lb/>— Strasbourg, Théodose Rihel 1559, in-4°.
+          <lb/>Schottenloher 36.573 a.
+          <lb/>3406
+          <lb/>VESPUCCI (Americus) : De ora antarctica per regem Portugale
+          <lb/>pridem inventa. — (Strasbourg, Math. Hupfuff 1505),
+          <lb/>in-4°.
+          <lb/>Panzer 6, 33; Harisse, p. 83, n° 39; d’Avezac 91; Schmidt V,
+          <lb/>n° 41 : Jadis Bibl. de Strasbourg, Incun, no 4756; BN
+          <lb/>Strasbourg : Ritter, Rép. n° 2406.
+          <lb/>3407
+          <lb/>VESPUCCI (Americus) : Von den nüwen Insulen und landen so
+          <lb/>yetz kürtzlichen erfunden synt durch den König von
+          <lb/>Portugall. — (Strasbourg) (Math. Hupfuff) (1506),
+          <lb/>in-4°. (Traduction allemande du numéro précédent).
+          <lb/>Weller 360; Harrisse, p. 84, n° 40; Schmidt V, n° 50. 3408
+          <lb/>502
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

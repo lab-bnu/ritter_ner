@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:05.329027+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002146.tif
+IMAGE WIDTH: 2512
+IMAGE HEIGHT: 3958
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Brunet II5, 794. (Ritter, Rép, n° 661 ; éd. Josias Rihel 1576,
+          <lb/>et 1585 (Rép. 662).
+          <lb/>1519
+          <lb/>DOLIGANUS. Voir : AESopus no 746.
+          <lb/>DOMHERREN-KALENDER. Voir : KALENDER der Strassburger
+          <lb/>Domherren.
+          <lb/>DONATUS, Aelius : Ars minor. — [Strasbourg, Mathias Hupfuff
+          <lb/>pas avant 1505), in-4°.
+          <lb/>GW VII, col. 634 : « Der Druck ist mit den Typen des
+          <lb/>Mathis Hupfuff in Strassburg nicht vor 1505 hergestellt».
+          <lb/>Copinger 2044, Proctor 3277, Brit. Mus. Cat. III, 71. 1520
+          <lb/>DONATUS, Aelius : Ars minor avec Verba defectiva. —
+          <lb/>(Strasbourg, Mathias Schürer (?), probablement après
+          <lb/>15001, in-4°.
+          <lb/>G W VII, col. 635 : Nach Typen und Ausstattung 16.
+          <lb/>Jahrhundert. Wahrscheinlich Druck des Mathias Schürer».
+          <lb/>1521
+          <lb/>DONATUS, Aelius : Donatus minor. Expositione vulgari... —
+          <lb/>(Strasbourg, Mathias Hupfuff 1511), in-40.
+          <lb/>Schmidt V, n° 90; Weller, 636. — BN Munich.
+          <lb/>1522
+          <lb/>DORPIUS, Henricus : Wahrhafftige historia wie das Evange¬
+          <lb/>lium zu Münster angefangen, und darnach durch die
+          <lb/>Widertauffer verstört, wider auffgehört hat... —
+          <lb/>Strasbourg, Crato Mylius 1536, in-40.
+          <lb/>Walter, n° 1120.
+          <lb/>1523
+          <lb/>DRACONITES, Johannes : Trostpredigt über die Leiche
+          <lb/>Eobani Hessi. — Strasbourg 1541, in-4°.
+          <lb/>Goedeke II2, p. 91, n° 18.
+          <lb/>1524
+          <lb/>DRECHSLER, Wolfgang): De Saracenis et Turcis Chronicon.
+          <lb/>Item de origine et processu et fine Mohameti, &amp;amp; quadru¬
+          <lb/>plici reprobatione prophetiae eius Joannis Galensis
+          <lb/>144
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

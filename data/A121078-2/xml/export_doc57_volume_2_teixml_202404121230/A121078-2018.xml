@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:26.836146+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2018.tif
+IMAGE WIDTH: 2390
+IMAGE HEIGHT: 3824
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>14
+          <lb/>Quelques annotations mss, au haut du titre: Cartusiae Buxiae; au recto
+          <lb/>du f. blanc qui précède le titre: Liber Cartusiensis InBuchshaim
+          <lb/>prope Memingen comparatus per priorem Jacobum.
+          <lb/>3e exemplaire E11524b. Prov.: Don de la ville de Heilbronn en
+          <lb/>1871; à l&amp;#x27;intérieur de la couverture: Ex legato Egregij viri Artium
+          <lb/>ac sacre Theol. doctoris dominus Joannes krener ex Scher¬
+          <lb/>ding Concionatoris Heilpronensis.
+          <lb/>BU Paris, Réserve 112, Beaulieux, p. 12; BN Paris, Rés. A 1212
+          <lb/>et 1212bie, GPB, II, 10057: Breslau, Halle, Bonn, Greifswald. 23
+          <lb/>ALBERTUS MAGNUS
+          <lb/>Haguenau, H. Gran, 1504.
+          <lb/>Prima et! Partes Postille Super Euan-[ geliare Luce.
+          <lb/>Secunda! Venerabilis domini: domini Alberti magni
+          <lb/>quondam Ratisponensis Episcopi Ordi nis Predicatorum.
+          <lb/>(Verso blanc.)
+          <lb/>A la fin: Impressum accuratissima dili-gentia expensis
+          <lb/>circumspecti viri ar! chibibliopole Joannis Rynman de
+          <lb/>Oringaw Jn oppido Imperiali Hagenau Jndustrij Henrici
+          <lb/>Gran ibidem Ciuis in officina: Finemque fe licem in vigilia
+          <lb/>conceptionis beate virgi! nis Marie Anno virginei partus
+          <lb/>eiusdem Millesimo quingentesimo! et quarto assecutum.
+          <lb/>in-fol., car. goth., 2 col., 60 ff. non ch. dont le dernier f. blanc
+          <lb/>(Table), CCCXLIII ff. ch., 2 ff. blancs, titre courant, initiales d’attente.
+          <lb/>Le titre principal est répété après la table (verso blane); après
+          <lb/>f. 163, f. blanc, puis titre de la 2e partie: Secunda Pars Postille
+          <lb/>Super Lucam.Venerabilis domini: domini Alberti magni
+          <lb/>quondam Ratisponensis Episcopi Ordi nis Predicatorum.
+          <lb/>(Verso blanc.)
+          <lb/>E 11525. Prov.: Butsch, antiq. à Augsbourg, 12/x. 1883, 6 M.
+          <lb/>Quelques annotations mss., au haut du titre: Cartusiae Buxiae,
+          <lb/>Au recto du f. blanc qui précède le titre: Liber Cartusiensis in Buchs¬
+          <lb/>haim prope Memingen, comparatus per priorem Jacobum.
+          <lb/>2e exemplaire E 11524a. Prov.: Ville de Heilbronn en 1871;
+          <lb/>à l&amp;#x27;intérieur de la couverture: Ex legato Egregij viri Artium ac sacre
+          <lb/>Theol. doctoris dominus Joannes krener ex Scherding Concionatoris
+          <lb/>Heylpronensis.
+          <lb/>GPB, II, 10057: Breslau, Halle, Bonn, Münster.
+          <lb/>24
+          <lb/>ALBERTUS MAGNUS
+          <lb/>Haguenau, H. Gran, 1505.
+          <lb/>Super Matthei Euangeli-are postilla Alberti Magni
+          <lb/>Opus preclarissimum postillarum diui Alberti Magni! Ratis¬
+          <lb/>ponensis dum vixit Episcopum: summi et incomparabilis
+          <lb/>Theologi: super Quattuor Euangelia: multis retro annis
+          <lb/>a doctis omnibus: maxime vero a seminiuerbijs religio¬
+          <lb/>sis pariter et secularibus desideratissime expectatum: ac
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

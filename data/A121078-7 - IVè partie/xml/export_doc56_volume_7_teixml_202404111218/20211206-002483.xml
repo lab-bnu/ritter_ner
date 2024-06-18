@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:13.575248+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002483.tif
+IMAGE WIDTH: 2476
+IMAGE HEIGHT: 4002
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>STURM, Joh. : De exercitationibus rhetoricis... — Strasbourg,
+          <lb/>Nicolas Wyriot 1575, in-4°.
+          <lb/>Ritter, Hist. impr., app. n° 393.
+          <lb/>3294
+          <lb/>STURM, Joh. : Oratio de militia scholastica habita Argentinae
+          <lb/>in Progressionibus Classicis, ultimo Martii 1578. —
+          <lb/>Strasbourg, Nicolas Wyriot 1578, in-4°,
+          <lb/>Ritter, Hist. impr. app. 393 (6).
+          <lb/>3295
+          <lb/>STURM, Joh. : Consolatoria Joan. Sturmii epistola... ad
+          <lb/>Petrum Bilde Regii in Dania Consiliarium... de morte
+          <lb/>nepotis ex sorore Nicolai Brockij Dani... Sampt den...
+          <lb/>Leichenpredigt Herrn Johannis Liptstzen. — Strasbourg,
+          <lb/>Nic. Wyriot 1579, in-4°.
+          <lb/>Bibl. S. Guillaume, Strasbourg.
+          <lb/>3296
+          <lb/>STURM, Joh. : Partitionum Dialecticarum libri IIII. Emendati
+          <lb/>&amp;amp; Scholijs interlinearibus aucti, à Jo. Ludovico Hawen¬
+          <lb/>reutero D. [Marque typ. de Josias Rihel)... — (Argen¬
+          <lb/>torati, excudebat Josias Rihelius. Anno) M.D.XCI
+          <lb/>(1591), in-80.
+          <lb/>Bibl. S. Guillaume et Bibl. Grand Sém. Strasbourg AT 243
+          <lb/>[des éd. Wend. Rihel 1549, Josias Rihel 1560, 1566, 1571:
+          <lb/>Ritter, Rép. nos 2207, 2211, 2214, 2221).
+          <lb/>3297
+          <lb/>STURM, Joh. Voir: BUCHANAN, n° 1194; CENOTAPHIUM
+          <lb/>(Joh. Sturmio), n° 1327; CICERO, n° 1353; CRUSIUS,
+          <lb/>Mart, n° 1467; ERYTHRAEUS, nos 1637-1641; PLATO,
+          <lb/>n° 2936; PLAUTUS, n° 2945; RHENANUS Beatus, n° 3108.
+          <lb/>Sturm, Joh. voir aussi : Ritter, Rép. nos 2198-2242. 3298
+          <lb/>STYMELIUS, Christophorus : Studentes. Comoedia de vita
+          <lb/>studiosorum. — Strasbourg 1562, in-4°.
+          <lb/>Bahlmann, p. 99; Goedeke IIe, p. 138, n° 27 (a).
+          <lb/>3299
+          <lb/>SUDENUS, Olaus. Voir : BAUDERON, Brice, no 946.
+          <lb/>SUDERMANN, Daniel : Nun höret zu ihr Christen leut, ich wil
+          <lb/>481
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

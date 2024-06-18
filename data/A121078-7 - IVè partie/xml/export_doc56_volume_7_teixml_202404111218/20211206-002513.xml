@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:14.192404+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002513.tif
+IMAGE WIDTH: 2484
+IMAGE HEIGHT: 3984
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>VOGTHERR, Heinrich. Voir aussi : AusleGuNg, n° 888/9.
+          <lb/>[VOGTHERR, Georgl (Summari-Büchlein): Ein wolgegründts
+          <lb/>kunstreichs summarii buchlein aller Sonnen-Ur uff acht
+          <lb/>oder vier eckette Stecklin in buchsen, Zylinder und uff
+          <lb/>guldine ring, auch uff glass, alle mauren Schreg oder
+          <lb/>unschreg zu machen... [Herstellung von Sonnenuhren).—
+          <lb/>Strasbourg, Henri Vogtherr 1539 «erstlich in tag
+          <lb/>gegeben » in-4°.
+          <lb/>B M Colmar. Zinner 1729 admet que Georges Vogtherr, qui
+          <lb/>a envoyé le manuscrit à son frère Henri Vogtherr, en est
+          <lb/>probablement l’auteur.
+          <lb/>3454
+          <lb/>VOLATERRANUS, Raphaël. Voir: ARISTOTELES, De natura,
+          <lb/>n° 849.
+          <lb/>WAGNER, Georg. Voir: WINTERPERGER, Wolfg., n° 3547.
+          <lb/>WALDMÜLLER, Jörg. Voir: GESANGBUCH, n° 1885.
+          <lb/>WALDNER, Martin. Voir : LIED (ein schönes, neues vom
+          <lb/>Abgott Bell), n° 2351 (ein ander Geistlich Lied), n° 2326.
+          <lb/>(WALDSEEMÜLLER, Martin] :.... Universalis Cosmographia
+          <lb/>secundum Ptolomaei traditionem et Americi Vespucii
+          <lb/>aliorumque lustrationes. — Strasbourg 1507, in-fol.
+          <lb/>Brandmair, p. 4/5 : « Die erste gedruckte Karte auf der die
+          <lb/>neuen Entdeckungen niedergelegt sind».
+          <lb/>3455
+          <lb/>(WALDSEEMÜLLER, Martin) : Cosmographiae introductio:
+          <lb/>cum quibusdam Geometriae ac Astronomiae principijs
+          <lb/>ad eam rem necessariis. Insuper quattuor Americi
+          <lb/>Vespucij navigationes. Universalis cosmographiae
+          <lb/>descriptio... — (Strasbourg, Jean Grüninger 1509), in-4°
+          <lb/>(Joanne Adelpho Mulicho Argentin, castigatore).
+          <lb/>Proctor 9915 : Brit. Mus. Londres; Schmidt I, n° 109 ; « 5e édi¬
+          <lb/>tion du traité de Waldseemüller; les 4 premières avaient
+          <lb/>paru à Saint-Dié; Baer (Francfort-s.-M.), Catal, 500 (1907),
+          <lb/>511
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

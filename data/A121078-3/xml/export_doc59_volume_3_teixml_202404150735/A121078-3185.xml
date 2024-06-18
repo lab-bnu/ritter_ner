@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:07.876565+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3185.tif
+IMAGE WIDTH: 2318
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>4°, Got., 56 unn. Bll., Sign. A-O. Kust., Init.
+          <lb/>Bl. A 2a: Beylagen. (im ganzen 17.)
+          <lb/>Die Protestationsschrift hat nur 11 S., den Rest bilden die Beilagen.
+          <lb/>M 43242. Prov.: Bibl. Heitz, Strassburg 1871.
+          <lb/>burg, Gebhard): SB Berlin, UB Bonn, Breslau, Göttingen, Marburg.
+          <lb/>Stadtbibl. Strassburg O 1044. Gk (unter: Truchsess von Wald¬
+          <lb/>939
+          <lb/>GEBOT. Siche: (MARCUS VON LINDAU]: Die zehen gebot.
+          <lb/>Strassburg 1516.
+          <lb/>GEBWEILER Hieronymus
+          <lb/>[Strassburg) um 1510
+          <lb/>In septem psalmorum pe! nitentialium breuis expla¬
+          <lb/>natiuncula a Hieronymo Gebwilerio ex diuo Gregorio
+          <lb/>ac ceteris! collecta. Oratio exhortatoria eiusdem ad disci¬
+          <lb/>pulosvt ad dignam eucharistie sumptio nem sese pre¬
+          <lb/>parent.
+          <lb/>40, Got., 17 unn. Bll., Sign. A-E, Marg.
+          <lb/>R101.139. Prov.: Butsch, Augsburg 26. IX. 1882; 3 M.
+          <lb/>Auf dem Titelbl.: Ex Cimeliis Literariis Iohannis Nicolai Weislinger
+          <lb/>Parochi in Capell 1735. Unten, mit Bleistift: Argentor. c. 1510.
+          <lb/>Fehlt bei Schmidt. Der GK verzeichnet eine Ausgabe o. O. u. J.,
+          <lb/>nur in Berlin SB vorhanden. Die Titelaufnahme beginnt: ,Septem...&amp;quot;
+          <lb/>(nicht: »In septem&amp;quot;). Original 2. Z. nicht verfügbar, daher nicht nach¬
+          <lb/>zuprüfen, ob es sich um diese Ausgabe handelt.
+          <lb/>Bibliographie von Gebuveiler: Schottenloher I Nr. 6938-6942. 940
+          <lb/>GEBWEILER Hieronymus
+          <lb/>Strassburg, Joh. Schott 1519
+          <lb/>LIBERTAS GERMANIAE. qua Germanos Gallis, nemi¬
+          <lb/>nem vero Gallum a Chri stiano natali, Ger- manis impe¬
+          <lb/>rasse, certissimis classicorum scriptorum testimonijs
+          <lb/>probatur.
+          <lb/>ENCOMIVM sacrae Ro. Regiae ac catholicae maiestatis,
+          <lb/>illustriumque Romani Im- perii Principum Electorum.
+          <lb/>Nantuantes, Heluetios, Raurices, Tribotes seu Alsatas,
+          <lb/>Nemetes, Vangiònes, Mogun ciacos, ac Vbios, non Gallos,
+          <lb/>sed! vere Germanos esse, haud ! proletariorum scriptorum
+          <lb/>attestatio. Hieronvmo Gebuilerio autore, in singulare
+          <lb/>totius Germaniae &amp;amp; Alsatiae praeconium congesta. (Rücks.
+          <lb/>leer.)
+          <lb/>Am Schluss: Argentorati apud Ioannem Scotum, in
+          <lb/>Thomae loci pomerio. 1519.
+          <lb/>629—
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

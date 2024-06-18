@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:09.528734+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002309.tif
+IMAGE WIDTH: 2514
+IMAGE HEIGHT: 3978
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>LIED (ein schönes, neues, geistliches) : Ein schön neüw
+          <lb/>Geistlich Lied, Von dem Leiden unnsers Herren Jhesu
+          <lb/>Christi, ausz den vier Evangelisten gezogen... Ein
+          <lb/>ander neüw Lied, von dem verlornen Son... (grav.). —
+          <lb/>(Strasbourg, Th. Berger vers 1555), in-8°,
+          <lb/>Heitz, p. 38; Wackernagel III 1248: Valten Vogt; le second
+          <lb/>cantique est de Nicolas Vogel; Vogeleis, p. 315.
+          <lb/>2369
+          <lb/>LIED (ein schönes, neues, geistliches) : Ein schön neüw
+          <lb/>Geistlich Lied, vonn dem fall Adam unnd Eve... (grav.)
+          <lb/>Ein ander schön new Lied Jn meines Herren garten,
+          <lb/>wachsen der blümlein vil... (grav.). — (Strasbourg,
+          <lb/>Th. Berger) (1560), in-8°. (Auteur : Bened. Gletting.)
+          <lb/>Goedeke I2, p. 261, no 47; Heitz, p. 2; Vogeleis, p. 297;
+          <lb/>Wackernagel IV, 231 et IV, 232.
+          <lb/>2370
+          <lb/>LIED (ein schönes, neues, geistliches) : Ein schön neüw
+          <lb/>Geistlich Lied, von dem Göttlichen wort Gottes... —
+          <lb/>[Strasbourg, Thiébaud Berger vers 1561), in-8°.
+          <lb/>Vogeleis, p. 314; Wackernagel 832.
+          <lb/>2371
+          <lb/>LIED (ein schönes, wahrhaftig neues) : Ein schön warhafftig
+          <lb/>new Lied, und dancksagung des wunderbarlichen glücks
+          <lb/>so Gott den Steyrerischen unnd den selben Reuttern
+          <lb/>in Wündisch Landen wider den Türcken, der Christenheit
+          <lb/>zu gutem bewisen hat; als man zalt 1557 (grav.). Das
+          <lb/>ander Lied, Von dem künig ausz Dennmarck, Wer da
+          <lb/>stürmen unnd streiten wil... — T. B. [— Strasbourg,
+          <lb/>Th. Berger 1557), in-8°.
+          <lb/>Heitz, p. 69.
+          <lb/>2372
+          <lb/>LIED (ein wahrhaftiges neues) : Ein warhafftig newes lied,
+          <lb/>von ihren vieren vom Adel... Wie dieselben Mörderischer
+          <lb/>weiss, durch einen Burgundischen angriffen und wie es
+          <lb/>inen ergangen... Den sechsten Hevmonat im 1570 Jar...—
+          <lb/>(Strasbourg, Pierre Hug (1570), in-8° (Dans l’avant¬
+          <lb/>307
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

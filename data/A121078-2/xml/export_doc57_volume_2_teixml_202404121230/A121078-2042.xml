@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:27.391863+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2042.tif
+IMAGE WIDTH: 2364
+IMAGE HEIGHT: 3830
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>38
+          <lb/>ANGELUS DE CLAVASIO
+          <lb/>Haguenau, H. Gran, 1509.
+          <lb/>Summa Angelica de casibus! conscientie cum quibus¬
+          <lb/>dam no) uis et oportunis additionibus. (Verso blanc)
+          <lb/>A la fin:... diligenter reuisa ac emendata Jmpensis
+          <lb/>proui- dorum Joannis Rynman de Oringaw: necnon! Joannis
+          <lb/>Knoblauch ciuis inclyte vrbis Ar gentinensis: Jn officina
+          <lb/>industrij Henrici Gran ciuis in opido imperiali Hagenaw
+          <lb/>impressa Fi-nit feliciter Anno virginei partus, 1509. in
+          <lb/>vi gilia sancti Matthie apostoli. (Suivent 6 distiques).
+          <lb/>in-fol., car. goth., 2 col., 16 ff. non ch., CCOXIX ff. ch., titre cou¬
+          <lb/>rant, init. d’attente.
+          <lb/>Fol. 2a non ch.: Epistola F. Hieronymi Tormeli lectoris
+          <lb/>ad R. F. Angelum de Clauasio... avec la réponse de l’auteur
+          <lb/>comme dans l&amp;#x27;édition de 1502.
+          <lb/>*R10.212. Pror.: Don de la «Fürstlich Bentheim’schen» Bibl.
+          <lb/>du Couvent de Frenswegen, 1874. Notes mss. Au haut du titre:
+          <lb/>&amp;quot;Ex Bibliotheca Canonicorum Regul, ord. s. P. Augustini
+          <lb/>in Frenswegen.»
+          <lb/>BM Colmar; Londres, Britsh Museum.
+          <lb/>63
+          <lb/>ANGELUS DE CLAVASIO
+          <lb/>Strasbourg, R. Beck, 1513.
+          <lb/>Summa Angeli ca de Casibus consci entie; cum
+          <lb/>multis vti libus et valde ne cessariis additio nibus nouiter
+          <lb/>insertis. (Verso blanc.)
+          <lb/>A la fin:... diligenter reuisa ac emen data Jmpensis
+          <lb/>prouidorum Joannis Rynman de Oringaw: necnon Joannis
+          <lb/>Knoblauch, ci) uis inclyte vrbis Argentinensis: Jn officina
+          <lb/>in dustrij Renati Beck eiusdem vrbis incole im pressa
+          <lb/>Finit feliciter Anno virginei partus 1513, pridie Kal.
+          <lb/>Septembris.
+          <lb/>Au-dessous, marque typ. de R. Beck. [H &amp;amp; B Planche XIV, NO 3;
+          <lb/>Silvestre, N° 627.] Verso blanc.
+          <lb/>in-fol., car. goth., 2 col., 16 ff. non ch., CCCXII ff. ch., titre courant,
+          <lb/>init. ornées, init. d’attente, fol. 2a non ch. grande init. à fig P (étable
+          <lb/>de Bethléem), titre rouge, encadré par J. Wechtelin; à gauche, une
+          <lb/>tige de houblon, à droite un cep de vigne, qui s’entrelacent dans la
+          <lb/>bordure supérieure, où, sur un feston, est perchée une chouette; à
+          <lb/>gauche et à droite, des oiseaux becquetant les fruits; au bas, écu
+          <lb/>avec l’aigle impériale, et une banderole sans inscription.
+          <lb/>Fol. 2a non ch.: «Epistola F. Hieronvmi Tormeli lectoris)
+          <lb/>ad Re. F. Angelum de Clauasio» et réponse de ce dernier, comme
+          <lb/>dans les éditions précédentes.
+          <lb/>*R10. 214. Prov.: Jos. Baer, Francfort s. M., 20/1. 1879, 12 M.
+          <lb/>Londres, Britsh Museum.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

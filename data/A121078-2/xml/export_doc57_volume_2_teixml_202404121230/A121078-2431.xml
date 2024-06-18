@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:39.144377+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2431.tif
+IMAGE WIDTH: 2390
+IMAGE HEIGHT: 3824
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>427
+          <lb/>DICTIONARIUM
+          <lb/>Strasbourg, W. Köpfel, 1535.
+          <lb/>Dictionarius Latinis: Gallicis, et Germanicis Voca¬
+          <lb/>bulis con- scriptus, et denuo castigatus et locu- pletatus.
+          <lb/>Dictionaire ou Vocabu laire couche en vocables
+          <lb/>Latins, Francoys, et Alemans, tres utile a ceulx qui veu¬
+          <lb/>lent apprendre les dictz langaiges:! lequel de nouueau a
+          <lb/>este correct, et augmente de plusie-urs dictions.
+          <lb/>Ein Vocabularius fast nützlich vnd! gût für die teut¬
+          <lb/>schen die da Frantzesisch oder Fran- tzosen die da
+          <lb/>teutsch lernen wöllendt, new- lich mit vilen Latinischen,
+          <lb/>Frantzesisch en vnd Teutschen wörtern gemert vnd
+          <lb/>bessert, (Verso blanc.)
+          <lb/>A la fin : Getruckt zû Straszburg durch Wolffgang
+          <lb/>Köphl. Jm jar vnsers Herren! Christi. M. D XXXV.
+          <lb/>In-4°, car. goth., 3 col.-f. Giiii; 2 col. jusqu’à la fin. (sans le
+          <lb/>latin), 44 ff. non ch., dont le dernier blanc, sign. A-L, titre rouge
+          <lb/>et noir.
+          <lb/>R100.056 Prov.: Rosenthal, Munich, 7/XII. 1914, 100M.
+          <lb/>Annotations manuscrites au verso du dernier f. Brunet IIs, col.
+          <lb/>691.
+          <lb/>640
+          <lb/>DICTIONARIUM
+          <lb/>Strasbourg, N. Wyriot, 1575.
+          <lb/>Dictionarium Latinum, Gallicum &amp;amp;Germanicum,
+          <lb/>vnà cum formulis loquendi.Vocabulaire Latin, Fran¬
+          <lb/>çois &amp;amp; Allemand: auec vne Instruction pour parler en¬
+          <lb/>semble. Vocabular Latinisch Frantzösisch vnd Teutsch,
+          <lb/>Sampt eine Gespräch mit einander zu reden.
+          <lb/>Zù Strassburg bey Niclausz Wyriot in der Stadel¬
+          <lb/>gasz. M. D. LXXV.
+          <lb/>In-8°, car, rom,, ital. et goth., 3 col. jusqu’à D, puis 2 col.,
+          <lb/>réclames, titre encadré (ornements).
+          <lb/>R102.410. Prov.: Heberle, Cologne. 29/X. 1897; 6 M. 641
+          <lb/>DICTIONARIUM
+          <lb/>Strasbourg, A. Bertram 1590.
+          <lb/>DICTIONARIVM TRIVM LINGUARVM : LATINAE, GALLICAE
+          <lb/>ET GER- manicae, vnà cum formulis loquendi, omnibus
+          <lb/>incipientibus, mirum quam vtile.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

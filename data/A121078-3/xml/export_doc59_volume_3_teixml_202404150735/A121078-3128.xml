@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:06.682466+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3128.tif
+IMAGE WIDTH: 2314
+IMAGE HEIGHT: 3852
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>572
+          <lb/>prachsi zuvor: im Namen des lieben Doctor F. Rabelaisco.
+          <lb/>M. G. F. J.
+          <lb/>R 101.638. Prov.: Bensheimer, Antiguar, Strassburg 7. V. 1878;
+          <lb/>31 M. Auf dem Titelbl. : Gottfr. Reuter... Junij 28. 1626. 36 M.
+          <lb/>GK: SB Berlin.
+          <lb/>Goedeke 112, S. 492 Nr. 7.
+          <lb/>865
+          <lb/>FISCHART Joh.: Der Heilig Brotkorb. Siche: CALVIN
+          <lb/>FISCHART Joh. Siche: SEBIZ Melchior: XV. Bücher von dem
+          <lb/>Feldbau.
+          <lb/>Strassburg, Joh. Grüninger 1523
+          <lb/>FISHER John
+          <lb/>Von dem hoch- gelerten vnd geistlichen Bischoff
+          <lb/>Johannes von Roffa vsz enge- land, seynes grossen nutz¬
+          <lb/>lichen bûochs CXXXIX. artickel wider! M. Luther sein
+          <lb/>hie verteutscht! zù nutz dem christlichen volck zû be¬
+          <lb/>dencken irer selen selikeit. (Rücks. leer.)
+          <lb/>Am Schluss: Getruckt zû Straszburg durch Johannem
+          <lb/>Grienin ger im iar. M. D. XXIII. vff donrstag nach sant
+          <lb/>Nicolaus tag. (Rücks, leer.)
+          <lb/>40, Got., 86 unn. Bll., Sign. A-X, Marg., Zierinit., Titeleinfassung:
+          <lb/>2 Doppellinien, die sich im rechten Winkel schneiden.
+          <lb/>Bl. A 2a: Johannes Cochleus Johanni Grieninger...
+          <lb/>Datum zû Franck furt an dem Mein, an sant Lorentzen
+          <lb/>tag, im iar M. D. XXIII. (Epheubl.) Vorrede von 2 S. Auszug aus
+          <lb/>dem Werke des Kardinals Fisher, Bischof von Rochester:» Adsertionis
+          <lb/>lutheraneae confutatio,“ 1523, 40, gegen Luthers Schrift auf Heinrich
+          <lb/>VIII., übersetst von Cochlaeus.
+          <lb/>R102.035. Prov.: Butsch, Augsburg 26. IX.1882; 7 M. Handschr.
+          <lb/>Notizen. Titelbl, oben: Anno 1543 dominica post Jacobi W R; unten:
+          <lb/>Monachij ad P. T. Franciscanos pro bibl.
+          <lb/>Schmidt I Nr. 204: Staats-Bibl. München u. Basel. Schmidt setst:
+          <lb/>Von dem hochgelehrten! vnd geistlichen Bischoff! Johan¬
+          <lb/>nes von Roffa usz Engeland, sejnes groszen nutzlichen
+          <lb/>bûchs CXXXIX artickel wider M. Luther sein hier ver¬
+          <lb/>teutscht.
+          <lb/>GK: SB Berlin; UB Breslau.
+          <lb/>Bibliographie Fishers: Schottenloher I Nr. 6320a-6320i. 860
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

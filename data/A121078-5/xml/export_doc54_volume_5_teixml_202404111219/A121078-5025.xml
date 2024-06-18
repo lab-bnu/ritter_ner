@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:49.394661+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5025.tif
+IMAGE WIDTH: 2374
+IMAGE HEIGHT: 3882
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>In-4°, car. goth., 16 ff. non ch., sign. A-D, suivi d’un f. double avec
+          <lb/>une gravure représentant le tir, en haut la ville de Strasbourg avec la
+          <lb/>cathédrale; réclames, init. goth.
+          <lb/>fol. A 2a : Den... Herrn Räthen der 1I Statt Straszburg, die Ein vnd
+          <lb/>Zwantzig genant, Meinen gnedigen gebietenden!! Herrn... Datum
+          <lb/>Straszburg den 23. Junij Anno 1590. !! Bernhart Schmidt Organist !! im
+          <lb/>Münster daselbsten. (2 pp.)
+          <lb/>R. 102.326. Prov. : Trübner, Strasbourg, 8/VIII, 1886; 69 M. 35.
+          <lb/>2083
+          <lb/>SCHNEIDEWIN Johannes
+          <lb/>Strasbourg, Th. Rihel, 1580
+          <lb/>Ioan. Schnei-dewini i. u. d. clarissimi,et academiae
+          <lb/>witebergensis pro-fessoris quondam publici, &amp;amp; celeberrimi,
+          <lb/>in quatuor institutionum Impe-rialium D. Iustiniani libros,
+          <lb/>commentarii, nunc post mortem eius in usum &amp;amp; gratiam
+          <lb/>iuris Studiosorum, nec non omnium aliorum!! praxim forensem
+          <lb/>sectantium, cum multis libellorum, &amp;amp; actuum iudicialium
+          <lb/>formis, atque iuris Saxo-nici consensu &amp;amp; antinomia, editi.
+          <lb/>ex recognitione et cumnouis annotationibus ac supple¬
+          <lb/>mento!! Matthaei Wesenbecij,!! accessit insuper, ad levandum
+          <lb/>studioso-rum laborem, in fine index omnium materia¬
+          <lb/>rum scitu dignarum, locupletissimus.
+          <lb/>Marque typ. de Th. Rihel. (H. &amp;amp; B. Planche XXXII, n° 17.)
+          <lb/>Cum gratia &amp;amp; Priuilegio Caesareae Maiestatis ad annos
+          <lb/>decem.
+          <lb/>Argentorati Excudebat Theodosius Rihelius, Anno!
+          <lb/>M. D. LXXX. (Verso blanc.).
+          <lb/>A la fin : Argentorati Excudebat Theodosius Rihelius,
+          <lb/>Anno!) M. D. LXXX. (Verso blanc.)
+          <lb/>In-fol., car rom., ital. et goth., 6 ff. non ch., 1143 pp. ch., 34 ff. non ch.
+          <lb/>(Index à 2 col. en car. ital.), 1 f. blanc, titre courant, réclames, notes marg.,
+          <lb/>grandes init. ornées.
+          <lb/>1333
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

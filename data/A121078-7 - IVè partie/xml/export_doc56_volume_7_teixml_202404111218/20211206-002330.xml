@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:10.260295+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002330.tif
+IMAGE WIDTH: 2512
+IMAGE HEIGHT: 3974
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>LUTHER (Catechismus) : Catechismus, latinus factus per Vinc.
+          <lb/>Obsopoeum. Huic adiectus est... Catechismus Joh.
+          <lb/>Brentii. — Haguenau, Pierre Brubach 1536, in-80,
+          <lb/>Koehler, n° 86; H. P. Kraus, antiquaire Vienne, Catal. XVI
+          <lb/>(1937), n° 26; Ritter : B M Strasbourg, n° 1429; Bibl.
+          <lb/>S. Guillaume, Strasbourg.
+          <lb/>2480
+          <lb/>LUTHER (Catechismus) : Catechismus minor, latino graecus,
+          <lb/>cum explicatione orthodoxa, &amp;amp; lucida. Item praecationes
+          <lb/>et cantiones quaedam sacrae, unà cum legibus Scholae
+          <lb/>Argentinensis. — Strasbourg, Samuel Emmel 1568,
+          <lb/>in-80.
+          <lb/>Ritter: B M Strasbourg, n° 1435.
+          <lb/>2481
+          <lb/>LUTHER (Catechismus) : Der kleine Catechismus für die
+          <lb/>Pfarrer und Prediger gebessert. — Strasbourg, Samuel
+          <lb/>Emmel 1570, in-4°.
+          <lb/>Ritter : Hist. impr. app. 387.
+          <lb/>2482
+          <lb/>LUTHER (Contra Cochlaeum) : Adversus armatum virum
+          <lb/>Cokleum. — (Strasbourg, Jean Prüss) Witenbergae
+          <lb/>1523, in-40.
+          <lb/>Horning, n° 63; Schmidt III, p. 38, n° 34. — Bibl.
+          <lb/>S. Guillaume, Strasbourg.
+          <lb/>2483
+          <lb/>LUTHER (De Conciliis) : Von den Concilijs und Kirchen...
+          <lb/>M.D.XXXIX. — (Strasbourg, Crafft Müller) (Crato
+          <lb/>Mylius] 1539, in-4°.
+          <lb/>Bibl. St. Guillaume, Strasbourg.
+          <lb/>2484
+          <lb/>LUTHER (Condemnatio doctrinalis) : Condemnatio doctrinalis
+          <lb/>librorum Martini Lutheri per quosdam Magistros Lova¬
+          <lb/>nienses &amp;amp; Colonienses facta. Responsio lutherana ad
+          <lb/>eandem condemnationem. — Sélestat, Laz. Schürer
+          <lb/>(mai) 1520, in-4°. (Au verso du dernier f. marque typ.
+          <lb/>de l’imprimeurl.
+          <lb/>Bibl. St. Guillaume, Strasbourg.
+          <lb/>2485
+          <lb/>328
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

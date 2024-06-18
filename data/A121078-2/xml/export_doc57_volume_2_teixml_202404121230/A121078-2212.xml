@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:32.840921+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2212.tif
+IMAGE WIDTH: 2280
+IMAGE HEIGHT: 3824
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>208
+          <lb/>BUCH DER WEISHEIT
+          <lb/>Strasbourg, J. Grüninger, 1501.
+          <lb/>Dis ist das büch der wysz heit der alten wysen, von
+          <lb/>ge schlecht der welt. Anfencklich von Indischer sprach
+          <lb/>in den bûchstaben der Persier, vnd dauon in Arabisch,
+          <lb/>Hebräisch, Latinisch, vnd ietzt zû Tütsch nutzlich vnd gût
+          <lb/>&amp;amp;c. (Verso blanc)
+          <lb/>Au-dessous: gravure sur bois: Un jeune homme à genoux présente
+          <lb/>un livre à un roi oriental, coiffé d’un turban, assis sur un trône. Cette
+          <lb/>gravure fut employée en 1500 dans le Liber pestillentiae de Brunschioig
+          <lb/>au recto du fol. I.
+          <lb/>A la fin: Gedruckt vnd vollendet durch Hans grüninger
+          <lb/>In der keiser- lichen freyen stat Strassburg nach cristi
+          <lb/>geburt M. CCCCC.vnnd. I. iar. vff dornstag nach der
+          <lb/>heiligen dry Künig tag. (Verso blanc.)
+          <lb/>In-fol., car. goth., CXVIII ff. ch. à 2 col., chiffres V et VI sautés,
+          <lb/>titre courant, de nombreuses initiales; 269 gravures, composées généra¬
+          <lb/>lement de 2 ou 3 bois, dont beaucoup se répètent.
+          <lb/>L’original de cet ouvrage est une collection de fables indiennes
+          <lb/>appelée, Pentschatantra.&amp;quot; Les fables furent faites par Bidpai traduites
+          <lb/>dans presque toutes les langues orientales. Jean de Capoue le traduisit
+          <lb/>en 1262 en latin sous le titre: Directorium vitae humanae, Eberhard I,
+          <lb/>duc de Wurtenberg le fit traduire en allemand, par Antoine von Pforr
+          <lb/>(mort en 1483), qui parut d’abord en 1483 à Ulm chez Lienh. Holle
+          <lb/>(Hain 4029).
+          <lb/>R10.050. Prop.: Bibliothèque du Gymnase de Heilbronn, P/IV.
+          <lb/>1878, contre échange. Reliure anc.
+          <lb/>GPB: Berlin; Kristeller 91; Schmidt I. N° 55; Bibl, cantonale
+          <lb/>de Zurich. Voir: Heitz &amp;amp; Ritter, Die deutschen Volksbücher, Strasbourg
+          <lb/>1924, p. 14-16.
+          <lb/>313
+          <lb/>BUCH DER WEISHEIT
+          <lb/>Strasbourg, Barth. Grüninger, 1536.
+          <lb/>Die Alten weysen Apophtegmata SapientumDer
+          <lb/>Alten Weisen exempel sprüch, mit vil wunder schönen
+          <lb/>Beyspilen vnd Figuren erleüchtet. Darinnen fast aller
+          <lb/>menschen wesen, Händel, Vntreü, List, Geschwindigkeyt,
+          <lb/>Neyd vnd Hass figuriert vnd angetzeigt werden. In wel¬
+          <lb/>chem auch nit weniger der heimlich neyd vnd! hass, so
+          <lb/>sich beywylen in Königlichen vnd Fürstlichen höfen, zwi¬
+          <lb/>schen Räthen vnd anderen, des Regiments verwanten,
+          <lb/>mit falscher schmeichlery, vnd verretherey, der bosshaff¬
+          <lb/>tigen, wider die getreüwen vnd frommen, zûtragen, gleych
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

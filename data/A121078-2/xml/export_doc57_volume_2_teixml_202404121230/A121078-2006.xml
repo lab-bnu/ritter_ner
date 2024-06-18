@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:26.425232+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2006.tif
+IMAGE WIDTH: 2394
+IMAGE HEIGHT: 3820
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>decimo. Die no! na mensis septembris Inquisitor Coloniensis
+          <lb/>Fol. A 2a: Anno Domini Millesimo Quingentesimo tre¬
+          <lb/>frater Jacobus! Hochstraten ordinis praedicatorum...
+          <lb/>straten... con tra Oculare Speculum Joannis Reuchlin...
+          <lb/>Au bas: Libellus accusatorius fratris Jacobi de Hoch¬
+          <lb/>du titre et des notes mss. de sa main. Aux Fol. F 3a et F. 3b se trouvent
+          <lb/>Cd 102458. Prov.: Bibl. de Böcking, avec son ex-libris au-dessous
+          <lb/>des annotations mss. sur des fiches: Die Speierer Sentenz lautet laut
+          <lb/>Reuchlins Brief an Questenberg, worin er diesem die Ubersetzung
+          <lb/>des Athanasius in psalm, dediciert (pridie Id. Sextiles a. 1515)...
+          <lb/>Greifswald.
+          <lb/>GPB, I, 7793: Berlin, München, Wien, Breslau, Göttingen,
+          <lb/>ACTES
+          <lb/>Strasbourg, P. Estiart, 1566.
+          <lb/>ACTES DE LA ] dispute &amp;amp; conference! tenue à Paris,
+          <lb/>és mois! de Juillet, &amp;amp; Aoust, 1566. ENTRE DEVX DOCTEVRS
+          <lb/>de Sorbonne &amp;amp; deux Ministres de! l’Eglise reformee.]»
+          <lb/>Distinguez selon les Journees. (Cul-de-lampe.)
+          <lb/>A STRASBOVRG,1 Par Piere Estiart. M. D. LXVI. (Verso
+          <lb/>blanc.)
+          <lb/>in-8°, car. rom., 4 ff. non ch. (Préface), 105 ff. chiffrées et 1 f. non ch.
+          <lb/>(Table briefve des titres des Actes de la Dispute), titre cou¬
+          <lb/>rant, réclames au verso des ff., petites initiales ornées P, C et D.
+          <lb/>Au verso du dernier f. ch.: Le 8. de Novem ] bre 1566.
+          <lb/>Fol. A 2a non ch.: Préface contenant ! les occasions de
+          <lb/>la! dispute suyuante. (Préface de 5 pages en car. ital.)
+          <lb/>Les 2 docteurs de la Sorbonne sont: S. Vigor et C. de Sainctes,
+          <lb/>les 2 ministres: J. de l’Espine et H. du Rosier. Voir: Short-title Cata¬
+          <lb/>logue of books printed in France... from 1470 to 1600 now in the
+          <lb/>British Museum (London, 1924), p. 440, VIGOR Simon, édition Paris,
+          <lb/>C. Frémy, 1568.
+          <lb/>Le Gesamtkatalog, I, 8192 a une édition Paris, Foucher, 1568.
+          <lb/>E 127060. Prov.: Bibl. Ch. Schmidt, dont l’ex-libris se trouve
+          <lb/>à l&amp;#x27;intérieur de la couverture; au-dessous; 1851. Vente de Me de Mont¬
+          <lb/>merqué, Paris; au recto du f. blanc qui précède le titre Schmidt a
+          <lb/>écrit: V. la note dans la Relation catholique de cette dispute.
+          <lb/>GPB, I, 8191: Göttingen.
+          <lb/>Sous le N° 8190 le Gesamtkatalog cite une édition: Anvers, Cok,
+          <lb/>1566, dont Munich possède un exemplaire.
+          <lb/>ADELPHUS Johannes
+          <lb/>Strasbourg, M. Flach, 1512
+          <lb/>Warhaftig sag! oder red von dem Rock Jhesu cristi
+          <lb/>Neulich in! der heyligen stat Trier erfunden mit anderm (1)
+          <lb/>vil! kostbaren heylthum in gegenwertigkeit des key sers
+          <lb/>Maximiliani, und ander fürsten und herren! da selbs im
+          <lb/>Rychstag versamlet. Anno. XVd, xij.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:14.371873+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3444.tif
+IMAGE WIDTH: 2430
+IMAGE HEIGHT: 3852
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>886
+          <lb/>KRAUT Georgius: Opus Medicinae. Siche: GALEATIUS
+          <lb/>KRAUTERBUCH. Siche: HERBARIUS &amp;quot;. HORTUS SANITATIS
+          <lb/>KRAUTERBUCH contrafayt. Siche: BRUNNFELS Otto. Nr. 289
+          <lb/>u. 295.
+          <lb/>KREUZBÚCHLEIN, Siche: HOHENLOHE Sigmund Graf von
+          <lb/>KRIECHINGEN Franz Frhr. von
+          <lb/>Strassburg 1592
+          <lb/>Der Ehrwürdigen, Hoch: vnnd Wolgebornen Herrn,
+          <lb/>Herrn Frantzen, Freyherrn zu Kriechingen vnd Pittingen,
+          <lb/>Thumdechants vnd Capituls Hoher Stifft Straszburg Er¬
+          <lb/>klerung, belangent die, den Zehenden Junij, Stylo Novo,
+          <lb/>Anno &amp;amp;c. Neuntzig zwey, an Jhr,! Erw : Gn : vnd Gn:
+          <lb/>fürgenomene Bi- schoffliche Election, zu Strasz- burg.
+          <lb/>Sampt angehengte Copien dreyer Keyserlichen Schreyben,
+          <lb/>vnd andern der Herrn! Capitularen Misziven, Auch Hertzog
+          <lb/>Johann Georgen von Brandenburg, etc. Postulir ten Ad¬
+          <lb/>ministratoris, der Stifft zu Straszburg, Ausz- schreiben.
+          <lb/>(Vign.)
+          <lb/>Gedruckt aus dem Origional (!), Jn Verlegung des
+          <lb/>Autoris, Anno Domini,! M. D. LXXXXII : (Rücks, leer.)
+          <lb/>40, Got., 14 unn. Bll., Sign. A-D, Kust., Init.
+          <lb/>R 102.256. Prov. : Bibl. Heite, Strassburg 1871.
+          <lb/>1319
+          <lb/>KULMANNUS Leonardus; Scholia. Siche: EOBANUS. In: P. Ver¬
+          <lb/>gilii Maronis Bucolica annotationes. Strassburg, Chr. Mylius 1561.
+          <lb/>Strassburg 1525
+          <lb/>KUND UND WISSEN
+          <lb/>KVnth vnd wissen sey, allen, vnd yeden, was Stat,
+          <lb/>Wirden oder wesens, die syen, geistlich oder weltlich, so
+          <lb/>hie in dieszer Statt Strasz burg, vnd dem Burgkbann
+          <lb/>wonen... Das sie sich hie zwischen, vnd Liechtmesz, das
+          <lb/>da ist der ander tag Februarij... Jr Burgkrecht vor emp¬
+          <lb/>fahen.
+          <lb/>Erkandt Montag den XVj. Januarij. Anno. &amp;amp;e XXV.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

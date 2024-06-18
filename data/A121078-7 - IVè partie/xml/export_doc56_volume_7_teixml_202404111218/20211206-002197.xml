@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:06.766120+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002197.tif
+IMAGE WIDTH: 2504
+IMAGE HEIGHT: 3986
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>von Johanni Grüninger auff Mittwoch nach Letare. In
+          <lb/>dem jar M.D.xxix, (1529] in-fol.
+          <lb/>Choulant, Ludwig : History and bibliography of Anatomic
+          <lb/>Illustration. Translated by Mortimer Franck New York 1945,
+          <lb/>p. 132; [éd. Balth. Beck, 18 août 1529. Ritter, Rép. n° 894;
+          <lb/>Beck 1532 (Rép. n° 896)].
+          <lb/>1786
+          <lb/>FRIES, L. (Spiegel der Arznei) : (Idem). — Strasbourg 1537,
+          <lb/>in-fol.
+          <lb/>Graesse V, p. 277.
+          <lb/>1787
+          <lb/>FRIES, L. Voir aussi: NIDEPONTANUS, Joh. n° 2769
+          <lb/>(RITTER, Rép. nos 888-899).
+          <lb/>FRISCHLIN, Nic. (Virgilius) : Oratio de praestantia P. Virgilii
+          <lb/>Aeneidos. — Strasbourg, B. Jobin(1574), in-4°,
+          <lb/>Ritter, Hist. impr. app. n° 343.
+          <lb/>1788
+          <lb/>FRISCHLIN, Nicodemus : Opera poetica. — Strasbourg 1592,
+          <lb/>in-40.
+          <lb/>Goedeke II, p. 140, n° 42 (1).
+          <lb/>1789
+          <lb/>FRISCHLIN, Nicodemus : Opera poetica... — Strasbourg
+          <lb/>1596, in-80.
+          <lb/>Goedeke II2, p. 140, n° 42 (1).
+          <lb/>1789a
+          <lb/>FRISCHLIN, Nicodemus : Strigilis Grammatica. — (Strasbourg,
+          <lb/>Bernard Jobin 1585), in-8°.
+          <lb/>(Manquait déjà en 1918 à la B N de Strasbourg] [éd. Jobin
+          <lb/>1595 : Ritter, Rép. n° 918l.
+          <lb/>1790
+          <lb/>FRISCHLIN, Nicodemus : Orationes insigniores aliquot. —
+          <lb/>Strasbourg 1598 (dont une édition avec portrait de
+          <lb/>Frischlin en 1618).
+          <lb/>Vogeleis, p. 385.
+          <lb/>1791
+          <lb/>FRISCHLIN, Nicodemus : Ein schöne Comedien von Fraw
+          <lb/>195
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:07.774183+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002240.tif
+IMAGE WIDTH: 2508
+IMAGE HEIGHT: 3960
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>ist unser Gott. — Getruckt zu Strasburg bey Thiebolt
+          <lb/>Berger am Barfüsser platz. s. d. [vers 1560), in-8°.
+          <lb/>Heitz, p. 39; Wackernagel III, 603 : Sebald Heyden; le second
+          <lb/>cantique, Wackernagel III, 32 : Martin Luther.
+          <lb/>2013
+          <lb/>HEYMAIRIN, Magdalene : Das Buch der Apostolischen
+          <lb/>Geschichten Gesangweiss gestelt von Magdalene Haymai¬
+          <lb/>rin und durch Georgium Sunderreutter Hydropurgium.—
+          <lb/>Strasbourg 1586, in-80.
+          <lb/>Vogeleis, p. 352; Goedeke IIa, p. 170, n° 11 (c). 2014
+          <lb/>HIEMEYER, David : Ernewerung der Kirchen bei den Bar¬
+          <lb/>füssern im Spital... zu Colmar. — Strasbourg, Nicolaus
+          <lb/>Sylvanus (Wald) 1575.
+          <lb/>B M Colmar. (Hiemeyer était pasteur protestant à Colmarl.
+          <lb/>(Voir aussi Ritter, Rép. n° 1165 : Carmen de Jesu Christo.
+          <lb/>Strasbourg, Ant. Bertram 1589l.
+          <lb/>2015
+          <lb/>HIERO, Alexander. Voir : DASYPODIUS, Conr, n° 1482.
+          <lb/>HIERONYMUS, Sanctus : Liber de perpetua gloriosae Virginis
+          <lb/>Mariae virginitate. Epistola eiusdem contra vigilantiam
+          <lb/>de venerandis sanctorum reliquiis. — Strasbourg,
+          <lb/>Jean Grüninger 12 mars 1523, in-8°. [A la suite de:
+          <lb/>Isidorus : De sectis et nominibus haereticoruml [n° 2130).
+          <lb/>Schmidt I, n° 196; Ritter : B M Strasbourg, n° 1285. 2016
+          <lb/>HIERONYMUS S. Voir aussi: Bucn der Altväter n° 1181/2;
+          <lb/>BRUNFELS n° 1109; ERB, Math, n° 1633.
+          <lb/>HILACOMILUS. Pseudonyme pour WALDSEEMÜLLER.
+          <lb/>HILARIUS. Voir: BRENTIUS, Joh, n° 1094.
+          <lb/>HILDEBRANDLIED : Ich will zu land ausreiten... — Strasbourg
+          <lb/>[vers 1520), in-8°.
+          <lb/>Goedeke Ie, p. 249; Graesse III, p. 278.
+          <lb/>2017
+          <lb/>238
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

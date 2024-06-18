@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:03.768280+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002085.tif
+IMAGE WIDTH: 2510
+IMAGE HEIGHT: 3936
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>und anderer widertäuffer schwere yrthumb erregen,
+          <lb/>betreffend... — (Strasbourg, sans impr. 1527), in-8°.
+          <lb/>Mentz 15; Stupperich, n° 16 : Marbourg (Westdeutsche
+          <lb/>Bibliothek).
+          <lb/>1179
+          <lb/>BUCER, Martin (Wege und Mittel) : Von den einigen rechten
+          <lb/>wegen und mitlen Deutsche nation inn Christlicher
+          <lb/>Religion zu vergleichen. Und was darfür und darwider
+          <lb/>auff den tagen zu Hagnaw, Worms und Regenspurg,
+          <lb/>Anno 40 und 41, und seither für genomen und gehandelt
+          <lb/>worden ist. Warhaffter Verantwortung auff das offenbar
+          <lb/>falsch erdichtes anklagen, des sich an die Kei. Maiet D.
+          <lb/>Johan Gropper, wider Mart. Bucerum angemasset hat.
+          <lb/>Durch Martin Bucerum... — (Strasbourg, Wendelin
+          <lb/>Rihell 1545, in-40.
+          <lb/>Mentz, n° 60; Stupperich, n° 80 : BU Bâle, BN Munich, Ulm,
+          <lb/>Bibl. Centrale Zurich et autres.
+          <lb/>1180
+          <lb/>BUCER, Martin. Voir aussi: GESANGBUECHLEIN nes 1888/9;
+          <lb/>1894; LUTHER n° 2488; PSALTER n° 3032/3; RITTER,
+          <lb/>Rép. nos 349-392.
+          <lb/>BUCH : Das Buch der Altväter wie sie ihr heiliges Leben
+          <lb/>volbracht haben. — Strasbourg, Mathias Hupfuff 1508,
+          <lb/>in-fol.
+          <lb/>Schmidt V, n° 73 : Catalogue du libraire Völcker à Francfort-
+          <lb/>s.-M. 1878.
+          <lb/>1181
+          <lb/>BUCH (Idem). — Strasbourg, Jean Grüninger 1521, in-fol.
+          <lb/>Graesse I, 88; Weller, Rep. 1804 (Ritter, Rép. nos 1345-1347:
+          <lb/>éd. Grüninger 1507; Hupfuff 1513, Grüninger 1516).
+          <lb/>1182
+          <lb/>BUCH (Seelen wurtzgarten) : Das Buch der Selen wurtzgarten
+          <lb/>genant... — (Strasbourg, Mathias Hupfuff (10.IX] 1511),
+          <lb/>in-fol.
+          <lb/>Weller 633; Schmidt V, n° 83 : Bâle; [Ritter, Rép. n° 2110:
+          <lb/>éd. Hupfuff 1515l.
+          <lb/>1183
+          <lb/>83
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

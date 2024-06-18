@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:05.784189+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie041.tif
+IMAGE WIDTH: 2484
+IMAGE HEIGHT: 3932
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>EGENOLF von Staufenberg : Geschichte von Peter Dieme¬
+          <lb/>ringer. — Strasbourg, (Mathias Hupfuff) 1500, in-4°
+          <lb/>Nachdruck der Schottschen Ausgabel.
+          <lb/>G W 9244; Schreiber 3887; Heitz-Ritter n° 637 : Colmar,
+          <lb/>Hambourg, Mayence.
+          <lb/>232
+          <lb/>EGGESTEIN, Henricus: Bücheranzeige zur Al zeiligen Bibel. —
+          <lb/>[Strasbourg, H. Eggestein vers 1468/70). Placard
+          <lb/>156 x92 mm.
+          <lb/>G W 9245: B N München; Einblattdrucke 529; Burger,
+          <lb/>Buchhändleranzeigen n° 2.
+          <lb/>233
+          <lb/>EHRHART, Hans : Die burgundische Historie. — Strasbourg,
+          <lb/>(Henri Knoblochtzer), 1477, in-fol.
+          <lb/>Hain 6664. Pellechet 4621; Schorbach-Spirgatis n° 3. 234
+          <lb/>EICHMANN, Jodocus. Voir : MELBER, Joh, n° 464.
+          <lb/>ELTZ, Jean de. Voir: JOHANNES (archevêque de Trèves)
+          <lb/>n° 377.
+          <lb/>ENTRÉE de Louis XII à Milan. Ingressus Ludovici XII.
+          <lb/>in civitatem Mediolanensem die VI. Oct. MID. —
+          <lb/>Strasbourg, (Barth. Kistler) 1499 (après le 6. X.),
+          <lb/>placard, 372 x 266 mm., 73 lignes.
+          <lb/>G W 9330; Einblattdrucke 724. — B N Munich (2 ex.). 235
+          <lb/>EPISTEL : Epistel all und Evangeli. — Strasbourg, Martin
+          <lb/>Schott 4. X. 1481, in-4o.
+          <lb/>Cop. II, 2323; Schmidt : Schott I, n° 1. Walter n° 186. 236
+          <lb/>EPISTOLA contra quendam conciliistam (sic) Archiepiscopum
+          <lb/>videlicet Craynensem et adversus citationem et libellum
+          <lb/>infamem ipsius contra... Sixtum papam IV modernum
+          <lb/>summum Pontificem edidit. — (Strasbourg, Martin
+          <lb/>Flach 1483), in-fol.
+          <lb/>Hain 6624; Schmidt VI, p. 2, n° 10.
+          <lb/>237
+          <lb/>39
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

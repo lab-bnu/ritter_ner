@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:09.300536+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3233.tif
+IMAGE WIDTH: 2328
+IMAGE HEIGHT: 3852
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>677
+          <lb/>GEORGIUS Trapezontius
+          <lb/>Strassburg, M. Schürer 1519
+          <lb/>CONTENTA GEORGI TRAPEZON-tij dialectica haec
+          <lb/>continens.
+          <lb/>De Enuntiatione.De quinque uocibus, id est praedi¬
+          <lb/>cabilibus. De praedicamentis... (Wie in der vorigen Nr.)
+          <lb/>Am Schluss: Ex officina Schureriana Mense Decemb.
+          <lb/>Anno M. D. XIX. (Rücks, leer.)
+          <lb/>40, Antiq., 30 unn. Bll., Sign. A-E, Kopft., Marg.
+          <lb/>Auf der Rücks. des Titelbl.: Beatus Rhenanus Ioanni Kier¬
+          <lb/>hero... Argentorati, cursim. IIIl. C. Iun. An. M. D.IX.
+          <lb/>Bl. A 2a: IACOBVS FABER, FOR tunato suo.... Parisijs
+          <lb/>An- no... M. D. VIII, (2 S.)
+          <lb/>R101.873. Prov.: H. Kerler, Ulm 30. XI. 1891; 3 M. 50.
+          <lb/>GK: SB Berlin, UB Marburg; Schmidt VIII Nr. 252.
+          <lb/>997
+          <lb/>GÉRARD de Nimègue. Siche: GELDENHAUER Gerardus
+          <lb/>GERARDUS CREMONENSIS. Siehe: ELIMITHAR ELLUCHASEM
+          <lb/>GERARDUS Noviomagus. Siche: GELDENHAUER Gerardus
+          <lb/>GERBEL Nikolaus: Vita Ioannis Cuspiniani et de utilitate huius
+          <lb/>historiae. In: CUSPINIANUS: De Caesaribus. Strassburg.
+          <lb/>C. Mylius 1540. R10.463.
+          <lb/>Bibliographie Gerbels: Schottenloher I Nr. 7005-7010.
+          <lb/>GERHARDUS. Siehe: STATUTA PROVINCIALIA MOGUNTINA.
+          <lb/>Hagenau, H. Gran 1512.
+          <lb/>GERLACHER Theobald
+          <lb/>Hagenau, V. Kobian 1534
+          <lb/>EPITO- ME DIALECTICES, Theobaldo Billi cano au¬
+          <lb/>tore. Haganoe. Anno., M. D. XXXIIII. Mense Au- gusto.
+          <lb/>Am Schluss: HAGANOAE, PER VA- LENTINVM KOBIA- NVM.
+          <lb/>ANNO M. D. XXXIIII.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:01.618704+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002001.tif
+IMAGE WIDTH: 2466
+IMAGE HEIGHT: 3970
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>A2167)5
+          <lb/>REPERTOIRE BIBLIOGRAPHIQUE DES LIVRES
+          <lb/>IMPRIMES EN ALSACE
+          <lb/>AUX XVe ET XVIe SIÈCLES
+          <lb/>IVe PARTIE
+          <lb/>CATALOGUE
+          <lb/>DES LIVRES DU XVIE SIÉCLE
+          <lb/>ne figurant pas
+          <lb/>à la Bibliothèque Nationale et Universitaire
+          <lb/>de Strasbourg
+          <lb/>PAR
+          <lb/>FR. RITTER
+          <lb/>Ouvrage publié avec le concours du Centre National de la Recherche Scientifique
+          <lb/>EDITIONS P. H. HEITZ
+          <lb/>STRASBOURG
+          <lb/>1960
+          <lb/>Sonai
+          <lb/>M rg
+          <lb/>2
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

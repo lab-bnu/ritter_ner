@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:02.554195+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002042.tif
+IMAGE WIDTH: 2484
+IMAGE HEIGHT: 3930
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>BATHODIUS, Lucas. Voir: KALENDER der Strassburger
+          <lb/>Domherren n° 2198.
+          <lb/>BATROCHIUS, Joh. Voir : FROSCH, Johannes.
+          <lb/>BAUDERON, Brice: Teutsche Apotheck... Erstlich in Frantzösi¬
+          <lb/>scher Sprach durch Brigon Bauderon, der Artzney
+          <lb/>Doctorn zu Mascon ausz vielen bewärten alten und
+          <lb/>neuen Scribenten zusamen gebracht, unnd jetz durch
+          <lb/>Olaum Sudenum verdeutschet... — Strasbourg, Lazare
+          <lb/>Zetzner 1595, in-8°.
+          <lb/>GK12, 11460: B N Vienne, B U Breslau, Darmstadt, etc. 946
+          <lb/>BAUDOUIN, François : Cato sive commentarius ad Regulam
+          <lb/>Catonianam. — Strasbourg, Crato Mylius 1555, in-4°.
+          <lb/>GKXII, 12320; BN Munich, BN Paris: F. 5216, Vienne etc.
+          <lb/>947
+          <lb/>BAUDOUIN, François : Responsio christianorum iuris-consul¬
+          <lb/>torum ad Fr. Duareni Commentarios... — Strasbourg,
+          <lb/>Crato Mylius 1556, in-8°.
+          <lb/>GKXII, 12365; BN Berlin, Munich, B N Paris etc. 948
+          <lb/>BAUDOUIN, François : Juris civilis Schola Argentinensis. —
+          <lb/>Strasbourg, Wendelin Rihel 1555, in-8°,
+          <lb/>GKXII, 12366; BN Berlin, Munich, BN Paris etc. 949
+          <lb/>BAUERNPRAKTIK: In diesem Biechlin wirt funden der Pauren¬
+          <lb/>Practick... — (Strasbourg, s. d.), in-8°.
+          <lb/>GKXIII, 1766: B M Mannheim.
+          <lb/>950
+          <lb/>BAUERNPRAKTIK : (Idem). — (Strasbourg M. S/chürer)) s. d.,
+          <lb/>in-80,
+          <lb/>GKXIII, 1767: B N Berlin; Ritter : B M Strasbourg,
+          <lb/>n° 1755; Hiersemann (Leipzig), Catal. 666 n° 653 : 120 M.
+          <lb/>951
+          <lb/>BAUERNPRAKTIK : (Idem). — (Strasbourg 1579), in-8°.
+          <lb/>Weller, Rep. 1012 Anm. sans autre indication.
+          <lb/>952
+          <lb/>40
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

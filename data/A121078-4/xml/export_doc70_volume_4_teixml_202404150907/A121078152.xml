@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:46.977784+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078152.tif
+IMAGE WIDTH: 2308
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1038
+          <lb/>In-4°, car. rom., 16 ff. non ch., sign. A-D. Au verso du titre,
+          <lb/>gravure: Murner en Leviathan ou dragon, rampant à terre et vomis¬
+          <lb/>sant des flammes.
+          <lb/>Fol. D Ia, un porc et un âne; fol. D 2b, Luther en moine, figure
+          <lb/>entière; au-dessous Murner en Leviathan comme au verso du titre.
+          <lb/>Fol. a 2a: Murnarus Levia! than.! Interlocutores. Murner. Wed¬
+          <lb/>delus. L. Phrisius. Plutus.
+          <lb/>R100.142. Prov.: Bibl. Ed. Bœcking.
+          <lb/>1597
+          <lb/>Schmidt II n° 62.
+          <lb/>MURNARUS
+          <lb/>(Strasbourg, J. Schott] 1521
+          <lb/>(Feuille de lierre.) DIALOGI! Murnarus Leviathan! Vulgo
+          <lb/>dictus, Geltnar, oder Gensz Prediger. Murnarus, qui
+          <lb/>&amp;amp; Schönhenselin, oder Schmutzkolb, de! se ipso.! Si nu¬
+          <lb/>gae, &amp;amp; fastus, faciunt quem relligiosum, Sum bonus, &amp;amp;
+          <lb/>magnus, relligiosus ego. Raphaelis Musaei in gratiam
+          <lb/>Marti! ni Lutheri, &amp;amp; Hutteni, pro- pugnatorum! Christia¬
+          <lb/>nae &amp;amp; Germanicae libertatis, ad Osores Epistola.
+          <lb/>Auctio Luthero! Mastigum! Dial, recens illis! additus.
+          <lb/>In-4°, car, rom., 15 ff. non ch. dont le verso du dernier f. blanc,
+          <lb/>sign. a-d, titre courant.
+          <lb/>Nouvelle édition du précédent, imprimée en car, un peu plus petits.
+          <lb/>Fol. a 2a : Murnarus Levia-] than. Interlocutores.! Murnar. Wed¬
+          <lb/>delus. L. Phrisius. Plutus.
+          <lb/>&amp;quot;R100.144. Prov.: Bibl. Ch. Schmidt avec son ex-libris. Anno¬
+          <lb/>tation ms. de Schmidt au recto du f. de garde: 2e éd.; fo CIa Mons.
+          <lb/>Otilianus.
+          <lb/>BM Strasbourg. Schmidt II n° 63 cite l’exemplaire de la Bibl.
+          <lb/>St. Guillaume de Strasbourg. Le 19 mars 1936 Heinrich Rosenthal, anti¬
+          <lb/>quaire à Lucerne, a offert un exemplaire à la BN de Strasbourg pour
+          <lb/>100 frs. suisses.
+          <lb/>1598
+          <lb/>(Strasbourg) 1520
+          <lb/>MURNER Johannes
+          <lb/>Allen und vegklichen geistlichen oder weltlichen, was
+          <lb/>Stats, Wirden und wesens, denen dise geschrifft für kompt,
+          <lb/>lesen oder hören lesen, svgent min underthenig gehorsam
+          <lb/>willig dienst zûvorbereit und damit kundt, das ich Hans
+          <lb/>Murner von Straszburg, usz nachvolgenden Ehafften (!)
+          <lb/>ursachen, min und aller miner verwandten ere, glympff
+          <lb/>und gûten lümbd.. gegen der gemeynen Stifft zûm
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

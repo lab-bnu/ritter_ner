@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:06.541914+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie095.tif
+IMAGE WIDTH: 2484
+IMAGE HEIGHT: 3912
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>SALICETO, Nicolaus : Antidotarius animae. — (Strasbourg,
+          <lb/>Jean Grüninger 1494, pridie Kalen. Julias), in-80.
+          <lb/>Hain 14164; Copinger 5218; Panzer I. 54,263. — Bâle. 611
+          <lb/>SALICETO, Nic. Voir aussi : BREVIARIUM Cisterciense no 143.
+          <lb/>SALOMON et MoROLF : Dialogus seu collationes inter
+          <lb/>Salomonem et Marcolphum. — (Strasbourg, Henri
+          <lb/>Knoblochtzer s. d. l, in-40.
+          <lb/>Hain 14246; Proctor 384.
+          <lb/>612
+          <lb/>SCALA coeli. Voir : JOHANNES Junior no 387.
+          <lb/>SCHILDIS, Hermannus de : Speculum sacerdotum. —
+          <lb/>(Strasbourg, Jean Prüss s. d.), in-40.
+          <lb/>Hain 14518; Proctor 513; Madsen 3639; Schreiber 5211. 613
+          <lb/>SCHRICK, Michael : Von den ausgebrannten Wassern. —
+          <lb/>Strasbourg, Martin Schott s. d., in-4°.
+          <lb/>Copinger III, 5316; Voulliéme : Berlin 2247.
+          <lb/>614
+          <lb/>SCHRICK, Michael (Idem). — (Strasbourg, Martin Schott)
+          <lb/>27. x. 1481, in-40.
+          <lb/>Reichling, Suppl. 174, Madsen 3642.
+          <lb/>615
+          <lb/>SCHROTBANCK, Hans : Practica auf das Jahar 1490. —
+          <lb/>Strasbourg, Jean Grüninger 1490, in-fol.
+          <lb/>Facsimilé chez Heitz et Haebler, planche 64, Voulliéme
+          <lb/>Berlin 2325.
+          <lb/>616
+          <lb/>SENECA, Lucius Annaeus : Proverbia. — (Strasbourg,
+          <lb/>Martin Schott (?)), s. d. ; in-4°.
+          <lb/>Hain&amp;#x27; 14638; Walter n° 429.
+          <lb/>617
+          <lb/>SENECA, L. Annaeus: De remediis fortuitorum ad
+          <lb/>Gallionem. — (Strasbourg s. d.,) in-4°.
+          <lb/>Hain 14656; Proctor 315.
+          <lb/>618
+          <lb/>93
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

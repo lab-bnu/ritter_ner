@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:36.525347+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2342.tif
+IMAGE WIDTH: 2318
+IMAGE HEIGHT: 3820
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>338
+          <lb/>fol. A 6b: EGNATIVS STVDIOSIS. (5 p.)
+          <lb/>R 101648 Prov.: Bibliothèque du Prof. F. A. Menke, Brême,
+          <lb/>1873. Au recto du f. de garde: «Frider. Aug. Menke 1829,. Notes mss.
+          <lb/>Rel. anc., à l&amp;#x27;extérieur du Ier plat, en haut -EHS», en bas «1574».
+          <lb/>513
+          <lb/>GPB: BN Berlin, B U Breslau, Kiel, Munster.
+          <lb/>CICERO
+          <lb/>Strasbourg, Rihel frères, 1557.
+          <lb/>IN HOC VOLVMINE HAEC CONTINENTVR. Rhetoricorum
+          <lb/>ad C. Herennium lib. IIII.! M. T. Ciceronis de inuentione
+          <lb/>lib. Il.! Eiusdem de oratore ad Quintum fratrem lib. III.
+          <lb/>Eiusdem de claris oratoribus, qui dicitur Brutus lib. I.
+          <lb/>Eiusdem orator ad Brutum lib. I. Eiusdem Topica ad Tre¬
+          <lb/>batium lib. I. Eiusdem oratoriae partitiones lib. I.! Eius¬
+          <lb/>dem de optimo genere oratorum praefatio quae-dam.
+          <lb/>Post Naugerianam &amp;amp; Victorianam corre- ctionem emen¬
+          <lb/>dati à Ioan. Sturmio.
+          <lb/>ALDINAE PAGINAE IN MARGI-nibus notatae sunt. Index
+          <lb/>rerum notabilium, quae toto opere conti- nentur, per or¬
+          <lb/>dinem alphabeti.
+          <lb/>Cum gratia &amp;amp; priuilegio Caesareo ad annos Octo.
+          <lb/>Anno M. D. LVHI. (Verso blanc.)
+          <lb/>A la fin: ARGENTORATI PER Rihelios Fr. Jatres) ANNo
+          <lb/>M. D. LVII. (Verso blanc.)
+          <lb/>In-8°, car. ital., 11 ff. non ch. — 1 f. blanc — 382 ff. ch. — 16
+          <lb/>ff. non ch. (Index), titre courant, réclames, initiales ornées M, O et
+          <lb/>initiales d’attente.
+          <lb/>fol. a 2a: Ad Adamvm Caro- Ivm Regivm consiliari¬
+          <lb/>um! Ioannis Sturmij Prae- fatio. (3 p.)
+          <lb/>fol. a 3b: Aldi P. M. ad An- dream Navgerivm Patri¬
+          <lb/>tivm! Venetvm... Praefatio. (13 p.)
+          <lb/>R101.646 Prov.: Don de Hugo Barbeck, Nuremberg, 16/x. 1877.
+          <lb/>Rel. anc.
+          <lb/>2. ex. R 101653 Prov.: Don de la Bibl. de Heulbronn, 1874.
+          <lb/>Rel, anc. Au recto du f. de garde: «Eusebius Schneppius iusto titulo
+          <lb/>me sibi acquisivit, 1563,; au verso du titre, ex-libris de la Ribl, muni¬
+          <lb/>cipale de Heilbronn: «Pars Biblioth. Civil. Heilbronensis». A l&amp;#x27;extérieur
+          <lb/>du Ier plat, en haut: «CVS,, en bas: .1563».
+          <lb/>GPB: BN Berlin, BU Breslau, Kœnigsberg, Munster.
+          <lb/>514
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

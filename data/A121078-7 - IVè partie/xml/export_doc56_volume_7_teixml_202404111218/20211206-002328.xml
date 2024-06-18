@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:09.949164+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002328.tif
+IMAGE WIDTH: 2534
+IMAGE HEIGHT: 3960
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>LUTHER (Babylonische Gefangenschaft) : Von der Baby¬
+          <lb/>lonischen gefengknusz der Kirchen... — (Strasbourg,
+          <lb/>Jean Schott vers 1520), in-4°.
+          <lb/>Schmidt II, n° 55a: St. Guillaume, Strasbourg; Dommer,
+          <lb/>Lutherdrucke, n° 170 : « Vesenmeyer meint, der Druck sei
+          <lb/>etwa in Basel gemacht, aber ich glaube in Strassburg, von
+          <lb/>Joh. Schott. Denn das ganze Schriftmaterial findet sich in
+          <lb/>Schotts Ausgabe von Doctor Keisersberg Postill 1522 wieder».
+          <lb/>2468
+          <lb/>LUTHER (Babylonische Gefangenschaft) : De captivitate
+          <lb/>Babylonica. — (Strasbourg, Jean Schott 1521), in-40.
+          <lb/>Schmidt II, n° 55 : B U Breslau.
+          <lb/>2469
+          <lb/>LUTHER (Von der Beicht) : Ein kurtze underwisung wie man
+          <lb/>beichten sol... — [Strasbourg, Martin Flach (?) ou
+          <lb/>Jean Knobloch] 1520, in-4°.
+          <lb/>Schmidt VI, p. 33, n° 54 (M. Flach); Dommer, Lutherdrucke,
+          <lb/>n° 103 (Jean Knobloch), de même Passavant III, p. 397,
+          <lb/>n° 72. — Strasbourg, Bibl. S. Guillaume.
+          <lb/>2470
+          <lb/>LUTHER (Von der Beicht) : Von der Beycht... — [Strasbourg,
+          <lb/>Jean Prüss) 1522, in-40.
+          <lb/>Dommer, n° 258; Horning, n° 31.
+          <lb/>2471
+          <lb/>LUTHER (Von der Beicht) : Von der Beycht, ob die der Bapst
+          <lb/>macht hab zu gebieten... — [Strasbourg, Wolfg. Köpfel
+          <lb/>15221; in-4°. (Encadrement de Köpfel).
+          <lb/>Bibl. St. Guillaume, Strasbourg; Weller 2132.
+          <lb/>2472
+          <lb/>LUTHER (Betbüchlein) : Ein sehr christlich... Bettbüchlein
+          <lb/>D. Martin Luther mit zierlichen Figuren... — Strasbourg,
+          <lb/>Samuel Emmel 1560, in-80.
+          <lb/>Ritter, Hist. impr. app. 387.
+          <lb/>2473
+          <lb/>LUTHER (Betglöcklein) : Beteglöcklin Doctoris Martini
+          <lb/>Lutheri, ausz allen des Mannes Gottes gedruckten
+          <lb/>326
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

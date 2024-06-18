@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:14.288397+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002519.tif
+IMAGE WIDTH: 2486
+IMAGE HEIGHT: 3960
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>WEIS RITTER (Der). Voir : HERPIN, n° 1998.
+          <lb/>WEISS, Jacob. Voir : ZEITUNG, Newe, Wunderseltzame und
+          <lb/>Unchristliche Spanische Zeitung, 1568, n° 3596.
+          <lb/>WEISS, Pantaleon. Voir: CanDiDus, Pantaleon.
+          <lb/>WEISSE, Michael : Von Christo Jesu unserem säligmacher...
+          <lb/>etlich Christliche und Kostliche lobgesäng ausz einem
+          <lb/>vast herrlichen Gsangbuch gezogen (c’est-à-dire de celui
+          <lb/>de Mich. Weisse, par les soins de Catherine Zell). —
+          <lb/>Strasbourg, Jacques Frölich 1534, in-4° (Nouv. éd. 1536).
+          <lb/>Goedeke II2, p. 236, n° 22.
+          <lb/>3481
+          <lb/>WEISSE, Nicolaus. Voir: URSINUS, Georgius, Duo prognostica,
+          <lb/>n° 3385.
+          <lb/>WELTKUGEL. Voir : GLOBUS mundi.
+          <lb/>WESENBECK, Math. Voir : Schneidewin, Joh., nos 3180/1.
+          <lb/>WESTERBURG, Gerhart : An die weltliche stende, Nemlich
+          <lb/>Graven, Ritterschafft, Stette und gemaine Landschafft
+          <lb/>des Cöllschen Ertzbischtumbs, von sachen so zwischen
+          <lb/>dem Churfürsten E. W. Ertzbischoffen von Cölln und
+          <lb/>dem Wirdigen Thumcapitel Christlichen Religion halben
+          <lb/>erhoben Wie man sich hierinnem halten, und wem man
+          <lb/>von rechts wegen schuldig sei zu volgen. — Strasbourg,
+          <lb/>Wendelin Rihel 1545, in-40.
+          <lb/>Kuczynski, n° 2756; Schottenloher 30.854.
+          <lb/>3482
+          <lb/>WESTERBURG, Georg Philipp. Voir: SCHREIER, Paul, n° 3193.
+          <lb/>WESTERBURG, Gerhart : Von dem grossen Gottesdienst der
+          <lb/>löblichen Statt Cöllen. Eine vergleichung der statt
+          <lb/>Cöllen, mit dem heiligen Hierusalem... — Strasbourg,
+          <lb/>Wendelin Rihel 1545, in-40.
+          <lb/>Kuczynski, n° 2757; Hiersemann (Leipzig), Catal. 666,
+          <lb/>n° 1094; 10 M.
+          <lb/>3483
+          <lb/>517
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

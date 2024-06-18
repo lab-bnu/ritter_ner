@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:51.628011+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5072.tif
+IMAGE WIDTH: 2368
+IMAGE HEIGHT: 3854
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1380
+          <lb/>censium, Cliuen-] sium, Montensium. Comitem Marchiae, &amp;amp; Rauen-
+          <lb/>spurgi : Domino in Rauenstein, Ioannis Stur-[mii de educatione Prin¬
+          <lb/>cipis.
+          <lb/>R. 102.508. Prov. : L. Rosenthal, Munich, 24/VI, 1890; 6 M. Rel. anc.
+          <lb/>2178
+          <lb/>SPECULUM EXEMPLORUM
+          <lb/>Haguenau, H. Gran, 1507
+          <lb/>Speculum exemplorum omnibus christicolis salubriter
+          <lb/>inspicien-dum vt exemplis discant disciplinam. (Verso
+          <lb/>blanc.)
+          <lb/>A la fin : ... Finitum est! et complexum hoc Speculum
+          <lb/>exemplorum in im- periali opido Hagenaw per industrium
+          <lb/>Hen- ricum Gran inibi incolam : Impensis circum-( specti
+          <lb/>viri Joannis rynmann de oringaw. An- ! no salutis nostre.
+          <lb/>1507. XV. die mensis Ja!! nuarij.
+          <lb/>In-fol., car. goth., 2 col., 304 ff. non ch., sign. a-z, A-O, titre courant,
+          <lb/>init. d’attente.
+          <lb/>fol. 2a-27b : Tabula exemplorum.
+          <lb/>R. 10.599 (2). Prov. : Bibl. du prof. Baum, 20/1I, 1879. Au bas du titre
+          <lb/>Loci Capucinorum Waldshudj. A l’intérieur du 1er plat : M. Ge. Christoph.
+          <lb/>Widenman me possidet. Emptum à Iacobo Bollero 1637. Au-dessous,
+          <lb/>d’une autre main : Dono dedit Christophorus Widenman in Büel, Siluestro
+          <lb/>Frey Caplano in Keiserstuhl 1678. Rel anc.
+          <lb/>2179
+          <lb/>SPECULUM EXEMPLORUM
+          <lb/>Haguenau, H. Gran, 1512
+          <lb/>Speculum exemplorum...
+          <lb/>Comme au n° précédent.
+          <lb/>A la fin : ... Hagenaw per industrium Henricum Gran
+          <lb/>inibi incolam Impensis circumspecti viri Joannis rynman!
+          <lb/>de oringaw. Anno salutis nostre... 1512. I iij. die mensis
+          <lb/>Nouembris.
+          <lb/>In-fol., car. goth., 2 col., 285 ff. non ch., sign. aa-dd, a-z, A-O, titre
+          <lb/>courant, init. d’attente.
+          <lb/>fol. aa 2a : Tabula exemplorum (27 ff.).
+          <lb/>fol. a la : Prefatio (1 f.).
+          <lb/>R. 10.371. Prov. : O. Weigel, Leipzig, 21/IV, 1890; 6M.
+          <lb/>A l&amp;#x27;intérieur : timbre de l’antiquaire Oswald Weigel à Leipzig et
+          <lb/>étiquette de l’antiquariat Schletter (E. Franck), Breslau. Sur la couver¬
+          <lb/>ture extérieure, la date 1520.
+          <lb/>Beaulieux, p. 271 : BU Paris (Réserve 141) ; Oxford, Bibl. Bodleiana.
+          <lb/>2180
+          <lb/>SPECULUM EXEMPLORUM
+          <lb/>Haguenau, H. Gran, 1519
+          <lb/>Speculum exemplorum...
+          <lb/>A la fin : ... Ha! genaw per industrium Henricum Gran
+          <lb/>inibi in colam : Impensis circumspecti viri Joannis !!
+          <lb/>Rynman de Oringaw. Anno salutis nostre! Mecccc.xix. Xxj.
+          <lb/>die mensis Februarij.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

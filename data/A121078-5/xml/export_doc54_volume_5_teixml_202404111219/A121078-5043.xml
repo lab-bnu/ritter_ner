@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:50.194269+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5043.tif
+IMAGE WIDTH: 2408
+IMAGE HEIGHT: 3864
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1351
+          <lb/>SEXTUS Victor Aurelius. Voir: NEPOS, PLINIUS Secundus junior
+          <lb/>et SUETONIUS. Le Gk a réuni ces trois à AURELIUS
+          <lb/>Victor Sextus; de même le catalogue de la BN de Paris.
+          <lb/>SIGISMUND VON HOHENLOHE. Voir: HOHENLOHE.
+          <lb/>SIGISMUNDUS, Proverbia. Voir: MARGARITA FACETIARUM.
+          <lb/>SIGONIUS Carolus
+          <lb/>Strasbourg, B. Jobin, 1584
+          <lb/>Deutschen Rö-mischen Reichs Hoch Achtung, vnd
+          <lb/>dessen von TeutschenKeysern, Königen vnd verwesern
+          <lb/>rühmlicher Re- gierung vnd Verwaltung(Nothwendige,
+          <lb/>stattliche Ehren-Rettung, wider etliche offentlich ausz¬
+          <lb/>kommene partheiliche Italianische Scribenten, Und
+          <lb/>beuorab den sonst vil berümbten Historicum Carolum Sigo¬
+          <lb/>nium, welcher, was zu verkleinerung vnd verdunckelung des
+          <lb/>Teutschen Röm. : Reichs Ruhm vnd Hoheyt, vnd darneben
+          <lb/>beschönung der Römischen Bäpst geübter Tyranney, inn
+          <lb/>Policey vnd Religion-Sachen dienlich geacht, Lateinisch
+          <lb/>hat zusammen gerafft.
+          <lb/>Alles mit sonderm müglichem fleisz ausz mehr bewärten
+          <lb/>Historien, durch Beithun nötiger Erinnerung, Anhäng,
+          <lb/>Erlkärungen (!) vnd neben Glossen, sehr gründtlich vnd
+          <lb/>bescheydenlich abgeleynet vnd widerlegt,Durch Georgium
+          <lb/>Nigrinum, der Historien Liebhabern, 1l vnd umb des Teutschen
+          <lb/>Reichs Herrligkeit Eyffe- rern, zusammen getragen vnd
+          <lb/>beschrieben.
+          <lb/>Gedruckt zu Straszburg, Anno M. D. LXXXVII (1587
+          <lb/>est une faute d’impression pour 1584.) (Verso blanc.)
+          <lb/>A la fin : Getruckt zu Straszburg, durch!! Bernhardt Jobin.
+          <lb/>Au-dessous : marque typ. de B. Jobin. (H. &amp;amp; B. Planche
+          <lb/>XXXVII, n° 7.) M. D. LXXXIIII.
+          <lb/>In-fol., car. goth., 12 ff. non ch., 527 pp. ch., titre courant, réclames,
+          <lb/>notes marg., init. ornées, titre rouge et noir.
+          <lb/>fol. 2a non ch. :... Herren Jacob Boncompange, 11 Obersten Regenten
+          <lb/>der H. R. Kirchen... 1) Carolus Sigonius... — zu Bononien den Ersten
+          <lb/>tag Julij. 11 im Jar M. D. LXXIIII. (Préface de 5 pp. et demie.)
+          <lb/>fol. 5a non ch. : Den Ehrsamen... Herren Burgemeistern vnd Raht,
+          <lb/>sampt ]] der gantzen Gemeyn der Fürstlichen Statt Marburg, inn
+          <lb/>Hessen... Datum Echzell den 10 Julij, Anno 84. (/ Georgius Nigrinus
+          <lb/>Superin : Il der Graffschafft Nidda &amp;amp;c. !! vnd Pfarrherr zu Echzell.
+          <lb/>fol. 527a : Dise Dinge hat Carolus Sigonius von Mutina, bisz auff das
+          <lb/>Tausent (/ zweyhundert jar gedenckwirdig im Reich Italie sich zugetragen
+          <lb/>befunden, vnd hat (/ dieselbige endlich im M. D. LXXiiij. Jar ausz dem
+          <lb/>finsteren herfür !! ans licht vnd für die Leuthe bracht, Als er in der hohen
+          <lb/>Schul!] zu Bononien eyn Professor vnd Lehrer guter!/ Künsten war.
+          <lb/>R. 10.424. Prov. : J. Baer, Francfort-s.-M., 1/IV, 1876; 6 M.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

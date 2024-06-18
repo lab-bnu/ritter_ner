@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:02.335094+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002028.tif
+IMAGE WIDTH: 2484
+IMAGE HEIGHT: 3964
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>ARNOLDUS de Villa Nova: Diser Tractat helt yn von bereytung
+          <lb/>der wein... (traduit par Guillaume de Hirnkoffen). —
+          <lb/>(Strasbourg, Mathias Hupfuff 1506), in-80.
+          <lb/>GKVII, 2432: BN Vienne.
+          <lb/>861
+          <lb/>ARNOLDUS de Villa Nova : (Idem). — (Strasbourg, Mathias
+          <lb/>Hupfuff 1506), in-8°.
+          <lb/>GKVII, 2433: BN Vienne.
+          <lb/>862
+          <lb/>ARNOLDUS de Villa Nova : (Idem). — (Strasbourg, Mathias
+          <lb/>Hupfuff 1512), in-40,
+          <lb/>GKVII, 2434: BN Berlin, Munich.
+          <lb/>863
+          <lb/>ARNOLDUS de Villa Nova : (Idem). — (Strasbourg,
+          <lb/>J. Knobloch 1519), in-40.
+          <lb/>GKVII, 2435: BN Munich; Schmidt, VII, n° 173; Weller,
+          <lb/>Rep. 1253.
+          <lb/>864
+          <lb/>ARNOLDUS de Villa Nova : (Idem). — (Strasbourg, Martin
+          <lb/>Flach 1522), in-4°.
+          <lb/>GKVII, 2436: BN Munich.
+          <lb/>865
+          <lb/>ARNOLDUS de Villa Nova. Voir aussi: ULSTADIUS, Phil.
+          <lb/>n° 3378; RITTER, Rép. n° 2409.
+          <lb/>ARS : Ars chemica quod sit licita recte exercentibus proba¬
+          <lb/>tiones doctissimorum iuris consultorum. Septem tractatus
+          <lb/>seu capitula Hermetis Trismegisti aurei. Eiusdem tabula
+          <lb/>smaragdina in ipsius sepulchro inventa cum commento
+          <lb/>Hortulani Philosophi... Opuscula. — (Strasbourg,
+          <lb/>Samuel Emmel 1566), in-8°.
+          <lb/>GK7, 5144: B N Munich, Vienne etc.
+          <lb/>866
+          <lb/>ARS Chemica. Voir aussi: HERMES TRESMEGISTUS n° 1994.
+          <lb/>¡ARS memorandi) : Rationarium evangelistarum omnia in se
+          <lb/>26
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

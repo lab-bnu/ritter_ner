@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:06.445124+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3113.tif
+IMAGE WIDTH: 2312
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>FIGULUS Sebastianus. Siche: CALAMINUS Georg. Nr. 393 und
+          <lb/>Nr. 394
+          <lb/>FINAEUS Orontius
+          <lb/>Strassburg, G. Messerschmidt 1544
+          <lb/>ORONTII FINEL DELPHINA- I TIS, LVTETIAE LIBERALIVM
+          <lb/>disciplinarum Professoris regij LIBER DE GEOMETRIA
+          <lb/>PRACTICA, SIVE DE! practicis longitudinum, planorum &amp;amp; so¬
+          <lb/>lidorum: hoc est linearum superficie- rum, &amp;amp; corporum
+          <lb/>mensionibus, aliisque mechanicis, ex demonstratis EVCLI¬
+          <lb/>DIS! elementis corollarius. UBI ET DE OVADRATO GEOME¬
+          <lb/>TRICO, ET VIRGIS! seu baculis mensoriis. NVNC PRIMVM
+          <lb/>APVD GERMA-nos in lucem emissus.
+          <lb/>Argentorati.) Anno M. D.XXXXIIII.
+          <lb/>Am Schluss: ARGENTORATI, EX OFFICINA KNOBLOCHIANA,
+          <lb/>PER GE- ORGIVM MACHAERO- POEVM, MENSE! MARTIO ANNO,
+          <lb/>M. D. XLIIII. Darunter; grosses Epheublatt.
+          <lb/>4°, Kursiv, 2 unn. Bll., 133 S., Kopft., Kust., Marg,, zahlreiche
+          <lb/>geom. Figuren, Init.
+          <lb/>R101.116. Prov.: Versteigerung Welter, Paris 4. IV. 1895; 20 Fr.
+          <lb/>GK (unter Finé Oronce): SB Berlin; UB Bonn, Breslau; BN Paris,
+          <lb/>Ve 225; Bibl. Bodleiana Oxford.
+          <lb/>844
+          <lb/>FINAEUS Orontius
+          <lb/>Strassburg, (G. Messerschmidl 1558
+          <lb/>LIBER DE ] GEOMETRIA PRACTICA... (wie in der vorigen
+          <lb/>Nummer.)
+          <lb/>ARGENTORATI ANNO! M. D. LVIII.
+          <lb/>Am Schluss: ARGENTORATI, EXOfficina Knoblochiana,
+          <lb/>Anno. M. D. LVIII. (Rücks, leer.)
+          <lb/>4°, Kursiv, 2 unn. Bll. (Index), 113 num. S., Kopft., Kust., Marg.,
+          <lb/>Init., zahlreiche geometr. Figuren.
+          <lb/>R101.115. Prov.: Butsch, Augsburg 11. XI. 1880, 6M.
+          <lb/>GK: UB Breslau.
+          <lb/>845
+          <lb/>FINÉ Oronce. Siche: FINAEUS Orontius
+          <lb/>FIRMICUS Maternus Julius
+          <lb/>Strassburg, P. Messerschmidt 1562
+          <lb/>Julij Firmici Ma- TERNI V. C. DE ERRO- re profana¬
+          <lb/>rum religionum ad Con- stantium &amp;amp; Constantem Au¬
+          <lb/>gustos liber: NVNOVAM ANTE- hac in lucem editus.
+          <lb/>557
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

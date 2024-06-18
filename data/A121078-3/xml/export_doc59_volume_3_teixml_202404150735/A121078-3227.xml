@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:09.057300+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3227.tif
+IMAGE WIDTH: 2324
+IMAGE HEIGHT: 3854
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>par l’ouvrage suivant, dont en 1873 j’ai vu un exemplaire au Musée de
+          <lb/>Bâle; Passio J. C. Salvatoris mundi vario carminum genere F. Benedicti
+          <lb/>Chelidonii Musophili doctissime descripta. Cum figuris artificissimis Joan¬
+          <lb/>nis Wechtelin. S. l. s. a. fo. Ce sont en partie les mêmes grandes gra¬
+          <lb/>vures que dans le présent volume.
+          <lb/>Hans Wechttel der moler hat das burgrecht empfangen von hern
+          <lb/>Hans Wechtlin priester seinem vatter, wil dienen zu der steltzen, actum
+          <lb/>secunda ipsa Galli 1514. (Bürgerbuch, Archives de la ville de Stras¬
+          <lb/>bourg....)»
+          <lb/>Priesterseminar Strassburg Inc. A 179 u. A180. BN Paris, Rés.
+          <lb/>A. 2039. GK: SB Berlin, UB Bonn, Göttingen, Kônigsberg. Dacheux,
+          <lb/>Geiler S. CLXVII; Schmidt II Nr. 66; Rosenthal, München, Katal.
+          <lb/>135 (1914) Nr. 922: 400 M. : Mit 45 grossen und 104 kleineren Holz¬
+          <lb/>schnitten von Wechtelin (im Stile Dürers) u. Hans Baldung Grien 35
+          <lb/>gez. Bll. (1 Bl. leer) 117 gez. Bll. 1 Bl. Register, 28 nichtgez. Bll. (Pas¬
+          <lb/>sion) 109 gez. Bll., 1 Bl. Regist. 4l gez. Bll. (1 Bl. leer).
+          <lb/>986
+          <lb/>GEISPOLSHEIM. Siene: FÜLL VON GEISPOLSHEIM Heinrich
+          <lb/>GEISSLER Heinrich
+          <lb/>Strassburg, Joh. Prüss 1502
+          <lb/>Formulare vnd! Tütsch rethorica.
+          <lb/>Grosser Holeschn.: Professor auf dem Lehrstuhl, vor ihm 4 Stu¬
+          <lb/>denten, stehend. Brunschivigs Chirurgia, Strassburg 1497 entlehnt.
+          <lb/>Am Schluss: Hat getruckt der fürsichtig Johannes
+          <lb/>prüsz, burger zû Straszburg vnd geendet! vff freytag nach
+          <lb/>sant Johans enthouptung tag. Anno M. coccc. ij. (Rücks. leer.)
+          <lb/>2°, Got., 4 unn., LXXXIII num. Bll., Init. M, D, W, F. Auf
+          <lb/>der Rücks. des Titelbl. Wappen der Stadt Strassburg, wie in Wimpfe¬
+          <lb/>lings Germania (Prüss, 20. Dez. 1501.) Auf der Rücks, von Bl. 2b:
+          <lb/>Päpstliches Wappen, daneben der Reichsadler.
+          <lb/>Bl. 2a: Eyn vorrede. In dieser Vorrede bezeichnet sich Geissler
+          <lb/>als Verfasser. Bl. 3 u. 4: Register.
+          <lb/>F*R10.273. Prov.: Butsch Sohn, Augsburg 12. x. 1883; 14 M. 50.
+          <lb/>Handschr. Notizen, besonders auf der Rücks. des Titelbl, u. auf dem
+          <lb/>leteten Bl. Auf dem Titelbl. unten: Carthusia Buxia.
+          <lb/>GK (unter Gessler): UB Göttingen. Schmidt III Nr. 34: Zürich;
+          <lb/>Rosenthal, München, Katalog 135 (1914) Nr. 926, 75 M.; Brunet
+          <lb/>115, 1343.
+          <lb/>Bibliographie Geisslers siehe: Schottenloher I Nr. 6959-6952a.
+          <lb/>987
+          <lb/>GEISSLER Heinrich
+          <lb/>Strassburg, P. Göte 1514
+          <lb/>Formulare vnd Tütsch rethorica.
+          <lb/>Am Schluss: Hat getruckt der fürsichtig Paulus götz
+          <lb/>671
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:36.102304+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2326.tif
+IMAGE WIDTH: 2314
+IMAGE HEIGHT: 3816
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>322
+          <lb/>CICERO
+          <lb/>Strasbourg, M. Schürer, 1151221
+          <lb/>M. T. Cicero-nis de Officijs, libri Tres, cum Indice!
+          <lb/>Auctorum, Ada giorumque suo loco cita! torum. LECTOR,
+          <lb/>EME, LE ge &amp;amp; probabis.
+          <lb/>Au recto du dernier f.: M. S. [— Mathias Schürerl. Au-dessous:
+          <lb/>marque typ. de Mathias Schürer. (H &amp;amp; B. Planche XIII. No 5; Sil¬
+          <lb/>vestre, N° 692.)
+          <lb/>In-40, car, rom., LXII ff. ch., 6 ff. non ch., dont le verso du der¬
+          <lb/>nier blanc (Index), titre courant, initiales ornées C, P, titre encadré:
+          <lb/>portique avee monogramme d&amp;#x27;Urs Graf, même encadrement que dans
+          <lb/>Cicero, Tusculanarum Quaestiones, édition 1516 (RI00.068.) No 494.
+          <lb/>Au verso du titre: Sebastianus Murrho lunior Colmarien¬
+          <lb/>sis, Joan. Sapido ludi litterarum ma- gistro in Selestat.
+          <lb/>S. D. ... — Ex Aedibus Schurerij, Anno M. D. XII. quinto
+          <lb/>Idus! Iulias.
+          <lb/>*R100.070. Prov.: Albert Cohn, Berlin, 26/1x. 1882, 8 M.
+          <lb/>Note mss. au titre: Benedictenpeyren. fr. ioannes.
+          <lb/>GPB: BU Gættingue, Munster.
+          <lb/>490
+          <lb/>CICERO
+          <lb/>Strasbourg, M. Schürer, 1513.
+          <lb/>M. T. Ciceronis! De amicitia De Senectute Para¬
+          <lb/>doxa.
+          <lb/>Marque typ. de Schürer, (H æ B, Planche XII. No 2). Au-dessous:
+          <lb/>Tempus observa.
+          <lb/>A la fin: Argentorat. Ex aedibus Schu-rerianis Mense
+          <lb/>Nouembri. Anno M. D. XIII.! Regnante Imperatore Caes.
+          <lb/>Maximiliano. P. F. Avg.
+          <lb/>In-40, car, rom. XXXX ff. ch., verso du dernier f. blanc, (f.
+          <lb/>XXXIX chiffré par erreur XXIX), notes marginales, init, ornées.
+          <lb/>R 101.679. Prov.: Bibl. du prof. Baum, 20. II. 1879. Notes mss.
+          <lb/>Schmidt VIII, No 112.
+          <lb/>BN Paris Rés. p. R. 14; GPB; BU Breslau.
+          <lb/>491
+          <lb/>CICERO
+          <lb/>Strasbourg, M. Schürer, 1515
+          <lb/>M. Tullii Ciceronis! Rhetoricorum libri Quattuor ad
+          <lb/>He ( rennium. Index praeterea hic est! additus, in ipsius
+          <lb/>operis fronte, quo dicto ci! tius quaerenti quoduis
+          <lb/>occur rat.
+          <lb/>A la fin: Argentorati. Ex Typographia Matthiae Schu¬
+          <lb/>rerij! Mense Nouembri. Anno. M. D. XV. [TEMPVS OBSERVA.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

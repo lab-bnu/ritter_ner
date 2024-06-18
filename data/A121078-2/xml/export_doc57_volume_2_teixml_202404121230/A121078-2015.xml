@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:26.587673+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2015.tif
+IMAGE WIDTH: 2392
+IMAGE HEIGHT: 3824
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>11
+          <lb/>mand, initiales à fig. G, W, titre encadré avec le monogramme de Secer.
+          <lb/>(H &amp;amp; B, Planche LXIX, NO I.)
+          <lb/>Cd 130390. Prov.: Baer, Francfort-s.-M., 15/1.1891; 54 M., à l’in¬
+          <lb/>térieur de la couverture 60 M.
+          <lb/>GPB, II, 3719: Berlin, Munich, Bonn.
+          <lb/>17
+          <lb/>AGRICOLA Johannes
+          <lb/>Haguenau, J. Secer, 1529.
+          <lb/>Das An-der teyl gemeyner Deutsch er sprichworter,
+          <lb/>mit yhrer! auszlegung, hat funfft halb hundert newer
+          <lb/>worter. I Johann Agricola! Eiszleben. (Verso blanc.)
+          <lb/>A la fin: Ende des andern teyls der! Deutschen Sprich¬
+          <lb/>wortter.
+          <lb/>Gedruckt zu Hagenaw durch Johannem! Secerium, Ym
+          <lb/>M. D. und xxix. Jare.
+          <lb/>in-8°, car, goth., 15 ff. non ch. (Préface et registre), 1 f. blanc
+          <lb/>4- 248 ff. ch. (verso du dernier f. blanc), titre courant, réclames au
+          <lb/>verso des ff., notes marg. donnant le texte grec ou latin du proverbe
+          <lb/>allemand, initiale à fig. E, au commencement de la préface; le volume
+          <lb/>contient les proverbes de numéro 301-749. Titre encadré avec mono¬
+          <lb/>gramme de Secer (H &amp;amp; B, Planche LXIX, NO 1).
+          <lb/>Fol. 1a: Den Erbaren und wei! sen Bugermeister vnd
+          <lb/>Radt! zu Halberstadt, meinen gunstigen! Herren vnd
+          <lb/>Freunden... Datum Speir, Son! tag Quasi modo geni! ti, Jm
+          <lb/>jare, M. D.  vnd XXIX. Johan Agricola! Eiszleben.
+          <lb/>Od 130390b. Prov.: Scheible, Stuttgart, 16. Hl. 1887, 45 M.
+          <lb/>GPB, II, 3719: Berlin, Göttingen, Kiel.
+          <lb/>18
+          <lb/>Haguenau, [J. Secer, 1 1534.
+          <lb/>AGRICOLA Johannes
+          <lb/>Syben hundert vnd! Fünfftzig Teütscher! Sprichwör¬
+          <lb/>ter, ver! neüwert vnd! verbeszert. ! Johan Agricola.! Zu
+          <lb/>Hagenaw, im jar! M. D. xxxiiij, am xV. ] tag des Mertzen.
+          <lb/>in-8°, car. goth., 416 ff. non ch., sign. A-Z, a–2, Aa-Ff., verso
+          <lb/>du dernier f. blanc, titre courant, réclames au verso des ff., initiale
+          <lb/>ornée W, notes marg., donnant le proverbe en latin, en tout 749 pro¬
+          <lb/>verbes numérotés par des chiffres arabes de 1–749; titre encadré
+          <lb/>(H &amp;amp; B. Planche LXIX, NO 1).
+          <lb/>Au verso du titre : Johannes Agricola! Eisleben.
+          <lb/>Suivent 13 ff. à 2 col.: Index des proverbes par ordre alpha¬
+          <lb/>bétique.
+          <lb/>Ca 130392. Prov.: C. Beck, Nördlingen, 12. x. 1880, 20 M.
+          <lb/>Au verso du dernier f. autographe de Josephus Kurmis, au-dessous:
+          <lb/>Qui bien font Basse partout.
+          <lb/>GPB, II, 3724. Berlin, Munich, Vienne, Bonn, Göttingen. 19
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

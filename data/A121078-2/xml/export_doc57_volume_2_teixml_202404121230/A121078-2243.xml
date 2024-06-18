@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:33.846218+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2243.tif
+IMAGE WIDTH: 2292
+IMAGE HEIGHT: 3820
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>239
+          <lb/>grund gehn. feuille de treffle.) Durch die Prediger der Kir¬
+          <lb/>chen Christi zû Straszburg.
+          <lb/>In-4°, car. goth., 12 ff. non ch., sign. A-C, réclames.
+          <lb/>A la fin: Datum zû Strassburg, am Sechsten tage
+          <lb/>Mertzens. Im Jar... M. D. XXX. (Verso blanc.)
+          <lb/>R 102.352. Prov.: Bibliothèque Heite, Strasbourg, 1871.
+          <lb/>Baum N° 21, Mentz N° 25.
+          <lb/>359
+          <lb/>BUTZER Martin
+          <lb/>(Strasbourg] 1530
+          <lb/>(Feuille de lierre.) Non esse fe! rendas in templis! Chris¬
+          <lb/>tianorvm imagines et statvas, coli solitas, caussae ex
+          <lb/>arcanis literis, sententijs patrum, edictis religiosorum Cae¬
+          <lb/>sarum: Vnde candidus lectoruidebit, quàm pie Senatus
+          <lb/>Argentoratensis nuper simulacra omnia, cum aris, elimi¬
+          <lb/>nanda suis templis curauerit. Autoribus Ecclesiasticis
+          <lb/>Argentoraten. Iacobo Bedroto interprete.
+          <lb/>ITEM EPISTOLA MARTINI BV CERI IN EVANGELISTARVM
+          <lb/>ENARRATIONES) nuncupatoria, ad præclaram Academiam
+          <lb/>Marpurgen- sem, in qua quid Haeresis, qui haeretici, &amp;amp;
+          <lb/>quatenus cum dissentientibus societas Christi seruanda
+          <lb/>sit, disseritur. Excutiuntur quoque articuli conuentus
+          <lb/>Marpurgen. Anno, M. D. XXX. (Verso blanc.)
+          <lb/>A la fin: Argent. XIII. Ca lende Aprilis. Anno M.D.XXX.
+          <lb/>In-4°, car. rom., 32 ff. non ch., sign. aij-hiij; réclames, notes
+          <lb/>marginales, titre courant seulement dans l’épitre de Bucer, grande ini¬
+          <lb/>tiale goth. E.
+          <lb/>fol. a 2a: Quotquot Argento rati Christvm docent,
+          <lb/>piis! lectorib. Gratiam.
+          <lb/>R 102.359. Prov.: L. Rosenthal, Munich, 18. VI.1881; 15M.
+          <lb/>Au verso du titre: cachet rouge de la Bibl. Royale de Berlin:
+          <lb/>Vend, ex Bibl. Reg. Berol.
+          <lb/>Baum N° 21; Mente No 25a.
+          <lb/>360
+          <lb/>BUTZER Martin)
+          <lb/>Strasbourg, J. Schweintzer, 1531.
+          <lb/>Bekandtnusz der vier Frey vnd Reichstätt, Strasz¬
+          <lb/>burg, Costantz, Memmin- gen vnd Lindaw, in deren sie¬
+          <lb/>Keys. Maiestat, vff dem Reichstag zû Augspurg, imm XXX.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

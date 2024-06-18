@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:37.553065+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2373.tif
+IMAGE WIDTH: 2354
+IMAGE HEIGHT: 3818
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>A la fin: Impressum Argentinae per honestum virum
+          <lb/>Iohannem! Grieninger in vigilia Purificationis Mariae! Anno
+          <lb/>salutis M. D. XXIIII.
+          <lb/>marginales, initiales ornées, titre encadré de 4 lignes doubles qui s’entre¬
+          <lb/>In-40, car, rom., 65 ff. non ch., sign. A-Q, titre courant, notes
+          <lb/>coupent.
+          <lb/>fol. A 2a: ... PATRI IODOCO DEI GRA! tia Abbati in
+          <lb/>Salem &amp;amp;c. Ioannes Cochlaeus... — Ex Francfordia ad
+          <lb/>Moe- num Tercio Idus Septembris! Anno Salutis M. D.
+          <lb/>XXIII.
+          <lb/>R 101766. Prov.: H. Kerler, Ulm, 19/x. 1878,6M.
+          <lb/>GPB. B U Berlin, Breslau. Schmidt I. No 209.
+          <lb/>551
+          <lb/>COCHLAEUS Johannes
+          <lb/>Strasbourg, J. Grüninger, 1524.
+          <lb/>Ein Spiegel der Ewangelischen freyheit, wie die
+          <lb/>Christus warhafftiglichen ge- lert, vnd Martin Luth.etz
+          <lb/>in vnseren zeiten die selbigen vnnütz lich fürgeben
+          <lb/>hat. D. J. K. (Feuille de lierre.) (Doctor Johannes Cochläus.)
+          <lb/>A la fin: Getruckt zû Straszburg durch Johann Grie¬
+          <lb/>ninger vff sant Bartholomeus abent des heilgen apostels.
+          <lb/>Im iar als man zalt nach der ge burt Christi, 1524.
+          <lb/>In-4°, car. goth., 16 ff. non ch. dont le dernier blanc, sign. A-D,
+          <lb/>notes marginales, initiales ornées.
+          <lb/>fol. A 2a: Vorred. (2 pages et demie.)
+          <lb/>R101.944. Prov.: A. Stuber, Wurabourg, 19/11. 1883; 5 M.
+          <lb/>GPB: BN Berlin, BU Breslau, Kœnigsberg. Manque chez
+          <lb/>Schmidt.
+          <lb/>552
+          <lb/>COCHLAEUS Johannes
+          <lb/>Strasbourg, J. Grüninger, 1525.
+          <lb/>Antwort Johan. Cochleus auff. XCI, articke len, vsz
+          <lb/>dreien Sermonen M. Luth, gezogen.
+          <lb/>Von vnser lieben frawen Marie geburt. 29. artickel.
+          <lb/>Von dem reichen man vnd Laza ro vnd von selen.
+          <lb/>28. artickel.
+          <lb/>Von dem heiligen Creütz vnd an dern heiligtum 34.
+          <lb/>artickel.
+          <lb/>Im iar 1525. (Verso blanc.)
+          <lb/>A la fin: Getruckt vnd vollendet von Johannes Grie¬
+          <lb/>ninger Jm Jar, 1525.
+          <lb/>R. 24
+          <lb/>369
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

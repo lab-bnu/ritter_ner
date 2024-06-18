@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:08.848013+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002273.tif
+IMAGE WIDTH: 2518
+IMAGE HEIGHT: 3954
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>JUNIUS, Samuel : Teutsche Argumenta oder Innhalt der
+          <lb/>Tragoedia M. Samuelis Junii Suebusinatus Silesii Lucretia
+          <lb/>genant. Sampt einer Vorred und beschlusz darausz der¬
+          <lb/>Innhalt und die Lehren der selbigen Tragoedia ab¬
+          <lb/>zunemen. Gehalten auff dem Theatro zu Straszburg.
+          <lb/>den 31. Augusti Anno 1599. — Strasbourg, Antoine
+          <lb/>Bertram 1599, in-80,
+          <lb/>Goedeke II2, p. 552, n° 4 ; Graesse III, p. 499. Voir aussi
+          <lb/>Ritter, Rép. n° 1299l.
+          <lb/>2176
+          <lb/>JUSTINIANUS (Imperator) : Andree Alzati Mediolanensis in
+          <lb/>tres posteriores Codicis Justiniani Annotationes. In
+          <lb/>quibus obiter quamplurima aliorum authorum loca
+          <lb/>explanantur. Eiusdem opusculum, quo graece dictiones
+          <lb/>fere ubique in Digestis restituuntur. — Strasbourg,
+          <lb/>Jean Schott (29.VIII.] 1515, in-fol.
+          <lb/>Walter, n° 1640; Panzer 6, 73; Schmidt II, n° 30. — B M
+          <lb/>Sélestat.
+          <lb/>2177
+          <lb/>JUSTINIANUS. Voir aussi: CANTIUNCULA, Claudius n° 1278/9;
+          <lb/>SCHNEIDEWIN nos 3179-3181.
+          <lb/>JUSTINUS : Ex Trogo Pomp. historia... — Haguenau,
+          <lb/>Jean Secer 1526, in-4°,
+          <lb/>Graesse III, p. 512 : « Cette édition accompagnée d’une
+          <lb/>préface de Phil. Melanchthon donne le texte de Justinus corrigé
+          <lb/>d’après une édition et sur un man, par Ge. Major. Il y en a
+          <lb/>plusieurs réimpressions, entre autres Haguenau 1533, in-8°.»
+          <lb/>Burg, n° 241.
+          <lb/>2178
+          <lb/>JUSTINUS (Idem). — Haguenau, J. Secer 1533, in-4°.
+          <lb/>Burg, n° 242.
+          <lb/>2179
+          <lb/>JUSTUS (episcopus Orgelitanus) (Urgel] : In Cantica Canti¬
+          <lb/>corum explanatio, à Menrado Molthero restituta. Floruit
+          <lb/>Autor sub Justiniani Imperatore, Anno D.XL. —
+          <lb/>Haguenau (J. Secer, août 1529), in-8°.
+          <lb/>Burg, n° 243.
+          <lb/>2180
+          <lb/>271
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

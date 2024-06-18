@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:35.632753+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2306.tif
+IMAGE WIDTH: 2306
+IMAGE HEIGHT: 3818
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>302
+          <lb/>CARRICHTER Bartholomaeus
+          <lb/>Strasbourg, Chr. Müller, 1579,
+          <lb/>Practica Ausz den fürne mesten Secretis, weiland!
+          <lb/>des Edelen vnnd Hochgelehrten! Herren Bartholomei Car¬
+          <lb/>richters, der Röm. Kai. May. Herrn Maximilian des Andern,
+          <lb/>vnsers aller gnedig-sten Herren, &amp;amp; Hoff-Doctors.
+          <lb/>I. Von allerhand Leibs kranckheiten.
+          <lb/>II. Von vrsprung der offenen Schä-den, vnd jrer
+          <lb/>heylung.
+          <lb/>Jetzt von newem Corrigirt auszgangen. Cum priui¬
+          <lb/>legio Caesareo ad decennium.
+          <lb/>Getruckt zû Straszburg bey Christian Müller. 1579.
+          <lb/>(Verso blanc.)
+          <lb/>In-8°, car. goth., 8 ff. non ch., 160 p. (Ière partie) et 183 p. ch.
+          <lb/>(2e et 3e partie), titre courant, réclames, initiales goth., vignette à la fin
+          <lb/>de la IIe partie.
+          <lb/>fol. A 2a: ... Herren Philipsen Grauen zû Leyningen,
+          <lb/>Herren zû Westerburg vnd Schawenburg (3 ff. de Préface)...
+          <lb/>Datum Hagenaw den ersten Augu-sti Anno. M. D. LXXIIII.
+          <lb/>Michael Toxites, D. Suivent 4 ff. d’Index.
+          <lb/>R 100.985. Prov.: Bibliothèque Heitz, Strasbourg. Notes mss.
+          <lb/>GPB: BU Breslau.
+          <lb/>461
+          <lb/>CARRICHTER Bartholomaeus
+          <lb/>Strasbourg, Ant. Bertram, 1589.
+          <lb/>Kräutterbuch! Des Ehrnuesten vnd Hochgelehrten
+          <lb/>Herren, Doctoris Bartholomej Carrichters von Reckin¬
+          <lb/>gen, Weyland der Röm. Kai. Mai:! Herrn Maximiliani des
+          <lb/>Andern, vnsers allergenedigsten Herren, &amp;amp; Leib Me¬
+          <lb/>dici. Darinnen begriffen, Vnder welchem zeichen Zodiaci,
+          <lb/>auch! in welchem Gradu ein jedes Kraut stehe, wie sie
+          <lb/>in Leib vnnd zu allen Schäden zu bereyten, vnd zu wel¬
+          <lb/>cher zeit sie zu colli-gieren sein. (Vignette.)
+          <lb/>Au-dessous: Mit Keyserlicher Maiestet Freyheit. Gedruckt
+          <lb/>zu Straszburg, durch) Antonium Bertram.) M. D. LXXXIX.
+          <lb/>(Verso blanc.)
+          <lb/>A la fin: Gedruckt zu Straszburg, bey Anthoni Ber¬
+          <lb/>tram. 1588. (Verso blanc.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

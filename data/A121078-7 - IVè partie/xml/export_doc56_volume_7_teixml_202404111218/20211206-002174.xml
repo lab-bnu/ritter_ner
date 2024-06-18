@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:06.061154+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002174.tif
+IMAGE WIDTH: 2500
+IMAGE HEIGHT: 3964
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>EXCERPTA : musices omnis cantus Gregoriani, Pytagorici et
+          <lb/>contrapuncti simplicis. — Strasbourg, Jean Prüss s. d.
+          <lb/>in-40.
+          <lb/>Voulliéme : Berlin 2372.
+          <lb/>1676
+          <lb/>EXERCITIUM. grammaticale puerorum — (Strasbourg ou
+          <lb/>Haguenau) 1502, in-4°.
+          <lb/>Rosenthal, Munich, Catal. 135 (1914), n° 790; 72 M. 1677
+          <lb/>EXHORTATIO: patris ad filium sacerdotem. Voir: CONCOR¬
+          <lb/>DATA, n° 1428.
+          <lb/>EYSLEBEN, Jon. Voir: LIED (ein neues), n° 2329.
+          <lb/>F. P. H. : Epithalamion von der heiligkeit nutz und noht desz
+          <lb/>Ehestandsz. Reimenweis gestelt durch P. H. F. —
+          <lb/>Strasbourg 1579, in-8°.
+          <lb/>Goedeke IIa, p. 284, n° 69.
+          <lb/>1678
+          <lb/>FABER, Henricus : Compendium Musicae cum compendiolo
+          <lb/>recognito, cui in usum Academiae Argentoratensis cum
+          <lb/>vulgaribus tonorum Psalmodiis cantica ecclesiastica tria
+          <lb/>quatuor vocibus a M. David Wolkensteinio composita,
+          <lb/>adjecta sunt. — Strasbourg 1596, in-8°.
+          <lb/>Vogeleis p. 371.; BN Paris, Oxford.
+          <lb/>1679
+          <lb/>FABER, Johannes. Voir : JONAS, Justus n° 2157; LUTHER
+          <lb/>(Contra Joh. Fabrum) n° 2500.
+          <lb/>FABER, Nicolaus. Voir : VIRDUNG, Paulus no 3419.
+          <lb/>FABER Stapulensis. Voir: ERASMUS (Apologia) n° 1561;
+          <lb/>(RITTER, Rép. nos 831-833).
+          <lb/>FABER, Theod. Voir : AGRIPPA, H. C. n° 773.
+          <lb/>FABRI, Hans. Voir: BERICHT : Der nüwen zeytung no 980;
+          <lb/>ZEITUNG n° 3581.
+          <lb/>172
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

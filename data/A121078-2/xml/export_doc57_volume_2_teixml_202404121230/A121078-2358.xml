@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:36.958723+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2358.tif
+IMAGE WIDTH: 2324
+IMAGE HEIGHT: 3826
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>354
+          <lb/>nem. EMENDATA A IOAN. STVRMIO.Omnia &amp;amp; paginarum
+          <lb/>&amp;amp; versuum numero atque lon- gitudine Aldinis respondent.
+          <lb/>Marque typ. de Josias Rihel, (H d B, Planche XXXI, NO 9;
+          <lb/>Silvestre, N° 599.)
+          <lb/>Au-dessous: Cum Gratia &amp;amp; Priuilegio Cesareo ad annos
+          <lb/>octo. ARGENTORATI! M. D. LXXVIII. (Verso blanc.)
+          <lb/>A la fin: Argentorati per Iosiam Rihelium.Ao
+          <lb/>M. D. LXXVIII. Mense Iunio. (Verso blanc.)
+          <lb/>In-80, car. ital., 16 ff. non ch., 305 ff. ch. — 11 ff. non ch., (In¬
+          <lb/>dex) titre courant, réclames, initiale à fig. F le reste initiales d’attente.
+          <lb/>fol. a 24: AD ILLVSTRISSI- MVM PRINCIPEM GVLIEL-(mum,
+          <lb/>Ducem Geldrorum... DoMINo in Rauen! stein, Ioannis Stur¬
+          <lb/>mij Praefatio. (10 p.)
+          <lb/>fol. a 6a: LIBRARIVS, (2 p.)
+          <lb/>fol. a 7a: LEONI X. PONTIFICI MA-XIMO, ANDREAS
+          <lb/>NAVGERIVS. (14 p.)
+          <lb/>(Vol. IIl. M. T. CICERONIS ORATIONVM VOLVMEN SE¬
+          <lb/>CVNDVM. (Même marque typ. et même texte qu’au titre du 1er vol.)
+          <lb/>A la fin: Argentorati per Iosiam Rihelium. ANNo
+          <lb/>M. D. LXXVIII. Mense Iunio.
+          <lb/>In-80, car. ital., 11 ff. non ch., dont le dernier blanc, 277 ff. ch.
+          <lb/>numérotés de 4 à 281, titre courant, réclames, initiale à fig. M, le reste
+          <lb/>initiales d’attente.
+          <lb/>fol. 2a non ch.: AD ILLUSTRISSI- MVM PRINCIPEM ELECTO¬
+          <lb/>rem Hermannum Archiepiscopum Colo- niensem, loannis
+          <lb/>Sturmij Praefatio. (6 p. suivies d’un f. blanc).
+          <lb/>fol. 6a non ch.: PETRO BEMBO. (7 p.)
+          <lb/>R 101684 Prov.: Don du pasteur Riedel, Lubeck, 21/XI. 1877.
+          <lb/>Au commencement et à la fin, annotations mss. Les 2 volumes sont reliés
+          <lb/>ensemble, rel. anc., à l&amp;#x27;extérieur du 1er plat -MCFCz, en bas «1591».
+          <lb/>Le 3e volume manque.
+          <lb/>GPB. BN Berlin, B U Bonn, Breslau, Greifswald (vol. I),
+          <lb/>534
+          <lb/>Nuremberg (vol. D).
+          <lb/>CICERO
+          <lb/>Strasbourg, I. Rihel, 1578.
+          <lb/>IN HOC VOLVMINE HAEC CONTINENTVR. Rhetoricorum
+          <lb/>ad C. Herennium lib. IIl. M.T. Ciceronis de Inuentione
+          <lb/>lib.II. Eiusdem de oratore ad Quintum fratrem lib. IIl.
+          <lb/>Eiusdem de claris oratoribus, qui dicitur Brutus lib. L.
+          <lb/>Eiusdem Orator ad Brutum lib. I. Eiusdem Topica ad Tre¬
+          <lb/>batium lib. I. Eiusdem oratoriae partitiones lib. I. Eius¬
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:37.890088+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu096.tif
+IMAGE WIDTH: 2392
+IMAGE HEIGHT: 3844
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>MECKENLOCHER FRIDER.: Casus in terminis libri sexti decre¬
+          <lb/>talium. Strasbourg, Mart. Flach, 1490, in-fol.
+          <lb/>Hain 10983, Proctor 689, Schmidt VI, 30, Voulliéme: Berlin
+          <lb/>2488.
+          <lb/>K 2560. Prov.: Don, de Fid. Butsch fils, Augsbourg, 1872. A
+          <lb/>l&amp;#x27;intérieur du 1er plat: «Leonardus Hayden.» Rel. anc. 308
+          <lb/>MEDIAVILLA. Voir: Richardus de Mediavilla.
+          <lb/>MELBER JOHANNES: Vocabularius praedicantium. (Stras¬
+          <lb/>bourg, imprimeur du Jordanus, (— G. Husner), s. d.l,
+          <lb/>in-4°.
+          <lb/>Hain 11034, Proctor 645, Voulliéme: Berlin 2471, Walter:
+          <lb/>Sélestat 326 l’attribue à Martin Flach, Strasbourg.
+          <lb/>K 2571b. Prov. inconnue. Au haut du titre: Conv. Wimp. Ord.
+          <lb/>Praed. «Au-dessous: Fr. Georgius St... (illisible) 1551.» 309
+          <lb/>MELBER JOHANNES: Vocabularius praedicantium. (Stras¬
+          <lb/>bourg, H. Knoblochtzer), 21 janvier 1482, in-4°.
+          <lb/>Hain 11038. Pellechet: Colmar 976, Voulliéme: Berlin 2211.
+          <lb/>Schorbach-Spirgatis, Knoblochtzer N° 13.
+          <lb/>K 2572a. Prov.: Don du prince de Bentheim, 1872. Au recto
+          <lb/>du 1er f.: «Hic liber pertinet Johanni Reyser, est possessor
+          <lb/>hujus libri, Anno 1562.» Notes mss. Au recto du dernier f.
+          <lb/>blanc: «Sebastianus Ziegler est verus dominus hujus libri.
+          <lb/>Anno domini 1560, Emptus sum pro 1 baz.» Au-dessous:
+          <lb/>«Hainricus Reisser est possessor hujus libri Anno domini
+          <lb/>1562.» Au verso: «Joannes Moeg Capellanus. Anno 1555.»
+          <lb/>Rel. anc.
+          <lb/>310
+          <lb/>MELBER JOHANNES : Vocabularius praedicantium. Stras¬
+          <lb/>bourg, (J. Prüss), 1er juin 1486, in-4°.
+          <lb/>Hain 11040, Proctor 516, Voulliéme: Berlin 2342.
+          <lb/>K 2572c. Prov.; Recteur Müller, Quedlinbourg, 15. V. 1889.
+          <lb/>Au-dessus du titre: «Coenobij Benedictinorum Montis S.
+          <lb/>Joannis.» Plus bas d’une autre main: «Ad usum fratrum Min.
+          <lb/>Capucinorum.» Rel. anc.
+          <lb/>311
+          <lb/>MELBER JOHANNES: Vocabularius praedicantium. Stras¬
+          <lb/>bourg, J. Prüss, 1488, in-4°.
+          <lb/>Hain 11041, Proctor 539, Schmidt III, 22, Voullième: Ber¬
+          <lb/>lin 2348.
+          <lb/>K 2573 (2). Prov.; Reintgens, Strasbourg, 24. VIII. 1888, 8 M.
+          <lb/>A la suite de: Vocabularius Exquo. K 3773 (1). Rel. anc. 312
+          <lb/>66
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

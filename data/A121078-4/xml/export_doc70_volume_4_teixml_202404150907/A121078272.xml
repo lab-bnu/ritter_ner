@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:50.359915+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078272.tif
+IMAGE WIDTH: 2308
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1158
+          <lb/>PAULUS Aegineta
+          <lb/>Strasbourg, M. Schurer 1511
+          <lb/>PAVLI AEGINATAE PRAECE PTA SALVBRIA GVILI! ELMO
+          <lb/>COPO BASI LEIENSI INTER! PRETE.
+          <lb/>A la fin: Argentorati ex Aedibus Mathiae Schurerii
+          <lb/>xii Maii! ANN. M. D. XI. I CONRADO DVNTZENHE! MIO. HI. DIC¬
+          <lb/>TATORE ARGENTORAT. REGNANTE Imp. Caes. Maximi¬
+          <lb/>liano P. F. AUG.
+          <lb/>rant, init. à fig. Q avec le buste d’une jeune fille et init. d’attente.
+          <lb/>In-40, car. rom., 39 ff. non ch., sign. A-G, 1 f. blane, titre cou¬
+          <lb/>Fol. A 3a: Ad... patrem, dominum Germanum de Ganay Caduri¬
+          <lb/>censem episcopum, Guilielmi Copi Basileiensis... Praefatio.... Ex Parisio¬
+          <lb/>rum! lutecia. xiiü. Kalendas Aprilis. Anno. M. D.X.
+          <lb/>*R101509. Prov. inconnue.
+          <lb/>Proctor II Sectio I n° 10187: Londres, Brit. Museum: Schmidt
+          <lb/>VIII n° 54: Jadis Bibl, de Strasbourg, Incun, n° 3644 et BM Sélestat.
+          <lb/>Walter: Sélestat n° 543.
+          <lb/>BM Strasbourg.
+          <lb/>1800
+          <lb/>PAULUS Aegineta
+          <lb/>Strasbourg, G. Ulricher 1531
+          <lb/>PAVLI AEGI-(NETAE PHARMACA SIM- plicia, Othone Brun¬
+          <lb/>felsio interprete. IDEM DE RATIONE VICTVSGulielmo
+          <lb/>Copo Basiliensi interprete. (Marque typ. de G. Ulricher. HEB
+          <lb/>Planche XXII n° 3; Silvestre n° 735.)
+          <lb/>In Paulum Aeginetam De! Simplicibus, iuxta ac de Ratione Victus,
+          <lb/>Index tum utilis, tum necessarius. (Feuille de lierre. Verso blanc.)
+          <lb/>A la fin: ARGENTORATI EXCVDEBAT! GEORGIVS VLRICHER
+          <lb/>ANDLANVS, ANNO] M. D. XXXI.Mense Sept. (Verso
+          <lb/>blanc.)
+          <lb/>In-80, car. ital., 11 ff. non ch., 86 ff. ch. et 2 fr. blancs, au verso
+          <lb/>du dernier f. même marque typ. qu’au titre; titre courant, réclames, de
+          <lb/>mombreuses init. à fig.
+          <lb/>Fol. A 2a :... Dominis D.Othoni &amp;amp; Volphgango Comiti- bus à
+          <lb/>Solms, duarum insigni- um Ecclesiarum, Argenti-nensis &amp;amp; Colonïensis,
+          <lb/>Canonicis... Otho Brunfe-sius... — Argentorati Ca- lend. Septemb.
+          <lb/>An..... Millesimo quin! gentesimo trigesimo-! primo. (Epistola nuncupatoria.
+          <lb/>4 pp.) Suivent 18 pp. de table à 2 col.
+          <lb/>R101.510. Prov. inconnue.
+          <lb/>1801
+          <lb/>PAULUS Apostolus
+          <lb/>Strasbourg, H. Morhard 1521
+          <lb/>EPISTO LAE PAVLI APO stoli ad Graecam veritatem &amp;amp;
+          <lb/>ve terum Latinorum Codicum fidem recognitae per Eras¬
+          <lb/>mum Roterodamum Sa crae Theologiae pro- fessorem....
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

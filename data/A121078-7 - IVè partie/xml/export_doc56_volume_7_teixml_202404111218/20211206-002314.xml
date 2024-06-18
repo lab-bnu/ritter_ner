@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:09.753779+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002314.tif
+IMAGE WIDTH: 2504
+IMAGE HEIGHT: 3948
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>LIEDER (zwei schöne neue geistliche): Zewy schöne, neüwer
+          <lb/>geistlicher Lieder, Das erst, Ungnad beger ich nit von
+          <lb/>dir, O Gott wöllst mir... Das ander Lied, Soltu bey Gott
+          <lb/>dein wonung han und seinen Himmel erben... (grav.). —
+          <lb/>(T. B. S.) (Th. Berger, Strasbourg s. d.), in-8°,
+          <lb/>Heitz, p. 32; Wackernagel III, 535 : Hans Schlaffer et III,
+          <lb/>536 : Ludwig Hetzer.
+          <lb/>2395
+          <lb/>LIEDER (zwei schöne neue geistliche) : Zwey schöne newe
+          <lb/>Geistliche lieder. Das erste, Es ist vil wunders in der
+          <lb/>Welt... Dz ander Geistlich Lied, Ihr lieben Christen
+          <lb/>frewt euch nun... (grav.). — (Strasbourg, Th. Berger
+          <lb/>s. d.] in-8°.
+          <lb/>Heitz, p. 6; Wackernagel III, 1138 et III, 1032 : Erasmus
+          <lb/>Alberus.
+          <lb/>2396
+          <lb/>LIEDER (zwei schöne neue geistliche) : Zwey schöne newe
+          <lb/>Geistliche Lieder, Das erst, Ach Gott thu dich erbarmen,
+          <lb/>durch Christum deinen Son... Das ander, von dem
+          <lb/>Wolckenbruch, geschehen den XX. tag Aprilis, Jm 1562.
+          <lb/>Jar... (grav.). — (Auteur : Michel Föllel zu Gelnhausen
+          <lb/>Kürssner). — (Strasbourg, Th. Berger 1562), in-8°.
+          <lb/>Heitz, p. 56; Wackernagel III, 899 et IV, 289.
+          <lb/>2397
+          <lb/>LIEDER (zwei schöne neue geistliche) : Zwey schöne newe
+          <lb/>Geistliche lieder, Das erst, Von dem Frewlein von
+          <lb/>Samaria, bey Sanct Jacobs Brunnen wasser zu Schöpfen
+          <lb/>&amp;amp;c... Das ander Geistlich lied, Von der Bilgerfart, &amp;amp;c. —
+          <lb/>Strasbourg, Th. Berger (vers 1564), in-80.
+          <lb/>Wackernagel 862.
+          <lb/>2398
+          <lb/>LIEDER (Drei neue geistliche) : Drey neüwe Geistliche Lieder,
+          <lb/>Das erste, Ich habs gewagt gantz unverzagt, ausz
+          <lb/>göttlicher Liebe unnd trewe. Das ander Geistlich Lied.
+          <lb/>Es giengen drey Gespilen ausz zu dienen der heiligen
+          <lb/>warten ich... — [Strasbourg, Th. Berger s. d.), in-80,
+          <lb/>312
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

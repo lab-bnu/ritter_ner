@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:04.544922+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002117.tif
+IMAGE WIDTH: 2504
+IMAGE HEIGHT: 3942
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>gatoria, eorum scholiis Phil. Melan(chthon)... Item, in
+          <lb/>Aristotelis ethica... commentarii, eodem authore. —
+          <lb/>Haguenau, Jean Secer 1532.
+          <lb/>Bibl. Budapest : A. lat. 1383 (Communication de Mme Soury,
+          <lb/>Strasbourg); BU Fribourg-en-Br. : D 6047P (Communication
+          <lb/>de M. Rest).
+          <lb/>1367
+          <lb/>CICERO (De officiis) : Opus de Officiis, cum commentariis
+          <lb/>Viti Amerbachii. — Strasbourg, C. Mylius 1545, in-80.
+          <lb/>BN Paris : E 1532 (1); B U Fribourg-en-Br. : D 5081, h.
+          <lb/>(Communication de M. Rest).
+          <lb/>1368
+          <lb/>CICERO (De officiis) (Idem). — Strasbourg, Josias Rihel
+          <lb/>1582.
+          <lb/>B U Fribourg-en-Br. : D 5986i (Communication de M. Rest)
+          <lb/>[éd. Josias Rihel 1564 : Ritter, Rép, n° 522l.
+          <lb/>1369
+          <lb/>CICERO (De Oratore) : Dialogi de oratore. Eiusdem Orator
+          <lb/>ad Brutum. — Strasbourg, Jean Knobloch (1524),
+          <lb/>in-80.
+          <lb/>B U Fribourg-en-Br. : D 5944 (Communication de M. Rest);
+          <lb/>Schmidt VII, n° 278 : B M Colmar; Panzer 6, 105, 678.
+          <lb/>1370
+          <lb/>CICERO (De Oratore) : (Idem). — Haguenau, Jean Secer,
+          <lb/>mars 1530, in-80.
+          <lb/>B U Fribourg-en-Br. : D 5769f (Communication de M. Rest)
+          <lb/>éd. Secer 1525 : Ritter, Rép. n° 500).
+          <lb/>1371
+          <lb/>CICERO (Oratio) : Pro A. Cluentio Habita Oratio. —
+          <lb/>Strasbourg, Wendelin Rihel 1550.
+          <lb/>B U Fribourg: D 5840 (Communication de M. Rest). 1372
+          <lb/>CICERO (Oratio) : M. Tullii Ciceronis Oratio pro P. Sextio,
+          <lb/>in usum Academiae Argentinensis separatim excusa.
+          <lb/>Ex correctione Pauli Manutii, qui eam integritati suae
+          <lb/>115
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

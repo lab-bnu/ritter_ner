@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:05.163527+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3026.tif
+IMAGE WIDTH: 2346
+IMAGE HEIGHT: 3836
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>470
+          <lb/>R10.295. Prov.: Bibl. Wolfgang Menzel, Stuttgart, 1874.
+          <lb/>stadt Nr. 1156. GK: SB Berlin, UB Bonn, Göttingen, Greifswald,
+          <lb/>Stadtbibl. Strassburg 1201, Schmidt II, Nr. 135, Walter: Schlett¬
+          <lb/>Halle, Königsberg, Marburg,
+          <lb/>Bibliographie Eppendorff&amp;#x27;s: Schottenloher I, Nr. 5490 u. 5501.
+          <lb/>703
+          <lb/>EPPENDORFF Heinrich von
+          <lb/>Strassburg, J. Schott, 1540
+          <lb/>Türckischer Keyszer! Ankunfft, Kryeg vnd Handlung,
+          <lb/>gegen vnd wi der die Christen, bitz ynschlyesszlich vff
+          <lb/>den yetzt regyerenden Solymannum... (7 Zeilen.) Alles
+          <lb/>verdolmetscht durch! Heinrich von Eppendorff. Mit Keysz.
+          <lb/>Mt. Freyheit.
+          <lb/>M. CCCCCXL.1 Zà Straszburg bey Hans Schotten.
+          <lb/>20, Got. 4 unn. Bll. (Titel, Index, Widmung), 151 S., Titel¬
+          <lb/>einfassung: 10 Medaillons von Kaiserbüsten; Bl. 3: Bordüre mit dem
+          <lb/>kaiserl. Adler; Init, aus dem Totentanz-Alphabet, Kopftitel, Kustoden,
+          <lb/>Marginalien. Verfasser ist : Traut, Veit. Siehe: GK IV, Sp. 900.
+          <lb/>R 10.303. Prov.: Stud. Klein, Strassburg, 5. VI. 1888; 12 M.
+          <lb/>Schmidt II, Nr. 140. Gk: SB Berlin, UB Breslau, Göttingen.
+          <lb/>Königsberg.
+          <lb/>704
+          <lb/>EPPENDORFF Heinrich von, Plinii Natürlicher History 5 Bü¬
+          <lb/>cher... verteutscht. Siehe: PLINIUS, Natürlicher History...
+          <lb/>1543.
+          <lb/>EPPENDORFF Heinrich von, Dennmärckische Chronik, Siehe:
+          <lb/>KRANTZ Alb., Dennmärkische Chronik... 1545.
+          <lb/>EPPENDORFF Heinrich von. Siche: FLORIDUS, Kriegsübung.
+          <lb/>Strassburg, G. Messerschmidt, 1551. R10.405.
+          <lb/>EPPENDORPIUS. Siche: EPPENDORFF
+          <lb/>ERASMUS: Adagia
+          <lb/>Strassburg, Math. Schürer, 1509
+          <lb/>COLLECTANEA ADAGIO RUM VETERUM DESIDERH ERASMI
+          <lb/>ROTERODAMI! GERMANIAE DECORIS. EX SECVNDA RECOGNI¬
+          <lb/>TIONE.Addita est tabula in ipsius operis vestibulo a
+          <lb/>Schürerio con dita, quo dicto citius quaerenti quodvis
+          <lb/>occurat.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

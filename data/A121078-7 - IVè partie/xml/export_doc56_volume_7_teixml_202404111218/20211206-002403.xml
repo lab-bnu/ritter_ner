@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:11.954452+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002403.tif
+IMAGE WIDTH: 2518
+IMAGE HEIGHT: 3956
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>PETRUS, Hispanus : Tractatus duodecim... — (Strasbourg,
+          <lb/>Mathias Hupfuff 1515), in-40.
+          <lb/>Panzer 6, 72; Schmidt V, n° 127 : Bibl. Roy. Stuttgart.
+          <lb/>[Une éd. de Hupfuff 1511 et une de Knobloch 1514, voir
+          <lb/>Ritter, Rép, nos 1854 et 1855l.
+          <lb/>2876
+          <lb/>PETRUS, Hispanus : Tractatus parvorum logicalium... Petri
+          <lb/>Hispani per mag. Joh. Glogoviensem... — (Strasbourg,
+          <lb/>Jean Knobloch 1517), in-40.
+          <lb/>Panzer 6, 83, 477 : Schmidt VII, n° 147 : Olim bibl. Arg. 2877
+          <lb/>PETRUS, Hispanus. Voir aussi : JOHANNES Glogoviensis,
+          <lb/>n° 2153.
+          <lb/>PETRUS, Mosellanus : De ratione disputandi, praesertim
+          <lb/>in re theologica... — (Haguenau, Thomas Anshelm)
+          <lb/>(1519 21, in-40.
+          <lb/>Walter, n° 2019; Burg, n° 377.
+          <lb/>2878
+          <lb/>PETRUS, Mosellanus : Paedologia in puerorum usum
+          <lb/>conscripta &amp;amp; aucta... Dialogi pueriles Christophori
+          <lb/>Hegendorphini XII... — (Strasbourg, Jean Knobloch,
+          <lb/>décembre 1521), in-80.
+          <lb/>Panzer 11, 365, 595b; Schmidt VII, n° 223 : Bibl. S. Guillaume,
+          <lb/>Strasbourg, Bâle.
+          <lb/>2879
+          <lb/>PETRUS, Mosellanus : Tabulae de Schematibus et Tropis.
+          <lb/>A la suite de Rhetorica Philippi Melanchthonis... —
+          <lb/>Strasbourg, Christian Egenolph 1529, in-8° (n° 2658).
+          <lb/>2880
+          <lb/>PETRUS, Mosellanus. Voir aussi: ARISTOPHANES, n° 842;
+          <lb/>GREGORIUS Naziacenus, n° 1928 ; LUCIANUS, Marcus
+          <lb/>Annaeus n° 2428.
+          <lb/>PETRUS de Natalibus : Catalogus sanctorum. — Strasbourg
+          <lb/>1503, in-fol.
+          <lb/>Graesse IV, p. 648. (Une édition de M. Flach 1513 voir:
+          <lb/>Ritter, Rép. n° 1856).
+          <lb/>2881
+          <lb/>401
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

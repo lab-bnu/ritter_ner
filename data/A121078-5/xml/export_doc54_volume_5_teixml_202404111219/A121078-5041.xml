@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:50.147217+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5041.tif
+IMAGE WIDTH: 2404
+IMAGE HEIGHT: 3864
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>SERMONES Parati. Voir: PARATUS.
+          <lb/>SERMONES thesauri novi quadragesimales. Voir: PALUDANUS.
+          <lb/>SERMONES thesauri novi de sanctis. Voir: PALUDANUS.
+          <lb/>SERVETUS Michael
+          <lb/>(Haguenau, J. Secer), 1531
+          <lb/>De Trini— tatis Erroribus!! Libri septem.) Per Michaelem
+          <lb/>Serueto, aliâsReues ab AragoniaHispanum.
+          <lb/>Anno M. D. XXXI. (Verso blanc.)
+          <lb/>In-8°, car. ital., 119 ff. ch. et 2 ff. non ch. dont le dernier blanc, titre
+          <lb/>courant, réclames, notes marg., fol. 2a grande init. à fig. I. Au recto de
+          <lb/>l’avant-dernier f. blanc: Erratum (2 lignes.)
+          <lb/>R. 101.933. Prov. : Bibl. Reuss Strasbourg 12/xII, 1887, sans indic.
+          <lb/>de prix.
+          <lb/>Bibliographie. Voir : Schottenloher II, Nos 19893-19970; Earl Morse
+          <lb/>Wilbur, The two treatises of Servetus on the Trinity... [Harvard Theolo¬
+          <lb/>gical Studies XVI]. Cambridge 1932, 264 pp. in-8°.
+          <lb/>2120
+          <lb/>SERVETUS Michael
+          <lb/>(Haguenau, J. Secer), 1531
+          <lb/>De Trini- tatis Erroribus!! Libri septem. !! Per Michaelem
+          <lb/>Serueto, aliàs Reues ab Aragonia Hispanum.
+          <lb/>Anno M. D. XXXI. (Verso blanc.).
+          <lb/>(Réimpression du XVIIIe siècle).
+          <lb/>In-8°, car. ital., 119 ff. ch., 7 ff. blancs (au recto du dernier f. blanc,
+          <lb/>Erratum (2 lignes), titre courant, réclames, notes marginales, grande
+          <lb/>initiale à fig. I.
+          <lb/>R. 101.935 (1). Prov. : Bibl. Ch. Schmidt avec son ex-libris et l’annota¬
+          <lb/>tion suivante : « l’original des 7 livres de Trinitatis erroribus, ainsi que les
+          <lb/>dialogues, parut à Hagenau; il fut imprimé chez Jean Secer, l’éditeur
+          <lb/>fut le libraire Conrad Rous. (Mosheim, p. 18 et suiv.) Cet original est d’une
+          <lb/>extrême rareté. (Brunet, IV, p. 266.)
+          <lb/>» Il fut réimprimé au commencement du xVIIIe siècle, par les soins, dit¬
+          <lb/>on, de Georges Serpilius, surintendant ecclésiastique de Ratisbonne
+          <lb/>(Mosheim, p. 310). La réimpression est facile à distinguer de l’original;
+          <lb/>elle a le caractère moins maigre, le papier plus blanc, et sur le titre le
+          <lb/>mot Trinitatis est séparé par un seul trait tandis que sur l’original il est
+          <lb/>séparé par 2 traits assez distants l’un de l’autre. Trini–I] tatis; en outre
+          <lb/>aliàs est écrit avec un accent grave tandis que l’original a un accent
+          <lb/>circonflexe: aliâs, l’n qui commence le premier mot du 1er dialogue
+          <lb/>est autrement orné dans l’original que dans la réimpression.
+          <lb/>» fol. 83b, ligne 17 la réimpression d’un erratum Chhrstum; en géné¬
+          <lb/>ral, pour peu que l’on soit habitué à voir des impressions du XVIe s., on
+          <lb/>distingue sans peine les deux éditions.
+          <lb/>» La Bibliothèque de Strasbourg possède encore une autre réimpression
+          <lb/>des Dialogues, qui paraît plus récente que celle contenue en ce volume
+          <lb/>(R. 101.9351), le caractère en est beaucoup plus moderne. Les 7 livres
+          <lb/>sur la Trinité auraient-ils aussi été réimprimés une deuxième fois? Brunet
+          <lb/>paraît le supposer, il parle d’exemplaires où le mot Trinitatis est divisé
+          <lb/>ainsi : Trini-Il tatis, et d’autres où il est divisé comme ci-contre. [Trini-] Si
+          <lb/>l’édition avec les 2 traits a été faite simultanément avec celle des dialogues,
+          <lb/>1349
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

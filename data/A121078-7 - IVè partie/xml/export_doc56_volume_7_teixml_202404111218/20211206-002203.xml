@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:06.867851+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002203.tif
+IMAGE WIDTH: 2508
+IMAGE HEIGHT: 3980
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>der hochgelobten hymelischen Künigin Marie... —
+          <lb/>(Strasbourg, Jean Grüninger 1523), in-4°.
+          <lb/>Schmidt I, n° 198; Schottenloher 39.898. — BN Munich.
+          <lb/>1823
+          <lb/>GEBWILER, Hier. (Gravamina): Gravamina Germanicae
+          <lb/>Nationis. — Sélestat, Lazare Schürer 1518.
+          <lb/>Ritter, Hist. impr. app. 473.
+          <lb/>1824
+          <lb/>GEBWILER, Hier. : Gravamina Germanicae nationis. —
+          <lb/>Sélestat, Lazare Schürer vers 1519, in-4°.
+          <lb/>Schottenloher 37.534.
+          <lb/>1825
+          <lb/>GEBWILER, Hier. (S. Odilia) : Ein schöne wahrhafftig und
+          <lb/>hievor ungehörte hystorie des Fürstlichen stammens
+          <lb/>und härkommens der heiligen junckfrawen Otilie... —
+          <lb/>Strasbourg 1521, in-4°.
+          <lb/>Walter, n° 1359.
+          <lb/>1826
+          <lb/>GEBWILER, Hier. (Panegiris) : Panegiris Carolina... —
+          <lb/>Strasbourg, Jean Prüss 1529, in-4°.
+          <lb/>B U Marbourg. (Ritter, Rép. n° 942; éd. Prüss 1521). 1827
+          <lb/>GEBWILER, Hier. (Sermo) : Sermo ad Juvenes, qui sacris
+          <lb/>ordinibus iniciari, &amp;amp; examini se submittere petunt, cum
+          <lb/>epistola I. W.imphelingi) ad Hiero. Gebvilerum, &amp;amp;
+          <lb/>responsa eiusdem... (4 lignes). — (Impressum Argentinae,
+          <lb/>Mense Januario Anno M. D.XIX) (1519), in-80.
+          <lb/>Bibl. S. Guillaume Strasbourg.
+          <lb/>1828
+          <lb/>GEBWILER, Hier. (Syngramma) : Gravissimae sacrilegii ac
+          <lb/>contemptae theosebiae ultionis... exemplis syngramma...
+          <lb/>Ortum et originem imperialis Oppidi Hagenou, hactenus
+          <lb/>paucis notum, liminaris huius libelli epistola indicat... —
+          <lb/>Haguenau, Guillaume Seltz 1528, in-4°.
+          <lb/>Ritter. B M Strasbourg, n° 1071; Goedeke 112, p. 432, n° 6;
+          <lb/>Schmidt, Hist. litt. Il, p. 411, n° 271. Burg, n° 188.
+          <lb/>1829
+          <lb/>201
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

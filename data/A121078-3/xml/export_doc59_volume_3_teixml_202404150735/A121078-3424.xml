@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:13.924659+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3424.tif
+IMAGE WIDTH: 2414
+IMAGE HEIGHT: 3852
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>866
+          <lb/>JUD Leo
+          <lb/>Strassburg, Joh. Enobloch jun. 1530
+          <lb/>Apocryphi.Biblische Bücher so wiewol bey den
+          <lb/>Alten vnder! Biblischer Schrifft nit gezelt,! vedoch be¬
+          <lb/>werdt, nutzlich, vnd in hohem brauch.Newlich ver¬
+          <lb/>teütscht durch Leo, genant Jud. Die zwey letsten bücher
+          <lb/>Ezra. ij Tobias. iij Judith.ij Baruch.Das bûch
+          <lb/>der Weiszheit. vj Der weisz mann, Ecclesiastes genant.
+          <lb/>vij Die drey bücher Machabeorum. viij Die hystory Su¬
+          <lb/>sanne.ixDie hystory Bel zû Babel.
+          <lb/>Zû Straszburg bei dem jungen Hans Knobloch.! Anno
+          <lb/>Christi. M. D. XXX.
+          <lb/>20, Got., CXLIII num. Bll., Kopft., Kust., Marg., Init., Titel¬
+          <lb/>einfassung von Hans Baldung Grien mit dessen Monogr, in der linken
+          <lb/>Ecke der unteren Leiste. Die Einfassung kommt auch schon bei Kno¬
+          <lb/>bloch dem Alteren vor.
+          <lb/>Auf der Rücks, des Titelbl.: Gnad vnd Frid dem Christen¬
+          <lb/>lichen Leser.
+          <lb/>R 10.087 (3). Prov.: Bibl. des Prof. Ed. Reuss, Strassburg 1891
+          <lb/>mit dessen Exlibris. Stammt aus der Bibl. des L. H. Zorn von Plobs¬
+          <lb/>heim.
+          <lb/>Bibliographie siche: Schottenloher I Nr. 9528- 9534b. 1288
+          <lb/>JUDEN-ORDNUNG
+          <lb/>O. 0. 1526
+          <lb/>Der Jüden! Ordnung.
+          <lb/>Am Schluss: Zu vrkundt ist diese vn! ser für genommen
+          <lb/>satzung vnd ordnung, mit vnsern für-! getruckten Secreten
+          <lb/>versigelt vnd geben zu Ensiszheim, Amxxiiij. tag des
+          <lb/>Monats Julij... gezalt 1526. Jahre.
+          <lb/>40, Got., 6 unn. Bll., grosse Init. W.
+          <lb/>R102.331. Prov.: Bibl. Heitz, Strassburg. Handschr. Vermerk:
+          <lb/>Von der Regierung zu Ensisheim aufgesetzt anno 1526.&amp;quot;
+          <lb/>1289
+          <lb/>JUDEN-ORDNUNG
+          <lb/>O. O. 1547
+          <lb/>Die Jüden! Ordnung. ! M. D. XLVII.
+          <lb/>Am Schluss: Des zu urkunt mit vnsern furgetruckten
+          <lb/>Secreten versigelt vnd geben zu Ensissheim den xxviij tag
+          <lb/>des Monats Martij, Nach Christi... geburt gezalt funffzehen¬
+          <lb/>hundert viertzig vnd Siben jar.
+          <lb/>40, Got., 7 unn. Bll., Sign. A-B.
+          <lb/>R102.330. Prov.: Bibl. Heitz, Strassburg. Auf dem Titelbl.
+          <lb/>handschr.:,Von der Regierung zu Ensisheim.&amp;quot;
+          <lb/>1290
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

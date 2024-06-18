@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:55.610843+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5177.tif
+IMAGE WIDTH: 2346
+IMAGE HEIGHT: 3856
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>VALERIANUS Johannes Pierius Strasbourg, M. Schürer, 1513
+          <lb/>Pierii Valeriani De Hono-ribus illustrissimo ac reueren¬
+          <lb/>dissimo Gur ] censi Caesareo totius Italiae vicario urbem
+          <lb/>ingredienti habitisEpistola.
+          <lb/>Panegyris R. D. Matthei Episcopi Gurc.Per Ian. Fran.
+          <lb/>Vitalem Panor-mium, cum versiculis doctiss, viro! rum.
+          <lb/>Hieronymi Nogaroli Comitis ad Ma-ximilianum Aug.
+          <lb/>pro!! Vicentinis habita! Oratio.
+          <lb/>A la fin : Argentorati, in Aedib. Matthiae Schurerij( Seles¬
+          <lb/>tensis Mense Februario.Anno M. D. XIII.T.O.
+          <lb/>Au recto du f. suivant, marque typ. de Math. Schürer.
+          <lb/>(H. &amp;amp; B. Planche XII, No 2.)
+          <lb/>In-4°, car, rom., 14 ff. non ch., sign. A-C, init. d’attente. Au verso du
+          <lb/>titre : Beatus Rhenanus Matthiae Schürerio!! Municipi Suo S. D. P.... —
+          <lb/>Ex Basilea Quarto No- I1 nas Februarias Anno. M. D. xiij.
+          <lb/>&amp;quot;R. 100.648. Provenance inconnue.
+          <lb/>Proctor II, Sectio I, N° 10209 : Londres, British Museum; Schmidt
+          <lb/>VIII, No 95 : jadis Bibl. de Strasbourg, Incun. No 76 et Bibl. Bâle; Ritter,
+          <lb/>BM Strasbourg, N° 2128.
+          <lb/>2369
+          <lb/>VALERIANUS PIERIUS Johannes Strasbourg, J. Albrecht, 1534
+          <lb/>Apologia Ioan. Pierii Valeriani Be lunen. Medicum!
+          <lb/>familiae Rhetoris. Pro Sacerdotum Barbis.
+          <lb/>Sylva Epistolaris seu Bar-ba Ioan. Sapidi, propter argu¬
+          <lb/>menti cognationem adiecta.
+          <lb/>Argentinae ex Officina Ioan. Alberti. Anno
+          <lb/>M. D. XXXIIII. Mense Febr. (Verso blanc.)
+          <lb/>In-8°, car. ital., 44 ff. non ch., sign. A-E, titre courant, réclames, init.
+          <lb/>à fig. A, H, C; grav. sur bois : l’évêque Sapidus, au-dessus, Sylva Episto¬
+          <lb/>laris, seu !! Barba Io. Sapidi, en bas : Barba viri orna- Il mentum. La
+          <lb/>même grav. se trouve au verso du dernier f.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:10.969983+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002358.tif
+IMAGE WIDTH: 2480
+IMAGE HEIGHT: 3974
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>MELANCHTHON, Phil. (Elementa) : Elementa puerilia. —
+          <lb/>Haguenau (Valentin Kobian) août 1534, in-80,
+          <lb/>Burg, n° 312.
+          <lb/>2636
+          <lb/>MELANCHTHON, Phil. (Encomia mathem.) : Mathematicarum
+          <lb/>disciplinarum, tum etiam astrologiae encomia... —
+          <lb/>Strasbourg, 1537, in-80.
+          <lb/>BN Paris X. 17.135 (2).
+          <lb/>2637
+          <lb/>MELANCHTHON, Phil. (Epistola S. Pauli) : S. Pauli ad colos¬
+          <lb/>senses, Epistola, cum commentariis Philippi Melanch¬
+          <lb/>thonis iam ultimo ab ipso multis in locis recognitis
+          <lb/>atque locupletatis. — Haguenau (J. Secer 1529), in-8°.
+          <lb/>Burg, n° 307. (Ritter, Rép. n° 1526 : Scholia in Epistolam
+          <lb/>Pauli ad Colossenses, Haguenau, Secer août 1527). 2638
+          <lb/>MELANCHTHON (Exodus) : Ein Kleyne Auszlegung über das
+          <lb/>XX. Capitel Exodi, der zehen Gebott... M.D.XXV. —
+          <lb/>(Strasbourg, Wolfg. Köpfel] 1525, in-8°. (Encadrement
+          <lb/>de Köpfell.
+          <lb/>Bibl. St. Guillaume Strasbourg.
+          <lb/>2639
+          <lb/>MELANCHTHON, Phil. (Farrago) : Farrago Epigrammatum
+          <lb/>Philippi Melanchthonis et aliorum quorumdam erudi¬
+          <lb/>torum... — Haguenau, 1528, in-80.
+          <lb/>Goedeke 112, p. 92, n° 21 (1).
+          <lb/>2640
+          <lb/>MELANCHTHON, Phil. (Fürstenamt) : Von dem ampt der
+          <lb/>Fürsten... durch Ph. Melanchthon newlich im latein
+          <lb/>ausgegangen und jetzt verteutscht... — (Strasbourg,
+          <lb/>Sigismond Bund) 1540, in-40.
+          <lb/>Bibl. St. Guillaume Strasbourg; B N Vienne.
+          <lb/>2641
+          <lb/>MELANCHTHON, Phil. (Grammatica graeca) : Integrae graecae
+          <lb/>Grammatices institutiones... — (Haguenau, Th. Anshelm,
+          <lb/>août 1520), in-8°.
+          <lb/>Burg, n° 278.
+          <lb/>2642
+          <lb/>356
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

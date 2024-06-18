@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:06.099348+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3090.tif
+IMAGE WIDTH: 2316
+IMAGE HEIGHT: 3844
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>534
+          <lb/>80, 8 unn. Bll., 199 S., 24 unn. Bll. (Register), Kopft., Kust.,
+          <lb/>Titeldruck rot u. schavarz.
+          <lb/>Auf der Rücks, des Titelbl.: Wappen. Siehe Abb.
+          <lb/>Bl. A 2: Dem Wolgebornen her ren, herren Ernsten,
+          <lb/>Graue zû Holstein, Schaumburg vnd Sternen berg...
+          <lb/>7
+          <lb/>8
+          <lb/>Datum Strass- burg den 13. Junij, Anno 1571.! Gallus
+          <lb/>Etschen reutter der Artze-ney D. zû Strass-burg.
+          <lb/>Bl. A6: Hie volgendt die heylsa- men wasser nach
+          <lb/>ordnung. (Index.)
+          <lb/>Bl. A 8b: Wappen Etschenreutter&amp;#x27;s mit 2 Spruchbändern; auf
+          <lb/>dem linken: Gallus Etschenreuterus, auf dem rechten: Der Artznei Doc¬
+          <lb/>tor; zwischen denselben ein Mann (Brustbild), der mit beiden Händen
+          <lb/>einen Karst über seinem Haupte schwvingt; darüber die Jahreszahl 1571;
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

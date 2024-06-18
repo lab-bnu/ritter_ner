@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:34.743289+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2275.tif
+IMAGE WIDTH: 2294
+IMAGE HEIGHT: 3820
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>271
+          <lb/>Ioannes Sturmius. IOANNES CALVINVS HOMO ACVTIS¬
+          <lb/>SIMO IV-DICIO (8 lignes de J. Sturm sur Calvin et son Institution.)
+          <lb/>Additus est Index locupletissimus.
+          <lb/>Habacuc. 1. Quousque Domine.
+          <lb/>Marque typographique de W. Rihel. (HC B, Planche XXIX,
+          <lb/>No 3; Silvestre, No 740).
+          <lb/>A la fin: Argentorati per Vuendelinum Rihelium. Mense
+          <lb/>Martio. Anno M. D. XLV. (Verso blanc.)
+          <lb/>In-fol., car, rom. 22 ff. non ch., 505 p. ch., titre courant, récla¬
+          <lb/>mes, notes marginales, initiales ornées.
+          <lb/>Epitre au lecteur et préface, comme dans l’édition de 1539.
+          <lb/>Suivent 29 p. d’Index à 2 col.
+          <lb/>R10402. Prov.: Bibliothèque Reuss, 1887.
+          <lb/>Notes mes,, au bas du titre: Eadem haec Editio sic edita fuit Ar¬
+          <lb/>gentine Anno 1539, ita ut haec secunda sit editio. Nam prima edita fuit
+          <lb/>Anno 1534. Basileae vel Argentine.
+          <lb/>C’est une erreur, car la première édition a paru à Bâle en 1536,
+          <lb/>en outre cette édition est la quatrième, la 2e est de 1539, la 3e de 1543
+          <lb/>dont celle de 1545 (la quatrième) est une réimpression presque littérale.
+          <lb/>Au recto du f. de garde: Fuit hic liber Domini Philippi Streif de
+          <lb/>Lauenstein. Rel. anc.
+          <lb/>BU Fribourg en Br. N 239, do; GPB: Gœttingue BU, Greifs¬
+          <lb/>wald BU.
+          <lb/>Calvin, Opera Vol. I, Proll. p. XXXV.
+          <lb/>409
+          <lb/>CALVIN Iohannes
+          <lb/>Strasbourg, W. Rihel, 1545.
+          <lb/>PSYCHOPANNY- CHIA, OVA REFELLITVR Qvo-] rundam
+          <lb/>imperitorum error, qui ani-mas post mortem usque ad
+          <lb/>ulti-mum iudicium dormi- re putant.
+          <lb/>LIBELLVS ANTE SEPTEM annos compositus, nunc ta¬
+          <lb/>men pri- mum in lucem aeditus.
+          <lb/>Authore Ioanne Caluino.
+          <lb/>Marque typographique de W. Rihel. (HEB, Planche XXIX,
+          <lb/>No 3; Silvestre, N° 740.)
+          <lb/>ARGENTORATI PER WENDE-linum Rihelium. Anno
+          <lb/>M. D. XLV. (Verso blanc.)
+          <lb/>A la fin: Argentorati per Vuendeli- num Rihelium
+          <lb/>Mense Martio. AnNo 1545.
+          <lb/>Au verso du dernier f. blanc, marque typogr. de W. Rihel. (He
+          <lb/>B, Planche XXIX, N° 2).
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

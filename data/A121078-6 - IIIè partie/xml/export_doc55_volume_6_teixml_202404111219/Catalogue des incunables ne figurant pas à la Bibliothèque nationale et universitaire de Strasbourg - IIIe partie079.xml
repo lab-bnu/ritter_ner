@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:06.325211+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie079.tif
+IMAGE WIDTH: 2480
+IMAGE HEIGHT: 3918
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>MISSALE Vratislaviense. — Strasbourg, (Martin Flach)
+          <lb/>17 décembre 1491, in-fol.
+          <lb/>Weale-Bohatta 1656.
+          <lb/>495
+          <lb/>MISSALE Wormatiense. — (Strasbourg, Jean Prüss vers
+          <lb/>1495), in-fol.
+          <lb/>Baer (Francfort s. M.), Catal. 500 (1905) n° 352 : « Allen Biblio¬
+          <lb/>graphen unbekannt... Es war uns nicht möglich ein zweites
+          <lb/>Exemplar dieses Buches nachzuweisen. Unser Exemplar
+          <lb/>stammt aus dem Kloster Wimpfen...».
+          <lb/>496
+          <lb/>MISsale speciale. — (Strasbourg, Jean Grüninger) 13. XI.
+          <lb/>1493, in-fol.
+          <lb/>Hain 11250 — Hain-Copinger 11251 — Hain 11043; Ritter,
+          <lb/>Grand Sém. Strasbourg n° 343, Madsen 2783, Voulliéme:
+          <lb/>Berlin 2287, Weale-Bohatta no 1468.
+          <lb/>497
+          <lb/>MISSAlE speciale. — (Strasbourg, Jean Prüss (?) pas après
+          <lb/>1494), in-fol.
+          <lb/>Hain 12248 (?); Ritter, Grand Sém. Strasbourg n° 345. 498
+          <lb/>MISSALE speciale. — (Strasbourg, Jean Prüss vers 1498,
+          <lb/>in-fol.
+          <lb/>Hain 11248 (?); Weale-Bohatta 1469.
+          <lb/>499
+          <lb/>MISsale speciale. — Strasbourg (Jean Grüninger) 15. X. 1498,
+          <lb/>in-fol.
+          <lb/>Hain-Copinger 11252 — Hain 14896, Nachträge 235; Weale¬
+          <lb/>Bohatta 1470; Ritter, Grand Sém. Strasbourg n° 344. 500
+          <lb/>MISSAlE speciale Basiliense. — (Strasbourg, Jean Prüss vers
+          <lb/>15001, in-fol.
+          <lb/>Hain 11248, Polain 2741, Weale-Bohatta n° 1471.
+          <lb/>501
+          <lb/>Mopus latinitatis. — (Strasbourg, Martin Flach 1498), in-4°.
+          <lb/>Hain 6547; Schmidt VI, p. 14, n° 69 ; Bâle.
+          <lb/>502
+          <lb/>77
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

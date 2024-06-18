@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:33.644623+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2232.tif
+IMAGE WIDTH: 2296
+IMAGE HEIGHT: 3818
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>228
+          <lb/>2 ex. R 10.308. Prov.: Don de la Bibl. de Düsseldorf, 1871. Au
+          <lb/>haut du titre: Ex liberali donatione Joh. Christi Deussen monasterium
+          <lb/>Düsseldorpiense fratrum Minorum me possidet. Rel, anc.
+          <lb/>bourg, 1871. Au haut du titre: Monasterij Ranshouen.
+          <lb/>3 ex. R10.309. Prov.: Don de Fid. Butsch, antiquaire à Augs¬
+          <lb/>N° 849. GPB: Berlin SB, Breslau BU, Gœttinque B U, Greifswald
+          <lb/>Schmidt VI, No 9; Oxford, Bibl. Bodleiana : Walter : Sélestat
+          <lb/>BU, Kiel BU.
+          <lb/>342
+          <lb/>BUSTIS BERNARDINUS DE
+          <lb/>Haguenau, H. Gran, 1503.
+          <lb/>Defensorium Montis pieta tis Contra figmenta omnia
+          <lb/>emule falsitatis.
+          <lb/>A la fin: Euolat hoc climate prius inuisum Ex offici¬
+          <lb/>na industrij Henrici Gran ciuis Hagenawensis. Impensis
+          <lb/>circumspecti hone! stique archibibliopole Joannis Rynman
+          <lb/>de Oringaw Finemque nactum feliciter! Anno virginei par¬
+          <lb/>tus. 1503. In vigilia Natiuitatis gloriose virginis Marie
+          <lb/>theotoceos.
+          <lb/>In-fol., car. goth., 2 col., 52 ff. non ch., sign. a-g, titre courant,
+          <lb/>initiales d’attente.
+          <lb/>Au verso du titre : Reuerendissimo... Bernardino sacro¬
+          <lb/>sancte Rhomane ecclesie tituli sanctæ Crucis in Hie-rusalem
+          <lb/>presbytero Cardinali... Frater Bernardinus de Busti de
+          <lb/>Mediolano ordinis Minorum de obseruantia... — Milani
+          <lb/>pridie kl. Februarij Mcccc. xevij, (20 lignes.)
+          <lb/>fol. a 2a: Tabula Alphabetica. (6 pages.)
+          <lb/>fol. ¿ 7b: Conclusio hujus libri (10 vers). Au-dessous:
+          <lb/>Reuerendissimo... Fratri Hieronymo Torniello; ordinis
+          <lb/>Minorum de obseruantia... vicario generali dignissimo:
+          <lb/>Fra- ter Bernardinus de Busti... (6 distiques.) et Responsio
+          <lb/>eiusdem Reuerendissimi patris vicarij generalis. (6 distiques.)
+          <lb/>R 10.287. Prov.: Cromer, curé à Saverne, 23/VII. 1879.
+          <lb/>Annotation mss. au haut du titre: Bibliothecae Weissenaviensis.
+          <lb/>Rel. anc.
+          <lb/>2 ex. R 10.304.(3) Prov.: Don de la ville de Heilbronn, 1871.
+          <lb/>GPB. Berlin SB, Breslau BU, Gœttingue RU, Greifswald BU,
+          <lb/>Königsberg BU.
+          <lb/>343
+          <lb/>BUSTIS BERNARDINUS DE
+          <lb/>Haguenau, H. Gran, 1503.
+          <lb/>Rosarium Sermonum predicabi lium ad faciliorem
+          <lb/>predicantium commoditatem nouissime compilatum Jn quo
+          <lb/>quicquid praeclarum et vtile in cunctis sermonarijs vsque
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

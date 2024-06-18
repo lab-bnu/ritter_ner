@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:38.986271+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu138.tif
+IMAGE WIDTH: 2432
+IMAGE HEIGHT: 3858
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>[vers 1468/707. Biblia latina. 85.
+          <lb/>[pas après 1470). Biblia germanica. 91.
+          <lb/>[vers 1470).
+          <lb/>Clemens V: Constitutiones. 132.
+          <lb/>[vers 1470/21.
+          <lb/>Bonifacius VIII: Liber sextus Decretalium, 108.
+          <lb/>1471. 21. 11.
+          <lb/>Clemens V: Constitutiones, 133.
+          <lb/>1471.
+          <lb/>Gratianus: Decretum. 189.
+          <lb/>Ivers 1471).
+          <lb/>Petrus Lombardus: Sententiarum libri IV. 392.
+          <lb/>1472.
+          <lb/>Gratianus: Decretum. 190.
+          <lb/>1472. 15. 9.
+          <lb/>Justinianus: Institutiones. 276.
+          <lb/>1474.
+          <lb/>Ludolphus de Saxonia: Meditationes vitae Jesu
+          <lb/>Christi. 290.
+          <lb/>1474. 10. 10.
+          <lb/>Tudeschis Nic.: Consilia. 463.
+          <lb/>Lpas après 14741. Bonaventura: Soliloquium. 107.
+          <lb/>[vers 1474).
+          <lb/>Gallus: Dialogus Malogranatum. 176.
+          <lb/>[vers 1474).
+          <lb/>Gregorius I. Magnus: Dialogorum libri quatuor.
+          <lb/>193.
+          <lb/>1475.
+          <lb/>Andreae: Quaestiones mercuriales super regulis
+          <lb/>juris. 23.
+          <lb/>[vers 1475).
+          <lb/>Bernardus Clarav.: Epistolae. 76.
+          <lb/>[vers 14751.
+          <lb/>Cinus de Pistorio: Lectura super codicem. 131.
+          <lb/>[pas après 1475). Cyrillus (Pseudo): Speculum sapientiae. 146.
+          <lb/>1478.
+          <lb/>Innocentius IV: Apparatus super V libros decre¬
+          <lb/>talium. 246.
+          <lb/>s. d.
+          <lb/>Eusebius: Historia ecclesiastica. 160.
+          <lb/>s. d.
+          <lb/>Ferrariis Joh.; Practica nova judicialia. 168.
+          <lb/>s. d.
+          <lb/>Hugo Pratensis: Sermones de tempore. 240.
+          <lb/>s. d.
+          <lb/>Ludolphus de Saxonia: Descriptio terrae sanctae.
+          <lb/>289.
+          <lb/>s. d.
+          <lb/>Nicolaus de Hanapis: Auctoritates utriusque testa¬
+          <lb/>menti. 342.
+          <lb/>s. d.
+          <lb/>Nicolaus de Hanapis: Auctoritates utriusque testa¬
+          <lb/>menti 343.
+          <lb/>s. d.
+          <lb/>Pontanus Lud.: Singularia in causis criminalibus.
+          <lb/>400.
+          <lb/>s. d.
+          <lb/>Psalterium latino-germanicum. 403.
+          <lb/>s. d.
+          <lb/>s. d.
+          <lb/>Seneca: De forma ac honestate vitae. 430.
+          <lb/>Thomas de Aquino: De universalibus, 452.
+          <lb/>FLACH Martin
+          <lb/>1487.
+          <lb/>Marchesinus Joh.; Mammotrectus, 298.
+          <lb/>1487.
+          <lb/>Paludanus: Sermones thesauri novi quadragesi¬
+          <lb/>males. 351.
+          <lb/>1487.
+          <lb/>Paludanus: Sermones thesauri novi de tempore.
+          <lb/>362.
+          <lb/>1487.
+          <lb/>Thomas a Kempis: De imitatione Christi. 456.
+          <lb/>1487. 10. 5.
+          <lb/>Guido de Monte Rotherii: Manipulus curatorum.
+          <lb/>202.
+          <lb/>1487. 20. 9.
+          <lb/>Cato: Disticha Catonis, 129.
+          <lb/>108
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:06.606617+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie100.tif
+IMAGE WIDTH: 2470
+IMAGE HEIGHT: 3934
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Hain 1417, Pellechet 1016, Proctor 717, Polain 3723, Ritter:
+          <lb/>B M Strasbourg 304 : Schmidt VI, p. 15, n° 76 : Colmar;
+          <lb/>Voulliéme : Berlin 2509, 15.
+          <lb/>646
+          <lb/>THOMAS de Aquino. Voir aussi: BoETHus n° 121.
+          <lb/>THOMAS a Kempis. Voir : IMITATIo Christi n° 352.
+          <lb/>THUERING von Ringeltingen. Voir : MELUSINE n° 469.
+          <lb/>TRACTAT : Ein tractat contra pestem Praeservative und
+          <lb/>Regiment. — (Strasbourg, Barth. Kistler 1500), in-4°.
+          <lb/>Graesse VI, p. 64; Schmidt IV, p. 5, n° 7. — B N Berlin,
+          <lb/>B U Fribourg en Br., Jadis Bibl. de Strasbourg, Incun, n° 3011.
+          <lb/>647
+          <lb/>TRACTATUS actionum. A la suite de : EXCEPTIONES legum
+          <lb/>Romanorum, (n° 252). — Strasbourg, Jean Schott
+          <lb/>4. XI. 1500, in-4°.
+          <lb/>G W 9493.
+          <lb/>648
+          <lb/>TRACTATUS de martyrio sanctorum. — (Strasbourg (?)],
+          <lb/>Bâle (?), s. d., in-fol.
+          <lb/>Hain 10864, Walter: Sélestat 482; Voulliéme : Berlin 501, 649
+          <lb/>TRACTATUS de sacra Scriptura. — (Strasbourg s. d.), in-fol.
+          <lb/>Hain 15592.
+          <lb/>650
+          <lb/>TRITTENHEIM, Johannes: Sermones et exhortationes ad mona¬
+          <lb/>chos. — Strasbourg, J. Knobloch 1486 (?), in-fol.
+          <lb/>Hain 15620. (Erreur. Knobloch n’imprimait pas pas avant
+          <lb/>1500l.
+          <lb/>651
+          <lb/>TRITTENHEIM, Johannes: De immaculata conceptione Beatae
+          <lb/>Virginis Mariae. — Strasbourg, Mathias Hupfuff, 1496,
+          <lb/>in-40.
+          <lb/>Hain 15640.
+          <lb/>652
+          <lb/>98
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

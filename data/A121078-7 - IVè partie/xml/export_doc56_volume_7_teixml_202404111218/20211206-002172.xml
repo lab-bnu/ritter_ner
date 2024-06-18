@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:06.034132+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002172.tif
+IMAGE WIDTH: 2506
+IMAGE HEIGHT: 3954
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>EURIPIDES : Phoenissae Euripidis, tragoedia latina metro
+          <lb/>versa a Georgio Calamino Silesio. — Strasbourg, Nico¬
+          <lb/>las Wyriot 1577, in-8°.
+          <lb/>Ritter, Hist. impr., app. 394 (n° 3).
+          <lb/>1664
+          <lb/>EURIPIDES : Troades cum interpretatione lat.... Phil Melanch¬
+          <lb/>thonis. — Strasbourg, Nicolas Wyriot 1578, in-80.
+          <lb/>Graesse II, p. 523.
+          <lb/>1665
+          <lb/>EURIPIDES. Voir aussi: HUNNIUs, Aegidius, n° 2085; RITTER,
+          <lb/>Rép. n° 819-821.
+          <lb/>EUSEBIUS. Voir : HAYMO (Enchiridion), n° 1959.
+          <lb/>EUSEBIUS Pamphilus. Voir : LIED (ein New) ausz der Histori
+          <lb/>Eusebii, n° 2335.
+          <lb/>EUSTACHIUS (Eustathius) : Ismenius. Histori von der Lieb
+          <lb/>des Jünglings Ismeni und der Jungfrawen Ismene aus
+          <lb/>dem Griechischen und Italienischen verteutscht. [Joh.
+          <lb/>Fischart). — Strasbourg, Bernard Jobin, 1573, in-80.
+          <lb/>Graesse II, p. 527; Goedeke II2, p. 492, n° 9. Hauffen:
+          <lb/>Fischarts Werke I, p. LXIV et éd. p. 377-383.
+          <lb/>1666
+          <lb/>EVANGELI : Teutsch Evangeli und Epistel... — (Strasbourg,
+          <lb/>Jean Knobloch 1519), in-fol.
+          <lb/>Schmidt VII, n° 186; Weller, 1180. (Ritter, Rép. n° 826 :
+          <lb/>éd. Th. Anshelm 1516l.
+          <lb/>1667
+          <lb/>EVANGELI : Teütsch Ewangeli und Epistel... Vom Latein in
+          <lb/>besser Teutsch gebracht. Mit lustigen Figuren vormals
+          <lb/>nie gesehen. New getruckt... — [Strasbourg, Martin
+          <lb/>Flach aux frais de Jean Knobloch 1522), in-fol.
+          <lb/>British Museum Londres C 37, L. 3 ; Ritter, Grand Sém.
+          <lb/>n° 154; Schmidt VI, n° 65 et VII, n° 250: Colmar, Consistoire;
+          <lb/>Weller Rep. 2062; Baer (Francfort-s.-M.), Catal. 500 (1907),
+          <lb/>n° 832 : 200 M.
+          <lb/>1668
+          <lb/>170
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

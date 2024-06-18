@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:07.205298+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3161.tif
+IMAGE WIDTH: 2310
+IMAGE HEIGHT: 3844
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>PROFES! sori Tubingensi... — Datae Constantinopoli, ferijs
+          <lb/>Natalitijs Christi... (7 unn. Bll.) Die 6 folgenden Bll, enthalten
+          <lb/>Epigramme, 2 Briefe sowie eine Widmung Frischlins an den Leser.
+          <lb/>R 100.9562. Prov.: H. Kerler, Wien 19. x. 1878.
+          <lb/>2. Ex. R 100.9552. Prov.: Lippert, Halle 8. XII. 1887.
+          <lb/>GK: SB Berlin (an W1258 mit Seitenzahl 105 auf dem Titelbl.,
+          <lb/>u. 2 abweichende Ex.). Diese Nr. 909 u. 910 sind wahrscheinlich Teile
+          <lb/>von Strigilis grammatica... Dialogi tres adversus Martinum quendam Cru¬
+          <lb/>910
+          <lb/>sium... M. D. LXXXVII.
+          <lb/>FRISCHLIN Nikodemus
+          <lb/>Strassburg, Bern. Jobin 1587
+          <lb/>OPERVM POETICORVM NICODEMI FRISCHLINI POETAE,
+          <lb/>ORATORIS ET PHILOSOPHI! pars scenica: in qua sunt, Co¬
+          <lb/>MOEDIAE QVINQVE. REBECCA, SVSANNA, HILDEGARDIS,
+          <lb/>IVLIVS REDIVIVVS, PRISCIANVS VAPVLANS. TRAGOEDIAE
+          <lb/>DVAE. I VENVS,! DIDO. Ex recentissima auctoris emenda¬
+          <lb/>tione.
+          <lb/>Druckerm. Jobins (HEB Tafel XXXVII Nr. 5 mit den Worten:
+          <lb/>Sapientia Constans).
+          <lb/>Darunter: Cum Priuilegio Caesario. Excudebat Bern¬
+          <lb/>hardus Iobin. (Rücks, leer.)
+          <lb/>80, Kursiv, 8 unn. Bll., 589 S., 1 unn. Bl., Kopft., Kust.,
+          <lb/>Marg., Init., 4 Holeschn. S. 367, 386, 406 u. einer hinter dem Prolog
+          <lb/>(2 Personen: Fides u. Fortitudo, die Virtus Germanica darstellend).
+          <lb/>Bl. 2-3: Widmung Frischlins an den König Friedrich von Däne¬
+          <lb/>mark, Schweden usio, in lat. Dist.
+          <lb/>Bl. 4-5: Vorrede an den Leser.
+          <lb/>Von S. 531-589 Briefe, sowie lat. u. griech. Gedichte. Am Schluss:
+          <lb/>Errata typographica.
+          <lb/>R100.951. Herkunft unbekannt; einige handschr. Notisen.
+          <lb/>GK: SB Berlin, UB Bonn, Göttingen, Marburg.
+          <lb/>1i
+          <lb/>FRISCHLIN Nikodemus
+          <lb/>Strassburg, Bern. Jobin 1589
+          <lb/>OPERVM POETICORVM NICODEMI] FRISCHLINI POETAE,
+          <lb/>ORATORIS ET PHILOSOPHI pars scenica: in qua sunt, Co¬
+          <lb/>MOEDIAE SEX. ] REBECCA. SVSANNA. HILDEGARDIS. IVLIVS
+          <lb/>REDIVIVVS.] PRISCILIANVS VAPVLANS. HELVETIO GERMANI
+          <lb/>TRAGŒDIAE DVAE.  VENVS. DIDO. Ex recentissima Auc¬
+          <lb/>toris emendatione. Darunter Druckermarke Jobins (HE B Tafel
+          <lb/>XXXVII Nr. 5 mit den Worten: Sapientia Constans). Darunter:
+          <lb/>Cum Priuilegio Caesario. Excudebat Bernhardus Iobin.
+          <lb/>Anno M. D. LXXXIX. (Rücks, leer.)
+          <lb/>605
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

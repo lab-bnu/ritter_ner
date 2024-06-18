@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:53.928579+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078380.tif
+IMAGE WIDTH: 2358
+IMAGE HEIGHT: 3856
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1266
+          <lb/>A la fin: per circumspectum virum Joannem Knoblouch
+          <lb/>impressa. Anno salutis nostrae: Millesimo quin gentesimo
+          <lb/>decimo octavo: pridie ka- lendas Martii, finit! feliciter.
+          <lb/>courant, init. d’attente.
+          <lb/>In-4°, car. goth., CXLV ff. ch. (verso du dernier f. blanc), titre
+          <lb/>R100.905. Prov.: BN Munich 31/1 1878; 2 M. De nombreuses
+          <lb/>annotations mss. Au f. du titre: Monasterii Aspacensis. A l’intérieur
+          <lb/>du ter plat : Duplum Bibliothecae regiae Monacensis.
+          <lb/>Schmidt VII n° 155: Jadis Bibl. de Strasbourg, incun, n° 4017.
+          <lb/>1975
+          <lb/>RECHENBÚCHLEIN
+          <lb/>Strasbourg, J. Pruss 1546
+          <lb/>Disz Rechenbûch! lin weisset ausz.
+          <lb/>Dem wein.
+          <lb/>Von
+          <lb/>Dem Zentner güt.
+          <lb/>Fierteil, sester und fierling.
+          <lb/>Dem stuck, was xii, oder
+          <lb/>i stuck thût.auff Martzal des jar gelts von ii sch, bis
+          <lb/>auff hun- dert pfundt.
+          <lb/>M. D. XLVI. (Verso blanc.)
+          <lb/>A la fin: Getruckt zû Straszburg bey Hans Preüssen.
+          <lb/>Anno. 1546.
+          <lb/>In-320, car. goth., 32 ff. non ch., sign. A-D. Au verso du der¬
+          <lb/>nier f., marque typ. de J. Pruss: un écusson vide, tenu par un génie
+          <lb/>ailé.
+          <lb/>R102427. Prov.: Bibl. Heite, Strasbourg 1871.
+          <lb/>Schmidt III, p. 43 n° 53.
+          <lb/>1976
+          <lb/>RECHNUNG
+          <lb/>Strasbourg, J. Knobloch 1518
+          <lb/>In diesem biechlin seind dise Rechenung gesetzt,
+          <lb/>und vahet die erst von eim halben gülden gelts an, Und
+          <lb/>weret biss uff hundert gulden, was das wochen und tags
+          <lb/>bringet nach martzal. Die ander Rechenung vahet an
+          <lb/>von! ii. sz. e gelts und weret biss uff hundert! liber. was
+          <lb/>das wochen und tags bringtnach martzal. Die drit re¬
+          <lb/>chenung ist. Das füder- moss uff xxiiii, omen, und ein omen
+          <lb/>xxiiii moss. Den gülden für, xi. schilling ?.Die vierd
+          <lb/>rechenung. Die Marck! umm Ix. gülden, wie das lot, das
+          <lb/>halb lot, das quintlin, und halb quintlin kumpt! biss
+          <lb/>uff. xcii, güldin. Als uff Straszbur ger werung zu ver¬
+          <lb/>ston. Seind vormols nie also getruckt. (Verso blanc.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

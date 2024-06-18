@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:06.089454+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3089.tif
+IMAGE WIDTH: 2316
+IMAGE HEIGHT: 3844
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>dentissimis, HENR. STEPH. s. d.... — E vestra Argentina,
+          <lb/>Anno 1596. postridie suppurationis partis reliquae apo¬
+          <lb/>stematis. (2 S., Kursiv.)
+          <lb/>R102.251. Herkunft unbekannt.
+          <lb/>807
+          <lb/>ETSCHENREUTER Gallus
+          <lb/>Strassburg, Chr. Müller 1571
+          <lb/>Z0S
+          <lb/>50
+          <lb/>e
+          <lb/>de
+          <lb/>bnô Gunnen  latur/trafft,
+          <lb/>tugenot/ vno rourclung! so itt
+          <lb/>Leurschlanden befanbt vno
+          <lb/>erfabien.
+          <lb/>Bescmiben in Ceurscher spracbsourch
+          <lb/>Gallum Etschenreũtterum,der Arunen
+          <lb/>Poctorzũ Gtrofburg.
+          <lb/>583
+          <lb/>Cum gratia &amp;amp; Priuilegio Cœsarco.
+          <lb/>Gerrncltzu Strafburg.
+          <lb/>(elley Seccis Dal Milen dss
+          <lb/>Holeschnitt. Siche Abb.
+          <lb/>Am Schluss: Getruckt zû Strassburg bey
+          <lb/>Müller. 1571.
+          <lb/>Christian
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

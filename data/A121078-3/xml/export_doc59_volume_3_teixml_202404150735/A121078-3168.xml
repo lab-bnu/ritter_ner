@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:07.467999+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3168.tif
+IMAGE WIDTH: 2316
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>612
+          <lb/>HIS NOVISSIME ACCESSE- runt eiusdem Autoris Elegia
+          <lb/>in Ebrietatem: Epistolae duae, carmine elegiaco scriptae:
+          <lb/>&amp;amp; omnium penè Scriptorum Elenchus.Cum Gratia &amp;amp;
+          <lb/>Priuilegio Caes. Maiest.
+          <lb/>ARGENTORATI.Excudebant haeredes Bernh. Iobini.
+          <lb/>ANNO CIO. ID. XCVIII. (Rücks, leer.)
+          <lb/>80, Kursiv, 8 unn. Bll., 626 S., 3 unn. Bll., Kopft., Kust., Marg.,
+          <lb/>Init., Titeleinfassung (HRB Tafel XXXVII Nr. 6).
+          <lb/>Bl. 54: VERA EFFIGIES NICODEMI FRISCHLINI (Porträt Frisch¬
+          <lb/>lins, siche Abb. S. 611); darunter: Cùm noceant alij, Frischlinum
+          <lb/>toxica sanant:Dic, quid Mome velim? laudo tuos stimu¬
+          <lb/>los. S. F.
+          <lb/>R 100.9591, Prov. : Bibl. Ch. Schmidt 1895. S. 227 handschr.
+          <lb/>Notie, dass Julius Redivivus in Strassburg gespielt wurde: Collegio
+          <lb/>Argentinensi, die ij mense Novembr. Anno 166.. (die letste Ziffer ist leider
+          <lb/>durch Unachtsamkeit des Buchbinders abgeschnitten). Als Schauspieler
+          <lb/>werden angeführt: Graff Erffurd : Mercurius; L. Engelhard Arg. : Caesar;
+          <lb/>I. F. Leonhard Arg.: Cicero; J. G. Zittelin Arg.: Hermannus; P. L. Kunast
+          <lb/>Arg. : Eobanus; J. N. Kämpffer Arg. : Allobrox, muscator.; A. Rubner:
+          <lb/>Caminarius; F. Wieger Arg.: Pluto.
+          <lb/>Stadtbibl. Colmar. GK: SB Berlin, UB Bonn, Breslau, Greifs¬
+          <lb/>wvald, Halle, Kiel, Marburg.
+          <lb/>920
+          <lb/>FRISCHLIN Nikodemus
+          <lb/>Strassburg, B. Jobins Erben 1598
+          <lb/>OPERVM POETICORVM! NICODEMI FRI- SCHLINI, BALIN¬
+          <lb/>GENSIS, (2 Zeilen.)
+          <lb/>PARS EPICA: CONTINENS SEDECIM HERO-icorum car¬
+          <lb/>minum libros... (4 Zeilen.) qui nunc demum conjunctim
+          <lb/>... eduntur Operâ &amp;amp; studio M. GEORGHI PFLVEGERI, VL¬
+          <lb/>MANI. His DE TRIBVS MONARCHIIS ACCES-] serunt Elegiae
+          <lb/>decem ante hac nunquam visae. (3 Zeilen.
+          <lb/>ARGENTORATI. Excudebant haeredes Bernh. Iobini.
+          <lb/>ANNO CIO. ID. XCVIII.
+          <lb/>80, Antiq., 8 unn. Bll., 486 S., Kopft., Kust., Marg., Init,
+          <lb/>Titeleinfassung (HE B Tafel XXXVII Nr. 6).
+          <lb/>Bl. 2a-7a: Widmung Pflügers an den Fürsten August: ,Iuniori
+          <lb/>Brunsuicensium et Lunebur- gensium Duci... 14. Calendas Septembr. Anno
+          <lb/>Christi 1598.
+          <lb/>Bl. 7b : Epigramm von Josephus Lang Caesaremontanus über die
+          <lb/>Gedichte Frischlins,post ejus obitum edita&amp;#x27;, u. nachfolgende Einladung
+          <lb/>des Rektors der Universität Strassburg an die Studenten:
+          <lb/>Rector Academiae Argen- tinensis Melchior Iunius Wite-] bergensis,
+          <lb/>Eloquentiae Professor Studiosis S. D. Venit aliquot ante menses ad nos
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

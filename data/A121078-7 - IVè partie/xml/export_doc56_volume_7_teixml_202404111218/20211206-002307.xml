@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:09.500641+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002307.tif
+IMAGE WIDTH: 2514
+IMAGE HEIGHT: 3974
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>LIED (ein schönes, neues) : Ein schön neüw Lied, von einem
+          <lb/>Christlichen Prediger, Wie er von des Wort Gottes, ist
+          <lb/>verfolgt unnd getödt worden, und ein seligs End
+          <lb/>genommen hat... Ein ander Lied. Gottes gnad und sein
+          <lb/>Barmhertzigkeit. &amp;amp;c. (grav.). — (T. B.) (— Th. Berger,
+          <lb/>Strasbourg s. d.], in-8°.
+          <lb/>Heitz, p. 31; Wackernagel III, 495.
+          <lb/>2358
+          <lb/>LIED (ein schönes, neues) : Ein schön neüw Lidt, von der
+          <lb/>zerstörung Jerusalem, in des Hertzog Ernsts thon.
+          <lb/>(grav.). — Getruckt zu Strasburg bey Thiebolt Berger
+          <lb/>s. d., in-8°.
+          <lb/>Heitz, p. 54.
+          <lb/>2359
+          <lb/>LIED (ein schönes, neues) : Ein schön neüw Lied vonn dem
+          <lb/>zug wider die Kron ausz Franckreich, ist auch darinn
+          <lb/>gemeldt die Statt Rambeuile, wie sie verbrant ist
+          <lb/>worden... (grav.). — Gedicht durch Wilhelm Wechter
+          <lb/>von Weinnenden. — [Strasbourg, Th. Berger s. d.],
+          <lb/>in-8°.
+          <lb/>Heitz, p. 66: « Liliencron IV 464 gibt eine Ausgabe von 1536»;
+          <lb/>Weller, Annalen I 144.
+          <lb/>2360
+          <lb/>LIED (ein schönes, neues) : Ein schön New Lied von der
+          <lb/>Statt Diettenhofen wie sie in dem 58. jar von den
+          <lb/>Franzosen belägert, beschossen, und erobert worden...
+          <lb/>(grav.). — (Strasbourg, Th. Berger 1558), in-8° (Auteur
+          <lb/>à la fin : Cornelius Metzler).
+          <lb/>Heitz, p. 63; Vogeleis, p. 295. Bibl. Consist. Colmar. 2361
+          <lb/>LIED (ein schönes, neues) : Ein schön neüw Lied : Wie man
+          <lb/>umb ein Krantz singt. — (T. B. S.) — Thiébaud Berger,
+          <lb/>Strasbourg vers 1570, in-fol.
+          <lb/>Vogeleis, p. 313.
+          <lb/>2362
+          <lb/>LIED (ein schönes, neues) : Ein schön New Lied, Von der
+          <lb/>erschröckelichen geschicht, welche sich zu Magdeburg
+          <lb/>305
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

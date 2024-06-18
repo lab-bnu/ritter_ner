@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:10.310903+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002333.tif
+IMAGE WIDTH: 2536
+IMAGE HEIGHT: 3964
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Ritter: B M Strasb, n° 1422; Schmidt II, n° 71; Clemens,
+          <lb/>Otto: Ein Strassburger Sammeldruck von 1523. Dans : Zeitschr.
+          <lb/>f. Kirchengesch. (N. F. vol. VI), 1924, p. 219-226.
+          <lb/>2496
+          <lb/>LUTHER (Ermahnung zum Frieden) : Ermanunge zum
+          <lb/>fride auff die zwelff artickel der Bawrschafft ynn
+          <lb/>Schwaben... — [Strasbourg, Wolfgang Köpfel] 1525,
+          <lb/>in-40.
+          <lb/>Horning, n° 92; Kuczynski, n° 1652; Weller 3495, Bibl.
+          <lb/>St. Guillaume, Strasbourg.
+          <lb/>2497
+          <lb/>LUTHER (An die Stadt Esslingen) : Meynen lieben Herren
+          <lb/>unnd freünden, in christo allen Christlichen burgern zu
+          <lb/>Eszlingen, von Martin Luther zugeschriben. Geben
+          <lb/>zu Wittemberg am Sonntag nach Dionisij. 1523. —
+          <lb/>S. 1. n. d. (mais avec l’encadrement de Prüss).
+          <lb/>Schmidt III, p. 38, n° 35 l’attribue à Prüss. Bibl. St. Guillaume
+          <lb/>Strasbourg.
+          <lb/>2498
+          <lb/>LUTHER (Exegesis) : In septimum primae ad Corinthios caput
+          <lb/>Exegesis. II. De matrimonio Sermo. III. Duorum de
+          <lb/>Matrimonio Thematum Analytica, nuper latina facta
+          <lb/>per Joannem Lonicerum. — Strasbourg 1525, in-8°.
+          <lb/>Horning, n° 100; Kuczynski, n° 1658.
+          <lb/>2499
+          <lb/>LUTHER (Contra Joh. Fabrum) : Adversus Joannem Fabrum
+          <lb/>Constantiensem Vicarium, scortationis patronum, pro
+          <lb/>coniugio sacerdotali, Justi Jonae defensio. — [Strasbourg
+          <lb/>(2), Martin Flach (?) 1 1523, in-80.
+          <lb/>Dommer, Lutherdrucke, no 371 : « Für den Drucker halte ich
+          <lb/>Martin Flach in Strassburg».
+          <lb/>2500
+          <lb/>LUTHER (Freiheit eines Christenmenschen) : Von der Freyhayt
+          <lb/>Aines Christenmenschen. Martinus Luther Vuittenbergae.
+          <lb/>Anno 1520. — (Strasbourg, Renatus Beck) 1520, in-4°.
+          <lb/>(Dans l’encadrement armoiries avec le monogramme de
+          <lb/>René Beckl.
+          <lb/>Kuczynski, n° 1405; Braune, Neudrucke, fasc. 18, p. VII : D.;
+          <lb/>Hiersemann (Leipzig), Catal, 557 (1925); 60 M.
+          <lb/>2501
+          <lb/>331
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

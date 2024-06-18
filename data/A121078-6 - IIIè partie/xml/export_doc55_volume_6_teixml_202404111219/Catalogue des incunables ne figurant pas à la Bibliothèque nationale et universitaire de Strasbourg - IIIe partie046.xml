@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:05.857129+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie046.tif
+IMAGE WIDTH: 2482
+IMAGE HEIGHT: 3932
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>G W 9531; Hain 6814; Pellechet 4701; Proctor 356;
+          <lb/>Voulliéme : Berlin 2203; Brit. Mus. Catal. I, 85. B U Bâle,
+          <lb/>BN Berlin, Munich, Vienne etc.
+          <lb/>265
+          <lb/>EYB, Albertus von: Margarita poetica. — (Strasbourg, impr.
+          <lb/>des Vitas patrum vers 1483/84, in-fol.
+          <lb/>G W 9533, Hain 6816, Pellechet 4700, Voulliéme : Berlin 387, 5.
+          <lb/>BN Berlin, Munich, Paris, Vienne etc.
+          <lb/>266
+          <lb/>FERRARIIS, Johannes Petrus de: Practica nova judicialis. —
+          <lb/>(Strasbourg, H. Eggestein, s. d.), in-fol.
+          <lb/>Hain 6984; Pellechet 4767 (met Moguntiae); Voulliéme:
+          <lb/>Berlin 2157.
+          <lb/>267
+          <lb/>FERRERIUS, Vincentius: Sermones de tempore. — Strasbourg
+          <lb/>1485, in-fol.
+          <lb/>Hain 7000.
+          <lb/>268
+          <lb/>FERRERIUS, Vincentius : Sermones de sanctis. — Strasbourg,
+          <lb/>impr. du Jordanus — G. Husner) 31. I, 1494, in-fol.
+          <lb/>Hain 7009, 3; Polain 3956; Voulliéme : Berlin 2451,7. 269
+          <lb/>FICINUS, Marsilius Florentinus : Epistolae. — Strasbourg
+          <lb/>1497, in-40. (?)
+          <lb/>Hain 7061.
+          <lb/>270
+          <lb/>FICINUS, Marsilius Florentinus : De triplici vita. —
+          <lb/>Strasbourg, J. Knobloch 1500, in-4°/ erreur de Schœpflin,
+          <lb/>la Ire édition est de 1511 par Schott.].
+          <lb/>Hain 7068.
+          <lb/>271
+          <lb/>FIDATI de Cassia, Simon : Expositio super totum corpus
+          <lb/>Evangeliorum. — (Strasbourg, Jean Prüss s. d.), in-fol.
+          <lb/>Hain 4557; Pellechet 3334; Polain 3544; Proctor 528;
+          <lb/>Voulliéme : Berlin 2373; Ritter, Grand Sém. Str. 434. 272
+          <lb/>FLISCUS, Stephanus: Sententiarum variationes seu Synonyma
+          <lb/>44
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

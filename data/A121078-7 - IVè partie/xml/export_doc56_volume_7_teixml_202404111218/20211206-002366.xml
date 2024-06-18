@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:11.087916+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002366.tif
+IMAGE WIDTH: 2510
+IMAGE HEIGHT: 3972
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>MICHAEL de Ungaria: (Idem). — (Strasbourg, Jean Knobloch
+          <lb/>11.XI.1516), in-80.
+          <lb/>Panzer 6, 78, 429; Schmidt VII, n° 122. [Ritter, Rép. n° 1574).
+          <lb/>2682
+          <lb/>MICHAEL de Ungaria : Sermones dominicales perutiles...
+          <lb/>Biga salutis intitulati. — (Haguenau, H. Gran pour
+          <lb/>J. Rynman, 10 septembre 1506), in-4°,
+          <lb/>Burg, n° 318. (Ritter, Rép. n° 1569 ; éd. Gran 1502). 2683
+          <lb/>MICHAEL de Ungaria : (Idem). — (Haguenau, H. Gran pour
+          <lb/>J. Rynman (13 octobre) 1506, in-40.
+          <lb/>Burg, n° 320.
+          <lb/>2684
+          <lb/>MICHAEL de Ungaria : (Idem). — Haguenau, H. Gran pour
+          <lb/>J. Rynman, 9 juillet 1516, in-4°.
+          <lb/>Burg, n° 322. (Voir aussi : Ritter, Rép, nos 1568-1574). 2685
+          <lb/>MICHAEL de Vratislavia : Introductorium dyalectice... —
+          <lb/>(Strasbourg, Jean Knobloch, 19 nov. 1515), in-4°.
+          <lb/>Panzer 6, 72, 372; Schmidt VII, n° 105: B N Berlin. 2686
+          <lb/>MICYLLUS, Jac. Voir: PSALM, n° 3029.
+          <lb/>MIEG, Karl. Voir: ABCONTREFEITUNG,.
+          <lb/>MILLER, Georg : Ein Christliche Predig Zu Ehren und schul¬
+          <lb/>digen Danckbarkeyt der Kirchen, der Statt und Schulen
+          <lb/>inn Straszburg gethon daselbst im Münster auf den 20.
+          <lb/>Augusti Anno M.D.LXXXIIII... — Strasbourg, Bernard
+          <lb/>Jobin 1585, in-4°.
+          <lb/>Ritter : B M Strasbourg, n° 1492.
+          <lb/>2687
+          <lb/>MILLICHIUS, J. Voir : PLINIUS, Secundus (Major), n° 2950.
+          <lb/>MIRAKEL : Dis ist ein ganz mirackel von eim geyst und
+          <lb/>364
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

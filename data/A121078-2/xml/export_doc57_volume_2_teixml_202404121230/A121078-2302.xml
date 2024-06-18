@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:35.571132+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2302.tif
+IMAGE WIDTH: 2304
+IMAGE HEIGHT: 3820
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>298
+          <lb/>Poésies de M. Paulus Crusius Molendinus, Petrus Linck Schmal¬
+          <lb/>chadensis Hennenbergiacus, Christophorus Furgang Olsnicensis Naris¬
+          <lb/>cus, Valentinus Glyeygalactus Chemnicensis Bohemus et Josephus Lang
+          <lb/>Caesarimontanus.
+          <lb/>R 102.288/5). Prov.: Bibliothèque Ch. Schmidt, Strasbourg.
+          <lb/>452
+          <lb/>CARMINA GRATULATORIA
+          <lb/>Strasbourg, Nic. Wyriot, 1583.
+          <lb/>CARMINA GRATV- latoria in honorem, eruditione,
+          <lb/>pietate, &amp;amp; modestia praediti Adolescentis, Michaëlis! Drev¬
+          <lb/>vischij Salzensis, cùm ei primus Philosophiae gradus, in
+          <lb/>inclyta, Argentoratensium Academia 8. Idus Iunij decer¬
+          <lb/>neretur, à spectabili viro D. M. Theo philo Golio Decano,
+          <lb/>Rectore Clarissimo &amp;amp; Do- ctissimo viro D. M. Melchiore
+          <lb/>lu-nio, Anno salutis humanae M. D. LXXXIII. CONS¬
+          <lb/>CRIPTA AB AMICIS. (Vignette).
+          <lb/>ARGENTORATI! Excudebat Nicolaus Wyriot.) 1583.
+          <lb/>In-4°, car. ital., 4 ff. non ch, sign. A, réclames.
+          <lb/>Poésies de M. Paulus Crusius Molendinus Hennenbergiacus, Mel¬
+          <lb/>chior Steinbruck Gothanus, Christophorus Furgang Olsnicensis Naris¬
+          <lb/>cus, Iohannes Fridericus Gernandus, Laurentius Nurnberger Sommer¬
+          <lb/>danus et Iohannes Franck Herbslebiensis Tyrigeta.
+          <lb/>R102 288(6). Prov.: Bibliothèque Ch. Schmidt, Strasbourg.
+          <lb/>453
+          <lb/>CARMINA GRATULATORIA
+          <lb/>Strasbourg, Nic. Wyriot, 1583.
+          <lb/>Carmina gratulatoria! IN HONOREM ET! laudem Honesti
+          <lb/>atque docti luue nis Matthaei Stolbergi Salzensis, cum ei
+          <lb/>prima Phi- losophiae laurea in celeberrima Argentinen¬
+          <lb/>sium Acade- demia (!); à doctissimo viro M. Theophilo
+          <lb/>Golio Deca- no, sub Rectoratu clarissimi doctissimique
+          <lb/>viri D. M. Melchioris Junij conferretur, Anno Christi
+          <lb/>1583. 8 Idus! Iunij, CONSCRIPTA AB AMICIS. (Vignette)
+          <lb/>ARGENTORATIExcudebat Nicolaus Wyriot, Anno
+          <lb/>M. D. LXXXIII.
+          <lb/>In-4°, car. ital., 4 ff. non ch., sign. A, réclames.
+          <lb/>Poésies de Christophorus Furfelderus Hanouiensis, Nicolaus Ga¬
+          <lb/>belmannus ex Megalopyrgo et Melchior Steinbruck Gothanus.
+          <lb/>R102.288.(7) Prov.: Bibliothèque Ch. Schmidt, Strasbourg.
+          <lb/>454
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

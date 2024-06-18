@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:48.922809+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5010.tif
+IMAGE WIDTH: 2420
+IMAGE HEIGHT: 3896
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1318
+          <lb/>verso du dernier f. blanc marque typ. de Cammerlander.
+          <lb/>(H. &amp;amp; B., Planche XXIV, No I; Silvestre, No 816.)
+          <lb/>In-40, car. goth., 48 ff. non ch., sign. A-M, réclames, notes marg., de
+          <lb/>fol. H 3a-L 4b, médaillons d’empereurs à la marge des pages, en tout 83.
+          <lb/>fol. A 2a-A 3b : Vorred zum Leser.
+          <lb/>fol. A 4a-A 4b : Ermanung zu den Für I] sten vnd Oberkeyten (en vers).
+          <lb/>Première partie en prose, deuxième partie en vers.
+          <lb/>R. 100.342. Prov. inconnue.
+          <lb/>Au verso du titre timbre des doubles de la Bibl. roy. de Berlin.
+          <lb/>Prix noté au crayon 9 M.)
+          <lb/>Bibliographie. Voir: Schottenloher II, n° 18465-18769. 2054
+          <lb/>SACROBUSTO Johannes. Voir : (VIELFELD Jacobus), Sphera
+          <lb/>materialis.
+          <lb/>Strasbourg, J. Cammerlander, 1533
+          <lb/>SADOLETUS Jacobus
+          <lb/>Haguenau, J. Secer, 1526
+          <lb/>Jacobi Sa!! doleti Episcopi! Carpentoractis! Interpretatio
+          <lb/>in Psalmum Mi ! serere mei Deus.
+          <lb/>Haganoae, per Iohan. Secerium. Anno M. D. XXVI.
+          <lb/>(Verso blanc.)
+          <lb/>In-8°, car. ital., 36 ff. non ch., sign. a-e, les deux derniers blancs, au verso
+          <lb/>de l’avant-dernier, marque typ. de J. Secer (H. &amp;amp; B. Planche LXX, n° 7,
+          <lb/>Silvestre, n° 683). Réclames, init. à fig. S.
+          <lb/>fol. a 2a : Iacobvs !] Sadoletvs Carpen !I toractis Io. Mat Il thaeo
+          <lb/>Giberto Episcopo Veronae...
+          <lb/>R. 101.161. Prov. : Don de la Bibl. municipale de Hambourg, 1871.
+          <lb/>Voir : Ritter, S. : Un umanista theologo Jacopo Sadoleto (1477-1547).
+          <lb/>Diss. Fribourg (Suisse). Rome, Francesco Ferrari, 1911, in-8°, 184 p.
+          <lb/>Bibliographie. Voir : Schottenloher II, n° 18781-18785a. 2055
+          <lb/>SADOLETUS Jacobus
+          <lb/>Strasbourg, J. Albrecht, 1535
+          <lb/>Iacobi] Sadoleti!] de liberis recte!] institvendis,!] liber.
+          <lb/>*1(Feuille de lierre). Verso blanc.
+          <lb/>A la fin : Argentinae apvd ioannem! Albertum, anno
+          <lb/>M. D. XXXV. Il mense martio.
+          <lb/>In-8°, car. ital., 64 ff. non ch., sign. A-H, titre courant, réclames, init.
+          <lb/>à fig. E. Au verso du dernier f., marque typ. de J. Albrecht. (H. &amp;amp; B.
+          <lb/>Planche XXV, n° 1.)
+          <lb/>fol. A 2a : Iacobi Sa Il doleti ad Gvlielmvm !! Bellaium Langeum...
+          <lb/>fol. H 6b-H 7b : Imago pveri iesv posita !] in ludo literario, autore
+          <lb/>Erasmo 1I Roterodamo.
+          <lb/>. R. 102.456 (4). Prov. : Don de la ville de Heilbronn, 1871. Notes mss.
+          <lb/>2056
+          <lb/>SADOLETUS Jacobus
+          <lb/>Strasbourg, W. Rihel, 1539
+          <lb/>Iacobi! Sadoleti Roma-ni Cardinalis Epistola ad Sena¬
+          <lb/>tum populumque Genuensem, qua in obe- dientiam Romani
+          <lb/>Pontificis eos! reducere conatur. Ioannis Caluini Responsio.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

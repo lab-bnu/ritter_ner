@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:43.193609+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078020.tif
+IMAGE WIDTH: 2370
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>904
+          <lb/>LE FEBVRE D’ESTABLES J. Voir: FABER Jacobus Stapulensis
+          <lb/>LEGENDA AUREA ou Legenda sanctorum. Voir: JACOBUS A
+          <lb/>VORAGINE
+          <lb/>LEGENDA
+          <lb/>Strasbourg, Bart. Kistler 1501
+          <lb/>Hec est quodam rara et ideo cara legen! da de sancta
+          <lb/>Anna. et de vniversa eius progenie, que genuit virginem
+          <lb/>mariam: dei matrem: quare et auia cristi dei filii appel¬
+          <lb/>lari meruit et esse. (Gravure: Ste. Anne et sa famille.)
+          <lb/>A la fin: Finitum et impressum fuit hoc opusculum anno
+          <lb/>gre. M.  ccccc. primo in alma ciuitate Argentinensi, per
+          <lb/>magistrum. Bartholo meum Kysteler in grüneck morantem.
+          <lb/>In-8°, car. goth., XLVIII ff. ch., initiales d’attente, 3 grav. de la
+          <lb/>Ste. Vierge d’un style très-ancien, fol. Va, XXIIIb, XXIVa.
+          <lb/>Au verso du titre: 13 vers latins et une prière à Ste. Anne.
+          <lb/>K 2355. Prov.: I. Bensheimer, Strasbourg 28/VII 1879; sans
+          <lb/>indie, de prix. Note ms. au verso du f. de garde: «Cette édition a été
+          <lb/>imprimée par B. Kistler d’après l’édition primitive de 1498 par M. Lotter
+          <lb/>in-4°, Leipzig.»
+          <lb/>Proctor II Sectio I n° 10.044: Londres, Brit. Museum; Schmidt
+          <lb/>IV, p.7 n° 16: Jadis Bibl. de Strasbourg, Incun. n° 3072.
+          <lb/>1349
+          <lb/>LEGENDE
+          <lb/>Strasbourg 1509
+          <lb/>DJs ist ein hübsche legende von der heiligen frawen
+          <lb/>sant Anna vnd auch von irem schlecht, welche Anna
+          <lb/>geboren hat die Mûtter Got tes die junckfraw Mariam.
+          <lb/>Deszhalber sie auch billig ge nant würt ein groszmûtter
+          <lb/>vnsers herren Jhesu Christi.
+          <lb/>Item auch würt hie nach in disem Büchlin begriffen
+          <lb/>das leben der heiligen Bischoff Eucharii, Valerii, vnd
+          <lb/>Materni die do dis teütsch land haben zû Cristen gelauben
+          <lb/>bracht, in welchem glauben wir alle selig sollen werden
+          <lb/>amen. (Gravure sur bois: au milieu sainte Anne assise, à ses pieds
+          <lb/>Marie encore enfant, à sa droite Salomé, à sa gauche Joachim et sa
+          <lb/>famille.
+          <lb/>A la fin:...Vnd ist getruckt zû Straszburg als man
+          <lb/>zalt tausent fünffhundert vnd neün jar.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

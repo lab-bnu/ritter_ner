@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:46.187311+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078126.tif
+IMAGE WIDTH: 2312
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1012
+          <lb/>MELANCHTHON Philippus : Oration oder Predig in der leich
+          <lb/>Doctor Martin Luthers gehalten. Voir: PLATINA, Historia
+          <lb/>von der Päpst und Kaiser Leben. Strasbourg 1546.
+          <lb/>MELANCHTHON Philippus
+          <lb/>Strasbourg, Crato Mylius 1546
+          <lb/>PHILIPPI ] MELANTHONIS PHILOSOPHIÆ Mo- ralis Epi¬
+          <lb/>tomes Libri duo emendati &amp;amp; aucti. ITEM. ENARRATIO ALI¬
+          <lb/>quot librorum Ethicorum Aristotelis, Pri-mi, Secundi, Tertii
+          <lb/>&amp;amp; Quinti, adintelligendum Aristote- lem utilis. EODEM
+          <lb/>Philip. Melant, autore.
+          <lb/>Argentorati apud Cratonem Mylium. ANNo M. D. XLVI.
+          <lb/>Cum Gratia &amp;amp; Privilegio Imp. &amp;amp; Regio. (Verso blanc.)
+          <lb/>A la fin: ARGENTORATI APVD ! CRATONEM MYLIVM, AN.
+          <lb/>M. D. XLVI. MEN-EMARTIO.
+          <lb/>In-8°, car. ital, et rom., 8 ff. non ch., 476 pp. et 2 ff. non ch.,
+          <lb/>dont le dernier blanc avec la marque typ. de Crato Mylius au verso
+          <lb/>(H &amp;amp; B Planche XXVIII n° 11; Silvestre n° 1266), titre courant,
+          <lb/>réclames, notes marg., init. à fig., feuilles de lierre.
+          <lb/>F. A 2a : Philippus Melanthon! Christiano, Pontano Vuite-] ber¬
+          <lb/>gensi... — Vuitebergae! M. D. XXVII. (14 pp.)
+          <lb/>P. 228: nouveau titre pour les Enarrationes.
+          <lb/>R100.857. Prov.: BN Munich 7/V 1877; 0,60 M. Au-dessus du
+          <lb/>titre : Ex Libris Caroli Klein montis S. Andechs.
+          <lb/>2ème ex.: R 100.878 (1) : Prov.: L. Rosenthal, Munich I7/II
+          <lb/>1897; 5 M. 50.
+          <lb/>1546
+          <lb/>MELANCHTHON Philippus
+          <lb/>Strasbourg, Crato Mylius 1548
+          <lb/>COMMENTARIVS DE ANI- ma PHILIPPO ME-] lanthone
+          <lb/>Authore. (Marque typ. de Crato Mylius. HAB Planche XXVII
+          <lb/>n° 8.)
+          <lb/>ARGENTORATI. M. D. XLVIII. (Verso blanc.)
+          <lb/>A la fin: ARGENTORATIN OFFI-cina Crato Myliana.
+          <lb/>M. D. XLVIII. Au verso, marque typ. de Crato Mylius. (HE B
+          <lb/>Planche XXVII n° 6; Silvestre n° 626.)
+          <lb/>In-8°, car. ital., 8 ff. non ch., 315 pp., 5 ff. non ch., dont les
+          <lb/>3 derniers blancs, titre courant, réclames, init. à fig. E, N.
+          <lb/>Fol. A 2a non ch.:... D. Hie- ronymo Bomgartnero Senatori
+          <lb/>Noribergensi, Philippus Melanthon S. D.... — Vitebergae. (Epistola
+          <lb/>nuncupatoria. 7 ff.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

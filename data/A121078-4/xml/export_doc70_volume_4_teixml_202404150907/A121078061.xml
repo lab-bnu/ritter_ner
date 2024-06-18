@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:44.241794+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078061.tif
+IMAGE WIDTH: 2342
+IMAGE HEIGHT: 3842
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1888/ n° 320: Titelbordüre und Typen weisen auf Thomas Anshelm in
+          <lb/>Hagenau hin. Titel und Text durchweg mit der wohlgeformten ziemlich
+          <lb/>grossen Antiqua aus Anshelm’s Ausgabe von Pici Mirandolae Oratio 1520...&amp;quot;
+          <lb/>1419
+          <lb/>LUTHER Martin
+          <lb/>Colmar, A. Farkall 1523
+          <lb/>AUszlegung der Epistelen und E¬ vangelien, die nach
+          <lb/>brauch der kir chen gelesen werden, durch den Advent,
+          <lb/>und dannenthin vom! Christag bisz auff den Sontag nach
+          <lb/>Epiphanie. Darinn reichlich anzeygt und fürge-bildet
+          <lb/>würt, was eim Christen menschen zû der seligkeit not
+          <lb/>ist zô wissen. D. Martinus Luther.
+          <lb/>Auch hastu ein klare underrichtung was man in dem
+          <lb/>Evangelio sûchen und leren! soll, mit einer schönen vor¬
+          <lb/>rede.
+          <lb/>Hier zû seind auch gesetzet! vil hübscher und schöner
+          <lb/>figuren, mit sampt ettlichen zûge- legten Evangelien,
+          <lb/>mer dann im vorgetruckten bûch, alles durch M. L.
+          <lb/>Hierauff ist auch gemacht! ein fleissig Register, darin ein
+          <lb/>yeder leichtlich finden mag! ynnhalt desz gantzen bûchs.
+          <lb/>Anno M. D. XXIII. In der Loblichen statt Colmar.
+          <lb/>A la fin: Getruckt und vollendet in der Loblichen statt
+          <lb/>Colmar, durch! Amandum Farckall, Nach der geburt Chri¬
+          <lb/>sti! M. D. xxiiï, uff den, xxvi. tag Augusti. (Au verso, Marque
+          <lb/>typ. de Farkall. H e B Planche LXXIII n° 1; Silvestre n° 903.)
+          <lb/>In-fol., car. goth., 22 ff. non ch., CCVII ff. ch., titre courant, notes
+          <lb/>marg. en car. ital., initiales à fig. et init. goth., titre encadré. (HCB
+          <lb/>Planche LXXIII n° 2); erreurs de pagination, après 92 viennent 49,
+          <lb/>50, 51, 52, 53, f. suivant sans pagination, puis vient 93 etc., 107
+          <lb/>manque, 108 deux fois, 141 deux fois, 172 au lieu de 162, 190 au lieu
+          <lb/>de 163, f. 203 ne porte pas de chiffre.
+          <lb/>12 grandes, belles grav. de la grandeur d’une page, qui ont pour
+          <lb/>la plupart la date 1523 et le monogr. VS qui se trouve aussi à l’en¬
+          <lb/>cadrement du titre; le monogr. ne se trouve pas chez Nagler; il ne peut
+          <lb/>pas s’agir de Virgil Solis, vu que celui-ci est né en 1514 seulement;
+          <lb/>fol. XVIIIP a en outre une grav. d’une demie page avec la date 1523,
+          <lb/>sans monogr., mais certainement du même graveur.
+          <lb/>Au verso du titre: ... Albrecht Graffen z6 Manszfelt, herren zû
+          <lb/>Schrappel und Heldrungen &amp;amp;c. meinem gnädigen herren,! Martinus
+          <lb/>Luther... — Geben in der wüsten am tag sanct Elisabeth.! M. D. xxi. (2 pp.)
+          <lb/>Suit: Ein kleyn vnderrichtung was man in den Euangeliis suchen vnd
+          <lb/>gewarten soll. (2 ff.)
+          <lb/>Fol. bb non ch.-dd5 non ch., table de 33 pp. à 2 col.
+          <lb/>947
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:37.235141+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2364.tif
+IMAGE WIDTH: 2344
+IMAGE HEIGHT: 3824
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>360
+          <lb/>fol. 7b non ch.: IDEM LECTORI BE-I NEVOLO S. P. D.... —
+          <lb/>Argentinae IV. Non. Martij M. D. XCIV, (2 p.)
+          <lb/>fol. 8b non ch.: AD MELCHIOREM IVNIVM RHETOREM CLA¬
+          <lb/>RISSIMVM, Christophori Coleri Fr. Epigramma. (5 distiques,
+          <lb/>vignette).
+          <lb/>1880. Au milieu du titre: Ex dono Parentis possidet Georg Christopho¬
+          <lb/>R 101693. Prov.: Bibl. St. Guillaume, Strasbourg, échange I0/VII.
+          <lb/>rus Fleckhammer 1677. Au recto du f. de garde: «Collegii Wilhelmitani¬
+          <lb/>et le timbre: Bibl. Wilh. Dupl. Rel. anc.
+          <lb/>GPB: BN Berlin, BU Breslau, Kœnigsberg, Munster. 538
+          <lb/>CICERO
+          <lb/>Strasbourg, I. Rihel, 1597.
+          <lb/>EPITOME PARTITIONVM ORATORIARVM M. T. I CICERO¬
+          <lb/>NIS, ET IOANNIS STVRMII, recognita, &amp;amp; perspicuis exem¬
+          <lb/>plis illustrata: M. IOANNE BENTZIO BRUXELLENSI.
+          <lb/>In vsum Scholae ARGENTINENSIS.
+          <lb/>Marque typ. de Josias Rihel. (HE B, Planche XXXII, NO 16).
+          <lb/>ARGENTORATICum gratia &amp;amp; Priuilegio Caesareo
+          <lb/>(Verso blanc.)
+          <lb/>A la fin: ARGENTORATI TYPIS IOSIAE RIHELII. M.D. XCVII.
+          <lb/>(Au-dessous: Vignette.)
+          <lb/>In-8°, car, rom., 8 ff. non ch., 158 p. ch. de nombreux ff. blancs
+          <lb/>intercallés, titre courant, réclames, petites initiales ornées.
+          <lb/>fol. A 2a: RECTOR, DE-CANVS, ET VISITATORES ACA¬
+          <lb/>DEMIAE ARGENTINENSIS. LECTORI BENEVOLO S. P. ... —
+          <lb/>Argentorati Prid. Calend. Maij: Anno CHRISTI M.D.XCIII.
+          <lb/>(Préface de 4 p.)
+          <lb/>fol. A 4a: D. IODOCO IOSEPHO, ET D. IOANNI LVDOVICO,
+          <lb/>TVRIANIS! Comitibus... — Argentorati. 14.! Kalend. Maij.
+          <lb/>Anno 1593. Ioannes Bentzius. (Dédicace de 6 p.)
+          <lb/>R101.223 (2) Prov.: Antiquaire Bordes, Strasbourg, 28/VI.1880;
+          <lb/>1 M. Rel, anc.
+          <lb/>GPB: BN Berlin, BU Gœttinque.
+          <lb/>539
+          <lb/>CIMBRIACUS. Voir: AEMILIANUS Quintus.
+          <lb/>CINGULARIUS. Voir: GÜRTLER.
+          <lb/>CITADINIS Paulus de. Voir: CITTADINI Paolo.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

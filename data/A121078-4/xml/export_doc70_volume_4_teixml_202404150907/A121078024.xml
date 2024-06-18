@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:43.259375+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078024.tif
+IMAGE WIDTH: 2368
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>908
+          <lb/>quàm accuratissimè illustratum, atque perpolitum.Ac¬
+          <lb/>CESSERUNT QUOQUE IN USUM TY-! ronum Indices duo locu¬
+          <lb/>pletissimi, Germanicolatinus, &amp;amp; Graecolati- nus, quorum
+          <lb/>uterquè integri dictionarii vicem implere potest. CM
+          <lb/>PRAEFATIONE IOANNIS STURMII. (Marque typogr. de Theod. Rihel.
+          <lb/>HÆB Planche XXXII n° 17.)
+          <lb/>Cum gratia et privilegio Caesareae Maiestatis.
+          <lb/>ARGENTORATI Excudebat Theodosius Rihelius, Anno
+          <lb/>M. D. LXXXX. (Verso blanc.)
+          <lb/>A la fin: IMPRESSUM Argentorati apud Theodosium
+          <lb/>Rihelium.
+          <lb/>Même marque typ. qu’au titre. Au-dessous: M. D. LXXXX.
+          <lb/>In fol., car. grecs, rom. et goth., 810 ff. non ch., 2 col. pour le
+          <lb/>dictionnaire et 3 col. pour les Index, titre courant, réclames, init. ornée
+          <lb/>pour chaque nouvelle lettre de l&amp;#x27;alphabet (A-Z). Réimpression de l&amp;#x27;édi¬
+          <lb/>tion de 1588 avec la préface de J. Sturm et de Th. Rihel.
+          <lb/>R 52. Prov.: Butsch, Augsbourg 12/x1883; 3 M.
+          <lb/>Au milieu du titre: «Cartusiae Buxheim» avec le timbre de la
+          <lb/>Bibl. de Buxheim.
+          <lb/>1554
+          <lb/>LEYE (Der). Voir: DIETENBERGER Johannes
+          <lb/>LIBALTUS Johannes
+          <lb/>Strasbourg, B. Jobin 1579
+          <lb/>Siben Bücher! Von dem Feld bau, und volkomme¬
+          <lb/>ner! bestellung eynes ordenlichen May-] erhofs oder Land¬
+          <lb/>guts.Etwan von Carolo Stephano und Jo- hanne Lieb¬
+          <lb/>halto, der Artzenei Doctorn, Frantzösisch beschrieben.
+          <lb/>Nun aber seines hohen nutzes halben, gemeynem Vatter¬
+          <lb/>land zu lieb, von dem Hoch-gelehrten Herren Melchiore¬
+          <lb/>Sebizio Silesio, derArtzenei Doctore, inn Teutsch ge¬
+          <lb/>bracht.
+          <lb/>Fernern Innhalt, was für sonderliche sachen und
+          <lb/>frembde Materien, durch das gan- tze Buch tractiert wer¬
+          <lb/>den, wird der gönstige Leser] hiernach gleich auff der
+          <lb/>anderen seit dises platts! summarisch zuvernemmen haben.
+          <lb/>Getruckt zu Straszburg bei B. Jobin 1579. Mit Röm.
+          <lb/>Kay. May. Freyheit.
+          <lb/>A la fin: Getruckt zu Straszburg bei Bernhard Jobin.
+          <lb/>1579. (Au-dessus: marque typ. de B. Jobin. H 4 B Planche XXXVII
+          <lb/>n° 7.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

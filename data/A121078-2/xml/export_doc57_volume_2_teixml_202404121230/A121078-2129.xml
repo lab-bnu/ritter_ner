@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:30.189617+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2129.tif
+IMAGE WIDTH: 2310
+IMAGE HEIGHT: 3826
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>125
+          <lb/>In-fol., car. goth., 4 ff. non ch., dont le 4e blanc, CXCVIII ff. ch.,
+          <lb/>le chiffre du dernier fol, par erreur CXCIIII, titre courant; les gravures
+          <lb/>sont presque toutes empruntées à l’édition de Grüninger de 1509.
+          <lb/>Fol. 2a non ch.: Index.
+          <lb/>Fol. I ch.: Dédicace de Boccace à Galeotto.
+          <lb/>R10.033. Prov.: Baer &amp;amp; Co (Vente Karajan, No 3918), Franc¬
+          <lb/>fort s. M., 2/VI. 1875; 31 M.
+          <lb/>208
+          <lb/>BOCCACCIO Giovanni
+          <lb/>Strasbourg, imprimerie Knobloch, 1551.
+          <lb/>CEnto Nouella JohannisBoccatij.Hundert newer
+          <lb/>Historien, welche ein erbar gesel- schafft, von dreien Män¬
+          <lb/>nern, vnnd siben Weibern, fliehent ein gross sterben z6t
+          <lb/>Florentz, zusamen geredt, jnen damit an lu- stigen enden,
+          <lb/>vff jren gesessen vnd grünen gärten, die trüb! selig zeit
+          <lb/>zû uertreiben, dem Hochgebornen Fürstenvnd Herrn,
+          <lb/>herr Galeotto, durch Johannem Boccatium, zugeschriben,
+          <lb/>kurtz- weilig zû lesen.(3 feuilles de lierre.)
+          <lb/>Au-dessous gravure sur bois comme dans l’édition précédente, dont
+          <lb/>le livre est une réimpression, mais plus scignée. (Verso blanc.).
+          <lb/>A la fin: Zù Strassburg, in Hans Knoblouchs Drucke¬
+          <lb/>rey. M. D. Ll. (Verso blanc.)
+          <lb/>In-fol., car. got., 3 ff. non ch. et CXCVIII ff. chi; les mêmes gra¬
+          <lb/>vures que dans l’édition de 1547.
+          <lb/>Fol. 2a non ch. : Registre.
+          <lb/>Fol. I ch.: Dédicace de l’auteur au prince Galeotto.
+          <lb/>R10.036. Prov.: J. Hess, Ellwangen, 20/XII. 1897; 35 M.
+          <lb/>Le titre et f. 76 qui manquaient ont été remplacés par des fac¬
+          <lb/>similés. Février 1898. Rel. anc. GPB: Berlin.
+          <lb/>209
+          <lb/>BOCCACCIO Giovanni
+          <lb/>Strasbourg, Paul Messerschmidt, 1561.
+          <lb/>Cento Nouella Jo-hannis Bocatij.Das ist Hundert
+          <lb/>Newer Historien, wel- che ein Erbare geselschafft, von
+          <lb/>dreyen Männern, vnd! siben Weibern, fliehende ein grosz
+          <lb/>sterben zu Florentz, zûsamen geredt, ¡nen damit an lustig
+          <lb/>zu enden, vff jren gesessen vnd grünen gärten, die trüb¬
+          <lb/>selig zeit zû vertreiben. Dem Hochgebornen Fürsten vnd
+          <lb/>herrn, herrn Galeotto, durch Johannem Boca- tium zûge¬
+          <lb/>schriben, kurtzweilig zà lesen.
+          <lb/>Mit vil schönen vnd lustigen figuren, mehr dann
+          <lb/>vor, namlich bey einer yeden historien sein besundere figur,
+          <lb/>hienzû gethon, auch mit mehrerm vnd besserem fleiss cor¬
+          <lb/>rigiert vnd gedruckt worden.
+          <lb/>Au-dessous: la même gravure sur bois que dans les deux éditions
+          <lb/>précédentes. (Verso blanc.)
+          <lb/>A la fin: Gedruckt zu Strasz-burg, in Paulus Messer¬
+          <lb/>schmidts Druckerey. M. D.LXI. (3 feuilles de chêne et une pièce
+          <lb/>d’encadrement.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

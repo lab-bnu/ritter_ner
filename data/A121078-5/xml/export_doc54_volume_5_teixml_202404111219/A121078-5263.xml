@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:58.716457+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5263.tif
+IMAGE WIDTH: 2418
+IMAGE HEIGHT: 3860
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1573
+          <lb/>ZEYTUNG
+          <lb/>Strasbourg, N. Wyriot, 1583
+          <lb/>Warhaffte vnd glaubwirdige Zeyttung.Von Hundert vnd
+          <lb/>vier! (vnd dreyssig Unholden. So vmb! jrer Zaubery halben,
+          <lb/>disz verschinen 1582. Jars,Gefencknus gebracht, vnd
+          <lb/>den 15. 19. 24. 29. October a r vnmenschliche thaten
+          <lb/>vnd gräwliche auszsag vnndBekandtnus, mit rechtem
+          <lb/>Urtheyl, zum Fewer verdampt vnd verbrennet worden,
+          <lb/>wie dann die Ort da sich solches alles verlauffen, ordenlich
+          <lb/>her- nach werden wermelt vnd] angezeygt. (Vignette.)
+          <lb/>Gedruckt zu Straszburg, bey Nicolaus Wiriod.Anno
+          <lb/>M. D. LXXXIII. (Verso blanc.)
+          <lb/>In-4°, car. goth., 4 ff. non ch., sign. A, réclames.
+          <lb/>R. 102.325. Prov. inconnue.
+          <lb/>Annotations mss. à l’intérieur du ler plat : « rarissimus ».
+          <lb/>2520
+          <lb/>ZIEGLER Clemens
+          <lb/>Strasbourg (J. Schwan?) 1525
+          <lb/>Ein fast schon büch- lin in welchem yederman findet ein
+          <lb/>hel-len vnd claren verstandt von dem leib vnd blut Chri-!
+          <lb/>sti. In welchem verstandt ein yeder gesettiget würtvnd
+          <lb/>einer rüwigen conscientz, bewert mit göttlich-er schrifft.
+          <lb/>durch Clemens Zyegler, Gartner zu Strassburg.
+          <lb/>A la fin : 1525.
+          <lb/>In-4°, car. goth., 28 ff. non ch., init. I ; fol. Aij, au commencement du
+          <lb/>1er chapitre Ziegler dit de lui-même : Ich Clemens Zyegler ein Gartner
+          <lb/>zu Strass!] burg, nit das ich ein Zyegler bin, sunder ein [] bawers man
+          <lb/>der auff dem feld arbeitet, als Il nemlich mit dem gartwerck...
+          <lb/>R. 102.379. Prov. : Bibl. Charles Schmidt.
+          <lb/>Bibliographie de Cl. Ziegler : Schottenloher II, Nos 22940-22941.
+          <lb/>2521
+          <lb/>ZIEGLER Clemens
+          <lb/>[Strasbourg, W. Koepfel?1 1524
+          <lb/>Ain Kurtz Register, vnd auszug der Bibel in wölchem!
+          <lb/>man findet was Abgöterey!! sey, vnnd wa man yedes !! suchen
+          <lb/>soll. Colligiert durch Clement zieg!] ler Gartner zu!] Strasz-]
+          <lb/>burg. 1524. (feuille de lierre.)
+          <lb/>A la fin : 1524.
+          <lb/>In-4°, car. goth., 4 ff. non ch., sign. A, titre encadré (en haut, au milieu
+          <lb/>génie ailé tenant un écusson entre 2 génies ailés; bandes latérales, colonnes;
+          <lb/>bande inférieure, de chaque côté un cerf couché, au milieu, un génie ailé
+          <lb/>tenant les bouts de 2 guirlandes qui montent à la bande supérieure. Voir:
+          <lb/>Götze A., Die hochdeutschen Drucker, Titeleinfassung, p. 166 : « Nach¬
+          <lb/>schnitt bei Köpfel, Strassburg, 1524, das Original ist Cranach u. Döring
+          <lb/>gehörig, Wittenberg 1523».
+          <lb/>R. 102.382. Prov. : Bibliothèque Böcking.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

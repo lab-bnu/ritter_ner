@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:09.059824+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002286.tif
+IMAGE WIDTH: 2492
+IMAGE HEIGHT: 3980
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>p. 66. Diehl, Heinrich, Die Dramen des Thomas Naogeorgus
+          <lb/>in ihrem Verhältnis zur Bibel u. zu Luther, Diss. München
+          <lb/>1915.
+          <lb/>2243
+          <lb/>KIRCHMEIER, Thomas (Naogeorgus) : Judas Icharioth.
+          <lb/>Deutsch durch J. Mercur Moerszheymer. — Strasbourg,
+          <lb/>Wolfgang Köpfel 1556, in-80.
+          <lb/>Graesse III, p. 24.
+          <lb/>2244
+          <lb/>KLAGE : Eyn jamerlich... Klage eines weltlichen sündigen
+          <lb/>sterbenden menschen... — (Strasbourg, Martin Flach
+          <lb/>116.1.1 1508), in-4°.
+          <lb/>Schmidt VI, p. 22, n° 15 (L’exemplaire de la BN de Strasbourg
+          <lb/>manque depuis 1914). Weller, Rep. 440; Ritter : Grand Sém.
+          <lb/>Strasbourg n° 299.
+          <lb/>2245
+          <lb/>KLAGELIED. Voir : LIED (ein Neu Klag Lied der Bauren)
+          <lb/>n° 2340.
+          <lb/>KLAG-UND-DANKLIED : Klag und danck-Lied, der Gemein zu
+          <lb/>Heydelberg. Uber der gewesenen Churf. G. tödtlichem
+          <lb/>abgang. Und der jetz regierenden hochtröstlichem
+          <lb/>anfang... (1er vers : Heydelberg hatt verloren). —
+          <lb/>[Strasbourg, Th. Berger s. d.), in-8°.
+          <lb/>Heitz, p. 41.
+          <lb/>2246
+          <lb/>KLARENBACH, Balthasar von. Voir : [VERSTEGHE), Johannes
+          <lb/>Anastasius.
+          <lb/>KLEE, Georg : Des Edlen... Helden Thedel Unvorferden von
+          <lb/>Walmoden... Thaten, viel... wunderbarliche Geschicht...
+          <lb/>— Strasbourg, Paul Messerschmidt (1560), in-8°.
+          <lb/>Goedeke II2, p. 322, n° 12.
+          <lb/>2247
+          <lb/>KLEE, G. Voir aussi : JovIus, Paulus no 2164.
+          <lb/>KLINGER, Bernard : Bernhard Klingers zu Enzheim in einer
+          <lb/>Stadt im Sundgau gelegen Gulden Paradiesz Apfel mit
+          <lb/>284
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

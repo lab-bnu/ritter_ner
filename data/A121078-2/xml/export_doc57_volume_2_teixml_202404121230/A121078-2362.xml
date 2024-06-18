@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:37.202713+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2362.tif
+IMAGE WIDTH: 2342
+IMAGE HEIGHT: 3824
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>358
+          <lb/>In-80, car. ital., 251 ff. ch. — 72 ff. non ch. (annotationes de
+          <lb/>Lambinus et index), titre courant, réclames, notes marginales, initiales
+          <lb/>ornées.
+          <lb/>Au verso du titre: TYPOGRAPHVS ad lectorem, (16 lignes.)
+          <lb/>fol. 1a CICERO VAR-S.D. (2 p.)
+          <lb/>Un second exemplaire de ce volume: C136.149. Prov.: Don de la
+          <lb/>Bibl. de Stuttgart, 1871.
+          <lb/>(Vol. VIII]: M. T. CICERO-N PHILOSOPHI-M
+          <lb/>PARS SECVNDA, CONTINENS, De Natura Deorum LibRos
+          <lb/>III. De Diuinatione LBr. Il. De Fato LiBr. I. De Legi¬
+          <lb/>bus LIBR. IIl. Fragmenta librorum Philosophicorum: quo¬
+          <lb/>rum nomina sequens pagina indicabit.
+          <lb/>EX DIONYS. LAMBINI EMENDATIONE.
+          <lb/>Marque typ. de Iosias Rihel, (Hdt B, Planche XXXII, NO 14).
+          <lb/>Au-dessous: CyM Priuilegijs Caesareae Mtis. &amp;amp; Regis
+          <lb/>Galliae.
+          <lb/>ARGENTORATI Impensis Iosiae Rihelij, &amp;amp; lacobi Du¬
+          <lb/>puys. M. D. LXXXI.
+          <lb/>In-80, car. ital., 232 ff. ch. — 48 ff. non ch. (Annotationes &amp;amp;
+          <lb/>Index).
+          <lb/>(Vol. IXI: M. T. CICERO-NS PHILOSOPHI- CORVM PARS
+          <lb/>TERTIA, QUAE CONTINET, De Officiis libros treis,
+          <lb/>(8 lignes.)
+          <lb/>EX DIONYS. LAMBINI EMENDATIONE.Accesserunt
+          <lb/>eiusdem Annotationes, seu animaduersiones.
+          <lb/>Marque typ., lieu d’impression etc. comme dans la Pars secunda.
+          <lb/>In-8°, car. ital., 149 ff. ch. — 46 ff. non ch. (Annotationes d
+          <lb/>Index), titre courant, réclames, notes marginales, de nombreuses initia¬
+          <lb/>les ornées.
+          <lb/>R101.665. Prov.: Vol. I. V, VI, VII Bibliothèque F. A. Menke,
+          <lb/>Brême, 1873. Ils ont à l’extérieur du 1er plat, en bas la date 1582,
+          <lb/>en haut les lettres GHRT; à Pintérieur, l’autographe de Christophe
+          <lb/>David Baier, alumnus Blabyrus; au f. de garde du 1er vol. on lit en
+          <lb/>outre: « Ex libris B. Ignatii Heim habitantis Renchae anno 1828. Le vol.
+          <lb/>II est un don de l’avocat Riegel, Fribourg en Br., 1871. Le vol. IV
+          <lb/>(R 101.910) est un don du prof. Dobschütz, Strasbourg, 24. XII.1907,
+          <lb/>sur une fiche collée au verso du f. de garde on lit: «Bibliotheca Publ.
+          <lb/>Basil, vendidit» et au bas du titre: «Bibl. Coll. Alumnorum». Les 2
+          <lb/>derniers vol., qui ont la cote O 136.149, proviennent de la Bibliothèque
+          <lb/>de Stuttgart qui les possédait en double.
+          <lb/>GPB. BU Greifswald, Breslau (manquent vol. 3 et 5), Kœnigs-
+          <lb/>berg (manquent vol. 8 et 9). — B U Fribourg (manquent vol. 1, 2, 4).
+          <lb/>536
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:32.803392+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2210.tif
+IMAGE WIDTH: 2282
+IMAGE HEIGHT: 3824
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>206
+          <lb/>In-fol., car. goth., CXXX ff. ch., tître courant, init. ornées et init.
+          <lb/>d’attente, titre rouge et noir, de nombreuses gravures, se rapportant à
+          <lb/>la distillation (1er livre) et à la botannique (Bième livre) herbes et fleurs.
+          <lb/>Ficinus, Buch des Lebens manque.
+          <lb/>Au verso du titre : Contenu du livre.
+          <lb/>R 10.412. Prov : Bibl. de l’Ancienne faculté de médecine de Stras¬
+          <lb/>bourg. Ex libris du professeur Jean Boeclerus.
+          <lb/>De nombreuses notes mss. A l&amp;#x27;intérieur de la couverture: Wendels
+          <lb/>Burgers zu Landawe 1523. Rel, anc.
+          <lb/>BN Paris, Te 146, 20. A; Schmidt I, No 184:, D’après le titre
+          <lb/>principal les deux ouvrages [Distillierbuch et Marsilius Ficinus] devaient
+          <lb/>former ensemble un volume, mais on les vendait aussi séparément.&amp;quot;
+          <lb/>311
+          <lb/>GPB: Breslau BU.
+          <lb/>BRUNSCHWIG Hieronymus
+          <lb/>Strasbourg, J. Grüninger, 1531.
+          <lb/>Das neüwe Distilier buoch Der rechten kunst, von
+          <lb/>Meister Jeronimo Brunschwig colligiert, zû distilieren,
+          <lb/>vsz allen Kreütern die wasser, mit einem leichtern sinn
+          <lb/>angezeygt vnnd vorab das Register gerechtuertiget. Auch
+          <lb/>das Bûch des hochberümbten Herrn Marsilij Ficini, das
+          <lb/>lang leben betreffend, vnnd sunst vil nützlicher stück.
+          <lb/>Deren so vil, das sye von manchem veracht, doch pro¬
+          <lb/>biert, vnd ve! lenger ye meer recht erfunden sein.
+          <lb/>Gravure sur bois: fourneau, sur lequel 3 appareils distillatoires.
+          <lb/>Au-dessous: Vnnd z6 merer besserung disz bûchs, so
+          <lb/>ist vsz Galieno, vnnd der alt berümbtenArtzten, hie
+          <lb/>durch den gantzen Herbarium ersûcht, durch alle Capitel
+          <lb/>vsserlesen, die besten stuck, vff das du den Herbarium
+          <lb/>darbey magst haben, so doch alle figu- ren im Distilier
+          <lb/>bûch stund. Würt hin zû truckt mitt Keyserlichem Priui¬
+          <lb/>legio, in dreyen jaren nit nach zû trucken, inhalt der
+          <lb/>brieff darüber. Datum vnd auszgetruckt vff Montag nach
+          <lb/>sanct Paulus Bekerung tag. Jm iar des Herrn M. D. xxxi.
+          <lb/>In-fol, car. goth., 2 col., CXXIV ff. ch. (erreurs de pagination,
+          <lb/>celle-ci commence avec les chiffres VII, VIII; IX manque, 19 pour 21,
+          <lb/>24 pour 25; 29 et 30 manquent; 104 pour 114), titre courant, réclames,
+          <lb/>de nombreuses initiales ornées et à fig., beaucoup de gravures, (appareils
+          <lb/>et plantes).
+          <lb/>fol. A 4a: Le disciple à son pupitre, devant lui un livre ouvert,
+          <lb/>la gravure est encadrée de 2 pièces latérales.
+          <lb/>fol. XXXa: un pharmacien et un disciple assis à une table, sur
+          <lb/>laquelle sont placés des flacons, au fond, une maison; le second livre
+          <lb/>contient de nombreuses gravures de plantes.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

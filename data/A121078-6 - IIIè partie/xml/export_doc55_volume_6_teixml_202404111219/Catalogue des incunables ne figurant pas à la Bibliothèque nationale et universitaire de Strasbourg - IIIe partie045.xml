@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:05.840704+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie045.tif
+IMAGE WIDTH: 2482
+IMAGE HEIGHT: 3932
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Pellechet 4667; Proctor 380; Schorbach-Spirgatis n° 24;
+          <lb/>Voulliéme : Berlin 2210. Brit. Mus. Cat. I, 89. B N Berlin,
+          <lb/>Munich, Vienne, B M Colmar etc.
+          <lb/>257
+          <lb/>EXHORTATION au clergé à propager l’indulgence au profit
+          <lb/>de la croisade contre les Turcs. — (Strasbourg, Jean
+          <lb/>Grüninger vers 15001, placard 80 x 145 mm.
+          <lb/>G W 2857 : Brit. Mus. Londres; Einblattdrucke 381 ; Brit.
+          <lb/>Mus. Cat. I, 170.
+          <lb/>258
+          <lb/>EXHORTATION (Idem). — (Strasbourg, Jean Grüninger
+          <lb/>vers 1500), placard 81 x145 mm.
+          <lb/>G W 2855 : Brit. Mus. Londres; Einblattdrucke 379; Brit.
+          <lb/>Mus. Cat. I, 171.
+          <lb/>259
+          <lb/>EXHORTATION (Idem). — (Strasbourg, Jean Grüninger vers
+          <lb/>15001, placard 80x 145 mm.
+          <lb/>G W 2858 : Brit. Mus. Londres ; Einblattdrucke 382 ; Brit.
+          <lb/>Mus. Cat. I, 171.
+          <lb/>260
+          <lb/>EXPOSITIO hymnorum. — (Strasbourg, Reinhard alias
+          <lb/>Grüninger vers 1488).
+          <lb/>Bohatta n° 653.
+          <lb/>261
+          <lb/>EXPOSITIO hymnorum. — [Haguenau, Henri Gran) 1493.
+          <lb/>Bohatta n° 676 ; Ritter, Rép. Inc. 166.
+          <lb/>262
+          <lb/>EXPOSITIO missae [éd. Vincentius Grüner) — (Strasbourg,
+          <lb/>impr. du Henricus Ariminensis vers 1476), in-fol.
+          <lb/>Cop. 2387; Reichling II, p. 167; Walter n° 192.
+          <lb/>263
+          <lb/>EXPOSITIO super canonem missae. — (Strasbourg, H.
+          <lb/>Eggestein 1494), in-4°.
+          <lb/>Hain 6796.
+          <lb/>264
+          <lb/>EYB, Albertus de : Margarita poetica. — (Strasbourg,
+          <lb/>G. Husner s. d., vers 1479), in-fol.
+          <lb/>43
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

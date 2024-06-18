@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:49.961008+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078261.tif
+IMAGE WIDTH: 2308
+IMAGE HEIGHT: 3844
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1147
+          <lb/>A la fin: Marque typ. de Chr. Muller. (HEB Planche XXVIII
+          <lb/>n° 1.) Au-dessous: Getruckt zu Straszburg, durch Christian
+          <lb/>Müller, Im Jahr M. D. LXXIIII.
+          <lb/>Ce sont 3 traités détachés de l’édition allemande des œuvres de
+          <lb/>1574, imprimées chez Ch. Muller, comprenant les pp. 327-492. In-8°,
+          <lb/>car. goth., 165 pp. ch. et 1 f. non ch., titre courant, réclames, notes
+          <lb/>marg., init. goth.
+          <lb/>R101.278. Prov. inconnue. De nombreuses notes mss. 1778a
+          <lb/>PARACELSUS Theophrastus
+          <lb/>Strasbourg, Chr. Muller 1575
+          <lb/>LIBRI XIIII. PARAGRAPHO- RVM PHILIPPI THEO- PHRASTI
+          <lb/>PARACELSI, Phi- losophi Summi, &amp;amp; utriusque medi- cinae
+          <lb/>Doctoris prestan- tissimi. Nunc primum a doctore Toxite
+          <lb/>in communem utilitatem integritati restituti, latinisque
+          <lb/>explicationibus qua fieri potuit diligentia, atque studio
+          <lb/>illustrati.Cum gratia imperiali ad decennium.
+          <lb/>Argentorati apud Christia-num Mylium. ANNo M. D.
+          <lb/>LXXV. (Verso blanc.)
+          <lb/>A la fin: Argentorati Excudebat Christianus! Mylius,
+          <lb/>in foro fru- mentario. ANNo M. D. LXXV. Au-dessus marque
+          <lb/>typ. de Chr. Mylius. (He B Planche XXVIII n° 1.)
+          <lb/>In-8°, car. ital, et rom,, 24 ff. non ch., 191 pp. ch., titre courant,
+          <lb/>réclames, notes marg., init. ornées.
+          <lb/>Fol. A 2a:... Ioanni Egol- pho Episcopo Augustano... Micaelus
+          <lb/>Toxites Rhoetus, medicinae doctor... Haganoe. Calendis Ianuarii. Anno,..
+          <lb/>millesimo, quingen- tesimo, septuage- simo quinto. (Préface de 11 fr.)
+          <lb/>Fol. b 6b: Toxites Lectori.
+          <lb/>R101.029. Prov.: Ackermann, Munich 19/XII1916, 18M.
+          <lb/>BN Paris. Sudhoff, 160.
+          <lb/>1779
+          <lb/>PARACELSUS Theophrastus
+          <lb/>Strasbourg, Chr. Muller 1575
+          <lb/>DE SECRETIS CREA-(TIONIS. Von Heimlig-keiten der
+          <lb/>Schöpfung aller dingen. Philipp. Theophrastus Para¬
+          <lb/>celsus, der Philosophi und beider Artzney! Doctor. Vor
+          <lb/>nie im truck auszgangen. Mit Keyserlicher Freyheit, auff
+          <lb/>zehen! Jar nicht nachzutrucken.
+          <lb/>Getruckt zû Straszburg bey Christian Müller. 1575.
+          <lb/>(Verso blanc.)
+          <lb/>A la fin: Au recto du dernier f.: Gott allein die Ehr. M. D.
+          <lb/>LXX: au verso: Marque typ. de Chr. Muller (HEB Planche XXVIII
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:50.600828+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5048.tif
+IMAGE WIDTH: 2402
+IMAGE HEIGHT: 3864
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1356
+          <lb/>Unà cum Apologia ab ipso Authore conscripta, &amp;amp; Indice
+          <lb/>locupletissimo.
+          <lb/>Marque typ. de Théodose Rihel. (H. &amp;amp; B. Planche XXXI,
+          <lb/>No I.
+          <lb/>Cum Gratia &amp;amp; Priuilegio Caesareae Maiestatis.
+          <lb/>Argentorati Excudebat Theodosius Rihelius. (Verso
+          <lb/>blanc.)
+          <lb/>In-8°, car, rom., 7 ff. non ch., 871 pp. ch., 12 ff. non ch. à 2 col. (Index),
+          <lb/>dont les 2 derniers blancs, titre courant, réclames, notes marg. en ital.,
+          <lb/>init. ornées.
+          <lb/>fol. 2a non chiffré... Principi Augusto, Electori, (1 Saxoniae Duci...
+          <lb/>Ioannes Sleidanus... Dat. I X. Cal. April. M. D. LV. (Préface de 9 pp.
+          <lb/>en ital.).
+          <lb/>fol. 6b non ch. : Ioannis Sleidani!] Apologia. (4 pp. et demie.)
+          <lb/>R. 101.818. Prov. : Don de Iulius Richter, Berlin, 1871. Notes mss.
+          <lb/>Le dernier f. de l’Apologia est par mégarde relié avant la préface.
+          <lb/>2e ex. R. 101.819. Prov. : Don de l’école principale de Brême, 1871
+          <lb/>(Variante).
+          <lb/>3e ex. R. 101.820. Prov. : Ed. Zahn, Hirsau, 24/VII, 1878, sans indi¬
+          <lb/>cation de prix (autre variante 2b). Notes mss. Adolescenti Et Genio atque
+          <lb/>Ingenio felicissimo praedito Philippo Balthasaro Frischlino Cantharopo¬
+          <lb/>litano, discipulo suo ut obedientissimo ita et charissimo, jam jam
+          <lb/>Blabyriam abituro ex animo apprecatur, felicissimos studiorum suorum
+          <lb/>proventus. M. Johannes Angelinus Paedagogus Stutgardianus. Anno
+          <lb/>1654 13 Novembris; en plus, 4 dist. latins.
+          <lb/>Au recto du f. qui précède le titre: « Dr juris Zahn; au verso, au crayon:
+          <lb/>Variante 3b s. S. 1 Die Marginalien am untern Rand! Dic Vorrede bietet
+          <lb/>einen andern Druck als 3a ».
+          <lb/>Bibl. St. Guillaume, Strasbourg.
+          <lb/>2132
+          <lb/>SLEIDANUS Johannes
+          <lb/>Strasbourg, Th. Rihel, s. d.
+          <lb/>Ioannis Sleidani! Commentario-rum de Statu Religio-!
+          <lb/>nis &amp;amp; Reipublicae, Carolo Quinto Caesare, Libri XXVI.
+          <lb/>Unà cum Apologia ab ipso Authore conscripta, !] &amp;amp; Indice
+          <lb/>locupletissimo.
+          <lb/>Marque typ. de Th. Rihel. (H. &amp;amp; B. Planche XXXI, N° 11.)
+          <lb/>Cum Gratia &amp;amp; Priuilegio Caesareae Maiestatis.
+          <lb/>Argentorati Excudebat Theodosius Rihelius.
+          <lb/>In-8°, car, rom., 8 ff. non ch., 872 pp. ch., 10 ff. non ch. à 2 col. (Index),
+          <lb/>titre courant, réclames, notes marg., init. ornées.
+          <lb/>Préface de 1555 et Apologie comme dans les autres éditions.
+          <lb/>Variante 2a, voyez les notes marginales au bas de p. 1 et p. 376:
+          <lb/>« virginem matrem ».
+          <lb/>R. 101.821. Prov. : Don de la bibliothèque du couvent de Loccum, 1871.
+          <lb/>2133
+          <lb/>SLEIDANUS Johannes
+          <lb/>Strasbourg, Th. Rihel, s. d.
+          <lb/>Ioannis Sleidani Commentario-rum de Statu Religio¬
+          <lb/>nis...
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

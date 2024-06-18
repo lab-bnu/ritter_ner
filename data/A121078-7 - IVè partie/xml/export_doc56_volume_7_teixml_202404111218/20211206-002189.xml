@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:06.493403+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002189.tif
+IMAGE WIDTH: 2494
+IMAGE HEIGHT: 3970
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Florus Pfarrer zu Sankt Aurelien in Strassburg. —
+          <lb/>(Strasbourg, Thiébaud Berger 1576), in-80.
+          <lb/>Ritter: B M Strasbourg n° 1002. [Ritter, Rép. n° 874 : Florus,
+          <lb/>Der CXXXVII. Psalm. Strasbourg, C. Kieffer 1587). 1741
+          <lb/>FLORUS, Nicolaus : Kurtze unnd einfeltige erinnerung
+          <lb/>etlicher hochwichtigen ursachen, die einen Christen
+          <lb/>bewegen sollen das H. Abendmal gern und oft zu
+          <lb/>entpfahen. Item. Gründliche Widerlegung etlicher
+          <lb/>ursachen, so vil Leüt auffhalten, das sie das Heilig
+          <lb/>Abendmal gar nicht oder ja selten entpfahen... —
+          <lb/>(Strasbourg, Th. Berger 1579), in-8°.
+          <lb/>Bibl. St. Guillaume Strasbourg.
+          <lb/>1742
+          <lb/>FOECKLER, Christophorus : Disputatio XXXIV Ethica. De
+          <lb/>causis amicitiae &amp;amp; conservantibus &amp;amp; dissolventibus:
+          <lb/>ac officiis, quibus haec eadem colenda, ne propter
+          <lb/>querelas evertatur... Quam C. F. N. in inclyta Argento¬
+          <lb/>ratensium Academia, sub praesidio M. Laurentii Thomae
+          <lb/>Walliseri... respondendo tuebitur Christophorus Foecle¬
+          <lb/>rus... Mense Januario. — Strasbourg, Antoine Bertram
+          <lb/>1598, in-4°.
+          <lb/>Ritter: B M Strasbourg, n° 1004.
+          <lb/>1743
+          <lb/>FOECKLER, Christophorus : Disputatio XXV. de quinque
+          <lb/>virtutibus intellectus... Ex libri sexti Ethicorum Aristo¬
+          <lb/>telis... Quam C. F. N.... sub praesidio M. Walliseri...
+          <lb/>Respondente tuebitur Christophorus Foecklerus, Roete¬
+          <lb/>lanus Marchicus Mense Octobri. — Strasbourg, Antoine
+          <lb/>Betram 1597, in-40,
+          <lb/>Ritter: B M Strasbourg, n° 1003.
+          <lb/>1744
+          <lb/>FOELLEL, Michel, zu Gelnhausen. Voir: LIEDER (zwey schöne
+          <lb/>newe Geistliche) n° 2397.
+          <lb/>FOLTZ, Hans : Dises püchlin saget unz von allen paten die
+          <lb/>von natur heisz sein... — (Strasbourg), uff Grüneck
+          <lb/>1— Barth. Kistler) 1504, in-4°.
+          <lb/>187
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

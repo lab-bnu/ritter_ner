@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:09.406057+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3240.tif
+IMAGE WIDTH: 2328
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>684
+          <lb/>Bl. G 2b: Alphabetum paruum boni religiosi in scola
+          <lb/>dei proficere cupienti: ordi natum a domino Sancto
+          <lb/>Bonauentura docto- re Seraphico.
+          <lb/>80, Got., 57 unn. u. 14 leere Bll., Sign. A-G.
+          <lb/>Auf der Rücks. des Titelbl.: Oratio in diuum peregrinum
+          <lb/>Joan nem de Monte forti contra omnes Febres. (4 S.)
+          <lb/>*K11814. Prov.: A. Claudin, Paris 2. IV. 1897; 10 Fr.
+          <lb/>1006
+          <lb/>Schmidt VIII Nr. 64.
+          <lb/>GERSON Johannes
+          <lb/>Strassburg, Joh. Knobloch 1514
+          <lb/>Inuentorium eorum que in tribus parti! bus operum
+          <lb/>Joannis! Gersonis continen tur sedulo stu! dio concin
+          <lb/>natum.
+          <lb/>20, Got., 2sp., 50 unn. Bll. (letstes weiss), Sign. A-H, Titelum¬
+          <lb/>rahmung: an beiden Seiten je ein Weinstock mit Trauben, dessen Ranken
+          <lb/>sich oben vereinigen. Oben links nackter Knabe mit Schild, rechts nackter
+          <lb/>Knabe mit Pfeil; unten links nackter Knabe und Bär, rechts ein Bär,
+          <lb/>in der Mitte leeres von 2 Knaben gehaltenes Schild.
+          <lb/>Auf der Rüeks, des Titelbl. Gerson mit dem Pilgerstab, begleitet
+          <lb/>von einem Hund; rechts von ihm ein Engel, der ihm den Weg weist;
+          <lb/>zwischen ihnen Sonne, Mond u. Sterne. Im Hintergrund rechts die
+          <lb/>Türme einer Stadt.
+          <lb/>(L.) Prima pars ope- rum Joannis Gerson! Cancellarii
+          <lb/>vni-uersitatis Par-rhisiensis theologi christianissimi.
+          <lb/>Adiectis epistolis miraculorum (quae per) eius merita
+          <lb/>dominus deus opera- tur) facientibus mentionem. Et epi¬
+          <lb/>thoma vitae eius, (2 Dist.)
+          <lb/>Am Schluss: ... pars prima... Felici clauditur exitu
+          <lb/>apud Tribotes; per Joonnem! Knoblouch. Anno. M. ! d.
+          <lb/>xiiij. Kalendis Junijs. (Rücks. leer.)
+          <lb/>20, Got., 2sp., 130 unn. Bll., Sign. a-2, aa-gg, Kopft., Init., Titel
+          <lb/>rot u. schwarz; Titelumrahmung mit Monogramm von Baldung-Grien
+          <lb/>unten links; in der Mitte der Kaiser auf dem Throne, su seinen Füssen
+          <lb/>Schild mit Reichsadler; rechts u. links Saulen.
+          <lb/>Bl. a 2a: CHRISTOPHORVS DEI GRATIA BASLI ensis Epi¬
+          <lb/>scopus... Dominis Decano totiusque Capitulo in! signis
+          <lb/>Ecclesiae Lugdunensis Amicis... — Ex ciuitate nostra Ba¬
+          <lb/>silien. Anno. M. CCCCC. IIII. Und die Antwort an den Bischof von
+          <lb/>Basel.... Ex Lugduno. xxij. Februarij. Anno Christi M.
+          <lb/>D. HIII.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

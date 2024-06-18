@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:33.612586+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2230.tif
+IMAGE WIDTH: 2292
+IMAGE HEIGHT: 3820
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>226
+          <lb/>PRAESIDE Io: LVDOVICO HAVVENREVTERO! Doctore Medico
+          <lb/>&amp;amp; Philosopho. Respondente &amp;amp; Autore IOANNE BVRGO¬
+          <lb/>WERO SCHAPHVSIANO. Disputabit còv 6so in axgoαct (!) noua
+          <lb/>Mense Octobri. (Vignette.) ARGENTORATI! Excudebat Anto¬
+          <lb/>nius Bertramus. M. D. XCH.
+          <lb/>In-4°, car. ital, 14 ff. non ch. dont le dernier blanc, sign. A-b,
+          <lb/>réclames, notes marginales, petite init. ornée Q.
+          <lb/>Au verso du dernier f.: AD D. IOHANNEM BVR- govverum
+          <lb/>Respondentem. ] éτxov. (3 distiques grecs, signés Bene-
+          <lb/>dictus Isenbeccius, Ratisbonensis.
+          <lb/>R101.564(8). Prov.: Hiersemann, Leipzig, 25/1. 1935; 4M.
+          <lb/>338
+          <lb/>BURGOWER Joh. Voir: HAWENREUTER Joh. Lud., Strasbourg, A.
+          <lb/>Bertram, 1593. R 101.564(18) et RIO1.564(11).
+          <lb/>BURLAEUS
+          <lb/>Haguenau, H. Gran, 1510.
+          <lb/>Vita philosophorum et poe! tarum cum auctoritatibus
+          <lb/>et sen- tentiis aureis eorundem annexis.! Carmen tumul¬
+          <lb/>tuarium. (3 distiques latins) (Verso blanc.)
+          <lb/>A la fin: Im- pressus in officina industrij Henrici
+          <lb/>Gran! calcographi: in oppido imperiali Hage- nau ciuis:
+          <lb/>in vigilia Thome apostoli Anno! domini M. D. x. finit feli¬
+          <lb/>citer. (Verso blanc).
+          <lb/>In-4°, car. goth., 7 ff. non ch. (Tables.), LI ff. ch., titre courant,
+          <lb/>notes marginales, initiales d’attente.
+          <lb/>R 101.199. Prov. inc.; au recto du titre notes mss. à l’encre rouge:
+          <lb/>possidet me Johann Dilliger. Anno factum 1628; notes mes.
+          <lb/>dans le texte.
+          <lb/>2e ex. R 102.231. Prov. : Don Bibl. Univ. Gœttingue, 1871; notes
+          <lb/>mss. dans le texte.
+          <lb/>Proctor II, Sectio I, N° 11648: Londres, British Museum.
+          <lb/>GPB: Berlin SB, Gœttinque BU.
+          <lb/>339
+          <lb/>BURLAEUS
+          <lb/>Strasbourg, J. Knobloch, 1516.
+          <lb/>VIta Philoso! phorum et Poetarum: cum auctorita¬
+          <lb/>tibus et sen tentiis aureis eorundem annexis.
+          <lb/>Carmen tumultuarium (3 distiques latins.) (Verso blanc.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

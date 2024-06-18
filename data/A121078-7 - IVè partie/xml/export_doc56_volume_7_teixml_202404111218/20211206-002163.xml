@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:05.905266+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002163.tif
+IMAGE WIDTH: 2486
+IMAGE HEIGHT: 3974
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>ERASMUS (Parabolae) : Parabolarum sive Similium Liber. —
+          <lb/>(Strasbourg, Mathias Schürer, février 1521), in-8°.
+          <lb/>Panzer 11, 365, 600b; Schmidt VIII, n° 262; Van der
+          <lb/>Haeghen: Bibl. Erasmiana I, 138; Rest p. 57 : B U Fribourg-
+          <lb/>en-Br. [éd. Schürer 1514, février 1516, novembre 1516, juillet
+          <lb/>1518, Th. Anshelm 1520, Lazare Schürer 1520; Knobloch
+          <lb/>1521: Ritter, Rép. n° 716, 723/4, 732, 745, 746, 754). 1614
+          <lb/>ERASMUS (Parabolae) : Idem. — Strasbourg, Jean Knobloch,
+          <lb/>août 1521.
+          <lb/>Rest p. 57: B U Fribourg-en-Br.
+          <lb/>1615
+          <lb/>ERASMUS (Parabolae) : Parabolae sive similia postremo ab
+          <lb/>autore recognita cum accessione nonnullis adiectis
+          <lb/>aliquot vocularum obscurarum interpretatione. —
+          <lb/>(Strasbourg, Jean Knobloch (28.XI.)] 1522), in-8°.
+          <lb/>Ritter: B M Strasbourg, n° 904; Schmidt VII, n° 246. Panzer
+          <lb/>6, 99, 626. [éd. Knobloch, septembre 1523 : Ritter, Rép.
+          <lb/>n° 7691.
+          <lb/>1616
+          <lb/>ERASMUS (Parabolae) (Idem). (Strasbourg, Jean Knobloch,
+          <lb/>juin 1525), in-8°.
+          <lb/>Schmidt VII, n° 293: B M Mayence; Panzer 6, 107, 701;
+          <lb/>Van der Haeghen I, p. 138.
+          <lb/>1617
+          <lb/>ERASMUS (Paraclesis) : Paraclesis. — Strasbourg, mai 1519,
+          <lb/>in-40.
+          <lb/>Rest p. 57 : Fribourg-en-Br.
+          <lb/>1618
+          <lb/>ERASMUS (Paraclesis) : Paraclesis Teütsch... — [Strasbourg,
+          <lb/>Martin Flach) 1520, in-4°.
+          <lb/>Bibl. St. Guillaume Strasbourg. Kuczyński, n° 716. 1619
+          <lb/>ERASMUS (Paraphrasis) : Paraphrasis in epistolam Pauli ad
+          <lb/>Romanos. — Strasbourg, sans le nom de l’imprimeur,
+          <lb/>octobre 1519, in-40.
+          <lb/>Rest p. 58: B U Fribourg-en-Br.
+          <lb/>1620
+          <lb/>161
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

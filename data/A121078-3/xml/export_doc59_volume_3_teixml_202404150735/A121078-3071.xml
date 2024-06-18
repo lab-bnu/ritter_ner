@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:05.835627+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3071.tif
+IMAGE WIDTH: 2324
+IMAGE HEIGHT: 3840
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Am Schluss: ARGENTORATI EXCVDE ] BAT KNOBLOCHVS
+          <lb/>M. D. XXV.Mense Ianuario.
+          <lb/>80, Kursiv, 140 unn. Bll., Sign. A-B, Aa-Qq. Kopft., Kust.,
+          <lb/>Init. S, E, P, Titeleinfassung (Siche Nr. 327).
+          <lb/>Bl. A 2a: S. D. N. PONTIFICI VERE SVM- mo Clementi
+          <lb/>eius nominis se- ptimo, ERASMVS Rote- rodamvs S. D....
+          <lb/>— Basileae prid. Calend. Febr. Anno à Chri-sto nato
+          <lb/>M. D. XXIIII. (4 Seiten.)
+          <lb/>R 101.194. Prov.: Oscar Rauthe, Berlin, 26. VII. 1913, 16 M.
+          <lb/>Als Umschlag dient ein Pergamentblatt mit lat. Text (2sp.); ausserdem
+          <lb/>ein Schutabl. aus Pergament mit lat. Text (2sp.).
+          <lb/>GK: SB Berlin, UB Gôttingen, Kiel, Marburg; Schmidt VII
+          <lb/>780
+          <lb/>Nr. 289; UB Göttingen.
+          <lb/>ERASMUS: Paraphrasis in evangelium sec. Ioannem
+          <lb/>Strassburg, J. Knobloch 1525
+          <lb/>D. ERAS-MI ROTERODAMI Paraphrasis in Euangelium
+          <lb/>se- cundum loannem, ad illustrissimum principem Fer¬
+          <lb/>dinandum, nunc! primum excusa. (Rücks, leer.)
+          <lb/>Am Schluss: ARGENTORATI EXCVDEBAT IOANNES KNOBLO¬
+          <lb/>CHVS, ANNO. M. D. XXV. MENSE IUNIo.
+          <lb/>80, Kursiv, 185 num., 2 unn. Bll. (Erasmus an den Leser), Kopf¬
+          <lb/>titel, Kustoden, Marginalien, Init., Titeleinfassung (Siche Nr. 327).
+          <lb/>Bl. a 2a: ILLVSTRISSIMO PRINCIPI D.Ferdinando, Au¬
+          <lb/>striae aristiatego... Erasmus Roterodamus S. D.... — Ba¬
+          <lb/>sileae. Anno 1525. nonis lanua-riis. (15 S.)
+          <lb/>R101195. Prov.: H. Kerler, Ulm, 26. XI.1883; 3 M. 50.
+          <lb/>GK: SB Berlin, UB Göttingen; BN Paris, A. 210582; Schmidt
+          <lb/>VII Nr. 292.
+          <lb/>781
+          <lb/>515
+          <lb/>Strassburg 1526
+          <lb/>ERASMUS: De ratione studii
+          <lb/>D. ERASMI ROTERODAMI DE RATIONE studij, déque
+          <lb/>pueris instituen- dis commentariolus, ad Petrum Viteri
+          <lb/>um Gallum. Eiusdem Epistola ad Christianum Lubecensem
+          <lb/>de stu diorum ratione ibidem disserens.Quis sit modus
+          <lb/>repetendae lectionis, eod. autore. His adiecta est Epistola
+          <lb/>Plinij Secundi ad eandem rem faciens.
+          <lb/>ARGENTORATI, ANNO M. D. XXVI. (Rücks, leer.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

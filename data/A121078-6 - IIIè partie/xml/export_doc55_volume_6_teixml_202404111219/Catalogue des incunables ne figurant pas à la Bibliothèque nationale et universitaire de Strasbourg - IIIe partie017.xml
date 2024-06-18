@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:05.432856+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie017.tif
+IMAGE WIDTH: 2458
+IMAGE HEIGHT: 3930
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Pellechet 1238, G W2367, Hain 1762, B N Berlin, Munich,
+          <lb/>Ritter: Rép. Inc. n° 41 : Strasbourg K 373, Zurich etc. 87
+          <lb/>ARNOLDUS de Villa Nova : De vinis, (en allemand par Wilhelm
+          <lb/>von Hirnkofen). — (Strasbourg, Henri Knoblochtzer
+          <lb/>vers 1483), in-fol.
+          <lb/>G W 2541; Copinger 654; Proctor 377; Brit. Mus. Catal.
+          <lb/>I, 90. Londres (Brit. Mus.), Nuremberg (Musée Germ.). 88
+          <lb/>ARNOLDUS de Villa Nova : De vinis (en allemand par
+          <lb/>Wilhelm von Hirnkofen). — (Strasbourg, Martin Schott
+          <lb/>vers 1484), in-fol.
+          <lb/>G W 2543; Hain 1809; Copinger 655; Proctor 392 A;
+          <lb/>Pellechet 1318; Brit. Mus. Catal. I, 93. B U Erlangen, Londres
+          <lb/>(Brit. Mus.), BN Paris etc.
+          <lb/>89
+          <lb/>ARS moriendi (en allemand). — [Strasbourg, J. Mentelin
+          <lb/>pas après 1468), in-8°.
+          <lb/>G W: Ergaenzungen zu Bd. IV: 2614/10; Schorbach, Mentelin,
+          <lb/>Anhang n° 2 : met vers 1461. Göttweig (Stift).
+          <lb/>90
+          <lb/>ARs moriendi (en lat.) — (Strasbourg, H. Eggestein vers
+          <lb/>1475), in-fol.
+          <lb/>G W 2598; Hain-Copinger 4386; Hain 4387; Pellechet 1341;
+          <lb/>Proctor 295; Voulliéme : Berlin 2148. B U Bâle, B N Berlin,
+          <lb/>Munich, Vienne etc.
+          <lb/>91
+          <lb/>ARTICULI abbreviati de la Bulle de croisade d’Innocence
+          <lb/>VIII du 11. XII. 1488 (en latin). — Strasbourg,
+          <lb/>J. Prüss (?) vers 1489/90), Placard 315 x 190 mm.
+          <lb/>G W 2693; Einblattdrucke 359a,
+          <lb/>92
+          <lb/>ARTICULI abbreviati de la Bulle de la croisade d’Innocence
+          <lb/>VIII du 11. XII, 1488 (en latin). — (Strasbourg, J. Prüss
+          <lb/>vers 1489/90), Placard 316 x 193 mm.
+          <lb/>G W2694; Einblattdrucke 360. — Hannover.
+          <lb/>93
+          <lb/>15
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

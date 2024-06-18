@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:04.916983+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3010.tif
+IMAGE WIDTH: 2362
+IMAGE HEIGHT: 3836
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>454
+          <lb/>Electori... — Argen- torati. vi. Februarij. Anno M. D. XXXI.
+          <lb/>Ioannes Schottus, librarius! Argentoraten.
+          <lb/>In dem Tacuinus Sanitatis (S. 38-117, Tafeln der Gesundheit),
+          <lb/>enthalten die Seiten mit geraden Ziffern rot gedruckte Tafeln, während
+          <lb/>die Seiten mit ungeraden Ziffern die Auslegung der Tafeln geben (schware
+          <lb/>gedruckt) und unten Leisten mit Kleinen Holeschnitten (Früchte, Blumen,
+          <lb/>Tiere, Menschen usw.) aufaveisen sovie rotgedruckte Marginalien.
+          <lb/>S. 119-139. LIBER ALBENGNEFIT Philoso- phi de Virtutibus
+          <lb/>MEDICINARVM, ET CIBORVM, translatus a Magistro Gerardo
+          <lb/>Cremonensi de Arabi-con latinum.
+          <lb/>S. 140-163: IAC. ALRINDI LIB. IACOB ALKINDI philo¬
+          <lb/>sophi DE GRAD- BVS Rerum.
+          <lb/>R 10.286. Prov.: Bibl. der Strassburger Medisinischen Fakultät.
+          <lb/>Auf dem innern Einband: Exlibris von Thomas Lauth. Auf der
+          <lb/>Rückseite des Schutablattes, handschr, Notizen: Elluchasem Elimithar,
+          <lb/>médecin de Baldath — Abul Hassan al Mukhtar de Bagdad; Albengnefit
+          <lb/>— Ibn Wafid al Lakhmi; Iac. Alkindus — Kindi al Abu Jusuf Jagub.
+          <lb/>Kristeller 475; Choulant, Bücherkunde für ält. Med. p. 368, Drexel, Koch¬
+          <lb/>bücher N° 1046.
+          <lb/>GK: SB Berlin.
+          <lb/>Schmidt II, Ne 119. Der Katalog XX (Art Ancien, Zurich, 1937)
+          <lb/>bietet unter Nr. 64 ein Exemplar an fur 225 Schweizerfranken: First
+          <lb/>edition of considerable rarity. Choulant, Handbuch, 368; Dodgson II, 148,
+          <lb/>28; Nagler, Mon. III, S. 669, Nr. 4 attributed the cuts to Vogtherr. They
+          <lb/>were recognised as the work of H. Weiditz by Röttinger (p. 15) who descri¬
+          <lb/>bes the edition of 1533. Baer, Francfort s. M., Kat, 500 (1907), Nr. 1361(2);
+          <lb/>80 M. : Mit schönen figürlichen Initialen und 40 Holzschnitten von Hans
+          <lb/>Weiditz... Erste Ausgabe. Röttinger, der diese Ausgabe nicht gesehen
+          <lb/>hat, erwähnt sie bei Beschreibung der späteren Ausgabe von 1583. S. 105
+          <lb/>No 85 Abgb. Tafel 28 u. 29... Die Holzschnitte des Tacuinus boten durch
+          <lb/>Vergleichung mit dem beglaubigten Werke des H. Weiditz: «Brunfels,
+          <lb/>Herbarum vivae icones» Röttinger (S. 15-18) sichere Anhaltspunkte für
+          <lb/>die Bestimmung des Oeuvre dieses Meisters.
+          <lb/>678
+          <lb/>ELIMITHAR Elluchasem
+          <lb/>Strassburg, J. Schott, 1533
+          <lb/>SChachtafelen der! Gesuntheyt.
+          <lb/>I. Erstlich durch bewarung der Sechs neben Natür¬
+          <lb/>lichen ding. Als Des Luffts, den gesundtlicher weisz, vn
+          <lb/>vnd vsz zû athemen vnd zû entphahen... (10 Zeilen.)
+          <lb/>Hl. Zum Anderen, durch erkanntnussz,! cur, vnd hyn¬
+          <lb/>legung! Aller Kranckheyten menschlichs zûfalls, eüsserlich
+          <lb/>vnd jnnerlich, vom haubt an bitz vff die füssz durch alle
+          <lb/>glyder.Vsz sonderlichem befelch Keysz. Maiest. Hoch¬
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

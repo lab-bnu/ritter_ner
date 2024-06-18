@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:02.604228+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002045.tif
+IMAGE WIDTH: 2508
+IMAGE HEIGHT: 3982
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Bibl. Budapest: E. O. lat. 194. (Communication de Mme Soury,
+          <lb/>Strasbourg).  ~uaib
+          <lb/>966
+          <lb/>BEBEL, Henr, (Facetiae) : Facetiarum libri tres. A la suite
+          <lb/>de Frischlin, Nicodemus : Facetiae selectiores. —
+          <lb/>Strasbourg, B. Jobin 1600, n° 1793.
+          <lb/>967
+          <lb/>BEBEL, Henr. (Hymni) : Liber hymnorum... — (Haguenau,
+          <lb/>Thomas Anshelm 1517), in-8°.
+          <lb/>GKXIV, 2269; BN Munich, Vienne; Vogeleis p. 198. 968
+          <lb/>BEBEL, Henr. Voir aussi: FRISCHLIN n° 1793; HENRICHMANN,
+          <lb/>Jacobus n° 1984; LIEp n° 2294; Ritter, Rép. nos 164-
+          <lb/>175.
+          <lb/>BEBENBURG, Lupoldus de. Voir : LUPOLDUS de Bebenburg.
+          <lb/>BEBIO, Ludovicus : In Institutionum imperialium libros IV.
+          <lb/>Erotemata dialectica. Nunc primum... edita opera et
+          <lb/>studio Johannis Richardii... (alias Winkel).
+          <lb/>—
+          <lb/>(Strasbourg), Théodose Rihel (1571), in-8°.
+          <lb/>GK14, 2290; BN Berlin, Munich; BN Paris, etc.
+          <lb/>969
+          <lb/>BECK, Andreas : Thesium decades sex... De non capace
+          <lb/>Haerede, legatorio et successore &amp;amp;c. et an illi fisco
+          <lb/>locum faciant nec ne ?... Doctorum iudicio subiectae. —
+          <lb/>Strasbourg, Rihel 1598, in-80.
+          <lb/>GKXIV, 4185 : Bibl. Darmstadt.
+          <lb/>970
+          <lb/>BECK, Andreas : Thesium decades quinque. De Testamentis
+          <lb/>eorum, qui iustis natalibus laborant et quando fiscus
+          <lb/>intestatis succedat... — Strasbourg, Rihel 1597, in-80.
+          <lb/>GK XIV, 4186: Bibl. Darmstadt.
+          <lb/>971
+          <lb/>BEDA, Venerabilis : Historia ecclesiastica gentis anglorum. —
+          <lb/>Strasbourg 1514, in-4°.
+          <lb/>Ritter: B M Strasbourg n° 490.
+          <lb/>972
+          <lb/>43
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

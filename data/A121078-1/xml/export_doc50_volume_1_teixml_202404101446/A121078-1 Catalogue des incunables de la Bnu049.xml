@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:37.067451+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu049.tif
+IMAGE WIDTH: 2382
+IMAGE HEIGHT: 3844
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>BIBLIA latina (Strasbourg, H. Eggestein, vers 1468/70),
+          <lb/>2 vol. in-fol.
+          <lb/>G W 4208, Hain 3035, Pellechet 2267, Proctor 258, Voulliéme:
+          <lb/>Berlin 2145, 5.
+          <lb/>K 691. Prov.: Vol. I. F. Butsch fils, Augsbourg, 12. X. 1883,
+          <lb/>325 M. Notes mss. Vol. Il. B. N. Munich, 22. I. 1880, 6 M.
+          <lb/>Incomplet, commence avec les Proverbes. Notes mss. à l&amp;#x27;inté¬
+          <lb/>rieur du 1er et du dernier plat.
+          <lb/>85
+          <lb/>BIBLIA latina. (Strasbourg, Adolph Rusch, avant 1470),
+          <lb/>in-fol.
+          <lb/>G W 4209, Hain 3034, Pellechet 2279, Proctor 234. Voulliéme:
+          <lb/>Berlin 2113.
+          <lb/>K 690. Prov.: Don de M Klemm. Seulement 1 f., commençant:
+          <lb/>«Pater Ambrosius». Au bas du f.; Ad Conventum Seemans¬
+          <lb/>husianum ord. Eremitarum S. P. Augustini. Au-dessous: Joh.
+          <lb/>Mentelins erste lateinische Bibel mit dem R um 1464 gedruckt.
+          <lb/>En haut: Praesens Bibliorum Corpus habes ex dono P. D.
+          <lb/>Erasmi Brion, Canonici Regularis D. Aug. in Aw (illisible),
+          <lb/>Anno 1605.
+          <lb/>86
+          <lb/>BIBLIA latina (cum glossa ordinaria Wal. Strabonis). (Stras-
+          <lb/>bourg, Adolphe Rusch pour Koberger, peu après le
+          <lb/>23 septembre 1481) 4 vol. in-fol.
+          <lb/>G W 4282, Hain 3173, Pellechet 2352, Pellechet: Colmar 330,
+          <lb/>Proctor 299, Voulliéme: Berlin 2133.
+          <lb/>K 761. Prov.; Don de la ville de Heilbronn, 1871. 2e ex.
+          <lb/>K. 761a. Prov.: Bibl. Ed. Reuss, Strasbourg, 28. IV. 1891. Notes
+          <lb/>mss. Rel. anc.
+          <lb/>87
+          <lb/>BIBLIA latina. (Strasbourg, J. Prüss), 1486, in-fol.
+          <lb/>G W 4260, Hain 3095, Pellechet 2322, Proctor 518, Voulliéme:
+          <lb/>Berlin 2341.
+          <lb/>K 714. Prov.: Bibliothèque Reuss, Strasbourg, 28. IV. 1891.
+          <lb/>Notes mss. Rel, anc. 2 ex. K 714a. Prov.: Don de la ville de
+          <lb/>Schweinfurt, 1871. Notes mss. Rel. anc.
+          <lb/>88
+          <lb/>19
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

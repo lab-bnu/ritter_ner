@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:51.707905+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078309.tif
+IMAGE WIDTH: 2318
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Au verso du titre: Hieronymus Emser praesbyter Joanni Prüs Ar¬
+          <lb/>gentino Civi atque Calcographo accuratissimo... ex Argentina. Au-dessous,
+          <lb/>Tetrasticum eiusdem. (2 dist.)
+          <lb/>Fol. 2a : Regestum omnium huius voluminis opusculorum. (3 ff.)
+          <lb/>Fol. 5a: Joannes Franciscus Picus Mirandula veritatis amatoribus;
+          <lb/>au-dessous : Jacobus wimpfelingus Slettatinus Lectori... — Ex Argentina.
+          <lb/>Anno Salutis. M. CCCCC. IIII. Xii kal. Aprilis. Au verso: Vita Jo. Pici
+          <lb/>Miran. (7 ff.)
+          <lb/>Fol. aa 6b non ch.: Caecilii Cypriani episcopi Cartha ginensis de
+          <lb/>ligno crucis Carmen. (63 vers.)
+          <lb/>Fol. Ia: Prohemium in Heptaplum... Ad Laurentium Medicem.
+          <lb/>RI0334 (1). Prov. : BN Munich 31/1 1878, 6 M. Notes mss.,
+          <lb/>au recto du Ier f. de garde: Monasterium Althominster, 15 : 43; au verso
+          <lb/>du f. de garde: Duplum Bibliothecae regiae Monacensis.
+          <lb/>Prix noté au crayon 6 M.
+          <lb/>2ème ex, *R 10.523. Prov.: Don de la ville de Nœrdlingen 1871.
+          <lb/>Notes mss. En bas du titre : Johannes Protzer I. M. Doctoris, MDV
+          <lb/>comparatus in Germania.
+          <lb/>Schmidt III n° 43: BM Strasbourg et Colmar; Walter: Sélestat
+          <lb/>n° 1880.
+          <lb/>* Bibl. St. Guillaume, Strasbourg.
+          <lb/>1869
+          <lb/>PICUS a MIRANDOLA Johannes Strasbourg, [J. Knobloch] 1506
+          <lb/>IOANNIS FRANCISCI PICI MIRANDV-]LAE DOMINI, ET CON¬
+          <lb/>CORDIAE CO-] MITIS · DE FIDE ET ORDINE ] CREDENDI THE¬
+          <lb/>OREMA-ITA.
+          <lb/>A la fin: Finiunt Theoremata Ioan. Francisci Piei Mi¬
+          <lb/>randulani principis Argen-! toraci : quae insignis Helvetio¬
+          <lb/>rum urbs est : formis excusa die. xxii Decembris Anno
+          <lb/>M. D. Vi, quando invictissi. Caesaris! Maximiliani Augusti.
+          <lb/>Filius unigenitus Phi- lippus Hispaniarum Rex non sine
+          <lb/>to- tius christianae ReiP, iactu-ra. Florenti aetate periis¬
+          <lb/>se, deploraba- tur ab omni! populo. (Verso blanc.)
+          <lb/>Suivent : Ioannis Francisci Pici Mirandulae domini &amp;amp;
+          <lb/>Concor- diae comitis Epistolarum libri quattuor. (36 ff.
+          <lb/>non ch.)
+          <lb/>In-fol., car. rom., 50 ff. non ch., sign. p-q, et 36 ff. non ch. pour
+          <lb/>les Epistolae, sign. A-F init. d’attente. Au verso du titre : Proe! mium
+          <lb/>ad Julium secun! dum ponti. maximnm. (2 pp.)
+          <lb/>*RI0.335 (2). Prov.: BN Munich 31/1 1878; 6 M. Notes mss.
+          <lb/>2ème ex. *R10.336 (2). Prov.: Don de la BU de Gœttingue 1872;
+          <lb/>dans cet exemplaire les Epistolae (sign. A-F) viennent en premier lieu.
+          <lb/>1195
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

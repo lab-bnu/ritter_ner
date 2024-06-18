@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:36.462741+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu007.tif
+IMAGE WIDTH: 2388
+IMAGE HEIGHT: 3844
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>INTRODUCTION
+          <lb/>Le Catalogue des Alsatiques de la Bibliothèque Natio¬
+          <lb/>nale et Universitaire de Strasbourg, publié par les biblio¬
+          <lb/>thécaires Marckwald, Mentz et Wilhelm durant les années
+          <lb/>1908 à 1929 contient tous les livres de la Section des Alsa¬
+          <lb/>tiques, mais ne renferme pas les précieux incunables impri¬
+          <lb/>més en Alsace au 15e siècle. Notre catalogue des incunables
+          <lb/>alsaciens vient de compléter cette lacune et il est à espérer
+          <lb/>que tous ceux qui possèdent déjà les quatre volumes du
+          <lb/>Catalogue des Alsatiques seront également curieux de ce
+          <lb/>nouveau travail. D’un autre côté le Catalogue des Incu¬
+          <lb/>nables constitue un complément indispensable au Réper¬
+          <lb/>toire Bibliographique du 16e siècle qui est en cours de publi¬
+          <lb/>cation, et dont le dixième fascicule vient de paraître. A
+          <lb/>diverses reprises on m’a déjà demandé pourquoi je n’avais
+          <lb/>pas étendu ce répertoire au 15e siècle, laissant ainsi de côté
+          <lb/>les incunables qui forment la partie la plus précieuse des
+          <lb/>anciens livres imprimés en Alsace. La raison qui m’avait
+          <lb/>décidé à faire cette séparation était que les livres du
+          <lb/>15e siècle demandent à être décrits d’une manière tout à
+          <lb/>fait différente de celle qu’exigent les livres du 16e siècle,
+          <lb/>car les livres du 15e siècle sont pour la plupart déjà décrits
+          <lb/>VII
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:39.578961+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu160.tif
+IMAGE WIDTH: 2452
+IMAGE HEIGHT: 3856
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Schmidt Charles (Répert, biblio¬
+          <lb/>Spirgatis 110, 177, 306, 450.
+          <lb/>gr.) 2, 7, 10, 13, 26-30, 33-38.
+          <lb/>Staat (Libr. Strasbourg) 314.
+          <lb/>40, 47, 48, 50, 68, 72, 73, 78.
+          <lb/>Stainer Willibald 241.
+          <lb/>90, 102, 111, 114-116, 118.
+          <lb/>Starck Mozley 355.
+          <lb/>119, 139, 148, 162, 163, 172,
+          <lb/>Stein Joh. 447.
+          <lb/>174, 175, 181, 191, 203, 213.
+          <lb/>Steingardt 194.
+          <lb/>220. 230, 235-238, 266, 275,
+          <lb/>Steinkopf J. 111, 350, 484.
+          <lb/>278, 280, 284, 294, 307, 308.
+          <lb/>Stenzel 99.
+          <lb/>312. 325. 329, 332, 537-339.
+          <lb/>Steyer Charles 183, 185.
+          <lb/>352, 353, 357-359. 362-366.
+          <lb/>Stöber (Vente) 104.
+          <lb/>382, 397, 416, 417, 421-423.
+          <lb/>Stoll 109.
+          <lb/>425, 426, 433, 446-449, 454,
+          <lb/>Strasbourg: presque tous les
+          <lb/>456, 471, 480, 482-484, 488-494.
+          <lb/>numéros.
+          <lb/>Schmidt Paul 314.
+          <lb/>Stuchs 180.
+          <lb/>Schöpflin 200.
+          <lb/>Stuttgart 111, 350, 438, 484.
+          <lb/>Schorbach 464.
+          <lb/>Sudhoff 118, 119.
+          <lb/>Schorbach: Knoblochtzer 14, 21,
+          <lb/>Sydelin Math. 340.
+          <lb/>22, 45, 177, 182, 250, 251, 269,
+          <lb/>288, 306, 310, 315, 333, 379,
+          <lb/>396, 455.
+          <lb/>Taverna (Italie) 405.
+          <lb/>Schorbach: Mentelin 9, 11, 20,
+          <lb/>Tegernsee 30, 446.
+          <lb/>41-44. 51, 52, 54-56, 69, 141,
+          <lb/>Testor 435.
+          <lb/>231, 249, 264, 277, 345, 370,
+          <lb/>Teyneck Vinc. 241.
+          <lb/>371, 451, 472, 476, 495. (Voir
+          <lb/>Thomas d’Aquin 462 (Voir aussi
+          <lb/>aussi: Additions à la fin.)
+          <lb/>gux noms d’auteurs).
+          <lb/>Schott Pierre 426.
+          <lb/>Thomas de Argentina 301, 327.
+          <lb/>Schrader 276.
+          <lb/>Titurel 495.
+          <lb/>Schramm: Bilderschmuck 2, 14,
+          <lb/>Törring (Graf) 404.
+          <lb/>21, 22, 50, 64, 89, 90, 95, 98,
+          <lb/>Treuttel-Würtz (Libr. Strasbourg)
+          <lb/>100, 113-120, 148, 165, 178,
+          <lb/>360, 447.
+          <lb/>179, 181, 213, 215, 235, 237,
+          <lb/>Trèves 20, 24, 69, 149, 239, 249,
+          <lb/>238, 247, 249, 250, 268, 279,
+          <lb/>275, 373, 475, 477.
+          <lb/>280, 284, 288, 294, 315, 325,
+          <lb/>Trinkhasius C. 82.
+          <lb/>349, 350, 369. 379, 388, 389,
+          <lb/>Troja (Destructio) 134-137.
+          <lb/>396. 397, 401, 402, 409, 416,
+          <lb/>Trübner (Libr. Strasbourg) 8,
+          <lb/>417, 419, 420, 425, 436, 447-449,
+          <lb/>13, 16-18, 30, 33, 34, 40, 55,
+          <lb/>455, 457, 471, 481, 482, 488,
+          <lb/>113, 116, 120, 126, 130, 174,
+          <lb/>489, 491-493.
+          <lb/>182. 191, 199, 200, 233, 267,
+          <lb/>Schreiber: Manuel 2, 14, 16-19,
+          <lb/>268. 279, 288, 291, 315, 331,
+          <lb/>21, 22, 50, 64, 89, 90, 92, 95,
+          <lb/>338, 349, 362, 376, 378, 379,
+          <lb/>98, 100, 103, 113-116, 118-120,
+          <lb/>382, 383, 388, 391, 396, 422,
+          <lb/>148, 179-181, 213, 215, 235,
+          <lb/>429-431, 452, 455, 463, 466,
+          <lb/>237, 238, 249, 263, 268, 272,
+          <lb/>471, 472.
+          <lb/>279, 280, 284, 288, 294, 315,
+          <lb/>Tubingen 183.
+          <lb/>325, 330, 331, 349, 350, 369,
+          <lb/>Turin 77.
+          <lb/>379, 388, 394, 396. 397. 401.
+          <lb/>402, 412, 416-419, 425, 446-449,
+          <lb/>455. 457, 481-484, 488, 489,
+          <lb/>Ulm 90, 221, 394.
+          <lb/>491-494.
+          <lb/>Undensdorf 190.
+          <lb/>Schürer Math. 181.
+          <lb/>Schwägerl Joh. 380.
+          <lb/>Schweinfurt 88, 258.
+          <lb/>Valerius F. 72.
+          <lb/>Seyboth 235.
+          <lb/>Valerius Maximus 147.
+          <lb/>Varsovie 329.
+          <lb/>Sonnenfro 40.
+          <lb/>Vellhausen 476.
+          <lb/>Sothebey 200.
+          <lb/>Venise 77, 296.
+          <lb/>Spire 369.
+          <lb/>Verberckt (2) Jac. 354.
+          <lb/>127
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

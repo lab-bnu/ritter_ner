@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:13.470036+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002475.tif
+IMAGE WIDTH: 2494
+IMAGE HEIGHT: 3990
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Bibl. S. Guillaume, Strasbourg; [une éd. de Sam. Emmel
+          <lb/>1562 : Ritter, Rép. n° 2168.
+          <lb/>3252
+          <lb/>SPANGENBERG, Cyr. : Die erste und ander Epistel des heyligen
+          <lb/>Apostels S. Pauli Thessalonicher... Sampt einer kurtzen
+          <lb/>Historia oder Chronica von der Statt Thessalonica und
+          <lb/>einem Register. — Strasbourg, Samuel Emmel 1564,
+          <lb/>in-fol.
+          <lb/>Bibl. S. Guillaume, Strasbourg.
+          <lb/>3253
+          <lb/>SPANGENBERG, Cyr. : Chronicon Corinthiacum. Historien und
+          <lb/>Geschicht der Stadt Corinth. — Strasbourg, Samuel
+          <lb/>Emmel 1569, in-40.
+          <lb/>Ritter, Hist. impr. app. 386.
+          <lb/>3254
+          <lb/>SPANGENBERG, Cyr. : Sächsische Chronik. — Strasbourg
+          <lb/>1585, in-fol.
+          <lb/>Goedeke II2, p. 194, no 95 (a).
+          <lb/>3255
+          <lb/>SPANGENBERG, Cyr. : Gegenbericht Auff Doctorn Johann.
+          <lb/>Pistorij Sieben Böse Geister. So sich mercklich in jhme
+          <lb/>selbs regen... (9 lignes). M.D.XCVI. — (Strasbourgl
+          <lb/>1596, in-4°. [La préface est datée de Strasbourg 1595l.
+          <lb/>Bibl. S. Guillaume Strasbourg.
+          <lb/>3256
+          <lb/>SPANGENBERG, Cyr. : Von der kunst der musica, auch von
+          <lb/>aufkommen der meistersänger. — Strasbourg 1598.
+          <lb/>Goedeke IIe, p. 194, no 95 (b).
+          <lb/>3257
+          <lb/>SPANGENBERG, Cyr. : Hennebergische Chronik. — Strasbourg
+          <lb/>1599, in-fol.
+          <lb/>Goedeke II2, p. 194, n° 95 (b); B N Strasbourg : Ritter,
+          <lb/>Rép. n° 2173l.
+          <lb/>3258
+          <lb/>SPANGENBERG, Cyr. Voir aussi : COELIUS, Michael, n° 1416;
+          <lb/>PSALTER, n° 3037 ; RITTER, Rép, nos 2166-2173.
+          <lb/>473
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:14.301421+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002520.tif
+IMAGE WIDTH: 2486
+IMAGE HEIGHT: 3960
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>WICKRAM, Jörg (Fassnacht-Spiel) : Ein hüsch new Fasznacht
+          <lb/>Spil, ausz heyliger Biblischer gschrifft gezogen, der
+          <lb/>trew Eckart genant... Der trew Eckart heysz ich, Jörg
+          <lb/>Wickram von Colmar macht mich. — (Strasbourg,
+          <lb/>Jacques Frölich 1538, in-8°.
+          <lb/>Goedeke II2, p. 460, n° 3 a; Vogeleis, p. 238: B N Paris. 3484
+          <lb/>WICKRAM, Jörg (Eckart) :.. Der Trew Eckart... —
+          <lb/>(Strasbourg, Christian Müller (Mylius) 1559, in-80.
+          <lb/>Goedeke II2, p. 460, n° 3 b.
+          <lb/>3485
+          <lb/>WICKRAM, Jörg (Evangelisch Spiel) : Ein schönes und
+          <lb/>Evangelisches Spil von dem verlornen Sun... Und auf
+          <lb/>Pfingsten von einer Ersamen bürgerschafft zu Colmar
+          <lb/>gespilt. Anno 1.5.4.0. — (Colmar, Barth. Grüninger 1540),
+          <lb/>in-80.
+          <lb/>Goedeke I12, p. 461, n° 6.
+          <lb/>3486
+          <lb/>WICKRAM, Jörg (Gabriotto) : Ein schöne history, Von
+          <lb/>sorglichem Anfang und Auszgang der brinnenden liebe,
+          <lb/>vier Personen betreffend, Nemlich zwen Edle Jüngling
+          <lb/>vonn Parisz und zwo schöner Jungfrawen. [Titre cou¬
+          <lb/>rant : Ein schöne History, Von zweien jungen Rittern
+          <lb/>(Gabriotto und Reinhard). — Strasbourg, Jacques Frölich
+          <lb/>[vers 1551), in-4°.
+          <lb/>Heitz-Ritter, n° 174 : Wolfenbüttel.
+          <lb/>3487
+          <lb/>WICKRAM, Jörg (Gabriotto) : (Idem). — Strasbourg,
+          <lb/>Jacques Frölich 1551, in-4°.
+          <lb/>Bolte, Wickrams Werke Bd. I, p. XXXIX, (A): Berlin Yu 3351,
+          <lb/>Breslau, B M Munich; Heitz-Ritter, Nachträge, p. 214 :
+          <lb/>Gabriotto, n° 1.
+          <lb/>3488
+          <lb/>WICKRAM, Jörg (Galmy) : Ein schöne und liebliche History
+          <lb/>von dem edlen und theuren Ritter Galmy und von
+          <lb/>seiner züchtigen liebe, So er zu einer Hertzogin getragen
+          <lb/>had. — Strasbourg, Jacques Frölich 1539, in-4°.
+          <lb/>518
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

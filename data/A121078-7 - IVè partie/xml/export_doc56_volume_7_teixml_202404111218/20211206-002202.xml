@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:06.853134+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002202.tif
+IMAGE WIDTH: 2504
+IMAGE HEIGHT: 3966
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>GART der Gesundheit. Voir: HoRTUs sanitatis, nos 2072-
+          <lb/>2077.
+          <lb/>GARTENGESELLSCHAFT. Voir : FREY, Jacob, n° 1771;
+          <lb/>MONTANUS, Martin, n° 2716.
+          <lb/>GASSARUS, Achilles P. : Historiarum et Chronicorum totius
+          <lb/>mundi Epitome, nunc denuo quam accuratissime tum
+          <lb/>emendata, tum ab ipsomet autore dignissime aedita. —
+          <lb/>Strasbourg, Crato Mylius 1538, in-8°.
+          <lb/>Walter, n° 1354.
+          <lb/>1816
+          <lb/>GASSENHAUER und Reutterlieder. (Strasb. 1536), in-8°.
+          <lb/>Goedeke IIa, p. 32, n° 13 : Berlin, Munich.
+          <lb/>1817
+          <lb/>GAST, Hiob. : De corpore et sanguine Domini. — Haguenau,
+          <lb/>Jean Secer 1527.
+          <lb/>Ritter, Hist. de l’impr., p. 393.
+          <lb/>1818
+          <lb/>GAST, H. Voir: BRENTIUS, Joh., Ecclesiastes n° 1070. Voir
+          <lb/>aussi: RITTER, Rép. n° 935.
+          <lb/>GATTUNG : Der Newen Welt Gattung Schlag und eygen¬
+          <lb/>schafft. Von der Welt lauff und Obentheür. Damit
+          <lb/>sie umbgäht für und für... 1539. — (Strasbourg, Jacques
+          <lb/>Cammerlander! 1539, in-4°.
+          <lb/>Goedeke II2, p. 281, n° 34.
+          <lb/>1819
+          <lb/>GEBER : ... De Alchimia libri tres. — (Strasbourg, Jean
+          <lb/>Grüninger, 10 mars 1529), in-fol.
+          <lb/>Panzer 6, 115; Schmidt I, n° 239; Baer (Francfort-s.-M.),
+          <lb/>Catal. 500 (1907), n° 829 ; 40 M. — Bâle et B N Munich.
+          <lb/>[Ritter, Rép. n° 937 ; éd. Grüninger 1531].
+          <lb/>1820
+          <lb/>GEBER. Voir aussi: RITTER, Rép. nos 936-938.
+          <lb/>1821
+          <lb/>GEBWILER, Hier. (Beschirmung) : Beschirmung des lobs...
+          <lb/>200
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

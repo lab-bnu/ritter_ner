@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:02.017425+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002026.tif
+IMAGE WIDTH: 2484
+IMAGE HEIGHT: 3972
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>(Marque typ. Rihel)... — Argentorati, typis Josiae
+          <lb/>Rihelij Haeredum : [vers 1598), in-8°. (La préface est de
+          <lb/>15921.
+          <lb/>Bibl. S. Guillaume Strasbourg.
+          <lb/>851
+          <lb/>ARISTOTELES : Epitome doctrinae moralis, ex decem libris
+          <lb/>ethicorum Aristotelis ad Nichomachum collecta pro
+          <lb/>Academia argentinensi per Theophilum Golium, ethices
+          <lb/>ibidem professorem. — Strasbourg, Josias Rihel 1597,
+          <lb/>in-8°. (Josias Rihel est mort en 1597).
+          <lb/>Ritter : B M Strasbourg no 425.
+          <lb/>852
+          <lb/>ARISTOTELES : (Idem). — Strasbourg, Josias Rihel (vers
+          <lb/>15971, in-8°.
+          <lb/>Ritter : B M Strasbourg no 426.
+          <lb/>853
+          <lb/>ARISTOTELES : (Titre grec)... Compendium librorum physi¬
+          <lb/>corum Aristotelis : conscriptum &amp;amp; aeditum à Joanne
+          <lb/>Hawenreutero... In usum Academiae Argentoratensis...—
+          <lb/>Argentina, typis Josiae Rihelii Anno M.D.C. (1600),
+          <lb/>in-8°.
+          <lb/>Bibl. S. Guillaume Strasbourg. Ritter : B M Strasbourg
+          <lb/>n° 428.
+          <lb/>854
+          <lb/>ARISTOTELES. Voir aussi : BUECHLEIN (ein hüpsch) n° 1200;
+          <lb/>ERASMUS n° 1577; GOLIUS, Th. n° 1919; JUNIUS,
+          <lb/>Melchior n° 2172; KEFELIUS n° 2219; PRECHTER
+          <lb/>n° 2983/4. RITTER, Séb. n° 3115/6; RITTER, Rép, nos 74-
+          <lb/>82; VELCURIO n° 3396.
+          <lb/>[ARNAULD, Antoine) : Antihispanus, das ist Widerlegung
+          <lb/>spanischer unart, angemaszter der Kron Franckreich
+          <lb/>unzeitigen beherrschung... — Gedruckt zu Leyden
+          <lb/>(plutôt : Strasbourg, Bernard Jobin) 1590, in-40
+          <lb/>(Quelques-uns attribuent la traduction à Fischart).
+          <lb/>GK VI, 8990: B N Berlin, Vienne. Hauffen, Fischart-Studien
+          <lb/>dans Euphorion X, p. 18.
+          <lb/>855
+          <lb/>24
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:14.085895+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002506.tif
+IMAGE WIDTH: 2492
+IMAGE HEIGHT: 3988
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>meyster Hansen Virdung von Hasfurt, usz der grossen
+          <lb/>Coniunction der dryen obersten Planeten Saturni, Jovis
+          <lb/>und Martis gezogen. Von der zukunfft eins nüwen
+          <lb/>Propheten, und anderer grosser geschicht... Gemacht
+          <lb/>zu eren des... Herrn Philipsen Pfaltzgraven vom Rhyn...
+          <lb/>— (Strasbourg, Mathias Hupfuff 1503), in-4°.
+          <lb/>Schmidt V, n° 25 : Wolfenbüttel.
+          <lb/>3413
+          <lb/>VIRDUNG, Hans : (Idem). — Strasbourg, Mathias Hupfuff
+          <lb/>1504, in-40.
+          <lb/>Schmidt V, n° 33; Weller, Rep. 303; Panzer, Zusätze 99.
+          <lb/>3414
+          <lb/>VIRDUNG, Hans : Practica... (Prédictions pour les années
+          <lb/>1542-64). — Strasbourg, Jacques Cammerlander 1542,
+          <lb/>in-4°.
+          <lb/>Zinner 1809; Hellmann, Beiträge I, n° 12.
+          <lb/>3415
+          <lb/>VIRDUNG, Hans : Die grosz Practica bisz mann zelt M. D.Ixxxi
+          <lb/>jar. Darinn werden ausz den schweren Coniunction
+          <lb/>Saturny und Jupiters, Anno M. D.Ixxxj und groszen
+          <lb/>Eclypsis der Sonnen, Anno M.cccclxxxv. Auch ausz
+          <lb/>der zusamenfügung aller Planeten in den fischen,
+          <lb/>geschehen Anno M. D. xxxiiij, grosse... zuvor nie gehörten
+          <lb/>und allen staenden wol achtzunehmende haendel und
+          <lb/>propheceien... trewlichen angezeygt. Durch d. Bilger
+          <lb/>Ruth im wald verborgen und M. Johan Virdung von
+          <lb/>Haszfurt, an tag geben. — Strasbourg, Jacques
+          <lb/>Cammerlander [vers 1544), in-4°.
+          <lb/>Le 25 juin 1937 Friedrich Otto, antiquaire à Mannheim a
+          <lb/>offert à la Bibliothèque un exemplaire pour 125 M. — Graesse V,
+          <lb/>p. 230. Zinner 1866; Hellmann, Beiträge I, n° 14.
+          <lb/>3416
+          <lb/>VIRDUNG, Hans : Die grosz Practica. (Prédictions pour les
+          <lb/>années 1545-81), — Strasbourg, Jacques Cammerlander
+          <lb/>1545, in-40.
+          <lb/>Zinner 1890; Hellmann, Beiträge I, n° 15.
+          <lb/>3417
+          <lb/>504
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

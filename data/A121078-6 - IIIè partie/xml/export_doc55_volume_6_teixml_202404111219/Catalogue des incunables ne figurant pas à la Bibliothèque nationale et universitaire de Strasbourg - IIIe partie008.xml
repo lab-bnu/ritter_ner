@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:05.292842+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie008.tif
+IMAGE WIDTH: 2494
+IMAGE HEIGHT: 3934
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>ALEXANDER de Villa Dei : Doctrinale. Pars 1, 2.
+          <lb/>(Strasbourg, J. Grüninger et Tabula : J. Prüss vers 1485),
+          <lb/>in-40.
+          <lb/>G W 968; Copinger 318; Reichling : Doctrinale 7. Fürstenbibl.
+          <lb/>Pürglitz.
+          <lb/>33
+          <lb/>ALEXANDER de Villa Dei: Doctrinale. Pars 1, 2. — (Strasbourg,
+          <lb/>Jean Prüss après 1500 (?)), in-4°.
+          <lb/>G W 976, Hain 758. Nuremberg (Germ. Mus.).
+          <lb/>34
+          <lb/>ALEXANDER de Villa Dei : Doctrinale. Pars I. Avec commen¬
+          <lb/>taire de Johannes Synthen. — Strasbourg (Martin Schott
+          <lb/>27. XII 1487, in-40.
+          <lb/>G W 1140; Hain-Copinger 14761, T. 1 — Copinger 304,
+          <lb/>Proctor 397; Reichling : Doctrinale 36. B M Augsbourg,
+          <lb/>Oxford, Stuttgart.
+          <lb/>35
+          <lb/>ALEXANDER de Villa Dei: Doctrinale. Pars II. Avec commen¬
+          <lb/>taire de J. Synthen. — (Strasbourg, Martin Schott
+          <lb/>11. VIII 1487, in-40.
+          <lb/>G W 1153; Hain-Copinger 14761 T. 2; Collijn : Upsala 71;
+          <lb/>Reichling : Doctrinale 35. B M Augsbourg, B N Munich,
+          <lb/>Vienne etc.
+          <lb/>36
+          <lb/>ALEXANDER de Villa Dei: Doctrinale. Pars I. Avec commen¬
+          <lb/>taire (Glossa notabilis) de Gerardus Zutphaniensis. —
+          <lb/>Strasbourg, Martin Flach 1488, in-4°.
+          <lb/>G W 1051. Hain-Copinger 679; Reichling : Doctrinale 47;
+          <lb/>Schmidt VI, p. 4, n° 19. Carlsruhe, Londres, BN Munich etc.
+          <lb/>3
+          <lb/>ALEXANDER de Villa Dei: Doctrinale. Pars 1-4. Avec commen¬
+          <lb/>taire de Ludovicus de Guaschis. — (Strasbourg,
+          <lb/>Martin Flach 8. III. 1488), in-4°.
+          <lb/>G W 1010; Hain-Copinger 751; Reichling : Doctrinale 42.
+          <lb/>Schmidt VI, p. 3, n° 16. B M Mayence, B N Munich,
+          <lb/>Vienne etc.
+          <lb/>38
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

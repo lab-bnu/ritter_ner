@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:12.365183+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002421.tif
+IMAGE WIDTH: 2500
+IMAGE HEIGHT: 3984
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>hundert und eyn jar... und weret nün jar lange die
+          <lb/>nesten nach einander und saget von wunderlichen
+          <lb/>dingen die jn der zyt geschehen sollen, in der welt. —
+          <lb/>(Strasbourg, Mathias Hupfuff (3.1X. 11501), in-4°. (Nouv.
+          <lb/>éd. de la Pronosticatio de Lichtenbergerl.
+          <lb/>Panzer, Annalen, Zusätze 95; Schmidt V, n° 13 : Nuremberg.
+          <lb/>2976
+          <lb/>PRACTICA : Prattica (!) dütsch anfahen, So man zalt noch
+          <lb/>gottes geburt Tusent fünffhundert und zwey jar... Und
+          <lb/>zu lescht, von der zukunfft des Endcrist... Und ist
+          <lb/>gesatz uff xxvij. ior lang. — (Strasbourg, Barth. Kistler)
+          <lb/>1502, in-4° (fol. D 4 a : « Disz bedacht vorgedanck daz
+          <lb/>rot ich hans Schrotbanck. Getruckt uff Grüneck.).
+          <lb/>Weller 239; Schmidt IV, p. 8, n° 18: Bibl. d’Ulm.
+          <lb/>2977
+          <lb/>PRACTICA : Practica dütsch anfohen. So man zalt... Tusent
+          <lb/>fünff hundert und zwey jor... — (Strasbourg, Mathias
+          <lb/>Hupfuff 1502), in-4°. (A la fin du texte : Hans
+          <lb/>Schrotbanckl.
+          <lb/>Schmidt V, n° 24 : Nuremberg, Musée germanique.— BN
+          <lb/>Berlin.
+          <lb/>2978
+          <lb/>PRACTICA : auffs M. D. XLIV Jar. Darinnen werden erschröck¬
+          <lb/>liche Finsternussen... durch den Schreiber Esdram an
+          <lb/>tag bracht. — Strasbourg, Jacques Cammerlander 1543,
+          <lb/>in-40.
+          <lb/>Zinner 1824.
+          <lb/>2979
+          <lb/>PRACTICA : uff das Jar 1561. — Mulhouse, Pierre Schmid
+          <lb/>1560, in-4°.
+          <lb/>En outre : Keyserliche Practica... ausz allen alten Weissa¬
+          <lb/>gungen, Strasbourg, J. Cammerlander s. d. Voir : Ritter,
+          <lb/>Rép. n° 1919l.
+          <lb/>2980
+          <lb/>PRAETORIUS, Abdias : De discrimine sententiarum Lutheri,
+          <lb/>Sacramentariorum &amp;amp; Pontificiorum. Jn materia Domi¬
+          <lb/>419
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:45.840449+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078117.tif
+IMAGE WIDTH: 2318
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1093
+          <lb/>philipp. me- lanch-] thon S. D.... (Préface de 7 pp.)
+          <lb/>Fol. a 2a: illus. sa- xoniae principi,  d. ioanni fri- derico. &amp;amp;c.
+          <lb/>3 M. 50.
+          <lb/>R102191 (1). Prov.: F. A. Brockhaus, Leipaig 22/XII 1890;
+          <lb/>rieur de la couverture, timbre: Hamb furgerl Stadtbibl. Realeat. PD. Vol.
+          <lb/>Au bas du titre, timbré : Seminar-Bibliothek Gnadenfeld. A l&amp;#x27;inté¬
+          <lb/>III p. 112.
+          <lb/>1523
+          <lb/>MELANCHTHON Philippus
+          <lb/>Haguenau, J. Secer 1526
+          <lb/>GRAMMA TICA LATINA PHI LIPPI MELANCHTHO nis, ab
+          <lb/>autore nuper aucta &amp;amp; recognita. Eiusdem Dialectica.
+          <lb/>Item Rhetorica. Hulterichi Hutteni, de ratione componen
+          <lb/>dorum Carminum, libellus.
+          <lb/>Haganoe, per lohan. Sécerium, Anno M. D. XXVI.
+          <lb/>Mense! Martio.
+          <lb/>A la fin: Haganoe per lohan. Secerium. Anno. M. D.
+          <lb/>XXVI. Au recto du dernier f. blanc, marque typ. de J. Secer. (HCB
+          <lb/>Planche LXX n° 7; Silvestre n° 683.)
+          <lb/>In-8°, car. itol., 158 ff. non ch., sign. a-u, titre courant, récla¬
+          <lb/>mes, notes marg., init, ornée G, titre encadré.
+          <lb/>Au verso du titre:... Ioanni Remboldo Hattensi amico suo, Io¬
+          <lb/>hannes Secerius.... — Sororio! tuo Barptolomæo Botzhemio commenda.
+          <lb/>(2 pp.)
+          <lb/>R 101.586. Prov. : A. Stuber, Wurtabourg (Catal. 32, n° 779)
+          <lb/>21/XI 1879; 4 M. Notes mss. En bas du titre:,Blumberger Stud. juris.&amp;quot;
+          <lb/>1524
+          <lb/>MELANCHTHON Philippus
+          <lb/>Strasbourg, J. Pruss 1527
+          <lb/>Ein büchlin für die leyen unnd kinder.! (Feuille de lierre.)
+          <lb/>Philips Melanch- thons Handbüchlin, wie mann die Kin¬
+          <lb/>der zû der schrifft und lere halten soll. 1527.
+          <lb/>A la fin: Gedruckt zû Straszburg bey Hans preüssen
+          <lb/>am 11. tag des Mayyen. Anno 1527. (Verso blanc.)
+          <lb/>In-80, car. goth., 32 ff. non ch., sign. A-H, init, ornées, titre en¬
+          <lb/>cadré (H d B Planche X n° 7).
+          <lb/>R100.585. Prov.: Rosenthal, Munich II/XII 1893, 18M. 1525
+          <lb/>MELANCHTHON Philippus
+          <lb/>Haguenau, J. Secer 1527
+          <lb/>SCHO LIA IN EPISTO-] LAM PAVLI AD COLOSSENSES.
+          <lb/>PHIL. MELANCH.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

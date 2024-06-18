@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:30.702286+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2144.tif
+IMAGE WIDTH: 2314
+IMAGE HEIGHT: 3826
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>140
+          <lb/>pour la plupart composées de 2 ou de 3 bois, de différente grandeur,
+          <lb/>les unes hautes de 115, larges 140 mm, les autres hautes 60, larges
+          <lb/>145 mm, d’autres, hautes 57, larges 90 mm.
+          <lb/>(5 pages à 2 col.)
+          <lb/>Au verso du titre : Registrum vocabulorum moralium.
+          <lb/>fol. 4a non ch.: Autoritates Boetij, (5 pages à 2 col.)
+          <lb/>(une page à 2 col.)
+          <lb/>fol. 6b non ch.: Registrum hystoriarum et fabularum.
+          <lb/>fol. 7a non ch.: In philosophicam consolationem Boetii:
+          <lb/>epigramma Sebastiani B. (rant] (10 distiques.)
+          <lb/>Au verso: Boetij Rhomani et ora-toris celeberrimi
+          <lb/>Libri de Consolatione philosophiae: &amp;amp; commenta- toris...
+          <lb/>doctoris sancti Tho mae super eosdem Incipiunt feliciter.
+          <lb/>R 10.485. Prov. : Butsch, Augsbourg, 5/11. 1884; 30 M.
+          <lb/>BN Paris, Rés. m. R. 35; Proctor II, Sectio I, No 9886: Londres,
+          <lb/>British Museum; Oxford, Bibl. Bodleiana; Schmidt I, No 57 : Jadis
+          <lb/>Bibl. de Strasbourg, Incun. 1055, BM de Strasbourg et BM de
+          <lb/>Sélestat; Walter, No 799 et 800; GPB: Berlin SB, Breslau UB,
+          <lb/>Göttingen UB, Münster UB.
+          <lb/>Betru lecundumi
+          <lb/>.i.quontũ.i.aura rerũ tpaliũ que preopirat
+          <lb/>b bomincm
+          <lb/>Eu  poipiti mersa profundo
+          <lb/>Mrnsia
+          <lb/>talis meno ..contemplatiõe
+          <lb/>S
+          <lb/>.1.obsouraf
+          <lb/>Mes hebet &amp;amp; ppria luœ relicta
+          <lb/>1.ignorantue ertertor:8
+          <lb/>fol Ya
+          <lb/>225
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

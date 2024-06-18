@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:49.740403+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5034.tif
+IMAGE WIDTH: 2370
+IMAGE HEIGHT: 3878
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1342
+          <lb/>SCHULHANS. Voir: GERSDORF Hans von.
+          <lb/>(SCHWABENSPIEGEL]
+          <lb/>Strasbourg, M. Hupfuff, 1505
+          <lb/>Keyserlich vnd Künig liche Lant vnd lehenrecht! nach
+          <lb/>gemeinem sitten vnd gebruch der rechten. (Gravure sur bois :
+          <lb/>écu impérial, surmonté d’une couronne et entouré d’un collier.)
+          <lb/>A la fin : Getruckt in der keiserlichen Freyhen statt Strasz¬
+          <lb/>burgk durch Mathishüpfuff vff sant Bartholomeus abent.
+          <lb/>jm jar als man zalt M. Ve vnd V.
+          <lb/>In-fol., car. goth., 5 ff. non ch. (titre et registre) — CX ff. ch., le dernier
+          <lb/>par erreur cviï, le 15e est marqué XX, le 68e LXIX, titre courant.
+          <lb/>Au verso du titre une gravure d’ancien style : un empereur sur un
+          <lb/>trône, à sa droite les 4 électeurs laîques, à sa gauche les 3 ecclésiastiques,
+          <lb/>tous avec leurs armoiries; au bas 2 petits hommes à genoux, élevant un
+          <lb/>livre vers l’empereur; fol. 1a. Init. H formée de 2 hommes; celui à gauche
+          <lb/>du spectateur pose le genoux sur un autre qui est accroupi, celui à droite
+          <lb/>porte un chevreuil, à ses pieds un chien. Le même H se trouve dans le
+          <lb/>Boetius publ. par Schott en 1500.
+          <lb/>R. 10.241. Prov. : Butsch, Augsbourg, 12/x, 1883; 20 M. Annotations
+          <lb/>mss.
+          <lb/>BN Munich et BM Zurich (incomplet).
+          <lb/>Schmidt V, N° 38.
+          <lb/>2103
+          <lb/>SCHWARTZ Abraham
+          <lb/>Strasbourg, A. Bertram, 1599
+          <lb/>Disputatio! de furto, deli-cto gravi et quoti- diano.!
+          <lb/>in inclyta argentora-tensium Academia publco (!) proposita!
+          <lb/>à Georgio Obrechto I. C. ( Respondente. Abrahamo
+          <lb/>Schwartzio! Altorffensi Vuirtenbergico.
+          <lb/>Marque typ. de Bertram. H. &amp;amp; B. Planche XLIV, N°I;
+          <lb/>Silvestre, n° 1023.)
+          <lb/>Argentorati Excudebat Antonius Bertramus. (1599.]
+          <lb/>In-4°, car, rom., 12 ff. non ch., sign. A-C, réclames, init. ornée D.
+          <lb/>R. 10.548. Prov. : Kubasta &amp;amp; Voigt, Vienne, 25/xI, 1896.
+          <lb/>Voir : Obrecht Georgius, Selectissimae disputationes ex juris civilis
+          <lb/>materiis. Strasbourg, A. Bertram, 1599.
+          <lb/>2104
+          <lb/>SCHWARTZERD Philipp. Voir : MELANCHTHON Philippus.
+          <lb/>SCHWARZ Georg. Voir : NIGRINUS Georgius.
+          <lb/>SCHWENCRFELD Caspar
+          <lb/>Strasbourg, B. Beck, 1529
+          <lb/>Apologia vnd erclerung!! der Schlesier daz sy den leib vnd
+          <lb/>blut Christi jm Nachtmal des herren vnd jm geheimnisz
+          <lb/>des. h.Sacraments nicht verleücknen. Auff das angeben
+          <lb/>vnd büchlin damit etliche in disem ar! tickel bey der Kü.
+          <lb/>Ma. zu Ungern, Behem &amp;amp; c.seind beschuldiget worden.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

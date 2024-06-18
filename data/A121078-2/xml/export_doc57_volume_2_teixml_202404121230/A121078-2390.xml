@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:37.834473+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2390.tif
+IMAGE WIDTH: 2370
+IMAGE HEIGHT: 3822
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>386
+          <lb/>CONRADUS DE HALBERSTADT
+          <lb/>Strasbourg, J. Schott, 1530.
+          <lb/>CONCOR DANTIAE Maiores Bibliae, recens, sum-mo
+          <lb/>studio, ab innumeris errori- bus uindicatae, emacula-tae,
+          <lb/>&amp;amp; auctae.) Adiecto scilicet, insignium Factorum eiusdem
+          <lb/>Catalogo, in prioribus nusquam uiso.
+          <lb/>Ingenio: arte &amp;amp; opera Joannis Schotti Argentorat.
+          <lb/>M. D. XXX.
+          <lb/>A la fin: ARGENT. IN AEDIBVS Ioannis Schotti, tertia
+          <lb/>Septembris,! Anno Christianae salutis, M. D. XXX. (Verso¬
+          <lb/>blanc.)
+          <lb/>In-fol. car, goth., 3 col., 324 ff. non ch. et 1 f. blanc, sign. a-z,
+          <lb/>A-Z, aa-gg.
+          <lb/>Suivent avee un nouveau titre: CONCOR] DANTIAE) uocum
+          <lb/>INDECLINA- BILIVM totius Bibliae. Adiecto illis insignium.
+          <lb/>Factorum Catalogo utriusque Testamenti. M. D. XXX.
+          <lb/>84 ff. non ch., sign. AA-OO.
+          <lb/>Titre courant, réclames, notes marginales, initiale ornée A.
+          <lb/>Le titre a le même encadrement que la concordance allemande au
+          <lb/>No 574 (R10091).
+          <lb/>Au-dessus de l&amp;#x27;encadrement: SOLI DEO GLORIA. ( Sicut per
+          <lb/>unius delictum, in omnes homines condemnatio:! Sic per¬
+          <lb/>unius iusticiam, in omnes homines iustificatio uitae.
+          <lb/>Au-dessous de l’encadrement : Abraam credidit Deo, &amp;amp; repu¬
+          <lb/>tatum est illi ad iusticiam.
+          <lb/>Nouvelle édition des Concordantiae achevées au 14e siècle par le
+          <lb/>frère Conrad de Halberstadt.
+          <lb/>*R10.272. Prov.: Rud. Hönisch, Leipzig, 28/VIII. 1917;8 M.
+          <lb/>Annotation mss. au-dessous du titre: &amp;quot;Ex bibliotheca F. F. Aspa¬
+          <lb/>censium.»
+          <lb/>A l’intérieur du 1er plat: « Duplum Bibliothecae Regiae Monacen¬
+          <lb/>sis.» Rel. anc.
+          <lb/>2. ex. *R 10.527. Prov.: 1. Baer 4 Co., Francfort s. M., 22/XI.
+          <lb/>1878; sans ind. de prix: provient de la B Darmstadt dont c’était un
+          <lb/>double. Au milieu du titre: « Orate pro F. Petro Herber, 1638.»
+          <lb/>GPB: BU Breslau, Gœttingue, Greifswald, Munster. Schmidt
+          <lb/>II, No 115: BM Strasbourg.
+          <lb/>577
+          <lb/>CONRADUS DE HALBERSTADT
+          <lb/>Strasbourg, P. Gœtz, 1530.
+          <lb/>CONCORDAN tiae Maiores Sacrae Paginae, quam Bibliam
+          <lb/>uo- cant, omnium nouissimae, iam recens ab infinitis,
+          <lb/>quibus priores ferè scatebant omnes, erroribus ac mendis,
+          <lb/>cura summa ac uigilantia singu-lari restitutae.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

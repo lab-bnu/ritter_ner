@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:04.873112+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3007.tif
+IMAGE WIDTH: 2362
+IMAGE HEIGHT: 3842
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>ECKHART ZUM DRUBEL. Siche: TREUBEL
+          <lb/>EDUCATIO PUERILIS. Siche: GOLIUS Theophilus
+          <lb/>EGESIPPUS. Siche: HEGESIPPUS
+          <lb/>EGIDIUS DE ROMA. Siche: AEGIDIUS ROMANUS
+          <lb/>EGLINGER Werner, Disputatio quinta de non mortis causa
+          <lb/>relata donatione. Siche: OBRECHT Georgius, Oikonomia do¬
+          <lb/>nationis simplicis, et relatae. Strassburg, A. Bertram, 1595.
+          <lb/>R10.558. SB Berlin.
+          <lb/>EGLOFFSTEIN. Siche: LUPOLDUS DE EGLOFFSTEIN
+          <lb/>EHESPIEGEL. Siche: SPANGENBERG Cyriacus, Ehespiegel, 1567
+          <lb/>EISEN Joh. Baptista, Disputatio quarta. De probatione exceptio¬
+          <lb/>num, &amp;amp; de intellectu nou. 90, c. 4. 4°, Antio., 19 unn. Bll.,
+          <lb/>Sign. L 2-P4. Siche OBRECHT Georgius, Selectissimae dispu¬
+          <lb/>tationes ex juris civilis materiis. Strassburg, A. Bertram, 1599.
+          <lb/>R10.548(1). SB Berlin.
+          <lb/>ERKEHARDUS monachus Urengiensis. Siche: BURCHARDUS
+          <lb/>Urspergensis
+          <lb/>ELEMENTALE INTRODUCTORIUM Strassburg, M. Schürer, 1513
+          <lb/>Elementale Introductorium in Nominum &amp;amp; Verborum
+          <lb/>declina! tiones Graecas. Graecas dictiones cum eorum
+          <lb/>characteribus, accentibus, ac vocum moderamentis,! hic
+          <lb/>insertas offendes. LECTOR EME, LEGE, ET GAVDEBIS. (Rück¬
+          <lb/>seite leer.)
+          <lb/>Vorderseite des letzten Bl.: Finis, Argentorati, Ex aedibus
+          <lb/>Schürerianis, Mense Maio, AN. M. D. XIII.
+          <lb/>40, Griech. u. Antiq., 10 unn. Bll., Sign. A-B, Kopftitel.
+          <lb/>R101242. Prov. unbekannt. Handschr. Notizen.
+          <lb/>Stadt-B. Strassburg 647.
+          <lb/>Schmidt VIII, Nr. 100. GE (Ordnungswort : Introductorium):
+          <lb/>673
+          <lb/>SB Berlin, UB Breslau, Göttingen.
+          <lb/>451
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

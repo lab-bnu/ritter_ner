@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:13.814704+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3417.tif
+IMAGE WIDTH: 2416
+IMAGE HEIGHT: 3854
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>R 10.444. Geschenk von Dr. Kleinschrod, Jouy 24. VI. 1897.
+          <lb/>Handschr. Eintragung: F. Zacharias Haffner 1558. Auf dem Titelbl.
+          <lb/>des 2. Teiles: Frater Zacharias Haffner ordinis sancti spiritus in mem¬
+          <lb/>mingen... anno 1558.
+          <lb/>1275
+          <lb/>JOSEPHUS Flavius
+          <lb/>Strassburg, Samuel Emmel 1556
+          <lb/>Flauij Jo- sephi des Hochberuempten Histori be¬
+          <lb/>schreibers alle Bücher. Nämlich zwentzig von den alten
+          <lb/>geschichten der Juden. Syben vom Jüdischen krieg, vnd
+          <lb/>Zerstörung Hierusalem... (wie in der Ausgabe von 1553). Mit
+          <lb/>Röm. Kay. Mayestat freyheit. ff zehen Jar.
+          <lb/>Gedruckt zû Straszburg. M. D. LVI. (zvoischen 2 Epheubl.)
+          <lb/>Rücks, leer.
+          <lb/>Am Schluss : Gedruckt zû Straszburgbey Samuel
+          <lb/>Emmel.M. D. LVI. (zwischen 2 Epheubl.)
+          <lb/>2°, Got., 12 unn., CCCLXXXVII num. u. 17 unn. Bll. (2sp.
+          <lb/>Index) (Geschichte der Juden); 12 unn., CLXXXIII num. Bll, mit
+          <lb/>neuem Titelbl. — 8 unn. 2sp. Bll., Kopft., Kust., Marg., Init., Titel
+          <lb/>rot u. schuvarz. Vorreden wie in den früheren Ausgaben, doch fehlt die¬
+          <lb/>jenige des Druckers auf der Rücks, des Titelbl.
+          <lb/>R10.609. Geschenk von Fid. Butsch, Augsburg 1871. Auf dem
+          <lb/>vorderen Einbanddeckel Exlibris mit Wappen. Alter Einband. 1276
+          <lb/>JOSEPHUS Flavius
+          <lb/>Strassburg, Samuel Emmel 1562
+          <lb/>störung Hierusalem, sy- ben bücher, nach den Griechi¬
+          <lb/>schen Exem-plaren restituiert vnnd gebessert.Sampt
+          <lb/>einer Vorred, in welcher die Histori diser bücher auffs
+          <lb/>kürtzest, verständig vnd hällbegriffen ist, vnd Teütsch¬
+          <lb/>land ab fremb- dem schaden gewarnet würt.! Mit Röm.
+          <lb/>Key. Mayestat Freiheyt auffen Jar.
+          <lb/>Getruckt zû Straszburg bey Samuel Emmel. M. D.
+          <lb/>LXII. (Jahreszahl zwvischen 2 Epheubl.) Rücks, leer.
+          <lb/>Bl. 171 am Schluss: Anno M. D. LXI.
+          <lb/>20, Got., 12 unn., CLXXI num., 8 unn. 2sp. Bll. (Index), Kopft.,
+          <lb/>Kust., Marg., Init., Titel rot u. schwarz.
+          <lb/>Bl. AA 2a: ... den alten verordneten des kriegs in der
+          <lb/>statt Straszburg, genandt die Dreyzehener... wünschet
+          <lb/>D. C. Frid vnd) Sig in Christo... Geben zû Straszburg
+          <lb/>im Meyen des Jars M. D. XXXV. (Vorrede, 11 S.)
+          <lb/>R 57 (2). Geschenk von Dr. Rothe, Dessau 27. X. 1881. 1277
+          <lb/>859
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

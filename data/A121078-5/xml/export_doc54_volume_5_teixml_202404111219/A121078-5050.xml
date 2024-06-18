@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:50.647814+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5050.tif
+IMAGE WIDTH: 2398
+IMAGE HEIGHT: 3864
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1358
+          <lb/>jetzund von newem mit fleisz vbersehen, vnd an vilen orten!
+          <lb/>verbessert, auch in Capittel abgetheilet.!! Mit einem volkom¬
+          <lb/>nen Register.
+          <lb/>Marque typ. de Josias Rihel (H. &amp;amp; B. Planche XXIX,
+          <lb/>No 5; Silvestre, No 757).
+          <lb/>Getruckt zu Straszburg im jar !! 1558.
+          <lb/>A la fin: Getruckt zu Strasz- burg durch Josiam Rihel.
+          <lb/>Anno M. D. LVIII.
+          <lb/>In-fol., car. goth., 6 ff. non ch., CCCLXXXIV ff. ch., 5 ff. non ch. à
+          <lb/>2 col. (table et explicit), titre courant, réclames, notes marg., init. goth.,
+          <lb/>titre rouge et noir.
+          <lb/>Au verso du titre : Zù dem Leser.
+          <lb/>Les autres préfaces comme dans l’édition de 1557.
+          <lb/>A la fin du 26e livre fol. 384 : « Den letsten Octobris dises Jars (1556)
+          <lb/>starbe zû Straszburg der hoch vnd !! wolgelerte Herr Johann Sleidanus
+          <lb/>beider Rechten Licen !! tiatus, welcher auch daselbsten ehrlich begraben».
+          <lb/>R. 10.476. Prov. Bibl. Prof. Baum, 1879.
+          <lb/>Annotations mss., au bas du titre : « Bilwiller 1749».
+          <lb/>Des 2 côtés de la marque typ. « Ex Bibliotheca (mot rayé illisible)
+          <lb/>Wilhelmi 1668. 3 Martij Redimebam». A l’intérieur de la couverture:
+          <lb/>« Ex Bibliotheca Danielis Wilhelmi Nebelii Philos. et Med. Doctoris Med.
+          <lb/>Chem. &amp;amp; Pharm. Profess. Publ. &amp;amp; Ord. Heidelberg. Acad... ». Au recto
+          <lb/>du dernier f. blanc : « Erasmus Auler Jst das buch».
+          <lb/>2136
+          <lb/>SLEIDANUS Johannes
+          <lb/>Strasbourg, 1558
+          <lb/>Histoire de l’Estatde la Religion, et Re-] publique,
+          <lb/>sous l’em-pereur CharlesCinquieme par Jean Sleidan.
+          <lb/>Ce qui est davantage en ceste derniere edition, l’Epistre
+          <lb/>aux Lecteurs le demonstrera.
+          <lb/>En outre ont esté adionts trois liures des! Quatre Empires
+          <lb/>souverains, novuellement mis en lumiere par ledit!! Autheur
+          <lb/>peu de temps auant son trespas.
+          <lb/>Imprimé! A Strasbourg, ( M. D. LVIII. (Verso blanc.)
+          <lb/>In-8°, car. rom., 2 col., 844 pp. ch., 10 ff. non ch. (Table), titre courant,
+          <lb/>réclames, notes marg., init. ornées.
+          <lb/>p. 3-6 : Advertissement! aux lecteurs.
+          <lb/>p. 7-13; A Tres Illustre (] Prince, Auguste, Electeur, !! Duc de Saxe...
+          <lb/>Jean Sleidan... Le vingttroisieme (I de Mars, M. D. I1 LV.
+          <lb/>R. 101.825 (1). Prov. : Bibl. Baum, 1879.
+          <lb/>2137
+          <lb/>SLEIDANUS Johannes
+          <lb/>Strasbourg, 1558
+          <lb/>Trois Livres desQuatre EmpiresSouverains,!
+          <lb/>Assauoir, De Babylone.! Perse. ! Grece.  Rome. (] Par
+          <lb/>Iean Sleidan. Daniel VII... (5 lignes.)
+          <lb/>Imprimé! A Strasbourg, ( M. D. LVIII. (Verso blanc.)
+          <lb/>In-8°, car. rom., 2 col., 96 pp. ch., 4 ff. non ch., dont le dernier blanc
+          <lb/>(Table à 2 col.), titre courant, réclames, notes marg., init. ornées.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

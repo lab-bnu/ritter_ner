@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:04.902526+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3009.tif
+IMAGE WIDTH: 2362
+IMAGE HEIGHT: 3836
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Am Schluss: Argentorati, Apud Schurerium, Mense Mar
+          <lb/>tio. Anno. M. D.XVII. CONRApO Duntzenhemio. Il. dicta¬
+          <lb/>tore Argentorat. (Rückseite leer.)
+          <lb/>80, Griech. u. Antiq., 43 unn. Bll., Sign. a-f.
+          <lb/>R101241. Prov.: Bibl, von Prof. Baum, 1879. Handschriftl. No¬
+          <lb/>tizen. Auf dem Titelbl.: Sum M. Io. Spieth Frib. Brisg.
+          <lb/>676
+          <lb/>Schmidt VIII, Nr. 211. GK. UB Münster.
+          <lb/>ELENCHUS
+          <lb/>Strassburg, 1596
+          <lb/>Scriptorum DTORIS IOHANNIS PAPPI,THEOLOGI
+          <lb/>ARGEN- TORATENSIS, TVM HACTENVS EDITORVM, tùm dein¬
+          <lb/>ceps divina aspirante gra- ta edendorum, Elenchus.
+          <lb/>(Vign.)
+          <lb/>Darunter: ARGENTORATI. ANNO M. D. XCVI. (Rückseite leer.)
+          <lb/>40, Got. u. Antig., 4 unn. Bll., Sign. A, Kustoden, Titeleinfas¬
+          <lb/>sung; ausserdem hat jede Seite eine Einfassung.
+          <lb/>R102.317. Prov.: Stiftung Cunite, 1886.
+          <lb/>677
+          <lb/>ELES Iohannes. Siehe: BRUNFELS Otto
+          <lb/>ELEUTHERIUS Augustinus. Siche: FRANK Sebastianus
+          <lb/>ELIACO. Siehe: PETRUS DE ALLIACO
+          <lb/>ELIMITHAR Elluchasem
+          <lb/>Strassburg, J. Schott, 1531
+          <lb/>TACVINI SANITATIS ELLVCHASEM ELIE] MITHAR Medici
+          <lb/>de Baldath, De sex Rebus non naturalibus, earum naturis,
+          <lb/>operationi- bus &amp;amp; rectificationibus, publico omnium usui,
+          <lb/>conseruandae Sanitatis, recens exarati.
+          <lb/>ALBEN-GNEFIT De uirtutibus Medicinarum,) &amp;amp; Cibo¬
+          <lb/>rum. IAC. ALRIN DVS DE RERVM GRADIBVS.
+          <lb/>ARGENTORATI apud Ioannem Schottum Librarium.
+          <lb/>Cum praerogatiua Caes. Maiestatis ad! sexennium. M. D.
+          <lb/>XXXI. (Rückseite leer.)
+          <lb/>20, Antiq., 163 S., 3 unn. Bll. (Index, 2sp.), Kopftitel, rote Mar¬
+          <lb/>ginalien, Init. A, E, Q, Titel rot u. schwarz.
+          <lb/>S. 3: REVERENDISS. PATRI, ILLVSTRISSI- mo auitae
+          <lb/>Domus Brandenburgen. Marchioni, D. ALBERTO,) Principi
+          <lb/>453
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

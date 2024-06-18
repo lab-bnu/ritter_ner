@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:38.730995+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu131.tif
+IMAGE WIDTH: 2426
+IMAGE HEIGHT: 3858
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>K 3725. Pars I. Don de la ville de Trèves (1871), dont le
+          <lb/>cachet se trouve au recto du 1er f. Rel. anc.
+          <lb/>Pars II. Don de la Bibl. Univ. de Goettingue, 1872. Au haut
+          <lb/>du 1er f.; Ad Conventum vallis Speciosi. Notes mss. Rel. anc.
+          <lb/>479
+          <lb/>VINCENTIUS FERRERIUS. Voir: Ferrerius.
+          <lb/>VIOLA SANCTORUM. Strasbourg, J. Prüss, 23 août 1487, in-4°.
+          <lb/>Hain 10870, Madsen 4170, Pellechet: Colmar 964, Proctor 520,
+          <lb/>Schmidt III, 14, Voulliéme: Berlin 2345, 5.
+          <lb/>K 2544. Prov.: Albert Cohn, Berlin (Catal. 137, N° 498), 24. II.
+          <lb/>1881, 9 M.
+          <lb/>480
+          <lb/>VIOLA SANCTORUM. [Strasbourg, J. Prüss), 8 février 1499,
+          <lb/>in-4°.
+          <lb/>Hain 10873, Proctor 552, Kristeller 52, Schreiber 4594, Voul¬
+          <lb/>liéme: Berlin 2363; Schramm, Bilderschmuck XX, grav.
+          <lb/>N° 1240-1241.
+          <lb/>K 2546. Prov.; Don de la Bibl. Univ. de Heidelberg, 1871. Au
+          <lb/>milieu du titre: «Ad usum fratris Joannis Ruch professus
+          <lb/>monasterii Salem Anno 1583».
+          <lb/>481
+          <lb/>VIOLA SANCTORUM: Martyrologium der Heiligen, Stras¬
+          <lb/>bourg, J. Prüss, 1484, in-fol.
+          <lb/>Hain 10874, Madsen 4171, Proctor 514, Schmidt III, 9, Voul¬
+          <lb/>liéme: Berlin 2338, Schreiber 4593.
+          <lb/>Schramm, Bilderschmuck XX, grav. N° 1185-1197.
+          <lb/>K 2547. Prov.: F. Butsch fils, Aussbourg, 31. I. 1876, 40 M. Au
+          <lb/>haut du titre: «Prodiit hic Liber in Lucem Anno Domini 1483
+          <lb/>in adventu. 1760».
+          <lb/>482
+          <lb/>Vocabularius Exquo. (Lat.-teuton), Strasbourg, J. Prüss,
+          <lb/>1487, in-4°.
+          <lb/>Schmidt III, 16.
+          <lb/>K 3773a. Prov.: F. Butsch, Augsbourg, 26. X. 1885, 4 M. Au
+          <lb/>recto du f. de garde: «Ich maister Hans Biechtlin» (2) (Brecht-
+          <lb/>lin?). Rel. anc.
+          <lb/>483
+          <lb/>Vocabularius Exquo. (Strasbourg, J. Prüss, vers 1488),
+          <lb/>in-4°.
+          <lb/>R 3773. Prov.: Reintgens, Strasbourg, 24. VIII. 1888, 25 M.
+          <lb/>De nombreuses notes mss. Rel. anc.
+          <lb/>2. ex K 3773 b. Prov.: F. Steinkopf, Stuttgart, 28. I. 1873, 6 M.
+          <lb/>Rel anc.
+          <lb/>484
+          <lb/>101
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

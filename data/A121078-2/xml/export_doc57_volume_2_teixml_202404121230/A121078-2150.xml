@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:31.047415+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2150.tif
+IMAGE WIDTH: 2302
+IMAGE HEIGHT: 3828
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>146
+          <lb/>A la fin: Haganoae, per Iohannem Secerium. Anno
+          <lb/>M. D. XXX. Mense Septembri. (Verso blanc.)
+          <lb/>In-40, car, rom,, 132 ff. non ch., sign. a, A-Z, AA-KK, tître
+          <lb/>courant, réclames au verso des ff., notes marginales, belles et grandes
+          <lb/>initiales à fig. A, M, I.
+          <lb/>fol. a 2a: NICOLAVS ( GERBELIVS STVDIOSAE IV-)uentuti...—
+          <lb/>Argentorati prima mensis Septembris.Anno salutis
+          <lb/>M.D.XXX.
+          <lb/>fol. a 3a: (feuille de lierre) ANDREAS! ALCIATVS IVRISCON¬
+          <lb/>SVLTVS, GA-] leatio... — (Préface de 4 pages.)
+          <lb/>RI0I.530. Prov.: J. Bensheimer, Strasbourg, 5/11I. 1879; 6M50.
+          <lb/>BN Paris, K. 3544, Oxford, Bibl. Bodleiana; BM Strasbourg 1093.
+          <lb/>GPB: Berlin SB, Breslau UB, Halle UB, Bonn UB. Göttin¬
+          <lb/>233
+          <lb/>gen UB, Königsberg UB.
+          <lb/>BRACK Wenceslaus
+          <lb/>Strasbourg, M. Flach fils, 1512.
+          <lb/>Vocabulari! us rerum.
+          <lb/>Marque typographique de M. Flach (H e B, Planche VI, No 1,
+          <lb/>Silvestre, N° 1212.)
+          <lb/>A la fin: Impressum Argentine per Martinum Flach.
+          <lb/>Anno domini. M. d. xij. (Verso blanc).
+          <lb/>In-40, car. goth., 2 ff. non ch. (titre et table) — LIV ff. ch.,
+          <lb/>initiales d’attente.
+          <lb/>fol. I: Wenceslaus brack ar-tis professor &amp;amp; exanimator
+          <lb/>in Constan, suis! scolipetis. S. P. dicit.
+          <lb/>R101.599. Prov. : Gilhofer &amp;amp; Ranschburg, 26/VI. 1903, 18 Kr.
+          <lb/>Proctor II, Sectio I, N° 10146: Londres, British Museum;
+          <lb/>Schmidt VI, p. 25, No 27 : Bibl. St. Guillaume, Strasbourg.
+          <lb/>GPB: Berlin SB. Breslau UB.
+          <lb/>234
+          <lb/>BRACKENAU Wendelinus Hock de. Voir: HOCK DE BRACKENAU.
+          <lb/>BRAMER David
+          <lb/>Strasbourg, B. Jobin, 1584.
+          <lb/>Reiszbuch. Inhaltend I. Den Wanderstab  vnd
+          <lb/>Leytung des leiblichen Rei- sens vnnd wanderens. Auch
+          <lb/>bericht von Flüchtigen vnnd Elenden, wie mancherley
+          <lb/>die sein, welche löblich oder sträfflich, was Gott bey
+          <lb/>jnen thut, vnd wes sie sich zu trösten, wie man sich
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

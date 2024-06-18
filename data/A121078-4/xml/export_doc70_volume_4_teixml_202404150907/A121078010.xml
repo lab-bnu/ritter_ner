@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:42.807073+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078010.tif
+IMAGE WIDTH: 2380
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>894
+          <lb/>LANDINUS Christophorus
+          <lb/>Strasbourg, Math. Schürer, 1508
+          <lb/>CHRISTOPHORI LANDINI FLORENTINI LIBRI QVATVOR.
+          <lb/>Primus de vita actiua &amp;amp; contemplatiua.! Secundus de summo
+          <lb/>bono. Tertius &amp;amp; Qvartus in Publii Virgilii! Maronis Alle¬
+          <lb/>gorias.
+          <lb/>Ioannes Kierherus Lectori. S. (6 distiques latins.) Verso
+          <lb/>blanc.
+          <lb/>A la fin: Has Camaldulenses disputationes pulchrioribus
+          <lb/>typis Mathias Schürerius artium doctor excussit, in offi¬
+          <lb/>cina sua litteratoria Argentoraci die. XXVI. Au gusti.
+          <lb/>Anno Christi M. D. VIII. Regnante Caesare Maximiliano
+          <lb/>Augusto.
+          <lb/>In-fol., car. rom., 69 ff. non ch., sign. A-L, titre courant, init.
+          <lb/>Au verso du dernier f.: Beati Arnoldi ad lectorem! Epi¬
+          <lb/>gramma. (6 dist. lat.).
+          <lb/>*RI0.256. Prov.: Don du prof. Charles Witte, Halle 1871.
+          <lb/>2ème ex.: A la suite de: HEMMERLIN Félix: DE Nobilitate et
+          <lb/>Rusticitate Dialogus. Argentorati s. d. — K 1895.
+          <lb/>3ème ex.: *R10.258. Prov. inconnue.
+          <lb/>BN Páris, Rés. Z. 42; Schmidt VIII n° 5: Jadis Bibl, de Stras¬
+          <lb/>bourg Incun, n° 3022, BM et Bibl. St. Guillaume Strasbourg; Beau¬
+          <lb/>leux p. 305: BU Paris.
+          <lb/>1331
+          <lb/>LANG Josephus
+          <lb/>Strasbourg, L. Zetzner 1595
+          <lb/>INDEX ! OMNIVM VOCA-] BVLORVM QVAE IN OM-! NIBVS
+          <lb/>M. VAL. MARTIALIS Poematum libris reperiuntur, vnà
+          <lb/>CVM RERVM, EPITHETORVM AC] phrasium singularium an¬
+          <lb/>notatione: tàm ad lin-guae latinae, quàm ad poëseos
+          <lb/>rectum vsvm concinnatus ac editus) a Josepho Langio
+          <lb/>Caesaremontano, (Marque typogr. de Lazare Zetener avec les mots
+          <lb/>Scientia immutabilis des deux côtés. HEB Planche XLY no 3.) Au¬
+          <lb/>dessous: ARGENTINAE. AERE LAZARI ZETZNERI. Anno CIO.
+          <lb/>ID. XCV. (Verso blanc.)
+          <lb/>In-80, car. ital., 2 col., 266 ff. ch., sign. a-2, A-K, titre courant, ré¬
+          <lb/>clames, init. ornées C et A, vignettes.
+          <lb/>Fol. 2a non ch.:... PAVLO MELISSO SCHEDIO, POETAE
+          <lb/>No-] bili... JOSEPHVS LANGIVS ! Caesaremontanus S. P. D....
+          <lb/>— Argentorati Calend. Iulij Anno M. D. XCV. (6 pages.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

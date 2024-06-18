@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:08.249271+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002253.tif
+IMAGE WIDTH: 2492
+IMAGE HEIGHT: 3958
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>HUG SCHAPLER : Ein lieplichs, lesen und ein warhafftige
+          <lb/>Hystorie wie einer der da hiesz Hug Schapler... küng zu
+          <lb/>Franckreich ward... — Strasbourg, Jean Grüninger
+          <lb/>1.1X.1508, in-fol.
+          <lb/>Panzer Annalen I, 300; Kristeller 93; Schmidt I, n° 93 :
+          <lb/>Dresde; Heitz-Ritter, n° 241 : Berlin, Darmstadt, Kassel,
+          <lb/>Copenhague, etc. (Voir aussi : Ritter, Rép. no 1210, éd.
+          <lb/>Grüninger 15371.
+          <lb/>2083
+          <lb/>HUGGELIUS, Joh. Jac. Voir : HUCKEL, Joh. Jac, n° 2082.
+          <lb/>(Voir aussi : RITTER, Rép, nos 1211-1212l.
+          <lb/>HUGo (évêque de Constance) : Christenlich underrichtung...
+          <lb/>die Bildnüssen und das opffer der Mesz betreffend,
+          <lb/>Burgermeister und Rhat zu Zürich, uff den ersten tag
+          <lb/>Junii disz vierundtzweintzigsten Jars übersendt. —
+          <lb/>(Strasbourg, Jean Grüninger 1524), in-4°.
+          <lb/>Weller 2920, Schmidt I, n° 220. — B U Fribourg. 2084
+          <lb/>HUNGARUS, frater. Voir: GEMMA fidei quadragesimale
+          <lb/>n° 1863.
+          <lb/>HUNGER, Wolfg. Voir: GUEVARRA, Ant., Der Hofleut Wecker,
+          <lb/>deutsch, n° 1941. (Voir aussi : RITTER, Rép, n° 1215 :
+          <lb/>HUNGER Wolfg., Linguae germanicae Vindicatio. —
+          <lb/>Strasbourg, B. Jobin 1586).
+          <lb/>HUNNIUS, Aegidius : Josephus venditus. Comœdia sacra...
+          <lb/>Pro Argentinensi Theatro. — Strasbourg, Ant. Bertram
+          <lb/>1584.
+          <lb/>Skopnik, p. 60-62. (Une éd. de Bertram, 1597 : Ritter, Rép.
+          <lb/>n° 12161.
+          <lb/>2084a
+          <lb/>IHUNNIUS, Aegidius) : Teutsche Argumenta, samt der
+          <lb/>Vorrede und Beschlusz in die griechische Tragoedi
+          <lb/>Euripidis, Medea genantt, und in die zugegebene Choros,
+          <lb/>ausz dem Pindaro : Welche in Griechischer sprach
+          <lb/>251
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

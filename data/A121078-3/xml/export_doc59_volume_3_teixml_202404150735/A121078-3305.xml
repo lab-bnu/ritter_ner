@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:11.012911+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3305.tif
+IMAGE WIDTH: 2356
+IMAGE HEIGHT: 3854
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>HEGENDORF Christoph
+          <lb/>Hagenau, Joh. Setser 1525
+          <lb/>(Epheubl.) ANNOTA ] TIONES IN EVANGE! LIVM MARCI
+          <lb/>IN
+          <lb/>Epistolam Pauli ad Hebraeos INEpistolam Petri
+          <lb/>Priorem INPassionem Matthaei Johannis Authore
+          <lb/>Christophoro Hegendorphino.
+          <lb/>Haganoe, per Iohan. Secerium.! M. D. XXV. (Rücks, leer.)
+          <lb/>Am Schluss: Haganoae, per Iohan. Secerium. (Rücks. leer.)
+          <lb/>80, Kursiv, 18 unn. Bll. (Vorrede u. Index), 206 num. Bll., Kopft.,
+          <lb/>Kust., Marg., Init., Zierleisten.
+          <lb/>Bl. 2a: Chalcotypvs Pio Lectori S. (Vorrede, 3 S.)
+          <lb/>R101.205. Geschenk von Fid. Butsch Sohn, Augsburg 25. VII.
+          <lb/>1872.
+          <lb/>1103
+          <lb/>HEGENDORF Christoph
+          <lb/>Hagenau, Joh. Setzer 1526
+          <lb/>DECLAMA TIO IN LAVDEM EBRI] ETATIS, MIRE FESTI] ua,
+          <lb/>Lipsiae in corona uirorum do- ctissimorum pronunciata,
+          <lb/>ante! hac non edita. ENCOMIVM MVSCAE E LVCIANO.
+          <lb/>Interprete Christophoro He gendorphino.
+          <lb/>Am Schluss: Hagenoe per loan. Sece. Anno M. D. XXVI.
+          <lb/>(Rücks, leer.)
+          <lb/>80, Kursiv, 26 unn. Bll., Sign. aa-cc, Kopft., Kust., Marg., Init.
+          <lb/>Auf der Rücks, des Titelbl.: Ebrietas loquitur. (6 Dist.)
+          <lb/>Bl. aa 2a:... FRANCISCOPARCENIO SOLDANO IV I ris
+          <lb/>utriusque Licenciato... Christophorus Hegendorphi) nus
+          <lb/>faustum nouum annum precatur....
+          <lb/>Bl. bb 4b: ENCOMIVM MVSCAE E LVCIANO, ) INTERPRETE
+          <lb/>CHRI! stophoro Hegendorphino.) MVSCA LOQVITVR. (4 Dist.)
+          <lb/>Bl. bb 5a: CHRISTO PHORVS HEGENDOR PHINVS IOACHIMO
+          <lb/>Mi riciano &amp;amp; Iohanni de Konopath Polo- no, discipulis
+          <lb/>suis Salu! tem Dicit..,
+          <lb/>Bl. cea: EPITAPHLI VM MVSCAE, (3 Dist.) Darunter:... LAv¬
+          <lb/>RENTIO Zoch... Chri stophorus Hegendor phinus S. D.
+          <lb/>(4 S.)
+          <lb/>Bl. ce 3a: ORATIO) DOMOSTHENIS DE RHODIORVM LIBERTA)
+          <lb/>te, e Graeco in latinum uersa. (15 S.)
+          <lb/>R 100.972. Prov.: Bibl. Böcking.
+          <lb/>1104
+          <lb/>747
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:35.586508+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2303.tif
+IMAGE WIDTH: 2304
+IMAGE HEIGHT: 3820
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>CARMINA GRATULATORIA
+          <lb/>Strasbourg, A. Bertram, 1584.
+          <lb/>FRIDERICO DOCANDROLandauiensi, HONESTO CVM
+          <lb/>PRIMIS ET ERVDITO IV- VENI, HONORES ET INSIGNIA MA¬
+          <lb/>GISTERII, IN ACADEMIA REI- pub. Argentinensis laudatissi¬
+          <lb/>ma, quinto die Nouemb. accipienti, à Decano specta¬
+          <lb/>bili, D. Laurentio Tuppio, V. I. Doctore, Anno à saluatore
+          <lb/>nato 1584. GRATVLANTVR AMICI. (Vignette).
+          <lb/>ARGENTORATI Excudebat Antonius Bertramus. (Verso
+          <lb/>blanc.)
+          <lb/>In-40, car, ital, et grecs, 8 ff. non ch., sign. A-B, réclames, ini¬
+          <lb/>tiales ornées; titre encadré, (ornaments.)
+          <lb/>Poésies de M. Leonhard Hutterus, Petrus Friderus Mindensis,
+          <lb/>Josephus Langius Caesarimontanus, Ioannes Michaël Beutherus Argen¬
+          <lb/>tinâs, Hieronymus Treutlerus Suidnicensis Silesius, Christophorus Für¬
+          <lb/>gang Olsnicensis, Ioannes Steurle Landauiensis, Ioachimus Crusius
+          <lb/>Leorinus Silesius, Nicolaus Wallung Landensis, Paulus Crusius
+          <lb/>Molendinus.
+          <lb/>R102288(8). Prov.: Bibliothèque Ch. Schmidt, Strasbourg.
+          <lb/>455
+          <lb/>299
+          <lb/>CARMINA GRATULATORIA
+          <lb/>Strasbourg, A. Bertram, 1585.
+          <lb/>Carmina Gratulatoria, Scripta ab amicis, IN HONO¬
+          <lb/>REM] MELCHISEDECI PONTANI AVSTRII;] CVM EI SECVNDVS
+          <lb/>PHILOSOPHIAE GRADVS,) in inclyta Argentoratensium Aca¬
+          <lb/>demia, à M. HEN- NINGO OLDENDORPIO: Decano spectabili
+          <lb/>decerneretur V. Cal. Nouemb. Anno salutis humanae
+          <lb/>1585.
+          <lb/>Marque typ. d’Ant. Bertram. (H C B, Planche XLIV, NO I,
+          <lb/>Silvestre, No 1023.)
+          <lb/>ARGENTORATI. Excudebat Antonius Bertramus. CIO.
+          <lb/>ID. LXXXV. (Verso blanc.)
+          <lb/>In-4e, car. ital., 6 ff. non ch, sign. A-B, réclames, initiales ornées.
+          <lb/>Poésies de Wolfgangus Ernricus Iagenreuter in Pernau Austria¬
+          <lb/>cus, Christophorus Leysserus in Idoltaberg Austrius, Helmhartus à Fri¬
+          <lb/>deshaim Austrius, Erasmus Heckelbergerus Austrius, Michaël Händl
+          <lb/>Austrius, Iodocus Iainger Austrius, Georgius Forstelius Austriacus,
+          <lb/>Andreas Falckenbergerus Austrius, Ioannes Stenngl Austriacus, Paulus
+          <lb/>Crusius Molendinus, Ludouicus Schmelzing, Hieronymus Treutlerus Sile¬
+          <lb/>sius, Ioannes Christophorus Schilling Francosteinensis. Georgius Langius
+          <lb/>Gorlicensis.
+          <lb/>R 102.288(9). Prov. : Bibliothèque Ch. Schmidt, Strasbourg.
+          <lb/>456
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

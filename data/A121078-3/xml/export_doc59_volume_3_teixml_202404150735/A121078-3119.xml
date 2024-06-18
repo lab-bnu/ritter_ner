@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:06.543894+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3119.tif
+IMAGE WIDTH: 2312
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Holeschn.: Bienenstock.
+          <lb/>Darunter: Vnlangst hat klagt mein Frater Nasz Jnn
+          <lb/>offnem truck, wie ich selbs lasz... (19 deutsche Verse.)
+          <lb/>Zu Christlingen, Anno 1580. (Rücks, leer.)
+          <lb/>Am Schluss vor dem Index: Getruckt zu Christlingen! bei
+          <lb/>Vrsino Gottgwin. (Rücks. leer.)
+          <lb/>8°, Got., 246 num. Bll., 18 unn. Bll. (Index u. Errata), Kopft,
+          <lb/>Kust., Marg., Titel rot u. schwarz.
+          <lb/>Bl, 24-3a: Vorredlin Jesuwalti Pickhart, der Päpst¬
+          <lb/>lichen Rechten Licentiaten, an den lieben Leser... —
+          <lb/>Bl. 3a, unten: An den Leser, (8 deutsche Verse.)
+          <lb/>Bl. 3b-7b : ... Herren Magistro nostro, ! Francisco Son¬
+          <lb/>nio, Vollwürdigem Bischoff zu Hertzogen Busch. &amp;amp;c.... —
+          <lb/>Bl. 246: SIGNVM APOSTOLICVM, sub Annulo Veri¬
+          <lb/>tatis.
+          <lb/>Kleiner Holeschn.: In der Mitte: Jesus Christus sitzend, links
+          <lb/>u. rechts die Evangelisten.
+          <lb/>Darunter: ALLhie besecht jhr Liebe Christen
+          <lb/>Die vier Römisch Evangelisten,
+          <lb/>Welche die Wahrheyt fechten an,
+          <lb/>Vnd wie Liechtmucken doch bestahn...
+          <lb/>(30 Verse.)
+          <lb/>R102.484. Prov.: J. Bensheimer, Strassburg 16. VII. 1879; 16 M.
+          <lb/>Handsehr. Notizen. Auf der Innenseite des Vorderdeckels: 2. Ausg.
+          <lb/>(erste 1579). Auf der Vorderseite des Schutablattes : Theobaldus in dem
+          <lb/>Husziten-Krieg Tom. III. fol. 83. Philippus Marnixcius, weyland Burger¬
+          <lb/>meister 2t̂ Antorf, hernach wegen der Religion vertrieben und zù Leyden
+          <lb/>gestorben und begraben, ist der rechte auctor des Bienen-Korbs, den nach¬
+          <lb/>gehends Iohann Fischart, sonst Menzer genannt, Burger zà Straszburg
+          <lb/>aus dem Niederländischen auf gût breit Fränkisch in Hochteutsch gebracht
+          <lb/>hat...
+          <lb/>Auf der Rückseite: Anno 1733 kam zu Amsterdam eine neue Auf¬
+          <lb/>lage von diesem Buch heraus. Der Titel ist: gereinigter Bienen-Korb der
+          <lb/>heil, römischen Kirche beschrieben durch Philippum Marnix, Herrn von
+          <lb/>S. Aldegond. Der Vortrefflichkeit wegen aus dem Holländischen ins Teutsche
+          <lb/>übersetzt und mit dem Leben des Auctoris vermehrt. Auctor ist geboren
+          <lb/>1538, schrieb 1569 diesen Bienen Korb, begleitete unterschiedliche wich¬
+          <lb/>tige Staats- und Militar-Aemter bey der Provinz Holland, war seiner Zeit
+          <lb/>ein grosser Gelehrter und sonder in Orientalischen Sprachen zumalen der
+          <lb/>Hebräischen vollkommen bewandert, starb 1598 zu Leyden, hat ausser
+          <lb/>diesem Bienen Korb noch mehrere Schriften in Druck gehen lassen als
+          <lb/>Tractatus De coena Domini, Theses de criterio ecclesiae, de differentia
+          <lb/>christianae et pontificiae religionis etc....
+          <lb/>568
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

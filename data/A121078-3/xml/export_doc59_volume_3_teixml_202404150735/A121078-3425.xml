@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:13.939620+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3425.tif
+IMAGE WIDTH: 2420
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>JUDEX Matthäus. Siche: WIGAND Joh.
+          <lb/>JUNG Ambrosius
+          <lb/>Strassburg, W. Rihel 1535
+          <lb/>ond furbe onberrichtung (mie man
+          <lb/>sich in bisen schmaren leuffen der Pesti lenti bal¬
+          <lb/>ten solll dem gemeinen mann 3u bilsi
+          <lb/>onnd gûtem bernit andern bep¬
+          <lb/>stanb hat/ verorbnet.
+          <lb/>L
+          <lb/>867
+          <lb/>Qurch O. Ambrosium Sungens den altesten vnd
+          <lb/>erfarnesten Araetstũ Mugspurg.
+          <lb/>M. D. XXXV.
+          <lb/>Am Schluss: Getruckt zû Straszburg, bey Wendel Rihel.
+          <lb/>40, Got., 12 unn. Bll., Sign. A-C, Kust., Init. D.
+          <lb/>R101256. Geschenk von Alex. Hatzfeld geb. Schaum in Flacht
+          <lb/>bei Diee 1871. Handschr. Eintragungen.
+          <lb/>Stadtbibl. Strassburg.
+          <lb/>1251
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

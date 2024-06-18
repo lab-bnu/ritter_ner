@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:47.325175+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078162.tif
+IMAGE WIDTH: 2308
+IMAGE HEIGHT: 3844
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1048
+          <lb/>uff sant Lucien und Otilien tag von Johanne grieni ger
+          <lb/>getruckt mit Keyserlicher! mayestet privilegien, daz! disz
+          <lb/>biechlin by pen des orginals nieman nach! sol trucken
+          <lb/>in ei-nem iar. &amp;amp;c. (Verso blanc.)
+          <lb/>In-4°, car. goth., 36 ff. non ch., sign. A-I, titre courant, init.
+          <lb/>ornées; titre encadré. (Voir n° 1610.)
+          <lb/>Fol. A 2a: Vorred. (4 pp.)
+          <lb/>Fol. 1 2b-13b: Beschlusz... — Censores.
+          <lb/>*R100.546. Prov.: Trubner, Strasbourg 30/x 1886; 60 M.
+          <lb/>Proctor II Sectio I n° 9958: Londres, Brit. Museum; Schmidt
+          <lb/>I n° 177; l&amp;#x27;exemplaire de la BN de Berlin a une autre disposition des
+          <lb/>lignes à l’explicit: Datum in der loblichen stat Strasburg in dem! iar
+          <lb/>nach der geburt christi unsers herren M. D. xx uff sant Lucien und
+          <lb/>Otilien! tag von Johanne grieniger, getruckt mit Keiserlicher mayestet.
+          <lb/>privilegien das bei pen in einem iar nieman nach trucken sol. etc.
+          <lb/>1611
+          <lb/>(MURNER Thomas)
+          <lb/>[Strasbourg, J. Gruninger] 1520
+          <lb/>Von Doctor Martinus luters leren und predigen.
+          <lb/>Das sie argwenig seint, und nit gentz lich glaubwirdig
+          <lb/>zû halten. (Verso blanc.)
+          <lb/>A la fin: Censores. Datum in dem iar nach der ge¬
+          <lb/>bur (!) Christi unsers herren. Tausent CCCCC. und XX.
+          <lb/>Uff sant Ka-therinen abent getruckt, mit Keiserlicher
+          <lb/>mayestat.Privilegien, das bei pen in einem iar nie¬
+          <lb/>man nach tru cken sol. &amp;amp;c. (Verso blanc.)
+          <lb/>In-4°, car. goth., 22 ff. non ch., sign. A-E, titre courant, init.
+          <lb/>ornées; titre encadré. (Voir n° 1610.)
+          <lb/>Fol. A 2a: Vorrede. (Préface de 2 pp.)
+          <lb/>R100.566. Prov.: Bibl. Ch. Schmidt avec son ex-libris. Au-dessous
+          <lb/>du titre: s. Waldaus Leben Murners, S. 78-83.
+          <lb/>BM Strasbourg. Proctor II Sectio I n° 9957: Londres, British
+          <lb/>Museum; Schmidt I n° 175.
+          <lb/>1612
+          <lb/>MURNER Thomas
+          <lb/>[Strasbourg, J. Pruss) 1521
+          <lb/>History von den fier ketzren Prediger... (Voir p. 1049.)
+          <lb/>(Verso blanc.)
+          <lb/>A la fin: Der dises bûchlin hett trucken lon
+          <lb/>Der hats Marie zù eeren gethon,
+          <lb/>Er hofft von ir den ewigen lon &amp;amp;c. (Verso blanc.)
+          <lb/>In-4°, car. goth., 88 ff. non ch., sign. A-P, toutes les pages sont
+          <lb/>encadrées de 4 pièces juxta-posées; 14 gravures outre celle du titre, dont
+          <lb/>quelques-unes répétées plusieurs fois.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

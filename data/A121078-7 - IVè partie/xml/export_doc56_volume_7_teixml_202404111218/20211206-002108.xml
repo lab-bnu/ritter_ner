@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:04.404966+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002108.tif
+IMAGE WIDTH: 2492
+IMAGE HEIGHT: 3994
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>CATO : Cato in latin durch Sebastian Brant geteutschet. —
+          <lb/>(Strasbourg, Jean Knobloch 1508), in-4°.
+          <lb/>Schmidt VII, n° 49; Weller, Repertorium 431.
+          <lb/>1311
+          <lb/>CATo : (Idem). — (Strasbourg, Jean Knobloch 1509), in-4°.
+          <lb/>Goedeke 12, p. 388, n° 14 (i); Schmidt VII, n° 64; Weller,
+          <lb/>Rep. 481.
+          <lb/>1312
+          <lb/>CATO : Contenta in hoc opere sunt haec. Catonis Praecepta
+          <lb/>moralia. — Strasbourg, Mathias Schürer, octobre 1516,
+          <lb/>in-4°.
+          <lb/>Panzer, 6, 80, 448; Schmidt VIII, n° 196 : Bibl. cantonale
+          <lb/>Aarau et B M Zurich Jéd. Schürer 1515 et mars 1516 : Ritter,
+          <lb/>Rép. nos 469-470).
+          <lb/>1313
+          <lb/>CATo : (Idem). — (Strasbourg, Mathias Schürer novembre
+          <lb/>1517), in-4°.
+          <lb/>Panzer 6, 85, 494; Schmidt VIII, n° 222; B M Zurich.
+          <lb/>1314
+          <lb/>CATo : (Idem). — (Strasbourg, Mathias Schürer septembre
+          <lb/>1518), in-4°.
+          <lb/>Panzer II, 364, 523 b; Schmidt VIII, n° 234: B M Mayence
+          <lb/>(éd. Schürer 1519 et Knobloch 1520: Ritter, Rép, nos 471-472).
+          <lb/>1315
+          <lb/>CATo : Catonis disticha moralia cum scholiis auctis Erasmi...
+          <lb/>— (Strasbourg, Jean Knobloch septembre 1523), in-80.
+          <lb/>Schmidt VII, n° 262: B N Strasbourg (introuvable); Panzer
+          <lb/>6, 102, 652.
+          <lb/>1316
+          <lb/>CATo : Catonis disticha moralia... (Idem). — Strasbourg,
+          <lb/>aux frais de Paul Goetz, Christian Egenolff février 1530,
+          <lb/>in-80.
+          <lb/>Böcking V, 13; Bibliotheca Erasmiana II, 15; Benzing:
+          <lb/>Egenolff n° 24 : Bibl. Rég. Weimar.
+          <lb/>1317
+          <lb/>106
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

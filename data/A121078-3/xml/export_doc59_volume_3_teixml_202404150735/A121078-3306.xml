@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:11.029096+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3306.tif
+IMAGE WIDTH: 2356
+IMAGE HEIGHT: 3854
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>748
+          <lb/>HEGENDORF Christoph
+          <lb/>Hagenau, Joh. Setzer 1526
+          <lb/>METHODVS CONSCRIBENDIEpistolas, antehac non
+          <lb/>ædita.
+          <lb/>DRAGMATA LOCORVM] tam Rhetoricorum, quam Dia¬
+          <lb/>lecticorum unà cum exemplis, ex optimis quibusque;
+          <lb/>Autoribus! depromptis.
+          <lb/>Conjecturalis
+          <lb/>Exempla status Finitiui
+          <lb/>Qualitatis.
+          <lb/>AVTORE CHRISTO! phoro Hegendorfino.) Haec dedimus
+          <lb/>pueris, pueris prodesse studemus! Id si fit, satis est, non
+          <lb/>aliud cupimus.
+          <lb/>Am Schluss: Haganoe per Iohan. Sece.Anno M. D.
+          <lb/>XXVI. Druckerm. Setzers. (HEB Taf. LXXI Nr. 9; Silvestre Nr. 567.)
+          <lb/>80, Kursiv, 28 unn. Bll., Sign. a-d, Kopft., Kust, Marg., Init. E.
+          <lb/>Auf der Rücks. des Titelbl.: Christophorvs Hegendorphinus Lay¬
+          <lb/>rentio Czoch discipulo suo. S. D. (Widmung.)
+          <lb/>R100.9342. Prov.; Pfarrer Hartter, Luizhausen 22. X. 1877;
+          <lb/>1 M. Handschr. Notizen.
+          <lb/>1105
+          <lb/>HEGENDORF Christoph
+          <lb/>Hagenau, Joh. Setzer 1528
+          <lb/>S. MARCI] EVANGELION, CVM ADNOTATIONIBVS SALV-]
+          <lb/>BERRIMIS, CHRISTO ¿ PHORI HEGEN! DORPHINI. EIVSDEM
+          <lb/>SCHOLIAIN Epistolam Pauli ad Hebraeos.Epistolam
+          <lb/>Petri priorem. Supplicium Christi secundum Matthaeum.
+          <lb/>Supplicium Christi secundum Johannem. Acta apostolorum.
+          <lb/>Omnia iam recens edita, ac diligenter emendata.
+          <lb/>Haganoe per lohannem Secerium, Anno M. D. XXVIII.
+          <lb/>Mense lanuario.
+          <lb/>80, Kursiv, Titelüberschriften Antig, 15 unn., 253 num. Bll.,
+          <lb/>Kopft., Kust., Marg., Init., Epheublätter.
+          <lb/>Auf der Rücks. des Titelbl.: IOHANNES SECERIVS.  Candido
+          <lb/>Lectori Salutem. (2 S.) Anschliessend Index, 27 S.)
+          <lb/>R101.206. Prov.: Bibl. Heitz, Strassburg 1871.
+          <lb/>ni0s
+          <lb/>HEGENDORF Christoph. Siche: NONUS: In Euangelium Sancti
+          <lb/>Johannis Paraphrasis Graeca. R 1004762.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

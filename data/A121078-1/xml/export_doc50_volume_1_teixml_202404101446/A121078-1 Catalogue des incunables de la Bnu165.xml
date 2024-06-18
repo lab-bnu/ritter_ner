@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:39.836596+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu165.tif
+IMAGE WIDTH: 2456
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>ABRÉVIATIONS ET BIBLIOGRAPHIE
+          <lb/>BM — Bibliothèque Municipale.
+          <lb/>BN — Bibliothèque Nationale.
+          <lb/>BU = Bibliothèque Universitaire.
+          <lb/>Grav. — Gravure.
+          <lb/>Prov. — Provenance.
+          <lb/>Rel. anc. — Reliure ancienne
+          <lb/>BMC = Catalogue of books printed in the XVth century now in
+          <lb/>the British Museum. Part I-IV, London, 1908–1913, 4 vol.
+          <lb/>in-fol.
+          <lb/>BÆR — Bær Leo, Die illustrierten Historienbücher des 15. Jahr¬
+          <lb/>hunderts. Strassburg, 1903, in-4°.
+          <lb/>BOHATTA: Livres d’heures — Bohatta Hans, Bibliographie der
+          <lb/>Livres d’heures... des XV. u. XVI. Jahrh. 2. Aufl. Wien 1924.
+          <lb/>BOHATTA: Lit. Bibl. — Bohatta Hans, Liturgische Bibliographie.
+          <lb/>des XV. Jahrhunderts mit Ausnahme der Missale und Livres
+          <lb/>d’heures. Wien 1911.
+          <lb/>CLAUDIN — Claudin A., Histoire de l’imprimerie en France au
+          <lb/>XVe et au XVIe siècle. Vol. I-IV. Paris, 1900-1914.
+          <lb/>COP. — Copinger W. A., Supplement to Hain’s Repertorium biblio¬
+          <lb/>graphicum. London 1895–1902.
+          <lb/>GW — Gesamtkatalog der Wiegendrucke hrsg. von der Kommis¬
+          <lb/>sion für den Gesamtkatalog der Wiegendrucke. Vol. I et
+          <lb/>suiv. Leipzig 1925 et suiv.
+          <lb/>135
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

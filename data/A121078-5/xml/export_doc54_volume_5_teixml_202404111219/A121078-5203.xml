@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:56.607977+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5203.tif
+IMAGE WIDTH: 2364
+IMAGE HEIGHT: 3860
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1513
+          <lb/>Notes mss. au recto du f. de garde : autographe de G. Veesenmeyer
+          <lb/>1780 à Winteren; Ritter: BM Strasbourg, N° 2175.
+          <lb/>2423
+          <lb/>VIRIDARIUM ILLUSTRIUM POETARUM. Voir: MIRANDULA
+          <lb/>Octavianus, n° 1576 ss.
+          <lb/>VISIERBUCH. Voir: KERN Ulrich.
+          <lb/>VITA philosophorum. Voir: BURLAEUS.
+          <lb/>VITA sanctorum Gervasii et Prothasii. Voir: BERKEN Johannes.
+          <lb/>VITALIS J. Fr., Panegyris R. D. Matthei Episcopi Gurc. Voir:
+          <lb/>VALERIANUS, Epistola de honoribus... Strasbourg, M. Schü¬
+          <lb/>rer, 1513. R. 100.648; n° 2369.
+          <lb/>VITRUVIUS M. Pollio
+          <lb/>Strasbourg, G. Messerschmidt, 1543
+          <lb/>M. Vitrvvii Viri suae Profes- sionis Peritissimi,D
+          <lb/>Architectura Libri Decem, ad Avgv- stum Caesarem
+          <lb/>accuratiss.conscripti:Nunc Primum in Germania qva!
+          <lb/>potuit diligentia excusi, atque hinc inde schema!! tibus non
+          <lb/>iniucundis exornati.
+          <lb/>Adiecimvs etiam propter argumenti conformitatem,!
+          <lb/>Sexti Iulii Frontini DeAvaeductibvs vrbis Romae,!
+          <lb/>libellum, Item ex libroNicolai Cvsani Card. De Staticis
+          <lb/>Experimen-tis, fragmentum.
+          <lb/>Cum indice copiosissimo, &amp;amp; disposi-] tione longe meliori,
+          <lb/>quam antea.
+          <lb/>Argentorati in OfficinaKnoblochiana per Georgium
+          <lb/>Machaeropioeum.! Anno M. D. XLIII. (Verso blanc.)
+          <lb/>A la fin : Argentorati, ex officina Knoblochiana, per
+          <lb/>Geor-gium Macheropeum, Men se Augusto Anno!
+          <lb/>M. D. XLIII. (Feuille de lierre.) Verso blanc.
+          <lb/>In-4°, car. ital., 26 ff. non ch., 262 pp. ch., 26 ff. non ch., titre courant,
+          <lb/>réclames, notes marg., init. à fig. De nombreuses grav. se rapportant au
+          <lb/>texte (architecture).
+          <lb/>fol. 2a : Georgius Machaeropious (!) (] Typographus ad lectorem...
+          <lb/>(4 pp.).
+          <lb/>&amp;quot;R. 101.855. Prov. : Don de Fid. Butsch fils, antiquaire à Augsbourg,
+          <lb/>1871.
+          <lb/>Note mss. en haut du titre : Ad PP, franc. Straub, ad Bils.
+          <lb/>Le Catalogue : L’Art ancien Zürich, Short List 8 offre un exemplaire
+          <lb/>pour 60 fr. Suisses : « First edition of Vitruvius printed outside Italy
+          <lb/>with very nice and original woodeut illustrations ». L’antiquaire Fried.
+          <lb/>Otto, Mannheim a offert un exemplaire à la Bibliothèque le 17-1x 1937
+          <lb/>pour 28 M.
+          <lb/>2424
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:35.065519+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2283.tif
+IMAGE WIDTH: 2300
+IMAGE HEIGHT: 3814
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>279
+          <lb/>CAMERARIUS Joachim
+          <lb/>Strasbourg, Crato Mylius, 1541.
+          <lb/>ELEGIAE (oootxoρικαι V. IOACHIMI Camerarij, &amp;amp; car¬
+          <lb/>men ódotxopixóv IO. LV. BRAS-sicani.
+          <lb/>I. Metallaria. II. Dyriangiaca &amp;amp; Encomium uite rus¬
+          <lb/>ticae. III. Nemetum. IV. Saxonica. V. Plumbaria. Cum
+          <lb/>alijs quibusdam, nunc primum editis.
+          <lb/>ARGENTORATI, ANNO M. D. XLI.Mense Martio.
+          <lb/>A la fin: ARGENTORATI EX OFFICINA CRATONIS MYLII,
+          <lb/>ANNO! M. D. XLI.(Feuille de lierre.)
+          <lb/>Au verso du 1er f. blane à la fin, marque typ. de Cr. Mylius.
+          <lb/>(HAB, Planche XXVIII. No II, Silvestre No 1266, suivent 20 ff.
+          <lb/>blancs, de même 13 ff. blancs avant le f. du titre.
+          <lb/>In-4°, car, rom., 24 ff. non ch., sign. A-C, titre courant, récla¬
+          <lb/>mes, init. à fig. C, A.
+          <lb/>Au verso du titre: Ioachimus Camera rius Pab. Erasmo
+          <lb/>Ebnero Sen. Nor, amico uenerando S. S.D... — Idibus
+          <lb/>lanua rij, Anno M. D. XLI.
+          <lb/>R 100.897. Prov.: Fred. Müller a Co. (Catal. Auteurs latins mo¬
+          <lb/>dernes, N° 108), Amsterdam, 19/1. 1888, 1 fl. 50. Rel. anc.
+          <lb/>GPB: Berlin BN, Breslau BU, Kœnigsberg BU.
+          <lb/>421
+          <lb/>CAMERARIUS Joachim. Voir: VIRGILIUS, Bucolicorum explicatio,
+          <lb/>p. 1- 162. Strasbourg, 1556.
+          <lb/>Strasbourg, J. Rihel, 1560.
+          <lb/>CAMERARIUS Ioachim
+          <lb/>Disputatio de pijs ET CATHOLICIS, ATQVE OR- tho¬
+          <lb/>doxis precibus, &amp;amp; Inuocatione numinis diuini: &amp;amp; exposi¬
+          <lb/>tae formulae harum, tam de sacris scripturis, quàm
+          <lb/>aliorum usurpatione descriptae Grae ce, &amp;amp; Latine.
+          <lb/>ACCESSERVNT DEFINITIONES ( praecipuarum rerum, qua¬
+          <lb/>rum mentio in hac dispu- tatione fit.
+          <lb/>AD VSVM PIAE ET STVDIO-] sae institutionis puerilis.
+          <lb/>Ioachimo Camerario Pabepergensi Authore.
+          <lb/>ARGENTORATI! Iosias Rihelius excudebat. Anno! M. D.
+          <lb/>LX. (Verso blanc.)
+          <lb/>A la fin: ARGENTORATI Excudebat Iosias Rihelius.
+          <lb/>M. D. LX.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

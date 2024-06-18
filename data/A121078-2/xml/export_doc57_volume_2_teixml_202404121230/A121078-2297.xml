@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:35.498446+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2297.tif
+IMAGE WIDTH: 2302
+IMAGE HEIGHT: 3820
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>CAPITO Wolfgang Fabricius
+          <lb/>Strasbourg, W. Rihel, 1539.
+          <lb/>HEXEMERON DEI OPVS explicatum à Vuolph-gango
+          <lb/>Fa. Capitone Theologo. Cum Indice locupletissimo.
+          <lb/>Argentorati per Vuendelinum Rihelium. Mense Sep¬
+          <lb/>tembri. ANNo M. D. XXXIX.
+          <lb/>A la fin: Argentorati per VuendelinumRihelium.
+          <lb/>Mense Septembri. ! ANNO M. D. XXXIX. (3 ff. de lierre).
+          <lb/>Au verso du dernier f. blanc, marque typ. de W. Rihel (HEB,
+          <lb/>Planche XXIX, NO 2; Silvestre, N° 742).
+          <lb/>In-8°, car. rom., 16 ff. non ch., 299 ff. ch., titre courant, réclames,
+          <lb/>notes marginales, initiales ornées G, I.
+          <lb/>fol, a 2a non ch.:... Principi Guili-elmo Duci Cliuensi...
+          <lb/>V. F. Capito... — Argentinae Pridie Calen. Sept. Anno
+          <lb/>1539. (Préface de 14 p.)
+          <lb/>Suit une table de 16 p.
+          <lb/>R101761. Prov. inconnue.
+          <lb/>BN Paris, 4 6688. (incomplet, titre manque); Oxford, Biblioth.
+          <lb/>Bodleiana. Baum No 39.
+          <lb/>444
+          <lb/>293
+          <lb/>CAPNIO Johannes, Pseud, pour REUCHLIN Johannes.
+          <lb/>CAPREOLIUS Helias
+          <lb/>Strasbourg. M. Schürer, 1514.
+          <lb/>DE CONFIRMATI ONE FIDEI CHRI] STIANAE.
+          <lb/>Marque typogr. de M. Schürer. (H A B, Planche XII, No 2.)
+          <lb/>A la fin: Argentorati, Ex Aedibus Schurerianis, Mense
+          <lb/>Martio, ANN. L M. D. XIIII.
+          <lb/>REGNANTE IMP. CAES. MAXIMILIANO P. F. AVG.
+          <lb/>(Verso blanc.)
+          <lb/>In-40, car. rom., 8 ff. non ch., sign. A-B, notes marginales, ini¬
+          <lb/>tiates ornées A, D.
+          <lb/>Au verso du titre:... Bernardino Fabio conciui suo,
+          <lb/>Episco! po Pharensi... Helias Capreo! lus Brixianus S....
+          <lb/>— Brixiae, Cal. Apriles. M. XD.VII.
+          <lb/>R 100.725. Prov. inconnue. Prix indiqué au crayon, 16 frs..
+          <lb/>Notes mes, au verso du titre: Capreolus Elias I0 insignis Brixia
+          <lb/>oriundus scripsit historiam patriam 14 libb. Anno 1599. (!) Hofm. Lev.
+          <lb/>Schmidt, VIII, No 131: BM Zurich.
+          <lb/>445
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

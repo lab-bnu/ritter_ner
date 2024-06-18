@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:36.134943+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2328.tif
+IMAGE WIDTH: 2318
+IMAGE HEIGHT: 3820
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>324
+          <lb/>R100.071. Prov.: Bibliothèque Menke, Brême, 9/1x. 1873; in¬
+          <lb/>complet ff. I-III manquent.
+          <lb/>Schmidt VIII, No *226 dit 140 ff. et marque typographique au
+          <lb/>dernier f. GPB: BN Berlin.
+          <lb/>494
+          <lb/>Strasbourg, M. Schürer, 1519.
+          <lb/>CICERO
+          <lb/>M. TVLLHI CI CERONIS EPISTOLAE FA MILIARES. CVM.
+          <lb/>ASCEN SIANIS INTRODVCTI-VNCVLIS RECOGNI- TIS ET
+          <lb/>AVCTIS, ET ARGVMENTIS IL-LVSTRATIS.
+          <lb/>Ex Tertia recognitione.
+          <lb/>A la fin: ARGENTORATI ACCVRATIVS RE-cognitae in
+          <lb/>Aedibus Matthiae Schurerij, Men- se Augusto. M. D. XIX.
+          <lb/>In-4°, car, rom., CCXVI ff. ch., titre courant, initiales ornées E,
+          <lb/>S,O,E, V, titre encadré de 4 pièces juxta-posées, bordure supérieure
+          <lb/>un homme nu couché entouré de 6 génies, dont l’un apporte une coupe,
+          <lb/>bordures latérales : ornementation d’architecture; bande inférieure, cortège
+          <lb/>d’un roi couronné, à cheval, derrière et devant lui des hommes portant
+          <lb/>des enseignes, et des musiciens.
+          <lb/>Au verso du titre: SEBASTIANVS MVRRHO IVNIOR. Colma¬
+          <lb/>riensis. Thomae Alberto Studioso... — Ex Aedi-bs
+          <lb/>Matthiae Schurerij. Anno domini. M. D. XII.
+          <lb/>*R100.072. Prov.: L. Rosenthal, Munich, 30/IV. 1896; 12 M.
+          <lb/>Annotations mss. dans le texte.
+          <lb/>Schmidt VIII, No 247: B M Mayence; G PB: BU Gœttingue. 495
+          <lb/>CICERO
+          <lb/>Strasbourg, M. Schürer, 1519.
+          <lb/>Officia, de ami citia, de Senectute et Paradoxa! M.
+          <lb/>Tullij Ciceronis; ab Desiderio Erasmo Rote- rodamo dili¬
+          <lb/>genter adnotata. M.CCCCC. XVII. (!)
+          <lb/>Ortûini Gratij Agrippinensis philoso phi ad lectorem
+          <lb/>Epigramma. (5 distiques latins.)
+          <lb/>A la fin: Argentorati, Ex aedibus Schurerianis, Mense
+          <lb/>Maio. Anno M. D. XIX.
+          <lb/>Au-dessous: Marque typ. de Schürer. (H e B, Planche XIII.
+          <lb/>n° 5; Silvestre, No 692.)
+          <lb/>In-4°, car. goth. (De officiis), le reste, car, lat, De officiis 54 ff.
+          <lb/>non ch., sign. a-i; le reste XXXVIII ff. ch., numérotés II-XXXIX.
+          <lb/>5 ff. non ch. (Index), verso du dernier f, blanc, titre courant, notes
+          <lb/>marginales; initiales à figures.
+          <lb/>R101726 (2). Prov.: Baer e Co., Francfort s. M. (Catalogue 125),
+          <lb/>26/IV. 1883. Notes mss. Rel, anc.
+          <lb/>Schmidt VIII, No 244; GPB: BN Berlin.
+          <lb/>496
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

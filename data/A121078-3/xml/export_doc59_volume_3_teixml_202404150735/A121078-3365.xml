@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:12.561319+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3365.tif
+IMAGE WIDTH: 2390
+IMAGE HEIGHT: 3856
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>807
+          <lb/>ARGENTORATI! Excudebat Antonius Bertramus, (1599.)
+          <lb/>(Rücks, Ieer.)
+          <lb/>40, Kursiv, 20 unn. Bll., Sign. A-E, Kust,, Init. C, Titelein¬
+          <lb/>fassung, Schlussvign,, Bl. A 2a Zierleiste.
+          <lb/>R10.548(1°), Prov.: Kubasta e Voigt, Wien 25. XI. 1896.
+          <lb/>Siche: OBRECHT Georgius: Selectissimae disputationes ex juris
+          <lb/>civilis materiis. Strassburg, A. Bertram 1599.
+          <lb/>1203
+          <lb/>HORTULUS ANIMAE
+          <lb/>Strassburg, J. Wähinger 1503
+          <lb/>Hortulus anime denuo dili- gentissime per pre!
+          <lb/>stantissimos viros et dominos doctorem! Brant et magi¬
+          <lb/>strum Ja! cobum Wympffelin! gum castigatus.
+          <lb/>Sebastianus Brant ad lectores, (4 Dist.)
+          <lb/>Am Schluss: Jmpressum Argentine per lohannem! We¬
+          <lb/>hinger veneris post Galli. Anno domini M. D. iij. qui
+          <lb/>hortulos anime tam in vulga! ri theutonico: quam! in
+          <lb/>latino primum... imprimi fecit...
+          <lb/>Klein-8°, Got., 20 unn. Bll. (Kalendarium), 244 unn. Bll., Sign.
+          <lb/>a–2, A-E, Init., Titel rot u. schwarz, 62 Kleine Holzschn,, viele sind
+          <lb/>der Ausgabe 1502 entlehnt.
+          <lb/>Bl. 1a: Kolor. Holeschn.: Die Verkündigung des Engels; Bl. h 3b
+          <lb/>David auf den Knien, Harfe spielend, im Hintergrunde links eine
+          <lb/>Stadt, rechts Gott Vater in einer Wolke; Bl. d 4b: Christus am
+          <lb/>Kreuze, am Fusse des Kreuzes Maria u. Johannes.
+          <lb/>Auf der Rücks, des Explicit: Sequunter additiones huius libelli.
+          <lb/>Auf dem folgenden Bl. Druckerm. Wähingers (HAB Tafel VIII Nr. 1).
+          <lb/>R100.488. Prop.: Graf Pocci, Strassburg 12. I. 1891. Handschr.
+          <lb/>Notizen: Anno 1560 conditione praefecti Nicolaus Eybeck subivit. Deinde
+          <lb/>Anno 1563 officio iudicis obernalsach (?) functus. Bl. 4a: Anno 1548 sab¬
+          <lb/>batho palmarum conditione preceptoris Nicolaus Eybeck frankenhausen
+          <lb/>subivit. Bl. 6b : Natus est Absolon. Anno 1549 dum mane hora. 4. etc.
+          <lb/>BN Paris, Vélins, 1776; Proctor II Sectio I Nr. 10.162: London,
+          <lb/>Brit. Museum; Schmidt IV S. 14 Nr. 3; Walter: Schlettstadt Nr. 1587;
+          <lb/>Brunet III5 341.
+          <lb/>1204
+          <lb/>HORTUS SANITATIS
+          <lb/>Strassburg, B. Beck 1529
+          <lb/>Gart der gesuntheit. zu latin Ortus sanitatis, von
+          <lb/>allerley Thieren, Vöglen, Vischen oder Mörwundern, vnd
+          <lb/>Edlem gstein, darusz gezogen von den natürlichen Meistern,
+          <lb/>was dem menschen zû seiner ge- sundtheit dienet, mit
+          <lb/>höchstem fleissz durch sûcht, corrigiert, vnd gebessert.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

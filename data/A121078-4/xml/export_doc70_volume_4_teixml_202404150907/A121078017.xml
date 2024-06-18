@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:42.925642+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078017.tif
+IMAGE WIDTH: 2372
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>opusculum in viginti &amp;amp; vnum Capitulum, et sub quo
+          <lb/>libet capitulo reperiuntur Exem pla &amp;amp; contemplationes
+          <lb/>(ipsam) materiam concernentia) Que omnia inuenies se¬
+          <lb/>cundum numerum foliorum.
+          <lb/>A la fin:... Impressum Argen! tine impensis honesti
+          <lb/>viri Ioannis Prüsz. Anno salutis. M. cecec. XV.! Die tertio
+          <lb/>septembris.
+          <lb/>In-4°, car. goth., 2 col., LXI ff. ch. et 1 f. non ch. (Table), titre
+          <lb/>courant, init. ornée L. Au verso du titre: Prôlogus.
+          <lb/>R101394. Prov.: BN Munich 4/IV 1874; 6M.
+          <lb/>Schmidt III, p. 32 n° 11.
+          <lb/>1343
+          <lb/>LAVACRUM
+          <lb/>Strasbourg, J. Schott 1519
+          <lb/>Lauacrum conscientie.! Opus mire fructuosum: clericis
+          <lb/>et sacerdoti- bus primum scitu ad lectu dignissimum.
+          <lb/>Exhortatio. (8 lignes.)
+          <lb/>Viginti et vno capitulis opus clauditur: exemplis et
+          <lb/>contemplationibus refertissimum.
+          <lb/>A la fin: Impensis prouidi Blasii Salomonis Bibliopole
+          <lb/>Leyptzensis ac prelo Joannis Schott Argenti-ni castiga¬
+          <lb/>tius pressum. Anno Christi op. max. 1519.
+          <lb/>In-40, car. goth., 2 col., LXVI ff. ch. et 1 f. non ch. (Table), titre
+          <lb/>courant, titre en rouge sauf l’Exhortatio.
+          <lb/>R101.395. Prov.: Butsch, Augsbourg 12/x 1883; 4M.
+          <lb/>Schmidt II n° 45.
+          <lb/>1344
+          <lb/>LAYENSPIEGEL. Voir: TENGLER U.
+          <lb/>LEBEN DER ALTVATER
+          <lb/>Strasbourg, J. Grüninger 1507
+          <lb/>Der heilgen Altuäter leben.
+          <lb/>Nüw getruckt wie sie ir Heiliges leben volbracht
+          <lb/>haben Jn der Einöde, wasz wunderzeichen sie gewirckt
+          <lb/>haben, auch ire sprüch vnd byspil so sie vns menschen
+          <lb/>geben haben zû einer vnderweisung vnd gûten feer. (Grav.
+          <lb/>sur bois fh. 142, large 138 mm.] : Seènes de la vie des ermites dans le
+          <lb/>désert, paysage, désert, rochers, ermitages et ermites. Verso blanc.)
+          <lb/>A la fin: ... Getruckt vnd vol lendet in der keiserlichen
+          <lb/>freien stat Strasz burg durch fleisz Johannis Grünynger
+          <lb/>901
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:13.304870+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002463.tif
+IMAGE WIDTH: 2510
+IMAGE HEIGHT: 3976
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>SCHOTT, Johannes : Das weltlich Layenbuch. [Reimchronikl.
+          <lb/>— Strasbourg 1541, in-4°.
+          <lb/>Goedeke II3, p. 324, n° 8.
+          <lb/>3191
+          <lb/>SCHOTTENIUS, Hermannus : Confabulationes tyronum litera¬
+          <lb/>torum, ad amussim Colloquiorum Erasmi Roterodami
+          <lb/>auctore Hermanno Schottenio Hesso. Ab auctore nuper
+          <lb/>plus quàm triginta Conviviis lepidissimis auctae. Accesse¬
+          <lb/>runt hac postrema editione, in easdem Schottenij
+          <lb/>Confabulationes, praeter castigationes, difficilium etiam
+          <lb/>locorum interpretatio. [Marque typ. un cygne entouré
+          <lb/>d’une couronnel. Argentorati [s. impr. ni date), in-8°,
+          <lb/>[p. 210: L’auteur à la jeunesse estudiantine : Vale. Coloniae
+          <lb/>Millesimo quingentesimo vigesimo sexto 1526.]
+          <lb/>3192
+          <lb/>SCHOTTENIUS, Hermann : Ludus Martius sive bellicus. —
+          <lb/>Strasbourg vers 1540. (Historisches Drama).
+          <lb/>Skopnik, p. 114, note 1.
+          <lb/>3192a
+          <lb/>SCHRECKENBERGER, Joh. Voir : MACROPEDIUS, G., n° 2581.
+          <lb/>SCHREIER, Paul : Christliche Leichpredig bey der Leich unnd
+          <lb/>begräbnuss Georg Philipsen (fils de Louis de Westerburg,
+          <lb/>né 1580), Grafen zu Leiningen, Herren zu Westerburg
+          <lb/>und Schauenburg, des heiligen Römischen Reichs
+          <lb/>semper Freyhen, welcher nachdem er 9 Jar 7 Monaten
+          <lb/>gelebt, den 10. Julii 1589 selig sein leben geendet.
+          <lb/>Gehalten zu Oberbrunn, den 13. Julii 1589. — Strasbourg,
+          <lb/>Nicolas Waldt 1589, in-40.
+          <lb/>Schottenloher 31.017 (c).
+          <lb/>3193
+          <lb/>SCHREPPELER, Jörg : Libellus valde doctus, elegans et utilis,
+          <lb/>multa et varia scribendarum literarum genera com¬
+          <lb/>plectens. — Strasbourg, Th. Berger 1564, in-4°.
+          <lb/>Ritter, Hist. impr., p. 334.
+          <lb/>3194
+          <lb/>SCHREPPELER, Jörg : Ein Künstlich Alphabet sampt der
+          <lb/>461
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

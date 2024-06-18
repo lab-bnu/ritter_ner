@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:05.259997+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3032.tif
+IMAGE WIDTH: 2346
+IMAGE HEIGHT: 3840
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>476
+          <lb/>ERASMUS: De duplici copia
+          <lb/>Strassburg, M. Schürer, Dezember 1514
+          <lb/>DESYDERH ERASMI ROTERODAMI, de duplici Co- pia,
+          <lb/>Verborum ac rerum Commentarij duo.
+          <lb/>Ab Authore ipso diligentissime! recogniti, &amp;amp; emaculati,
+          <lb/>atque in plerisque locis aucti. ITEMEpistola Erasmi
+          <lb/>Roterodami, ad Iacobum Wimphelingi-um Selestatinum.
+          <lb/>ITEM Erasmi Roterodami Parabolae, siue Similia, e phy¬
+          <lb/>sicis, pleraque ex Aristotele, &amp;amp; Plinio. (Rückseite leer.)
+          <lb/>4°, Antiq., 6 unn., LXXVII num. u. 1 unn. Bl., Kopftitel, zahl¬
+          <lb/>reiche Zierinit.; Titeleinfassung (H æ B, Tafel XIII, Nr. 6, aber ohne
+          <lb/>Wappen und ohne die Buchstaben M. S.).
+          <lb/>Bl. 2a: ERASMVS ROTERODAMVS MAT-] thiae Schurerio
+          <lb/>Stlezestano (!)... Basileae. Anno. M. D. XIIII.) ad Idus Octo¬
+          <lb/>bris. Folgt ein Index von 7 S. u. 2 Dist.: Sebastiani Murrhonis
+          <lb/>Iunioris ad Lectorem.
+          <lb/>Bl. 6a: DESYDERIVS ERASMVS ROTERO-damus Ioanni
+          <lb/>Coleto, Decano sancti 1 Pauli apud Londinum... Londoni.
+          <lb/>Anno M. D. XII. iij. Calendas Maias.
+          <lb/>Bl. LXXIVa-LXXVIIb: DESYDERIVS ROTERO- DAMVS,
+          <lb/>Iacobo Wimphelingo, Germanus Germano.... — Basileae
+          <lb/>undecimo Calen- das Octobris. M. D. XIIII.
+          <lb/>R 100.102. Geschenk des Baron v. Dörnberg, dessen Exlibris sich
+          <lb/>auf der Innenseite des Deckels befindet. Handschr. Randnotizen.
+          <lb/>BN Paris, Rés. Z. 761; Schmidt VIII Nr. 145 sagt, dass die
+          <lb/>Parabolae sich auch einzeln verkauften; in der Tat fehlen dieselben in
+          <lb/>unserem Ex. — Der Titel, den Schmidt Nr. 145 anführt, stimmt nicht
+          <lb/>genau mit unserer Ausgabe in Bezug auf die Zeilentrennung; der Text
+          <lb/>ist identisch, nur fehlen die Worte: Lector eme usw. sowie das Explicit:
+          <lb/>Mense Decembris Anno M. D. XIIII.
+          <lb/>GK: UB Königsberg; Proctor Sectio I Nr. 10223; London, Bri¬
+          <lb/>tish Museum ohne die Parabolae aber mit Explicit; Rest S. 50. 714
+          <lb/>ERASMUS: Encomium moriae
+          <lb/>Strassburg, M. Schürer, 1514
+          <lb/>ERASMI ROTERODAMIpρς eyκópιoν, id est Stultitiae
+          <lb/>laus, Libellus vere aureus, nec minus eruditus, &amp;amp; salu¬
+          <lb/>taris, quam festiuus, nuper ex ipsius au-toris arche¬
+          <lb/>typis diligentissime restitutus.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

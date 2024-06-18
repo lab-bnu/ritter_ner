@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:53.903797+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078378.tif
+IMAGE WIDTH: 2352
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1264
+          <lb/>zu dem Schlusse, dass die hier mitgeteilte die erste und ibr Erscheinen
+          <lb/>ungefähr ins Jahr 1505 zu setzen ist. Wir haben es hiermit, da eine
+          <lb/>frühere Veröffentlichung einer deutschen Rätselsammlung nicht bekannt
+          <lb/>ist, mit dem ersten im Drucke erschienenen deutschen Rätselbuche zu
+          <lb/>1972
+          <lb/>tun.&amp;quot; Sur la première édition de 1505 voir Schmidt V n° 42.
+          <lb/>Mulchem an hurtzmeill thet zer¬
+          <lb/>rinuen. Han moll uisz bũtu¬
+          <lb/>lem Durth gryndĩ. Er finot
+          <lb/>Darin uill kluger ler. Mon
+          <lb/>Betrelsch qeuichtunu
+          <lb/>uil numer mer.
+          <lb/>2
+          <lb/>6
+          <lb/>(Titre du n° 1972.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

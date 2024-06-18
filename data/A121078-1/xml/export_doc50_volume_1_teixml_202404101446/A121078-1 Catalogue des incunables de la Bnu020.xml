@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:36.669714+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu020.tif
+IMAGE WIDTH: 2386
+IMAGE HEIGHT: 3842
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>ques ouvrages de droit canonique. La dernière publication
+          <lb/>est la «Confutatio judaicae sectae magistri Johannis Bap¬
+          <lb/>tistae», datée du 20 septembre 1500. Flach a peu d’ouvrages
+          <lb/>illustrés. Pour les œuvres de Gerson il a emprunté la gra¬
+          <lb/>vure à Prüss; Ebrardus, Modus latinitatis n’a qu’une gra¬
+          <lb/>vure (Schramm, vol. XX, N° 1685), de même Guillermus,
+          <lb/>Postilla, dont il a fait deux éditions (Schramm, N° 1686);
+          <lb/>l’Adolescentia de Wimpheling du 27 août 1500 en a trois
+          <lb/>(Schramm, N° 1687–1689). Dans le «Certi Tractatus» de
+          <lb/>Nicolas de Cuse il y a en outre quelques figures mathémati¬
+          <lb/>ques sans importance.
+          <lb/>PIERRE ATTENDORN (1489-1499)
+          <lb/>Après avoir fait des études à l’Université de Heidelberg,
+          <lb/>où il comptait Wimpheling parmi ses maîtres, Attendorn
+          <lb/>semble avoir débuté comme libraire et ne s’être occupé de
+          <lb/>l’impression qu’en passant, sans pouvoir prospérer. Il était
+          <lb/>né en Westphalie et avait acheté le droit de bourgeois Stras¬
+          <lb/>bourgeois le 12 mars 1476. Le 22 octobre 1482 l’imprimeur
+          <lb/>Rusch pria son ami Jean Amerbach de Bâle de fournir
+          <lb/>contre payement à Attendorn, honnête ouvrier qui ne
+          <lb/>demandait qu’à travailler pour entretenir sa famille, des
+          <lb/>caractères «pro una pressura».
+          <lb/>En 1489 (après le 25 octobre) parut le «Directorium
+          <lb/>statuum seu tribulatio seculi», qui contient des lettres de
+          <lb/>Wimpheling à Attendorn et une réponse de ce dernier, d’où
+          <lb/>il ressort qu’Attendorn est l’imprimeur du Directorium.
+          <lb/>Celui-ci contient trois gravures dont la première est em¬
+          <lb/>pruntée à J. Prüss: «Epistolae de misericordia curatorum»:
+          <lb/>les deux autres sont reproduites chez Schramm (Vol. XX,
+          <lb/>N° 1261–1262). Voulliéme lui attribue en outre les 4 numé¬
+          <lb/>ros (770-773) de Proctor qui a reconnu le premier la con¬
+          <lb/>cordance des caractères de ces ouvrages avec le Directo¬
+          <lb/>rium, ainsi que la Pharetra fidei, s. l. n. d. D’après le
+          <lb/>Gesamtkatalog der Wiegendrucke N° 1921 Attendorn a
+          <lb/>XX
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

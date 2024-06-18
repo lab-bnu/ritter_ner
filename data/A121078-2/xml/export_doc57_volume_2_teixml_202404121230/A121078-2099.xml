@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:29.268660+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2099.tif
+IMAGE WIDTH: 2318
+IMAGE HEIGHT: 3828
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>werden. Wie man auch andere zufällige schä den, so von
+          <lb/>dem vngewitter oder sonst schädlichen Gewäch- sen aller
+          <lb/>handt Vngezyters, für fallen mögen, abwenden vnd! für¬
+          <lb/>kommen. Deszgleichen wie man alle Vierfüssige Thier,
+          <lb/>Visch vnd Geuögel, erkennen, weyden vnd artzneyen soll.
+          <lb/>Al- les zûvor, vor tausent jaren von dem Christlichen
+          <lb/>Keyser! Constantino dem vierdten, in Griechischer spraach,
+          <lb/>beschriben, vnd nachmals durch D. Michael Herrn in
+          <lb/>teutsche spraach erstmals verdolmetschet.
+          <lb/>Jetzundt aber mit sonderem fleisz! von neüwem
+          <lb/>widerumb vberlesen, corri-giert, gemehret, vnd an vil
+          <lb/>orten treff-lichen gebessert. Mit Röm. Keyserlicher Maie¬
+          <lb/>stat! Freiheyt auff zehen jar.
+          <lb/>Gedruckt zû Straszburg durch Samuel Emmel.
+          <lb/>M.D.LXI.
+          <lb/>A la fin: Getruckt zû Strasz- burg durch Samuel
+          <lb/>Emmel. ! M.D.LXI.
+          <lb/>In-80, car. goth., CCXXVIII ff. ch. et 23 ff. non ch. (Index),
+          <lb/>titre courant, réclames; fol. XXIb gravure des vents comme dans l’édi¬
+          <lb/>tion 1545, titre rouge et noir.
+          <lb/>Au verso du titre: Citations de Syrach, Chapitre 7, de St. Augus¬
+          <lb/>tin, Livre 8 de la Genèse, Chap. 8 et de Ciceron, lib. Offic. primo.
+          <lb/>Fol. 2a: ... Herrn Otthein-richen Pfaltzgrauen bey
+          <lb/>Rhein. (Préface de 7 ff.)... Datum Straszburg, mitwochen
+          <lb/>nach Luce, den xxj. tag des Wein- monats. Jm jare...
+          <lb/>tausent, fünff hundert, fünfftzig vnd eins gezalt... D. Lud¬
+          <lb/>wig Rabus von Memmingen.
+          <lb/>Fol. 9a: les auteurs qui ont écrit sur la culture des champs, au
+          <lb/>nombre de 39. Au verso court aperçu des 20 livres sur la culture des
+          <lb/>champs. (3 ff.)
+          <lb/>R 100.042. Prov.: G. Rettig, Strasbourg, 28/VI 1889, 5 M.
+          <lb/>Notes mss. Au milieu du titre: «Ex libris Joannis Ströbelin
+          <lb/>Sacerdotis.»; plus bas “Monasterii (1 mot rayé terminé en gensis)
+          <lb/>Ulmae.» En outre de nombreuses annotationsmss. sur la culture des
+          <lb/>champs. Rel. anc.
+          <lb/>GPB: Berlin, Breslau.
+          <lb/>162
+          <lb/>95
+          <lb/>BAUER Johannes. Voir: RYFF Walter, Consiliorum de re me¬
+          <lb/>dica sive morborum curationibus liber, 1543.
+          <lb/>BEATUS RHENANUS, Epistolium. Voir: SOPHER Gervasius,
+          <lb/>Bellum Henrici Quarti.... contra Saxones. Grüninger, 1508.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

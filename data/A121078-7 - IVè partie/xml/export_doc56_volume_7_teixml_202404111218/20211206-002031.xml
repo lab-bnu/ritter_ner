@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:02.378027+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002031.tif
+IMAGE WIDTH: 2488
+IMAGE HEIGHT: 3968
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>AURELIUS, Victor Sextus : C. Plinii Secundi Novocomensis
+          <lb/>De viris illustribus in re militari, &amp;amp; administranda rep.
+          <lb/>Suetonii Tranquilli: De claris grammaticis et rhetoribus.
+          <lb/>Julii Obsequentis : Prodigiorum Liber. — Strasbourg,
+          <lb/>Mathias Schürer 1514, in-4°.
+          <lb/>GKVIII, 7163: BN Berlin, Munich etc. ; Schmidt VIII,
+          <lb/>n° 133 : B U Fribourg.
+          <lb/>878
+          <lb/>AURELIUS, Victor Sextus : (Idem). — (Strasbourg,
+          <lb/>Mathias Schürer 1517), in-4°.
+          <lb/>GKVIII, 7166: BN Munich, Berlin etc. ; Schmidt VIII,
+          <lb/>n° 212. (Ritter, Rép. n° 2248).
+          <lb/>879
+          <lb/>AURELIUS, Victor Sextus : (Idem). — (Strasbourg, Ulric
+          <lb/>Morhard 1521), in-4°.
+          <lb/>GKVIII, 7171:BN Munich; Schmidt IV p. 29, n° 6. 880
+          <lb/>AURELIUS, Victor Sextus : Cornelius Nepos. Vom ursprung
+          <lb/>des Römischen Reichs... Item C. C. Sallustius : Von der
+          <lb/>Zusammenrottung Catilinae... Krieg der Römer wider
+          <lb/>Jugurtham... Bellum Jugurthinum (trad, par Jacques
+          <lb/>Vielfeld). — Strasbourg (1535), in-fol.
+          <lb/>GKVIII, 7203: B N Berlin. (B N Strasbourg R 10496. Ritter,
+          <lb/>Rép. n° 1623).
+          <lb/>881
+          <lb/>AURELIUS, Victor Sextus : (Idem). — Strasbourg, Cammer¬
+          <lb/>lander von Mentz après 1535, in-fol.
+          <lb/>GKVIII, 7204: B N Berlin, Munich, B U Göttingen. 882
+          <lb/>AURIFABER, Aegidius : Speculum exemplorum. — Haguenau
+          <lb/>(Henri Gran pour Rynman 1507), in-fol.
+          <lb/>GKVIII, 7301 : BN Munich; B U Breslau. Ritter, Rép.
+          <lb/>n° 2179; éd. du 15 janvier 1507 à Speculum exemplorum. 883
+          <lb/>AURIFABER, Aegidius : Speculum exemplorum. — (Haguenau,
+          <lb/>Henri Gran pour Rynman 1512), in-fol.
+          <lb/>GKVIII, 7302: BN Berlin, Munich etc.
+          <lb/>884
+          <lb/>20
+          <lb/>2
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

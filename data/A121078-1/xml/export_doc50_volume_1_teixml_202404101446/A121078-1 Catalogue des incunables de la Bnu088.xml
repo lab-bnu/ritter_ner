@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:37.769746+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu088.tif
+IMAGE WIDTH: 2392
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>JOHANNES DE VERDENA: Sermones de sanctis dormi secure.
+          <lb/>Strasbourg, [imprimeur du Jordanus (— G. Husner)),
+          <lb/>15 sept. 1485, in-fol.
+          <lb/>Hain 15974, Madsen 2331, Proctor 598, Voulliéme: Berlin
+          <lb/>2407, 3.
+          <lb/>K 2220. Prov.: Don de Fidelis Butsch fils, Augsbourg, 1872.
+          <lb/>Notes mss. Au-dessus du titre: «Monasterij Ranshouen.» Rel.
+          <lb/>anc.
+          <lb/>270
+          <lb/>JOHANNES DE VERDENA: Sermones de sanctis dormi secure.
+          <lb/>Strasbourg, [imprimeur du Jordanus (— G. Husner)),
+          <lb/>4 sept. 1488, in-fol.
+          <lb/>Hain 15959, 2, Proctor 617, Voulliéme: Berlin 2422, 3.
+          <lb/>K 2216. Prov.: Don de Fidelis Butsch fils, Augsbourg, 1872.
+          <lb/>Au-dessus du titre: «Monasterij Ranshouen». Rel. anc. 271
+          <lb/>JOHANNES DE VERDENA: Sermones de sanctis dormi secure.
+          <lb/>(Haguenau, H. Gran), 10 janvier 1493, in-4°.
+          <lb/>Hain 15964, Madsen 2333, Proctor 3177, Schreiber 4397.
+          <lb/>K 2218a. Prov.: O. Harrassowitz, Leipzig, 26. Il. 1891, 7 M. 20.
+          <lb/>Notes mss. Rel. anc.
+          <lb/>272
+          <lb/>JOHANNES DE VERDENA: Sermones de sanctis dormi secure.
+          <lb/>Strasbourg, [imprimeur du Jordanus (— G. Husner)),
+          <lb/>1494, in-fol.
+          <lb/>Hain 15965 (1), Voullième: Berlin 2451, 5, Voulliéme: Trier
+          <lb/>1547.
+          <lb/>K 2218. Prov.; Don du Prof. E. Martin, Strasbourg, 10. II. 1911.
+          <lb/>Notes mss. Au-dessous du titre: «Carthusiae Gemnicensis.»
+          <lb/>273
+          <lb/>JORDANUS DE QUEDLINBOURG: Opus Postillarum et Sermo¬
+          <lb/>num de tempore. Strasbourg, (imprimeur du Jordanus
+          <lb/>(— G. Husner)), 1483, in-fol.
+          <lb/>Hain 9438, Pellechet: Colmar 832, Proctor 584, Voulliéme:
+          <lb/>Berlin 2398, Walter: Sélestat 275.
+          <lb/>K 2223. Prov.: Don de la ville de Heilbronn, 1871. A l&amp;#x27;inté¬
+          <lb/>rieur du 1er plat: «Ex legato Egregij viri Artium ac sacrae
+          <lb/>Theologiae doctoris domini Joan. Krener ex Scherding. Con¬
+          <lb/>cionatoris Heylpronensis.» Rel. anc.
+          <lb/>274
+          <lb/>58
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

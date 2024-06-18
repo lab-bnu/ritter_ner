@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:12.378953+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002422.tif
+IMAGE WIDTH: 2500
+IMAGE HEIGHT: 3984
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>nicae Caenae. Et de sententia sana vel Orthodoxa... —
+          <lb/>Strasbourg, Samuel Emmel 1567, in-8°.
+          <lb/>Bibl. S. Guillaume, Strasbourg.
+          <lb/>2981
+          <lb/>PRAETORIUS, Martinus : Marchiados libri duo sive illustres
+          <lb/>Principes S. R. J. Electores, Marchiones Branden¬
+          <lb/>burgenses, Borussiae Duces, ac Burggravii Noribergenses,
+          <lb/>carmine heroico comprehensi. — Strasbourg 1594,
+          <lb/>in-40.
+          <lb/>Goedeke II2, p. 112, n° 185 (3); Graesse V, p. 433. (Praetorius,
+          <lb/>De principatu salubriter administrando, Strasbourg, B. Jobin
+          <lb/>hér. 1594 : Ritter, Rép. n° 1921).
+          <lb/>2982
+          <lb/>PRECHTER, Bernardus Friderieus : Disputatio XXVI. Ethica.
+          <lb/>De prudentia in specie : et tribus habitibus, qui huius
+          <lb/>quasi sunt Comites... Ex libri Aristotelis Ethicon.
+          <lb/>Nicomacheion Sexti c. 8-13. desumpta. Quam C.F.N.
+          <lb/>in Inclyta Argentoratensium Academia: sub
+          <lb/>praesidio M. Laurentii Thomae Wallisseri: Privati
+          <lb/>Exercitii causa, respondendo tuebitur Bernardus
+          <lb/>Fridericus Prechter, Argentinensis. Mense Octobri. —
+          <lb/>Strasbourg, Antoine Bertram 1597, in-4°.
+          <lb/>Ritter: B M Strasbourg n° 1756.
+          <lb/>2983
+          <lb/>PRECHTER, Bern. Frid. : Disputatio XXXV. Ethica. De
+          <lb/>amicitiae effectibus seu adiunctis &amp;amp; officiis... Ex Libri
+          <lb/>Noni Ethicorum Aristotelis Nicomachiorum c. 4.5.
+          <lb/>6 &amp;amp; 7. deprompta. Quam C. F. N. In Inclyta Argentora¬
+          <lb/>tensium Academia sub praesidio M. Laurentii Thomae
+          <lb/>Wallisseri, Argentinensis Privati Exercitii causa, Respon¬
+          <lb/>dendo tuebitur Bernardus Fridericus Prechter Argyro¬
+          <lb/>politanus Mense Januario. — Strasbourg, Antoine
+          <lb/>Bertram 1598, in-40.
+          <lb/>Ritter: B M Strasbourg n° 1757.
+          <lb/>2984
+          <lb/>PREUSS, Jac. Voir: ORDNUNG, n° 2798.
+          <lb/>420
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:12.960200+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002450.tif
+IMAGE WIDTH: 2482
+IMAGE HEIGHT: 3986
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>zwischen dem König von England u. dem König von
+          <lb/>Frankreich, n° 2332.
+          <lb/>3125
+          <lb/>Roy, William et Hier. BARLOW:
+          <lb/>Rede me and be nott wrothe
+          <lb/>For I saye no thynge but trothe...
+          <lb/>(Gravure : Pseudo-armoiries du cardinal Wolsey contre
+          <lb/>lequel la satire anglaise est écrite). — (Strasbourg,
+          <lb/>Jean Schott 1528), in-80.
+          <lb/>Scott (Schmidt II, Suppl.), p. 14, n° 16. — Brit. Museum,
+          <lb/>Londres; Bibl. John Rylands, Manchester.
+          <lb/>3126
+          <lb/>Roy, William &amp;amp; Hier. BARLOW] : Inter patrem Christianum
+          <lb/>et filiam contumacem dialogum Christianum. (Traduc¬
+          <lb/>tion anglaise d’un texte latin d’un auteur inconnu). —
+          <lb/>(Strasbourg, Jean Schott vers 1528).
+          <lb/>Scott (Schmidt II, Suppl.), p. 15, n° 17. Voir : The Harleian
+          <lb/>Miscellany IX. Londres 1812 et l’avant-propos.
+          <lb/>3127
+          <lb/>RUDOLFF von Jauer, Christoph : Behend und Hübsch
+          <lb/>Rechnung durch die kunstreichen regeln Algebre so
+          <lb/>gemeinlich die Cosz genennt werden. Darinnen alles so
+          <lb/>treülich on tag geben, das auch allein ausz vleissigem
+          <lb/>lesen on allen mündlichen unterricht mag begriffen
+          <lb/>werden... Zusamen bracht durch Christoffen Rudolff
+          <lb/>vor Jawer... — (Strasbourg, Wolfgang Köpfel (studio
+          <lb/>et industria Christophori Rudolf Silesij [excudebat]
+          <lb/>1525), in-80, 208 ff.
+          <lb/>Weller, Rep. 3631; Kraus, Hans P. : Fifty Old Books mostly
+          <lb/>of the XVIth century, Catalogue XVI (Wien) 1937, no 39 :
+          <lb/>« First edition excessively rare... »; Cantor in Allg. Deutsche
+          <lb/>Biographie 29, 571 : Rudolff war der hervorragendste Schrift¬
+          <lb/>steller seiner Zeit in Deutschland. Die Aufnahme, welche
+          <lb/>die « Coss » fand, war eine ungemein warme. Schon 1554 war
+          <lb/>kein Exemplar mehr aufzutreiben». Zahlreiche Auflagen.
+          <lb/>Angebot des Kraus’schen Exemplar 8.VI.1937.
+          <lb/>3128
+          <lb/>448
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

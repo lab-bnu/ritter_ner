@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:39.395560+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2436.tif
+IMAGE WIDTH: 2386
+IMAGE HEIGHT: 3822
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>432
+          <lb/>fol. A 2a : Vorrede...
+          <lb/>Nouvelle édition de celle du 27 octobre 1523 par Grüninger.
+          <lb/>R101.983, Prov.: Bibl. Cunite, 1886.
+          <lb/>Schmidt I,. No 212: Bibl. Nat. Munich.
+          <lb/>649
+          <lb/>DIETENBERGER Johannes
+          <lb/>Strasbourg, J. Grüninger, 1524
+          <lb/>Doctor Johan. dietenberger. Widerlegung des Luthe¬
+          <lb/>rischen büchlins, da er schreibt von menschen leren
+          <lb/>zû meiden &amp;amp; c. (Verso blanc.)
+          <lb/>A la fin: Disz büchlin ist getruckt von Jo. Grieninger,
+          <lb/>auff sant Martins abent,jar. 1524. (Verso blanc.)
+          <lb/>In-4°, car. goth., 18 ff. non ch., sign. A-D, notes marg., ini¬
+          <lb/>tiales ornées.
+          <lb/>fol. A 2a : ... Conrat Eückern Scholaster vnd Commis¬
+          <lb/>sarien &amp;amp; c. zû Aschof fenburg, Embeüt ich Jo. Cocleus
+          <lb/>vil heils in Christo... Geben zû Francfurt, am. 18.! tag
+          <lb/>Septembris.Jm. 1523. jar. (2 p.)
+          <lb/>fol. A 3a: Préface d. J. Dietenberger: JCh d. Johan Dieten¬
+          <lb/>berger, hab disz kurtz büchlin, Got zû ere, zû trost vnd
+          <lb/>errettung der armen! klosterleüth, in den heilgen klöster¬
+          <lb/>lichen gelübden gott beschehen, verharlichen bleiben,
+          <lb/>lassen ausz geen, damit sie sich rüsten vnd stercken
+          <lb/>künden, durch das wort gots, zù besehen wider das frech,
+          <lb/>freuelich ge schwetz des Marti. Luthers, wider klösterlich
+          <lb/>gelübd geschriben... (une page et demie.)
+          <lb/>R102.034. Prov.: Recteur Müller, Quedlinbourg, 15/V. 1889.
+          <lb/>Manque ches Schmidt.
+          <lb/>650
+          <lb/>DIETENBERGER Johannes
+          <lb/>Strasbourg, J. Grüninger, 1524
+          <lb/>Der leye. Obe der gelauballein selig mache.
+          <lb/>Johannes Dietenberger.
+          <lb/>Mathei. 7. (7 lignes. Verso blanc.)
+          <lb/>A la fin: Getruckt z0 Straszburg durch Johannem
+          <lb/>Grieninger vff der heilgen drey Künnig abent, als man
+          <lb/>zalt nach der geburt Christi, tausent fünffhundert vnd
+          <lb/>viervndzwentzig iar. (Verso blanc.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

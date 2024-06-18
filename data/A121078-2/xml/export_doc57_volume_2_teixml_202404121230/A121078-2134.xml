@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:30.526018+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2134.tif
+IMAGE WIDTH: 2308
+IMAGE HEIGHT: 3828
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>130
+          <lb/>au-dessus: Effigies Hieronymi Tragi Anno Aetatis suae 46;
+          <lb/>au-dessous: Ioan. Sapidus Lectori Studioso, (4 distiques.)
+          <lb/>Préface de Hier. Bock de 9 ff. sur les plantes, datée: Sarbrucken
+          <lb/>heut Mitwochs den vierden Februarij. Anno LI; suivent 1 f.
+          <lb/>blanc et 8 ff. de table.
+          <lb/>R10.503. Prov.: Don du Dr Buddeberg, Nassau, 1871.
+          <lb/>Incomplet, titre et les 2 ff. suivants manquent, le titre a été reporté
+          <lb/>à la main. Reliure du I7e siècle, au recto et au dos en lettres dorées:
+          <lb/>Ioan. Phi. Mockel. Protonotarius Ap. I. V. L. Anno 1658.
+          <lb/>Manque chez Schreiber, loco cit.
+          <lb/>215
+          <lb/>GPB: Berlin SB, Breslau UB, Gôttingen UB.
+          <lb/>Strasbourg, W. Rihel, 1552.
+          <lb/>BOCK Hieronymus
+          <lb/>HIERONYMI TRAGI, DE STIRPIVM, MAXIME EARUM,
+          <lb/>QVAE IN GERMANIA NOSTRA NASCVNTUR, usitatis nomen¬
+          <lb/>claturis, propriisque differentijs, neque non! temperaturis
+          <lb/>ac facultatibus, Commentariorum! Libri tres, Germanica
+          <lb/>primum lingua con- scripti, nunc in Latinam conuersi,
+          <lb/>In- terprete DAVIDE KYBERO! Argentinensi.
+          <lb/>HIS ACCESSERVNT A FRONTE PRAEFATIONES DVAE : ! altera
+          <lb/>D. CONRADI GESNERI Tigurini, Medici clarissimi, rei herbariae
+          <lb/>scri- ptorum, qui in hunc usque diem scripserunt, cata¬
+          <lb/>logum complectens: altera ipsius Au-oris, herbariae
+          <lb/>cognitionis laudes, &amp;amp; alia nonnulla scitu tum necessaria,
+          <lb/>tum iucun- dissima, continens.
+          <lb/>PRAETEREA, COROLLARII VICE AD CALCEM OPERIS, adiectus
+          <lb/>est Benedicti Textoris Segusiani de Stirpium differentijs, ex
+          <lb/>Dioscoride secun- dum locos communes, Libellus, omnibus
+          <lb/>plantariae cognitionis studiosis utilissimus.
+          <lb/>AD HAEC INDICES SEX: QVIBVS NON TANTVM Nomen¬
+          <lb/>claturae Graecae, Latinae, Germanicae, Arabicae, Hebra¬
+          <lb/>icaeque, sed &amp;amp; morborum curationes optimo ordine indi¬
+          <lb/>cantur, subiunximus.
+          <lb/>Cautum est Priuilegio Caroli V Imperatoris, ne quis
+          <lb/>intra septennium Typographus a se impressum aedat:
+          <lb/>aut! aliunde empta uendat. (Verso blanc.)
+          <lb/>A la fin: ARGENTORATI Excudebat Vuendelinus Rihelius,
+          <lb/>Anno M.D.LII.
+          <lb/>Au verso, marque typographique de W. Rihel. (H. d B., Planche
+          <lb/>XXIX, No I.
+          <lb/>In-4°, car. rom,, 34 ff. non ch. (Dédicace et préfaces); au recto du
+          <lb/>dernier f. non ch., portrait de Hier. Bock encadré, tenant une fleur en main,
+          <lb/>au-deseus de sa tête est suspendue une pancarte: EFFIGIES HIERO¬
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

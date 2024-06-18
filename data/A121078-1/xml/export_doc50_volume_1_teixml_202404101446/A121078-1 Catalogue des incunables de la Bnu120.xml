@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:38.568186+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu120.tif
+IMAGE WIDTH: 2410
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Hain 14525, Pellechet: Colmar 1172, Proctor 765, Schmidt II, 4.
+          <lb/>K 3255. Prov.: Bibliothèque Ch. Schmidt, Strasbourg, 10/IV.
+          <lb/>1895 avec son exlibris à l’intérieur du 1er plat.
+          <lb/>427
+          <lb/>ScoTus Michael: Liber physionomiae. (Strasbourg), in-4°.
+          <lb/>Hain 14.543.
+          <lb/>K 3262. Prov.; v. Pittwitz 8 Gaffron, Darmstadt, 9/II. 1886,
+          <lb/>10 M. Notes mss. Rel. anc.
+          <lb/>428
+          <lb/>SENECA Lucius Annaeus: Epistolae ad Lucilium, (Stras-
+          <lb/>bourg, impr. R. (— Ad. Rusch) s. d.), in-fol. (les 3 der¬
+          <lb/>niers ff, endommagés).
+          <lb/>Hain 14597, Madsen 3670, Pellechet: Colmar 1179, Proctor 243,
+          <lb/>Voulliéme: Berlin 2126.
+          <lb/>K 3276. Prov.: Librairie Trübner, Strasbourg, 7/x. 1887, 85 M.
+          <lb/>Notes mss. Au bas du 1er f.: Carthusiae in Buxheim. Au verso
+          <lb/>du 1er f. de garde: Strasbourg, Mentelin, ca 1469. Erste Aus¬
+          <lb/>gabe, 85 M. Au recto du 3e f. de garde: Wendelinus Zieglerus.
+          <lb/>429
+          <lb/>SENECA Lucius Annaeus: De forma ac honestate vitae.
+          <lb/>(Strasbourg, H. Eggestein), s. d. in-fol., 7 ff. à 2 col.
+          <lb/>K 3280a. Prov.: Librairie Trübner, Strasbourg, 1/V. 1888,
+          <lb/>9 M. Notes mss.
+          <lb/>430
+          <lb/>SENECA Lucius Annaeus; Proverbia. (Strasbourg, J. Prüss),
+          <lb/>s. d., in-4°.
+          <lb/>Hain 14634.
+          <lb/>K 3281. Prov.: Librairie Trübner, Strasbourg, 9/xI. 1883, 8 M.
+          <lb/>431
+          <lb/>SEQUENTIAE: Textus Sequentiarum. (Haguenau, H. Gran),
+          <lb/>1489, in-4°.
+          <lb/>Hain 14687, Proctor 3170.
+          <lb/>K 3472. Prov.; B N Munich 16/XII. 1879, 1 M. 50. Notes mss.
+          <lb/>A l’intérieur du 1er plat, 14 vers latins, entre autres; «Fratre
+          <lb/>a me casparo stephane chare Versus illos accipe, frater prae¬
+          <lb/>clare» etc. Rel. anc.
+          <lb/>432
+          <lb/>90
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

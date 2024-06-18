@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:12.374990+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3363.tif
+IMAGE WIDTH: 2388
+IMAGE HEIGHT: 3856
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>HOPPENROD Andreas
+          <lb/>Strassburg, J. Rihel 1570
+          <lb/>Stammbuch Oder Erzölung aller namhaffter vnnd
+          <lb/>inn Teütschen Historien berümpter Für- sten, Graffen
+          <lb/>vnnd Herren Geschlechter, wölche vngefehrlich in- nerhalb
+          <lb/>Tausent vnnd weniger jaren, jhre Herrschafften inn den
+          <lb/>Säch-sischen Landen, zwischen der Elbe vnnd dem
+          <lb/>Rhein, vom Hartz- wald bisz an die West Sehe, vnd
+          <lb/>Dänische Grentz, besessen, vnd volgends jhren nachkom¬
+          <lb/>menden bisz auff jetzige zeitmit Rhûm zû besitzen
+          <lb/>haben! hinderlassen.
+          <lb/>Zûsammen bracht, durch! Andream Hoppenrod, Pfarr¬
+          <lb/>herrn zû Heck- stel, inn der Graffschaft Manszfeld.
+          <lb/>Druckerm. Rihels. (H &amp;amp; B Tafel XXXI Nr. 12.)
+          <lb/>Mit Römischer Key. Mai. Freiheit auff acht jar.
+          <lb/>M. D. LXX. (Rücks, leer.)
+          <lb/>Am Schluss : Getruckt zû Straszburg bey Josias Rihel,
+          <lb/>im Jahr 1570.
+          <lb/>20, Got., 8 unn. Bll,, 106 S., 2 unn. Bll. (Register, 2sp.), Kopft.,
+          <lb/>Kust., Init. G, D, A, Titel rot u. schwvarz.
+          <lb/>Bl. 2a: Dem Edlen... Herman, Hansen, vnd Wolf¬
+          <lb/>fen von Weissenbach gebrüdern, Auff Krimitzau vnd
+          <lb/>Thorm wohnhafftig.... — Datum Heckstett den 18. Fe¬
+          <lb/>bruarij an welchem der Heylige Lutherus für 24 jaren
+          <lb/>seeliglichen im HerrnChristo entschlaffen. M. D. LXX.
+          <lb/>Andreas Hoppenrod, (6 S.)
+          <lb/>Bl. 4b: An den Christlichen Leser... — Anno M. D.
+          <lb/>LXX.
+          <lb/>Bl. 7b: IN ZOILVM. (10 deutsche Dist.) IN EVNDEM. (3 lat.
+          <lb/>Dist, von Lithaeus.)
+          <lb/>Bl. Sa: IN CATALOGVM Co- ] MITATVVM TOTIVS SAXO¬
+          <lb/>NIAE... Andreae Hoppenrhodii!... Epi gramma ad Lec¬
+          <lb/>torem. (15 lat. Dist, von Bartholomaeus Stein.)
+          <lb/>R10.240. Prov.: Bibl. Föringer, München 1871. Stempel der
+          <lb/>offentl. Bibliothek Hamburg.
+          <lb/>BN Paris, M 1103(1).
+          <lb/>1200
+          <lb/>805
+          <lb/>HORATIUS
+          <lb/>Strassburg, M. Schürer 1515
+          <lb/>Quinti Horatii Flac! ci Epodon Liber.Eiusdem, de
+          <lb/>arte Poetica. ITEM.Epistolatum, Libri Duo. In fronte
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

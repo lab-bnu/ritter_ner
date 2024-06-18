@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:34.262649+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2256.tif
+IMAGE WIDTH: 2296
+IMAGE HEIGHT: 3818
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>252
+          <lb/>Henry (I. c.) pense qu’il est hors de doute qu’elle ne soit de lui : Du reste
+          <lb/>il est à remarquer que Calvin, aussi bien que Bucer, a assisté à la diète
+          <lb/>de Ratisbonne. Il y a un exemplaire à Dresde et un à Zurich; sur ce
+          <lb/>dernier V. une notice d’Orelli dans le Serapéum, 1840, n° 9.»
+          <lb/>BM et Bibl. St. Guillaume, Strasbourg; BN Paris, D2 1726 (1);
+          <lb/>Walter: Sélestat N° 874 et 875. GPB vol. I, N° 7526 sous Acta col¬
+          <lb/>loquii: Berlin SB, Bonn BU, Breslau B U. Gœttingue B U (incomplet).
+          <lb/>Kiel BU, Kœnigsberg RU, Marbourg BU, Munich SB Vienne BN.
+          <lb/>377
+          <lb/>Baum N° 58; Mentz N° 49.
+          <lb/>BUTZER Martin
+          <lb/>Strasbourg, W. Rihel, 1541.
+          <lb/>Alle Handlungen und Schrifften, z6 vergleichung der
+          <lb/>Re- ligion, durch die Key. Mai., Churfürsten, Für- sten,
+          <lb/>und Stände, aller theylen, Auch den Päbst. Legaten, auff
+          <lb/>jüngst gehaltnem Reichs-tag zû Regenspurg, verhandlet,
+          <lb/>und einbracht, Anno D. M. XLI. (!)
+          <lb/>Getrewes fleisz, beschriben, zûsammen ge-tragen,
+          <lb/>und erkläret, durch! Martinum Bucerum.
+          <lb/>Register alles jnhalts, zû ende des Bûchs.
+          <lb/>Sûchen den Herren, weil er! zù finden ist. Jesa, 55.
+          <lb/>(Verso blanc.)
+          <lb/>A la fin: Getruckt z6 Strassburg,! bei Wendel Rihel.
+          <lb/>(Verso blanc.)
+          <lb/>In-4e, car. goth., 8 ff. non ch., 262 ff. ch., 4 ff. non ch. (Index),
+          <lb/>erreurs de pagination (1-49, 46-258, 185 au lieu de 183 et 234 au lieu
+          <lb/>de 238; le dernier f. chiffré par erreur 258), titre courant, réclames,
+          <lb/>notes marginales, quelques initiales goth.
+          <lb/>fol. 2a non ch.: .... Herrn Joachim, Marck-grauen
+          <lb/>zû Brandenburg &amp;amp;c.... — Straszburg XXII. Decemb.
+          <lb/>M. D. XLI... Martin Bucer. (Préface de 7 ff.)
+          <lb/>R101.522. Prov.: Bibliothèque Heite, Strasbourg, 1871.
+          <lb/>BM et Bibl. St. Guillaume Strasbourg. Walter: Sélestat No 876.
+          <lb/>Baum No 59; Mentz No 49c.
+          <lb/>378
+          <lb/>BUTZER Martin
+          <lb/>Strasbourg, W. Rihel, 1542.
+          <lb/>ACTA COLLO-QVII IN COMITHS IMPERII RATISPONAE
+          <lb/>HABITI, HOC EST, AR-ticuli de Religione conciliati, &amp;amp; non
+          <lb/>conciliati omnes, ut ab Imperatore, Ordinibus Im- perij
+          <lb/>ad iudicandum &amp;amp; deliberan- dum propositi sunt.
+          <lb/>CONSVLTA ET DELIBERA TA DE HIS ACTIS IMPERATORIS,
+          <lb/>singulorum Ordinum Imperij, &amp;amp; Legati Romani. Et quae¬
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

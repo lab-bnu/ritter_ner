@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:05.958655+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3080.tif
+IMAGE WIDTH: 2320
+IMAGE HEIGHT: 3842
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>524
+          <lb/>20, Got., 6 unn. Bll., Sign. A, Kust., Init. D.
+          <lb/>Bl. 2a: Wiederholung des Titels. Darunter: DEmnach hiebeuor
+          <lb/>inn etlichen vil Jaren her, allerhand vnordnun- gen in
+          <lb/>den Ganth vnd Stattgerichts geschäfften fürgangen, Als
+          <lb/>haben die Herren Fünffzehen vnnd jhre Vorfah-ren
+          <lb/>mancherley erkundigung vnd be- richt darüber eingenom¬
+          <lb/>men, geraht- schlagt wie die sachen zu verbessern, vnd
+          <lb/>entlich jhren bedacht für vnsere Herren Rhät vnd Ein
+          <lb/>vnd zwäntzig gebracht, Die auch solches mit et- lichen
+          <lb/>Erleutterungen bestättigt, vnd gesetzt haben, Jn massen
+          <lb/>hernach volget... —
+          <lb/>R 225e. Prov.: Sammlung Heitz, Strassburg, 1871. Titelbl., oben:
+          <lb/>Insert. Collect. Künast n° 17.
+          <lb/>GE: UB Göttingen.
+          <lb/>795
+          <lb/>ERKLARUNG, Kurze schriftliche Erklärung für die Kinder.
+          <lb/>Siche: BUTZER, 1534. Nr. 370.
+          <lb/>ERMANUNG
+          <lb/>(Strassburg] 1548
+          <lb/>Ermanung so ein Er- samer Raht,! vnd die Einund¬
+          <lb/>zwen tzig der Statt Straszburg, Sonntag den Neün- und¬
+          <lb/>zwentzigsten tag Jenners, des fünffzehen-hunderten vnd
+          <lb/>acht vnd viertzigsten Jars, durch die verordneten alten
+          <lb/>Herren jren Burgern, von Constofflern, vnd Handwercken,
+          <lb/>auff jren stu ben fürhalten, vnd thon lassen haben.
+          <lb/>(Rücks, leer.)
+          <lb/>40, Got., 7 unn. Bll., Kust. [Heiligung des Sonntags.]
+          <lb/>R102.275. Prov.: Sammlung Heite, Strassburg 1871.
+          <lb/>GK: SB Berlin, UB Kiel.
+          <lb/>796
+          <lb/>ERYTHRAEUS Valentinus
+          <lb/>Strassburg, Cr. Mylius 1547
+          <lb/>XHMATIEMOI, HOCEST, (Epheubl.) TABVLAE (Epheubl.)
+          <lb/>QVAEDAM PARTITI- ONVM ORATORIARVM M. T. CICERONIS,
+          <lb/>ET QVATVOR DIALOGORVM IN EASDEM IOANNIS STVRMHI,
+          <lb/>confectae per VALENTINVM ERY- thraeum Lindauiensem.
+          <lb/>ITEM: EIVSDEM ORATIO DE RATIONE DICENDI, recitata
+          <lb/>in Gymnasio ARGENTINENSI: Anno, 1543. Mense lanua¬
+          <lb/>rio. Cum Epistola IoANNIS Sturmij.
+          <lb/>ARGENTINAE. M. D. XLVII.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

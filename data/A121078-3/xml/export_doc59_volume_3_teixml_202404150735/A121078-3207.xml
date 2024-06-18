@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:08.547868+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3207.tif
+IMAGE WIDTH: 2326
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Stadtbibl. u. Priesterseminar Strassburg.
+          <lb/>Kiel, Münster. Proctor II Sectio I Nr. 10.208: London Brit. Museum;
+          <lb/>GK: SB Berlin, UB Berlin, Breslau, Göttingen (2 Ex.), Halle,
+          <lb/>Schmidt VIII (Nr. 96; Alte Strassburger Bibl., Inkun. Nr. 2039 und
+          <lb/>sein Ex., das sich jetzt an der Strassburger Univ.- u. Landesbibl. befindet
+          <lb/>R101.363.
+          <lb/>965
+          <lb/>GEILER Johannes
+          <lb/>Strassburg, Joh. Grüninger 1514
+          <lb/>Das Irrig schafe Das irrig schafe Sagt von cleinmü¬
+          <lb/>tikeit vnd böser anfechtungDer helisch Lew Von böser
+          <lb/>anfechtunge. Kristliche küngi Von vnderscheid tötlicher
+          <lb/>vnd teglicher sünd.Der dreieckecht Spiegel der gebott,
+          <lb/>der beicht vnd wol sterben.Der eschengrüdel Anfang
+          <lb/>der menschen in dem Dienst gotes. Daz Klappermul Der
+          <lb/>hinderredung. Der Trostspeigel (!) Des vnuernünfftigen
+          <lb/>traurens. Geprediget vnd gegetütt (!) durch den wirdigen
+          <lb/>vnd hochgelerten doctorem Johannes Geiler von Keisersz¬
+          <lb/>berg mitsampt den obbestimten Tratäten (!).
+          <lb/>Holeschn.: Ein Schaf mitten in einer Landschaft, mit Häusern
+          <lb/>im Hintergrund.
+          <lb/>Am Schluss:... vnd getruckt durch Joha-nem (umge¬
+          <lb/>stürates m) greiniger, vsz gangen vff samstag zu mitfast
+          <lb/>im iar. 1514. (Rûcks, leer.)
+          <lb/>20, Got., 2sp., XCII Bll. (Paginationsfehler), Kopft., Init., 7 Trak¬
+          <lb/>tate mit je einem Holeschn., 4 davon sind früheren Drucken entlehnt.
+          <lb/>Schmidt I, 136 sagt: 8 Holeschn. In meinem Ex. befinden sich nur ?.
+          <lb/>Auf der Rücks. des Titelbl.: Die vorredt von dem Irri¬
+          <lb/>gen Schaf.
+          <lb/>Bl. 20b, unter dem Holzschn.: Der hellisch Leuw, geprediget
+          <lb/>zu Straszburg M. D. vii. in der mesz. An sant Vlrichs tag
+          <lb/>(was sonnentag) angefangen, gab vr sach diser predig
+          <lb/>ein lebendiger leuw, der da mals in der mesz gezeugt ward.
+          <lb/>R10.128. Prov.: Trübner (Auktion Ahlfeld), Strassburg 14. XII.
+          <lb/>1878; 41M.
+          <lb/>Dacheux, Geiler S. CXIII, Kristeller 98; GE: UB Halle; Proc¬
+          <lb/>tor II Sectio I Nr. 9931: London Brit. Museum; Schmidt I Nr. 136:
+          <lb/>Stadtbibl. Zürich.
+          <lb/>966
+          <lb/>GEILER Johannes
+          <lb/>Strassburg, Joh. Grüninger 1514
+          <lb/>Das Irrig Schafe Sagt von cleinmütigkeit vnd böser
+          <lb/>anfechtung. Der hellisch Lew Sagt vns von böser anfech¬
+          <lb/>651
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

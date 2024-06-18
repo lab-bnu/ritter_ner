@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:36.527435+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu011.tif
+IMAGE WIDTH: 2392
+IMAGE HEIGHT: 3844
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1er volume de la B. U. de Fribourg en Br. est rubriqué à la
+          <lb/>fin: Explicit Psalterium 1460, le second est rubriqué 1461.
+          <lb/>La plupart des ouvrages de Mentelin — Schorbach en énu¬
+          <lb/>mère 40 — n’ont ni la date ni le nom de l’imprimeur, et
+          <lb/>quatre seulement mentionnent son nom. Le premier de
+          <lb/>ceux-ci est le Tractatus de arte praedicandi, imprimé
+          <lb/>d’après le Gesamtkatalog der Wiegendrucke vers 1466,
+          <lb/>d’après Schorbach vers 1465. Le premier ouvrage daté est
+          <lb/>le Speculum historiale de Vincent de Bourgogne avec la
+          <lb/>date 1473. Seules les Etymologiae d’Isidorus Hispalensis
+          <lb/>sont illustrées de gravures, au nombre de sept, reproduites
+          <lb/>chez Schramm, vol. 19, N° 1—7.
+          <lb/>La renommée de Mentelin s’accrut d’année en année,
+          <lb/>et l’empereur Frédéric III. lui accorda en 1466 les lettres
+          <lb/>de noblesse. Mentelin légua son art à ses deux gendres
+          <lb/>Adolphe Rusch qui avait épousé sa fille Salomé et Martin
+          <lb/>Schott, marié avec l’autre fille dont on ignore le nom. Le
+          <lb/>premier hérita de l’officine de Mentelin dans la maison
+          <lb/>«Zum Thiergarten» tandis que Martin Schott hérita de la
+          <lb/>maison rue de l’Epine. Après la mort de sa première
+          <lb/>femme. Mentelin se remaria avec Elisabeth de Matzenheim
+          <lb/>dont nous savons qu’elle est morte avant 1473. Lui-même
+          <lb/>mourut le 12 décembre 1478 et il recut l’honneur de la
+          <lb/>sépulture au cimetière de la Chapelle St. Michel, du côté
+          <lb/>nord-est de la Cathédrale.
+          <lb/>La renommée de Mentelin fut telle qu’à peine un demi¬
+          <lb/>siècle après sa mort son petit fils, l’imprimeur Jean Schott,
+          <lb/>put le proclamer inventeur de l’art typographique, légende
+          <lb/>qui se répandit très vite, surtout en Alsace aux 16e et
+          <lb/>17e siècles, même longtemps encore après que Schöpflin
+          <lb/>dans ses Vindiciae typographicae (1760), dont Nelson vient
+          <lb/>de faire une traduction anglaise *) eut prouvé que le mérite
+          <lb/>de l’invention ne revenait pas à Mentelin, mais à Gutemberg.
+          <lb/>* Joh. Daniel Schœpflin: Vindiciae typographicae, translated
+          <lb/>by Charles Alexander Nelson, New York, Privately printed, 1938,
+          <lb/>in-8°, 200 p.
+          <lb/>XI
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

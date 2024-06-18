@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:26.529597+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2012.tif
+IMAGE WIDTH: 2398
+IMAGE HEIGHT: 3822
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>A la fin: Getruckt in der loblichen statt Straszburg
+          <lb/>durch Bartholomeum Grüninger in den jar nach! der ge¬
+          <lb/>burt des Herren vnsers Seligmachers. M. D. XXXV. Vnnd
+          <lb/>vollendet auff Sant Thomas des heiligen zwelff botten
+          <lb/>-bendt.
+          <lb/>in-fol., car. goth., LXV ff. ch., 1 f. non ch. (Verso blanc), titre
+          <lb/>courant, réclames, grande initiale goth. V.
+          <lb/>24 gravures de différente grandeur, empruntées en partie à des
+          <lb/>ouvrages antérieurs; plusieurs sont composées de deux bois, 9 repré¬
+          <lb/>sentent des articles de guerre tels que pont, tour, chariot, échaffaudage
+          <lb/>pour lancer les flèches à feu, fol. LX, «das gerüst Testudo mit zweyen
+          <lb/>widern».
+          <lb/>Fol. 2a: Herren Meister Hansen Gerster der stat Basel
+          <lb/>würdigen statschreiber, Cantz-] ler vnnd Protonotarien. Ent¬
+          <lb/>beut doctor Johannes adelffi Argentinensis, stattartzet zu
+          <lb/>Schaffhausen, sein manigfaltigen früntlichen Gruss... —
+          <lb/>Datumb inn Schaffhausen, vff Sant Johannes tag, des Euan¬
+          <lb/>gelisten. In dem jar des Herren.! M. D. XX.
+          <lb/>R10077. Prov.: Bibl. Charles Schmidt, dont l’ex-libris se trouve
+          <lb/>à l’intérieur de la reliure. Au recto du f. blanc qui précède le titre,
+          <lb/>Schmidt a noté: La première édition est de 1520. La gravure fol. 7a
+          <lb/>est aussi en tête de la 2e édition de Geiler: «Her der Kunig ich
+          <lb/>diente gern». Le poète couronné fol. 62b est le même que celui qui
+          <lb/>paraît dans diverses publications de Grüninger, à partir de 1498.
+          <lb/>Plusieurs des autres grav. sont tirées d’ouvrages antérieurs.
+          <lb/>GPB, I, 10495: Berlin, München, Wien, Göttingen, Königs¬
+          <lb/>berg, Braunsberg.
+          <lb/>II
+          <lb/>ADOLESCENTIA Jacobi Wimphelinguï. Voir: WIMPFELING.
+          <lb/>ADRIANUS Cardinalis
+          <lb/>Strasbourg, M. Schürer, 1512.
+          <lb/>ADRIANI CARDINA-LIS. S. CHRISOGO NI VENATIO. (Verso
+          <lb/>blanc.)
+          <lb/>A la fin: Argentorati, in aedibus Mathiae Schu-rerij,
+          <lb/>Mense Augusto Anno) M. D. XII.
+          <lb/>in-4°, car, rom., 10 ff. non ch., sign. A-B. Poème latin.
+          <lb/>Ca 100851. Prov.: J. A. Sprecher, Chur (Catal. 14, No 1061),
+          <lb/>14/XI. 1879, 7 M.
+          <lb/>Schmidt, VIII, No 81.
+          <lb/>12
+          <lb/>AGAPETUS Diaconus
+          <lb/>Mulhouse, P. Schmid, 1560.
+          <lb/>DE OFFICIO I CHRISTIANI REGIS, Ap Jv stinianum Cae¬
+          <lb/>sarem Opuscu-lum paraeneticum, salu- berrimis prae¬
+          <lb/>ceptis! refertum. 1 (Feuille de trèfle) ! AB AGAPETO DIACONO
+          <lb/>Graeco sermoné primum conscriptum: ! Nunc per Joannem
+          <lb/>Jacobum Hug- gelium Basiliensem Latinitate! donatum,
+          <lb/>&amp;amp; Scholijs il lustratum. (Trois feuilles de trèfle.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

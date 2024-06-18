@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:28.793211+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2086.tif
+IMAGE WIDTH: 2330
+IMAGE HEIGHT: 3830
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>82
+          <lb/>A la fin: Secundae Parthenices opus diuinum Ar-] gen¬
+          <lb/>tine impressum per Joannem! Knoblouch. Anno natiuita
+          <lb/>tis dominicae. M. D.XV. ! die. XXI. mensis Julii.
+          <lb/>In-4°, car. rom., 42 ff. non ch., sign. aa-gg, initiales ornées, colo¬
+          <lb/>riées B, C, L, R.
+          <lb/>Au verso du titre: ... Bernardo Bembo Patritio Veneto
+          <lb/>iureconsulto. Frater Baptista! Mantuanus Carmelita...
+          <lb/>fol. aa 2b: Francisci Cereti Parmensis Juris Pontificij
+          <lb/>Scho laris studiosissimi in invidum lectorem Carmen.
+          <lb/>(11 distiques.)
+          <lb/>R 100.1370. Même Prov, que le R 100.137d), avec lequel il est
+          <lb/>relié, de nombreuses annotations dans le texte.
+          <lb/>Schmidt VII, No 96. GPB: Breslau, Königsberg.
+          <lb/>142
+          <lb/>BAPTISTA Mantuanus
+          <lb/>Haquenau, Th. Anshelm, 1517.
+          <lb/>Baptiste Mantuani Bucolica! seu Adulescentia in decem
+          <lb/>aeglogas diuisa A Jodoco Badio Ascensio familiariter
+          <lb/>exposita, cum Indice dictionum.
+          <lb/>Carmen eiusdem de sancto Johanne Baptista. Dialo¬
+          <lb/>gus eiusdem de Vita Beata. Hermanni Buschii oda de con¬
+          <lb/>temnendo mundo &amp;amp; amanda sola uirtute &amp;amp; scientia.
+          <lb/>IN AEGLOGAS MANTVANI DECATOSTICHON) omnium earum
+          <lb/>argumenta complectens Joannis! Gallinarii Budorini, (5 dis¬
+          <lb/>tiques.)
+          <lb/>A la fin: Hagnoiae apud Thomam Anshelmum Baden¬
+          <lb/>sem! Anno M.D.XVII. Imp. Max, aemiliano (!) Regnante.
+          <lb/>Au dessous, marque typographique de Th. Anshelm. (H &amp;amp; B Planche
+          <lb/>LXII, No 3.) Verso blanc.
+          <lb/>In-4°, car. rom., 4 ff. non ch. (Index Dictionum à 3 col. et préfaces),
+          <lb/>LXXI ff. ch. et 15 ff. non ch., sign. A-R; titre courant, notes mar¬
+          <lb/>ginales.
+          <lb/>fol. 4a non ch.: BAPTISTA MANTVANVS CARMELITA! Paridi
+          <lb/>Caeresario S. P. D.... — Kalendis septembris. Anno
+          <lb/>M.CCCC.XCVIII.
+          <lb/>Au-dessous: IN THOMAM WOLPHIVM JVNIOREM... et Al¬
+          <lb/>bertum de Ratsamhusen germanicos amicicia coniunctis¬
+          <lb/>simos Tetrastichon Baptistae Mantuani, (2 distiques.)
+          <lb/>Au bas: IN THOMAMWOLPHIVM IVNIOREM DD. DOCTO-rem,
+          <lb/>qui habebat Basiliscum mortuum iocus Baptistae Mantuani.
+          <lb/>(4 distiques.)
+          <lb/>Au verso: JOpOCVS BADIVS ASCENSIVS JOANNIS ALEXAN¬
+          <lb/>DRI ANDEGAVENSIVM BIBLIOPOLAE INGENVIS! liberis Laodis¬
+          <lb/>lao &amp;amp; Clementi suis ob paternam probi! tatem dilectissimis
+          <lb/>S.P.D.... — Ex celeberrimo Parisiorum gymnasio sexto
+          <lb/>kalen. Apriles. Anno M.D.II.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

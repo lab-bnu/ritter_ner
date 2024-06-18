@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:34.643364+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2269.tif
+IMAGE WIDTH: 2300
+IMAGE HEIGHT: 3820
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>CALENTIUS Elysius
+          <lb/>Haguenau, J. Secer, 1531.
+          <lb/>ELYSH CA- LENTH AMPHRATEN- sis, Croacus. De bello
+          <lb/>Rana rum &amp;amp; Murium.
+          <lb/>Homeri Batracho- myomachia.
+          <lb/>AD LECTOREM, (2 distiques.)
+          <lb/>Haganoae, per Iohannem! Secerium.
+          <lb/>A la fin: Haganoae, per Iohannem Secerium, Anno
+          <lb/>M. D. XXXI. Mense Augusto.
+          <lb/>Au-dessous, marque typ. de Secer. (Hdt B, Planche LXXI, NO 9;
+          <lb/>Silvestre, No 56r.)
+          <lb/>In-8°, car. grecs et ital., 23 ff. non ch., sign. A-C, tître courant,
+          <lb/>réclames, init à fig. D.
+          <lb/>Au verso du titre: CALENTIVS LVTIO FILIO SALVTEM...
+          <lb/>R 100896. Prov.: A. Stuber, antiquaire, Wursbourg, 17/XII.
+          <lb/>1882, 3 M.
+          <lb/>Brunet I6, 1473: De bello ranarum a été réimprimé séparément à
+          <lb/>Strasbourg, chez Math. Schürer, en 1511 et en 1512, in-40, et aussi à
+          <lb/>Bâle en 1517, in-4° et à Anvers, 1545, in-80, Notre édition manque chez
+          <lb/>Brunet.
+          <lb/>400
+          <lb/>265
+          <lb/>Haguenau, H. Gran, 1523.
+          <lb/>CALEPINUS Ambrosius
+          <lb/>AMBROSH CALEPINI BERGOMATIS LEXICON ADAVCTVM
+          <lb/>ET RECOGNITVM.
+          <lb/>AD LECTOREM., (9 lignes.)
+          <lb/>AD SEXTILIVM AVRELIVM RHOSSELLVM LVCHI Rhos¬
+          <lb/>selli Epigramma, (4 distigues.)
+          <lb/>A la fin: HAGANOAE APVD HENRICVM GRAN CHALCO¬
+          <lb/>TYPVM, IMPENSIS FRANCISCI BIRCEMAN. ANNO M. D. XXIII.
+          <lb/>MENSE Ivnio.
+          <lb/>In-fol., car. ital et grecs, 2 col., 402 ff. non ch., sign. a-2, A-Z,
+          <lb/>Aa-Bb, titre courant, réclames, initiales ornées, titre encadré: Bordure
+          <lb/>supérieure, au milieu: Terpsichore, Melpomène et Clio, à gauche Apollon
+          <lb/>et deux Satyres, à droite Hésiode devant la fontaine Cabali, bordure
+          <lb/>inférieure, les 3 Grâces, à leurs pieds à gauche, monogramme de H.
+          <lb/>Gran, à droite 1523, dans le coin de gauche, un écusson avec la rose
+          <lb/>de Haguenau, dans celui de droite, écusson avec la marque de Gran;
+          <lb/>bordure latérale de gauche: Euterpe, Polymnie et Uranie, dans celle de
+          <lb/>droite, Thalie, Erato et Calliope.
+          <lb/>Au verso du titre: Ad... magistrum Egidium Viterbiensem
+          <lb/>totius Augustiniani gregis Eremitarum Pastorem dignissi¬
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

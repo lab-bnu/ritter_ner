@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:05.648953+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie031.tif
+IMAGE WIDTH: 2484
+IMAGE HEIGHT: 3950
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Cat. I, 166; Schmidt V, n° 6. — B U Berne, B U Giessen,
+          <lb/>Brit. Mus. Londres, B U Munster.
+          <lb/>170
+          <lb/>BÜCHLEIN. Wie man visch und vogel fahen soll mit den
+          <lb/>henden und auch sonst mil vil bewerten recepten und
+          <lb/>ist geteilt in xxvij Capitel... — (Straszbur (!), Mathias
+          <lb/>Hupfuff 14/98), in-4°.
+          <lb/>G W 5680; Copinger 2516 : Walter 513. Bibl. Rég. Dresde,
+          <lb/>Mayence (Bibl. du Séminaire).
+          <lb/>171
+          <lb/>BÜCHLEIN, wie man Fische und Vögel fangen soll. —
+          <lb/>(Strasbourg, Math. Hupfuff vers 1498/1500), in-4°,
+          <lb/>G W5682: B U Tübingen (seulement f. 2 et 5).
+          <lb/>172
+          <lb/>BÖCHLEIN (Amor die Lieb) : Das dis büchlin werd bekant.
+          <lb/>Amor die lieb ist es genant... — Strasbourg, Math.
+          <lb/>Hupfuff « under der pfaltzstegen» 1499, in-4°.
+          <lb/>Hain 930; Panzer, Zusätze 90; Schmidt V, n° 5 : Jadis Bibl.
+          <lb/>de Strasbourg, Incun. et Berne.
+          <lb/>173
+          <lb/>BÜCHLEIN vom Rosengarten künig laurin. Voir LAURIN
+          <lb/>n° 408.
+          <lb/>BÜCHLEIN von Meister Lucidarius. Voir: LUCIDARIUS n° 433-
+          <lb/>439.
+          <lb/>BULLE, die güldin. Voir: CAROLUS IV, n° 178.
+          <lb/>BUSTIS Bernardinus de : Mariale de singulis festivitatibus
+          <lb/>B. Virginis... — Strasbourg, Martin Flach 1492, in-fol.
+          <lb/>G W vol. V, col. 699 : Martin Flach commença à imprimer à
+          <lb/>partir de 1501; il s’agit de l’édition de 1502. Il en est de
+          <lb/>même de l’éd. de 1493, citée par Walter n° 127.
+          <lb/>174
+          <lb/>CARACCIOLUS, Robertus : Sermones de adventu. Sermo de
+          <lb/>S. Joseph. Sermo de beatitudine. Sermones de divina
+          <lb/>caritate. Sermones de immortalitate animae. Bollanus,
+          <lb/>Dominicus : De conceptione Beatae Virginis Mariae.
+          <lb/>29
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:44.014293+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078047.tif
+IMAGE WIDTH: 2352
+IMAGE HEIGHT: 3840
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>LUCIANUS
+          <lb/>Strasbourg, H. Sevbold 1529
+          <lb/>TRAGŒ-DIA LUCIANI CVI TITV-) LVS EST, PODAGRA
+          <lb/>A QVODAM GRÆ- ce latineque erudito, uer-sibus reddita.
+          <lb/>Podagrae Laus, Bilibaldo Pirckey- mhero Authore.! Anno
+          <lb/>1529. (Verso blanc.)
+          <lb/>A la fin: Argentorati per Henricum Sybold, Mense
+          <lb/>Septembri.
+          <lb/>In-8°, car. rom., 32 ff. non ch. dont le dernier blanc, réclames,
+          <lb/>not. marg., init. ornée N.
+          <lb/>*RI01.881. Prov.: Th. Ackermann, Munich 26/VII 1881; 2 M.80.
+          <lb/>BN Paris, Yb. 4198.
+          <lb/>1396
+          <lb/>LUCIANUS: Vom todten Schiflein. Voir: CICERO: Fines bono¬
+          <lb/>rum et malorum. Strasbourg, J. Cammerlander vers 1530.
+          <lb/>LUCIANUS
+          <lb/>Strasbourg, Chr. Egenolphe 1530
+          <lb/>LUCIANI ] GALLUS, LATINUS FACTUS PER! Rodolphum
+          <lb/>Agricolam Frisum. EIUSDEM Vitarum auctio.! IuDICIUM
+          <lb/>Vocalium. INFERNORUM Dialogus : Charontis,Mercurii,
+          <lb/>&amp;amp; Menippi. MARTINO Bolero Brettano Interprete. Marque
+          <lb/>typ. d&amp;#x27;Egenolphe, HEB Planche XXI n° 2, avec la légende:
+          <lb/>IN SUDORE VUL] TUS TUI VESCE] RIS PANE TUO.
+          <lb/>Argentorati apud Christi-anum Egenolphum.
+          <lb/>A la fin: Argentorati apud Christianum Egenolphum,
+          <lb/>Mense Aprilis Anno M. D. XXX.
+          <lb/>In-80, car, ital., 33 ff. non ch., sign. A-D, titre courant, réclames,
+          <lb/>init. ornées C, I.
+          <lb/>Au verso du titre:... D. Ioanni Socero... Martinus Bolerus... —
+          <lb/>Edelbergae. Anno M. D. XXX.
+          <lb/>R101.882. Prov. inconnue. Au bas du titre : Emptus friburgi
+          <lb/>Quattuor Nummis.
+          <lb/>1397
+          <lb/>LUCIANUS: In calumniam oratio. Voir: MELANCHTHON: De
+          <lb/>arte dicendi. Haguenau, J. Secer 1531.
+          <lb/>931
+          <lb/>LUCIANUS
+          <lb/>Haguenau, P. Brubach 1535
+          <lb/>... Luciani Samo! satensis pars! prima; pars secunda.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

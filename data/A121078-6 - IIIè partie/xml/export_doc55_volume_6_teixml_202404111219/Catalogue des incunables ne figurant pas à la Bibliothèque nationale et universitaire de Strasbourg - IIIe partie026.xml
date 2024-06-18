@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:05.578062+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie026.tif
+IMAGE WIDTH: 2486
+IMAGE HEIGHT: 3932
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>BREVIARIUM Argentinense : éd. sur la demande de l’évêque
+          <lb/>de Strasbourg Ruprecht, duc de Bavière. — (Strasbourg,
+          <lb/>impr. de Henricus Ariminensis 12.I.] 1478, in-fol. 9
+          <lb/>parties.
+          <lb/>G W 5259; Copinger 1247a, Pellechet-Polain 2850, Bohatta,
+          <lb/>Lit. Bibl. 71; Brit. Mus. Cat. II, 484; Schreiber 3583.
+          <lb/>BN Munich, Paris et Bibl. Mazarine Paris etc.
+          <lb/>140
+          <lb/>BREVIARUM Argentinense : (Idem). — (Strasbourg, impr.
+          <lb/>de Henricus Ariminensis 12. Il 1478, 9 parties in-40.
+          <lb/>G W5260, Hain-Copinger 3789 — Hain 3788; Copinger 1247;
+          <lb/>Pellechet-Polain 2851; Bohatta : Parma 432, Ritter: B M
+          <lb/>Strasbourg n° 80 et Grand Sém. A 362, A 363. Bibl. Roy.
+          <lb/>Dresde, B N Paris, Schwarzau (Parma).
+          <lb/>141
+          <lb/>BREVIARIUM Augustanum. — (Strasbourg), Jean Grüninger
+          <lb/>(30. VII, 1495, in-80.
+          <lb/>G W 5268; Hain 3795, Bohatta : Lit. Bibl. 79; Schmidt I,
+          <lb/>suppl. p. 103; Schreiber 3587 ; Voulliéme : Berlin 2289. —
+          <lb/>B N Berlin, Munich, Schwarzau (Parma) etc.
+          <lb/>142
+          <lb/>BREVIARIUM Cistercienne : éd. à la demande de Jean de
+          <lb/>Cîteaux par Nicolas Salicetus. — Strasbourg, Jean
+          <lb/>Grüninger (pas avant 1487), in-8°.
+          <lb/>G W 5199 ; Reichling 436 ; Bohatta : Lit. Bibl. 171;
+          <lb/>Voulliéme : Berlin 2319, 5. B N Berlin, B U Bonn, Bibl. Rég.
+          <lb/>Wolfenbüttel.
+          <lb/>143
+          <lb/>BREVIARIUM Cisterciense. — Strasbourg, J. Grüninger
+          <lb/>(4 mars) 1494, 3 parties in-8°.
+          <lb/>G W 5200; Hain-Copinger 3823; Bohatta : Lit. Bibl. 175;
+          <lb/>Schmidt I, n° 19, Schreiber 3593; Voulliéme : Berlin 2288.
+          <lb/>Bibl. cantonale Aarau, B N Berlin, Munich etc.
+          <lb/>144
+          <lb/>BREVIARIUM Constantiense. — (Strasbourg, J. Grüninger
+          <lb/>25.I.1 1495, 4 parties in-16.
+          <lb/>G W 5324; Hain 3829; Bohatta : Lit. Bibl. 208. Bibl. Rég.
+          <lb/>Carlsruhe, B N Munich, Bibl. Roy. Stuttgart etc.
+          <lb/>145
+          <lb/>24
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

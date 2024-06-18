@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:13.374435+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002468.tif
+IMAGE WIDTH: 2508
+IMAGE HEIGHT: 3946
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>SENECA, Lucius Annaeus : Ad Lucilium Epistolarum Opus de
+          <lb/>vivendi ratione preclarum et auro et iaspide preciosius.
+          <lb/>Item. Vita Senecae ab Hermanno Buscio recenter
+          <lb/>digesta. — [Strasbourg (?) Mathias Hupfuff (?) vers
+          <lb/>1505), in-4°.
+          <lb/>Graesse VI, p. 350.
+          <lb/>3217
+          <lb/>SENECA (Pseudo) : Epistolae ad Apostolum Paulum et Pauli
+          <lb/>ad Senecam. — Haguenau, Henri Gran 1514, in-4°.
+          <lb/>Graesse VI, p. 352.
+          <lb/>3218
+          <lb/>SENECA, Lucius Annaeus. Seneca ad apostolum Paulum.
+          <lb/>Voir: PHILELPHUS, Franciscus : Epistole familiares. —
+          <lb/>Haguenau 1521.
+          <lb/>SENECA, Lucius Annaeus : Sittliche Zuchtbücher durch
+          <lb/>Michael Herr neulich verteutscht. — Strasbourg,
+          <lb/>Balthasar Beck 1545, in-fol.
+          <lb/>Goedeke II2, p. 320, n. 9; Graesse VI, p. 353. ¡Éd. Balth.
+          <lb/>Beck 1536 et 1540: Ritter, Rép. n° 2115/6).
+          <lb/>3219
+          <lb/>SERAPION, Joh. Voir: ABRAHAM, Judaeus, n° 728; BRUNFELS,
+          <lb/>n° 1124.
+          <lb/>SERMO: ad juvenes qui sacris ordinibus iniciari, &amp;amp; examini
+          <lb/>se submittere petunt, cum epistola J. [acobil] W. Iimphe¬
+          <lb/>lingi.] ad Hiero. Gebwilerum, &amp;amp; responso eiusdem. —
+          <lb/>(Strasbourg, [Jean Prüss) janvier 1519), in-8°.
+          <lb/>Schmidt III, p. 34, n° 17; Bâle.
+          <lb/>3220
+          <lb/>SERMONES thesauri novi de tempore. Voir: PETRUS de
+          <lb/>Paludanis, n° 2883.
+          <lb/>SERRANUS. Voir : PLATO, n° 2939.
+          <lb/>SERVIUS, Ho. M. Centimetrum. A la suite de : HENRICHMANN,
+          <lb/>Grammaticae Institutiones. — Haguenau, H. Gran
+          <lb/>1509 et 1518.
+          <lb/>3221
+          <lb/>466
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

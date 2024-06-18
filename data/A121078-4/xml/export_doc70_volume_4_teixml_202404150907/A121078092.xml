@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:45.263900+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078092.tif
+IMAGE WIDTH: 2320
+IMAGE HEIGHT: 3844
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>978
+          <lb/>MANLIUS Jacobus de: Interpretatio simplicium. Voir: BRUN¬
+          <lb/>FELS Otto: Novi Herbarii Tomus II. Strasbourg, J. Schott 1536.
+          <lb/>MANTOUAN Giovanni Battista Spagnuoli. Voir: BAPTISTA Man¬
+          <lb/>tuanus
+          <lb/>MANTUANUS Baptista. Voir: BAPTISTA Mantuanus
+          <lb/>MANUALE CURATORUM. Voir: SURGANT Joh.-UIr.
+          <lb/>(MANUTIUS Aldus)
+          <lb/>Haguenau, Th. Anshelm s. d.
+          <lb/>CONTENTA De Literis Graecis ac Diphthongis, &amp;amp; quem¬
+          <lb/>admodum ad nos veniant.Abbreviationes quibus frequen¬
+          <lb/>tissime Graeci utuntur.Oratio dominica, &amp;amp; duplex. Salu¬
+          <lb/>tatio ad beatiss. virginem. Symbolum Apostolorum.
+          <lb/>Evangelium divi Iohannis Evangelistae. Carmina aurea
+          <lb/>Pythagorae. Phocylidis poema ad bene beatèque viven¬
+          <lb/>dum.Omnia haec cum tralatione latina. Introductio
+          <lb/>perbrevis ad Hebraicam linguam.
+          <lb/>A la fin: Hagenau ex Academia Thomae Anshelmi.
+          <lb/>(Verso blanc.)
+          <lb/>In-40, car, rom., grecs et hébreux, 20 ff. non ch., sign. A-E. Au
+          <lb/>verso du titre: viro philosopho m. vito aegidio! surburgensis ecclesiae
+          <lb/>col! legiatae Decano, Tohannes Secerius! Lauchensis Iuvenis! S. D. P....
+          <lb/>&amp;quot;si quid non hoc tantum opusculi nostrae officinae»... Vale Mœcenas
+          <lb/>optime, &amp;amp; Secerium uti tuum ama¬
+          <lb/>R102.144. Prov.: BN Munich 15/IV 1879.
+          <lb/>1474
+          <lb/>(MANUTIUS Aldus)
+          <lb/>Haguenau, Th. Anshelm 1519
+          <lb/>CONTENTADe Literis Graecis ac Diphtongis, &amp;amp;
+          <lb/>quemadmodum ad nos veniant. Abbreviationes quibus
+          <lb/>frequentissime Graeci utuntur.
+          <lb/>Oratio Dominica, &amp;amp; duplex Salutatio ad Beatissimam
+          <lb/>Virginem. Symbolum Apostolorum.Evangelium divi lo¬
+          <lb/>hannis Evangelistae: Carmina Pythagorae. Phocylidis
+          <lb/>poëma ad bene beatèque vi vendum.Omnia haec cum
+          <lb/>translatione Latina.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

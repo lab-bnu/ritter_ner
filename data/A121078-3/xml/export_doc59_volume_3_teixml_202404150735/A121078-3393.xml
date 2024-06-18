@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:13.158247+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3393.tif
+IMAGE WIDTH: 2402
+IMAGE HEIGHT: 3854
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>IGNATIUS Antiochenus
+          <lb/>Strassburg, Joh. Knobloch 1527
+          <lb/>GLORIO- SI CHRISTI MARTYRIS IGNATH ANTIOCHENI
+          <lb/>Antistitis, Epistolae undecim. Item una beati POLYCARPI
+          <lb/>Martyris Epistola, cum Argumento lacobi Fabri Sta
+          <lb/>pulensis in eadem.
+          <lb/>ARGENTORATI. M. D. XXVII. (Epheubl. Rücks, leer.)
+          <lb/>Am Schluss: ARGENTORATI IOANNES KNOBLOVCHVS
+          <lb/>EXCVDEBAT. 1527.
+          <lb/>80, Kursiv, 51 unn. Bll., Sign. A-G, Kopft., Kust., Marg., Init. I.
+          <lb/>Bl. A2a: IACOBI FAB. STAPVLENSISn Epistolas
+          <lb/>diuini Ignatij.Argumentum. (3S.)
+          <lb/>R101.306. Prov.: Bibl. Baum 1879.
+          <lb/>Bibl. Wilh. Strassburg; Schmidt VII, 318: Stadtbibl. Strassburg.
+          <lb/>1242
+          <lb/>IMSSER Philipp
+          <lb/>Strassburg, Chr. Müller Erben 1582
+          <lb/>Pestilentzbüchlin,) Für die armen Handwercks vnd
+          <lb/>Baurs! Leut, welche den Artzten vnd Apo! tecken zu
+          <lb/>weit gesessen, oder sich! Armut halben schlechter ding
+          <lb/>behelffen müssen. In gegenwertiger Gefarlichkeit auffs
+          <lb/>kürtzest beschriben, Durch D. Philip Imssern.! Veracht
+          <lb/>nicht alles was verächt- lich scheinet.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:01.912795+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002019.tif
+IMAGE WIDTH: 2508
+IMAGE HEIGHT: 3936
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Wolstandt, was yedem menschen in seim standt gebüret...
+          <lb/>Welche bücher Ambrosius M. T. Ciceroni in solchem
+          <lb/>argument ganz meysterlich nachvolgend gemeyner Chris¬
+          <lb/>tenheit zu gut geschriben hat... — (Haguenau, Valentin
+          <lb/>Kobian), 12 mars 1534, in-40.
+          <lb/>GKIII, 19378: BN Berlin, Munich, Vienne etc.; Ritter:
+          <lb/>B M Strasbourg no 387.
+          <lb/>814
+          <lb/>AMBROSIUS S. Voir aussi: BRENTIUS, Joh, no 1094.
+          <lb/>AMBROSIUS (Camaldulensis). Voir : EPHREM n° 1551.
+          <lb/>AMERBACH, Vitus : Commentaria in Ciceronis tres libros de
+          <lb/>Officiis. — Strasbourg, Crato Mylius septembre 1538,
+          <lb/>in-40.
+          <lb/>GK III, 10892: B U Bonn, Göttingen, Königsberg, Walter
+          <lb/>n° 967.
+          <lb/>815
+          <lb/>AMERBACH, Vitus : In artem poeticam Horatii commentaria.
+          <lb/>— Strasbourg, Crato Mylius 1543, in-8°.
+          <lb/>Walter n° 1555.
+          <lb/>816
+          <lb/>AMERBACH, Vitus. Voir: CICERO n° 1368, Pontanus n° 2972;
+          <lb/>Pythagoras n° 3054/5; RITTER, Rép. nos 47-49.
+          <lb/>AMSDORF, Nicolaus : Die Hauptartickel durch welche
+          <lb/>gemeyne Christenheyt bisher verfürt worden ist. Dar¬
+          <lb/>neben auch grund und anzeygen eines gantzen rechten
+          <lb/>Christenlichen wesens. M. D. xxiij. — (Strasbourg,
+          <lb/>Martin Flach] 1523, in-40.
+          <lb/>Schmidt VI, p. 37, n° 70 : Bibl. S. Guillaume, Strasbourg;
+          <lb/>Weller 2329. G K renvoie à Lazarus Spengler.
+          <lb/>817
+          <lb/>ANDRELINUS, Publius Faustus: Aegloga moralissima. Eius¬
+          <lb/>dem Hecatodistichon. Ex secunda recognitione. T. O.
+          <lb/>— Tempus observa). — (Strasbourg, Mathias Schürer
+          <lb/>décembre 1513), in-4°.
+          <lb/>GKIV, 7623; B N Munich, Vienne; Schmidt VIII, n° 117 :
+          <lb/>Bibl. cantonale Aarau; Weislinger, Catal. 7.
+          <lb/>818
+          <lb/>17
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

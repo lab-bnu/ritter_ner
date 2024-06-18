@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:51.299638+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078300.tif
+IMAGE WIDTH: 2312
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1186
+          <lb/>Argentine. Anno domini. Mil- lesimo quingentesimo unde¬
+          <lb/>cimo. (Probablement Matthias Hupfuff, qui en a fait une nouvelle édi¬
+          <lb/>tion en 1515 avec la même grav., le même titre et le même nombre de ff.]
+          <lb/>In-4°, car. goth., 46 ff. non ch., sign. ai, titre courant, init, ornée
+          <lb/>D; au recto du dernier f. blanc, grav. sur bois: le maître assis sur un
+          <lb/>trône, à ses pieds trois élèves; fol. a 4a, a 6a et bb: figures de dialec¬
+          <lb/>tique.
+          <lb/>*R101.102. Prov.: Butsch fils (Vente Bibl. Buxheim), Augsbourg
+          <lb/>12/X 1883; 13 M. 50. En bas de la grav. du titre, Cartae in Buxheim
+          <lb/>avec le timbre de la Bibl. de Buxheim au fol. a ij a.
+          <lb/>1854
+          <lb/>PETRUS Hispanus
+          <lb/>Strasbourg, J. Knobloch 1514
+          <lb/>Tractatus duodecim Petri Hispani. [La feuille du titre
+          <lb/>manque dans mon exemplaire.]
+          <lb/>A la fin: Summularum Petri Hyspani Tractatus duo¬
+          <lb/>decimquem ante multo perquisitiori diligentia recogni¬
+          <lb/>ti: atque Argentine per Joannem Knob.elaborati. Anno
+          <lb/>domini M. D. xiïi. (Verso blanc.)
+          <lb/>In-4°, car, goth, 58 ff. non ch. sign. a-k, titre courant, init.
+          <lb/>d’attente.
+          <lb/>RIOI40I. Prov.: Don de Fidelis Butsch, antiguaire à Augsboura
+          <lb/>1871; incomplet, tître ainsi que fol. a 8, 62 et b3 manquent; de nom¬
+          <lb/>breuses annotatione mes. dans le texte.
+          <lb/>Manque chez Schmidt.
+          <lb/>1855
+          <lb/>PETRUS MOSELLANUS: De primis apud rhetorem exercitatio¬
+          <lb/>nibus praeceptiones. Voir: BUCOLDIANUS Gerardus : De
+          <lb/>inventione oratoria. Strasbourg, J. Albrecht 1534. N° 324.
+          <lb/>PETRUS DE NATALIBUS
+          <lb/>Strasbourg, M. Flach 1513
+          <lb/>Catalogus! sanctorum et ge! storum eorum ex diver¬
+          <lb/>sis volumini- bus collectus: Editus a Re! verendissimo
+          <lb/>in christo patre domino Petro de Natali- bus de Vene¬
+          <lb/>tiis dei gratia episcopo Equilino.
+          <lb/>A la fin:... Argentine impressum per honestum virum
+          <lb/>Martinum Flach. Anno domini. Millesimo quingentesi mo
+          <lb/>decimo tertio circa festum nativitatis Marie.
+          <lb/>In-fol., car. goth., 2 col., 5 ff. non ch. † CCLIII fr. ch., titre
+          <lb/>courant; titre rouge, encadré par Wechtelin: à gauche, ume tige de
+          <lb/>houblon, à droite, un cep de vigne, s’entrelaçant dans la bordure supé¬
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:37.024697+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu046.tif
+IMAGE WIDTH: 2378
+IMAGE HEIGHT: 3842
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>BERBERIUS JOHANNES: Viatorium utriusque juris. [Stras¬
+          <lb/>bourg, J. Prüss, 1493), in-8°.
+          <lb/>GW 3858, Hain 2793, Madsen 590, Proctor 572, Voulliéme:
+          <lb/>Berlin 2367.
+          <lb/>K 619. Prov.: Don de la BN Munich, 10. VII. 1877. Au-dessous
+          <lb/>du titre: «Bernhardus Hoffmann mihi dono dedit.» A l&amp;#x27;inté¬
+          <lb/>rieur du 2e plat: «Bernhardus Hoffmann.» Rel. anc.
+          <lb/>70
+          <lb/>BERCHORIUS PETRUS: Liber bibliae moralis. Strasbourg,
+          <lb/>Civis C. W., 7 oct. 1474, in-fol.
+          <lb/>G W 3863, Hain 2795 Pellechet 2057, Pellechet: Colmar 279,
+          <lb/>Proctor 341, Voullième: Berlin 2186.
+          <lb/>K 621. Prov.: Don de la ville de Heilbronn, 1871. Rel, anc.
+          <lb/>71
+          <lb/>BERNARDINUS DE BUSTIS: Mariale. Strasbourg, Mart. Flach,
+          <lb/>26 juillet 1496, in-fol.
+          <lb/>G W 5805, Hain 4161, Madsen 964, Pellechet 3110, Pellechet:
+          <lb/>Colmar 417, Proctor 704, Schmidt VI, 59, Voulliéme: Berlin
+          <lb/>2504.
+          <lb/>K 624. Prov.; B N Munich, 22. I. 1880, 3 M. Au-dessus du titre:
+          <lb/>Monasterii S. Zenonis. Au recto du f. de garde: «11 Augusti
+          <lb/>incepi legere hunc librum ego F. Valerius.» Rel. anc.
+          <lb/>72
+          <lb/>BERNARDINUS DE BUSTIS: Mariale. Strasbourg, Mart. Flach,
+          <lb/>15 août 1498, in-fol.
+          <lb/>G W 5806, Hain 4162, Pellechet 3111, Pellechet: Colmar 418,
+          <lb/>Proctor 710, Schmidt VI, 68, Voullième: Berlin 2508, 7, Wal¬
+          <lb/>ter: Sélestat 128.
+          <lb/>K 624a. Prov.: Don de la Bibl. Univ. Königsberg, 1872, avec le
+          <lb/>cachet de la Bibliothèque au-dessous du titre. Rel. anc. 73
+          <lb/>BERNARDINUS DE BUSTIS: Rosarium sermonum. Haguenau,
+          <lb/>H. Gran pour J. Rynman, 1500, 2 vol. in-fol.
+          <lb/>G W 5808, Hain 4164, Pellechet 3115, Proctor 3205, Voulliéme:
+          <lb/>Berlin 1186, 5 et 1187, 5.
+          <lb/>K 624b. Prov.: Don de la Bibl. Univ. Königsberg, 1871, avec le
+          <lb/>cachet de la Bibliothèque au-dessous du titre. Rel. anc. 74
+          <lb/>16
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:12.575176+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002434.tif
+IMAGE WIDTH: 2518
+IMAGE HEIGHT: 3962
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>tionibus Viti Theodorii Noribergensis. Cui accessit
+          <lb/>Ecclesiastes Salomonis... — (Strasbourg, Crato Mylius)
+          <lb/>1543, in-80.
+          <lb/>Goedeke II2, p. 92, n° 18.
+          <lb/>3048
+          <lb/>PSALTERIUM : (Idem). — Strasbourg, Crato Mylius, septembre
+          <lb/>1546, in-80.
+          <lb/>Graesse V, p. 492 : « Reproduit Lipsiae ex off. Val. Papae 1551,
+          <lb/>in-8°. La première éd. avait paru : Marp. 1531, in-8° ». 3049
+          <lb/>PSALTERIUM, Davidis : integrum carm, redd, a Frid. Wide¬
+          <lb/>bramo. Cum unius atque alterius Psalmi paraphrasi. —
+          <lb/>Strasbourg, « apud Sam. Seelfisch, litteris » Theodosius
+          <lb/>Rihel 1578, in-80.
+          <lb/>Graesse V, p. 493.
+          <lb/>3050
+          <lb/>PSEAULMES : Aulcuns Pseaulmes et cantiques mys en chant. —
+          <lb/>Strasbourg 1539, in-160 (12 de Marot et 5 de Calvin
+          <lb/>ainsi que le 113me psaume en prose).
+          <lb/>Vogeleis, p. 240.
+          <lb/>3051
+          <lb/>PTOLEMAEUS : auctus, restitutus emaculatus, cum tabulis
+          <lb/>veteribus ac novis (opere Geo. Ubelii). — (Strasbourg,
+          <lb/>Jean Schott 1520), in-fol. (47 cartes). (Nouvelle éd.
+          <lb/>superbe de celle de 1518l.
+          <lb/>Brunet IV5, 955; Schmidt II, n° 54; Walter, n° 2102. —
+          <lb/>B M Colmar et Sélestat.
+          <lb/>3052
+          <lb/>PTOLOMAEUS. Voir aussi : JOHANNES de Sacrobusto, n° 2156;
+          <lb/>SYRIA, n° 3309; WALDSEEMÜLLER, n° 3455.
+          <lb/>[Ritter, Rép., nos 1956-1959.]
+          <lb/>PUPILLA oculi. Voir : BURGo, Joh., nos 1244/45.
+          <lb/>PUSCHMANN, Adam : Ein Ander kurtze Beschreibung des
+          <lb/>Schönen Münsters zu Strasburg. In der Stumpfen
+          <lb/>Lirchenweis A. Puschmans. — Strassburg (1571).
+          <lb/>Vogeleis, p. 317/8. (Il mentionne, p. 343/4 un ms. des Archives
+          <lb/>432
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

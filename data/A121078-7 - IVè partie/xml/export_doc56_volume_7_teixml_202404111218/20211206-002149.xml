@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:05.386137+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002149.tif
+IMAGE WIDTH: 2512
+IMAGE HEIGHT: 3952
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>genant Diemringer, ausz der Ortenau bei Rein Rittern:
+          <lb/>Was wunders jhme mit einer Merrvein oder Mörfähe
+          <lb/>seie begegnet. Darzu ein auszführlicher Bericht und
+          <lb/>Vorred... (5 lignes, grav.). — Zu Straszburg bei
+          <lb/>Bernhardt Jobin 1588, in-8° [éd. par Fischart).
+          <lb/>Hauffen, loc. cit., p. XLVII-LV, et éd. p. 265-352; Heitz-Ritter
+          <lb/>639-642; Schorbach p. 125. Berlin, Munich, Nuremberg
+          <lb/>(Germ. Museum). Nouvelles éd. 1589, 1595, 1598. Voir:
+          <lb/>Hauffen, loc. cit. p. Ly.
+          <lb/>1534
+          <lb/>EINREITUNG : Kayserlich Maiestat (Maximilian I] Einreitung
+          <lb/>und ander geschichten so zu Brüssel... ergangen seind...—
+          <lb/>(Strasbourg, Jean Knobloch 1517), in-4°.
+          <lb/>Weller, 1047 ; Rosenthal, Munich, Catal. 89 (1928),
+          <lb/>n° 55; 375 M; Proctor 10.107.
+          <lb/>1535
+          <lb/>EISENBURG, Johannes : Die Epistel Sanct Jacob... —
+          <lb/>(Haguenau?, Valentin Kobian?1 1534, in-80.
+          <lb/>Husner, zwei unbekannte Widertäuferdrucke dans Stultifera
+          <lb/>Navis III (1946) p. 83-84.
+          <lb/>1536
+          <lb/>EISENMENGER, Samuel : Oratio de methodo iatromathema¬
+          <lb/>ticae conjunctionis in qua astrologiae fundamenta
+          <lb/>certissima indicantur. — Strasbourg, Josias Rihel 1563,
+          <lb/>in-80.
+          <lb/>Zinner 2304.
+          <lb/>1537
+          <lb/>EISLINGER, Balthasar : Der erschrocklichen Erdbidem,
+          <lb/>kurtze erklerung, so in der Churfürstlichen Statt
+          <lb/>Heydelberg, auch Speyerischem Kraisz gehört, Auff den
+          <lb/>xiiij tag des Hewmonts imm M. Dxxxiiij. Jar. zu Ehren
+          <lb/>dem Dürchleüchtigen... Herrn Erichen dem ellteren
+          <lb/>Hertzogen zu Braunschweigk... — [Strasbourg, Jean
+          <lb/>Prüss 1534), in-40.
+          <lb/>Schmidt III, p. 40, n° 44 : Bibl. St. Guillaume, Strasbourg.
+          <lb/>¡L’impression est absolument la même que celle de la « Wunder¬
+          <lb/>barliche Geschicht... durch Ambrosium Moibanum 1536,
+          <lb/>faite par Prüss »l.
+          <lb/>1538
+          <lb/>147
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

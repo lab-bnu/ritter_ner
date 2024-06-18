@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:13.986100+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002500.tif
+IMAGE WIDTH: 2508
+IMAGE HEIGHT: 3966
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>URSINUS, Georgius &amp;amp; Nicolaus Weisse : Duo prognostica
+          <lb/>[prédictions pour les années 1578-1600 et 1578-1588). –
+          <lb/>Strasbourg, Nicolas Wyriot (1577), in-4°.
+          <lb/>Zinner 2869.
+          <lb/>3385
+          <lb/>URSUS, N. R. : Fundamentum astronomicum. — Strasbourg
+          <lb/>1588, in-40.
+          <lb/>Baer (Francfort-s.-M.), Catal, 500 (1907), n° 580 (2). 3386
+          <lb/>USINGEN, Bartholomaeus de : Concertatio haud inelegans (Jo¬
+          <lb/>hannis) Culsameri Lutherani et F. Bartholomei Usingensis
+          <lb/>(éd. Hieronymus Gebwiler).— Strasbourg, Jean Grüninger
+          <lb/>1523, in-40.
+          <lb/>Schottenloher 3530. Bibl. St. Guillaume, Strasbourg. 3387
+          <lb/>UTINO, Leonardus de. Voir: LEONARDUS de Utino.
+          <lb/>VADIAN. Voir : WATT, Joachim von.
+          <lb/>VADISCUS. Voir: HUTTEN, n° 2114.
+          <lb/>VALERIUS, Maximus : Dictorum et factorum memorabilium
+          <lb/>Libri Novem. — (Strasbourg, Mathias Schürer, juin
+          <lb/>1518), in-40.
+          <lb/>Panzer, 6, 89, 519; Schmidt VIII, n° 230 : Bibl. S. Guillaume,
+          <lb/>Strasbourg; Ritter: B M Strasbourg, n° 2134; [éd. M. Schürer
+          <lb/>1514 et 1516; Sélestat, Laz. Schürer 1520; Knobloch 1521 :
+          <lb/>Ritter, Rép. nos 2372/3; 2374/5).
+          <lb/>3388
+          <lb/>VALERIUS, Maximus : Factorum dictorumque memorabilium
+          <lb/>exempla. A la suite de : CODRUS, de Virtutibus... —
+          <lb/>(Strasbourg, Jean Knobloch, janvier 1524), in-8°.
+          <lb/>Schmidt VII, n° 273 : Aarau, Bibl. cantonale; Panzer 6, 105,
+          <lb/>675.
+          <lb/>3389
+          <lb/>VALLA, Georgius : De Natura oculorum. — Strasbourg
+          <lb/>1529, in-80.
+          <lb/>BN Paris Tasi 1 : [probablement Ritter, Rép. n° 2382:
+          <lb/>Strasbourg, H. Syboldl.
+          <lb/>3390
+          <lb/>498
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

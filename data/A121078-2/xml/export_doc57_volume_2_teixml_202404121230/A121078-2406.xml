@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:38.556562+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2406.tif
+IMAGE WIDTH: 2370
+IMAGE HEIGHT: 3838
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>402
+          <lb/>fol. 2a: Dédicace de l’auteur à: Henricus Stromerus Aur¬
+          <lb/>bachius, Doctori Medicine, Senatori urbis Lipsicae.
+          <lb/>R 101.185. Prov. inconnue.
+          <lb/>GPB. BN Berlin, B U Breslau, Greifswald, Kiel, Kœnigsberq.
+          <lb/>Bibliographie de Cruciger (Creuziger): Schottenloher I. No 3492-
+          <lb/>3502.
+          <lb/>598
+          <lb/>CRUCIGER Caspar
+          <lb/>Strasbourg, Cr. Mylius, 1542.
+          <lb/>IN EPISTO LAM PAVLI AD TIMOTHEVM priorem Com¬
+          <lb/>mentarius, dictatus in Schola Vuitenbergensi, per Doc¬
+          <lb/>torem Casparum Crucigerum. ITEM BREVIS ET FAMI¬
+          <lb/>LIARIS IN EPISTOLAM Pauli ad Titum expositio. Autore D.
+          <lb/>Iodoco Vuillichio.
+          <lb/>ARGENTORATI M. D. XLII. (Verso blanc.)
+          <lb/>A la fin: ARGENTORATI APVD CRA TONEM MYLIVM AN.
+          <lb/>M. D. XLII. MENSE IANVARO.
+          <lb/>In-8°, car, rom., 8 ff. non ch., 319 p. ch., titre courant, réclames,
+          <lb/>initiales à fig. B, P.I,S, I, V au commencement des chapitres; au
+          <lb/>verso du dernier f, marque typ. de Mylius, (H&amp;amp; B, Planche XXVIII,
+          <lb/>n° 11; Silvestre, N° 1266)
+          <lb/>R101486. Prov.: Eug. Stoll, Fribourg en Br., 13/V. 1898;
+          <lb/>2 M. 50. Au verso du titre: timbre de la BU de Fribourg.
+          <lb/>GPB: BN Berlin, BU Gœttingue, Kœnigsberg.
+          <lb/>599
+          <lb/>CRUCIGER Caspar
+          <lb/>Strasbourg, Cr. Mylius, 1546.
+          <lb/>IN EVAN GELIVM IOHAN NIS APOSTOLI Enarratio Cas¬
+          <lb/>pari Cru- cigeri, recens edita.
+          <lb/>Marque typ. de Mylius. (H d B, Planche XXVII, no 5; Silves-
+          <lb/>tre, N° 1264.)
+          <lb/>Au-dessous: ARGENTORATI apud Cratonem Mylium.
+          <lb/>ANNO M. D. XLVI. (Verso blanc.)
+          <lb/>Au verso du dernier f. autre marque typogr. de Mylius. (H&amp;amp;B,
+          <lb/>Planche XXVIII, n° 11; Silvestre, N° 1266.)
+          <lb/>In-8°, car. rom., 8 ff. non ch. (Préface), 879 p. ch., titre courant,
+          <lb/>réclames, notes marginales, initiales à fig. E, LL,H, C,E, I, PT,
+          <lb/>S, M, D, 9, A au commencement des chapitres.
+          <lb/>fol. 2a: Préface de l’auteur au prince Maurice, duc de Saxe.
+          <lb/>(14 pages.)
+          <lb/>R 101187. Prov.: Bibl. Heitz, Strasbourg, 1871. Au recto du
+          <lb/>titre note mss.: Abrahamus Bachmeir Wembdingensis.
+          <lb/>GPB: BN Berlin, B U Breslau, Greifswald, Kœnigsberg. 600
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

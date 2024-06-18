@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:27.815132+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2055.tif
+IMAGE WIDTH: 2356
+IMAGE HEIGHT: 3822
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>51
+          <lb/>A la fin: REGNANTE IMP. CAES. MAXI. FOFLICI AVG.
+          <lb/>In-4°, car, rom,, 35 ff. non ch., sign. A-E, initiales ornées, titre
+          <lb/>encadré (H&amp;amp; B Planche XIII, NO 6, mais sans les lettres M. S. dans
+          <lb/>l’écusson au milieu de la bordure inférieure.)
+          <lb/>fol. 2a: Aesopi Vita... (3 p.)
+          <lb/>fol. 3b: Martinus Dorpius Ioanni leupe. Iacobo pape
+          <lb/>&amp;amp; Ioanni Niniuitae eruditissimis in Flan dria ludi magis¬
+          <lb/>tris. Salutem.... — Louanii, ex nominatissimo lilianorum
+          <lb/>gymnasio. ad. 10. Kal. decembres.
+          <lb/>fol. 4a: Guilelmus canonicus diui Aurelii Augustini
+          <lb/>Flo (rentio suo illustri Baroni Iselsteyno. S. D....
+          <lb/>Au verso: Petri Egidii Antuerpiani Endecasy-labon, ad
+          <lb/>Lectores. (21 vers.)
+          <lb/>*R100.039. Prov.: K. Trübner, Strasbourg, 10/VI. 1887; 8 M.
+          <lb/>Notes mss.
+          <lb/>Manque chez Schmidt.
+          <lb/>20
+          <lb/>AESOPUS
+          <lb/>Strasbourg, W. Rihel, s. d.
+          <lb/>FABELLAE QVAE-DAM AESOPI GRAECAE AD PVE] rilem
+          <lb/>educationem in gymnasio Ar- gentoratensi selectae.
+          <lb/>Marque typ. de W. Rihel, (H&amp;amp; B Planche XXIX, No 3.), répétée
+          <lb/>au verso du dernier f.; (Silvestre, No 740.)
+          <lb/>ARGENTORATI APVD WEN- delinum Rihelium. (Verso blanc.)
+          <lb/>In-8°, car. rom. et grecs, 24 ff. non ch., sign. a-c, titre courant,
+          <lb/>réelames, texte grec et traduction latine.
+          <lb/>M107.565. Prov.: L. Rosenthal, Munich, 5/XI. 1884, 6 M. 50.
+          <lb/>91
+          <lb/>AESOPUS
+          <lb/>Strasbourg, 1513.
+          <lb/>ESOPI VATIS INGENIOSISSIMI fabulae adamussim mora¬
+          <lb/>lisatae: com! mentariolo &amp;amp; familiari cum glossemate nuper
+          <lb/>elima tius exaratae. LIBER DE SE. (2 distiques.)
+          <lb/>A la fin: ANN. M. D. XIII. (Verso blanc.)
+          <lb/>In-40, car. rom., XLIV ff. ch., notes marg., init. d’attente. Au
+          <lb/>verso du titre: Registrum. (2 col.)
+          <lb/>R102.095. Prov.: K. J. Trübner, Strasbourg, 16/XII. 1880; 1M.40.
+          <lb/>Note mss. au milieu du titre: «Argent. 1513».
+          <lb/>92
+          <lb/>AESOPUS
+          <lb/>Strasbourg, M. Schürer, 1515.
+          <lb/>FABVLARVM QVAE] hoc libro continentur in terpretes
+          <lb/>atque autho res. Sunt hi Guilielmus Goudanus Hadrianus
+          <lb/>Barlandus Erasmus Roterodamus, Aulus Gellius Angelus
+          <lb/>Politianus Petrus Crinitus Ioannes Antonius Campanus
+          <lb/>Plinius Secundus Nouocomensis! Aesopi Vita ex Max. Pla
+          <lb/>nude excerpta.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

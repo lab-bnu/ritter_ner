@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:06.333013+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3106.tif
+IMAGE WIDTH: 2310
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>550
+          <lb/>Bl. A 3b: PROLOGVS AUCTORIS...
+          <lb/>R 101870. Prov.; Baer, Frankfurt a. M. (Katal. 75, Nr. 58),
+          <lb/>24. XI.1879, 20M.
+          <lb/>Schmidt I, Nr. 120:,, Jadis Bibl. de Strasbourg, Incun. 33 et Biblio¬
+          <lb/>thèque St. Guillaume.&amp;quot;
+          <lb/>831
+          <lb/>FABER Stapulensis Jacobus
+          <lb/>Strassburg, Ren. Beck 1514
+          <lb/>Introductio in Physicam paraphrasim: adie ctis anno¬
+          <lb/>tationibus ex- planata. A Jacobo Sta pulensi edita. Anno
+          <lb/>M. D. XIIII. (Rücks, leer.).
+          <lb/>Am Schluss: EXCUSUM ARGENTINE PER RENATUM BECK
+          <lb/>CIUEM ARGENTINEN SEM. ANNO M. D. XIIII.
+          <lb/>4°, Antiq., 13 unn. Bl., Kopftitel, Marginalien, Zierinit. H, N;
+          <lb/>auf der Rückseite des 2. Bl.: Holzschnitt, die Erdkugel darstellend.
+          <lb/>umgeben von 11 Kreisen, darunter ? Planete; Titeleinfassung (HeB
+          <lb/>Tafel XV, Nr. 2).
+          <lb/>Bl. 24: Hieronvmus Gebuiler Lectori Salutem.
+          <lb/>RI01.285. Prov.: Bibliothek Ch. Schmidt, Strassburg. Die 4 letsten
+          <lb/>Bll. fehlen. Am Schluss handschr. Notizen.
+          <lb/>Proctor II, Sectio I, Nr. 10.306: London, British Museum;
+          <lb/>Schmidt IV, S. 21, Nr. 17; GK (unter Lefèvre d’Étaples Jacques):
+          <lb/>SB Berlin.
+          <lb/>832
+          <lb/>FABER Stapulensis Jacobus
+          <lb/>Hagenau, Thom. Anshelm 1518
+          <lb/>JACOI FABRI STAPV LENSIS, DE MA ria Magdalena,
+          <lb/>Triduo Christi, disceptatio, Concio natoribus verbi Diuini
+          <lb/>adprimae vtilis.
+          <lb/>Hagenoae, ex Neocademia Anshelmiana.
+          <lb/>Am Schluss: Hagenoae typis ac formulis Thomae Ans¬
+          <lb/>helmi Badensis. Mense Decembri. Anno M. D. XVIII. (Rücks, leer.)
+          <lb/>40, Antiq., 30 unn. Bl., Sign. aa-gg, Marginalien, Zierinit. I. Titel¬
+          <lb/>einfassung: oben, 2 Greife, jeder mit einem Füllhorn, links und rechts
+          <lb/>je ein Pfeiler mit Verzierungen, unten 5 Genien, die einen sechsten auf
+          <lb/>einer Schüssel stossen, wobei der eine die Trompete bläst.
+          <lb/>Auf der Rücks, des Titelbl.: Argumentum primae partis
+          <lb/>(3 Seiten Inhaltsverzeichnis).
+          <lb/>Bl. 3a: Jacobus Faber Stapu! lensis, Magnifico Viro
+          <lb/>Dn.! Francisco Molineo S. D. P...
+          <lb/>R102.052. Prov.: Eug. Stoll, Freiburg i. Br., 13. V, 1898, 5M.
+          <lb/>GK (unter Lefèvre d’Etaples): SB Berlin, UB München; Proctor
+          <lb/>II, Sectio I. Nr. 11.696: London, British Museum.
+          <lb/>833
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

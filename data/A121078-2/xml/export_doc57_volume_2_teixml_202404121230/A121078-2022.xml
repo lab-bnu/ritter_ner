@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:26.901283+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2022.tif
+IMAGE WIDTH: 2382
+IMAGE HEIGHT: 3828
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>18
+          <lb/>ALBERTUS Magnus
+          <lb/>Strasbourg, J. Cammerlander, 1545.
+          <lb/>Ein newer (feuille de lierre) Albertus Mag-nus, Darin
+          <lb/>durch sechs kurtz! er Büchlein vil haimligkeyten der Natur
+          <lb/>beschriben. Von Weybern, vnd geburten der kinder
+          <lb/>sampt ihren artzneien. Von tugenten etlicher für-nemen
+          <lb/>kreüter. Von krafft der edlen Gestain. Von! art vnnd Natur
+          <lb/>ettlicher Thier. Es werden auch etlich bewerte Aque
+          <lb/>vite, sampt eynem bewerten! Regiment für die Pestilentz,
+          <lb/>den gemai-nen leuten, welch die Artzt nit er-[reychen,
+          <lb/>zû̀ gût hierrinn an- gezeygt.
+          <lb/>Alles von newem gebessert durch Q. Apollinarem.
+          <lb/>Gravure sur bois: Un savant assis à une table, sur laquelle se
+          <lb/>trouve un livre ouvert.
+          <lb/>Au-dessous: Getruckt zû Straszburgk bey M. Jacob.
+          <lb/>Cammer Lander. M. D. XLV.
+          <lb/>A la fin: Getruckt zû Straszburg bey M. Jacob! Cam¬
+          <lb/>mer Lander. Anno. M. D. XLV.
+          <lb/>Au verso: marque typ. de J. Cammerlander (H &amp;amp; B, Planche
+          <lb/>XXIV, NO 1; Silvestre, No 816).
+          <lb/>in-4°, car. goth., 4 ff. non ch., XLIIII ff. ch., titre courant, ré¬
+          <lb/>clames. Titre encadré de 4 pièces juxtaposées (ornements); dans le
+          <lb/>texte, 2 grandes grav. d’une page et de nombreuses grav. plus petites.
+          <lb/>Fol. 2a non ch.: Vorred zûm Leser... signé Q. Apollina¬
+          <lb/>rius. Suit l&amp;#x27;index en deux colonnes, (4 pages.)
+          <lb/>J102354. Prov.: Prof. Th. Stromberger, Altkirch, 22/VI. 1900.
+          <lb/>Fol. VII-X, endommagés.
+          <lb/>GPB II, 9795: Königsberg.
+          <lb/>30
+          <lb/>ALBERTUS Magnus
+          <lb/>Strasbourg, J. Cammerlander, 1548.
+          <lb/>Naturalia! Alberti Magni, Darinn! durch sechsz kûrtze
+          <lb/>Büchlin viel haimlig- kaiten der Natur beschrieben. Von
+          <lb/>Weibern vnd gebûr-[ten der Kinder sampt jren artzneien
+          <lb/>Auch lebendiger abcontrafactur ett licher Kreuter! denen
+          <lb/>zugehörig. Auch von ander fürnemer! vnd desz gros! sen
+          <lb/>Alexanders! der sieben Planeten Kreuter genant! evgen¬
+          <lb/>schafften und tugenten. Von krafft der edelgestain, Art
+          <lb/>vnd natur viler thier. Es wer den auch probirte Aque vite
+          <lb/>sampt eynem erfarnen Regiment! für die Pestilentz, den
+          <lb/>gemainen lewten, welche die Artzt nit errevchen! zûgût
+          <lb/>hierin angezeygt.
+          <lb/>Grav. sur bois: Albertus Magnus assis à une table, un livre en
+          <lb/>main, encadré de 2 bordures: entre les 2 parties de la bordure de
+          <lb/>gauche: Ja. Ca! merlan der. Au-dessous: Alles von newem
+          <lb/>gebessert durch Q. Apollinarem. Au verso: grande grav. sur bois.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

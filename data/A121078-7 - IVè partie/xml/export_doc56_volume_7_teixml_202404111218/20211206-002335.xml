@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:10.340683+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002335.tif
+IMAGE WIDTH: 2512
+IMAGE HEIGHT: 3964
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Mart. Lutheri. Johanne Lonicero Interprete, 1526. —
+          <lb/>(Strasbourg, Jean Knobloch août 1526), in-8°.
+          <lb/>Panzer 6, 110, 730; Schmidt VII, n° 308: B U Göttingen.
+          <lb/>2507
+          <lb/>LUTHER (Handlung) : Handlung so mit doctor Martin Luther
+          <lb/>uff dem K. Reichstag zu Worms ergangen ist. —
+          <lb/>(Strasbourg, Jean Schott 1521), in-4°.
+          <lb/>Dommer, n° 225; Horning, n° 26.
+          <lb/>2508
+          <lb/>LUTHER (Hiob) : Der Hiob teutsch. M.D.XXV —
+          <lb/>(Strasbourg, Jean Knobloch] 1525, in-4°.
+          <lb/>Horning, n° 89; Schmidt VII, n° 304 : Bibl. S. Guillaume,
+          <lb/>Strasbourg.
+          <lb/>2509
+          <lb/>LUTHER (Homelia) : Homelia mire consolatoria de Fraterni¬
+          <lb/>tatibus, habita in Paschae festo... — Strasbourg, Crato
+          <lb/>Mylius 1543, in-80.
+          <lb/>Walter, n° 1794.
+          <lb/>2510
+          <lb/>LUTHER (Jeremias) : Ain Epistel aus dem Propheten Jeremia.
+          <lb/>...Wittemberg M. D. XXVII. — (Strasbourg, Jean Prüss
+          <lb/>1527), in-80.
+          <lb/>Horning, n° 124; Schmidt III, p. 39, n° 39 : Bibl. S. Guillaume,
+          <lb/>Strasbourg.
+          <lb/>2511
+          <lb/>LUTHER (Jesus ein Jude) : Das Jesus Christus eyn geborner
+          <lb/>Jud sey... — (Haguenau, Th. Anshelm) 1523, in-4°.
+          <lb/>Encadrement habituel d’Anshelm au f. du titrel.
+          <lb/>Bibl. St. Guillaume, Strasbourg.
+          <lb/>2512
+          <lb/>LUTHER (Herzog Johann zu Sachsen) : Zwo Predig über der
+          <lb/>Leiche des Kurfürsten Hertzog Johann zu Sachsen.
+          <lb/>D. Martin Luther. Wittemberg. M.D.XXXIII. —
+          <lb/>(Getruck (sic) zu Straszburg bey Jacob Frölich 1533),
+          <lb/>in-40.
+          <lb/>Bibl. St. Guillaume, Strasbourg.
+          <lb/>2513
+          <lb/>333
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

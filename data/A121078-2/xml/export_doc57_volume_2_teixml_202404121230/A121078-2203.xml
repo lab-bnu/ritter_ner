@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:32.676743+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2203.tif
+IMAGE WIDTH: 2282
+IMAGE HEIGHT: 3826
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>BRUNFELS Otto
+          <lb/>Strasbourg, W. Rihel, 1536.
+          <lb/>REformation der Apothecken, welche inhaltet vil
+          <lb/>gûter stück, die eynem yeglichen fast nützlich sein, so
+          <lb/>seiner gesundtheyt gern acht haben will, als nemlich von
+          <lb/>kreütteren, wurtzlen, safft, samen, blûmen, öle, feystig¬
+          <lb/>keyten, gebranten wassern, Juleph, vnd anderm, wie
+          <lb/>man solche ding bekommen, behalten vnd! brauchen
+          <lb/>soll.
+          <lb/>Von edlen steynen, wie die zu kennen, vnd wa zû
+          <lb/>sie nütz sein.! Alles beschriben durch den hochberümpten
+          <lb/>Otto Brun felszen, der Artznei doctor.
+          <lb/>Wie man Syrupen, Latwergen, vnd Confect machen
+          <lb/>soll, verteütscht ausz dem latein durch D. Hansen Eles.
+          <lb/>Gravure sur bois : Intérieur d’une pharmacie, un pharmacien
+          <lb/>assis à une table, à côté de lui un noble, portant l’épée, réglant une
+          <lb/>facture, à une autre table un pharmacien en train de préparer un mé¬
+          <lb/>dicament, un troisième descend un flacon d’un rayon.
+          <lb/>26̀ Strasz, durch Wend. Riel. M. D. XXXVI.
+          <lb/>In-40, car. goth., 4 ff. non ch., LIV ff. ch., titre courant, réclames,
+          <lb/>anitiales à fig. D (un homme fauchant le blé), D (un jardinier greffant
+          <lb/>un arbre), initiales ornées.
+          <lb/>Au verso du titre: table.
+          <lb/>fol. A 2a: Ioannes Eles sagt heyl allen Christlichen
+          <lb/>lesern... — Geben vff den xxx vi (!) Julij im Jar M. D. xxXVi.
+          <lb/>fol. A 4a: Den Edlen... Herrn Schultheys vnd Ratt
+          <lb/>der löblichen Statt Bern... — D. Ot to Brunfels Stat
+          <lb/>Artzet.
+          <lb/>R101694. Prov.: Alex. Hatzfeld née Schaum à Flacht près Diez
+          <lb/>1871.
+          <lb/>2e ex. R101.695(t). Prov.: Don du magistrat de la ville de Schwein¬
+          <lb/>furt, 1871. Rel, anc.
+          <lb/>GPB: Berlin, Kiel B U. Roth, Nachgelassene Schriften Brun¬
+          <lb/>fels, No 6 : Hofbibl. Darmstadt, Hofbibl. Wien, German. Museum
+          <lb/>Nürnberg.
+          <lb/>303
+          <lb/>199
+          <lb/>BRUNFELS Otto, Haimische Wasser, Voir: FRIES, L. Eyn new
+          <lb/>Badenfart. Strasbourg, J. Cammerlander, 1537.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:08.265240+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002254.tif
+IMAGE WIDTH: 2492
+IMAGE HEIGHT: 3958
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>gehalten und gesungen worden in der Straszburger
+          <lb/>Academi. Mense Julio 1598, in-80.
+          <lb/>Strasbourg, André Rietsch dans l’imprimerie de Josias Rihel,
+          <lb/>(qui est décédé avant le mois de juillet 1598), in-8°. Goedeke
+          <lb/>IIs, p. 552, n° 3.
+          <lb/>2085
+          <lb/>HUOTER, M. : Summa über II. Decret verteutscht. —
+          <lb/>(Strasbourg ou Colmar, Barthélemy Grüninger) 1539;
+          <lb/>in-40.
+          <lb/>Ritter, Hist. impr., p. 417.
+          <lb/>2086
+          <lb/>HURENWIRT (Der) : Eins Hurenwirts, aber doch Schrifftlich
+          <lb/>gesprech mit ein unerkannten Bischoff, wie sie ungefer
+          <lb/>gen Trient aufs Concilium zureysen, im feldt zusamen
+          <lb/>kommen. Ein höfflich Satyra, das ist Straff Büchlin. —
+          <lb/>(Strasbourg, Jacques Cammerlander 1546), in-4°.
+          <lb/>Graesse III, p. 70 et p. 394.
+          <lb/>2087
+          <lb/>HUSRAT. Voir : HAUSRAT.
+          <lb/>HUSs, Johannes : causa Boemica — Haguenau, Thomas
+          <lb/>Anshelm (1520 (2)l.
+          <lb/>Proctor 11.716.
+          <lb/>2088
+          <lb/>HUSS, Joh. Voir : AGRICOLA, Joh, n° 770; HISTORY n° 2028.
+          <lb/>(Voir aussi : RITTER, Rép, nos 1218-1222l.
+          <lb/>HUTTEN, Ulr. : .. Opera poetica, ex diversis illius monu¬
+          <lb/>mentis in unum collecta..; éd. par Helius Eobanus
+          <lb/>Hessus. — (Strasbourg, Crato Mylius) (1538), in-8°.
+          <lb/>Böcking L, 1; Hohenemser 2765; Knaake II, 364; Kuczynski
+          <lb/>1105; Neufforge p. 381; Benzing, Hutten n° 1 : B M Augsbourg,
+          <lb/>B U Erlangen, Fribourg, Göttingen, Jena, etc.
+          <lb/>2089
+          <lb/>HUTTEN, Ulr. (Aleander, Hier.) : In Hieronymum Aleandrum
+          <lb/>&amp;amp; Marinum Caracciolum Leonis decimi P. M. Oratores
+          <lb/>in Germania, Invectivae singulae... — (Strasbourg, Jean
+          <lb/>Schott après le 1er mai 1521), in-4°.
+          <lb/>252
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

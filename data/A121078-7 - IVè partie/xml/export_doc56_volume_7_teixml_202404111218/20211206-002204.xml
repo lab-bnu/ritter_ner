@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:06.883553+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002204.tif
+IMAGE WIDTH: 2508
+IMAGE HEIGHT: 3980
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>GEBWILER, Hier. (Triumphus): In gloriosissimum sacrae
+          <lb/>Caesareae atque Catholicae Maiestatis (capto Galiarum
+          <lb/>Rege) triumphum. Terpsichores Hecasthicon, Elegiacum
+          <lb/>Carmen, una cum libello Hiero. Gebvile. hactenus
+          <lb/>inviso, originem et interitum illustris Zeringiae domus
+          <lb/>Principum strictim continente. — Haguenau, Guillaume
+          <lb/>Seltz 1529, in-80.
+          <lb/>Burg, n° 189.
+          <lb/>1830
+          <lb/>GEBWILER, Hier. : De Austrasiaci seu Belgarum regni ad
+          <lb/>Germanorum &amp;amp; Romanorum regnum devolutione. De
+          <lb/>Lotharingici ducatus prima institutione... — Haguenau
+          <lb/>1536, in-80.
+          <lb/>Walter, n° 1366.
+          <lb/>1831
+          <lb/>GEBWILER. Voir aussi: HOraTius n° 2044; ERASMUS n° 1598;
+          <lb/>ISIDORUS n° 2130; SERMO ad juvenes n° 3220; USINGEN
+          <lb/>n° 3387. (RITTER, Rép. nos 940-945).
+          <lb/>GEILER, Joh. (Alphabet) : Alphabet in XXIII Predigen. —
+          <lb/>Strasbourg 1512, in-fol.
+          <lb/>Goedeke Ie, p. 402, n° 20.
+          <lb/>1832
+          <lb/>GEILER, Johannes (Idem). — Strasbourg, Jean Grüninger
+          <lb/>1518, in-fol.
+          <lb/>Ritter, Gr. Sém. Strasbourg, n° 170.
+          <lb/>1833
+          <lb/>GEILER, Johannes (Ausgang) : Vom Ausgang der Kinder
+          <lb/>Israel. — (Strasbourg, Jean Knobloch 1511), in-8°.
+          <lb/>Ritter, Gr. Sém. Strasbourg n° 171.
+          <lb/>1834
+          <lb/>GEILER, Joh. (Evangelia) : Das plenarium und davon
+          <lb/>gezogen... uszlegung der evangelien und leren. Anfang
+          <lb/>der mesz, Colect, secret, Epistel und Complend. Auch
+          <lb/>de sanctis... — (Strasbourg, Jean Grüninger 1512),
+          <lb/>in-fol.
+          <lb/>Goedeke Ie, p. 402, n° 22. (Ritter, Rép. n° 977 ; éd. Grüninger
+          <lb/>15171.
+          <lb/>1835
+          <lb/>202
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

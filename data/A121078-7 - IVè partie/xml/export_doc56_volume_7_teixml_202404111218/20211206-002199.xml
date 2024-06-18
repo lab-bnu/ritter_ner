@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:06.799797+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002199.tif
+IMAGE WIDTH: 2512
+IMAGE HEIGHT: 3936
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>FUCHS, Leonhard : Errata recentiorum medicorum, LX
+          <lb/>numero, adiectis eorundum confutationibus, in Studio¬
+          <lb/>sorum gratiam, iam primum aedita. — Haguenau,
+          <lb/>J. Secer mars 1530, in-4°.
+          <lb/>Burg, n° 184. Voir: STUBLER, Eberhard: Leonhart Fuchs,
+          <lb/>München 1928, p. 191 et suiv. [Münchener Beiträge zur
+          <lb/>Geschichte und Literatur der Naturwissenschaften u. Medizin.
+          <lb/>Heft 13/141: B N Munich, B U Fribourg, Breslau, Halle, etc.
+          <lb/>1798
+          <lb/>FUCHS, Leonhard : Compendiaria ac succincta admodum in
+          <lb/>Medendi artem Eisagôgé seu introductio. — Haguenau,
+          <lb/>J. Secer 1531, in-80.
+          <lb/>Burg, n° 185; Stübler p. 206 et suiv. et p. 285, n° 22: BN
+          <lb/>Munich, Bibl. Heidelberg, Darmstadt, Tübingen féd.
+          <lb/>Haguenau, J. Albrecht 1535 : Ritter, Rép, n° 926l.
+          <lb/>1799
+          <lb/>FUCHS, Leonhard : Apologia... contra Hieremiam Thriverum
+          <lb/>Brachelium, medicum lovaniensem. — Haguenau Pierre
+          <lb/>Brubach 1534, in-4°.
+          <lb/>BN Paris : Te77 3.
+          <lb/>1800
+          <lb/>FUCHS, Leonhard : Eyn kunstreichs... urteil und Sekret
+          <lb/>büchlin des harns. — Strasbourg, Henri Vogtherr 1538.
+          <lb/>Ritter, Hist. impr., p. 284.
+          <lb/>1801
+          <lb/>FUCHS, Leonhard : Ein nützlich Bad und artzney den Bruch...
+          <lb/>zu heylen. — Strasbourg, Henri Vogtherr 1538 (Nouvelle
+          <lb/>éd. 15391.
+          <lb/>Ritter, Hist. impr., p. 285.
+          <lb/>1802
+          <lb/>FUCHS, Leonhard. Voir aussi RITTeR, Rép, n° 926/7.
+          <lb/>FUERER, Friedrich: Disses büchlin seit von den geschwinden
+          <lb/>nuwen finden... — (Strasbourg, « uff Grüneck ») (Barth.
+          <lb/>Kistler 1502), in-40. (Fürer se nomme comme auteur
+          <lb/>dans un des derniers vers].
+          <lb/>Schmidt IV, p. 8, n° 19; Weller 215. — BN Munich. 1803
+          <lb/>FUGGER, Ant. Voir: Luscinius n° 2452.
+          <lb/>197
+          <lb/>7-1
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

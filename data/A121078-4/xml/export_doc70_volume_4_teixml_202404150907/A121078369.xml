@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:53.564778+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078369.tif
+IMAGE WIDTH: 2348
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>RABUS Jacobus
+          <lb/>Strasbourg 1574
+          <lb/>IACOBI RABVS THE-] OLOGI AC CONCIONATO-] RIS DVCALIS
+          <lb/>BAVARICI &amp;amp;c. Ap-] versus Theses contra S. Reliquiarum mi¬
+          <lb/>racula, III. Idus Mar. Anno LXXIIII. Ar- gentinae publicè
+          <lb/>disputatas, suc- cinta velitatio. D. Ambro. ser. 91. de
+          <lb/>Gervas.) &amp;amp; Protasio.... (4 lignes. Vign.) ANNO M. D. LXXIIII.
+          <lb/>In-4°, car. rom., 22 ff. non ch., sign. A-E, réclames, notes marg.,
+          <lb/>init. à fig. M, A.
+          <lb/>Fol. A 2a: ... Domino Antonio, Venerabilis Mona- sterii sanctae
+          <lb/>Crucis Augustae Vindelicorum Praeposito dignissimo... — Ex Dachau
+          <lb/>arce Ducali ipso die S. Joan. Baptistae... adversus impios scholae Ar¬
+          <lb/>gentinensis latratus, constanter attestatur. 1574.! Jac. Rabus &amp;amp;c.
+          <lb/>Fol. A 3a : Jacobus Rabus &amp;amp;c. I. B. Argentoraten. S. D.... (4 pp.)
+          <lb/>R101.869. Prov.: BN Munich S/IV 1878.
+          <lb/>1961
+          <lb/>RABUS Ludovicus
+          <lb/>Strasbourg, S. Emmel 1554
+          <lb/>Historien der Heyligen Auszer- wölten Gottes Zeü¬
+          <lb/>gen, Bekennern und Martyrern, so in Angehender ersten
+          <lb/>Kirchen, Altes und Neüwes Testaments, zu! jeder zeit
+          <lb/>gewesen seind. Ausz H. Göttlicher, und der Alten Leh¬
+          <lb/>rer Glaubwürdigen Schrifften, zû gemeyner Auffbau- wung
+          <lb/>und Besserung der Angefochtenen Kirchen Teütscher Na¬
+          <lb/>tion, warhafftig beschryben, Durch Ludovicum Rabus,
+          <lb/>von Mem¬ mingen, der H. Schrifft Doctorn und Pre¬
+          <lb/>diger der Kirchen zû Strasz-burg.Der Erste Theyl.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

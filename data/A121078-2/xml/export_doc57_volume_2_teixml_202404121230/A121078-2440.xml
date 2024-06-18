@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:39.458203+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2440.tif
+IMAGE WIDTH: 2396
+IMAGE HEIGHT: 3822
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>436
+          <lb/>86
+          <lb/>2
+          <lb/>17
+          <lb/>vülillcane,
+          <lb/>Eelestis bierarcbia
+          <lb/>Dyonisũ
+          <lb/>Eccliastica ierarcbia
+          <lb/>Diuina nomina
+          <lb/>Dystica tbcologia
+          <lb/>Undecim epistole
+          <lb/>Ignacĩ
+          <lb/>Andecim cpistole
+          <lb/>&amp;quot;Solicarpi
+          <lb/>Epistota vna
+          <lb/>3
+          <lb/>aut Perdir¬
+          <lb/>c
+          <lb/>Dronisũ
+          <lb/>Diini bymni
+          <lb/>De irellecrualiboz sesibf.
+          <lb/>Tbeologice llomatõcs
+          <lb/>De anima.
+          <lb/>Giguificar iua ibedlogis
+          <lb/>Iegalis birrarcbio
+          <lb/>Angeliœ, puietates et
+          <lb/>Deiusto omo tordies
+          <lb/>iudicio.
+          <lb/>¶ Gnsuper adduntur. De beresib. De side cotbolica. Decõtemptu moinõ babita
+          <lb/>a¬
+          <lb/>Cum puritate
+          <lb/>Religione
+          <lb/>pietate
+          <lb/>Deuotione
+          <lb/>Dumlitare
+          <lb/>Renerẽtia
+          <lb/>attentionz
+          <lb/>e que
+          <lb/>alia facrascpta
+          <lb/>Zractentur
+          <lb/>Legantur
+          <lb/>Geruentut
+          <lb/>¶AdJelu pateme lucis talium munerum z austoris et largitoris bonorem.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

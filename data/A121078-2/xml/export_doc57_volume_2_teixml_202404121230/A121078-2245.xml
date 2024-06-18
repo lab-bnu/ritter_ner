@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:34.068930+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2245.tif
+IMAGE WIDTH: 2292
+IMAGE HEIGHT: 3818
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>241
+          <lb/>No 3; Silvestre, N° 735.)
+          <lb/>Marque typographique de George Ulricher (H e B. Planche XXII,
+          <lb/>Au-dessous: Si qvis volverit volvnta¬ ti eius obtem¬
+          <lb/>perare, is cognoscet de doctrina, utrum ex Deo sit, an
+          <lb/>ego à me ipso loquar. Ioh. VIl. (Verso blanc.)
+          <lb/>A la fin: Argentorati Georgio Vlrichero Andlano Im¬
+          <lb/>pressore. An. M. D. XXXI.Mense Septembri.
+          <lb/>In-40, car, rom., 4 ff. non ch. — 20 ff. ch., (le dernier f. est
+          <lb/>chiffré par erreur 21), titre courant, réclames, notes marginales, initiales
+          <lb/>à fig. F, I, 2 bandes d’ornement; au verso du dernier f. même mar¬
+          <lb/>que typograghique qu’au titre.
+          <lb/>fol. A 2a non ch.: MAGISTRATVS! ET CONCILIA CIVITA¬
+          <lb/>TVM, AR-gentorati, Constantiae, Memmingae, &amp;amp; Lin¬
+          <lb/>dauiae... sua offerunt obsequia... (Préface de 4 pages et
+          <lb/>demie.)
+          <lb/>R101.473. Prov.: Don de la Bibl. Roy. de Berlin, 2/x1. 1875.
+          <lb/>Oxford, Bibl. Bodleiana.
+          <lb/>GPB: Berlin SB, Gœttingue B U. Baum, No 25; Mentz, No 27c
+          <lb/>362
+          <lb/>BUTZER Martin
+          <lb/>Strasbourg, G. Ulricher 1532.
+          <lb/>SACRORVM PSAL MORVM LIBRI QVINQVE, AD EBRAI
+          <lb/>cam ueritatem genuina uersione in Latinum traducti; pri¬
+          <lb/>mùm ap pensis bona fide sententijs, deinde pari diligentia
+          <lb/>adnume ratis uerbis, tum familiari explanatione elucidati.
+          <lb/>Per Aretium Felinum. (Feuille de lierre.)
+          <lb/>Marque typographique de G. Ulricher. (HEB, Planche XXII,
+          <lb/>No 3; Silvestre, No 735.)
+          <lb/>OPVS AB AVTHORE RECO- gnitum, &amp;amp; passim non con¬
+          <lb/>temnendis! accessionibus auctum.
+          <lb/>A la fin: ARGENTORATI EXCVDEBAT GEORGIVS( VLRICHER
+          <lb/>ANDLANVS, ANNO! M. D. XXXII. MENSE MAR.
+          <lb/>Au verso, marque typographique de G. Ulricher. (HEB, Planche
+          <lb/>XXII, No 7).
+          <lb/>In-fol., car, rom., 12 ff. non ch., 334 ff. ch., titre courant, récla¬
+          <lb/>mes, notes marginales, de nombreuses initiales à fig. (grandes, moyennes
+          <lb/>et petites). Vignettes.
+          <lb/>Au verso du titre: CONTENTA] in hoc opere.
+          <lb/>fol. a 2 a non ch.: ... Principi, 1 Francisco Valesio, Chris¬
+          <lb/>tianissimi Galliarum Regis primogenito, &amp;amp; Delphino, Are¬
+          <lb/>tius Feli-nus Salutem precatur... (4 pages.)
+          <lb/>R. 16
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

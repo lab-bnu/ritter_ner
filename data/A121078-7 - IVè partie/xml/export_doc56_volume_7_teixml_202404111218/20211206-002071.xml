@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:03.258050+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002071.tif
+IMAGE WIDTH: 2490
+IMAGE HEIGHT: 3930
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>BRUNFELS, Otto (Loci Evangelici) : Loci omnium fere Capitum
+          <lb/>Evangelii secundum Mathaeum. — Strasbourg, Jean
+          <lb/>Schott 1527, in-80.
+          <lb/>Panzer 6, 113; Scott (Schmidt II, Suppl.), p. 13, n° 13. —
+          <lb/>Bibl. S. H. Scott, Oxford.
+          <lb/>1112
+          <lb/>BRUNFELS, Otto (Loci Evangelici) : Loci omnium fere
+          <lb/>Capitum Evangelii secundum Mathaeum, Marcum,
+          <lb/>Joannem. Actorum item apostolicorum. — Strasbourg,
+          <lb/>Jean Schott 1528, in-8°.
+          <lb/>Scott (Schmidt II, Supplément) p. 14, n° 15; Panzer 6, 114. —
+          <lb/>L. Rosenthal (Munich), Catal. (n° 70).
+          <lb/>1113
+          <lb/>(BRUNFELS, Otto) (Loci Evangelici) : Loci in Joannem.
+          <lb/>B. R. — (Strasbourg, Jean Schott 1527), in-8°. A la suite
+          <lb/>de: (BRUNFELS, Otto) : Loci omnium fere Capitum
+          <lb/>Evangelii secundum Matthaeum. — (Strasbourg 1527l.
+          <lb/>1114
+          <lb/>(BRUNFELS, Otto) (Loci Evangelici) : Loci in Lucam. Axio¬
+          <lb/>mata de Autoritate Ecclesiae... B. R. — (Strasbourg,
+          <lb/>Jean Schott 1527), in-8°. A la suite de : (BRUNFELS,
+          <lb/>Otto) : Loci omnium fere Capitum Evangelii secundum
+          <lb/>Matthaeum. [Strasbourg 1527l.
+          <lb/>1115
+          <lb/>(BRUNFELS, Otto) (Loci Evangelici) : Loci in Marcum. Quod
+          <lb/>Petri Compendium vel Epitome vocant. B. R. —
+          <lb/>(Strasbourg, Jean Schott 1527), in-8°. A la suite de :
+          <lb/>BRUNFELS, Otto) : Loci omnium fere Capitum
+          <lb/>Evangelii secundum Matthaeum. [Strasbourg 1527l.
+          <lb/>1116
+          <lb/>(BRUNFELS, Otto) (Loci omnium ferme Cagitum Evangelii...)
+          <lb/>— Strasbourg, Jean Schott 1529, in-80°.
+          <lb/>Schmidt II, n° 106. — Exemplaire de Schmidt.
+          <lb/>1117
+          <lb/>BRUNFELS, Otto (De Neotericis) : Neotericorum aliquot
+          <lb/>68
+          <lb/>3-1
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

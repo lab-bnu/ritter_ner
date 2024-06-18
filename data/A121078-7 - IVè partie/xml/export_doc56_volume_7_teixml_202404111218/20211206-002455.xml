@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:13.033314+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002455.tif
+IMAGE WIDTH: 2502
+IMAGE HEIGHT: 3942
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>SALMINGER, Sigmund : Guldin Schatz. HAuptschrifft und
+          <lb/>Handzyger, den Innhalt der gantzen Bibel, in sich
+          <lb/>Schliessende. Auch all unsers glaubens und thuns,
+          <lb/>grüntliche zeügnusz, in 547. Titel und puncten gestelt
+          <lb/>und absolviert. Durch Sigmund Salminger. — Strasbourg,
+          <lb/>S.figismund] B.fund) (1540), petit in-80.
+          <lb/>Bibl. S. Guillaume, Strasbourg.
+          <lb/>3151
+          <lb/>SALOMON : Igoomíoi, sive proverbia Salomonis, filii David.
+          <lb/>Cum Adnotationibus Philippi Melanchthonis. —
+          <lb/>Haguenau, Jean Secer s. d., in-8°.
+          <lb/>Ritter : B M Strasbourg, n° 1871.
+          <lb/>3152
+          <lb/>SALOMON : Ein schön new Spyl von dem rechten Urthel so
+          <lb/>könig Salomon zu Anfang seines Reiches über zwo
+          <lb/>Huren samt ihren Kindern gestellet hat... — Strasbourg,
+          <lb/>Th. Berger [après 1566 (Berger étant seulement à partir
+          <lb/>de 1566 au marché aux vins (Weinmarkt)), in-8°.
+          <lb/>Goedeke IIe, p. 390, n° 318; Graesse VI,p. 250.
+          <lb/>3153
+          <lb/>SALOMON, Mag. Voir : CARION, Joh., nos 1294-1296.
+          <lb/>SALOMON &amp;amp; Morolf : Dis büchli seit von künig salomon und
+          <lb/>von seiner hausfrawn Salome. — (Strasbourg, Jean
+          <lb/>Knobloch 1510), in-40,
+          <lb/>Kristeller, n° 366; Schmidt VII, n° 72; Weller 4076, Heitz¬
+          <lb/>Ritter, n° 539: B N Vienne.
+          <lb/>3154
+          <lb/>SALOMON &amp;amp; Morolf: (Idem). — Strasbourg, Christian Müller
+          <lb/>(Mylius) [vers 1550), in-8°.
+          <lb/>Heitz-Ritter, n° 542 : Bibl. consistoriale Colmar; Heitz,
+          <lb/>Strassburger Holzschnitte zu vier Volksbüchern des 16.
+          <lb/>Jahrh. (Strassburg) 1924.
+          <lb/>3155
+          <lb/>SALOMON &amp;amp; Morolf : Frag und Antwort Salomonis und
+          <lb/>Marcolphie. — Mulhouse, Pierre Schmid vers 1560, in-80.
+          <lb/>Graesse VI, p. 250; Heitz-Ritter, n° 547 : (faute d’impression
+          <lb/>1580 pour 1560). B N Berlin; Werner, p. 87, n° 23.
+          <lb/>3156
+          <lb/>453
+          <lb/>15-1
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

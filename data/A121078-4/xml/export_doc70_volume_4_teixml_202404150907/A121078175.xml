@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:47.528617+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078175.tif
+IMAGE WIDTH: 2304
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Fol, 424: Clemangis. Eubulus Cordatus. Monte sio suo. S. D....
+          <lb/>Datum Romae. Calendis Iuliis. Anno M. D. XIX.
+          <lb/>Fol. G 4a: Fridericus. I. Adriano. HII.inter alia.
+          <lb/>Fol. G 5a : Errata quae ab exemplari depravato! contingerunt.
+          <lb/>R 100.479. Prov.: Bibl. Bœcking. Annotation ms. au verso du f.
+          <lb/>de garde: Ist in der Londoner Ausgabe des Fascic. ver. expet. et fugien¬
+          <lb/>dar. ed. Edw. Brown. London 1690. fol. tom. Il, p. 555-569 abgedruckt,
+          <lb/>aber nur von A iii an bis F letztes Blatt, letztes Wort Absorbeat, ohne
+          <lb/>die Rithmi...
+          <lb/>BN Paris, Rés. D 7010.
+          <lb/>Sur Nicolaus de Clamangiïs, voir : Coville A., Recherches sur
+          <lb/>quelques écrivains du XI Vême et XVème siècles. Paris, E. Droz 1935,
+          <lb/>1629
+          <lb/>p. 208-318.
+          <lb/>NICOLAUS DE CLAMANGIIS
+          <lb/>[Sélestat, L. Schurer? 1520)
+          <lb/>NICOLAVS ] (entre deux feuilles de lierre.) CLEMANGIS ARCHI¬
+          <lb/>DIA- conus Baiocensis. Doctor. S. theologiae Parisiensis,
+          <lb/>De corrupto eccle- siae statu.A. MOVENTIVS LECTORI...
+          <lb/>(7 lignes.)
+          <lb/>Au-dessous: Addita sunt quaedam Carmina, quae in
+          <lb/>prio- ri aeditione desyderabantur.
+          <lb/>In-4°, car. rom., 42 ff. non ch. dont le dernier blanc, sign. A-H,
+          <lb/>notes marg. Les fautes de l’édition de 1519 sont corrigées.
+          <lb/>Fol. F4b, avant les rimes : Oratio auctoris Pro! salutifero fructu
+          <lb/>reformationis consequendae.
+          <lb/>Fol. H1a: Valentinus Alusinus Parisiensis Canonicus ad Moran¬
+          <lb/>dum Avitum. (18 dist.)
+          <lb/>Fol. H 2a: QVERVLA CVIVSDAM SA) cerdotis ut vocant,
+          <lb/>curati, de monachis qui sa- cerdotium illius coenobio suo
+          <lb/>volebat unire, quod vulgo dicunt incorporare, zu gutem
+          <lb/>tütsch beschroten.... Repertum est Sele-stadii in biblio¬
+          <lb/>theca divi Ioannis. (7 pp. en vers.)
+          <lb/>Fol. H 5a: In Urbem Romam. (28 vers.)
+          <lb/>R 100.480. Prov.: Bibl. Bœcking, Strasbourg.
+          <lb/>Proctor II Sectio I n° 11.977: Londres, Brit. Museum. Proctor
+          <lb/>donne comme date [juillet 1520), et nomme comme imprimeur L. Schurer,
+          <lb/>Sélestat.
+          <lb/>1630
+          <lb/>1061
+          <lb/>NICOLAUS de Cusa: De staticis. Voir: VITRUVIUS: De archi¬
+          <lb/>tectura. Strasbourg, G. Messerschmidt 1543 et 1550.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

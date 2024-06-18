@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:14.571653+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002527.tif
+IMAGE WIDTH: 2494
+IMAGE HEIGHT: 3992
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>WILLICHIUS, Jodocus : In D. Pauli epistolam ad Thessaloni¬
+          <lb/>censes utramque Commentarii. — Strasbourg, Crato
+          <lb/>Mylius 1545, in-80.
+          <lb/>Walter, no 2412. (Willichius voir aussi : Ritter, Rép.
+          <lb/>nos 2465 (a)-2468).
+          <lb/>3523
+          <lb/>WILLIRAM d’Ebersberg (abbas) : Explanatio in Cantica
+          <lb/>Salomonis [éd. par Menrad Molther). — (Haguenau,
+          <lb/>Guill. Seltz, 7 septembre 1528), in-8°.
+          <lb/>Burg, n° 450.
+          <lb/>3524
+          <lb/>WIMPHELING, Jac. (Adolescentia) : Adolescentia cum novis
+          <lb/>quibusdam additionibus per J. Gallinarium denuo
+          <lb/>revisa. — Strasbourg, Mathias Hupfuff 1506, in-4°,
+          <lb/>Amoenitates Friburg. 205; Panzer 6, 35; Schmidt V, n° 56;
+          <lb/>[éd. Knobloch 20 février 1505 : Ritter, Rép. n° 24711.
+          <lb/>3525
+          <lb/>WIMPHELING (Adolescentia). — Haguenau, H. Gran pour
+          <lb/>J. Knobloch 1508, in-40.
+          <lb/>Schmidt, Hist. litt. Il, p. 322. (B N Strasbourg : Ritter, Rép.
+          <lb/>n° 2484; éd. Flach 1511; Hupfuff 1514, 1515, Knobloch
+          <lb/>1515 : Ritter, Rép. nos 2487, 2491, 2493, 2494).
+          <lb/>3526
+          <lb/>WIMPHELING, Jac. (Bucolica) : Bucolica seu adolescentia in
+          <lb/>decem aeglogas divisa. — Strasbourg, Jean Prüss 1503,
+          <lb/>in-4°. (Probablement une erreur),
+          <lb/>3527
+          <lb/>(WIMPHELING, Jac.] (De Candore Mariae) : De triplice Candore
+          <lb/>Mariae ad D. Bertholdum. Hennenbergensem Archiepis¬
+          <lb/>copum Moguntinum. — (Strasbourg, Jean Knobloch vers
+          <lb/>1505), in-4°.
+          <lb/>Schmidt VII, n° II : Exemplaire de Schmidt.
+          <lb/>3528
+          <lb/>WIMPHELING, Jac. (De Concubinis) : De fide concubinarum. —
+          <lb/>(Strasbourg, Jean Schott vers 1530), in-4°.
+          <lb/>Baer (Francfort-s.-M.), Catal, 500 (1907) n° 1121 : « Sehr
+          <lb/>seltene Ausgabe des berühmten Buches, dessen wahrer Ver¬
+          <lb/>fasser Jac. Wimpfeling ist. Besonders interessant sind die
+          <lb/>525
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

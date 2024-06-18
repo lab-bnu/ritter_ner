@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:07.466326+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002222.tif
+IMAGE WIDTH: 2490
+IMAGE HEIGHT: 3972
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>vers 1520), in-4°. (Avec les armoiries de la ville de
+          <lb/>Strasbourg. A la fin: « Dem löblichen Rhat in Straszburg
+          <lb/>zu underthon ich Jörg Graff gedicht »l.
+          <lb/>Vogeleis, p. 209.
+          <lb/>1925
+          <lb/>GRASS, Johann Beat. Voir : MESSiAS, Petrus n° 2672.
+          <lb/>GRATAROLUS, Guilh. Voir: BERNARDUS Treverensis n° 987.
+          <lb/>Voir aussi: RITTER, Rép, nos 1029-1031.
+          <lb/>GRAVAMINA (Germaniae). Voir : GEBWILER n° 1824/5.
+          <lb/>GREGORIUS, Magnus : Breve de castiganda incontinentia &amp;amp;
+          <lb/>impudicitia sacerdotum. A la suite de: WIMPHELING,
+          <lb/>De vita et moribus episcoporum. — (Strasbourg, R. Beck
+          <lb/>1512), in-8° (n° 3531).
+          <lb/>1926
+          <lb/>GREGORIUS, Magnus. Voir : JANUS a Svolta, Alphabetum
+          <lb/>theologicum n° 2145; PLIENINGER, Lamb, n° 2949.
+          <lb/>(Voir aussi: RITTER, Rép, n° 1035 : Gregorius Magnus,
+          <lb/>Gregoriana super novum testamentum, J. Knobloch
+          <lb/>1516l.
+          <lb/>GREGORIUS, Naziancenus : Apologeticus, De epiphania, De
+          <lb/>fide... Trad, en latin par Rufinus. — Strasbourg,
+          <lb/>Jean Knobloch 1508, in-4°.
+          <lb/>Ritter, Gr. Sém. Strasbourg, n° 230.
+          <lb/>1927
+          <lb/>GREGORIUS, Naziancenus : De Theologia lib. I. Petro Mosel¬
+          <lb/>lano interprete. Priore editione recognita. — Haguenau
+          <lb/>(Th. Anshelm 1519), in-4°.
+          <lb/>Walter, n° 1433; Burg, n° 197.
+          <lb/>1928
+          <lb/>GREGORIUS, Naziancenus. Voir: BRUNFELS, Otto n° 1104.
+          <lb/>(Voir aussi : RITTER, Rép. n° 1036 : Apologeticus.
+          <lb/>J. Knobloch 1508).
+          <lb/>GREGORIUS, Tifernas : Opuscula, Francisci Octavii (Cleophili)
+          <lb/>220
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

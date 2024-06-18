@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:31.455055+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2162.tif
+IMAGE WIDTH: 2300
+IMAGE HEIGHT: 3828
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>158
+          <lb/>BRANT Sebastian
+          <lb/>Strasbourg, W. Rihel et G. Messerschmidt, 1542.
+          <lb/>DEr Richterlich Clagspiegel,.. Suivent 10 lignes de texte
+          <lb/>comme dans les 3 éditions précédentes avec quelques petites variantes.
+          <lb/>Au-dessous: Anno M. D. XLII et une gravure sur bois: l&amp;#x27;em¬
+          <lb/>pereur sur son trône, devant lui des plaideurs; au haut, dans le coin
+          <lb/>à droite, des instruments de torture. La gravure est répétée fol. CIIb,
+          <lb/>mais avec les instruments de torture dans le coin à gauche.
+          <lb/>fol. OXXXVa: Getruckt zû Straszburg, durch Wendel
+          <lb/>Rihel, vnd Georgen Messerschmidt, am fünfften tag des
+          <lb/>Augstmonats, Jm jar als man zaltnach der geburt
+          <lb/>Christi vnsers Herren. M. D. XLII.
+          <lb/>In-fol., car. goth., 6 ff. non ch. dont le dernier blanc, CXXXV
+          <lb/>ff. ch. et 1 f. blanc, titre courant, réclames, notes marginales, gravure
+          <lb/>sur bois d’une page fol. 6b non ch, empruntée aux éditions précédentes:
+          <lb/>l&amp;#x27;empereur sur le trône, à ses pieds l’auteur, lui présentant son livre.
+          <lb/>Au verso du titre et au verso du dernier f., les vers de Brant;
+          <lb/>préface, dédicace et registre à 2 col. comme dans l’édition précédente.
+          <lb/>R10547(2). Prov.: Don du professeur Joseph von Held, Wurte¬
+          <lb/>bourg, 1871.
+          <lb/>GPB: Berlin SB, Kiel UB, Königsberq UB.
+          <lb/>248
+          <lb/>BRANT Seb., Eyn Chronick über Teutschland, zuuor des lands
+          <lb/>Elsas, vnd lder loblichen statt Strassburg. Voir: HEDIO
+          <lb/>Caspar, Ein Ausserlessne Chronick, 1539 et 1543.
+          <lb/>BRANT Sebastian
+          <lb/>Strasbourg, W. Rihel, 1549.
+          <lb/>(Feuille de lierre) Der Narren (feuille de lierre) Spiegel.
+          <lb/>Das Gros Narrenschiff, durch besunderen fleisz,
+          <lb/>ernst vnnd arbeyt, jetzt von newen, mit vil schönen
+          <lb/>sprüchen, exempeln, vnnd zû- gesetzten historien ergäntzet.
+          <lb/>Durch Sebastianum Brandt D. inn beiden Rechten,
+          <lb/>der Narrechten welt zà nutz! fleiszig beschriben.
+          <lb/>Gravure sur bois: Vaisseau avec 9 fous, dont l&amp;#x27;un tient une
+          <lb/>bannière. Cette gravure forme la bande inférieure de l&amp;#x27;encadrement, les
+          <lb/>3 autres pièces de l’encadrement se composent d’ornement. (Verso blanc.)
+          <lb/>A la fin: Getruckt zû Straszburg, beyWendel Rihel.
+          <lb/>Anno! M. D. XLIX. (Verso blanc.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

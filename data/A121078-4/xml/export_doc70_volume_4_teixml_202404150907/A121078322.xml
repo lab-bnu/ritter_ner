@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:52.185952+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078322.tif
+IMAGE WIDTH: 2324
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1208
+          <lb/>des init. à fig.; titre rouge et noir, encadré, composé de 4 pièces juxta¬
+          <lb/>posées, en haut sirènes et monstres marins; des deux côtés, colonnes
+          <lb/>dont celle de droite est supportée par des hommes nus, sur celle de
+          <lb/>gauche, un empereur debout, en bas trois guerriers à cheval, précédés
+          <lb/>de 3 hommes à pied; l’encadrement de la table est le même pour la bor¬
+          <lb/>dure supérieure et la bordure latérale de droite: celle de gauche a une
+          <lb/>colonne unique avec ornementation, derrière laquelle sort un homme nu,
+          <lb/>en haut un génie assis; la bordure d’en bas contient des hommes et
+          <lb/>des femmes nus, dont l’un porte sur ses épaules une femme nue. Au
+          <lb/>verso du titre, texte du privilège impérial signé par J. Spiegel.
+          <lb/>Fol. 2a: Joannes! Baptista Palmari us Studiosis Foe licitatem...
+          <lb/>Au titre de la table : Joannes Camers! ad Lividos. (4 dist.) Au
+          <lb/>verso: Leo Papa Decimus Dilecto filio Fratri Joanni de Camerino, Or¬
+          <lb/>dinis Minorum, &amp;amp; in Conventu Viennae Regenti... — Datum Romae apud
+          <lb/>S. Petrum sub annulo piscatoris die VII. Decembris. M. D. XIII. Pontifi¬
+          <lb/>catus nostri anno primo.  Ja. Sadoletus.
+          <lb/>Au recto du f. suivant: Joannes Ca! mers Minoritanus Sacrae
+          <lb/>Theologiae Doctor, Stephano Verbucio Pannonio, bonarum artium Cultori
+          <lb/>optimo... Viennae Pannoniae. Anno a Christi nata! li M. D. XIII. Pridie
+          <lb/>Calend. Septembris. Suivent 20 dist. de J. Camers, 4 de Théodore Camers,
+          <lb/>21 de Joachim Vadianus, 5 de Benedictus Chelidus et 5 de Georgius
+          <lb/>Germanius.
+          <lb/>Fol. 286a en bas : Sumptibus ornatissimorum virorum Joannis Ko¬
+          <lb/>bergii, ac Lucae Alantsee, Impressum Hagenoae opera industriaque! Tho¬
+          <lb/>mae Anshelmi Badensis Mense Novembri Anno. M. D. XVIII.
+          <lb/>R 68. Prov.: Ed. Zahn, Hirsau 24/VII 1878. En bas de l&amp;#x27;en¬
+          <lb/>cadrement du titre:,Ciriacus Dottamus.&amp;quot;
+          <lb/>Proctor II Sectio I n° 11695: Londres, British Museum.
+          <lb/>Bœr, Francfort-s.-M., Catal, 500 (1907) n° 598; 75 M., Meister¬
+          <lb/>hafter Druck u. wohl der schönste des berühmten Hagenauer Druckers...
+          <lb/>Von demselben (H. Baldung Grien) sind wahrscheinlich die Initialen J u. M.
+          <lb/>Die übrigen Initialen, das grosse Kinderalphabet, sind in Nürnberg her¬
+          <lb/>gestellt... Die meisterhaften Initialen sind von der Hand eines Meisters
+          <lb/>der Dürerschule, wahrscheinlich des, vornehmlich fur Koburger tätigen,
+          <lb/>Hans Springinklee. Von demselben sind diè im Stile mit den Initialen
+          <lb/>übereinstimmenden prächtigen Umrahmungen mit antiken Säulen, Putten
+          <lb/>u. Groteskenmotiven, die an Dürer erinnern.&amp;quot;
+          <lb/>Brunet IV2, 715: Édition peu précieuse en elle-même, mais dont
+          <lb/>un exemplaire sur vélin, provenant du catalogue M. Ayala, se trouve à la
+          <lb/>Bibliothèque impériale. Un autre, égalemement sur vélin, 1700 fr. Bearzi.
+          <lb/>L’Index de J. Camertes fait le principal mérite de l’édition de 1518; il
+          <lb/>avait d’abord été imprimé séparément: Viennae-Pannoniae... 1514. 1887
+          <lb/>PLINIUS Secundus Cajus (major): Naturalis historiae libri duo.
+          <lb/>Voir: OPPINIANUS : Alieuticon sive de piscibus. Strasbourg,
+          <lb/>J. Cammerlander 1534. N° 1670.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

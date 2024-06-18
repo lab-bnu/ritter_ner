@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:09.325360+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002295.tif
+IMAGE WIDTH: 2534
+IMAGE HEIGHT: 3990
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>LIED] : Nun wöll wir aber singen. [Das Fräulein von
+          <lb/>Britania). — Strasbourg am Kornmarckt s. d., in-8°,
+          <lb/>Goedeke Ia, p. 286.
+          <lb/>2287
+          <lb/>LIED : Das Lied von dem Ritter Ausz Steürmarck, wie er ein
+          <lb/>Künig in Tennmarck ward, auch wie es jm ergieng mit
+          <lb/>einer Künigin in Franckreich... (grav.) Getruckt zu
+          <lb/>Straszburg bey Th. Berger, am Barfüsser platz, s. d.,
+          <lb/>12 ff., in-8°. (Auteur à la fin : Martin Mayer).
+          <lb/>Heitz, p. 59.
+          <lb/>2288
+          <lb/>LIED : Das ist die hymelfart unser lieben frawen in des
+          <lb/>regenbogen langen don. [Regenbogen Barthell. —
+          <lb/>Strasbourg, Martin Flach 1508, in-8°.
+          <lb/>Goedeke Ia, p. 256; Vogeleis, p. 169 : Erlangen. 2289
+          <lb/>LIED : Hie nach volget das lied von dem bundtschuch, so
+          <lb/>sich im Prysgow erhebt hett und ist im speten ton. —
+          <lb/>(Strasbourg] 1513, in-80.
+          <lb/>Vogeleis, p. 182.
+          <lb/>2290
+          <lb/>LIED : Dis lid ist wie man den Burgern von der stat
+          <lb/>Straszburg... korn und mel mitgeteilt hat. — (Strasbourg
+          <lb/>1518), in-40.
+          <lb/>Goedeke Ia, p. 319, n° 82.
+          <lb/>2291
+          <lb/>LIED : In disem lied wirstu verston Wie allweg die geystlichen
+          <lb/>hon Die krancken in der letsten not Gefüret hand so
+          <lb/>ferr von Gott... Bruder Heinrich V. Z. — (Strasbourg,
+          <lb/>Ulrich Morhard vers 1524), in-8°.
+          <lb/>Schmidt IV, p. 31, n° 15; Wackernagel 167. Benzing : Schürer
+          <lb/>n° 26 l’attribue aux héritiers de Mathias Schürer à Strasbourg.
+          <lb/>— Weimar.
+          <lb/>2292
+          <lb/>LIED : Disz nachgeschribene Lied hat Henselin von Stotzingen
+          <lb/>gesungen in dem er zu seiner Marter geführt ward zu
+          <lb/>Elsass Zabern da er mit dem Schwert gericht, im thon:
+          <lb/>Herr Christ der einig. — (S. l. vers 1528), in-8°.
+          <lb/>Vogeleis, p. 222.
+          <lb/>2293
+          <lb/>293
+          <lb/>10-1
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

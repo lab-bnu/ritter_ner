@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:36.070733+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2324.tif
+IMAGE WIDTH: 2316
+IMAGE HEIGHT: 3820
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>320
+          <lb/>CICERO
+          <lb/>Strasbourg. W. Rihel s. d.
+          <lb/>M. T. CiC. OFFICIO- RVM. LIB. III. ] CATO MAIOR, SIVE
+          <lb/>DE SENECTVTE. LAELIVS, SIVE DE AMICITIA. SOMNIVM
+          <lb/>SCIPIONIS. PARADOXA Osodópou rept̀ ynpos éppvéta. Eat
+          <lb/>ov2t00 ExtRíovoς. OMNIA POST POSTREMAM NAV-] gerianam
+          <lb/>&amp;amp; Victorianam, correctionem EMENDATA A IOANNE STVR¬
+          <lb/>MIO Cum Indice locupletissimo. Additae etiam sunt Eras¬
+          <lb/>mi Roterodami &amp;amp; Philippi! Melanchthonis, &amp;amp; Bartholomaei
+          <lb/>Latomi ! annotationes in eosdem libros.
+          <lb/>Cum gratia &amp;amp; priuilegio Caesario ad Septennium.
+          <lb/>(Verso blanc).
+          <lb/>In-8°, car. ital, et grees, 46 ff. non ch. (Erasmi et Melanch¬
+          <lb/>thonis Annotationes) — 131 ff. ch. — 72 non ch. dont les 20
+          <lb/>derniers Index; titre courant, initiales ornées I, O. C et initiales
+          <lb/>d’attente.
+          <lb/>fol. A 2a: loannes Stvrmi-vs Stanislao Severini Fi¬
+          <lb/>lio &amp;amp; Andreae Francisci filio Boneris! patruelibus Polonis
+          <lb/>S. P. D... — Argentorati decimo Calendas Aprilis anno
+          <lb/>M. D. XLI. (4 p.)
+          <lb/>fol. A 4a: Ioannes Baptista Egnativs Venetvs Marco
+          <lb/>Molino Patritio orna tissimo Aloisij. D. Marci Procura¬
+          <lb/>toris filio. S. P. D. (5 p.)
+          <lb/>fol. A 6b: Egnatius Studiosis, (5 p.)
+          <lb/>Au verso du dernier f, dont le recto blanc, marque typ. de Wend.
+          <lb/>Rihel. (H E B, Planche XXIX, N° 3, Silvestre No 740.)
+          <lb/>R101656. Prov.: Rosenthal, Munich, I/V. 1885; 6 M. Annota¬
+          <lb/>tions mss.
+          <lb/>A l&amp;#x27;intérieur du 1er plat: «Sum ex libris Georgij Setzeü (illisible)
+          <lb/>Windshemij 1585.» Au recto du f. de garde: «Geschenk aus der Biblio¬
+          <lb/>thek des Kantors und Schullehrers! Johann Georg Weber in Merken¬
+          <lb/>dorf! dargebracht! von seinem Sohne, Schullehrer! Johann Adam Julius
+          <lb/>Ferdinand Weber in Tuchenbach fur das germanische Museum! in
+          <lb/>Nirnberg.» Rel, anc.
+          <lb/>486
+          <lb/>CICERO
+          <lb/>Strasbourg, M. Schürer, 1511.
+          <lb/>M. T. C. TVSCVLANARVM! Questionum Libri Quinque.
+          <lb/>A la fin: Argentorati in ædibus Ma thiae Schurerij
+          <lb/>An. M. D. XI.! CONRADO DVNTZENHEMIO. II. I DICTATORE
+          <lb/>ARGENTORAT. REGNANTE IME. CAES.] MAXIMILIANO P. F.
+          <lb/>AVG. (Verso blanc.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

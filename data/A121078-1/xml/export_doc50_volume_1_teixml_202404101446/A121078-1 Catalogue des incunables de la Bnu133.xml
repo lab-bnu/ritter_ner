@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:38.762340+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu133.tif
+IMAGE WIDTH: 2430
+IMAGE HEIGHT: 3858
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>WIMPHELING JACOBUS: Elegantiarum medulla. Strasbourg,
+          <lb/>Matthias Brant, (vers 1495), in-4°.
+          <lb/>Copinger 6577, Madsen 4236, Proctor 766 (met anno 1500 avec
+          <lb/>point d’interrogation), Schmidt IV, p. 13, N° 2, Voulliéme:
+          <lb/>Berlin 2563, 12, Walter, Sélestat 515.
+          <lb/>K 3807. Prov.: Bibliothèque Ch. Schmidt, avec son exlibris à
+          <lb/>l’intérieur du 1er plat, Strasbourg, 10. IV. 1895. Au recto du
+          <lb/>f. de garde, annotation de la main de Ch. Schmidt: «Un des
+          <lb/>rares exemplaires de l’une des deux seules impressions que
+          <lb/>l’on connaisse de Math. Brant.» Notes mss. dans le texte.
+          <lb/>490
+          <lb/>WIMPHELING JAÇOBUS: Elegantiarum medulla. (Strasbourg,
+          <lb/>J. Grüninger, 1498), in-4°.
+          <lb/>Hain 16164, Proctor 505, Schmidt I, 37: Bâle, Schreiber 5477,
+          <lb/>Voulliéme: Berlin 2334, Walter; Sélestat 514.
+          <lb/>Schramm, Bilderschmuck XX, grav. N° 1026.
+          <lb/>K 3805. Prov.: Don de J. Baer 8 Co., Francfort-s.-M., 27. X.
+          <lb/>1881. Notes mss.
+          <lb/>491
+          <lb/>WIMPHELING JAÇOBUS: Hecatosticon ad illustrissimum Prin¬
+          <lb/>cipem Eberhardum wyrtenbergensem. Strasbourg,
+          <lb/>J. Prüss, 1495, in-4°.
+          <lb/>Hain 16184, Madsen 4232, Polain: Belgique 4044, Proctor 551,
+          <lb/>Schmidt III, 26, Schreiber 5480, Schramm, Bilderschmuck XX,
+          <lb/>grav. N° 1237.
+          <lb/>K 3821. Prov.: Albert Cohn, Berlin (Catal. 135, N° 21), 1. V.
+          <lb/>1879, 8 M.
+          <lb/>492
+          <lb/>WIMPHELING JAÇOBUS: Isidoneus Germanicus. (Strasbourg,
+          <lb/>J. Grüninger, vers 1500), in-4°.
+          <lb/>Hain 16178, Madsen 4238, Proctor 507, Schmidt I, 33, Schrei¬
+          <lb/>ber 5481, Voulliéme: Berlin 2333, Pellechet: Colmar 1375,
+          <lb/>Walter: Sélestat 520 et 521; Schramm, Bilderschmuck XX,
+          <lb/>grav. N° 1027.
+          <lb/>K 3816. Prov.: Bibliothèque Böcking. Notes mss. au f. de garde:
+          <lb/>Freytag, Appar. litterar. I, p. 182; Riegger Amoenit. Fribourg,
+          <lb/>p. 185. Editionem Argentor. 1497, in 4° describitur Freytag
+          <lb/>in Annalect. literar. p. 1098. Vgl. Hain 16177 ff.»
+          <lb/>493
+          <lb/>103
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

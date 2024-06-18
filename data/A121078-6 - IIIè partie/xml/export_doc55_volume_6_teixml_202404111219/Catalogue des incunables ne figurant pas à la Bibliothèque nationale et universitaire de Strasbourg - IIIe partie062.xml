@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:06.079291+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie062.tif
+IMAGE WIDTH: 2482
+IMAGE HEIGHT: 3920
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>JOHANNES (archevêque de Trèves) : (Réponse aux réclama¬
+          <lb/>tions de Jean d’Eltzl. — Strasbourg, Jean Prüss s. d.,
+          <lb/>avant le 26 février 1498, in-fol.
+          <lb/>Voulliéme : Berlin 2383, 3.
+          <lb/>377
+          <lb/>JOHANNES, Antonius (abbas) : (Lettre d’indulgence). —
+          <lb/>(Strasbourg, Jean Grüninger 1487), in-4°.
+          <lb/>Reichling 1792; Einblattdrucke 768 — 769; Voulliéme:
+          <lb/>Berlin 2276, 2.
+          <lb/>378
+          <lb/>JOHANNES Carthusiensis : Nosce te. — Kirchheim (?), 3. VII.
+          <lb/>1489. in-4°. Heidelberg, H. Knoblochtzer d’après
+          <lb/>Voullième.
+          <lb/>Hain 9389; Proctor 3131; Voulliéme : Berlin 1198, 19. 379
+          <lb/>JOHANNES Chrysostomus: Sermo de poenitentia. A la suite
+          <lb/>de ANTONINUS, Florentinus : Confessionale : Defecerunt,
+          <lb/>vers 1484, n° 82.
+          <lb/>G W 2098.
+          <lb/>380
+          <lb/>JOHANNES Guallensis: Communiloquium seu Summa Colla¬
+          <lb/>tionum. — Strasbourg, Jean Knobloch 1500, in-4°.
+          <lb/>Copinger 2624.
+          <lb/>381
+          <lb/>JOHANNES de Garlandia: Composita verborum et commen¬
+          <lb/>taire de Jean Synthen. — (Strasbourg, Jean Grüninger)
+          <lb/>6. VI. 1486, in-40,
+          <lb/>Hain 5575; Schmidt I, n° 6; d’après Proctor 3127: Heidelberg,
+          <lb/>imprimeur du Lindelbach.
+          <lb/>382
+          <lb/>JOHANNES de Garlandia : (Idem). — [Strasbourg), 4 mai 1489,
+          <lb/>in-40.
+          <lb/>Pellechet 4995.
+          <lb/>383
+          <lb/>JOHANNES de Hildesheim : Leben der heiligen drei Könige. —
+          <lb/>(Strasbourg, Henri Knoblochtzer s. d.), in-fol.
+          <lb/>Schorbach-Spirgatis n° 41; Voulliéme : Berlin 2221.
+          <lb/>384
+          <lb/>60
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

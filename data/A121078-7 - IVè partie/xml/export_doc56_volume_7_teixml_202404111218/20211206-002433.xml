@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:12.557205+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002433.tif
+IMAGE WIDTH: 2518
+IMAGE HEIGHT: 3962
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>PSALTERIUM chorale secundum morem et consuetudinem
+          <lb/>sancte Romane ecclesie cum hymnis, antiphonis
+          <lb/>et versiculis annexisque vigiliis mortuorum... —
+          <lb/>(Strasbourg, Jean Prüss 1509), in-fol.
+          <lb/>Schmidt III, p. 22, n° 75 ; (B N Strasbourg : Ritter, Rép
+          <lb/>n° 1941).
+          <lb/>3042
+          <lb/>PSALTERIUM Davidicum. Cantica et hymni. — Strasbourg,
+          <lb/>René Beck 1520, in-40.
+          <lb/>Schmidt IV, p. 26, n° 32 : Jadis Bibl. de Strasbourg, Incun.
+          <lb/>n° 3931. (Une éd. de Prüss 1512 : Ritter, Rép. n° 1943). 3043
+          <lb/>PSALTERIUM : Psalterium ex hebreo diligentissime tralatum.
+          <lb/>— Haguenau, Thomas Anshelm 1522, in-4°.
+          <lb/>Beaulieux, n° 816; B M Montauban 5045. [B N Strasbourg :
+          <lb/>Ritter, Rép., n° 1945 et Grand Sém. A 72l.
+          <lb/>3044
+          <lb/>PSALTERIUM : Graece éd. J. Leontonicus. — Strasbourg,
+          <lb/>Wolfgang Köpfel 1524, in-32°.
+          <lb/>Graesse, p. 484. (B N Strasbourg R 101.057 : Ritter, Rép.,
+          <lb/>n° 1946; une éd. par Köpfel 1545 : Rép. n° 1953].
+          <lb/>3045
+          <lb/>PSALTERIUM impressum cum aliis correquisitis ordinis
+          <lb/>Carthusiani. — Strasbourg 1531, in-4°.
+          <lb/>Graesse V, p. 489.
+          <lb/>3046
+          <lb/>PSALTERIUM Davidis, carmine redditum per Eobanum
+          <lb/>Hessum cum annotationibus Viti Theodori Noriber¬
+          <lb/>gensis... — Strasbourg, Crato Mylius 1540, in-8°. (Des
+          <lb/>éditions de Cr. Mylius 1539 (Ritter, Rép. n° 1949),
+          <lb/>1541 (Rép. n° 1950), 1542 (Rép. 1951), 1544 (Rép.
+          <lb/>n° 1952), 1545 (Rép. n° 1954)l.
+          <lb/>Catalogue Ch. Eggimann, Paris (La Licorne Bulletin no 10
+          <lb/>1937), n° 1842 ; éd. 1540. [Une éd. opera Conv. Pellicani par
+          <lb/>Köpfel 1527 : Ritter, Rép., n° 19471.
+          <lb/>3047
+          <lb/>PSALTERIUM, Davidis : Carmine redditum. Cum Annota¬
+          <lb/>431
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

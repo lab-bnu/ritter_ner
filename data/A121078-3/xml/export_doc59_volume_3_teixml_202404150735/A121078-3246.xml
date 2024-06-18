@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:09.653389+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3246.tif
+IMAGE WIDTH: 2328
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>690
+          <lb/>CHORVS GER¬
+          <lb/>MANAE
+          <lb/>pubis.
+          <lb/>Ach du armer MVR Nar vuas hastu gethon,
+          <lb/>Das du also blind in der heylgen schrist bist gon?
+          <lb/>Des mustu in der kutten lyden pin.
+          <lb/>Aller plerten, MVRR.NARR, must du sin,
+          <lb/>Ohe ho lieber Murnar.
+          <lb/>Bl. C 3a: ... Vlricho ab Hutten, equiti Germano, Pe¬
+          <lb/>trus Francisci, poeta, S. D.... Ex Haganoia, viij. Calend.
+          <lb/>lanuar. (25. Dez.) Anno M. D. XX.
+          <lb/>Erschien also nach dem 25. Dez. 1520, wahrscheinlich anfangs
+          <lb/>1521.
+          <lb/>R 100.440. Prov.: Schenkung Cunite, Strassburg 8. VII. 1886.
+          <lb/>2. Ex. R101.497. Herkunft unbekannt.
+          <lb/>GK: SB Berlin, UB Göttingen, Halle, Marburg, Münster.
+          <lb/>Schmidt II Supplementheft Nr. 10: London Brit. Museum. Gibt eben¬
+          <lb/>falls Schott als wahrscheinlichen Drucker. Liebenau, Thomas Murner
+          <lb/>S. 32 Anm. 5. Merker Paul, Eccius Dedolatus (Halle 1923), S. 19-31
+          <lb/>führt 4 Ausgaben dieses Druckes an u. vertritt die Ansicht, dass weder
+          <lb/>Streckheimer noch Urbanus Rhegius als Verfasser in Betracht Rommen.
+          <lb/>1014
+          <lb/>GODEFROY Denis. (Siche: GOTHOFREDUS Dionysius
+          <lb/>GOLIUS Theophilus
+          <lb/>Strassburg, W. Rihel 1541
+          <lb/>EDVCATIO PVERILIS LIN! guae graecae.
+          <lb/>FABELLAE QVAE- DAM AESOPI GRAECAE AD PV erilem
+          <lb/>educationem gymnasio Argen toratensi electae.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

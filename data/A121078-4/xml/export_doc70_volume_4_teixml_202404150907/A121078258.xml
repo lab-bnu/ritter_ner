@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:49.913817+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078258.tif
+IMAGE WIDTH: 2308
+IMAGE HEIGHT: 3844
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1144
+          <lb/>Fol. A 2a :... Herrn Lazaro von Schwendi,! Freyherrn z6 Hohen¬
+          <lb/>landsperg.... Datum Straszburg an S. Katharinen tag, Anno 1569....
+          <lb/>Michael Toxites Medicus Argentoratensis. (Préface de 6 ff.)
+          <lb/>Fol. A 8a : Epitaphium D. Philippi The! ophrasti Paracelsi quod
+          <lb/>Salis- burgi in Nosolomia apud S. Sebastianum... (13 vers latins.)
+          <lb/>R101.031. Prov.: Comte Pocci, Strasbourg 12/1 1890. 1774
+          <lb/>PARACELSUS Theophrastus
+          <lb/>Strasbourg, Chr. Muller 1571
+          <lb/>Ein schöner Tractat PHILIPPI Theophrasti Paracelsi
+          <lb/>des berümbtesten und er- farnen Teutschen Philosc- phi
+          <lb/>und Medici. Von Eygenschafften, Eines volkomnen Wundt¬
+          <lb/>artzets.Ausz Theophrasti eignen hand-hrifft, jetz
+          <lb/>erstmahls in truck geben. Was weitter hinzûgesetzt,
+          <lb/>zeygt die nechst pagina an.Cum Privilegio Caesareo
+          <lb/>ad decennium. Getruckt zû Straszburg bey Christian
+          <lb/>Müller. 1571.
+          <lb/>A la fin: Getruckt zû Straszburg bey Christian Müller.
+          <lb/>CK M. D. LXXI. (3 feuilles de lierre.) Au-dessus de l&amp;#x27;explicit:
+          <lb/>Marque typ. de Chr. Muller. (H &amp;amp; B Planche XXVIII n° 1.)
+          <lb/>In-8°, car. goth., 8 ff. non ch., 229 pp., 3 pp. non ch., titre
+          <lb/>courant, réclames.
+          <lb/>Au verso du titre : Contenta in hoc! libro.. — En bas, un dist.
+          <lb/>de Toxites au lecteur.
+          <lb/>Fol. 2a non ch. :... Herrn Johan, Freyherrn zû! Polweiler und
+          <lb/>im Weilerthal... Straszburg den 19. Augusti,! Anno M. D. LXXI... —
+          <lb/>Michael Toxites, Me- dicus Argentoratensis.
+          <lb/>Au recto du dernier f. :,Michael Toxites an den gû- tigen Leser.&amp;quot;
+          <lb/>R 101.293 (1). Prov. : Bibl. Menzel, Stuttgart 1874; p. 209 dé¬
+          <lb/>chirée.
+          <lb/>2ème ex.: Ri01.294 (1). Prov. : G. Lute, médecin à Lanvenstein
+          <lb/>13/11905; 10 M. En bas du titre : Monasterii Rupiae Minoris. 1775
+          <lb/>PARACELSUS Theophrastus
+          <lb/>Strasbourg, B. Jobin 1572
+          <lb/>Zwen Tractatus! Des Hocherfarnen und bewärtisten
+          <lb/>Teütschen Philosophi,! und beyder Artzney Doctoris Phi¬
+          <lb/>lippi Theophrasti Paracelsi. I. De viribus membrorum
+          <lb/>spiritualium. Il. De Electro. Mit erklärung ettlicher wörter
+          <lb/>und praeparationum. (Marque typ. de B. Jobin. HÆB Planche¬
+          <lb/>XXXVII n° 4.) Au-dessous: Cum Privilegio Caesareo ad de¬
+          <lb/>cennium. M. D. LXXII. (Verso blanc.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

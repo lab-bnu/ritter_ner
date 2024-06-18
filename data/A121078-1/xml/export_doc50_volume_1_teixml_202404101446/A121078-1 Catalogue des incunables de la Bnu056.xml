@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:37.171243+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu056.tif
+IMAGE WIDTH: 2382
+IMAGE HEIGHT: 3842
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>BRUN Urbanus Prebusinus: Oratio mordacissima. (Stras-
+          <lb/>bourg, J. Grüninger, vers 1500), in-4°.
+          <lb/>Hain 4006, Proctor 506, Voulliéme: Berlin 2320.
+          <lb/>Schramm, Bilderschmuck XX, grav. N° 340.
+          <lb/>K 990. Prov.: L. Rosenthal, Munich, 20/VI. 1888 10 M. Notes
+          <lb/>mss. Au recto du f. de garde: S. Klüpfel, Vita Conr. Celtis 2, 86.
+          <lb/>117
+          <lb/>BRUNSCHWIG Hieronymus: Chirurgia. Strasbourg, J. Grü¬
+          <lb/>ninger, 4 juillet 1497, in-fol. (Gravures.)
+          <lb/>G W 5593, Hain 4017, Madsen 921, Pellechet 3041 (†), Proctor
+          <lb/>481 (†), Schmidt I, 31, Schreiber 3642, Sudhoff 55.
+          <lb/>Schramm, Bilderschmuck XX, grav. N° 347-370.
+          <lb/>2
+          <lb/>K 993. Prov.: Comte Pocci, Strasbourg, 12/1. 1891, s. ind. de
+          <lb/>prix. Notes mss., au recto du 2e f. de garde: «Die Augsburger
+          <lb/>Ausgabe 1539 gedruckt durch Alexander Weyssenhorn, fol. 129.
+          <lb/>hat andere geringere Holzschnitte: Im Texte wenige neue
+          <lb/>Formen; einige Druckfehler gebessert, neuere dafür begangen.
+          <lb/>Note fol. 103 ist nach der Augsburger Ausgabe ergänzt. Von
+          <lb/>sich selbst berichtet der Verfasser fol. 40.»
+          <lb/>118
+          <lb/>BRUNSCHWIG Hieronymus: Kleines Destillierbuch. Stras¬
+          <lb/>bourg, J. Grüninger, 8 mai 1500, in-fol.
+          <lb/>G w 5595, Hain 4021, Madsen 926, Proctor 493, Schmidt I, 49,
+          <lb/>Schreiber 3644, Sudhoff 59, Voulliéme: Berlin 2309.
+          <lb/>Schramm, Bilderschmuck XX, grav. N° 661-940.
+          <lb/>K 996. Prov.; Don du Prof. F. A. Flückiger, Bern, 16/V. 1895.
+          <lb/>Notes mss. Au verso du f. de garde: «Vergl. Choulant, Gra¬
+          <lb/>phische Incunabeln 1858, 82. Charles Schmidt, Histoire litté¬
+          <lb/>raire de l’Alsace à la fin du XVe et au commencement du
+          <lb/>XVIe siècle II (Paris 1879), 394 n’indique que les titres des
+          <lb/>ouvrages de Jérôme Brunschwig. Flückiger, Pharmakognosie
+          <lb/>1883. 990. Ausser dieser ersten Ausgabe noch diejenige von
+          <lb/>1521. Voir aussi Catalogue 102 d’A. Bielefeld, Carlsruhe, Mai
+          <lb/>1883, N° 1467 sur l’édition de 1509, prix 54 M.»
+          <lb/>119
+          <lb/>BUCH von Melusine. Voir: Melusine.
+          <lb/>BUCH von Salomon und Morolf, Voir: Salomon und Morolf.
+          <lb/>26
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

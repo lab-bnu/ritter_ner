@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:57.608615+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5233.tif
+IMAGE WIDTH: 2390
+IMAGE HEIGHT: 3860
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1543
+          <lb/>titre courant, réclames, notes marg. (car, rom. et grecs), init. à fig. N, M.
+          <lb/>Dist. et dédicace comme au n° 2465a,
+          <lb/>R. 102.137. Prov. : Bibl. F. A. Menke, Bremen, 1873, avec autographe
+          <lb/>de Menke au recto du f. de garde et la date 1841.
+          <lb/>2468
+          <lb/>WIMPHELING Jacobus
+          <lb/>Strasbourg, s. d.
+          <lb/>Declaratio Jacobi Wym-pfelingii ad mitigandum aduer¬
+          <lb/>sarium. S. l. n. d. (vers 1502).
+          <lb/>In-4°, car. rom., 4 ff. non ch. (verso du dernier blanc), sans sign.
+          <lb/>R. 100.175. Prov. : Baer, Francfort-s.-M., 22/XI, 1878; sans indic. de
+          <lb/>prix.
+          <lb/>Knepper, Wimpheling 1902, p. 150-153; Liebenau, Th. Murner 1912,
+          <lb/>p. 31, Anm. 2 : « zum Teil wörtlich übernommen in Epitome rerum germa¬
+          <lb/>nicarum 1503 n. 1513. Kloss (Catalogue (18351 277) vermutet als Drucker
+          <lb/>Joh-Schott vnd setzt die Schrift ins Jahr 1506, während Hain (Repert.
+          <lb/>Bibliogr. nr. 16196) sie irrig ins Jahr 1500 verweist. Ch. Schmidt (Hist.
+          <lb/>litt. de l’Alsace I 38) nimmt an die Schrift sei unmittelbar nach Murners
+          <lb/>Brief vom 17, Februar 1502 entstanden. Neudruck in der 1615 bei Gotthard
+          <lb/>Vögelin in Heidelberg veröffertlichten Abhandlung : Carolus Magnus
+          <lb/>Germanus... (S. 7-18); übersetzt bei E. Martin, Germania 87-93».
+          <lb/>Bibliographie de Wimpheling. Schottenloher II, n° 22.550-22.612.
+          <lb/>2469
+          <lb/>WIMPHELING Jacobus
+          <lb/>(Strasbourg, J. Knobloch s. d.)
+          <lb/>Oratio querulosa contraJnuasores Sacerdotum. (Verso
+          <lb/>blanc.) S. l. n. d.
+          <lb/>In-4°, car. goth., 7 ff. non ch., sign. A, init. d’attente S.
+          <lb/>fol. A 2a : Flaminum. vatum. Sacerdotum Hymnosophistarum pilo-!
+          <lb/>sophorum (!) druidum. Jn Testipremos Conquestio.
+          <lb/>A la fin : 14 vers latins.
+          <lb/>R. 102.229. Prov. inconnue.
+          <lb/>2470
+          <lb/>WIMPHELING Jacobus, Germania. Voir : BEROALDUS Phi¬
+          <lb/>lippus, Declamatio de tribus fratribus. Strasbourg, J. Prüss,
+          <lb/>1501. R. 100.085, 2e ex. R. 102.271; n° 190.
+          <lb/>WIMPHELING Jacobus, Tetrasticon. Voir : GRESMUNDUS,
+          <lb/>Versiculi, 1502. R. 100.119; n° 1042.
+          <lb/>WIMPHELING Jacobus, Defensio Germaniae. (Strasbourg,
+          <lb/>J. Grüninger, 1502l. Voir: GUNTHER Petrus. R. 100.629;
+          <lb/>n° 1064.
+          <lb/>WIMPHELING Jacobus
+          <lb/>Strasbourg, J. Knobloch, 1505
+          <lb/>Adolescentia Jacobi! wimphelingij cum nouis quibusdam
+          <lb/>additioni-bus per Gallinarium denuo reuisa ac elimata.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

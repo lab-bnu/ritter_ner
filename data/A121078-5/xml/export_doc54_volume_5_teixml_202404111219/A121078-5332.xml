@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:20:02.750445+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5332.tif
+IMAGE WIDTH: 2404
+IMAGE HEIGHT: 3844
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1642
+          <lb/>Zuickheim, Viglius à (Prof. Ingolstadt,
+          <lb/>Zwicker, F. D. Adam, 837.
+          <lb/>1540), 2271.
+          <lb/>Zwigius, Joh. (Nementensis), 2099.
+          <lb/>Zum Treubel. Voir : Treubel.
+          <lb/>Zwigius, Udalricus, 2099.
+          <lb/>Zürich, Bibl. Cantonale et BM., 93,
+          <lb/>Zwinger, Theodosius (Basiliensis),
+          <lb/>133, 169, 173, 183, 242, 262, 279, 280,
+          <lb/>1665, 2531.
+          <lb/>313, 445, 464, 487, 674, 9, 718, 9,
+          <lb/>Zwingli, Guilhelmus, 2073.
+          <lb/>726, 730, 741, 764, 941, 953, 966,
+          <lb/>Zwingli, Ulrich, 323, 440, 1073.
+          <lb/>987, 1070, 1, 1091, 1201, 1232,
+          <lb/>Zwirzermüller, Nicolaus (anc. poss.
+          <lb/>1335, 1425, 1602, 1741, 1890, 3,
+          <lb/>1571), 2278.
+          <lb/>1912, 2078, 2103, 2378, 2385.
+          <lb/>Zwirzler (anc. poss. 1591), 2278.
+          <lb/>7wick, Joh. (Constantinus), 686.
+          <lb/>Zygessar, Andreas Georgius, 538.
+          <lb/>Zwickau, Rathsbibliothek, 261, 262,
+          <lb/>Zyrl, Christian (Schulmeister zu Weis-
+          <lb/>3, 4, 5, 6, 327, 8, 350.
+          <lb/>senburg), 2533.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

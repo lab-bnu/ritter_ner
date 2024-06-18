@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:38.598115+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu122.tif
+IMAGE WIDTH: 2414
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>SIXTUS IV: Bulle sur l’indulgence en faveur de l’église de
+          <lb/>la Trinité de Fribours en Br. Rome le 5 janvier 1478.
+          <lb/>(Strasbourg, impr. du H. Ariminensis vers 1478),
+          <lb/>in-fol. (feuille unique).
+          <lb/>K 3341. Prov.: Archives de Stuttgart 16/IX. 1912, 200 M. Note
+          <lb/>mss. au verso.
+          <lb/>438
+          <lb/>Soccus. Voir: Conradus de Brundelsheim.
+          <lb/>Speculum exemplorum ab Aegidio Aurifabro collectum:
+          <lb/>Strasbourg, (imprimeur du Jordanus (— G. Husner)),
+          <lb/>4 mars 1487, in-fol.
+          <lb/>Hain 14917, Pellechet: Colmar 1204, Proctor 609, Voulliéme:
+          <lb/>Berlin 2415, Walter: Sélestat 437.
+          <lb/>K 3370. Prov.: Bibliothèque Heitz, Strasbourg. Au-dessus du
+          <lb/>titre: «Monasterij Herbipoli». Le reste est effacé. Rel. anc.
+          <lb/>439
+          <lb/>Speculum exemplorum ab Aegidio Aurifabro collectum:
+          <lb/>Strasbourg, (imprim. du Jordanus (— G. Husner)),
+          <lb/>1er mars 1490, in-fol.
+          <lb/>Hain 14918, Madsen 3736, Pellechet 1618, Pellechet: Colmar
+          <lb/>1205, Proctor 653, Voulliéme: Berlin 2435.
+          <lb/>K 3371. Prov.: Don de la ville de Heilbronn, 1871. Rel. anc.
+          <lb/>440
+          <lb/>Speculum exemplorum ab Aegidio Aurifabro collectum:
+          <lb/>Strasbourg, (imprim. du Jordanus (— G. Husner)),
+          <lb/>4 décembre 1495, in-fol.
+          <lb/>Hain 14919, Madsen 3737, Pellechet 1619, Pellechet: Colmar
+          <lb/>1206, Proctor 638, Voulliéme: Berlin 2457.
+          <lb/>K 3371a. Prov.: F. Butsch, Augsbourg, 12/x. 1883, 14 M. 50.
+          <lb/>Au-dessus du titre: «Cartusiae Buxiensis».
+          <lb/>441
+          <lb/>SPINA. Voir: Alphonsus de Spina.
+          <lb/>Statuta provincialia vetera et nova. (Strasbourg, J. Prüss,
+          <lb/>s. d.), in-fol.
+          <lb/>Hain 15041, Proctor 529, Voulliéme: Berlin 2394.
+          <lb/>K 3396. Prov.: Baer 8 Co., Francfort s. M., 7/I. 1913, 75 M.
+          <lb/>442
+          <lb/>92
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

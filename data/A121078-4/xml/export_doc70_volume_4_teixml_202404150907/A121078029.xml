@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:43.359468+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078029.tif
+IMAGE WIDTH: 2360
+IMAGE HEIGHT: 3836
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>LIED
+          <lb/>[Strasbourgl vers 1530
+          <lb/>Ein new Christlich lied und sagt von fünff verheis¬
+          <lb/>sungen, die! Gott der Herr Adam, Noe, Abraham, Lott,
+          <lb/>und dem Propheten David verhyesz.
+          <lb/>Im thon, Wach auff meins hertzen ein, &amp;amp;c. (Gravure
+          <lb/>sur bois: le Christ sur le trône, à côté de lui deux anges, devant lui un
+          <lb/>enfant avec un livre ouvert, plus bas trois enfants assis avec des livres
+          <lb/>ouverts. Verso blanc.)
+          <lb/>S. l. n. d. [Probablement Strasbourg, vers 1530.]
+          <lb/>Petit in-8°, car. goth., 4 ff. non ch., init, ornée F. fol. 3b, petite
+          <lb/>gravure: Dieu le père assis, tenant une croix avec Jésus crucifié, en haut
+          <lb/>le Saint Esprit en forme de colombe. Au recto du dernier f., l&amp;#x27;agneau
+          <lb/>pascal avec la bannière, à ses pieds le calice.
+          <lb/>RI00.196. Prov.: Rauthe, Berlin I0/II 1917; 120 M. 1362
+          <lb/>[Strasbourg] 1592
+          <lb/>Ein Kläglich New Lied (Feuille de lierre.) Von der Lot¬
+          <lb/>tringischen Bezalung, dar-mit er die Teutsche Knecht
+          <lb/>vnnd! Bawren zu Dachstein und vil andern Or-! ten be¬
+          <lb/>zalt, verehrt und begabt hat.! Allen Teutschen zu trewer
+          <lb/>warnung. Jm Thon, Es geht ein frischer Sommer dahin.
+          <lb/>(Gravure sur bois: un Landsknecht.)
+          <lb/>Getruckt im Jahr 1592.
+          <lb/>In-80, car. goth., 4 ff. non ch., sign. A, réclames, 24 strophes à
+          <lb/>5 vers.
+          <lb/>R 102.258. Prov.: Bibl. Heite, Strasbourg 1871.
+          <lb/>1363
+          <lb/>LIED
+          <lb/>913
+          <lb/>LIED
+          <lb/>[Strasbourg] 1592
+          <lb/>Ein Schön New! Lied, Von der Wunder-Kûh, So
+          <lb/>die Jesuiter zû Moltzheim! Weyssagen gelehrt. Jm Thon,
+          <lb/>Magdenburg halt dich feste, &amp;amp;c. (Feuille de lierre.) Petite gra¬
+          <lb/>vure: une vache encadrée d’un feston.
+          <lb/>Gedruckt im Jar.) 1.5.9.2.! (Feuille de trèfle.) Verso blanc.
+          <lb/>In-8°, car. goth., 4 ff. non ch. dont le dernier blanc, sign. A, ré¬
+          <lb/>clames, 12 strophes à 4 vers.
+          <lb/>R102.262. Prov.: Bibl. Heitz, Strasbourg 1871.
+          <lb/>1364
+          <lb/>[Strasbourgl] 1592
+          <lb/>Ein schon New Lied, Uff das geschrey! so man uff
+          <lb/>des Bischoffs! Grab soll hören, Ein Requiem aeter-nam,
+          <lb/>R.56
+          <lb/>LIED
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

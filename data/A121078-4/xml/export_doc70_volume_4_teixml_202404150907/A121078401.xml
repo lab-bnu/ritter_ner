@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:54.633718+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078401.tif
+IMAGE WIDTH: 2378
+IMAGE HEIGHT: 3830
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1287
+          <lb/>CID I9 XIC. Au verso armoiries de la maison de Norvège et de
+          <lb/>Holstein, au-dessous 8 vers latins de Reusner.
+          <lb/>—
+          <lb/>AGALMATA.
+          <lb/>TRIVM GRATIARVM.
+          <lb/>GEORGIO ROSENCRANZIO
+          <lb/>Equ. Reg. Da: Consiliario Primario.
+          <lb/>I
+          <lb/>AGLAIA.
+          <lb/>E
+          <lb/>Splendor honestatis mibi donat amabile nomen:
+          <lb/>SS
+          <lb/>Quas dederis, verus splendor honestat opes.
+          <lb/>Derrlich mein Sam von Gpr on mũro
+          <lb/>Gebenrais nerieu/mebr Dich giert.
+          <lb/>~4
+          <lb/>22 grav., en plus fol. N5b portrait de Reusner et Noa les armoiries
+          <lb/>de Reusner.
+          <lb/>R. 100.013. Prov. vente Welter, Paris 1895. A l’intérieur du Ier plat:
+          <lb/>Aus der Bibliothek von E. Reiber.
+          <lb/>2007
+          <lb/>REUSNER Nicolaus
+          <lb/>Strasbourg, B. Jobin, 1590
+          <lb/>Icones! sive!! Imagines viro-rum literis illu-strium,
+          <lb/>... Ex Secunda recognitioneNicolai Reusneri I. C.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

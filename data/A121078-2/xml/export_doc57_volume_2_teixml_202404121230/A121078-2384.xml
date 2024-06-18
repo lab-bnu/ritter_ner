@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:37.735179+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2384.tif
+IMAGE WIDTH: 2372
+IMAGE HEIGHT: 3818
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>380
+          <lb/>Marsilij Suppositionum Ampliationum Restrictionum
+          <lb/>Scilicet Appellationum Consequentiarum Exponibilium
+          <lb/>Itemque De Descensu De Positione...! De Statu De
+          <lb/>Alienatione.
+          <lb/>A la fin: Quod subtilissimis (vt cernis) cha! racteribus
+          <lb/>ipse Henricus Gran Ciuis in Ha genaw: Circumspecti viri
+          <lb/>archibibliopole Jo annis Rynman de Oringaw impensis:
+          <lb/>perpro- pere effigiauit consumauitque Anno salutis Mille¬
+          <lb/>simo quingentesimo et tertio; Die vero pe nultimo mensis
+          <lb/>Decembris.
+          <lb/>In-4°, car. goth., 184 ff. non ch., sign. a-2, A-B. titre courant,
+          <lb/>réclames, notes marginales.
+          <lb/>R 101.095. Prov.: Butsch fils, Augsbourg, 12/x. 1883; 16 M. 50.
+          <lb/>En haut du f. a2 dans la place vide pour l’initiale C, timbre de la
+          <lb/>Bibl. de Buxheim.
+          <lb/>Au haut du titre: Cartusiae in Buxheim. Rel, anc.
+          <lb/>2e ex. K3620/1) Prov.: Don de Fid. Butsch, Augsbourg, 1871.
+          <lb/>Au-dessus du titre: [Carthusiael. « Ranshofen.» Rel, anc.
+          <lb/>Proctor II, Sectio I, N° 11.620. Londres, British Museum; GPB:
+          <lb/>568
+          <lb/>BU Breslau.
+          <lb/>COMMINES Philippe de. Voir: COMINES Philippe de.
+          <lb/>COMPLEXION
+          <lb/>Strasbourg, M. Hupfuff, 1511.
+          <lb/>In diesem biechlein wirt erfundenvon complexion
+          <lb/>der menschen! zû erlernen leibliche vnnd menschliche
+          <lb/>natur ir siten geberden vnd naygli- chayt zû erkennen
+          <lb/>vnd vrtaylen. (Petite gravure sur bois; deux hommes assis, au-dessus
+          <lb/>d’eux 3 étoiles.)
+          <lb/>A la fin: Anno domini dusent fünffhundert! vnd ailff
+          <lb/>iar nach Crist geburt ist dis büchlin getruckt vnd! volend
+          <lb/>durch Mathis hüpfuff zû Strasz burg vff samb! stag
+          <lb/>nach sant Vlrichs tag.
+          <lb/>In-40, car. goth., 14 ff. non ch., sign. a-c, à la fin la même gra¬
+          <lb/>vure qu’au titre.
+          <lb/>R101.090. Prov.: Don de l’ancienne Faculté de médecine de Stras¬
+          <lb/>bourg).
+          <lb/>Schmidt V, n° 84; GPB. BN Berlin.
+          <lb/>569
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

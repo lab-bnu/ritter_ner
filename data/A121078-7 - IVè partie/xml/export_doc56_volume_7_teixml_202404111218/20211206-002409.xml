@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:12.041082+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002409.tif
+IMAGE WIDTH: 2508
+IMAGE HEIGHT: 3972
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>PINDARUS : Olympiorum hymni, primus et secundus...
+          <lb/>M. Molthero interprete. — (Haguenau, Henri Gran,
+          <lb/>septembre 1527), in-4°.
+          <lb/>Burg, n° 384.
+          <lb/>2910
+          <lb/>PINDARUS. Voir aussi : HOMERUS, no 2040.
+          <lb/>PINICIANUS, Johannes : Promptuarium vocabulorum. —
+          <lb/>(Strasbourg, Jean Knobloch 1520), in-4°.
+          <lb/>Schmidt VII, n° 210; Weller 1620 (d’après un catalogue).
+          <lb/>2911
+          <lb/>(PIRCKHEIMER, Willibald] : Eccius Dedolatus autore Joanne
+          <lb/>francisco Cottalambergio... A la fin : Impressum in
+          <lb/>Utopia. — (Sélestat, Lazare Schürer 1520), in-4°.
+          <lb/>Breslauer (Berlin), Katal. III (1908), n° 546: 80 M.
+          <lb/>2912
+          <lb/>PIRCKHEIMER, Will. : De Podagrae laudibus doctorum
+          <lb/>hominum lusus... — Strasbourg, Chr. Müller hér. 1570,
+          <lb/>in-80.
+          <lb/>BN Paris 2 ex. : Td128 401 et Rés. p. Yc. 84.
+          <lb/>2913
+          <lb/>PIRCKHEIMER, Will. Voir aussi : NILUS, n° 2772; PLUTARCHUS,
+          <lb/>n° 2954.
+          <lb/>PISCATOR, Johannes. Voir : FISCHART, Joh.
+          <lb/>PISTORIUS, Joh. Voir : SPANGENBERG, n° 3256.
+          <lb/>PITHŒUS, Petrus. Voir: VIRDUNG, n° 3419.
+          <lb/>PIUS II (pape) : De pravis mulieribus. Epitaphia Clarorum
+          <lb/>virorum et alia multa. — (Strasbourg, Jean Grüninger
+          <lb/>vers 1507], in-8o. (Marque-typ. de Grüninger).
+          <lb/>Graesse I, 27; Schmidt I, 84. — Bibl. Charles Schmidt. (BN.
+          <lb/>Strasbourg R 100.062 (3). Ritter, Rép ne 1977].
+          <lb/>2914
+          <lb/>407
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:47.567556+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078177.tif
+IMAGE WIDTH: 2304
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>ni meritissimi Expensis circumspecti viri! domini Joannis
+          <lb/>Rynman de oringau archibi-bliopole in officina Industrii
+          <lb/>Henrici Gran in opido (!) imperiali Hagenau Civis: im¬
+          <lb/>pres si; anno gratie M. d. x. ipso die sancte Dorothee
+          <lb/>virginis atque martyris : finiunt felieiter.
+          <lb/>In-4°, car. goth., 2 col., 3 ff. non ch., 1 f. blanc, CXLVII ff. ch.,
+          <lb/>titre courant, init. d’attente.
+          <lb/>R101.409 (2). Prov.: Don de la ville de Heilbronn 1871.
+          <lb/>Proctor II Sectio I n° 11645: Londres, Brit. Museum.
+          <lb/>Un 2ème ex.: Librairie Berger-Levrault, Strasbourg, offert pour
+          <lb/>1632
+          <lb/>180 frs.
+          <lb/>NICOLAUS DE NYSE
+          <lb/>Strasbourg, J. Gruninger 1510
+          <lb/>Sermones mágistri Nico lai deniise... De Tempore
+          <lb/>Hiemales In adventu per singulas Dominicas et ferias
+          <lb/>Sermo-nes duplices In Quadragesima pariformiter per
+          <lb/>singulas ferias. (Verso blanc.)
+          <lb/>A la fin (fol. CXLVIII) : Sermones de tempore hyemales
+          <lb/>... expensis circumspecti viri Antonii koberger de Nu
+          <lb/>renbergia In officina industrii Joannis Gruni! ger Impressi
+          <lb/>Argentine Anno Christi M. D. X. In vigilia Joannis
+          <lb/>baptiste finiunt fe liciter.
+          <lb/>Suivent : Sermones! de Sanctis! Hvemales! Estivales
+          <lb/>De festivitatibus Jesu christi beate virgi nis et alio¬
+          <lb/>rum Sanctorum, de quot, qui bus et ubi; vide folio se¬
+          <lb/>quenti...
+          <lb/>In-fol., car. goth., 2 col., 4 ff. non ch. (table), CXLVIII ff. ch.
+          <lb/>pour la fère partie, XCVIII ff. ch. pour la Bème partie, titre courant,
+          <lb/>init, ornées et init, d’attente.
+          <lb/>*R10.338. Prov.: BN Munich 15/X 1877; 2 M. Exemplaire
+          <lb/>incomplet, le f. avec le dernier explicit manque, de même les Sermones
+          <lb/>Estivales de Tempore qui d’après Schmidt I n° 116 ont 100 ff. ch.;
+          <lb/>pour la 3ème partie Schmidt donne 196 ff. ch., mon ex, n’en a que 98,
+          <lb/>mais le dernier est chiffré par erreur CXCVIII. Notes mss.
+          <lb/>Schmidt I n° 116: Jadis Bibl. de Strasbourg, Incun, n° 1542, et
+          <lb/>BM Strasbourg.
+          <lb/>1633
+          <lb/>1063
+          <lb/>NICOLAUS DE NYSE
+          <lb/>Haguenau, H. Gran 1510
+          <lb/>Sermones magistri Nico lai deniise... De Tempore
+          <lb/>Hiemales In Adventu per singulas Dominicas et ferias
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

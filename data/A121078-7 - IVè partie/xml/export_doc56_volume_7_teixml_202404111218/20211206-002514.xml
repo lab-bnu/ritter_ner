@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:14.209279+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002514.tif
+IMAGE WIDTH: 2484
+IMAGE HEIGHT: 3984
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>n° 1314 : « In this work the name America was suggested
+          <lb/>as the one by which the New World should in future be
+          <lb/>known ». — Paris (Bibl. Maz.).
+          <lb/>3456
+          <lb/>WALDSEEMÜLLER, Martin : Disz büchlin saget wie die zwen
+          <lb/>durchlüchtigsten herren her Fernandus. K. zu Castilien,
+          <lb/>und herr Emanuel K. zu Portugal haben das weyte mor
+          <lb/>ersuchet und funden vil Insulen, unnd ein Nüwe welt
+          <lb/>von wilden nackenden Leüten, vormals unbekant. —
+          <lb/>(Strasbourg, Jean Grüninger, 18 mars 1509), in-4°.
+          <lb/>(Traduction des Quatuor Americi Vesputii navigationes
+          <lb/>d’après la Cosmographiae introductio).
+          <lb/>Schmidt I, n° 101.
+          <lb/>3457
+          <lb/>WALDSEEMÜLLER, Martin : Uslegung der Mercarthen oder
+          <lb/>Cartha Marina... — (Strasbourg, Jean Grüninger (3.VI.]
+          <lb/>1527(, in-fol.
+          <lb/>Graesse 2, 635; Kristeller 104, Schmidt I, n° 233. — Bâle,
+          <lb/>Dresde.
+          <lb/>3458
+          <lb/>WALDSEEMÜLLER, Martin : Underweisung und uszlegunge.
+          <lb/>der Cartha marina oder die mercarten... — (Strasburg,
+          <lb/>Jean Grüninger (22.IV1 1530), in-fol.
+          <lb/>Brunet II5, 1399; Harisse, additions, p. 99, n° 90; Schmidt I,
+          <lb/>n° 246. — BN Vienne.
+          <lb/>3459
+          <lb/>WALDSEEMÜLLER, (Hilacomilus). Voir aussi: INSTRUCTIO,
+          <lb/>n° 2124; RINGMANN, n° 3114.
+          <lb/>WALDSTEIN Idenko à : De Javrino, Castro Ungariae muni¬
+          <lb/>tissimo; die XXIX Martii M.D.XCVIII, feliciter
+          <lb/>fortiterque recuperato: Auspiciis Imp. Caes. Rudolphi
+          <lb/>Secundi... Carmen et Oratio, faustae Gratulationis
+          <lb/>ergo in Academiâ Argentinensi scripta &amp;amp; publice recitata
+          <lb/>ab Illustribus... Idenkone Brtniezensi Barone à Walstein
+          <lb/>Dom. in Ungersperg &amp;amp; Budovitez Brtniczij haerede,
+          <lb/>&amp;amp; Domino Andrea Ungnad L. Barone in Sonneg &amp;amp;c. —
+          <lb/>512
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

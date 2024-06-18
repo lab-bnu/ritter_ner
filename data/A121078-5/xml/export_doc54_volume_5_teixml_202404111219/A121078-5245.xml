@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:58.123924+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5245.tif
+IMAGE WIDTH: 2396
+IMAGE HEIGHT: 3858
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1555
+          <lb/>epistola Argumento! preuio: et explanatione sequen te
+          <lb/>Jacobi wimphelingi.
+          <lb/>Due Epistole eiusdem Jacobi wimphelingi.Puluere qui
+          <lb/>ledit scribit, sed marmore lesus. (Verso blanc.)
+          <lb/>L’avant-dernière lettre de Wimpheling se termine: Ex
+          <lb/>argentina quarto nonas maij Anno christi 1511 et la dernière:
+          <lb/>Ex ar-gentoraco kalendis Junij Anno christi. 1511.
+          <lb/>In-4°, car. goth., 8 ff. non ch., sign. a-b, init. d’attente (S. I. n. d.)]
+          <lb/>Vers 1511.
+          <lb/>R. 102.032. Prov. : Casp. Haugg, Augsbourg, 29/x 1878; 10 M.
+          <lb/>Manque chez Schmidt.
+          <lb/>2488
+          <lb/>WIMPHELING, Jacobus
+          <lb/>Strasbourg, J. Schott, 1513
+          <lb/>Castigationes Locorum in canticis ecclesiasticis &amp;amp; diuinis!
+          <lb/>officijs deprauatorum Jacobi Vuimpfelingii Sletstattensis.
+          <lb/>Sunt autem castigationes hae quae sequuntur :... (7 lignes)
+          <lb/>Epistola Francisci Vuiler ordinis Minorum.
+          <lb/>Ioannis Gallinarij Heydelbergensis Pha-leucion endeca¬
+          <lb/>syllabon in Castigatio nes mendarum ecclesiasticarum.
+          <lb/>(6 vers latins.)
+          <lb/>A la fin : Argentinae Ioanne Schotto impressore. 1513.
+          <lb/>(Verso blanc.)
+          <lb/>In-4°, car. rom., 28 ff. non ch., sign. a-e.
+          <lb/>Au verso du titre:... Principi Friderico Ba] uariae Duci... Jaco-bus
+          <lb/>Vuimpfelingius Sletstatinus peccator uni!! ce se commendat.
+          <lb/>R. 101.459. Prov. : Bibliothèque Heitz, Strasbourg.
+          <lb/>Schmidt II, n° 24 : son exemplaire personnel; Ritter, BM Strasbourg,
+          <lb/>n° 2232; Proctor II, Sectio I, n° 10.274 : Londres, Brit. Mus.; Ritter,
+          <lb/>Grand Séminaire Strasbourg n° 498; Walter : Sélestat 2454. Knepper,
+          <lb/>Wimpfeling, p. 105.
+          <lb/>2489
+          <lb/>WIMPHELING Jacobus
+          <lb/>Strasbourg, J. Knobloch, 1513
+          <lb/>IAcobi Wuimpfelingii Schletstatensis Elegantiae! maiores.
+          <lb/>Rhetorica eiusdem pueris utilissima.
+          <lb/>Multa inuenies hic addita aliorum impressioni : !l multa
+          <lb/>castigata : &amp;amp; in ordinem longe faciliorem redacta.
+          <lb/>A la fin: Elegantias hasce Vuimpfelingianas castigatiori¬
+          <lb/>bus formis. Apud Tribotes Ioann. Knob-louchius opera
+          <lb/>quoque qua potuit vigilantiori exscripsit.A.
+          <lb/>M. D. XIII.  &amp;quot;. (Verso blanc.).
+          <lb/>In-4°, car. rom., 28 ff. non ch., sign. A-E, titre courant, init. ornées J,
+          <lb/>N, P, V, G, A, .C.
+          <lb/>Au verso du titre: Jacobus Wimpfelin. Schletstaten-] sis Theodorico
+          <lb/>Gresmundo!! Moguntino Iuniori... — Spiris pridie idus Iunias. Ann.
+          <lb/>Xristi. Meccc. xciij.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

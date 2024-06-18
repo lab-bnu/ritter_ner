@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:01.697453+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002005.tif
+IMAGE WIDTH: 2514
+IMAGE HEIGHT: 3974
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>dictum Aretinum in 4 Bücher eingeteilt u. ordenlich
+          <lb/>beschr. Ins deutsch verdolmetschet durch Heinrichen v.
+          <lb/>Eppendorff. — Strasbourg 1551, in-fol.
+          <lb/>GKI, 5514: BN Berlin.
+          <lb/>733
+          <lb/>ACCORT et capitulation faict entre le Roy de Navarre et le
+          <lb/>Duc de Cazimir pour la levée de l’armee des Reistres
+          <lb/>venus en France en l’année 1587 (4 juillet 1587). —
+          <lb/>Strasbourg, Gillot le Porché M. D. LXXXVII, in-8°.
+          <lb/>734
+          <lb/>ACCURSIUS. Voir : VALLA, Laurentius, n° 3393.
+          <lb/>ACHATIUS, Israël. Voir : Magnus, Olaus, n° 2583.
+          <lb/>ACKERMANN VON BÖHMEN : Schone red unn widerred eins
+          <lb/>ackermans und des todes... — [Strasbourg, Mathias Hup¬
+          <lb/>fuff 1502), in-4°.
+          <lb/>GKI, 6806: BN Berlin. (Ritter, Rép, no 1 ; éd. M. Flach
+          <lb/>1520l.
+          <lb/>735
+          <lb/>ACKERMAN VON BÖHMEN : Diss büchlin heisset der Ackermann.
+          <lb/>Einem yeden, den der grymm... tod eins lieben gemachels,
+          <lb/>fründes... beraubt hat, zumal nützlich... zu lesen. —
+          <lb/>(Strasbourg, vers 1520), in-4°.
+          <lb/>G KI, 6807: BN Munich et B U Bonn.
+          <lb/>736
+          <lb/>ACTA : Exustionis Antichristianorum Decretalium Acta... —
+          <lb/>(Strasbourg, Martin Flach 1520), in-4°.
+          <lb/>Schmidt VI, p. 33, n° 55 : Strasbourg, Bibl. S. Guillaume
+          <lb/>Ipeut-être GKI, 7716: B N Berlinl.
+          <lb/>737
+          <lb/>ACTA : (Idem). — [Strasbourg, J. Knobloch 1521), in-4°.
+          <lb/>Schmidt VII, 229 : Bibl, cantonale Zurich.
+          <lb/>738
+          <lb/>ACTA Academiae Lovaniensis (en allemand). Die handlung
+          <lb/>der Univerzithet Leven wider Doctor Martinus Luther. —
+          <lb/>(Strasbourg, Jean Knobloch 1520l.
+          <lb/>GKI, 7402: B N Vienne et B U Marbourg.
+          <lb/>739
+          <lb/>3
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

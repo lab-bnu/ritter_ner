@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:29.813214+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2119.tif
+IMAGE WIDTH: 2308
+IMAGE HEIGHT: 3830
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>115
+          <lb/>BESSARION, De ea parte Evangelii, Si eum volo manere...
+          <lb/>Voir: SALONIUS, Ad Veranium fratrem Dialogi duo.
+          <lb/>Haguenau, J. Secer, 1532.
+          <lb/>BETTBÚCHLEIN Biblisch, 1531. Voir: BRUNFELS Otto.
+          <lb/>BETULEIUS Xystus. Voir: BIRCK Sixte.
+          <lb/>BEUTHER Michael, Commentariorum de rebus in Europa gestis.
+          <lb/>Voir: SLEIDANUS, Commentariorum de statu religionis.
+          <lb/>Strasbourg, Th. Rihel, 1568.
+          <lb/>BEUTHER Michael, Der ander Theyl! Ordenlicher! Beschrei¬
+          <lb/>bunge vnnd Verzeychnisse, allerley Namhaffter Sa-chen,
+          <lb/>so sich bei Regierung Keyser Carls des Fünfften... zuge¬
+          <lb/>tragen. Voir: SLEIDANUS Joh.: Der Erste TheylOrden¬
+          <lb/>licher Beschreibunge. Strasbourg, Th. Rihel, 1574-1579.
+          <lb/>BEUTHER Michael. Voir: OBRECHT Georgius, Disputatio de
+          <lb/>patrocinio pupillorum.
+          <lb/>et R10.564.
+          <lb/>Strasbourg, A. Bertram. R 10.580
+          <lb/>BEUTHER Michael
+          <lb/>Strasbourg, B. Jobin, 1593.
+          <lb/>MICHAELIS BEVTHERI IVRISCON- SVLTI ATQVE HISTO¬
+          <lb/>RICI CLARISSIMI ANIMADVERSIONVM SIVE DISCEPTATIONVM
+          <lb/>tàm Historicarum quàm Chro-nographicarum.
+          <lb/>LIBER SINGVLARIS. NVNC PRIMVM STVDIO ET! Opera
+          <lb/>JOH. MICH. BEVTHERI F. I. V. D. post Parentis auctoris
+          <lb/>obitum in lucem editus; ac eius- dem additionibus &amp;amp; de¬
+          <lb/>clarationibus conve- nientissimis illustratus et auctus.
+          <lb/>Cum Indice Rerum ac verborum copiosissimo.
+          <lb/>Marque typographique de Bernard Jobin. (Hat B Planche XXXVII,
+          <lb/>No 5.) Argentinae excudebat Bernardus Iobinus Anno 1593.
+          <lb/>In-8°, car, rom. et ital., 359 pages ch., 53 pages non ch. (Index)
+          <lb/>dont le verso du dernier blane, titre courant, réclames, notes marginales,
+          <lb/>initiales ornées, vignettes.
+          <lb/>Fol. 2a: IÓHANNI à Löben, Domino in Bollensdorf...
+          <lb/>Mecaenati suo colendo... — Argentinae, XI. Cal. April.
+          <lb/>Anno... M. D. XCIII. Ioh. Michaël Beutherus. (Préface de
+          <lb/>8 pages.) Suivent des vers à la mémoire de Beuther par Ioh. Prederus,
+          <lb/>Ioh. Caselius, etc.
+          <lb/>RIOI.061. Prov.: Friedrichs-Gymnasium, Francfort s. M., 1 4/XII
+          <lb/>1888; sans indication de prix.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

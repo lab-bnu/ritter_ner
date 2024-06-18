@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:49.822238+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078253.tif
+IMAGE WIDTH: 2306
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>es vertreibt auch den bruch/ so eins den trank yn nimt
+          <lb/>wie hie nach stot. Und ist an etlichen man und frowen
+          <lb/>versûcht und bewert.
+          <lb/>Au-dessous, grav. partagée au milieu par une colonne: 1) à droite
+          <lb/>un pharmacien, placé derrière une table et pesant une portion de bois
+          <lb/>de gayac; devant la table un acheteur, prenant de l’argent dans sa
+          <lb/>bourse. 2) à gauche, une femme dans une baignoire, sur laquelle est
+          <lb/>posée une planche avec des victuailles; une servante verse de l’eau dans
+          <lb/>la baignoire. Cette partie est reproduite f. 7 en haut.
+          <lb/>In-40, car. goth., 8 ff. non ch., sign. a-b.
+          <lb/>F. A 2a, préface: Heyl und gsundheit sey allen reichen und
+          <lb/>armen krancken in Christo...
+          <lb/>F. A 3a: Was gebresten mit disem holtz zu wenden
+          <lb/>sein.
+          <lb/>bad/ mit privi legien ausz gna! den K. M.inhalt des
+          <lb/>briefs darüber in eim jar nit nach zû trucken! Volen¬
+          <lb/>det zu Straszburg vonn lohann, Grüninger Als man
+          <lb/>zalt. M. D xxix uff sanct Adolffs abent.
+          <lb/>R102.005. Prov.: Bibl. Bœcking. Notes mss. En haut de la fère
+          <lb/>feuille blanche à l&amp;#x27;encre: Geschenk Hirzels.
+          <lb/>Si on compare l’exemplaire que Schmidt décrit I n° 242 de son
+          <lb/>Répertoire bibliographique, la date de l’impression est tout à fait la
+          <lb/>même, ainsi que le nombre des ff. Mais il y a quelques variations dans
+          <lb/>la préface de Théophraste au verso du titre, dont parle Schmidt, manque.
+          <lb/>Il s’agit donc de 2 éditions différentes de l’année 1529. L’exemplaire
+          <lb/>de la BN est un peu endommagé par le relieur, au bord du Ier f., quet¬
+          <lb/>ques lettres ont été découpées. Schmidt ne connaît que l’exemplaire de
+          <lb/>Wolfenbuttel et ne mentionne pas celui de la BN. Moog, Theophr. Para¬
+          <lb/>celsus, Wurzbourg 1876, in-4°, p. 22 ne connaît pas cette édition.
+          <lb/>Bibliographie de Th. Paracelsus, voir : Schottenloher I n° 16839—
+          <lb/>16981.
+          <lb/>1767
+          <lb/>1139
+          <lb/>PARACELSUS Theophrastus
+          <lb/>Mulhouse, P. Schmid 1562
+          <lb/>Baderbüchlin. Sechs köstliche Tra- ctat, armen und
+          <lb/>reychen, nutzlich und notwendig, von wasserbädern.
+          <lb/>Woher die selbige warm, und andere wasser kalt, unnd
+          <lb/>ausz was ursach sy sollicher gewaltiger kräfften, das ihr
+          <lb/>ur- sprung mit wachsender arth ausz der erdtglobel,
+          <lb/>gleich! wie die kreuter unnd böwme von ihrem samen,
+          <lb/>mit! schönem bericht, wie mennigklich ihrs brauchs sich
+          <lb/>be! helfen mag. Welchen kreuteren besunderbare bäder
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:37.860069+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu094.tif
+IMAGE WIDTH: 2390
+IMAGE HEIGHT: 3844
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>«Jo. Alberti Fabricii.» En haut: «Venetiis 1489, Metis 1511,
+          <lb/>à côté du titre: Anno 1466.» Rel. anc.
+          <lb/>296
+          <lb/>MARCHESINUS JOHANNES: Mammotrectus super Bibliam.
+          <lb/>(Strasbourg, impr. du H. Ariminensis, avant 1480),
+          <lb/>in-fol.
+          <lb/>Hain 10552, Madsen 2650, Pellechet: Colmar 943, Proctor 320.
+          <lb/>Voulliéme: Berlin 2173; Walter: Sélestat 318.
+          <lb/>K 2508a. Prov.: F. Butsch, Augsbourg, 16. X. 1885, 36 M. Au
+          <lb/>haut du 1er f.; Ex Bibliotheca Monasterij Montis Sancti
+          <lb/>Andechs. A l’intérieur du 1er plat, exlibris d’un évêque.
+          <lb/>Rel. anc.
+          <lb/>297
+          <lb/>MARCHESINUS JOHANNES: Mammotrectus super Bibliam.
+          <lb/>Strasbourg, (Mart. Flach), 1487, in-4°.
+          <lb/>Hain 10566, Madsen 2644, Proctor 674. Voulliéme: Berlin 2476.
+          <lb/>K 2512. Prov.: Don de Fid. Butsch fils, Augsbourg, 1872.
+          <lb/>Rel. anc.
+          <lb/>298
+          <lb/>MARCHESINUS JOHANNES: Mammotrectus super Bibliam.
+          <lb/>Strasbourg (J. Grüninger), 1489, in-fol.
+          <lb/>Hain 10568, Proctor 454, Voulliéme; Berlin 2277, 5; Walter:
+          <lb/>Sélestat 319.
+          <lb/>K 2514. Prov.: Baer 8 Co., Francfort-s.-M., 19. VI. 1879, 18 M.
+          <lb/>Rel. anc.
+          <lb/>299
+          <lb/>MARCHESINUS JOHANNES: Mammotrectus super Bibliam.
+          <lb/>Strasbourg (Mart. Flach), 1494, in-4°.
+          <lb/>Hain 10573, Proctor 700, Voulliéme: Berlin 2498.
+          <lb/>K 2516. Prov.: Baer 8 Co., Francforts.-M., 23. V. 1879, 15 M.
+          <lb/>A l’intérieur du 1er plat: F. A. Lange, Bonn 1858. Rel, anc.
+          <lb/>300
+          <lb/>MARiAlE. De laudibus Mariae. Voir; Albertus Magnus,
+          <lb/>Mariale.
+          <lb/>MARSILIUS ab Inghen: Quaestiones super quatuor libros
+          <lb/>sententiarum. (Strasbourg, Mart. Flach, s. d.], in-fol.
+          <lb/>K 2523. Prov.: Don du prince de Bentheim, 1874, provenant
+          <lb/>du couvent de Frenswegen. Rel. anc.
+          <lb/>Voir: Thomas de Argentina, Scripta super quatuor libros
+          <lb/>sententiarum K. 3561. N° 454.
+          <lb/>301
+          <lb/>64
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:10.408298+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002340.tif
+IMAGE WIDTH: 2510
+IMAGE HEIGHT: 3956
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Horning, n° 46, Kuczynski 1552; Schmidt II, Suppl. p. 12,
+          <lb/>n° 11 : Bibl. Scott, Oxford; Dommer, n° 402.
+          <lb/>2537
+          <lb/>LUTHER (14 Predigten) : Fyertzehen schoener christlicher
+          <lb/>predig... — [Strasbourg, Jean Schott 1523), in-4°.
+          <lb/>Dommer, no 403; Horning, n° 37; Kuczynski 1481;
+          <lb/>Hiersemann (Leipzig) Catal, 666, n° 884: 18 M. 2538
+          <lb/>LUTHER (27 Predigten): XXVII. Predig D. Martin Luthers
+          <lb/>newlich uszgangen Anno XXIII. Durchsichtiget
+          <lb/>und in ordnung gestellt der bessten form. Sampt eim
+          <lb/>Register. Kerumb. — (Strasbourg, Jean Schott
+          <lb/>1523), in-4°.
+          <lb/>Ritter: B M Strasbourg, n° 1426; Schmidt II, n° 77: B M
+          <lb/>Strasbourg et Bibl. S. Guillaume; Horning, n° 48 [éd. J. Schott
+          <lb/>1524 : Ritter, Rép. n° 1424).
+          <lb/>2539
+          <lb/>LUTHER (Wider falsche Propheten) : Wider die hymelischen
+          <lb/>propheten von den bildern und Sacrament. Martinus
+          <lb/>Luth. M.D.XXV. — (Strasbourg, Wolfgang Köpfel
+          <lb/>18.II. 1525), in-40.
+          <lb/>Ritter, B M Strasbourg, n° 1427a., Bibl. St. Guillaume,
+          <lb/>Strasbourg; Hiersemann (Leipzig), Catal, 666, n° 885: 30 M.
+          <lb/>2540
+          <lb/>LUTHER (Die Propheten) : Die Propheten alle Teutsch.
+          <lb/>D. Mart. Luth. — (Strasbourg, Jean Albrecht 22 mars
+          <lb/>1533).
+          <lb/>(Offert à la Bibliothèque par un antiquaire, je ne me souviens
+          <lb/>plus de son nom, peu après la guerre, avec la remarque « Das
+          <lb/>(einzige?) Exemplar in München verbrannt »).
+          <lb/>2541
+          <lb/>LUTHER (127 Psalm) : Der hundert unnd syben und zwentzigst
+          <lb/>Psalm. — [Strasbourg, Jean Prüss (?) 1524), in-4°.
+          <lb/>Baer, Francfort-s.-M., Catal, 500 (1907) n° 1044 : 25 M.;
+          <lb/>Weller 3008.
+          <lb/>2542
+          <lb/>LUTHER (Psalmi) : Enarratio psalmorum LI, miserere mei
+          <lb/>338
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

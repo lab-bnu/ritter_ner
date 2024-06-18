@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:55.177781+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5167.tif
+IMAGE WIDTH: 2344
+IMAGE HEIGHT: 3852
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1475
+          <lb/>Getruckt zu Strassburg by M. Jacob. Cammerlander.
+          <lb/>(Verso blanc.)
+          <lb/>In-4°, car. goth., 4 ff. non ch. (Préface et Registre), 35 ff. ch.— 1 f.
+          <lb/>non ch., recto blanc, au verso marque typ. de Cammerlander. (H. &amp;amp; B.,
+          <lb/>Planche XXIV, No 1, Silvestre, No 186), titre courant, réclames.
+          <lb/>R. 101.168. Prov. : Rosenthal, Munich, 4/VI, 1895; 40 M. 2355
+          <lb/>TRAUME Danielis. Voir: DANIEL.
+          <lb/>TREGER Conradus
+          <lb/>Strasbourg, J. Grüninger, 1524
+          <lb/>Ad Reuerendum In Christo P. Et Illustrem principem
+          <lb/>Fabianum de mon-te Falcone Lausanensem Episcopum
+          <lb/>paradoxa Centum fratris Conradi! Tregarij Heluecij Augus¬
+          <lb/>tiniani familie per superiorem Germaniam prouincialis
+          <lb/>de ecclesiae Conci- liorumque aucto ritate. (Feuille de
+          <lb/>lierre.) Verso blanc.
+          <lb/>A la fin : Impressum Argentine per Iohannem Grieninger
+          <lb/>in die Sancti Gregorij. Anno dominiMillesimo Quingentesimo
+          <lb/>vicesimo quarto. (Verso blanc.)
+          <lb/>In-4°, car. goth., 10 ff. non ch., sign. A-C (B n’a que 2 ff.), notes marg.,
+          <lb/>init. ornée O, titre encadré par 4 lignes doubles qui se coupent en angle
+          <lb/>droit.
+          <lb/>fol. A 2a : ... Praesuli Lausanensi Domino Fabiano !! de monte Falcone
+          <lb/>Frater Conradus Tre- garius Augustinianus... — Argen!! toraci.
+          <lb/>v. Nonas Martij. 11 Anno domini, 1524.
+          <lb/>R. 101.939. Prov. : Theod. Ackermann, Munich, 27/IV, 1883, 2 M.
+          <lb/>Annotation au crayon au bas du titre : «2er Druck verschieden von
+          <lb/>diesem».
+          <lb/>2e ex. R. 101.940. Prov. : BN Munich, 28/x1I, 1883. Au bas du titre:
+          <lb/>«2er Druck verschieden von diesem».
+          <lb/>Schmidt I, N° 211 : Bibl. St. Guillaume de Strasbourg.
+          <lb/>Bibliographie Treger. Voir : Schottenloher II, Nos 21.385-21.390a.
+          <lb/>2356
+          <lb/>TREUBEL Eckhart zum
+          <lb/>Strasbourg, R. Beck, vers 1522
+          <lb/>Ain dümietige ermanung an ain gantze gemayne
+          <lb/>Christenheit, von Eckhartzum Drübel. &amp;amp;c. (Feuille de
+          <lb/>lierre.).
+          <lb/>Da gloriam deo.Man sol in der kirchen nit mit gelt
+          <lb/>umbgon. (Verso blanc.)
+          <lb/>A la fin : Auszgangen zu Straszburg.
+          <lb/>In-4°, car, goth., 4 ff. non ch., dont le dernier blanc, sign. A, init.
+          <lb/>goth. I, encadrement du titre de Reinhard Beck qui imprimait de 1511¬
+          <lb/>1522 (H. &amp;amp; B, Planche XIV, n° 1).
+          <lb/>fol. A 2b : Ich Eckart zum drybel bin Il gar nichtt Lauther noch drieb,
+          <lb/>byn aber !] ain Christ vnnd lay... Ich Eckart selbspersonnlych !] erkundet
+          <lb/>vnd durch wanderet vyl zum thayl. Alls! Dürkey, Wallachey, Reüssen,
+          <lb/>Podol. &amp;amp;c. Unnd ander I! meer...
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

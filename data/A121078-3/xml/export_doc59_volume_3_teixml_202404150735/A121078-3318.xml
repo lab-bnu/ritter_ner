@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:11.195549+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3318.tif
+IMAGE WIDTH: 2362
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>760
+          <lb/>TORVM REGI... Hafniae Calendis Ianuarii Anno 1571.! Ni¬
+          <lb/>colaus! Hemmingius. (Vorrede, 12 S.)
+          <lb/>Bl. A:... DOMINO HERMALAO TROL-] LE EQVITI AVRATO
+          <lb/>AC SENATORI REGNI DANIAE... NICOLAVS HEMMINGIVS. (Epi¬
+          <lb/>stola Dedicatoria)... — Hafnia. Anno Domini M. D. LXII.
+          <lb/>Mense Decemb.
+          <lb/>R 49. Geschenk der Hamburger Stadtbibl. 1871.
+          <lb/>Oxford, Bibl. Bodleiana.
+          <lb/>8184.
+          <lb/>Bibliographie von Hemmingsen. Siehe : Schottenloher I Nr. 8182-
+          <lb/>1124
+          <lb/>HENRI DE HERP. Siche: HERPF Henricus
+          <lb/>HENRI DE HESSE. Siche: HENRICUS DE HASSIA
+          <lb/>HENRICHMANN Jakob
+          <lb/>Hagenau, [Th. Anshelm] o. J.
+          <lb/>INSTITVTIO NES GRAMMATICAE IACOBI HENRICHMANNI
+          <lb/>SIN! DELFINGENSIS.) Exhortatio eiusdem ad pueros ut elo¬
+          <lb/>quentiae! studeant. Ars condendorum carminum Henrici
+          <lb/>Be belii poetae laureati cum additionibus multis per
+          <lb/>authorem ipsum emendata diligenter. Racemotiones
+          <lb/>&amp;amp; obseruationes eiusdem.! Centimetrum Seruii Honorati
+          <lb/>Grammatici. Introductio perbreuis in Literas Graecas,
+          <lb/>quae! in aliorum Impressionibus est neglecta.
+          <lb/>Haganoe.
+          <lb/>40. Antiq., 77 unn. Bll. für die Grammatik u. 45 unn. Bll, für
+          <lb/>den Rest, Kopft., Titelumrahmung von Thomas Anshelm (HEB Tafel
+          <lb/>LXI Nr. 1).
+          <lb/>Auf der Rücks, des Titelbl.: Ioannes Hiltebrant Lectori.
+          <lb/>Darunter 3 Dist, von Bebel u. 6 von Seb. Kefer. Folgt die Vorrede
+          <lb/>Henrichmanns an Bebel, datiert aus Tübingen X. Ral. April. Anno
+          <lb/>M.D.VI.
+          <lb/>Auf die Grammatik folgt ein neuer Titel: Ars Versificandi
+          <lb/>carminum condendorum cum quantitatibus syllabarum
+          <lb/>Henrici Bebelii Iustingensis poetae Laureati.
+          <lb/>Haec omnia denuo emendata sunt diligentissime per
+          <lb/>au! torem ipsum cum additione nouissima plus quam
+          <lb/>ducentarum dictionum maxime graeca rum, quae in usu
+          <lb/>sunt apud latinos poetas. Ex Tubinga pridie ka! lendas
+          <lb/>Iulias. Anno! M. D. XII.! Hexastichon Ioannis Hyphantici
+          <lb/>Vuissenhorensis... (3 Dist.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

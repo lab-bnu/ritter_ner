@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:50.774762+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078282.tif
+IMAGE WIDTH: 2308
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1168
+          <lb/>PELBARTUS DE THEMESWAR
+          <lb/>Haguenau, H. Gran 1502
+          <lb/>Stellarium Corone benedicte! virginis Marie in laudem
+          <lb/>eius pro singulis predicationibus ele gantissime coapta¬
+          <lb/>tum. (Verso blanc.)
+          <lb/>A la fin, avant la table alphabétique: Opus perutile... im¬
+          <lb/>pensis sum- ptibusque providi viri Johannis Rynman de
+          <lb/>Oringaw in imperiali oppido Hagenaw: per industrium
+          <lb/>Henricum Gran inibi incolam di-ligentissime impressum
+          <lb/>ac emendatum Finit fe-liciter Anno salutis nostre Mille¬
+          <lb/>simo quin- gentesimo secundo, viii, kl. Maiï, (Verso blanc.)
+          <lb/>In-fol., car. goth., 2 col., 168 ff. non ch., (sign. a–y, titre courant,
+          <lb/>init, d’attente. Fol. a 2a: Prologus in Stellarium... Après l’explicit:
+          <lb/>Table alphabétique (7 ff.).
+          <lb/>R10.352. Prov, inconnue. Notes mss., en haut du tître: FF Aug.
+          <lb/>Maioris iuxta Brig.
+          <lb/>gème ex. K 3735 (2). Prov. inconnue.
+          <lb/>RM Strasbourg.
+          <lb/>1820
+          <lb/>Haguenau, H. Gran 1504
+          <lb/>PELBARTUS DE THEMESWAR
+          <lb/>Aureum Rosarium Theologiae! ad Sententiarum quat¬
+          <lb/>tuor libros pariformiter Quadripertitum. Ex doctrina
+          <lb/>Doctoris Subtilis; suorumque sequacium; San ctorum
+          <lb/>etiam Thomae Aquinatis Bonaventuraeque ac multo- rum
+          <lb/>solidorum Doctorum per Religiosum devotumque patrem:
+          <lb/>fratremPelbartum de Themeswar Ordinis Minorum de
+          <lb/>obser- vantia: medullitus adipem exugentem accuratissime
+          <lb/>al phabetico Compilatum ordine. Qui et Pomerium Ser¬
+          <lb/>monum salutiferorum nune temporis! ubilibet cantatissi¬
+          <lb/>mum suis lucubrationibus in medium! Christianitati ob¬
+          <lb/>tulit. (Verso blanc.)
+          <lb/>A la fin : ... impensis circumspecti viri archibibliopole
+          <lb/>Joan nis Rynman de Oringaw in officina industrii Hen¬
+          <lb/>rici Gran Civis in Opido imperiali Ha- genaw impressus
+          <lb/>Anno virginei partus. M. d. iiii. pridie idus Maii Finit
+          <lb/>feliciter.
+          <lb/>A la fin du 1er livre: Explicit primus li- ber... Anno salutis Mil¬
+          <lb/>lesi mo quingentesimo. Die. xxiiii. Decembris. Ex of-] ficina autem in¬
+          <lb/>dustrii Henrici Gran Hagenawensis Civis Expensis circumspecti honesti¬
+          <lb/>que bibliopole Joannis Rynman de Oringaw in medium im-! pressus
+          <lb/>offertur feliciter Anno virginei partus! Millesimo quingentesimo tertio
+          <lb/>sexto idus Septembris.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

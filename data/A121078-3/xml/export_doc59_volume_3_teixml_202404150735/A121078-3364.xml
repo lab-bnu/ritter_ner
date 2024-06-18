@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:12.390067+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3364.tif
+IMAGE WIDTH: 2388
+IMAGE HEIGHT: 3856
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>806
+          <lb/>denique libri.Quinti Horatij Flacci vita, per Petrum
+          <lb/>Crinitum Florentinum. T. O.
+          <lb/>Am Schluss: Argentorati. Ex Aedibus Schurerij, Mense
+          <lb/>Ianuario.! Anno M. D. XV.
+          <lb/>4°, Antiq., 56 unn. Bll., Sign. A-I, Kopft., Init.
+          <lb/>Auf der Rücks. des Titelbl.: Q. HORATH FLACCI VITA! per
+          <lb/>Petrum Crinitum florentinum edita, (3 S.)
+          <lb/>*R101721. Prov.: L. Rosenthal, München 12. 1X. 1888, 10M.
+          <lb/>Zahlreiche handschr. Notizen u. Anm, im Text. Da das letste Bl. mit
+          <lb/>dem Explicit fehlt, und da Schmidt VIII Nr. 202 eine neue Ausgabe
+          <lb/>von 1516 mit gleichem Titel erwähnt, könnte es sich auch um diese
+          <lb/>handeln.
+          <lb/>Schmidt VIII Nr. 151: Stadtbibl. Zürich.
+          <lb/>Brunet III5, 313: Math. Schurer avait déjà publié : Q. Horatii
+          <lb/>Sermonum seu satyrarum libri duo,... M. D. XIV, in-4°. Il a donné plus
+          <lb/>tard : Q. Horatï odarum sive carminum libri IV.... M. D. XVI, in-4°.,Ces
+          <lb/>3 volumes réunis complètent une édition des œuvres d’Horace qui est
+          <lb/>fort rare et paraît avoir un certain mérite. La lère partie a été réim¬
+          <lb/>primée en 1516 et la 3e en 1517 et en 1520. L’éd. de 1517 a été vendue
+          <lb/>1 liv. 2 sh. mar. Heber.&amp;quot;
+          <lb/>1201
+          <lb/>HORATIUS
+          <lb/>Strassburg, J. Knobloch 1520
+          <lb/>HORATI FLACCI LIBER Epistolarum. EIVSDEM, de
+          <lb/>arte poetica. (Rücks. leer.)
+          <lb/>Am Schluss: ARGENTINAE IMPENSIS SOLERTORVM VIRO¬
+          <lb/>RVM IOANNIS KNOB! LOVCHII, ET PAV] LI GETZ MEN! SE SEP¬
+          <lb/>TEMBRI, 1 M. D. XX. (Rücks, leer.)
+          <lb/>80, Kursiv, 43 unn. Bll., Sign. a-f, Kopft., Kust., Init.
+          <lb/>R 101722. Herkunft unbekannt. Handschr. Notizen.
+          <lb/>Schmidt VII Nr. 199; Bibl. P. Heitz, Strassburg.
+          <lb/>1202
+          <lb/>HORN des heyls menschlicher blödigkeit. Siche: PEGIUS Mar¬
+          <lb/>tinus, früher Bartholomäus CARRICHTER zugeschrieben.
+          <lb/>HORNMOLD Johannes Sebastianus Strassburg, A. Bertram 1599
+          <lb/>DISPVTATIO DE COMPENSA- TIONIBVS.IN Inclyta
+          <lb/>Argentoratensium Academia publici! exercitij causa pro¬
+          <lb/>posita à GEORGIO OBRECHTO IC. Respondente IOANNE
+          <lb/>SEBASTIANO HORNMOLD! Bütikeimense. (Vign.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

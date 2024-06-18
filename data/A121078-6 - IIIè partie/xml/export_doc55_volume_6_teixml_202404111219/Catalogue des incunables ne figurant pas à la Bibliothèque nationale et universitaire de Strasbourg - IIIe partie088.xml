@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:06.451731+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie088.tif
+IMAGE WIDTH: 2484
+IMAGE HEIGHT: 3930
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>PEREGRINUS FRATER : Sermones de tempore et de sanctis. —
+          <lb/>(Strasbourg, typis Reyserianis) s. d., in-fol.
+          <lb/>Hain 12580; Walter n° 362; Voulliéme : Berlin 2175, 5. 563
+          <lb/>PEREGRINUS Frater : Sermones de tempore et de sanctis. —
+          <lb/>(Strasbourg, Jean Prüss 1493), in-4°.
+          <lb/>Hain 12585, Polain 3043, Proctor 550, Voulliéme : Berlin
+          <lb/>2362, 7.
+          <lb/>564
+          <lb/>PEREGRINUS Frater : Sermones de tempore et de sanctis. —
+          <lb/>(Strasbourg, Jean Grüninger) 4. IX. 1495, in-4°.
+          <lb/>Hain 12586; Ritter, Grand Sém. n° 388; Polain 3044;
+          <lb/>Proctor 466 ; Voulliéme : Berlin 2289, 10.
+          <lb/>565
+          <lb/>PERGER, Bernardus. Voir : PEROTTI, Nicolao, n° 566.
+          <lb/>PEROTTI, Nicolao : Grammatica nova a Bernardo Pergero
+          <lb/>translata. — (Strasbourg, impr. des Casus breves s. d.],
+          <lb/>in-40
+          <lb/>Voulliéme : Berlin 2527.
+          <lb/>566
+          <lb/>PEROTTI, Nicolao : Grammatica nova, a Bernardo Pergero
+          <lb/>translata. — (Haguenau, Henri Gran s. d.), in-4°,
+          <lb/>Hain 12602; Proctor 3174.
+          <lb/>567
+          <lb/>PEROTTI, Nicolao. (Idem). — Strasbourg, (Martin Schott)
+          <lb/>1488, in-4°,
+          <lb/>Hain 12615; Proctor 400; Scott, (Schmidt II, Suppl.) n° 12. –
+          <lb/>Londres, Brit. Mus, et Oxford, Bibl. S. H. Scott.
+          <lb/>568
+          <lb/>PEROTTI, Nicolao (Idem). — [Strasbourg, Jean Grüninger)
+          <lb/>1486, in-4°.
+          <lb/>Hain 12613, Proctor 446.
+          <lb/>569
+          <lb/>PEROTTI, Nicolao (Idem). — (Haguenau, Henri Gran) 1496,
+          <lb/>in-40.
+          <lb/>Hain 12616, Proctor 3186.
+          <lb/>570
+          <lb/>86
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

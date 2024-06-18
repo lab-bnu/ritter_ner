@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:11.071459+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3309.tif
+IMAGE WIDTH: 2356
+IMAGE HEIGHT: 3858
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>2. Ex. R 10.5772. Prov.: Bibl. Ed. Reuse, Strassburg 1891. Mit
+          <lb/>Autograph u. Exlibris von Ed. Reuss. Uber dem Exlibris: Das buoch
+          <lb/>ist Veltin Brunner... 1574. Auf dem Titelbl. : Ex libris Iohan. Bextsthij
+          <lb/>Parochi Gunthoff 1553. Nunc Ioh. Frid. Lucae 1780 Am Schluss des Bu¬
+          <lb/>ches : An. 1636 hab ich Veltin Buob dieses Buoch vber kommen von mei¬
+          <lb/>nem lieben grossvatern selig ist es mir im loss gefallen. Anno 1636. —
+          <lb/>Sum ex libris Iohan. bextsthij, Gunthoff 1554. Alter Einband.
+          <lb/>IIi1
+          <lb/>HEGESIPPUS
+          <lb/>Strassburg, Balt. Beck 1537
+          <lb/>Fünff historische bü! cher Egesippi des Hochberûm
+          <lb/>pten vnd gar alten geschichtschreibers vnder den Christen.
+          <lb/>Von dem Jüdischen Krieg. Von der zerstörung Hie¬
+          <lb/>rusalem. Von grausammer straff der Juden die sich an
+          <lb/>Christo vnd Apostlen versündigt.... (15 Zeilen.)
+          <lb/>Durch Doctor Caspar Hedion verteutscht, Vnd Getruckt
+          <lb/>zu Straszburg bey Balthassar Beck Im jar M D XXXVij.
+          <lb/>(Auf der Rücks. : Index.)
+          <lb/>Am Schluss: Getruckt zû Straszburg durch Balthassar
+          <lb/>Beck. Vnd volendt am dreissigsten tag Januarij des Tau¬
+          <lb/>sent Fünffhun- dert zwey vnd dreissig- sten Jars. (Auf dem
+          <lb/>Titelbl. 1537.)
+          <lb/>40, Got., 14 unn., CXXXVI num. u. 1 unn. Bl. mit dem Datum
+          <lb/>1532; dieses Bl. rührt wahrscheinlich von der Erstausgabe vom Jahre
+          <lb/>1532 her; Kopft., Kust., Marg.
+          <lb/>Bl. 2a: ... Herrn Philipsen Landtgrauen zû Hessen...
+          <lb/>— Geben zu Straszburg den acht vnd zweintzigsten tag
+          <lb/>des Jenners im Jar... XXXij.
+          <lb/>R10.013. Prov.: Oscar Rauthe, Berlin 27. I1.1917; 16 M. 1112
+          <lb/>751
+          <lb/>HEGESIPPUS
+          <lb/>Strassburg, Th. Rihel 1574
+          <lb/>Egesippi! des hochberühmten Für- trefflichen Christ¬
+          <lb/>lichen Geschichtschrei- bers Fünff Bücher: Vom Jüdischen
+          <lb/>Krieg, vnd endlicher zerstörung der Heyligen vnd ge¬
+          <lb/>waltigen Statt Jerusalem.
+          <lb/>Jetz newlich ausz dem Latein auffs trewlichest ver¬
+          <lb/>teutschet, mit kurtzen Summarien aller vnd jeder Bü¬
+          <lb/>cher vnd Capitel, Auch ordenlicher Jarrechnung gezie-ret,
+          <lb/>vnnd mit Concordantzen beydes auff die Heylige! Bibel
+          <lb/>vnd vnsern newen Teutschen Jose- phum gerichtet.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

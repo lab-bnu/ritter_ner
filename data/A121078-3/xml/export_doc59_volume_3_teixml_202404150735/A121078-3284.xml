@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:10.545353+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3284.tif
+IMAGE WIDTH: 2350
+IMAGE HEIGHT: 3858
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>726
+          <lb/>Fehlt bei Schmidt.
+          <lb/>Begründer der Goldberger Particularschule. Ein Beitrag zur Schulge¬
+          <lb/>Vgl. Bauch, Gustav: Hieronymus Gürtler von Wildenberg, Der
+          <lb/>schichte des deutschen Ostens im XVI. Jahrh. In : Zeitschr, des Vereins
+          <lb/>für Gesch. u. Altertum Schlesiens. 29 (1895), S. 159-196.
+          <lb/>1067
+          <lb/>GWALTHER Rudolphus
+          <lb/>Strassburg, Chr. Mylius, 1562
+          <lb/>Nabal. Rodolphi Gualtheri, TIGVRINI COMOEDIA
+          <lb/>sacra, quae inscribitur Nabal, de- sumpta ex l. Samuelis
+          <lb/>XXV. Cap, nunc primum con- scripta, &amp;amp; aedita. (Vign.)
+          <lb/>IESUS.Ecce agnus ille Dei, qui tollit peccatum
+          <lb/>mundi. Ioan. 1.
+          <lb/>EXCVSVM ARGENTINAE apud Christianum Mylium.
+          <lb/>M. D. LXII.
+          <lb/>8°, Antiq., 52 unn. Bll., Sign. A-G, Kopft., Kust.
+          <lb/>Auf der Rücks. des Titelbl.:... Florino Susliga Rolicz a
+          <lb/>Vuars hauia C. V. Polono, RoD. GVAL-THERVS Tigurinus.
+          <lb/>R 100.125. Prov.: Bibl. Heite, Strassburg 1871.
+          <lb/>GE unter Walter Rudolf: SB Berlin, ohne Angabe des Druckers.
+          <lb/>Walter: Schlettstadt Nr. 1451.
+          <lb/>Bibliographie Gualthers: Schottenloher I Nr. 7755-7763. 1068
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

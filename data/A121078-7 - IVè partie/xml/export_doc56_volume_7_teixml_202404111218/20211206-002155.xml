@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:05.495211+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002155.tif
+IMAGE WIDTH: 2498
+IMAGE HEIGHT: 3956
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>ERASMUS (Apologia): Apologia ad eximium virum Jacobum
+          <lb/>Fabrum Stapulensem... Ab authore denuo recognitum.—
+          <lb/>(Strasbourg, Mathias Schürer 1517), in-4°.
+          <lb/>Schmidt VIII, no 224 ; Ritter, Rép, n° 726.
+          <lb/>1561
+          <lb/>ERASMUS (Bellum) : Bellum... — (Strasbourg, Jean Knobloch,
+          <lb/>novembre 1523), in-80.
+          <lb/>Van der Haeghen I, p. 436; Schmidt VII, n° 266: BN
+          <lb/>Strasbourg (introuvable). [Éd. Prüss 1520 : Ritter, Rép.
+          <lb/>n° 742l.
+          <lb/>1562
+          <lb/>ERASMUS (Collectanea Adagiorum) : Collectanea Adagiorum.
+          <lb/>— (Strasbourg, Mathias Schürer juillet 1510), in-4°,
+          <lb/>Panzer 6, 50, 199; Schmidt VIII, n° 40 : Bibl. S. Guillaume,
+          <lb/>Strasbourg; Van der Haeghen, Bibliotheca Erasmiana (Gand
+          <lb/>1897), vol. 1 p. 25, Rest, Erasmus p. 45 : B U Fribourg-en-Br.
+          <lb/>[éd. Schürer juillet 1509, juin 1512, octobre 1513, avril 1515,
+          <lb/>mai 1516, sept. 1517, janvier 1518, mars 1519, Th. Anshelm,
+          <lb/>octobre 1519: Ritter, Rép. nos 705, 707, 710, 718, 720, 727,
+          <lb/>729, 734/5l.
+          <lb/>1563
+          <lb/>ERASMUS : (Idem). — (Strasbourg, Mathias Schürer 1511),
+          <lb/>in-4°,
+          <lb/>Panzer 6, 54, 236; Schmidt VIII, no 66 : Cassel. Van der
+          <lb/>Haeghen: Bibl. Erasmiana I, 1; Rest : Erasmus p. 46: BU
+          <lb/>Fribourg-en-Br.
+          <lb/>1564
+          <lb/>ERASMUS : (Idem). — Strasbourg, Mathias Schürer, septembre
+          <lb/>1520, in-40.
+          <lb/>Panzer 6, 94, 576; Schmidt VIII, n° 260. Olim bibl. Arg.
+          <lb/>1745; Van der Haeghen; Rest p. 46 : Fribourg-en-Br. 1565
+          <lb/>ERASMUS : (Idem). — (Strasbourg), Mathias Schürer, juin
+          <lb/>1521, in-80.
+          <lb/>Van der Haeghen I, p. 52; Rest: B U Fribourg-en-Br. 1566
+          <lb/>ERASMUS: (Idem). — (Sélestat, Lazare Schürer, septembre
+          <lb/>1521), in-80.
+          <lb/>Van der Haeghen I, p. 54: BN Munich, Vienne.
+          <lb/>1567
+          <lb/>153
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

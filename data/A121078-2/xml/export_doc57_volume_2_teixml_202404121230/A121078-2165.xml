@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:31.511800+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2165.tif
+IMAGE WIDTH: 2296
+IMAGE HEIGHT: 3826
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>BRASSICANUS Iohannes
+          <lb/>Strasbourg, J. Prüss fis, 1513.
+          <lb/>Grammatice Institutiones! IOANNIS BRASSICANI TVBIN¬
+          <lb/>GEN- SIS PAEDOTRIBAE CVM QVAN ] TITATIBVS BEBELIANIS
+          <lb/>EXAMVSSIM ABSO ( LVTISSIMIS. LIBER DE SE. (2 distiques.)
+          <lb/>IN OSORES. (distique)
+          <lb/>VDALRICI RVSTICI CONCIONATORIS! Nürtingen. Distichon.
+          <lb/>A la fin: Argentoraci ex officina literaria Ioannis Prüs
+          <lb/>iunioris Anno uirginei partus Sesqui! millesimo Tredecimo.
+          <lb/>In-40, car, rom., 10 ff. non ch. (titre, préf. et table), CXXII ff.
+          <lb/>ch., titre courant, initiales ornées G, V. P. A.
+          <lb/>fol. 2a-4a non ch.: Ad magnificvm et generosvm comi! tem
+          <lb/>Ioannem de Salm. Ioannis Brassi! cani epistola... — Datae
+          <lb/>XVI. Kalendas Martias.
+          <lb/>R 101.571. Prov.: Rosenthal, Munich, 1/V. 1885; 12 M. Annota¬
+          <lb/>tions mss. à la marge des pages.
+          <lb/>Cette édition manque ches Schmidt.
+          <lb/>Proctor II, Sectio I, No 10320: Londres, British Museum; GPB:
+          <lb/>Berlin.
+          <lb/>253
+          <lb/>161
+          <lb/>BRASSICANUS Johannes
+          <lb/>Strasbourg, R. Beck, 1518.
+          <lb/>Grammaticae Institutiones... etc. (Voir le titre complet
+          <lb/>à la page suivante, fac-similé).
+          <lb/>A la fin: Impressum Argentinae in aedibus Renati
+          <lb/>Beck. Coloniensis. Men! se lanuarij. Anno. M. D. XVIII.
+          <lb/>(Verso blanc.)
+          <lb/>In-40, car, rom., 116 ff. non ch., sign. a-x, titre courant, initiales
+          <lb/>ornées et init. d’attente, titre rouge et noir, encadré d’ornements et
+          <lb/>de sujets de fantaisie, caractérisé principalement par une femme nue
+          <lb/>poursuivie par un homme barbu, au bas de la bordure latérale de
+          <lb/>gauche.
+          <lb/>Au verso du titre: Ad... comitem Ioannem de Salm.
+          <lb/>Ioannis Brassicani epistola... — Da-tae. XVi. kalendas
+          <lb/>Martias. (3 pp.)
+          <lb/>fol. 3a: Ioannis Brassicani ad externarum natio-] num
+          <lb/>eruditissimos epistola.... — Ex Argenti na kalendis
+          <lb/>lanuarijs. (2 pp.)
+          <lb/>fol. 4a: Ioannis Brassicani ad librum Phaletium.
+          <lb/>(22 vers.) Suivent quelques distiques de différents auteurs.
+          <lb/>R.11
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

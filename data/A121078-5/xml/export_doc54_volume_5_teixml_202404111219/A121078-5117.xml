@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:53.279508+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5117.tif
+IMAGE WIDTH: 2336
+IMAGE HEIGHT: 3856
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>TACUINUS aegritudinum. Voir BUHAHYLYNA Byngezla.
+          <lb/>TACUINUS Sanitatis. Voir : ELIMITHAR Elluchasem.
+          <lb/>TAFFINGER Joh. Jacobus, Disputatio quinta. De probatione
+          <lb/>negationis. Voir: OBRECHT Georgius, Selectissimae dispu¬
+          <lb/>tationes ex juris civilis materiis. Strasbourg, A. Bertram, 1599,
+          <lb/>n° 1658.
+          <lb/>TAG (Vom) zu Hagenaw, vnd wer verhindert hab, das kein
+          <lb/>gesprech von vergleichung der Religion daselbst fürgangen
+          <lb/>ist. Voir: BUTZER.
+          <lb/>Strasbourg, 1540. Nr. 374 et 375.
+          <lb/>2265
+          <lb/>TANCRETUS
+          <lb/>Strasbourg, Cr. Mulius, 1545
+          <lb/>Vetustis simi luris Consulti!! Tancreti ordinis Iudiciarij
+          <lb/>Trac-tatus, hucusque neque in Germania, neque alibi
+          <lb/>uisus,! ex quo non modo singularem eruditionem, sed et!
+          <lb/>iudicium quoque ad uniuersa ferè ueterum Practi-corum
+          <lb/>scripta non aspernandum, studio-sus Lector consequi po¬!
+          <lb/>test.
+          <lb/>Marque typ. de Crato Mylius (H. &amp;amp; B. Planche XXVII,
+          <lb/>n° 5; Silvestre, n° 1264).
+          <lb/>Cum Gratia &amp;amp; Priuilegio Imp. M. D. XLV. (Verso blanc.)
+          <lb/>A la fin : Argentorati apud Cratonem Mylium, An.
+          <lb/>M. D. XLV. Men-se Martio. Suivent 6 ff. blancs, au verso
+          <lb/>du 3e f. marque typ. de Crato Mylius (H. &amp;amp; B. Planche XXVIII,
+          <lb/>n° 11; Silvestre, n° 1266).
+          <lb/>In-8°, car. ital., 482 pp. ch., 10 ff. non ch., dont les derniers blancs,
+          <lb/>titre courant, réclames, notes marg. init. à fig. T, A, J, E, Q.
+          <lb/>fol. A 22 :... Domino Wolf- 11 gango ab Affenstain... Lucas Schroteisen
+          <lb/>utriusque Ju!! ris Licentiatus... — Argentorati pridie Calendarum Nouem¬
+          <lb/>R. 90
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

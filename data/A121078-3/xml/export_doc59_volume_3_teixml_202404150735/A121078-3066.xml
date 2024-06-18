@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:05.762306+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3066.tif
+IMAGE WIDTH: 2324
+IMAGE HEIGHT: 3838
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>510
+          <lb/>ERASMUS: Paraphrases in epist. Pauli germanas
+          <lb/>Strassburg, J. Knobloch, 1523
+          <lb/>(Epheublatt.) PARA] PHRASES ERAS. ROT. ! in omnes epi¬
+          <lb/>stolas Pauli Apostoli ger- manas &amp;amp; in eam quae est ad
+          <lb/>Hebraeos!incerti autoris, cum ijs quae Canoni-cae
+          <lb/>uocantur, diligenter recogni-tae excusaeque &amp;amp; ita binos
+          <lb/>in tomos digestae, ut cuique secare in formam En¬
+          <lb/>chiridij, si uelit, liberum sit.
+          <lb/>ARGENTORATI AN. M. D. XXIII.
+          <lb/>Am Schluss: ARGENTORATI APVD IOANNEM KNOBLOCHIVM,
+          <lb/>MENSE MAR TIO. AN] NO M. D. XXIII.
+          <lb/>80. Kursiv, 271 num. u. 1 unn. Bl. mit Druckermarké Knoblochs
+          <lb/>auf der Rückseite. (H a B Tafel IX, Nr. 2). Kopftitel, Kustoden,
+          <lb/>Marginalien, Init., Titeleinfassung (H e B Tafel X, Nr. 7).
+          <lb/>Auf der Rückseite des Titelbl.: CONTENTA IN HOC! VOLU¬
+          <lb/>MINE...
+          <lb/>Bl. 2a: ... Cardinali Grimano Veneto titulo san- cti
+          <lb/>Marci, Eras. Rot. S. D.... — Louanij. Anno M. D. XVII.
+          <lb/>Id. Nouemb. (6 S.)
+          <lb/>R1011931. Prov.: H. Kerler, Ulm, 26. XI. 1883; 2 M. 50.
+          <lb/>GK: SB Berlin (1. u. letztes Blatt fehlen); Rest S. 58; Schmidt
+          <lb/>VII Nr. 255.
+          <lb/>770
+          <lb/>ERASMUS: Paraphrases in epist. Pauli ad Timotheum
+          <lb/>Strassburg, J. Knobloch, 1523
+          <lb/>PARA PHRASES IN EPISTO- LAS PAULI AD! Timotheum
+          <lb/>duas, ad Titum unam, &amp;amp; ad Philomenem unam. Item.
+          <lb/>In Catholicas Epistolas Apostolorum. Petri duas Vnam
+          <lb/>Iudae! Vnam lacobi, &amp;amp;  Treis Ioannis, &amp;amp;Ad Hebraeos
+          <lb/>unam. PER Eras. Rot.
+          <lb/>Am Schluss: ARGENTORATI JOHANNES KNOBLOCHVS STAN¬
+          <lb/>NEIS CHA-] RACTERIBVS EXCVDEBAT. QVINTO IDVS MARTI¬
+          <lb/>AS. PROPE SACRVM DI-VAE BARBARAE PHANVM. ANNO M. D.
+          <lb/>XXIII.
+          <lb/>80, Kursiv, 182 num. u. 2 unn. Bll., Kopftitel, Kustoden, Margi¬
+          <lb/>nalien, Init., Titeleinfassung (He B Tafel XI Nr. 9).
+          <lb/>Auf der Rückseite des letzten Bl. Druckermarke Knoblochs (HER
+          <lb/>Tafel IX Nr. 2, Silvestre Nr. 635).
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:56.917047+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5212.tif
+IMAGE WIDTH: 2358
+IMAGE HEIGHT: 3860
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1522
+          <lb/>VOCABULARIUS theutonicus
+          <lb/>Strasbourg, M. Hupfuff, 1515
+          <lb/>Vocabula- Il rius : primo ponens di- ctiones theutonicas,
+          <lb/>in lingua vernacula.Postea latinas; ex quo incipiens discere
+          <lb/>po-terit scire : quomodo theutonica verba. lati! ne loquatur
+          <lb/>aut scribat.
+          <lb/>Ein ordenliche anzey-gung wie man ein yegklichs teütsch
+          <lb/>worzu latyn reden mag. Einem yeden leyen des verstands
+          <lb/>des latyns begirig : vast nutzlich.
+          <lb/>A la fin : Impressum Argentine per honestum! virum
+          <lb/>Mathiam Hüpfuff Anno salutis nostre. Mil !! lesimo quin¬
+          <lb/>gentesimo. ! decimo quinto.
+          <lb/>In-4°, car. goth., 188 ff. non ch., sign. A-Z, a-m, titre courant, init.
+          <lb/>ornées; titre en rouge, encadré (H. &amp;amp; B., Planche VII, No 2; Silvestre,
+          <lb/>No 659 a seulement le monogramme).
+          <lb/>&amp;quot;R. 101,.910. Prov. : Brockhaus, Leipzig, 27/11, 1875; 12 M.
+          <lb/>Notes mss. « Von 1515. Vide : Panzer, Annal. VI, p. 73, No 382 ». Au
+          <lb/>haut du titre : « Ioannes Rupa est possessor huius vocabularij! Anno
+          <lb/>Salutis 1558»; à la fin : « Jerg Erharth von ijsen (?) anno domini 1579 ».
+          <lb/>Schmidt V, No 122 : Bâle.
+          <lb/>2440
+          <lb/>VOGEL Nicolaus
+          <lb/>Strasbourg, J. Frölich, vers 1540
+          <lb/>Ein hübsch new Lied, von dem verlornen Sun, Luce am!
+          <lb/>fünffzehenden capitel. Im!] hoffthon des Schillers.
+          <lb/>Au-dessous quatre petites grav. se rapportant au sujet de
+          <lb/>l’enfant prodigue.
+          <lb/>A la fin : Gemacht durch Niclas Vogel.
+          <lb/>Getruckt zu Straszburg,  bey Jacob Frölich. (Au-dessous :
+          <lb/>bande d’ornement.)
+          <lb/>In-8°, car. goth., 4 ff. non ch.
+          <lb/>Au verso du titre : IR aller liebsten Christen mein, II hört wie Christus
+          <lb/>redet so feyn, I1 als Lucas schreibt so klare...
+          <lb/>R. 100.386. Prov. : Rosenthal, Munich, 6/xI, 1893; 24 M. 2441
+          <lb/>VOEGELIN Iohannes
+          <lb/>Strasbourg, Chr. Egenolff, 1529
+          <lb/>(Feuille de lierre) Elemen !] tale Geometricvm, Ex Eucli ( dis
+          <lb/>Geometria, a Ioanne Voegelin, Haylpronnensi!! ad omnium
+          <lb/>Mathematices studiosorum !! utilitatem decerptum.
+          <lb/>Gerardus Noviomagus!! Lectori. (2 dist.)
+          <lb/>Marque typ. de Chr. Egenolff. (H. &amp;amp; B. Planche XXI,
+          <lb/>No 2, mais un peu plus petite.)
+          <lb/>Argentorati, apud Christianum Egenolphum. An.
+          <lb/>M. D. xxiX.
+          <lb/>In-8°, car. ital., 30 ff. non ch., réclames.
+          <lb/>Au verso du titre :... Georgio! Tanstetter Collimitio, Artium &amp;amp;
+          <lb/>Medicinae Docto 1] ris peritissimo, &amp;amp; Mathematices, in inclyto Viennen
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

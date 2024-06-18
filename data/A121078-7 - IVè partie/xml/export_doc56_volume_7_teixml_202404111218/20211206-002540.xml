@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:14.772445+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002540.tif
+IMAGE WIDTH: 2502
+IMAGE HEIGHT: 3960
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>ZEITUNG : Warhafftige newe zeittung, von siben Stetten,
+          <lb/>welche mit dem Volck, und alles was darinn war, in den
+          <lb/>grentzen von Franckreich versuncken und underge¬
+          <lb/>gangen... — Strasbourg, Pierre Hug 1566, in-4°.
+          <lb/>Weller, Zeitungen, n° 290. Bibl. Centrale Zurich.
+          <lb/>3592
+          <lb/>ZEITUNG : (Idem) avec en plus : Ein andere erschröckenliche
+          <lb/>geschicht von einem fall eines Bergs in Saffoy hinder
+          <lb/>S. Bernharts Berg im Augstal gelegen nit weit von der
+          <lb/>statt Ougst, der ein grosses Dorf sampt hundert und
+          <lb/>eylff Personen on die kinder zugedeckt hat. M. D.LXVII.—
+          <lb/>(Strasbourg, Thiébaud Berger 1567), in-4°.
+          <lb/>Weller, Zeitungen, n° 290. Bibl. Centrale Zurich. Voir : Ritter,
+          <lb/>Hist. de l’impr., p. 570, app. 392.
+          <lb/>3593
+          <lb/>ZEITUNG : Newe Zeittung, Von der grossen und Erbermlichen
+          <lb/>Schlacht, so newlich zwischen dem König in Denmarck
+          <lb/>und Schweden zu wasser gehalten worden. M.D.LXVIII.
+          <lb/>Andere Zeitung, Von zweien gewapneten Männern, so
+          <lb/>am Himmel mit zweien fewrigen Schwertern und andern
+          <lb/>gesichten uber Calis gesehen worden am 3. Februarii. —
+          <lb/>(Strasbourg, Pierre Hug 1568), in-40.
+          <lb/>Weller, Zeitungen, n° 332. Bibl. Centrale Zurich.
+          <lb/>3594
+          <lb/>ZEITUNG : Newe Zeitung, Von einem erschröcklichen Brandt
+          <lb/>auff der Insel Pyru den XXIX Januarij Anno
+          <lb/>M.D.LXVII. — Strasbourg, Pierre Hug 1567, in-40.
+          <lb/>Weller, Zeitungen, n° 322. Bibl. Centrale Zurich.
+          <lb/>3595
+          <lb/>ZEITUNG : Newe, Wunderseltzame, und Unchristliche
+          <lb/>Spanische Zeitung. Nemlich : Wie... der König von
+          <lb/>Hispanien durch sein... Werckzeug der Inquisitorn...
+          <lb/>viel gute Leut... bereden, vor ihren Richterstuel zu
+          <lb/>erscheinen... Aus dem Frantzösischen und Niderlen¬
+          <lb/>dischen gezogen, und in Druck gegeben durch Jacobum
+          <lb/>Weiss. — (Nochdruck so zu Strasburgk, durch Theobald
+          <lb/>Berger gedruckt. 1568, 40, 8 Bll.).
+          <lb/>538
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

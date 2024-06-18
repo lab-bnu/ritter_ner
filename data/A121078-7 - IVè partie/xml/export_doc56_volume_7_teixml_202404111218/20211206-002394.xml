@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:11.670881+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002394.tif
+IMAGE WIDTH: 2496
+IMAGE HEIGHT: 3976
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>PARACELSUS, Theophr. (Paragraphorum Libri) : Libri para¬
+          <lb/>graphorum XIV latino sermone integritati restituti et
+          <lb/>explicati, illustr. a D. Toxite primum ed. — Strasbourg
+          <lb/>1578, in-8°.
+          <lb/>Graesse V, p. 129. (Ritter, Rép. n° 1779 ; éd. Christian Müller
+          <lb/>15751.
+          <lb/>2831
+          <lb/>PARACELSUS (Paramirum) : Das Buch Paramirum... Darin die
+          <lb/>ware ursachen der kranckheyten und vollkomne Chur
+          <lb/>in kürtze erkleeret wird... Mit angehencktem iuditio
+          <lb/>trefflicher Hochgeleerter Menner von den Schrifften
+          <lb/>und Büchern... Paracelsi. — Mulhouse, P. Schmid 1562,
+          <lb/>in-4°.
+          <lb/>Werner, p. 102, n° 20.
+          <lb/>2832
+          <lb/>PARACELSUS, Theophr. (Paramirum) : Das Buch Paramirum,
+          <lb/>item vom Fundament der Künsten, der Seelen und Leibes
+          <lb/>Krankheiten durch Adam von Bodenstein (Paracelsus). —
+          <lb/>Strasbourg, 1575, in-80.
+          <lb/>Graesse V, p. 128.
+          <lb/>2833
+          <lb/>PARACELSUS, Theophr. (Von der Pest.) : Zwei Bücher... von
+          <lb/>der Pestilentz und ihren Zufällen. — Strasbourg 1559,
+          <lb/>in-8°.
+          <lb/>(Éd. Paul Messerschmidt 1564 : Ritter, Rép. n° 1770; Nic.
+          <lb/>2834
+          <lb/>PARACELSUS, Theophr. (Von der Pest) : Bericht von der
+          <lb/>jetzt regierenden Pestilentz. — Strasbourg 1583, in-80.
+          <lb/>Graesse V, p. 128.
+          <lb/>2835
+          <lb/>PARACELSUS, Theophr. (Schäden, offene) : Von den offenen
+          <lb/>Scheden und geschweren... — Strasbourg 1577, in-80.
+          <lb/>Graesse V, p. 128.
+          <lb/>2836
+          <lb/>PARACELSUS, Theophr. (Schreiben) : Schreiben praepara¬
+          <lb/>tionum oder von Zubereitung etlicher dinger, notwendig,
+          <lb/>392
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

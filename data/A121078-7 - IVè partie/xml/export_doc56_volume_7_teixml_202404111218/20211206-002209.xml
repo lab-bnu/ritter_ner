@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:06.975130+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002209.tif
+IMAGE WIDTH: 2512
+IMAGE HEIGHT: 3976
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>GEMMA fidei: Quadragesimale Gemma fidei intitulatum de
+          <lb/>sacrosancta orthodoxaque fide catholica : compilatum
+          <lb/>per quendam fratrem Hungarum ord. Minorum de
+          <lb/>observantia ex conventu Pesthien. — (Haguenau,
+          <lb/>Henri Gran pour Jean Rynman 6 juin 1507), in-4°.
+          <lb/>Walter, n° 1567.
+          <lb/>1863
+          <lb/>GENESIS monachorum : (La Genèse des moines. Peut-être
+          <lb/>un extrait de l’Alcoran des Cordeliers, dont l’ancien
+          <lb/>patron de Pierre Schmid, Hans Lufft, avait donné une
+          <lb/>édition en 15421. — Mulhouse, J. Schirenbrand et
+          <lb/>P. Schmid entre 1557 et 1559, in-80.
+          <lb/>Coudre, p. 80, n° VII.
+          <lb/>1864
+          <lb/>GENGENBACH, Pamphilus: Die Zehen alter: nach gemeynem
+          <lb/>lauff der Welt... Ausz der Bibel gezogen... von newem
+          <lb/>gespilt, gemert und gebessert worden, durch eine Ersame
+          <lb/>burgerschafft einer löblichen statt Colmar... Im Jar
+          <lb/>M.D.XXXI. — Strasbourg, Jacques Frölich 1533, in-80.
+          <lb/>Goedeke, Gengenbach (Hannover 1856), p. 444.
+          <lb/>1865
+          <lb/>(GENGENBACH, Pamphilus) : Der alt und new Bruder Nolhard.
+          <lb/>Darin vil alter Propheceien und Pracktick auf dreyerley
+          <lb/>Reich, Römisch, Frantzösisch unnd Türckisch, wie lang
+          <lb/>jeder weren soll, von Merlino, Sybilla, Brigitta, Methodio
+          <lb/>und Rainhardo prophetirt, auch wie es auff die letzte
+          <lb/>zeit mit Herrn und Fürsten, darzu mit Geystlichen und
+          <lb/>sonst andern ständen, soll erghan, treulichen angezogen
+          <lb/>werden, Dem Römischen Reich zu ehren etwan zu Basel
+          <lb/>von einer jungen Burgerschafft gespielt in der Fasznacht.
+          <lb/>— (Strasbourg) (M. J. C. M. F. S.). (— Meister Jacob
+          <lb/>Cammerlander von Mentz Form Schneider] 1545, in-4°.
+          <lb/>Goedeke, Gengenbach, p. 462 (a).
+          <lb/>1866
+          <lb/>(GENGENBACH, Pamphilus): Der alt und new Bruder Nolhard.
+          <lb/>— [Strasbourg) bei Magister Jacob Cammerlander von
+          <lb/>Metz (sic) Form Schneider, vers 1545, in-4°.
+          <lb/>207
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

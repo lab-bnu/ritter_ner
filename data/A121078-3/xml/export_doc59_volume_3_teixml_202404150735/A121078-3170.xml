@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:07.505164+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3170.tif
+IMAGE WIDTH: 2314
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>614
+          <lb/>FRISCHLIN Nikodemus
+          <lb/>[Strassburg, B. Jobins Erben] 1598
+          <lb/>PHASMA: Hoc est, COMOEDIA] POSTHUMA, NOVA ET
+          <lb/>SACRA: DE VARIIS HAERE-! SIBUS ET HAERESIARCHIS : QVI
+          <lb/>cum luce renascentis per Dei gratiam Evangelij hisce
+          <lb/>novissimis tem- poribus extiterunt. AUCTORE NICODEMO
+          <lb/>FRISCHLINO, Doctore, Oratore &amp;amp; Philosopho (rumpantur
+          <lb/>ut ilia Momis) clarissimo, sacri Palatij Comite, nec non
+          <lb/>Poëta! Coronato. CVM SINT TOT HAERESES! Epigramma.
+          <lb/>(2 Dist.)
+          <lb/>IMPRESSVM IN IAZYGIBVS-ME TANASTIS, Anno Christi¬
+          <lb/>Nati 1598. Antichristi verò revelati 81.
+          <lb/>80, Kursiv u. Deutsch, 60 unn. Bll., Sign. A-K. Kopft., Kust.,
+          <lb/>Marg., Init. M, am Schluss: Vign.; verschiedene Zierleisten, die in frü¬
+          <lb/>heren Drucken Jobins vorkommen. Die Chöre u. der Epilog am Schluss
+          <lb/>in deutscher Sprache sind früheren Ausgaben entnommen.
+          <lb/>R 100.959. Prov.: W. Köbner, Breslau 11. XII. 1886; 2M.
+          <lb/>GK: SB Berlin, UB Breslau, Greifswald, Kiel, Königsberg.
+          <lb/>BN Paris, Yc. 9004.
+          <lb/>923
+          <lb/>FRISCHLIN Nikodemus
+          <lb/>Strassburg, B. Jobins Erben 1599
+          <lb/>NICODEMI] FRISCHLINI BALINGENSIS,  HEBRAEIS.! CON¬
+          <lb/>TINENS DVODE- CIM LIBROS: QVIBVS TOTA Regum ludai¬
+          <lb/>corum, &amp;amp; Israëliticorum hi- storia, ex sacris literis ad
+          <lb/>verbum de- sumpta, carmine heroico Virgi- liano descri¬
+          <lb/>bitur.
+          <lb/>Opus posthumum, ante hac nondum visum, nunc de¬
+          <lb/>mumpost multos labores in lucem prolatum.Ductu,
+          <lb/>&amp;amp; Jauspicio MARTINI AICHMANNI IC. &amp;amp; in aula Wirtem¬
+          <lb/>bergica Cancellarij.Operâ verò, &amp;amp; studio Vrici Bollin¬
+          <lb/>geri P. L. O. illustris Scholae Bebenhusanae Rectoris.
+          <lb/>Druckerm. Jobins (HE R Tafel XXXVIII Nr. 10).
+          <lb/>Cum Priuilegio &amp;amp; Gratia singulari.
+          <lb/>ARGENTORTI Ex officina Typographica lobiniana.
+          <lb/>ANNO CIOIDXCIX.
+          <lb/>80, Antiq., 24 unn. Bll., 383 S., Kopft., Kust., Marg., Init., Titel
+          <lb/>rot u. schware, Vign. Auf der Rücks, des Titelbl.: Porträt Frischlins.
+          <lb/>(Siche Abb. Nr. 920.)
+          <lb/>Bl. 2a: ... Dn. MAVRITIO, Hassiae Landtgrauio.... —
+          <lb/>Datae Studgardiae in festo Penteco- stes. Anno.- CIOI9
+          <lb/>XCIX. Martinus Aichmann... (Widmung, 13 S.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

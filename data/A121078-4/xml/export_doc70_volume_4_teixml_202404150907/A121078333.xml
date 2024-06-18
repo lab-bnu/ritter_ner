@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:52.582966+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078333.tif
+IMAGE WIDTH: 2328
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>(POLE Reginaldus)
+          <lb/>Strasbourg, Cr. Mylius 1588
+          <lb/>CONSILIVM DELECTORVM CARDI- NALIVM ET ALIORVM
+          <lb/>praelatorum, de emendan- da Ecclesia. (Feuille de lierre.)
+          <lb/>EPISTOLA IOANNIS STVRMH DE eadem re ad Cardina¬
+          <lb/>les caeterosque viros ad eam consultationem delectos.
+          <lb/>(Feuille de lierre.) M. D. XXXVIII. (Verso blanc.)
+          <lb/>A la fin: (Feuille de lierre.) Ex OFFICINA CRATONIS MYLII
+          <lb/>ARGENTORATEN. ANNO. M. D. XXXVIII.
+          <lb/>In-4°, car. rom., 27 ff. non ch., sign. A-G, init. à fig, B, 0.
+          <lb/>R101.503. Prov.: Rosenthal, Munich 28/V 1883, 15 M. Anno¬
+          <lb/>tations mss. à la marge des pages.
+          <lb/>BM de Strasbourg.
+          <lb/>1903
+          <lb/>POLE Reginaldus
+          <lb/>Strasbourg, W. Rihel 1555
+          <lb/>REGINALDI POLI CARDINALIS BRITANNI PRO ECCLESIA¬
+          <lb/>STICAE UNITATIS DEFENSIO-ne, libri quatuor, in quibus
+          <lb/>conatus est maximo studio Ecclesiae Romanae Primatum
+          <lb/>constabilire, nunc primum in Ger- mania aediti, qui tamen
+          <lb/>antea in Italia fuerant ex-cusi, sed latinarum diu &amp;amp; ad
+          <lb/>paucorum manus perveniebant. ADIECTVM EST ETIAM
+          <lb/>QVO- RVNDAM ALIORVM GRAVISSIMÓRVM VIRO- rum de Ponti¬
+          <lb/>ficiis Romani Primatu iudicium.
+          <lb/>I. Thessal. V.! Omnia probate, quod bonum est tenete.
+          <lb/>M. D. LV. (Verso blanc.)
+          <lb/>A la fin: Argentorati excudebat Wendelinus Rihelius,
+          <lb/>Anno! M. D. LV. (Verso blanc.)
+          <lb/>In-fol., car. rom., 4 ff. non ch. dont le dernier blane, 175 ff. ch.,
+          <lb/>1 f. non ch., titre courant, réclames, notes marg., init. ornées.
+          <lb/>Fol. a 2a non ch.: Ad Illustrissi- mum Principem Joannem Fri¬
+          <lb/>dericum Joannis Friderici nati imperii ele- ctoris natu maximum filium
+          <lb/>Saxoniae Ducem. P. P. Vergerii Praefatio. (4 pp.)
+          <lb/>R10.432. Prov.: G. Lissa, Berlin 4/XII 1892; 20 M.
+          <lb/>BM de Strasbourg.
+          <lb/>Brunet IV?, 787: L’édition de Strasbourg, per Guillaume Rihelium,
+          <lb/>1555, in-fol., a été donnée par P. Vergerius qui y a ajouté plusieurs
+          <lb/>morceaux de Luther, de Flaccius Illyricus, de Melanchthon, de Brentius
+          <lb/>et de Calvin.
+          <lb/>1904
+          <lb/>1219
+          <lb/>POLITIANUS Angelus : Familiares epistolae. Voir: PHILELPHUS
+          <lb/>Franciseus : Epistolae. Strasbourg, J. Knobloch 1511, 1514, 1515,
+          <lb/>1518.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

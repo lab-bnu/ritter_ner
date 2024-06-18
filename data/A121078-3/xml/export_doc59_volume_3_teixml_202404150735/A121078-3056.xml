@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:05.611446+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3056.tif
+IMAGE WIDTH: 2330
+IMAGE HEIGHT: 3838
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>500
+          <lb/>Argentinae Apvd Io. Kno- blovchivm Anno M. D. XXI.
+          <lb/>(Rückseite leer.)
+          <lb/>Am Schluss: Finis. Mense Decembri Anno M. D. XXI.
+          <lb/>80, Kursiv, 80 unn. Bll., Sign. A-K, Kopftitel, Kustoden, leerer
+          <lb/>Raum für Init.
+          <lb/>Bl. A 2a: ERASMVS ROTERODAMVS IOAN NI SAPIDO
+          <lb/>Svo S. D. (4 S.)
+          <lb/>Auf der Rückseite des letzten Bl.: VERITAS ODI-VM PA-] RIT.
+          <lb/>(zwischen 4 Epheublättern.)
+          <lb/>Neudruck der Enobloch&amp;#x27;schen Ausgabe vom Monat September 1520.
+          <lb/>*R100.918. Prov.: W. Raths, Esslingen, 20. X. 1887; 2 M.
+          <lb/>Handschr. Eintragung auf dem Titelbl. oben: Lipsius 1528.
+          <lb/>GK: UB Greifswald, Münster; Van der Haeghen II, S.75: Basel,
+          <lb/>Dresden, Freiburg i. Br., Greifswald, Jena, Karlsruhe, Kopenhagen,
+          <lb/>Brit. Museum London, München, Münster, Reims, Rotterdam, Stuttgart;
+          <lb/>Rest S. 47. Fehlt bei Schmidt.
+          <lb/>750
+          <lb/>ERASMUS: De duplici copia
+          <lb/>Schlettstadt, Las. Schürer, 1521
+          <lb/>DESIDE RI ERASMI ROTE rodami, de duplici Copia,
+          <lb/>Verborum, ac Rerum commentarij duo.
+          <lb/>Ab Autore ipso diligentissime re cogniti, &amp;amp; emaculati,
+          <lb/>atque in plerisque locis aucti. ITEM.Epistola Erasmi
+          <lb/>Roterodami, ad Iacobum Wimphe-lingum Selesta¬
+          <lb/>diensem.
+          <lb/>Am Schluss: Apud nobile Selestadium, in Aedibus La¬
+          <lb/>zari Schurerij, Calendis Maij, Anno M. D. XXI. Darüber
+          <lb/>Druckermarke Schürer&amp;#x27;s (H E B Tafel LXXXVI Nr. 2, mit den An¬
+          <lb/>fangsbuchstaben LAZA. SCHVR. (Lazarus Schürer), die bei Heitz fehlen.
+          <lb/>(Rückseite leer.)
+          <lb/>40, Antig., 6 unn., 131 num. v. 1 unn. Bl., Kopftitel, Titeleinfas-
+          <lb/>sung (Siehe Nr. 97 S. 55).
+          <lb/>Auf der Rückseite des Titelbl.: Erasmys Roterodamys! Mat¬
+          <lb/>thiae Schurerio Selestano... — Basileae. Anno! M. D. XIIII.
+          <lb/>ad Idus Octobris. Folgt ein Index von 7S.
+          <lb/>Bl. 5a: Sebastiani Murrhonis Iunioris. a Lectorem.
+          <lb/>(2 Dist.)
+          <lb/>Bl. 5b: DESIDERIVS ERASMVS! Roterodamus Ioanni Co¬
+          <lb/>leto, Decano sancti Pauli apud Londinum... — Londini.
+          <lb/>Anno. M. D. XII. III. Calen. Maias. (Rückseite leer.)
+          <lb/>R100.101. Prov.: Friedr. Cohen, Bonn, 15. XI.1897; 2 M. 80.
+          <lb/>Rest S. 50.
+          <lb/>751
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

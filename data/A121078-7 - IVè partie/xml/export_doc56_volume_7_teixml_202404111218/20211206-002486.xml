@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:13.615736+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002486.tif
+IMAGE WIDTH: 2498
+IMAGE HEIGHT: 4004
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>TAGEWEIS : Ein schöne Tageweiss von eines Künigs Tochter,
+          <lb/>wie es ihr mit einem Zwerglein erginge... T.B.S. (— Th.
+          <lb/>Berger, Strasbourg vers 1570), in-fol.
+          <lb/>Vogeleis, p. 312.
+          <lb/>3310
+          <lb/>TAUBER, Caspar. Voir: GESCHICHT (Warhafftige), n° 1899.
+          <lb/>TAUFBÜCHLEIN : Das Tauffbüchlin nach rechter Form uff
+          <lb/>Teutsch zu Tauffen. M.D.xxiiij. (Encadrement de
+          <lb/>Köpfel). — [Strasbourg, W. Köpfel] 1524, in-8°,
+          <lb/>Hubert, n° 5 : Bibl. S. Guillaume, Strasbourg.
+          <lb/>3311
+          <lb/>TE DEUM: Das Te Deum laudamus verteütscht durch
+          <lb/>Jo. Brentz, zu schwebische Hall. Der sechs und viert¬
+          <lb/>zigst Psalm, Deus nostrum refugium et virtus, neülich
+          <lb/>verteutschet... — Strasbourg, Wolfgang Köpfel 1529,
+          <lb/>in-80,
+          <lb/>Hubert, n° 22; Vogeleis, p. 223 f.; Wackernagel, p. 108. 3312
+          <lb/>TENGLER, Ulricus : Layen Spiegel... (Doctor Sebastiani
+          <lb/>Brannd vorreden in disen Layenspiegel). — Strasbourg,
+          <lb/>Mathias Hupfuff (23.VIII.] 1510, in-fol.
+          <lb/>Goedeke 12, p. 391; Panzer, Annalen I, 322; Schmidt V,
+          <lb/>n° 78 : B M Colmar, BN Munich; [éd. Hupfuff 1511, Knobloch
+          <lb/>fils 1530, 1532: Ritter, Rép, nos 2274, 2278 et 22791.
+          <lb/>3313
+          <lb/>TENGLER, Ulr. : (Idem). — Strasbourg 1513, in-fol.
+          <lb/>Goedeke 12, p. 391.
+          <lb/>3314
+          <lb/>TENGLER, Ulr. : Layen Spiegel. — (Strasbourg, Math.
+          <lb/>Hupfuff] 1514, in-fol.
+          <lb/>Schmidt, Hist. litt. II, p. 371, n° 167 avec la mention égale¬
+          <lb/>ment à Strasbourg en 1518, 1527, 1530, 1532, 1536, 1538,
+          <lb/>1544, 1550, 1560.
+          <lb/>3315
+          <lb/>TENGLER, Ulr. : (Idem). — Strasbourg 1515, in-fol.
+          <lb/>Goedeke 12, p. 391.
+          <lb/>484
+          <lb/>3316
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

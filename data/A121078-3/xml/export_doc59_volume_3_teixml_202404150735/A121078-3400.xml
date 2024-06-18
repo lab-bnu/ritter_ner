@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:13.404864+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3400.tif
+IMAGE WIDTH: 2410
+IMAGE HEIGHT: 3856
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>842
+          <lb/>40, Antig., 10 unn. Bll., Sign. a-b, Kopft.
+          <lb/>Auf der Rücks. des Titelbl.: Ioannis Baptistae Vranij Car¬
+          <lb/>men ad Lectorem. (7 lat. Dist.)
+          <lb/>Bl. a 2: Jacobus Comes Pvrliliarvm clarissimis ac orna¬
+          <lb/>tissimis Con-regulis suis Salutem.
+          <lb/>*Ri01.290. Prov.: SR München, 8. IV. 1878. Handschr. Notizen.
+          <lb/>II, 13; Walter: Schlettstadt 2104.
+          <lb/>Proctor II Sectio I Nr. 10267: London Brit. Museum; Schmidt
+          <lb/>1253
+          <lb/>JACOBUS Comes Purliliarum
+          <lb/>Strassburg, Joh. Enobloch 1527
+          <lb/>IACOBI CO- MITIS PVRLILIA-] RVM, DE RE MILI-TARI LIBRI
+          <lb/>H. Iam recens aediti.! lo. Sapidus. (3 Dist.) Index omnium,
+          <lb/>in calce libri.
+          <lb/>Argentorati, Anno M. D. XXVII. (Rücks, leer.)
+          <lb/>Am Schluss: ARGENTORATI, IOHAN-NES CNOBLOCHVS EX
+          <lb/>CVDEBAT. ANNO. 1 M. D. XXVII.
+          <lb/>80, Kursiv, 62 num., 8 unn. Bll. (Index), Kopft., Kust., Init. C.E, P.
+          <lb/>Bl. 2a: MAGNIFICO VIRO NI-] COLAO RABENHAVBT Al Suc¬
+          <lb/>che, serenissimi Pannoniae &amp;amp; Bo-] iemiae Regis Consiliario
+          <lb/>&amp;amp; à secretis, lacobus Spie- gel Selestadiensis.) S. P. D....
+          <lb/>— Ex Selestadio. XXV. Iulij. AnnoD. M. XXVII. (!)
+          <lb/>(Epheubl.) 2S.
+          <lb/>Bl. 3a: FERDINAN DO MAGNO HISPANIARVM(Principi,
+          <lb/>Archiduci Austriae, felicitatem! dicit Iacobus Comes Pur¬
+          <lb/>liliarum... (2S.)
+          <lb/>R 102.195. Prov. : Jos. Baer é Co., Frankfurt a. M. 20. HII.
+          <lb/>1891; 10 M. 80.
+          <lb/>BN Paris V. 50.268.
+          <lb/>1254
+          <lb/>JACOBUS STAPULENSIS. Siche: FABER Jacobus
+          <lb/>JACOBUS DE THERAMO
+          <lb/>Strassburg, Joh. Prüss 1508
+          <lb/>Belial zu teutsch.... (Siche Titelbl. S. 843.)
+          <lb/>Darunter Holzschn.: Gott Vater auf dem Throne, rechts von ihm
+          <lb/>Christus u. Moses; zu seiner Linken zwei Teufel.
+          <lb/>Am Schluss: Hat getruckt vnd ordenlicher gesetzt, der
+          <lb/>fürsichtig Johannes Prüsz Bûchtrucker Burger! zû Strasz¬
+          <lb/>burg zûm thiergarten. Des jares Cristi M. D. vnd viij.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

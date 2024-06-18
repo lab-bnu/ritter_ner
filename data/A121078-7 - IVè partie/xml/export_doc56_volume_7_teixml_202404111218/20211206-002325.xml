@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:09.904455+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002325.tif
+IMAGE WIDTH: 2524
+IMAGE HEIGHT: 3970
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>id est, ex plurifarijs vocibus compositi, canonibus,
+          <lb/>Commentarii duo. — Strasbourg, Jean Schott 1536,
+          <lb/>in-40.
+          <lb/>Brunet 5e éd. 3, 1239; Schmidt II, n° 137. — BN Paris.
+          <lb/>(Éd. J. Schott 1542 : Ritter, Rép. n° 1414].
+          <lb/>2453
+          <lb/>LUSCINIUS, Ottm. Voir: PLUTARCHUS nOS 2953, 2955/6.
+          <lb/>(RITTER, Rép, nos 1410-1414).
+          <lb/>LUSITANUS, Amatus [Juan-Rodrigo de Castell-Brancol : In
+          <lb/>Dioscoridem Anazarbaeum commentaria. — Strasbourg
+          <lb/>1561.
+          <lb/>Tricot-Royer, La Bibliothèque de Vopiscus Fortunatus
+          <lb/>Plempius, professeur de médecine au XVIIe siècle (Bruxelles
+          <lb/>1925) ; n° 365.
+          <lb/>2454
+          <lb/>LUSITANUS, Amatus : In Dioscoridis Anazarbei de medica
+          <lb/>materia libros quinque enarrationes eruditissimae. —
+          <lb/>Strasbourg, Wendelin Rihel 1554, in-4°.
+          <lb/>Stübler, p. 263, note 2. (B N Strasbourg R 101.316. Rép.
+          <lb/>n° 1415l.
+          <lb/>2455
+          <lb/>LUSTGARTEN : (L)Ustgärten und Pflantzungen mit wun¬
+          <lb/>samer zierd, artlicher unnd seltzamer verimpffung
+          <lb/>allerhand Bäum, Kreutter, Blumen und früchten Wilder
+          <lb/>und heymischer Künstlich und lustig zu zurichten...
+          <lb/>(Grav.). — Strasbourg, Christian Egenolff (juin) 1530,
+          <lb/>in-40.
+          <lb/>Hohenemser 1295; Benzing : Egenolff, n° 29 ; B M Francfort¬
+          <lb/>s.-M.; bibl. St. Guillaume, Strasbourg.
+          <lb/>2456
+          <lb/>LUTHER (Abendmal) : Ein Sermon von dem sacrament des
+          <lb/>heiligen waren Iychnams Christi... — (Strasbourg,
+          <lb/>Martin Flach 1520), in-40.
+          <lb/>Horning, n° 6; Schmidt VI, p. 31, n° 45 : Bibl. S. Guillaume,
+          <lb/>Strasbourg; Weller 1577.
+          <lb/>2457
+          <lb/>323
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

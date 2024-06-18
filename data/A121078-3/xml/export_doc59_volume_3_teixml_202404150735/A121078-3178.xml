@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:07.774681+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3178.tif
+IMAGE WIDTH: 2314
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>622
+          <lb/>GALEATIUS
+          <lb/>Hagenau, V. Kobian 1533
+          <lb/>OPVS MEDI- CINAE PRACTICAE SALVBERRI-] mum, ante¬
+          <lb/>hac nusquam impressum,! Galeatij de sancta Sophia in
+          <lb/>nonum tractatum libri Rhasis ad Re- gem Almansorem,
+          <lb/>de cura tione morborum particu larium, huic seculo ac
+          <lb/>commodatissi- mum. (Kleebl.)
+          <lb/>LIBELLVS INTRODVCTORIVS IN AR- tem paruam Galeni
+          <lb/>de principijs universalibus totius! medicinae tam theoricae
+          <lb/>quam practicae, ex doctrina! Auicennae &amp;amp; aliorum Philo¬
+          <lb/>sophorum congestus, Omnibus ad Hippocraticam discipli¬
+          <lb/>nam an helantibus summe necessarium.
+          <lb/>Quae omnia perrara, paucisque uisa, &amp;amp; iam fermè
+          <lb/>obliterata, restituit, cor! rexit, &amp;amp; publicauit Georgius
+          <lb/>Kraut, Artium &amp;amp; Medi- cinae Doctor.
+          <lb/>Haganoae ex proelo literario Valentini Kobian Anno
+          <lb/>nati Saluatoris. M. D. XXXIII. (Rücks, leer.).
+          <lb/>Am Schluss: Haganoae haec omnia per Georgium Kraut,
+          <lb/>Artium! &amp;amp; Medicinae Doctorem, omnibus Medicinae Studio
+          <lb/>sis communicata, eiusdemque magna diligentia corre- cta.
+          <lb/>lam uero primitus ex Officina Valentini Kobian! impressa
+          <lb/>in lucem prodeunt. Anno Christiano, M. D. XXXIII. Die
+          <lb/>XXV. Martij.
+          <lb/>20, Antiq., 44 unn., 125 num. Bll., Kopft., Kust., Marg., grosse
+          <lb/>Init. C, Q u. eine Anzahl Kleine, Titel rot u. schwarz, Titelumrahmung.
+          <lb/>Bl. 2a: PRAEFATIO. OMNIBVS IN MEDICINA... Mi¬
+          <lb/>litantibus... Georgius Kraut.... (Vorrede, 2 S.)
+          <lb/>Bl. 3a-4a: INDEX AEGRITVDI-num... (2sp.)
+          <lb/>Bl. 91a:...CONRA DO STOCELIN, ARTIVM ET MEDICINAE
+          <lb/>Doctori consummatissimo, Imperialis ciuitatis Dinkelsbuel
+          <lb/>Medico celeberrimo, amico... Georgius Kraut.... An! no
+          <lb/>Christiano 1533, die decimo sexto Fe-] bruarij.
+          <lb/>R10.261. Prov.: Bibl. der Strassburger Medis. Fakultät. Auf der
+          <lb/>Innens, des Vorderdeckels: Exlibris von Thomas Lauth.
+          <lb/>2. Ex. R10.298, 3. Ex. R 10.299. Beide von der Bibl. der Strass¬
+          <lb/>burger medie. Fakultät. Das 3. Ex. mit handschr. Notizen; auf der
+          <lb/>Innens. des Vorderdeckels: Spielmann Prof.; auf dem Schutabl.: Viraux
+          <lb/>experim. medic. Arg. 1544; rarissimus liber. an et hic rarus ?
+          <lb/>GK: SB Berlin, UB Breslau, Göttingen, Kiel, Königsberg, Mar¬
+          <lb/>burg.
+          <lb/>931
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

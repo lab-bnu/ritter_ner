@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:38.606853+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2409.tif
+IMAGE WIDTH: 2380
+IMAGE HEIGHT: 3824
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>lis abiectione. AvTORE IAÇOBO CVRIONE! Hofemiano, Mathe¬
+          <lb/>matico, &amp;amp; publi-co Medicinae apud Heidelber- genses
+          <lb/>Professore.
+          <lb/>ARGENTORATI EXCVDEBAT CHRISTI- ANVS MYLIVS. 1555.
+          <lb/>(Verso blanc.)
+          <lb/>In-80, car, rom., 293 pages ch., 15 ff. non ch., dont les ? derniers
+          <lb/>blanes, titre courant, réclames, initiales ornées.
+          <lb/>fol. A 24: LOrTo-ni Henrico Comiti Palatino, Rhaeni
+          <lb/>&amp;amp; Baïoariae utriusque Duci... lac.Curio Hofemianus.
+          <lb/>S. D... — Heidelbergae postridie Cal.Aprilis. An, 1554.
+          <lb/>(Dédicace de 10 pages.)
+          <lb/>f. 285-293: ... Caspari Dyrobaccho Episcopi Vurtzbur¬
+          <lb/>gensis Medico, .. lac. Curio Hofemianus. S. D.... — Edel
+          <lb/>bergae Idibus Septembris,Anno 1554.
+          <lb/>R 102.108. Prov.: Bibl. du gymnase de Heilbronn, contre échange,
+          <lb/>2/1V. 1878, notes mss. à l’intérieur du 4er plat.
+          <lb/>604
+          <lb/>GPB: BN Berlin.
+          <lb/>Strasbourg, M. Schürer, 1518.
+          <lb/>CURTIUS Rufus Quintus
+          <lb/>QVINTVS “CVRTIVS DE REBVS GESTIS ALEXAN-DRI
+          <lb/>MAGNI RE- GIS MACE DONVM.
+          <lb/>Cum Annotationibus Des. Erasmi Roterodami.
+          <lb/>3
+          <lb/>A la fin: Argentorati ex Aedibus Schure-rij. Mense
+          <lb/>Iunio AnnoM. D. XVIII.
+          <lb/>.
+          <lb/>In-fol, car, rom., 4 ff. non ch., (Index), LXXXIX ff. ch, titre courant,
+          <lb/>2
+          <lb/>notes marginales, initiales A. I, D, 9, P, riche encadrement du titre, dessiné
+          <lb/>par Urs Graf, composé d’après Schmidt par Beatus Rhenanus: Au haut
+          <lb/>l’empereur Maximilien assis, à sa droite Charles, archiduc d’Autriche
+          <lb/>et duc de Bourgogne, à sa gauche Ferdinand, roi de Castille; au-dessous
+          <lb/>ai4.
+          <lb/>du trône, les mots: Maximilianvs avg., au-dessous dans un demi¬
+          <lb/>cercle, ies armoiries impériales, entourées de celles des 7 électeurs et de
+          <lb/>l’inscription en majuscules grecques: Toò ye Koaros sort pœytoroy.
+          <lb/>Sous le titre, sur une dalle oblonque l’inscription suivante: IMPER.
+          <lb/>CAES. MAXIMILIANO. P. F. AVG. PATRI PATRIAE. LIBER
+          <lb/>TATISQUE ADSERTORI. BEAT.RHENANUS. F. C.; des 2 côtés
+          <lb/>deux hommes nus, dont l’un porte une trophée d’armes, l’autre une ban¬
+          <lb/>nière avec le monogramme d’Urs Graf; deux bordures latérales montant
+          <lb/>jusqu’à la partie supérieure, composées d’armoiries.
+          <lb/>Au verso du titre : Principi Hernesto Bavariae duci Eras¬
+          <lb/>mus Roterodamus S. D... — An. M. D. XVII, pridie Non.
+          <lb/>nouembris.
+          <lb/>405
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

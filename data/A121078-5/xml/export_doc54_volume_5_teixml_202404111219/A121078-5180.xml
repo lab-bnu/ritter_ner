@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:55.668743+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5180.tif
+IMAGE WIDTH: 2342
+IMAGE HEIGHT: 3856
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1490
+          <lb/>A la fin : Argentine per Henricum Sybold, Mense Augusto.
+          <lb/>In-8°, car. rom., 48 ff. non ch., sign. A-G, réclames, notes marg., init.
+          <lb/>ornées.
+          <lb/>Au verso du titre : Henricus Sybold Artis !! Medicae Professor. L. S...
+          <lb/>R. 101.799. Prov. : Don de Fid. Butsch fils, Augsbourg, 1871; fol. F 8
+          <lb/>manque.
+          <lb/>Oxford, Bibl. Bodleiana.
+          <lb/>2379
+          <lb/>VALLA Georgius
+          <lb/>Strasbourg, H. Sybold, s. d.
+          <lb/>Georgius Valla Placentinus de Corporis Commodis et!!
+          <lb/>incommodis. Eivsdem de Differen- tia pulsuum.
+          <lb/>Problemata Aristotelis de re medicaDialogus Parthenij
+          <lb/>de sectione humani corporis. (Verso blanc.)
+          <lb/>A la fin : Argentinae per Henricum Sybold. ( Mense Iulio.
+          <lb/>(Verso blanc.)
+          <lb/>In-8°, car. rom., 48 ff. non ch., sign. A-F., réclames, notes marg.,
+          <lb/>belles init. à figure A, C.
+          <lb/>R. 101.052. Prov. : Rosenthai, Munich, 18/11, 1889; 10 M.
+          <lb/>L’imprimeur Sybold ne se trouve ni chez Schmidt ni chez H&amp;amp; B.
+          <lb/>ni chez Sitzmann. Oxford, Bibl. Bodleiana; Ritter, BM Strasbourg
+          <lb/>N° 2137.
+          <lb/>2380
+          <lb/>VALLA Georgius
+          <lb/>Strasbourg, H. Sybold, s. d.
+          <lb/>Georgius! Valla Placentinus de in-uenta medicina, &amp;amp; in
+          <lb/>quot partes di-stributa sit. logyoyat Ioannitij medici!
+          <lb/>illustris. (Verso blanc.)
+          <lb/>A la fin : Argentorati per Henricum Sybold.
+          <lb/>In-80, car. rom., 31 ff. non ch. et 1 f. blanc, réclames, notes marg.,
+          <lb/>init. ornée M.
+          <lb/>Au recto du dernier f. : Galenvs de morbo !] secundum numerum.
+          <lb/>R. 100.838. Prov. : Rosenthal, Munich; 5/I, 1889; 10 M.
+          <lb/>Oxford, Bibl. Bodleiana.
+          <lb/>2381
+          <lb/>VALLA Georgius
+          <lb/>Strasbourg, H. Sybold, s. d.
+          <lb/>(Feuille de lierre) Geor gii Vallae Placen(! tini Viri
+          <lb/>Clariss. de natura oculorum,
+          <lb/>Item Aristotelis problemata quae ad oculos pertinent.
+          <lb/>(Verso blanc.)
+          <lb/>A la fin : Argentinae per Henricum SyboldMense Martio.
+          <lb/>In-8°, car. rom., 48 ff. non ch., sign. A-F, réclames, init. ornées O, C;
+          <lb/>titre encadré, des deux côtés colonnes avec des enfants nus, sur la colonne
+          <lb/>de gauche une oie, en haut et en bas des enfants nus, celui du milieu est
+          <lb/>assis sur un trône, à côté du trône un homme tenant un emblême avec la
+          <lb/>date 1520.
+          <lb/>R. 101.476. Prov. : G. Lissa, Berlin, 4/XII, 1892; 12 M.
+          <lb/>Oxford, Bibl. Bodleiana. Ritter, BM Strasbourg, N° 2138. Olschki,
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

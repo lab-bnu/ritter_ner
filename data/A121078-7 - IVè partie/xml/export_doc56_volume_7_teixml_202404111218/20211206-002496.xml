@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:13.747619+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002496.tif
+IMAGE WIDTH: 2512
+IMAGE HEIGHT: 3958
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>gantze gemayne Christenheit... — (Strasbourg, René
+          <lb/>Beck 15231, in-40.
+          <lb/>Kuczynski, n° 610; Weller 2405. Bibl. St. Guillaume,
+          <lb/>Strasbourg; [éd. Beck vers 1522 : Ritter, Rép, n° 2357]. 3368
+          <lb/>TREUBEL, Eckart zum : Ein Christelich lob und vermanung
+          <lb/>an die hochberümpte Christeliche statt Straszburg, von
+          <lb/>wegen des heyligen worts gottes, das sye (wie sye ange¬
+          <lb/>fangen) standthafftig darbey beleybe. — (Strasbourg,
+          <lb/>Martin Flach] 1524, in-4°.
+          <lb/>Schmidt VI, p. 38, n° 74. Bibl. St. Guillaume, Strasbourg.
+          <lb/>3369
+          <lb/>TREUBEL, Eckhart zum : Bericht und anzeyge zu lob und
+          <lb/>eeren und preiss Gottes, aller menschen und Creaturen. —
+          <lb/>Strasbourg, Jacques Frölich 1539, in-4°.
+          <lb/>Bibl. St. Guillaume, Strasbourg.
+          <lb/>3370
+          <lb/>TREWER, Petrus. Voir: LUTHER (Betglöcklein), n° 2475-6.
+          <lb/>TRILLER, Valentin. Voir : LIED (ein schön geistlich new lied
+          <lb/>vom armen Lazarus), n° 2349.
+          <lb/>TRISTAN et Isolde: Hienach volget die histori von Herren
+          <lb/>von Tristrant und der schoenen Isolde von Irland. —
+          <lb/>Strasbourg 1510, in-4°.
+          <lb/>Goedeke 12, p. 342, n° 3 (4) ; Kristeller, n° 622, Panzer, Zusätze
+          <lb/>118.675 (h); Heitz-Ritter, n° 661.
+          <lb/>3371
+          <lb/>TRISTAN et Isolde : History von Tristrant und der schönen
+          <lb/>Isalden von Irlande. — Strasbourg, Jacques Frölich
+          <lb/>1557, in-40.
+          <lb/>Goedeke I2, p. 342, n° 3 (7) : Heitz-Ritter, n° 664 : Wolfen¬
+          <lb/>büttel.
+          <lb/>3372
+          <lb/>TRITHEMIUS, J. Voir : HEDIO, n° 1967; RITTER, Rép.
+          <lb/>nos 2359-2361.
+          <lb/>494
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

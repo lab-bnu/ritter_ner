@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:07.884247+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002247.tif
+IMAGE WIDTH: 2498
+IMAGE HEIGHT: 3950
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>HORATIANUS, Octavius : Octavii Horatiani rerum medicarum
+          <lb/>libri quatuor. [ed. Heremannus Comes a Neuenar). —
+          <lb/>Strasbourg, Jean Schott, 26 février 1532, in-fol.
+          <lb/>Choulant, Handbuch, p. 217.
+          <lb/>2043
+          <lb/>HORATIUS (Epistolae) : Quinti Horatii Flacci liber episto¬
+          <lb/>larum. Eiusdem de arte poetica... (Avec une préface
+          <lb/>de Gebwiler à Schürer). — Strasbourg, février 1514,
+          <lb/>in-40.
+          <lb/>Schmidt, VIII, n° 128 et Hist. litt. p. 409, n° 260. (Voir aussi
+          <lb/>Ritter, Rép, n° 1202 ; éd. de Knobloch 1520l.
+          <lb/>2044
+          <lb/>HORATIUS : Epodon Liber. Eiusdem, De arte poetica... —
+          <lb/>(Strasbourg, Mathias Schürer, décembre 1516), in-40.
+          <lb/>Panzer 9, 368; Schmidt VIII, n° 202. Bibl. Cantonale Aarau.
+          <lb/>(Éd. de Schürer 1515 : Ritter, Rép. n° 1201].
+          <lb/>2045
+          <lb/>HORATIUS : Epodon liber. Eiusdem, De arte poetica... —
+          <lb/>(Strasbourg, Mathias Schürer, janvier 1520), in-4°.
+          <lb/>Panzer 6, 94, 573; Schmidt VIII, n° 255.B N Munich. 2046
+          <lb/>HORATIUS : Odarum sive Carminum. Libri quattuor. —
+          <lb/>(Strasbourg, Mathias Schürer, février 1516), in-40.
+          <lb/>Panzer 6, 80, 444; Schmidt VIII, n° 182; Graesse III, p. 182;
+          <lb/>Bibl. Dresde.
+          <lb/>2047
+          <lb/>HORATIUS : Odarum sive Carminum Libri quattuor. —
+          <lb/>(Strasbourg, Mathias Schürer, février 1517), in-40.
+          <lb/>Panzer, 6, 86, 496; Schmidt VIII, n° 209. B U Fribourg. 2048
+          <lb/>HORATIUS : Odarum libri quattuor. — Strasbourg, Mathias
+          <lb/>Schürer 1520, in-4°.
+          <lb/>Brunet (5e éd.) 3, 313; Schmidt VIII, n° 261.
+          <lb/>2049
+          <lb/>HORATIUS (Sermones) : Sermonum seu Satyrarum Libri Duo...
+          <lb/>— (Strasbourg, Mathias Schürer, novembre 1514), in-4°.
+          <lb/>Graesse III, p. 349; Schmidt VIII, n° 142 : B M Francfort-s.-
+          <lb/>M.; Panzer 9, 365, 345b.
+          <lb/>2050
+          <lb/>245
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:05.321600+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3036.tif
+IMAGE WIDTH: 2340
+IMAGE HEIGHT: 3840
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>480
+          <lb/>2
+          <lb/>PAVIL
+          <lb/>—
+          <lb/>ESAIAS
+          <lb/>D. ERASMLRO
+          <lb/>TERODAMIVIRI
+          <lb/>vndecun doctissimi Lucu¬
+          <lb/>brationes, quarum Index
+          <lb/>positus est facie
+          <lb/>sequenti.
+          <lb/>PAVIVS
+          <lb/>&amp;quot;HIERONVME
+          <lb/>ἀλὰ σὺ οάρσει, ἐπει θᾶον
+          <lb/>Févos 88ì bgoroi͂σIp.
+          <lb/>IN LIBERA ARGENTINA
+          <lb/>O
+          <lb/>e&amp;quot;AMBROSIVSE
+          <lb/>Cum gratia, &amp;amp; priuilegio Im
+          <lb/>periali ad sexennium.
+          <lb/>As
+          <lb/>¿GREGORIVS I
+          <lb/>3
+          <lb/>(Paiiniaz
+          <lb/>ZEJIOANNE
+          <lb/>N
+          <lb/>PfAVGVS
+          <lb/>EEE
+          <lb/>E
+          <lb/>2
+          <lb/>—22
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:11.518899+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3328.tif
+IMAGE WIDTH: 2366
+IMAGE HEIGHT: 3858
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>770
+          <lb/>HERBARIUS
+          <lb/>Strassburg, B. Beck 1530
+          <lb/>DAs kreüter bûch oder Herbarius. Das bûch von
+          <lb/>allen kreütern, wurtz- len vnd anderen dingen, wie mans
+          <lb/>brauchen soll zù ge! sundtheit der menschen, von neüwem
+          <lb/>cor! rigiert vnd gebessert.! Item wie man verston soll die
+          <lb/>gradus. Als wann man liszt, das kraut ist warm, kalt,
+          <lb/>trucken, oder feücht. &amp;amp;c. Am ersten, andern, dritten oder
+          <lb/>vier- den grad, vor nit im truck auszgangen. M. D. XXX.
+          <lb/>Am Schluss: End disz Kreüter bûchs. Getruckt! zû
+          <lb/>Straszburg durch Balthassar Beck an dem Holtzmarckt,
+          <lb/>Jn dem jar der geburt Chri! sti, als man zalt fünff! zehen
+          <lb/>hundert vnd dreyssig. An dem wölfften tag des Augst
+          <lb/>monats. (Epheubl. Rücks, leer.)
+          <lb/>2°, Got., 2sp., 18 unn., CLXII num., 6 unn. Bll. (Register der
+          <lb/>kreüter zû teütsch), Init., Titelumr, wie in vorhergehender Nr., zahlr.
+          <lb/>Abb. von Pflanzen.
+          <lb/>Auf der Rücks, des Titelbl.: Zû dem Leszer.
+          <lb/>Bl. Aa 2a: Ein Register von allen stucken der Artzney.
+          <lb/>(15 Bll., 3sp.)
+          <lb/>Bl. Ce 5a : Von dem harn, (2 Bll., darunter Eleiner Holeschn.:
+          <lb/>Apotheker hält in der Hand eine Flasche, neben ihm eine Frau mit
+          <lb/>einem Korbe.)
+          <lb/>R10.415. Herkunft unbekannt. Die ersten 11 Bll. fehlen. Handschr.
+          <lb/>Eintragung: Iacobus Hanik, darunter: Ieronimus Brunschwig.
+          <lb/>2. Ex. R 10.416. Geschenk der UB Göttingen 1872.
+          <lb/>Stadtbibl. Strassburg 042431.
+          <lb/>Fehlt bei Schmidt u. Schreiber.
+          <lb/>1140
+          <lb/>HERBARIUS. Siehe auch: HORTUS SANITATIS
+          <lb/>HERBARIUS Novus, Siehe : BRUNFELS Otto: Herbarum vivae
+          <lb/>Eicones. Strassburg, Joh. Schott Nr. 290, 291, 304.
+          <lb/>HERESBACH Konrad
+          <lb/>Strassburg, W. Rihet 1551
+          <lb/>CLARISSIMI VIRI CONRADI HERESBACHH Iv-! reconsulti
+          <lb/>de laudibus Graecarum lite- rarum oratio: olim Friburgi
+          <lb/>in celeberrimo conuentu &amp;amp; Doctorum &amp;amp; Proce- rum,
+          <lb/>habita.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:05.496375+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3048.tif
+IMAGE WIDTH: 2336
+IMAGE HEIGHT: 3838
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>492
+          <lb/>ERASMUS: De duplici copia
+          <lb/>Strassburg, U. Morhard, 1519
+          <lb/>Desyde rii Erasmi Ro terodami de duplici Copia
+          <lb/>Verborum, ac Rerum Com! mentarij duo. Ab Authore ipso
+          <lb/>quam diligen- tissime recogniti, ac locis plerisque non
+          <lb/>infoeli! citer aucti.
+          <lb/>Epistola Eras. Ro. ad Iacobum Wimphelingum Sele¬
+          <lb/>statinum.
+          <lb/>Argentorati, ex Aedibus Hulde richi Morardi Anno.
+          <lb/>M. D. Mense lanuario. IXX.
+          <lb/>phelingum), Kopftitel, Kustoden, Init., Titeleinfassung: Büsten lateini¬
+          <lb/>4°, Antiq., 6 unn., LXXIX num. u. 5 unn. Bll. (Epistola ad Wim¬
+          <lb/>scher Verfasser wie sie bei Drucken von Schürer 1514 u. 1518 vorkom¬
+          <lb/>men, jedoch unter anderem Namen, so Valerius Maximus als Vergilius
+          <lb/>und umgekehrt.
+          <lb/>Auf der Rückseite des Titelbl.: SEBASTIANI MURRHONIS lu¬
+          <lb/>nioris ad Lectorem. (2 Dist.)
+          <lb/>Bl. 2a: Erasmvs Roterodamvs Mat-thiae Schurerio
+          <lb/>Selestano... Basileae. Anno, M. D. XIIIl. ad Idus Octobris.
+          <lb/>(Folgt ein Index von 7 S.)
+          <lb/>Bl. 6: DESYDERIUS ERASMUS RO ! terodamus, loanni Co¬
+          <lb/>leto Decano Sancti Pauli apud Londinum. P. S.... —
+          <lb/>Londini. Anno. M. D. XIl. III. Calen. Maias.
+          <lb/>Bl. u3b: FINIS.DESIDERIO ERASMO ROTERO- damo
+          <lb/>lacobus Vimphelingus Selestadi nomine! Sodalitatis lite¬
+          <lb/>rariae Argentinensis S.... — ExArgentoraco, prima
+          <lb/>Septembris. M. D. XIIII.
+          <lb/>Darunter: DESYDERIUS ERASMUS ROTE-! rodamus, lacobo
+          <lb/>Vuimphelingo, Germanus Germa- no.. — Basileae, unde.
+          <lb/>cimo Calendas Octobris. M. D. XIIII. (9 S.).
+          <lb/>R100.104. Prov.: Bibl. Charles Schmidt mit dessen Exlibris.
+          <lb/>GK. SB Berlin. Schmidt IV, S. 28, Nr. 1.
+          <lb/>736
+          <lb/>ERASMUS: De duplici copia
+          <lb/>Hagenau, Th. Anshelm, 1519
+          <lb/>D. ERASMI! Roterodami, de duplici Co! pia, Verborum
+          <lb/>ac Rerum Commentarii duo. Ab authore ipso diligentissi
+          <lb/>me recogniti &amp;amp; emaculati, atque in plerisque locis aucti.
+          <lb/>Item Epistola Erasmi Roterodami, ad lacobum Wimphelin
+          <lb/>gium Selestatinum. (Rückseite leer.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

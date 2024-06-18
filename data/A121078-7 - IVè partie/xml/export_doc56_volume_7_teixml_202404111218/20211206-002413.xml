@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:12.094073+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002413.tif
+IMAGE WIDTH: 2498
+IMAGE HEIGHT: 4002
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>PLATO : Apologia Socratis Graece. — Strasbourg, Wendelin
+          <lb/>Rihel 1540, in-40.
+          <lb/>Graesse V, p. 317; Ficker, Erste Lehr-und Lernbücher, p. 53.
+          <lb/>2934
+          <lb/>PLATO : Crito. Graece. — Strasbourg, Wendelin Rihel 1540,
+          <lb/>in-40
+          <lb/>Graesse V, p. 317.
+          <lb/>2935
+          <lb/>PLATO : Georgias aut de rhetorica, Socratis Apologia, Crito
+          <lb/>aut quid faciendum sit. Graece. Cum J. Sturmii praefa¬
+          <lb/>tione de ratione interrogandi atque collocandi dialectices.
+          <lb/>— Strasbourg, Wendelin Rihel 1541, in-4°.
+          <lb/>Graesse V, p. 315.
+          <lb/>2936
+          <lb/>PLATO : Theatetus vel de scientia. Pro schola Argentinensi.
+          <lb/>Graece. — Strasbourg 1567, in-8°.
+          <lb/>Graesse V, p. 320.
+          <lb/>2937
+          <lb/>PLATO : Pro Socrate defensio, graece et latine, addita oratione
+          <lb/>Boschii atque praefatione de vita Platonis (éd. Mich.
+          <lb/>Boschius). — Strasbourg, Antoine Bertram 1591, in-8°.
+          <lb/>Graesse V, p. 317.
+          <lb/>2938
+          <lb/>PLATO : Crito graece et latine (ex vers. Serrani) cum praefa¬
+          <lb/>tione Mich. Boschii. — Strasbourg, Antoine Bertram
+          <lb/>1592, in-80.
+          <lb/>Graesse V, p. 317.
+          <lb/>2939
+          <lb/>PLATO. Voir aussi : APULCius, Lucius, n° 837; SESELLIUS,
+          <lb/>Claudius, n° 3222.
+          <lb/>PLATUS, Platinus. Voir: PIATTI, Piattino de.
+          <lb/>PLAUTUS : Poeta comicus. — (Strasbourg, Jean Grüninger
+          <lb/>8.IV.1508), in-8° [éd. Jean Adelphus (Müling)).
+          <lb/>Graesse V; p. 326; Proctor 9908; Schmidt, I, n° 88; Baer
+          <lb/>411
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

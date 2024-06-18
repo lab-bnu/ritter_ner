@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:32.905350+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2216.tif
+IMAGE WIDTH: 2288
+IMAGE HEIGHT: 3824
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>212
+          <lb/>BÜCHLEIN
+          <lb/>Strasbourg, H. Vogtherr, 1539.
+          <lb/>EYn bewert vnnd! hochnützliches büchlin, den Erb¬
+          <lb/>gründ an alten vnnd jungen von grund ausz zûheylen,
+          <lb/>vnd&amp;#x27; widerumb haiehen. (Petite vignette.)
+          <lb/>Getrucht (!) zû Straszburg durch Hein-rich Vogt¬
+          <lb/>herren. Anno. M. D. XXXIX. (Verso blanc.)
+          <lb/>A la fin: Datum Straszburg menseJannuar. Anno.
+          <lb/>M. D. XXXIX. (3 feuilles de treffle. Verso blanc.)
+          <lb/>In-4°, car. goth., 7 f. non ch., sign. A-B., réclames.
+          <lb/>fol. A 2a : Vorred.
+          <lb/>près Diez 1871.
+          <lb/>R101528. Prov.: Don d’Alex. Hatzfeld geb. Schaum à Flacht
+          <lb/>318
+          <lb/>BÜCHLEIN
+          <lb/>Strasbourg, H. Vogtherr, 1538.
+          <lb/>E.
+          <lb/>Ein Newes hochnutz- lichs Büchlin, von erkantnüs
+          <lb/>der kranckeyten der Augen, Sampt einer figur oder
+          <lb/>Anathomia eines augs, wie es jnnwendig gestal- tet, volget
+          <lb/>in der andern colum, Auch erklärung der selbigen, mit
+          <lb/>anzeigung viler nutzlicher vnd bewerter hülff, als Pur¬
+          <lb/>gation, Pflaster, Collirien, Sieff, Puluer, Salben vnd augen
+          <lb/>wassern, wie mans mach-en vnd gebrauchen soll, ein¬
+          <lb/>em jeden hauszhalt nutzlich. (Feuille de lierre.)
+          <lb/>Getruckt zù Straszburg durch Heinrichen Vogtherren.
+          <lb/>Anno M. D. xxxviij.
+          <lb/>A la fin: Getruckt zû Strassburg durch Heinrichen
+          <lb/>Vogtherren. Anno. M. D. xxxviij.
+          <lb/>In-40, car. goth., 12 ff. non ch., sign. A-C, réclames, au verso du
+          <lb/>titre, gravure sur bois: Planche anatomique de l’œil avee désignation des
+          <lb/>diverses parties; au verso du dernier f., dont le recto blanc, marque
+          <lb/>typographique de Vogtherr. (H ee B, Planche XXXIV, No I.)
+          <lb/>R 101.399. Prov. inconnue.
+          <lb/>GPB: Berlin, Gœttingue BU.
+          <lb/>319
+          <lb/>BÜCHLIN
+          <lb/>Strasbourg, H. Vogtherr, 1539.
+          <lb/>Eyn Newes hochnutzlichs Büchlin, vnd Anathomi
+          <lb/>eynes auffgethonen augs, auch seiner! erklärung, bewerten
+          <lb/>purgation, Pflaster, Colliri! en, Sälblin puluern vnnd was¬
+          <lb/>sern, wie mans machen vnd brauchen sol.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

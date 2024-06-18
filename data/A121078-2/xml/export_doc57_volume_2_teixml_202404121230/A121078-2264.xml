@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:34.575378+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2264.tif
+IMAGE WIDTH: 2302
+IMAGE HEIGHT: 3814
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>260
+          <lb/>Schrifftliche Beschirmung vnd ver- thedigung dersel¬
+          <lb/>bigen Bekantnusz, gegen der Confu-tation vnnd Wider¬
+          <lb/>legung, so den Gesandten der vier Stätten, auff bemeldtem
+          <lb/>Reichstage, offen-ich fürgelesen, vnd hie getrewlich
+          <lb/>einbracht ist.
+          <lb/>Getruckt zu Straszburg, durch Theodosium Rihel.
+          <lb/>M. D. LXXIX, (Verso blanc.)
+          <lb/>In-4°, car. goth., 6 ff. non ch., 223 p. ch., titre courant, réclames
+          <lb/>notes marginales, initiale goth. A.
+          <lb/>fol. 2a non ch.: An Christlichen Leser, (5 pages.); suit
+          <lb/>une table de 2 pages à 2 col.
+          <lb/>R 101470. Prov.: Trübner (Vente Freiersleben), Strasbourg,
+          <lb/>16/XII. 1880.15M.
+          <lb/>RM Strasbourg; GPB: Berlin BN, Breslau BU.
+          <lb/>392
+          <lb/>Baum N° 25; Mente No 27a.
+          <lb/>BYHAHYLYHA: Voir: BUHAHYLYHA.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

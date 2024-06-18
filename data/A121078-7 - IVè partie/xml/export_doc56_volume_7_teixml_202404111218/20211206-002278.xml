@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:08.933690+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002278.tif
+IMAGE WIDTH: 2518
+IMAGE HEIGHT: 3958
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>KARGEL, Sixtus : Novae, elegantissimae gallicae, item et
+          <lb/>italicae cantilenae Mutetae et Passomezo, adiuncti suis
+          <lb/>Saltarelis, mira dulcedine in Testudine canenda in
+          <lb/>Tabulaturam pertranslatae. Neue, schöne und liebliche
+          <lb/>Tabulatur auff der Lauten zu spielen, von Fantasien,
+          <lb/>französischen und italienischen Stukken... — Strasbourg,
+          <lb/>Bernard Jobin 1574, in-fol.
+          <lb/>Vogeleis, p. 326/7.
+          <lb/>2201
+          <lb/>KARGEL, Sixtus : Renovata Cythara hoc est novi et commo¬
+          <lb/>dissimi excercendae Cytharae modi, Constans cantionibus
+          <lb/>musicis, Passomez, Paduan, Galliard., Alleman,, Ad
+          <lb/>tabulaturam communem reductis. Neugestalt Cyther
+          <lb/>buch dar innen viler art Gesänge, Lieder... — Strasbourg,
+          <lb/>Bernard Jobin 1578, in-4°.
+          <lb/>Vogeleis, p. 341.
+          <lb/>2202
+          <lb/>KARGEL, Sixtus : Toppel Cythar, Nova eaque artificiosa
+          <lb/>ratio ludendae Cytharae quam compilatores duplam
+          <lb/>Cytharam vocant... Neue künstliche Tabulatur auf der
+          <lb/>Lauten gemäss Toppel Cythar mit 6 Cohren... —
+          <lb/>Strasbourg, Bernard Jobin 1578, in-4°.
+          <lb/>Vogeleis, p. 341.
+          <lb/>2203
+          <lb/>KARGEL, Sixtus : Lautenbuch viler Newerlessner... Lauten¬
+          <lb/>stück... — Strasbourg, Bernard Jobin 1586, in-fol.
+          <lb/>Vogeleis, p. 352 ; Berlin, Breslau, Brüssel, etc.
+          <lb/>2204
+          <lb/>KARL V : Die verschribung und verwilligung des aller¬
+          <lb/>durchleuchtigsten Herrn, Herren Karle Römischen
+          <lb/>unnd Hispanischen Künig &amp;amp;c gegen dem heylige
+          <lb/>Reich Das gar löblich zu hören ist. (Armoiries d
+          <lb/>Charles Vl. — (Strasbourg 1519), in-4°.
+          <lb/>Bibl. S. Guillaume, Strasbourg; Weller 1287.
+          <lb/>220
+          <lb/>KARL V : Carolus Ro. Rex. Electus... — (Strasbourg, Jea
+          <lb/>Schott 1519), in-40.
+          <lb/>Schmidt II, n° 47 : Bâle, Sélestat.
+          <lb/>226
+          <lb/>276
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

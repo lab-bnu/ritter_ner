@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:09.932551+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002327.tif
+IMAGE WIDTH: 2534
+IMAGE HEIGHT: 3960
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Martin Luther auszgangenn. Nemlich von dem Deütschen
+          <lb/>Adel, der heiligen Mesz, dem Babsttumb zu Rom. —
+          <lb/>(Strasbourg, Wolfg. Köpfel 1520), in-4° (Titre encadrél.
+          <lb/>Bibl. St. Guillaume, Strasbourg; Weller 1509, Protor 10260;
+          <lb/>Benzing: Schürer n° 4 l’attribue à Schürer hér.
+          <lb/>2462
+          <lb/>LUTHER (Admonycion): A faythfull admonycion, Grene¬
+          <lb/>wych, C. Freeman (—Strasbourg, W. Rihel 1554l.
+          <lb/>S. T. C. 16.980. Voir: JOHNSON, A. F. dans The Library,
+          <lb/>serie V, vol. IV.
+          <lb/>2463
+          <lb/>LUTHER (Annotationes) : Annotationes in Johannem. —
+          <lb/>Haguenau, Jean Secer 1523, in-4°. (2 autres éd. sans
+          <lb/>datel.
+          <lb/>Hanauer : Hist impr. Haguenau p. 73 et suiv.
+          <lb/>2464
+          <lb/>LUTHER (Antwort an König Heinrich) : Anntwurt deütsch.
+          <lb/>Mar. Luthers auff Könnig Heinrichs von Engeland
+          <lb/>buch... — (Strasbourg, Jean Prüss 1522), in-4°.
+          <lb/>Weimarer Ausg. X, 2 S. 223 B; Dommer, p. 247, n° 95;
+          <lb/>Breslauer (Berlin), Katal. III (1908), n° 532 ; 80 M. — Breslau,
+          <lb/>Erlangen, Worms.
+          <lb/>2465
+          <lb/>LUTHER (Antwort an König Heinrich) : Antwort Martini
+          <lb/>Luther auff künig Henrich von Engellandts buch. —
+          <lb/>(Strasbourg, Jean Knobloch 15221, in-4°.
+          <lb/>Weimarer Ausg. X, 2, p. 223 C. Breslau, Erlangen, Worms.
+          <lb/>Breslauer (Berlin), Katal. III (1908), n° 525 : 90 M.
+          <lb/>Hiersemann (Leipzig), Catal, 666, n° 852 : 40 M.
+          <lb/>2466
+          <lb/>LUTHER, Martin (Antwort auf die Zettel) : Antwort Auf
+          <lb/>die zedel, so under des Officials zu Stolpen sigel ist
+          <lb/>auszgangen. — (Strasbourg, Martin Flach vers 1520),
+          <lb/>in-40
+          <lb/>Horning, n° 9; Dommer, n° 143; Kuczynski, n° 1346;
+          <lb/>Schmidt VI, p. 31, n° 47 : Bibl. S. Guillaume, Strasbourg;
+          <lb/>Weller 1499.
+          <lb/>2467
+          <lb/>325
+          <lb/>11-1
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:44.224161+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078060.tif
+IMAGE WIDTH: 2338
+IMAGE HEIGHT: 3842
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>946
+          <lb/>Unter altem Kram bei oben vermeldeten antiquarius Mayer entdeckt vom
+          <lb/>maler... (nom illisible), auf der vierten Seite die handschrift Dr. Martin
+          <lb/>Luthers....» Erreur, ce n’est pas la signature de Luther, mais simplement
+          <lb/>la copie du texte du livre, où figure le nom de Luther à la fin de la
+          <lb/>préface.
+          <lb/>Oxford, Bibl. Bodleiana; Bibl. St. Guillaume, Strasbourg; Proctor
+          <lb/>II Sectio I n° 11711: Londres Brit. Museum; Walter: Sélestat
+          <lb/>n° 1750.
+          <lb/>Bibliographie de Luther, cf. Schottenloher I n° 10.919-14.610.
+          <lb/>1417
+          <lb/>LUTHER Martin
+          <lb/>[Strasbourg, J. Knobloch 15211
+          <lb/>Doctor Mar- tinus Luther! Augustiners! Erbieten.
+          <lb/>In-4°, car. goth., 3 ff. non ch. dont le dernier blanc, sans sign.,
+          <lb/>encadrement employé par Knobloch.
+          <lb/>E 125.917. Prov, inconnue.
+          <lb/>Weller, Repertorium n° 1834: «Basel, Augsburg und München.
+          <lb/>Abgdr. in Tetzels Bericht. Leipzig 1717, S. 493.,
+          <lb/>1418
+          <lb/>LUTHER Martin
+          <lb/>[Haguenau, Th. Anshelm ?1 1521
+          <lb/>DOCTORIS MARTINILutheri oratio coram Caesare
+          <lb/>Carolo, Electoribus Principi bus, &amp;amp; Statibus Imperii, in
+          <lb/>con! ventu Imperiali Vormaciae! die XVIII. Aprilis hoc
+          <lb/>est! Fer. V. post Misericor! dia Domini habi! ta M. D. XXI.
+          <lb/>In-4°, car, rom., 5 ff. non ch. 4 1 f. blanc, sign. a, init. à fig. S.
+          <lb/>titre encadré: en haut, deux griffons tenant chacun une corne d&amp;#x27;abon¬
+          <lb/>dance, sur les bordures latérales, des piliers ornés; en bas, des génies,
+          <lb/>tirant et poussant l&amp;#x27;un d’entre eux couché sur un plat, un autre sonne
+          <lb/>de la trompette. Reproduit p. 945.
+          <lb/>Au verso du titre — a 3b: Discours de Luther, (5 pp.)
+          <lb/>Fol. a 5a: VERSVS AD PALATIVM CAESA! ris fixi contra
+          <lb/>Schieffer &amp;amp; monachum aliud. (4 dist.) Au-dessous: IVBILVM
+          <lb/>EVRICH CORDI REVEREN do patri doctori Martino Luthero,
+          <lb/>Vor! matiam ingredienti acclamatum. 1 M.! D. XXI. die
+          <lb/>XVII. Aprilis, (89 vers.)
+          <lb/>Les caractères et l&amp;#x27;init. S ainsi que l&amp;#x27;encadrement du titre parlent
+          <lb/>pour Thomas Anshelm à Haguenau.
+          <lb/>R100.923. Prov. : Recteur Muller, Quedlinbourg 15/V 1889;
+          <lb/>notes mes. au bas du titre et au verso...: ,Mit dieser Einfassung er¬
+          <lb/>schien : De Liberalibus Oratio a Philippo Melanchthone Tubingae habita.
+          <lb/>Ex Charisio Thomae Anshelmi Mense Iulio (1517), in 80,° Février 1884
+          <lb/>Max Heyl (Worms) a fait imprimer 50 exemplaires en facsimilé à Mayence
+          <lb/>chez C. Wallau. (E 100718.) Dommer A. v.: Lutherdrucke (Leipeig
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

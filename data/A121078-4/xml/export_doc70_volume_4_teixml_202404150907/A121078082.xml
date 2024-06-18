@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:44.939591+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078082.tif
+IMAGE WIDTH: 2326
+IMAGE HEIGHT: 3844
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>F
+          <lb/>968
+          <lb/>Au verso du titre: Martinus Lutherus! Tomo colloquiorum.
+          <lb/>Fol. A 2a: Dem rechtglaubigen! und guthertzigen Leser gnad und
+          <lb/>heil... — Datum Sletstat, den letzten tag! Herbstmonats im! Jar
+          <lb/>Renhardus Lutz Ery- thropolitanus. (Vign.)
+          <lb/>1570.
+          <lb/>*R102.324. Prov.: Bœr, Francfort-s.-M. 22/X1 1878; sans indi¬
+          <lb/>cation de prix. Au verso du titre: Grossherzogliche Hessische Bibliothek.
+          <lb/>1456
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

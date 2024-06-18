@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:58.597391+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5255.tif
+IMAGE WIDTH: 2402
+IMAGE HEIGHT: 3860
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>A
+          <lb/>ZACHARIAS Abbas, Elegia ad Venetos. Voir: BAPTISTA Man¬
+          <lb/>tuanus, De fortuna Francisci Marchionis Carmen. Strasbourg,
+          <lb/>M. Schürer, 1510. R101.018; n° 136.
+          <lb/>ZAMBERTUS Bartholomaeus Strasbourg, M. Schürer, 1511
+          <lb/>Bartholomei Zamberti(! Veneti Comedia quam lepidissima !!
+          <lb/>Dolotechne.  Lector, eme, Lege, !! et probabis.
+          <lb/>Anonymi Hexastichon. (3 dist.) (Verso blanc.)
+          <lb/>A la fin: Argentorati Ex aedibus Schure ianis (!) Mense
+          <lb/>Nouembri An. M. D. XI.
+          <lb/>In-4°,, car. rom., 34 ff. non ch., sign. a-g, de nombreuses init. d’attente.
+          <lb/>fol. a 2a : Bartholomeus Zambertus!! Venetus Hieronymo Sa-!!
+          <lb/>vorgano patritio ve!! neto Musarum cul II tori doctissi- Il mo. Salv. di-I]
+          <lb/>eternam... — Venetijs an-no a christiana foelicitate. [] M. D. IIII.
+          <lb/>Calendis Sextilibus.
+          <lb/>&amp;quot;R. 101.071. Prov. : Spirgatis, Leipzig, 7/x, 1893; 21 M.
+          <lb/>Proctor II, Sectio I, No 10.192 : Londres, British Museum; Schmidt
+          <lb/>VIII, N° 60, n’ayant pas connu d’exemplaire de ce livre rare, il cite Pan¬
+          <lb/>zer 6, 53, 250. Brunet I, 680.
+          <lb/>2508
+          <lb/>ZANCHI Girolamo
+          <lb/>Mulhouse, P. Schmid, 1564
+          <lb/>De Dissi-dio In Coena! Domini : Hieronymi! Zanchi
+          <lb/>iudi- cium.
+          <lb/>Marque typ. de P. Schmid. (H. &amp;amp; B. Planche LXXV, No I.)
+          <lb/>MyliiExcudebat Petrus Fabricius!! Anno M. D.LXIIII.
+          <lb/>(Verso blanc.).
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:09.914739+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3262.tif
+IMAGE WIDTH: 2332
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>704
+          <lb/>Strassburg, M. Schürer 1512
+          <lb/>GREGORIUS Nyssenus
+          <lb/>DVINIGregorij Nyssae Episcopi qui fuit frater
+          <lb/>Basilij Magni LIBRi OCTO. I De Homine Il De Anima
+          <lb/>III De Elementis IIII De Viribus animae V De volun¬
+          <lb/>tario et inuoluntario VI De Fato VII De Libero arbi¬
+          <lb/>trio VIII De Prouidentia.
+          <lb/>Hoc opus Basileae apud Diuum Dominicum habe- tur,
+          <lb/>quod speramus a Conone nostro (si per) ocium licuerit)
+          <lb/>propediem tralatum iri. Vale rursus ac Salue.
+          <lb/>Am Schluss: Argentorati, ex officina libraria Mathiae
+          <lb/>Schurerij Selestensis, Artium Do- ctoris Maio. An. M. D.
+          <lb/>XII. T.O.
+          <lb/>26, Antig., 6 unn., LX num. Bll., Kopft, Marg., Init. Titelum¬
+          <lb/>rahmung entuorfen von Beatus Rhenanus, gez, von Urs Graf: Oben
+          <lb/>Kaiser Maximilian sitzend, in der Rechten das Sàepter, in der Linken
+          <lb/>einen von einem Kreuze ùberragten Globus, rechts vom Kaiser Erzherzog
+          <lb/>Karl, links König Ferdinand von Kastilien; unter dem Throne: MAXI¬
+          <lb/>MILIANUS AUG. Weiter unten in einem Halbkreis kaiserliches Wappen
+          <lb/>umgeben von den Wappen der 7 Kurfürsten.
+          <lb/>Unter dem Titel links ein nackter Mann mit Trophäen, rechts ein
+          <lb/>nackter Mann mit einem Banner u. dem Monogramm von Urs Graf.
+          <lb/>Darunter folgende Inschrift: IMPER. CAES. MAXIMILIANO. P. F.
+          <lb/>AVG. PATRI PATRIAE. LIBER TATISQVE ADSERTORI. Beat.
+          <lb/>RHENANVS. F. C. Die Seitenbordüren bestehen aus lauter Wappen.
+          <lb/>Auf der Rücks, des Titelbl.: Ad magnificum loannem Grac¬
+          <lb/>cvm pierium (!) diui Maximiliani Caesaris praetorium per
+          <lb/>Austriam protonotarium. Io. Stabij. Au. Vatis &amp;amp; poetae
+          <lb/>Carmen, (7 vierzeilige Strophen.)
+          <lb/>Darunter: Matthias Schurerius Lectori. Lector quod hoc
+          <lb/>Gregorij Nysseni opus leges. Ioanni Stabio viro doctissimo
+          <lb/>gratias habeto.
+          <lb/>Bl. A 2: F. Io. Cono Norimontanus Beato Rhenano Se¬
+          <lb/>lestensi. S. P.... Ex Cenobio F. ord. diui Dominici Ex Ba¬
+          <lb/>silea. Cursim. vij. luce Martij. An. M. D. XH.
+          <lb/>Bl. A 5: ... Friderico dei gratia Romanorum imperatori
+          <lb/>&amp;amp; Cesari semper Augusto, Burgundio iudex natione Pisanus.
+          <lb/>*R10.139. Prov.: Cromer, Pfarrer in Zabern 29. VII. 1879.
+          <lb/>Auf dem leeren Vorblatt ist ein Gedicht von 15 Dist, von Jakob
+          <lb/>Spiegel eingeklebt: Posteritati Jacobus Spiegel. dicavit, aetatis suae anno
+          <lb/>LVI. Salutis M. D. XXXVIII.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

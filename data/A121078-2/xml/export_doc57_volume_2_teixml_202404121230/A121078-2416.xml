@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:38.716475+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2416.tif
+IMAGE WIDTH: 2384
+IMAGE HEIGHT: 3822
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>412
+          <lb/>fol, C2b non ch.: ABOLLO TELO ARMATVS AD SPECTA¬
+          <lb/>TORES MA-CHINAE ASTRONOMICAE IN TEMP- plo Reipu¬
+          <lb/>blicae Argentoratensis (12 vers latins.)
+          <lb/>Au-dessous: VRANIA MVSA Ad Senatum populumque
+          <lb/>Argentinensem, (10 vers latins, signés: Paulus Melissus Fran¬
+          <lb/>cus poeta Laureatus.
+          <lb/>fol. 25, 27, 2 ff. doubles, pliés.
+          <lb/>De nombreuses petites gravures, les éclypses de lune de 1573-1605.
+          <lb/>1874; sans indic. de prix.
+          <lb/>R102.281. Prov.: Trübner (Vente Noiriel), Strasbourg, 4/IV.
+          <lb/>GPB: BN Berlin, BU Bonn. Breslau.
+          <lb/>612
+          <lb/>DASYPODIUS Conradus
+          <lb/>Strasbourg, N. Wyriot, 1580.
+          <lb/>CVNRADI DASYPODIIHeron Mechanicus:SeuDe
+          <lb/>Mechanicis artibus, atque disciplinis. Eiusdem Horologij
+          <lb/>astronomici, Argento- rati in summo Templo erecti, des¬
+          <lb/>criptio.
+          <lb/>Gravure sur bois: l’horloge de la cathédrale de Strasbourg.
+          <lb/>ARGENT. Excudebat Nicolaus Wyriot, 1580. (Verso blanc.)
+          <lb/>In-4°, car, rom., 42 ff. non ch., sign. A-K, titre courant, récla¬
+          <lb/>mes, initiales à fig. I, C, G, A. M, 9, P, titre encadré (ornements.)
+          <lb/>fol. a 2a: Illustrissimo Principi GVILIELMO ROBERTO
+          <lb/>Duci... CVNRADVS Dasypodivs... — Iunij Anno 1580. Ar¬
+          <lb/>gentorati. (Vignette.) Préface de 6 p. en car. ital.)
+          <lb/>A partir de fol. I: les éclypses de lune de 1573 à 1605 avec de
+          <lb/>petites figures correspondantes.
+          <lb/>R102.282. Prov.: Trübner (Vente Bœrsch, Catal. No 296), Stras-
+          <lb/>bourg, 19/III. 1875; 30 M. Au bas du titre: Jacobus Collarius ex dono
+          <lb/>Generosi Domini Herculis a Salis affinis optimi.
+          <lb/>Oxford, Bibl. Bodleiana; BM Strasbourg.
+          <lb/>612
+          <lb/>DASYPODIUS Conradus
+          <lb/>Strasbourg, J. Martin, 1593.
+          <lb/>CVNRADI DASYPODII PROTHEC-RA MATHEMATICA,
+          <lb/>IN QVA NON SOLVM DI-sciplinae Mathematicae omnes,
+          <lb/>ordine con- uenienti enumerantur, verum etiam uni¬
+          <lb/>uersalia Mathematica praecepta, explicantur.
+          <lb/>Brevis quoque CORPORIS MATHEMA- TICI, IN tria volu¬
+          <lb/>mina, INSTITUTIONVM DVO, ET PANDECTARVM VNVM dis¬
+          <lb/>tincti, descriptio. (Vignette.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:35.046547+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2282.tif
+IMAGE WIDTH: 2298
+IMAGE HEIGHT: 3816
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>278
+          <lb/>Au-dessous: M. D. XXXVIII.Cum Gratia &amp;amp; Priuilegio
+          <lb/>Imperiali, (Verso blanc.)
+          <lb/>A la fin: Ex OFFICINA CRATONIS MYLH ARGENTORATEN.
+          <lb/>ANNO M. D. XXXVIII.
+          <lb/>In-4e, car. rom., 3 ff. non ch., 152 p. ch. — I f. non ch., au verso
+          <lb/>de celui-ci marque typ. de Crato Mylius (H&amp;amp; B, Planche XXVI. No
+          <lb/>4), au-dessous: De forti dvlcedo; titre courant, réclames, notes mar¬
+          <lb/>ginales, initiale à fig. C; plusieurs initiales ornées.
+          <lb/>fol. 42: Ioachimus Camerarius... Bolgango Augusto
+          <lb/>Seuero, Regiorum filiorum apud Aeni pontes Magistro,
+          <lb/>amico perueteri S. S. D... — E scola Tubingensi. III. Idus
+          <lb/>Octobr. M. D. XXXVII.
+          <lb/>RIO1475 : Prov.: O. Harrassowitz. Leipzig (Catal. 57. No 380),
+          <lb/>28/X 1879; 1 M. 50. A l’intérieur du 1er plat : M. Io. Gottlob Cuntze.
+          <lb/>1823; au recto du f. de garde, annotation mss. sur l’édition du Commentaire.
+          <lb/>BN Paris, Yb. 180; Oxford, Bibl. Bodleiana; BU Fribourg en
+          <lb/>Br. D 2360; GPB: Berlin BN, Bonn B U, Breslau B U. Gœttinque
+          <lb/>BU, Halle BU, Kœnigsberg B U. Munster BU.
+          <lb/>419
+          <lb/>CAMERARIUS Joach.
+          <lb/>Strasbourg, Cr. Mylius, 1540.
+          <lb/>COMMENTARUI EXPLICATIONVM SECVNDI ] libri Homeri¬
+          <lb/>cae lliados. ITEM CONVERSIO GRAECORVMuersuum in
+          <lb/>Latinos. AVTORE IOACHIMO CAMERARIO Pabergensi.
+          <lb/>Marque typ. de Crato Mylius (Hè B, Planche XXVII, NO 8).
+          <lb/>Au-dessous: ANNO M. D. XL.Cum Gratia &amp;amp; Priuilegio
+          <lb/>Imperiali. (Verso blanc.)
+          <lb/>A la fin: IMPRESSVM ARGENTORATI IN OF FCINA CRA¬
+          <lb/>TONIS MYLI. AN NO SALVTIS HVMANAE M. D. XL. MEN
+          <lb/>SE FEBRV ARIO. (Feuille de lierre.)
+          <lb/>In-40, car, rom. et grecs, 4 ff. non ch, 207 p. ch. (la dernière p.
+          <lb/>est ch. 167 pour 207). — 7 ff. non ch. (Table et au verso du dernier f.
+          <lb/>Errata), titre courant, réclames, initiales à fio. C, S, et plusieurs initia¬
+          <lb/>les ornées.
+          <lb/>fol. a2:... Petro Collatino ad Oenipontem Musarum
+          <lb/>antistiti, amico, S... — Tubingae XV. cal. Decembris.
+          <lb/>R101.474. Prov.: O. Harrassowitz, Leipzig (Catal. 57, Ne 380),
+          <lb/>28/x. 1879, 1 M. 50.
+          <lb/>Annotations mss.; à l&amp;#x27;intérieur du ter plat: M. Io. Gottlob Cuntze.
+          <lb/>1823; au bas du titre: Constat 5 solidos.
+          <lb/>Oxford, Bibl. Bodleiana; BN Paris, Yb. 181; Walter: Sélestat
+          <lb/>N° 900; GPB. Berlin BN, Bonn BU, Breslau RU, Gættingue BU,
+          <lb/>Halle BU, Kœnigsberg BU.
+          <lb/>420
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:08.399847+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002262.tif
+IMAGE WIDTH: 2524
+IMAGE HEIGHT: 3964
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>HUTTICH, Joh. : Libellus Imperatorum Romanorum, una
+          <lb/>cum imaginibus... — Strasbourg, Wolfgang Köpfel 1537,
+          <lb/>in-8°. (Ritter, Hist. impr. p. 248).
+          <lb/>[Autres éd. de Köpfel 1525, 1526, 1534 et 1552; voir Ritter,
+          <lb/>Rép, nos 1235-1238).
+          <lb/>2118
+          <lb/>HUTTICH, Joh. (Idem). — Strasbourg, Wolfgang Köpfel
+          <lb/>1540, in-8°. (Ritter, Hist, impr. p. 248).
+          <lb/>2119
+          <lb/>HYGINUS : [HIIgini Astronomi Von den bildern der zwölff
+          <lb/>zaychen am himel mit ihren sternen und aygenschafften...
+          <lb/>— Strasbourg, Jacques Cammerlander 1531, in-40.
+          <lb/>Zinner 1441.
+          <lb/>2120
+          <lb/>HYGINUS. Voir aussi: KALENDER n° 2189.
+          <lb/>HYMNI: Hymni de tempore et de sanctis... denuo redacti... —
+          <lb/>(Strasbourg, Jean Knobloch, mars 1519), in-4°.
+          <lb/>Panzer 6, 92, 558; Schmidt VII, n° 174: B N Munich. (Autres
+          <lb/>éd. de Knobloch 1513 et 1516, voir Ritter, Rép. nos 1239-
+          <lb/>1240l.
+          <lb/>2121
+          <lb/>HYMNI de tempore et de sanctis (éd. J. Wimpheling). —
+          <lb/>Haguenau, Henri Gran 1519, in-80.
+          <lb/>Proctor 11.677 (b).
+          <lb/>2122
+          <lb/>ICHER, Felix. Voir: AcTEN n° 741.
+          <lb/>ILLKIRCH (Bas-Rhin), [Jost vonl. Voir: HOFMANN, Melchior
+          <lb/>n° 2035.
+          <lb/>IMITATIO Christi (en allemand) : Nachvolgung Christi und
+          <lb/>verschmähung aller eitelkeil diser welt... Ist jetz aber¬
+          <lb/>mal... von newem auszgangen. — (Strasbourg, Jean
+          <lb/>Prüss, 28 mai 1544), in-80.
+          <lb/>Fromm : Die Ausgaben der Imitatio Christi in der Kölner
+          <lb/>Stadtbibliothek. (Köln 1886), p. 20; Schmidt III, p. 42,
+          <lb/>n° 52. (Édition Köpfel 1552 voir Ritter, Rép. n° 2326l.
+          <lb/>2123
+          <lb/>260
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

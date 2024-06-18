@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:06.218816+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3098.tif
+IMAGE WIDTH: 2314
+IMAGE HEIGHT: 3840
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>542
+          <lb/>EUSEBIUS
+          <lb/>Strassburg, M. Hupfuff 1514
+          <lb/>Das buch der geschicht des grossen Alexanders wie
+          <lb/>die Eusebius be- schriben vnd geteütscht hat, new ge¬
+          <lb/>druckt mit vyl schönen figuren.
+          <lb/>Darunter: Alexander mit Szepter u. Krone, auf dem Throne, links
+          <lb/>von ihm seine Berater, rechts eine Anzahl Ritter; bereits in der Aus¬
+          <lb/>gabe Kistlers 1503. (Rücks, leer.)
+          <lb/>Am Schluss: Hie endet sich die hystori Eusebij von
+          <lb/>dem grosz sen Alexander, als die der hochgelert doctor
+          <lb/>Johannes hartliebe des durchleüchtigen fürsten hertzog
+          <lb/>Albrechts säliger gedechnüss in teütsch transferiert vnd
+          <lb/>geschriben hat. Getruckt vnd vollendet in der löb- lichen
+          <lb/>stat Strasszburg von Mathiss hüpfuff am Mitwoch! vor mit¬
+          <lb/>fasten. Als man zalt. M. CCCCC. vnd xiiij Jar.
+          <lb/>20, Got., 2sp., XCI num. Bll., Kopft,, zahtr. Init,, 93 El. Hole¬
+          <lb/>schnitte, von denen viele andern Werken entlehnt sind. Am Schluss blatt¬
+          <lb/>grosser Holeschnitt: ein Gelehrter, welcher einem König ein Buch über¬
+          <lb/>reicht.
+          <lb/>Johann Hartlieb († 1468) übersetzte den Roman ins Deutsche für
+          <lb/>Albrecht III. von Bayern u. seine Gemahlin Anna von Braunschweig;
+          <lb/>er wurde oft gedruckt, zuerst 1473 in Augsburg durch Johann Bämler,
+          <lb/>dann ebenfalls in Augsburg durch Anton Sorg 1478, 1480, 1483, 1486;
+          <lb/>in Strassburg durch Martin Schott 1488, 1489, 1493. Bartholomaus
+          <lb/>Kistler 1503, Martin Flach 1509, im gleichen Jahr durch Matthias
+          <lb/>Hupfuff.
+          <lb/>R10.049. Prov.: Trübner, Strassburg 12. XII. 1884; 162 M.
+          <lb/>Pergamentumschlag mit lat. Text aus dem Missale (rot u. schware).
+          <lb/>Proctor II, Sectio I Nr. 10.037: London, British Museum; Schmidt V
+          <lb/>Nr. 112. Vgl. Heitz &amp;amp; Ritter: Die deutschen Volksbücher, Strassburg
+          <lb/>1924, S. 1-6 (Alexanderroman).
+          <lb/>GK: SB Berlin, UB Bonn (def.) Stichwort: Leo Archipresbyter:
+          <lb/>822
+          <lb/>Historia Alexandri Magni, deutsch.
+          <lb/>EUSEBIUS
+          <lb/>Strassburg 1500
+          <lb/>Ecclesiastica Historia diui Euse-! bii; et Ecclesiastica
+          <lb/>historia gentis anglorum venerabilis Bede: cum vtrarum¬
+          <lb/>que historiarum per singulos libros recollecta capitulorum
+          <lb/>an! notatione. (Rücks. leer.)
+          <lb/>Am Schluss: Libri ecclesiastice historie gentis Anglo¬
+          <lb/>rum impressi in inclyta ciuitate Argentinensi, dili genter
+          <lb/>reuisi ac emendati finiunt feliciter. An no salutis nostre
+          <lb/>Millesimo quingentesimo xiiij. die Marcij. (Rücks. leer.)
+          <lb/>20, Got., 2sp., 160 unn. Bll. (94 für Eusebius u. 66 für Beda).
+          <lb/>Kopft., Init.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

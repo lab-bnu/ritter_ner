@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:08.368339+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002260.tif
+IMAGE WIDTH: 2506
+IMAGE HEIGHT: 3976
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>HUTTEN, Ulr. : Gespräch büchlin... Feber das Erst. Feber das
+          <lb/>Ander. Wadiscus oder die Römische dreyfaltigkeit. Die
+          <lb/>Anschawenden. — (Strasbourg, Jean Schott 1521), in-40.
+          <lb/>Böcking XXVII, 1; Neufforge, p. 353 et 377/8; Röttinger:
+          <lb/>Weiditz, p. 91; Schmidt II, n° 59; Weller 1793; Graesse III,
+          <lb/>p. 399; Benzing : Hutten, n° 125 : B M Augsbourg; B U Bâle,
+          <lb/>B U Göttingen, B U Jena, Brit. Mus. Londres; B N Strasbourg,
+          <lb/>etc. Baer (Francfort, Catal, 500 (1907) n° 1373).
+          <lb/>2109
+          <lb/>HUTTEN, Ulr. (Lied) : Ain new lied her Ulrichs von Hutten.
+          <lb/>Ich habs gewagt mit sinnen. (7 strophes à 10 vers
+          <lb/>chacunel. (Gedruckt ym Jar XXI). — (Sélestat, Nicolas
+          <lb/>Küfferl 1521, placard in-fol.
+          <lb/>Böcking XLI, 1 et 2; Goedeke II2, p. 232, n° 41; Weller
+          <lb/>1795 et 1796; E. Rosenow, Wider die Pfaffenherrschaft
+          <lb/>Bd. I (1925), p. 285 (facs.) et G. Könnecke, Bilderatlas zur
+          <lb/>Geschichte der deutschen Nationallitteratur, Marburg 1887,
+          <lb/>p. 83; Benzing, Hutten, n° 179 : B N Berlin.
+          <lb/>2110
+          <lb/>HUTTEN, Ulr. (Outis ; nemo) : OYTIZ. Nemo (Grav.). —
+          <lb/>(Strasbourg, Mathias Schürer après le 24 août 1518), in-4°.
+          <lb/>Böcking XV, 2; Proctor 10.258; Benzing, Hutten, n° 63 :
+          <lb/>Londres, Brit. Mus.; B N Munich, Strasbourg, Vienne, etc.
+          <lb/>2111
+          <lb/>HUTTEN, Ulr. (Salustius) : C. Salustii et Q. Curtii flores,
+          <lb/>selecti per Huldericum Huttenum equidem eiusdemque
+          <lb/>scholiis non indoctis illustrati. — Strasbourg, [Jean
+          <lb/>Herwagen) 1528, in-80,
+          <lb/>D’après la fiche du Cat, méthodique de la B N de
+          <lb/>Strasbourg, où le livre a disparu. Böcking XLVI, 1; Panzer VI,
+          <lb/>115, 780; Benzing, Hutten, n° 191 : B U Fribourg, Jena,
+          <lb/>B M Mayence, Bibl. Roy, s’-Gravenhage, Steinfeld (Schlüchtern).
+          <lb/>2112
+          <lb/>HUTTEN, Ulr. (Triumphus) : J. Reuchlin... Encomion.
+          <lb/>Triumphanti illi ex deiectis, Obscuris viris... Haguenau,
+          <lb/>Thomas Anshelm fin 1518, in-4°.
+          <lb/>Böcking XVI, 2, Hohenemser 2732, Kuczyński 1082; Benzing,
+          <lb/>258
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

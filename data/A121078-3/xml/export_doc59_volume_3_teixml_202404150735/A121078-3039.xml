@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:05.362056+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3039.tif
+IMAGE WIDTH: 2338
+IMAGE HEIGHT: 3838
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Bl. 4b: Libellus loquitur. (3 Dist.)
+          <lb/>Bl. 2a: Einfassung: 4 eingelne Leisten, oben: Engelstopf von
+          <lb/>Bändern umgeben; an den Seiten: Säulen mit Kindern, unten in der
+          <lb/>Mitte: Sirene, links und rechts davon Seeungeheuer.
+          <lb/>FR100.110. Prov.: Bibl. Heitz, Strassburg. Handschr. Notizen,
+          <lb/>auf der Innenseite des Vorderdeckels» Liber prohibitus-; auf der Vorder¬
+          <lb/>seite des Schutabl.: »V. sur Nic. Gerbel, Roehrich, Reformat. Geschichte
+          <lb/>T. I, p. 126 et Register, p. 309 avec la remarque que Roehrich ne con¬
+          <lb/>naissait pas cet ouvrage.« Auf dem Titelbl. oben: »Ex Biblioth. Franc.
+          <lb/>Otto Zenkneri 1645.=
+          <lb/>GK: SB Berlin, UB Breslau, Greifswald; Proctor Sectio I Nr.
+          <lb/>10238: London, British Museum; BN Paris Rés. Z. 1071; Rest S. 56;
+          <lb/>722
+          <lb/>Schmidt erwähnt diese Ausgabe nicht.
+          <lb/>ERASMUS: Parabolae
+          <lb/>Strassburg, M. Schürer, Febr. 1516
+          <lb/>ERASMI ROTERODAMI! Parabolarum, siue Simi! lium
+          <lb/>Liber.! CVM PRIVILEGIO IMPE- riali, ad Sexennium.
+          <lb/>Am Schluss: Finis. Argentorati, Ex Aedibus Schurerianis,
+          <lb/>Mense Februario, Anno, M. D. XVI. Regnante Imperatore
+          <lb/>Caesare Maximiliano. P. F. Aug. P. P. (Rückseite leer.)
+          <lb/>40, Antig,, 64 unn. Bll., Sign. A-K, Init. Q, Marginalien.
+          <lb/>Auf der Rüekseite des Titelbl.: ERASMVS ROTERODAMVS
+          <lb/>Petro Aegidio Celebratissimae ciuita tis Antvuerpiensis a
+          <lb/>libellis. S. D.... — Basileae. Anno a Christo nato M. D. XIIII.
+          <lb/>Idi-bus Octobris, (3S.)
+          <lb/>FR100.930(). Prov.: K. Th. Völcker, Frankfurt a. M., 1. VII.
+          <lb/>1880; 1 M. Zahlreiche handschr, Notizen, besonders auf den ersten
+          <lb/>20 Bll. und auf der leeren Rückseite des letzten Bl.
+          <lb/>GE: SB Berlin, mit folgenden Abweichungen: 1) Zeilenabsate in
+          <lb/>1. Zeile, nicht hinter Simi sondern hinter Similium; 2) am Schluss der
+          <lb/>Vorrede nicht Octobris sondern Octobriis. Rest S. 57. Fehlt bei Schmidt,
+          <lb/>voelcher die Ausgabe vom Monat November verzeichnet.
+          <lb/>723
+          <lb/>483
+          <lb/>ERASMUS: Parabolae
+          <lb/>Strassburg, M. Schürer, November 1516
+          <lb/>ERASMI ROTERODAMIParabolarum, siue Simi- lium
+          <lb/>Liber.
+          <lb/>CVM PRIVILEGIO IMPE-riali, ad Sexennium.
+          <lb/>Am Schluss: Finis Argentorati, ex Aedibus Schurerianis,
+          <lb/>Mense Nouemb. Anno. M. D. XVI. Regnante Imperatore Cae¬
+          <lb/>sare Maximiliano. P. F. Aug. P. P.
+          <lb/>40, Antig., 64 unn. Bll., Sign. A-K, Kopftitel, Marginalien, Init. Q.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

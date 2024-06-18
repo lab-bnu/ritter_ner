@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:07.817974+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002243.tif
+IMAGE WIDTH: 2506
+IMAGE HEIGHT: 3968
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>sun usz der schönen inseln Cippern geboren... —
+          <lb/>(Strasbourg, Jean Grüninger (20.IX.] 1516), in-fol.
+          <lb/>Schmidt I, n° 153 ; Graesse II, p. 307. Heitz-Ritter,
+          <lb/>n° 239. — BN Berlin, Munich.
+          <lb/>2027
+          <lb/>HISTORY und wahrhafftige geschicht, wie das heilig Evange¬
+          <lb/>lion mit Johann Hussen ym Concilio zu Costnitz durch
+          <lb/>Bapst und seinen anhang offentlich verdampt ist, ym
+          <lb/>Jare... 1414. Mit angehenckter Protestation des Schrei¬
+          <lb/>bers, der bey allen stucken und puncten gewesen ist. —
+          <lb/>(Haguenau, J. Secer) (1529), in-16°.
+          <lb/>Burg, n° 225.
+          <lb/>2028
+          <lb/>HISTORY : Ein holdselige Evangelisch History... Luce am
+          <lb/>x. Cap. von der Liebe des nechsten, da ein mensch von
+          <lb/>Jerusalem gen Jericho ging... — Strasbourg, Jacques
+          <lb/>Frölich 1550, in-8° (4 actes avec 15 personnes). [Nouv.
+          <lb/>éd. 1555).
+          <lb/>Vogeleis, p. 285; B N Munich.
+          <lb/>2029
+          <lb/>HISTORY : Eine warhaftige history ausz dem heiligen
+          <lb/>Evangelio Luce am XVI. cap. Von dem Reychen mann
+          <lb/>und armen Lazaro. Gespilt zuo Zürich von einer loblichen
+          <lb/>Burgerschafft. — (Mulhouse, J. Schirenbrand et
+          <lb/>P. Schmid) entre 1557 et 1559, in-8°.
+          <lb/>Coudre, p. 82, n° XI; Werner, p. 83, n° 11.
+          <lb/>2030
+          <lb/>HISTORY : Die grausam warhafft und erschrockenlich history
+          <lb/>von den vier Kätzermünchen, Prediger Ordens zu Bern
+          <lb/>in der Eydgnoschafft verbrennt. — (Mulhouse, Pierre
+          <lb/>Schmid) vers 1559, in-40.
+          <lb/>L’Art ancien, Zurich, Liste 179, no 52 ; « 275 frs. suisses. Von
+          <lb/>grosster Seltenheit.» Es ist keine Schrift von Thomas Murner,
+          <lb/>noch auch von Nic. Manuel; vielleicht von Sebastian Meyer,
+          <lb/>Lesemeister des Franziskaner ordens in Bern, gestorben 1545
+          <lb/>in Strassburg.
+          <lb/>2031
+          <lb/>241
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

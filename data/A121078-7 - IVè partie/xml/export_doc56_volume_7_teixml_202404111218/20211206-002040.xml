@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:02.522400+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002040.tif
+IMAGE WIDTH: 2492
+IMAGE HEIGHT: 3936
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>BARTEMA, Ludovico : Die ritterlich und lobwürdig reicz des...
+          <lb/>ritters Ludovico Vartomans... — Strasbourg, Jean
+          <lb/>Knobloch 1516, in-80.
+          <lb/>GKXI, 12085: BN Berlin, Munich, Vienne, etc.; Schmidt
+          <lb/>VII, 132.
+          <lb/>932
+          <lb/>BARTHOLOMAEUS Coloniensis : Dialogus mythologicus... (éd.
+          <lb/>Philippe Melanchthon). — (Haguenau, Thomas Anshelm
+          <lb/>1519), in-80.
+          <lb/>GKXII, 2265: BN Berlin, Munich, etc. [Ritter, Rép. no 157 :
+          <lb/>éd. Gran 1514 et Anshelm 1516 (Rép, n° 158).
+          <lb/>933
+          <lb/>BARTOLINI, Ricciardo : Ad divum Maximilianum... De Bello
+          <lb/>Norico Austriados libri 12. — (Strasbourg, Mathias
+          <lb/>Schürer 1516), in-8°.
+          <lb/>GKXII, 3529: B N Berlin, Munich, Vienne. BN Paris
+          <lb/>Rés. Yc. 664. [Ritter, Rép, no 155 : éd. Schürer février 1516l.
+          <lb/>934
+          <lb/>BARTOLINI, Ricciardo : Carmen geniale ac laudabundum de
+          <lb/>Carolo, Hispaniarum rege, nuper in Romanorum regem
+          <lb/>Francofordiae electo. — Strasbourg, Jean Schott s. d.,
+          <lb/>in-40.
+          <lb/>BNParis : Rés. M. 361. G KXII, col. 237 l’a sous :
+          <lb/>Oratio legationis Francisci Regis Franciae.
+          <lb/>935
+          <lb/>BARZIZIUS, Gasparinus : Epistolarum liber. — (Strasbourg,
+          <lb/>Martin Flach vers 1545), in-fol.
+          <lb/>Graesse III, p. 33.
+          <lb/>936
+          <lb/>BASILIUS, Magnus : De legendis antiquorum libris opusculum
+          <lb/>divinum. — [Strasbourg, Jean Knobloch après 1500),
+          <lb/>in-80.
+          <lb/>GWIII, col. 568; GKXII, 6565: B N Berlin, Munich etc.
+          <lb/>937
+          <lb/>BASILIUS, Magnus : De legendis antiquorum libris opusculum
+          <lb/>38
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

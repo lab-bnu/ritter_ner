@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:03.713119+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002082.tif
+IMAGE WIDTH: 2512
+IMAGE HEIGHT: 3986
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Mentz, n° 45; Walter, n° 871; Bibl. S. Guillaume Strasbourg;
+          <lb/>BN Strasbourg E 137.018 (introuvable). Stupperich, n° 65 :
+          <lb/>B N Augsbourg, B U Bâle, Berne, etc.
+          <lb/>1166
+          <lb/>BUCER, Martin (Predigten) : Drei predigen aus dem Evangelii:
+          <lb/>Komet her zu mir alle... Matt. XI. Der Kirchen zu
+          <lb/>Benfeld zur letze gethon... An die Oberkeiten im Elsas
+          <lb/>auszgangen, mit einer vermanung, nach warer Reforma¬
+          <lb/>tion der Kirchen zu trachten. Durch Martin Bucer. —
+          <lb/>(Strasbourg 1548), in-4° (La préface est datée de
+          <lb/>Strasbourg, 4 juillet 1548).
+          <lb/>Mentz, n° 41, qui a une éd. Strasbourg, Joh. G. Andreae
+          <lb/>héritiers 1649 au numéro 41 a; Stupperich, n° 58; Bibl.
+          <lb/>S. Guillaume Strasbourg; Walter, n° 868.
+          <lb/>1167
+          <lb/>BUCER, Martin (Psalmi) : S. Psalmorum libri quinque ad
+          <lb/>Ebraicam veritatem versi... Per Aretium Felinum
+          <lb/>(— Bucer). — (Strasbourg, Georges Ulricher, septembre
+          <lb/>1529), in-4°.
+          <lb/>Mentz, n° 23; Walter, n° 859; Stupperich, n° 25: B N Bremen,
+          <lb/>B U Fribourg, Leipzig, Sélestat, Bibl. Centrale Zurich. 1168
+          <lb/>BUCER, Martin (Psalmi) : Aretii Felini Expositio in Psalmos.
+          <lb/>— Strasbourg 1530, in-fol.
+          <lb/>Mentz, 23 a; Panzer, lat. Annal. VI, 119, 822.
+          <lb/>1169
+          <lb/>BUCER, Martin (Psalmi) : Liber Psalmorum cum translatio¬
+          <lb/>nibus quatuor. — Strasbourg, Georges Messerschmidt
+          <lb/>1545.
+          <lb/>1170
+          <lb/>BUCER, Martin (Psalmi) : Idem. (Traduction anglaise). —
+          <lb/>Strasbourg, Francis Foxe, 1530, in-fol. (Strasbourg,
+          <lb/>probablement lieu fictifl.
+          <lb/>Hopf, Constantin, Martin Bucer and the English Reformation,
+          <lb/>Oxford 1946, p. 267.
+          <lb/>1171
+          <lb/>BUCER, Martin (Psalter) : Das Martin Bucer, sich in verteüt¬
+          <lb/>schung des Psalters Johann Pommers, getrewlich, und
+          <lb/>80
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:01.785145+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002011.tif
+IMAGE WIDTH: 2486
+IMAGE HEIGHT: 3970
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>AGRICOLA, Joh. : In Lucae Evangelium Adnotationes... —
+          <lb/>Haguenau, J. Secer 1529, in-80.
+          <lb/>GKII, 3677; BN Berlin, B U Goettingen.
+          <lb/>769
+          <lb/>AGRICOLA, Joh. : History und warhafftige geschicht wie das
+          <lb/>heilig Evangelium mit Johann Hussen im Concilio zu
+          <lb/>Costnitz verdampt ist. — (Préface d’Agricola). Haguenau
+          <lb/>1529, in-80.
+          <lb/>Goedeke II2, p. 211 n° 2 (c). [G K renvoie à History).
+          <lb/>770
+          <lb/>AGRICOLA, Joh. : Epistola S. Pauli ad Titum, iam recens
+          <lb/>Scholiis novis illustrata... Item Dispositio orationis in
+          <lb/>epistola Pauli ad Romanos... Phil. Melanchthone authore.
+          <lb/>— Haguenau J. Secer 1530, in-8°.
+          <lb/>GKII, 3691; BN Berlin, Munich, Vienne, B U Marbourg;
+          <lb/>Ritter, Grand Sém. Strasbourg n° 5; Burg : Haguenau
+          <lb/>no 46; Bibl. S. Guillaume Strasbourg.
+          <lb/>771
+          <lb/>AGRICOLA, Joh. Voir: LUTHER (Vom Abendmal) n° 2458;
+          <lb/>Ritter, Rép, nos 17-20.
+          <lb/>AGRICOLA, Johannes (de Nuremberg) : Disputatio XXV, de
+          <lb/>modis tollendarum obligationum principalioribus
+          <lb/>desumpta ex t. ult. Imp. Inst. lib. 3... Praeses P. Graesec¬
+          <lb/>cius... — Strasbourg, Jost Martin 1597, in-40.
+          <lb/>Londres B M Cat. II, col. 292, 897 b, 6, (21).
+          <lb/>772
+          <lb/>AGRIPPA, Henricus Cornelius : Ein sendtbrieff an Burger¬
+          <lb/>meister unnd Raht der stat Cöln wider die Sophisten des
+          <lb/>strengen Ritters... Henr. Conr. Agrippae, newlich
+          <lb/>verdeütschet (traduction de Théod. Faber). —
+          <lb/>(Strasbourg), P. Schöffer 1535, in-80.
+          <lb/>GKII, 3970: BN Munich.
+          <lb/>773
+          <lb/>AGRIPPA, Henr. Corn. Voir aussi : RITTER, éd. lat. : Rép. n° 22.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

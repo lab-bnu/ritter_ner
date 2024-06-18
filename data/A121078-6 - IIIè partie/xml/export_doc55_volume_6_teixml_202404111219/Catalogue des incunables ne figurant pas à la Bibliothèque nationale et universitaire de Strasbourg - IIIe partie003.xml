@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:05.209192+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie003.tif
+IMAGE WIDTH: 2474
+IMAGE HEIGHT: 3944
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>ABC guter ler und underwysung wie man soll Gutes tun. —
+          <lb/>(Strasbourg), Bartholomäus Kistler, (17, x) 1500, in-40.
+          <lb/>GW I, p. 3; Voulliéme : Berlin 2551.
+          <lb/>ABC : Ein jeder Schüler sol Dies ABC gantz lernen. —
+          <lb/>Strasbourg, Thiébaud Berger vers 1500.
+          <lb/>F. Blolchert) : Aus unserer Konsistorialbibliothek. Dans:
+          <lb/>Le Lien. Evangelisches Gemeindeblatt. Bulletin mensuel de
+          <lb/>l’église protestante de Colmar. Vol 16 (1937), p. 163-165. 2
+          <lb/>ABLASSBRIEF : zum Besten der Kreuzkirche zu Stuttgart. —
+          <lb/>(Strasbourg, Jean Mentelin avant le 13. IV, 1466).
+          <lb/>Placard in-fol. 95 x 178 mm.
+          <lb/>G W 86; Copinger 88; Einblattdrucke 63. Schorbach : Men¬
+          <lb/>telin, Anhang p. 6*, n°7: Ex. unique St. Gall (Stiftsbibl.). 3
+          <lb/>ACKERMANN von Böhmen: Red und widerred eins ackermans
+          <lb/>und des Todes. — [Strasbourg, Henr. Knoblochtzer 14)
+          <lb/>77, in-40.
+          <lb/>GW 198; Schreiber 3007. Nurnberg (Germ. Museum). 4
+          <lb/>AcTUS sacerdotales. — [Strasbourg, Martin Flach 1481],
+          <lb/>in-12°.
+          <lb/>Hain 78; Schmidt VI, p. 2, n° 7; G W L,col. 85 ; erreur de
+          <lb/>Hain et de Schmidt. ((Falsification); Bibl. Coenobii Campilil.). 5
+          <lb/>ADRIANUS Carthusiensis : De remediis utriusque fortunae. —
+          <lb/>(Strasbourg, Henri Eggestein vers 1472), in-40.
+          <lb/>G W 229 : Hain 94, Proctor 275; Pellechet 56; Voulliéme:
+          <lb/>Berlin 2142. B N Berlin, Munich, Vienne etc.
+          <lb/>AENEAS Sylvius : voir Pius II (pape).
+          <lb/>AESOPUS : Vita et fabulae (latin). — (Strasbourg, Henri
+          <lb/>Knoblochtzer vers 1481), in-fol.
+          <lb/>GW 348; GKII, 1739; Hain 324— Hain-Copinger 325;
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

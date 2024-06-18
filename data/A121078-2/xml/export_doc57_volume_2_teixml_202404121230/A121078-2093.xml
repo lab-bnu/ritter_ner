@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:29.161910+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2093.tif
+IMAGE WIDTH: 2328
+IMAGE HEIGHT: 3832
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>ARGENTORATI APVD CRATONEM MYLIVM,! MENSE OCTO¬
+          <lb/>BRI, ANNO M. D.XXXVII. (Verso blanc.)
+          <lb/>A la fin: ARGENTORATI APVD CRATONEM MYLIVM,( MENSE
+          <lb/>OCTOBRI, ANNO! M.D.XXXVII.
+          <lb/>Au verso: marque typ. de Cr. Mylius. (H&amp;amp;B, Planche XXVI, N0 2;
+          <lb/>Silvestre, No 804.)
+          <lb/>In-fol., car. rom., 6 ff. non ch., COCLXXI pp. ch., 1 f. blanc,
+          <lb/>titre courant, réclames, notes marginales, initiales à fig. de moyenne
+          <lb/>et de petite grandeur.
+          <lb/>fol. 2a non ch.:... PRINCIPI AC DOMINO! Domino Alberto
+          <lb/>Marchioni in Baden ac Hoch-berg &amp;amp; c. Caspar Hedio S. D....
+          <lb/>— D. Gerbelius, &amp;amp; D. Vlrichus Chelius Pfortzenses Illustri
+          <lb/>D. T. se commendant. Argentorati An. M. D. XXXVII, mense
+          <lb/>Sept. (1 p.) Suivent 6 p. à 2 col. (Index).
+          <lb/>fol. 5b non ch.: DE SCANDERBEGO IN HAEC VERBA SCRIBIT
+          <lb/>Volaterranus lib, viij. Geographiae in de scriptione Mace¬
+          <lb/>doniae — (1 p.)
+          <lb/>p.1-3. MARINI BARLETII SCO DRENSIS... PRAEFATIO. (3 p.)
+          <lb/>p. 4: portrait en médaillon de Scanderbeg.
+          <lb/>R10.459/2). Prov, inconnue. Rel. anc.
+          <lb/>BN Paris, Rés. J. 116; Beaulieux, p. 39; BU Paris (Réserve.
+          <lb/>No 375).
+          <lb/>GPB: Berlin, Breslau, Bonn, Göttingen, Kiel, Königsberg. 152
+          <lb/>BARLETTA Gabriel
+          <lb/>Haguenau, H. Gran, 1510.
+          <lb/>Sermones fratris Gabrielis Barelete sacre pagine profes
+          <lb/>soris diui Ordinis fratrum Pre dicatorum.! De Tempore...
+          <lb/>De Sanctis: De quot et qui! bus Folio CXXXII. (Verso blanc.)
+          <lb/>A la fin, avant l’index: Impensis... Johannis Rynman
+          <lb/>de oringau in officina industria Henrici Gran in op-pido
+          <lb/>imperiali Hagenau ciuis impressit: Anno gratiae. MDX. in
+          <lb/>vigilia beati Bar tholomei finiunt feliciter.
+          <lb/>In-4° car. goth., 2 col. CXCIX ff. ch. et 22 ff. non ch. (Tabula
+          <lb/>alphabetica), titre courant, initiales d’attente.
+          <lb/>fol. a 2 non ch.: F. Benedictus Brixianus Fratri Thome
+          <lb/>Caie! tano ordinis predicatorum... (2 p.)
+          <lb/>Ri01.325. Prov.: Butsch, Augsbourg, 12. x. 1883, 8 M. 50. Rel. anc.
+          <lb/>2. ex. R101.326. Prov. inconnue. Incomplet, titre et index
+          <lb/>manquent.
+          <lb/>GPB. Berlin SB, Breslau, Münster, Göttingen, Greifswald. 153
+          <lb/>BARLETTA Gabriel
+          <lb/>Haguenau, H. Gran, 1518.
+          <lb/>Sermones fratris Ga brielis Barelete sacre pagine
+          <lb/>professoris diui ordinis! fratrum Predica- torum.
+          <lb/>89
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

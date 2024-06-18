@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:06.465121+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie089.tif
+IMAGE WIDTH: 2484
+IMAGE HEIGHT: 3924
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>PEROTTI, Nicolao: Rudimenta grammaticae. — (Strasbourg,
+          <lb/>impr. de la Legenda aurea 1483), in-40.
+          <lb/>Copinger II, 4678; Proctor 417.
+          <lb/>571
+          <lb/>PETRARCA, Francesco: Historia Griseldis (en allemand). —
+          <lb/>(Strasbourg, Henri Knoblochtzer) (1482), in-fol..
+          <lb/>Copinger II, 4717; Proctor 371; Schorbach-Spirgalis p. 34,
+          <lb/>n° 14; Heitz-Ritter n° 218.
+          <lb/>572
+          <lb/>PETRARCA, Francesco : De vita solitaria. — (Strasbourg,
+          <lb/>impr. du R bizare — Adolphe Rusch pas après 1473),
+          <lb/>in-fol.
+          <lb/>Hain 12796; Proctor 232; Voulliéme : Berlin 2124. 573
+          <lb/>PETRUS Blesensis de Lutrea : Sermones de tempore et de
+          <lb/>sanctis. — (Strasbourg ? impr. de Petrus Blesensis)
+          <lb/>s. d., in-fol.
+          <lb/>Copinger 9693; Madsen 3156, Voulliéme: Berlin 2564, 2. 574
+          <lb/>PETRUS Castellanus. Voir : BoeTHius n° 122.
+          <lb/>PETRUS Hispanus. Voir: VERSOR, Joh, n° 668.
+          <lb/>PETRUS Lombardus. Voir : BONAVENTURA, Commentarius
+          <lb/>n° 123.
+          <lb/>PHILELPHUS, Franciscus : Epistolae. — Strasbourg 1495,
+          <lb/>in-4°.
+          <lb/>Hain 12943; Graesse V, p. 264.
+          <lb/>575
+          <lb/>PHILELPHUS, Franciscus. Voir: ORATIONES tres contra
+          <lb/>Turcos n° 531.
+          <lb/>PHRYSIUS : Ars memorativa. — Strasbourg, J. Prüss 1488,
+          <lb/>in-fol.
+          <lb/>Hain 12985.
+          <lb/>576
+          <lb/>87
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

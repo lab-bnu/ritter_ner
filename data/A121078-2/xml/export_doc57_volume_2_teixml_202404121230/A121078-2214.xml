@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:32.875570+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2214.tif
+IMAGE WIDTH: 2280
+IMAGE HEIGHT: 3826
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>210
+          <lb/>Au-dessous la même gravure sur bois que dans l&amp;#x27;édition de 1536.
+          <lb/>Au-bas: Die Alten weisen entre deux feuilles de lierre. (Verso
+          <lb/>blanc.)
+          <lb/>A la fin: Getruckt vnd volendt, in der Loblichen Statt
+          <lb/>Straszburg, bey Jacob! Frölich, Als man zalt nach der
+          <lb/>geburt Christi vnsers Herrn, Tausent Fünffhun-dert
+          <lb/>vnd Neün vnd dreyssig jar.
+          <lb/>Au-dessous: marque typographique de I. Frölich. (Hct B, Plan¬
+          <lb/>che XXV, NoI; Silvestre, N° 668.)
+          <lb/>In-fol., car. goth, 4 ff. non ch., CVII ff. ch., titre courant, récla¬
+          <lb/>mes, notes marginales, ça et là des pièces d’ornement à la fin des cha¬
+          <lb/>pitres; 119 gravures, la plupart empruntées à des ouvrages antérieurs,
+          <lb/>beaucoup se trouvent dans l’édition de Grüninger 1501; un assee grand
+          <lb/>nombre se compose de 2 bois.
+          <lb/>fol. A 2a non ch.: Register.
+          <lb/>fol. A 3a non ch.: Etliche sprüch der Weisen.
+          <lb/>fol. A 4a non ch.: Zum Läser. (32 vers allemands, en haut et
+          <lb/>en bas pièce d’encadrement.)
+          <lb/>Au verso même gravure que dans l&amp;#x27;édition 1536.
+          <lb/>R10.051. Prov.: Bibliothécaire W. List 15/VII. 1891; 100M.
+          <lb/>Au verso du f. de garde annotation mss, en allemand disant
+          <lb/>qu’après une annonce de la Allgemeine Zeitung du 12 février 1861
+          <lb/>(Beilage No 43) le livre fut de nouveau édité par D. W. C. Holland.
+          <lb/>2. exemplaire R 10.052. Prov.: Baer, Francfort s. M., I7/VI.
+          <lb/>1916, 100 M.
+          <lb/>Prix à l&amp;#x27;intérieur du 1er plat: 160 M. Rel, anc.
+          <lb/>315
+          <lb/>GPB: Berlin.
+          <lb/>BUCH von dem edlen Pontus. Voir: PONTUS UND SYDONIA.
+          <lb/>BUCH von der Ehe. Voir: BARBARUS Franciscus.
+          <lb/>BUCHANAN Georg, Iephthes. Tragœdia. Præfatio Ioan. Sturmij.
+          <lb/>Voir: EURIPIDES, Alcestis. Strasbourg, J. Rihel 1567.
+          <lb/>BUCHANAN Georg
+          <lb/>Strasbourg, J. Rihel, 1572.
+          <lb/>Paraphrasis! Psalmo- rvm Davidis poetica, nunc
+          <lb/>primvm edita, Authore Georgio Buchanano Scoto, poëta¬
+          <lb/>rum nostri saeculi facilè principe. His adiecimvs M.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:36.623293+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu017.tif
+IMAGE WIDTH: 2384
+IMAGE HEIGHT: 3842
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>qu’on ne sait que fort peu de chose sur sa vie. Grüninger
+          <lb/>s’appelait de son vrai nom Reinhard, mais il emprunta
+          <lb/>probablement le nom de Grüninger à son village natal,
+          <lb/>Grüningen en Wurtemberg. En 1480 nous rencontrons
+          <lb/>Maître Hans Grüninger «Magister Johannes dictus Rein¬
+          <lb/>hart de Grüningen» comme imprimeur à Bâle; il n’était
+          <lb/>donc plus simple ouvrier, mais était allé à Bâle pour se per¬
+          <lb/>fectionner dans son art. En 1482 il vint s’établir à Stras¬
+          <lb/>bourg, où il acheta le deux octobre le droit de bourgeoisie
+          <lb/>et se fit inscrire dans la tribu des orfèvres. Le premier
+          <lb/>livre qui sortit de ses presses fut l’Historia scholastica de
+          <lb/>Petrus Comestor, 28 août 1483, en collaboration avec Henri
+          <lb/>d’Ingwiller. Dès lors les publications se succèdent, d’année
+          <lb/>en année plus nombreuses, comprenant toutes les parties
+          <lb/>de la science et de la littérature vulgaire, des traités de
+          <lb/>médecine, de chirurgie, de pharmacie, des légendes, des
+          <lb/>romans, des traductions d’historiens et de classiques
+          <lb/>comme Térence, Virgile, Horace etc. Malgré les correcteurs
+          <lb/>comme Mathias Ringmann, Jean Adelphus, Gervais Sopher,
+          <lb/>les livres pullulent de fautes, impatient qu’on était de les
+          <lb/>livrer au commerce. Un grand nombre de ces livres sont
+          <lb/>illustrés de gravures qui portent le trait particulier de l’école
+          <lb/>alsacienne de la fin du 15e siècle; depuis 1494 il n’y a pres¬
+          <lb/>que plus de livre de Grüninger, qui ne soit illustré. Les
+          <lb/>meilleurs des dessins lui ont été fournis par des artistes tels
+          <lb/>que Baldung Grien, Hans Scheuffelin, Jean Wechtelin et
+          <lb/>d’autres. Schramm cite 51 ouvrages illustrés, imprimés par
+          <lb/>Grüninger au 15e siècle, le premier est la Bible allemande
+          <lb/>du 2 mai 1485 avec plus de cent gravures; le dernier daté
+          <lb/>«Hans von Bühel, Die Königstochter von Frankreich» est du
+          <lb/>8 septembre 1500 et compte environ 30 gravures. Schramm
+          <lb/>a reproduit en tout 1029 gravures, tirées des ouvrages de
+          <lb/>Grüninger. (Voir Schramm, vol. XX, Ne 1-1029). La renom¬
+          <lb/>mée que Grüninger s’était acquise en quelques années lui
+          <lb/>valut des commandes de beaucoup d’éditeurs du dehors
+          <lb/>comme Conrad Hist de Spire, Antoine Koberger de Nurem¬
+          <lb/>berg et autres.
+          <lb/>XVII
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

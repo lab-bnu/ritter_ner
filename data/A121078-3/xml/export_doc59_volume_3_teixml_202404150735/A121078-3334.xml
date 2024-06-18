@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:11.613113+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3334.tif
+IMAGE WIDTH: 2374
+IMAGE HEIGHT: 3856
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>T76
+          <lb/>Bl. A 2a: ANGELVS POLITIANVS.) Andreae Magnanimo
+          <lb/>suo. S.... — In ruseulo Fesulano. Pridie Nonas Maias.
+          <lb/>Anno salutis. M. cccc, Ixxxxiiï, (2 S.). Folgt ein Index von 13 S.
+          <lb/>Bl. A7b: PRAEFATIO. ANGELI POLITIANI AD IN! nocen¬
+          <lb/>tium. VIHI. Pontificem Maxi mum praefatio in Herodiani
+          <lb/>hi! storiam, è Graeco in latinum! conuersam... (Vorrede, 3 S.)
+          <lb/>R101.414. Geschenk von Fid. Butsch, Augsburg 1871. Auf dem
+          <lb/>Titelbl.: Sum Abdiae Wickneri.
+          <lb/>BN Paris, I. 12537. H. Tiedemann, Antiquar in Berlin, hat am
+          <lb/>17. II. 1937 der Bibliothek ein Ex. angeboten fur 48 M.: ,Gut erhal¬
+          <lb/>tenes Ex. des ersten in Colmar gedruckten Buches.&amp;quot;
+          <lb/>1154
+          <lb/>HEROLT Johannes
+          <lb/>Strassburg, Mart. Flach (Sohn) 1503
+          <lb/>Sermones discipuli de tem pore et de sanctis vnacum
+          <lb/>prom- tuario exemplorum. (Rücks. leer.)
+          <lb/>Am Schluss:... Impressum argentine in officina Mar¬
+          <lb/>tini flach iunioris ciuis eiusdem. Anno domini. M ceccc iij.
+          <lb/>pridie nonas octobris.
+          <lb/>20, Got., 2sp., 406 unn. Bll., Sign. a—2, A-Z, aa-ii, Kopft., Init.
+          <lb/>Neue Ausgabe der Sermones, gedruckt 1499 bei Martin Flach
+          <lb/>(Vater).
+          <lb/>R10.320. Prov.: SB München 14. IV. 1880; 2 Ml. Mit dem
+          <lb/>Stempel: Duplum Bibliothecae regiae Monac.
+          <lb/>Proctor II Sectio I Nr. 10.141: London, Brit. Museum; Schmidt
+          <lb/>VI S. 21 Nr. 10: «Jadis Bibl. de Strasbourg, Ineun, n° 1609., 1155
+          <lb/>HEROLT Johannes
+          <lb/>Strassburg, Martin Flach 1509
+          <lb/>DIscipulus de eruditione chri sti fidelium com! pen¬
+          <lb/>diosus; non modo omni! bus predicare volentibus! vtilis:
+          <lb/>verum etiam cunctis fidei christiane cultoribus summe
+          <lb/>necessarius. cum thematibus sermonum dominica
+          <lb/>lium et de sanctis in generali ac de bea ta vir! gine.
+          <lb/>(Rücks, leer.)
+          <lb/>Am Schluss: Impressus Argentine per Mar! tinum Flach.
+          <lb/>Anno domini. M. D.ix. Circa festum sancti Gregorij
+          <lb/>pape. (Rücks. leer.)
+          <lb/>40, Got., 2sp., 164 unn. Bll., Sign. A-Z, Aa Ee, Kopft., Init. D
+          <lb/>mit Maria u. dem Jesuskind in dem Stalle zu Bethlehem.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

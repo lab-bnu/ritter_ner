@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:08.938052+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3220.tif
+IMAGE WIDTH: 2328
+IMAGE HEIGHT: 3852
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>664
+          <lb/>Auf der Rücks. des Titelbl. : ...Georgio Reysch, ac Patri
+          <lb/>ac Priori domus Carthusianae, prope Friburgensis! pro¬
+          <lb/>vinciae Rhenanae visitatori dignissimo... Iacobus Ottherus
+          <lb/>... Ex Friburgo. xvij. Kalendas Decembris.Anno. M. D.X.
+          <lb/>Bl. Bb 8a: Exhortatorium Carmen Vrbani Rieger Phili¬
+          <lb/>rani ad Lecto! res candidos... (12 Dist.)
+          <lb/>*R101.359. Prov.: E. Dacheux, Strassburg-Neudorf 15. XII.
+          <lb/>1877;6M.
+          <lb/>Priesterseminar Strassburg Inc. C6. Dacheux, Geiler S. CXVIII,
+          <lb/>Proctor II Sectio I Nr. 10248: London Brit. Museum; Schmidt VIII
+          <lb/>Nr. 210. GK: SB Berlin, UB Göttingen.
+          <lb/>978
+          <lb/>GEILER Johannes
+          <lb/>Strassburg, Joh. Grüninger 1518
+          <lb/>Das bûch der! sünden des! munds. Von dem hoch
+          <lb/>gelerten Doctor Keiser- sperg, die er nent die blatren
+          <lb/>am mund dauon er xxix. predigen vnd leeren ge¬
+          <lb/>thon ! hat. Auch darby Doctor Keiserspergs Alphabet in.
+          <lb/>xxiij. predigen geordiniert Nützlich vnd gût den Men¬
+          <lb/>schen die das lesen, dauon wol gebessert! mögen werden.
+          <lb/>Am Schluss des 1. Teiles, Bl. 87b: Hie hat ein End die Ma¬
+          <lb/>theri von den! blatern, die der terümb (!) Doctor Johan¬
+          <lb/>nes Keisersperg anfieng zû predigen am Eschermitwoch
+          <lb/>Anno. M ceccc. v. iar. Vnd ist getruckt vnd vollendet
+          <lb/>durch Johannem Grieninger in der Kei serlichen stat
+          <lb/>Straszburg, vff Jo &amp;#x27;annis Chrisostomi, in demJar. M.
+          <lb/>ccccc. xviii.
+          <lb/>2. Teil: Des hochgelerten doctor! Keiserspergs Alphabet
+          <lb/>in XXIII. Predigen so er gethon vnd die geordnet hat
+          <lb/>an einem baum. XXIII. est vfzesteigen zû ewigem leben
+          <lb/>gut ze lesen vnd dauon man wol gebessert mag werden.
+          <lb/>Holeschn.: Baum mit 23 Asten zuischen 2 Säulen, jeder Ast mit
+          <lb/>einem Buchstaben des Alphabets.
+          <lb/>Am Schluss: Getruckt in der Freien statt Straszburg,
+          <lb/>durch Joannem Grieninger, vnd vollendt vff! sant Fridlings
+          <lb/>tag. Jm iar nach Chri-sti geburt M. ccccc. vnd, xviïï.
+          <lb/>20, Got., 2sp., 1. Teil (Sünden des Munds) XC Bll., zahlr. Init.,
+          <lb/>Titel schwvarz u. rot; 17 Holzschn., von denen einige neu, die meisten
+          <lb/>sind früheren Werken entnommen.
+          <lb/>2. Teil (Alphabet in 23 Predigten) XL Bll., Kopft., Init., 20
+          <lb/>Holeschn., wovon 5 von H. Baldung, einige sind früheren Werken ent¬
+          <lb/>lehnt (Hug Schapler, Hortulus animae, Terene usw.).
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

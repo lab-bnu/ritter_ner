@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:43.243196+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078023.tif
+IMAGE WIDTH: 2368
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>LEXICON
+          <lb/>Strasbourg, Th. Rihel 1588
+          <lb/>LEXICON TRILINGUAE, ] EX THESAURO ROBERTII STEPHANI
+          <lb/>ET DICTIONARIO IOANNIS FRISII SUM- ma fide ac diligentia
+          <lb/>collectum: Et de novo Graecarum vocum significationibus,
+          <lb/>cumu- loque plurimorum vocabulorum auctum: Germanica
+          <lb/>item phrasi ab omni peregri- no Idiomate repurgata, ac
+          <lb/>literatura elegantiori restituta, quo ad eiusfieri potuit
+          <lb/>quàm accuratissimè illustratum, atque perpolitum. Ac¬
+          <lb/>CESSERUNT QUOQUE IN USUM TY-] ronum Indices duo locu¬
+          <lb/>pletissimi, Germanicolatinus, &amp;amp; Graecolati-nus, quorum
+          <lb/>uterquè integri Dictionarii vicem! implere potest. CUM
+          <lb/>PRAEFATIONE IOANNIS STURMII. (Marque typ. de Theodosius Rihel.
+          <lb/>H 4B Planche XXXII n° 17.)
+          <lb/>Cum gratia &amp;amp; privilegio Caesareae Maiestatis.
+          <lb/>ARGENTORATI! Excudebat Theodosius Rihelius, Anno
+          <lb/>M. D. LXXXVIII. (Verso blanc.)
+          <lb/>A la fin: IMpRESSUM Argentorati apud Theodosium
+          <lb/>Rihelium. (Même marque typogr. qu’au titre.) Au-dessous: M. D.
+          <lb/>LXXXVII.
+          <lb/>In fol., car. grecs, rom. et goth., 810 ff. non ch., 2 col, pour le
+          <lb/>dictionnaire et 3 col, pour les Index, titre courant, réclames, init. ornée
+          <lb/>pour chaque nouvelle lettre de l’alphabet (A-2).
+          <lb/>Fol. 2a: IOAN. STURMIUS I THEODOSIO RIHELIO ( TYPOGRA¬
+          <lb/>PHO S.Exposuit mihi GLASERUS NOSTER, TE NUNDINIS
+          <lb/>hisce LEXICON tuum trilingue in lucem editu- rum...
+          <lb/>Northemii è Sturmiano, 21. Augusti, Anno 1586.
+          <lb/>Fol. 3a: TYPOGRAPHUS LECTORI, S. ... Argentorati
+          <lb/>22. Augusti, Anno 1586.
+          <lb/>R53. Prov.: BN Munich 15/IV 1879; 3 M. En haut du titre:
+          <lb/>«Collegii Soc.tis Jesu Monachii, 1658.»
+          <lb/>BM Strasbourg.
+          <lb/>1353
+          <lb/>907
+          <lb/>LEXICON
+          <lb/>Strasbourg, Th. Rihel 1590
+          <lb/>LEXICON TRILINGUE,]EX THESAURO ROBERTI STEPHANI,
+          <lb/>ET DICTIONARIO IOANNIS FRISII SUM- ma fide ac diligentia
+          <lb/>collectum: Et de novo Graecarum vocum significationibus,
+          <lb/>cumu- loque plurimorum vocabulorum auctum: Germanica
+          <lb/>item phrasi ab omni peregri-no Idiomate repurgata, ac
+          <lb/>literatura elegantiori restituta, quo ad eius fieri potuit
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

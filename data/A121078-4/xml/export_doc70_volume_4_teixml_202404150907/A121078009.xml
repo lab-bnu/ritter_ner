@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:42.789896+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078009.tif
+IMAGE WIDTH: 2380
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>de Arbitrio hominis uere captiue, sub quartum caput.
+          <lb/>Argentorati 1525. A la suite de : LAMBERTUS Av. Franc.:
+          <lb/>In Diui Lucae Euangelium commentarii, nunc secundo re¬
+          <lb/>cogniti. Argentorati 1525.
+          <lb/>LAMBERTUS Franciscus
+          <lb/>Strasbourg, J. Herwagen 1526
+          <lb/>Commentarii de Prophetia, Eruditione &amp;amp; Linguis, de¬
+          <lb/>que Litera et Spiritu.
+          <lb/>EIVSDEM, LIBELLVS DE DIFFE-] rentia Stimuli carnis
+          <lb/>Satanae nuncii, &amp;amp; Vstionis.
+          <lb/>ARGENTORATI, ANNO M. D. XVI. (!) (Verso blanc.)
+          <lb/>A la fin: ARGENTORATI APVD JOHANNEM HERVAGIVM
+          <lb/>MENSE MARTIO, ANNO, M. D. XXVI. (Verso blanc.)
+          <lb/>In-8°, car. ital., 139 ff. ch., 5 ff. non ch. (Index), titre courant,
+          <lb/>réclames, notes marg., belles et grandes init. à fig. P. E, titre encadré.
+          <lb/>Fol. 2a:... NICOLAO KNIEPSZ CON] suli Argentinensi...
+          <lb/>Franciscus Lambertus Auenionensis... Argentorati, Mense
+          <lb/>Octobri, Anni Vigesi mi quinti, Supra Mille simum &amp;amp;
+          <lb/>quin! gentesimum. (1516 au bas du titre est une faute d’impression
+          <lb/>pour 1526.)
+          <lb/>R 100.543. Prov. inconnue. Notes mss., au bas du titre: Andreas
+          <lb/>Crauss, à côté timbre: Bibl. Bernhard. Vratisl.
+          <lb/>1329
+          <lb/>893
+          <lb/>LAMBERTUS Franciscus
+          <lb/>Strasbourg, J. Herwagen 1526
+          <lb/>Commentarii in qua tuor ultimos Prophetas, nempe!
+          <lb/>Sophoniam, Aggeum, Zachariam &amp;amp; ! Malachiam.
+          <lb/>A la fin: ARGENTORATI APVD] Johannem Heruagium,
+          <lb/>mense lanuario. ! Anno, M. D. XXVI.
+          <lb/>In-8°, car. ital. et rom., 271 ff. ch., titre courant, réclames, grandes
+          <lb/>init. à fig. F et G; vignettes, titre encadré.
+          <lb/>Fol. 2a-5b: AD VENE-] RANDVM SENATVM ARGEN-] tinen¬
+          <lb/>sem Francisci Lamberti Auenionen.! Epistola... — Argen¬
+          <lb/>torati, in sancto! die Natalis Domini nostri IESV! Christi,
+          <lb/>priore die anni à Christo nato uigesimi sexti, supra
+          <lb/>millesimum, &amp;amp; quin- gentesimum.
+          <lb/>Fol. 269-271: FRANCI I SCVS LAMBERTVS AVE) nionen.
+          <lb/>Christiano &amp;amp; Stu- dioso lectori.
+          <lb/>R102.147. Prov.: Bibl. Ed. Reuss, Strasbourg 1891 avec son
+          <lb/>autographe au recto du f. de garde et la remarque: Donum I. G. Stickelii
+          <lb/>1882.
+          <lb/>1830
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

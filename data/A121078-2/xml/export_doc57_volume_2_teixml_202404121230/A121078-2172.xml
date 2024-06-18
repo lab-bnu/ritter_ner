@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:31.629688+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2172.tif
+IMAGE WIDTH: 2294
+IMAGE HEIGHT: 3826
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>168
+          <lb/>BRENTIUS Johannes
+          <lb/>Haguenau, J. Setzer, 1588.
+          <lb/>IN D. Io HANNIS EVAN GELION, IOHANNIS! Brentij
+          <lb/>Exegesis, per autorem! diligenter reuisa, ac multis in
+          <lb/>locis locupletata.
+          <lb/>Haganoae, per Iohan. Sece. An. M. D. XXVIII.
+          <lb/>A la fin: Haganoae apud Iohannem Secerium. Anno
+          <lb/>M. D. XXVIII.! Mense Ianuario. (Verso blanc.)
+          <lb/>non ch., dont le verso blanc, titre courant, réclames, notes marginales,
+          <lb/>In-80, car, rom. et ital., 8 ff. non ch. (Index), 352 ff. ch. — 1 f.
+          <lb/>init. à fig. F, titre encadré. (H a B Planche LXIX, No 2.)
+          <lb/>Au recto du dernier f.: SEBASTIANVS CoccYVS! Lectori
+          <lb/>pio. (5 distiques); au-dessous: IOANNES SMOLIIVS Lectori.
+          <lb/>(4 distiques)
+          <lb/>R 101.175. Prov.: Bibl. Ed. Reuss, Strasbourg, 1891 avec son
+          <lb/>autographe au recto du f. de garde; à côté:, bei Meyri in Basel
+          <lb/>Juli 1844, fr. 2.; lig.— 75.
+          <lb/>2 ex. R101176. Prov.; Bibl. Heitz. De nombreuses notes mss.
+          <lb/>dans le texte.
+          <lb/>Köhler W., Bibliographia Brentiana No 25; B M Breslau, Er¬
+          <lb/>langen, Francfort s. M. Fribourg en Br., Helmstedt, Stuttgart, Wure¬
+          <lb/>bourg, B M Zurich, Zwickau. GPB en outre: Berlin.
+          <lb/>262
+          <lb/>BRENTIUS Johannes
+          <lb/>Haguenau, J. Setzer, 1528.
+          <lb/>ECCLE- SIASTES SOLOMONIS (!)) cum commentariis,
+          <lb/>iuxta piis atque eruditis Iohannis Brentii, per Hiobem
+          <lb/>Gast e Ger-mano in Latinum tralatus(!).Epistola
+          <lb/>nuncupatoria ad Illustriss. Principem! Hessorum Philip¬
+          <lb/>pum.
+          <lb/>Haganoe per Io. Secerium! Anno M. D. XXVIII.
+          <lb/>In-8, car. rom., 8 ff. non ch., 293 ff. ch., commençant avec le
+          <lb/>chiffre 9 — 11 ff. non ch., (Epilogue et Index); erreurs de pagination
+          <lb/>101 pour 110, 125 p. 123, 246 p. 146, 189 p. 186, 102 p. 201, 227
+          <lb/>p. 226, 226 p. 227, 215 p. 230, 230 p. 231; titre courant, notes mar¬
+          <lb/>ginales, initiales à fig. C, G; titre encadré avee le monogramme de
+          <lb/>Setzer. (HEB, Planche LXIX, n° 1.)
+          <lb/>R101.130. Prov.: Bibliothèque Edouard Reuss 28/IV, 1891 avec
+          <lb/>l&amp;#x27;autographe de Reuss et son exlibris. Au recto du f. de garde:
+          <lb/>,Geschenk von W. Roehrich, 21 Jul. 1846.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

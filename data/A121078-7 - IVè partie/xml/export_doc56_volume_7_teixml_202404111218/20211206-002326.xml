@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:09.918046+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002326.tif
+IMAGE WIDTH: 2524
+IMAGE HEIGHT: 3970
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>LUTHER (Abendmal) : Gegrundter und gewisser beschluss
+          <lb/>etlicher Prediger zu Schwaben uber die wort des abent¬
+          <lb/>mals... an Johannem Ecolampadion geschrieben, von
+          <lb/>newem durch Johannem Agricolam verdeutsth (sic);
+          <lb/>Aigentlicher bericht D. Martin Luthers den yrthumb
+          <lb/>des sacraments betreffend. — Haguenau, J. Secer 1526,
+          <lb/>in-40.
+          <lb/>Burg, n° 262.
+          <lb/>2458
+          <lb/>LUTHER (Acta Wormaciae) : Acta et res gestae D. Martini
+          <lb/>Lutheri in Comitijs Principum Wormaciae, Anno
+          <lb/>M.D.XXI. — [Strasbourg, Jean Schott (2)1 1521, in-4°.
+          <lb/>Dommer, Lutherdrucke, n° 231: « Unter den mir bekannten
+          <lb/>Drucken mit dem obigen Lutherbilde befinden sich wenigstens
+          <lb/>zwei, welche ganz sicher als Produkte des Joh. Schott in
+          <lb/>Strassburg bezeichnet sind... Ubrigens brachte der Zeichner
+          <lb/>des Bildes, Hans Baldung einen grossen Teil seines Lebens in
+          <lb/>Strassburg zu und arbeitete für verschiedene dortige Drucker...
+          <lb/>während Arbeiten von Basler Offizinen von ihm sonst nicht
+          <lb/>bekannt zu sein scheinen».
+          <lb/>2459
+          <lb/>LUTHER (Acta Wormaciae) : Doctoris Martini Lutheri Acta
+          <lb/>Wormaciae in Comitiis Imperialibus Principum. Anno
+          <lb/>salutis nostrae M.D.XXI. — (Haguenau, Thomas
+          <lb/>Anshelm! 1521, in-4°.
+          <lb/>Dommer, Lutherdrucke, n° 231a : « Von Thomas Anshelm
+          <lb/>in Hagenau, bei dem alle zu dieser Ausgabe gebrauchten Typen
+          <lb/>sicher nachweisbar sind».
+          <lb/>2460
+          <lb/>LUTHER, Martin (An den Christl. Adel) : An den Christlichen
+          <lb/>Adel deutscher Nation. — [Strasbourg, René Beck]
+          <lb/>1520, in-4°, 46 ff.
+          <lb/>Dommer: Lutherdrucke, n° 162 : « Nachdruck der 2.
+          <lb/>vermehrten Ausgabe ». Horning, n° 16; Kuczynski, n° 1341;
+          <lb/>Braune : Neudrucke Heft 4, p. VI.
+          <lb/>2461
+          <lb/>LUTHER (An den deutschen Adel) : Drey Biechlin zu letst
+          <lb/>von dem Hochberümbtenn und Ewangelischen Lerer
+          <lb/>324
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

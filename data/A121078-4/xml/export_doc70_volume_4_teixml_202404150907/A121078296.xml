@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:51.238411+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078296.tif
+IMAGE WIDTH: 2310
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1182
+          <lb/>diligentia Pari sii emendatum. &amp;amp; per Ioannem Prüsz Ar
+          <lb/>gentin. in aedibus Thiergarten denuo impressum. Anno
+          <lb/>gratiae. Millesi mo Quingentesimo sexto. (Verso blanc.)
+          <lb/>In-fol., car. rom., 70 ff. non ch. à 3 col. (table alphabétique), sign.
+          <lb/>aa-ii, COXLI ff. ch. à 2 col., 1 f. non ch., titre courant, de nombreu¬
+          <lb/>ses init. ornées (goth. et renaissance), celle du titre C est dans un carré
+          <lb/>haut de 5 cm. et large de 41/, cm.
+          <lb/>Au verso du titre: POlydorus Virgilius Prespiter Urbinas Liberali
+          <lb/>Thomasio Veneto Philosopho ac medico. S. P. D. (Dans la Bème colonne,
+          <lb/>dist. de Palladius Soranus, Marcellus Philoxenus, Ponticus Tarvisanus,
+          <lb/>Daniel Caietanus.)
+          <lb/>Fol. ij 6a : Pyrrhi Perotti in cornucopiae sive commen tarios
+          <lb/>linguae latinae ad illustrem principem Federicum du cem &amp;amp; ecclesiastici
+          <lb/>exercitus imperatorem invictissimum.  Proemium.... (3 col.)
+          <lb/>Fol. CCXLIb: Ludovicus Odaxius Illu- strissimo principi Gui do
+          <lb/>Urbini Duci Salutem. (2 col.)
+          <lb/>Au recto du dernier f. non ch. : Ioannes Pompeius Cornianus
+          <lb/>Brixianus magnifico Sebasti ano Badoario Patrito Ve neto clarissimo
+          <lb/>equiti... Suivent 5 dist. et 3 strophes saphiques du même auteur.
+          <lb/>&amp;quot;R10.517. Prov.: Don de la ville de Heilbronn 1871. Note ms.
+          <lb/>en haut du titre:,F. Sigismundus Fichthinus Praepositus Schönth.&amp;quot;
+          <lb/>Proctor II Sectio I n° 9979: Londres, British Museum; Schmidt
+          <lb/>III n° 57: Jadis Bibl. de Strasbourg, Incun, n° 3734, BM Strasbourg
+          <lb/>1848
+          <lb/>et BM Colmar.
+          <lb/>PERSIUS Aulus Flaccus
+          <lb/>Strasbourg, J. Knobloch 1517
+          <lb/>P. AVLI PERSH POETAE, SATYRARVM, OPVS,! Tetratis¬
+          <lb/>tichon, O. N.! Liber Loquitur, Au-dessous: 2 dist. Jat. (Verso
+          <lb/>blanc.)
+          <lb/>A la fin: Argentine Industria Joan nis Knoblouchii
+          <lb/>An no domini M. D. XVII.
+          <lb/>In-4°, car. rom., 16 ff. non ch., sign. A-D, titre courant, init.
+          <lb/>ornées.
+          <lb/>&amp;quot;R101740. Prov. : Gilhofer &amp;amp; Rauschburg, Vienne 5/11 1903;
+          <lb/>3 Kr. Annotations mss.
+          <lb/>Schmidt VII n° 145: Bibl. Roy. Berlin.
+          <lb/>Proctor II Sectio I n° 10.112; Londres, British Museum. 1849
+          <lb/>PETRARCA: Sententiae morales. Voir: WIMPHELING: Ado¬
+          <lb/>lescentia. Haguenau, H. Gran 1508, 1511, 1515.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:03.936863+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002095.tif
+IMAGE WIDTH: 2472
+IMAGE HEIGHT: 4012
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Apostel und Evangelisten geoffenbaret... — Mulhouse,
+          <lb/>P. Schmid 1560, in-80.
+          <lb/>Werner p. 95, n° 10, note 1 : « L’éd. première, sans nom
+          <lb/>d’imprimeur, date de 1558».
+          <lb/>1241
+          <lb/>BULLINGER, Henricus : Ein schön spil von der geschicht der
+          <lb/>Edlen Römerin Lucretiae... — Strasbourg, Jacques
+          <lb/>Frölich 1550, in-8°,
+          <lb/>Goedeke II2, p. 345, n° 55 (b).
+          <lb/>1242
+          <lb/>BULLINGER, Henr. : Eigentliche Konterfehdung (Bildnis)
+          <lb/>Heinrich Bullingers (avec 42 vers de Fischart). —
+          <lb/>Strasbourg, Bernard Jobin 1571, 1 f. unique.
+          <lb/>Schottenloher 2078.
+          <lb/>1243
+          <lb/>BUNDSCHUH. Voir: LIEp n° 2290.
+          <lb/>BURCHARDUS (Abbas Urspergensis). Voir : HEDIO, Caspar,
+          <lb/>Auserlesene Chronik n° 1967; RITTER, Rép, nos 331-332.
+          <lb/>BURGAUER, Dominique. Voir: WoLr Heinrich n° 3552; voir
+          <lb/>aussi : RITTER, Rép. nos 333-334.
+          <lb/>BURGO, Joh. de : Pupilla oculi. De septem Sacramentorum
+          <lb/>administratione... — (Strasbourg, Jean Schott, aux frais
+          <lb/>de Jean Knobloch et Paul Götz (I.III.] 1516, in-40,
+          <lb/>S. Guillaume.
+          <lb/>1244
+          <lb/>BURGO, Johannes de : Pupilla oculi... — Strasbourg,
+          <lb/>Jean Knobloch 1518, in-4°.
+          <lb/>Panzer 6, 88, 516; Schmidt VII, n° 162: B M Mayence. (Voir
+          <lb/>aussi : Ritter, Rép. nos 336/7 ; éd. Knobloch 1514, J. Schott
+          <lb/>15171.
+          <lb/>1245
+          <lb/>BURZLIN, Valentin. Voir: KALENDER der Strassburger
+          <lb/>Domherren n° 2194; PLACOTOMUS, Joh. n° 2919.
+          <lb/>93
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

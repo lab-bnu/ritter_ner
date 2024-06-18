@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:35.232629+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2292.tif
+IMAGE WIDTH: 2292
+IMAGE HEIGHT: 3814
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>288
+          <lb/>fol. A 2a: Wolff Köpffel Bûchtrucker zû Strasz- burg
+          <lb/>an Christlichen leser... — Ge- ben Straszburg zùm Stain¬
+          <lb/>burck (!), am ersten tag Apillis (!) Anno domini M. D. xxiiij.
+          <lb/>(2 pages.)
+          <lb/>R 102369. Prov.: Trübner, Strasbourg, 18/8. 1894; 12 M.
+          <lb/>M. Rest me rend attentif que ce n’est probablement pas une im¬
+          <lb/>pression Strasbourgeoise mais -ein Nachdruck des Augsburger Winkel¬
+          <lb/>druckers Philipp Ulhart; vgl. dazu die Schrift Schottentohers: Philipp
+          <lb/>434
+          <lb/>Ulhart N° 55.»
+          <lb/>[CAPITO Wolfgang Fabricius)
+          <lb/>[Strasbourg, W. Köpfell, 1524.
+          <lb/>Uerwarnung der diener des worts, vnd der brû¬
+          <lb/>der zu Straszburg.An die brûder von Landen vnd
+          <lb/>Stetten gemeiner Eidgnoszschafft.
+          <lb/>65 Wider die Gotslesterige Disputation brûder Con¬
+          <lb/>radts Augustiner or- dens Prouincial.
+          <lb/>Am jnngang des Aprilis M. D. xxiiij. *(Verso blanc.)
+          <lb/>In-4°, car. goth., 16 ff. non ch., sign. A-D., Verso du dernier f.
+          <lb/>blanc, initiale ornée G.
+          <lb/>fol. A 2a: Wolff Köpffel, buchtrucker zuStraszburg,
+          <lb/>an christlichen leser... — Geben Straszburg! zum Stein¬
+          <lb/>burck (!), am ersten tag Aprilis M. D. xxiiij. Impression diffé¬
+          <lb/>rente de celle de l&amp;#x27;exemplaire précédent R102.369 de la même année, sans
+          <lb/>l&amp;#x27;encadrement du titre.
+          <lb/>R102.368. Prov.: Sandrog, Berlin, 6/III. 1877; 6M.
+          <lb/>Weller, Rep. No 3224 admet comme auteur Zell, tandis que Mentz,
+          <lb/>N° 13, attribue l’ouvrage à Bucer. D’après Schottenloher, Ulhart p. 105,
+          <lb/>c’est Capito qui en est probablement l’auteur.
+          <lb/>GPB: Berlin BN. Munster BU.
+          <lb/>435
+          <lb/>CAPITO Wolfgang Fabricius
+          <lb/>Strasbourg, W. Köpfel, 1524.
+          <lb/>WAsz man hal! ten, vnnd antwurten! soll, von der
+          <lb/>spaltung zwischen MartinLuther vnd Andres Carol¬
+          <lb/>stadtt.Wolffg. Fab. Capito.
+          <lb/>Getruckt bey Wolff Köpphel zu Straszburg, jm octo
+          <lb/>ber. Anno, 1524. (Verso blanc.)
+          <lb/>In-4°, car. goth., 9 ff. non ch., sign. A-B, initiales à fig.
+          <lb/>W et G.
+          <lb/>R102.130. Prov.: Caspar Haug, Augsbourg, 26/V. 1883; 5M.
+          <lb/>BM et Bibl. St. Guillaume, Strasbourg; GPB: Berlin BN. 436
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

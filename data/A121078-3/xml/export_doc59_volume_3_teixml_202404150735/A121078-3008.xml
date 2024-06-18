@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:04.886131+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3008.tif
+IMAGE WIDTH: 2362
+IMAGE HEIGHT: 3842
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>452
+          <lb/>ELEMENTALE
+          <lb/>Strassburg, M. Schürer, 1514
+          <lb/>ELEMENTALE INTRODUCTORIUM in Nominum, &amp;amp; Verbo¬
+          <lb/>rum decli- nationes Graecas. ! Graecas dictiones cum earum
+          <lb/>characteribus, accentibus, ac vocum moderamen tis, hic
+          <lb/>insertas offendes. ITEM!Hieronymi Aleandri Mottensis
+          <lb/>tabulae, sane vtiles Graecarum Musarum adyta com
+          <lb/>pendio ingredi cupientibus. LECTOR EME, LEGE, ET GAV¬
+          <lb/>DEBIS. (Rückseite leer.)
+          <lb/>Am Schluss: Argentorati, Ex Aedibus Schurerianis, Mense
+          <lb/>Martio, ANN. M. D. XIIII. REGNANTE IMP. CAES. MAXIMI¬
+          <lb/>LIANO P. F. AVG.
+          <lb/>4°, Griech. u. Antig., 16 unn. Bll,, letztes Bl. leer, Sign. A-D.
+          <lb/>Kopftitel.
+          <lb/>*RI01.239. Prov.: Butsch Sohn, Augsburg, 26/11 1883; 2 M.
+          <lb/>Schmidt VIII, Nr. 130: Ehemalige Bibl. Strassburg, Inkun. Nr. 212;
+          <lb/>Bibl. Wilhelmitana Strassburg und Zuricher Kantonalbibl. GA: UB
+          <lb/>Göttingen, Münster, NB Wien.
+          <lb/>674
+          <lb/>ELEMENTALE
+          <lb/>Strassburg, M. Schürer, 1515
+          <lb/>Elementale introductorium! in Nominum, &amp;amp; Verborum
+          <lb/>decli nationes Graecas. Graecas dictiones cum earum
+          <lb/>characteribus, ! accentibus, ac vocum moderamen- tis, hic
+          <lb/>insertas offendes. ! ITEM! Hieronymi Aleandri Mottensis
+          <lb/>tabulae, sane vtiles Graecarum Musarum adyta com¬
+          <lb/>pendio ingredi cupientibus. LECTOR EME, LEGE, ET GAV¬
+          <lb/>DEBIS. (Rückseite leer.)
+          <lb/>Am Schluss: Argentorati, Apud Schurerium, Mense Octo¬
+          <lb/>bri. Anno. M. D. XV. (Rückseite leer.)
+          <lb/>40, Griech. u. Antiq., 20 unn. Bll., Sign. a-e.
+          <lb/>*R101240. Prov.: Butsch, Augsburg, 23/11 1884; 5M.
+          <lb/>Proctor II, Sectio I, No 10.228: London, British Museum;
+          <lb/>Schmidt VIII, Nr 166: Basel u. Ehemalige Strassburger Bibl., Inkun.
+          <lb/>2820. GK: SB Berlin, UB Bonn, Göttingen, Münster.
+          <lb/>675
+          <lb/>ELEMENTALE
+          <lb/>Strassburg, M. Schürer, 1517
+          <lb/>ELEMENTALE INTRO ductorium in Nominum, &amp;amp; Verbo¬
+          <lb/>rum declinationes Graecas, praeterea et alia quaedam
+          <lb/>iam addita, quae legendo, studiosiss, quisque Lector fa¬
+          <lb/>cile deprehendet. ITeM Hieronymi Aleandri Mottensis ta¬
+          <lb/>bulae, sa- ne vtiles Grecarum musarum adyta com pendio
+          <lb/>ingredi cupientibus.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

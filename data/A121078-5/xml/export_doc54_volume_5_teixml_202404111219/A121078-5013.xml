@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:48.982532+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5013.tif
+IMAGE WIDTH: 2422
+IMAGE HEIGHT: 3900
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>fol. A 2a-fol. A 4b : Index et errata.
+          <lb/>R. 102.164. Prov. inconnue.
+          <lb/>De nombreuses annotations mss.
+          <lb/>Schmidt VIII, n° 219 : Jadis Bibl. de Strasbourg, Incun, n° 4146.
+          <lb/>2062
+          <lb/>SALLUSTIUS Crispus
+          <lb/>Strasbourg, U. Morhard, 1521
+          <lb/>C. Crispi Sallustii Bel- lum Catilinarium.&amp;quot;
+          <lb/>Item Bellum Iugur thinum eiusdem.Index Praete-
+          <lb/>rea eorum, quae ex hoc ope re ueniunt notatu me-mora¬
+          <lb/>tuque digna.
+          <lb/>A la fin : Argentorati ex Offi cina Hulderichi Morhardi.
+          <lb/>Men-Il se Augusto. Anno. M. D. XXI.
+          <lb/>In-4°, car. rom., 5 ff. non ch. (Index), LXIII ff. ch., titre courant,
+          <lb/>notes marg., titre rouge et noir, encadré: ornements d’architecture;
+          <lb/>dans la bande supérieure des festons de fleurs, au milieu un génie nu
+          <lb/>ainsi que dans les 2 coins; dans les bordures latérales des colonnes où
+          <lb/>grimpent 2 génies, tandis que deux autres en bas tiennent dans la main
+          <lb/>droite une hallebarde, au milieu de la bande inférieure un écusson vide
+          <lb/>tenu par deux génies nus.
+          <lb/>Au verso du titre : Nicolavs Gerbellius DD Doctor Studioso!
+          <lb/>Lectori...
+          <lb/>R. 100.076. Prov. : Vente Rettig, Strasbourg, 13/11, 1890; 0,60 M.
+          <lb/>Au-dessous du titre timbre: Königliche Hand-Bibliothek.
+          <lb/>Schmidt IV, p. 29, n° 4 : BM de Colmar,
+          <lb/>2063
+          <lb/>SALLUSTIUS Crispus
+          <lb/>Haguenau. J. Secer, 1529
+          <lb/>C. Crispi! Salvstii Historici Cla rissimi, in Catilinam
+          <lb/>Atque Iugurtham opuscula, per Hulderi-chum Huttenum
+          <lb/>Equitem, atque Philip pum Melanchthonem Scholijs ut!
+          <lb/>breuissimis, ita doctissi-mis illustrata.
+          <lb/>Indicem reliquarum orationum, pagella! reperies sequenti.
+          <lb/>Haganoe per Ioan. Sec. An. M. D. XXIX.
+          <lb/>In-8°, car. ital., 8 ff. non ch., 212 ff. ch., titre courant, réclames, notes
+          <lb/>marg., init. à fig. C, O, E, initiale ornée G, titre encadré (H. &amp;amp; B.,
+          <lb/>Planche LXIX, n° 1).
+          <lb/>fol. 2a non ch. : Ex libris !! Petri Criniti, de hi !! storicis ac ora!! toribus
+          <lb/>Latinis... (7 ff. : Vita Sallustii.)
+          <lb/>R. 101.757. Prov. : Bibl. Böcking, 1902.
+          <lb/>2064
+          <lb/>SALLUSTIUS Crispus
+          <lb/>Strasbourg, J. Cammerlander, 1534
+          <lb/>Chronica!! C. Crispi Salustij von dem rö- mischen Bundt-
+          <lb/>schuch, Rottung oder Empö-ng wider eyn Oberkeyt vnd
+          <lb/>Gemainen Nutz zu Rom, vnder dem ersten Burger maister¬
+          <lb/>thumb Marci Tu-lj Ciceronis, durch Lucium Catilinam
+          <lb/>ange! stifft vnd practicirt.Hie bei findstu auch den Krieg
+          <lb/>der Römer wider Jugurtham der Numidier könig. Alles
+          <lb/>lustig zulesen.
+          <lb/>1321
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

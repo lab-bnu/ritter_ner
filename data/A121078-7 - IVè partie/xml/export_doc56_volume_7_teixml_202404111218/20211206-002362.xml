@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:11.027956+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002362.tif
+IMAGE WIDTH: 2504
+IMAGE HEIGHT: 3978
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>MELANCHTHON, Phil. (Wiedertäufer) : Underricht wider die
+          <lb/>leere der Widerteuffer. Ob eyn weltliche Oberkeyt mit
+          <lb/>götlichem unnd billigem Rechten mög die Widerteuffer,
+          <lb/>durch fewr oder schwert, vom leben zum tod richten
+          <lb/>lassen. Johannes Brentz. — [Haguenau, J. Secer 1528),
+          <lb/>in-4°.
+          <lb/>Hanauer, Imprimeurs de Haguenau, p. 78; Burg : Haguenau
+          <lb/>n° 302;
+          <lb/>2662
+          <lb/>MELANCHTHON. Voir aussi: AGRICOLA, n° 771; ARISTO¬
+          <lb/>PHANES, n° 843; ARISTOTELES, n° 845; BARTHOLOMAEUS
+          <lb/>Coloniensis, n° 933; CICERO, nos 1367, 1378/9;
+          <lb/>DEMOSTHENES, n° 1500; EURIPIDES, nos 1660, 1665;
+          <lb/>HESIODUS, n° 2005; LUTHER, n° 2496; OECOLAMPADIUS,
+          <lb/>n° 2786; PETRUS Mosellanus, n° 2880; PsALMI, n° 3029;
+          <lb/>RHEGIUS, Ernst, n° 3087; SALOMON, n° 3152; SALUS¬
+          <lb/>TIUS, n° 3158; VIRGILIUS, n° 3430.
+          <lb/>[Ritter, Rép. nos 1501-1562).
+          <lb/>MELBER, Joh. : Vocabularius praedicantium. — (Strasbourg)
+          <lb/>(Jean Knobloch) vers 1504, in-40.
+          <lb/>Copinger II, 3967; Schmidt VII, n° 8; Voulliéme: Berlin
+          <lb/>2556. Panzer 11, 356, 56b; (Ritter, Rép. n° 1563).
+          <lb/>2663
+          <lb/>MELBREY, Hans : Ordnung und Regiment deren sich in der
+          <lb/>Schweyssucht, das Englisch Bad genannt, zu halten
+          <lb/>sey. An des heylichen Römischen Reichs Regiment...
+          <lb/>yetzt zu Speyr, M. D.XXIX. — (Strasbourg, Jean Schott
+          <lb/>12.XI.1529), in-40.
+          <lb/>Schmidt II, no 113 : Bâle.
+          <lb/>2664
+          <lb/>MELIBŒUS. Voir: BRUNN des Rats.
+          <lb/>MELUSINE : Die hystoria von Melusina... — (Strasbourg,
+          <lb/>Mathias Hupfuff (24.VIII] 1506), in-fol.
+          <lb/>Panzer, Annalen I, 274; Schmidt V, n° 47; Weller, Rep. 357;
+          <lb/>Schorbach, n° 12; Heitz-Ritter, n° 447: Berlin, Zurich. 2665
+          <lb/>360
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

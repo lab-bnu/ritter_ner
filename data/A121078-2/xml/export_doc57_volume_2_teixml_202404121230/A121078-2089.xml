@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:28.843947+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2089.tif
+IMAGE WIDTH: 2328
+IMAGE HEIGHT: 3826
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Nouae adiunctae sunt in marginibus concordantiae ex
+          <lb/>Sebastiani Murrhonis commentarijs selectae, ac prius cum
+          <lb/>textu nudo nuncque impressae.
+          <lb/>A la fin: Argentinae impressum per Joannem!! Knob¬
+          <lb/>louch. Anno...! M.D.XVIII. Decimo Ka- lendas februarias.
+          <lb/>(Verso blanc.)
+          <lb/>In-40, car, rom., 58 ff. non ch., sign. A-L, titre courant, notes mar¬
+          <lb/>ginales, titre rouge et noir.
+          <lb/>RI0L015 (1). Prov.: BN Munich, 1. 2. 1877; 3 M.; rel. anc.
+          <lb/>Notes mss. à l&amp;#x27;intérieur de la couverture: 1558 jar! Sigismun¬
+          <lb/>dus Rotm. Sum vocatus! O mater dei memento mei 15A
+          <lb/>74 Iste Sigismundi liber est cognomine Rothmayr! Quem
+          <lb/>ciuem agnoscit prisca Frisinga suum.
+          <lb/>Au recto du f. de garde, au crayon; 3 M.
+          <lb/>Proctor II, Sectio I, No 10.115a: Londres, British Museum.
+          <lb/>Schmidt VII, No 151: Jadis Bibl. de Strasbourg, Incun. No 624.
+          <lb/>146
+          <lb/>BAPTISTA Mantuanus
+          <lb/>Strasbourg, J. Knobloch, 1518.
+          <lb/>BAPTISTAE MAN TVANI VATIS PRESTANTISSIMI DIui¬
+          <lb/>num secundae Parthenices Opus, sacrosanctam diuae! vir¬
+          <lb/>ginis Catharinae passionem heroico carmine illu- strans,
+          <lb/>non minus cultum quam pium. Ad do minum Bernardum
+          <lb/>Bembum Patricium Vene tum &amp;amp; iure consultum peritissi¬
+          <lb/>mum, cum vti- libus in marginibus argumentis ex Sebasti
+          <lb/>ani Murrhonis Colmariensis viri doctis! simi commentarijs
+          <lb/>singulariter! selectis.
+          <lb/>A la fin: Argen tinae impressum... per Joannem Knob
+          <lb/>louch. Anno natalis domi! nici. M.D.XVIII, no- nis fe¬
+          <lb/>bruariis.
+          <lb/>In-40, car, rom., 43 ff. non ch, sign. aa-hh; titre courant, notes
+          <lb/>marginales.
+          <lb/>Au verso du titre: D. Bernardo Bembo Patritio Veneto
+          <lb/>iureconsulto Frater Baptista Mantuanus Carmelita. (2 p.).
+          <lb/>R101.0150). Prov.: BN Munich, 1. 2. 1877; rel. anc.
+          <lb/>Proctor II, Sectio I. N° 10.115b: Londres, British Museum.
+          <lb/>Schmidt VII, No 152.
+          <lb/>147
+          <lb/>85
+          <lb/>BAPTISTA Mantuanus
+          <lb/>Strasbourg, J. Knobloch, 1518.
+          <lb/>FRATRIS BAPTISTE MANTUANI CARMELITAE THEOLOGI
+          <lb/>« Poetae praestantissimi Parthenice Tertia Diuarum! Mar¬
+          <lb/>garithae, Agathes, Luciae &amp;amp; Apolloniae Agones continens,
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

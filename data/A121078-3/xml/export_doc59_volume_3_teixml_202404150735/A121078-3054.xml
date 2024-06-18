@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:05.581754+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3054.tif
+IMAGE WIDTH: 2328
+IMAGE HEIGHT: 3840
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>498
+          <lb/>Antwerpiensis libellis... — Basileae, Anno a CHRisTo nato.
+          <lb/>M. D. XIIII. Idibus Octobris.
+          <lb/>1860. Handschr. Randnotizen im Text.
+          <lb/>R100.098. Prov.: Bibl. Ch. Schmidt mit Exlibris, und dem Datum
+          <lb/>GK: SB Berlin, UB Halle (unvollst.), Marburg; Rest S. 57.
+          <lb/>745
+          <lb/>ERASMUS: Parabolae
+          <lb/>Schlettstadt, Laz. Schürer, 1520
+          <lb/>Parabolarum siue Similium liber. Ex secunda reco¬
+          <lb/>gnitione.
+          <lb/>Selestadij, Lazarus Schurerius, 1520, in-4°.
+          <lb/>selbst ist abhanden gekommen; es fehlte bereits im Jahre 1918.
+          <lb/>Ich zitiere nach dem systematischen Zettel des Katalogs; das Buch
+          <lb/>GK: UB Bonn; Rest S. 57.
+          <lb/>746
+          <lb/>ERASMUS: Paraphrasis in epistolam ad Galatas
+          <lb/>Strassburg, J. Prüss, 1520
+          <lb/>IN EPISTO LAM PAVLI AD GA- latas Paraphrasis per
+          <lb/>Erasmum Roterodamum, recens ab illo! conscripta, &amp;amp;
+          <lb/>nune primum typis excusa ad Christi,! Paulique gloriam.
+          <lb/>(Epheublatt.) Rückseite leer.
+          <lb/>Am Schluss: Excusum Argentine in Aedibus Ioan-is
+          <lb/>Prüsz Ciuis Argentinensis Men- se Martio. Anno M. D. XX.
+          <lb/>(Rückseite leer.)
+          <lb/>80, Antiq., 85 S., Kopftitel, Kustoden, Marginalien, Zierinit.,
+          <lb/>Titeleinfassung, 4 susammengefügte Leisten, oben: in der Mitte: ein von
+          <lb/>2wvei Seeungetümen gehaltenes Gefäss; an beiden Seiten: Säulen; unten:
+          <lb/>Verzierungen.
+          <lb/>S. 3: Clarissi mo Comiti Antonio de Marca Erasmus
+          <lb/>Ro! terodamus.
+          <lb/>S. 11: Neue Titeleinfassung.
+          <lb/>*R101.191. Prov.: Pfarrer Cromer, Zabern, 23. VII. 1879.
+          <lb/>GK: SB Berlin; Schmidt III S. 35 Nr. 19: Bibl. Wilh. Strass-
+          <lb/>burg.
+          <lb/>747
+          <lb/>ERASMUS: De ratione studii
+          <lb/>Strassburg, (J. Prüss), 1520
+          <lb/>ERASMI ROTERODAMI. De ratione studij, ac legendi,
+          <lb/>interpretandique auctores libellus aureus. Officium disci¬
+          <lb/>pulorum ex Quintiliano. Qui primo legendi, ex eodem.
+          <lb/>ERASMI.Concio de puero IESU in schola Coletica Lon¬
+          <lb/>dini instituta pronuncianda. EIVSDEM.Expostulatio IESU
+          <lb/>ad mortales. EIVSDEM. Carmina scholaria.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

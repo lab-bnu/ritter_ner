@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:46.537467+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078136.tif
+IMAGE WIDTH: 2312
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1022
+          <lb/>MEYER Sebastian
+          <lb/>(Strasbourg) 1524
+          <lb/>Doctor Sebastian Mayers, etwann Predicant zun
+          <lb/>Barfússen zû Strasz-burg, widerrüffung, an! ain Löbliche
+          <lb/>Frey- statt Strasz- burg.M. D. xxiiiï.
+          <lb/>encadré; 4 pièces d’ornement [probablement Kœpfel d’après les caractères
+          <lb/>In-40, car. goth., 23 ff. non ch., sign. A-F, init. goth. G, titre
+          <lb/>et l’encadrementl.
+          <lb/>löblichen Statt Straszburg, auff die xii. jar lang, verschyner zeytt, ewer
+          <lb/>Fol. A2a : Gestrengen... Herrn... Als ich inn! ewer erentreychen
+          <lb/>offentlicher Predicant, und wir dig gewesen... — Geben zû Bern in
+          <lb/>Schweytz am sechsten tag des Herbstmo nats. Anno. M. D. xxiiii. (2 pp.)
+          <lb/>Suivent les différents articles de la retractation.
+          <lb/>R 102.348. Prov. : Noiriel (Vente Liblin), Strasbourg 15/11
+          <lb/>1880;6M.
+          <lb/>BM Strasbourg.
+          <lb/>Bibliographie de S. Mever, voir : Schottenloher I n° 15640-15645a.
+          <lb/>1566
+          <lb/>MEYER Sebastian
+          <lb/>(Strasbourg] 1524
+          <lb/>D. Sebastian Mey-ers, etwan Predicant zun Bar¬
+          <lb/>fussen zu Straszburg,
+          <lb/>widerrüffung, an eyn löblich
+          <lb/>Freystat! Straszburg. Anno M. D. xxiiii.! Imm Herbstmon.
+          <lb/>Au verso du titre: Gnad, frid und hayl... — Geben zû Bern in
+          <lb/>Schweytz am Sechsten tag des Herbstmo- nats. Anno. M. D. xxiiii. (Dé¬
+          <lb/>dicace à la ville de Strasbourg, 2 pp.)
+          <lb/>In-4°, car. goth., 21 ff. non ch., sign. A-F.
+          <lb/>R 102.347. Prov.: K. Théodore Vœlcker, Francfort-s.-M. 5/1
+          <lb/>1900; 10M.
+          <lb/>BM Colmar.
+          <lb/>1567
+          <lb/>MICHAEL DE UNGARIA
+          <lb/>Haguenau, H. Gran 1501
+          <lb/>Quadragesima le Bige salutis.
+          <lb/>A la fin: Impensis quoque et sumptibus pro- vidi viri
+          <lb/>Johannis rynman per industrium! Henricum Gran in im¬
+          <lb/>periali oppido Ha genaw inibi incola diligentissime im¬
+          <lb/>pres- sum ac emendatum. Finit feliciter anno... Mille¬
+          <lb/>simo quin! gentesimo primo in vigilia Nativita- tis christi.
+          <lb/>In-4°, car. goth., 2 col., 207 ff. non ch., sign. a-2, titre courant,
+          <lb/>init. d’attente.
+          <lb/>Au verso du titre : Prefatio in sermones Quadrage- simales Bige
+          <lb/>salutis: a quodam fratre ordinis Minorum de observantia familie Ungarie
+          <lb/>comportatos.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

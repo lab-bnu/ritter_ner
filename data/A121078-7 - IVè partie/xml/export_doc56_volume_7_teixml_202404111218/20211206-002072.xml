@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:03.276574+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002072.tif
+IMAGE WIDTH: 2490
+IMAGE HEIGHT: 3930
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>medicorum in medicinam practicam introductiones... —
+          <lb/>Strasbourg, Jean Albrecht 1533, in-80.
+          <lb/>BNParis: Td3° 10.
+          <lb/>1118
+          <lb/>BRUNFELS, Otto (De Pandectis) : Pandectarum libri XXIII
+          <lb/>de tropis, figuris et modis loquendi Scripturarum... —
+          <lb/>(Strasbourg, Jean Schott 1528), in-8°.
+          <lb/>Schmidt II, Supplément p. 15, n° 18; L. Rosenthal, Munich,
+          <lb/>Catal. n° 70.
+          <lb/>1119
+          <lb/>[BRUNFELS, Otto) (De Pandectis) : Pandectarum Veteris et
+          <lb/>Novi Testamenti libri XXII, Ot. Br. Junfels). Quarta
+          <lb/>editione revisi. — (Strasbourg, Jean Schott 1529),
+          <lb/>in-80.
+          <lb/>Panzer 6, 115; Schmidt II, n° 107. — Bibl. du Consistoire
+          <lb/>de Colmar. [éd. allemande Schott 1529 : Ritter, Rép. n° 285].
+          <lb/>1120
+          <lb/>BRUNFELS, Otto (De Pandectis) : (Idem). — [Strasbourg,
+          <lb/>Jean Schott] 1530, in-8°.
+          <lb/>Scott (Schmidt II, Supplément) p. 15, n° 19. — Bibl.
+          <lb/>S. H. Scott, Oxford.
+          <lb/>1121
+          <lb/>BRUNFELS, Otto (De Pandectis) : Pandect. Büchlin. Beyläufig
+          <lb/>aller Sprüch beyder Testament uszzugk... Samt dem
+          <lb/>Helden Büchlin. Newlich wider getruckt und bessert.
+          <lb/>M. D. XXXII. Otto Brunfels. — (Strasbourg, Jean Schott
+          <lb/>1532), in-80.
+          <lb/>Ritter : B M Strasbourg n° 606.
+          <lb/>1122
+          <lb/>BRUNFELS, Otto (De Simplicibus) : Pharmacorum simplicium
+          <lb/>reique medicae libri VIII. Johanne Ruellio interprete...
+          <lb/>(éd. Dioscorides). — Strasbourg, 1529, in-fol.
+          <lb/>BN Paris : Telss 33.
+          <lb/>1123
+          <lb/>BRUNFELS, Otto (De Simplicibus) : De simplicibus
+          <lb/>70
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:52.129782+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078319.tif
+IMAGE WIDTH: 2322
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>PLAVTVS
+          <lb/>CODRVS
+          <lb/>COMMENTRTOR
+          <lb/>1205
+          <lb/>Fol. A 2a : Joannes Hise Badensis ad emptorem. (10 vers.) Au¬
+          <lb/>dessovs: R. Philesius in Plauti! Aululariam, (5 dist.), Faustus Andre¬
+          <lb/>linus de Plauto (2 vers). Au verso: Beati Arnoaldi ad lectorem Epi¬
+          <lb/>gramma (6 dist.) et Eiusdem Endecasyllabon (17 vers) etc.
+          <lb/>R 101743. Prov.: Veuve C. Blanguet, Hambourg 1871 avec auto¬
+          <lb/>graphe de Blanquet et notes mss.
+          <lb/>1882
+          <lb/>Schmidt III, p. 25, n° 84: Bibl. Bâle.
+          <lb/>PLAUTUS
+          <lb/>Strasbourg, M. Schurer 1511
+          <lb/>AVLVLARIA PLAVTINA, COl MEDIARVM LEPIDISSIMA, QVAE
+          <lb/>ETSI ALIAS INCOM] PLETA A CORDO UR] CEO TAMEN EST PER
+          <lb/>FECTA. CVM FAMI LIARI EXPLA! NATIONE.
+          <lb/>A la fin: Argentorati. In Aedibus Schurerianis, ! Mense
+          <lb/>Aprilis ANN. M. D. XI. [ CONRADO DVNTZENHEMIO, H. 1 pic¬
+          <lb/>TATORE ARGENTORAT.] REGNANTE IMP. CAES. MAXIMILIANO
+          <lb/>P. F. AvG.
+          <lb/>In-4°, car, rom., 33 ff. non ch., sign. A-F, titre courant, init.
+          <lb/>d’attente. Au-verso du titre: Joannes Hiso Badensis ad emptorem (5 dist.
+          <lb/>lat.); au-dessous : R. Philesius in Plauti! Aululariam. (5 dist. lat.)
+          <lb/>R101.742. Prov, inconnue.
+          <lb/>Schmidt VIII n° 52.
+          <lb/>1883
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

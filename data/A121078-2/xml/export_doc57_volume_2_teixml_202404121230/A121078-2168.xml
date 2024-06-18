@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:31.558528+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2168.tif
+IMAGE WIDTH: 2292
+IMAGE HEIGHT: 3826
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>164
+          <lb/>Panegyrica epistola qua gymna-sium Tubingense
+          <lb/>extollitur &amp;amp; commendatur.
+          <lb/>ANNO. M. D. XIX.
+          <lb/>A la fin: Impressum Argentinae Mense! Augusti. Anno.
+          <lb/>M. D. XIX.
+          <lb/>In-4°, car. rom., 116 ff. non ch., sign. a-x, titre courant, initiales
+          <lb/>ornées G, N, P, V. I, C; titre encadré: bande inférieure au milicu,
+          <lb/>un génie par terre tiré par d’autres génies, bordures latérales: 2 colonnes,
+          <lb/>au bas 2 génies qui s’enlacent, bordure supérieure: vase au milieu, des
+          <lb/>deux côtés un génie ailé avec la corne d’abondance.
+          <lb/>Au verso du titre: Ad... Ioannem! de Salm. Ioannis
+          <lb/>Brassicani epistola.... — Datae. XVI. kalendas Martias.
+          <lb/>fol. A 3a: Ioannis Brassicani ad externarum natio¬
+          <lb/>num eruditissimos epistola... — Ex Argentina kalen! dis
+          <lb/>lanuarijs.
+          <lb/>R100.051.(1) Prov. : Bibliothécaire W. List, Strasbourg, 3/VI.
+          <lb/>1890. Annotations mss. à la marge des pages. Au haut du titre: Ex
+          <lb/>Libris Iacobi Richlin 1528. En bas au crayon : Argentorati, Joh. Prüss.
+          <lb/>On rencontre l’encadrement chez Prüss, Knobloch et Th. Anshelm, jamais
+          <lb/>chez Schürer. Rel. anc.
+          <lb/>Panzer 6, 92, 554 l&amp;#x27;attribue à Schürer, de même Schmidt VIII,
+          <lb/>No 248. GPB. Berlin.
+          <lb/>256
+          <lb/>BRASSICANUS Iohannes Alexander
+          <lb/>Haguenau, Th. Anshelm (pour Knobloch), 1519.
+          <lb/>(Entre 3 feuilles de lierre) HAN OMNIS] AVTORE! IOANNE
+          <lb/>ALEXAN DRO BRASSICA NO, POETA ET) Oratore, à Cae¬
+          <lb/>sare! Laureato.
+          <lb/>A la fin: Sumptibus viri prouidi Ioannis Knoblochi
+          <lb/>incolae Argentinensis Formulis uero! Anshelmianis. Anno
+          <lb/>XIX. Mense Aprili. (Verso blanc.)
+          <lb/>In-4°, car, rom., 12 ff. non ch., sign. aa-ce., titre courant, grande
+          <lb/>et belle initiale à fig. P.
+          <lb/>Au verso du titre: Ad Ernestvm Bam fvm de omne
+          <lb/>Brassica ni Poëtae, Chasparis Pangei Elegeidion. (4 dis¬
+          <lb/>tiques.)
+          <lb/>fol. aa 2a: (Feuille de lierre)... Christiano Sacerdo ti,
+          <lb/>Domino Ernesto Bamfo, Hesso, Canonico Tvbin gensi...
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

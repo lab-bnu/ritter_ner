@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:11.056900+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3308.tif
+IMAGE WIDTH: 2356
+IMAGE HEIGHT: 3856
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>750
+          <lb/>Haganoae apud Iohan. Secer. Anno M. D. XXIX.
+          <lb/>Mense lulio.
+          <lb/>80, Antig., 48 unn. Bll., Sign. A-F. Kopft., Kust, Init.
+          <lb/>Auf der Rücks. des Titelbl.: Epistola nuncupatoria. (5 S.)
+          <lb/>R100.9652. Prov.: E. Lindner, Strassburg (Auktion Stober Nr.
+          <lb/>1033). 2. Ex. R 102.187. Herkunft unbekannt.
+          <lb/>BN Paris F 36278.
+          <lb/>11e9
+          <lb/>HEGENDORF Christoph : Dragmata. Siche: BUCOLDIANUS : De
+          <lb/>Inventione oratoria. Strassburg, Joh. Albrecht 1534. Nr. 324.
+          <lb/>HEGENDORF Christoph: Methodus conscribendi epistolas. In:
+          <lb/>ERASMUS : Opus de conscribendis epistolis. S. 451-477.
+          <lb/>Strassburg, Joh. Albrecht 1534. Nr. 787.
+          <lb/>1110
+          <lb/>HEGESIPPUS
+          <lb/>Strassburg, Balt. Beck 1532
+          <lb/>Egesippus! Teütsch. (Druckerm. Becks. H A B Tafel XV
+          <lb/>Nr. 4.)
+          <lb/>Im Jar: M. D. XXXII. Durch Doctor Caspar Hedion
+          <lb/>vertolmetscht. Straszburg. Mit Keiserlicher frevheit, in
+          <lb/>vier Jaren bey peen, x. marck golds, vnd verlierung der
+          <lb/>bücher nit nach zû trucken.
+          <lb/>Am Schluss: Getruckt zû Straszburg durch Balthassar
+          <lb/>Beck. Vnd volendt am dreissigsten tag Januarij des Tau¬
+          <lb/>sent Fünffhun- dert zwey vnnd dreissig- sten Jars.
+          <lb/>20, Got., 14 unn., CXXXVI num. Bll., 1 unn. Bl., Kopft., Kust.,
+          <lb/>Marg., Init.
+          <lb/>Auf der Rücks. des Titelbl.: Jnnhalt dises Bûchs.
+          <lb/>Bl. 2a: ... Herrn Philipsen Landtgrauen zû Hessen...
+          <lb/>Caspar Hedio... — Geben zû Straszburg den acht vnd
+          <lb/>zweintz- igsten tag des Jenners im Jar nach der! gepurt
+          <lb/>vnsers herrn Jesu Christi, xxxij. (Vorrede, 11 S.)
+          <lb/>Bl. 7b: Verzeichnung etlicher Judischen mercklichen
+          <lb/>sachen... (7 S.)
+          <lb/>Bl. A4b: Index, 9S.
+          <lb/>*R10.488. Herkunft unbekannt. Handschr. Notie auf dem Titelbl.:
+          <lb/>Ex libris M. Johannis Landvogt Parochus Miltenburg. Comparatus anno
+          <lb/>1580 apud Viduam Jo. Watz.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

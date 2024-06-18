@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:04.959620+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002125.tif
+IMAGE WIDTH: 2500
+IMAGE HEIGHT: 4000
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>CODRUS. Voir: PLAUTUS nos 2941, 2943; RITTER, Rép¬
+          <lb/>n° 2367.
+          <lb/>COELESTINUS, Joh. Friedrich : Von Schulen. Ausz was
+          <lb/>ursachen dieselben hin und wider in Stetten und Flecken
+          <lb/>so jämerlich zerfallen, oder ubel bestellet und regieret
+          <lb/>werden; und wie allen fürfallenden mängeln ab, den
+          <lb/>Schulen auff, und der Schuljugent in ihren Studiis...
+          <lb/>fortzuhelffen, auch Schulen wol und Christlich anzustellen
+          <lb/>und zuregieren... Mit zweyen schönen vorreden Martini
+          <lb/>Lutheri. — (Strasbourg, Samuel Emmel 1568), in-8°.
+          <lb/>Ritter: B M Strasbourg, n° 752; Hiersemann (Leipzig),
+          <lb/>Catal. 666, n° 1808; 80 M. « Seltene Streitschrift.»
+          <lb/>1415
+          <lb/>COELIUS, Michael : Des Ehrwürdigen Herrn Michael Coelii
+          <lb/>seligen, etwan Predigers, Decani und Pfarrherrn zu
+          <lb/>Manszfelde, Christliche und nützliche Auszlegungen,
+          <lb/>Predigten und Schrifften... zusammen bracht durch
+          <lb/>M. Ciriacum Spangenberg. Anno M. D. LXV. —
+          <lb/>(Strasbourg, Samuel Emmel 1565), in-fol.
+          <lb/>Bibl. S. Guillaume Strasbourg.
+          <lb/>1416
+          <lb/>COLB, Adam : Ein schön Wyhenachten Spil gestelt... —
+          <lb/>Strasbourg, héritiers de Christian Müller (Mylius) [vers
+          <lb/>1583), in-8°.
+          <lb/>Vogeleis, p. 348.
+          <lb/>1417
+          <lb/>COLER, Christophorus: Daphnis transalpinus, carmen pasto¬
+          <lb/>rale, cum epithalamio, in honorem... Laurentii Virdungi,
+          <lb/>civis ac senatoris Kittingensis, cognati sui et maecenatis.
+          <lb/>Oda praeterea ad eundem alcaica Pauli Virdungi fratris.
+          <lb/>— Strasbourg, Jost Martin 1592, in-4°.
+          <lb/>BN Paris : Rés. p. Z. 179. (Ritter, Rép, n° 559 : Coler,
+          <lb/>Sententiae ex utroque iure. Strasbourg, A. Bertram 15951.
+          <lb/>1418
+          <lb/>COLLECTA. Voir: ORATIONES n° 2791.
+          <lb/>123
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

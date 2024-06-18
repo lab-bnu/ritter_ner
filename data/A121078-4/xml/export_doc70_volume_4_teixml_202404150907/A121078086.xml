@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:44.990234+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078086.tif
+IMAGE WIDTH: 2324
+IMAGE HEIGHT: 3842
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>972
+          <lb/>In-4°, car. goth., 2 col., 6 ff. non ch. (titre et table), CCCLXVI
+          <lb/>ff. ch., titre courant, init. d’attente. Réimpression de l&amp;#x27;édition de 1506.
+          <lb/>*RI01.408 (1). Prov.: Butsch, Augsbourg 18/XI 1884; 5M. De
+          <lb/>nombreuses annotations mss.; en bas du titre: «Duplum Bibliothecae
+          <lb/>regiae Monacensis,; à l&amp;#x27;intérieur de la couverture, gravure : Rupertus
+          <lb/>encadré du texte suivant: «Rupertus praepositus et archidiaconus Cathe¬
+          <lb/>dralis et regularis ecclesiae Chiemensis»; en bas de la gravure: Wolfg.
+          <lb/>Kilian sculpsit A. 1654.
+          <lb/>BM Strasbourg; Proctor II Sectio In° 10.079: Londres, British
+          <lb/>1462
+          <lb/>Museum; Schmidt VII n° 77: Bâle; Walter: Sélestat 1810.
+          <lb/>MAILLARDUS Oliverius
+          <lb/>Strasbourg, J. Knobloch 1514
+          <lb/>Sermones de sanctis Reveren- di patris: fratris Oli¬
+          <lb/>verii Maillardi ordinis fratrum mino¬rum de obser¬
+          <lb/>vantia rursus diligenter revisi.
+          <lb/>A la fin: Impressum Argentorati in Johan- nis Kno¬
+          <lb/>blouchi civis Argentinensis of- ficina, sexto nonas Octo¬
+          <lb/>bris. Anno! M. D. XIIII.
+          <lb/>In-4°, car. goth., LXVIII ff. ch. en dehors de celui du titre, titre
+          <lb/>courant, init. d’attente; titre rouge et noir, entouré d’un encadrement,
+          <lb/>composé de 4 pièces juxtaposées: dans la pièce supérieure 2 génies
+          <lb/>jouant à la Strebekatz, pièces latérales, 2 col., pièce inférieure, au milieu
+          <lb/>2 monstres marins, ayant dans leur bouche des festons, tenus par
+          <lb/>2 génies ailés qui se trouvent au bout de la pièce.
+          <lb/>Au verso du titre: Reverendi.... Oliverii Maillardi:
+          <lb/>commendatio.
+          <lb/>*R101403 (2). Prov.: Butsch, Augsbourg 18/XI 1884; 5M.
+          <lb/>De nombreuses annotations mss.
+          <lb/>Beaulieux p. 195: BN Paris, Rés. 746; Proctor II Sectio I
+          <lb/>n° 10.087: Londres, British Museum; Schmidt VII n° 91: Bâle (autre
+          <lb/>encadrement); Walter: Sélestat 1814.
+          <lb/>1463
+          <lb/>MAIOR Georgius
+          <lb/>Strasbourg, Josias Rihel 1594
+          <lb/>PSALTERI- VM DAVIDIS : L OLIM! JVXTA TRANSLATIO- NEM
+          <lb/>VETEREM, AD HE- BRAICAM VERITATEM RECOGNITVM, ] A
+          <lb/>D. GEORGIO MAIORE. I Nunc! ARTIFICIO BREVI RHE-] torico
+          <lb/>&amp;amp; canendi Modulis, ad! singulos Psalmos ad- iectis:! Unà
+          <lb/>cum! CANTICIS, HYMNIS, ORATIO- nibus in singulos dies
+          <lb/>Festos; utilibus quoque IN- DCIBVS &amp;amp; piis precatiunculis
+          <lb/>au- ctum atque illustratum: in usum CHRISTIANAE
+          <lb/>Iuventutis.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

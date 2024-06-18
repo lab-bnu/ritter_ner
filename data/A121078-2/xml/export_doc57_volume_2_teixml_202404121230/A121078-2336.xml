@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:36.430700+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2336.tif
+IMAGE WIDTH: 2320
+IMAGE HEIGHT: 3816
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>332
+          <lb/>f. 2a: Ioan. Stvrmii ad! Ioan. Bonervm Severi- ni
+          <lb/>filium praefatio... — Argentorati Octa uo Calend. Apriles.
+          <lb/>Anno M. D. ! XLI. (9 p.).
+          <lb/>R 101.681: Prov.: Lippert, Halle, 16/1. 1888; 3 M. Rel. anc.
+          <lb/>Autres exemplaires du 2e vol.: R101.671. Proc.: Laibrairie Trüb¬
+          <lb/>ner. Strasbourg, 27/III. 1874; 3 M.75 et RI01.675. Prov, inconnue.
+          <lb/>GPB: BN Berlin, BU Bonn, Breslau, Greifswald, Kœnigsberg.
+          <lb/>506
+          <lb/>CICERO
+          <lb/>Strasbourg, W. Rihel, 1544.
+          <lb/>M. T. Ciceronis! Orationvm volvmina tria. Post postre¬
+          <lb/>mam Naugerianam, &amp;amp; Victo- rianam correctionem! emen¬
+          <lb/>data a loan. Stvrmio.! Omnia &amp;amp; paginarum, &amp;amp; uersuum
+          <lb/>numero atque longi- tudine Aldinis respondent. Accessit
+          <lb/>huie editioni Elenchus uariarum lectionum.
+          <lb/>(Vol. I.] Marque typ. de Wendelin Rihel. (H dt B, Planche XXIX,
+          <lb/>No 4; Silvestre, N° 741.)
+          <lb/>Cum gratia &amp;amp; priuilegio Caesareo ad septennium.
+          <lb/>Argentorati Anno XLIIII. (Verso blanc.)
+          <lb/>A la fin: Argentorati per VuendelinumRihelium.
+          <lb/>Anno M. D. XLIIII. Mense Martio. (Verso blanc).
+          <lb/>In-8°, car. ital, 16 ff. non ch., 305 ch. — 18 ff. non ch.
+          <lb/>(Elenchus vari- arvm lectionvm primi vo- luminis Ora¬
+          <lb/>tionum Ciceronis — Index), titre courant, réclames, initiales à fig.
+          <lb/>F, V et initiales d’attente.
+          <lb/>Préfaces comme dans l’édition du mois de mars 1540.
+          <lb/>R101.660. Prov.: Lippert, Halle, 16/1. 1888; 0,80 M. (Le 2e vol.
+          <lb/>manque). Rel. anc.
+          <lb/>507
+          <lb/>CICERO
+          <lb/>Strasbourg, W. Rihel, 1544.
+          <lb/>M. T. CICERONIS ORATIONVM VOLV-MEN TERTIVM.
+          <lb/>Marque typ. de W. Rihel. (H ee B. Planche XXIX, N° 4.)
+          <lb/>Cum gratia &amp;amp; priuilegio Caesareo ad septennium.
+          <lb/>ARGENTORATI! ANNO XLIIII. (Verso blanc.)
+          <lb/>A la fin: Argentorati per Vuendelinum Rihelium.
+          <lb/>ANNO M. D. XLIIII. Mense Martio.
+          <lb/>Au-verso, marque typ. de W. Rihel. (H d B, Planche XXIX,
+          <lb/>No 2; Silvestre, No 742.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

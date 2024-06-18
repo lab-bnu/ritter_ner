@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:29.196244+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2095.tif
+IMAGE WIDTH: 2328
+IMAGE HEIGHT: 3830
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>Au-dessous: marque typ. des frères Alantsee. (H &amp;amp; B Planche
+          <lb/>XIII. No 1.)
+          <lb/>notes marginales, initiales ornées.
+          <lb/>In-4°, car, rom., 174 ff. non ch., sign. A-Z, Aa-Bb., titre courant,
+          <lb/>Titre encadré: dans la bordure supérieure: David, Esaias, Paulus,
+          <lb/>Johannes; dans les bordures latérales à gauche: Hieronymus et Am¬
+          <lb/>brosius, à droite Augustinus et Gregorius; en bas au milieu, écusson
+          <lb/>vide, tenu par deux génies.
+          <lb/>fol. 2a: Privilège de l’empereur pour 6 ans.
+          <lb/>fol. 3a: ... Domino Mattheo... Cardinali Gurcen. Ecclesiae
+          <lb/>Salisburgensis col adiutori... Joachimus Va dianus Heluetius
+          <lb/>foeli! citatem optat... — Viennae Austriae, Pridie Nonas
+          <lb/>Octo! bris An. M.D.XV. (6 p.)
+          <lb/>fol. 6b: Jo. Franciscus Picus Ric) cardo Bartholino suo.
+          <lb/>... — Ex hospitio apud Li-cum. XIIII. Calendas Octobris.
+          <lb/>fol. 7a:... Joanni Fran! cisco Pico Mirandulae Principi,
+          <lb/>Riccar dus Bartholinus foelicitatem. D.... — Ex Augusta
+          <lb/>Vindelicia. (3 p.)
+          <lb/>R100.873. Prov.: Osc. Weigel, Leipsic, 30. x. 1883; 10 M. 50.
+          <lb/>Schmidt VIII, No 181; London, British Museum.
+          <lb/>GPB: Berlin SB, Breslau, Göttingen.
+          <lb/>155
+          <lb/>BARTHOLINUS Richardus, Austriados Lib. XII. Voir: GUNTHER
+          <lb/>a Pairis, Opus de rebus gestis Jmp. Caesaris Friderici I.
+          <lb/>Strasbourg, J. Schott, 1531.
+          <lb/>BARTHOLOMAEUS Anglicus.
+          <lb/>Strasbourg, G. Husner, 1505.
+          <lb/>Liber de proprietatibus! rerum Bartholomei Angli ci
+          <lb/>Ordinis Minorum.
+          <lb/>A la fin: Explicit liber de proprietatibus rerum editus
+          <lb/>a fratre Bartholomeo Anglico ordinis fra! trum Minorum
+          <lb/>Impressus Argentine. Anno domini. M.d.v. Finitus altera
+          <lb/>die ante festum sancti Laurentij martyris.
+          <lb/>In-fol., car. goth., 2 col., 258 ff. non ch. sign. a-2, A-R, titre cou¬
+          <lb/>rant, initiales d’attente.
+          <lb/>fol. 2a: Index (10 pages à 3 col.)
+          <lb/>Proctor, II, 1 N° 10.003 l&amp;#x27;attribue à Georges Husner.
+          <lb/>R10.257. Prov.: Bibliothèque Hammer. Rel. anc.
+          <lb/>A l&amp;#x27;intérieur de la couverture: Exlibris de Jacob Reinbold Spiel¬
+          <lb/>mann; au dessous: J. Striedbeck del. et sculp. Argent. Au haut:
+          <lb/>Bibliothecae Hammerianae. Bartholomaeus Glaunvyle,
+          <lb/>s. Glanovillanus, vulgo Anglicus dictus, ex Nobiliss. Comi¬
+          <lb/>tum Ludovolgiorum genere, franciscanus, vixit circa 1360.
+          <lb/>91
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:12.597297+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3367.tif
+IMAGE WIDTH: 2392
+IMAGE HEIGHT: 3860
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>809
+          <lb/>stattgefunden, denn so lange der alte Beck lebte, scheinen sich beide
+          <lb/>nicht in die Quere gekommen zu sein. Das änderte sich aber, als Bal¬
+          <lb/>thasar Beck die väterliche Druckerei übernahm. Dieser druckte 1529 den
+          <lb/>Gart der Gesuntheit (also den zweiten Teil mit den Tieren usw.) mit den
+          <lb/>Prysschen Stöcken, von denen jedoch mehr als ein Viertel durch Alter
+          <lb/>zugrunde gegangen war. Fast gleichzeitig erschien aber auch Grüninger
+          <lb/>mit einer Konkurrenzausgabe unter dem Titel Ortus sanitatis auf dem
+          <lb/>Markte, die sich ebenfalls auf die Tiere und Steine beschränkte, jedoch
+          <lb/>am Schlusse einen nur wenige Blatt umfassenden Auszug aus dem Pflan¬
+          <lb/>zenteil enthielt.... Verdiente Becks Ausgabe wenig Lob, so war ihr die
+          <lb/>Grüningersche in keiner Beziehung überlegen. Diese hatte nämlich noch
+          <lb/>weniger Figuren als jene; dabei waren die Bilder direkt nach den alten
+          <lb/>Prysschen kopiert, aber mit so kraftlosen dünnen Strichen, dass sie un¬
+          <lb/>angenehm wirken...
+          <lb/>1205
+          <lb/>HORTUS SANITATIS
+          <lb/>Strassburg, M. Apiarius 1536
+          <lb/>HORTVS SANITATIS, QVATVOR] libris haec quae snb (!)
+          <lb/>sequuntur complectens. De Animalibus &amp;amp; Reptilibus.
+          <lb/>De Auibus &amp;amp; Volatilibus. De Piscibus &amp;amp; Natatilibus.
+          <lb/>De Gemmis &amp;amp; in ueuis terrae nascentibus. Singula autem
+          <lb/>Capita suis pulchrè depicta snnt (!)Schematibus siue
+          <lb/>figuris.! Omnia castigatius, quàm hactenus uidere licuit.
+          <lb/>id quod aequus Lector ex collatione fa- cile peruidere
+          <lb/>poterit.
+          <lb/>APPOSITVS EST INDEX, RE] rum quae ad Medicinam
+          <lb/>spectant, quàm copiosissimus.
+          <lb/>ARGENTORATI PER MATHIAMApiarium Anno. M. D.
+          <lb/>XXXVI. (Rücks, leer.)
+          <lb/>Am Schluss: ARGENTORATI IN OFFICINA MATHIAE Apiarij,
+          <lb/>Mense Martio: ANNO M. D. XXXVI. (Auf der Rücks. Druckerm.
+          <lb/>des Apiarius. H &amp;amp; B Tafel XXIV Nr. 1; Silvestre Nr. 587.)
+          <lb/>20, Antiq., 2sp., 6 unn. (Index), 130 num. Bll., Kopft., Kust.,
+          <lb/>Titeleinfassung: Seitenbordüren, 2 breite, grosse Sâulen u. 2 Baum¬
+          <lb/>stämme mit allerlei Tieren; die Zweige vereinigen sich in der oberen
+          <lb/>Leiste, auf welcher sich die Namen von 6 Edelsteinen befinden; ùber
+          <lb/>dem Diamanten ist eine nackte Frau, über den andern Steinen sind
+          <lb/>Männer mit Tierköpfen; die untere Leiste weist verschiedene Seeunge¬
+          <lb/>heuer auf.
+          <lb/>Zahlreiche Abbildungen von Tieren, Steinen, Vögeln, Fischen.
+          <lb/>R10.438. Prov.: Bibliothek der alten Strassb, medizin. Fakultät.
+          <lb/>Stadtbibl. Strassburg. — Fehlt bei Schreiber.
+          <lb/>1206
+          <lb/>HORTUS SANITATIS. Siehe auch: HERBARIUS
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:05.930523+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3078.tif
+IMAGE WIDTH: 2322
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>522
+          <lb/>Druckerm. Frölich&amp;#x27;s mit den Anfangsbuchstaben I.F. (HEB
+          <lb/>T&amp;#x27;afel XXV Nr. 2, Silvestre Nr. 669).
+          <lb/>Darunter: ExCVSVM ARGEN- tinae, in aedibus lacobi
+          <lb/>Iucundi, Anno M. D. XXXVII.
+          <lb/>Am Schluss: EXCVSVM ARGENTINAE, ! in aedibus Iacobi
+          <lb/>Iucundi, Anno M. D. XXXVII.
+          <lb/>Auf der Vorderseite des letsten Bl., Druckerm, Frölich&amp;#x27;s (HEB
+          <lb/>Tafel XXV Nr. 1, Silvestre Nr. 668) mit der Devise: MVSAe NOSTER
+          <lb/>AMOR, DVLCESQVE ANTE OMNIA MVSAE. (Rücks, leer.)
+          <lb/>80, Antiq., 48 unn. Bll., Sign. A-F. Kust.
+          <lb/>Auf der Rücks, des Titelbl.: Adversus Calumniam HEn¬
+          <lb/>decasyllabi Phalœtij. pnr (1) Nicolaum Ditrichum. (12 Verse);
+          <lb/>darunter: HEXASTICHON ad! pueros. N. D. (3 Dist.)
+          <lb/>R100,920. Prov.: Bibl. Wackernagel, 12. XII. 1877. Die Seiten¬
+          <lb/>zahlen sind mit Tinte eingetragen von 17-64.
+          <lb/>Van der Haeghen V, 2; S. 3-6: .. Epitome des Formulae du Collo¬
+          <lb/>quiorum Opus d’Erasme. Les n°s 1-23 et 25-36 sont un remaniement des
+          <lb/>formulae proprement dites... Les nos 37-51 sont nouveaux. Les n°s 24,
+          <lb/>52-76 sont le texte même d’Erasme, tantôt littéral, tantôt écourté par des
+          <lb/>coupures. La Brevis de copia praeceptio est l’ancienne pièce Erasmienne
+          <lb/>qui fait suite aux Formulae dans l’Opus Colloquiorum...
+          <lb/>Nach von der Haeghen ist das Ex, der Strassburger Bibliothek ein
+          <lb/>Unikum.
+          <lb/>792
+          <lb/>ERASMUS : Institutio matrimonii
+          <lb/>Strassburg, B. Beck 1542
+          <lb/>Christenlicher Ee Jn- stitution oder Anweisung,! DA¬
+          <lb/>rinn des Eestands Götliche auffsetzung, erster vrsprung.
+          <lb/>nammen, frucht, nutzbar- keyt vnd geheymnisz, auffs fleis¬
+          <lb/>sigst vnnd! gründtlichst beschriben vnd erklärt... (13 Zeilen.)
+          <lb/>Mit angehencktem Lobspruch des Eestandts.
+          <lb/>Durch D. Eras, von Roterdam in Latein beschriben,
+          <lb/>Nachmals vertolmetscht vnd ins Teütsch bracht durch
+          <lb/>Joannem Herold. M. D. XLII.
+          <lb/>Am Schluss: Getruckt zû Straszburg, bey Balthassar
+          <lb/>Beck.
+          <lb/>40, Got., 5 unn. Bll., CXCV num. und 22 unn. Bll. (Lobspruch),
+          <lb/>1 leeres Bl., Kopft., Kust., Init.
+          <lb/>Auf der Rücks, des Titelbl. : Vorred. Der... fra-wen
+          <lb/>Fraw Anna Fuggerin... — Basel, den zehenden Au- gusti
+          <lb/>Anno M. D. xlij. H. Heroldt. (7 S.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:37.784041+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu089.tif
+IMAGE WIDTH: 2392
+IMAGE HEIGHT: 3840
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>JORDANUS DE QUEDLINBOURG: Sermones de sanctis. Stras¬
+          <lb/>bourg, J. Grüninger, 28 mars 1484, in-fol.
+          <lb/>Hain 9440, Madsen 2340, Pellechet: Colmar 833, Proctor 439,
+          <lb/>Schmidt I, 3, Voulliéme: Berlin 2270.
+          <lb/>K 2224. Prov.: Don de la ville de Trèves, 1871, avec le cachet
+          <lb/>de la B M de Trèves. Rel. anc.
+          <lb/>275
+          <lb/>JUSTINIANUS: INSTITUTIONES. Strasbourg, H. Eggestein,
+          <lb/>15 sept. 1472, in-fol.
+          <lb/>Hain 9491, Pellechet: Colmar 837. Proctor 264, Voulliéme:
+          <lb/>Berlin 2138.
+          <lb/>K 2166. Prov.: Don du prof. Witte, Halle. Au recto du f. de
+          <lb/>garde: «Licet careat subscriptione, est editio Argentoratensis
+          <lb/>Eggesteinii, anno 1472, impressa, quam Schrader in Prodroma
+          <lb/>sub. Nris III et XLV bis ennumeravit. Cf. Dieckium hujus libri
+          <lb/>donatorem in Hist. liter. p. 434.»
+          <lb/>276
+          <lb/>KALENDER (deutscher) für Strassburg auf das Jahre 14771.
+          <lb/>(Strasbourg, J. Mentelin, 1476), in-fol. (Einblattdruck).
+          <lb/>Incomplet.
+          <lb/>Copinger 2190-2193, Proctor 215, Schorbach: Mentelin N° 38;
+          <lb/>Sudhoff N° 297.
+          <lb/>K2281. Prov.: Baer 6́ Co, Francfort-s.-M., 27 XI. 1913, 500 M.
+          <lb/>Note mss. sur une fiche blanche: «Kalender, Medizinisch-astro¬
+          <lb/>nomischer in deutscher Sprache für das Jahr 1477. Strassburg
+          <lb/>(Joh. Mentelin 1476), Fol. mai, rom. char. Aus 2 Bll. zusam¬
+          <lb/>mengesetzt (das eine Blatt umfasst 65 Zeilen). Am Schlusse
+          <lb/>fehlen einige Zeilen. Von einigen Wurmstichen und gering¬
+          <lb/>fügigen Ausbesserungen abgesehen guterhaltener Einblatt¬
+          <lb/>druck mit Rand. (Strassburg 1476), 500 M.
+          <lb/>Nicht bei Hain, Copinger II. 2193=2190: Heitz u. Haebler,
+          <lb/>Hundert Kalender-Inkunabeln N° 16; Proctor 215, Type 8;
+          <lb/>Pollard I, p. 58.
+          <lb/>Der älteste bekannte Strassburger Kalender, mit der schönen
+          <lb/>römischen Type Mentelins gedruckt. Wie aus dem Anfangs¬
+          <lb/>passus hervorgeht, wurde er speziell für die Stadt Strassburg
+          <lb/>angefertigt und der Text ist in rein alemannischem Dialekt
+          <lb/>abgefasst. Der Kalender ist durchgehends in Langzeilen ge¬
+          <lb/>druckt, nur am Anfang jeden Monats ist Raum für eine Initiale
+          <lb/>gelassen. Er enthält astronomische und medizinische Angaben
+          <lb/>für jeden Monat, besonders über den Aderlass.
+          <lb/>59
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

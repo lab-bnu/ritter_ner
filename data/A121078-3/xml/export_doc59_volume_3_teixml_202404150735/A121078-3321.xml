@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:11.399901+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3321.tif
+IMAGE WIDTH: 2364
+IMAGE HEIGHT: 3854
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>HENRICHMANN Jakob
+          <lb/>Hagenau, Th. Anshelm 1517
+          <lb/>Jacobi Henrichmanni Sindelfingensis grammaticae
+          <lb/>institutiones. Exhortatio eiusdem ad pueros ut eloquen¬
+          <lb/>tiae! studeant. Ars condendorum carminum Henrici Be¬
+          <lb/>belii Iustin ! gensis poetae laureati cum additionibus multis
+          <lb/>per autorem ipsum emendata diligenter.! Racemationes
+          <lb/>&amp;amp; obseruationes eiusdem.! Centimetrum Seruii Honorati
+          <lb/>grammatici.Alphabetum graecum cum dictionum graeca¬
+          <lb/>rum apici bus, qui in aliorum impressionibus sunt ne¬
+          <lb/>glecti.
+          <lb/>Ad haec omnia spectabis lector hactenus non visa
+          <lb/>scholia in Arte metrica.
+          <lb/>Hagenaw.
+          <lb/>Am Schluss: Hagenaw in aedibus Thomae Anshelmi
+          <lb/>Badensis! Mense lanuario. Anno M. D. XVIl. (Darunter Druckerm.
+          <lb/>Anshelms. (HEB Tafel LXII Nr. 3; Silvestre Nr. 641.)
+          <lb/>40, Antiq., 126 unn. Bll., Sign. a-p, A-I, Titel rot u. schwvarz,
+          <lb/>Titelumrahmung (HE B Tafel LXI Nr. 1).
+          <lb/>Auf der Rücks, des Titelbl.: IOANNIS HILTEBRANT LECTORI
+          <lb/>S. D. P. (3 Dist. des H. Bebel sowie 6 von Seb. Kefer. Sodann Vor¬
+          <lb/>rede des Verfassers an H. Bebel, Tübingen 1506.)
+          <lb/>Bl. a 3b: Iacobus Henrichman Gasparo Hymel... — Ex
+          <lb/>Lustnoia VII. kalendas Martias. Anno octauo supra sesqui¬
+          <lb/>millesimum.
+          <lb/>Bl. a 4a: Exhortatio lacobi Henrichmanni ad! literarum
+          <lb/>studiosos ut barbariem eliminent! &amp;amp; eloquentiam uenentur.
+          <lb/>(6 S.)
+          <lb/>R 101.582. Geschenk von Fid. Butsch, Augsburg 1871. Handschr.
+          <lb/>Notizen.
+          <lb/>1129
+          <lb/>763
+          <lb/>HENRICHMANN Jakob
+          <lb/>Hagenau, H. Gran 1518.
+          <lb/>Grammatice institutio! nes Jacobi Henrichmanni Sin
+          <lb/>delfingensis castigate de-nuo atque diligenter elaborate.
+          <lb/>Exhortatio eiusdem ad literarum studiosos! ut barbariem
+          <lb/>eliminent &amp;amp; eloquentie studeant.! Ars condendorum car¬
+          <lb/>minum Henrici Be! belij Justingensis poete laureati.! Syl¬
+          <lb/>labarum quantitates: Racemationes! et exquisitiores obser¬
+          <lb/>uationes eiusdem cum additionibus multis. Centimetrum
+          <lb/>Mauri Seruij ho! norati grammatici.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

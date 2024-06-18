@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:31.083619+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2152.tif
+IMAGE WIDTH: 2302
+IMAGE HEIGHT: 3828
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>148
+          <lb/>Junckfrawen vnd mûter gottes zû eren vnd den Christen
+          <lb/>menschen zû heil vnd seliger vnderwysung.
+          <lb/>Gravure sur bois: Couronnement de la sainte Vierge, à sa gauche,
+          <lb/>Dieu le père, à sa droite, le Christ, au-dessus de la couronne, le Saint-
+          <lb/>Esprit en forme de colombe, à côté des anges, au-dessous les saints. Le
+          <lb/>tout entouré d’un cadre, terminé en haut par deux branches qui se
+          <lb/>réjoignent, dans chaque coin et au milieu des branches un enfant nu.
+          <lb/>A la fin: Gedruckt in der keiserli chen freyen stat
+          <lb/>Straszburg durch Mathis Hupffuff, seligklich vollendet vff
+          <lb/>montag vor Johannis des teuffers, des Jares von gottes
+          <lb/>menschwerdung Tausent fünffhun dert vnd dreyzehen iar.
+          <lb/>(Verso blanc.)
+          <lb/>Titre de la IIe partie: Hie nach volget das winter- teil
+          <lb/>der heiligen leben: vnd zû den ersten von sant Michael.
+          <lb/>Au-dessous, grande gravure d’une page: Au haut, Jérusalem et Bethanie;
+          <lb/>au bas, résurrection de Lazare.
+          <lb/>In-fol,, car, goth., 2 col., Ière partie CLXXVI ff. ch.,
+          <lb/>IIe partie: CXCVI fr. ch., titre courant, initiales ornées et
+          <lb/>initiales à fig., titres en rouge. 236 gravures sur bois, dont beaucoup
+          <lb/>sont répétées, en tout 380. La plupart hautes 75 mm, larges 135, quelques
+          <lb/>unes très belles, de la grandeur d’une page, h. 220, larges 160 mm.
+          <lb/>Dans la Ière partie, 4 de la Passion d’Urs Graf, parmi lesquelles la
+          <lb/>résurrection de Lazare, qui se trouve aussi au bas du titre du Winter¬
+          <lb/>teil; en outre une grande gravure fol. 195b.
+          <lb/>*R10.144. Prov.: Lévy, antiquaire à Strasbourg, 7/XI. 1895,
+          <lb/>45 M. Notes mss. Rel. anc.
+          <lb/>Schmidt V. No 104; Exemplaire du chanoine Straub et BN
+          <lb/>Munich, tous deux incomplets sans le f. du titre principal, de sorte
+          <lb/>que Schmidt n’a pu déerire la gravure du titre. Il cite le titre d’après
+          <lb/>Weller, 785.
+          <lb/>Notre Bibliothèque classe l’ouvrage au nom de Brant; celui-ci
+          <lb/>n’étant pas l’auteur, mais seulement le traducteur, on le classe aussi
+          <lb/>sous Passionale. Il en est de même de l’ouvrage suivant que l’on classe
+          <lb/>236
+          <lb/>sous Klagspiegel. J’y ai fait des renvois.
+          <lb/>BRANT Sebastian
+          <lb/>Strasbourg, M. Hupfuff, 1516.
+          <lb/>Der Richterlich Clagspiegel. Ein nutzbarlicher begriff:
+          <lb/>wie man setzen vnd formieren sol nach ordnung der
+          <lb/>rechten ein yede clag, antwort, vnd vszzesprechene vrtey¬
+          <lb/>len, gezogen! vsz geistlichen vnd weltlichen rechten. Da
+          <lb/>durch sich ein yeder, er sey clager, antworterr
+          <lb/>richter, in recht geschickt machen, daz selb üben brau¬
+          <lb/>chen, vnd dargegen vor vn- rechter that, anfechtung,
+          <lb/>vnnd fürnemen verhüten mag. Durch doctorem Sebas¬
+          <lb/>tianum Brandt wider durchsichtiget, vnnd zûm teyl ge¬
+          <lb/>bessert.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

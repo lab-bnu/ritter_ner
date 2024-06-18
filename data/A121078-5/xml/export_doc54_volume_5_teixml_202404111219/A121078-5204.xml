@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:56.625625+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5204.tif
+IMAGE WIDTH: 2364
+IMAGE HEIGHT: 3860
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1514
+          <lb/>VITRUVIUS M. Pollio
+          <lb/>Strasbourg, G. Messerschmidt, 1550
+          <lb/>M. Vitruvii Il pollionis... de archite- Il ctvra libri. X. ...
+          <lb/>&amp;amp; locis quam amplissimis hac editione emendatis adiunctis
+          <lb/>nunc primum Guilielmi philandri castillionii Galli civis rom.
+          <lb/>castigationibus atque annotationibus in eosdem longe doctiss.
+          <lb/>ad franciscum valesium galliarum Regem.
+          <lb/>Una cum lib. II.  sex. iulii frontini de!! aquaeductibus
+          <lb/>urbis romae, &amp;amp; nicolai cusani dialogo de staticis experi¬
+          <lb/>mentis.Cum Graeco pariter &amp;amp; Latino in-dice, dispositione
+          <lb/>copiaque elaboratissimo.
+          <lb/>Anno dom. M. D. L.
+          <lb/>A la fin : Argentorati, ex officinakoblochiana, per geor¬
+          <lb/>gium machaeropieum, mense augusto! anno, M. D. L.
+          <lb/>(Au-dessous, feuille de lierre.)
+          <lb/>In-4°, car. rom. et ital., 30 ff. non ch. (sign. AA-II), 493 pp. ch., 427 ff.
+          <lb/>non ch. (sign. Rr-Ss, &amp;amp;-e), titre courant, réclames, notes marg., init.
+          <lb/>ornées, titre rouge et noir, grav. sur bois ayant pour la plupart rapport
+          <lb/>à l’architesture (colonnes, bâtiments, palais, figures géométriques, etc.;
+          <lb/>p. 49: l’âge d’or).
+          <lb/>Au verso du titre : nicolaus gerbelius Il emptori s. (5 dist.).
+          <lb/>fol. AA 2a non ch. : georgius machaero-I] piœus typographus!] ad
+          <lb/>Candidum Lectorem... (4 pp.) ; suivent 40 pp. d’index à 3 et à 2 col.
+          <lb/>fol. GG 4a non ch. : francisco volesio re- Il gi potentiss, et christianis¬
+          <lb/>simo, 11 Gulielmus Castilionius, Victoriam... — Romae I] Calend.
+          <lb/>Augusti. 11 M. D. XLIII (3 pp.).
+          <lb/>fol. HHb non ch. : vitruvii vita, ex ipso!] opere per Philandrum collecta.
+          <lb/>(1 p.).
+          <lb/>R. 102.167. Prov. inconnue.
+          <lb/>Ritter: BM Strasbourg, No 2183; Olschki, Florence, Catalogue LXXI
+          <lb/>(1912), N° 244: 50 fr.
+          <lb/>2425
+          <lb/>VIVALDUS Johannes
+          <lb/>Haguenau, H. Gran, 1513
+          <lb/>De Contritionis veritate au reum opus! Fratris Joannis
+          <lb/>viualdi de Monte regali, ordi- I nis fratrum predicatorum
+          <lb/>sacre pagine professoris. (Verso blanc.)
+          <lb/>A la fin : Opus christi fidelibus salutiferum de contriti ! onis
+          <lb/>veritate inscriptum impensis circum-ecti viri Joannis
+          <lb/>Rynman de Orin-gau impressum in oppido Ha-]genau
+          <lb/>per industrium Henri-cum Gran finit feliciter Anno
+          <lb/>virginei par! tus. M. d. xiij.n die b.[eatil Am!] bro sii)
+          <lb/>episcopi et confessoris.
+          <lb/>In-4°, car. goth., Lx ff. ch. (le dernier par erreur C)-L-25 ff. non ch.
+          <lb/>(à 2 col.) dont le dernier blanc, titre courant, manchettes, init. d’attente.
+          <lb/>fol. A 2a : Ad... Ludoui-] cum salutiarum macchionem ac neapoli¬
+          <lb/>tanum viceregem. D. suum perpetu !! um : Dardanus S...
+          <lb/>Au verso: Reuerendo ac magnifico concilio illustrissi-] mi et excelsi
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

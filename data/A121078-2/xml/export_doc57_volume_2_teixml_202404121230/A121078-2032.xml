@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:27.230480+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2032.tif
+IMAGE WIDTH: 2376
+IMAGE HEIGHT: 3830
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>28
+          <lb/>certo perlatum, avec le même encadrement qu’au titre principal.
+          <lb/>31 ff. non ch.
+          <lb/>C133421. Prov.: BN Munich, 28/XIl, 1883, 1 M. 20. Au haut du
+          <lb/>titre: «Constat 16 crucer emptus per me Adam Vlmann»,
+          <lb/>au bas de la-même main: Hagenau 1516.
+          <lb/>GPB III, 7208: Berlin, Munich, Breslau, Greifswald.
+          <lb/>42
+          <lb/>ALTENSTAIG Johannes
+          <lb/>Haguenau, H. Gran, 1517.
+          <lb/>Vocabularius Theologie com-plectens vocabulorum
+          <lb/>descriptiones, diffinitiones (!) et significa tus ad theologiam
+          <lb/>utilium: et alia quibus prudens et dili-gens lector multa
+          <lb/>obstrusa et obscura theologorum dicta et ! dissoluere et
+          <lb/>rationum et argumentorum difficiles nodos; et faci le
+          <lb/>ea quae in ducem et principem sententiarum doctores
+          <lb/>scripserunt! intelligere poterit, magno cum labore et dili¬
+          <lb/>gentia compilata a Joanne Altenstaig Min delhaimensi, sacre
+          <lb/>scriptu-re vero ama-tore. Distichon Henrici Bebelij in
+          <lb/>Vocabularium Joannis Altenstaig Vindelici (un distique.)
+          <lb/>Joannis Weber Weyssenhorensis Distichon..
+          <lb/>A la fin:.. Excusus in officina industrij Henrici Gran,
+          <lb/>ciuis imperialis! oppidi Hagenaw: Impensis sumptibusque...
+          <lb/>Joannis Rynman de Oringaw!.. Anno virginei partus
+          <lb/>M. d. XV ij.die. Xiij. mensis Decembris.
+          <lb/>in-fol., car. goth., 2 col., 4 ff. non ch., CCLXXVII ff. ch., titre
+          <lb/>courant, init. ornée A, titre rouge et noir, encadré (H&amp;amp;B, Planche
+          <lb/>LXIII, NO 1.)
+          <lb/>Au verso du titre: TETRASTICHON DOMINI JOANNIS Boemi
+          <lb/>Aubensis ordinis Teutonici, (2 distiques.)
+          <lb/>Carmen Jacobi Henrichmanni pro laude Joan. Alten¬
+          <lb/>staig... (7 distiques.)
+          <lb/>Au-dessous: Privilège impérial.
+          <lb/>fol. 2a non ch. :... domino Christophoro episcopo Augustensi,
+          <lb/>Joannes Altenstaig... — Ex Mindelhaim intra Kalendas
+          <lb/>Octo- bres. Anno virgine pariente sesquimillesimo decimo¬
+          <lb/>septimo. (3 pages et demie.)
+          <lb/>fol. 3b non ch.: Ad... dominum Christophorum de Stadion,
+          <lb/>episcopum Augustensem... ! Pinciani praesbyteri Carmen.
+          <lb/>(11 distiques.)
+          <lb/>Au-dessous : ... Patri Joanni de Staupitz...! Joannes Alten¬
+          <lb/>staig... — Ex Mindelhaim quar-to nonas Octobres. Anno...
+          <lb/>Millesimo quingentesimo decimoseptimo. (2 pages.) et De¬
+          <lb/>castichon domini Joannis Boemi... (5 distiques.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

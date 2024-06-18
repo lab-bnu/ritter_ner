@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:56.588919+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5202.tif
+IMAGE WIDTH: 2366
+IMAGE HEIGHT: 3860
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1512
+          <lb/>VIRGILIUS MARO Publius
+          <lb/>Strasbourg, M. Schürer, 1517
+          <lb/>Publii Ver! gilii Maronis! Bucolico- rum Libellus..&amp;quot;
+          <lb/>A la fin: Argentorati, ex Aedi. Schurerij Mense!! Nouembri.
+          <lb/>Anno M. D. XVII. (Verso blanc.)
+          <lb/>In-4°, car. rom., 18 ff. non ch., sign. A-C, titre courant, notes marg.,
+          <lb/>titre encadré (H. &amp;amp; B., Planche XIII, N° 6).
+          <lb/>Au verso du titre : Vitae P. V. Maronis, ex Probo Gramma-I] tico
+          <lb/>fragmentum.
+          <lb/>R. 101.023 (4). Prov. : Curé R. Hartter à Luizhausen, 24/x, 1877.
+          <lb/>Schmidt VIII, N° 220.
+          <lb/>2421
+          <lb/>VIRGILIUS MARO Publius
+          <lb/>Strasbourg, J. Knobloch, 1527
+          <lb/>P. V. Ma-ronis Opera.
+          <lb/>Ad Lectorem. Vergilij inclyta monumenta in!! unum
+          <lb/>uolumen congesta, operaque vigi ]] lanti castigata, candide
+          <lb/>Lector am plectere, paruo aere ingentem!p9òv (nec
+          <lb/>enim te lu- do) comparabis.
+          <lb/>Indicem operum in fine require.
+          <lb/>Anno, M. D. XXVII.
+          <lb/>A la fin : Argentorati, Ioan-Il nes Knoblochus Ex!! cudebat.
+          <lb/>Anno, 11 M. D. XXVII.
+          <lb/>In-8°, car, ital., 347 ff. non ch., sign. A-Z, a-s, titre courant, réclames,
+          <lb/>belles init. à fig., titre encadré (H. &amp;amp; B., Planche X, No 6).
+          <lb/>Au verso du titre: Joannes Lonicerus !] iuuentuti èv Stáyety (4 dist.).
+          <lb/>R. 101.811. Prov. : W. Hansknecht, St.-Gallen (Catal. 53, No 427),
+          <lb/>17/x, 1882, 1 M.
+          <lb/>Notes mss. : « Balthasarus Schertweg ex Lucerna Anno 1571.»
+          <lb/>2422
+          <lb/>VIRGILIUS MARO Publius
+          <lb/>Strasbourg, Bl. Fabricius, 1556
+          <lb/>P. Virgi ]] lii Maronis Bucolico-rum, post omnes omnium
+          <lb/>aliorum non contemnenda explicatio, perscripta de com¬
+          <lb/>mentatione et interpretatione locorum Theocriti, ] cuius
+          <lb/>autor est H. Eobanus!! Hessus.
+          <lb/>Marque typ. de Crato Mylius (H. &amp;amp; B. Planche XXVII,
+          <lb/>No 7 ; Silvestre, No 1265.)
+          <lb/>La même marque au verso du dernier f. blanc, mais avec la
+          <lb/>différence que le lion regarde dans le sens inverse.
+          <lb/>A la fin : Argentorati Excu-debat Blasius Fabricius Il
+          <lb/>Chem.
+          <lb/>In-8°, car. ital., 17 ff. non ch. (Bucolica), 212 pp. ch. (Commentaire),
+          <lb/>2 ff. blancs dont le premier contient au verso l’explicit, le second, la
+          <lb/>marque typ., titre courant, réclames.
+          <lb/>R. 101.512 (2). Prov. : Pasteur Hartter, Luizhausen, 22/x, 1877;
+          <lb/>1M.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

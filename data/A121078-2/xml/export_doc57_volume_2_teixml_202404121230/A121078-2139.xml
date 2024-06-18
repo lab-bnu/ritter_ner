@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:30.615714+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2139.tif
+IMAGE WIDTH: 2314
+IMAGE HEIGHT: 3826
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>135
+          <lb/>Notes mss. A l’intérieur du Ier plat: Zur Hasskarl-Stiftung der
+          <lb/>Universität gehörig, 1894. Le f. avec le portrait de Bock au recto et
+          <lb/>les armoiries au verso viennent immédiatement après le titre et non fol.
+          <lb/>A 6 comme dans RI0.500.
+          <lb/>GPB: Berlin SB.
+          <lb/>Manque chez Schreiber, Kräuterbücher.
+          <lb/>219
+          <lb/>BOCK Hieronymus
+          <lb/>Strasbourg, J. Rihel, 1595.
+          <lb/>Kreütterbuch.. (Comme dans l’édition de 1587, jusqu’à:
+          <lb/>Alles durch H. Hieronymum Bock.., beschriben.)
+          <lb/>Hernacher mit vilen nutzlichen Experimenten gemehret,
+          <lb/>durch den Hochgelehrten MELCHIOREM] SEBIZIVM der Artzney
+          <lb/>Doctorem vnd Physicum zu Straszburg. (Vignette.)
+          <lb/>Jetzundt aber auffs new, mit aller deren Kreutter
+          <lb/>Namen, so bey den Berümptesten Alten vnd Newen
+          <lb/>Herbarijs zû finden, vnd wie die selben heutiges tags inn
+          <lb/>den Apotecken, vnd sonsten von den Kreutlern gemeynlich
+          <lb/>genennet werden, verglichen, auch wie die Kreut-[ ter z0̂t
+          <lb/>samlen vnd zû erhalten, neben vilen andern zû der
+          <lb/>Artzney gehörigen stucken, verbessert.! Sampt Sechs nütz¬
+          <lb/>lichen Registern. Mit Röm. Key. May. Freyheit auff zehen
+          <lb/>Jar.
+          <lb/>Gedruckt zû Straszburg, im Jar! M. D. XCV. (Verso blanc.)
+          <lb/>A la fin: Gedruckt in der Freyen Reichsstatt Straszburg,
+          <lb/>durch Josiam Rihel. M.D.XCV.28. Augustj (Vignette,
+          <lb/>verso blanc.)
+          <lb/>In-fol., car. goth., 36 ff. non ch., 470 ff. ch. 24 ff. non ch. à
+          <lb/>2 col. (tables), titre courant, récl., notes marg., init. orn., titre rouge et
+          <lb/>noir, grav. de l’édition de 1587.
+          <lb/>fol, a 2a non ch.: Dem Gûtherzigen Leser, (2 pp.) Suivent
+          <lb/>les préfaces de l&amp;#x27;édition de 1587 et le Bericht über das Distillieren,
+          <lb/>mais le portrait de Sebizius et les armoiries se trouvent fol. C 6 et non
+          <lb/>a 6. Viennent ensuite 18 ff. de table.
+          <lb/>fol. e Sb non ch.: Vignette que Conrad Scher employait comme
+          <lb/>marque typ. au commencement du 17e siècle. (H. « B., Planche LII,
+          <lb/>No 2 avec la remarque :,In Drucken von Josias Rihel (1596),
+          <lb/>Typis Iosiae Rihelij per Andream Rietschium (1601) und
+          <lb/>von Joh. Andreas, findet sich das Zeichen auch als Schluss¬
+          <lb/>vignette. Ebenso in Drucken von München (1649), Leipzig
+          <lb/>(1650) und Helmstädt”. Je l&amp;#x27;ai aussi trouvé dans,, Sten, Vita
+          <lb/>Ignatii Loiolae, Alias Josias Rihel 1598&amp;quot;e comme marque typ.
+          <lb/>au-dessous du titre.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

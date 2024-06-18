@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-10T14:46:38.298769+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-1 Catalogue des incunables de la Bnu113.tif
+IMAGE WIDTH: 2408
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>PHARETRA fidei contra judaeos. (Strasbourg, (?) s. d.), in-4°.
+          <lb/>Hain 12911, Proctor 772, Schreiber 4940 met Ulm, Joh. Zainer
+          <lb/>vers 1485.
+          <lb/>K 2938. Prov.: Caspar Haugg, Augsbourg, 9/IV. 1887, 8 M.
+          <lb/>394
+          <lb/>PIENTINIS. Voir: Bernardinus de Pientinis.
+          <lb/>PISTORIO Voir: Cinus de Pistorio.
+          <lb/>PIUS II, PAPA: Epistolae familiares. (Strasbourg, impr. R.
+          <lb/>(— Ad. Rusch), vers 1470), in-fol.
+          <lb/>Hain 160, Madsen 3260, Pellechet: Colmar 10, Pellechet 98,
+          <lb/>Proctor 233, Voulliéme: Berlin 2125.
+          <lb/>K 40. Prov.; B N Munich, 14/IV. 1880, 1 M. Au verso du
+          <lb/>dernier f.: «Impress. Wittenb. 14715, rayé au crayon. 395
+          <lb/>PLENARIUM (en allemand). (Strasbourg, H. Knoblochtzer,
+          <lb/>vers 1480), in-fol.
+          <lb/>Copinger 2315, Kristeller 7, Schorbach et Spirgatis, Knob¬
+          <lb/>lochtzer 29, Schreiber 4958 met 1482 ou 1483.
+          <lb/>Schramm, Bilderschmuck XIX, grav. N° 370-421.
+          <lb/>K 2981a. Prov.: Bibliothèque Ed. Reuss, Strasbourg, 28/IV.
+          <lb/>1891. Incomplet, ff. 1, 2 et 230 manquent. Note mss. à l’inté¬
+          <lb/>rieur du 2e plat. Rel. anc.
+          <lb/>2e ex. 2981b. Prov.; Vente Trübner, Strasbourg, 30/x. 1886,
+          <lb/>154 M. ff. 191 et 192 en facsimilé.
+          <lb/>396
+          <lb/>PLENARIUM (en allemand). Strasbourg, Mart. Schott, 18 août
+          <lb/>1483, in-fol.
+          <lb/>Copinger 2326, Kristeller 23, Schmidt II, 3, Schreiber 4960.
+          <lb/>Schramm, Bilderschmuck XIX, grav. N° 718-771.
+          <lb/>K 2981. Prov.; Froemer, organiste à Lorquin, 25/VII. 1872,
+          <lb/>60 frs. Rel. anc.
+          <lb/>397
+          <lb/>PLUTARCHUS: Vitae virorum illustrium. (Strasbourg, impr.
+          <lb/>R. (— Ad. Rusch), vers 1470), 2 vol. in-fol.
+          <lb/>Hain 13124, Madsen 3331, Proctor 242, Voulliéme: Berlin
+          <lb/>2125, 5.
+          <lb/>K 2994. Prov.; Fid. Butsch fils, Augsbourg, 29/VI. 1878, 20 M.
+          <lb/>Rel. de Bozérian jeune.
+          <lb/>398
+          <lb/>83
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

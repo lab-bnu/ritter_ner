@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T07:35:12.281008+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3357.tif
+IMAGE WIDTH: 2382
+IMAGE HEIGHT: 3858
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>799
+          <lb/>gentinae ad nonum Kal. Iunij. Anno a! natali christiano.
+          <lb/>M. D. X.
+          <lb/>Ubersetsung in lat. Prosa durch Tortellius, gen. Aretinus, 1443.
+          <lb/>R 10.440. Prov.: Tregaskis, London 1. VI. 1894.
+          <lb/>BN Paris, Rés. Yb. 30. Schmidt II Nr. 12: ,Bibl. St. Guillaume,
+          <lb/>Strasbourg&amp;quot;; Walter: Schlettstadt Nr. 1538.
+          <lb/>1187
+          <lb/>HOMERUS
+          <lb/>Strassburg, J. Schott 1516
+          <lb/>OMHPOY &amp;quot;IAIAAOS A.) HOMERI ILYADOS I.
+          <lb/>Am Schluss: Argentine, in aedibus Ioannis! Schotti, 1516.
+          <lb/>40, Griech., 12 unn. Bll., Sign. A-C, Init. M., griech. Text.
+          <lb/>R101.455. Prov.: Nolte, Bonn 20. XII.1881; 1 M.50. Handschr.
+          <lb/>Notizen.
+          <lb/>Schmidt II Nr. 37.
+          <lb/>1188
+          <lb/>HOMERUS
+          <lb/>Strassburg, W. Köpfel 1525
+          <lb/>OMH-] POY ’IAIAE.
+          <lb/>Argent. apud. Vuolf. Cephal. ANNo M. D. XXV.
+          <lb/>Am Schluss : Druckerm. Köpfels (H &amp;amp; B Tafel XIX Nr. 12).
+          <lb/>Darunter: Εκτετύτωται ἐν λργεντοράτω ταρὰ Bολφίω τῷ Κεφα¬
+          <lb/>λαíων, e̓τει τῆς σωτηρίας ήμῶν, αφκé, pmvὲ yαμnλῶνt.
+          <lb/>80, Griech., 277 num., 3 unn. Bll., Kopft., Init., Titeleinfassung
+          <lb/>(HÆB Tafel XVI Nr. 3).
+          <lb/>Auf der Rücks, des Titelbl. : D. PHILIPPO MELANCHTHONI!...
+          <lb/>Iohannes Lonicerus... — Argentorati, 1525. pridie Idus
+          <lb/>februarias. (2 S.)
+          <lb/>R101444. Prov.: W. Rath, Esslingen 23. Vl. 1886; 4M. Auf
+          <lb/>dem Titelbl.: Sum Federici a Salia Samadensis.
+          <lb/>BN Paris Yb. 812; Bibl. Bodleiana Oxford, Stadtbibl. u. Bibl.
+          <lb/>Wilhelmitana Strassburg.
+          <lb/>1189
+          <lb/>HOMERUS
+          <lb/>Strassburg, W. Köpfel 1525
+          <lb/>&amp;#x27;OATEXEIA. Baτραχομυομαγία. 5gvot.λ8.... Anno
+          <lb/>M. D. XXV.
+          <lb/>Am Schluss: ’Ey Apyevropáro xapà
+          <lb/>èret Tñc corn- pías npõv, apxé. Mnoìn Boovt.
+          <lb/>Boλφío τo Eegahaío.
+          <lb/>(Edidit Ioannes Lonicerus.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

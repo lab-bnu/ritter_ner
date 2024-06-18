@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-15T09:07:45.422109+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078102.tif
+IMAGE WIDTH: 2320
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>988
+          <lb/>In-fol., car. goth., 2 col., 107 ff. non ch., sign. a–q, titre courant,
+          <lb/>init. d’attente. Au verso du titre, table.
+          <lb/>FR10.333. Prov. inconnue.
+          <lb/>Proctor II Sectio I n° 10.138: Londres, Brit. Museum; Schmidt
+          <lb/>VI p. 19 n° 4.
+          <lb/>1491
+          <lb/>MARTIALIS Marcus Valerius
+          <lb/>Strasbourg, J. Knobloch 1515
+          <lb/>M. VALERII MARTIALIS epigrammata, cum interpre¬
+          <lb/>tamen to dictionum grecancarum (!), que passim in toto
+          <lb/>opere conti nentur Othmari Nacht gall Argen- tini.
+          <lb/>Eiusdem Othmari Endecasylla- bon ad Lectores....
+          <lb/>(6 vers lat.)
+          <lb/>Johannes Knoblouch no- tis aereis excepit Ar gen¬
+          <lb/>toraci.
+          <lb/>A la fin: M. V. Martialis finit. Impressus Argentinae
+          <lb/>Anno dni M. D. XV. xxviiï. die mensis Augusti, in aedibus
+          <lb/>Johan nis Knoblouch Chalcographi.
+          <lb/>In-4°, car, rom., 214 ff. non ch., sign. a-2, AR; init, ornées;
+          <lb/>titre encadré: bordure supérieure, ornements d’architecture et 2 oiseaux
+          <lb/>dans les coins, bordures latérales, colonnes avee des enfants et des ani¬
+          <lb/>maux ainsi que deux bustes de femmes en bas des colonnes; bordure
+          <lb/>inférieure, deux monstres marins, dans chaque coin, un lièvre. (Manque
+          <lb/>ches HCB.)
+          <lb/>*R101.589(2). Prov.: Cromer, curé à Saverne 3/VII 1879; sans
+          <lb/>indication de prix.
+          <lb/>Oxford, Bibl. Bodleiana; Proctor II Sectio I n° 10.090: Londres,
+          <lb/>Brit. Museum; Schmidt VII n° 99: BM Colmar; Walter : Sélestat
+          <lb/>n° 1836.
+          <lb/>1492
+          <lb/>MARTIALIS Marcus Valerius
+          <lb/>Strasbourg, L. Zetzner 1595
+          <lb/>M. VAL. MARTIALIS, EBIGRAMMATON LIBRI XV.] hoc
+          <lb/>est, Spectaculorum Lib.I. Epigrammatum variorum Libri
+          <lb/>XII. Xeniorum Liber I.Apophoretorum Lib. I. Post
+          <lb/>HADR. IVNII emendationem reco¬gniti; et lectionis varie¬
+          <lb/>tate doctissimo- rumque virorum observationibus accura¬
+          <lb/>tissimis illustrati. Adiecto novo rerum ac verborum singulo¬
+          <lb/>rum indice absolutissimo studio et opera IOSEPHI LANGH
+          <lb/>CAESA- REMONTANI. (Marque typ. de Zetzner. HÆB Planche XLV
+          <lb/>n° 3.)
+          <lb/>Au-dessous: ARGENTINAE. Aere LAZARI ZETZNERI. Anno
+          <lb/>CIO. ID. XCV. (Verso blanc.)
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:06.150342+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie067.tif
+IMAGE WIDTH: 2456
+IMAGE HEIGHT: 3932
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>« Die Legende ist kein Auszug der Tüsch’schen Burgundischen
+          <lb/>Historie wie Goedeke mit Haller vermutet».
+          <lb/>411
+          <lb/>LEGENDE vom Ritter Peter Diemeringen geboren von
+          <lb/>Staufenberg. Voir: EGENOLF von Staufenberg nos 229-231.
+          <lb/>LEGRAND Jacques. Voir: MAGNI, Jacobus.
+          <lb/>LEONARDUS de Utino : Sermones de sanctis. — (Strasbourg,
+          <lb/>Martin Schott s. d.), in-fol.
+          <lb/>Hain 16126; Proctor 394; Ritter : B M Strasbourg n° 184;
+          <lb/>Schmidt II, Suppl, n° 2; Voulliéme: Berlin 2244, 5. Rosenthal,
+          <lb/>Munich, Catal. 135 (1914), n° 2387 : 160 M.
+          <lb/>412
+          <lb/>LEHREN : Hie noch folgen gar gut... leren Wie man sol guts
+          <lb/>thun und besöm (!) sich keren... — (Strasbourg, Barth.
+          <lb/>Kistler (17. X), 1500, in-4°.
+          <lb/>Copinger 3537, Kristeller p. 109, Pellechet : Colmar 871,
+          <lb/>Schmidt IV, p. 5, n° 8 : B N Berlin.
+          <lb/>413
+          <lb/>LESEN : Eyn schön hübsch lesen von etlichen inszlen die do
+          <lb/>in kurtzen zyten funden sind durch den Kunig von
+          <lb/>Hispania. — (Strasbourg, Barth. Kistler (30. IX] 1497),
+          <lb/>in-4°.
+          <lb/>Hain 5493, Panzer, Annalen I, 228, Harisse p. 50, n° 19;
+          <lb/>Schmidt IV, p. 2, n° 1.
+          <lb/>414
+          <lb/>LE TOURNEUR — VERSOR, Joh.
+          <lb/>LIBER de confutatione hebraice secte. — Strasbourg, Martin
+          <lb/>Flach 20. Ix. 1500, in-40.
+          <lb/>Hain 7879, Schmidt VI, n° 79; Ritter, Rép. Incun, n° 262. 415
+          <lb/>(LICHTENBERGER, Johannes) : Prenosticatio zu tüetsch... Und
+          <lb/>weret zwey und zwentzig Jar. Au verso de l’avant¬
+          <lb/>dernier f. : Geben in der fenstern (sic) gassen underm
+          <lb/>gespeneten eychbaum Im iar. M. cccc. Ixxxviij am
+          <lb/>65
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

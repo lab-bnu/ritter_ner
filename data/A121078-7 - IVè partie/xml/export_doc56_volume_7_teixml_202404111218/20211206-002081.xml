@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:18:03.696344+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002081.tif
+IMAGE WIDTH: 2512
+IMAGE HEIGHT: 3986
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>bildern und gesang... — [Strasbourg, W. Köpfel] 1525,
+          <lb/>in-40.
+          <lb/>Stupperich, p. 46, n° 8 a: B U Marbourg, manque chez Mentz.
+          <lb/>1162
+          <lb/>BUCER, Martin (Interim) : Welcher Maszen das Interim den
+          <lb/>christlichen Ständen Augsburg. Confession ist fürgeben
+          <lb/>und auferlegt. — Strasbourg 1548.
+          <lb/>Stupperich, n° 98; Bibl. S. Guillaume Strasbourg (mais en
+          <lb/>manuscrit).
+          <lb/>1163
+          <lb/>BUCER, Martin (Job) : Commentaria in librum Job. —
+          <lb/>Strasbourg 1528, in-fol.
+          <lb/>Mentz, n° 22; Stupperich, n° 23.
+          <lb/>1164
+          <lb/>BUCER, Martin (Juifs) : Von den juden Ob und wie die under
+          <lb/>den Christen zu halten seind... — Strasbourg, Th. Berger
+          <lb/>1562, in-80.
+          <lb/>Schottenloher 38.356 f; Mentz, n° 43 c; Stupperich, n° 63 c.
+          <lb/>Bibl. Centrale Zurich.
+          <lb/>1165
+          <lb/>(BUCER, Martin) (Karsthans) : Gesprechbiechlin neüw
+          <lb/>Karsthans. Zu dem Leser... (6 vers). A la fin : Hie
+          <lb/>endet sich der Karsthans und volgen hernach dreyssig
+          <lb/>artickel, so Juncker Helferich, Reyter Heintz, und
+          <lb/>Karsthans, mit sampt irem anhang, hart und vest zu
+          <lb/>halten geschworen haben. (Suivent les 30 articles). —
+          <lb/>[Strasbourg, Mathias Schürer 1521), in-80.
+          <lb/>Lehmann : Bucers Karsthans. [Neudrucke des XVI. u. XVII.
+          <lb/>Jhd., fasc. 282-284l, Ln--58 p. ; Köhler dans Zeitschr. f.
+          <lb/>deutsche Philologie Bd. 30 (1898) prend Hutten comme
+          <lb/>auteurl.
+          <lb/>1165a
+          <lb/>BUCER, Martin (Kirchengüter) : Von Kirchen guetern. Wes
+          <lb/>deren besitz und eigenthum seie... Auch etwas vom
+          <lb/>newen Dialogo, jüngst wider die Protestierenden auss¬
+          <lb/>gangen. Chunrath Trew vom Fridesleven. M.D.XL. —
+          <lb/>(Strasbourg, Wendelin Rihel (?)] 1540, in-4°.
+          <lb/>79
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:34.691456+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2272.tif
+IMAGE WIDTH: 2300
+IMAGE HEIGHT: 3820
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>268
+          <lb/>2 ex. R 10.279.(2) Prov.: Bibliothèque Baum, 20. I1.1879. Notes
+          <lb/>mss. Au bas du titre: Paulus Thurius. Rel. anc.
+          <lb/>Cet exemplaire ainsi que le 3e R10.218 portent au f. du titre le
+          <lb/>nom de l’auteur: «Autore Ioanne Caluino» au lieu de «Autore Alcuino».
+          <lb/>3 ex. R 10.218. Prov.: Bibliothèque Reuss, Strasbourg, 1887. Notes
+          <lb/>mss. au recto du f. de garde: «Editio haec Institutio Calvini est multum
+          <lb/>rara praesertim eam ob causam quoniam inscriptio nonnullorum exemplorum
+          <lb/>non Io. Calvini, sed Alcuini nomen pro se fert» etc. Tout au haut de la
+          <lb/>page, autographe de Cunitz.
+          <lb/>BU Fribourg en Br. No 239 de de df, le dernier avec dédicace
+          <lb/>mss. de Calvin: &amp;quot;... D. Melchiori Volmerio iurisconsulto s. Caluinus per¬
+          <lb/>petuae amicitiae symbolum»; GPB: Berlin BN et BU, Bonn BU,
+          <lb/>Breslau RU, Gœttingue BU.
+          <lb/>Calvin, Opera, ed. Baum-Cunitz-Reuss: Vol. I, Prol. p. XXXII,
+          <lb/>texte p. 253 et suio.
+          <lb/>Brunet 15, col. 1501: La seconde édition est de Strasbourg, Vend.
+          <lb/>Rihel, 1539, in-fol.
+          <lb/>Bibliographie de Calvin: Schottenloher I, N° 2317-2543. 404
+          <lb/>CALVIN Joh., IoANNES CaLVInNVs laco bo Sadoleto. Responsio.
+          <lb/>Voir: SADOLETUS Iacobus, Epistola ad Senatum populumque
+          <lb/>Geneuensem, 1539.
+          <lb/>Calvin, Opera, Vol. V. Prol, p. XLIV, texte p. 365-416.
+          <lb/>CALVIN
+          <lb/>Strasbourg, W. Rihel, 1540.
+          <lb/>Joannis Calvini Commenta-rij in Epistolam Pauli
+          <lb/>ad Romanos.
+          <lb/>Marque typographique de W. Rihel, (HeB, Planche XXIX, n° 4)
+          <lb/>Au-dessous: Argentorati per Vuendelinum Rihelium.
+          <lb/>(Verso blanc.)
+          <lb/>A la fin: Argentorati per VuendelinumRihelium.
+          <lb/>Mense Martio. M. D. XL.
+          <lb/>In-8°, car. ital. 16 ff. non ch., 430 p. ch, 1 f. blanc, titre courant,
+          <lb/>réclames, initiales (blanches sur fond noir); au verso du dernier f, marque
+          <lb/>typogr. (H et B, Planche XXIX, N° 2; Silvestre, No r42.)
+          <lb/>f. a 2: Joannes! Calvinus Simo-ni Grynaeo. (Préface
+          <lb/>(13 p.), datée de Strasbourg) 15. Calend. Nouembr. 1539.
+          <lb/>R 101184. Prov: Bibliothèque Reuss, Strasbourg, 1887.
+          <lb/>BU Fribourg en Br. L6716; GPB: Kœnigsberg BU.
+          <lb/>Voir: Calvin, Opera Vol. XLIX, Prol, p. V, texte p. 1-296.
+          <lb/>405
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

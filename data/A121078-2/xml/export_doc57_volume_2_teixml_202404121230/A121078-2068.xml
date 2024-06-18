@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:28.238994+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2068.tif
+IMAGE WIDTH: 2338
+IMAGE HEIGHT: 3824
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>64
+          <lb/>AUSLEGUNG
+          <lb/>Strasbourg, H. Vogtherr, 1539.
+          <lb/>Avszlegung vnnd beschreibung, der Anatho-! mi oder
+          <lb/>warhafften abconterfetung (!) eynes inwendi- gen cörpers
+          <lb/>des manns vnnd weibes, mitt erklerung! seiner innerlichen
+          <lb/>gelider, wie vnd wohin ein jedes von gott erschaffen vnd
+          <lb/>geordnet, das mensch- lich leben zù vffenthalten. Dem
+          <lb/>ge- meinen menschen zû einem kurtzen vnnd ver¬
+          <lb/>stentlichen be- richt.
+          <lb/>Marque typ. de H. Vogtherr. (H&amp;amp; B, Planche XXXIV, NO 2),
+          <lb/>répétée au verso de l’avant dernier f. blanc.
+          <lb/>Au dessous: Getruckt zû Straszburg durch Heinrichen
+          <lb/>Vogther ren. Anno M. D. XXXIX. (Verso blanc.)
+          <lb/>A la fin: Getruckt zû Straszburg durch Heynrich Vogther
+          <lb/>ren. Anno M. D. XXXIX.
+          <lb/>In-4°, car. goth., 17 ff. non ch. et 2 ff. blancs, sign. A-D, réclames,
+          <lb/>fol. A 2a grande initiale gothique D.
+          <lb/>R101.056. Avec l’exlibris de Thomas Lauth.
+          <lb/>Au titre à l’encre rouge: Liber rarus avec le timbre de l’ancienne
+          <lb/>Faculté de Médecine de Strasbourg.
+          <lb/>114
+          <lb/>AUSONIUS, Jac. MICYLLUS, Ursinus VELIUS
+          <lb/>Strasbourg, Cr. Mylius, 1544.
+          <lb/>ICONES IM PERATORVM, ET BRE-ues uitae, atque
+          <lb/>rerum cuiusque gesta- rum indicationes; Ausonio! Jacobo
+          <lb/>Micyllo, Ursino Velio authori- bus.
+          <lb/>Marque typ. de Cr. Mylius. (H &amp;amp; B. Planche XXVI. No 5).
+          <lb/>Au-dessous M. D.XLIIII.Cum gratia et priuilegio Imp.
+          <lb/>(Verso blanc.)
+          <lb/>A la fin: ARGENTORATI APVD CRATONEM MYLIUM AN.
+          <lb/>M. D. XLIIII. MEN- SE MAIO.
+          <lb/>In-80, car. ital. 88 ff. non ch., sign. A-K, titre courant, réclames,
+          <lb/>initiale à fig. D (avec 2 musiciens), de nombreux portraits d’empereurs
+          <lb/>dans des couronnes laurées.
+          <lb/>Au verso du dernier f. marque typ. de Crato Mylius. (HAB,
+          <lb/>Planche XXVIII, No 11: Silvestre No 1266.)
+          <lb/>Fol. 2: NICOLAVS GERBELIVS JOAN) ni Maiero Argen¬
+          <lb/>torati nobiliss. urbis Archigrammataeo, sum! mo suo
+          <lb/>Amico S. D. .. — Ar- gentorati ex aedibus nostris
+          <lb/>XXIIj. Augusti, Anno!.. M. D. XLIIII.
+          <lb/>Fol. 6: JACOBUS MICYI- lus ad lectorem. (11 distiques
+          <lb/>latins); au verso: Errata.
+          <lb/>Fol. 7: CATALOGUS IMPERATORUM OMNIVM] tam Romano¬
+          <lb/>rum quàm Graecorum usque ad Carolum Quintum.
+          <lb/>R 101710(2). Prov.: Habenicht, Strasbourg, 17. III. 1877; 2 M. 50.
+          <lb/>Walter No 706: BM Sélestat.
+          <lb/>115
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

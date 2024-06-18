@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-11T12:19:06.639882+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: Catalogue des incunables ne figurant pas à la Bibliothèque nationale et universitaire de Strasbourg - IIIe partie102.tif
+IMAGE WIDTH: 2490
+IMAGE HEIGHT: 3932
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>URSPRUNG der Küng von Franckrych. — (Strasbourg
+          <lb/>1470), in-40.
+          <lb/>Copinger 2566.
+          <lb/>660
+          <lb/>URSULA, Sankt : Von Sant Ursulen schifflin. — (Strasbourg,
+          <lb/>Jean Grüninger s. d.], in-40.
+          <lb/>Voulliéme : Berlin 2324.
+          <lb/>661
+          <lb/>URSULA, Sankt : St. Ursula Schifflein. — (Strasbourg,
+          <lb/>Henri Knoblochtzer pas avant 1480), in-4°.
+          <lb/>Proctor 379.
+          <lb/>662
+          <lb/>VALESCUS de Tarenta : Tractatus de epidemia et peste. —
+          <lb/>Haguenau, Henri Gran 23. XI. 1497, in-4°.
+          <lb/>Hain 15 247; Ritter, Rép. Inc. 473. (Voir aussi n° 638).
+          <lb/>663
+          <lb/>VEGIUS, Maphaeus: Philalethes. — (Strasbourg, Knoblochtzer
+          <lb/>s. d.), in-4°.
+          <lb/>Hain 15925.
+          <lb/>664
+          <lb/>VEGIUS, Mapheus : Dialogus Veritatis et Philaletis. —
+          <lb/>(Strasbourg, Henri Knoblochtzer s. d.), in-4°.
+          <lb/>Hain 15926; Proctor 368.
+          <lb/>665
+          <lb/>VERARDUS, Carolus : Historia Boemica. — (Strasbourg,
+          <lb/>Jean Grüninger s. d.), in-4°.
+          <lb/>Campbell 1715, Madsen 4096.
+          <lb/>666
+          <lb/>VERDENA, Johannes de : Sermones dormi secure. — Strasbourg
+          <lb/>1489, in-fol.
+          <lb/>Hain 15960, 1 ; Voullième : Berlin 2432.
+          <lb/>667
+          <lb/>VERSOR, Johannes (Le Tourneur) : Dicta super septem
+          <lb/>tractatus Petri Hispani. — Strasbourg, Jean Prüss s. d.),
+          <lb/>in-fol.
+          <lb/>Hain 16034; Proctor 566, Voulliéme : Berlin 2397, 8. 668
+          <lb/>100
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

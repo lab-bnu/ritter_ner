@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-12T12:30:35.618593+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2305.tif
+IMAGE WIDTH: 2306
+IMAGE HEIGHT: 3818
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>I. Von allerhand Leibs kranckheiten.
+          <lb/>II. Von vrsprung der offenen Schä-den, vnd jrer
+          <lb/>heylung.Vormals nie im Truck auszgangen.
+          <lb/>Cum priuilegio Caesareo ad decennium.
+          <lb/>Getruckt zà Straszburg, durch Christian Müller.
+          <lb/>1575. (Verso blanc.)
+          <lb/>In-80, car. goth, 8 ff. non ch. (Vorred: Dem... Herrn Phi¬
+          <lb/>lipsen Grauen zû Leyningen Herren zû Westerburg vnd
+          <lb/>Schawenburg.... Hagenaw den ersten Au! gusti, Anno
+          <lb/>M. D. LXXIIII... Michael Toxites. — Inhalt der Capitel);
+          <lb/>— 160 p. (Ière Partie) et 183 p. (Ile et IIIe Partie), initiale ornée
+          <lb/>W; vignette à la fin de la Ile partie.
+          <lb/>R100984. Prov.: Albert Cohn, Berlin, 22/x. 1894; 10 M. Rel.
+          <lb/>459
+          <lb/>anc.
+          <lb/>CARRICHTER Bartholomæus
+          <lb/>Strasbourg, Christ. Müller, 1577.
+          <lb/>Kreutterbûch! des Edlen vnd Hochgelehrten Herren
+          <lb/>Doctoris Bartholomei Car-richters von Reckingen. Darin
+          <lb/>begriffen Vnder welchem zeichen Zodiaci, auch in welchem
+          <lb/>gradu ein jedes kraut stehe, wie sie in leib vnd zû allen
+          <lb/>schäden zû bereiten, vnd zû wel- cher zeit sie zû colli¬
+          <lb/>gie-ren sein.
+          <lb/>Die ander Editio. Mit Keyserlicher Maiestet Frey¬
+          <lb/>heit.
+          <lb/>Gedruckt zû Straszburg am Kornmarck, bei Christian
+          <lb/>Müller. Anno M. D. LXXVII. (Verso blanc.)
+          <lb/>A la fin: Getruckt zû Straszburg bey Christian Mül¬
+          <lb/>ler. 1577. (Verso blanc.)
+          <lb/>In-80, car. goth, 8 ff. non ch. — 223 pages ch. — 8 ff. non ch.
+          <lb/>(Registre), tître courant, réclames, initiales ornées V, A. L. T.
+          <lb/>fol. A 2a: ... Herrn Mathie Holtzwart, der freyen
+          <lb/>künsten Magistro, Stat- schreyber zù Rapperschweyer,
+          <lb/>meinem sonders vertrawten guten Freundt.... Datum
+          <lb/>Straszburg, den 13. Januarij, Anno 1577.! M. Toxites D.
+          <lb/>Medicinae.
+          <lb/>R i0164i. Prov, inconnue.
+          <lb/>GPB: RN Berlin, BU Breslau, Kœnigsberg.
+          <lb/>301
+          <lb/>460
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
