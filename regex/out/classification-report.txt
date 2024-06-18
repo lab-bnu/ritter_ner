@@ -1,0 +1,13 @@
+              precision    recall  f1-score   support
+
+      B-DATE       0.44      0.50      0.47        94
+       B-LOC       1.00      0.25      0.40       149
+       B-PER       0.20      0.38      0.26       194
+      I-DATE       0.00      0.00      0.00        53
+       I-LOC       0.00      0.00      0.00        26
+       I-PER       0.00      0.00      0.00       262
+           O       0.88      0.95      0.91      3128
+
+    accuracy                           0.80      3906
+   macro avg       0.36      0.30      0.29      3906
+weighted avg       0.76      0.80      0.77      3906
