@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-26T14:10:01.079689+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3226.tif
+IMAGE WIDTH: 2326
+IMAGE HEIGHT: 3856
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>670<div type="notice" id="985">
+            
+            <lb/>Von Bl. 152 bis zum Schluss: Vita <persName>Joannis Geileri</persName>.
+            <lb/>R10.138. Prov.: Bibl. <persName>Ch. Schmidt</persName>, mit seinem Exlibris u. No¬
+            <lb/>tizen von seiner Hand.
+            <lb/>Dacheux, Geiler S. CLXI; Schmidt I Nr. 183; Walter: Schlett¬
+            <lb/>stadt Nr. 1378. GK: UB Bonn, Münster. (Titelbl. fehlt.)
+            <lb/>985
+          </div><div type="notice" id="986"><bibl>
+            
+            
+              <lb/><persName>GEILER Johannes</persName>
+              <lb/><placeName>Strassburg</placeName>, <publisher><persName>Joh. Schott</persName></publisher> <date>1522</date>
+              <lb/>Doctor <persName>Keiserszberg</persName> Postill: <title>
+                Vber die fyer Euangelia
+                <lb/>durchs Jor, sampt dem Quadragesimal, vnd von! ettlichen
+                <lb/>Heyligen, newlich vszangen.
+              </title>
+          </bibl>
+            <lb/>Holeschn.: Portrât <persName>Geilers</persName>, das <persName>J. Wächtelin</persName> zugeschrieben wird.
+            <lb/>Mit keyszerlicher gnaden freyheit vff sechs jor.
+            <lb/>Am Schluss: Getruckt, vnnd seligklich vollendt durch
+            <lb/><persName>Johannem Schott</persName> zû <placeName>Strasz- burg</placeName>, mit keyszerlicher frey¬
+            <lb/>heit, vff sechs jor, nit noch zu truck-n, bey zehen
+            <lb/>marck lötigs golds, vnd anderer pen, innhalt der selben
+            <lb/>keyszerlichen Maiestät genedigen freyheit begriffen. Da¬
+            <lb/>tum Anno Christi! <date>M. D. xxij</date>.
+            <lb/><persName>Carolo. v.</persName> Imperante. Sub Magistratum gerente <placeName>
+              Argen¬
+              <lb/>torati
+            </placeName>, <persName>Martino! Herlin</persName>.
+            <lb/>20, Got., Kopft., Marg., Init., 4 Teile.
+            <lb/>1. Teil: XXXV Bll. — 1 leeres Bl.
+            <lb/>2. Teil mit eigenem Titel: Quadragesimal. Oder Euangelia durch die
+            <lb/>Fasten. Das Ander teyl diszer Postill. CXVII Bll. u. 1 leeres Bl., sodann
+            <lb/>neuer Titel: Der Passion oder das Iyden Iesu Christi vnsers herren,
+            <lb/>nach dem text der fyer Euangelisten, wie in dann der hochgelert Doctor
+            <lb/><persName>Iohannes Geiler von Keysersberg</persName>, zû <placeName>Straszburg</placeName> järlich gepredigt hatt.
+            <lb/>28 unn. Bll., Sign. A-E.
+            <lb/>3. Teil : Das Dritt teyl diser Postill von Ostern an bitz vff den
+            <lb/>Aduent.... Cx Bll. u. 1 leeres Bl., Titeleinfassung (Siehe Nr. 64).
+            <lb/>4. Teil: Das Feyerdt teyl diszer Postill. Von den Heyligen...
+            <lb/>XLI Bul.
+            <lb/>45 grosse u. 104 Eleine Holeschn., wovon 32 von Wächtelin; viele
+            <lb/>sind früheren Werken entnommen, so 24 aus Cheldonius 1506 u. 29 aus
+            <lb/>dem Leben Jesu, <persName>Knobloch</persName> <date>1508</date>. Der Holeschn. Christus am Kreuze
+            <lb/>Bl. A 1b u. P4 hat im Hintergrunde eine Stadt mit einer Kirche, die
+            <lb/>nach Form u. Höhe des Turmes das Münster von <placeName>Strassburg</placeName> darstellt.
+            <lb/>R 10.121. Prov.: Ch. Schmidt mit seinem Exlibris u. Notizen von
+            <lb/>seiner Hand, unter anderen:
+            <lb/>«D’après M. le professeur<persName>Fischer</persName> de <placeName>Bale</placeName>, les grandes gravures
+            <lb/>sont de <persName>Jean Wechtelin</persName>, alias <persName>Jean Ulric Pilgrim</persName>, probablement de <placeName>Stras¬
+              <lb/>bourg</placeName>, dit le maître aux deux bourdons. Le nom de l’artiste est constaté
+          </div></p>
+      </div>
+    </body>
+  </text>
+</TEI>

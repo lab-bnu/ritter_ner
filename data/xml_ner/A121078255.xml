@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-26T14:10:01.419659+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078255.tif
+IMAGE WIDTH: 2308
+IMAGE HEIGHT: 3844
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p><div type="notice" id="1769"><bibl>
+          
+          
+              <lb/><persName>PARACELSUS Theophrastus</persName>
+              <lb/><placeName>Mulhouse</placeName>, <publisher><persName>P. Schmid</persName></publisher> <date>1562</date>
+              <lb/>Spittal Bûch.Durch den hochgeleer ten Herren,
+              <lb/><persName>Theophrastum</persName> von <placeName>Ho-henheim</placeName>, beider artzney Doctoren
+              <lb/>geordnet. Unnd yetzt, Gott zû lob unnd allen Menschen
+              <lb/>nutz, rechtschaffen. Durch den, rechter ordenlicher kunst
+              <lb/>liebenden Herren, <persName>Adamen</persName> von <placeName>Bodenstein</placeName>, Philosophen
+              <lb/>unnd der artzney! Doctorn in druck geben. Freundt¬
+              <lb/>licher lieber läser, wende das blatt herumb, so erfahrst
+              <lb/>du, was dises Büchlins inhalt ist,wird dich gewiszlich
+              <lb/>solchen grossen Schatz, mit klei- nem geldt zu kauffen,
+              <lb/>nicht gereuhen.Avéy va dréys. * Gedruckt zû Mül¬
+              <lb/>hau- sen, im oberen <placeName>Elsäsz</placeName>, durch <persName>Peter Schmid</persName>. ANNo
+              <lb/><date>M. D. LXII</date>.
+        </bibl>
+            <lb/>A la fin: Gedruckt zt̂ <placeName>Mülhau-sen</placeName>, im <placeName>oberen Elsäsz</placeName>,
+            <lb/>durch <persName>Peter Schmid</persName>.
+            <lb/>Au recto du f. suivant: Marque typ. de <persName>P. Schmid</persName>. (HRB Planche
+            <lb/>LXXV n° 1.) Verso blanc.
+            <lb/>In-4°, car. goth., 42 ff. non ch., sign. AL, titre courant, récla¬
+            <lb/>mes, init. à fig. D et init. goth.; titre rouge et noir.
+            <lb/>Fol. A 2a : ... Meister <persName>Joseph Stöckle</persName>, ordinierten und erfarnen
+            <lb/>Chirurgo, der löblichen Statt <placeName>Bärn</placeName> inn <placeName>Ucht-land</placeName>, meinem alten und
+            <lb/>ver-trawten gesellen. (Feuille de trèfle.)... Geben, zû <placeName>Basel</placeName>, den <date>2. tag
+            <lb/>Martii. Anno M. D. LXII.</date> <persName>Adam von <placeName>Bodenstein</placeName></persName>. (Préface de 2 pp. et
+            <lb/>demie en car, ital.)
+            <lb/>Fol. A 3b : Doctor <persName>Theophra-! stus</persName> allen ärtzten seinen Grâsz...
+            <lb/>(Préface de 6 pp.)
+            <lb/>Fol. B 2b : Doctor <persName>Theophra- stus</persName>, den Reychen seinen grûsz...
+            <lb/>(Préface de 7 pp. et demie.)
+            <lb/>R100.617. Prov.: <persName>Albert Cohn</persName>, <placeName>Berlin</placeName> <date>9/XII 1892</date>; 24 M. An¬
+            <lb/>notation ms, au recto du dernier f. blanc, au-dessus de la marque typ.:
+            <lb/>Joes, <persName>Leopoldus Wilhelmus Biederman</persName>. Med. 1774e; au-dessous : ¿Sub
+            <lb/>Regimine R. Electoris Moguntini et Episcopi <placeName>Bambergensis</placeName> Lotharii Fran¬
+            <lb/>cisci.4
+            <lb/>1769
+        </div>
+          <lb/>1141
+          <lb/><div type="notice">
+            <persName>PARACELSUS Theophrastus</persName>
+            <lb/><placeName>Strasbourg</placeName>, <publisher><persName>P. Messerschmidt</persName></publisher> <date>1564</date>
+            <lb/>Zwey Bücher <persName>TheophrastiParacelsi</persName> des erfar¬
+            <lb/>nesten Artzets, von der! Pestilentz und ihren zôfällen.
+            <lb/>Durch den Edlen und Hochgelerten Adamen von! Bo¬
+            <lb/>denstein, in Druck verfertiget.! Avéys xoì dxéye. Anno
+            <lb/><date>M. D. LXIIII.</date> (Verso blanc.)
+            <lb/>A la fin: Gedruckt zû <placeName>Strasz- burg</placeName> bey <persName>
+              Paulo Mes¬
+              <lb/>serschmidt
+            </persName>. (Verso blanc.)
+          </div>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

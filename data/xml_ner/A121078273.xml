@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-26T14:10:01.454177+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078273.tif
+IMAGE WIDTH: 2310
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <div type="notice" id="1802">
+            <lb/>A la fin: <placeName>ARGENTORATI</placeName>, APVD <persName>Hulderichum Morhar¬
+              <lb/>dum</persName>, Mense <date>lanua-rio Anno. M. D. XXI.</date> REGNANTE IM¬
+            <lb/>PERATORE! <persName>CAES. CAROLO P. F. AvG.</persName>
+            <lb/>In-40, car. rom., XCIII ff. ch., titre courant, réclames, init, ornées
+            <lb/>et à fig.; tître encadré. (HRB Planche XXI n° 1.)
+            <lb/>Au verso du titre: Index Quatuordecim Epistolarum! Pauli.
+            <lb/>*R100.460. Prov. : <persName>Albert Cohn</persName>, <placeName>Berlin</placeName> <date>4/V 1885</date>; 4 M. De
+            <lb/><date>1802</date>
+            <lb/>nombreuses annotations mss, à la marge des pages.
+          </div>
+          <div type="notice" id="1803"><bibl>
+            
+              <lb/><persName>PAULUS Apostolus</persName>
+              <lb/><placeName>Strasbourg</placeName>, <publisher><persName>H. Morhard</persName></publisher> <date>1522</date>
+              <lb/><title>EPISTO] LAE PAVLI APO stoli ad Graecam veritatem etc....</title>
+          </bibl>
+            <lb/>Texte et encadrement comme dans l’édition de <date>1521</date>.
+            <lb/>A la fin: <placeName>ARGENTORATI</placeName> APVD( <persName>Hulderichum Morhardum</persName>,
+            <lb/>Mense Aprili Anno. <date>M. D. XXII.</date> REGNANTE IMPERATORE
+            <lb/><persName>CAES. CAROLO P. F. AVG.</persName> (Verso blanc.)
+            <lb/>In-4°, car. rom., 92 ff. ch., titre courant, réclames, init, ornées et
+            <lb/>à fig. Réédition de l’édition de <date>1521</date>.
+            <lb/>R100.459. Prov.: Don de <persName>Fidelis Butsch fils</persName>, antiquaire à <placeName>Augs¬
+              <lb/>bourg</placeName> en <date>1871</date>. De nombreuses annotations mss. à la marge des pages
+            <lb/>et dans le texte.
+            <lb/>1803
+            
+          </div><lb/>1159<div type="notice" id="1804">
+            <bibl>
+              
+              <lb/><persName>PAULUS III</persName>.
+              <lb/>[<placeName>Strasbourg</placeName>, <publisher><persName>W. Rihell</persName></publisher> <date>1541</date>
+              <lb/><title>
+                CONSILI-VM ADMODVM PA- TERNVM <persName>PAVLI. III</persName>. <roleName>
+                  Ponti
+                  <lb/>ficis Romani
+                </roleName>, datum Imperatori in! <placeName>Belgis</placeName>, per Cardinalem
+                <lb/>foernesium! Pontificis nepotem, pro! Lutheranis.) Anno.
+                <lb/><date>1540</date>. Et EVSEBI PAMPHILI EIVSDEM consilii pia et sa¬
+                <lb/>lalutaris explicatio.
+              </title>
+            </bibl> (Verso blanc.)
+            <lb/>A la fin: IMPRESSVM PER <persName>IOHANNEM!Zelotem Nicopoli</persName>
+            <lb/>Pamphiliae (— <persName>Wendelin Rihell</persName>.
+            <lb/>In-80, car, rom. et ital,, 52 ff. non ch. dont le dernier blanc, sign.
+            <lb/>A-G, tître courant, réclames, init. blanches sur fond noir M, H.
+            <lb/>A la fin avant l’explicit: Datum Bethuliae Iu- deae Anno <date>1541</date>.
+            <lb/>Mense Martio.
+            <lb/>Fol. A 2a : Epistola.
+            <lb/>R 101.502. Prov.: Bibl. <persName>Reuss</persName>, <placeName>Strasbourg</placeName> <date>12/XII 1888</date>.
+            <lb/>Au recto du f. de garde: ,unicum praeter hoc exemplar exstat
+            <lb/>Ienae in bibl. univ. Ed. <persName>Reuss</persName>.
+            <lb/>1804
+          </div>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

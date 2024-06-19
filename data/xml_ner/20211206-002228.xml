@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-26T14:10:00.704050+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002228.tif
+IMAGE WIDTH: 2490
+IMAGE HEIGHT: 3942
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p><div type="notice" id="1953">
+          
+            <lb/>fürsten und herren Hertzug (sic) <persName>Friderich von Sachsen</persName>,
+            <lb/>Die Mesz betreffend. — (<placeName>Strasbourg</placeName>, <publisher><persName>Martin Flach</persName></publisher>
+            <lb/><date>1521</date>l, in-40.
+            <lb/>Bibl. S. Guillaume, <placeName>Strasbourg</placeName>.
+            <lb/>1953
+        </div><div type="renvoi">
+          
+            <lb/><persName>HANNENBEIN, Georg</persName>. Voir: <title>LIED (Neu Klaglied der Bauern)</title>
+            <lb/>n° 2340.
+        </div><div type="renvoi">
+          
+            <lb/><persName>HANOBER, Georg</persName>. Voir: <title>ZEITUNG (seltzam unerhörte) n° 3619</title>.
+        </div><div type="renvoi">
+          
+            <lb/><persName>HANS FRIEDRICH (der Altere)</persName>, <roleName>Herzog zu Sachsen</roleName>. Voir:
+            <lb/><persName>STIGELIUS, Joh</persName>, n° 3280.
+        </div><div type="notice" id="1954"><bibl>
+          
+          
+              <lb/><persName>HARTLIEB, Jacobus</persName> : <title>De fide meretricum.</title> — [<placeName>Strasbourg</placeName>,
+              <lb/><publisher><persName>Mathias Hupfuff</persName></publisher>] <date>30. VIII. 1505</date>, in-4°.
+        </bibl>
+            <lb/>Schmidt V, n° 39. Exemplaire de Ch. Schmidt : « Vers sati¬
+            <lb/>riques contre <persName>Ringmann</persName> et sa maîtresse <persName>Elsa</persName> im <placeName>Tummen¬
+              <lb/>loch</placeName>. »
+            <lb/>1954
+        </div><div type="renvoi">
+          
+            <lb/><persName>HARTMANN, Justus</persName>. Voir : <persName>SCHNEIDEWIN, Joh</persName>, n° 3182.
+        </div><div type="renvoi">
+          
+            <lb/><placeName>HASLACH (en Alsace)</placeName>. Voir : <title>
+              ANZEIGUNG (des Mordes zu
+              <lb/><placeName>Haslach im Breuschtal</placeName>)
+            </title> n° 831.
+        </div><div type="notice" id="1955"><bibl>
+          
+          
+              <lb/><persName>HAUSRAT</persName>: <title>Hie in finstu zu einem neüwen Jar Einen Huszrat...</title>
+              <lb/>— (<placeName>Strasbourg</placeName>, <publisher><persName>Mathias Hupfuff</persName></publisher> <date>vers 1511</date>), in-4°.
+        </bibl>
+            <lb/>Schmidt V, n° 88 : Grand Sém. <placeName>Strasbourg</placeName>.
+            <lb/>1955
+        </div><div type="notice" id="1956">
+          <bibl>
+            
+              <lb/><persName>HAWENREUTER, Johannes</persName> : <title>
+                Oratio illustris et generosi
+                <lb/>Domini Johannis Hawenreuteri...
+              </title>— <placeName>Strasbourg</placeName>, <publisher><persName>Nicolas
+                  <lb/>Wyriot</persName>
+              </publisher> <date>1581</date>, in-4°.
+            
+          </bibl>  <lb/>Ritter, Hist. Impr., p. 570, app. 393 (4a).
+            <lb/>1956
+        </div><div type="notice" id="1957"><bibl>
+          
+          
+              <lb/><persName>HAWENREUTER, Joh. Ludovicus</persName> : <title>
+                Theses ex praecipuis
+                <lb/>philosophiae partibus, in Academia Argentoratensi pri¬
+                <lb/>vatis disputationibus propositae &amp;amp; disputate...
+              </title>
+              <lb/>—
+              <lb/><placeName>Argentorati</placeName>, Excudebat <publisher><persName>Antonius Bertramus</persName></publisher> <date>M.D.XCIII</date>
+              <lb/>11593), in-8°.
+        </bibl>
+            <lb/>Bibl. S. Guillaume, <placeName>Strasbourg</placeName>.
+            <lb/>1957
+        </div>
+          <lb/>226
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

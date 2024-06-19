@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-26T14:09:48.117831+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2281.tif
+IMAGE WIDTH: 2298
+IMAGE HEIGHT: 3816
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <div type="notice" id="417">
+            <lb/>manten vnd in 20000 Perlen sticken lassen, daran dieselben frauenzimmer
+            <lb/>vnd andere Seidensticker ein gantz jahr gearbeit, so auff 400000 Cronen
+            <lb/>geschetzt, durch ihren Cuarda nobla Maior daselbsten mit einem Curier
+            <lb/>vff der Post nach Loreto in Italia geschickt vnser liben frauwen Bild¬
+            <lb/>tumb daselbsten auf Mariam Verkündigung das erstmal anzulegen. Histo¬
+            <lb/>rica Relatio.
+            <lb/>Item. Mailändischer Briefvermerk daz die Kirche zum Paradeis (?)
+            <lb/>bei dem Romer Porten wie auch die Kirchen zu S. Celso, aufgebrochen,
+            <lb/>beraubt, auch vnser frauen Bildtumb sogar die Cron von dem Haupt vnd
+            <lb/>die Ring von den fingern, mit dem grossen Silbern Leuchter, welchen die
+            <lb/>Königin in Spannia dahin verehrt hinweg genommen. Acta Maio. Eodem
+            <lb/>Anno.
+            <lb/>GPB: <placeName>Berlin</placeName> BN, <placeName>Bonn</placeName> BU.
+            <lb/>417
+          </div><div type="notice" id="418">
+<bibl>
+  
+  <lb/><persName>CAMERARIUS Ioachim</persName>
+  <lb/><placeName>Haguenau</placeName>, <publisher><persName>J. Secer</persName></publisher>, <date>1534</date>.
+  <lb/><title>
+    COMMEN- TARII INTERPRETATIO-num Argumenti The¬
+    <lb/>baidos Fabularum <persName>So! phoclis</persName>, Authore <persName>
+      IOACHIMO CAME¬
+      <lb/>RARIO
+    </persName> Quae- store.
+  </title>
+</bibl>
+            <lb/><persName>H. EOBANI HESSI</persName>. (3 distiques.)
+            <lb/>Haganoae, ex Officina <persName>Seceriana</persName> Anno <date>M. D. XXXIIII.</date>
+            <lb/>III. Idus Martii, (Verso blanc.)
+            <lb/>A la fin: <placeName>Haganoae</placeName>, ex Officina <persName>Seceriana</persName>, Anno <date>
+              M. D.
+              <lb/>XXXIIII.
+            </date> III. Idus Martii.
+            <lb/>Marque typ. de <persName>Secer</persName>, (H a B, Planche LXX, NO 7; Silvestre,
+            <lb/>No 683).
+            <lb/>In-8°, car. rom., 95 ff. ch. et 2 ff. blancs, titre courant, réclames,
+            <lb/>initiale à fig. O.
+            <lb/>R101.534. (2) Prov.: Nolte, <placeName>Bonn</placeName>, 20/XII. 1881; 3 M. Rel. anc.
+            <lb/>Fait partie de <persName>Sophocles</persName>, <title>Tragoediae septem.</title> <placeName>Haguenau</placeName> <date>1534</date>.
+            <lb/><placeName>Oxford</placeName>, Bibl. Bodleiana; BU <placeName>Fribourg en Br.</placeName> D 3222, GPB:
+            <lb/><placeName>Berlin</placeName> BN, <placeName>Bonn</placeName> BU, <placeName>Breslau</placeName> BU, <placeName>Gœttingue</placeName> BU, <placeName>Kœnigsberg</placeName> BU.
+            <lb/>Bibliographie de <persName>Camerarius</persName>: Schottenloher No 2545 - 2566.
+            <lb/>418
+          </div><div type="notice">
+            <bibl>
+              
+              <lb/><persName>CAMERARIUS Joachim</persName>,
+              <lb/><placeName>Strasbourg</placeName>, <publisher><persName>Cr. Mylius</persName></publisher>, <date>1538</date>.
+              <lb/><title>
+                COMMENTA- RIVS EXPLICATIONIS! primi libri Iliados
+                <lb/><persName>Homeri</persName>, <persName>Joachimi Camerarii</persName> Papergensis. EIUSDEM LIBRI
+                <lb/>PRIMI ILIADOS! conuersio in Latinos uersus, eodem! Au¬
+                <lb/>tore. HIS GRAECA ETIAM ADIECTAsunt, ut ad manum
+                <lb/>quoque habeat Lector.
+              </title></bibl>
+            <lb/>Marque typographique de <persName>Crato Mylius</persName> (HeB. Planche XXVI
+            <lb/>No 1a).
+          </div>
+          <lb/>277
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

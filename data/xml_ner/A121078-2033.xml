@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-26T14:09:48.099661+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2033.tif
+IMAGE WIDTH: 2376
+IMAGE HEIGHT: 3828
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>29
+          <div type="notice" id="43">
+            <lb/>E11537 &amp;amp; E11537a. (Le premier est un don de l’antiquaire
+            <lb/><persName>Butsch fils</persName>, <placeName>Augsbourg</placeName>, <date>1871</date>, le second provient de la Bibliothèque
+            <lb/>de <placeName>Buxheim</placeName>.)
+            <lb/>GPB III, 7210: <placeName>Berlin</placeName>, <placeName>Munich</placeName>, <placeName>Breslau</placeName>, <placeName>Göttingen</placeName>, <placeName>Greifswald</placeName>. 43
+          </div><div type="notice" id="44">
+            <bibl>
+              
+              <lb/><persName>ALTENSTAIG Johannes</persName>
+              <lb/><placeName>Haguenau</placeName>, <publisher><persName>H. Gran</persName></publisher>, <date>1522</date>.
+              <lb/>Vocabularius <persName>Joan nis Altenstaig</persName> <placeName>Mindelhaimensis</placeName>.
+              <lb/>Vocum que in opere grammatico plurimorum continentur:
+              <lb/>breuis et vera interpretatio.
+              <lb/>Directorium vocabu- lorum iuxta Alphabeti ordinem:
+              <lb/>indi-ce certo perlatum. <persName>Henrici Bebelij</persName> Epigramma.
+            </bibl>
+            <lb/>(4 distiques latins.)
+            <lb/>A la fin: <persName>Henricus Gran</persName> chalcographus <placeName>Hagenauensis</placeName>
+            <lb/>in officina sua expensis circumspecti viri <persName>Joan nis Rynman</persName>
+            <lb/>de Oringaw archibiblio! pole: impressit A no gratie. M.
+            <lb/>quingentesimo xxij. mense Mar tio.
+            <lb/>in-4°, car. goth., 2 col., 38 ff. non ch., CXIX ff. ch. — 1 f. blanc,
+            <lb/>initiale ornée A, titre courant, titre encadré (H&amp;amp;B, Planche LXIV, n° 2).
+            <lb/>Au verso du titre: Osualdus molitor Lucernus. M. Joanni
+            <lb/>Xilo tecto Canonico Lucerno. (30 ff. non ch.)
+            <lb/>fol. A 2a: Dictionum Index.
+            <lb/>fol. a: Nouveau titre... Opus emendatum et denuo re¬
+            <lb/>visum ab ipso operis autore. Nouvel encadrement. (H&amp;amp; B, Planche
+            <lb/>LXVI No 3.)
+            <lb/>fol. a 2 non ch.: <persName>Joannes Altenstaig</persName> <persName>Joan ni Rynman</persName> Archi¬
+            <lb/>bibliopole...
+            <lb/>fol. a 5 non ch.: Index operis.
+            <lb/>Réimpression de l’édition de 1516, le Directorium vocabularum
+            <lb/>vient ici avant l’Opus emendatum.
+            <lb/>C133419. Prov.: Brockhaus, <placeName>Leipsic</placeName>, 27/11 1875; 6 M., notes mss.
+            <lb/>GPB III, 7209: <placeName>Munich</placeName>.
+            <lb/>44
+          </div><div type="notice" id="45">
+            
+            <bibl>
+              <lb/><persName>ALTHAMER Andreas</persName>
+              <lb/><placeName>Strasbourg</placeName>, <publisher><persName>J. Schott</persName></publisher>, <date>1527</date>.
+              <lb/><persName>ANDRAE] ALTHAMERI</persName>] BRENZII! Annotationes in Episto¬
+              <lb/>lam! beati Jacobi iamprimum editaeCum Indice.
+              <lb/><placeName>Argentorati</placeName> apud <persName>Joannem! Schottum</persName> <date>1527</date>.
+            </bibl>(Verso blanc)
+            <lb/>in-80, Car. ital., 56 ff. ch. — 4 non ch. (Index, 2 col.) notes marg.,
+            <lb/>au recto du dernier f. marque typogr. de <persName>Schott</persName>. (HAB, Planche IV,
+            <lb/>n° 9) titre courant, réclames, titre encadré. (H &amp;amp; B, Planche IX, n° 8.)
+            <lb/>*E112469, Prov.: <persName>L. Rosenthal</persName>, <placeName>Munich</placeName>, 18/xII 1889, 10 M.
+            <lb/>Schmidt II, No 102: <placeName>Stuttgart</placeName>; GPB III, 7369: <placeName>Berlin</placeName>, <placeName>Munich</placeName>,
+            <lb/><placeName>Vienne</placeName>, <placeName>Marbourg</placeName>, <placeName>Bonn</placeName>.
+            <lb/>45
+          </div><div type="renvoi">
+            
+            <lb/><persName>ALTVATER</persName>. Voir: <title>LEBEN der heiligen <persName>Altväter</persName></title>.
+          </div>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

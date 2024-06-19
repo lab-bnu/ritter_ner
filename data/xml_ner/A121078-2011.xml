@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-26T14:10:00.794392+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2011.tif
+IMAGE WIDTH: 2398
+IMAGE HEIGHT: 3822
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p><div type="notice" id="9">
+          
+            <lb/>Au verso du titre: <persName>Joannes Adelphus</persName> <placeName>Argentinus</placeName>. Physicus:
+            <lb/><persName>Joanni Eneo (alias Enheim)</persName>... — Ex <placeName>Argentina</placeName>: Jdibus
+            <lb/>Decembribus: An) no domini. <date>M. CCCCC. XII.</date>
+            <lb/>Fol. a 2a: De sequentijs. J. W. (<publisher><persName>J. Wimpheling</persName></publisher>.)
+            <lb/>Au-dessous: Tetrastichon <persName>Jacobi Merstetter</persName>, (2 distiques.)
+            <lb/>Au verso: Sequentiarum index alphabeticus. (2 col.)
+            <lb/>Au verso du titre de la 2e partie: Jo. Vigilio ! vulgo wacker
+            <lb/>Sosennio... <persName>Jacobus Vuym.</persName> <placeName>Sletstatinus</placeName>... — <placeName>Heidelberge</placeName>:
+            <lb/>kal. Septembris. Anno salutis hu mane <date>M. CCCC. XCIX.</date>
+            <lb/>*E 154375. Prov.: M. Spirgatis, <placeName>Leipzig</placeName>, <date>15/X. 1894</date>; 18 M.
+            <lb/>Notes mss.
+            <lb/>Schmidt, VII, No 174 n’a que la deuxième partie: BN <placeName>Munich</placeName>;
+            <lb/>GPB, I, 10503: <placeName>München</placeName>, <placeName>Breslau</placeName>, <placeName>Münster</placeName>.
+        </div><div type="notice" id="10"><bibl>
+          
+          
+              <lb/><persName>ADELPHUS Johannes</persName>
+              <lb/><placeName>Haguenau</placeName>, <publisher><persName>H. Gran</persName></publisher>, <date>1519</date>.
+            <lb/><title>
+              Sequentiarum luculen! ta interpretatio: nedum scho¬
+              <lb/>lasti- cis, sed et ecclesiasticis cogni-] tu necessaria
+            </title>: per
+            <lb/><persName>Joan.adelphum</persName> physicum! <placeName>Argentinensem</placeName>. colle cta.
+            <lb/>Anno domini <date>M. D. XIX</date>.
+            </bibl>
+            <lb/>in-4°, car. goth., CX ff. ch., titre courant, notes marginales, initiale
+            <lb/>ornée G; titre rouge et noir, encadré d’un motif appartenant à <persName>
+              Henri
+              <lb/>Gran
+            </persName> de <placeName>Haguenau</placeName>. (H &amp;amp; B. Planche LXIV, NO 2.)
+            <lb/>Au verso du titre: <persName>Joannes Adelphus</persName> <placeName>Argentinus</placeName> Physicus:
+            <lb/><persName>Joanni Eneo! (alias Enheim)</persName> presbytero innocentissimo:
+            <lb/>summaeque! prudentiae viro: apud Treueros viuenti.. —
+            <lb/>Ex <placeName>Argentina</placeName>. Idibus Decembribus. Anno domini <date>M.CCCCC.XII.</date>
+            <lb/>Fol. a 2a: De sequentijs. J. W. [<publisher><persName>Jacobus Wimpheling</persName></publisher>.
+            <lb/>Au-dessous: Tetrastychon <persName>Jacobi Merstetter</persName>, (2 distiques.)
+            <lb/>Au verso: Index à 2 col.
+            <lb/>E 154374. Prov.: Trübner, <placeName>Strasbourg</placeName>, le <date>19 sept. 1894</date>; 20 M.
+            <lb/>GPB, I, 10504: <placeName>Berlin</placeName>, <placeName>München</placeName>, <placeName>Wien</placeName>, <placeName>Braunsberg</placeName>.
+            <lb/>10
+        </div><div type="notice"><bibl>
+          
+          
+              <lb/><persName>ADELPHUS Johannes</persName>
+              <lb/><placeName>Strasbourg</placeName>, <publisher><persName>Barth. Grüninger</persName></publisher>, <date>1535</date>.
+              <lb/><title>Barbarossa.</title> Ein schöne vnnd warhaffte beschreibung
+                <lb/>des Le-] bens vnnd der geschichten <persName>Keyser Friederichs
+                  <lb/>des ersten</persName>, genant Barbarossa durch <persName>Johannem Adelphum</persName>
+                <lb/>Stattartzet zu <placeName>Schaffhausen</placeName>, erstmals in latin ver-samlet,
+                <lb/>ausz allen glaubwürdigen geschrifften vnd! Historien der
+                <lb/>alten Chronicken, vnd aber yetz-] und in Teütsche sprach
+                <lb/>verdolmetscht. vnd von newem wieder gedruckt! vnd
+                <lb/>mitt fleissz corrigiert.
+        </bibl>
+            <lb/>Gravure sur bois: Barberousse à cheval, traversant une campagne;
+            <lb/>sur le bras droit un écu avec les armoiries impériales. (Verso blanc.)
+        </div>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

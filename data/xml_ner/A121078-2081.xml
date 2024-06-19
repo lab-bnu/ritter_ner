@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-26T14:10:00.813676+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2081.tif
+IMAGE WIDTH: 2344
+IMAGE HEIGHT: 3826
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>77
+          <lb/>PATC(IL<div type="notice" id="134"><bibl>
+            
+            
+              <lb/><persName>BAPISTA Mantuanus</persName>
+              <lb/><placeName>Strasbourg</placeName>, <publisher><persName>J. Prüss père</persName></publisher>, <date>1510</date>.
+              <lb/><persName>Baptiste Mantuani</persName>! Bucolica seu adolescentia, in decem
+              <lb/>æglo gas diuisa: Ab Jodoco Badio Ascen- sio familiariter
+              <lb/>exposita: cum indice dictionum.
+              <lb/>Dialogus eiusdem de vita beata.
+              <lb/>Carmen eiusdem de sancto <persName>Joanne Baptista</persName>.
+              <lb/><persName>Hermanni Buschij</persName> oda de contemnendo mun! do &amp;amp;
+              <lb/>amanda sola virtute &amp;amp; scientia... Decatosticon! <persName>Joannis
+                <lb/>Gallinarij Budorini</persName>...
+              <lb/>A la fin: <persName>Johannes Prüsz</persName> ciuis <placeName>Argentinus</placeName> impressit:
+              <lb/>Anno. <date>M. CCCCCX.</date>
+          </bibl>
+            <lb/>In-4°, car. rom., 4 ff. non ch. — LXXX ff. ch. — 16 non ch.,
+            <lb/>sign. A-T., titre courant, notes marginales, initiale ornée F.
+            <lb/>R101.009(1). Prov.: J. M. Heberle, <placeName>Cologne</placeName>, <date>20. III. 1891</date>;
+            <lb/>7 M. 20; notes mss.
+            <lb/>Schmidt III, p. 25 N° 83; Walter, No 1819; BM <placeName>Sélestat</placeName>.
+            <lb/>BN <placeName>Paris</placeName>, Rés. p. Yc. 1433.
+            <lb/>134
+          </div><div type="notice" id="135"><bibl>
+            
+            
+              <lb/><persName>BAPTISTA Mantuanus</persName>
+              <lb/><placeName>Strasbourg</placeName>, <publisher><persName>M. Schürer</persName></publisher>, <date>1510</date>
+              <lb/><persName>BAPTISTAE MANTUANI</persName> CARMELITAE. <title>DE PA TIENTIA.
+                <lb/>LI- BRI TRES.</title>
+          </bibl>
+            <lb/>Cum sententiarum &amp;amp; dictionum indice. Quibus, cum
+            <lb/>patientia ad foelicitatem nos trahat, accessit. EIVSDEM DE
+            <lb/>VITA BEATA DIA LOGVS SANCTISSIMVS. ET <persName>AUGVSTINI
+              <lb/>DATHI</persName> DE EA DEM RE LIBELLVS.
+            <lb/>Patiens esto, &amp;amp; Beatus efficieris.
+            <lb/>Au verso du titre: <persName>Mathias Schürerius</persName> <placeName>Selestatinus</placeName>, Lec¬
+            <lb/>tori S. D.... — <placeName>Argentorati</placeName>, xiiij. Cal. Decemb. An. <date>M.XV.X.</date>
+            <lb/>(Préface; 18 lignes.)
+            <lb/>In-40, car. rom., 7 ff. non ch. (titre et table), CXXXVI ff. ch.,
+            <lb/>titre courant, notes marginales, initiales d’attente.
+            <lb/>fol. a 2a (signé à tort a 3a): VENERANDVS Frater <persName>Baptista
+              <lb/>Mantuanus</persName>! Carmelita <persName>Francisco Fantutio.</persName> S. P. D....
+            <lb/>A la fin: <persName>Joannes Pulsormus Nicolao Beraldo</persName> suo. S.
+            <lb/>(5 distiques.)
+            <lb/>R 101016. Proc.: BN <placeName>Munich</placeName>, <date>1. Il. 1877</date>; 1 M.50.
+            <lb/><placeName>Beaulieux</placeName>, p. 38: BU <placeName>Paris</placeName>, Réserve No 732.
+            <lb/>Proctor II, Sectio I, No 10; Londres, British Museum.
+            <lb/>Schmidt VIII, No 42: Jadis Bibl. de <placeName>Strasbourg</placeName>, Incun. No 622.
+            <lb/>GPB: <placeName>Berlin</placeName> SB, <placeName>Breslau</placeName> UB, <placeName>Greifswald</placeName> UB, <placeName>Königsberg</placeName> UB.
+            <lb/>135
+          </div>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

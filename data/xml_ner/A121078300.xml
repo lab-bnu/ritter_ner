@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-26T14:09:48.444781+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078300.tif
+IMAGE WIDTH: 2312
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1186
+          <div type="notice" id="1854">
+            <lb/><placeName>Argentine</placeName>. Anno domini. Mil- lesimo quingentesimo unde¬
+            <lb/>cimo. (Probablement <persName>Matthias Hupfuff</persName>, qui en a fait une nouvelle édi¬
+            <lb/>tion en <date>1515</date> avec la même grav., le même titre et le même nombre de ff.]
+            <lb/>In-4°, car. goth., 46 ff. non ch., sign. ai, titre courant, init, ornée
+            <lb/>D; au recto du dernier f. blanc, grav. sur bois: le maître assis sur un
+            <lb/>trône, à ses pieds trois élèves; fol. a 4a, a 6a et bb: figures de dialec¬
+            <lb/>tique.
+            <lb/>*R101.102. Prov.: <persName>Butsch fils</persName> (Vente Bibl. Buxheim), <placeName>Augsbourg</placeName>
+            <lb/><date>12/X 1883</date>; 13 M. 50. En bas de la grav. du titre, Cartae in <placeName>Buxheim</placeName>
+            <lb/>avec le timbre de la Bibl. de <placeName>Buxheim</placeName> au fol. a ij a.
+            <lb/>1854
+          </div><div type="notice" id="1855"><bibl>
+            
+            
+              <lb/><persName>PETRUS Hispanus</persName>
+              <lb/><placeName>Strasbourg</placeName>, <publisher><persName>J. Knobloch</persName></publisher> <date>1514</date>
+              <lb/><title>Tractatus duodecim Petri Hispani.</title>
+          </bibl> [La feuille du titre
+            <lb/>manque dans mon exemplaire.]
+            <lb/>A la fin: Summularum <persName>Petri Hyspani</persName> Tractatus duo¬
+            <lb/>decimquem ante multo perquisitiori diligentia recogni¬
+            <lb/>ti: atque <placeName>Argentine</placeName> per <persName>Joannem Knob.</persName>elaborati. Anno
+            <lb/>domini <date>M. D. xiïi.</date> (Verso blanc.)
+            <lb/>In-4°, car, goth, 58 ff. non ch. sign. a-k, titre courant, init.
+            <lb/>d’attente.
+            <lb/>RIOI40I. Prov.: Don de <persName>Fidelis Butsch</persName>, antiguaire à <placeName>Augsboura</placeName>
+            <lb/><date>1871</date>; incomplet, tître ainsi que fol. a 8, 62 et b3 manquent; de nom¬
+            <lb/>breuses annotatione mes. dans le texte.
+            <lb/>Manque chez Schmidt.
+            <lb/>1855
+          </div><div type="renvoi">
+            
+            <lb/><persName>PETRUS MOSELLANUS</persName>: <title>
+              De primis apud rhetorem exercitatio¬
+              <lb/>nibus praeceptiones.
+            </title> Voir: <persName>BUCOLDIANUS Gerardus</persName> : <title>
+              De
+              <lb/>inventione oratoria.
+            </title> <placeName>Strasbourg</placeName>, <publisher><persName>J. Albrecht</persName></publisher> <date>1534</date>. N° 324.
+          </div><div type="notice"><bibl>
+            
+            
+              <lb/><persName>PETRUS DE NATALIBUS</persName>
+              <lb/><placeName>Strasbourg</placeName>, <publisher><persName>M. Flach</persName></publisher> <date>1513</date>
+              <lb/><title>
+                Catalogus! sanctorum et ge! storum eorum ex diver¬
+                <lb/>sis volumini- bus collectus: Editus a Re! verendissimo
+                <lb/>in christo patre domino <persName>Petro de Natali- bus</persName> de Vene¬
+                <lb/>tiis dei gratia episcopo Equilino.
+              </title>
+          </bibl>
+            <lb/>A la fin:... <placeName>Argentine</placeName> impressum per honestum virum
+            <lb/><persName>Martinum Flach</persName>. Anno domini. Millesimo quingentesi mo
+            <lb/>decimo tertio circa festum nativitatis Marie.
+            <lb/>In-fol., car. goth., 2 col., 5 ff. non ch. † CCLIII fr. ch., titre
+            <lb/>courant; titre rouge, encadré par <persName>Wechtelin</persName>: à gauche, ume tige de
+            <lb/>houblon, à droite, un cep de vigne, s’entrelaçant dans la bordure supé¬
+          </div>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

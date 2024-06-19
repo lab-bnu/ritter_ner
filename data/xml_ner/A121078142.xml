@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-26T14:09:48.203249+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078142.tif
+IMAGE WIDTH: 2310
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1028<div type="notice" id="1578">
+            
+            <lb/>R101896. Prov.: W. Roth, <placeName>Esslingen</placeName> <date>23/V1 1886</date>; 4 M. 60
+            <lb/>Note ms. au titre: Ex libris <persName>Hartmani Roselii</persName>, <date>1675</date>; à l&amp;#x27;intérieur de la
+            <lb/>couverture, petite étiquette : <persName>Wilh. Raths</persName> Antiquariat <placeName>Esslingen</placeName> a. N. Prix
+            <lb/>noté 5 fr. et 2 fr. 50.
+            <lb/>BN <placeName>Paris</placeName>, Ye 7555.
+            <lb/>1578
+          </div><div type="notice" id="1579">
+            
+            <bibl>
+              <lb/><persName>MIRANDULA Octavianus</persName>
+              <lb/><placeName>Strasbourg</placeName>, <publisher><persName>W. Rihel</persName></publisher> <date>1549</date>
+              <lb/><title>ILLVSTRI VM POETARVM FLO-res...</title>
+            </bibl> (Comme dans l’édition
+            <lb/>de <date>1544</date>.)
+            <lb/>A la fin: <placeName>ARGENTORATI</placeName> Ex AEDIBVS<persName>Wendelini Rihelii</persName>,
+            <lb/>Anno Domini <date>1549</date>. 26. Idus Iunii. Au verso, marque tup. de
+            <lb/><persName>Wend. Rihel.</persName> (HCB Planche XXIX n° 3; Silvestre n° 740.)
+            <lb/>In-8°, car. ital., 8 ff. non ch., 400 ff. ch., titre courant, réclames,
+            <lb/>init, ornées. Au verso du titre: <persName>Philippi Beroaldi</persName> ! de hisce floribus iu¬
+            <lb/>dicium.
+            <lb/>(10 dist.) Au verso: <persName>Philippus Beroal</persName> dus Lectori. (2 pp.)
+            <lb/>Fol. 3b non ch.:... D. <persName>Octaviano Arcimboldo</persName>... <persName>
+              Octavianus Miran¬
+              <lb/>dula
+            </persName>... (2 pp.) Suivent 3 ff. de table à 2 col.
+            <lb/>R101.897. Prov.: BN <placeName>Munich</placeName> <date>24/V 1877</date>; 0.50 M. A l&amp;#x27;intérieur
+            <lb/>de la couverture, ex-libris; au-dessous : Domus S. S. Adelhaidis et Caie¬
+            <lb/>tani. Au milieu du titre: Ex dono <persName>Jacobi Tregeri Waldecensis</persName>. <date>1579</date>
+          </div><div type="notice" id="1580">
+            <bibl>
+              
+              <lb/><persName>MIRANDULA Octavianus</persName>
+              <lb/><placeName>Strasbourg</placeName>, <publisher><persName>J. Rihel</persName></publisher> <date>1559</date>
+              <lb/><title>Illustrium Poeta- RVM FLORES..,</title>
+            </bibl> (Comme dans les éditions
+            <lb/>précédentes.)
+            <lb/>A la fin: <placeName>ARGENTORATI</placeName> EXCVDEBAT<persName>Iosias Rihelius</persName>,
+            <lb/>Anno Domini! <date>1559</date>. (Verso blanc.) Au verso du f. suivant, marque
+            <lb/>typ. de <persName>J. Rihel</persName>. (He B Planche XXIX n0 5.)
+            <lb/>In-8°, car. ital., 8 ff. non ch. (comme dans l’édition de 1549),
+            <lb/>390 fr. ch., titre courant, réclames, init. ornées.
+            <lb/>R101.934. Prov.: BN <placeName>Munich</placeName> 24/V1877; 0,60 M. A l’intérieur
+            <lb/>de la couverture, ex-libris; au-dessus : <persName>Io. Franci</persName> D. G. Episcopus Fris.
+            <lb/>S. R. I. Princeps <date>1696</date>.
+            <lb/>1580
+          </div><div type="notice">
+            <bibl>
+              
+              <lb/><persName>MIRANDULA Octavianus</persName>
+              <lb/><placeName>Strasbourg</placeName>, <publisher><persName>J. Rihel</persName></publisher> <date>1567</date>
+              <lb/><title>Illustrium poëta- rum flores...</title>
+            </bibl> (Comme dans les éditions
+            <lb/>précédentes.)
+            <lb/>A la fin: <placeName>Argentorati</placeName> excude- bat <persName>Iosias Rihelius</persName>.
+            <lb/>Anno <date>M. D. LXVII.</date>
+          </div>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

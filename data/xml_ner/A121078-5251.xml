@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-26T14:09:48.168371+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5251.tif
+IMAGE WIDTH: 2406
+IMAGE HEIGHT: 3858
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1561
+          <div type="notice" id="2501">
+            <lb/>fol. D. 5P : Hexasticon <persName>Sebastiani Brant</persName>... (3 dist.) et des vers de diffé¬
+            <lb/>rents auteurs.
+            <lb/>R. 101.465. Prov. : Collection Böcking.
+            <lb/>2e ex. R. 101.466. Prov. : Tregaskis, <placeName>London</placeName>, <date>1/VIII, 1894</date>; 4 M.
+            <lb/>Au milieu du titre : « J. Jodoco de Aufses u. j. Doctori, viro nobili...»
+            <lb/>(le reste illisible).
+            <lb/>Schmidt I, n° 89 : jadis Bibl. de <placeName>Strasbourg</placeName>, Incun. No 4927 et Bibl.
+            <lb/>Vadiana S. Gall; Ritter, BM <placeName>Strasbourg</placeName>, No 2254; Walter: <placeName>Sélestat</placeName>,
+            <lb/>No 2467.
+            <lb/>2501
+          </div><div type="renvoi">
+            
+            <lb/><persName>WOLF Thomas jun.</persName>, <title>Responsiva</title>. Voir : <persName>WIMPHELING</persName>, <title>
+              Adoles¬
+              <lb/>centia
+            </title>. <placeName>Haguenau</placeName>, <publisher><persName>H. Gran</persName></publisher>, <date>1508</date>. R101.064; n° 2484.
+          </div><div type="renvoi">
+            
+            <lb/><persName>WOLFF Henricus</persName>, <title>Vom Holz des Lebens</title>... Voir: <persName>
+              VILLANOVA
+              <lb/>Arnoldus de
+            </persName>, <title>Herliche Medicinische Tractat...</title> <placeName>Strasbourg</placeName>,
+            <lb/><persName>B. Jobin</persName>, <date>1576</date>. R 101.054; n° 2409.
+          </div><div type="renvoi">
+            
+            <lb/><persName>WORMSER Bernard</persName>. Voir : <title>Ordonnance (Blasphèmes)</title>, <placeName>Strasbourg</placeName>,
+            <lb/><date>1533</date>. R 22 (14); n° 1697.
+          </div><div type="notice" id="2502">
+            
+            <lb/>(<title>WUERFELBUCH</title>]
+            <lb/><placeName>Strasbourg</placeName>, (<publisher><persName>Christian Egenolff</persName></publisher>), <date>1529</date>
+            <lb/>En haut, trois dés; au-dessous:
+            <lb/>Dem würdt grosz weiszheyt gemessen zu
+            <lb/>Der innerlich erkennen thu
+            <lb/>Sich selb. Hie magsts vergebens lern,
+            <lb/>Den weissagern nit darffest fern
+            <lb/>Nachlauffen, Frag dein nachpurn drumm
+            <lb/>Die nähsten drei, wilts in einr Summ
+            <lb/>Erfarn, Oder würff hie ein schantz
+            <lb/>Mit würfflen drei, Disz Täflin gantz
+            <lb/>Zeygt aller würff, vnd findst dabei
+            <lb/>An welchem blat es gschriben sei.
+            <lb/>Au-dessous : tableau des dés en 3 rangées, avec les chiffres
+            <lb/>romains I-XIIII.
+            <lb/>A la fin : Zu <placeName>Straszburg</placeName>. <date>M. D. XXIX.</date> (Verso blanc.)
+            <lb/>In-4°, car. goth., 8 ff. non ch., sign. A-B, réclames, les différentes
+            <lb/>positions des dés de I-XIV, avec 4 vers chaque fois sous le chiffre.
+            <lb/>R. 100.407. Prov. : Bibl. de <placeName>Mitau</placeName> par échange. Exemplaire très rare;
+            <lb/>Goedeke 112, 461, 5 cite un exemplaire de <placeName>Berlin</placeName>, qui est introuvable.
+            <lb/>Annotations mss.
+            <lb/>Nouvelle édition par <persName>Alfred Götze</persName>, <placeName>Strasbourg</placeName> <date>1918</date>.
+            <lb/>2502
+          </div><div type="renvoi">
+            
+            <lb/><title>
+              WURTZGARTEN der Seele
+            </title>. Voir: <title>SEELENWURTZGARTEN</title>.
+          </div><div type="renvoi">
+            
+            <lb/><persName>WYDMANN Johann</persName>. Voir : <persName>WIDMANN Johann</persName>.
+          </div>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

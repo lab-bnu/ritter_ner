@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-26T14:10:00.763907+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002466.tif
+IMAGE WIDTH: 2508
+IMAGE HEIGHT: 3972
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+        <div type="notice" id="3206"><bibl>
+          
+          
+              <lb/><persName>SCHWENCKFELD, Caspar</persName> : <title>Bekantnuss vom H. Sacrament des
+                <lb/>leibs unnd bluts Christi, auff frag und antwort gestellet...</title>
+              <lb/>— <placeName>Strasbourg</placeName> (<publisher><persName>Hans Schweintzer</persName></publisher> <date>1530</date>), in-8°.
+        </bibl>
+            <lb/>Wackernagel 364, 7.
+            <lb/>3206
+        </div><div type="notice" id="3207"><bibl>
+          
+          
+              <lb/><persName>SCHWENCKFELD, Caspar</persName> : <title>Summarium.</title> — <placeName>Haguenau</placeName>,
+              <lb/><publisher><persName>Valentin Kobian</persName></publisher> <date>1535</date>.
+        </bibl>
+            <lb/>Ritter, Hist. impr. app. 459.
+            <lb/>3027
+        </div><div type="notice" id="3208"><bibl>
+          
+          
+              <lb/><persName>SCHWENCKFELD, Caspar</persName> : <title>Von erbawung des gewissens und
+                <lb/>zunemen des glaubens und eines gottsäligen christlichen
+                <lb/>lebens.</title> — <placeName>Strasbourg</placeName> <date>1534</date>, in-4°.
+        </bibl>
+            <lb/>Graesse VI, p. 323.
+            <lb/>3208
+        </div><div type="renvoi">
+          
+            <lb/><persName>SCHWENCKFELD, C.</persName> Voir aussi: <persName>SPECKER, Melch.</persName>, n° 3259.
+            <lb/>(RITTER, Rép. n° 2105/6).
+        </div><div type="notice" id="3209"><bibl>
+          
+          
+              <lb/><title>
+                SCRIPTUM: collocutorum Augustanae Confessionis, qui in
+                <lb/>urbe Vangiorum (Worms) fuerunt, donec adversarii
+                <lb/>colloquium abrupuerunt anno 1557.
+              </title> — <placeName>Strasbourg</placeName>,
+              <lb/><publisher><persName>Samuel Emmel</persName></publisher> <date>1557</date>, in-8°.
+        </bibl>
+            <lb/>Schottenloher 41.420.
+            <lb/>3209
+        </div><div type="notice" id="3210"><bibl>
+          
+          
+              <lb/><persName>SEBASTIANUS, Claudius Metensis</persName> : <title>
+                Bellum musicale inter
+                <lb/>plani et mensuralis cantus reges, de principatu
+                <lb/>in musicae provincia obtinendo, contendentes.
+              </title> —
+              <lb/><placeName>Strasbourg</placeName>, <publisher><persName>Paulus Machaeropoeus</persName></publisher> <date>1563</date>, in-40.
+        </bibl>
+            <lb/>Graesse VI, p. 337; Rosenthal (<placeName>Munich</placeName>), Catal. 135 (1914),
+            <lb/>n° 2174: 100 M.
+            <lb/>3210
+        </div><div type="renvoi">
+          
+            <lb/><persName>SEBITZ, Melchior</persName>. Voir : <persName>BocK, Hieronymus</persName>, <title>Kräuterbuch</title>,
+            <lb/>n° 1023.
+        </div><div type="notice" id="3211"><bibl>
+          
+          
+              <lb/>(<persName>SECER, Johannes</persName>) : <title>
+                Contenta. De literis Graecis ac Dipth¬
+                <lb/>tongis (sic)...
+              </title> — <placeName>Haguenau</placeName>, <publisher><persName>Thomas Anshelm</persName></publisher> <date>s. d.</date>, in-40.
+        </bibl>
+            <lb/>B U <placeName>Paris</placeName> (Réserve 851), <placeName>Beaulieux</placeName>, p. 267.
+            <lb/>3211
+        </div>
+          <lb/>464
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

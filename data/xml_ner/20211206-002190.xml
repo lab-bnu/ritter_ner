@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-26T14:09:48.004549+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002190.tif
+IMAGE WIDTH: 2494
+IMAGE HEIGHT: 3970
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <div type="notice" id="1745">
+            <lb/>Schmidt IV, p. 9, n° 24; Panzer, Zusätze, 100; Schöpflin,
+            <lb/>Vind. typogr. III; Weller, Rep. 274. — Jadis Bibl. de
+            <lb/><placeName>Strasbourg</placeName>, B U <placeName>Fribourg-en-Br.</placeName>
+            <lb/>1745
+          </div><div type="notice" id="1746"><bibl>
+            
+            
+              <lb/><persName>FOLTZ, Hans</persName> : <title>Eine gute Lehre von allen willtbaden. </title>—
+              <lb/><placeName>Strasbourg</placeName>, <publisher><persName>Barth. Kistler</persName></publisher> <date>1504</date>, in-8°.
+          </bibl>
+            <lb/>Goedeke II2, p. 331, n° II (15).
+            <lb/>1746
+          </div><div type="notice" id="1747"><bibl>
+            
+            
+              <lb/><title>FONTAINES</title> :<title>
+                 Des deux fontaines dites de Creysbach et de
+                <lb/><persName>Saint-Pierre</persName>.
+              </title> — <placeName>Strasbourg</placeName>, <publisher><persName>Antoine Bertram</persName></publisher> <date>1590</date>, in-4°.
+          </bibl>
+            <lb/>Ritter : Hist. de l’impr. p. 367.
+            <lb/>1747
+          </div><div type="notice" id="1748"><bibl>
+            
+            
+              <lb/><persName>FONTANUS, Jacobus</persName> : <title>De bello Rhodio libri tres...</title> —
+              <lb/><placeName>Haguenau</placeName>, <publisher><persName>Jean Secer</persName></publisher> <date>août 1527</date>, in-4°.
+          </bibl>
+            <lb/>Ritter: B M <placeName>Strasbourg</placeName>, no 1006. [B N <placeName>Strasbourg</placeName> R 102.124l.
+            <lb/>1748
+          </div><div type="notice" id="1749">
+<bibl>
+  
+  <lb/><title>FORM</title> : <title>
+    Form und Gebet, zu dem Ehe einsegnen, Heyligen
+    <lb/>Tauffe, Abendtmal des Herren, Krancken besuchen und
+    <lb/>Begräbnüsz der Abgestorbnen, wie es zu Straszburg unnd
+    <lb/>anderszwa gehalten wirdt. Mit vorgesetzter Epistel
+    <lb/>Pauli an Titum.
+  </title> — [<placeName>Strasbourg</placeName> <date>s. d.</date>], in-80.
+</bibl>
+            <lb/>Hubert, n° 36 : Bibl. Roy. <placeName>Stuttgart</placeName>.
+            <lb/>1749
+          </div><div type="notice" id="1750">
+            <bibl>
+              
+              <lb/><title>FORM</title> : (Idem). — (<placeName>Strasbourg</placeName>, <publisher><persName>Wolfg. Köpfel</persName></publisher> <date>s. d.</date>), in-8°.
+              <lb/>(Préface de <persName>Köpfell</persName>.
+            </bibl>
+            <lb/>Hubert, no 37; Wackernagel, p. 189.
+            <lb/>1750
+          </div><div type="notice" id="1751"><bibl>
+            
+            
+              <lb/><title>FORM</title> : (Idem).— (<placeName>Strasbourg</placeName>, <date>s. d.</date> ], in-80.
+          </bibl>
+            <lb/>Hubert, n° 38 (par erreur 37): B N <placeName>Berlin</placeName>.
+            <lb/>1751
+          </div><div type="notice" id="1752"><bibl>
+            
+            
+              <lb/><title>FORMULA</title> : <title>declinandi et conjugandi</title>. — <placeName>Strasbourg</placeName>,
+              <lb/><publisher><persName>Jean Knobloch</persName></publisher> <date>1519</date>, in-4°.
+          </bibl>
+            <lb/>Panzer 6, 90, 534; Schmidt VII, n° 185; Weislinger Catal.
+            <lb/>245.
+            <lb/>1752
+          </div>
+          <lb/>188
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

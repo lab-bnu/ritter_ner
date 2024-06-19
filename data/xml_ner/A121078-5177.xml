@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-17T07:33:25.143199+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5177.tif
+IMAGE WIDTH: 2346
+IMAGE HEIGHT: 3856
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p><div type="notice" id="2369"><bibl>
+          
+          
+              <lb/><persName ref="076638502">VALERIANUS Johannes Pierius </persName><pubPlace><placeName>Strasbourg</placeName></pubPlace>, <publisher><persName ref="066643953">M. Schürer</persName></publisher>, <date>1513</date>
+              <lb/><persName ref="076638502">Pierii Valeriani</persName> De Hono-ribus illustrissimo ac reueren¬
+              <lb/>dissimo Gur ] censi Caesareo totius Italiae vicario urbem
+              <lb/>ingredienti habitisEpistola.
+              <lb/>Panegyris R. D. Matthei Episcopi Gurc.Per Ian. Fran.
+              <lb/>Vitalem Panor-mium, cum versiculis doctiss, viro! rum.
+              <lb/><persName>Hieronymi Nogaroli</persName> Comitis ad Ma-ximilianum Aug.
+              <lb/>pro!! Vicentinis habita! Oratio.
+              <lb/>A la fin : <placeName>Argentorati</placeName>, in Aedib. <persName ref="066643953">Matthiae Schurerij</persName>( <placeName>
+                Seles¬
+                <lb/>tensis
+              </placeName> Mense <date when="1513-02">Februario.Anno M. D. XIII.</date>T.O.
+        </bibl>
+            <lb/>Au recto du f. suivant, marque typ. de <persName ref="066643953">Math. Schürer</persName>.
+            <lb/>(H. &amp;amp; B. Planche XII, No 2.)
+            <lb/>In-4°, car, rom., 14 ff. non ch., sign. A-C, init. d’attente. Au verso du
+            <lb/>titre : <persName ref="027935337">Beatus Rhenanus</persName> <persName ref="066643953">Matthiae Schürerio</persName>!! Municipi Suo S. D. P.... —
+            <lb/>Ex Basilea Quarto No- I1 nas <date>Februarias Anno. M. D. xiij.</date>
+            <lb/>&amp;quot;R. 100.648. Provenance inconnue.
+            <lb/>Proctor II, Sectio I, N° 10209 : <placeName>Londres</placeName>, British Museum; Schmidt
+            <lb/>VIII, No 95 : jadis Bibl. de <placeName>Strasbourg</placeName>, Incun. No 76 et Bibl. <placeName>Bâle</placeName>; Ritter,
+            <lb/>BM <placeName>Strasbourg</placeName>, N° 2128.
+            <lb/>2369
+        </div><div type="notice"><bibl>
+          
+          
+              <lb/><persName ref="076638502">VALERIANUS PIERIUS Johannes</persName> <pubPlace><placeName>Strasbourg</placeName></pubPlace>, <publisher><persName>J. Albrecht</persName></publisher>, <date>1534</date>
+              <lb/>Apologia <persName ref="076638502">Ioan. Pierii Valeriani</persName> Be lunen. Medicum!
+              <lb/>familiae Rhetoris. Pro Sacerdotum Barbis.
+              <lb/>Sylva Epistolaris seu <persName>Bar-ba Ioan</persName>. Sapidi, propter argu¬
+              <lb/>menti cognationem adiecta.
+              <lb/><placeName>Argentinae</placeName> ex Officina <persName>Ioan. Alberti</persName>. Anno
+              <lb/><date when="1534-02">M. D. XXXIIII. Mense Febr.</date> (Verso blanc.)
+        </bibl>
+            <lb/>In-8°, car. ital., 44 ff. non ch., sign. A-E, titre courant, réclames, init.
+            <lb/>à fig. A, H, C; grav. sur bois : l’<persName><roleName>évêque</roleName> Sapidus</persName>, au-dessus, Sylva Episto¬
+            <lb/>laris, seu !! <persName>Barba Io. Sapidi</persName>, en bas : Barba viri orna- Il mentum. La
+            <lb/>même grav. se trouve au verso du dernier f.
+        </div>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-17T07:33:25.240223+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078265.tif
+IMAGE WIDTH: 2304
+IMAGE HEIGHT: 3844
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <div type="notice" id="1786">
+            <lb/>tions mse.; au-dessus du titre :,<placeName>Monasterii Seemanshausensis</placeName> ordinis
+            <lb/>R101.430. Prov.: BN<placeName> Munich</placeName> <date>28/XII 1877</date>; 1 M. 50. Annota¬
+            <lb/><persName ref="052518477"><roleName>Eremit. </roleName>S. Augustini</persName>&amp;quot;; à l’intérieur de la couverture de derrière auto¬
+            <lb/>graphe: <persName>Fr. Gabriel</persName> ord. Erem. <persName ref="052518477">S. Augustini</persName>.
+            <lb/>les publia avec un titre et des types tout pareils en <date>1517</date>. La désignation
+            <lb/>Schmidt VII n° 5 attribue les sermons à <persName ref="122684532">Knobloch</persName>, parce qu’il
+            <lb/><title>Sermones Parati</title> vient du premier mot du premier sermon: Paratus est
+            <lb/>judicare vivos et mortuos. (I. Pierre, 4. 5.)
+            <lb/>1786
+          </div><div type="notice" id="1787">
+            <bibl>
+            
+              <lb/><title>PARATUS</title>
+              <lb/><pubPlace><placeName>Haguenau</placeName></pubPlace>, <publisher><persName ref="034890890">H. Gran</persName> </publisher><date>1506</date>
+              <lb/>Sermones Parati de tempore et de sanctis cum In¬
+              <lb/>ventario quodam utili superaddito.
+            </bibl> (Verso blanc.)
+            <lb/>A la fin: Sermones Parati per an ni circulum: de
+            <lb/>Tempore et de San ctis; summa diligentia revisi: Im
+            <lb/>pensis ae sumptibus circumspecti vi ri archibibliopole
+            <lb/><persName ref="07949398X">loannis Ryn man</persName> de <placeName>Oringaw</placeName>: In officina industrii <persName ref="034890890">Hen¬
+              <lb/>rici Gran</persName> Civis! in imperiali opido <placeName>Hagenaw</placeName> im! pressi:
+            <lb/>finem sortiti sunt felicem: An- no virginei partus Sexto
+            <lb/>supra Millesimum quingentesimum atque centesimum.
+            <lb/>ipsa vigilia beatorum <persName ref="028123395"><roleName>apostolorum </roleName>Petri</persName> &amp;amp; <persName ref="052468844">Pauli</persName>.
+            <lb/>In-4°, car. goth., 263 ff. non ch. dont le dernier f. blanc, sign.
+            <lb/>a-2, A-O, titre courant, init. d’attente.
+            <lb/>R 101.431. Prop.: BN <placeName>Munich</placeName> 28/XII <date>1877</date>; 1 M. 50. En bas
+            <lb/>du titre:,<persName>Ludwig Osterm</persName>&amp;quot;; à l’intérieur de la couverture:,<persName>
+              Anndreas.
+              <lb/>gas
+            </persName> <date>1514</date>&amp;quot;; fol. c 2a: Monasterii Benedictoburnii&amp;quot;
+            <lb/>1787
+          </div><div type="notice" id="1788"><bibl>
+            
+            
+              <lb/><title>PARATUS</title>
+              <lb/><pubPlace><placeName>Haguenau</placeName></pubPlace>,<publisher> <persName ref="034890890">H. Gran</persName></publisher> <date>1510</date>
+              <lb/>Sermones Parati de tempore et de sanctis cum In¬
+              <lb/>ventario quodam utili superaddito.
+          </bibl> (Verso blanc.)
+            <lb/>A la fin: Sermones Pa rati per anni circulum: de Tem¬
+            <lb/>pore et de Sanctis: summa diligentia revisi: Im-pensis
+            <lb/>ac sumptibus circumspecti vi- ri archibibliopole <persName ref="07949398X">
+              <persName>loannis
+                <lb/>Rynman</persName> de <placeName>Oringaw</placeName>
+            </persName>: In officina industrii <persName ref="034890890">Hen-rici Gran</persName>
+            <lb/>Civis in imperiali opido <placeName>Ha genaw</placeName> impressi: finem sortiti
+            <lb/>sunt felicem:Anno virginei partus Decimo super Mil
+            <lb/>lesimum quingesimumque centesimum, ipsa vigilia Lucie
+            <lb/>virginis et martyris.
+            <lb/>In-4°, car. goth., 2 col., 262 ff. non ch. dont le dernier blanc,
+            <lb/>sign. a-2, A-O, titre courant, init. d’attente.
+            <lb/>R101.433. Prov.: BN <placeName>Munich</placeName> 28/XI1 <date>1877</date>; 1 M. 70. Annota¬
+            <lb/>tions mss.; fol. C1a :, Mathias. 1. 5. 7 2. -Sum ex libris <persName>
+              Sancti Michaelis.
+              <lb/>Archangeli Sycherspergensis
+            </persName>(?) : Coenobii patroni.&amp;quot; Sur la reliure en
+            <lb/>haut: »W R St́, en bas, <date>1607</date>.&amp;quot;
+            <lb/>1788
+          </div>
+          <lb/>1151
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

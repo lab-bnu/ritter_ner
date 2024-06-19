@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-17T07:33:24.712990+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002154.tif
+IMAGE WIDTH: 2498
+IMAGE HEIGHT: 3972
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+      <p>
+      <div type="notice" id="1557a">
+        <bibl>
+            <lb/><persName ref="032593082">Reuchlin</persName> ex urbe <placeName>Roma</placeName> allata, idque paucis ab hinc
+            <lb/>diebus. — (<pubPlace>
+              <placeName>Haguenau</placeName>
+            </pubPlace><publisher>
+              <persName ref="077748298"><forename>Thomas</forename> <surname>Anshelm</surname></persName>,
+            </publisher> <date>après mai
+              <lb/>1518</date>), in-4°.
+        </bibl>
+          <lb/>Panzer VII 422.112; Neufforge p. 376, Benzing : Hutten,
+          <lb/>n° 61: B N <placeName>Strasbourg</placeName> (oublié au Rép.), B N <placeName>Vienne</placeName>, Steinfeld
+          <lb/>(Schlüchtern).
+          <lb/>1557a
+        </div>
+          <div type="notice" id="1558">
+            <lb/><bibl>
+              <persName ref="242624197"><surname>EPPENDORF</surname>, <forename>Henricus</forename></persName> : <title>
+                Ad <persName ref="085720372">D. Erasmi Roterodami</persName> libellum,
+                <lb/>cui titulus, adversus Mendacium &amp;amp; Obtrectationem
+                <lb/>utilis admonitio, Justa Querela.
+              </title>— <pubPlace>
+                <placeName>Haguenau</placeName>
+              </pubPlace>, <publisher>
+                <persName ref="078847354"><forename>Jean</forename> <surname>Secer</surname></persName>
+              </publisher>,
+              <lb/><date when="1531-02">février 1531</date>, in-80.
+            </bibl>
+            <lb/>Walter, n° 1155; Burg, n° 166.
+            <lb/>1558
+            
+          </div>
+          <div type="renvoi">
+            <lb/><persName><surname>EPPENDORF</surname>, <forename>Henricus</forename></persName>. Voir aussi : <persName ref="028662032"><surname>AccOLTI</surname>, <forename>Benedetto</forename></persName>
+            <lb/>n° 733; <persName ref="027076784">PLUTARCHUS</persName>, nos 2959, 2960, 2957; <persName ref="026656159">FLORUS,
+              <lb/><forename>L. A.</forename></persName> n° 1740; RITTER, Rép, nos 703-704.
+          </div>
+          <lb/><div type="renvoi"><persName ref="028645561"><surname>ERASMUS</surname>, <forename>Alberus</forename></persName>. Voir: <persName ref="028645561"><surname>ALBERUS</surname>, <forename>Erasmus</forename></persName>.</div>
+          <div type="notice" id="1559">
+            <lb/><bibl>
+              <persName ref="085720372">ERASMUS, Roterodamus</persName> <title>
+                (Annotationes) : in Leges Pontificias
+                <lb/>et Caesareas. De Haereticis. Epistolae aliquot <persName ref="029009634">Gerardi
+                  <lb/>Noviomagi</persName>. De re Evangelica &amp;amp; Haereticorum poenis.
+                <lb/>Ad <persName ref="08578334X">Carolum Quintum</persName>. Ad Germanorum Principes, in
+                <lb/>conventu Spirens. Ad <persName>Carolum Gelriorum <roleName>Ducem</roleName></persName>. Ad
+                <lb/><persName ref="029593549">Philippum Hessorum <roleName>Principem</roleName></persName>.
+              </title> — <pubPlace>
+                <placeName>Strasbourg</placeName>
+              </pubPlace>, <persName ref="080749208"><forename>Christian</forename>
+                <lb/><surname>Egenolph</surname></persName> <date>1529</date>, in-8°.
+            </bibl>
+            <lb/>Van der Haeghen II p. 31 et suiv. : <placeName>Berne</placeName>, <placeName>Bologne</placeName>, <placeName>Breslau</placeName>,
+            <lb/><placeName>Copenhague</placeName>, <placeName>Dresde</placeName>, <placeName>Paris</placeName>, etc.; Benzing: Egenolff, n° 9.
+            <lb/>1559
+            
+          </div><div type="notice" id="1559a">
+            <bibl>
+              <lb/><persName ref="085720372">ERASMUS</persName> : <title>Antibarbara</title>. — <pubPlace><placeName>Strasbourg</placeName></pubPlace>, <publisher><persName ref="066643953"><forename>Math.</forename> <surname>Schürer</surname></persName></publisher> <date>
+                vers
+                <lb/><date>1518</date>
+              </date>, in-80.
+            </bibl>
+            <lb/>Rest : <persName>Erasmus</persName> p. 47 : B U <placeName>Fribourg-en-Br.</placeName>
+            <lb/>1559a
+          </div>
+          <div type="notice" id="1560">
+            <bibl>
+              <lb/><persName ref="085720372">ERASMUS</persName> (<title>Antibarbara</title>) : (Idem). — <pubPlace><placeName>Strasbourg</placeName></pubPlace>, <publisher>
+                <persName ref="122684532"><forename>Jean</forename>
+                  <lb/><surname>Knobloch</surname></persName>
+              </publisher>, <date when="1527-07">juillet 1527</date>, in-80.
+            </bibl>
+            <lb/>Van der Haeghen II, 79 : Erlangen, <placeName>Madrid</placeName>, <placeName>Vesoul</placeName>. (Ritter,
+            <lb/>Rép, n° 741 : Knobloch 1520, Knobloch 1521 (Rép. 750),
+            <lb/>Knobloch 1522 (Rép. 756)).
+            <lb/>1560
+          </div>
+          <lb/>152
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

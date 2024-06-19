@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-17T07:33:24.772835+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002423.tif
+IMAGE WIDTH: 2492
+IMAGE HEIGHT: 3948
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <div type="notice" id="2985"><bibl>
+            
+              <lb/><persName ref="07520942X"><surname>PRIERIAS</surname>, <forename>Silvester</forename> de</persName> : <title>
+                Super Evangelia totius anni expositio
+                <lb/>seu rosa aurea.
+              </title> — <pubPlace><placeName>Haguenau</placeName></pubPlace>, <publisher><persName ref="034890890">Henri Gran</persName></publisher> aux frais de
+              <lb/><persName ref="07949398X">Rynman</persName> <date>1500</date>, in-40.
+          </bibl>
+            <lb/>Graesse V, p. 442.
+            <lb/>2985
+          </div>
+          <div type="notice" id="2986"><bibl>
+            
+              <lb/><persName ref="07520942X"><surname>PRIERIAS</surname>, <forename>Silvester</forename> de</persName> : <title>
+                Aurea Rosa id est praeclarissima
+                <lb/>expositio super evangelia totius anni de Tempore
+                <lb/>et de Sanctis secundum ordinem Predicatorum...
+              </title> —
+              <lb/>(<pubPlace><placeName>Haguenau</placeName></pubPlace>, <publisher><persName ref="034890890">H. Gran</persName></publisher> pour <persName ref="07949398X">J. Rynman</persName>, <date when="1508-10-08">8 octobre 1508</date>),
+              <lb/>in-40.
+          </bibl>
+            <lb/>Burg n° 388; Graesse V, p. 442. [Une éd. <persName>Gran</persName> <date>1516</date> : Ritter,
+            <lb/>Rép. n° 1924).
+            <lb/>2986
+            
+          </div><div type="notice" id="2987"><bibl>
+            
+              <lb/><persName ref="07520942X"><surname>PRIERIAS</surname>, <forename>Silvester</forename> de</persName> : <title>Rosa aurea.</title> — <pubPlace><placeName>Haguenau</placeName></pubPlace>, <publisher>
+                <persName ref="034890890">
+                  Henri
+                  <lb/>Gran
+                </persName>
+              </publisher>pour <persName ref="07949398X">Jean Rynmann</persName> <date>31.X.1510</date>, in-4°.
+          </bibl>
+            <lb/>Ritter, Grand Sém. <placeName>Strasbourg</placeName>, n° 433, Burg n° 389. 2987
+          </div><div type="notice" id="2988"><bibl>
+            
+            
+              <lb/><persName ref="07520942X"><surname>PRIERIAS</surname>, <forename>Silvester</forename> de</persName> :<title>
+                 Summa summarum que Sylvestrina
+                <lb/>dicitur...
+              </title> — <pubPlace><placeName>Haguenau</placeName></pubPlace> <date>1519</date>, in-fol.
+          </bibl>
+            <lb/>Schmidt, Hist. litt. II, p. 415, n° 291. (Une éd. <persName>Grüninger</persName>
+            <lb/><date>1518</date> : Ritter, Rép. n° 1925l.
+            <lb/>2988
+          </div><div type="notice" id="2989"><bibl>
+            
+            
+              <lb/><persName ref="029412544"><surname>PRISCIANUS</surname>, <forename>Theodorus</forename></persName> :<title>
+                 Octavii Horatiani. Rerum medica¬
+                <lb/>rum libri quatuor. I. Logicus, de curationibus omnium
+                <lb/>ferme morborum corporis humani... Il. De acutis et
+                <lb/>chronicis passionibus... III. Gynecia... IV. De physica
+                <lb/>scientia, experimentorum liber. Per Heremanum, comi¬
+                <lb/>tem a Neuenar integro candori nuper restitutus autor.
+                <lb/>Albucasis... Libri tres...
+              </title>— <pubPlace><placeName>Strasbourg</placeName></pubPlace>, <publisher><persName ref="098482718">Jean Schott</persName></publisher>
+              <lb/><date when="1532-11-26">26.11.1532</date>, in-fol.
+          </bibl>
+            <lb/>Schmidt II, n° 123; Graesse V, p. 448 ; « Première éd. dans
+            <lb/>laquelle le texte a été souvent hardiment changé. La Diaeta
+            <lb/>n’y est pas ». — B N <placeName>Berlin</placeName>, B N <placeName>Paris</placeName>, B M <placeName>Montauban</placeName> 2401.
+            <lb/>2989
+          </div><div type="notice">
+          <bibl>
+            
+            <lb/><persName ref="029412544"><surname>PRISCIANUS</surname>, <forename>Theodorus</forename></persName> : <title>
+              De curationibus omnium ferme
+              <lb/>morborum homini accidentium. De acutis et chronicis
+            </title>
+          </bibl></div>
+            <lb/>421
+            <lb/>14-1
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

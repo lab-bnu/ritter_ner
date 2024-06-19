@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-17T07:33:24.947183+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5131.tif
+IMAGE WIDTH: 2332
+IMAGE HEIGHT: 3852
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1439
+          <div type="notice" id="2290">
+            <lb/>enfant, l’homme apporte du bois pour faire du feu, devant
+            <lb/>eux 4 petits enfants, dont un couché. A droite de la gray.
+            <lb/>les mots : Labor Improbos., à gauche : Omnia Vincit.
+            <lb/>Au-dessous de la grav. : <placeName>Argentor</placeName>. Apud <persName>Christianum
+              <lb/>Egenolphum</persName>.
+            <lb/>A la fin : <placeName>Argentorati</placeName>, Apud <persName ref="080749208">Christianum!! Egenolphum</persName>.
+            <lb/>Mense <date when="1530-08">Augusto, Anno M. D. XXX.</date> (Verso blanc.)
+            <lb/>In-8°, car. ital., 68 ff. non ch., sign. A-J, titre courant, réclames.
+            <lb/>Au verso du titre : <persName>C. Cornelius Graphe-!) us</persName>... <persName>Damiano de Gooes</persName>!
+            <lb/>Regis Lusitani. in Antwerpien. Emporio à rationibus... — <placeName>Antuerpiae</placeName>,
+            <lb/>Ca Il lend. Quintilibus !! Anno. <date>M. D. II XXIX</date>.
+            <lb/>R. 101.787. Prov. : <persName>H. Kerler</persName>, <placeName>Ulm</placeName>, <date>19/x, 1878</date>; 3 M. 2290
+          </div><div type="notice" id="2291">
+            
+            <bibl>
+              <lb/><persName ref="026672588">TERENTIUS Afer Publius</persName>
+              <lb/><pubPlace><placeName>Strasbourg</placeName></pubPlace>, <publisher><persName>J. Albrecht</persName></publisher>, <date>1533</date>
+              <lb/><title>
+                <persName ref="026672588">P. Teren- tius</persName> A <persName ref="027021882">Philippo Melan-chthone</persName> iam nouis¬
+                <lb/>sime restitutus.
+                <lb/>Addita sunt Scholia eiusdem <persName ref="027021882">Philippi</persName> quae quidem hoc
+                <lb/>i-gno“ praenotauimus. Tum Petri Marsi in loca obscura
+                <lb/>adnotationes. Itemque <persName>Pauli Malleoli</persName> in singulas scenas.
+                <lb/>Praeterea his omnibus accessere <persName>Christopho-ri Heggendor¬
+                  <lb/>phini</persName> adnotatiunculae, ac scho- lia doctissima, nec hactenus
+                <lb/>aedita.
+              </title>
+              <lb/><placeName>Argentorati</placeName> Anno <date>M. D. XXXIII</date>. (Verso blanc.)
+            </bibl>
+            <lb/>A la fin: Impressum <placeName>Argentorati</placeName> in! Officina <publisher>
+              <persName>Knoblouchia¬
+                <lb/>na</persName>
+             per <persName>Ioannem!! Albrecht</persName></publisher>,Anno<date when="1533-08">M. D. XXXIII.
+            <lb/>Mense Augusto.</date>
+            <lb/>Au verso du f. blanc qui suit, marque typ. de J. Albrecht.
+            <lb/>(H. &amp;amp; B. Planche XXV, n° 2 ; Silvestre, n° 1116.)
+            <lb/>In-8°, car. ital., 565 pp., titre courant, réclames, notes marg., init.
+            <lb/>ornées et à fig.
+            <lb/>p. 3: <persName ref="027021882">Philippus Melanchthon</persName>! Paedagogis... (Préface de deux pp.
+            <lb/>et demie).
+            <lb/>p. 6 : <persName>Christophorus Hegendor-!phinus</persName> Ornatissimo iuueni <persName>Erasmo!
+              <lb/>Hungerleydt Posnaniensi</persName> (2 pp.).
+            <lb/>R. 101.783. Prov. : N. G. Elwert, <placeName>Marbourg</placeName>, <date>13/xII, 1887</date> ; 1 M. 50.
+            <lb/>Notes mss. : « <persName>Martinus Kreutzer</persName> est possessor huius libri. <date>1578</date>;
+            <lb/>au-dessous : <persName>Martinus Kreutzer</persName> <placeName>Slestadianus</placeName>; à la fin le même nom avec
+            <lb/>la date <date>1581</date>.
+            <lb/>2291
+          </div><div type="notice"><bibl>
+            
+            
+              <lb/><persName ref="026672588">TERENTIUS Afer Publius</persName>
+              <lb/><pubPlace><placeName>Strasbourg</placeName></pubPlace>, <publisher><persName ref="069029237">W. Rihel</persName></publisher>, 1548
+              <lb/><persName ref="026672588">P. Terentii Afri</persName> Comoediae Sex. Ad Vetusta Ex¬
+              <lb/>emplaria diligentissime! emendatae.
+              <lb/>Cum Castigatione Duplici Ioannis Riuij &amp;amp; <persName>Georgii
+                <lb/>Fa-]bricij</persName>, quarum prima auctior est, altera recens scripta,
+              <lb/>&amp;amp; iam primum edita.
+          </bibl>
+          </div>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

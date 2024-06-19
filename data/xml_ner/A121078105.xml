@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-26T14:10:01.229386+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078105.tif
+IMAGE WIDTH: 2314
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>991<div type="notice" id="991"><bibl>
+            
+            
+              <lb/><persName>MATTHAEUS Vindocinensis</persName>
+              <lb/><placeName>Strasbourg</placeName>, <publisher><persName>J. Knobloch</persName></publisher>, <date>1510</date>
+              <lb/><title>
+                Historia thobie cum moralitatibus eiusdem: per
+                <lb/><persName>Matheum vin docinensem</persName> elegiaco carmine diligenti casti¬
+                <lb/>gatione descripta. Ad Lectorem. Quid valeat virtus
+                <lb/>morali dogmate tersa. Hic lector discas semper amieus
+                <lb/>vale.
+              </title>
+          </bibl>(Verso blanc.)
+            <lb/>A la fin: Impressum <placeName>Argentine</placeName> per honestum virum
+            <lb/><persName>Iohan nem Knolouch</persName> (!), tertia feria post Adriani! Anno
+            <lb/>domini M. CCCCC. X. (Verso blanc.)
+            <lb/>In-40, car. rom., 124 ff. non ch., sign. a-r, titre courant, init.
+            <lb/>d’attente.
+            <lb/>FRI01413. Prov.: BN Munich, 28/X11 1877, 1 M. Ex-libris:
+            <lb/>Ex Electorali Bibliotheca Sereniss. Utriusque Bavariae Ducum.
+            <lb/>2ème ex.: RI01.020. Prov.: BN Munich T/V 1877; 1 M. A l&amp;#x27;in¬
+            <lb/>térieur de la couverture, ex-libris avec la devise: «Honos erit huic quo¬
+            <lb/>que luto» en haut et le nom du possesseur en bas: Andreae Felicis (Efely.
+            <lb/>Monacensis. Au verso du f. de garde: Duplum Bibliothecae regiae Mona¬
+            <lb/>censis.
+            <lb/>Proctor II Sectio I n° 10.074: Londres, Brit. Museum; Schmidt
+            <lb/>VII n° 68; BM Strasbourg.
+            <lb/>1498
+          </div><div type="renvoi">
+            
+            <lb/><persName>MATTHIEU DE VENDÔME</persName>. Voir: <persName>
+              MATTHAEUS VINDOCINEN¬
+              <lb/>SIS
+            </persName>
+          </div><div type="renvoi">
+            
+            <lb/><persName>MAXENTIUS Johannes</persName>; <title>Opera</title>. Voir: <persName>FULGENTIUS</persName>: <title>Opera</title>.
+          </div><div type="renvoi">
+            
+            <lb/><persName>MAXIMIANUS Episcopus (Cornelius)</persName>: <title>Elegiarum fragmenta.</title> Voir:
+            <lb/><persName>GREGORIUS Tifernas</persName>: <title>Opuscula</title>. <placeName>Strasbourg</placeName>, <publisher><persName>M. Schurer</persName></publisher> <date>1509</date>.
+          </div><div type="notice">
+<bibl>
+  
+  <lb/><persName>MAXIMILIEN Ier</persName>
+  <lb/><placeName>Strasbourg</placeName> <date>1518</date>
+  <lb/>WIr <persName>Maximilian</persName> von gots genaden Erwölter Römischer
+  <lb/>Keyser,... ..Embieten allen...Unnser gnad...
+  <lb/>Nach dem durch die Püchssen, so sich selbst zünden...
+  <lb/>... mergklich und grosz beschedigung beschehen sind...
+  <lb/>.. haben wir die, in allen unsern Erblich Fürstenthumben
+  <lb/>unnd Landen, die nit mer zûmachen noch auch zû! rosz
+  <lb/>noch zûfusz zûführen noch zûtragen by schweren peenen
+  <lb/>ernstlich verbotten... —
+  <lb/>Geben in unser und des heyligen Rychs Stat <placeName>Augs¬
+    <lb/>purg</placeName> am achtundzweintzigsten tag des Monats <date>Julii Anno</date>
+</bibl>
+          </div>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-17T07:33:24.838794+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-2352.tif
+IMAGE WIDTH: 2330
+IMAGE HEIGHT: 3818
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>348
+          <div type="notice" id="526">
+            <lb/>fol. a 5a: AD REVERENDVM PATREM ET PRINCIPEM,
+            <lb/>DOMI-num Wolffgangum à Gruenenstein Abba-tem
+            <lb/>Campidunensem. (Préface de 6 p.)
+            <lb/>R 101667. Prov.: Prof. Hertlein, Wertheim, <date>4/III. 1881</date>; sans
+            <lb/>indic, du prix. A l&amp;#x27;intérieur du Ier plat: F. C. Hertlein. <placeName>Heidelberg</placeName>
+            <lb/><date>1822</date>. est 21 Xr. in der Versteigerung. Au verso du titre: Ex Bibliotheca
+            <lb/>Universitatis <placeName>Heidelbergensis</placeName>. Rel. anc. avec la date <date>1568</date>.
+            <lb/>526
+            <lb/>GPB: BU <placeName>Breslau</placeName>, <placeName>Kœnigsberg</placeName>, <placeName>Marbourg</placeName>.
+          </div>
+          <div type="notice" id="257">
+            <bibl>
+              <lb/><persName ref="02665234X">CICERO</persName>
+              <lb/><pubPlace><placeName>Strasbourg</placeName></pubPlace>, <publisher><persName ref="077330617">I. Rihel</persName></publisher>, <date>1568</date>.
+              <title>
+                <lb/><persName>M. T. CICERONIS</persName> DE ORATORE AD QVINTVM Fratrem
+                <lb/>Libri III. POST NAVGERIANAM ET VICTORI- anam correc¬
+                <lb/>tionem emendati à <persName>IOAN. STVRMIO</persName>.Aldinae paginae in
+                <lb/>marginibus notatae sunt.
+              </title></bibl>
+            <lb/>Marque typ. de <persName ref="077330617">J. Rihel.</persName> (HEB, Planche XXXI, NO8; Silvestre,
+            <lb/>N° 821.)
+            <lb/>Cum Gratia &amp;amp; Priuilegio Caesareo ad decennium.
+            <lb/><date>M. D. LXVIII.</date>
+            <lb/>A la fin: <placeName>ARGENTORATI</placeName>, PER <persName ref="077330617">IOSIAMRihelium</persName>, Anno
+            <lb/>Salutis humanae <date when="1568-06">M. D. LXVIII. Mense Iunio</date>.
+            <lb/>In-80, car, ital., 247 p. ch., numérotées de 263 à 509 (à la suite
+            <lb/>de <bibl><persName ref="02665234X">Cicero</persName>, <title>Rhetoricorum ad. C. Herennium</title>, <date>1568</date></bibl>), R101654, (Voir No
+            <lb/>528); la dernière page est numérotée 409 au lieu de 509, suivent 5 pages
+            <lb/>d’Index à 2 col, et 1 f. blanc; titre courant, réclames, initiales ornées.
+            <lb/>Au verso du titre: TYPOGRAPHVS LECTORI S... — Dat.
+            <lb/><placeName>Argentorati</placeName> ex aedibus nostris! Anno <date>1568</date>. (1 p.)
+            <lb/>R101.654(2). Prov.: Bibl. F. A. Menke, <placeName>Brême</placeName>, <date>1873</date>. Rel. anc.
+            <lb/>GPB: BU <placeName>Kœnigsberg</placeName>.
+            <lb/>527
+          </div><div type="notice"><bibl>
+            
+            
+              <lb/><persName ref="02665234X">CICERO</persName>
+              <lb/><pubPlace><placeName>Strasbourg</placeName></pubPlace>, <publisher><persName ref="077330617">J. Rihel</persName></publisher>, <date>1568</date>.
+              <lb/><title>
+                <persName>M. T. CICERONIS</persName> RHETORICORVM AD C. HE) rennium
+                <lb/>Libri IIII. Eiusdem de Inuentione Libri I.PosT NAV¬
+                <lb/>GERIANAM ET VICTORI-) anam correctionem emendati à
+                <lb/><persName>IOAN. STVRMIO</persName>. Aldinae paginae in marginibus notatae
+                <lb/>sunt.
+              </title>
+          </bibl>
+            <lb/>Marque typ. de <persName ref="077330617">I. Rihel.</persName> (HEB, Planche XXXI, No 8, Su¬
+            <lb/>vestre, No 821.)
+            <lb/>Cum Gratia &amp;amp; Priuilegio Caesareo ad decennium.
+            <lb/><date>M. D. LXVIII.</date>
+          </div>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-26T14:10:01.129779+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5037.tif
+IMAGE WIDTH: 2404
+IMAGE HEIGHT: 3866
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1345<div type="notice" id="2110">
+            
+            <lb/>kvrtzweylig zu lesenn : geistlichen vnnd weltlichenmens¬
+            <lb/>chen : mit seinen Figuren vnd Exempeln.
+            <lb/>Gravure sur bois : Le paradis, au milieu l’arbre avec le ser¬
+            <lb/>pent, à côté <persName>Adam et Eve</persName>, puis au dehors de la porte encore
+            <lb/>une fois <persName>Adam et Eve</persName>, de l’autre côté l’ange avec le glaive qui
+            <lb/>les a chassés du paradis, au-dessus du paradis Dieu le père.
+            <lb/>A la fin : Getruckt vnd volendet in der Freyen Statt
+            <lb/><placeName>Straszburg</placeName>. Durs (!) <persName>Matheis Hupfuff</persName>. Als man zalt von der
+            <lb/>ge-burt Christi vnsers lieben herren. <date>M. CCCCC. vnd xV</date>. Jare.
+            <lb/>In-fol., car. goth., XCI ff. ch. (92 d’après Schmidt), 4 ff. non ch
+            <lb/>(Registre), fol. LV numéroté par erreur LIIII, titre courant, de nom¬
+            <lb/>breuses init. ornées. Au verso du titre grande gravure répétée fol. 28b;
+            <lb/>au haut, le couronnement de la <persName>Sainte Vierge</persName>, au bas deux anges armés
+            <lb/>de glaives, repoussant les diables dans le gouffre de l’enfer. En outre
+            <lb/>94 gravures plus petites, dont plusieurs sont répétées; la plupart sont
+            <lb/>empruntées à des ouvrages antérieurs, à la Vie des saints, au <title>Würtzgarten</title>
+            <lb/>d’<placeName>Ulm</placeName>, édition <date>1483</date> et surtout à la <title>Bible Strasbourgeoise</title> de <date>1483</date>; 10 se
+            <lb/>trouvent aussi dans l’<title>Endchrist</title> de <persName>Hupfuff</persName> <date>1503</date>; celles du verso du titre,
+            <lb/>de fol. 3b et fol. 69a se trouvent aussi dans le <title>Layenspiegel</title>, celle de fol. 84b.
+            <lb/>dans la <title>Prenosticatio</title> de <persName>Kistler</persName> <date>1497</date>; quelques-unes sont composées de
+            <lb/>2 bois.
+            <lb/>R. 10.065. Prov. : <persName>Baer</persName>, <placeName>Francfort-s.-M.</placeName>, <date>17/XII, 1891</date>, 135 M.
+            <lb/>Schmidt V, N° 118 : Consistoire de <placeName>Colmar</placeName>,
+            <lb/>2110
+          </div><div type="renvoi">
+            
+            <lb/><persName>SEISSEL</persName>. Voir: <persName>SESELLIUS</persName>.
+          </div><div type="notice" id="2111"><bibl>
+            
+            
+              <lb/><persName>SELMNITZ Johannes Philippus</persName> <placeName>Strasbourg</placeName>, <publisher><persName>A. Bertram</persName></publisher>, <date>1599</date>
+              <lb/><title>
+                Disputatio de institutio-ne heredum.In Inclyta
+                <lb/><placeName>Argentoratensium</placeName> Academia, publici! exercitij causa propo¬
+                <lb/>sita à <persName>Georgio Obrechto</persName> IC. Respondentenobilissimo
+                <lb/>ac doctissi-mo <persName>Iuuene Iohanne Philippo</persName> à <persName>Selmnitz
+                  <lb/>Thuringo</persName>.
+              </title> (Vignette).
+          </bibl>
+            <lb/><placeName>Argentorati</placeName>Excudebat <persName>Antonius Bertramus</persName>. (<date>1599</date>.)
+            <lb/>(Verso blanc.)
+            <lb/>In-4°, car. ital., 48 ff. non ch., dont le dernier blanc, sign. A-M,
+            <lb/>réclames, fol. A 2a, bande d’ornement, et initiale ornée T; 761 thèses.
+            <lb/>R. 10.548. Prov. : Kubasta &amp;amp; Voigt, <placeName>Vienne</placeName>, <date>25/XI, 1896</date>.
+            <lb/>Voir : <bibl>
+              <persName>Obrecht Georgius</persName>, <title>
+                Selectissimae disputationes ex juris civilis
+                <lb/>materiis.
+              </title> <placeName>Strasbourg</placeName>, <publisher><persName>A. Bertram</persName></publisher>, <date>1599</date>.
+            </bibl>
+            <lb/>2111
+          </div>
+          <lb/><persName>SELNECCERUS Nicolaus </persName><placeName>Strasbourg</placeName>, <persName>Chr. Mylius héritiers</persName>, <date>1568</date>
+          <lb/>Libellus Brevis, Et Uti-lis de Coena Domi-ni editus.
+          <lb/>Autore M. <persName>NicolaoSelneccero. Ioann</persName>. XVII (2 lignes).
+          <lb/><placeName>Argentorati</placeName> apud hae- redes <persName>Christiani Mylii</persName>. Anno
+          <lb/>Vignette.)
+          <lb/>In-8°, car, rom., 76 pp. ch., titre courant, réclames, init. ornée T.
+          <lb/>R. 101.928. Prov. inconnue.
+          <lb/>Bibliographie. Voir : Schottenloher II, Nos 19859-19869. 2112
+          <lb/>R. 85
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

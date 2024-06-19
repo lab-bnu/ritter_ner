@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-17T07:33:25.222290+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078160.tif
+IMAGE WIDTH: 2310
+IMAGE HEIGHT: 3850
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1046
+          <div type="notice" id="1608"><bibl>
+            
+              <lb/><persName ref="029536367">MURNER Thomas</persName>
+              <lb/><pubPlace><placeName>Strasbourg</placeName></pubPlace>, <publisher><persName ref="035608099">J. Gruninger</persName></publisher> <date>1514</date>
+              <lb/><title>
+                Ein andechtig geistliche Badenfart, des hochgelerten
+                <lb/>Herren <persName ref="029536367">Thomas mürner</persName>, der heiligen geschrifft doctor
+                <lb/>barfûser orden, zû <placeName>Straszburg</placeName> in dem bad erdicht, ge¬
+                <lb/>lert und ungelerten nutzlich zû bredigen und zû lesen.
+              </title></bibl>
+            <lb/>(Grav. sur bois : un homme dans une baignoire, près de lui un moine
+            <lb/>assis avant devant lui un livre ouvert; une main sortant d’un nuage
+            <lb/>verse avec une cruche de l’eau sur le baigneur.)
+            <lb/>Fol. P 2a : Seliglich getruckt durch! <persName ref="035608099">
+              Johannes Grünin¬
+              <lb/>ger
+            </persName> <placeName>Straszburg</placeName>, im Jar.<date> M. d. xiiii.</date>uff sant Osz¬
+            <lb/>walts! tag.
+            <lb/>In-8°, car. goth., 78 ff. non ch., sign. A–P, notes marg., 35 grav.
+            <lb/>outre celle du titre, dont la plupart représentent Jésus-Christ appelant
+            <lb/>un moine (<persName ref="029536367">Murner</persName>) au bain de la pénitence, lui faisant subir toutes les
+            <lb/>opérations qui constituaient à cette époque un bain complet; en outre
+            <lb/>images d’une fontaine de jouvence, d’un bain aux plantes, d’une source
+            <lb/>d’eau minérale, d’une piscine avec trois baigneurs.
+            <lb/>Fol. O 3b : <persName ref="029536367">Murner</persName> à genoux, devant lui ses armoiries, en haut
+            <lb/>Dieu sortant d’un nuage, sur une banderole les mots: in omni patientia
+            <lb/>et doctrina.
+            <lb/>Fol. P 2b : <persName ref="027366847">Sainte Anne</persName>; cette gravure se trouve aussi dans les
+            <lb/>sermons de <persName ref="028494598">Geiler</persName> ,<title>von Mariae himelfahrte</title>, <date>7 septembre 1512</date>, fol. 6.
+            <lb/>Au-dessous: Der baderin dancken.
+            <lb/>R100.314. Prov.: Bibl. <persName>Ch. Schmidt</persName> avec son ex-libris et des an¬
+            <lb/>notations mss. de sa main au recto du f. de garde:,En <date>1879</date> le <persName>
+              <roleName>libraire</roleName>
+              <lb/>Cohn
+            </persName> de <placeName>Berlin</placeName>, Catal. CXXIV p. 43, offre un exemplaire au prix de
+            <lb/>200 frs.
+            <lb/>Kristeller 98; Proctor II Sectio I n° 9932 : <placeName>Londres</placeName>, British
+            <lb/>Museum; Schmidt I n° 137 mentionne en outre les Bibl. de <placeName>Gœttingen</placeName>
+            <lb/>et de <placeName>Berlin</placeName> ainsi que Jadis Bibl. de <placeName>Strasbourg</placeName> Incun. 3489a.
+            <lb/>Brunet III2, 1954.
+            <lb/>1608
+          </div><div type="notice"><bibl>
+            
+            
+              <lb/><persName ref="029536367">MURNER Thomas</persName>
+              <lb/><pubPlace><placeName>Strasbourg</placeName></pubPlace>, <publisher><persName ref="178285439">J. Pruss</persName></publisher> <date>1518</date>
+              <lb/><title>
+                CHARTI- ludium Jnstitute summarie! 
+                  <roleName>doctore </roleName><persName ref="029536367">Thoma
+                  <lb/>Murner</persName> memor ante et ludente.! <persName>Justinianus Cesar</persName> in
+                <lb/>prohemio digestorum. 
+                  </title>
+              </bibl>(Feuille de trèfie.)... (7 lignes et demie.)
+                <lb/>Cum privilegio imperiali, ne quis in decennio impri¬
+                <lb/>mat sub pena in principali re scripto contenta.
+
+            <lb/>A la fin: Impressum <placeName>Argentinae</placeName> per <persName ref="178285439">lohannem Prüs</persName>.
+            <lb/>Impen- sis ac sumptibus circumspecti viri <persName ref="122684532">lIoannis Kno¬
+              <lb/>blauch</persName>. Anno salutis. nostrae. <date>M. D. XVIII.</date> (Feuille de
+            <lb/>trèfle.) Verso blanc.
+          </div>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

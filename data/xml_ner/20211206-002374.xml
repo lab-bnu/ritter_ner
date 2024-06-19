@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-26T14:09:48.030097+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002374.tif
+IMAGE WIDTH: 2512
+IMAGE HEIGHT: 3960
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/><div type="notice" id="2725">
+            <bibl>
+              <persName>MORGENSTERN, Gregorius</persName> : <title>
+                Sermones contra omnez (sic)
+                <lb/>mundi perversuz (sic) statum... —
+              </title>
+              <lb/>(<publisher><persName>Guillaume Schaffner</persName></publisher> <date>15 mars 1508</date>), in-4°.
+              <lb/>(<placeName>Strasbourg</placeName>)
+            </bibl>
+            <lb/>(Une édition de <persName>Schaffner</persName> <date>1513</date> voir Ritter, Rép, n° 1593).
+            <lb/>2725
+          </div><div type="notice" id="2726"><bibl>
+            
+            
+              <lb/><persName>MORGENSTERN, Gregorius</persName> : <title>
+                Sermones contra omnez mundi
+                <lb/>perversuz statum... Ex secunda recognitione.
+              </title>— (<placeName>
+                Stras-
+                <lb/>bourg
+              </placeName>, <publisher><persName>Guillaume Schaffner</persName></publisher> (31.VIII ] <date>1515</date>), in-4°.
+          </bibl>
+            <lb/>Kuczynski, n° 1997; Schmidt IV, p. 11, n° 6; Walter, n° 1899 :
+            <lb/>B M <placeName>Sélestat</placeName>.
+            <lb/>2726
+          </div><div type="notice" id="2727"><bibl>
+            
+            
+              <lb/><persName>MORSHEIM, Johannes von</persName> : <title>
+                New Kriegsrüstung. Frau
+                <lb/>Untrew.
+              </title>— <placeName>Strasbourg</placeName>, <publisher><persName>Jacques Cammerlander</persName></publisher> <date>1534</date>,
+              <lb/>in-40.
+          </bibl>
+            <lb/>Graesse IV, p. 612. (Puis en 1539 chez <persName>Cammerlander</persName>, Aulica
+            <lb/>vita. Hofleben. Ritter, Rép. n° 1595].
+            <lb/>2727
+          </div><div type="renvoi">
+            
+            <lb/><persName>MOSNAUER, Wolfgang</persName>. Voir: <persName>ARISTOTELES</persName>, n° 844.
+          </div><div type="notice" id="2727a">
+            
+            <lb/><persName>MOTH, Johannes</persName>. <title>
+              Quaestiones de Ecclesia catholica. Cum
+              <lb/>Responsionibus orthodoxorum Patrum. Publicae dispu¬
+              <lb/>tationis causa, in Academia <placeName>Argentoratensi</placeName> propositae,
+              <lb/>à <persName>Johanne Pappo</persName>. Respondebit de hisce...
+            </title>XI. &amp;amp; XII.
+            <lb/>Septembris <persName>Iohannes Moth <placeName>Flensburgensis</placeName></persName>. — <placeName>
+              Argento¬
+              <lb/>rati
+            </placeName>, Excudebat <persName>Antonius Bertramus</persName>. Academiae
+            <lb/>Typographus <date>M.DC.</date> (<date>1600</date>), in-4°.
+            <lb/>Bibl. S. Guillaume, <placeName>Strasbourg</placeName>.
+            <lb/>2727a
+          </div><div type="renvoi">
+            
+            <lb/><persName>MOVENTINUS, Constantin Eubulus</persName>. Voir: <persName>
+              EUBULUS Moven¬
+              <lb/>tinus Const.
+            </persName>
+          </div><div type="notice">
+            
+            <lb/><persName>MUEG, Sebastian</persName> : (W)Ir. <persName>Sebastian Mug der Elter</persName>, der
+            <lb/>Meister, und der Rath zu <placeName>Straszburg</placeName>... Nachdem... die
+            <lb/>gesetzte Valuation ist publicirt und angeschlagen... Und
+            <lb/>wir aber befinden, das under dem gemeinen Mann, so
+            <lb/>wol in ablosungen, Pensionen, und Zinsen, als auch den
+          </div>
+          <lb/>372
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

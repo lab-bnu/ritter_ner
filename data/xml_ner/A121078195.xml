@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-26T14:09:48.394500+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078195.tif
+IMAGE WIDTH: 2304
+IMAGE HEIGHT: 3838
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p><div type="notice" id="1665">
+          <bibl>
+            
+              <lb/><persName>OECOLAMPADIUS Johannes</persName>
+              <lb/><placeName>Strasbourg</placeName>, <publisher><persName>M. Apiarius</persName></publisher> <date>1534</date>
+          </bibl>
+            <lb/>(Feuille de lierre.) IN PROPHETAM EZECHIELEM COMMENTA¬
+            <lb/>RIVS D. <persName>Ioan. Oecolampadii</persName>, per <persName>
+              Vuolfgan-gum Capito¬
+              <lb/>nem
+            </persName> aeditus. DE OBITV <persName>OECOLAMP.</persName> EPIST. GRYNAEI.! De vita
+            <lb/>eius <persName>Vuolfgan. Capito.</persName> (Marque typ. de <persName>M. Apiarius</persName>. HeB Planche
+            <lb/>XXIV n° 1.)
+            <lb/><placeName>ARGENTORATI</placeName> APVD <persName>MATTHIAM! Apiarium</persName>. Anno <date>
+              M. D.
+              <lb/>XXXIIII.
+            </date> (Verso blanc.)
+            <lb/>A la fin: <placeName>ARGENTORATI</placeName> APVD <persName>MATTHIAM Apiarium</persName>. Mense
+            <lb/>Martio. Anno. <date>M. D. XXXIIII.</date> (Verso blanc.)
+            <lb/>In-4°, car, rom., 20 ff. non ch., 306 ff. ch., titre courant, réclames,
+            <lb/>notes marg., init. à fig.
+            <lb/>Fol. a 2a non ch. : V. Capitoni suo sim. grynaeus. S. (De vita et
+            <lb/>obitu <persName>Oecolampadii</persName>, 9 pp.)
+            <lb/>Fol. 8 2b non ch. : De vita oecolampadii.! Christiano lectori S....
+            <lb/>(Epistola Capitonis, 11 pp.); en outre une table à 2 col. de 16 pp.
+            <lb/>R102.152. Prov.: Bibl. Ed. Reuss, <placeName>Strasbourg</placeName> <date>1891</date>, avec son
+            <lb/>ex-libris et son autogr. au recto du f. de garde; à côté de l’autogr.:
+            <lb/>« Ex libris <persName>Krausii. Bas</persName>. <date>1846</date>. Déc. fr. 1.» Au dessous du titre: Zuingeri.
+            <lb/>BM et Bibl. St-Guillaume, <placeName>Strasbourg</placeName>.
+            <lb/>1665
+        </div><div type="renvoi">
+          
+            <lb/><persName>OCTAVIUS Franciscus</persName>. Voir: <persName>CLEOPHILUS Octavius Franciscus</persName>
+        </div>
+          <lb/>1081<div type="renvoi">
+            
+            <lb/><persName>OCYORUS Tarquinius</persName>: <title>
+              Experiment Büchlin von XX] Pestilentz
+              <lb/>wurtzeln, Durch den Hochgelehr- ten Tarquinium Ocyorum,
+              <lb/>aliàs Schnellen-bergium, der artzney Doctorn, von Dort¬
+              <lb/>mund ange- stellet.
+            </title> Dans: <persName>RYFF Walter</persName>: <title>
+              Kurtzes Handt¬
+              <lb/>büchlein und Experiment vieler Artzneyen
+            </title>, p. 172-213.
+            <lb/><placeName>Strasbourg</placeName>, <publisher><persName>Josias Rihel</persName></publisher> <date>1594</date>; <date>1599</date>.
+          </div><div type="renvoi">
+            
+            <lb/><persName>ODOFREDUS</persName> : <title>Summa de formandis libellis.</title> Voir: <title>
+              Refugium
+              <lb/>Advocatorum.
+            </title> <placeName>Strasbourg</placeName>, <publisher><persName>J. Knobloch</persName></publisher> <date>1518</date>.
+          </div><div type="notice">
+<bibl>
+  
+  <lb/><persName>OELER Ludwig</persName>
+  <lb/>[<placeName>Strasbourg</placeName>, <publisher><persName>J. Pruss</persName></publisher> ? <date>1525</date>1
+  <lb/>Von dem JubelJar.Disz büchlin...
+</bibl>(Voir p. 1082.)
+            <lb/>Gravure sur bois: Le Christ ressuscité, à ses pieds les soldats qui
+            <lb/>gardent le tombeau.
+          </div>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

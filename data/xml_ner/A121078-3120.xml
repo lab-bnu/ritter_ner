@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-17T07:33:24.854227+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-3120.tif
+IMAGE WIDTH: 2312
+IMAGE HEIGHT: 3846
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>564
+          <div type="notice" id="855">
+            <lb/>Baer, <placeName>Frankfurt a. M.</placeName>, Katalog 500 (1907) Nr. 806; 30 M.
+            <lb/>GK (unter Marnix von Ste. Aldegonde): SB <placeName>Berlin</placeName>; UB <placeName>Breslau</placeName>.
+            <lb/>126, 131, 135, 161, 304, 317, 367; Weller, Die falschen u. fing. Druck¬
+            <lb/>Goedeke II2, S. 498/9, Nr. 372; Hauffen I, 65, 73, 75; II, 108-
+            <lb/>orte, S. 4.
+            <lb/>855
+          </div><div type="notice" id="856"><bibl>
+            
+            
+              <lb/><persName ref="029004683"><surname>FISCHART</surname> <forename>Johann</forename></persName>
+              <lb/>[<pubPlace><placeName>Strassburg</placeName></pubPlace>, <publisher><persName ref="07676141X">Bern. Jobinl</persName></publisher> <date>1581</date>
+              <title>
+                <lb/>Binenkorb! Desz Heyl. Römischen Jmen schwarms,
+                <lb/>seiner Hummelszellen (oder Himmels- zellen) Hurnausz¬
+                <lb/>näster, Brämenge- schwürm vnd Wäspengetösz.Sampt
+                <lb/>Läuterung der Heyl. Röm. Kirchen Ho¬ nigwaben...
+                <lb/>...vnd mit Mentzerkletten durchzirt. Durch <persName ref="029004683">Jesuwalt
+                  <lb/>Pickhart</persName>, des Canonischen Rech- tens Canonisirten oder
+                <lb/>Gewürdigten, &amp;amp;c.
+              </title>
+          </bibl>
+            <lb/>Holeschn. u. Verse wie in der Ausgabe von 1580.
+            <lb/>Darunter: Getruckt Zu Christlingen. (Rücks. leer.)
+            <lb/>Am Schluss: EXPLICIT Expliciunt
+            <lb/>Sagt die Katz zum Hund,
+            <lb/>Würst sind vngesund.
+            <lb/>Getruckt zu Christlingen bey Vrsino Gottgwinn. <date>M. D.
+              <lb/>LXXXI</date>.
+            <lb/>80, Got., 246 num., 17 unn. Bll., 1 leeres Bl., Kopft., Kust, Marg.,
+            <lb/>Titel rot u. schwvarz; letztes Bl. fälschlich 245, das vorletste ist nicht
+            <lb/>numeriert.
+            <lb/>Bl. 2a-3a: Vorstosz.<persName ref="029004683">suwalti Pickhart</persName>, des Geist¬
+            <lb/>lichen Gewürdigsten, an den lieben Hummelscheuen doch
+            <lb/>nit Himmelscheuen Leser... Die Widmung an Sonnio u. die Verse
+            <lb/>Bl. 246 nebst Abbildung wie in in der Ausgabe von <date>1580</date>.
+            <lb/>R102.485. Prov.: Geheimrat <persName>Landfermann</persName>, <placeName>Koblene</placeName>, <date>1871</date>.
+            <lb/>Auf der Vorderseite des Schutabl.:,Biblioth. <persName>Reimann</persName>. Theol. S. 525.°
+            <lb/>Auf der Vorderseite des leeren Bl, am Schluss:,Liber raris, vide:
+            <lb/>Neue Beyträge der Teutschen Gesellschaft in <placeName>Leipzig</placeName>.&amp;quot;
+            <lb/>GK (unter Marnix): SB <placeName>Berlin</placeName>; UB <placeName>Breslau</placeName>, <placeName>Greifswald</placeName>, <placeName>Halle</placeName>,
+            <lb/><placeName>Konigsberg</placeName>, <placeName>Marburg</placeName>.
+            <lb/>856
+          </div><div type="renvoi">
+            
+            <lb/><persName ref="029004683">FISCHART Johann</persName>: <title>De daemonomia Magorum</title>. <pubPlace><placeName>Strassburg</placeName></pubPlace>, <publisher>
+              <persName ref="07676141X">
+                Bern.
+                <lb/>Jobin
+              </persName></publisher> 1581, 1586, 1591. Siche: <persName ref="028096908">BODIN Joh.</persName> Nr. 221, 222, 223
+            <lb/>Hauffen I, 70, 84-5, 189; II, 95, 210-214, 237, 324.
+          </div><div type="notice"><bibl>
+            
+            
+              <lb/><persName ref="029004683">FISCHART Johann</persName>
+              <lb/><pubPlace><placeName>Strassburg</placeName></pubPlace>, <publisher><persName ref="07676141X">Bern. Jobin</persName></publisher> <date>1582</date>
+              <title>
+                <lb/>Affentheurlich Naupengeheurli- che Geschichtklitterung,
+                <lb/>Von Thaten vnd Rahten der vor kurtzen langen weilen
+              </title>
+          </bibl>
+          </div>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

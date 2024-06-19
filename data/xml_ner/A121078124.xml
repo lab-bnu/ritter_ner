@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-17T07:33:25.205524+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078124.tif
+IMAGE WIDTH: 2312
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1010
+          <div type="notice" id="1511">
+            <lb/>In-80, car. ital. et rom., 8 f. non ch., 340 pp. et 14 ff. non ch.,
+            <lb/>dont les 3 derniers sont blanes, au verso du dernier f. blanc marque
+            <lb/>typ. de <persName ref="148721001">Crato Mylius</persName> (HCB Planche XXVIII n° 11; Silvestre no
+            <lb/>1266), titre courant, réclames, notes marg., init. à fig. I, E, 0.
+            <lb/>F.A 2a: <persName ref="027021882">PHILIPPVS MELANTHON</persName> <persName>Christiano Pontano</persName>
+            <lb/>Vuite-bergensi... — <date>M. D. XXXVII</date>. (Préface de 14 pp.)
+            <lb/>R100.876 (1). Prov.: <e>F. A. Brockhaus</e>, <placeName>Leipzig</placeName> <date>16/VI 1886</date>;
+            <lb/>6 M. Annotations mss. au f. de garde. Au dessous du titre : <persName>Iusti
+              <lb/>Küfferi</persName> sum.
+            <lb/>1511
+          </div><div type="notice" id="1542">
+            
+            <lb/><bibl>
+              <persName ref="027021882">MELANCHTHON Philippus</persName>
+              <lb/><pubPlace><placeName>Strasbourg</placeName></pubPlace>, <publisher><persName ref="148721001">Crato Mylius</persName></publisher> <date>1544</date>
+              <lb/><title>
+                SELECTA RVM DECLAMATIONVM <persName ref="027021882">Philippi Melanthonis</persName>,
+                <lb/>quas con- scripsit, &amp;amp; partim ipse in schola <placeName>Viteber- gensi</placeName>
+                <lb/>recitavit, partim aliis recitan das exhibuit: TOMVS PRIMVS.
+              </title>
+              <lb/>(Marque typ. de <persName ref="148721001">Crato Mylius</persName>. HEB Planche XXVII n° 8.) Cum
+              <lb/>gratia &amp;amp; Privilegio. Anno <date>M. D. XLIIII. </date>(Verso blanc.)
+              <lb/>A la fin: <placeName>ARGENTORATI</placeName> APVD<persName ref="148721001">CRATONEM MYLIVM</persName>, AN.
+              <lb/><date when="1544-03">M. D. XLIIII. MEN- SE MARTIO</date>.
+            </bibl>
+            <lb/>In-80, car. ital., 4 ff. non ch., 774 pp. et 5 ff. non ch., au verso
+            <lb/>du dernier, marque typ. de <persName ref="148721001">Crato Mylius</persName> (H e B Planche XXVIII
+            <lb/>n° 11; Silvestre n° 1266), titre courant, réclames, de nombreuses init.
+            <lb/>à fig.
+            <lb/>F. A 2a: Epistola nuncupatoria : <persName ref="148721001">Iacobo Myli</persName> chio nobili Medico
+            <lb/>&amp;amp; Mathematico <persName>Nicolaus Gerbelius</persName>.... — <placeName>Argentorati</placeName>, Calend. <date>Ianuarii
+              <lb/>Anno M. D. XLI.</date> (6 pp.)
+            <lb/>RI00.875 (1). Prov.: BN <placeName>Munich</placeName> T/V 1877; 0,30 M. Au-dessus
+            <lb/>du titre: «Soc. Jesu Monacensis, <date>1605</date>.»
+            <lb/><placeName>Oxford</placeName>, Bibl. Bodleiana.
+            <lb/>1542
+          </div><div type="notice"><bibl>
+            
+            
+              <lb/><persName ref="027021882">MELANCHTHON Philippus</persName>
+              <lb/><pubPlace><placeName>Strasbourg</placeName></pubPlace>, <publisher><persName ref="148721001">Crato Mylius</persName></publisher> <date>1544</date>
+              <lb/><title>
+                <persName ref="027021882">PHILIPPI! MEDANTHONIS</persName> CVM] Praefationum in quos¬
+                <lb/>dam illustres Autores: tum Orationum de clarissimorum
+                <lb/>uiro- rum vitis. TOMVS SECVNDVS.
+              </title>
+              </bibl>(Marque typ. de <persName ref="148721001">
+                Crato
+                <lb/>Mylius
+              </persName>. H &amp;amp; B Planche XXVII no 8.)
+              <lb/>A la fin: <placeName>ARGENTORATI</placeName> APVD <persName ref="148721001">CRATONEM MYLIVM</persName>, AN.
+              <lb/><date when="1544-03">M. D. XLIIII. MEN SE MARTIO</date>.
+
+            <lb/>In-8°, car. ital., 4 ff. non ch., 785 pp. et 2 f. non ch. ★1f.
+            <lb/>blanc, titre courant, réclames, de nombreuses init. ornées. Au verso du
+            <lb/>dernier f., marque typ. de <persName ref="148721001">Crato Mylius</persName>. (HAB Planche XXVIII
+            <lb/>n° 11; Silvestre n° 1266.)
+          </div>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

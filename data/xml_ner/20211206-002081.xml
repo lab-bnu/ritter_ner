@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-26T14:09:47.986616+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002081.tif
+IMAGE WIDTH: 2512
+IMAGE HEIGHT: 3986
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p><div type="notice" id="1162">
+          
+            <lb/>bildern und gesang... — [<placeName>Strasbourg</placeName>, <publisher><persName>W. Köpfel</persName></publisher>] <date>1525</date>,
+            <lb/>in-40.
+            <lb/>Stupperich, p. 46, n° 8 a: B U <placeName>Marbourg</placeName>, manque chez <persName>Mentz</persName>.
+            <lb/>1162
+        </div><div type="notice" id="1163"><bibl>
+          
+          
+              <lb/><persName>BUCER, Martin</persName> <title>
+                (Interim) : Welcher Maszen das Interim den
+                <lb/>christlichen Ständen <placeName>Augsburg</placeName>. Confession ist fürgeben
+                <lb/>und auferlegt.
+              </title> — <placeName>Strasbourg</placeName> <date>1548</date>.
+        </bibl>
+            <lb/>Stupperich, n° 98; Bibl. S. Guillaume <placeName>Strasbourg</placeName> (mais en
+            <lb/>manuscrit).
+            <lb/>1163
+        </div><div type="notice" id="1164"><bibl>
+          
+          
+              <lb/><persName>BUCER, Martin</persName> <title>(Job) : Commentaria in librum <persName>Job</persName>.</title> —
+              <lb/><placeName>Strasbourg</placeName> <date>1528</date>, in-fol.
+        </bibl>
+            <lb/>Mentz, n° 22; Stupperich, n° 23.
+            <lb/>1164
+        </div><div type="notice" id="1165"><bibl>
+          
+          
+              <lb/><persName>BUCER, Martin</persName> <title>
+                (Juifs) : Von den juden Ob und wie die under
+                <lb/>den Christen zu halten seind...
+              </title> — <placeName>Strasbourg</placeName>, <publisher><persName>Th. Berger</persName></publisher>
+              <lb/><date>1562</date>, in-80.
+        </bibl>
+            <lb/>Schottenloher 38.356 f; Mentz, n° 43 c; Stupperich, n° 63 c.
+            <lb/>Bibl. Centrale <placeName>Zurich</placeName>.
+            <lb/>1165
+        </div><div type="notice" id="1165a">
+          <bibl>
+            
+              <lb/>(<persName>BUCER, Martin</persName>) <title>
+                (Karsthans) : Gesprechbiechlin neüw
+                <lb/>Karsthans. Zu dem Leser...
+              </title>(6 vers). A la fin : Hie
+              <lb/>endet sich der Karsthans und volgen hernach dreyssig
+              <lb/>artickel, so <persName>Juncker Helferich</persName>, <persName>Reyter Heintz</persName>, und
+              <lb/>Karsthans, mit sampt irem anhang, hart und vest zu
+              <lb/>halten geschworen haben. (Suivent les 30 articles). —
+              <lb/>[<placeName>Strasbourg</placeName>, <persName>Mathias Schürer</persName> <date>1521</date>), in-80.
+          </bibl>
+            <lb/>Lehmann : Bucers Karsthans. [Neudrucke des XVI. u. XVII.
+            <lb/>Jhd., fasc. 282-284l, Ln--58 p. ; Köhler dans Zeitschr. f.
+            <lb/>deutsche Philologie Bd. 30 (1898) prend Hutten comme
+            <lb/>auteurl.
+            <lb/>1165a
+        </div><div type="notice"><bibl>
+          
+          
+              <lb/><persName>BUCER, Martin</persName> <title>
+                (Kirchengüter) : Von Kirchen guetern. Wes
+                <lb/>deren besitz und eigenthum seie... Auch etwas vom
+                <lb/>newen Dialogo, jüngst wider die Protestierenden auss¬
+                <lb/>gangen. <persName>Chunrath Trew</persName> vom <placeName>Fridesleven</placeName>. <date>M.D.XL.</date>
+              </title> —
+              <lb/>(<placeName>Strasbourg</placeName>, <publisher><persName>Wendelin Rihel</persName></publisher> (?)] <date>1540</date>, in-4°.
+        </bibl>
+        </div>
+          <lb/>79
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

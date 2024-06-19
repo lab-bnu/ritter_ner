@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-17T07:33:24.759378+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002290.tif
+IMAGE WIDTH: 2494
+IMAGE HEIGHT: 4002
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <div type="notice" id="2262">
+            <bibl>
+              <lb/>ausz unbekanten Authoren zusammengetragen, und
+              <lb/>ausz Rohtwelscher in Deutsche Sprach gesetzt, Durch:
+              <lb/>Aabcdefghiklmnopqrstuwxyz... (4 vers). Die newe
+              <lb/>Zeitungen ausz der gantzen Welt, findestu zu Ende dem
+              <lb/>Lalebuch angehengt. Gedruckt zu Laleburg, Anno <date>1597</date>...
+              <lb/>(3 lignes). — (Probablement : <pubPlace>
+                <placeName>Strasbourg</placeName>
+              </pubPlace>, <publisher><persName ref="07676141X">Bern. Jobin</persName></publisher>)
+              <lb/><date>1597</date>, in-8°.
+            </bibl>
+            <lb/>Bahder : <title>Das Lalebuch</title> (Neudrucke des <date>XVI u. XVII. Jhd.</date>,
+            <lb/>fasc. 236-239), p. LXV et p. 1 : Bibl. Aarau, <placeName>Berlin</placeName>, <placeName>Vienne</placeName>.
+            <lb/>2262
+          </div>
+          <div type="notice" id="2263"><bibl>
+            
+              <lb/><persName ref="121568377"><surname>LAMBERTUS</surname>, <forename>Franciscus</forename></persName> : <title>
+                Commentarium de sacro coniugio
+                <lb/>et adversus pollutissimum regni perditionis coelibatum
+                <lb/>liber in LXIX positiones divisus...
+              </title> — <pubPlace><placeName>Strasbourg</placeName></pubPlace>,
+              <lb/><publisher><persName ref="032219946">Jean Herwagen</persName></publisher>, <date when="1524-05">mai 1524</date>, in-80.
+          </bibl>
+            <lb/>Graesse IV, p. 84; Ritter, Grand Sém. <placeName>Strasbourg</placeName>, no 301.
+            <lb/>2263
+          </div><div type="notice" id="2264"><bibl>
+            
+            
+              <lb/><persName ref="121568377"><surname>LAMBERTUS</surname>, <forename>Franciscus</forename></persName> : <title>
+                De fidelium vocatione in regnum
+                <lb/>Christi...
+              </title> — (<pubPlace><placeName>Strasbourg</placeName></pubPlace> <date>vers 1525</date>), in-8°.
+          </bibl>
+            <lb/>Graesse IV, p. 85; Schottenloher, <placeName>Regensburg</placeName>, p. 186, n° 33
+            <lb/>(probablement <publisher>
+              <persName ref="032219946">Jean Herwagen</persName>
+            </publisher>).
+            <lb/>2264
+          </div><div type="notice" id="2265"><bibl>
+            
+            
+              <lb/><persName ref="121568377"><surname>LAMBERTUS</surname>, <forename>Franciscus</forename></persName>: <title>
+                In regulam Minoritarum... commen¬
+                <lb/>tarii...
+              </title> — <pubPlace><placeName>Strasbourg</placeName></pubPlace>, <date>mai 1525</date>, in-8°.
+          </bibl>
+            <lb/>BN <placeName>Paris</placeName> Da 3472 (1); Graesse IV, p. 85.
+            <lb/>2265
+          </div><div type="notice" id="2266"><bibl>
+            
+            
+              <lb/><persName ref="121568377"><surname>LAMBERTUS</surname>, <forename>Franciscus</forename></persName> : <title>
+                Commentarius in evangelium
+                <lb/>Lucae Spalatino inscriptus.
+              </title> — <pubPlace>
+                <placeName>Strasbourg</placeName>
+              </pubPlace> <date>1526</date>, in-8°.
+            
+          </bibl><lb/>Graesse IV, p. 85. (Une éd. <persName>J. Herwagen</persName>, <date>janvier 1525</date>: Ritter,
+            <lb/>Rép. n° 1328).
+            <lb/>2266
+          </div><div type="notice" id="2267">
+            <bibl>
+              
+              <lb/><persName ref="121568377"><surname>LAMBERTUS</surname>, <forename>Franciscus</forename></persName> : <title>
+                Ein gar schöner Sendbrieff...
+                <lb/>geschrieben nach dem Religionsgespräch zu <placeName>Marburg</placeName>.
+              </title> —
+              <lb/><pubPlace><placeName>Strasbourg</placeName></pubPlace>, <date when="1529-02">février 1529</date>, in-8°.
+            </bibl>
+            <lb/>2267
+          </div>
+          <lb/>288
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

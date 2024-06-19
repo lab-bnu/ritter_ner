@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-26T14:09:48.017045+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: 20211206-002270.tif
+IMAGE WIDTH: 2528
+IMAGE HEIGHT: 3968
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <div type="notice" id="2162"><title>
+            
+              <lb/>Herkommen der Juden. Eins von Meysterschafft der
+              <lb/>vernunfft, und der Machabeer Martyrum. Item Beschrei¬
+              <lb/>bung des lebens <persName>Flavij Josephi</persName> so vormals in Teütscher
+              <lb/>spraach nicht auszgangen ist. Alles Durch <persName>
+                D. Caspar
+                <lb/>Hedion
+              </persName> verteütscht. Und jetzundt Von neüwen auffs
+              <lb/>fleissigst nach den Alten Griechischen Exemplaren
+              <lb/>restituiert. Getruckt zu <placeName>Straszburg</placeName> bey <publisher><persName>Samuel Emmel</persName></publisher>.
+              <lb/><date>M.D.LXII</date>, in-fol.
+          </title>
+            <lb/>Bibl. Grand Sém. <placeName>Strasbourg</placeName> X 26. [Ritter : Rép. n° 1275:
+            <lb/><persName>S. Emmel</persName> <date>1553</date>).
+            <lb/>2162
+          </div><div type="renvoi">
+            
+            <lb/><persName>JOSEPHUS, Flavius</persName>. Voir: <persName>RAGEL</persName> n° 3071; [RITTER, Rép.
+            <lb/>nos 1270-1284).
+          </div><div type="renvoi">
+            
+            <lb/><persName>JosT d’<placeName>Illkirch</placeName>, Lienhard</persName>. Voir : <persName>HOFMANN, Melchior</persName>:
+            <lb/>Prophetische Gesicht n° 2035.
+          </div><div type="notice" id="2163">
+<bibl>
+  
+  <lb/><persName>JOVIUS, Paulus</persName> : <title>
+    Turciarum rerum commentarius... Ex
+    <lb/>Italico Latinus factus, <persName>Francisco Nigro Bassianate</persName>
+    <lb/>interprete. <persName>Origo Turcini</persName> Imperii. Vitae omnium Turci¬
+    <lb/>corum Imperatorum. Ordo ac disciplina Turciae mili¬
+    <lb/>tiae...
+  </title>— <placeName>Strasbourg</placeName>, <publisher><persName>Wendelin Rihel</persName></publisher> <date>1537</date>, in-80.
+</bibl>
+            <lb/>Ritter: B M <placeName>Strasbourg</placeName>, n° 1309.
+            <lb/>2163
+          </div><div type="notice" id="2164"><bibl>
+            
+            
+              <lb/><persName>Jovius, Paulus</persName> : <title>
+                Berümter fürtrefflicher Leut Leben, Hand¬
+                <lb/>lung und Thaten [trad, par <persName>G. Klee</persName>).
+              </title>— <placeName>Strasbourg</placeName> <date>1580</date>,
+              <lb/>in-fol.
+          </bibl>
+            <lb/>Graesse III, p. 490. (Édition <persName>Jobin</persName> <date>1589</date>; voir Ritter, Rép.
+            <lb/>n° 1286/7l.
+            <lb/>2164
+          </div><div type="notice" id="2165"><bibl>
+            
+            
+              <lb/><persName>JOYE, Georgius</persName> : <title>Translation of the Prophet Essay.</title> —
+              <lb/>Printed at <placeName>Strasbury</placeName> by <persName>Balthasar Backneth</persName>! — <persName>Beck</persName>)
+              <lb/><date>1531</date>, in-80.
+          </bibl>
+            <lb/>Ritter : Hist. Impr., p. 234.
+            <lb/>2165
+          </div><div type="renvoi">
+            
+            <lb/><persName>JUD, Leo</persName>. Voir : <title>APOGRYPHI</title> n° 832; <persName>ERASMUS</persName> n° 1622.
+            <lb/>(RITTER, Rép. n° 1288. B N <placeName>Strasbourg</placeName> R 10.087 (3)).
+          </div>
+          <lb/>268
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

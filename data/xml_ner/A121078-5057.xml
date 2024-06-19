@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-26T14:09:48.150044+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5057.tif
+IMAGE WIDTH: 2388
+IMAGE HEIGHT: 3862
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1365<div type="notice" id="2149"><bibl>
+            
+            
+              <lb/><persName>SLEIDANUS Johannes</persName>
+              <lb/><placeName>Strasbourg</placeName>, <publisher><persName>Th. Ridel</persName></publisher>, <date>1579</date>
+              <lb/><title>
+                Der Erste Theyl Ordenlicher Berschreibunge vnnd
+                <lb/>Verzeychnisse, allerley fürnemer Hän- (I del, etc.
+              </title>
+          </bibl> Comme dans
+            <lb/>l’édition de <date>1574</date>.
+            <lb/>Durch!] <persName>Michaelem Beuther</persName> von <placeName>Carlstatt</placeName>. der Rechten
+            <lb/>Doctorn.Jetzund aber mit etlichen vil mehr den zuuor
+            <lb/>hinbeigesetzten Erklärungen, den Lerer mannigerley vmb¬
+            <lb/>stände halben, dez besserzuverständigen, gemehret. Welchem
+            <lb/>auch die Verzeychnisz des Ortes, dahin vilmals die Historien,
+            <lb/>auff vorgemeldte dinge widerumb zu ruck weisen, oder von
+            <lb/>wegen der zeit oder jare, vnd wolgeschicktenOrdnunge
+            <lb/>abgekürtzt, volgend sich erstrecken, zu sonderemnutze,
+            <lb/>beigethan.
+            <lb/>Mit Römischer Keyser. Maiestat Gnad vnnd Freiheyt auff
+            <lb/>Acht jar.
+            <lb/>Getruckt zu <placeName>Straszburg</placeName>, durch<persName>Theodosium Rihel.</persName> II
+            <lb/><dte>M. D. LXXIX.</dte>
+            <lb/>fol. 698a : Der ander Theyl, etc., comme dans l’édition <date>1574</date>.
+            <lb/>A la fin : Getruckt zu <placeName>Straszburg</placeName>, durch!! <persName>Theodosium Rihel</persName>.
+            <lb/>Marque typ. de <persName>Theod. Rihel.</persName> (H. &amp;amp; B. Planche XXXII,
+            <lb/>N° 17
+            <lb/>blancs.)
+            <lb/>Grand in-fol., car. goth., 909 pp. ch., 7 ff. non ch., dont 6 à 2 col.
+            <lb/>(Registre), titre courant, réclames, notes marg., init. ornées, titre principal
+            <lb/>rouge et noir.
+            <lb/>Au verso du titre : Erinnerung an eynen jeden Leser.
+            <lb/>Les préfaces de fol. 2a, 3a et 6a comme dans l’édition de <date>1574</date>; de
+            <lb/>même la préface de la 2e partie.
+            <lb/>R. 71. Prov. : Collection Baum, <date>1879</date>.
+            <lb/>A l&amp;#x27;intérieur de la couverture: « <persName>M. Reuchlin</persName>», à l’extérieur, en haut:
+            <lb/>« <persName>Sleidanus</persName>», en bas: « <date>1581</date>».
+            <lb/>2149
+          </div><div type="notice"><bibl>
+            
+            
+              <lb/><persName>SLEIDANUS Johannes</persName>
+              <lb/><placeName>Strasbourg</placeName>, <publisher><persName>Th. Rihel</persName></publisher>, <date>1588</date>
+              <lb/>Ordenliche Berchreibung Vnd! Verzeichnisz, allerley
+              <lb/>fürnemer Händel, (I so sich in Glaubens vnd anderen Weltlichen
+              <lb/>Sachen, bei Regie-ng der Groszmächtigsten Keyser,
+              <lb/>Carls dises Namens des Fünfften, <persName>Ferdinandi desErsten</persName>,
+              <lb/>Maximiliani vnd <persName>Rudolphi der Andern</persName>, inn vnd ausserhalb
+              <lb/>des Heyligen Römischen Reichs!! Teutscher Nation, bisz auff
+              <lb/>das Tausent Fünffhundert trei vnd achtzigst Jar,zugetragen
+              <lb/>vnd verlauffen haben.Durch <persName>Iohannem! Sleidanum</persName> vnd
+              <lb/><persName>Michaelem Beutherum</persName>, der Rechten Licentiaten vnd
+              <lb/>Doctorn.
+          </bibl>
+            <lb/>Nachmaln mit Summarien eynes jeden Buchs vnd hien¬
+          </div>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

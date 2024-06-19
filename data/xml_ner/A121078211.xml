@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-26T14:09:48.411491+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078211.tif
+IMAGE WIDTH: 2304
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <div type="notice" id="1694">
+            <lb/>Actum et decretum, don- derstag den zwölfften Octo¬
+            <lb/>bris, Anno, <date>M. D. xxxi.</date> (Verso blanc.)
+            <lb/>Placard, in-4°, car. goth., 19 lignes, init. ornée W.
+            <lb/>R21 (4). Prov.: Bibl. Heitz, <placeName>Strasbourg</placeName>.
+            <lb/>2ème ex.: R 22 (36). Même provenance. A la marge: <date>1531</date>. Nicht
+            <lb/>zu Dienst ziehen.
+            <lb/>1694
+          </div><div type="notice" id="1695"><bibl>
+            
+            
+              <lb/><title>ORDONNANCE</title>
+              <lb/><placeName>Strasbourg</placeName> <date>1532</date>
+          </bibl>
+            <lb/>NAch dem wir Meyster und Rath der Statt <placeName>
+              Strasz¬
+              <lb/>burg
+            </placeName>, sampt unsern freunden den Eyn unnd zwentzigen,
+            <lb/>verruckter jaren den Huszfuerern ein ordnung geben
+            <lb/>haben... so haben wir geordnet, und wöllen, das die Husz¬
+            <lb/>fuerer hinfurter von montags nach aller Heyligen tag an,
+            <lb/>nächst nach dato kommende niemandts keym meel meer
+            <lb/>beuttelen... —
+            <lb/>Doch wöllen wir uns dise Ordnung zumindern, zu¬
+            <lb/>mehren, zum theyl, oder ye nach gelegenheyt der zeyt,
+            <lb/>gar abzethûn vorbe- halten haben.
+            <lb/>Actum et decretum Mitwoch nach Lamperti. Anno &amp;amp;c.
+            <lb/><date>xxxii.</date> (Verso blanc.)
+            <lb/>Placard, in-fol, car. goth., 47 lignes, init. ornée N.
+            <lb/>R21 (6). Prov.: Bibl. Heitz, <placeName>Strasbourg</placeName> <date>1871</date>.
+            <lb/>2ème ex.: R 22 (1). Même provenance; signé: Der Stadt <placeName>
+              Strasz¬
+              <lb/>burg
+            </placeName> Canzler subscripsit.
+            <lb/>1695
+          </div>
+          <lb/>1097<div type="notice">
+            <bibl>
+              
+              <lb/><title>ORDONNANCE</title>
+              <lb/><placeName>Strasbourg</placeName> <date>1532</date>
+            </bibl>
+            <lb/>WIr Egnolff Röder von <placeName>Diersperg</placeName> der Meyster, und
+            <lb/>der Rath zû <placeName>Straszburg</placeName> Thûn kundt, Alsz bishar uber
+            <lb/>gemachte und auffgerichte Ordnung der Früchte kauff, aller
+            <lb/>hand geford liche ursachen zûtragen, inn dem, das die
+            <lb/>verkauffer uber das geordnet kauffgeldt, ein son- derlich
+            <lb/>beschwerlich fürlon und messgeldt darauff geschlagen, und
+            <lb/>one dasselbig die fruchtenit verkauffen, Das wir unns
+            <lb/>abermals, sampt andern Circks verwandten entschlos¬
+            <lb/>sen... Hiemit gepietend, unnd wöllen, das die vor¬
+            <lb/>gemachte Ordnung bei krefften bleiben und gehalten
+            <lb/>werden... —
+          </div>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-26T14:09:48.186154+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078-5262.tif
+IMAGE WIDTH: 2416
+IMAGE HEIGHT: 3858
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <lb/>1572
+          <div type="notice" id="2517">
+            <lb/>init. d’attente S.
+            <lb/>In-40, car. goth., 15 ff. non ch.— 1 f. blanc, sign. A-C, titre courant,
+            <lb/>&amp;quot;R. 102.238. Prov. : J. Halle, <placeName>Munich</placeName>, <date>29/x, 1935</date>; 35 M. De nombreuses
+            <lb/>notes mss. à la marge des ff. et au verso du dernier f.
+            <lb/>Manque chez Schmidt.
+            <lb/>2517
+          </div><div type="notice" id="2518"><bibl>
+            
+            
+              <lb/><title>ZENOBIUS</title>
+              <lb/><placeName>Haguenau</placeName>, <publisher><persName>P. Brubach</persName></publisher>, <date>1535</date>
+          </bibl>
+            <lb/>A la suite du texte grec : Zenobij Compendium ueterum
+            <lb/>pro! uerbiorum ex Tarraeo et Didy mo collectum, opus lu
+            <lb/>culentum &amp;amp; utile.
+            <lb/><placeName>Haganoae</placeName> Anno. <date>XXXV</date>. Au-dessous, feuille de lierre
+            <lb/>(Verso blanc.)
+            <lb/>A la fin : èv t̃ αyαvóς oπò Hlérgoυ Bpobbaxyé! ou étt...
+            <lb/>XAtogO πevrixootocoTλαxoσῶ̀ TEμRO͂.
+            <lb/>Au verso, marque typ. de Brubach (H. &amp;amp; B. Planche LXIX,
+            <lb/>No 4.
+            <lb/>In-8°, car, grecs, 149 pp. ch., 1 f. non ch., réclames, belles init. à fig. O,
+            <lb/>A et init. d’attente.
+            <lb/>fol. 2a :... <persName>Ioanni!! Magenpuchio</persName> medici-[] nae doctori Vin-[] centius
+            <lb/>Obsopœus. S. D... — Ex Onoltzpachio mense Decembri.!Anno. M. D.
+            <lb/>XXXV (Préface de 4 pp.).
+            <lb/>R. 101.563. Prov. : Don de la BU <placeName>Kœnigsberg</placeName>, <date>1871</date>. Notes mss.
+            <lb/><placeName>Oxford</placeName>, Bibl. Bodleiana. Brunet Vs, <date>1533</date> ; édition assez rare : 6 fr.
+            <lb/>2518
+          </div><div type="notice" id="2519">
+            <bibl>
+            
+              <lb/><title>ZEYTUNG</title>
+              <lb/><placeName>Strasbourg</placeName>, <publisher><persName>Th. Berger</persName></publisher>, <date>1568</date>
+            </bibl>
+            <lb/>Warhafftige vnnd erschrockenliche newe Zeytung, von
+            <lb/>dem grossen vnd gewaltigen zulauff des Wasserflusz, der
+            <lb/>statt Dieterich Bern im welschlandt, vnnd von dem! grossen
+            <lb/>schaden, so es nicht allein an denen orten, son-dern auch zu
+            <lb/>Vincentz, Padoa, Triendt, vnd im gantzen!! Thal daselbst
+            <lb/>gethon. Auch von der grossen anzal der!! Stetten, Leut, vnnd
+            <lb/>menge der Heuser, so durch dasselb! vmb kommen, verderbt
+            <lb/>vnd hinweg gefürt! worden, gantz erbermenlich zuhören.
+            <lb/>Gesche-hen den 30. vnd 31. tag Octobris, ( des <date>1567</date>. Jars.
+            <lb/>Grav. sur bois : Dieu apparaît à Noé après le déluge dans un
+            <lb/>nuage, de l’autre côté l’arc-en-ciel, Noé et ses fils à genoux,
+            <lb/>à côté l’arche. <date>M. D. LXVIII.</date> (Verso blanc.)
+            <lb/>A la fin : Getruckt zu <placeName>Strasburg</placeName> bey <persName>Thiebolt Berger</persName> am!
+            <lb/>Weynmarck zum Treubel. Anno <date>1568</date> (Verso blanc.)
+            <lb/>In-4°, car. goth., 4 ff. non ch. sign. A, init. goth. J.
+            <lb/>R. 100.422. Prov. : Oscar Rauthe, <placeName>Berlin</placeName>, <date>3/V, 1915</date>; 30 M.
+            <lb/>2519
+          </div>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

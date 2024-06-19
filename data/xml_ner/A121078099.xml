@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/OpenITI/tei_openiti/master/tei_openiti.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <calendarDesc>
+        <calendar xml:id="ah">
+          <p>Anno Hegirae</p>
+        </calendar>
+      </calendarDesc>
+    </profileDesc>
+    <xenoData xml:space="preserve">
+CREATED: 2024-04-26T14:10:01.212421+00:00
+CREATED BY: eScriptorium vpassthistobuildcmd
+IMAGE FILENAME: A121078099.tif
+IMAGE WIDTH: 2320
+IMAGE HEIGHT: 3848
+</xenoData>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <p>
+          <div type="notice" id="1487">
+            <lb/><persName>Georgii Marchionis</persName> <placeName>Brandenbur gensis</placeName> &amp;amp;c. <roleName>Cancellario</roleName>, suo Mœcenati,
+            <lb/>Fol. A 2a:... Domino <persName>Geor gio Voglero</persName>, Illustrissimi Principis
+            <lb/><persName>Vin! centius Obso- pœus</persName>... Onoltzpachii ex schola nostra Xiiï. Kalendas
+            <lb/><date>Septembris. Anno M. D. XXX</date>.
+            <lb/>Au titre: ex-libris avec les init. <persName>K. L</persName>.
+            <lb/>R101310. Prov.: P. Steinkopf, <placeName>Stuttgart</placeName> <date>28/X1 1887</date>; 5M.
+            <lb/>BN <placeName>Paris</placeName>, C. 4835; Walter: <placeName>Sélestat</placeName> n° 1898.
+            <lb/>1187
+          </div><div type="notice">
+            
+            <lb/><bibl>
+              (<persName>MARCUS VON LINDAU</persName>)
+              <lb/><placeName>Strasbourg</placeName>, <publisher><persName>Jean Gruninger</persName></publisher> <date>1516</date>
+              <lb/><title>
+                Die zehe ge bot in disem büch erclert und uszge
+                <lb/>legt durch etlich hoch berümbte lerer Und fragt der
+                <lb/>iüng er den meister, der lert wie man die gebot gottes
+                <lb/>halten und sich vor totsünden hüten sol, und dar-û
+                <lb/>wie oder waz man betten sol daz es aller nutzlichst sy
+                <lb/>mit uszlegung des hei ligen Pater no.
+              </title>Mit gnad keiser¬
+              <lb/>licher! Privilegio) -ii. iar.
+            </bibl>
+            <lb/>Fol. 60a: Hie hatt ein end dis büchlin... Und getru¬
+            <lb/>ckt in der keiserlichen freien Stat <placeName>Strasz burg</placeName>, von <persName>Jo¬
+            <lb/>hannes Grüningern</persName>, uff sant Adolffs tag, der da gefelt
+            <lb/>uff sant Johannes enthaubtungs tag. Nach der geburt
+            <lb/>unsers herren Jesu. <date>1516</date>. (Verso blanc.)
+            <lb/>Puis avec un nouveau titre: Hienach so folgt ein nütz lich
+            <lb/>leer und underweisung waz und wy! man betten sol. Und
+            <lb/>auszlegunge des heiligen Pater nosters. (Au-dessous grav. sur
+            <lb/>bois: un jeune homme à genoux en prière, à côté de lui un écusson vide,
+            <lb/>sur une banderole les lettres: ODMDTVMM; au-dessus le Christ.
+            <lb/>dans les nuages, au fond un arbre sans feuillage.)
+            <lb/>A la fin: ... Getruckt und vollendet in der keiserlichen
+            <lb/>freien stat <placeName>Straszburg</placeName> von <persName>Johannes Grü ningern</persName>, auff
+            <lb/>Freitag nach sant Bar- tholomeus tag, In dem iar nach
+            <lb/>der geburt christi <date>15. 16</date>....
+            <lb/>In-fol., car. goth., 2 col., CVIII ff. ch., titre courant, de nom¬
+            <lb/>breuses init.; la pagination continue à travers les deux traités, le titre
+            <lb/>principal est rouge et noir, encadré.
+            <lb/>Le premier traité a II grav. de <persName>Jean Baldung</persName>, dont 8 avec son
+            <lb/>monogramme. La fère, fol. VHa représente <persName>Moïse</persName> à genoux recevant de
+            <lb/>Dieu les tables de la loi, les autres se rapportent aux dix comman¬
+            <lb/>dements.
+            <lb/>Fol. IIa: Die vorred. Bernhart Grave z4 Eberstein... Dornstag
+            <lb/>Jacobi apostoli. Anno. <date>15.15</date>. Dem Eerenvesten <persName>Hansen von <placeName>Wildeck</placeName></persName> ge¬
+            <lb/>nant <persName>Warmont</persName>. L. Au verso: Préface de <persName>Hans von <placeName>Wildeck</placeName></persName> genant <persName>War¬
+              <lb/>mont</persName> à <persName>Bernhart Grave</persName> zt Eberstein... R. K. Ma. Cammergerichts¬
+            <lb/>beisitzer.
+          </div>
+          <lb/>985
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
