@@ -6,7 +6,8 @@ from typing_extensions import List
 import typer
 import os.path as os
 from typing import Optional
-
+import warnings
+import sys
 
 class OCR_eval:
     ref = []
@@ -14,11 +15,17 @@ class OCR_eval:
 
     def get_ref(self,ground_truth: Path)-> List[str]:
         # extraction des lignes de ground_truth
+        if Path(ground_truth).suffix != '.txt':
+            warnings.warn("Les documents comparés doivent être tous les deux au format .txt")
+            sys.exit()
         with open(ground_truth, 'r', encoding='UTF-8') as ref:
                 self.ref = [line for line in ref] 
         return self.ref
 
     def find_cer_wer(self, model_output:Path) -> List[float]:
+        if Path(model_output).suffix != '.txt':
+            warnings.warn("Les documents comparés doivent être tous les deux au format .txt")
+            sys.exit()
         with open(model_output, 'r', encoding='UTF-8') as pred: 
                 pred = [line for line in pred]
         out = jiwer.process_words(self.ref, pred)
@@ -31,6 +38,9 @@ class OCR_eval:
         return self.eval
 
     def write_cer(self, output_doc:Path):
+        if Path(output_doc).suffix != '.csv':
+            warnings.warn("Le document de sortie doit être au format .csv")
+            sys.exit()
         with open(f"{output_doc}", 'a', newline='', encoding='UTF-8') as csvfile:
             writer = csv.writer(csvfile, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
             if os.getsize(output_doc) == 0:

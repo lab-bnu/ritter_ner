@@ -39,8 +39,6 @@ param_hf = {'model': "Jean-Baptiste/camembert-ner-with-dates",
              'eval': True}
 
 param_IAgen = {
-    'oudir' : 'test', 
-    'outdoc' : 'mistral_preds',
     'template' : """Extrait en un fichier JSON les entités nommées B-PER, I-PER, B-DATE, I-DATE, B-LOC, I-LOC selon l'exemple :
 Exemple =  "HANNENBEIN, Georg . Voir: LIED (Neu Klaglied der Bauern) n° 340.
 PETRUS DE CRESCENTIS
@@ -104,5 +102,8 @@ Réponse =
 'word': 'Strassburg'}
 ]
 ]
-Maintenant, extrait en JSON les entités nommées des phrases suivantes :"""
+Maintenant, extrait en JSON les entités nommées des phrases suivantes :""", 
+'model': 'mistral', # can only be either ['mistral', 'gpt'],
+'txtdir': "data/",
+'outdir': 'data/mistral_batches'
 }
