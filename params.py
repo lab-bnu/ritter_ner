@@ -104,6 +104,6 @@ Réponse =
 ]
 Maintenant, extrait en JSON les entités nommées des phrases suivantes :""", 
 'model': 'mistral', # can only be either ['mistral', 'gpt'],
-'txtdir': "data/",
+'txtdir': "data/A121078-1/txt",
 'outdir': 'data/mistral_batches'
 }
