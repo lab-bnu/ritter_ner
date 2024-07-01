@@ -19,7 +19,7 @@ from params import param_general, param_IAgen
 class Batches:
     doc = []
     batches = []
-    template = param_IAgen['template']
+    
    
     def set_template(self, templatepath:Path): 
         if Path(templatepath).suffix != '.txt':

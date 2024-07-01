@@ -4,14 +4,15 @@ param_general = {
     "tags_to_extract" :['_', 'persName', 'placeName', 'date'],
     "class_names" :['O', 'PER', 'LOC', 'DATE'],
     'OIB' : True,
-    "datadir" : "data/test",
-    "datadoc" : "data_div5" ,
+    "datadir" : "data/test_batches",
+    "datadoc" : "data_div_mistral" ,
+
 }
 
 # paramètres pour la création du jeu de données :
 param_creation_dataset = {"by_element" : "div",# peut être None, traitera chaque page en entier
                   "tokenizer" : "spacy" , # les choix sont ["spacy", "split"] ou l'URL HF d'un modèle
-                  "xml_dir" : "data/test",# dossier où se trouvent les doc XML annotés
+                  "xml_dir" : "data/xml_ner",# dossier où se trouvent les doc XML annotés
                 "train_test_split" : True
 }
 
@@ -105,5 +106,15 @@ Réponse =
 Maintenant, extrait en JSON les entités nommées des phrases suivantes :""", 
 'model': 'mistral', # can only be either ['mistral', 'gpt'],
 'txtdir': "data/A121078-1/txt",
-'outdir': 'data/mistral_batches'
+'outdir': 'data/mistral_batches',
+"max_length":3000
 }
+
+param_alignement = {
+    "ents_doc_path" :None, #can be None : param_general['datadir']/param_general['datadoc'].csv will be used
+    
+    "ents_id_colname" : 'tag_ids',
+    "tokens_colname" : "text",
+    'originaltext_colname' : 'originaltext', #can be same as tokens_colname
+    "outdir": "data/test_alignement/"
+    } 

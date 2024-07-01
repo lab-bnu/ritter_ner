@@ -93,7 +93,7 @@ class Dataset:
                     content['tags'] = []
                     content['tag_ids'] = []
                     content['ents'] = []
-                    content['prov'] = file
+                    content['prov'] = os.path.basename(file)
                     
                     for element in div.descendants :
                         clean_text = re.sub(r'(\t|)', '', element.text)
