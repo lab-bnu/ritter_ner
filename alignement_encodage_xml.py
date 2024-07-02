@@ -205,14 +205,12 @@ class Document:
                             groups = re.match(rf'(.*)({ent['entity']})(.*)', originaltext, flags=re.DOTALL)
                             if groups:
                                 div.text = groups.group(1).encode('UTF-8').decode('UTF-8')
-                                # ent = etree.SubElement(div, f"{param_general['tags_to_extract'][param_general['class_names'].index(ent['label'])]} idref={ent['idref']}>\1</{param_general['tags_to_extract'][param_general['class_names'].index(ent['label'])]}")
                                 subelement = etree.SubElement(div, f"{param_general['tags_to_extract'][param_general['class_names'].index(ent['label'])]}", attrib={'idref':ent['idref']})
                                 subelement.text = groups.group(2)
                                 subelement.tail = groups.group(3)
 
                             else: 
                                 div.text = originaltext
-                    # self.prettyprint(xml, encoding='utf-8')
                     tree = etree.ElementTree(xml)
                     tree.write(f"{self.outdir}/{docname}", pretty_print=True, encoding='utf-8', xml_declaration=True)
 
