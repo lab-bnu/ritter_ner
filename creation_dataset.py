@@ -110,23 +110,35 @@ class Dataset:
                                 content["text"].append(full_name[0])                    
                                 content["tags"].append(f"B-{label}")
                                 content["tag_ids"].append(self.label2id[f"B-{label}"])
-                                limits = re.search(rf'{re.escape(full_name[0])}', rf'{originaltext}')
-                                content['ents'].append((limits.start(), limits.end(), f"B-{label}"))  
+                                full_name[0] = re.sub('▁', '', full_name[0])
+                                try:
+                                    limits = re.search(rf'{re.escape(full_name[0])}', rf'{originaltext}')
+                                    content['ents'].append((limits.start(), limits.end(), f"B-{label}")) 
+                                except AttributeError: 
+                                    print(f"{full_name[0]} not found in {originaltext}")                               
                                 if len(full_name) > 1:     
                                     for x in range(1, len(full_name)):
                                         if not re.fullmatch(r"(\s+|\t|\n|)", full_name[x]):
                                             content["text"].append(full_name[x])
                                             content["tags"].append(f"I-{label}")
                                             content["tag_ids"].append(self.label2id[f"I-{label}"])
-                                            limits = re.search(rf'{re.escape(full_name[x])}', rf'{originaltext}')
-                                            content['ents'].append((limits.start(), limits.end(), f"I-{label}"))
+                                            full_name[x] = re.sub('▁', '', full_name[x])
+                                            try: 
+                                                limits = re.search(rf'{re.escape(full_name[x])}', rf'{originaltext}')
+                                                content['ents'].append((limits.start(), limits.end(), f"I-{label}"))
+                                            except AttributeError: 
+                                                print(f"{full_name[x]} not found in {originaltext}")
                             else:
                                 for tok in full_name:
                                     content['text'].append(tok)
                                     content['tags'].append(label)
                                     content['tag_ids'].append(self.label2id[label])
-                                    limits = re.search(rf'{re.escape(tok)}', rf'{originaltext}')
-                                    content['ents'].append((limits.start(), limits.end(), f"{label}")) 
+                                    tok = re.sub('▁', '', tok)
+                                    try:
+                                        limits = re.search(rf'{re.escape(tok)}', rf'{originaltext}')
+                                        content['ents'].append((limits.start(), limits.end(), f"{label}")) 
+                                    except AttributeError: 
+                                        print(f"{tok} not found in {originaltext}")
                         elif isinstance(element, str):
                             # check that it hasn't been dealt with already
                             if clean_text not in tagged:
