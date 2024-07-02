@@ -1,0 +1,64 @@
+Extrait en un fichier JSON les entités nommées B-PER, I-PER, B-DATE, I-DATE, B-LOC, I-LOC selon l'exemple :
+Exemple =  "HANNENBEIN, Georg . Voir: LIED (Neu Klaglied der Bauern) n° 340.
+PETRUS DE CRESCENTIS
+( WUERFELBUCH ]
+ Strasbourg , ( Christian Egenolff ), 1529 
+ Marque typ. de Chris. Egenolff. Anno M. D. LXXXII 
+ Stadtbibl. Strassburg 1192". 
+
+Réponse = 
+[
+[{'entity': 'B-PER',
+   'word': 'HANNENBEIN',
+},
+  {'entity': 'I-PER',
+   'word': ',',
+},
+  {'entity': 'I-PER',
+   'word': 'Georg',
+},
+],[
+{'entity': 'B-PER',
+   'word': 'PETRUS',
+},
+{'entity': 'I-PER',
+'word': 'DE',
+},
+{'entity': 'I-PER',
+'word': 'CRESCENTIS',
+},
+],[
+{
+'entity':'B-LOC', 
+'word': 'Strasbourg',
+},
+],[
+{
+'entity': 'B-PER',
+'word': 'Christian'
+},
+{
+'entity':'I-PER',
+'word': 'Egenolff'
+},
+],[
+{'entity': 'B-DATE',
+'word': '1529'},
+],[
+{'entity':'B-PER',
+'word': 'Chris.'},
+{'entity': 'I-PER',
+'word': 'Egenolff'},
+],[
+{'entity':'B-DATE',
+'word': 'M.'},
+{'entity': 'I-DATE', 
+'word': 'D.'},
+{'entity':'I-DATE',
+'word': 'LXXXII'},
+],[
+{'entity': 'B-LOC',
+'word': 'Strassburg'}
+]
+]
+Maintenant, extrait en JSON les entités nommées des phrases suivantes : Ind. I, pag. 19 argu¬<0x0A>mentis non spernendis Mentelii originalem esse contendit. Pan¬<0x0A>zer L. C. — quae si ita sint, nostra editio saltem ante an. 1466<0x0A>prodierit necesse est, cum Fust post hunc annum nullo monu¬<0x0A>mento innotescit.»<0x0A>54<0x0A>AUGUSTUS AURELIUS: De doctrina christiana, Lib. A. (Stras-<0x0A>bourg, J. Mentelin, vers 1468), in-fol.<0x0A>G W 2873, Hain 1955, Pellechet 1471, Proctor 218, Voulliéme:<0x0A>Berlin 2093; Walter: Sélestat 44, Schorbach: Mentelin N° 10.<0x0A>K 414. Prov.: Librairie Trübner, Strasbourg, 22. VII. 1887,<0x0A>280 M. Note mss. au verso de l’avant dernier f. blanc.<0x0A>55<0x0A>12<0x0A>AUGUSTINUS AURELIUS: Epistolarum Liber. (Strasbourg,<0x0A>J. Mentelin, pas après 1471), in-fol.<0x0A>G W 2905, Hain 1966, Madsen 413, Pellechet 1481, Pellechet:<0x0A>Colmar 203, Proctor 208, Voulliéme: Berlin 2097; Walter:<0x0A>Sélestat 51, Schorbach: Mentelin N° 22.<0x0A>K 422. Prov.; B N Munich, 16. XII. 1879, 12 M.<0x0A>56<0x0A>AUGUSTINUS AURELIUS (Pseudo): Manuale. Prolocutionis et<0x0A>meditationis Liber. (Strasbourg, typ. du H. Ariminensis,<0x0A>vers 1476), in-fol.<0x0A>GW 2969, Hain 2102, Pellechet 1587, Proctor 302.<0x0A>K 480. Prov.: Hess, Ellwangen, 7. VII. 1896, 25 M.<0x0A>57<0x0A>AUGUSTINUS AURELIUS (Pseudo): Sermones ad heremitas.<0x0A>(Strasbourg, J. Prüss, pas après 1487), in-4°.<0x0A>G W 3002, Hain 1997, Proctor 741, Madsen 448, Pellechet:<0x0A>Lyon 50, Voulliéme: Berlin 2365; Walter; Sélestat 63.<0x0A>K 439. Proy.; B N Munich, 22. I. 1880, 1 M.<0x0A>L’Amateur du livre, Fasc. 191 (Paris, mars 1938) N° 816 offre<0x0A>un ex. pour 750 frs.<0x0A>58<0x0A>AUGUSTINUS AURELIUS (Pseudo): Sermones ad heremitas.<0x0A>(Strasbourg, typ. des Casus breves (— G. Husner), vers<0x0A>1493/94), in-4°.<0x0A>GW 3006, Hain 1998, Pellechet 1508 et 1509, Madsen 452,<0x0A>Proctor 724, Voulliéme: Berlin 2524, 5.<0x0A>K 440. Prov.; B N Munich, 22. I. 1880, 1 M.<0x0A>59<0x0A>AUGUSTINUS AURELIUS: De Trinitate libri XV. [Strasbourg,<0x0A>typ. du H. Ariminensis, pas après 1474), in-fol.<0x0A>GW 2925, Hain 2034, Madsen 427, Pellechet 1540, Proctor<0x0A>319, Voulliéme: Berlin 2161.<0x0A>K 453. Prov.: B N Munich, 16. XII. 1879, 12 M.<0x0A>60<0x0A>AUREOLI PETRUS: Compendium litteralis sensus totius<0x0A>bibliae. [Strasbourg, G. Husner, s. d. pas après 14761,<0x0A>in-fol.<0x0A>G W 3077, Hain 2141, Madsen 467, Pellechet 1613, Proctor<0x0A>351. Voullième: Berlin 2199, 5.<0x0A>K 494. Prov.: B N Munich, 16. XII. 1879, 10 M. Note mss.<0x0A>fol. 1a: Monasterii M. S. Andechs. Rel. anc.<0x0A>61<0x0A>13<0x0A>AURIFABER AEGIDIUS. Voir: Speculum exemplorum.<0x0A>AVICENNA: Canonis libri V. [Strasbourg, imprimeur R<0x0A>(— Adolphe Rusch), avant 1473), in-fol.<0x0A>G W 3114, Hain 2197, Pellechet 1657, Proctor 245, Voulliéme:<0x0A>Berlin 2110.<0x0A>K 510. Prov.: B N Munich, 24. V. 1877. Les 5 premiers ff. sont<0x0A>endommagés. Livres III et V manquent. Rel. anc.<0x0A>62<0x0A>BALBUS JOHANNES: Catholicon. [Strasbourg, Adolphe Rusch<0x0A>(imprimeur R) vers 1470), in-fol.<0x0A>G W 3185, Hain 2251, Pellechet 1699 (l’attribue à J. Mentelin),<0x0A>Pellechet: Colmar 2251, Proctor 246, Voulliéme; Berlin 2111.<0x0A>K 531. Prov.: B N Munich, 22. I. 1880, 20 M. Notes mss. Au<0x0A>verso du f. de garde: Anno 1622 legavit Rds Dominus Jacobus<0x0A>Probst, parochus zu unsrer lieben fraun cum alijs. 600.» Au<0x0A>haut du f. 1a: S. Georgii Augustarum. A côté: «Joannes Probst<0x0A>rerum sacrarum administrator.» Rel. anc.<0x0A>63<0x0A>BALDUNG HIERONYMUS: Aphorismi compunctionis theologi¬<0x0A>cales. Strasbourg, J. Grüninger, 6 janvier 1497, in-4°.<0x0A>(Gravures).<0x0A>GW 3211, Hain 2270, Madsen 496, Pellechet 1720, Proctor<0x0A>477, Schreiber 3400, Voullième: Berlin 2299.<0x0A>Schramm, Bilderschmuck XX, gray N° 340-345.<0x0A>K 534. Prov.: J. Noiriel, Strasbourg, 8. x. 1882, 12 M. Note<0x0A>mss. au-dessous du titre: «Johannes Protzer.»<0x0A>64<0x0A>BALDUS DE UBALDIS. Voir: Ubaldis.<0x0A>BARBATIA ANDREAS: Consilium si Eugenius papa potest<0x0A>facere duos episcopos in una dioecesi. (Strasbourg,<0x0A>G. Husner, s. d.), in-4°.<0x0A>Hain 2452, Pellechet 1839; Voullième: Berlin 2560. GW 3349<0x0A>met: Strasbourg, imprimeur du Barbatia, Consilium si Euge¬<0x0A>nius papa vers 1490/95.<0x0A>K 564. Prov.: Don de la ville de Heilbronn, 1871.<0x0A>65<0x0A>14<0x0A>BARTHOLOMAEUS ANGLICUS : De proprietatibus rerum. Stras¬<0x0A>bourg (imprimeur du Jordanus (— G. Husner), 14 fé¬<0x0A>vrier 1485), in-fol.<0x0A>G W 3410, Hain 2506-2511, Madsen 550, Pellechet 1873, Pelle¬<0x0A>chet: Colmar 258, Proctor 592, Voulliéme: Berlin 2403.<0x0A>K 585. Proy.: Bielefeld, Carlsruhe, 12. XIl. 1873, 4 M. Note mss.<0x0A>au haut du titre: liber Heinrici voigt lichenst. Rel. anc. 66<0x0A>BARTHOLOMAEUS ANGLICUS : De proprietatibus rerum. Stras¬<0x0A>bourg (imprimeur du Jordanus (— G. Husner),<0x0A>11 août 1491, in-fol.<0x0A>G W 3412, Hain 2509, Madsen 553, Pellechet 1875, Pellechet:<0x0A>Colmar 259, Proctor 665, Voufliéme: Berlin 2445.<0x0A>K 587. Prov.: Don de Fid. Butsch fils, Augsbourg, 1871. Note<0x0A>mss. à l’intérieur du premier plat. Rel. anc.<0x0A>67<0x0A>BARTHOLOMAEUS DE CHAIMIS. Voir: Chaimis.<0x0A>BARTHOLOMAEUS DE GLANVILLA. Voir: Barthol

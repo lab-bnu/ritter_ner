@@ -1,0 +1,64 @@
+Extrait en un fichier JSON les entités nommées B-PER, I-PER, B-DATE, I-DATE, B-LOC, I-LOC selon l'exemple :
+Exemple =  "HANNENBEIN, Georg . Voir: LIED (Neu Klaglied der Bauern) n° 340.
+PETRUS DE CRESCENTIS
+( WUERFELBUCH ]
+ Strasbourg , ( Christian Egenolff ), 1529 
+ Marque typ. de Chris. Egenolff. Anno M. D. LXXXII 
+ Stadtbibl. Strassburg 1192". 
+
+Réponse = 
+[
+[{'entity': 'B-PER',
+   'word': 'HANNENBEIN',
+},
+  {'entity': 'I-PER',
+   'word': ',',
+},
+  {'entity': 'I-PER',
+   'word': 'Georg',
+},
+],[
+{'entity': 'B-PER',
+   'word': 'PETRUS',
+},
+{'entity': 'I-PER',
+'word': 'DE',
+},
+{'entity': 'I-PER',
+'word': 'CRESCENTIS',
+},
+],[
+{
+'entity':'B-LOC', 
+'word': 'Strasbourg',
+},
+],[
+{
+'entity': 'B-PER',
+'word': 'Christian'
+},
+{
+'entity':'I-PER',
+'word': 'Egenolff'
+},
+],[
+{'entity': 'B-DATE',
+'word': '1529'},
+],[
+{'entity':'B-PER',
+'word': 'Chris.'},
+{'entity': 'I-PER',
+'word': 'Egenolff'},
+],[
+{'entity':'B-DATE',
+'word': 'M.'},
+{'entity': 'I-DATE', 
+'word': 'D.'},
+{'entity':'I-DATE',
+'word': 'LXXXII'},
+],[
+{'entity': 'B-LOC',
+'word': 'Strassburg'}
+]
+]
+Maintenant, extrait en JSON les entités nommées des phrases suivantes : Brobste me iure tenet 92. 24 feb.; au-dessous:<0x0A>Canoniae Weyarensis. Notes mss. Rel. anc.<0x0A>220<0x0A>HEROLT JOHANNES: Sermones super epistolas dominicales.<0x0A>(Strasbourg, G. Husner, s. d.),, in-fol.<0x0A>Hain 8510, Pellechet: Colmar 758, Proctor 358, Voulliéme:<0x0A>Berlin 2203, 5.<0x0A>K 1948. Prov.: B N Munich, 14. IV. 1880, 2 M. A la suite<0x0A>d’Albertus Magnus, Sermones de tempore et de sanctis.<0x0A>Ulmae, s. d. K 97.<0x0A>221<0x0A>41<0x0A>HEROLT JOHANNES : Sermones discipuli de tempore et de<0x0A>sanctis. (Strasbourg, imprimeur R (— Ad. Rusch),<0x0A>s. d.), in-fol.<0x0A>Hain 8473, Pellechet: Colmar 740, Proctor 249, Voulliéme:<0x0A>Berlin 2117, 5.<0x0A>K 1926. Prov.; B N Munich, 14. IV. 1880, 8 M. Notes mss.<0x0A>au bas du 1er f. Rel. anc.<0x0A>222<0x0A>HEROLT JOHANNES: Sermones discipuli de tempore et de<0x0A>sanctis. Strasbourg, 1483, in-fol.<0x0A>Hain 8486.<0x0A>K 1933. Prov.: Don du prince de Bentheim, 1874, provenant<0x0A>du couvent de Frenswegen. Au-dessus du titre: «Vrens¬<0x0A>wegen». Rel. anc.<0x0A>223.<0x0A>HEROLT JOHANNES: Sermones discipuli de tempore et de<0x0A>sanctis. Strasbourg (imprimeur du Paludanus), 1487,<0x0A>in-fol.<0x0A>Hain 8495, Pellechet: Colmar 749, Voulliéme: Berlin 2259, 5.<0x0A>K 1937. Prov.: K. Th. Völcker, Francfort-s.-M., 22. HI. 1883,<0x0A>6 M. Notes mss. principalement au f. du titre.<0x0A>224<0x0A>HEROLT JOHANNES: Sermones discipuli de tempore et de<0x0A>sanctis. Strasbourg, (Mart. Flach), 1488, in-fol.<0x0A>Hain 8496, Proctor 679, Voulliéme: Berlin 2480, 5.<0x0A>K 1938. Prov.: Isaac St. Goar, Francfort-s.-M., 28. XI. 1883,<0x0A>20 M. Au-dessous du titre: «Monasterij Neüstatt ad Moenum.»<0x0A>Rel anc.<0x0A>2. ex.: K 1931. Prov.: Don de la B. U. de Goettingue, 1872. Au<0x0A>bas du 1er fol., cachet rond: Ex Bibliotheca Acad. Georgiae<0x0A>Augustae. Rel, anc.<0x0A>225<0x0A>HEROLT JOHANNES: Sermones discipuli de tempore et de<0x0A>sanctis. Strasbourg, (sans impr.), 1489, in-fol.<0x0A>Hain 8497.<0x0A>K 1939. Prov.: B N Munich, 14. IV. 1880, 2 M. Incomplet, table<0x0A>manque. Notes mss. Rel. anc.<0x0A>226<0x0A>48<0x0A>HEROLT JOHANNES: Sermones discipuli de tempore et de<0x0A>sanctis. Strasbourg, (Mart. Flach), 1492, in-fol.<0x0A>Hain 8503, Pellechet: Colmar 751, Proctor 696, Voulliéme:<0x0A>Berlin 2494, 5.<0x0A>K1942. ProV.: BN Munich, 14. IV. 1880, 2 M. Rel. anc. 227<0x0A>HEROLT JOHANNES: Sermones discipuli de tempore et de<0x0A>sanctis, Strasbourg, (Mart. Flach), 1495, in-fol.<0x0A>Hain 8505, Proctor 702, Voulliéme: Berlin 2501, 5; Pellechet:<0x0A>Colmar 754.<0x0A>K 1943. Prov.; B N Munich, 14. IV. 1880, 2 M. Au haut<0x0A>du fol. A2a: «Ad F. F. Augustinianas in Rambsau.» A côté,<0x0A>note mss, au-dessous: «1543». Rel. anc.<0x0A>228<0x0A>HEROLT JOHANNES: Sermones discipuli de tempore et de<0x0A>sanctis. Haguenau, (H. Gran, 20 août), 1496, in-4°.<0x0A>Hain 8507, Proctor 3185, Pellechet: Colmar 756.<0x0A>K 1944. Prov.: B N Paris, 16. XII. 1879, M. 0,50. Notes mss. à<0x0A>l’intérieur du 1er plat, au recto et verso du f. du titre, et<0x0A>fol. A 2a, ainsi qu’aux 3 derniers ff. Rel. anc.<0x0A>229<0x0A>HEROLT JOHANNES: Sermones discipuli de tempore et de<0x0A>sanctis. Strasbourg, Mart. Flach, 28 août 1499, in-fol.<0x0A>Hain 8508, Proctor 712, Schmidt VI, 71, Voulliéme: Berlin<0x0A>2509, 10; Pellechet: Colmar 757.<0x0A>K 1945. Prov.; B N Munich, 14. IV. 1880, 2 M. A l'intérieur<0x0A>du 1er plat: «Martinus Porckhmair pro tempore Capellanus<0x0A>Sallensis fuit olim possessor hujus libri. M. D. C. XXVII, quem<0x0A>huc possidere coepit Monasterium Rorense 1634». Rel. anc.<0x0A>230<0x0A>HIERONYMUS S.: Epistolae et tractatus. (Strasbourg,<0x0A>J. Mentelin, vers 1469), in-fol.<0x0A>Hain 8549, Proctor 203, Voulliéme: Berlin 2102. Walter:<0x0A>Sélestat 246; Schorbach: Mentelin N° 14.<0x0A>K 1966. Prov.: B N Munich, 14. IV. 1880, 2 M. A l’intérieur<0x0A>du 1er plat: exlibris avec les mots: «Closter Weihenstephen<0x0A>1646.2 Rel. anc.<0x0A>231<0x0A>49<0x0A>R.4<0x0A>HIERONYMUS S.: Vitae patrum. (Strasbourg, imprimeur des<0x0A>Vitas patrum), 7 mars 1483, in-fol.<0x0A>Hain 8597, Pellechet: Colmar 774, Proctor 418, Voulliéme:<0x0A>Berlin 2251; Walter: Sélestat 251 et 252.<0x0A>K 1983. Prov.: Don du prince de Bentheim, 1874, provenant<0x0A>du couvent de Frenswegen. Incomplet, la fin manque. Notes<0x0A>mss. au recto et au verso du f. de garde et au 1er fol. A<0x0A>l'intérieur du 1er plat; «1483. Liber domus clericorum alber¬<0x0A>curie (?) in Cassil.» Rel. anc.<0x0A>232<0x0A>HILARIUS LITOMIRICENSIS: Tractatus contra perfidiam ali¬<0x0A>quorum Bohemorum. Strasbourg, (imprimeur du Jor¬<0x0A>danus (— G. Husner)), 15 juin 1485, in 4°.<0x0A>Hain 8663, Madsen 1988, Proctor 596, Voulliéme: Berlin 2406.<0x0A>K 1989. Prov.; K. J. Trübner, Strasbourg, 27. V. 1882, 42 M.<0x0A>Notes mss. à l'intérieur du 1er plat. Rel. anc.<0x0A>233<0x0A>HISTORIA ALEXANDRI MAGNI. Voir: Leo Archipresbyter.<0x0A>HISTORIA ECCLESIASTICA. Voir: Eusebius.<0x0A>HISTORIA ECCLESIASTICA TRIPARTITATA. Voir: Cassiodorus.<0x0A>HISTORIA LOMBARDICA. Voir: Jacobus de Voragine.<0x0A>HISTORIA SCHOLASTICA. Voir: Petrus Comestor.<0x0A>HOLKOT ROBERTUS: Opus super sapientiam Salomonis.<0x0A>Haguenau, (H. Gran), 1494, in-fol.<0x0A>Hain 8761, Proctor 3181, Voulliéme: Berlin 1173.<0x0A>K 2004. Prov.; B N Munich, 14. IV. 1880, 2 M. 50. Rel. anc.<0x0A>234<0x0A>HORATIUS: Opera cum annotationibus Jacobi Locher. Stras¬<0x0A>bourg

@@ -1,0 +1,64 @@
+Extrait en un fichier JSON les entités nommées B-PER, I-PER, B-DATE, I-DATE, B-LOC, I-LOC selon l'exemple :
+Exemple =  "HANNENBEIN, Georg . Voir: LIED (Neu Klaglied der Bauern) n° 340.
+PETRUS DE CRESCENTIS
+( WUERFELBUCH ]
+ Strasbourg , ( Christian Egenolff ), 1529 
+ Marque typ. de Chris. Egenolff. Anno M. D. LXXXII 
+ Stadtbibl. Strassburg 1192". 
+
+Réponse = 
+[
+[{'entity': 'B-PER',
+   'word': 'HANNENBEIN',
+},
+  {'entity': 'I-PER',
+   'word': ',',
+},
+  {'entity': 'I-PER',
+   'word': 'Georg',
+},
+],[
+{'entity': 'B-PER',
+   'word': 'PETRUS',
+},
+{'entity': 'I-PER',
+'word': 'DE',
+},
+{'entity': 'I-PER',
+'word': 'CRESCENTIS',
+},
+],[
+{
+'entity':'B-LOC', 
+'word': 'Strasbourg',
+},
+],[
+{
+'entity': 'B-PER',
+'word': 'Christian'
+},
+{
+'entity':'I-PER',
+'word': 'Egenolff'
+},
+],[
+{'entity': 'B-DATE',
+'word': '1529'},
+],[
+{'entity':'B-PER',
+'word': 'Chris.'},
+{'entity': 'I-PER',
+'word': 'Egenolff'},
+],[
+{'entity':'B-DATE',
+'word': 'M.'},
+{'entity': 'I-DATE', 
+'word': 'D.'},
+{'entity':'I-DATE',
+'word': 'LXXXII'},
+],[
+{'entity': 'B-LOC',
+'word': 'Strassburg'}
+]
+]
+Maintenant, extrait en JSON les entités nommées des phrases suivantes :28<0x0A>11.488 — 329<0x0A>11.536 — 330<0x0A>11.647 — 332<0x0A>11.649 — 331<0x0A>11.757 — 333<0x0A>11.760 — 340<0x0A>11.763 — 341<0x0A>11.790— 346<0x0A>11.795 — 347<0x0A>11.941— 348<0x0A>12.130 — 350<0x0A>12.343 — 463<0x0A>12.360 — 464<0x0A>12.406 — 367<0x0A>12.411 — 368<0x0A>12.420 — 83<0x0A>12.474 — 279<0x0A>12.551 — 372<0x0A>12.552 — 374<0x0A>12.555 — 373<0x0A>12.559— 376<0x0A>12.560 — 377<0x0A>12.563 — 378<0x0A>12.792 — 380<0x0A>12.800 — 381<0x0A>12.819 — 379<0x0A>12.850 — 388<0x0A>12.851 — 389<0x0A>12.908 — 393<0x0A>12.911 — 394<0x0A>13.022 — 131<0x0A>13.124 — 398<0x0A>134255 — 399<0x0A>13.267 — 400<0x0A>13.318 — 401<0x0A>13.320 — 402<0x0A>Hain — Ritter<0x0A>13.508 — 404<0x0A>13.512 — 403<0x0A>13.669 — 405<0x0A>13.685 — 406<0x0A>13.687 — 407<0x0A>13.758 — 408<0x0A>13.812 — 410<0x0A>13.816 — 411<0x0A>13.861 — 412<0x0A>14.069 — 421<0x0A>14.156 — 422<0x0A>14.164 — 423<0x0A>14.165 — 424<0x0A>14.524 — 426<0x0A>14.525 — 427<0x0A>14.543 — 428<0x0A>14.597 — 429<0x0A>14.634 — 431<0x0A>14.687 — 432<0x0A>14.826 — 139/140<0x0A>14.720 — 436<0x0A>14.7631 — 446<0x0A>14.917— 439<0x0A>14.918 — 440<0x0A>14.919 — 441<0x0A>15.041 442<0x0A>15.177— 444<0x0A>15.179— 443<0x0A>15.186— 445<0x0A>15.192— 437<0x0A>15.247— 473<0x0A>15.431— 447<0x0A>15.432 — 448<0x0A>15.434 — 449<0x0A>15.591 — 462<0x0A>15.594 — 460<0x0A>15.703 — 465<0x0A>15.706 — 466<0x0A>15.707 — 467<0x0A>15.713— 468<0x0A>15.773 — 472<0x0A>15.8307— 474<0x0A>15.959 — 271<0x0A>15.964 — 272<0x0A>15.9651 — 273<0x0A>15.974 — 270<0x0A>16.145– 487<0x0A>16.164 — 491<0x0A>16.169 — 489<0x0A>16.178 — 493<0x0A>16.184 — 492<0x0A>16.186 — 494<0x0A>16.190 — 488<0x0A>131<0x0A>ADDITIONS ET CORRECTIONS<0x0A>N° 43; Rel. anc. Notes mss. Au haut du titre; «Monasterij S.<0x0A>Zenonis» (Reichenhall). A la fin du volume, en rouge,<0x0A>de la main du rubricateur: «Summa est 1473° rubricata<0x0A>per v. S.» A l’intérieur du 1er plat, placard de 42 lignes,<0x0A>imprimé par Mentelin, dans lequel Mentelin recommande<0x0A>le livre à ses clients: «Commendatio hujus famosae Sum¬<0x0A>mae. Volentes legere summam vere amabilem...» Schor¬<0x0A>bach: Mentelin N° 11b.<0x0A>N° 114: Lire Sebastianus au lieu de Sebastinus Brant.<0x0A>N° 134; Lire La Haye au lieu de Hague.<0x0A>N° 139: Rayez Schorbach: Mentelin N° 33.<0x0A>N° 150: GW 9102; vers 1470.<0x0A>N° 151; GW 9117; vers 1479. Proctor 361.<0x0A>N° 152; Gw 9114; pas après 1478.<0x0A>N° 153; GW 9118; pas après 1479. Proctor 362, Voulliéme: Ber¬<0x0A>lin 2202, 2.<0x0A>N° 154: GW 9126.<0x0A>N° 155: GW 9131: Voulliéme: Berlin 2341, 3.<0x0A>N° 156; GW 9132.<0x0A>N° 157: GW 9135.<0x0A>N° 158; GW 9137.<0x0A>N° 159; GW 9148: G. Husner et J. Beckenhub.<0x0A>NB. Le directeur de la B. U. de Fribourg en Br., M. Rest, auquel<0x0A>je tiens à exprimer ici mes remerciements, a eu l’obligeance de<0x0A>me signaler ces numéros du 7e volume du GW qui paraîtra pro¬<0x0A>chainement.<0x0A>132<0x0A>N° 180: Northorn (in Vrenswegen (Frenswegen) in Comitatu de<0x0A>Bentheim].<0x0A>N° 185; à la fin; comme K.1734, N° 183 et non N° 184.<0x0A>N° 231: Schorbach: Mentelin N° 14; pas après 1469... Kat. Baer<0x0A>745 N° 416 (Ex. aus Stift Vorau: 4000 M).<0x0A>N° 236; manque chez Hain; rayez 8037.<0x0A>N° 249; Schorbach: Mentelin N° 24: Ein Ex. der Bibl. Jeidels in<0x0A>Frankfurt ist in Zeitschr, f. Bücherfr. I, 341 beschrieben.<0x0A>Aus dem neueren Buchhandel nenne ich ein Ex. ohne<0x0A>Explicit im Kat. Baer 200 N° 242 (90 M).<0x0A>N° 261: Martin Flach au lieu de Husner.<0x0A>N° 264: Schorbach: Mentelin N° 8: Das Ex. in der J. Rylands<0x0A>Library zu Manchester trägt das handschriftliche Datum<0x0A>1466.<0x0A>N° 277: Schorbach: Mentelin N° 38: Dez. 1476. Anm. Im Jahre<0x0A>1910 wurden in der Buchhandlung L. Rosenthal-München<0x0A>aus dem Einband eines Mentelin-Druckes einige Blätter<0x0A>dieses Kalenders losgelöst, ein vollständiges Ex. und<0x0A>mehrere Fragmente... Das Exemplar Hiersemann wurde<0x0A>1921 im Kat, 492 N° 86 für 5000 M. angeboten. — L’Alma¬<0x0A>nach complet a 77 lignes.<0x0A>N° 294: Schmidt-III, N° 19.<0x0A>N° 326-329: Lire Abbreviaturas.<0x0A>N° 345: Schorbach: Mentelin N° 20: «Offenbar hat Mentelin mit<0x0A>seiner Ausgabe schon 1470 begonnen, denn in einem<0x0A>Dubletten-Ex. zu Maihingen trug der Einband von Vol. II<0x0A>die Jahreszahl 1470. Im Jahre 1872 lag aber das ganze<0x0A>Werk fertig vor; der Abdruck in Freiburg U B ist 1472<0x0A>rubriziert. Ganz vollständige Exemplare finden sich nur<0x0A>äusserst selten...» — 4 vol.<0x0A>N° 370; Schorbach: Mentelin N° 19: Die Erstausgabe des Scru¬<0x0A>tinium scripturarum ist in Mentelins 2. Bücheranzeige<0x0A>von 1471 an drittletzter Stelle aufgeführt. Nach Winship,<0x0A>Census p. 147 hat ein Ex. in der Bibliothek John Carter<0x0A>Brown einen Einband mit eingeprägtem Datum 1470. Der<0x0A>Abdru

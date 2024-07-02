@@ -1,0 +1,64 @@
+Extrait en un fichier JSON les entités nommées B-PER, I-PER, B-DATE, I-DATE, B-LOC, I-LOC selon l'exemple :
+Exemple =  "HANNENBEIN, Georg . Voir: LIED (Neu Klaglied der Bauern) n° 340.
+PETRUS DE CRESCENTIS
+( WUERFELBUCH ]
+ Strasbourg , ( Christian Egenolff ), 1529 
+ Marque typ. de Chris. Egenolff. Anno M. D. LXXXII 
+ Stadtbibl. Strassburg 1192". 
+
+Réponse = 
+[
+[{'entity': 'B-PER',
+   'word': 'HANNENBEIN',
+},
+  {'entity': 'I-PER',
+   'word': ',',
+},
+  {'entity': 'I-PER',
+   'word': 'Georg',
+},
+],[
+{'entity': 'B-PER',
+   'word': 'PETRUS',
+},
+{'entity': 'I-PER',
+'word': 'DE',
+},
+{'entity': 'I-PER',
+'word': 'CRESCENTIS',
+},
+],[
+{
+'entity':'B-LOC', 
+'word': 'Strasbourg',
+},
+],[
+{
+'entity': 'B-PER',
+'word': 'Christian'
+},
+{
+'entity':'I-PER',
+'word': 'Egenolff'
+},
+],[
+{'entity': 'B-DATE',
+'word': '1529'},
+],[
+{'entity':'B-PER',
+'word': 'Chris.'},
+{'entity': 'I-PER',
+'word': 'Egenolff'},
+],[
+{'entity':'B-DATE',
+'word': 'M.'},
+{'entity': 'I-DATE', 
+'word': 'D.'},
+{'entity':'I-DATE',
+'word': 'LXXXII'},
+],[
+{'entity': 'B-LOC',
+'word': 'Strassburg'}
+]
+]
+Maintenant, extrait en JSON les entités nommées des phrases suivantes :ième: Berlin 2158.<0x0A>K 2425. Prov.: Echange avec la Bibliothèque du Gymnase de<0x0A>Heilbronn, 2. IV. 1878.<0x0A>289<0x0A>LUDOLPHUS DE SAXONIA: Meditationes vitae Jesu Christi.<0x0A>(Strasbourg, H. Eggestein), 1474, in-fol.<0x0A>Hain 10290, Madsen 2543, Pellechet: Colmar 907, Proctor 297,<0x0A>Voulliéme: Berlin 2139.<0x0A>K 2419. Prov.: Albert Cohn, Berlin (Catal. 137, N° 333), 24. II.<0x0A>1881, 50 M. Au haut du 1er f.; «Fratrum Monasterii B. V. M. in<0x0A>Vndenstorff 1647.» Rel. anc.<0x0A>290<0x0A>62<0x0A>LUDOLPHUS DE SAXONIA: Meditationes vitae Jesu Christi.<0x0A>(Strasbourg, J. Grüninger), 1483, in-fol.<0x0A>Hain 10293, Pellechet: Colmar 908, Voulliéme: Berlin 2267.<0x0A>K 2421. Prov.: K. Trübner, Strasbourg, 10. V. 1880, 18 M.<0x0A>Rel. anc.<0x0A>291<0x0A>LYRA Nicolaus de. Voir: Nicolaus de Lyra.<0x0A>MAGNI JACOBUS: Sophologium. (Strasbourg, imprimeur R<0x0A>(— Ad. Rusch), s. d.), in-fol.<0x0A>Hain 10471, Madsen 2578, Proctor 240, Pellechet: Colmar 937.<0x0A>Voulliéme: Berlin 2120.<0x0A>K 2471. Prov.: A. F. Butsch, Augsbourg, 6. II. 1883, 36 M. Au<0x0A>bas du 1er f.: «Pertinet ad conventum Ingolstadiensem B. Mariae<0x0A>Virg. or. S. Aug. Anno 1613.» Quelques notes mss. Rel. anc.<0x0A>292<0x0A>MAGNI JACOBUS: Sophologium. (Strasbourg, imprimeur R<0x0A>(— Ad. Rusch), s. d.), in-fol.<0x0A>Hain 10472, Madsen 2579, Proctor 241, Voulliéme: Berlin 2121.<0x0A>K 2472. Prov.; Don de la Bibl. Univ. de Leipzig, 1871. Rel.<0x0A>anc.<0x0A>293<0x0A>MAMMOTREGTUS. Voir: Marchesinus.<0x0A>MANDEVILLE JOHANNES DE: Itinerarius (en allemand). Stras¬<0x0A>bourg, J. Prüss, 1488, in-fol.<0x0A>Hain 10650, Schmidt III, Schramm, Bilderschmuck XX, grav.<0x0A>N° 1030-1184, 19, Schreiber 4803.<0x0A>K 2490. Prov.; J. Hess, Ellwangen, 14. XI. 1887, 350 M.<0x0A>Incomplet, 4 ff. manquent.<0x0A>294<0x0A>MANEKEN CAROLUS: Formulae epistolarum. (Strasbourg,<0x0A>Mart. Schott, 28 juin), 1487, in-4°.<0x0A>Hain 10670, Proctor 396, Voulliéme: Berlin 2231, 10.<0x0A>K 2493. Prov.: Librairie Beck, Nördlingen, 29. I. 1878, 6 M. 50.<0x0A>Notes mss. au f. du titre.<0x0A>295<0x0A>MARCHESINUS JOHANNES: Mammotrectus super Bibliam.<0x0A>(Strasbourg, imprimeur des Vitas patrum, 1483), in-fol.<0x0A>Hain 10553, Madsen 2651, Voulliéme: Berlin 2265.<0x0A>K 2509. Prov.: Bibliothèque Reuss, Strasbourg, 28. IV. 1891,<0x0A>avec son exlibris à l’intérieur du 1er plat. Au-dessous du titre:<0x0A>63<0x0A>«Jo. Alberti Fabricii.» En haut: «Venetiis 1489, Metis 1511,<0x0A>à côté du titre: Anno 1466.» Rel. anc.<0x0A>296<0x0A>MARCHESINUS JOHANNES: Mammotrectus super Bibliam.<0x0A>(Strasbourg, impr. du H. Ariminensis, avant 1480),<0x0A>in-fol.<0x0A>Hain 10552, Madsen 2650, Pellechet: Colmar 943, Proctor 320.<0x0A>Voulliéme: Berlin 2173; Walter: Sélestat 318.<0x0A>K 2508a. Prov.: F. Butsch, Augsbourg, 16. X. 1885, 36 M. Au<0x0A>haut du 1er f.; Ex Bibliotheca Monasterij Montis Sancti<0x0A>Andechs. A l’intérieur du 1er plat, exlibris d’un évêque.<0x0A>Rel. anc.<0x0A>297<0x0A>MARCHESINUS JOHANNES: Mammotrectus super Bibliam.<0x0A>Strasbourg, (Mart. Flach), 1487, in-4°.<0x0A>Hain 10566, Madsen 2644, Proctor 674. Voulliéme: Berlin 2476.<0x0A>K 2512. Prov.: Don de Fid. Butsch fils, Augsbourg, 1872.<0x0A>Rel. anc.<0x0A>298<0x0A>MARCHESINUS JOHANNES: Mammotrectus super Bibliam.<0x0A>Strasbourg (J. Grüninger), 1489, in-fol.<0x0A>Hain 10568, Proctor 454, Voulliéme; Berlin 2277, 5; Walter:<0x0A>Sélestat 319.<0x0A>K 2514. Prov.: Baer 8 Co., Francfort-s.-M., 19. VI. 1879, 18 M.<0x0A>Rel. anc.<0x0A>299<0x0A>MARCHESINUS JOHANNES: Mammotrectus super Bibliam.<0x0A>Strasbourg (Mart. Flach), 1494, in-4°.<0x0A>Hain 10573, Proctor 700, Voulliéme: Berlin 2498.<0x0A>K 2516. Prov.: Baer 8 Co., Francforts.-M., 23. V. 1879, 15 M.<0x0A>A l’intérieur du 1er plat: F. A. Lange, Bonn 1858. Rel, anc.<0x0A>300<0x0A>MARiAlE. De laudibus Mariae. Voir; Albertus Magnus,<0x0A>Mariale.<0x0A>MARSILIUS ab Inghen: Quaestiones super quatuor libros<0x0A>sententiarum. (Strasbourg, Mart. Flach, s. d.], in-fol.<0x0A>K 2523. Prov.: Don du prince de Bentheim, 1874, provenant<0x0A>du couvent de Frenswegen. Rel. anc.<0x0A>Voir: Thomas de Argentina, Scripta super quatuor libros<0x0A>sententiarum K. 3561. N° 454.<0x0A>301<0x0A>64<0x0A>MARTINUS POLONUS: Margarita decreti. Strasbourg, (impr.<0x0A>du Jordanus (— G. Husner)), 1er nov. 1486, in-fol.<0x0A>Hain 10843, Madsen 2682, Pellechet: Colmar 958, Proctor 607,<0x0A>Voullième: Berlin 2414.<0x0A>K 2536. Prov.: Don de la ville de Nördlingen, 1871. Rel, anc.<0x0A>302<0x0A>MARTINUS POLONUS: Margarita decreti, Strasbourg, (impr.<0x0A>du Jordanus (— G. Husner)), 13 juin 1489, in-fol.<0x0A>Hain 10845, Madsen 2683, Proctor 650, Voulliéme: Berlin<0x0A>2430.<0x0A>K 2536a. Prov.; inconnue. Rel. anc.<0x0A>303<0x0A>MARTINUS POLONUS: Margarita decreti. Strasbourg, Georges<0x0A>Husner), 24 déc. 1499, in-fol.<0x0A>Hain 10851, Pellechet; Colmar 959, Proctor 745, Voulliéme;<0x0A>Berlin 2529, 1.<0x0A>K 2538. Prov.: F. Butsch, Augsbourg, 12. X. 1883, 3 M. fol.<0x0A>a2a, en haut: «Carthusiae in Buxheim». Rel. anc.<0x0A>304<0x0A>MARTINUS POLONUS: Sermones de tempore et de sanctis.<0x0A>Strasbourg, (imprimeur du Jordanus (— G. Husner),<0x0A>1484, in-fol.<0x0A>Hain 10854, Madsen 2686, Pellechet: Colmar 

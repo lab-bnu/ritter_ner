@@ -1,0 +1,64 @@
+Extrait en un fichier JSON les entités nommées B-PER, I-PER, B-DATE, I-DATE, B-LOC, I-LOC selon l'exemple :
+Exemple =  "HANNENBEIN, Georg . Voir: LIED (Neu Klaglied der Bauern) n° 340.
+PETRUS DE CRESCENTIS
+( WUERFELBUCH ]
+ Strasbourg , ( Christian Egenolff ), 1529 
+ Marque typ. de Chris. Egenolff. Anno M. D. LXXXII 
+ Stadtbibl. Strassburg 1192". 
+
+Réponse = 
+[
+[{'entity': 'B-PER',
+   'word': 'HANNENBEIN',
+},
+  {'entity': 'I-PER',
+   'word': ',',
+},
+  {'entity': 'I-PER',
+   'word': 'Georg',
+},
+],[
+{'entity': 'B-PER',
+   'word': 'PETRUS',
+},
+{'entity': 'I-PER',
+'word': 'DE',
+},
+{'entity': 'I-PER',
+'word': 'CRESCENTIS',
+},
+],[
+{
+'entity':'B-LOC', 
+'word': 'Strasbourg',
+},
+],[
+{
+'entity': 'B-PER',
+'word': 'Christian'
+},
+{
+'entity':'I-PER',
+'word': 'Egenolff'
+},
+],[
+{'entity': 'B-DATE',
+'word': '1529'},
+],[
+{'entity':'B-PER',
+'word': 'Chris.'},
+{'entity': 'I-PER',
+'word': 'Egenolff'},
+],[
+{'entity':'B-DATE',
+'word': 'M.'},
+{'entity': 'I-DATE', 
+'word': 'D.'},
+{'entity':'I-DATE',
+'word': 'LXXXII'},
+],[
+{'entity': 'B-LOC',
+'word': 'Strassburg'}
+]
+]
+Maintenant, extrait en JSON les entités nommées des phrases suivantes :.<0x0A>K 2846. Prov.: Librairie Trübner, Strasbourg, 28/III. 1890,<0x0A>6 M. Au-dessus du titre: Monasterij s. Georgij», au-dessous:<0x0A>«F. Georgius Abbas 1654.»<0x0A>378<0x0A>PETRARCA: Historia Griseldis. (en allemand). (Strasbourg,<0x0A>H. Knoblochtzer), 1478, in-fol.<0x0A>Hain 12819, Madsen 3127, Schorbach et Spirgatis N° 8,<0x0A>Schreiber 4915. Voulliéme: Berlin 2209.<0x0A>Schramm, Bilderschmuck XIX, grav. N° 55-64.<0x0A>K 2872. Prov.; Librairie Trübner Strasbourg, 27/IX. 1887,<0x0A>700 M.<0x0A>379<0x0A>79<0x0A>PETRARCA: De remediis utriusque fortunae. (Strasbourg),<0x0A>in-4°.<0x0A>Hain 12792.<0x0A>K 2869. Prov.; BN Munich, 15/VII. 1873, 0,25 M. A l’intérieur<0x0A>du 1er plat, armoiries avec la devise: «Virtus, Patientia, Vic¬<0x0A>trix». Au bord «Johann Schwägerl von Dürschenreüt, De¬<0x0A>chant vnd Pfarrer zu Alburg, 1592». Rel. anc.<0x0A>380<0x0A>PETRARCA: Secretum de contemptu mundi. (Strasbourg,<0x0A>impr. R (— Ad. Rusch), pas après 1473), in-fol.<0x0A>Hain 12800, Madsen 3133, Proctor 231, Voulliéme: Berlin 2123.<0x0A>K 2870a. Prov.: A. F. Butsch, Augsbourg, 6/II. 1883, 38 M.<0x0A>Notes mss.<0x0A>381<0x0A>PETRUS DE ALLIACO: Quaestiones super I. Ill. et IV. librum<0x0A>sententiarum. Strasbourg, (imprimeur du Jordanus<0x0A>(— G. Husner)), 15 avril 1490, in-fol.<0x0A>Hain 841, Madsen 3145, Proctor 654, Pellechet 544, Schmidt<0x0A>VI, 28, Voulliéme; Berlin 2436.<0x0A>K 2893. Prov.: Librairie Trübner (Vente Noiriel), Strasbourg,<0x0A>4/IV. 1874. Au-dessous du titre: «Monasterij Andecensis».<0x0A>Rel. anc.<0x0A>382<0x0A>PETRUS DE ALLIACO: Tractatus et sermones. Strasbourg,<0x0A>impr. du Jordanus (— G. Husner) ), 1490, in-fol.<0x0A>Hain 848, Madsen 3148, Pellechet 528, Pellechet: Colmar 61,<0x0A>Proctor 660, Voulliéme: Berlin 2434.<0x0A>K 2895. Prov.: Librairie Trübner (Vente Noiriel), Strasbourg,<0x0A>4. IV. 1874. Au bas du titre: «Leonardi Byecher Monacensis<0x0A>Sacerdotis indignissimi 1636». Au-dessous, d’une autre main:<0x0A>«Ad Conventum Monacensem ordinis Eremitarum S. Augus¬<0x0A>tini». Rel. anc.<0x0A>383<0x0A>PETRUS COMESTOR: Historia scholastica. (Strasbourg, typ.<0x0A>du H. Ariminensis, vers 1475), in-fol.<0x0A>Hain 5529, Pellechet: Colmar 509, Proctor 321, Voulliéme:<0x0A>Berlin 2176.<0x0A>K 1292. Prov.: B N Munich, 15/VH. 1873, 3 M. 15. Au haut<0x0A>du 1er f.; Loci Capucinorum Neofori. Notes mss. Rel. anc.<0x0A>384<0x0A>80<0x0A>PETRUS COMESTOR: Historia scholastica. Strasbourg, J. Grü¬<0x0A>ninger et H. d’Ingwiller, 28 août 1483, in-fol.<0x0A>Hain 5532, Madsen 3157, Pellechet: Colmar 511, Proctor 436,<0x0A>Schmidt I, N° 1. Voullième: Berlin 2268, Voulliéme: Bonn 906.<0x0A>K 1294. Prov.: B N Munich, 22/1. 1880, 5 M. A l’intérieur du<0x0A>1er plat, exlibris avec le texte suivant: «Ex Bibliotheca Mal¬<0x0A>lersdorf. Monasterii O. S. B.» En bas: Mayr sc. Ratisb.».<0x0A>A l’intérieur du 2e plat, note mss. en allemand, contenant<0x0A>des médicaments. Rel. anc.<0x0A>385<0x0A>PETRUS COMESTOR: Historia scholastica. Strasbourg, (typ.<0x0A>du Jordanus (— G. Husner)), après le 24 février 1485,<0x0A>in-fol.<0x0A>Hain 5533, Madsen 3158, Pellechet 3881, Pellechet: Colmar<0x0A>512, Proctor 593, Voulliéme: Berlin 2403, 5, Walter: Sélestat<0x0A>372.<0x0A>K 1295. Prov.: Bibliothèque Ed. Reuss, Strasbourg, 28/IV.<0x0A>1891, avec son exlibris à l’intérieur du 1er plat. Au-dessous<0x0A>du titre, note mss. de Reuss; «Ex libris Monasterii in West¬<0x0A>phalia mense Jan. 1840 emi 18 fr. 70 c.». Au haut du fol. ala:<0x0A>«Liber Monasterii Liesbornensis».<0x0A>386<0x0A>PETRUS COMESTOR: Historia scholastica. Strasbourg, [typ.<0x0A>du Jordanus (—G. Husner), vers 1500), in-fol.<0x0A>Hain 5538, Pellechet 3883, Proctor 749, Voulliéme: Berlin<0x0A>2530.<0x0A>K 1298. Prov.; B N Munich, 22/1. 1880, 9 M. A la suite de<0x0A>Eusebius Pamphilus, Historia ecclesiastica, Strasbourg 1500.<0x0A>K1524.<0x0A>387<0x0A>PETRUS DE CRESCENTIIS. Voir: Crescentiis.<0x0A>PETRUS FRATER: Legenda sanctae Catharinae. Strasbourg,<0x0A>J. Grüninger, 6 avril 1500, in-4°.<0x0A>Hain 12850, Kristeller 93, Proctor 492, Schreiber 4921, Voul¬<0x0A>liéme: Berlin 2308.<0x0A>Schramm, Bilderschmuck XX, grav. N° 647-660.<0x0A>K 2878. Prov.: Vente Trübner, Catal. N° 138/9, 30/X. 1886,<0x0A>108 M. Rel. anc.<0x0A>388<0x0A>81<0x0A>R.<0x0A>PETRUS FRATER: Legende der h. Katharina. Strasbourg,<0x0A>J. Grüninger, 2 juillet 1500, in-4°.<0x0A>Hain 12.851, Kristeller 94, Proctor 493 B. Voulliéme: Berlin<0x0A>2311; Schreiber 4922, Schramm, Bilderschmuck XX, grav.<0x0A>N° 647-660.<0x0A>K 2879. Prov.: Librairie Bull (Vente Leser), Strasbourg,<0x0A>10/II. 1872. A la suite de Legende von st. Annan, Strasbourg<0x0A>1500, K 2356,<0x0A>389<0x0A>PETRUS HISPANUS: Commentum novum in primum et quar¬<0x0A>tum tractatus. Haguenau, H. Gran, 3 mars 1495, in-4°.<0x0A>Hain 8708, Proctor 3183, Walter: Sélestat 270.<0x0A>K 2916. Prov.; B N Munich, 16/xIl. 1879, 2 M., 20. De nom¬<0x0A>breuses notes mss, se rapportant au texte. Rel. anc.<0x0A>390<0x0A>PETRUS LOMBARDUS: Sententiarum libri IV. [Strasbourg,<0x0A>impr. du H. Ariminensis, s. d.), in-fol.<0x0A>Hain 10184, Proctor 309, Voulliéme: Berlin 2177; Walter:<0x0A>Sélestat 375.<0x0A>K 2919. Prov.; K. Trübner, Strasbourg, 10/VI. 1887, 55 M.<0x0A>A l’intérieur du 1er plat: «Panzer 1. 96. 5 19 Cf. IV. 224.<0x0A>438b. IV. 154.736. (Arg

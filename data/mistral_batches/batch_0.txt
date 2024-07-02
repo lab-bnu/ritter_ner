@@ -1,0 +1,64 @@
+Extrait en un fichier JSON les entités nommées B-PER, I-PER, B-DATE, I-DATE, B-LOC, I-LOC selon l'exemple :
+Exemple =  "HANNENBEIN, Georg . Voir: LIED (Neu Klaglied der Bauern) n° 340.
+PETRUS DE CRESCENTIS
+( WUERFELBUCH ]
+ Strasbourg , ( Christian Egenolff ), 1529 
+ Marque typ. de Chris. Egenolff. Anno M. D. LXXXII 
+ Stadtbibl. Strassburg 1192". 
+
+Réponse = 
+[
+[{'entity': 'B-PER',
+   'word': 'HANNENBEIN',
+},
+  {'entity': 'I-PER',
+   'word': ',',
+},
+  {'entity': 'I-PER',
+   'word': 'Georg',
+},
+],[
+{'entity': 'B-PER',
+   'word': 'PETRUS',
+},
+{'entity': 'I-PER',
+'word': 'DE',
+},
+{'entity': 'I-PER',
+'word': 'CRESCENTIS',
+},
+],[
+{
+'entity':'B-LOC', 
+'word': 'Strasbourg',
+},
+],[
+{
+'entity': 'B-PER',
+'word': 'Christian'
+},
+{
+'entity':'I-PER',
+'word': 'Egenolff'
+},
+],[
+{'entity': 'B-DATE',
+'word': '1529'},
+],[
+{'entity':'B-PER',
+'word': 'Chris.'},
+{'entity': 'I-PER',
+'word': 'Egenolff'},
+],[
+{'entity':'B-DATE',
+'word': 'M.'},
+{'entity': 'I-DATE', 
+'word': 'D.'},
+{'entity':'I-DATE',
+'word': 'LXXXII'},
+],[
+{'entity': 'B-LOC',
+'word': 'Strassburg'}
+]
+]
+Maintenant, extrait en JSON les entités nommées des phrases suivantes : REPERTOIRE BIBLIOGRAPHIQUE DES LIVRES IMPRIMES<0x0A>EN ALSACE<0x0A>AUX XVe ET XVIe SIÈCLES<0x0A>PAR<0x0A>FR. RITTER<0x0A>Ire PARTIE: XVe siècle.<0x0A>Catalogue des Incunables de la Bibliothèque Nationale et<0x0A>Universitaire de Strasbourg.<0x0A>4 494018<0x0A>IIe PARTIE : XVIe siècle.<0x0A>Répertoire bibliographique des livres du XVIe s. qui se trou¬<0x0A>vent à la Bibliothèque Nationale et Universitaire de Strasbourg.<0x0A>Vol. I :A-D<0x0A>Vol. II : E..K<0x0A>Vol. III : L-R<0x0A>Vol. IV: S-Z<0x0A>IIIe PARTIE : XVe siècle.<0x0A>Catalogue des Incunables ne figurant pas à la Bibliothèque<0x0A>Nationale et Universitaire de Strasbourg.<0x0A>IVe PARTIE : XVIe siècle.<0x0A>Répertoire bibliographique des livres du XVIe s. ne figurant pas<0x0A>à la Bibliothèque Nationale et Universitaire de Strasbourg.<0x0A>.<0x0A>A 4215<0x0A>REPERTOIRE BIBLIOGRAPHIQUE DES LIVRES<0x0A>IMPRIMES EN ALSACE<0x0A>AUX XVe ET XVI° SIÈCLES<0x0A>PREMIERE PARTIE<0x0A>CATALOGUE DES INCUNABLES<0x0A>DE LA BIBLIOTHEQUE NATIONALE<0x0A>ET UNIVERSITAIRE DE STRASBOURG<0x0A>PAR<0x0A>FR. RITTER<0x0A>EDITIONS P. H. HEITZ<0x0A>STRASBOURG<0x0A>1937<0x0A>Sipstoun<0x0A>1<0x0A>TABLE DES MATIÈRES<0x0A>Pages<0x0A>Introduction.. . . . . . . . . . . . . . . . . .. .. VII-XXIX<0x0A>Incunables par ordre alphabétique... . . . . .. . .<0x0A>1— 104<0x0A>Table des imprimeurs par ordre alphabétique avec la liste<0x0A>chronologique de leurs ouvrages.... . . . . . . 105–120<0x0A>Table des noms propres.. . . . . . . . . . . . . . . . 121– 128<0x0A>Table des numéros de Hain... . . . . . . . . . . .. 129–131<0x0A>Additions et Corrections... . . . . . . . . . . .. . 132– 134<0x0A>Abréviations et Bibliographie.. . . . . . . . . . . . . 135–137<0x0A>.<0x0A>1<0x0A>INTRODUCTION<0x0A>Le Catalogue des Alsatiques de la Bibliothèque Natio¬<0x0A>nale et Universitaire de Strasbourg, publié par les biblio¬<0x0A>thécaires Marckwald, Mentz et Wilhelm durant les années<0x0A>1908 à 1929 contient tous les livres de la Section des Alsa¬<0x0A>tiques, mais ne renferme pas les précieux incunables impri¬<0x0A>més en Alsace au 15e siècle. Notre catalogue des incunables<0x0A>alsaciens vient de compléter cette lacune et il est à espérer<0x0A>que tous ceux qui possèdent déjà les quatre volumes du<0x0A>Catalogue des Alsatiques seront également curieux de ce<0x0A>nouveau travail. D’un autre côté le Catalogue des Incu¬<0x0A>nables constitue un complément indispensable au Réper¬<0x0A>toire Bibliographique du 16e siècle qui est en cours de publi¬<0x0A>cation, et dont le dixième fascicule vient de paraître. A<0x0A>diverses reprises on m’a déjà demandé pourquoi je n’avais<0x0A>pas étendu ce répertoire au 15e siècle, laissant ainsi de côté<0x0A>les incunables qui forment la partie la plus précieuse des<0x0A>anciens livres imprimés en Alsace. La raison qui m’avait<0x0A>décidé à faire cette séparation était que les livres du<0x0A>15e siècle demandent à être décrits d’une manière tout à<0x0A>fait différente de celle qu’exigent les livres du 16e siècle,<0x0A>car les livres du 15e siècle sont pour la plupart déjà décrits<0x0A>VII<0x0A>d’une manière très détaillée chez Hain-Copinger et Pelle¬<0x0A>chet ainsi que dans le Répertoire Bibliographique de<0x0A>Charles Schmidt, sans parler du Catalogue of books printed<0x0A>in the XVth century now in the British Museum (— BMC),<0x0A>vol. I, p. 50-172 et du Gesamtkatalog der Wiegendrucke<0x0A>(— GW) qui est en cours de publication, comprenant dans<0x0A>les six premiers volumes parus les lettres A-C. Il était donc<0x0A>superflu de donner une nouvelle description des incu¬<0x0A>nables, vu qu’un simple renvoi à ces répertoires était entiè¬<0x0A>rement suffisant pour l’orientation des recherches, ce qui<0x0A>n’est pas le cas pour les livres du 16e siècle, pour la plupart<0x0A>desquels il n’existe pas encore de descriptions détaillées<0x0A>auxquelles on puisse renvoyer. C’est pourquoi les descrip¬<0x0A>tions des livres du Répertoire du 16e siècle sont beaucoup<0x0A>plus étendues et détaillées.<0x0A>Néanmoins ces deux ouvrages, Catalogue du 15e et<0x0A>Répertoire du 16e siècle se complètent réciproquement et<0x0A>forment un tout, donnant un apercu général des anciens<0x0A>livres sortis des presses alsaciennes au 15e et au 16e siècle.<0x0A>C’est ce que nous avons voulu souligner en première page,<0x0A>en présentant le catalogue du 15e siècle comme un complé¬<0x0A>ment préliminaire en 5 fascicules hors série au Répertoire<0x0A>du 16e siècle.<0x0A>Pellechet, Schmidt et le Gesamtkatalog ne donnent pas<0x0A>seulement une description détaillée des incunables, mais<0x0A>ils renseignent en même temps sur leurs caractères typo¬<0x0A>graphiques et sur les détenteurs d’exemplaires. Il en est<0x0A>de même de Proctor, qui publie les exemplaires du British<0x0A>Museum de Londres *), de Voullième qui donne ceux des<0x0A>Bibliothèques de Berlin et de Madsen qui vient de publier<0x0A>le catalogue des incunables de la Bibliothèque de Copen¬<0x0A>hague. J’ai ajouté en outre les exemplaires de la Biblio¬<0x0A>thèque Municipale de Sélestat d’après le Catalogue de Mon¬<0x0A>*) J’ai cru pouvoir me dispenser de citer les numéros du<0x0A>BMC, vu qu’il groupe les exemplaires comme Proctor au nom<0x0A>des imprimeurs, de sorte qu’en cas de recherches chacun les<0x0A>trouvera facilement lui-même.<0x0A>VIII<0x0A>sieur J. Walter et ceux de la Bibliothèque Municipale de<0x0A>Colmar d’après le Catalogue de Pellechet. Les renvois à<0x0A>Kristeller, Schreiber et Schramm orientent le lecteur sur les<0x0A>gravures contenues en grand nombre dans les livres alsa¬<0x0A>ciens du 15e siècle, reproduites pour la plupart chez<0x0A>Schramm; j’ai eu soin d’indiquer chaque fois les numéros<0x0A>des reproductions de ce dernier. En dernier lieu vient la<0x0A>cote de l’exemplaire de la Bibliothèque Nationale de Stras¬<0x0A>bourg, avec l’indication de la provenance, que j’ai pu<0x0A>retrouver pour la plupart du temps dans les anciens inven¬<0x0A>taires de la Bibliothèque. La moitié des incunables environ<0x0A>est due à des dons faits soit par des particuliers soit par des<0x0A>bibliothèques publiques; une grande partie provient des<0x0A>doubles des grandes bibliothèques comme Munich, Vienne,<0x0A>Breslau, Gœttingue, Heidelberg et autres qui ont vendu ces<0x0A>doubles à la Bibliothèque à des prix très modérés; le reste<0x0A>se compose d’achats d’occasion faits chez les libraires et les<0x0A>antiquaires, quelquefois aussi chez des particuliers. On<0x0A>trouvera à la fin du livre dans la liste des noms propres les<0x0A>noms des donateurs ainsi que des vendeurs. Remarquons<0x0A>enfin qu’un grand nombre d’incunables contiennent des<0x0A>notes manuscrites qui nous révèlent assez fréquemment des<0x0A>noms d’anciens possesseurs, (anciens monastères, églises ou<0x0A>particuliers), parmi lesquels il est fréquent de rencontrer<0x0A>des personnages illustres des 15e, 16e et 17e siècles; on trou¬<0x0A>vera leurs noms dans la liste alphabétique des noms propres<0x0A>à la fin du volume. Chaque fois que j’ai trouvé des anno¬<0x0A>tations manuscrites de quelque intérêt, j’ai eu soin de les<0x0A>noter.<0x0A>La Bibliothèque Nationale de Strasbourg a acquis ainsi<0x0A>au cours des 67 années de son existence environ cinq cents<0x0A>incunables d’origine alsacienne, c’est de loin la plus riche<0x0A>collection d’incunables

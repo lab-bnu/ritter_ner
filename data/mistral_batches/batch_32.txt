@@ -1,0 +1,64 @@
+Extrait en un fichier JSON les entités nommées B-PER, I-PER, B-DATE, I-DATE, B-LOC, I-LOC selon l'exemple :
+Exemple =  "HANNENBEIN, Georg . Voir: LIED (Neu Klaglied der Bauern) n° 340.
+PETRUS DE CRESCENTIS
+( WUERFELBUCH ]
+ Strasbourg , ( Christian Egenolff ), 1529 
+ Marque typ. de Chris. Egenolff. Anno M. D. LXXXII 
+ Stadtbibl. Strassburg 1192". 
+
+Réponse = 
+[
+[{'entity': 'B-PER',
+   'word': 'HANNENBEIN',
+},
+  {'entity': 'I-PER',
+   'word': ',',
+},
+  {'entity': 'I-PER',
+   'word': 'Georg',
+},
+],[
+{'entity': 'B-PER',
+   'word': 'PETRUS',
+},
+{'entity': 'I-PER',
+'word': 'DE',
+},
+{'entity': 'I-PER',
+'word': 'CRESCENTIS',
+},
+],[
+{
+'entity':'B-LOC', 
+'word': 'Strasbourg',
+},
+],[
+{
+'entity': 'B-PER',
+'word': 'Christian'
+},
+{
+'entity':'I-PER',
+'word': 'Egenolff'
+},
+],[
+{'entity': 'B-DATE',
+'word': '1529'},
+],[
+{'entity':'B-PER',
+'word': 'Chris.'},
+{'entity': 'I-PER',
+'word': 'Egenolff'},
+],[
+{'entity':'B-DATE',
+'word': 'M.'},
+{'entity': 'I-DATE', 
+'word': 'D.'},
+{'entity':'I-DATE',
+'word': 'LXXXII'},
+],[
+{'entity': 'B-LOC',
+'word': 'Strassburg'}
+]
+]
+Maintenant, extrait en JSON les entités nommées des phrases suivantes : sanctis.<0x0A>Strasbourg, (impr. du Jordanus (—G. Husner)),<0x0A>22 nov, 1495, in-fol.<0x0A>Hain 3262, Proctor 636, Voulliéme: Berlin 2455.<0x0A>K 2679. Prov.: Don du prince de Bentheim, 1871. Au-dessous<0x0A>du titre: Qui liber vulgo Viridarius nuncupatur. Ioannes<0x0A>Theobaldus Groschan parochus ad B. V. in... (illisible). Hic<0x0A>auctor circa annum Christi 1438 vixisse conjicitur.» Notes<0x0A>mss. Rel. anc.<0x0A>334<0x0A>NICOLAUS DE BLONY: Sermones de tempore. Strasbourg,<0x0A>imprimeur du Jordanus (— G. Husner)), 23 août<0x0A>1498, in-fol.<0x0A>Hain 3263, Proctor 643, Voulliéme: Berlin 2465.<0x0A>K 2680. Prov.: Double de la Bibl. de Darmstadt par l’inter¬<0x0A>médiaire de Baer & Co., Francfort-s.-M., 22. XI. 1878. Au¬<0x0A>dessus du titre: «Conventus Wimpinensis Ordinis Fratrum<0x0A>Praedicatorum.» fol. Aal : Conventus Ordinis Fratrum Praedi¬<0x0A>catorum. Wimpinae.» Rel. anc.<0x0A>335<0x0A>NICOLAUS DE BLONY: Tractatus sacerdotalis de sacramentis.<0x0A>Strasbourg, (Martin Flach), 1er octobre 1488, in-4°.<0x0A>Hain 3253, Pellechet: Colmar 346, Proctor 676, Voulliéme:<0x0A>Berlin 2482.<0x0A>K 2672. Prov.: Don de la Bibl. de Heidelberg, 1871. Introu¬<0x0A>vable, manquait déjà au recollement 2 novembre 1921. 336<0x0A>NICOLAUS DE BLONY: Tractatus sacerdotalis de sacramentis.<0x0A>Strasbourg, Martin Flach, 29 mai 1490, in-4°.<0x0A>Hain 3254, Madsen 2861, Pellechet: Colmar 347, Proctor 685,<0x0A>Schmidt VI, 29, Voulliéme: Berlin 2490.<0x0A>K 2673. Prov.: R. Sandrog, Berlin, 6. III. 1877, 6 M. Introu¬<0x0A>vable. Manquait déjà au recollement, 2 novembre 1921. 337<0x0A>NICOLAUS DE BLONY: Tractatus sacerdotalis de sacramentis.<0x0A>Strasbourg, Mart. Flach, 1492, in-4°.<0x0A>Hain 3255, Proctor 695, Schmidt VI, 41, Voulliéme: Berlin<0x0A>2495.<0x0A>K 2674. Prov.: Librairie Trübner (Vente Noiriel), 4. IV. 1874.<0x0A>A la suite de Antoninus, Confessionnale, 1488. K 311.<0x0A>338<0x0A>71<0x0A>NICOLAUS DE BLONY: Tractatus sacerdotalis de sacramentis.<0x0A>Strasbourg, Mart. Flach, 1493, in-4°.<0x0A>Hain 3256, Madsen 2862, Schmidt VI, 48, Voulliéme: Berlin<0x0A>2495, 3.<0x0A>K 2675. Prov.: Curé Cromer, Saverne, 21. VIII. 1879.<0x0A>2e ex. K. 1840, 2. A la suite de Guido de Monte Rotherii, Mani¬<0x0A>pulus, 1493. K 1840, 1.<0x0A>339<0x0A>NICOLAUS DE DINKELSBÜHL: Postilla evangeliorum domi¬<0x0A>nicalium. Strasbourg, (J. Grüninger), 1496, in-4°.<0x0A>Hain 11760, Madsen 2864, Proctor 476 (?), Voulliéme: Ber¬<0x0A>lin 2527, 30.<0x0A>K 2682. Prov.: Don de la Bibl. Univ. de Heidelbers, 1872. Au¬<0x0A>dessus du titre; «Matheus Sydelin», au-dessous: «Exupr.<0x0A>Bieler», d’une autre main: «Melchior Mager me sibi compa¬<0x0A>ravit.» Au verso du titre, armoiries, entourées des mots:<0x0A>«Monasterii Petri domus». Rel. anc.<0x0A>340<0x0A>NICOLAUS FALCUTIUS: Antidotarius. (Strasbourg, J. Prüss,<0x0A>s. d.), in-fol.<0x0A>Hain 11.763, Voulliéme: Berlin 2387.<0x0A>K 2684. Prov.; B N Munich, 24. V. 1877. 4 M. Notes mss. à<0x0A>l’intérieur des plats. Rel. anc.<0x0A>341<0x0A>NICOLAUS DE HANAPIS: Auctoritates utriusque testamenti.<0x0A>(Strasbourg, H. Eggestein), s. d., in-fol.<0x0A>Hain 3534, Madsen 2865, Pellechet 2580, Proctor 283, Voul¬<0x0A>liéme: Berlin 2146.<0x0A>K 868. Prov.: BN Munich, 22. I. 1880, 5 M. Notes mss. à la<0x0A>fin.<0x0A>342<0x0A>NICOLAUS DE HANAPIS: Auctoritates utriusque testamenti.<0x0A>(Strasbourg, H. Eggestein, s. d.), in-fol.<0x0A>Hain 3535, Proctor 270, Voullième: Berlin 2146, 4.<0x0A>K 869. Prov.: B N Munich, 20. I. 1880.<0x0A>343<0x0A>NICOLAUS DE LYRA: Moralia super bibliam. (Strasbourg,<0x0A>G. Husner, s. d.), in-fol.<0x0A>Hain 10372, Pellechet: Colmar 919, Proctor 365, Voulliéme:<0x0A>Berlin 2206.<0x0A>72<0x0A>K 2448. Prov.: J. Bensheimer, Strasbours, 30. VII. 1879, 18 M.<0x0A>Entre les 2 colonnes du 1er f.: Pro Bibliotheca P. P. Francis¬<0x0A>canorum Recollectorum in Rastatt. Au haut: Cachet de la<0x0A>Société de Jésus. Rel, anc. Endommagé.<0x0A>344<0x0A>NICOLAUS DE LYRA: Postilla super bibliam. (Strasbourg,<0x0A>J. Mentelin, vers 1475), in-fol.<0x0A>Hain 10366, Madsen 2870, Pellechet: Colmar 917, Proctor 223,<0x0A>Voulliéme: Berlin 2105; Schorbach: Mentelin N° 20; vers<0x0A>1470-1472.<0x0A>K 2444. Prov.: Don de la ville de Heilbronn, 1871. Rel. anc.<0x0A>345<0x0A>NIDER JOHANNES: Praeceptorium divinae legis. Strasbourg,<0x0A>G. Husner, 13 février 1476, in-fol.<0x0A>Hain 11790, Madsen 2900, Pellechet: Colmar 1010, Proctor<0x0A>347. Voullième; Berlin 2194, Walter: Sélestat 342.<0x0A>K 2693a. Prov.: A. F. Butsch, Augsbourg, 6. IL. 1883, 25 M.<0x0A>Rel. anc.<0x0A>346<0x0A>NIDER JOHANNES: Praeceptorium divinae legis. Strasbourg,<0x0A>imprimeur du Jordanus (— G. Husner)), 1483, in-fol.<0x0A>Hain 11795, Madsen 2906, Pellechet: Colmar 1012, Proctor<0x0A>585. Voullième: Berlin 2400.<0x0A>K 2695. Prov.: List & Francke, Leipzig, 20. III. 1887, 6 M.<0x0A>Notes mss.<0x0A>347<0x0A>OCKAM GUILELMUS: Quodlibeta septem. Strasbourg, (impr.<0x0A>du Jordanus (— G. Husner)), 6 janvier 1491, in-fol.<0x0A>Hain 11941, Madsen 1879, Pellechet: Colmar 1027, Proctor<0x0A>661. Voullième: Berlin 2442.<0x0A>K 2737a. Prov.: Les héritiers de C. Geyling, Vienne, 18. I.<0x0A>1886, 8 M. De nombreuses notes mss. Au-dessous du titre:<0x0A>«Carthusiae Gemnicensis».<0x0A>348<0x0A>ORIOL Petrus. Voir; Aureolus.<0x0A>OTTO VON PASSAU: Die vierundzwanzig Alten. Strasbourg,<0x0A>Martin Schott, 

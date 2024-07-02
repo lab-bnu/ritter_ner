@@ -1,0 +1,64 @@
+Extrait en un fichier JSON les entités nommées B-PER, I-PER, B-DATE, I-DATE, B-LOC, I-LOC selon l'exemple :
+Exemple =  "HANNENBEIN, Georg . Voir: LIED (Neu Klaglied der Bauern) n° 340.
+PETRUS DE CRESCENTIS
+( WUERFELBUCH ]
+ Strasbourg , ( Christian Egenolff ), 1529 
+ Marque typ. de Chris. Egenolff. Anno M. D. LXXXII 
+ Stadtbibl. Strassburg 1192". 
+
+Réponse = 
+[
+[{'entity': 'B-PER',
+   'word': 'HANNENBEIN',
+},
+  {'entity': 'I-PER',
+   'word': ',',
+},
+  {'entity': 'I-PER',
+   'word': 'Georg',
+},
+],[
+{'entity': 'B-PER',
+   'word': 'PETRUS',
+},
+{'entity': 'I-PER',
+'word': 'DE',
+},
+{'entity': 'I-PER',
+'word': 'CRESCENTIS',
+},
+],[
+{
+'entity':'B-LOC', 
+'word': 'Strasbourg',
+},
+],[
+{
+'entity': 'B-PER',
+'word': 'Christian'
+},
+{
+'entity':'I-PER',
+'word': 'Egenolff'
+},
+],[
+{'entity': 'B-DATE',
+'word': '1529'},
+],[
+{'entity':'B-PER',
+'word': 'Chris.'},
+{'entity': 'I-PER',
+'word': 'Egenolff'},
+],[
+{'entity':'B-DATE',
+'word': 'M.'},
+{'entity': 'I-DATE', 
+'word': 'D.'},
+{'entity':'I-DATE',
+'word': 'LXXXII'},
+],[
+{'entity': 'B-LOC',
+'word': 'Strassburg'}
+]
+]
+Maintenant, extrait en JSON les entités nommées des phrases suivantes :.<0x0A>Hain 6708, Madsen 1520, Pellechet 4635, Proctor 289, Voul¬<0x0A>liéme: Berlin 2152.<0x0A>K 1521. Prov.: B N Munich, 22/1. 1880, 2 M. Incomplet, les<0x0A>5 derniers ff. manquent.<0x0A>160<0x0A>35<0x0A>EUSEBIUS Pamphilius: Historia ecclesiastica. Strasbourg,<0x0A>Georg Husner), 14 mars 1500, in-fol.<0x0A>Hain 6714, Madsen 1519, Pellechet 4640, Proctor 747, Voul¬<0x0A>liéme; Berlin 2529, 3.<0x0A>K 1524. Prov.; B N Munich, 22/1. 1880, 2 M. 2e ex. K 1524a.<0x0A>Prov.: B N Munich 16/XII. 1879. A l’intérieur du 1er plat,<0x0A>exlibris; au-dessous: «Bibliotheca Palatina». Notes mss. au<0x0A>recto du dernier f. blanc: «Emptus est iste liber Anno 1525.<0x0A>N. A.» Rel, anc.<0x0A>161<0x0A>EVANGELIA mit uslegunge der glos. Strasbourg, J. Grüninger,<0x0A>22 juin 1500, in-fol.<0x0A>Hain 6747, Schmidt I, 50, Voulliéme: Berlin 2310.<0x0A>Schramm, Bilderschmuck XX, grav. N° 466-568.<0x0A>K 1538. Prov.: O. Harrassowitz, Leipzig, 9/IV. 1889, 80 M.<0x0A>Entre parenthèses: valeur 200 M.<0x0A>162<0x0A>EXCEPTIONES Legum Romanorum. Strasbourg, Jean Schott,<0x0A>4 novembre 1500, in-4°.<0x0A>Hain 6759, Madsen 1532, Proctor 764, Schmidt II, 3, Voul¬<0x0A>liéme: Berlin 2563, Walter: Sélestat 189.<0x0A>K 1540. Prov.: L. Rosenthal, Munich, 7/II. 1884, 10 M. 163<0x0A>EXERCITIUM puerorum grammaticale. Haguenau, H. Gran,<0x0A>30 juillet 1491, in-4°.<0x0A>Hain 6768, Proctor 3173, Voulliéme; Berlin 1169, Walter:<0x0A>Sélestat 191.<0x0A>K 1542. Prov.: B N Munich, 16/xII. 1879, 0 M. 60. 164<0x0A>EXERCITIUM puerorum grammaticale. (Haguenau, H. Gran),<0x0A>2 mars 1500, in-4°.<0x0A>Hain 6773, Proctor 746, Voulliéme: Berlin 1183, 5.<0x0A>Schramm, Bilderschmuck XIX, grav. N° 10.<0x0A>K 1545. Prov.; B N Munich, 16/xII. 1879, 1 M.<0x0A>165<0x0A>EXPOSITIO hymnorum. Haguenau, (H. Gran), 1493, in-4.<0x0A>Hain 6785, Pellechet 4683, Proctor 3178, Voulliéme: Berlin<0x0A>1171, 5.<0x0A>K 1549, Prov.: B N Munich, 16/XII. 1879, 1 M. 50. A la suite<0x0A>de Sequentiarum textus K 3472. Notes mss. Rel. anc. 166<0x0A>36<0x0A>FARINATOR Mathias: Lumen animae. (Strasbourg, impri¬<0x0A>meur de la Legenda aurea), 22 mars 1482, in-fol.<0x0A>Hain 10333, Madsen 1559, Pellechet: Colmar 915, Proctor 413,<0x0A>Voullième: Berlin 2249.<0x0A>K 2438. Prov.: Don de la Bibl. Univ. de Goettingue, 1871. Au<0x0A>haut du f. de garde: «Liber Johannis Alberti (?)». Rel. anc.<0x0A>167<0x0A>FASCICULUS temporum. Voir: Rolewinck Werner.<0x0A>FERRARIIS Johannes Petrus de: Practica nova judicialia.<0x0A>(Strasbourg, H. Eggestein, s. d.), in-fol.<0x0A>Hain 6985, Pellechet 4769, Proctor 280.<0x0A>K 1581. Prov.; B N Munich, 22/1. 1880, 12 M. Rel. anc. 168<0x0A>FERRERIUS Vincentius; Sermones de tempore. Pars hiema¬<0x0A>lis, 1488. Sermones de tempore, Pars æstivalis. Sermo¬<0x0A>nes de sanctis. Strasbourg, (impr. du Jordanus (— G.<0x0A>Husner) ), 1488/9, 3 vol. in-fol.<0x0A>Hain 7005. I. Il. II., Voullième: Berlin 2418, 2424, 2427.<0x0A>K 3734a, Prov.: Oswald Weigel, Leipzig, 2/XII. 1893, 20 M.<0x0A>Au-dessous du titre du 1er et du 2e vol.: «Fratrum Minorum Bam<0x0A>bergae ad S. Annam. Au-dessous du titre du 3e vol.: Langheim<0x0A>1641. Rel. anc.<0x0A>169<0x0A>FERRERIUS Vicentius S.: Sermones de tempore. Pars æsti¬<0x0A>valis. Strasbourg, (impr. du Jordanus (— G. Husner)),<0x0A>1493, in-fol.<0x0A>Hain 7009, Pellechet: Colmar 615.<0x0A>K 3735a. Prov.: C. Geyling héritiers, Vienne, 18/1. 1886, 8 M.<0x0A>Au-dessous du titre: «Conventus Colmariensis Ordinis prae¬<0x0A>dicatorum». Rel. anc.<0x0A>170<0x0A>FERRERIUS Vincentius S.: Sermones de tempore. Pars hie¬<0x0A>malis. Strasbourg, (impr. du Jordanus (— G. Husner)),<0x0A>1493, in-fol.<0x0A>Hain 7009, Pellechet: Colmar 615.<0x0A>K 3735b. Au-dessus du titre: Adam Reiner. Rel. anc.<0x0A>171<0x0A>37<0x0A>FLISCUS Stephanus: Varietates sententiarum. Strasbourg,<0x0A>J. Prüss, 1487, in-4°.<0x0A>Hain 7153, Proctor 531, Schmidt III, 15, Voulliéme: Berlin<0x0A>2344.<0x0A>K 1609. Prov.: Bibliothèque du prof. Baum, 1879. Note mss.<0x0A>au verso du dernier f.<0x0A>172<0x0A>FLORES legum. Strasbourg, (J. Grüninger, ), 1496, in-4°.<0x0A>Hain 7170. Pellechet 4845, Proctor 475.<0x0A>K 1612. Prov.: BN Munich, 16/XII. 1879, 0 M. 50.<0x0A>173<0x0A>FORMULARE und Deutsch Rhetorica. Strasbourg, J. Prüss,<0x0A>1483; in-8°.<0x0A>Hain 7260, Pellechet 4866, Schmidt III, 7, Voulliéme: Berlin<0x0A>2337, 15.<0x0A>K 1634. Prov.: Librairie Trübner, Strasbourg, 11/VII. 1879,<0x0A>25 M. Note mss. au f. du titre. Rel. anc.<0x0A>174<0x0A>FORMULARE und Deutsch Rethorica. (Strasbourg, J. Prüss),<0x0A>1486, in-fol.<0x0A>Copinger 2562, Schmidt III, 12, Voulliéme: Berlin 2341, 5.<0x0A>K 1637. Prov.: Don de la ville de Marktbreit, 25/VII. 1881.<0x0A>Notes mss. au verso du dernier f.<0x0A>175<0x0A>GABRIEL de Urach. Voir; Sermones tres de passione Christi.<0x0A>Strasbourg, 1490.<0x0A>GALLUS, Abbas Cisterciensis: Dialogus Malogranatum dic¬<0x0A>tus. (Strasbourg, H. Eggestein, vers 1474), in-fol.<0x0A>Hain 7449, Madsen 1655, Pellechet 4981, Pellechet: Colmar<0x0A>634, Proctor 298, Voulliéme: Berlin 2153.<0x0A>K 1662. Prov.: B N Munich, 22/I. 1880, 5 M. A l’intérieur<0x0A>du 1er plat: Conventus Monacensis. 1er f. manque. Rel. anc.<0x0A>176<0x0A>GARLANDIA. Voir: Johannes

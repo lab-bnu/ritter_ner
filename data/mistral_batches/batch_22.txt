@@ -1,0 +1,64 @@
+Extrait en un fichier JSON les entités nommées B-PER, I-PER, B-DATE, I-DATE, B-LOC, I-LOC selon l'exemple :
+Exemple =  "HANNENBEIN, Georg . Voir: LIED (Neu Klaglied der Bauern) n° 340.
+PETRUS DE CRESCENTIS
+( WUERFELBUCH ]
+ Strasbourg , ( Christian Egenolff ), 1529 
+ Marque typ. de Chris. Egenolff. Anno M. D. LXXXII 
+ Stadtbibl. Strassburg 1192". 
+
+Réponse = 
+[
+[{'entity': 'B-PER',
+   'word': 'HANNENBEIN',
+},
+  {'entity': 'I-PER',
+   'word': ',',
+},
+  {'entity': 'I-PER',
+   'word': 'Georg',
+},
+],[
+{'entity': 'B-PER',
+   'word': 'PETRUS',
+},
+{'entity': 'I-PER',
+'word': 'DE',
+},
+{'entity': 'I-PER',
+'word': 'CRESCENTIS',
+},
+],[
+{
+'entity':'B-LOC', 
+'word': 'Strasbourg',
+},
+],[
+{
+'entity': 'B-PER',
+'word': 'Christian'
+},
+{
+'entity':'I-PER',
+'word': 'Egenolff'
+},
+],[
+{'entity': 'B-DATE',
+'word': '1529'},
+],[
+{'entity':'B-PER',
+'word': 'Chris.'},
+{'entity': 'I-PER',
+'word': 'Egenolff'},
+],[
+{'entity':'B-DATE',
+'word': 'M.'},
+{'entity': 'I-DATE', 
+'word': 'D.'},
+{'entity':'I-DATE',
+'word': 'LXXXII'},
+],[
+{'entity': 'B-LOC',
+'word': 'Strassburg'}
+]
+]
+Maintenant, extrait en JSON les entités nommées des phrases suivantes :. A l’intérieur du 1er plat: «Magister Con¬<0x0A>radus onsorg Canonicus Ratisponensis me donayit Monasterio<0x0A>Undensdorff anno 1478». Rel. anc.<0x0A>190<0x0A>GRATIANUS: Decretum. Strasbourg, J. Grüninger, 4 sep¬<0x0A>tembre 1484, in-fol.<0x0A>Hain 7901, Madsen 1759, Pellechet 5322, Pellechet: Colmar<0x0A>673, Proctor 442, Schmidt I, 5, Voulliéme: Berlin 2273.<0x0A>K 1389a. Prov.: Vente Trübner, Strasbourg, 9/VII. 1891, 18 M.<0x0A>Rel. anc.<0x0A>191<0x0A>41<0x0A>GRATIANUS: Decretum. Strasbourg, (J. Grüninger), 4 sep¬<0x0A>tembre 1489, in-fol.<0x0A>Hain 7907, Pellechet 5327, Walter: Sélestat 225.<0x0A>K 1390. Prov.: Don de Fid. Butsch fils, Augsbourg, 1872.<0x0A>Note mss. à l’intérieur du 1er plat. Rel. anc.<0x0A>192<0x0A>GREGORIUS I. Magnus: Dialogorum libri quatuor. (Stras¬<0x0A>bourg, H. Eggestein, vers 1474), in-fol.<0x0A>Hain 7957, Madsen 1769, Pellechet: Colmar 680, Proctor 276.<0x0A>K 1778. Prov.: F. Butsch, Augsbourg, 12/x. 1883, 11 M. 193<0x0A>GREGORIUS I. Magnus: Pastorale (Strasbourg, imprimeur<0x0A>du Jordanus (— G. Husner)), 12 mars 1496, in-4°.<0x0A>Hain 7987, Madsen 1799, Pellechet 5391, Proctor 642, Voul¬<0x0A>liéme: Berlin 2462.<0x0A>K 1785. ProV.: B N Munich, 16/XII. 1879, 1 M. Au-dessous<0x0A>du titre: «In usum F. F. staingardensium... (2) 1649».<0x0A>Rel. anc.<0x0A>194<0x0A>GREGORIUS IX: Decretales cum glossa. (Strasbourg, H. Egge¬<0x0A>stein, vers 1468), in-fol.<0x0A>Hain 7996, Madsen 1814, Proctor 273, Voulliéme: Berlin 2154.<0x0A>K 1382. Prov.: Don de la ville de Heilbronn, 1871. Notes mss.<0x0A>195<0x0A>GRITSCH JOHANNES : Quadragesimale. (Strasbourg, impri¬<0x0A>meur des Vitas patrum), 9 octobre 1486.<0x0A>Hain 8071, Proctor 425, Pellechet: Colmar 700, Voulliéme:<0x0A>Berlin 2259.<0x0A>K 1811. Prov.: Gilhofer-Ranschburg, Vienne, 19/VII. 1918,<0x0A>80 M. Au haut du 1er f.: «Conventus Aspernensis me possidet».<0x0A>196<0x0A>GRITSCH JOHANNES: Quadragesimale. (Strasbourg, impri¬<0x0A>meur du Jordanus, (— G. Husner)), 31 décembre 1490,<0x0A>in-fol.<0x0A>"<0x0A>Hain 8075, Madsen 1825, Pellechet: Colmar 702, Proctor 659,<0x0A>Voullième: Berlin 2442.<0x0A>K 1813. Prov.: Don de Fid. Butsch, Augsbourg, 1872. Au haut<0x0A>du titre: «Monasterij Ranshouen». Rel. anc.<0x0A>197<0x0A>42<0x0A>GRITSCH JOHANNES: Quadragesimale. (Strasbourg, Martin<0x0A>Flach), 31 déc. 1495, in-fol.<0x0A>Hain 8078, Proctor 739, Voulliéme: Berlin 2523, 5.<0x0A>K 1814. Prov.: Don de Fid. Butsch fils, Augsbourg, 1871.<0x0A>Au haut du titre: Monasterij Ranshouen». Rel. anc.<0x0A>198<0x0A>GRUNER VINCENTIUS: Expositio officii missae. (Strasbourg,<0x0A>imprimeur du H. Ariminensis, s. d.], in-fol.<0x0A>Copinger 2387, Reichling II. S. 167, Madsen 1831, Proctor 301,<0x0A>Voulliéme: Berlin 2166.<0x0A>K 1817. Prov.: BN Munich, 22/1. 1880, 6 M. Rel anc. 2e ex.<0x0A>K 1817a. Prov.: Librairie Trübner, Strasbourg, 9/XI. 1883,<0x0A>45 M. Rel. anc.<0x0A>199<0x0A>GUIDO DE COLUMNA. Voir: Columna...<0x0A>GUIDO DE MONTE ROTHERH (Rocherii): Manipulus curato¬<0x0A>rum. (Strasbourg, s. d.), in-fol.<0x0A>Hain 8157, Pellechet: Colmar 705, Proctor 3242, Voulliéme:<0x0A>Berlin 2694 (le mettent sous: Unbekannte Druckorte). Le<0x0A>Catalogue Sotheby (vente) N° 318 nomme Eggestein comme<0x0A>imprimeur, Catalogue Klemm (vente 1889), N° 701 l’attribue à<0x0A>J. Mentelin.<0x0A>K. 1831. Prov.: Librairie Trübner, Strasbours (vente Zimber¬<0x0A>lin N° 509), 29. IV. 1886, 6 M. Au haut du 1er f. «Collegii<0x0A>Regii Episcopalis (le reste est effacé). Notes mss. au recto<0x0A>et au verso du f. de garde. Entre autres au verso: «Praesens<0x0A>opus impressum reperitur per Marcum Reinhardum anno<0x0A>1480. Vide Schoepflin Vindic. Typogr, pag. 104. Reinhardum<0x0A>est rayé, au crayon avec la remarque: autre édition.» Rel.<0x0A>anc.<0x0A>200<0x0A>GUIDO DE MONTE ROTHERII: Manipulus curatorum. Stras¬<0x0A>bourg, (imprimeur de la Legenda aurea), 30 août 1483,<0x0A>in-fol.<0x0A>Hain 8189, Madsen 1840, Pellechet: Colmar 707, Proctor 416.<0x0A>K 1834 Prov.: A. Einsle, Vienne, 8. XII. 1885, 4 M. Au-dessous<0x0A>du titre «Reverendi domini Alberti episcopi calipolpn.»<0x0A>Vermoulu. Rel. anc.<0x0A>201<0x0A>43<0x0A>GUIDO DE MONTE ROTHERII: Manipulus curatorum, Stras¬<0x0A>bourg, (Mart. Flach), 10 mai 1487, in-4°.<0x0A>Hain 8194, Madsen 1842, Proctor 671, Voullième: Berlin 2478, 5.<0x0A>K 1835. Prov.: B N Munich, 16. XII. 1879, 1 M. Annotations<0x0A>mss. à l’encre rouge, à la marge des pages.<0x0A>202<0x0A>GUIDO DE MONTE ROTHERH: Manipulus curatorum, Stras¬<0x0A>bourg, (Mart. Flach), 9 février 1489, in-4°.<0x0A>Hain 8197, Proctor 680, Schmidt V, 20, Voullième: Berlin 2483.<0x0A>K1836. Prov.: BN Munich, 16. XHI. 1879, 0,50 M.<0x0A>203<0x0A>GUIDO DE MONTE ROTHERII: Manipulus curatorum, Stras¬<0x0A>bourg (imprimeur du Jordanus (— G. Husner)), 29 no¬<0x0A>vembre 1490.<0x0A>Hain 8199, Proctor 658, Voulliéme: Berlin 2441.<0x0A>K 1837. ProV.: B N Munich, 16. XII. 1879, 1 M. Au-dessus<0x0A>du titre: «Sum ex Libris Con. Hartmanni Th. 1652». A l’in¬<0x0A>térieur du 1er plat: Exlibris, au-dessous: «Ex Electorali<0x0A>Bibliotheca Sereniss. utriusque Bavariae Ducum». Au recto<0x0A>du dernier f. en bas: «Heinricus Aaltenndorffer de Sedems¬<0x0A>pach (?) vicarius in Haslach anno 1527. Michaël Lörch junior<0x0A>Passauiae Capellanus in Nidernburg Pasauiae 1594. Conradus<0x0A>Hartmannus Passauiensis 1599.»<0x0A>204<0x0A>GUIDO DE MONTE

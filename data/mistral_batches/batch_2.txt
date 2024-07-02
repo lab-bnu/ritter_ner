@@ -1,0 +1,64 @@
+Extrait en un fichier JSON les entités nommées B-PER, I-PER, B-DATE, I-DATE, B-LOC, I-LOC selon l'exemple :
+Exemple =  "HANNENBEIN, Georg . Voir: LIED (Neu Klaglied der Bauern) n° 340.
+PETRUS DE CRESCENTIS
+( WUERFELBUCH ]
+ Strasbourg , ( Christian Egenolff ), 1529 
+ Marque typ. de Chris. Egenolff. Anno M. D. LXXXII 
+ Stadtbibl. Strassburg 1192". 
+
+Réponse = 
+[
+[{'entity': 'B-PER',
+   'word': 'HANNENBEIN',
+},
+  {'entity': 'I-PER',
+   'word': ',',
+},
+  {'entity': 'I-PER',
+   'word': 'Georg',
+},
+],[
+{'entity': 'B-PER',
+   'word': 'PETRUS',
+},
+{'entity': 'I-PER',
+'word': 'DE',
+},
+{'entity': 'I-PER',
+'word': 'CRESCENTIS',
+},
+],[
+{
+'entity':'B-LOC', 
+'word': 'Strasbourg',
+},
+],[
+{
+'entity': 'B-PER',
+'word': 'Christian'
+},
+{
+'entity':'I-PER',
+'word': 'Egenolff'
+},
+],[
+{'entity': 'B-DATE',
+'word': '1529'},
+],[
+{'entity':'B-PER',
+'word': 'Chris.'},
+{'entity': 'I-PER',
+'word': 'Egenolff'},
+],[
+{'entity':'B-DATE',
+'word': 'M.'},
+{'entity': 'I-DATE', 
+'word': 'D.'},
+{'entity':'I-DATE',
+'word': 'LXXXII'},
+],[
+{'entity': 'B-LOC',
+'word': 'Strassburg'}
+]
+]
+Maintenant, extrait en JSON les entités nommées des phrases suivantes :atiques qui existe en Alsace; la<0x0A>Bibliothèque Municipale de Sélestat malgré sa grande<0x0A>ancienneté n’en compte que 105 d’après le catalogue de<0x0A>M. Walter, et celle de Colmar, d’après le catalogue de Pelle¬<0x0A>chet en comptait 250 en 1895.<0x0A>IX<0x0A>Il me reste à dire un mot des imprimeurs, dont les<0x0A>publications sont énumérées dans les pages suivantes. Faute<0x0A>de place je ne puis donner ici qu’un court résumé et ren¬<0x0A>voyer pour le reste aux nombreux traités qui existent déjà<0x0A>sur l’imprimerie alsacienne du XVe siècle, entre autres<0x0A>Schmidt, Voulliéme, Schorbach, Stieda, Stehlin.<0x0A>JEAN MENTELIN (1458-1478)<0x0A>Mentelin est né à Sélestat vers l’an 1410. Quand il vint<0x0A>à Strasbourg, il était simple scriba aurarius. Il y obtint le<0x0A>droit de bourgeoisie en 1447.; l’évêque Ruprecht le fit<0x0A>notaire, emploi qu’il garda jusqu’en 1468. On ne sait rien de<0x0A>certain sur son apprentissage dans l’imprimerie, on a pré¬<0x0A>tendu qu’il l’avait apprise chez Gutemberg, qu’il était en<0x0A>relation avec celui-ci durant son séjour à Strasbourg,<0x0A>qu’il avait même été son associé et qu’il avait été quelque<0x0A>temps chez lui à Mayence, mais ce ne sont que des hypo¬<0x0A>thèses plus ou moins invraisemblables. Schorbach qui<0x0A>s’étend tout au long sur ces hypothèses dans sa biogra¬<0x0A>phie de Mentelin, résume le tout dans la conclusion sui¬<0x0A>vante: «Mag nun Mentelin die neue Kunst unmittelbar<0x0A>durch ihn (Gutemberg) oder mittelbar bekommen haben,<0x0A>soviel ist gewiss, und aus Mentelins ältesten Presserzeug¬<0x0A>nissen klar ersichtlich, dass seine Technik auf der aus¬<0x0A>gebildeten Druckerpraxis von Gutenbergs Mainzer Werk¬<0x0A>statt fusst», c’est-à-dire que les presses de Mentelin se<0x0A>basent sur celles de Gutemberg à Mayence. Mentelin avait<0x0A>son officine dans la maison «Zum Thiergarten» sur le<0x0A>Fronhoff tandis qu’il demeurait avec sa famille dans la rue<0x0A>de l’Epine. Le premier grand ouvrage qui sortit de sa presse<0x0A>est la Bible latine à 49 lignes qu’il aurait commencée d’après<0x0A>Schorbach en 1458, ce qui concorde avec le témoignage de<0x0A>la Chronique des Souverains Pontifs de Lignamine (Romae<0x0A>1474) d’après lequel, dans l’année 1458 Mentelin imprimait<0x0A>par jour «300 chartas». Le premier volume de la Bible<0x0A>était en tout cas terminé en 1460, car l’exemplaire du<0x0A>X<0x0A>1er volume de la B. U. de Fribourg en Br. est rubriqué à la<0x0A>fin: Explicit Psalterium 1460, le second est rubriqué 1461.<0x0A>La plupart des ouvrages de Mentelin — Schorbach en énu¬<0x0A>mère 40 — n’ont ni la date ni le nom de l’imprimeur, et<0x0A>quatre seulement mentionnent son nom. Le premier de<0x0A>ceux-ci est le Tractatus de arte praedicandi, imprimé<0x0A>d’après le Gesamtkatalog der Wiegendrucke vers 1466,<0x0A>d’après Schorbach vers 1465. Le premier ouvrage daté est<0x0A>le Speculum historiale de Vincent de Bourgogne avec la<0x0A>date 1473. Seules les Etymologiae d’Isidorus Hispalensis<0x0A>sont illustrées de gravures, au nombre de sept, reproduites<0x0A>chez Schramm, vol. 19, N° 1—7.<0x0A>La renommée de Mentelin s’accrut d’année en année,<0x0A>et l’empereur Frédéric III. lui accorda en 1466 les lettres<0x0A>de noblesse. Mentelin légua son art à ses deux gendres<0x0A>Adolphe Rusch qui avait épousé sa fille Salomé et Martin<0x0A>Schott, marié avec l’autre fille dont on ignore le nom. Le<0x0A>premier hérita de l’officine de Mentelin dans la maison<0x0A>«Zum Thiergarten» tandis que Martin Schott hérita de la<0x0A>maison rue de l’Epine. Après la mort de sa première<0x0A>femme. Mentelin se remaria avec Elisabeth de Matzenheim<0x0A>dont nous savons qu’elle est morte avant 1473. Lui-même<0x0A>mourut le 12 décembre 1478 et il recut l’honneur de la<0x0A>sépulture au cimetière de la Chapelle St. Michel, du côté<0x0A>nord-est de la Cathédrale.<0x0A>La renommée de Mentelin fut telle qu’à peine un demi¬<0x0A>siècle après sa mort son petit fils, l’imprimeur Jean Schott,<0x0A>put le proclamer inventeur de l’art typographique, légende<0x0A>qui se répandit très vite, surtout en Alsace aux 16e et<0x0A>17e siècles, même longtemps encore après que Schöpflin<0x0A>dans ses Vindiciae typographicae (1760), dont Nelson vient<0x0A>de faire une traduction anglaise *) eut prouvé que le mérite<0x0A>de l’invention ne revenait pas à Mentelin, mais à Gutemberg.<0x0A>* Joh. Daniel Schœpflin: Vindiciae typographicae, translated<0x0A>by Charles Alexander Nelson, New York, Privately printed, 1938,<0x0A>in-8°, 200 p.<0x0A>XI<0x0A>ADOLPHE RUSCH (14..—1489)<0x0A>né à Ingwiller en Alsace, Rusch travailla d’abord comme<0x0A>ouvrier imprimeur chez Mentelin dont il devint l’associé<0x0A>après avoir épousé sa fille Salomé comme on vient de le<0x0A>voir. Après la mort de Mentelin, il hérita son officine dans<0x0A>la maison «Zum Thiergarten». Vu l’insuffisance de ses<0x0A>presses, il donna de l’ouvrage aux petits imprimeurs de la<0x0A>ville et exploita ainsi une grosse affaire comme imprimeur<0x0A>et libraire en même temps. Il exécutait aussi des comman¬<0x0A>des pour Antoine Koberger à Nuremberg et Jean Amer¬<0x0A>bach à Bâle. Il suivit avec intérêt les tendances humanistes<0x0A>et fut très lié avec Rodolphe Agricola ainsi qu’avec le jeune<0x0A>chanoine Pierre Schott. Il demeurait dans la maison «Zum<0x0A>Bild», située dans la Grand’rue*) et s’était fait construire<0x0A>une villa «la Ruschenburg» à Ingwiller, où il avait coutume<0x0A>de passer la belle saison. Sa santé débile le força au prin¬<0x0A>temps de 1489 à faire une station balnéaire à Baden-Baden;<0x0A>pendant son absence il chargea son beau-frère, l’imprimeur<0x0A>Martin Schott, de gérer ses affaires; mais il revint presque<0x0A>mourant de Baden-Baden à la suite d’une inflammation et<0x0A>décéda peu de temps après le 26 mai 1489.<0x0A>Comme il avait l’habitude de ne pas mentionner son<0x0A>nom sur les livres sortis de ses presses, il resta longtemps<0x0A>presque oublié; car il était très difficile de reconnaître avec<0x0A>certitude les ouvrages qui provenaient de son officine. Par<0x0A>une heureuse trouvaille dans les Archives, Dziatzko**) a<0x0A>pu prouver que les nombreux livres imprimés avec un R<0x0A>particulier à cette presse qu’on connaissait jusqu’alors sous<0x0A>la désignation de R bizarre, provenaient des presses de<0x0A>Rusch, de sorte que celui-ci est aujourd’hui classé parmi<0x0A>les imprimeurs alsaciens les plus actifs du 15e siècle.<0x0A>*) Schorbach: Mentelin p. 118: Die Angabe bei Ch. Schmidt<0x0A>(Strassburger Gassen- und Häusernamen 2. A. 4888 p. 131), dass<0x0A>er schon 1451 das Haus zum Bild in der Oberstrasse besessen habe,<0x0A>ist irrig, denn nicht einmal im Jahre 1466 war er dessen Eigen¬<0x0A>tümer, wie aus dem alten Strassburger Almendbuch für dieses<0x0A>Jahr hervorgeht.»<0x0A>**) Sammlung bibliothekwissenschaftlicher Arbeiten. Halle a.<0x0A>S. 1904. Heft 17, p.

@@ -1,0 +1,64 @@
+Extrait en un fichier JSON les entités nommées B-PER, I-PER, B-DATE, I-DATE, B-LOC, I-LOC selon l'exemple :
+Exemple =  "HANNENBEIN, Georg . Voir: LIED (Neu Klaglied der Bauern) n° 340.
+PETRUS DE CRESCENTIS
+( WUERFELBUCH ]
+ Strasbourg , ( Christian Egenolff ), 1529 
+ Marque typ. de Chris. Egenolff. Anno M. D. LXXXII 
+ Stadtbibl. Strassburg 1192". 
+
+Réponse = 
+[
+[{'entity': 'B-PER',
+   'word': 'HANNENBEIN',
+},
+  {'entity': 'I-PER',
+   'word': ',',
+},
+  {'entity': 'I-PER',
+   'word': 'Georg',
+},
+],[
+{'entity': 'B-PER',
+   'word': 'PETRUS',
+},
+{'entity': 'I-PER',
+'word': 'DE',
+},
+{'entity': 'I-PER',
+'word': 'CRESCENTIS',
+},
+],[
+{
+'entity':'B-LOC', 
+'word': 'Strasbourg',
+},
+],[
+{
+'entity': 'B-PER',
+'word': 'Christian'
+},
+{
+'entity':'I-PER',
+'word': 'Egenolff'
+},
+],[
+{'entity': 'B-DATE',
+'word': '1529'},
+],[
+{'entity':'B-PER',
+'word': 'Chris.'},
+{'entity': 'I-PER',
+'word': 'Egenolff'},
+],[
+{'entity':'B-DATE',
+'word': 'M.'},
+{'entity': 'I-DATE', 
+'word': 'D.'},
+{'entity':'I-DATE',
+'word': 'LXXXII'},
+],[
+{'entity': 'B-LOC',
+'word': 'Strassburg'}
+]
+]
+Maintenant, extrait en JSON les entités nommées des phrases suivantes :<0x0A>s. d.<0x0A>–—<0x0A>Scotus Mich.: Liber physionomiae, 428.<0x0A>120<0x0A>TABLE ALPHABÉTIQUE DES<0x0A>NOMS PROPRES<0x0A>(sauf les noms d’imprimeurs ou d’auteurs qui figurent les premiers<0x0A>dans la liste des imprimeurs, les autres dans le corps de l’ouvrage<0x0A>comme védettes).<0x0A>Aurifaber Aegidius 440, 441.<0x0A>Alberti Joh. 167.<0x0A>Albertus Episcopus 201.<0x0A>Bader 109.<0x0A>Alburg 380.<0x0A>Badius Ascensius 114.<0x0A>Alexander Magnus 281-283.<0x0A>Bâle 4, 25.<0x0A>Altendorffer Henr. 204.<0x0A>Bamberg 169, 241, 258.<0x0A>Altomünster (Bavière) 210.<0x0A>Baer (antiquaire) 2, 7, 91, 123,<0x0A>Amberg (Bavière) 35.<0x0A>Aemilius Montfordensis 354.<0x0A>136, 143, 150, 151, 254, 260,<0x0A>Andechs 61, 158, 217, 297, 382.<0x0A>277, 299, 300, 335, 356, 415,<0x0A>Anvers 354.<0x0A>417, 420, 426, 436, 442, 491,<0x0A>Arensberg 434.<0x0A>Baum Joh. Wilh. 172, 263, 421,<0x0A>460.<0x0A>Aristoteles 445.<0x0A>Beck 145, 295.<0x0A>Arnoldus de Villa Nova 408.<0x0A>Artur Henri 413.<0x0A>Belial 250, 251.<0x0A>Belling J. C. 16.<0x0A>Auerbach Joh. 464.<0x0A>Augsbourg 6, 19, 49, 51, 54, 67,<0x0A>Bensheimer (Libr. Strasbourg)<0x0A>81, 85, 98, 118, 121, 139, 142,<0x0A>344, 361.<0x0A>180, 192, 193, 197, 198, 206,<0x0A>Bentheim Prince de 28, 89, 152,<0x0A>211. 251, 252, 256, 266, 270,<0x0A>214. 218, 223, 232, 301, 310,<0x0A>271, 278, 292, 297, 298, 304,<0x0A>319, 324, 334, 359, 366, 375,<0x0A>305. 308, 313, 318, 320, 322,<0x0A>406, 418.<0x0A>327. 328, 346, 352, 353, 358.<0x0A>Berlin 1, 2, 44a, 94, 127, 132,<0x0A>363, 370, 372, 381, 393, 394,<0x0A>146, 147, 159, 190, 236, 248,<0x0A>398. 411, 416, 421, 441, 445,<0x0A>290, 337, 403, 413, 468, 470.<0x0A>447, 455, 457, 459, 473, 482,<0x0A>480, 492.<0x0A>483, 485.<0x0A>(Voir aussi Voulliéme: Berlin.)<0x0A>121<0x0A>Bernard (Libraire) 416.<0x0A>Bibliotheca Conventus Monacen¬<0x0A>Berne 119.<0x0A>sis Ord. Eremitarum S. Augus¬<0x0A>Bertholdus (dominicain) 462.<0x0A>tini 383.<0x0A>Bethmann-Hollweg 44a.<0x0A>Bibliotheca Conventus Monacen¬<0x0A>Bibliophilen-Gesellschaft (Elsäs¬<0x0A>sis Carmelitarum Discalceato¬<0x0A>sische) 425.<0x0A>rum 75.<0x0A>Bibliotheca Academiae Georgiae<0x0A>Bibliotheca Collegii Soc. Jesu<0x0A>Augustae 26, 41, 48, 50, 68,<0x0A>Neoburgi 140.<0x0A>76, 131, 167, 217, 225, 264,<0x0A>Bibliotheca Monasterii Neustadt<0x0A>284, 326, 437, 479.<0x0A>ad Moenum 225.<0x0A>Bibliotheca Ducum Bavariae<0x0A>Bibliotheca Conventus Nieder¬<0x0A>204.<0x0A>naltanensis 29.<0x0A>Bibliotheca Palatina 161.<0x0A>Bibliotheca Monasterii Nemoris<0x0A>Bibliothèques de couvents:<0x0A>B. V. M. Canonicorum Regula¬<0x0A>Bibliotheca Monasterii Montis<0x0A>rium prope Northorn 180,<0x0A>Sancti Andechs 61, 158, 217,<0x0A>319.<0x0A>297. 382.<0x0A>Bibliotheca Conventus FF, Fran¬<0x0A>Bibliotheca Conventus Asper¬<0x0A>ciscanorum Novembergii ante<0x0A>nensis 196.<0x0A>Sylvam 252.<0x0A>Bibliotheca Conventus Fratrum<0x0A>Bibliotheca Monasterii B. M. V.<0x0A>Minorum Bambergge ad s.<0x0A>ad Nives Pragae Fratrum Re¬<0x0A>Annam 169, 241.<0x0A>gularis Observantiae 361.<0x0A>Bibliotheca Carthusiae Buxheim<0x0A>Bibliotheca Conventus Augusti¬<0x0A>98, 100, 121, 304, 370, 393,<0x0A>niani in Rambsau 105, 228.<0x0A>429, 441.<0x0A>Bibliotheca Monasterii in Rans¬<0x0A>Bibliotheca Conventus Colonien¬<0x0A>hofen 139. 142, 197, 198, 211,<0x0A>sis F F. Carmelitarum 179.<0x0A>270, 271, 318, 353, 358, 363,<0x0A>Bibliotheca Conventus Ordinis<0x0A>416, 445, 455.<0x0A>Praedicatorum Colmariensis<0x0A>Bibliotheca Conventus Francis¬<0x0A>170, 362.<0x0A>canorum Recollectarum in Ra¬<0x0A>Bibliotheca Conventus Carmelita¬<0x0A>statt 344.<0x0A>rum S. Batholomaei in Cre¬<0x0A>Bibliotheca Monasterii Rorensis<0x0A>mona 467.<0x0A>230.<0x0A>Bibliotheca Monasterii Beatae<0x0A>Bibliotheca Conventus Fratrum<0x0A>Virginis in Diessen 249.<0x0A>Rottenbuchensium 103.<0x0A>Bibliotheca Conventus Frens¬<0x0A>Bibliotheca Monasterii Scheyen¬<0x0A>wegen 152, 223, 232, 301, 319<0x0A>sis 93, 435.<0x0A>324, 359, 375, 406.<0x0A>Bibliotheca Conventus Seemans¬<0x0A>Bibliotheca Conventus Ord. Prae¬<0x0A>husiani Ord. Eremitarum S.<0x0A>dicatorum Frankfordensis 123.<0x0A>P. Augustini 36, 86.<0x0A>Bibliotheca Conventus Carthu¬<0x0A>Bibliotheca Conventus S. Mariae<0x0A>siae Gemnicensis 12a, 155,<0x0A>Magdalenae Ord. Dominici in<0x0A>273, 348.<0x0A>Speyer 369.<0x0A>Bibliotheca Conventus Ingolsta¬<0x0A>diensis B. Virg. Ord. S. Augus¬<0x0A>Bibliotheca Conventus Carmeli<0x0A>tini 292.<0x0A>Strigoviensis (Gross-Strenz)<0x0A>Bibliotheca Coenobii Benedicto¬<0x0A>89.<0x0A>rum Montis Sancti Johannis<0x0A>Bibliotheca Monasteri S. Marga¬<0x0A>(Johannisberg) 311.<0x0A>rethae (Strasbourg) 280, 426.<0x0A>Bibliotheca Monasterii Ord. S.<0x0A>Bibliotheca Conventus Francis¬<0x0A>Benedicti in Malersdorf 385.<0x0A>canorum de Observantia Ta¬<0x0A>Bibliotheca Monasterii Monacen¬<0x0A>bernensibus 405.<0x0A>sis Franciscanorum 138.<0x0A>Bibliotheca Conventus Treviren¬<0x0A>Bibliotheca Collegii Soc. Jesu<0x0A>sis Ord. Eremitarum S. Augus¬<0x0A>Monachii s. Baptistae 215.<0x0A>tini 475.<0x0A>122<0x0A>Bibliotheca Domus S. Albani Or¬<0x0A>Caillier D. 146.<0x0A>dinis

@@ -1,0 +1,64 @@
+Extrait en un fichier JSON les entités nommées B-PER, I-PER, B-DATE, I-DATE, B-LOC, I-LOC selon l'exemple :
+Exemple =  "HANNENBEIN, Georg . Voir: LIED (Neu Klaglied der Bauern) n° 340.
+PETRUS DE CRESCENTIS
+( WUERFELBUCH ]
+ Strasbourg , ( Christian Egenolff ), 1529 
+ Marque typ. de Chris. Egenolff. Anno M. D. LXXXII 
+ Stadtbibl. Strassburg 1192". 
+
+Réponse = 
+[
+[{'entity': 'B-PER',
+   'word': 'HANNENBEIN',
+},
+  {'entity': 'I-PER',
+   'word': ',',
+},
+  {'entity': 'I-PER',
+   'word': 'Georg',
+},
+],[
+{'entity': 'B-PER',
+   'word': 'PETRUS',
+},
+{'entity': 'I-PER',
+'word': 'DE',
+},
+{'entity': 'I-PER',
+'word': 'CRESCENTIS',
+},
+],[
+{
+'entity':'B-LOC', 
+'word': 'Strasbourg',
+},
+],[
+{
+'entity': 'B-PER',
+'word': 'Christian'
+},
+{
+'entity':'I-PER',
+'word': 'Egenolff'
+},
+],[
+{'entity': 'B-DATE',
+'word': '1529'},
+],[
+{'entity':'B-PER',
+'word': 'Chris.'},
+{'entity': 'I-PER',
+'word': 'Egenolff'},
+],[
+{'entity':'B-DATE',
+'word': 'M.'},
+{'entity': 'I-DATE', 
+'word': 'D.'},
+{'entity':'I-DATE',
+'word': 'LXXXII'},
+],[
+{'entity': 'B-LOC',
+'word': 'Strassburg'}
+]
+]
+Maintenant, extrait en JSON les entités nommées des phrases suivantes : 335.<0x0A>1498. 29. 10.<0x0A>Bernardus Parmensis: Casus longi super decre¬<0x0A>tales. 82.<0x0A>1499. 7/12. 1.<0x0A>Gesta Romanorum. 187.<0x0A>1499. 9. 2.<0x0A>Compendium juris canonici. 138.<0x0A>[vers 15001.<0x0A>Petrus Comestor: Historia scholastica. 387.<0x0A>s. d.<0x0A>Melber Joh.: Vocabularius praedicantium. 309.<0x0A>114<0x0A>1497.<0x0A>1498.<0x0A>[vers 15001.<0x0A>1500.<0x0A>KISTLER Barthélemy<0x0A>Ursula S.: Schifflein von S. Ursula. 471.<0x0A>Leben s. Pauls, 279.<0x0A>Legenda von sant Annan. 280.<0x0A>Tollat von Vochenberg Joh.: Büchlein der Arz¬<0x0A>nei. 458.<0x0A>KNOBLOCHTZER Henri<0x0A>1478.<0x0A>Petrarca: Historia Griseldis (en allemand). 379.<0x0A>1478. 13. 12.<0x0A>Thomas Ebendorfer de Haselbach: Sermones do¬<0x0A>minicales. 455.<0x0A>1479.<0x0A>Thomas de Aquino: De arte praedicandi. 450.<0x0A>[vers 14801.<0x0A>Plenarium (en allemand). 396.<0x0A>[vers 14801.<0x0A>Matheolus Perusinus: De memoria augenda. 306.<0x0A>[après le 13. 9.<0x0A>14801.<0x0A>Aubusson: De obsidione urbis Romae, 45.<0x0A>1482.<0x0A>Gerson: De arte moriendi. 182.<0x0A>[pas après 1482). Andreae: Arbor consanguinitatis. 22.<0x0A>[vers 14821.<0x0A>Geiler: Oratio in Synodo Argentinensi. 177.<0x0A>[vers 1482).<0x0A>1482. 21. 1.<0x0A>Lucidarius, 288.<0x0A>Melber Joh.: Vocabularius praedicantium. 310.<0x0A>[vers 1483).<0x0A>Albertus Magnus: De secretis mulierum. 14.<0x0A>[vers 1483).<0x0A>Andreae: Arbor consanguinitatis. 21.<0x0A>114831.<0x0A>Jacobus de Theramo: Belial. 250.<0x0A>1484.<0x0A>Jacobus de Theramo: Belial. 251.<0x0A>s. d.<0x0A>Johannes Presbyter: De ritu et moribus Indorum.<0x0A>269.<0x0A>s. d.<0x0A>Melusine; 315.<0x0A>(Imprimeur de la) LEGENDA AUREA<0x0A>1482. 23. 4.<0x0A>Turrecremata Joh.: Expositio Psalterii, 465.<0x0A>1482, 22. 3.<0x0A>Farinator: Lumen animae. 167.<0x0A>1483. 30. 8.<0x0A>Guido de Monte Rotherii: Manipulus curatorum.<0x0A>201.<0x0A>MENTELIN Jean<0x0A>[vers 14621.<0x0A>Thomas de Aquino: Summa theologiae. 451.<0x0A>(vers 14651.<0x0A>Johannes Chrysostomus ;Homiliae super Mathaeum.<0x0A>264.<0x0A>[vers 1466).<0x0A>Augustinus S.: De arte praedicandi, 54.<0x0A>[vers 1468).<0x0A>Augustinus S.: De doctrina christiana, 55.<0x0A>[pas après 1468). Agustinus S.: De civitate Dei. 51.<0x0A>[avant le 10. 4.<0x0A>14691.<0x0A>Aristoteles: Ethica, Politica, Oeconomica. 41.<0x0A>115<0x0A>[vers 1469).<0x0A>Hieronymus S.: Epistolae et tractatus. 231.<0x0A>[pas après 1469). Astesanus: Summa de casibus conscientiae. 42.<0x0A>Lpas après 1470). Augustinus S.: Confessionum libri XIII. 52.<0x0A>11470. 15. 6.).<0x0A>Valerius Maximus: Facta et dicta memorabilia.<0x0A>472.<0x0A>[vers 14711<0x0A>Paulus de S. Maria Burgensis: Scrutinium scrip¬<0x0A>turarum. 370.<0x0A>[pas après 14711. Alphonsus de Spina: Fortalitium fidei. 20.<0x0A>pas après 1471). Augustinus S.: Epistolarum liber, 56.<0x0A>[vers 14721.<0x0A>Isidorus Hispalensis: Ethymologiae. 249.<0x0A>pas après 1473). Astesanus: Summa de casibus conscientiae. 43.<0x0A>[pas après 1473). Astesanus: Summa de casibus conscientiae. 44.<0x0A>[vers 1473).<0x0A>Baysio: Rosarium decretorum. 69.<0x0A>1473. 4. 12.<0x0A>Vincentius Bellovacensis: Speculum historiale.<0x0A>476.<0x0A>11474).<0x0A>Albertus Magnus: De laudibus B. M. Virginis, 9.<0x0A>pas après 1474). Albertus Magnus: Mariale. 11.<0x0A>pas après 1474]. Conradus de Halberstadt: Concordantiae Biblio¬<0x0A>rum. 141.<0x0A>[vers 1474).<0x0A>Paulus de S. Maria Burgensis: Scrutinium scrip¬<0x0A>turarum. 371.<0x0A>[vers 14751.<0x0A>Nicolaus de Lyra: Postilla super bibliam. 345.<0x0A>11476 Décembre) Kalender auf das Jahr 1477. 277.<0x0A>(1476. 9. 11).<0x0A>Vincentius Bellovacensis: Speculum morale, 478.<0x0A>(14771.<0x0A>Wolfram von Eschenbach; Titurell, 495.<0x0A>s. d.<0x0A>Pharetra doctorum. 393.<0x0A>Voir en outre N° 11, 149, 200, 429, 477.<0x0A>(Imprimeur du) PALUDANUS<0x0A>Herolt Joh.: Sermones discipuli, 224.<0x0A>1487.<0x0A>PRUSS Jean<0x0A>Ivers 14801.<0x0A>Johannes Hildeshemensis: Buch der h. drei<0x0A>Könige. 268.<0x0A>[vers 1480).<0x0A>Passional. 369.<0x0A>1483.<0x0A>Formulare u. Deutsch Rhetorica, 174.<0x0A>1484.<0x0A>Viola sanctorum. 482.<0x0A>Ivers 1484/51.<0x0A>Johannes de Capua: Directorium humanae vitae.<0x0A>263.<0x0A>1486.<0x0A>Biblia latina. 88.<0x0A>1486.<0x0A>Durandus: Rationale divinorum officiorum. 155.<0x0A>1486.<0x0A>Formulare u. Deutsch Rhetorica. 175.<0x0A>1486.<0x0A>Innocentius VIII: Bulla, 247.<0x0A>1486. 1. 6.<0x0A>Melber Joh.: Vocabularius praedicantium. 311.<0x0A>1486. 24. 12.<0x0A>Barzisius: Epistolae. 68.<0x0A>116<0x0A>1487.<0x0A>Fliscus: Varietates sententiarum. 172.<0x0A>1487.<0x0A>Rolewinck Werner: Fasciculus temporum. 416.<0x0A>1487.<0x0A>Vocabularius exquo. 483.<0x0A>(pas après 1487). Augustinus (Pseudo): Sermones ad heremitas, 58.<0x0A>1487. 23. 8.<0x0A>Viola sanctorum. 480.<0x0A>1487. 30. 10.<0x0A>Bernardinus de Pientinis: Expositio officii mis¬<0x0A>1488.<0x0A>sae. 83.<0x0A>Boccaccio: De claris mulieribus (en allemand).<0x0A>95.<0x0A>1488.<0x0A>Mandeville J.: Itinerarius (en allemand). 294.<0x0A>1488.<0x0A>Melber Joh.: Vocabularius praedicantium. 312.<0x0A>1488.<0x0A>Regnierus: Casus longi Sexti et Clementinarum.<0x0A>410.<0x0A>1488.<0x0A>Rolewinck Werner:: Fasciculus temporum. 417.<0x0A>[vers 1488).<0x0A>Vocabularius exquo. 484.<0x0A>1488. 3. 7- 6. 9. Gerson: Opera, 179.<0x0A>1488. 14. 11.<0x0A>Anianus: Compotus manualis. 30.<0x0A>1489.<0x0A>Albertus Magnus: Compendium theologicae veri¬<0x0A>tatis. 8.<0x0A>1489.<0x0A>1

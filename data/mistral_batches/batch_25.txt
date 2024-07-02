@@ -1,0 +1,64 @@
+Extrait en un fichier JSON les entités nommées B-PER, I-PER, B-DATE, I-DATE, B-LOC, I-LOC selon l'exemple :
+Exemple =  "HANNENBEIN, Georg . Voir: LIED (Neu Klaglied der Bauern) n° 340.
+PETRUS DE CRESCENTIS
+( WUERFELBUCH ]
+ Strasbourg , ( Christian Egenolff ), 1529 
+ Marque typ. de Chris. Egenolff. Anno M. D. LXXXII 
+ Stadtbibl. Strassburg 1192". 
+
+Réponse = 
+[
+[{'entity': 'B-PER',
+   'word': 'HANNENBEIN',
+},
+  {'entity': 'I-PER',
+   'word': ',',
+},
+  {'entity': 'I-PER',
+   'word': 'Georg',
+},
+],[
+{'entity': 'B-PER',
+   'word': 'PETRUS',
+},
+{'entity': 'I-PER',
+'word': 'DE',
+},
+{'entity': 'I-PER',
+'word': 'CRESCENTIS',
+},
+],[
+{
+'entity':'B-LOC', 
+'word': 'Strasbourg',
+},
+],[
+{
+'entity': 'B-PER',
+'word': 'Christian'
+},
+{
+'entity':'I-PER',
+'word': 'Egenolff'
+},
+],[
+{'entity': 'B-DATE',
+'word': '1529'},
+],[
+{'entity':'B-PER',
+'word': 'Chris.'},
+{'entity': 'I-PER',
+'word': 'Egenolff'},
+],[
+{'entity':'B-DATE',
+'word': 'M.'},
+{'entity': 'I-DATE', 
+'word': 'D.'},
+{'entity':'I-DATE',
+'word': 'LXXXII'},
+],[
+{'entity': 'B-LOC',
+'word': 'Strassburg'}
+]
+]
+Maintenant, extrait en JSON les entités nommées des phrases suivantes : J. Grüninger, 12 mars 1498, in-fol.<0x0A>Hain 8898, Madsen 2031, Proctor 485, Schmidt I, 34, Schrei¬<0x0A>ber 4240, Voulliéme: Berlin 2302, Pellechet: Colmar 790.<0x0A>Schramm,. Bilderschmuck XX, grav. N° 391-465.<0x0A>K 2044. Prov.: Dr Seyboth, Strasbourg, par l’intermédiaire<0x0A>d’E. d’Oleire, 8. XII. 1895, 10 M. A l’intérieur du 1er plat, au<0x0A>haut: Ex libris Caroli De la Place; au milieu, au crayon:<0x0A>«1498. Imprimé par Grüninger, à Strasbourg, grav. bois 166<0x0A>(dont plusieurs répétées souvent). Rel. anc.<0x0A>235<0x0A>50<0x0A>HORTULUS animae: Strasbourg, J. Grüninger, 1498, in-8°.<0x0A>Hain 8037, Kristeller N° 80, Schmidt I, 40.<0x0A>K 2052a. Prov.: Albert Cohn, Berlin, 2. XII. 1890, 320 M. 236<0x0A>HORTULUS animae: Strasbourg, W. Schaffener de Roppers¬<0x0A>willer, 13 mars 1498, in-8°.<0x0A>Hain 8936, Schmidt IV, p. 10, N° 1: la plus ancienne impres¬<0x0A>sion de Schaffner; Schreiber 4242; Schramm, Bilder¬<0x0A>schmuck XX, grav. N° 2211-2284.<0x0A>K 2052. Prov.: Bibliothécaire Müller, Strasbourg, 10. X. 1883,<0x0A>25 M. Rel. anc.<0x0A>237<0x0A>HORTULUS animae: Strasbourg, J. Grüninger, 31 jan¬<0x0A>vier 1500, in-8°.<0x0A>Hain 8937, Proctor 491, Schmidt I, 47, Voulliéme; Berlin<0x0A>2307, 5; Schreiber 4245; Schramm, Bilderschmuck XX, grav.<0x0A>N° 581-646.<0x0A>K 2053. Prov.: Bernard Karrer, Wattwiller, 12. XI. 1895,<0x0A>20 M. Au-dessus du titre et à l’intérieur du 1er plat: «Bernard<0x0A>Karrer».<0x0A>238<0x0A>HRABANUS MAURUS. Voir: Rabanus.<0x0A>HUGO DE PRATO FLORIDO. Voir: Hugo Pratensis.<0x0A>HUGO PRATENSIS: Sermones et epistolae. (Strasbourg,<0x0A>G. Husner, s. d.), in-fol.<0x0A>Hain 8996, Proctor 363, Voulliéme: Berlin 2204; Pellechet:<0x0A>Colmar 799.<0x0A>K 2075. Prov.: Don de la ville de Trèves, 1871. Au bas du<0x0A>1er f., cachet de la B M de Trèves. Rel. anc.<0x0A>239<0x0A>HUGO PRATENSIS: Sermones de tempore. (Strasbourg,<0x0A>H. Eggestein, s. d.), in-fol.<0x0A>Hain 8995, Pellechet: Colmar 798.<0x0A>K 2074. Prov.: B N Munich, 14. IV. 1880, 2 M. Les 4 premiers<0x0A>ff. sont endommagés A la fin, au crayon: «N. B. Foliis indicis<0x0A>octo commutatio est hoc 409 folium.» Rel. anc.<0x0A>240<0x0A>51<0x0A>HUGO PRATENSIS: Sermones de tempore. (Strasbourg,<0x0A>G. Husner, s. d.), in-fol.<0x0A>Hain 9002, Voulliéme: Berlin 389, 6.<0x0A>K 2077. Prov.: Oswald Weigel, Leipzig, 2. XII. 1893, 9 M. Au¬<0x0A>dessus du titre: Wilibaldus Florinus Stainer U. J. Doctor.<0x0A>Fratrum Minorum in Bamberg ad S. Annam.» Au-dessous:<0x0A>zex dono Wilibaldi Florini J. U. Doctoris Ingolstad». Au recto<0x0A>du dernier f. blanc: Vincentius Teynek cooperator in<0x0A>Brunnen. Rel. anc.<0x0A>241<0x0A>HUGO PRATENSIS: Sermones de tempore. (Strasbourg,<0x0A>G. Husner, 11 juin 1476, in-fol.<0x0A>Hain 9005, Proctor 348, Voulliéme: Berlin 2195; Pellechet:<0x0A>Colmar 800.<0x0A>K 2079. Prov.: B N Munich, 14. IV. 1880, 7 M. Rel. anc. 242<0x0A>HUGO DE S. VICTORE: Didascalion et alia opuscula. [Stras¬<0x0A>bourg, imprimeur du H. Ariminensis, s. d. l, in-fol.<0x0A>Hain 9022, Proctor 313, Voulliéme: Berlin 2169; Pellechet:<0x0A>Colmar 803.<0x0A>K 2082. Prov.: B N Munich, 18. XI. 1878. Incomplet, f. 1-6<0x0A>(table) manquent. Rel. anc.<0x0A>243<0x0A>HUGO DE S. VICTORE: De sacramentis. Strasbourg, [impri¬<0x0A>meur du Jordanus (— G. Husner)), 30 juillet 1485,<0x0A>in-fol.<0x0A>Hain 9025, Madsen 2049 et 2050. Proctor 597, Voulliéme: Ber¬<0x0A>lin 2407; Pellechet: Colmar 806, Walter: Sélestat 261.<0x0A>K2084. Prov.: Don de la ville de Heilbronn, 1871. A l'intérieur<0x0A>du 1er plat: Ex legato Joan. krener. Rel. anc.<0x0A>244<0x0A>HUGO DE S. VICTORE: Soliloquium in modum dialogi.<0x0A>(Strasbourg, civis C. W., vers 1473), in-fol.<0x0A>Hain 9028, Proctor 340, Voulliéme: Berlin 2192.<0x0A>K 2086. Prov.: Don de la ville de Marktbreit, 25. VHI. 1881.<0x0A>Notes mss.<0x0A>245<0x0A>52<0x0A>HUGO DE STRASBOURG. Voir Albertus Magnus, Compendium<0x0A>theologiae N° 8.<0x0A>INNOCENTIUS IV, Papa: Apparatus super V libros decreta¬<0x0A>lium. Strasbourg, (H. Eggestein), 1478, in-fol.<0x0A>Hain 9191, Madsen 2094, Proctor 267, Voulliéme: Berlin 2141.<0x0A>K 2150 Prov, inconnue. Au haut du 1er f.: Weihenstephan.»<0x0A>Rel. anc.<0x0A>246<0x0A>INNOCENTIUS VIII, Papa: Copia confirmationis indulgentia¬<0x0A>rum in favorem Hospitalis Sancti Spiritus in Sassia de<0x0A>Urbe (Roma)... Datum Argentine in domo nostre solite<0x0A>residentie. Sub anno domini... millesimo quadringen¬<0x0A>tesimo octuagesimo sexto. (Strasbourg, J. Prüss, pas<0x0A>avant le 29 nov. 1486), in-fol., 1 f.<0x0A>G W 833 sous; Albrecht von Bayern, Bischof von Strassburg:<0x0A>Einblattdrucke 104; Schramm XX, grav. N° 1209.<0x0A>K 2152. Prov: Bibl. Heitz, Strasbourg.<0x0A>247<0x0A>INNOCENTIUS VHI, Papa: Regulae cancellariae apostolicae.<0x0A>(Strasbourg, J. Prüss, vers 1492), in-8°.<0x0A>Hain 9221, Pellechet: Colmar 813, Proctor 570, Voulliéme:<0x0A>Berlin 2380.<0x0A>K 2151. Prov.: O. Rauthe, Berlin, 23. I. 1918, 85 M.<0x0A>248<0x0A>ISIDORUS HISPALENSIS: Etymologiarum dibri XX. [Stras¬<0x0A>bourg, J. Mentelin, vers 1472), in-fol.<0x0A>Hain 9270, Madsen 2111, Proctor 227, Schreiber 4267, Voul¬<0x0A>liéme: Berlin 2104; Schorbach: Mentelin N° 24; Schramm,<0x0A>Bilderschmuck XIX, grav. N° 1-7.<0x0A>K 2233 Prov.: Don de la ville de Trèves. Sans l’explicit.<0x0A>2. ex.: K 2234. Prov.; B N Munich, 14. IV. 1880, 12 M. Avec<0x0A>l’explicit.<0x0A>Au

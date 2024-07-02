@@ -1,0 +1,64 @@
+Extrait en un fichier JSON les entités nommées B-PER, I-PER, B-DATE, I-DATE, B-LOC, I-LOC selon l'exemple :
+Exemple =  "HANNENBEIN, Georg . Voir: LIED (Neu Klaglied der Bauern) n° 340.
+PETRUS DE CRESCENTIS
+( WUERFELBUCH ]
+ Strasbourg , ( Christian Egenolff ), 1529 
+ Marque typ. de Chris. Egenolff. Anno M. D. LXXXII 
+ Stadtbibl. Strassburg 1192". 
+
+Réponse = 
+[
+[{'entity': 'B-PER',
+   'word': 'HANNENBEIN',
+},
+  {'entity': 'I-PER',
+   'word': ',',
+},
+  {'entity': 'I-PER',
+   'word': 'Georg',
+},
+],[
+{'entity': 'B-PER',
+   'word': 'PETRUS',
+},
+{'entity': 'I-PER',
+'word': 'DE',
+},
+{'entity': 'I-PER',
+'word': 'CRESCENTIS',
+},
+],[
+{
+'entity':'B-LOC', 
+'word': 'Strasbourg',
+},
+],[
+{
+'entity': 'B-PER',
+'word': 'Christian'
+},
+{
+'entity':'I-PER',
+'word': 'Egenolff'
+},
+],[
+{'entity': 'B-DATE',
+'word': '1529'},
+],[
+{'entity':'B-PER',
+'word': 'Chris.'},
+{'entity': 'I-PER',
+'word': 'Egenolff'},
+],[
+{'entity':'B-DATE',
+'word': 'M.'},
+{'entity': 'I-DATE', 
+'word': 'D.'},
+{'entity':'I-DATE',
+'word': 'LXXXII'},
+],[
+{'entity': 'B-LOC',
+'word': 'Strassburg'}
+]
+]
+Maintenant, extrait en JSON les entités nommées des phrases suivantes : 910. Prov.: Librairie Lippert, Halle, 7. XII. 1886 (sans indi¬<0x0A>cation de prix). A l'intérieur du 1er plat: Stoll et Bader,<0x0A>Antiquariat Freiburg i. B.<0x0A>109<0x0A>BRACR Wenceslaus: Vocabularius rerum. Strasbourg, (typ.<0x0A>du Jordanus (— G. Husner), 1er efévrier 1491, in-4°.<0x0A>G W 4991, Hain 3707, Proctor 663, Voulliéme: Berlin 2444.<0x0A>K 914. Prov.: Spirgatis, Leipzig, 1. XII. 1892. Note mss. 110<0x0A>BRACK Wenceslaus: Vocabularius rerum. Strasbourg, (typ.<0x0A>du Jordanus (— G. Husner)), 22 déc. 1495.<0x0A>G W 4993, Hain 3708, Pellechet 2808, Proctor 640, Voulliéme:<0x0A>Berlin 2459, Schmidt III, 27 l’attribue à J. Prüss.<0x0A>K 915. Prov.: J. Steinkopf, Stuttgart, 28. I. 1873.<0x0A>111<0x0A>BRANT Sebastianus: (Richterlich Klagspiegel.) Klag, Ant¬<0x0A>wort und ausgesprochen Urteil. (Strasbourg, J. Prüss),<0x0A>1500), in-fol.<0x0A>Hain 3726, Proctor 568, Schmidt I, 45, l’attribue à Grüninger<0x0A>ainsi que Hain et Walter, Voulliéme: Berlin 2369, l’attribue à<0x0A>Prüss, ainsi que Proctor; Walter: Sélestat 115.<0x0A>K 924. Prov.: Don du prof. Gitzler, Breslau, 1871. Autographe<0x0A>du prof. Gitzler. Au-dessous du titre: Auctore D. Sebastiano<0x0A>Brant domals Cantzlern der Stadt Strassburck.»<0x0A>112<0x0A>BRANT Sebastianus: De monstruoso partu apud Worma¬<0x0A>tiam. Strasbourg, J. Prrüss), après le 10 septembre<0x0A>1495, in-4°.<0x0A>G W 5032, Hain 3760, Proctor 408, Schreiber 3576, Voulliéme:<0x0A>Berlin 2242; Schramm, Bilderschmuck XX, grav. N° 1238.<0x0A>K 951. Prov.: Librairie Trübner, Strasbourg, 27. III. 1890,<0x0A>25 M.<0x0A>113<0x0A>24<0x0A>BRANT Sebastinus: Stultifera navis en latin par J. Locher.<0x0A>Strasbourg, J. Grüninger, 1er juin 1497, in 4°. (Gra¬<0x0A>vures.)<0x0A>G W 5057, Hain 3749, Madsen 862, Pellechet 2821, Pellechet:<0x0A>Colmar 390, Proctor 480, Schmidt I, 30, Schreiber 3570, Voul¬<0x0A>liéme: Berlin 2301, Schramm, Bilderschmuck XX, grav. vol. 22.<0x0A>K 947. Prov.: O. Harrassowitz, Leipzig, 24. II. 1891, 80 M.<0x0A>Notes mss. A l’intérieur du 1er plat: «Ueber die verschiedenen<0x0A>Ausgaben dieses seltenen Buches s. Flögel, Geschichte der<0x0A>Comischen Litteratur, Theil III, S. 112 ff. — Dictionnaire<0x0A>bibliographique, Tome I, p. 189. — Catalogue des livres du<0x0A>duc de la Vallière par de Bure, Tome II, p. 137 f. — Clément,<0x0A>Bibliothèque curieuse, Tome V, p. 191 ff. — Ueber die gegen¬<0x0A>wärtige (Ausgabe) noch: Biblioth. G. J. Breitkopf P. I, p. 348».<0x0A>Au recto du f. de garde: «Alia extat perantiqua editio sub<0x0A>anno 1406 quod necessario falsum, quia post illud demum<0x0A>tempus typographia coepit et primus auctor Seb. Brant ante<0x0A>annum 1457 non vixit. Nihilominus illa Ascensii Badii Editio<0x0A>notis illustrata et typis nitidior majorem quam hic codex typi<0x0A>antiquitatem refert.»<0x0A>114<0x0A>BRANT Sebastianus: Varia Carmina. Strasbourg. J. Grünin¬<0x0A>ger, 1er août 1498, in-4°.<0x0A>G W 5069, Hain 3732, Madsen 870, Proctor 487, Schmidt I, 36,<0x0A>Schreiber 3544, Voulliéme: Berlin 2304.<0x0A>Schramm, Bilderschmuck XX, grav. 570-573.<0x0A>K 930. Prov.: Bibliothèque Ch. Schmidt, Strasbourg, 10. IV.<0x0A>1895. Note mss. de la main de Schmidt: Exemplaire complet,<0x0A>comprenant aussi les Scenica progymnasmata de Reuchlin et<0x0A>le Turcorum terror. A l'intérieur du 1er plat, exlibris de<0x0A>Ch. Schmidt.<0x0A>115<0x0A>BREVIARIUM Argentinense. Strasbourg, J. Grüninger, 20 mars<0x0A>1489, in-8°.<0x0A>G W 5261, Hain 3790, Pellechet 2852 et 2852 A. Schreiber 3584,<0x0A>Schmidt I, 8, Schramm, Bilderschmuck XX, grav. N° 113.<0x0A>K 964. Prov.: Librairie Trübner, Strasbourg, 15/XI. 1879,<0x0A>8 M. Notes mss. Incomplet.<0x0A>116<0x0A>25<0x0A>BRUN Urbanus Prebusinus: Oratio mordacissima. (Stras-<0x0A>bourg, J. Grüninger, vers 1500), in-4°.<0x0A>Hain 4006, Proctor 506, Voulliéme: Berlin 2320.<0x0A>Schramm, Bilderschmuck XX, grav. N° 340.<0x0A>K 990. Prov.: L. Rosenthal, Munich, 20/VI. 1888 10 M. Notes<0x0A>mss. Au recto du f. de garde: S. Klüpfel, Vita Conr. Celtis 2, 86.<0x0A>117<0x0A>BRUNSCHWIG Hieronymus: Chirurgia. Strasbourg, J. Grü¬<0x0A>ninger, 4 juillet 1497, in-fol. (Gravures.)<0x0A>G W 5593, Hain 4017, Madsen 921, Pellechet 3041 (†), Proctor<0x0A>481 (†), Schmidt I, 31, Schreiber 3642, Sudhoff 55.<0x0A>Schramm, Bilderschmuck XX, grav. N° 347-370.<0x0A>2<0x0A>K 993. Prov.: Comte Pocci, Strasbourg, 12/1. 1891, s. ind. de<0x0A>prix. Notes mss., au recto du 2e f. de garde: «Die Augsburger<0x0A>Ausgabe 1539 gedruckt durch Alexander Weyssenhorn, fol. 129.<0x0A>hat andere geringere Holzschnitte: Im Texte wenige neue<0x0A>Formen; einige Druckfehler gebessert, neuere dafür begangen.<0x0A>Note fol. 103 ist nach der Augsburger Ausgabe ergänzt. Von<0x0A>sich selbst berichtet der Verfasser fol. 40.»<0x0A>118<0x0A>BRUNSCHWIG Hieronymus: Kleines Destillierbuch. Stras¬<0x0A>bourg, J. Grüninger, 8 mai 1500, in-fol.<0x0A>G w 5595, Hain 4021, Madsen 926, Proctor 493, Schmidt I, 49,<0x0A>Schreiber 3644, Sudhoff 59, Voulliéme: Berlin 2309.<0x0A>Schramm, Bilderschmuck XX, grav. N° 661-940.<0x0A>K 996. Prov.; Don du Prof. F. A. Flückiger, Bern, 16/V. 1895.<0x0A>Notes mss. Au verso du f. de garde: «Vergl. Choulant, Gra¬<0x0A>phische Incunabeln 1858, 82. Charles Schmidt, Histoire litté¬<0x0A>raire de l’Alsace à la fin du XVe et au commencement du<0x0A>XVIe siècle II (Paris 1879), 394 n’indique que les titres des<0x0A>ouvrages de Jérôme Brunschwig. Flückiger, Pharmakognosie<0x0A>1883. 990. Ausser dieser ersten Ausgabe noch diejenige von

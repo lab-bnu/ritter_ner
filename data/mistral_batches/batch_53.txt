@@ -1,0 +1,64 @@
+Extrait en un fichier JSON les entités nommées B-PER, I-PER, B-DATE, I-DATE, B-LOC, I-LOC selon l'exemple :
+Exemple =  "HANNENBEIN, Georg . Voir: LIED (Neu Klaglied der Bauern) n° 340.
+PETRUS DE CRESCENTIS
+( WUERFELBUCH ]
+ Strasbourg , ( Christian Egenolff ), 1529 
+ Marque typ. de Chris. Egenolff. Anno M. D. LXXXII 
+ Stadtbibl. Strassburg 1192". 
+
+Réponse = 
+[
+[{'entity': 'B-PER',
+   'word': 'HANNENBEIN',
+},
+  {'entity': 'I-PER',
+   'word': ',',
+},
+  {'entity': 'I-PER',
+   'word': 'Georg',
+},
+],[
+{'entity': 'B-PER',
+   'word': 'PETRUS',
+},
+{'entity': 'I-PER',
+'word': 'DE',
+},
+{'entity': 'I-PER',
+'word': 'CRESCENTIS',
+},
+],[
+{
+'entity':'B-LOC', 
+'word': 'Strasbourg',
+},
+],[
+{
+'entity': 'B-PER',
+'word': 'Christian'
+},
+{
+'entity':'I-PER',
+'word': 'Egenolff'
+},
+],[
+{'entity': 'B-DATE',
+'word': '1529'},
+],[
+{'entity':'B-PER',
+'word': 'Chris.'},
+{'entity': 'I-PER',
+'word': 'Egenolff'},
+],[
+{'entity':'B-DATE',
+'word': 'M.'},
+{'entity': 'I-DATE', 
+'word': 'D.'},
+{'entity':'I-DATE',
+'word': 'LXXXII'},
+],[
+{'entity': 'B-LOC',
+'word': 'Strassburg'}
+]
+]
+Maintenant, extrait en JSON les entités nommées des phrases suivantes :180, 319.<0x0A>Mager Melch. 340.<0x0A>Nuremberg 180, 355.<0x0A>Malersdorf 385.<0x0A>Mann Theod. 477.<0x0A>Marktbreit 175, 245, 255.<0x0A>Oefely Andr. Fél. 476.<0x0A>Martin Ernest 273, 449.<0x0A>Olearius 48.<0x0A>Maximilien (empereur) 284.<0x0A>Oleire E. d’ 235.<0x0A>Mehi 448.<0x0A>Onsars Conr. 190.<0x0A>Melchior (Frater) 415.<0x0A>Ottendorfer Oswald 477.<0x0A>Memmingen 98, 393.<0x0A>Menke 97, 478.<0x0A>Panzer 11, 54, 104, 150, 317, 371,<0x0A>Menzel W. 253, 261.<0x0A>391.<0x0A>Merkel Rud. 423.<0x0A>Paris 58, 119, 229, 314, 448.<0x0A>Modelius Georgius Leonh. 417.<0x0A>Parsival 495.<0x0A>Mœg Joh. 310.<0x0A>Passau 27, 157, 159, 204, 219.<0x0A>Molitor Conr. 460.<0x0A>Pelbartus Oswaldus 373.<0x0A>Müller (Bibliothécaire Stras-<0x0A>Pellechet 1, 3, 5-9, 11-15, 20, 21,<0x0A>bourg) 237.<0x0A>23-29, 32, 34-42, 44, 44a, 47-57,<0x0A>Müller (Recteur Quedlinbourg)<0x0A>59-69, 71-79, 81, 82, 84-94,<0x0A>311.<0x0A>96-99, 101-103, 105-109, 111,<0x0A>Müller Théod. 456.<0x0A>114, 116, 118, 121, 122, 125,<0x0A>125<0x0A>126, 130, 132-135, 137-144, 146-<0x0A>410-413, 416-421, 424, 426,<0x0A>161, 168, 173, 174, 176,<0x0A>429, 432-437, 439-442, 444-449.<0x0A>179-181, 183, 184, 186, 187,<0x0A>451-457.<0x0A>459-468,<0x0A>472-482,<0x0A>189-192, 194, 262, 267, 342,<0x0A>485-496.<0x0A>383, 386, 387, 440, 441, 454,<0x0A>Protzer 64, 148.<0x0A>496.<0x0A>Puder 99.<0x0A>Pellechet: Colmar 1, 7-9, 12a,<0x0A>13. 30, 33-35, 37-39, 42-44.<0x0A>Quedlinbourg 311.<0x0A>47, 48, 50, 56, 63, 66-68,<0x0A>Quentel 15.<0x0A>71-73, 76, 78, 79, 81, 87, 89,<0x0A>93, 96, 99, 101-103, 108, 109,<0x0A>114, 121-126, 130, 132, 137-139,<0x0A>Ramsau 105, 228.<0x0A>141-144, 147, 150, 152, 155,<0x0A>Ranschburg 196, 458.<0x0A>157, 158, 167, 176, 171, 176,<0x0A>Ranshofen 139, 142, 197, 198,<0x0A>179-181, 183, 191, 193, 196,<0x0A>211, 270, 271, 318, 353, 358,<0x0A>197, 200, 201, 205, 208, 209,<0x0A>363, 416, 445, 455.<0x0A>216, 217, 219-222, 224, 227-230,<0x0A>Rastatt 344.<0x0A>232, 235, 239, 240, 242-244,<0x0A>Ratisbonne 190.<0x0A>248, 252-254, 257, 261, 262,<0x0A>Rauthe Oscar 127, 248, 468.<0x0A>264, 265, 269, 274-276, 284-287,<0x0A>Regner Eust. 373.<0x0A>290-292, 297, 302, 304, 365, 310,<0x0A>Reichard Joh. 262.<0x0A>316, 321, 323, 326, 328, 329,<0x0A>Reichenhall 187<0x0A>336. 337, 344-348, 351-353,<0x0A>Reichlin 199, 258, 259, 449.<0x0A>355, 360, 370, 374, 383-386,<0x0A>Reichlin: Doctrinale 16-19.<0x0A>392. 393, 395, 400, 404, 410,<0x0A>Reiner Adam 171.<0x0A>417, 418, 421, 426, 429, 436,<0x0A>Reinhardus Marc 200.<0x0A>439-441, 443,444, 447, 448,<0x0A>Reintgens 312.<0x0A>450, 452, 455-457, 460, 463,<0x0A>Reuchlin 115.<0x0A>465, 467, 468, 480, 487, 493.<0x0A>Reuss Ed. 84, 87, 88, 90, 92, 296,<0x0A>Pellechet: Lyon 58.<0x0A>386, 396, 404, 496.<0x0A>Pfleger Lucien 8.<0x0A>Reyser Georgius 104, 217, 391.<0x0A>Pittwitz v. 428.<0x0A>Reyser Henr. 310.<0x0A>Pocci 118.<0x0A>Reyser Joh. 310.<0x0A>Polain: Belgique 423, 492.<0x0A>Rhodes 45.<0x0A>Pollingen 3, 137, 178, 181, 212.<0x0A>Rhot (2) Henry 322.<0x0A>Porckmaier Mart. 230.<0x0A>Richier J. 153.<0x0A>Porta Cœli 8.<0x0A>Riegger 493, 494.<0x0A>Prague 361.<0x0A>Ritter Fr. 425.<0x0A>Prantl (Präntelius) G. 144, 367.<0x0A>Ropperswiller 237.<0x0A>Probst 63.<0x0A>Rosenthal 10, 100, 117, 163, 325,<0x0A>365, 414, 462.<0x0A>Proctor: Londres 1-3, 5-15,<0x0A>Rottenbuch (Ammergau) 103.<0x0A>20-21, 23, 25-39, 41-48, 50-64.<0x0A>Ruch Joh. 481.<0x0A>66-80, 83-94, 96-115, 117-121,<0x0A>Rynmann 445.<0x0A>123-126, 128-154, 156-161,<0x0A>163-168, 172, 173, 176-187,<0x0A>189-191, 193-204, 206-268, 211,<0x0A>Saint Goar Isaac 225.<0x0A>212, 214-217, 219-222, 225,<0x0A>Salem 481.<0x0A>227-235, 238, 239, 242-246,<0x0A>Sandrog 337.<0x0A>248, 249, 251, 2

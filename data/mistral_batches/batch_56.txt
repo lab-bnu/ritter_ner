@@ -1,0 +1,64 @@
+Extrait en un fichier JSON les entités nommées B-PER, I-PER, B-DATE, I-DATE, B-LOC, I-LOC selon l'exemple :
+Exemple =  "HANNENBEIN, Georg . Voir: LIED (Neu Klaglied der Bauern) n° 340.
+PETRUS DE CRESCENTIS
+( WUERFELBUCH ]
+ Strasbourg , ( Christian Egenolff ), 1529 
+ Marque typ. de Chris. Egenolff. Anno M. D. LXXXII 
+ Stadtbibl. Strassburg 1192". 
+
+Réponse = 
+[
+[{'entity': 'B-PER',
+   'word': 'HANNENBEIN',
+},
+  {'entity': 'I-PER',
+   'word': ',',
+},
+  {'entity': 'I-PER',
+   'word': 'Georg',
+},
+],[
+{'entity': 'B-PER',
+   'word': 'PETRUS',
+},
+{'entity': 'I-PER',
+'word': 'DE',
+},
+{'entity': 'I-PER',
+'word': 'CRESCENTIS',
+},
+],[
+{
+'entity':'B-LOC', 
+'word': 'Strasbourg',
+},
+],[
+{
+'entity': 'B-PER',
+'word': 'Christian'
+},
+{
+'entity':'I-PER',
+'word': 'Egenolff'
+},
+],[
+{'entity': 'B-DATE',
+'word': '1529'},
+],[
+{'entity':'B-PER',
+'word': 'Chris.'},
+{'entity': 'I-PER',
+'word': 'Egenolff'},
+],[
+{'entity':'B-DATE',
+'word': 'M.'},
+{'entity': 'I-DATE', 
+'word': 'D.'},
+{'entity':'I-DATE',
+'word': 'LXXXII'},
+],[
+{'entity': 'B-LOC',
+'word': 'Strassburg'}
+]
+]
+Maintenant, extrait en JSON les entités nommées des phrases suivantes :<0x0A>Strasbourg: presque tous les<0x0A>456, 471, 480, 482-484, 488-494.<0x0A>numéros.<0x0A>Schmidt Paul 314.<0x0A>Stuchs 180.<0x0A>Schöpflin 200.<0x0A>Stuttgart 111, 350, 438, 484.<0x0A>Schorbach 464.<0x0A>Sudhoff 118, 119.<0x0A>Schorbach: Knoblochtzer 14, 21,<0x0A>Sydelin Math. 340.<0x0A>22, 45, 177, 182, 250, 251, 269,<0x0A>288, 306, 310, 315, 333, 379,<0x0A>396, 455.<0x0A>Taverna (Italie) 405.<0x0A>Schorbach: Mentelin 9, 11, 20,<0x0A>Tegernsee 30, 446.<0x0A>41-44. 51, 52, 54-56, 69, 141,<0x0A>Testor 435.<0x0A>231, 249, 264, 277, 345, 370,<0x0A>Teyneck Vinc. 241.<0x0A>371, 451, 472, 476, 495. (Voir<0x0A>Thomas d’Aquin 462 (Voir aussi<0x0A>aussi: Additions à la fin.)<0x0A>gux noms d’auteurs).<0x0A>Schott Pierre 426.<0x0A>Thomas de Argentina 301, 327.<0x0A>Schrader 276.<0x0A>Titurel 495.<0x0A>Schramm: Bilderschmuck 2, 14,<0x0A>Törring (Graf) 404.<0x0A>21, 22, 50, 64, 89, 90, 95, 98,<0x0A>Treuttel-Würtz (Libr. Strasbourg)<0x0A>100, 113-120, 148, 165, 178,<0x0A>360, 447.<0x0A>179, 181, 213, 215, 235, 237,<0x0A>Trèves 20, 24, 69, 149, 239, 249,<0x0A>238, 247, 249, 250, 268, 279,<0x0A>275, 373, 475, 477.<0x0A>280, 284, 288, 294, 315, 325,<0x0A>Trinkhasius C. 82.<0x0A>349, 350, 369. 379, 388, 389,<0x0A>Troja (Destructio) 134-137.<0x0A>396. 397, 401, 402, 409, 416,<0x0A>Trübner (Libr. Strasbourg) 8,<0x0A>417, 419, 420, 425, 436, 447-449,<0x0A>13, 16-18, 30, 33, 34, 40, 55,<0x0A>455, 457, 471, 481, 482, 488,<0x0A>113, 116, 120, 126, 130, 174,<0x0A>489, 491-493.<0x0A>182. 191, 199, 200, 233, 267,<0x0A>Schreiber: Manuel 2, 14, 16-19,<0x0A>268. 279, 288, 291, 315, 331,<0x0A>21, 22, 50, 64, 89, 90, 92, 95,<0x0A>338, 349, 362, 376, 378, 379,<0x0A>98, 100, 103, 113-116, 118-120,<0x0A>382, 383, 388, 391, 396, 422,<0x0A>148, 179-181, 213, 215, 235,<0x0A>429-431, 452, 455, 463, 466,<0x0A>237, 238, 249, 263, 268, 272,<0x0A>471, 472.<0x0A>279, 280, 284, 288, 294, 315,<0x0A>Tubingen 183.<0x0A>325, 330, 331, 349, 350, 369,<0x0A>Turin 77.<0x0A>379, 388, 394, 396. 397. 401.<0x0A>402, 412, 416-419, 425, 446-449,<0x0A>455. 457, 481-484, 488, 489,<0x0A>Ulm 90, 221, 394.<0x0A>491-494.<0x0A>Undensdorf 190.<0x0A>Schürer Math. 181.<0x0A>Schwägerl Joh. 380.<0x0A>Schweinfurt 88, 258.<0x0A>Valerius F. 72.<0x0A>Seyboth 235.<0x0A>Valerius Maximus 147.<0x0A>Varsovie 329.<0x0A>Sonnenfro 40.<0x0A>Vellhausen 476.<0x0A>Sothebey 200.<0x0A>Venise 77, 296.<0x0A>Spire 369.<0x0A>Verberckt (2) Jac. 354.<0x0A>127<0x0A>Hain — Ritter<0x0A>8.937 — 238<0x0A>8.995 — 240<0x0A>8996 — 239<0x0A>9.002 — 241<0x0A>9.005 — 242<0x0A>9.022 — 243<0x0A>9.025 — 244<0x0A>9.028 — 245<0x0A>9.046 — 320<0x0A>9.047 — 321<0x0A>9.049 — 322<0x0A>9.052 — 318<0x0A>9.053 — 319<0x0A>9.054 — 523<0x0A>9.055 — 324<0x0A>9.092 — 456<0x0A>9.098 — 457<0x0A>9.191 — 246<0x0A>9.221 — 248<0x0A>9.270 — 249<0x0A>9.400 — 268<0x0A>9.429 — 269<0x0A>9.438 — 274<0x0A>9.440 — 275<0x0A>9465 — 461<0x0A>9.491 — 276<0x0A>9.763 — 177<0x0A>9.909 = 278<0x0A>10.039 — 120<0x0A>10.153 = 284<0x0A>101169 — 285<0x0A>10.173 — 286<0x0A>10.174 — 287<0x0A>10.183 — 392<0x0A>10.184 — 391<0x0A>10.290 — 290<0x0A>10.293 — 291<0x0A>10.307 — 289<0x0A>10.333 — 167<0x0A>10.366 — 345<0x0A>10.372 — 344<0x0A>10.471 — 292<0x0A>10.472 — 293<0x0A>10.552 — 297<0x0A>10.553 — 296<0x0A>10.566 — 298<0x0A>10.568 — 299<0x0A>10.573 — 300<0x0A>10.650 — 294<0x0A>10.670 — 295<0x0A>10.762 — 371<0x0A>10.763 — 370<0x0A>10.768 — 12a<0x0A>10.843 — 302<0x0A>Hain — Ritter<0x0A>10.845 — 303<0x0A>10.851 — 304<0x0A>10.854 — 305<0x0A>10.870— 480<0x0A>10.873 — 481<0x0A>10.874 — 482<0x0A>10.913 — 307<0x0A>10.983 — 308<0x0A>11.033 — 513<0x0A>11.034 — 309<0x0A>11.036 — 314<0x0A>11.038 — 310<0x0A>11.040 — 311<0x0A>11.041 — 312<0x0A>11.061 — 515<0x0A>11.480 — 326<0x0A>11.485 — 327<0x0A>11.487 — 

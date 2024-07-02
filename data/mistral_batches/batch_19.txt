@@ -1,0 +1,64 @@
+Extrait en un fichier JSON les entités nommées B-PER, I-PER, B-DATE, I-DATE, B-LOC, I-LOC selon l'exemple :
+Exemple =  "HANNENBEIN, Georg . Voir: LIED (Neu Klaglied der Bauern) n° 340.
+PETRUS DE CRESCENTIS
+( WUERFELBUCH ]
+ Strasbourg , ( Christian Egenolff ), 1529 
+ Marque typ. de Chris. Egenolff. Anno M. D. LXXXII 
+ Stadtbibl. Strassburg 1192". 
+
+Réponse = 
+[
+[{'entity': 'B-PER',
+   'word': 'HANNENBEIN',
+},
+  {'entity': 'I-PER',
+   'word': ',',
+},
+  {'entity': 'I-PER',
+   'word': 'Georg',
+},
+],[
+{'entity': 'B-PER',
+   'word': 'PETRUS',
+},
+{'entity': 'I-PER',
+'word': 'DE',
+},
+{'entity': 'I-PER',
+'word': 'CRESCENTIS',
+},
+],[
+{
+'entity':'B-LOC', 
+'word': 'Strasbourg',
+},
+],[
+{
+'entity': 'B-PER',
+'word': 'Christian'
+},
+{
+'entity':'I-PER',
+'word': 'Egenolff'
+},
+],[
+{'entity': 'B-DATE',
+'word': '1529'},
+],[
+{'entity':'B-PER',
+'word': 'Chris.'},
+{'entity': 'I-PER',
+'word': 'Egenolff'},
+],[
+{'entity':'B-DATE',
+'word': 'M.'},
+{'entity': 'I-DATE', 
+'word': 'D.'},
+{'entity':'I-DATE',
+'word': 'LXXXII'},
+],[
+{'entity': 'B-LOC',
+'word': 'Strassburg'}
+]
+]
+Maintenant, extrait en JSON les entités nommées des phrases suivantes : Voir: Gratianus.<0x0A>DIONYSIUS DE BURGO: Commentarii in Valerium Maximum.<0x0A>(Strasbourg, imprimeur R (— Ad. Rusch), pas après<0x0A>1475), in-fol.<0x0A>G W 8411, Hain 4103, Madsen 1410, Pellechet 3059, Pellechet:<0x0A>Colmar 407, Proctor 237, Voulliéme; Berlin 2115; Walter:<0x0A>Sélestat 490.<0x0A>K 1437. Prov.: Albert Cohn, Berlin (Catal. 137, N° 164), 24/II.<0x0A>1881, 30 M. Notes mss. Rel. anc.<0x0A>147<0x0A>32<0x0A>DIRECTORIUM statuum. (Strasbourg), J. Prüss pour Pierre<0x0A>Attendorn (après le 25 octobre 1489), in-4°.<0x0A>G W 8476, Hain 6274, Madsen 1421, Pellechet 4343, Proctor<0x0A>542, Schmidt IV, p. 2, Schreiber 3831, Voulliéme: Berlin<0x0A>2370; Schramm, Bilderschmuck XX, grav. N° 1261-1262.<0x0A>K 1449. Prov.: J. Noiriel, Strasbourg, 8/x. 1882, 14 M. Au¬<0x0A>dessous du titre: «Johannes Protzer».<0x0A>148<0x0A>DIRECTORIUM vitae humanae. Voir: Johannes de Capua.<0x0A>DISCIPULUS. Voir: Herolt.<0x0A>DONDUS Jacobus de: Aggregator Paduanus de medicinis sim¬<0x0A>plicibus. (Strasbourg, A. Rusch, (typ. R., vers 1470.)<0x0A>G W 9042, Hain 6395, Pellechet 4435, Proctor 248, Voullième:<0x0A>Berlin 2119.<0x0A>K 1461. Prov. inconnue. Au verso du 2e f. de garde: Iste liber<0x0A>pertinet ad monasterium sti. Albani prope treueri ordinis<0x0A>Carthusien. Au-dessous d’une autre main: «Imprimé à Stras¬<0x0A>bourg vers 1470 avec les caractères goth. de Jean Mentelin.<0x0A>(Brunet au nom de Dondis). Rel, anc.<0x0A>149<0x0A>DURANDUS Guillelmus: Rationale divinorum officiorum.<0x0A>(Strasbourg, Ad. Rusch (typ. R) s. d., in-fol.<0x0A>Hain 6461. Pellechet 4487, Pellechet: Colmar 564, Proctor 230.<0x0A>K 1474. Prov.; Baer 8 Co., Francfort s. M. 7/II. 1883, 40 M.<0x0A>Notes mss. Au verso du f. de garde: Liber hicce Durandi<0x0A>saepius quidem excusus, et tamen non ubivis obvius. Prodiit<0x0A>primum Moguntiae 1459, deinde soepius. Repetitis tamen<0x0A>hisce editionibus, non obstantibus infrequens est Durandus,<0x0A>imprimis editio praesens, quae Argentinae ex officina Mente¬<0x0A>lini prodiit, et Panzero in Annalibus typograph. Vol. I. p. 79<0x0A>exunde summa ejus raritas elucescit. Rel. anc.<0x0A>150<0x0A>DURANDUS Guillelmus: Rationale divinorum officiorum.<0x0A>(Strasbourg, G. Husner, vers 14702), in-fol.<0x0A>Hain 6466, Pellechet 4480, Proctor 363.<0x0A>K 1478. Prov.: Baer 8 Co., Francfort s. M., 15/xI. 1888, 20 M.<0x0A>Notes mss., exlibris à l’intérieur du 1er plat. Rel. anc. 151<0x0A>33<0x0A>R.3<0x0A>DURANDUS Guillelmus: Rationale divinorum, officiorum.<0x0A>(Strasbourg, G. Husner, vers 1478), in-fol.<0x0A>Hain 6462, Pellechet 4488, Pellechet: Colmar 565, Proctor<0x0A>360, Voulliéme: Berlin 2202.<0x0A>K 1475. Prov.: Bibl. du prince de Bentheim, provenant du<0x0A>Couvent de Frenswegen, 1874. Note mss. Rel. anc.<0x0A>152<0x0A>DURANDUS Guillelmus: Rationale divinorum officiorum.<0x0A>(Strasbourg, G. Husner, avant 1481), in-fol.<0x0A>Hain 6465, Pellechet 4481, Proctor 361.<0x0A>K 1477. Proy.; B N Munich, 22/1. 1880, 8 M. Au recto du<0x0A>dernier f.: «Ex libris Joannis Richier, 1652». Rel. anc. 153<0x0A>DURANDUS Guillelmus: Rationale divinorum officiorum.<0x0A>Strasbourg, (imprimeur du Jordanus (— G. Husner),<0x0A>1484, in-fol.<0x0A>Hain 6489, Madsen 1473, Pellechet 4506, Proctor 590, Voul¬<0x0A>liéme: Berlin 2401.<0x0A>K 1484. Prov.: Don de la ville de Heilbronn, 1871. Rel. anc.<0x0A>154<0x0A>DURANDUS Guillelmus: Rationale divinorum officiorum.<0x0A>Strasbourg, (J. Prüss), 1486, in-fol.<0x0A>Hain 6491, Pellechet 4508, Pellechet: Colmar 571.<0x0A>K 1486. Prov.: A. Einsle, Vienne, 8/xII. 1885, 6 M. fol. A 2a:<0x0A>Carthusia Gemnicensis. (Gamming). Rel. anc.<0x0A>. 155<0x0A>DURANDUS Guillelmus; Rationale divinorum officiorum.<0x0A>Strasbourg, (imprimeur du Jordanus (— G. Husner)),<0x0A>13 juillet 1486, in-fol.<0x0A>Hain 6492, Pellechet 4509, Proctor 603, Voulliéme: Berlin 2411.<0x0A>K 1487. Prov.: Bibliothèque Cha. Schmidt, 10/IV. 1895. Au¬<0x0A>dessous du titre: «Ex dono Reuerendi viri D. M. Eliae<0x0A>Schadaei Ecclesiasta e summi templi Argentinensis e profes¬<0x0A>soris Academiae eiusdem, die 19 Julit Anno 1593» Au-des¬<0x0A>sous: «Sur les différentes éditions V. Brunet II, 154-155».<0x0A>Rel. anc.<0x0A>156<0x0A>34<0x0A>DURANDUS Guillelmus: Rationale divinorum officiorum.<0x0A>Strasbourg, (imprimeur du Jordanus (— G. Husner),<0x0A>1er sept. 1488, in-fol.<0x0A>Hain 6494, Madsen 1476, Pellechet 4512, Pellechet: Colmar<0x0A>572, Proctor 616, Voulliéme: Berlin 2422.<0x0A>K 1488. Prov.: B N Munich, 22/1. 1880, 2 M. 50. A l’intérieur<0x0A>du 1er plat, exlibris, avec les mots: Ex Bibliotheca ecclesiae<0x0A>collegiatae Lateranensis ad S. Nicolaum prope Passavium.<0x0A>Rel. anc.<0x0A>157<0x0A>DURANDUS Guillelmus: Rationale divinorum officiorum.<0x0A>Strasbourg, (impr. du Jordanus (— G. Husner)),<0x0A>19 juillet 1493, in-fol.<0x0A>Hain 6496, Pellechet 4514, Pellechet: Colmar 573, Proctor 626,<0x0A>Voulliéme: Berlin 2450.<0x0A>K 1490. Prov.; B N Munich, 22/1. 1880, 2 M. 50. Au haut du<0x0A>1er f.; Monasterij Sancti Andechs, au bas: Cäringae 1640.<0x0A>Rel. anc.<0x0A>158<0x0A>DURANDUS Guillelmus: Speculum judiciale. Strasbourg, G.<0x0A>Husner, 22 nov. 1473, in-fol.<0x0A>Hain 6506, Pellechet 4523, Proctor 346, Voulliéme: Berlin<0x0A>2193.<0x0A>K 1494, Prov.: Albert Cohn, Berlin, 17/1l. 1879, 36 M. Au<0x0A>haut du 1er f.: «Iste liber C. S. Michaeli Archangeli Pascovii».<0x0A>Rel. anc.<0x0A>159<0x0A>EBENDORFER DE HASELBACH. Voir: Thomas Ebendorfer de<0x0A>Haselbach.<0x0A>EUSEBIUS Pamphilius: Historia ecclesiastica, latine, inter¬<0x0A>prete Rufino. (Strasbourg, H. Eggestein, s. d.), in-

@@ -1,0 +1,64 @@
+Extrait en un fichier JSON les entités nommées B-PER, I-PER, B-DATE, I-DATE, B-LOC, I-LOC selon l'exemple :
+Exemple =  "HANNENBEIN, Georg . Voir: LIED (Neu Klaglied der Bauern) n° 340.
+PETRUS DE CRESCENTIS
+( WUERFELBUCH ]
+ Strasbourg , ( Christian Egenolff ), 1529 
+ Marque typ. de Chris. Egenolff. Anno M. D. LXXXII 
+ Stadtbibl. Strassburg 1192". 
+
+Réponse = 
+[
+[{'entity': 'B-PER',
+   'word': 'HANNENBEIN',
+},
+  {'entity': 'I-PER',
+   'word': ',',
+},
+  {'entity': 'I-PER',
+   'word': 'Georg',
+},
+],[
+{'entity': 'B-PER',
+   'word': 'PETRUS',
+},
+{'entity': 'I-PER',
+'word': 'DE',
+},
+{'entity': 'I-PER',
+'word': 'CRESCENTIS',
+},
+],[
+{
+'entity':'B-LOC', 
+'word': 'Strasbourg',
+},
+],[
+{
+'entity': 'B-PER',
+'word': 'Christian'
+},
+{
+'entity':'I-PER',
+'word': 'Egenolff'
+},
+],[
+{'entity': 'B-DATE',
+'word': '1529'},
+],[
+{'entity':'B-PER',
+'word': 'Chris.'},
+{'entity': 'I-PER',
+'word': 'Egenolff'},
+],[
+{'entity':'B-DATE',
+'word': 'M.'},
+{'entity': 'I-DATE', 
+'word': 'D.'},
+{'entity':'I-DATE',
+'word': 'LXXXII'},
+],[
+{'entity': 'B-LOC',
+'word': 'Strassburg'}
+]
+]
+Maintenant, extrait en JSON les entités nommées des phrases suivantes : Hess, Ellwangen, 14. XI. 1887, 325 M. Incom¬<0x0A>plet, 9 ff. manquent: 1, 7, 12, 35, 36, 70, 71, 82, 92.<0x0A>95<0x0A>BOETHIUS: De consolatione philosophiae. Haguenau,<0x0A>H. Gran), 21 février 1491, in-4°.<0x0A>G W 4549, Hain 3383, Pellechet 2530, Pellechet: Colmar 354,<0x0A>Proctor 3172, Voulliéme: Berlin 1168.<0x0A>K 814. Prov.: Don du prof. Witte, Halle, 1871.<0x0A>96<0x0A>BOETHIUS: De consolatione philosophiae. Strasbourg, (J.<0x0A>Prüss), 6 mars 1491, in-4°.<0x0A>G W 4551, Hain 3382, Madsen 767, Pellechet 2532, Proctor 576,<0x0A>Voulliéme: Berlin 2362, Walter; Sélestat 104.<0x0A>K 813. Prov.: Don Bibl. Menke avec des notes mss. de sa main<0x0A>et la date 1858.<0x0A>97<0x0A>BOETHIUS: De consolatione philosophiae (en allemand).<0x0A>Strasbourg, J. Schott, 31 août 1500, in-4°.<0x0A>G W 4575, Hain 3359, Proctor 763, Schreiber 3518, Voullième:<0x0A>Berlin 2562, Schramm, Bilderschmuck XX, grav. N° 2296.<0x0A>K 805. Prov.: F. Butsch fils, Augsbours, 12. x. 1883, 46 M.<0x0A>Au bas du titre: Liber Cartus, in Buchshaim propre Mem¬<0x0A>mingen, Rel. anc.<0x0A>98<0x0A>BOETHIUS (Pseudo-]: De disciplina scholarium. Strasbourg,<0x0A>[typ. du Jordanus (— G. Husner), 1er février 1491, in-4°.<0x0A>G W 4598, Hain 3422, Pellechet 2560, Pellechet: Colmar 359,<0x0A>Proctor 662, Voulliéme: Berlin 2443.<0x0A>21<0x0A>K 828. Prov.: Don de M. Puder, Breslau, 1871. Note mss. au<0x0A>recto du f. de garde: Von den Kindern des verstorbenen Kauf¬<0x0A>manns Puder in Breslau durch ihren Vormund, Herrn Stadt¬<0x0A>gerichtsrath Stenzel, der Strassburger Bibliothek geschenkt,<0x0A>am 4. Juli 1871.<0x0A>99<0x0A>BOETHIUS (Pseudo-): De disciplina scholarium. Strasbourg,<0x0A>(G. Husner), 1415, erreur pour 1495, in-4°.<0x0A>G W 4601, Hain 3424, Proctor 743, Schreiber 3513, Voulliéme:<0x0A>Berlin 2527, 15; Schramm, Bilderschmuck XIX, grav. N° 10.<0x0A>K 829. Prov.: L. Rosenthal, Munich, 15. I. 1884, 10 M. Au-des¬<0x0A>sous de l’explicit: Cartus, in Buchshaim.<0x0A>100<0x0A>BOLLANUS Dominicus: De conceptione Beatae Virginis<0x0A>Mariae. (Strasbourg, Adolphe Rusch (typ. R), vers<0x0A>1475), in-fol.<0x0A>G W 4616, Hain 3436, Pellechet 2567, Pellechet: Colmar 360,<0x0A>Proctor 235, Voulliéme: Berlin 2114.<0x0A>K 834. Prov.; B. N. Munich, 22. I. 1880, 3 M.<0x0A>101<0x0A>BONAVENTURA S.: Opuscula. Strasbourg, Mart. Flach, 31 oc¬<0x0A>tobre 1489, in-fol.<0x0A>G W 4647, Hain 3465 (— Hain — 3565a), Madsen 791, Pelle¬<0x0A>chet 2620, Pellechet: Colmar 364, Proctor 683, Schmidt VI,<0x0A>23. Voulliéme: Berlin 2486.<0x0A>K 838. Prov.: Don de la ville de Heilbronn, 1871. A l’intérieur<0x0A>du 1er plat: «Ex legato Joan. Krener ex Scherding Concio¬<0x0A>natoris Heylpronensis 1520». Rel. anc.<0x0A>102<0x0A>BONAVENTURA S.: Opuscula parva. Strasbourg (typ. du Jor¬<0x0A>danus (— G. Husner), 18 déc. 1495, in-fol.<0x0A>G W 4648, Hain 3468, Madsen 792, Pellechet 2616, Pellechet:<0x0A>Colmar 365, Proctor, 639, Schreiber 3521, Voulliéme: Berlin<0x0A>2458, Walter: Sélestat 113.<0x0A>K 840. Prov.; Pars I: Don de la ville de Heilbronn, 1871.<0x0A>Rel. anc. Pars II: B. N. Munich, 24. II. 1882, 4 M. Au-dessus<0x0A>du titre: Fratrum Rottenbuechensium. Rel, anc.<0x0A>103<0x0A>22<0x0A>BONAVENTURA S.: Auctoritates utriusque testamenti. Voir:<0x0A>Nicolaus de Hanapis.<0x0A>BONAVENTURA S.: Breviloquium. (Strasbourg, typ. du Hen¬<0x0A>ricus Ariminensis, vers 1473/4), in fol.<0x0A>G W 4652, Hain 3469 — 15592, Proctor 311, Voulliéme: Ber¬<0x0A>lin 2161, 7.<0x0A>K 841. Prov.; Librairie Lindner (vente Stöber, 27. II, 1891),<0x0A>Strasbourg, 30 M. A l’intérieur du 1er plat: Panzer 1, 97, 521.<0x0A>Argentorati, Georg Reyser 1471/2.<0x0A>104<0x0A>BONAVENTURA S. (Pseudo-: Sermones de tempore et de<0x0A>sanctis. Haguenau, (H. Gran, 9 janvier 1496), in-4°.<0x0A>G W 4815, Hain 3520, Pellechet 2656, Proctor 3184, Voulliéme:<0x0A>Berlin 1175, 5; Walter: Sélestat 111.<0x0A>K 862. Prov.; B N Munich, 16. XII. 1879, 2 M. 40. Notes mss.<0x0A>Au-dessous du titre: «Conventus Rambsauiensis.» Rel. anc.<0x0A>105<0x0A>BONAVENTURA S. (Pseudo-: Sermones mediocres de tem¬<0x0A>pore. Strasbourg, (typ. du Jordanus (— G. Husner) I,<0x0A>12 mars) 1496.<0x0A>G W 4801, Hain 3523, Madsen 820, Pellechet 2650, Proctor 668,<0x0A>Voulliéme: Berlin 2461.<0x0A>K 864. Prov.: Don de la ville de Heilbronn, 1871. Rel. anc.<0x0A>106<0x0A>BONAVENTURA S.: Soliloquium. (Strasbourg, H. Eggestein,<0x0A>pas après 1474), in-4°.<0x0A>G W 4686, Hain 3483, Pellechet 2672, Proctor 287, Voulliéme:<0x0A>Berlin 2146, 6.<0x0A>K 847. Prov.: B N Munich, 22. I. 1880, 5 M.<0x0A>107<0x0A>BONIFACIUS VIII: Liber sextus Decretalium. (Strasbourg, H.<0x0A>Eggestein, vers 1470/2), in-fol.<0x0A>G W 4849, Hain 3583, Pellechet 2725, T. I. Pellechet; Colmar<0x0A>377, Proctor 271, Voulliéme: Berlin 2147, Walter: Sélestat 294.<0x0A>K 893. Prov.: BN Munich, 24. XI. 1880, 12 M. Rel. anc. 108<0x0A>23<0x0A>BRACK Wenceslaus: Vocabularius rerum. (Strasbourg, J.<0x0A>Grüninger, vers 1485/7), in-fol.<0x0A>G W 4986, Hain 3697, Pellechet 2804, Pellechet-Colmar 381,<0x0A>Proctor 448, Voulliéme: Berlin 2319.<0x0A>

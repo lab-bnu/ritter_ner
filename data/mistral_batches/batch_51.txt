@@ -1,0 +1,64 @@
+Extrait en un fichier JSON les entités nommées B-PER, I-PER, B-DATE, I-DATE, B-LOC, I-LOC selon l'exemple :
+Exemple =  "HANNENBEIN, Georg . Voir: LIED (Neu Klaglied der Bauern) n° 340.
+PETRUS DE CRESCENTIS
+( WUERFELBUCH ]
+ Strasbourg , ( Christian Egenolff ), 1529 
+ Marque typ. de Chris. Egenolff. Anno M. D. LXXXII 
+ Stadtbibl. Strassburg 1192". 
+
+Réponse = 
+[
+[{'entity': 'B-PER',
+   'word': 'HANNENBEIN',
+},
+  {'entity': 'I-PER',
+   'word': ',',
+},
+  {'entity': 'I-PER',
+   'word': 'Georg',
+},
+],[
+{'entity': 'B-PER',
+   'word': 'PETRUS',
+},
+{'entity': 'I-PER',
+'word': 'DE',
+},
+{'entity': 'I-PER',
+'word': 'CRESCENTIS',
+},
+],[
+{
+'entity':'B-LOC', 
+'word': 'Strasbourg',
+},
+],[
+{
+'entity': 'B-PER',
+'word': 'Christian'
+},
+{
+'entity':'I-PER',
+'word': 'Egenolff'
+},
+],[
+{'entity': 'B-DATE',
+'word': '1529'},
+],[
+{'entity':'B-PER',
+'word': 'Chris.'},
+{'entity': 'I-PER',
+'word': 'Egenolff'},
+],[
+{'entity':'B-DATE',
+'word': 'M.'},
+{'entity': 'I-DATE', 
+'word': 'D.'},
+{'entity':'I-DATE',
+'word': 'LXXXII'},
+],[
+{'entity': 'B-LOC',
+'word': 'Strassburg'}
+]
+]
+Maintenant, extrait en JSON les entités nommées des phrases suivantes :thusiensis juxta Tre¬<0x0A>Cannstadt 183, 185.<0x0A>verim 149.<0x0A>Cäringen 158.<0x0A>Bibliotheca Monasterii Fratrum<0x0A>Cathérine Ste 388, 389.<0x0A>B. V. Mariae in Undensdorf<0x0A>Cato 19.<0x0A>190. 290.<0x0A>Celtes Conr, 117.<0x0A>Bibliotheca Conventus Vallis<0x0A>Choulant 19.<0x0A>Speciosi 479.<0x0A>Clément 114.<0x0A>Bibliotheca Conventus Weihen¬<0x0A>Cohn (Libr.) 1, 94, 132, 146, 147,<0x0A>stephan 231, 246.<0x0A>159, 190, 236, 290, 403, 470.<0x0A>Bibliotheca Monasterii (Augiae<0x0A>480, 492.<0x0A>Minoris) Weissenau 356.<0x0A>Collegiata Lateranensis ad S.<0x0A>Bibliotheca Conventus Wimpi¬<0x0A>Nicolaum 27.<0x0A>nensis Ordinis Fratrum Prae¬<0x0A>Colmar 170, 362. (Voir aussi:<0x0A>dicatorum 309, 335, 415, 436.<0x0A>Pellechet: Colmar.)<0x0A>Bibliotheca Zenonica 72, 187.<0x0A>Cologne 15, 179, 421, 424.<0x0A>Bibraco 393.<0x0A>Constance (Concile) 3.<0x0A>Biechlin Hans 483.<0x0A>Copinger 2, 4, 21, 49, 78, 175,<0x0A>Bielefeld 66, 119.<0x0A>199, 250, 252-254, 256-258, 260,<0x0A>Bieler 340.<0x0A>277, 280, 325, 349, 351-366.<0x0A>Böcking 330, 361, 419, 493.<0x0A>369, 396, 397, 413, 414, 425,<0x0A>Bonn 300, 385.<0x0A>433-435, 454, 471, 476-479,<0x0A>Bononia 426.<0x0A>485, 490.<0x0A>Bœrner (Vente) 468.<0x0A>Cornutus 267.<0x0A>Bozérian jeune 398.<0x0A>Cremona 467.<0x0A>Brandenby Hildebr. 393.<0x0A>Cromer (Saverne) 39, 339, 460,<0x0A>Brant Mathias 490.<0x0A>496.<0x0A>Brant Sebast. 112. 114.<0x0A>Curtus Joh. 448.<0x0A>Braun 54.<0x0A>Cyrille d’Alexandrie 146.<0x0A>Breitkopf 114.<0x0A>Brême 478.<0x0A>Breslau 99, 112.<0x0A>Darmstadt 335, 428, 436.<0x0A>Brion Erasmus 86.<0x0A>Delius 417.<0x0A>Brobst Casp. 220.<0x0A>Dieckius 276.<0x0A>Brunet 149, 156.<0x0A>Diessen (Bavière) 249.<0x0A>Brunnen (Suisse) 241.<0x0A>Dinckelsbühl G. 365.<0x0A>Brunner 404.<0x0A>Durandus 24, 150.<0x0A>Brunner J. D. 92.<0x0A>Dürschenreut 380.<0x0A>Brunschwig Hier. 119.<0x0A>Bücheler Wolfgang 205.<0x0A>Bull (Libr.) 280, 389.<0x0A>Eberhardus Wirtembergensis<0x0A>Bure de 114.<0x0A>492.<0x0A>Burgundische Historie 373, 469.<0x0A>Ebersbach 448.<0x0A>Busch F. 496.<0x0A>Eggestein 391. (Voir aussi Liste<0x0A>Butsch Fid. (Antiquaire) 51, 54,<0x0A>des imprimeurs.)<0x0A>67, 85, 98, 121, 139, 142, 180,<0x0A>Egglimann (Paris) 355.<0x0A>192, 193, 197, 198, 206, 211,<0x0A>Einsle 155, 201, 400.<0x0A>251. 256, 266, 270, 271, 278,<0x0A>Ellwangen 57, 95, 294.<0x0A>292. 297, 298, 304, 305, 308,<0x0A>Ernst 402.<0x0A>313, 318, 320, 328. 346, 352,<0x0A>Esslingen 461.<0x0A>353, 358, 363, 370, 372, 381,<0x0A>Eugenius Papa 65.<0x0A>393, 398, 411, 416, 421, 441,<0x0A>445, 447, 455, 457, 459, 473,<0x0A>Fabricius Joh. Alb. 296.<0x0A>482, 483, 485.<0x0A>Flögel 114.<0x0A>Buxheim 98, 100, 121, 304, 370,<0x0A>Florinus Willibald 241.<0x0A>393, 429, 441.<0x0A>Flückiger 119.<0x0A>Byecher Leon 383.<0x0A>Föringer 404.<0x0A>123<0x0A>Francfort s. M. 2, 7, 91, 123, 136,<0x0A>Heidelberg 4, 336, 340, 409, 481.<0x0A>143, 150, 151, 179, 224, 225,<0x0A>Heilbronn 13, 14, 65, 71, 78, 87,<0x0A>254. 260, 277, 299, 300, 335,<0x0A>102, 103, 106, 122, 154, 189,<0x0A>356, 415, 417, 420, 426, 436,<0x0A>195, 244, 274, 285, 286, 289,<0x0A>442, 491.<0x0A>323, 327, 345, 357, 364, 374,<0x0A>Françiscus (Praepositus S. Sal¬<0x0A>377, 440, 443, 444, 451, 453,<0x0A>vatoris, Pollingae) 3, 137, 178,<0x0A>454, 461, 487, 494.<0x0A>181, 212.<0x0A>Heitz (Strasbourg) 247, 250, 277,<0x0A>Franke 12a, 135, 347.<0x0A>332, 425, 433, 439.<0x0A>Fregaskis (?) 354.<0x0A>Helmstadt 456.<0x0A>Freitag 134.<0x0A>Her 258.<0x0A>Frey 258.<0x0A>Herbipolis 439.<0x0A>Freytag 493.<0x0A>Hess (Libr.) 57, 95, 294.<0x0A>Fribourg en Br. 109, 409, 455.<0x0A>Hildesheim 402.<0x0A>Froemer 397.<0x0A>Hoffmann Bernh. 70.<0x0A>Froschauer 19.<0x0A>Hugg Joan. 422.<0x0A>Fürst A. 262.<0x0A>Hugo de Strasbourg 8.<0x0A>Furter 4.<0x0A>Fust 54.<0x0A>Ingolstadt 241, 292.<0x0A>Fyner 461.<0x0A>Isidoneus Germanicus 493.<0x0A>Gaffron 428.<0x0A>Gamming 12a, 155, 273, 348.<0x0A>Johannisberg 311.<0x0A>Ganser 409.<0x0A>Justinianus 1.<0x0A>Gartlieb 285, 374.<0x0A>Geilfuss 447.<0x0A>Karlsruhe 66, 119.<0x0A>Gény Jos. 213.<0x0A>Karner Casp. 367.<0x0A>Georgius Abbas 378.<0x0A>Karrer Bernh. 238.<0x0A>Geyling 125, 170, 348, 407, 467.<0x0A>Kassel 21.<0x0A>Gilhofer 196, 458.<0x0A>Keller Adalbert 183, 1

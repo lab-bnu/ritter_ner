@@ -1,0 +1,64 @@
+Extrait en un fichier JSON les entités nommées B-PER, I-PER, B-DATE, I-DATE, B-LOC, I-LOC selon l'exemple :
+Exemple =  "HANNENBEIN, Georg . Voir: LIED (Neu Klaglied der Bauern) n° 340.
+PETRUS DE CRESCENTIS
+( WUERFELBUCH ]
+ Strasbourg , ( Christian Egenolff ), 1529 
+ Marque typ. de Chris. Egenolff. Anno M. D. LXXXII 
+ Stadtbibl. Strassburg 1192". 
+
+Réponse = 
+[
+[{'entity': 'B-PER',
+   'word': 'HANNENBEIN',
+},
+  {'entity': 'I-PER',
+   'word': ',',
+},
+  {'entity': 'I-PER',
+   'word': 'Georg',
+},
+],[
+{'entity': 'B-PER',
+   'word': 'PETRUS',
+},
+{'entity': 'I-PER',
+'word': 'DE',
+},
+{'entity': 'I-PER',
+'word': 'CRESCENTIS',
+},
+],[
+{
+'entity':'B-LOC', 
+'word': 'Strasbourg',
+},
+],[
+{
+'entity': 'B-PER',
+'word': 'Christian'
+},
+{
+'entity':'I-PER',
+'word': 'Egenolff'
+},
+],[
+{'entity': 'B-DATE',
+'word': '1529'},
+],[
+{'entity':'B-PER',
+'word': 'Chris.'},
+{'entity': 'I-PER',
+'word': 'Egenolff'},
+],[
+{'entity':'B-DATE',
+'word': 'M.'},
+{'entity': 'I-DATE', 
+'word': 'D.'},
+{'entity':'I-DATE',
+'word': 'LXXXII'},
+],[
+{'entity': 'B-LOC',
+'word': 'Strassburg'}
+]
+]
+Maintenant, extrait en JSON les entités nommées des phrases suivantes :. Au recto<0x0A>du f. de garde, probablement de la main de Böcking: «Erstan¬<0x0A>den in Halle 1838».<0x0A>419<0x0A>ROLEWINCR WERNER: Ein Cronica von anfang der welt.<0x0A>(Strasbourg, J. Prüss, 27 oct. 1492?), in-fol.<0x0A>Hain 6940, Kristeller 51, Proctor 549, Schreiber 5122, Voul¬<0x0A>liéme: Berlin 2392; Schramm, Bilderschmuck XX, grav.<0x0A>N° 1212-1224.<0x0A>K 3193. Prov.; Baer 8 Co., Francfort s. M., 2/VI. 1888,<0x0A>67 M. 50. Notes mss. sur l’auteur, copiées des: «Nachrichten<0x0A>von Künstlern und Kunstsachen II, 9». Rel, anc.<0x0A>420<0x0A>SABUNDE RAYMUNDUS DE: Theologia naturalis. Strasbourg,<0x0A>Martin Flach, 21 janvier 1496, in-fol.<0x0A>Hain 14069, Madsen 3566, Pellechet: Colmar 1155, Proctor<0x0A>703, Schmidt VI, 58, Voulliéme: Berlin 2503.<0x0A>K 3205. Prov.; Don de Fidelis Butsch fils, Augsbours, 1872.<0x0A>Note mss. fol. 6b; «Der Prologus kam auf den Index, ist<0x0A>daher hier ausgeschnitten». Rel. anc.<0x0A>2e ex. K 2162, 2. Prov.: Bibl. Baum, 20/II. 1879. A la suite de<0x0A>Institoris H., Malleus maleficiarum. Coloniae, 1494. K 2162, 1.<0x0A>421<0x0A>SALICETO NICOLAUS DE: Antidotarius animae. Strasbourg,<0x0A>J. Grüninger, 9 juillet 1489, in-8°.<0x0A>Hain 14156, Schmidt I, 10.<0x0A>K 3214a Prov.: Librairie Trübner, Strasbourg, 29/x. 1883,<0x0A>8 M. Notes mss. fol. aa manque. Au haut du fol. aa2a: «Ex<0x0A>libris Joan. Huggenis Villingeni. Rel. anc.<0x0A>422<0x0A>SALICETO NICOLAUS DE: Antidotarius animae. Strasbourg,<0x0A>J. Grüninger, 14 mars 1493, in-8°.<0x0A>Hain 14164, Madsen 3577, Polain: Belgique 3420, Schmidt I, 16.<0x0A>K 3217. Prov.: Rud. Merkel, Erlangen, 14/x. 1885, 10 M. Notes<0x0A>mss., f. 1 manque. Rel. anc.<0x0A>423<0x0A>88<0x0A>SALICETO NICOLAUS DE: Liber meditationum. Haguenau,<0x0A>(H. Gran), 5 sept. 1494, in-8°.<0x0A>Hain 14165, Proctor 3179, Voulliéme: Berlin 1175.<0x0A>K 3217a. Prov.: J. M. Heberle, Cologne, 20/III. 1891, 10 M.<0x0A>Notes mss. au commencement et à la fin. Rel. anc.<0x0A>424<0x0A>SALOMON und MoroLr, Strasbourg, Math. Hupfupf, 1499,<0x0A>in-40.<0x0A>Manque chez Hain et Panzer. Copinger III, 5250, Kristel¬<0x0A>ler 253, Schramm, Bilderschmuck XX, grav. N° 2107-2152.<0x0A>Schmidt V, 4, Schreiber 5193, Voulliéme: Berlin 2538.<0x0A>K 1008. Prov.: Bibliothèque Heitz, Strasbourg. Notes mss.<0x0A>Rel. anc. Réédité en facsimilé dans Elsässische Frühdrucke<0x0A>N° 2 par l’Elsässische Bibliophilen-Gesellschaft, Strasbourg,<0x0A>Heitz 8 Cie, 1930. Voir: Fr. Ritter, Erläuterungen zu den<0x0A>Elsässischen Frühdrucken der Elsässischen Bibliophilen¬<0x0A>Gesellschaft, N° 2, Strasbourg, Heitz & Cie, 1931, in-8°, 32 p.<0x0A>SCHIFFLEIN von St. Ursula. Voir: Ursula St.<0x0A>425<0x0A>SCHOTT PETRUS: Lucubratiunculae, ed. Wimpfeling, Stras¬<0x0A>bourg, Martin Schott, 2 octobre 1498, in-4°.<0x0A>Hain 14524, Madsen 3640, Pellechet: Colmar 1171, Proctor 409,<0x0A>Schmidt II, 13, Voulliéme: Berlin 2239, Walter: Sélestat 426,<0x0A>427, 428.<0x0A>K 3254. Prov.: Baer 8 Co., Francfort s. M., 19/VI. 1879, 18 M.<0x0A>Au-dessus du titre: «pertinet ad Monasterium SS. Mart. Mar¬<0x0A>cellini et Petri,» Sur une fiche blanche collée devant le titre:<0x0A>«Aus K. Schmidts Doubl.» Au-dessous: Epitaphe de Schott<0x0A>chez Mieg: Monumenta, Vol. II, f. 417 (publié 1870), et dans<0x0A>les Amoenitates Frib. p. 189. Plus bas, armoiries de P. Schott.<0x0A>A la fin 3 ff. blancs dont les deux premiers contiennent une<0x0A>copie de la lettre de P. Schott à sa sœur «Geben vff den ersten<0x0A>tag der heiligen vasten zu Bononiae in dem jar von Christi<0x0A>Geburt 1476».<0x0A>Au-dessous: Disen brief hat mir mein allerliebster bruder<0x0A>Petrus Schot geschriben von Bononi in dem ersten jor do wir<0x0A>von sant agnesz in disz closter sante Margreden komen. Anne<0x0A>Schoetin». Rel. anc.<0x0A>426<0x0A>(SCHOTT PETRUS]: De mensuris syllabarum epithoma.<0x0A>Strasbourg, J. Schott, 24 déc. 1500, in-8°.<0x0A>89<0x0A>Hain 14525, Pellechet: Colmar 1172, Proctor 765, Schmidt II, 4.<0x0A>K 3255. Prov.: Bibliothèque Ch. Schmidt, Strasbourg, 10/IV.<0x0A>1895 avec son exlibris à l’intérieur du 1er plat.<0x0A>427<0x0A>ScoTus Michael: Liber physionomiae. (Strasbourg), in-4°.<0x0A>Hain 14.543.<0x0A>K 3262. Prov.; v. Pittwitz 8 Gaffron, Darmstadt, 9/II. 1886,<0x0A>10 M. Notes mss. Rel. anc.<0x0A>428<0x0A>SENECA Lucius Annaeus: Epistolae ad Lucilium, (Stras-<0x0A>bourg, impr. R. (— Ad. Rusch) s. d.), in-fol. (les 3 der¬<0x0A>niers ff, endommagés).<0x0A>Hain 14597, Madsen 3670, Pellechet: Colmar 1179, Proctor 243,<0x0A>Voulliéme: Berlin 2126.<0x0A>K 3276. Prov.: Librairie Trübner, Strasbourg, 7/x. 1887, 85 M.<0x0A>Notes mss. Au bas du 1er f.: Carthusiae in Buxheim. Au verso<0x0A>du 1er f. de garde: Strasbourg, Mentelin, ca 1469. Erste Aus¬<0x0A>gabe, 85 M. Au recto du 3e f. de garde: Wendelinus Zieglerus.<0x0A>429<0x0A>SENECA Lucius Annaeus: De forma ac honestate vitae.<0x0A>(Strasbourg, H. Eggestein), s. d. in-fol., 7 ff. à 2 col.<0x0A>K 3280a. Prov.: Librairie Trübner, Strasbourg, 1/V. 1888,<0x0A>9 M. Notes mss.<0x0A>430<0x0A>SENECA Lucius Annaeus; Proverbia. (Strasbourg, J. Prüss),<0x0A>s. d., in-4°.<0x0A>Hain 14634.<0x0A>K 3281. Prov.: Librairie Trübner, Strasbourg, 9/xI. 1883, 8 M.<0x0A>431<0x0A>SEQUENTIAE: Textus Sequentiarum. (Haguenau, H. Gran),<0x0A>1489, in-4°.<0x0A>Hain 14687, Proctor 3170.<0x0A>K 3472. Prov.; B N Munich 16/XII. 1879, 1 M. 50. Notes mss.<0x0A>A l’intérieur du 1er plat, 14 vers latins,

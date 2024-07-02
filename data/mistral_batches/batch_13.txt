@@ -1,0 +1,64 @@
+Extrait en un fichier JSON les entités nommées B-PER, I-PER, B-DATE, I-DATE, B-LOC, I-LOC selon l'exemple :
+Exemple =  "HANNENBEIN, Georg . Voir: LIED (Neu Klaglied der Bauern) n° 340.
+PETRUS DE CRESCENTIS
+( WUERFELBUCH ]
+ Strasbourg , ( Christian Egenolff ), 1529 
+ Marque typ. de Chris. Egenolff. Anno M. D. LXXXII 
+ Stadtbibl. Strassburg 1192". 
+
+Réponse = 
+[
+[{'entity': 'B-PER',
+   'word': 'HANNENBEIN',
+},
+  {'entity': 'I-PER',
+   'word': ',',
+},
+  {'entity': 'I-PER',
+   'word': 'Georg',
+},
+],[
+{'entity': 'B-PER',
+   'word': 'PETRUS',
+},
+{'entity': 'I-PER',
+'word': 'DE',
+},
+{'entity': 'I-PER',
+'word': 'CRESCENTIS',
+},
+],[
+{
+'entity':'B-LOC', 
+'word': 'Strasbourg',
+},
+],[
+{
+'entity': 'B-PER',
+'word': 'Christian'
+},
+{
+'entity':'I-PER',
+'word': 'Egenolff'
+},
+],[
+{'entity': 'B-DATE',
+'word': '1529'},
+],[
+{'entity':'B-PER',
+'word': 'Chris.'},
+{'entity': 'I-PER',
+'word': 'Egenolff'},
+],[
+{'entity':'B-DATE',
+'word': 'M.'},
+{'entity': 'I-DATE', 
+'word': 'D.'},
+{'entity':'I-DATE',
+'word': 'LXXXII'},
+],[
+{'entity': 'B-LOC',
+'word': 'Strassburg'}
+]
+]
+Maintenant, extrait en JSON les entités nommées des phrases suivantes :aeus Angli¬<0x0A>cus.<0x0A>BARZISIUS GASPARINUS: Epistolae. Strasbourg, J. Prüss,<0x0A>24 déc. 1486, in-4°.<0x0A>G W 3683. Hain 2676, Madsen 573, Pellechet 1985, Pellechet;<0x0A>Colmar 272, Proctor 519, Schmidt III, 11, Voulliéme: Berlin<0x0A>2343.<0x0A>K607. Prov.: Don de la Bibl. Univ. de Gœttingue, 1871. Notes<0x0A>mss. au f. du titre et dans le texte.<0x0A>68<0x0A>BAYSIO GUIDO DE: Rosarium decretorum. (Strasbourg,<0x0A>J. Mentelin vers 1473), in-fol.<0x0A>G W 3744, Hain 2713, Pellechet 2011, Proctor 213, Madsen<0x0A>579, Voulliéme: Berlin 2101; Walter: Sélestat 78, Schorbach:<0x0A>Mentelin N° 30.<0x0A>K 609. Prov.: Don de la ville de Trèves, 1871.<0x0A>69<0x0A>15<0x0A>BERBERIUS JOHANNES: Viatorium utriusque juris. [Stras¬<0x0A>bourg, J. Prüss, 1493), in-8°.<0x0A>GW 3858, Hain 2793, Madsen 590, Proctor 572, Voulliéme:<0x0A>Berlin 2367.<0x0A>K 619. Prov.: Don de la BN Munich, 10. VII. 1877. Au-dessous<0x0A>du titre: «Bernhardus Hoffmann mihi dono dedit.» A l'inté¬<0x0A>rieur du 2e plat: «Bernhardus Hoffmann.» Rel. anc.<0x0A>70<0x0A>BERCHORIUS PETRUS: Liber bibliae moralis. Strasbourg,<0x0A>Civis C. W., 7 oct. 1474, in-fol.<0x0A>G W 3863, Hain 2795 Pellechet 2057, Pellechet: Colmar 279,<0x0A>Proctor 341, Voullième: Berlin 2186.<0x0A>K 621. Prov.: Don de la ville de Heilbronn, 1871. Rel, anc.<0x0A>71<0x0A>BERNARDINUS DE BUSTIS: Mariale. Strasbourg, Mart. Flach,<0x0A>26 juillet 1496, in-fol.<0x0A>G W 5805, Hain 4161, Madsen 964, Pellechet 3110, Pellechet:<0x0A>Colmar 417, Proctor 704, Schmidt VI, 59, Voulliéme: Berlin<0x0A>2504.<0x0A>K 624. Prov.; B N Munich, 22. I. 1880, 3 M. Au-dessus du titre:<0x0A>Monasterii S. Zenonis. Au recto du f. de garde: «11 Augusti<0x0A>incepi legere hunc librum ego F. Valerius.» Rel. anc.<0x0A>72<0x0A>BERNARDINUS DE BUSTIS: Mariale. Strasbourg, Mart. Flach,<0x0A>15 août 1498, in-fol.<0x0A>G W 5806, Hain 4162, Pellechet 3111, Pellechet: Colmar 418,<0x0A>Proctor 710, Schmidt VI, 68, Voullième: Berlin 2508, 7, Wal¬<0x0A>ter: Sélestat 128.<0x0A>K 624a. Prov.: Don de la Bibl. Univ. Königsberg, 1872, avec le<0x0A>cachet de la Bibliothèque au-dessous du titre. Rel. anc. 73<0x0A>BERNARDINUS DE BUSTIS: Rosarium sermonum. Haguenau,<0x0A>H. Gran pour J. Rynman, 1500, 2 vol. in-fol.<0x0A>G W 5808, Hain 4164, Pellechet 3115, Proctor 3205, Voulliéme:<0x0A>Berlin 1186, 5 et 1187, 5.<0x0A>K 624b. Prov.: Don de la Bibl. Univ. Königsberg, 1871, avec le<0x0A>cachet de la Bibliothèque au-dessous du titre. Rel. anc. 74<0x0A>16<0x0A>BERNARDINUS SENENSIS: De contractibus et usuris. (Stras¬<0x0A>bourg, typ. du Henricus Ariminensis, pas après 1474),<0x0A>in-fol.<0x0A>GW 3881, Hain 2835, Madsen 595, Pellechet 2085, Proctor<0x0A>317. Voulliéme: Berlin 2161, 5.<0x0A>K 629. Prov.: B N Munich, 22. I. 1880, 4 M. A l'intérieur du<0x0A>premier plat, exlibris avec les mots: «Conventus Monacensis;?<0x0A>fol. Ia, en bas: Conventus Monacensis Carmelitarum Discal¬<0x0A>ceatorum.» Rel, anc.<0x0A>75<0x0A>BERNARDUS CLARAVALLENSIS: Epistolae. (Strasbourg, H. Egge¬<0x0A>stein, circa 1475), in-fol.<0x0A>G W 3923, Hain 2870, Madsen 604, Pellechet 2104, Pellechet:<0x0A>Colmar 292, Proctor 285, Voulliéme: Berlin 2144.<0x0A>K 643. Prov.: Don de la Bibl. Univ. Gœttingue, 1872. Rel. anc.<0x0A>76<0x0A>BERNARDUS CLARAVALLENSIS (Pseudo-Bernardus): Medita¬<0x0A>tiones de interiori homini. Strasbourg, s. typ., 1492.<0x0A>in-8°.<0x0A>G W 4033, Hain, 2884, Madsen 628, Pellechet 2120, Proctor<0x0A>5696 A. Le G W dit «Strasbourg, vielmehr Venedig, Bernardi¬<0x0A>nus Benalis, 1492.<0x0A>K 650a. Prov.: Ermanno Loescher, Torino, 14. XII, 1882, 4 M.<0x0A>BERNARDUS CLARAVALLENSIS et GILBERTUS DE HOGLANDIA:<0x0A>Sermones super Cantica canticorum. Strasbourg, Mart.<0x0A>Flach, 1497; in-fol.<0x0A>G W 3937, Hain 2859 (2858a?), Copinger 2735, Madsen 613,<0x0A>Pellechet 2098, Pellechet: Colmar 290, Proctor 707, Schmidt<0x0A>VI, 64, Voulliéme: Berlin 2505; Walter: Sélestat 88 et 89.<0x0A>K 640. Prov.: Don de la Ville de Heilbronn, 1871. Au milieu<0x0A>du titre: «Monasterii Eremitanensis.» Rel. anc.<0x0A>78<0x0A>BERNARDUS PARMENSIS: Casus longi super decretales. Stras¬<0x0A>bourg, [typ. du Jordanus (— G. Husner) ), 1484, in-fol.<0x0A>G W 4095, Hain 2932, Madsen 637, Pellechet 2194, Pellechet:<0x0A>Colmar 298, Proctor 589, Voulliéme: Berlin 2400, 5.<0x0A>K 668. Prov.: B N Munich, 22. L. 1880, 1 M. Rel. anc. 79<0x0A>R.2<0x0A>17<0x0A>BERNARDUS PARMENSIS: Casus longi super decretales. Stras¬<0x0A>bourg, (typ. du Jordanus (— G. Husner)), 7 sept. 1488,<0x0A>in-fol.<0x0A>GW 4100, Hain 2935, Madsen 639, Proctor 646, Voulliéme:<0x0A>Berlin 2423.<0x0A>K 669. Prov.: B N Munich, 22. I. 1880, M. 0,75. Au-dessous<0x0A>du titre: Ad R. F. Franciscanos. Bib. Rel. anc.<0x0A>80<0x0A>BERNARDUS PARMENSIS : Casus longi super decretales. Stras¬<0x0A>bourg, (typ. du Jordanus (— G. Husner)), 23 août 1493,<0x0A>in-fol.<0x0A>G W 4102, Hain 2936, Madsen 640, Pellechet 2197, Pellechet:<0x0A>Colmar 299, Voulliéme: Berlin 2451.<0x0A>K 670. Prov.: J. Windprecht, Augsbourg, 9. I. 1879, 6 M.<0x0A>Rel. anc.<0x0A>81<0x0A>BERNARDUS PARMENSIS : Casus longi super decretales. Stras¬<0x0A>bourg, [typ. du Jordanus (— G. Husner)), 29 octobre<0x0A>1498; in-fol.<0x0A>G W 4104, Hain 29

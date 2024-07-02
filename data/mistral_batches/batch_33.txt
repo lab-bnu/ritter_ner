@@ -1,0 +1,64 @@
+Extrait en un fichier JSON les entités nommées B-PER, I-PER, B-DATE, I-DATE, B-LOC, I-LOC selon l'exemple :
+Exemple =  "HANNENBEIN, Georg . Voir: LIED (Neu Klaglied der Bauern) n° 340.
+PETRUS DE CRESCENTIS
+( WUERFELBUCH ]
+ Strasbourg , ( Christian Egenolff ), 1529 
+ Marque typ. de Chris. Egenolff. Anno M. D. LXXXII 
+ Stadtbibl. Strassburg 1192". 
+
+Réponse = 
+[
+[{'entity': 'B-PER',
+   'word': 'HANNENBEIN',
+},
+  {'entity': 'I-PER',
+   'word': ',',
+},
+  {'entity': 'I-PER',
+   'word': 'Georg',
+},
+],[
+{'entity': 'B-PER',
+   'word': 'PETRUS',
+},
+{'entity': 'I-PER',
+'word': 'DE',
+},
+{'entity': 'I-PER',
+'word': 'CRESCENTIS',
+},
+],[
+{
+'entity':'B-LOC', 
+'word': 'Strasbourg',
+},
+],[
+{
+'entity': 'B-PER',
+'word': 'Christian'
+},
+{
+'entity':'I-PER',
+'word': 'Egenolff'
+},
+],[
+{'entity': 'B-DATE',
+'word': '1529'},
+],[
+{'entity':'B-PER',
+'word': 'Chris.'},
+{'entity': 'I-PER',
+'word': 'Egenolff'},
+],[
+{'entity':'B-DATE',
+'word': 'M.'},
+{'entity': 'I-DATE', 
+'word': 'D.'},
+{'entity':'I-DATE',
+'word': 'LXXXII'},
+],[
+{'entity': 'B-LOC',
+'word': 'Strassburg'}
+]
+]
+Maintenant, extrait en JSON les entités nommées des phrases suivantes :, nov. 1483, in-fol.<0x0A>Cop. 4541, Kristeller 24, Schreiber 4881, Voulliéme: Ber¬<0x0A>lin 2230. Schramm, Bilderschmuck XIX, grav. N° 772-775.<0x0A>K 2765. Prov.: Vente Trübner, Strasbourg. (Catal. (N° 123/4),<0x0A>30. X. 1886, 203 M.<0x0A>349<0x0A>73<0x0A>OTTO VON PASSAU: Die vierundzwanzig Alten. Strasbourg,<0x0A>J. Schott, 28 mars 1500, in-fol.<0x0A>Hain 12130, Madsen 2973, Proctor 762, Schreiber 4883, Voul¬<0x0A>liéme: Berlin 2561; Schramm, Bilderschmuck XIX, grav.<0x0A>N° 772-775.<0x0A>K 2765a. Prov.; J. Steinkopff, Stuttgart, 31. x. 1888, 36 M.<0x0A>Notes mss. Le dernier f. en facsimilé.<0x0A>350<0x0A>PALUDANUS PETRUS: Sermones thesauri novi quadragesi¬<0x0A>males. Strasbourg, (Martin Flach), 1487, in-fol.<0x0A>Copinger III. 5432, Proctor 675, Pellechet: Colmar 1192,<0x0A>Voulliéme: Berlin 2478.<0x0A>K 3310. Prov.: S. Kende, Vienne, 16. VI. 1888, 4 M. 351<0x0A>PALUDANUS PETRUS: Sermones thesauri novi quadragesi¬<0x0A>males. Strasbourg, (Martin Flach), 1488, in-fol.<0x0A>Copinger III. 5434, Schmidt V, 15, Pellechet: Colmar 1193,<0x0A>Voulliéme: Berlin 2481.<0x0A>K 3311. Prov.: Don de Fid. Butsch fils, Augsbourg, 1872. A la<0x0A>suite de Paludanus, Sermones thesauri novi de sanctis,<0x0A>Strasbourg, 1488. K 3305. Rel. anc.<0x0A>352<0x0A>PALUDANUS PETRUS: Sermones thesauri novi quadragesi¬<0x0A>males. Strasbourg, (Martin Flach), 1491, in-fol.<0x0A>Copinger 5435, Madsen 3008, Pellechet: Colmar 1194,<0x0A>Schmidt VI, 39, Voulliéme: Berlin 2492, 5.<0x0A>K 3312. Prov.: Don de Fidelis Butsch fils, Augsbourg, 1872.<0x0A>Au haut du titre: «Monasterij Ranshouen.» Rel. anc.<0x0A>353<0x0A>PALUDANUS PETRUS: Sermones thesauri novi de sanctis.<0x0A>Strasbourg, (impr. des Vitas patrum), 1485, in-fol.<0x0A>Copinger 5422, Madsen 3013, Voulliéme: Berlin 2256.<0x0A>K 3303b. Prov.: Fregaskis, Londres, 9. XII. 1895, 22 M. Au¬<0x0A>dessus du titre: «Jacobus aemilius montfordensis possessor<0x0A>meus». Au recto du f. de garde: «Jacobus Verberckt 1836<0x0A>van Antwerpen.»<0x0A>354<0x0A>PALUDANUS PETRUS: Sermones thesauri novi de sanctis.<0x0A>Strasbourg, (impr. des Vitas patrum), 1486, in-fol.<0x0A>296 ff.<0x0A>74<0x0A>Copinger II, 5424, Pellechet: Colmar 1190, Voulliéme: Berlin<0x0A>2258, Eggimann (Paris), Catalogue (La Licorne), Bulletin<0x0A>N° 10, (1937) N° 1839 offre un ex. pour 650 fr., provenant d’un<0x0A>monastère franciscain du Tyrol, orné d’un exlibris gravé du<0x0A>XVIIe siècle.<0x0A>K 3304b. Prov. inconnue. Au-dessous du titre: «45 k emptus<0x0A>et pro ff. Capuccinis Norimberg. 1630. A l’intérieur du<0x0A>1er plat, fiche découpée d’un catalogue: «Argentinae, Joh.<0x0A>Pryss, 1486. Holzbd. mit Pergamentrücken. Copinger II, 5424,<0x0A>296 Bl., 2 col., 47 Z., got. Type, rubiziert. Schönes breitran¬<0x0A>diges Exemplar.» Au haut dans le coin: «J. Mozley Starck,<0x0A>London.» Joh. Pryss est rayé au crayon, au-dessous:<0x0A>«Drucker der Vitas patrum.» Rel. anc.<0x0A>355<0x0A>PALUDANUS PETRUS: Sermones thesauri novi de sanctis.<0x0A>Strasbourg, Martin Flach, 1489, in-fol.<0x0A>Copinger III, 5426, Madsen 3014, Proctor 684, Voulliéme: Ber¬<0x0A>lin 2482, 5.<0x0A>K 3305a. Prov.; Baer 8 Co., Francfort-s.-M., 29. VIII. 1883,<0x0A>7 M. 50. Au-dessus du titre: Monasterij Weissenaw. Notes<0x0A>mss. Rel. anc.<0x0A>356<0x0A>PALUDANUS PETRUS: Sermones thesauri novi de sanctis.<0x0A>Strasbourg, Martin Flach, 1491, in-fol.<0x0A>Copinger 5427, Proctor, 693, Schmidt VI, 40, Voulliéme: Ber¬<0x0A>lin 2492, 4.<0x0A>K 3306. Prov.: Echange avec la Bibl. du Gymnase de Heil¬<0x0A>bronn, 2. IV. 1878. Rel. anc.<0x0A>357<0x0A>PALUDANUS PETRUS: Sérmones thesauri novi de sanctis.<0x0A>Strasbourg, Martin Flach, 1493, in-fol.<0x0A>Copinger 5428, Madsen 3015, Schmidt VI, 47, Voulliéme:<0x0A>Berlin 2497, 2.<0x0A>K 3307. Prov.: Don de Fid. Butsch, Augsbourg 1872. Au-dessus<0x0A>Rel. anc.<0x0A>358<0x0A>PALUDANUS PETRUS: Sermones thesauri novi de sanctis.<0x0A>Strasbourg, Martin Flach, 13 nov. 1497, in-fol. (En¬<0x0A>dommagé.)<0x0A>78<0x0A>Copinger 5430, Schmidt VI, 63, Voulliéme: Berlin 2506, 6.<0x0A>K 3309. Prov.: Don du prince de Bentheim, 1874, provenant<0x0A>du couvent de Frenswegen. Rel. anc.<0x0A>359<0x0A>PALUDANUS PETRUS: Sermones thesauri novi de tempore.<0x0A>Strasbourg, (imprimeur des Vitas Patrum), 1483, in-fol.<0x0A>Copinger 5410, Pellechet: Colmar 1186, Proctor 419, Voul¬<0x0A>liéme: Berlin 2251, 5.<0x0A>K 3297. Prov.: Librairie Treuttel e Würtz, Strasbourg, 30. I.<0x0A>1874. Au-dessous du titre: Conventus... (illisible). Ord. Praedi¬<0x0A>catorum. Rel. anc.<0x0A>360<0x0A>PALUDANUS PETRUS: Sermones thesauri novi de tempore.<0x0A>Strasbourg, (impr. des Vitas Patrum), 1484, in-fol.<0x0A>Copinger III. 5411, Madsen 3017, Proctor 421, Voulliéme:<0x0A>Berlin 2254.<0x0A>K 3298. Prov.: Bibl. Böcking; fol. a2a; Pro Conventu B. Mariae<0x0A>ad Niues Pragae Fratrum Regularis Observantiae. Notes mss.<0x0A>Rel, anc.<0x0A>2e ex. K 3303. Prov.: J. Bensheimer, Strasbourg, 30. VII. 1879,<0x0A>15 M. Notes mss.<0x0A>361<0x0A>PALUDANUS PETRUS: Sermones thesauri novi de tempore.<0x0A>Strasbourg, Martin Flach, 1487, in-fol.<0x0A>Copinger 5414, Madsen 3018, Schmidt V, 12, Voulliéme: Ber¬<0x0A>lin 4977.<0x0A>K 3304. Prov.: Librairie Trübner, Strasbourg (Vente Zimber¬<0x0A>lin N° 605), 29 IV. 1886, 3 M. Au haut du f. a2a; «Conventus<0x0A>Colmariensis Ordinis Praedicatorum». Notes mss. f. al<0x0A>manque. Rel. anc.<0x0A>362<0x0A>PALUDANUS PETRUS: Sermones thesauri novi de

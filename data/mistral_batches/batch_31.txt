@@ -1,0 +1,64 @@
+Extrait en un fichier JSON les entités nommées B-PER, I-PER, B-DATE, I-DATE, B-LOC, I-LOC selon l'exemple :
+Exemple =  "HANNENBEIN, Georg . Voir: LIED (Neu Klaglied der Bauern) n° 340.
+PETRUS DE CRESCENTIS
+( WUERFELBUCH ]
+ Strasbourg , ( Christian Egenolff ), 1529 
+ Marque typ. de Chris. Egenolff. Anno M. D. LXXXII 
+ Stadtbibl. Strassburg 1192". 
+
+Réponse = 
+[
+[{'entity': 'B-PER',
+   'word': 'HANNENBEIN',
+},
+  {'entity': 'I-PER',
+   'word': ',',
+},
+  {'entity': 'I-PER',
+   'word': 'Georg',
+},
+],[
+{'entity': 'B-PER',
+   'word': 'PETRUS',
+},
+{'entity': 'I-PER',
+'word': 'DE',
+},
+{'entity': 'I-PER',
+'word': 'CRESCENTIS',
+},
+],[
+{
+'entity':'B-LOC', 
+'word': 'Strasbourg',
+},
+],[
+{
+'entity': 'B-PER',
+'word': 'Christian'
+},
+{
+'entity':'I-PER',
+'word': 'Egenolff'
+},
+],[
+{'entity': 'B-DATE',
+'word': '1529'},
+],[
+{'entity':'B-PER',
+'word': 'Chris.'},
+{'entity': 'I-PER',
+'word': 'Egenolff'},
+],[
+{'entity':'B-DATE',
+'word': 'M.'},
+{'entity': 'I-DATE', 
+'word': 'D.'},
+{'entity':'I-DATE',
+'word': 'LXXXII'},
+],[
+{'entity': 'B-LOC',
+'word': 'Strassburg'}
+]
+]
+Maintenant, extrait en JSON les entités nommées des phrases suivantes :us (—G. Husner)), 24 mars<0x0A>1487, in-4°.<0x0A>Hain 9046, Proctor 610.<0x0A>K 2589a. Prov.: F. Butsch, Augsbourg, 26. x 1885, 6 M. Au¬<0x0A>dessous du titre: Ad P.P. Franciscanos... (illisible).<0x0A>320<0x0A>MICHAEL DE HUNGARIA: Sermones praedicabiles. Strasbourg,<0x0A>imprimeur du Jordanus (— G. Husner)), 1490, in-4°.<0x0A>Hain 9047, Madsen 2742, Pellechet: Colmar 807, Proctor 623,<0x0A>Voulliéme: Berlin 2438.<0x0A>K 2589 b. Prov.; Bibliothèque Ch. Schmidt, Strasbourg,<0x0A>10. IV. 1895, avec son exlibris. Notes mss.<0x0A>321<0x0A>MICHAEL DE HUNGARIA: Sermones praedicabiles. Strasbourg,<0x0A>impr. des Casus breves decretalium (— G. Husner),<0x0A>1494, in-4°.<0x0A>Hain 9049, Proctor 738, Voulliéme: Berlin 2522.<0x0A>K 2589c. Prov.: Caspar Haugg, Augsbourg, 17. XII. 1891, 6 M.<0x0A>Au-dessus et au-dessous du titre: «Henry Rhot.». Notes mss.<0x0A>322<0x0A>MICHAEL DE HUNGARIA: Sermones de sanctis. (Biga salutis.)<0x0A>Haguenau, H. Gran, 27 juillet 1497, in-4°.<0x0A>Hain 9054, Pellechet: Colmar 808, Proctor 3188, Voulliéme:<0x0A>Berlin 1176.<0x0A>K 2338. Prov.: Don de la ville de Heilbronn, 1871. Rel. anc.<0x0A>323<0x0A>MICHAEL DE HUNGARIA: Sermones de sanctis. (Biga salutis.)<0x0A>Haguenau, H. Gran, 14 juillet 1499, in-4°.<0x0A>Hain 9055, Proctor 3199, Voulliéme: Berlin 1182, 1.<0x0A>K 2339. Prov.: Don du prince de Bentheim, 1874, provenant<0x0A>du couvent de Frenswegen. f. du titre manque. Rel. anc.<0x0A>324<0x0A>68<0x0A>MISSALE WARMIENSE, Strasbourg, Fréd. Ruch de Dumbach,<0x0A>1497, in-fol. (Incómplet.)<0x0A>Copinger 4266, Schmidt IV, p. 2, N° 2*, Schreiber 4774.<0x0A>Schramm, Bilderschmuck XX, grav. N° 2084.<0x0A>K 2607. Prov.: Librairie Rosenthal, Munich, 20. VIII. 1887,<0x0A>280 M. Dernier f. blanc manque, 3 ff. ont été remplacés par<0x0A>des facsimilés. Rel. anc.<0x0A>325<0x0A>MODUS LEGENDI ABREVIATURAS. (Strasbourg, impr. R.<0x0A>(— Ad. Rusch), s. d.), in-fol. (Incomplet.)<0x0A>Hain 11480, Pellechet: Colmar 992, Proctor 250, Voulliéme:<0x0A>Berlin 2122.<0x0A>K2617. Prov.: Don de la B U de Goettingue, 1872. Cachet de<0x0A>cette Bibliothèque au verso du 1er f. Notes mss. Rel. anc.<0x0A>326<0x0A>MODUS LEGENDI ABREVIATURAS. Strasbourg, impr. du Jor¬<0x0A>danus (— G. Husner)), 9 août 1490, in-fol.<0x0A>Hain 11485, Madsen 2796, Proctor 655, Voulliéme: Berlin<0x0A>2437.<0x0A>K 2619. Prov.: J. Windprecht, Augsbourg, 9. I. 1879. Rel. anc.<0x0A>2e ex. K 3561, 2. Prov.: Don de la ville de Heilbronn, 1871.<0x0A>A la suite de Thomas de Argentina, Comment. 1490.<0x0A>3e ex. K 2536a, 2. Prov. inconnue. A la suite de Martinus<0x0A>Polonus, Margarita decreti, 1489, K 2536a, 1.<0x0A>327<0x0A>MODUS LEGENDI ABREVIATURAS. Strasbourg, (impr. du Jor¬<0x0A>danus (— G. Husner)), 21 juillet 1494, in-fol.<0x0A>Hain 11487, Madsen 2799, Pellechet: Colmar 994, Proctor 667,<0x0A>Voulliéme: Berlin 2453.<0x0A>K 2621. Prov.: Don de Fid. Butsch fils, Augsbourg, 9. I. 1879.<0x0A>Rel. anc..<0x0A>328<0x0A>MODUS LEGENDI ABREVIATURAS. Strasbourg, (G. Husner),<0x0A>20-30 août 1499, in-fol.<0x0A>Hain 11488, Proctor 778, Schmidt VI, 72 l’attribue à Martin<0x0A>Flach, Voulliéme; Berlin 2558; Pellechet: Colmar 994bis.<0x0A>Madsen 2802 met imprimeur du Jordanus (— G. Husner);<0x0A>d’autres l’attribuent à W. Schaffener.<0x0A>K 2622. Prov.: Don du prof. Charles Witte, Halle, 1871. Au<0x0A>verso du titre cachet rond: Ex Bibl. Univ. Viad. Vrat. Rel.<0x0A>anc.<0x0A>329<0x0A>69<0x0A>MOLITORIS ULRICUS: De laniis et phitonicis mulieribus.<0x0A>(Strasbourg, Mart. Flach, 10 janvier 1489), in-4°.<0x0A>Hain 11.536, Proctor 720, Schreiber 4785, Voulliéme: Ber¬<0x0A>lin 2513.<0x0A>K 2626. Prov.: Bibliothèque Böcking. Au recto du 1er f. de<0x0A>garde: «Emi Lipsiae Sept. a. 1854.» Au-dessous: «sehr selten.»<0x0A>330<0x0A>MONTE ROTHERII ou ROCHERH. Voir: Guido de Monte<0x0A>Rotherii.<0x0A>MONTEVILLA Joh. de. Voir: Mandeville Johannes de.<0x0A>MURNER THOMAS: Invectiva contra astrologos. (Strasbourg,<0x0A>Matth. Hupfuff, 8 mai 1499), in-4°.<0x0A>Hain 11649, Proctor 3211, Schreiber 4817, Voulliéme: Berlin<0x0A>2544, 5 (l’attribue à Matthias Hupfuff, Strasbourg); d’autres<0x0A>par erreur à M. Reinhard, Kirchheim.<0x0A>K 2649. Prov.: Librairie Trübner, Strasbourg, 3/IV 1890,<0x0A>120 M.<0x0A>331<0x0A>MURNER THOMAS: Tractatus de phytonico contractu. (Stras¬<0x0A>bourg, Matth. Hupfuff, 1499), in4°.<0x0A>Hain 11.647, Proctor 3212, Schmidt, Histoire Littéraire de<0x0A>l’Alsace, Paris 1879, Vol. Il, p. 419, N° 309, Voulliéme: Berlin<0x0A>2544, 7 (l’attribue à Matthias Hupfuff, Strasbourg); les autres<0x0A>par erreur à M. Reinhard, Kirchheim; Walter: Sélestat 340.<0x0A>K 2648. Prov.: Bibliothèque Heitz, Strasbourg.<0x0A>332<0x0A>NICOLAUS: De praeliis et occasu ducis Burgundiae. (Stras¬<0x0A>bourg, impr. du H. Ariminensis, vers 1477), in-4°.<0x0A>Hain 11757, Proctor 308.<0x0A>K 2664. Prov, inconnue. Sur une fiche blanche avant le titre:<0x0A>«Nicolaus, de occasu ducis Burgundiae. (Arg. Knoblochtzer,<0x0A>1477), in-4°. Car. goth., 18 ff. sans pagination ni signature.<0x0A>L’impression est la même que celle de la Burgundische<0x0A>Historie. V. Knoblochtzer par Schorbach et Spirgatis 1888.<0x0A>Ces messieurs n’ont pas connu le petit traité. Relié avec<0x0A>Ketneri Epigramata, 1543. Catal. Vol. 1, p. 217.» Au-dessous:<0x0A>«Ist jetzt besonders gebunden.» A l’intérieur du 1er plat,<0x0A>cachet: «Collegium Wilhelmitanum.»<0x0A>333<0x0A>70<0x0A>NICOLAUS DE BLONY: Sermones de tempore et

@@ -1,0 +1,64 @@
+Extrait en un fichier JSON les entités nommées B-PER, I-PER, B-DATE, I-DATE, B-LOC, I-LOC selon l'exemple :
+Exemple =  "HANNENBEIN, Georg . Voir: LIED (Neu Klaglied der Bauern) n° 340.
+PETRUS DE CRESCENTIS
+( WUERFELBUCH ]
+ Strasbourg , ( Christian Egenolff ), 1529 
+ Marque typ. de Chris. Egenolff. Anno M. D. LXXXII 
+ Stadtbibl. Strassburg 1192". 
+
+Réponse = 
+[
+[{'entity': 'B-PER',
+   'word': 'HANNENBEIN',
+},
+  {'entity': 'I-PER',
+   'word': ',',
+},
+  {'entity': 'I-PER',
+   'word': 'Georg',
+},
+],[
+{'entity': 'B-PER',
+   'word': 'PETRUS',
+},
+{'entity': 'I-PER',
+'word': 'DE',
+},
+{'entity': 'I-PER',
+'word': 'CRESCENTIS',
+},
+],[
+{
+'entity':'B-LOC', 
+'word': 'Strasbourg',
+},
+],[
+{
+'entity': 'B-PER',
+'word': 'Christian'
+},
+{
+'entity':'I-PER',
+'word': 'Egenolff'
+},
+],[
+{'entity': 'B-DATE',
+'word': '1529'},
+],[
+{'entity':'B-PER',
+'word': 'Chris.'},
+{'entity': 'I-PER',
+'word': 'Egenolff'},
+],[
+{'entity':'B-DATE',
+'word': 'M.'},
+{'entity': 'I-DATE', 
+'word': 'D.'},
+{'entity':'I-DATE',
+'word': 'LXXXII'},
+],[
+{'entity': 'B-LOC',
+'word': 'Strassburg'}
+]
+]
+Maintenant, extrait en JSON les entités nommées des phrases suivantes : 1497, in-4°.<0x0A>Hain 15.247, Proctor 3190, Voulliéme: Berlin 1178.<0x0A>K 3668. Prov.: Don de Fid. Butsch fils, Augsbourg, 1872.473<0x0A>VALLA LAURENTIUS: De libero arbitrio. (Strasbourg,<0x0A>G. Husner, vers 1475), in-fol.<0x0A>Hain 15830 (2), Proctor 355, Voulliéme; Berlin 2207.<0x0A>K 3685. Prov.: Don de la Bibl. Univ. de Leipzig, 1872. 474<0x0A>VERDENA. Voir: Johannes de Verdena.<0x0A>VINCENTIUS BELLOVACENSIS: Speculum doctrinale. [Stras¬<0x0A>bourg, imprimeur R. (— Ad. Rusch), vers 1472), in-fol.<0x0A>Madsen 4155, Proctor 252, Voulliéme: Berlin 2129, Walter:<0x0A>Sélestat 496.<0x0A>K3727. Proy.: Don de la ville de Trèves, 1871. A l’extérieur<0x0A>du 1er plat sur une fiche blanche: «Bibliothecae Conventus<0x0A>Trevirensis Ord. P. P. Eremitarum S. P. Augustini». Au haut<0x0A>du 1er fol.: «Bibliothecae ff. Eremit. Sti Augustini Treuir».<0x0A>Au-dessous,, d’une autre main: «Bibl. publ. civ. Trev. 1803»,<0x0A>et en bas, cachet de la B U de Trèves. Rel. anc.<0x0A>475<0x0A>VINCENTIUS BELLOVACENSIS : Speculum historiale, Pars I-IV.<0x0A>(Strasbourg, J. Mentelin, 4 déc. 1473), in-fol.<0x0A>Copinger 6246, Madsen 4157, Proctor 212, Voulliéme: Berlin<0x0A>2084, Walter; Sélestat 497, Schorbach: Mentelin N° 31.<0x0A>«onale<0x0A>Stasbaur<0x0A>99<0x0A>K 3720. Prov. B N Munich, 10. V. 1880, 30 M. Notes mss.<0x0A>Pars I et II dans un volume. Au haut du 1er f. du 1er vol.:<0x0A>Ad. P. P. Franciscanos Vellhausij. Bib.». Rel anc. pour le<0x0A>1er vol.<0x0A>3e vol. incomplet, manque ff. 1 et 2. A l’intérieur du 1er plat<0x0A>du 2° et 3e vol. exlibris avec la devise: «Honos Erit<0x0A>huic quoque Luto.», et en bas: «Andreae Felicis OEfely.<0x0A>Monacensis.»<0x0A>476<0x0A>VINCENTIUS BELLOVACENSIS: Speculum historiale, Pars I-IV.<0x0A>Copinger III. 6245, Madsen 4160, Proctor 254, Voulliéme:<0x0A>Berlin 2131; Walter: Sélestat 497.<0x0A>K 3721. Prov.; Don de la ville de Trèves, 1871, dont le<0x0A>cachet se trouve au bas du 1er f. Rel. anc. Notes mss.<0x0A>2e ex. K. 3721a. Prov.; Don d’Oswald Ottendorfer, New-York,<0x0A>31. VII. 1885. A l’intérieur du 1er plat, fiche découpée d’un<0x0A>catalogue anglais: First edition... large initial, coloured let¬<0x0A>ters leightened with gold,...a most splendid specimen of<0x0A>printing in its very earliest infancy. Very fine copy. Original<0x0A>stamped monastic binding.... Dibdin and other bibliographers<0x0A>state that it was printed at Strasbury by J. Mentelin about the<0x0A>year 1470, although a previous possessor has titled it «Faust,<0x0A>Mayence 1474.» It is excessively rare, and no copy exists in<0x0A>the British Museum or the Spencer Library. This volume<0x0A>formed part of the treasures of the late library at Strasburg,<0x0A>which was entirely destroyed during the late seige. This and<0x0A>a very few other volumes alone being saved from total<0x0A>destruction. It ought to be in a national library.» Au verso<0x0A>du f. de garde: «Editio antiquissima, typis Mentellianis<0x0A>impressa. Cat. Palm V, n° 1862. Liber rarissimus. Theod. de<0x0A>Mann (2) pos.» Rel, anc.<0x0A>477<0x0A>VINCENTIUS BELLOVACENSIS PSEUDO-: Speculum morale.<0x0A>(Strasbourg, J. Mentelin, pas après 9 nov. 1476), in-fol.<0x0A>Copinger 6252, Proctor 214, Madsen 4162, Voulliéme: Berlin<0x0A>2109, Schorbach: Mentelin N° 37.<0x0A>K 3729. Prov.: Bibl. F. A. Menke, Brême, 1873. Notes mss.<0x0A>478<0x0A>VINCENTIUS BELLOVACENSIS: Speculum naturale. (Stras¬<0x0A>bourg, impr. R. (— Ad. Rusch), vers 1470), in-fol.<0x0A>Copinger III. 6256, Madsen 4166, Proctor 255, Voulliéme: Ber¬<0x0A>lin 2132. Walter; Sélestat 499.<0x0A>100<0x0A>K 3725. Pars I. Don de la ville de Trèves (1871), dont le<0x0A>cachet se trouve au recto du 1er f. Rel. anc.<0x0A>Pars II. Don de la Bibl. Univ. de Goettingue, 1872. Au haut<0x0A>du 1er f.; Ad Conventum vallis Speciosi. Notes mss. Rel. anc.<0x0A>479<0x0A>VINCENTIUS FERRERIUS. Voir: Ferrerius.<0x0A>VIOLA SANCTORUM. Strasbourg, J. Prüss, 23 août 1487, in-4°.<0x0A>Hain 10870, Madsen 4170, Pellechet: Colmar 964, Proctor 520,<0x0A>Schmidt III, 14, Voulliéme: Berlin 2345, 5.<0x0A>K 2544. Prov.: Albert Cohn, Berlin (Catal. 137, N° 498), 24. II.<0x0A>1881, 9 M.<0x0A>480<0x0A>VIOLA SANCTORUM. [Strasbourg, J. Prüss), 8 février 1499,<0x0A>in-4°.<0x0A>Hain 10873, Proctor 552, Kristeller 52, Schreiber 4594, Voul¬<0x0A>liéme: Berlin 2363; Schramm, Bilderschmuck XX, grav.<0x0A>N° 1240-1241.<0x0A>K 2546. Prov.; Don de la Bibl. Univ. de Heidelberg, 1871. Au<0x0A>milieu du titre: «Ad usum fratris Joannis Ruch professus<0x0A>monasterii Salem Anno 1583».<0x0A>481<0x0A>VIOLA SANCTORUM: Martyrologium der Heiligen, Stras¬<0x0A>bourg, J. Prüss, 1484, in-fol.<0x0A>Hain 10874, Madsen 4171, Proctor 514, Schmidt III, 9, Voul¬<0x0A>liéme: Berlin 2338, Schreiber 4593.<0x0A>Schramm, Bilderschmuck XX, grav. N° 1185-1197.<0x0A>K 2547. Prov.: F. Butsch fils, Aussbourg, 31. I. 1876, 40 M. Au<0x0A>haut du titre: «Prodiit hic Liber in Lucem Anno Domini 1483<0x0A>in adventu. 1760».<0x0A>482<0x0A>Vocabularius Exquo. (Lat.-teuton), Strasbourg, J. Prüss,<0x0A>1487, in-4°.<0x0A>Schmidt III, 16.<0x0A>K 3773a. Prov.: F. Butsch, Augsbourg, 26. X. 1885, 4 M. Au<0x0A>recto du f. de garde: «Ich maister Hans Biechtlin» (2) (Brecht-<0x0A>lin?). Rel. anc.<0x0A>483<0x0A>Vocabularius Exquo. (Strasbourg, J. Prüss, vers 1488),<0x0A>in-4°.<0x0A>R 3773. Prov.: Reintgens, Strasbourg, 24. VIII. 1888, 25 M.<0x0A>De nombreuses notes mss. Rel. anc.<0x0A>2. ex K 3773 b. Prov.: F. Steinkopf, Stuttgart, 28. I. 1873, 6 M.<0x0A>Rel anc.<0x0A>484<0x0A>101<0x0A>Vocabularius utriusque juris. Strasbourg, (impr. du Jor¬<0x0A>danus (— G. Husner)), 16 sept, 1486, in-fol.<0x0A>Copinger III. 6366, Proctor 604, Voullié

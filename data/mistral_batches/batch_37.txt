@@ -1,0 +1,64 @@
+Extrait en un fichier JSON les entités nommées B-PER, I-PER, B-DATE, I-DATE, B-LOC, I-LOC selon l'exemple :
+Exemple =  "HANNENBEIN, Georg . Voir: LIED (Neu Klaglied der Bauern) n° 340.
+PETRUS DE CRESCENTIS
+( WUERFELBUCH ]
+ Strasbourg , ( Christian Egenolff ), 1529 
+ Marque typ. de Chris. Egenolff. Anno M. D. LXXXII 
+ Stadtbibl. Strassburg 1192". 
+
+Réponse = 
+[
+[{'entity': 'B-PER',
+   'word': 'HANNENBEIN',
+},
+  {'entity': 'I-PER',
+   'word': ',',
+},
+  {'entity': 'I-PER',
+   'word': 'Georg',
+},
+],[
+{'entity': 'B-PER',
+   'word': 'PETRUS',
+},
+{'entity': 'I-PER',
+'word': 'DE',
+},
+{'entity': 'I-PER',
+'word': 'CRESCENTIS',
+},
+],[
+{
+'entity':'B-LOC', 
+'word': 'Strasbourg',
+},
+],[
+{
+'entity': 'B-PER',
+'word': 'Christian'
+},
+{
+'entity':'I-PER',
+'word': 'Egenolff'
+},
+],[
+{'entity': 'B-DATE',
+'word': '1529'},
+],[
+{'entity':'B-PER',
+'word': 'Chris.'},
+{'entity': 'I-PER',
+'word': 'Egenolff'},
+],[
+{'entity':'B-DATE',
+'word': 'M.'},
+{'entity': 'I-DATE', 
+'word': 'D.'},
+{'entity':'I-DATE',
+'word': 'LXXXII'},
+],[
+{'entity': 'B-LOC',
+'word': 'Strassburg'}
+]
+]
+Maintenant, extrait en JSON les entités nommées des phrases suivantes :er.<0x0A>Scriptor der k. Hof- und Staatsbibliothek München». Rel. anc.<0x0A>404<0x0A>RABANUS MAURUS: De sermonum proprietate. (Strasbourg,<0x0A>impr. R. (— Ad. Rusch), avant le 20 juillet 1467), in-fol.<0x0A>Hain 13669, Madsen 3442, Proctor 239, Voulliéme: Berlin 2118.<0x0A>K 3106. Prov.: Bibliothèque du presbytère de Saverne. Notes<0x0A>mss. Au haut du 1er f.: Pro Franciscanos de observantia<0x0A>Tabernensibus». A l’intérieur du 1er et 2e plat, texte hébreux<0x0A>d’une page en mss. Rel. anc.<0x0A>405<0x0A>RAMPEGOLUS ANTONIUS DE: Biblia aurea. (Strasbourg), J.<0x0A>Grüninger, 6 août 1495, in-4°.<0x0A>Hain 13.685, Madsen 3445, Proctor 465, Voulliéme: Berlin<0x0A>2289, 5.<0x0A>K 3111. Prov.: Don du prince de Bentheim, 1874, provenant<0x0A>du couvent de Frenswegen.<0x0A>406<0x0A>RAMPEGOLUS ANTONIUS DE: Biblia aurea. Strasbourg, J. Grü¬<0x0A>ninger, 6 déc., 14/916, in-4°.<0x0A>Hain 13687, Madsen 3448, Proctor 474, Voulliéme: Berlin 2297.<0x0A>K 311la. Prov.: Les héritiers de C. Geyling, 18/1. 1886, 6 M.<0x0A>Notes mss. au recto du f. de garde et au verso du dernier<0x0A>f. Rel. anc.<0x0A>407<0x0A>RED und WIDERRED. Voir: Ackermann von Böhmen.<0x0A>85<0x0A>REGIMEN sanitatis Salernitanum ab Arnoldo de Villa Nova<0x0A>ordinatum. Strasbourg, (impr. du Jordanus (—G.<0x0A>Husner)), 29 déc. 1491, in-4°.<0x0A>Hain 13758, Proctor 666, Voulliéme; Berlin 2446.<0x0A>K 3130. Prov.: B N Munich, 20/1. 1880, 1 M.<0x0A>408<0x0A>REGISTRUM ecclesiae argentinensis. (Strasbourg, J. Prüss,<0x0A>vers 1490?], in-8°.<0x0A>Copinger 5076, Schramm, Bilderschmuck XX, grav. N° 1234.<0x0A>K 3143. Prov.: Don de la Bibl. Univ. de Heidelberg, 1871<0x0A>avec le cachet de cette Bibliothèque au bas du titre. Notes<0x0A>mss. A l'intérieur du 1er plat: «M. Balthasar Ganser Herber¬<0x0A>tingensis». Au-dessous: «Marcus Niibling Friburgensis». Au¬<0x0A>dessus du titre: «Monasterij D. Ethonis». Rel. anc. 409<0x0A>REGNIERIUS ELIAS: Casus longi Sexti et Clementinarum.<0x0A>(Strasbourg, J. Prüss), 1488, in-fol.<0x0A>Hain 13812, Pellechet: Colmar 1140, Proctor 540, Voulliéme:<0x0A>Berlin 2349.<0x0A>K 3146. Prov.: B N Munich, 20/1. 1880, 1 M. A la suite de<0x0A>Bernardus Parmensis, Casus longi, Strasbourg 1488, K 669.<0x0A>410<0x0A>REGNIERIUS ELIAS: Casus longi Sexti et Clementinarum.<0x0A>Strasbourg (impr. du Jordanus (—G. Husner)),<0x0A>18 août 1496, in-fol.<0x0A>Hain 13816, Madsen 3471, Pellechet: Colmar 1141, Proctor<0x0A>669, Voulliéme: Berlin 2464.<0x0A>K 3147. Prov.: Fid. Butsch fils, Augsbourg, 1871. Rel. anc.<0x0A>2e ex. K 1105, 2. Prov.; Don de la ville de Nördlingen, 1871.<0x0A>A la suite des Casus decretalium, Strasbourg 1493. K 1105, 1.<0x0A>411<0x0A>REMIGIUS: Fundamentum scolarium. Haguenau, H. Gran,<0x0A>1494, in-4°.<0x0A>Hain 13861, Proctor 3182, Schreiber 5087, Voulliéme: Berlin<0x0A>1174.<0x0A>K 3155. Prov.: Bibliothèque Ch. Schmidt, Strasbours, 10/IV.<0x0A>REUCHLIN JOHANNES : Vocabularius breviloquus. Strasbourg,<0x0A>impr. du Jordanus (— G. Husner)), 1488, in-fol.<0x0A>Copinger III 6293, Proctor 647, Voulliéme: Berlin 2419.<0x0A>K 3160c. Prov.: Henri Artur, Berlin, 5/III. 1891, 18 M. 413<0x0A>86<0x0A>REUCHLIN JOHANNES: Vocabularius breviloquus. Strasbourg,<0x0A>impr. du Jordanus (G. Husner)), 12 janvier 1493,<0x0A>in-fol.<0x0A>Copinger 6296, Madsen 3492, Voulliéme: Berlin 2447.<0x0A>K 3160d. Prov.: L. Rosenthal, Munich, 28/III. 1891, 24 M.<0x0A>Notes mss. Rel. anc.<0x0A>414<0x0A>REUCHLIN JOHANNES: Vocabularius breviloquus. Strasbourg,<0x0A>(G. Husner), 30 sept. 1496, in-4°.<0x0A>Voulliéme: Berlin 2528.<0x0A>K 3160e. Prov.: Baer 8 Co., Francfort s. M., 18/x. 1883, 24 M.<0x0A>Au-dessus du titre: «Frater Melchior est possessor hujus libri<0x0A>possessione Conventus Wimpinensis ordinis praedicatorum».<0x0A>Rel. anc.<0x0A>415<0x0A>ROLEWINCR WERNER: Fasciculus temporum. Strasbourg,<0x0A>J Prüss, 1487, in-fol.<0x0A>Hain 6936, Madsen 3527, Proctor 523, Schmidt III, 13, Schrei¬<0x0A>ber 5117, Voulliéme; Berlin 2345.<0x0A>Schramm, Bilderschmuck XX, grav. N° 1212-1224.<0x0A>K 3191. Prov.: Don de Fid. Butsch fils, Augsbourg, 1872. Au¬<0x0A>dessous du titre: «Can. Reg. in Ranshouen». Rel. anc. 2e ex.<0x0A>K 58, 2. Prov.: Bernard, Strasbourg, 1879. A la suite de Aero¬<0x0A>pus, Fabulae. K 58, 1.<0x0A>416<0x0A>ROLEWINCK WERNER: Fasciculus temporum. Strasbourg,<0x0A>J. Prüss, 1488, in-fol.<0x0A>Hain 6937, Madsen 3528, Proctor 533, Schmidt III, 18, Schrei¬<0x0A>ber 5118, Voulliéme: Berlin 2350, Pellechet: Colmar 608,<0x0A>Walter: Sélestat 418; Schramm, Bilderschmuck XX, grav.<0x0A>N° 1212-1224.<0x0A>K 3192. Prov.: Baer & Co., Francfort s. M., 3/VI. 1879, 36 M.<0x0A>Au bas du titre: «Sum Georgij Leonhardi Modelij vindicis<0x0A>ab interitu meo A. E. C. V. 1685». Au recto du f. de garde:<0x0A>«Delius».<0x0A>417<0x0A>ROLEWINCK WERNER: Fasciculus temporum. Strasbourg,<0x0A>J. Prüss, vers 14902), in-fol.<0x0A>Hain 6916, Pellechet: Colmar 603, Proctor 563, Schreiber<0x0A>5119, Voulliéme: Berlin 2390.<0x0A>K 3183. Prov.: Don du prince de Bentheim, 1872. Rel. anc.<0x0A>418<0x0A>87<0x0A>ROLEWINCE WERNER: Fasciculus temporum. Strasbourg,<0x0A>J. Prüss, après 1490), in-fol.<0x0A>Hain 6915, Madsen 3529, Proctor 571, Schreiber 5120, Voul¬<0x0A>liéme: Berlin 2391; Schramm, Bilderschmuck XX, grav.<0x0A>N° 1212-1224.<0x0A>K 3182. Prov.: Bibliothèque Böcking., Notes m

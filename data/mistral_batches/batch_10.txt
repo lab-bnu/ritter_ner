@@ -1,0 +1,64 @@
+Extrait en un fichier JSON les entités nommées B-PER, I-PER, B-DATE, I-DATE, B-LOC, I-LOC selon l'exemple :
+Exemple =  "HANNENBEIN, Georg . Voir: LIED (Neu Klaglied der Bauern) n° 340.
+PETRUS DE CRESCENTIS
+( WUERFELBUCH ]
+ Strasbourg , ( Christian Egenolff ), 1529 
+ Marque typ. de Chris. Egenolff. Anno M. D. LXXXII 
+ Stadtbibl. Strassburg 1192". 
+
+Réponse = 
+[
+[{'entity': 'B-PER',
+   'word': 'HANNENBEIN',
+},
+  {'entity': 'I-PER',
+   'word': ',',
+},
+  {'entity': 'I-PER',
+   'word': 'Georg',
+},
+],[
+{'entity': 'B-PER',
+   'word': 'PETRUS',
+},
+{'entity': 'I-PER',
+'word': 'DE',
+},
+{'entity': 'I-PER',
+'word': 'CRESCENTIS',
+},
+],[
+{
+'entity':'B-LOC', 
+'word': 'Strasbourg',
+},
+],[
+{
+'entity': 'B-PER',
+'word': 'Christian'
+},
+{
+'entity':'I-PER',
+'word': 'Egenolff'
+},
+],[
+{'entity': 'B-DATE',
+'word': '1529'},
+],[
+{'entity':'B-PER',
+'word': 'Chris.'},
+{'entity': 'I-PER',
+'word': 'Egenolff'},
+],[
+{'entity':'B-DATE',
+'word': 'M.'},
+{'entity': 'I-DATE', 
+'word': 'D.'},
+{'entity':'I-DATE',
+'word': 'LXXXII'},
+],[
+{'entity': 'B-LOC',
+'word': 'Strassburg'}
+]
+]
+Maintenant, extrait en JSON les entités nommées des phrases suivantes : 22 I. 1880, 3 M. A l'intérieur du<0x0A>premier plat, ex libris avec la légende suivante: Ex Biblio¬<0x0A>theca ecclesiae Collegiatae Lateranensis ad S. Nicolaum prope<0x0A>Passavium.<0x0A>27<0x0A>ANGELUS DE CLAVASIO: Summa angelica de casibus conscien¬<0x0A>tiae. Strasbourg, Mart. Flach, 26 mars 1495, in-fol.<0x0A>G W 1938, Hain 5397, Madsen 203, Pellechet 3827, Proctor 701,<0x0A>Schmidt VI, 56, Voulliéme: Berlin 2502.<0x0A>K 273. Prov.: Don du prince de Bentheim. Au verso du titre,<0x0A>note mss.: Iste liber pertinet Johanni filio thome karoli. Rel.<0x0A>anc.<0x0A>28<0x0A>ANGELUS DE CLAVASIO: Summa angelica de casibus conscien¬<0x0A>tiae. Strasbourg, Mart. Flach, 15 mars 1498, in-4e.<0x0A>G W 1943, Hain 5399, Madsen 205, Pellechet 3831, Proctor 708,<0x0A>Schmidt VI, 66, Voullième: Berlin 2508.<0x0A>K 273a. Prov.; B N Munich, 22 I. 1880, 2 M. Notes mss. au<0x0A>recto du titre: Ad Bibliothecam RRFF Niedernaltacensium.<0x0A>Rel. anc.<0x0A>29<0x0A>ANIANUS: Compotus manualis. Strasbourg, J. Prüss, 14 nov.<0x0A>1488, in-4°.<0x0A>G W 1951, Hain 1109, Madsen 209, Pellechet: Colmar 85,<0x0A>Proctor 537, Schmidt III, 17, Voulliéme: Berlin 2356.<0x0A>K 276. Prov.: Librairie Trübner (Vente Noiriel), Strasbourg,<0x0A>4 IV. 1874. Note mss. à l'intérieur du premier plat: Bibliothe¬<0x0A>cae Tegernseensis. Au milieu du titre: Sum Joannis Baptistae<0x0A>Winkelmair. Rel. anc.<0x0A>30<0x0A>ANNA Voir: LEGENDA de sancta Anna.<0x0A>ANSELMUS CANTUARENSIS: Dialogus de passione Christi et<0x0A>tractatus de planctu Mariae. Strasbourg, (Mart. Flach],<0x0A>18 octobre 1490, in-4°.<0x0A>Hain 1139, Proctor 686, Voulliéme: Berlin 2492. [Supplé¬<0x0A>ment aux Sermones tres de passione.)<0x0A>K 288. Prov.: B N Munich, 22 I. 1880.<0x0A>31<0x0A>ANSELMUS CANTUARENSIS: Liber, cur deus homo. [Stras¬<0x0A>bourg, G. Husner, pas après 1474), in-fol.<0x0A>G W 2035, Hain 1137, Madsen 220, Pellechet 800, Proctor 349,<0x0A>Voulliéme: Berlin 2197.<0x0A>K 286. Prov.: B N Munich, 5. IV. 1881, 3 M. Notes mss. 32<0x0A>ANTONINUS FLORENTINUS: Confessionale. Strasbourg, Mart.<0x0A>Flach, 1488, in-4°.<0x0A>G W 2128, Hain 1197, Madsen 249, Pellechet: Colmar 95,<0x0A>Proctor 678, Schmidt V, 17, Voulliéme: Berlin 2480.<0x0A>K 311. Prov.: Librairie Trübner (Vente Noiriel) Strasbourg,<0x0A>4. IV. 1874. Notes mss. Rel. anc.<0x0A>33<0x0A>ANTONINUS FLORENTINUS: Confessionale. Strasbourg, Mart.<0x0A>Flach, 1490, in-4°.<0x0A>G W 2130, Hain 1198, Madsen 251, Pellechet 850, Pellechet:<0x0A>Colmar 96, Proctor 687, Schmidt VI, 31, Voulliéme: Berlin<0x0A>2486, 5.<0x0A>K 312. Prov.: Librairie Trübner (Vente Noiriel), Strasbourg,<0x0A>4. IV. 1874.<0x0A>34<0x0A>ANTONINUS FLORENTINUS: Confessionale. Strasbourg, Mart.<0x0A>Flach, 1492, in-4°.<0x0A>G W 2132, Hain 1200, Madsen 252, Pellechet 851, Pellechet:<0x0A>Colmar 97, Proctor 694, Schmidt VI, 42, Voulliéme: Berlin<0x0A>2494, 3; Walter: Sélestat 27.<0x0A>K 314. Prov.; B N Munich, 22. L. 1880, 1 M 20. Note mss. au<0x0A>haut du f. a 2a; Ad Bibliothecam F. F. Franciscanorum. Am¬<0x0A>bergae. Rel. anc.<0x0A>35<0x0A>ANTONINUS FLORENTINUS: Confessionale. Strasbourg, Mart.<0x0A>Flach, 1496, in-4°.<0x0A>G W 2135, Hain 1201, Madsen 254, Pellechet 852, Proctor 705,<0x0A>Schmidt VI, 60, Voulliéme: Berlin 2502, 4.<0x0A>K 315. Prov.: BN Munich, 22. I. 1880, 1 M. Note mss. au haut<0x0A>du titre: Ad Conventum Seemanshusianum ord. Eremitarum<0x0A>S. Augustini. Rel. anc.<0x0A>36<0x0A>8<0x0A>ANTONINUS FLORENTINUS: Confessionale. Strasbourg, Mart.<0x0A>Flach, 1499, in-4°.<0x0A>G W 2137, Hain 1205, Madsen 255, Pellechet 853, Pellechet:<0x0A>Colmar 98, Proctor 713, Schmidt VI, 74, Voulliéme: Berlin<0x0A>2509.<0x0A>K317. Proy.: B N Munich, 22. L. 1880, 1 M. 20. Rel. anc. 37<0x0A>ANTONINUS FLORENTINUS: Summa theologica. Pars. I–IV.<0x0A>Strasbourg, J. Grüninger, 1490, in-fol.<0x0A>G W, 2191, Hain 1248, Pellechet 882, Pellechet: Colmar 107,<0x0A>Proctor 458, 457, 459, 456, Schmidt I, 12, Voulliéme: Berlin<0x0A>2282, 5; 2281, 6; 2282, 8; 2281, 4; Walter; Sélestat: 31.<0x0A>K 329. Prov.: B N Munich, 16. XII. 1879, 8 M.<0x0A>38<0x0A>ANTONINUS FLORENTINUS: Summa theologica. Pars. I– IV.<0x0A>Strasbourg, J. Grüninger, 1496, in-fol.<0x0A>G W 2192. Hain 1249, Madsen 270, Pellechet 884, Pellechet:<0x0A>Colmar 108, Proctor 472, 470, 469, 471, Voulliéme: Berlin<0x0A>2295, 2293, 2292, 5; 2294, 2290; Walter: Sélestat 32.<0x0A>K 330. Prov.: Curé Cromer, Saverne, 23. VIII. 1879.<0x0A>39<0x0A>ANTONIUS DE BITONTO: Sermones dominicales. Strasbourg,<0x0A>J. Grüninger, 20 février 1495, in-8°.<0x0A>G W 2211, Hain 3218, Madsen 276, Pellechet 2405, Schmidt I,<0x0A>21, Voulliéme: Berlin 2288, 5.<0x0A>K 340. Prov.: Don de K. J. Trübner, Strasbourg, 26. VII. 1888.<0x0A>Notes mss. au-dessous du titre: Ex libris Hieronymi Sonnenfro<0x0A>1673.<0x0A>40<0x0A>ARIMINENSIS HENRICUS. Voir: Henricus Ariminensis.<0x0A>ARISTOTELES: Ethica ad Nicomachum, Politica et Oecono¬<0x0A>mica. (Strasbourg, J. Mentelin, avant le 10 avril 1469),<0x0A>in-fol.<0x0A>GW 2367, Hain 1762, Pellechet 1238, Proctor 224, Voulliéme:<0x0A>Berlin 2090, Schorbach: Mentelin N° 13.<0x0A>K. 373. Prov.: Don de la Bibliothèque Univ. de Goettingue, 1871.<0x0A>

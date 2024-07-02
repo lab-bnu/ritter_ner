@@ -1,0 +1,64 @@
+Extrait en un fichier JSON les entités nommées B-PER, I-PER, B-DATE, I-DATE, B-LOC, I-LOC selon l'exemple :
+Exemple =  "HANNENBEIN, Georg . Voir: LIED (Neu Klaglied der Bauern) n° 340.
+PETRUS DE CRESCENTIS
+( WUERFELBUCH ]
+ Strasbourg , ( Christian Egenolff ), 1529 
+ Marque typ. de Chris. Egenolff. Anno M. D. LXXXII 
+ Stadtbibl. Strassburg 1192". 
+
+Réponse = 
+[
+[{'entity': 'B-PER',
+   'word': 'HANNENBEIN',
+},
+  {'entity': 'I-PER',
+   'word': ',',
+},
+  {'entity': 'I-PER',
+   'word': 'Georg',
+},
+],[
+{'entity': 'B-PER',
+   'word': 'PETRUS',
+},
+{'entity': 'I-PER',
+'word': 'DE',
+},
+{'entity': 'I-PER',
+'word': 'CRESCENTIS',
+},
+],[
+{
+'entity':'B-LOC', 
+'word': 'Strasbourg',
+},
+],[
+{
+'entity': 'B-PER',
+'word': 'Christian'
+},
+{
+'entity':'I-PER',
+'word': 'Egenolff'
+},
+],[
+{'entity': 'B-DATE',
+'word': '1529'},
+],[
+{'entity':'B-PER',
+'word': 'Chris.'},
+{'entity': 'I-PER',
+'word': 'Egenolff'},
+],[
+{'entity':'B-DATE',
+'word': 'M.'},
+{'entity': 'I-DATE', 
+'word': 'D.'},
+{'entity':'I-DATE',
+'word': 'LXXXII'},
+],[
+{'entity': 'B-LOC',
+'word': 'Strassburg'}
+]
+]
+Maintenant, extrait en JSON les entités nommées des phrases suivantes :¬<0x0A>druck mit Rand. (Strassburg 1476), 500 M.<0x0A>Nicht bei Hain, Copinger II. 2193=2190: Heitz u. Haebler,<0x0A>Hundert Kalender-Inkunabeln N° 16; Proctor 215, Type 8;<0x0A>Pollard I, p. 58.<0x0A>Der älteste bekannte Strassburger Kalender, mit der schönen<0x0A>römischen Type Mentelins gedruckt. Wie aus dem Anfangs¬<0x0A>passus hervorgeht, wurde er speziell für die Stadt Strassburg<0x0A>angefertigt und der Text ist in rein alemannischem Dialekt<0x0A>abgefasst. Der Kalender ist durchgehends in Langzeilen ge¬<0x0A>druckt, nur am Anfang jeden Monats ist Raum für eine Initiale<0x0A>gelassen. Er enthält astronomische und medizinische Angaben<0x0A>für jeden Monat, besonders über den Aderlass.<0x0A>59<0x0A>Unser Exemplar ist vollständiger als die beiden anderen, die<0x0A>uns noch erhalten sind. Das Londoner Exemplar hat nur<0x0A>65, das Münchener nur 70 Zeilen. Unser Ex. umfasst mit<0x0A>72 Zeilen die Angaben für 11 Monate. Vom Dezember sind noch<0x0A>einige Worte lesbar. Es fehlen also nur noch wenige Zeilen.<0x0A>Zeile 71 (Schluss des 11. Monats) lautet: Am sant-andres obent<0x0A>ist der mon in der C vogen ist gut lossen.»<0x0A>277<0x0A>KLAGSPIEGEL, Richterlich. Voir: Brant Seb.<0x0A>KÖNIGSTOCHTER VON FRANKREICH. Voir: Bühel Hans von.<0x0A>LAPIDE JOHANNES DE: Resolutionum dubiorum circa cele¬<0x0A>brationem missarum occurentium. Strasbourg, Mart.<0x0A>Flach, 1494, in-4°.<0x0A>Hain 9909, Proctor 699, Schmidt VI, 54, Voulliéme: Berlin<0x0A>2497, 8.<0x0A>K 2324. Prov.: Don de Fid. Butsch fils, Augsbourg, 1871. Notes<0x0A>mss. au verso du dernier f. blanc.<0x0A>278<0x0A>LAETUS POMPONIUS. Voir: Pomponius.<0x0A>LEBEN, das ist sant Pauls Leben. Strasbourg, (Barth. Kist-<0x0A>ler), 1498, in 4°.<0x0A>Hain 12474, Proctor 757, Schramm, Bilderschmuck XX, grav.<0x0A>N° 1818-1835, Schreiber 4897, Voulliéme: Berlin 2548.<0x0A>K 2353. Prov.: Librairie Trübner, Strasbourg, 25. IX. 1880,<0x0A>50 M.<0x0A>279<0x0A>LEBEN der Heiligen. Voir: Passional et Jacobus de Voragine.<0x0A>LEGENDA von sant Annan. (Strasbourg (Grüneck)), Barth.<0x0A>Kistler, vers 1500, in-4°.<0x0A>Copinger 3534, Kristeller 222, Schramm, Bilderschmuck XX,<0x0A>grav. N° 2073-2075, Schreiber 3323, Schmidt IV, p. 7, N° 17,<0x0A>Voulliéme: Berlin 2552.<0x0A>L’année suivante (1501) Kister imprima le livre en latin:<0x0A>Legenda de sancta Anna.<0x0A>K 2356 (1). Prov.: Librairie Bull. (Vente Leser), Strasbourg,<0x0A>9. H. 1872.<0x0A>Note mss. à la fin: «Dis buch geheert zu sanct Margarethen<0x0A>und Agnesen in Straszburg... Anno 1635 den 11 julij.»<0x0A>280<0x0A>60<0x0A>LEGENDA AUREA. Voir: Jacobus de Voragine.<0x0A>LEO ARCHIPRESBYTER: Historia Alexandri magni. Stras¬<0x0A>bourg, (imprimeur du Jordanus (— G. Husner),<0x0A>14 octobre), 1486, in-fol.<0x0A>G W 876, Hain 779, Proctor 606, Voulliéme; Berlin 2413.<0x0A>K 2358. ProV.: BN Munich, 14. IV. 1880, M. 0,70.<0x0A>Figure généralement sous Alexander Magnus ou Historia Ale¬<0x0A>xandri; notre catalogue l’a sous Léon Archipresbyter. 281<0x0A>LEO ARCHIPRESBYTER: Historia Alexandri, magni. Stras¬<0x0A>bourg, (imprimeur du Jordanus (— G. Husner),<0x0A>17 mars 1489), in-fol.<0x0A>G W 877, Hain 780, Madsen 121, Pellechet 447, Proctor 619,<0x0A>Voulliéme: Berlin 2426.<0x0A>K 2358a. Prov.; B N Munich, 14. IV. 1880, 2 M., avec le cachet<0x0A>de cette bibliothèque au verso du dernier f.<0x0A>282<0x0A>LEO ARCHIPRESBYTER: Historia Alexandri magni. Stras¬<0x0A>bourg, (imprimeur du Jordanus (— G. Husner),<0x0A>26 mai 1494), in-fol.<0x0A>G W 879, Hain 783, Madsen 123, Pellechet 449, Proctor 628,<0x0A>Voulliéme: Berlin 2452.<0x0A>K 2358b. Prov.: BN Munich, 14. IV. 1880, 2 M. Note mss. au<0x0A>verso du titre; cachet de la BN Munich au recto du f. al et<0x0A>au-dessous de l’explicit.<0x0A>283<0x0A>LOCHER JAÇOBUS: Panegyricus ad Maximilianum. Tragoe¬<0x0A>dia de Turcis et Soldano, Dialogus de heresiarchis.<0x0A>Strasbourg, J. Grüninger, 1497, in-4°.<0x0A>Hain 10153, Madsen 2505, Pellechet: Colmar 880, Proctor 483,<0x0A>Schmidt I, 32, Schreiber 4513, Voulliéme; Berlin 2298.<0x0A>Schramm, Bilderschmuck XX, grav N° 374-389.<0x0A>K 2391. Prov.: Don de la B U de Goettingue, 1871, avec le<0x0A>cachet de cette bibliothèque au-dessous du titre.<0x0A>284<0x0A>LOCHMAIER et LOCHMAYER. Voir: Lochmeyer.<0x0A>LOCHMEYER MICHAEL: Parochiale. Haguenau, H. Gran,<0x0A>20 août 1498, in-4°.<0x0A>Hain 10169, Pellechet: Colmar 885, Proctor 3196.<0x0A>61<0x0A>K 2396. Prov. Bibl. St. Thomas, Strasbourg.<0x0A>2e ex. K 2396a. Prov.: Don de la ville de Heilbronn. Note mss.<0x0A>au haut du titre: Liber Jacobi Gartlibij...» A l’intérieur du<0x0A>1er plat, exlibris, entouré du texte suivant: «Patientia est<0x0A>malorum remedium.» Rel. anc.<0x0A>285<0x0A>LOCHMEYER MICHAEL: Sermones de sanctis. Haguenau,<0x0A>H. Gran, 25 juillet 1497, in-fol.<0x0A>Hain 10173, Madsen 2509, Pellechet: Colmar 886, Proctor 3187,<0x0A>Voulliéme: Berlin 1175, 10.<0x0A>K 2399. Prov.: Don de la ville de Heilbronn, 1872. Rel. anc.<0x0A>A la suite de: Wann Paulus, Sermones de tempore. Hague¬<0x0A>nau, 1497. K. 3794.<0x0A>286<0x0A>LOCHMEYER MICHAEL: Sermones de sanctis. Haguenau,<0x0A>H. Gran, 1500, in-fol.<0x0A>Hain 10174; Pellechet: Colmar 887.<0x0A>K 2400. Prov. inconnue. Rel. anc.<0x0A>287<0x0A>LUCIDARIUS. (Strasbourg, H. Knoblochtzer, vers 1482),<0x0A>in-fol. Incomplet.<0x0A>Kristeller, p. 8, N° 9. Proctor 374, Schorbach, Lucidarius<0x0A>N° 2, Schorbach et Spirgatis, Knoblochtzer 17, Schramm,<0x0A>Bilderschmuck XIX, grav. N° 297-301, Schreiber 4532.<0x0A>K 2414a. Prov.: Vente Trübner, Strasbourg (Catal. N° 130),<0x0A>30. X. 1886, 107 M.<0x0A>288<0x0A>LUDOLPHUS DE SAXONIA: Descriptio terrae sanctae. (Stras¬<0x0A>bourg, H. Eggestein, s. d.], in-fol.<0x0A>Hain 10307, Proctor 291, Vou

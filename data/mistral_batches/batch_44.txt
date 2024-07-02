@@ -1,0 +1,64 @@
+Extrait en un fichier JSON les entités nommées B-PER, I-PER, B-DATE, I-DATE, B-LOC, I-LOC selon l'exemple :
+Exemple =  "HANNENBEIN, Georg . Voir: LIED (Neu Klaglied der Bauern) n° 340.
+PETRUS DE CRESCENTIS
+( WUERFELBUCH ]
+ Strasbourg , ( Christian Egenolff ), 1529 
+ Marque typ. de Chris. Egenolff. Anno M. D. LXXXII 
+ Stadtbibl. Strassburg 1192". 
+
+Réponse = 
+[
+[{'entity': 'B-PER',
+   'word': 'HANNENBEIN',
+},
+  {'entity': 'I-PER',
+   'word': ',',
+},
+  {'entity': 'I-PER',
+   'word': 'Georg',
+},
+],[
+{'entity': 'B-PER',
+   'word': 'PETRUS',
+},
+{'entity': 'I-PER',
+'word': 'DE',
+},
+{'entity': 'I-PER',
+'word': 'CRESCENTIS',
+},
+],[
+{
+'entity':'B-LOC', 
+'word': 'Strasbourg',
+},
+],[
+{
+'entity': 'B-PER',
+'word': 'Christian'
+},
+{
+'entity':'I-PER',
+'word': 'Egenolff'
+},
+],[
+{'entity': 'B-DATE',
+'word': '1529'},
+],[
+{'entity':'B-PER',
+'word': 'Chris.'},
+{'entity': 'I-PER',
+'word': 'Egenolff'},
+],[
+{'entity':'B-DATE',
+'word': 'M.'},
+{'entity': 'I-DATE', 
+'word': 'D.'},
+{'entity':'I-DATE',
+'word': 'LXXXII'},
+],[
+{'entity': 'B-LOC',
+'word': 'Strassburg'}
+]
+]
+Maintenant, extrait en JSON les entités nommées des phrases suivantes :enda aurea. 259.<0x0A>1491. 21. 2.<0x0A>Bœthius: De consolatione philosophiæ. 96.<0x0A>1491. 30. 7.<0x0A>Exercitium grammaticale puerorum. 164.<0x0A>1493.<0x0A>Expositio hymnorum, 166.<0x0A>1493. 10. 1.<0x0A>Johannes de Verdena: Sermones dormi secure. 272.<0x0A>1494.<0x0A>Holkot Rob.: Super sapientiam Salomonis, 234.<0x0A>1494.<0x0A>Remigius: Fundamentum scolarium. 412.<0x0A>1494. 5. 9.<0x0A>Saliceto Nic.: Liber meditationum. 424.<0x0A>[vers 1495).<0x0A>Alexander de Villa Dei: Doctrinale, 3a et da pars.<0x0A>1495. 3. 3.<0x0A>18<0x0A>Petrus Hispanus: Commentum novum in 1. et<0x0A>1495. 20. 7.<0x0A>4. tractatus. 390.<0x0A>1495. 7. 9.<0x0A>Alexander de Villa Dei: Doctrinale, la pars. 16.<0x0A>Alexander de Villa Dei: Doctrinale. 2a pars. 17.<0x0A>11496. 9. 1.1<0x0A>Bonaventura (Pseudo-] : Sermones de tempore et<0x0A>1496. 120. 8.]<0x0A>de sanctis. 105.<0x0A>Herolt Joh.; Sermones discipuli, 229.<0x0A>1497.<0x0A>Wann: Sermones de tempore, 487.<0x0A>1497. 25. 7.<0x0A>Lochmeyer Mich.: Sermones de sanctis. 286.<0x0A>1497. 27. 7.<0x0A>Michael de Hungaria: Sermones de sanctis. 323.<0x0A>105<0x0A>1497. 13. 11.<0x0A>Summenhart Conr.: De decimis, 444.<0x0A>1497. 23. 11.<0x0A>Valescus de Tarenta: De epidemia et peste, 473.<0x0A>1498. 22. 1.<0x0A>Michael de Hungaria: Sermones dominicales. 318.<0x0A>1498. 16. 2.<0x0A>Guilelmus Parisiensis: Super passione Christi. 214.<0x0A>1498. 22. 3.<0x0A>Alexander de Villa Dei: Doctrinale. 3a et 4a pars.<0x0A>19.<0x0A>1498. 2. 5.<0x0A>Pelbartus: Sermones Coronae B. Virginis. 378.<0x0A>1498. 27. 7.<0x0A>Pelbartus: Sermones Pommerii. 372.<0x0A>1498. 20. 8.<0x0A>Lochmeyer Mich.: Parochiale. 285.<0x0A>1499. 20. 2.<0x0A>Pelbartus: Pars aestivalis sermonum Pommerii.<0x0A>375.<0x0A>1499. 20. 2.<0x0A>Pelbartus: Sermones Pommerii: 373.<0x0A>1499. 11.5.<0x0A>Sünzel Frid.: Collecta in VIII libros Physicorum<0x0A>Aristotelis. 445.<0x0A>1499. 14. 7.<0x0A>Michael de Hungaria: Sermones de sanctis. 324.<0x0A>1499. 28. 9.<0x0A>Michael de Hungaria: Sermones dominicales. 319.<0x0A>1499. 10. 11.<0x0A>Pelbartus: Sermones quadragesimales Pommerii.<0x0A>376.<0x0A>1500.<0x0A>Bernardinus de Bustis: Rosarium sermonum. 74.<0x0A>1500.<0x0A>Lochmeyer Mich.: Sermones de sanctis. 287.<0x0A>1500. 22. 2.<0x0A>Pelbartus: Sermones Pommerii. 374.<0x0A>1500. 2. 3.<0x0A>Exercitium puerorum grammaticale, 165.<0x0A>1500. 11. 4.<0x0A>1500. 10. 7.<0x0A>Acta Constantiensis concilii. 3.<0x0A>Pelbartus: Sermones quadragesimales Pommerii.<0x0A>377.<0x0A>1500. 13. 10.<0x0A>Summenhart Conr.: De contractibus. 443.<0x0A>STRASBOURG<0x0A>(Imprimeur du) Henricus ARIMINENSIS<0x0A>[vers 14691.<0x0A>Thomas de Aquino: de veritate fidei catholicae.<0x0A>453.<0x0A>[avant 14721.<0x0A>Henricus Ariminensis: De 4 virtutibus cardinali¬<0x0A>bus. 217.<0x0A>(avant 1473).<0x0A>Caracciolus : De poenitentia. 121.<0x0A>[vers 1473/4).<0x0A>Bonaventura: Breviloquium. 104.<0x0A>[pas après<0x0A>le 9. V. 1474). Astesanus: Summa de casibus conscientiae. 44a.<0x0A>[pas après 1474). Augustinus S.: De Trinitate. 60.<0x0A>(pas après 1474l. Bernardinus Senensis: De contractibus et usu¬<0x0A>ris. 75.<0x0A>[vers 1475).<0x0A>[vers 14751.<0x0A>Auerbach: Summa de sacramentis, 46.<0x0A>Petrus Comestor: Historia scholastica. 384.<0x0A>[vers 14761.<0x0A>Albertanus Causidicus: De doctrina dicendi et<0x0A>tacendi. 6.<0x0A>[vers 14761.<0x0A>Augustinus (Pseudo): Prolocutionis liber. 57.<0x0A>(vers 1476/8). Chaimis Barth: Interrogatorium. 130.<0x0A>106<0x0A>[vers 1476).<0x0A>Tractatus de Judaeorum et Christianorum com¬<0x0A>1477.<0x0A>munione, 461.<0x0A>[vers 1477).<0x0A>Tusch Hans Erh.: Burgundische Historie, 469.<0x0A>Nicolaus: De proeliis et occasu ducis Burgundiae.<0x0A>[vers 1478).<0x0A>Gruner Vinc.: Expositio officii missae. 199.<0x0A>333.<0x0A>(avant 1480)<0x0A>s. d.<0x0A>Marchesinus Joh.: Mammotrectus. 297.<0x0A>s. d.<0x0A>Gruner Vinc.: Expositio officii missae, 198.<0x0A>s. d.<0x0A>Hugo de S. Victore: Didascalion. 243.<0x0A>s. d.<0x0A>Petrus Lombardus: Sententiarum libri IV. 391.<0x0A>s. d.<0x0A>Psalterium latino-germanicum. 404.<0x0A>Tractatus de contractibus et vitaliciis, 459.<0x0A>ATTENDORN Pierre<0x0A>[après le 25. 10.<0x0A>14891.<0x0A>Directorium statuum. 148.<0x0A>[vers 1495]<0x0A>BRANT Mathias<0x0A>Wimpheling: Elegantiarum medulla. 490.<0x0A>(Imprimeur) CIVIS C. W.<0x0A>1473.<0x0A>Zacharias Chrysopolitanus: Concordantia evan¬<0x0A>[vers 1473).<0x0A>geliorum. 496.<0x0A>1474. 7. 10.<0x0A>Hugo de S. Victore: Soliloquium, 245.<0x0A>Ivers 14741.<0x0A>Berchorius: Liber Bibliae moralis. 71.<0x0A>Alanus ab Insulis: Distinctiones dictionum theo¬<0x0A>logicalium. 5.<0x0A>(Imprimeur des) CASUS BREVES (= G. HUSNER)<0x0A>1493.<0x0A>Michael de Dalen: Casus breves decretalium.<0x0A>[vers 1493/4).<0x0A>317.<0x0A>Augustinus (Pseudo); Sermones ad heremitas.<0x0A>[vers 1494).<0x0A>59<0x0A>1494.<0x0A>Albertus Magnus: De Eucharistiae sacramento. 15.<0x0A>Michael de Hungaria: Sermones praedicabiles.<0x0A>322.<0x0A>DUMBACH. Voir: Ruch de Dumbach<0x0A>EGGESTEIN Henri<0x0A>Ipas après<0x0A>le 24. 5. 1466). Biblia latina, 84.<0x0A>[vers 1468).<0x0A>Gregorius IX: Decretales, 195.<0x0A>107<0x0A>[vers 1468/707. Biblia latina. 85.<0x0A>[pas après 1470). Biblia germanica. 91.<0x0A>[vers 1470).<0x0A>Clemens V: Constitutiones. 132.<0x0A>[vers 1470/21.<0x0A>Bonifacius VIII: Liber sextus Decretalium, 108.<0x0A>1471. 21. 11.<0x0A>Clemens V: Constitutiones, 133.<0x0A>1471.<0x0A>Gratianus: Decretum. 189.<0x0A>Ivers 1471

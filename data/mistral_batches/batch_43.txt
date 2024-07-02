@@ -1,0 +1,64 @@
+Extrait en un fichier JSON les entités nommées B-PER, I-PER, B-DATE, I-DATE, B-LOC, I-LOC selon l'exemple :
+Exemple =  "HANNENBEIN, Georg . Voir: LIED (Neu Klaglied der Bauern) n° 340.
+PETRUS DE CRESCENTIS
+( WUERFELBUCH ]
+ Strasbourg , ( Christian Egenolff ), 1529 
+ Marque typ. de Chris. Egenolff. Anno M. D. LXXXII 
+ Stadtbibl. Strassburg 1192". 
+
+Réponse = 
+[
+[{'entity': 'B-PER',
+   'word': 'HANNENBEIN',
+},
+  {'entity': 'I-PER',
+   'word': ',',
+},
+  {'entity': 'I-PER',
+   'word': 'Georg',
+},
+],[
+{'entity': 'B-PER',
+   'word': 'PETRUS',
+},
+{'entity': 'I-PER',
+'word': 'DE',
+},
+{'entity': 'I-PER',
+'word': 'CRESCENTIS',
+},
+],[
+{
+'entity':'B-LOC', 
+'word': 'Strasbourg',
+},
+],[
+{
+'entity': 'B-PER',
+'word': 'Christian'
+},
+{
+'entity':'I-PER',
+'word': 'Egenolff'
+},
+],[
+{'entity': 'B-DATE',
+'word': '1529'},
+],[
+{'entity':'B-PER',
+'word': 'Chris.'},
+{'entity': 'I-PER',
+'word': 'Egenolff'},
+],[
+{'entity':'B-DATE',
+'word': 'M.'},
+{'entity': 'I-DATE', 
+'word': 'D.'},
+{'entity':'I-DATE',
+'word': 'LXXXII'},
+],[
+{'entity': 'B-LOC',
+'word': 'Strassburg'}
+]
+]
+Maintenant, extrait en JSON les entités nommées des phrases suivantes :: Berlin 2412.<0x0A>K 3786. Prov.: Don de Fid. Butsch fils, Augsbourg, 1871. A<0x0A>la suite de Formularium, Memmingen, Alb. Kuhn, s. d. K 1642.<0x0A>485<0x0A>Vocabularius utriusque juris. Strasbourg, (Georg Husner),<0x0A>27 mai, 1500, in-fol.<0x0A>Proctor 748.<0x0A>K 3790. Prov.: Don du prof. Witte, Halle, 1872. Au dessus du<0x0A>titre: «Jeronimus Schersnin (?) ad meyningenn (?) est posses¬<0x0A>sor huius libri.»<0x0A>486<0x0A>VORAGINE. Voir: Jacobus de Voragine.<0x0A>WANN PAULUS: Sermones de tempore. Haguenau, H. Gran,<0x0A>1497, in-fol.<0x0A>Hain 16145, Madsen 4225, Pellechet: Colmar 1379, Proctor 3191,<0x0A>Voulliéme: Berlin 1175, 8.<0x0A>K 3794. Prov.: Don de la ville de Heilbronn, 1872. Rel. anc.<0x0A>487<0x0A>WANN PAULUS: Voir Lochmeyer: Sermones de sanctis,<0x0A>cum viginti sermonibus magistri Pauli Wann annexis.<0x0A>Haguenau, H. Gran, 1500, N° 289.<0x0A>WIMPHELING JAÇORUS: Adolescentia. Strasbourg, Martin<0x0A>Flach, 27 août 1500, in-4°.<0x0A>Hain 16190, Proctor 718, Kristeller 493, Schmidt VI, 78, Schrei¬<0x0A>ber 5471, Voulliéme: Berlin 2510, Walter; Sélestat 527.<0x0A>Schramm, Bilderschmuck XX, grav. N° 1687-1689.<0x0A>K 3826. Prov.; B N Munich, 15. XII. 1879, 0,50 M. Notes mss.<0x0A>488<0x0A>WIMPHELING JACOBUS: Agatharchia. Strasbourg, Martin<0x0A>Schott, 21 nov. 1498, in-4°.<0x0A>Hain 16169, Madsen 4230, Proctor 411, Schmidt II, 16, Voul¬<0x0A>liéme: Berlin 2238, 5, Schreiber 5472, Walter: Sélestat 516<0x0A>et 517; Schramm, Bilderschmuck XIX, grav. N° 887.<0x0A>K 3808. Prov.; Bibliothèque Ch. Schmidt, Strasbourg, 10. IV.<0x0A>1895.<0x0A>489<0x0A>102<0x0A>WIMPHELING JACOBUS: Elegantiarum medulla. Strasbourg,<0x0A>Matthias Brant, (vers 1495), in-4°.<0x0A>Copinger 6577, Madsen 4236, Proctor 766 (met anno 1500 avec<0x0A>point d’interrogation), Schmidt IV, p. 13, N° 2, Voulliéme:<0x0A>Berlin 2563, 12, Walter, Sélestat 515.<0x0A>K 3807. Prov.: Bibliothèque Ch. Schmidt, avec son exlibris à<0x0A>l’intérieur du 1er plat, Strasbourg, 10. IV. 1895. Au recto du<0x0A>f. de garde, annotation de la main de Ch. Schmidt: «Un des<0x0A>rares exemplaires de l’une des deux seules impressions que<0x0A>l’on connaisse de Math. Brant.» Notes mss. dans le texte.<0x0A>490<0x0A>WIMPHELING JAÇOBUS: Elegantiarum medulla. (Strasbourg,<0x0A>J. Grüninger, 1498), in-4°.<0x0A>Hain 16164, Proctor 505, Schmidt I, 37: Bâle, Schreiber 5477,<0x0A>Voulliéme: Berlin 2334, Walter; Sélestat 514.<0x0A>Schramm, Bilderschmuck XX, grav. N° 1026.<0x0A>K 3805. Prov.: Don de J. Baer 8 Co., Francfort-s.-M., 27. X.<0x0A>1881. Notes mss.<0x0A>491<0x0A>WIMPHELING JAÇOBUS: Hecatosticon ad illustrissimum Prin¬<0x0A>cipem Eberhardum wyrtenbergensem. Strasbourg,<0x0A>J. Prüss, 1495, in-4°.<0x0A>Hain 16184, Madsen 4232, Polain: Belgique 4044, Proctor 551,<0x0A>Schmidt III, 26, Schreiber 5480, Schramm, Bilderschmuck XX,<0x0A>grav. N° 1237.<0x0A>K 3821. Prov.: Albert Cohn, Berlin (Catal. 135, N° 21), 1. V.<0x0A>1879, 8 M.<0x0A>492<0x0A>WIMPHELING JAÇOBUS: Isidoneus Germanicus. (Strasbourg,<0x0A>J. Grüninger, vers 1500), in-4°.<0x0A>Hain 16178, Madsen 4238, Proctor 507, Schmidt I, 33, Schrei¬<0x0A>ber 5481, Voulliéme: Berlin 2333, Pellechet: Colmar 1375,<0x0A>Walter: Sélestat 520 et 521; Schramm, Bilderschmuck XX,<0x0A>grav. N° 1027.<0x0A>K 3816. Prov.: Bibliothèque Böcking. Notes mss. au f. de garde:<0x0A>Freytag, Appar. litterar. I, p. 182; Riegger Amoenit. Fribourg,<0x0A>p. 185. Editionem Argentor. 1497, in 4° describitur Freytag<0x0A>in Annalect. literar. p. 1098. Vgl. Hain 16177 ff.»<0x0A>493<0x0A>103<0x0A>WIMPHELING JACOBUS: Philippica. Strasbourg, Martin<0x0A>Schott, 19 nov. 1498, in-4°.<0x0A>Hain 16186, Madsen 4241, Proctor 410, Schmidt II, 15, Schrèi¬<0x0A>ber 5483, Voullième: Berlin 2240, Walter: Sélestat 523 et 524.<0x0A>K 3823. Prov.: Don de la ville de Heilbronn, 1871. A l'intérieur<0x0A>du 1er plat: (Riegger) Amoenitates Friburg, p. 190, n° 16.<0x0A>Hain 16186.<0x0A>494<0x0A>WOLFRAM VON ESCHENBACH: Titurell. (Strasbourg, J. Men¬<0x0A>telin, 1477), in-fol.<0x0A>Hain 6683, Copinger 6883, Proctor 217, Voulliéme; Ber¬<0x0A>lin 2086, Schorbach: Mentelin N° 40.<0x0A>K 3838. Prov.: Don de M. Klemm. Au haut du titre: «Aus der<0x0A>ersten Ausgabe des Parsival u. Titurel von Wolfram von<0x0A>Eschenbach.» 1 f. seulement dont le texte commence: vache<0x0A>herte, en bas: «Vil rein ee sel vnd leib von einander<0x0A>scheyde.» Au verso, en haut: Von all ir schiff gereyte; en bas:<0x0A>Dawaren an ir weise. Do si nz d’wag.<0x0A>495<0x0A>ZACHARIAS Chrysopolitanus: Concordantia Evangeliorum.<0x0A>(Strasbourg, civis C. W.), 1473, in-fol.<0x0A>Hain 5023, Madsen 1129, Pellechet 3582, Proctor 339, Voul¬<0x0A>liéme; Bonn 1234 (met pour civis C. W. = Clas Wencker?).<0x0A>K 1165. Prov.: Abbé Cromer, curé à Saverne, 23 VIII. 1879.<0x0A>Notes mss. Rel. anc.<0x0A>2e ex. K 1165a. Prov.: Bibl. Ed. Reuss, Strasbourg 1891 avec<0x0A>exlibris et autographe de Reuss à l’intérieur du 1er plat, où<0x0A>il y a en outre la note mss. suivante de Reuss: Ex libris<0x0A>F. Buschii 1856, frs. 62. Rel, anc. Incomplet.<0x0A>496<0x0A>104<0x0A>TABLE ALPHABÉTIQUE DES<0x0A>IMPRIMEURS<0x0A>(avec la liste chronologique de leurs ouvrages)<0x0A>HAGUENAU<0x0A>GRAN Henri<0x0A>1489.<0x0A>Johannes de Garlandia: Cornutus. 267.<0x0A>1489.<0x0A>Sequentiarum textus. 432.<0x0A>(2) 1491.<0x0A>Jacobus de Voragine:

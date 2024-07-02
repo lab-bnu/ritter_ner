@@ -1,0 +1,64 @@
+Extrait en un fichier JSON les entités nommées B-PER, I-PER, B-DATE, I-DATE, B-LOC, I-LOC selon l'exemple :
+Exemple =  "HANNENBEIN, Georg . Voir: LIED (Neu Klaglied der Bauern) n° 340.
+PETRUS DE CRESCENTIS
+( WUERFELBUCH ]
+ Strasbourg , ( Christian Egenolff ), 1529 
+ Marque typ. de Chris. Egenolff. Anno M. D. LXXXII 
+ Stadtbibl. Strassburg 1192". 
+
+Réponse = 
+[
+[{'entity': 'B-PER',
+   'word': 'HANNENBEIN',
+},
+  {'entity': 'I-PER',
+   'word': ',',
+},
+  {'entity': 'I-PER',
+   'word': 'Georg',
+},
+],[
+{'entity': 'B-PER',
+   'word': 'PETRUS',
+},
+{'entity': 'I-PER',
+'word': 'DE',
+},
+{'entity': 'I-PER',
+'word': 'CRESCENTIS',
+},
+],[
+{
+'entity':'B-LOC', 
+'word': 'Strasbourg',
+},
+],[
+{
+'entity': 'B-PER',
+'word': 'Christian'
+},
+{
+'entity':'I-PER',
+'word': 'Egenolff'
+},
+],[
+{'entity': 'B-DATE',
+'word': '1529'},
+],[
+{'entity':'B-PER',
+'word': 'Chris.'},
+{'entity': 'I-PER',
+'word': 'Egenolff'},
+],[
+{'entity':'B-DATE',
+'word': 'M.'},
+{'entity': 'I-DATE', 
+'word': 'D.'},
+{'entity':'I-DATE',
+'word': 'LXXXII'},
+],[
+{'entity': 'B-LOC',
+'word': 'Strassburg'}
+]
+]
+Maintenant, extrait en JSON les entités nommées des phrases suivantes :5.<0x0A>Gitzler 112.<0x0A>Kenda 351, 402.<0x0A>Gœttingue 26, 41, 48, 50, 68, 76,<0x0A>Kettner 333.<0x0A>131, 167, 217, 225, 264, 284,<0x0A>Klemm 86, 200, 495.<0x0A>326, 437, 479.<0x0A>Kliensieck (Paris) 448.<0x0A>Griseldis 379.<0x0A>Klüpfel 117.<0x0A>Groschan Théob. 334.<0x0A>Koberger 87.<0x0A>Gross-Strenz 89.<0x0A>Koch 21.<0x0A>Guillon Abbé 146.<0x0A>Kœnigsberg 73, 74.<0x0A>Günther 365.<0x0A>Krener 102, 244, 274.<0x0A>Gw I, 3, 5-30, 32-64, 66-82, 84 à<0x0A>Kristeller 236, 268, 280, 288, 349,<0x0A>111, 113-116, 118-126, 129-149,<0x0A>388, 389, 396, 397, 420, 425,<0x0A>463, 464; Additions; 150-159.<0x0A>481, 488.<0x0A>Hæbler 277.<0x0A>Hain (Voir: Liste des n°s de<0x0A>La Haye 134.<0x0A>Hain, p. 129-131).<0x0A>Laire 54.<0x0A>Halle 96, 109, 276, 329, 399, 419,<0x0A>Lange F. A. 300.<0x0A>486.<0x0A>Langheim 169.<0x0A>Halm 46, 53, 404.<0x0A>La Place Charles 235.<0x0A>Harrassowitz 45, 114, 162, 269,<0x0A>La Vallière 114.<0x0A>272, 307.<0x0A>Leipzig 12a, 45, 110, 114, 135,<0x0A>Hartmann 204.<0x0A>162. 169, 177, 241, 269, 272,<0x0A>Haselbach 455.<0x0A>293, 306, 307, 330, 347, 365,<0x0A>Haslach 204.<0x0A>369, 450, 474.<0x0A>Haugg 252, 322, 394.<0x0A>Leser J. M. 280, 389.<0x0A>Hayden Léonard 308.<0x0A>Liesborn 386.<0x0A>Heberle J. M. 424.<0x0A>Lindner (Libr. Strasbourg) 104.<0x0A>124<0x0A>Munich 10, 46, 53, 100, 117, 163,<0x0A>Lipowski 178.<0x0A>277, 325, 365, 383, 404, 414,<0x0A>Lippert 109, 399.<0x0A>List 12a, 135, 347, 469.<0x0A>462, 472, 476.<0x0A>Londres 277, 354, 355. (Voir<0x0A>Munich: Bibl. Nat. 3, 5, 12, 15,<0x0A>aussi: Proctor: Londres.)<0x0A>19, 25, 27, 29, 31, 32, 35-38,<0x0A>42-44. 47, 52, 56, 58-63, 70,<0x0A>Lörch Mich. 204.<0x0A>Lorquin 397.<0x0A>72, 75, 79, 80, 82, 84, 85, 93,<0x0A>101, 103, 105, 107, 108, 128,<0x0A>Lœscher 77.<0x0A>Lucilius 429.<0x0A>129, 133, 137, 138, 141, 144,<0x0A>Madsen 5-7, 10-13, 20-23, 27-30,<0x0A>153, 157, 158, 160, 161, 164 à<0x0A>166, 168, 173, 176, 178, 181,<0x0A>32-37, 39, 40, 43, 46, 47, 50-52,<0x0A>184, 186, 187, 194, 199, 202-205,<0x0A>54, 56, 58-61, 64, 66-70, 72,<0x0A>207-210. 212. 215, 219-222,<0x0A>75-83, 89-91, 94, 97, 102, 103,<0x0A>106, 114, 115, 118, 119, 125,<0x0A>226-228, 230, 231, 234, 240,<0x0A>242. 243, 249, 257, 262, 265,<0x0A>126, 131, 135, 136, 138, 141 à<0x0A>143, 145, 147, 148, 154, 157,<0x0A>281-283, 316, 341-343, 367.<0x0A>160, 161, 163, 167, 176, 178,<0x0A>368, 380, 384, 385, 387, 390,<0x0A>395, 401, 408, 410, 432-435,<0x0A>179, 181, 183-187, 190, 191, 193<0x0A>à 195, 197, 199, 201, 202, 206,<0x0A>446, 465, 476, 488.<0x0A>211. 215, 216, 220, 233, 235,<0x0A>Munster (Westph.) 386.<0x0A>244, 246, 249, 251, 253, 254,<0x0A>256, 258, 259, 262-265, 269,<0x0A>Neofori (Neumarkt) 384.<0x0A>270, 272, 275, 282-284, 286, 290,<0x0A>Neuburg 140.<0x0A>292, 293, 296-298, 302, 303,<0x0A>Neumarkt 384.<0x0A>305, 314. 316, 321, 327-329,<0x0A>337, 339, 340, 342, 345-348, 350,<0x0A>Neustadt a. M. 225.<0x0A>New-York 477.<0x0A>353, 354, 356, 358, 361, 362,<0x0A>365, 367, 371, 378, 379, 381 à<0x0A>Nibling Marc 409.<0x0A>Niedernburg 204.<0x0A>383. 385, 386, 395, 398-402,<0x0A>405-407, 411, 414, 416, 417,<0x0A>Nijhoff 134.<0x0A>Noiriel (Libr. Strasbourg) 13,<0x0A>419, 421, 423, 426, 429, 434,<0x0A>16-18, 30, 33, 34, 64, 140, 148,<0x0A>436, 440, 441, 445, 447-449,<0x0A>382, 383.<0x0A>453-456, 460, 463, 466-468, 472,<0x0A>Nördlingen 9, 11, 145, 216, 295,<0x0A>475, 480, 482, 487, 489, 490,<0x0A>302, 317, 371, 411.<0x0A>492-494, 496.<0x0A>Northorn

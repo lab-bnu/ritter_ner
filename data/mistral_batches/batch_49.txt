@@ -1,0 +1,64 @@
+Extrait en un fichier JSON les entités nommées B-PER, I-PER, B-DATE, I-DATE, B-LOC, I-LOC selon l'exemple :
+Exemple =  "HANNENBEIN, Georg . Voir: LIED (Neu Klaglied der Bauern) n° 340.
+PETRUS DE CRESCENTIS
+( WUERFELBUCH ]
+ Strasbourg , ( Christian Egenolff ), 1529 
+ Marque typ. de Chris. Egenolff. Anno M. D. LXXXII 
+ Stadtbibl. Strassburg 1192". 
+
+Réponse = 
+[
+[{'entity': 'B-PER',
+   'word': 'HANNENBEIN',
+},
+  {'entity': 'I-PER',
+   'word': ',',
+},
+  {'entity': 'I-PER',
+   'word': 'Georg',
+},
+],[
+{'entity': 'B-PER',
+   'word': 'PETRUS',
+},
+{'entity': 'I-PER',
+'word': 'DE',
+},
+{'entity': 'I-PER',
+'word': 'CRESCENTIS',
+},
+],[
+{
+'entity':'B-LOC', 
+'word': 'Strasbourg',
+},
+],[
+{
+'entity': 'B-PER',
+'word': 'Christian'
+},
+{
+'entity':'I-PER',
+'word': 'Egenolff'
+},
+],[
+{'entity': 'B-DATE',
+'word': '1529'},
+],[
+{'entity':'B-PER',
+'word': 'Chris.'},
+{'entity': 'I-PER',
+'word': 'Egenolff'},
+],[
+{'entity':'B-DATE',
+'word': 'M.'},
+{'entity': 'I-DATE', 
+'word': 'D.'},
+{'entity':'I-DATE',
+'word': 'LXXXII'},
+],[
+{'entity': 'B-LOC',
+'word': 'Strassburg'}
+]
+]
+Maintenant, extrait en JSON les entités nommées des phrases suivantes :89.<0x0A>Gerson: Opera. 180.<0x0A>Praecordiale devotorum, 401.<0x0A>1489.<0x0A>Thomas a Kempis: De imitatione Christi, 457.<0x0A>1490.<0x0A>Herolt Joh.: De eruditione Christi fidelium. 220.<0x0A>1490.<0x0A>1490.<0x0A>Johannes de Garlandia: Composita verborum. 266.<0x0A>Praecordiale devotorum. 402.<0x0A>1149021.<0x0A>Registrum ecclesiae Argentinensis. 409.<0x0A>[vers 149021.<0x0A>Rolewinck Werner: Fasciculus temporum. 418.<0x0A>1490. 3. 12.<0x0A>Caracciolus: De peccatis. 123.<0x0A>(après 14901.<0x0A>Rolewinck Werner; Fasciculus temporum, 419.<0x0A>1491. 6. 3.<0x0A>Boëthius: De consolatione philosophiae. 97.<0x0A>[vers 1492).<0x0A>Innocentius VIII: Regulae cancellariae apostoli¬<0x0A>cae. 248.<0x0A>(14922 27. 101.<0x0A>Rolewinck Werner: Cronica. 420.<0x0A>1493.<0x0A>Berberius; Viatorium utriusque juris. 70.<0x0A>[après le 10. 3. Geissler: Rhetorik und Briefformular. 178.<0x0A>14931.<0x0A>1495.<0x0A>Wimpheling: Carmen heroicum. 492.<0x0A>[après le 10. 9. Brant: De monstruoso partu. 113.<0x0A>1495).<0x0A>[vers 14981.<0x0A>Casus longi super institutis. 128.<0x0A>11499. 8. 21.<0x0A>Viola sanctorum. 481.<0x0A>1499. 14. 3.<0x0A>Synthen Joh.: Dicta super la et 2a parte Alexan¬<0x0A>dri. 446.<0x0A>[vers 1500)<0x0A>Cassiodorus: Historia eccl. tripartita. 126.<0x0A>s. d.<0x0A>Brant: Richterlich Klagspiegel. 112.<0x0A>s. d.<0x0A>Casus longi super institutis, 127.<0x0A>s. d.<0x0A>Hemmerlin: Variae oblectationis opuscula. 215.<0x0A>s. d.<0x0A>Hemmerlin: De nobilitate et rusticitate. 216.<0x0A>s. d.<0x0A>Nicolaus Falcutius: Antidotarius. 344.<0x0A>117<0x0A>s. d.<0x0A>s. d.<0x0A>1497.<0x0A>Seneca: Proverbia. 431.<0x0A>Statuta provincialia. 442.<0x0A>RUCH DE DUMBACH Frédéric<0x0A>Missale Warmiense. 325.<0x0A>Imprimeur R (— Ad. RUSCH)<0x0A>[avant le 20. 7.<0x0A>14671.<0x0A>Rabanus Maurus: De sermonum proprietate. 405.<0x0A>[vers 1469).<0x0A>Dionysius de Burgo: Commentarii in Valerium<0x0A>Maximum. 147 (pas après 1475).<0x0A>[vers 1469).<0x0A>Magni Jac.: Sophologium. 293.<0x0A>[vers 1470).<0x0A>Balbus: Catholicon, 63.<0x0A>[vers 14701.<0x0A>Pius II (Papa): Epistolae familiares. 395.<0x0A>[vers 1470).<0x0A>Plutarchus: Vitae virorum illustrium. 398.<0x0A>[vers 1470).<0x0A>Vincentius Bellovacensis: Speculum naturale. 479.<0x0A>[vers 14721.<0x0A>Vincentius Bellovacensis: Speculum doctrinale.<0x0A>Lavant 14731.<0x0A>475.<0x0A>Avicenna: Canonis libri V. 62.<0x0A>(pas après 1473]. Petrarca: Secretum de contemptu mundi. 381.<0x0A>[vers 1475).<0x0A>Bollanus: De conceptione B. V. Mariae. 101.<0x0A>[vers 14751.<0x0A>Silvaticus: Pandectae medicinae. 437.<0x0A>s. d.<0x0A>Durandus: Rationale divinorum officiorum. 150.<0x0A>s. d.<0x0A>Dondi: Aggregator Paduanus de medicinis sim¬<0x0A>plicibus. 149.<0x0A>s. d.<0x0A>Herolt Joh.: Sermones discipuli. 222.<0x0A>s. d.<0x0A>Magni Jac.: Sophologium. 292.<0x0A>d.<0x0A>Modus legendi abbreviaturas. 326.<0x0A>s. d.<0x0A>Seneca: Epistolae ad Lucilium. 429.<0x0A>s. d.<0x0A>Vincentius Bellovacensis: Speculum historiale.<0x0A>417.<0x0A>RUSCH Adolphe<0x0A>Tavant 1470). Biblia latina. 86.<0x0A>[peu après<0x0A>le 23. 9. 1481). Biblia latina. 87.<0x0A>1498.<0x0A>118<0x0A>SCHAFFENER Guillaume<0x0A>Hortulus animae. 237.<0x0A>SCHOTT Jean<0x0A>1500.<0x0A>Ackermann von Böhmen: Red. u. Widerred eins<0x0A>ackermanns. 2.<0x0A>1500. 21. 3.<0x0A>Otto von Passau: Die vierundzwanzig Alten, 350.<0x0A>1500. 31. 8.<0x0A>Boëthius: De consolatione philosophiae (en alle¬<0x0A>mand). 98.<0x0A>1500. 4. 11.<0x0A>1500. 24. 12.<0x0A>Exceptiones legum Romanorum. 163.<0x0A>Schott Petrus: De mensuris syllabarum, 427.<0x0A>SCHOTT Martin<0x0A>[pas avant 1481). Albertus Magnus: Compendium theologicae veri¬<0x0A>tatis. 7.<0x0A>1483. 18.8.<0x0A>Plenarium (en allemand). 397.<0x0A>1483. 6. 11.<0x0A>Otto von Passau: Die vierundzwanzig Alten. 349.<0x0A>1485. 3. 9.<0x0A>Caracciolus: Sermones de poenitentia. 125.<0x0A>[vers 1485).<0x0A>Caracciolus: Sermones per Adventum. 124.<0x0A>Albertus Magnus: Mariale. 12.<0x0A>[vers 1485/9).<0x0A>1487. 128. 61.<0x0A>Maneken Carolus: Formulae epistolarum. 295.<0x0A>1490.<0x0A>Augustinus [Pseudo): Canones, 50.<0x0A>1498, 2. 10.<0x0A>Schott Petrus: Lucubratiunculae. 426.<0x0A>1498. 12. 10.<0x0A>Matheolus Perusinus: De memoria augenda. 307.<0x0A>1498. 19. 11.<0x0A>Wimpheling: Philippica. 494.<0x0A>1498. 21. 11.<0x0A>Wimpheling: Agatharchia. 489.<0x0A>s. d.<0x0A>Gesta Romanorum. 183.<0x0A>(Imprimeur des) VITAS PATRUM<0x0A>1483.<0x0A>Paludanus: Sermones thesauri novi de tempore.<0x0A>360.<0x0A>Marchesinus Joh.; Mammotrectus, 296.<0x0A>114831.<0x0A>Hieronymus S.: Vitae patrum. 232.<0x0A>1483. 7. 3.<0x0A>1484.<0x0A>Paludanus: Sermones thesauri novi de tempore.<0x0A>361.<0x0A>1485.<0x0A>Paludanus: Sermones thesauri novi de sanctis.<0x0A>354.<0x0A>[vers 1485).<0x0A>Accursius: Casus in terminis super novem libris<0x0A>Justiniani codicis. 1.<0x0A>[vers 14851.<0x0A>Columna: Historia destructionis Trojae. 134.<0x0A>[vers 1485).<0x0A>Corona Beatae Mariae Virginis. 142.<0x0A>1486.<0x0A>Paludanus: Sermones thesauri novi de sanctis.<0x0A>355.<0x0A>1486. 9. 10.<0x0A>Gritsch Joh.: Quadragesimale, 196.<0x0A>IMPRIMEURS INCONNUS<0x0A>Herolt Joh.: Sermones discipuli, 223.<0x0A>Herolt Joh.: Sermones discipuli, 226.<0x0A>1483.<0x0A>1489.<0x0A>119<0x0A>1492.<0x0A>Bernardus (Pseudo!: Meditationes de interiori<0x0A>homine. 77<0x0A>[vers 1500).<0x0A>Melber Joh.: Vocabularius praedicantium. 313.<0x0A>s. d.<0x0A>Guido de Monte Rotherii: Manipulus curatorum.<0x0A>200<0x0A>Petrarca: De remediis utriusque fortunae. 380.<0x0A>4.<0x0A>d.<0x0A>Pharetra fidei contra Judaeos. 394

@@ -1,0 +1,64 @@
+Extrait en un fichier JSON les entités nommées B-PER, I-PER, B-DATE, I-DATE, B-LOC, I-LOC selon l'exemple :
+Exemple =  "HANNENBEIN, Georg . Voir: LIED (Neu Klaglied der Bauern) n° 340.
+PETRUS DE CRESCENTIS
+( WUERFELBUCH ]
+ Strasbourg , ( Christian Egenolff ), 1529 
+ Marque typ. de Chris. Egenolff. Anno M. D. LXXXII 
+ Stadtbibl. Strassburg 1192". 
+
+Réponse = 
+[
+[{'entity': 'B-PER',
+   'word': 'HANNENBEIN',
+},
+  {'entity': 'I-PER',
+   'word': ',',
+},
+  {'entity': 'I-PER',
+   'word': 'Georg',
+},
+],[
+{'entity': 'B-PER',
+   'word': 'PETRUS',
+},
+{'entity': 'I-PER',
+'word': 'DE',
+},
+{'entity': 'I-PER',
+'word': 'CRESCENTIS',
+},
+],[
+{
+'entity':'B-LOC', 
+'word': 'Strasbourg',
+},
+],[
+{
+'entity': 'B-PER',
+'word': 'Christian'
+},
+{
+'entity':'I-PER',
+'word': 'Egenolff'
+},
+],[
+{'entity': 'B-DATE',
+'word': '1529'},
+],[
+{'entity':'B-PER',
+'word': 'Chris.'},
+{'entity': 'I-PER',
+'word': 'Egenolff'},
+],[
+{'entity':'B-DATE',
+'word': 'M.'},
+{'entity': 'I-DATE', 
+'word': 'D.'},
+{'entity':'I-DATE',
+'word': 'LXXXII'},
+],[
+{'entity': 'B-LOC',
+'word': 'Strassburg'}
+]
+]
+Maintenant, extrait en JSON les entités nommées des phrases suivantes :1<0x0A>9<0x0A>ASTESANUS DE AST: Summa de casibus conscientiae. (Stras¬<0x0A>bourg, J. Mentelin, pas après 1469), in-2°.<0x0A>G W 2749, Hain 1888, Pellechet 1401, Pellechet: Colmar 186,<0x0A>Proctor 207, Schorbach: Mentelin N° 12.<0x0A>K 388. Prov.; BN Munich, 16. XII. 1879, 12 M.<0x0A>42<0x0A>ASTESANUS DE AST: Summa de casibus conscientiae. [Stras¬<0x0A>bourg, J. Mentelin, pas après 1473), in-fol.<0x0A>G W 2750, Hain 1889, Madsen 364, Pellechet: Colmar 187,<0x0A>Proctor 211, Voulliémé: Berlin 2091, Schorbach: Mentelin<0x0A>N° 28.<0x0A>K 389. Prov.: B. N. Munich 16. XII. 1879, 16 M.<0x0A>43<0x0A>ASTESANUS DE AST: Summa de casibus conscientiae. [Stras¬<0x0A>bourg, J. Mentelin, pas après 14731, in-fol.<0x0A>G W 2751, Hain 1890, Pellechet 1402, Pellechet: Colmar 188,<0x0A>Proctor 220, Vouilliéme: Berlin 2092 et 2092a, Walter:<0x0A>Sélestat 39, Madsen 365, Schorbach: Mentelin N° 29.<0x0A>K 390. B N Munich, 16. XII. 1879, 18 M.<0x0A>44<0x0A>ASTESANUS DE AST: Summa de casibus conscientiae. [Stras¬<0x0A>bourg, impr. du H. Ariminensis, pas après le 9 mai<0x0A>1474), in-fol.<0x0A>G W 2752, Hain 1891, Pellechet 1403, Proctor 337, Voulliéme:<0x0A>Berlin 2160, 5.<0x0A>K 391. Prov.: Don des héritiers de Bethmann Hollweg, Berlin,<0x0A>16. V. 1878.<0x0A>44a<0x0A>AUBUSSON PETRUS DE: Relatio de obsidione urbis Rhodiae<0x0A>ad Fridericum Imp. [Strasbourg, H. Knoblochtzer,<0x0A>après le 13 sept. 1480), in-4°.<0x0A>G W 2775, Hain 5922, Proctor 378, Schorbach et Spirgatis<0x0A>N° 23.<0x0A>K 399a. Prov.: O. Harrassowitz, Leipzig, 14. HI. 1889, 45 M.<0x0A>Note mss. sur l’auteur à l’intérieur du premier plat.<0x0A>45<0x0A>AUERBACH JOHANNES DE: Summa de sacramentis. (Stras-<0x0A>bourg, typ. du H. Ariminensis, vers 1475), in-fol.<0x0A>G W 2854, Hain 2123, Madsen 379, Proctor 318, Voulliéme:<0x0A>Berlin 2182.<0x0A>K 488. Prov.: Don du docteur Halm, Munich, 1871. Notes mss.<0x0A>46<0x0A>10<0x0A>AUGUSTINUS AURELIUS : Opuscula plurima. Strasbourg, Mart.<0x0A>Flach, 20 mars 1489, in-fol.<0x0A>G W 2865, Hain 1948, Pellechet 1460, Pellechet: Colmar 197,<0x0A>Madsen 382, Proctor 681, Schmidt V, 21, Voulliéme: Berlin<0x0A>2484; Walter; Sélestat 42.<0x0A>K 410. Prov.; B N Munich, 16. XII. 1879, 8 M.<0x0A>47<0x0A>AUGUSTINUS AURELIUS: Opuscula plurima. Strasbourg, Mart.<0x0A>Flach, 11 août 1491, in-fol.<0x0A>G W 2868, Hain 1950, Pellechet 1462, Pellechet: Colmar 199,<0x0A>Proctor 691, Schmidt VI, 34, Voulliéme: Berlin 2493.<0x0A>K 412 Prov.: Don de la Bibl. Univ. de Gœttingue, 1871. Note<0x0A>mss. au-dessous du titre: Edit. Argentor, 1491 ex Mus. J. C.<0x0A>Olearii.<0x0A>48<0x0A>AUGUSTINUS AURELIUS (Pseudo-): De XII. abusivis saeculi.<0x0A>(Strasbourg, G. Husner, vers 1475), in-fol.<0x0A>G W 2933, Hain 2104, Copinger 769, Pellechet 1588, Voul¬<0x0A>liéme: Berlin 2198.<0x0A>K 481. Prov.; J. Windprecht, Augsbourg, 29. XII. 1872, 1 M. 30.<0x0A>Notes mss.<0x0A>49<0x0A>AUGUSTINUS AURELIUS (Pseudo-): Canones. Strasbourg,<0x0A>Mart. Schott, 1490, in-fol.<0x0A>G W 2937, Hain 2076, Pellechet 1568, Pellechet: Colmar 223,<0x0A>Proctor 403, Schmidt II, 9, Schreiber 3392, Voulliéme: Ber¬<0x0A>lin 2235 et 2235a; Madsen 435.<0x0A>Schramm, Bilderschmuck XIX, grav. N° 879-881.<0x0A>K 468. Prov.: Don de la Bibl. Univ. de Gœttingue, 1871,<0x0A>Rel. anc.<0x0A>50<0x0A>AUGUSTINUS AURELIUS: De Civitate Dei libri XXII. [Stras¬<0x0A>bourg, J. Mentelin, pas après 1468), in-fol.<0x0A>GW 2883, Hain 2056, Madsen 397, Pellechet 1554, Proctor 201,<0x0A>202. Voulliéme: Berlin 2095; Walter: Sélestat 45 et 46, Schor¬<0x0A>bach: Mentelin N° 9.<0x0A>K 461. Prov.: F. Butsch fils, Augsbourg, 21. I. 1875, 375 frs.<0x0A>51<0x0A>11<0x0A>AUGUSTINUS AURELIUS: Confessionum libri XIII. (Stras-<0x0A>bourg. J. Mentelin, pas après 1470), in-fol.<0x0A>G W 2893, Hain 2030, Madsen 406, Pellechet 1536, Proctor 205,<0x0A>Voulliéme: Berlin 2096, Schorbach: Mentelin N° 18.<0x0A>K 451. Prov.; B N Munich, 16. XH. 1879, 15 M<0x0A>52<0x0A>AUGUSTINUS AURELIUS (Pseudo): De conflictu vitiorum ac<0x0A>virtutum. (Strasbourg, G. Husner, vers 1474), in-fol.<0x0A>GW 2939, Hain 2085, Pellechet 1572, Proctor 350, Voulliéme:<0x0A>Berlin 2199.<0x0A>K 475. Prov.: Don du docteur Halm, Munich, 1871. Notes mss.<0x0A>53<0x0A>AUGUSTINUS AURELIUS: Liber de arte praedicandi seu de<0x0A>doctrina christiana. (Strasbourg, J. Mentelin, vers 1466),<0x0A>in-fol.<0x0A>G W 2871, Hain 1956, Madsen 387, Pellechet 1472, Proctor 200,<0x0A>Voulliéme: Berlin 2094, Schorbach: Mentelin N° 6.<0x0A>K 415. Prov.: Don de Fid. Butsch fils, Augsbourg, 1871. Note<0x0A>mss. fol. 1a: «Hoc est primum opus, ex quo Joannem Mente¬<0x0A>lium per industrium artis typographicae propagatorem, ejus¬<0x0A>que characteres novimus, juxta quos opera tam multa aeque,<0x0A>ac magnifica ab ipso impressa dijudicare possumus. Editio<0x0A>haec per vetusta merito Bibliothecarum cimeliis adnumeratur,<0x0A>cum praestantiores Bibliographi altum de ea silentium teneant.<0x0A>V. Braunij Notitiam Historica-Litterariam, Vol. I, pag. 3 et<0x0A>Panzeri Annales Typograph. Vol. I, pag. 67, n° 389. Sunt enim<0x0A>duae hujus editiones. Extat et alia hujus opusculi editio in<0x0A>officina Joh. Fust typis excusa; quae vero editio alteram<0x0A>praecesserit, dubium adhuc est. Cl. La

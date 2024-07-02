@@ -1,0 +1,64 @@
+Extrait en un fichier JSON les entités nommées B-PER, I-PER, B-DATE, I-DATE, B-LOC, I-LOC selon l'exemple :
+Exemple =  "HANNENBEIN, Georg . Voir: LIED (Neu Klaglied der Bauern) n° 340.
+PETRUS DE CRESCENTIS
+( WUERFELBUCH ]
+ Strasbourg , ( Christian Egenolff ), 1529 
+ Marque typ. de Chris. Egenolff. Anno M. D. LXXXII 
+ Stadtbibl. Strassburg 1192". 
+
+Réponse = 
+[
+[{'entity': 'B-PER',
+   'word': 'HANNENBEIN',
+},
+  {'entity': 'I-PER',
+   'word': ',',
+},
+  {'entity': 'I-PER',
+   'word': 'Georg',
+},
+],[
+{'entity': 'B-PER',
+   'word': 'PETRUS',
+},
+{'entity': 'I-PER',
+'word': 'DE',
+},
+{'entity': 'I-PER',
+'word': 'CRESCENTIS',
+},
+],[
+{
+'entity':'B-LOC', 
+'word': 'Strasbourg',
+},
+],[
+{
+'entity': 'B-PER',
+'word': 'Christian'
+},
+{
+'entity':'I-PER',
+'word': 'Egenolff'
+},
+],[
+{'entity': 'B-DATE',
+'word': '1529'},
+],[
+{'entity':'B-PER',
+'word': 'Chris.'},
+{'entity': 'I-PER',
+'word': 'Egenolff'},
+],[
+{'entity':'B-DATE',
+'word': 'M.'},
+{'entity': 'I-DATE', 
+'word': 'D.'},
+{'entity':'I-DATE',
+'word': 'LXXXII'},
+],[
+{'entity': 'B-LOC',
+'word': 'Strassburg'}
+]
+]
+Maintenant, extrait en JSON les entités nommées des phrases suivantes :60, Proctor 591,<0x0A>Voulliéme: Berlin 2402.<0x0A>K 2539. ProVs: F. Butsch, Augsbourg, 26. X. 1885, 12 M.<0x0A>Rel. anc.<0x0A>305<0x0A>MARTYROLOGIUM. Voir: Viola sanctorum.<0x0A>MATHEOLUS PERUSINUS : De memoria augenda. (Strasbourg,<0x0A>H. Knoblochtzer, vers 1480), in-4°.<0x0A>Schorbach & Spirgatis, Knoblochtzer N° 35.<0x0A>K 2552. Prov.: M. Spirgatis, Leipzig, 28. IV. 1894. Au haut du<0x0A>f. ala; «Editio ignota. v. P. IV. 160, N° 792.» Notes mss. 306<0x0A>MATHEOLUS PERUSINUS: De memoria augenda. Strasbourg,<0x0A>Mart. Schott, 12 octobre 1498, in-4°.<0x0A>Hain 10913; Schmidt II, 14; Walter: Sélestat 321.<0x0A>K 2553a. Prov.: O. Harrassowitz, Leipzig, 24. II. 1891, 25 M.<0x0A>307<0x0A>65<0x0A>R.6<0x0A>MECKENLOCHER FRIDER.: Casus in terminis libri sexti decre¬<0x0A>talium. Strasbourg, Mart. Flach, 1490, in-fol.<0x0A>Hain 10983, Proctor 689, Schmidt VI, 30, Voulliéme: Berlin<0x0A>2488.<0x0A>K 2560. Prov.: Don, de Fid. Butsch fils, Augsbourg, 1872. A<0x0A>l'intérieur du 1er plat: «Leonardus Hayden.» Rel. anc. 308<0x0A>MEDIAVILLA. Voir: Richardus de Mediavilla.<0x0A>MELBER JOHANNES: Vocabularius praedicantium. (Stras¬<0x0A>bourg, imprimeur du Jordanus, (— G. Husner), s. d.l,<0x0A>in-4°.<0x0A>Hain 11034, Proctor 645, Voulliéme: Berlin 2471, Walter:<0x0A>Sélestat 326 l’attribue à Martin Flach, Strasbourg.<0x0A>K 2571b. Prov. inconnue. Au haut du titre: Conv. Wimp. Ord.<0x0A>Praed. «Au-dessous: Fr. Georgius St... (illisible) 1551.» 309<0x0A>MELBER JOHANNES: Vocabularius praedicantium. (Stras¬<0x0A>bourg, H. Knoblochtzer), 21 janvier 1482, in-4°.<0x0A>Hain 11038. Pellechet: Colmar 976, Voulliéme: Berlin 2211.<0x0A>Schorbach-Spirgatis, Knoblochtzer N° 13.<0x0A>K 2572a. Prov.: Don du prince de Bentheim, 1872. Au recto<0x0A>du 1er f.: «Hic liber pertinet Johanni Reyser, est possessor<0x0A>hujus libri, Anno 1562.» Notes mss. Au recto du dernier f.<0x0A>blanc: «Sebastianus Ziegler est verus dominus hujus libri.<0x0A>Anno domini 1560, Emptus sum pro 1 baz.» Au-dessous:<0x0A>«Hainricus Reisser est possessor hujus libri Anno domini<0x0A>1562.» Au verso: «Joannes Moeg Capellanus. Anno 1555.»<0x0A>Rel. anc.<0x0A>310<0x0A>MELBER JOHANNES : Vocabularius praedicantium. Stras¬<0x0A>bourg, (J. Prüss), 1er juin 1486, in-4°.<0x0A>Hain 11040, Proctor 516, Voulliéme: Berlin 2342.<0x0A>K 2572c. Prov.; Recteur Müller, Quedlinbourg, 15. V. 1889.<0x0A>Au-dessus du titre: «Coenobij Benedictinorum Montis S.<0x0A>Joannis.» Plus bas d’une autre main: «Ad usum fratrum Min.<0x0A>Capucinorum.» Rel. anc.<0x0A>311<0x0A>MELBER JOHANNES: Vocabularius praedicantium. Stras¬<0x0A>bourg, J. Prüss, 1488, in-4°.<0x0A>Hain 11041, Proctor 539, Schmidt III, 22, Voullième: Ber¬<0x0A>lin 2348.<0x0A>K 2573 (2). Prov.; Reintgens, Strasbourg, 24. VIII. 1888, 8 M.<0x0A>A la suite de: Vocabularius Exquo. K 3773 (1). Rel. anc. 312<0x0A>66<0x0A>MELBER JOHANNES: Vocabularius praedicantium, (Stras¬<0x0A>bourg, vers 1500), in-4°.<0x0A>Hain 11033.<0x0A>K 2572. Prov.: F. Butsch fils, Augsbourg, 28. XII. 1872,<0x0A>3 M. 30. Notes mss. Rel. anc.<0x0A>313<0x0A>MELBER JOHANNES: Vocabularius praedicantium. (Stras¬<0x0A>bourg, G. Husner, vers 1500), in-4°.<0x0A>Hain 11036, Madsen 2722, Proctor 752, Voulliéme: Berlin 2533.<0x0A>K 2571. Prov.: Librairie Staat (Vente Paul Schmidt, Paris),<0x0A>19. IV. 1910, 24 frs. A l’intérieur du 1er plat, exlibris avec<0x0A>la devise: Tout à tous. Au-dessous: «Ex Libris Paul Schmidt.»<0x0A>314<0x0A>MELUSINE. (Strasbourg, H. Knoblochtzer, s. d.), in-fol.<0x0A>Hain 11061, Goedeke, Grundriss, 2. Aufl. I, 355, N° 2, Pelle¬<0x0A>chet 1327, Proctor 366, Schorbach et Spirgatis, Knobloch¬<0x0A>tzer 7, Schreiber 4629.<0x0A>Schramm, Bilderschmuck, XIX, grav. N° 302-368.<0x0A>K 1001. Prov.: Librairie Trübner, Strasbourg, 27. IX. 1887,<0x0A>800 M.<0x0A>315<0x0A>MICHAEL DE DALEN: Casus breves decretalium Sexti et Cle¬<0x0A>mentinarum libellus. Strasbourg, (typ. du Jordanus<0x0A>(— G. Husner)), 15 juin 1485, in-fol.<0x0A>Hain 4660, Madsen 2741, Pellechet: Colmar 459, Proctor 595,<0x0A>Voulliéme: Berlin 2405, Walter: Sélestat 132.<0x0A>K1103. Prov.: BN Munich, 22. I. 1880. A la suite de: Ber¬<0x0A>nardus Parmensis, Casus longi super decretales, Strasbourg,<0x0A>1484, K 668.<0x0A>316<0x0A>MICHAEL DE DALEN: Casus breves decretalium Sexti et Cle¬<0x0A>mentinarum Libellus. Strasbourg, (G. Husner), 1493,<0x0A>in-fol.<0x0A>Hain 4662. Proctor 732, Voulliéme: Berlin, 2520, 5 dit:<0x0A>Drucker der Casus breves decretalium.<0x0A>K 1105, Prov.: Don de la ville de Nördlingen, 1871. Au recto<0x0A>du f. de garde: «Panzer Annal. I. 50 249.»<0x0A>317<0x0A>MICHAEL DE HUNGARIA: Sermones dominicales. (Biga salu¬<0x0A>tis). Haguenau, H. Gran, 22 janvier 1498, in-4°.<0x0A>Hain 9052, Proctor 3192, Voulliéme: Berlin 1179.<0x0A>K 2336. Prov.; Don de Fid. Butsch fils, Augsbourg, 1871. Au<0x0A>haut du titre: «Monasterij Ranshouen.» Rel. anc.<0x0A>318<0x0A>67<0x0A>MICHAEL DE HUNGARIA: Sermones dominicales. (Biga salu¬<0x0A>tis). Haguenau, H. Gran, 28 sept. 1499, in-4°.<0x0A>Hain 9053, Proctor 3200, Voulliéme: Berlin 1182, 2.<0x0A>K 2337. Prov.: Don du prince de Bentheim, 1874, provenant<0x0A>du couvent de Frenswegen. Au haut du titre: «Liber Nemoris<0x0A>Beatae Mariae Virginis Ordinis Canonicorum Regularium<0x0A>prope Northorn.» Rel. anc.<0x0A>319<0x0A>MICHAEL DE HUNGARIA: Sermones praedicabiles. Strasbourg,<0x0A>imprimeur du

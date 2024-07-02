@@ -1,0 +1,64 @@
+Extrait en un fichier JSON les entités nommées B-PER, I-PER, B-DATE, I-DATE, B-LOC, I-LOC selon l'exemple :
+Exemple =  "HANNENBEIN, Georg . Voir: LIED (Neu Klaglied der Bauern) n° 340.
+PETRUS DE CRESCENTIS
+( WUERFELBUCH ]
+ Strasbourg , ( Christian Egenolff ), 1529 
+ Marque typ. de Chris. Egenolff. Anno M. D. LXXXII 
+ Stadtbibl. Strassburg 1192". 
+
+Réponse = 
+[
+[{'entity': 'B-PER',
+   'word': 'HANNENBEIN',
+},
+  {'entity': 'I-PER',
+   'word': ',',
+},
+  {'entity': 'I-PER',
+   'word': 'Georg',
+},
+],[
+{'entity': 'B-PER',
+   'word': 'PETRUS',
+},
+{'entity': 'I-PER',
+'word': 'DE',
+},
+{'entity': 'I-PER',
+'word': 'CRESCENTIS',
+},
+],[
+{
+'entity':'B-LOC', 
+'word': 'Strasbourg',
+},
+],[
+{
+'entity': 'B-PER',
+'word': 'Christian'
+},
+{
+'entity':'I-PER',
+'word': 'Egenolff'
+},
+],[
+{'entity': 'B-DATE',
+'word': '1529'},
+],[
+{'entity':'B-PER',
+'word': 'Chris.'},
+{'entity': 'I-PER',
+'word': 'Egenolff'},
+],[
+{'entity':'B-DATE',
+'word': 'M.'},
+{'entity': 'I-DATE', 
+'word': 'D.'},
+{'entity':'I-DATE',
+'word': 'LXXXII'},
+],[
+{'entity': 'B-LOC',
+'word': 'Strassburg'}
+]
+]
+Maintenant, extrait en JSON les entités nommées des phrases suivantes :lliéme: Berlin 2181, Walter:<0x0A>Sélestat 481.<0x0A>K 3597. Prov.: F. Butsch, Augsbourg, 12. X. 1883. A la suite<0x0A>de Magni Jac., Sopholoquium. Coloniae, s. d., K 2468a. 459<0x0A>Tractatus contra vitia. Strasbourg, G. Husner, 5 déc. 1498,<0x0A>in 4°.<0x0A>Hain 15594, Madsen 3983, Pellechet: Colmar 1247, Proctor<0x0A>744, Voulliéme: Berlin 2529.<0x0A>K 3599. Prov.: Bibliothèque du prof. Baum, 1879. Au-dessous<0x0A>du titre: «Conradus Molitor.»<0x0A>2e ex. K 1783, 2. Prov.; Abbé Cromer, curé, Saverne, 29. VII.<0x0A>1879. A la suite de Gregorius M., Pastorale. Coloniae, s. d.<0x0A>K 1783, 1.<0x0A>460<0x0A>Tractatus de Judaeorum et Christianorum communione.<0x0A>(Strasbourg, impr. du H. Ariminensis, vers /1476),<0x0A>in-fol.<0x0A>Hain 9465, Proctor 312, Voulliéme: Berlin 2180.<0x0A>K 3596. Prov.: Don de la ville de Heilbronn, 1871. Au haut<0x0A>du 1er f.: «Esslingen, Conr. Fyner 1474», rayé au crayon. 461<0x0A>96<0x0A>Tractatus resolvens dubia circa VII sacramenta occurentia.<0x0A>Strasbourg (J. Grüninger), 9 février 1496, in-4°.<0x0A>Hain 15591, Proctor 468, Voulliéme: Berlin 2292.<0x0A>K 3597b. Prov.: L. Rosenthal, Munich, 21. X. 1884, 12 M. A<0x0A>l’intérieur du 1er plat: «Bibliothèque de J. Ladimir François<0x0A>N° 2367»; au-dessous, exlibris. Au recto du f. de garde:<0x0A>(Thomas d’Aquin). Traité des sept sacrements. (Cas de<0x0A>Conscience.) Rare. (Détails curieux sur le mariage). Stras¬<0x0A>bourg, 1496.<0x0A>462<0x0A>TUDESCHIS NICOLAUS (Panormitanus): Consilia. (Stras¬<0x0A>bourg, H. Eggestein, 10 oct. 1474), in-fol.<0x0A>Hain 12343, Madsen 4002, Pellechet: Colmar 1048, Proctor<0x0A>265, Voulliéme: Berlin 2158, 5.<0x0A>K 3635. Prov.: K. Trübner, Strasbourg, 17. VII. 1883, 28 M.<0x0A>463<0x0A>TUDESCHIS NICOLAUS (Panormitanus): Processus judicia¬<0x0A>rius. (Strasbourg, J. Grüninger, s. d.), in-4°.<0x0A>G W 2845, Hain-Copinger 12360, Proctor 500, Voulliéme:<0x0A>Berlin 2326.<0x0A>Devrait figurer sous Auerbach Johannes d’après le G W,<0x0A>mais la lettre A était déjà imprimée quand j’ai reçu l’ouvrage.<0x0A>Voulliéme le donne encore sous Tudeschis.<0x0A>K 3636. Prov.: En échange de doubles avec le bibliothécaire<0x0A>Schorbach, Strasbourg, 8. VII. 1910. (Prix dans le catalogue<0x0A>Baer: 36 M.).<0x0A>464<0x0A>TURRECREMATA JOHANNES DE: Expositio Psalterii, Stras¬<0x0A>bourg, (impr. de la Legenda aurea), 23 avril 1482,<0x0A>in-fol.<0x0A>Hain 15703, Pellechet: Colmar 1267, Proctor 414, Voulliéme:<0x0A>Berlin 2250, Walter: Sélestat 487.<0x0A>K 3644b. Prov.: B N Munich, 28. XII. 1883, 4 M. 50. Notes mss.<0x0A>465<0x0A>TURRECREMATA JOHANNES DE: Expositio Psalterii. Stras¬<0x0A>bourg, (impr. du Jordanus (— G. Husner)), 28 sept.<0x0A>1485, in-fol.<0x0A>Hain 15706, Madsen 4026, Proctor 599, Voulliéme: Berlin 2407.<0x0A>K 3645. Prov.: Librairie Trübner, Strasbourg, 20. IV. 1887,<0x0A>9M.<0x0A>466<0x0A>97<0x0A>R.7<0x0A>TURRECREMATA JOHANNES DE: Expositio Psalterii. Stras¬<0x0A>bourg, (impr. du Jordanus (— G. Husner)), 3 oct. 1487,<0x0A>in-fol.<0x0A>Hain 15707, Madsen 4027, Pellechet: Colmar 1268, Proctor<0x0A>614, Voulliéme: Berlin 2417.<0x0A>K 3645a. Prov.: Les héritiers de C. Geyling, 18. I. 1886, 10 M.<0x0A>Au haut du 1er f.; «Bibliotheca Carmelit. S. Bartholomei<0x0A>Cremona.»<0x0A>467<0x0A>TURRECREMATA JOHANNES DE: Quaestiones evangeliorum.<0x0A>(Strasbourg, impr. du Jordanus (— G. Husner), vers<0x0A>14871, in-fol.<0x0A>Hain 15713, Madsen 4031, Pellechet: Colmar 1269, Proctor<0x0A>634. Voulliéme: Berlin 2474, 5.<0x0A>K 3646. Prov.: Oscar Rauthe, Berlin (Vente Boerner), 4. XII.<0x0A>1913, 115 M.; f. du titre manque, remplacée par un facsimilé.<0x0A>Notes mss.<0x0A>468<0x0A>TUSCH HANS ERHART: Die burgundisch Historie, Stras¬<0x0A>bourg, (impr. du H. Ariminensis), 1477, in-4°.<0x0A>Voulliéme: Berlin 1907/14) 2185, Walter: Sélestat 488.<0x0A>Tertz, Archiv f. ältere deutsche Geschichtskunde IX, 523;<0x0A>Stoeber, Alsatia 1875/6, 314.<0x0A>K 3655. Prov.: Bibliothécaire W. List, Strasbourg, 20. VII,<0x0A>1895, 850 M. Au verso du f. de garde: «Nota Bene. Bl. 1 à 10<0x0A>facsim.».<0x0A>469<0x0A>UBALDIS BALDUS DE: Repertorium super Innocentio. Voir:<0x0A>Innocentius IV, Apparatus super quinque libros<0x0A>Decretalium. (Supplément.)<0x0A>K 544. Prov.: Albert Cohn, Berlin (Catal. 131), 31. II. 1880,<0x0A>12 M.<0x0A>470<0x0A>URSULA S.: Von S. Ursula Schifflein. Strasbourg, Barth,<0x0A>Kistler, 1497, in-4°.<0x0A>Copinger 5913, Schmidt IV, p. 3, N° 3, Voulliéme: Berlin<0x0A>2545; Schramm, Bilderschmuck XX N° 1803-1804.<0x0A>K 3662, Prov.: Vente Trübner, Catal. N° 142, 30. X. 1886,<0x0A>103 M.<0x0A>471<0x0A>98<0x0A>VALASCUS DE TARENTA. Voir: Valescus de Tarenta.<0x0A>VALERIUS MAXIMUS: Commentarii. Voir: Dionysius de<0x0A>Burgo.<0x0A>VALERIUS MAXIMUS: Facta et dicta memorabilia. (Stras¬<0x0A>bourg, J. Mentelin, 15 juin 1470), in-fol.<0x0A>Hain 15773, Madsen 4055, Proctor 204 (met anno 1471 avec<0x0A>point d’interrogation), Voulliéme: Berlin 2108, Schorbach:<0x0A>Mentelin N° 17; pas après le 14 juin?<0x0A>K 3674. Prov.: Librairie Trübner, Strasbourg, 27. IX. 1887,<0x0A>600 M. Au haut du 1er f.: In Usum Beronicensium fratrum.»<0x0A>A la marge, cachet: Bibliotheca Regia Monacensis; le même<0x0A>cachet à la fin.<0x0A>472<0x0A>VALESCUS DE TARENTA: Tractatus de epidemia et peste.<0x0A>Haguenau, H. Gran, 23 nov

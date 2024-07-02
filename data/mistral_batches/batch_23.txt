@@ -1,0 +1,64 @@
+Extrait en un fichier JSON les entités nommées B-PER, I-PER, B-DATE, I-DATE, B-LOC, I-LOC selon l'exemple :
+Exemple =  "HANNENBEIN, Georg . Voir: LIED (Neu Klaglied der Bauern) n° 340.
+PETRUS DE CRESCENTIS
+( WUERFELBUCH ]
+ Strasbourg , ( Christian Egenolff ), 1529 
+ Marque typ. de Chris. Egenolff. Anno M. D. LXXXII 
+ Stadtbibl. Strassburg 1192". 
+
+Réponse = 
+[
+[{'entity': 'B-PER',
+   'word': 'HANNENBEIN',
+},
+  {'entity': 'I-PER',
+   'word': ',',
+},
+  {'entity': 'I-PER',
+   'word': 'Georg',
+},
+],[
+{'entity': 'B-PER',
+   'word': 'PETRUS',
+},
+{'entity': 'I-PER',
+'word': 'DE',
+},
+{'entity': 'I-PER',
+'word': 'CRESCENTIS',
+},
+],[
+{
+'entity':'B-LOC', 
+'word': 'Strasbourg',
+},
+],[
+{
+'entity': 'B-PER',
+'word': 'Christian'
+},
+{
+'entity':'I-PER',
+'word': 'Egenolff'
+},
+],[
+{'entity': 'B-DATE',
+'word': '1529'},
+],[
+{'entity':'B-PER',
+'word': 'Chris.'},
+{'entity': 'I-PER',
+'word': 'Egenolff'},
+],[
+{'entity':'B-DATE',
+'word': 'M.'},
+{'entity': 'I-DATE', 
+'word': 'D.'},
+{'entity':'I-DATE',
+'word': 'LXXXII'},
+],[
+{'entity': 'B-LOC',
+'word': 'Strassburg'}
+]
+]
+Maintenant, extrait en JSON les entités nommées des phrases suivantes :OTHERH: Manipulus curatorum, Stras¬<0x0A>bourg (imprimeur du Jordanus (— G. Husner)), 1493,<0x0A>in-4.<0x0A>Hain 8205, Pellechet: Colmar 708, Voulliéme: Berlin 2495, 7.<0x0A>K 1840. Prov.: B. N. Munich, 16. XII. 1879, 1 M. Au verso<0x0A>du f. de garde; «Wolfgangus Bücheler».<0x0A>205<0x0A>GUIDO DE MONTE ROTHERII: Manipulus curatorum. Stras¬<0x0A>bourg, (Mart. Flach), 1499, in-4°.<0x0A>Hain 8212, Madsen 1846, Proctor 715, Voulliéme: Berlin<0x0A>2509,8.<0x0A>K 1841. Prov.: Don de Fid. Butsch fils, Augsbourg, 1872.<0x0A>Rel. anc.<0x0A>206<0x0A>44<0x0A>GUILELMUS PARISIENSIS: Postilla super epistolas et evan¬<0x0A>gelia. Strasbourg, (imprimeur du Jordanus (— G. Hus¬<0x0A>ner)), 9 mars 1485, in-fol.<0x0A>Hain 8262, Proctor 594, Voulliéme: Berlin 2403, 6.<0x0A>K 1861. Prov.: B N Munich, 22. I. 1880, 2 M.<0x0A>207<0x0A>GUILELMUS PARISIENSIS: Postilla super epistolas et evan¬<0x0A>gelia. Strasbourg, (imprimeur du Jordanus (— G. Hus-<0x0A>ner) ), 1er mars 1486, in-fol.<0x0A>Hain 8263, Pellechet: Colmar 720, Proctor 601, Voulliéme:<0x0A>Berlin 2409.<0x0A>K 1862. Prov.; B N Munich, 22. I. 1880, 2 M.<0x0A>208<0x0A>GUILELMUS PARISIENSIS: Postilla super epistolas et evan¬<0x0A>gelia. Strasbourg, (imprimeur du Jordanus (— G. Hus¬<0x0A>ner), 1488, in-fol.<0x0A>Hain 8266, Pellechet: Colmar 721, Voulliéme: Berlin 2420.<0x0A>K1864. Prov.: B N Munich, 22. I. 1880, 1 M. 50. Rel. anc. 209.<0x0A>GUILELMUS PARISIENSIS: Postilla super epistolas et evan¬<0x0A>gelia. Strasbourg, (imprimeur du Jordanus (— G. Hus¬<0x0A>ner), 14 août 1489, in-fol.<0x0A>Hain 8269, Voullième: Berlin 2432, 5.<0x0A>K 1865. Prov.: B N Munich, 22. I. 1880, 1 M. 50. A l’intérieur<0x0A>du 1er plat: «Monasterium Althominster 1543». Rel. anc. 210<0x0A>GUILELMUS PARISIENSIS: Postilla super epistolas et evan¬<0x0A>gelia. Strasbourg, (imprimeur du Jordanus (— G. Hus¬<0x0A>ner), 2 nov. 1490, in-fol.<0x0A>Hain 8272, Madsen 1859, Proctor 657, Voulliéme: Berlin 2440.<0x0A>K 1867. Prov.: Fid. Butsch fils, Augsbourg, 1871. Au-dessus<0x0A>du titre: «Monasterij Ranshouen». Rel. anc.<0x0A>211<0x0A>GUILELMUS PARISIENSIS: Postilla super epistolas et evan¬<0x0A>gelia. Strasbourg, (imprimeur du Jordanus (— G. Hus¬<0x0A>ner), 4 mars 1493, in-fol.<0x0A>45<0x0A>Hain 8281, Proctor 635, Voulliéme: Berlin 2449.<0x0A>K 1869. Prov.; B N Munich, 22. I. 1880, 2 M. Au-dessous du<0x0A>titre; «Monasterii Polling.»; à côté, d’une autre main: — emit<0x0A>illam postillam quinque solidis. A l’intérieur du 1r plat,<0x0A>exlibris: Franciscus Praepositus S. Salvatoris Pollingae.<0x0A>Anno 1744.»<0x0A>212<0x0A>GUILELMUS PARISIENSIS: Postilla super epistolas et evan¬<0x0A>gelia. Strasbourg, Mart. Flach, 1er août 1500, in-4°.<0x0A>Hain 8299, Schmidt VI, 77, Schreiber 4163, Schramm, Bilder¬<0x0A>schmuck XX, grav. N° 1686.<0x0A>K. 1872. Prov.; Gény, Saverne, 8. IV. 1922, 200 frs. Notes mss.<0x0A>au f. du titre ainsi qu’aux 4 dernières pages. Au recto du f.<0x0A>de garde: «Ex bibliotheca D. Joannis Cole (?) praesbyteri ac<0x0A>vicarii Anno M. D. CII.» 1 f. manque.<0x0A>213<0x0A>GUILELMUS PARISIENSIS: Tractatus super passione Christi.<0x0A>Haguenau, H. Gran, 16 février 1498, in-4°.<0x0A>Hain 8320, Proctor 3193, Voulliéme: Berlin 1180.<0x0A>K 1879. Prov.: Don du prince de Bentheim, 1871. Notes mss.<0x0A>Rel. anc.<0x0A>214<0x0A>GUILERMUS, Voir: Guilelmus.<0x0A>HASELBACH THOMAS DE. Voir Thomas de Haselbach.<0x0A>HASSIA. Voir; Henricus de Hassia.<0x0A>HEMMERLIN FELIX: Variae oblectationis opuscula. (Stras¬<0x0A>bourg, J. Prüss, s. d.), in-fol.<0x0A>Hain 8425, Madsen 1904, Proctor 581, Schreiber 4199,<0x0A>Schramm, Bilderschmuck XX, grav. N° 1327, Voulliéme: Ber¬<0x0A>lin 2378.<0x0A>K 1894. Prov.; BN Munich, 14. IV. 1880, 3 M. Au bas du titre:<0x0A>Collegio Societatis Jesu Monachij s. Baptistae.<0x0A>215<0x0A>HEMMERLIN FELIX: De nobilitate et rusticitate dialogus.<0x0A>(Strasbourg, Joh. Prüss, s. d.), in-fol.<0x0A>Hain 8426, Madsen 1902, Pellechet: Colmar 733, Proctor 582,<0x0A>Voulliéme: Berlin 2379.<0x0A>K 1895a. Prov.; Don de la Ville de Nördlingen, 1872. Rel. anc.<0x0A>216<0x0A>46<0x0A>HENRICUS ARIMINENSIS: De quatuor virtutibus cardinali¬<0x0A>bus. Strasbourg, (imprimeur du H. Ariminensis, avant<0x0A>1472), in-fol.<0x0A>Hain 1649, Pellechet: Colmar 162, Proctor 310, Voulliéme:<0x0A>Berlin 2167; Walter: Sélestat 238 donne comme imprimeur<0x0A>du Ariminensis Georg Reyser avec point d’interrogation.<0x0A>K 1896. Prov.: Don de la Bibl. de Goettingue, 1872. A l'inté¬<0x0A>rieur du 1er plat, exlibris: «Ex Bibliotheca Montis S.<0x0A>Andechs.» Rel. anc.<0x0A>217<0x0A>HENRICUS DE HASSIA: Tractatulus de arte predicandi. (Stras¬<0x0A>bourg?, Martin Flach?, s. d.), in-4°.<0x0A>Hain 8397.<0x0A>K 1910. Prov.: Don du prince de Bentheim, 1872.<0x0A>218<0x0A>HEROLT JOHANNES: De eruditione Christi fidelium. [Stras¬<0x0A>bourg, G. Husner, s. d.), in-fol.<0x0A>Hain 8517, Pellechet: Colmar 759, Proctor 357, Voulliéme:<0x0A>Berlin 2203, 4.<0x0A>K 1951. Prov.: B N Munich, 14. IV, 1880. A l'intérieur du<0x0A>1er plat, exlibris, au-dessous; «Ex Bibliotheca ecclesiae Col¬<0x0A>legiatae Lateranensis ad S. Nicolaum prope Passavium.» 219<0x0A>HEROLT JOHANNES: De eruditione Christi fidelium. Stras¬<0x0A>bourg, J. Prüss, 1490, in-fol.<0x0A>Hain 8521, Madsen 1938, Pellechet: Colmar 762, Proctor 548,<0x0A>Schmidt III, 24. Voulliéme: Berlin 2360.<0x0A>K 1953. Prov.: B N Munich, 14. IV. 1880, 4 M. Au-dessus du<0x0A>titre: Caspar

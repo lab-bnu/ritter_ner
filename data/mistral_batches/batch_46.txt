@@ -1,0 +1,64 @@
+Extrait en un fichier JSON les entités nommées B-PER, I-PER, B-DATE, I-DATE, B-LOC, I-LOC selon l'exemple :
+Exemple =  "HANNENBEIN, Georg . Voir: LIED (Neu Klaglied der Bauern) n° 340.
+PETRUS DE CRESCENTIS
+( WUERFELBUCH ]
+ Strasbourg , ( Christian Egenolff ), 1529 
+ Marque typ. de Chris. Egenolff. Anno M. D. LXXXII 
+ Stadtbibl. Strassburg 1192". 
+
+Réponse = 
+[
+[{'entity': 'B-PER',
+   'word': 'HANNENBEIN',
+},
+  {'entity': 'I-PER',
+   'word': ',',
+},
+  {'entity': 'I-PER',
+   'word': 'Georg',
+},
+],[
+{'entity': 'B-PER',
+   'word': 'PETRUS',
+},
+{'entity': 'I-PER',
+'word': 'DE',
+},
+{'entity': 'I-PER',
+'word': 'CRESCENTIS',
+},
+],[
+{
+'entity':'B-LOC', 
+'word': 'Strasbourg',
+},
+],[
+{
+'entity': 'B-PER',
+'word': 'Christian'
+},
+{
+'entity':'I-PER',
+'word': 'Egenolff'
+},
+],[
+{'entity': 'B-DATE',
+'word': '1529'},
+],[
+{'entity':'B-PER',
+'word': 'Chris.'},
+{'entity': 'I-PER',
+'word': 'Egenolff'},
+],[
+{'entity':'B-DATE',
+'word': 'M.'},
+{'entity': 'I-DATE', 
+'word': 'D.'},
+{'entity':'I-DATE',
+'word': 'LXXXII'},
+],[
+{'entity': 'B-LOC',
+'word': 'Strassburg'}
+]
+]
+Maintenant, extrait en JSON les entités nommées des phrases suivantes :. 301.<0x0A>GRUNINGER Jean<0x0A>1483.<0x0A>Ludolphus de Saxonia: Meditationes vitae Jesu<0x0A>Christi. 291.<0x0A>1483. 28.8.<0x0A>Petrus Comestor: Historia scholastica. 385.<0x0A>1484. 12. 2.<0x0A>Conradus de Brundelsheim: Sermones de tempore.<0x0A>139.<0x0A>1484. 28. 3.<0x0A>Jordanus de Quedlinbourg: Sermones de sanctis.<0x0A>275.<0x0A>1484. 13. 4.<0x0A>Conradus de Brundelsheim: Sermones de sanctis.<0x0A>140.<0x0A>1484. 4. 9.<0x0A>Gratianus: Decretum. 191.<0x0A>1485. 2. 5.<0x0A>Biblia germanica. 91.<0x0A>[vers 1485/71.<0x0A>Brack: Vocabularius rerum, 109.<0x0A>1486.<0x0A>Poncius: Rhetorica. 399.<0x0A>1488. 15. 1.<0x0A>Gesta Romanorum. 184.<0x0A>1489.<0x0A>Marchesinus Joh.: Mammotrectus. 299.<0x0A>1489. 20. 3.<0x0A>1489. 31. 3.<0x0A>Breviarium Argentinense. 116.<0x0A>Sermones exquisiti super epistolis. 433.<0x0A>110<0x0A>1489. 9. 7.<0x0A>Saliceto Nic.: Antidotarius animae, 422.<0x0A>1489. 4. 9.<0x0A>Gratianus: Decretum. 192.<0x0A>1490.<0x0A>Antoninus Florentinus: Summa theologica. 38.<0x0A>1492. 3. 11.<0x0A>1493. 14. 3.<0x0A>Biblia latina. Pars IV. 89.<0x0A>Albertus Magnus: Liber aggregationis. 10.<0x0A>1493. 14. 3.<0x0A>Saliceto Nic.: Antidotarius animae. 423.<0x0A>1495. 20. 2.<0x0A>Antoninus de Bitonto: Sermones dominicales, 40.<0x0A>1495. 6. 8.<0x0A>Rampegolus: Biblia aurea. 406.<0x0A>1496.<0x0A>Antoninus Florentinus: Summa theologica. 39.<0x0A>1496.<0x0A>1496.<0x0A>Flores legum. 173.<0x0A>Nicolaus de Dinkelsbühl: Postilla evangeliorum<0x0A>dominicalium. 340.<0x0A>1496. 9. 2.<0x0A>1496. 1. 11.<0x0A>Tractatus resolvens dubia circa sacramenta. 462.<0x0A>Terentius: Comoediae, 447.<0x0A>1496. 6. 12.<0x0A>Rampegolus: Biblia aurea. 407.<0x0A>1497.<0x0A>Locher Jac.: Panegyricus ad Maximilianum. 284.<0x0A>1497. 6. 1.<0x0A>Baldung Hier.: Aphorismi, 64.<0x0A>1497. 26. 4.<0x0A>Biblia latina. 90.<0x0A>1497. 1. 6.<0x0A>Brant: Stultifera navis, 114.<0x0A>1497. 4. 7.<0x0A>Brunschwig: Chirurgia, 118.<0x0A>1498.<0x0A>Hortulus animae. 236.<0x0A>1498.<0x0A>Wimpheling: Elegantiarum medulla. 491.<0x0A>1498. 12. 3.<0x0A>Horatius: Opera. 235.<0x0A>1498. 1. 8.<0x0A>Brant: Varia Carmina. 115.<0x0A>1499. 11. 2.<0x0A>Terentius: Comoediae, 448.<0x0A>1499. 5. 3.<0x0A>1499. 19.8.<0x0A>Terentius: Comoediae (en allemand). 449.<0x0A>Sibylla Barth: Speculum peregrinarum quaestio¬<0x0A>num. 436.<0x0A>[vers 1500).<0x0A>Brun Urb. Prebusinus: Oratio mordacissima. 117.<0x0A>[vers 1500).<0x0A>Wimpheling: Isidoneus Germanicus. 493.<0x0A>1500. 31. 1.<0x0A>Hortulus animae, 238.<0x0A>1500. 2. 7.<0x0A>Petrus Frater: Legende der h. Katharina. 389.<0x0A>1500. 6. 4.<0x0A>Petrus Frater: Legenda s. Catharinae. 388.<0x0A>1500. 22. 6.<0x0A>Evangelia. 162.<0x0A>1500. 8. 5.<0x0A>Brunschwig: Kleines Destillierbuch, 119.<0x0A>1500. 8. 9.<0x0A>Bühel H. von: Königstochter von Frankreich. 120.<0x0A>(7) [après 15007] Agenda parochialium ecclesiarum Argentinensis<0x0A>Ecclesiae. 4.<0x0A>s. d.<0x0A>Paratus: Sermones de tempore et de sanctis. 367.<0x0A>s. d.<0x0A>Tudeschis Nic.: Processus judiciarius. 464.<0x0A>HUPFUFF Mathias<0x0A>1499.<0x0A>Salomon und Morolf, 425.<0x0A>1499.<0x0A>Murner Thomas: De phytonico contractu. 332.<0x0A>11499. 8. 5.1.<0x0A>Murner Thomas: Invectiva contra astrologos. 331.<0x0A>111<0x0A>HUSNER Georges<0x0A>Durandus: Rationale divinorum officiorum, 151.<0x0A>[vers 147071.<0x0A>Durandus: Speculum judiciale, 159.<0x0A>1473. 22. 11.<0x0A>(pas après 1474). Anselmus Cantuarensis: Cur deus homo. 32.<0x0A>Augustinus S.: De conflictu vitiorum et virtutum.<0x0A>[vers 1474].<0x0A>53.<0x0A>Boccaccio: De casibus virorum illustrium. 93.<0x0A>[vers 1474/51.<0x0A>Boccaccio: De claris mulieribus, 94.<0x0A>[vers 1474/51.<0x0A>Augustinus (Pseudo) : De XII. abusivis, 49.<0x0A>[vers 1475).<0x0A>Valla Laur.: De libero arbitrio. 474.<0x0A>[vers 1475).<0x0A>(avant le 25. 3.<0x0A>Andreae: Speculum judiciale. 24.<0x0A>14751.<0x0A>Lpas après 1476). Aureoli: Compendium totius Bibliae, 61.<0x0A>Nider Joh.; Praeceptorium divinae legis. 346.<0x0A>1476. 13. 2.<0x0A>Hugo Pratensis: Sermones de tempore, 242.<0x0A>1476. 11. 6.<0x0A>Durandus: Rationale divinorum officiorum. 152.<0x0A>Ivers 14781.<0x0A>1479.<0x0A>Jacobus de Voragine: Legenda aurea, 253.<0x0A>Durandus: Rationale divinorum officiorum. 153.<0x0A>[avant 1481).<0x0A>Caracciolus: De poenitentia, 122.<0x0A>(vers 14791.<0x0A>Boëthius: De disciplina scolarium. 100.<0x0A>1495.<0x0A>Reuchlin Joh.: Vocabularius breviloquus. 415.<0x0A>1496. 30. 9.<0x0A>Tractatus contra vitia. 460.<0x0A>1498. 5. 12.<0x0A>1499. 20-30. 8. Modus legendi abbreviaturas, 329.<0x0A>1499, 24. 12.<0x0A>Martinus Polonus: Margarita decreti. 304.<0x0A>Melber Joh.: Vocabularius praedicantium. 314.<0x0A>[vers 1500).<0x0A>1500. 14, 3.<0x0A>Eusebius: Historia ecclesiastica. 161.<0x0A>Vocabularius utriusque juris. 486.<0x0A>1500. 27. 5.<0x0A>Barbatia: Consilium si Eugenius papa... 65.<0x0A>s. d.<0x0A>Herolt Joh.: De eruditione Christi fidelium. 219.<0x0A>s. d.<0x0A>s. d.<0x0A>Herolt Joh.: Sermones super epistolas domini¬<0x0A>cales. 221.<0x0A>Hugo Pratensis: Sermones et epistolae. 239.<0x0A>s. d.<0x0A>Hugo Pratensis: Sermones de tempore. 242.<0x0A>s. d.<0x0A>Jacobus de Voragine: Legenda aurea. 252.<0x0A>s. d.<0x0A>Nicolaus de Lyra: Moralia super bibliam. 344.<0x0A>s. d.<0x0A>(Imprimeur du) JORDANUS DE QU

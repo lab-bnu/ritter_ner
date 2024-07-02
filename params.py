@@ -4,15 +4,15 @@ param_general = {
     "tags_to_extract" :['_', 'persName', 'placeName', 'date'],
     "class_names" :['O', 'PER', 'LOC', 'DATE'],
     'OIB' : True,
-    "datadir" : "data/test_batches",
-    "datadoc" : "data_div_mistral" ,
+    "datadir" : "data/dataset-spacy",
+    "datadoc" : "data_div" ,
 
 }
 
 # paramètres pour la création du jeu de données :
 param_creation_dataset = {"by_element" : "div",# peut être None, traitera chaque page en entier
                   "tokenizer" : "spacy" , # les choix sont ["spacy", "split"] ou l'URL HF d'un modèle
-                  "xml_dir" : "data/xml_ner",# dossier où se trouvent les doc XML annotés
+                  "xml_dir" : "data/manual_encoding_ner",# dossier où se trouvent les doc XML annotés
                 "train_test_split" : True
 }
 

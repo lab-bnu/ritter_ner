@@ -1,0 +1,64 @@
+Extrait en un fichier JSON les entités nommées B-PER, I-PER, B-DATE, I-DATE, B-LOC, I-LOC selon l'exemple :
+Exemple =  "HANNENBEIN, Georg . Voir: LIED (Neu Klaglied der Bauern) n° 340.
+PETRUS DE CRESCENTIS
+( WUERFELBUCH ]
+ Strasbourg , ( Christian Egenolff ), 1529 
+ Marque typ. de Chris. Egenolff. Anno M. D. LXXXII 
+ Stadtbibl. Strassburg 1192". 
+
+Réponse = 
+[
+[{'entity': 'B-PER',
+   'word': 'HANNENBEIN',
+},
+  {'entity': 'I-PER',
+   'word': ',',
+},
+  {'entity': 'I-PER',
+   'word': 'Georg',
+},
+],[
+{'entity': 'B-PER',
+   'word': 'PETRUS',
+},
+{'entity': 'I-PER',
+'word': 'DE',
+},
+{'entity': 'I-PER',
+'word': 'CRESCENTIS',
+},
+],[
+{
+'entity':'B-LOC', 
+'word': 'Strasbourg',
+},
+],[
+{
+'entity': 'B-PER',
+'word': 'Christian'
+},
+{
+'entity':'I-PER',
+'word': 'Egenolff'
+},
+],[
+{'entity': 'B-DATE',
+'word': '1529'},
+],[
+{'entity':'B-PER',
+'word': 'Chris.'},
+{'entity': 'I-PER',
+'word': 'Egenolff'},
+],[
+{'entity':'B-DATE',
+'word': 'M.'},
+{'entity': 'I-DATE', 
+'word': 'D.'},
+{'entity':'I-DATE',
+'word': 'LXXXII'},
+],[
+{'entity': 'B-LOC',
+'word': 'Strassburg'}
+]
+]
+Maintenant, extrait en JSON les entités nommées des phrases suivantes :oulliéme:<0x0A>Berlin 2263.<0x0A>K1281 Prov.: M. Nijhoff, Hague, 5/VIII. 1889, 10 fl. 80. Notes<0x0A>mss. Au recto du f. de garde: Cf. Freitag, Analecta litteraria<0x0A>p. 406.<0x0A>134<0x0A>COLUMNA Guido de: Historia destructionis Trojae. Stras¬<0x0A>bourg, (typ. du Jordanus, (— G. Husner),) 9 octobre<0x0A>1486, in-fol.<0x0A>G W 7230, Hain 5509, Madsen 1239, Pellechet 3873, Proctor 605,<0x0A>Voulliéme: Berlin 2412, 5. Walter; Sélestat 158.<0x0A>K 1284. Prov.; List & Francke, Leipzig, 13/ I. 1879, 8 M. 135<0x0A>COLUMNA Guido de: Historia destructionis Trojae. Stras¬<0x0A>bourg, [typ. du Jordanus (— G. Husner)), 25 mai 1489,<0x0A>in-fol.<0x0A>G W 7231, Hain 5510, Madsen 1241, Proctor 620, Voulliéme:<0x0A>Berlin 2429.<0x0A>K 1285. Prov.; Baer 8 Co., Francfort s. M., 13/xI. 1876, 20 M.<0x0A>136<0x0A>COLUMNA Guido de: Historia destructionis Trojae. Stras¬<0x0A>bourg, (typ. du Jordanus (— G. Husner)), 25 juillet<0x0A>1494, in-fol.<0x0A>G W 7232, Hain 5511, Pellechet 3874, Pellechet: Colmar 508,<0x0A>Proctor 629, Voulliéme: Berlin 2454.<0x0A>K 1286. Prov.; B N Munich, 14/IV. 1880, 2 M. 50. Notes mss.<0x0A>A l’intérieur du 1er plat, exlibris avec la légende: Franciscus<0x0A>Praepositus Cann. Regg. in Polling. Anno 1744.<0x0A>137<0x0A>COMESTOR PETRUS. Voir; Petrus Comestor.<0x0A>COMPENDIUM juris canonici. Strasbourg (typ. du Jordanus<0x0A>(— G. Husner)), 9 février 1499, in-fol.<0x0A>G W 7262, Hain 5558, Madsen 1246, Pellechet 3890, Pellechet:<0x0A>Colmar 514, Proctor 644, Voulliéme: Berlin 2467, 5.<0x0A>K 1302 Prov.: B N Munich, 22/1. 1880, 2 M. 50. fol. a 2a: Mona¬<0x0A>chij ad P. P. Franciscanos Bibl. A la fin 12 ff. de mss. 138<0x0A>COMPOSITA VERBORUM. Voir: Johannes de Garlandia.<0x0A>30<0x0A>CONCILIUM CONSTANTIENSE. Voir: Acta Constansiensis con¬<0x0A>cilii.<0x0A>CONCORDANTIAE BIBLIORUM. Voir: Conradus de Hal̈verstadt.<0x0A>CONRADUS DE ALEMANNIA. Voir: Conradus de Halberstadt.<0x0A>CONRADUS DE BRUNDELSHEIM: Sermones de tempore. Stras¬<0x0A>bourg, J. Grüninger, 12 févr. 1484, in-fol.<0x0A>G W 7410, Hain 14826 (1re partie), Pellechet 3931, I, Pellechet:<0x0A>Colmar 1199, Proctor 438, Schmidt I, 2, Voullième: Berlin 2269.<0x0A>Schorbach: Mentelin N° 33.<0x0A>K 3344. Prov.: Don de Fid. Butsch, Augsbourg, 1871. Au haut<0x0A>du 1er f.: Monasterij Ranshouen. Rel. anc.<0x0A>139<0x0A>CONRADUS DE BRUNDELSHEIM: Sermones de sanctis. Stras¬<0x0A>bourg, J. Grüninger, 13 avril 1484, in-fol.<0x0A>G W7413, Hain 14826 (2e partie), Pellechet 3931, 2, Proctor 440,<0x0A>Voulliéme: Berlin 2271.<0x0A>K 3344a. 2e partie. Prov.: Librairie Noiriel, Strasbourg, 9/VI.<0x0A>1892, 10 M. fol. a 2a; Collegij Soc. Jesu Neoburgi 1639. Rel. anc.<0x0A>140<0x0A>CONRADUS DE HALBERSTADT: Concordantiae Bibliorum.<0x0A>(Strasbourg, J. Mentelin, pas après 1474), in-fol.<0x0A>G W 7418, Hain 5629, Madsen 1260, Pellechet 3933, Pellechet:<0x0A>Colmar 518, Proctor 222, Schorbach: Mentelin 33, Voulliéme:<0x0A>Berlin 2100, Walter: Sélestat 159.<0x0A>K 1320. Prov.; B N Munich, 22/1. 1880, 10 M. Rel. anc. 141<0x0A>CORONA Beatae Mariae Virginis. (Strasbourg, imprimeur<0x0A>des Vitas Patrum, vers 1485), in-fol.<0x0A>G W 7572, Hain 5747-5745, Madsen 1280, Pellechet 3990, Pelle¬<0x0A>chet: Colmar 525, Proctor 426, Voulliéme: Berlin 2262.<0x0A>K1329. Prov.: Fid. Butsch, Augsbourg, 1871. Note mss.; Monas¬<0x0A>terij Ranshouen. Rel. anc. A la suite de Johannes de Verdena.<0x0A>K 2216.<0x0A>142<0x0A>CORONA Beatae Mariae Virginis. (Strasbourg, imprimeur du<0x0A>Jordanus (— G. Husner), pas après 1488), in-fol.<0x0A>G W 7573, Hain 5746, Madsen 1277, Pellechet 3989, Pellechet:<0x0A>Colmar 524, Proctor 632 A, Voulliéme: Berlin 2469.<0x0A>31<0x0A>K 1328. Prov.: Baer 8 Co., Francfort s. M., 19/VI. 1879, 9 M.<0x0A>Rel. anc. A la suite de Mammotrectus K2514.<0x0A>143<0x0A>CORONA Beatae Mariae Virginis. Strasbourg, imprimeur<0x0A>du Jordanus (— G. Husner)), 1493, in-fol.<0x0A>G W 7574, Hain 5748, Pellechet 3991, Pellechet: Colmar 526,<0x0A>Proctor 627, Voulliéme: Berlin 2451, 2.<0x0A>K 1330. Prov.: B N Munich, 22/1. 1880, 1 M. 30. 2 ex. K 2811,<0x0A>a Prov. inconnue. Au-dessus du titre: Georgius Prantl, au¬<0x0A>dessous: Georgius Präntellius parochus in perpetum. Rel. anc.<0x0A>144<0x0A>CRESCENTIIS Petrus de: Opus ruralium commodorum. Stras¬<0x0A>bourg, (typ. du Jordanus (— G. Husner)), 9 mars 1486,<0x0A>in-fol.<0x0A>G W 7824, Hain 5831, Madsen 1293, Proctor 602, Voulliéme:<0x0A>Berlin 2410.<0x0A>K 1338. Prov.: Librairie Beck, Nördlingen, 29/1. 1878, 15 M.<0x0A>Notes mss. Rel. anc.<0x0A>145<0x0A>CYRILLUS HIEROSOLYMITANUS (Pseudo-Cyrillus): Speculum<0x0A>sapientiae. (Strasbourg, H. Eggestein, pas après 1475),<0x0A>in-4°.<0x0A>G W 7889, Hain 5904, Pellechet 4086, Proctor 288, Voulliéme:<0x0A>Berlin 2151.<0x0A>K 1357. Prov.: Albert Cohn, Berlin (Catal. 137, N° 201), 24/II.<0x0A>1881, 60 M. Sur une fiche collée à l'intérieur du 1er plat; ce<0x0A>recueil communément attribué à st. Cyrille d’Alexandrie est<0x0A>d’un auteur latin et récent. V. D. Caillier, Hist, des écrivains<0x0A>ecclés. tome XIII, p. 368. Au-dessous, d’une autre main: «Note<0x0A>de la main de l’abbé Guillon».<0x0A>146<0x0A>DECRETALES GREGORH. Voir: Gregorius IX.<0x0A>DECRETUM GRATIANI

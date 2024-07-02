@@ -1,0 +1,64 @@
+Extrait en un fichier JSON les entités nommées B-PER, I-PER, B-DATE, I-DATE, B-LOC, I-LOC selon l'exemple :
+Exemple =  "HANNENBEIN, Georg . Voir: LIED (Neu Klaglied der Bauern) n° 340.
+PETRUS DE CRESCENTIS
+( WUERFELBUCH ]
+ Strasbourg , ( Christian Egenolff ), 1529 
+ Marque typ. de Chris. Egenolff. Anno M. D. LXXXII 
+ Stadtbibl. Strassburg 1192". 
+
+Réponse = 
+[
+[{'entity': 'B-PER',
+   'word': 'HANNENBEIN',
+},
+  {'entity': 'I-PER',
+   'word': ',',
+},
+  {'entity': 'I-PER',
+   'word': 'Georg',
+},
+],[
+{'entity': 'B-PER',
+   'word': 'PETRUS',
+},
+{'entity': 'I-PER',
+'word': 'DE',
+},
+{'entity': 'I-PER',
+'word': 'CRESCENTIS',
+},
+],[
+{
+'entity':'B-LOC', 
+'word': 'Strasbourg',
+},
+],[
+{
+'entity': 'B-PER',
+'word': 'Christian'
+},
+{
+'entity':'I-PER',
+'word': 'Egenolff'
+},
+],[
+{'entity': 'B-DATE',
+'word': '1529'},
+],[
+{'entity':'B-PER',
+'word': 'Chris.'},
+{'entity': 'I-PER',
+'word': 'Egenolff'},
+],[
+{'entity':'B-DATE',
+'word': 'M.'},
+{'entity': 'I-DATE', 
+'word': 'D.'},
+{'entity':'I-DATE',
+'word': 'LXXXII'},
+],[
+{'entity': 'B-LOC',
+'word': 'Strassburg'}
+]
+]
+Maintenant, extrait en JSON les entités nommées des phrases suivantes :ches scientifiques du Ministère de l’Instruction Publique<0x0A>avance plus rapidement ces derniers temps.<0x0A>Les incunables qui ne se trouvent pas à la Bibliothè¬<0x0A>que Nationale paraîtront comme second volume en fasci¬<0x0A>XXVIII<0x0A>INCUNABLES<0x0A>PAR ORDRE ALPHABÉTIQUE<0x0A>1<0x0A>I<0x0A>.a<0x0A>.<0x0A>—<0x0A>—<0x0A>F<0x0A>—1<0x0A>ACCURSIUS FRANCISCUS: Casus in terminis super novem<0x0A>libris Justiniani Codicis. [Strasbourg, typ. des Vitas<0x0A>Patrum, vers 14851, in-fol.<0x0A>G W 188, Hain 69, Pellechet 41, Proctor 430, Voulliéme: Berlin<0x0A>2261, Pellechet: Colmar 1, Walter: Sélestat 1.<0x0A>K 16. Prov.: Alb. Cohn, Berlin, 27 XI. 1896, 10 M. Notes<0x0A>mss. Rel. anc.<0x0A>ACKERMANN VON BÖHMEN: Red und widerred eins ackermans.<0x0A>Strasbourg, Jean Schott, 1500, in-4°.<0x0A>G W 203, Copinger 23, Proctor 764 A. Schmidt II, 5, Schreiber<0x0A>3010; Schramm, Bilderschmuck XIX, grav. N° 887.<0x0A>K3118. Prov.: J. Baer et Co., Francfort-s.-M., 15 III. 1879, 1 M.<0x0A>ACTA CONSTANTIENSIS CONCILH: Haguenau, H. Gran, 11 avril<0x0A>1500, in-4°.<0x0A>— G W 7287, Hain 5609, Pellechet 4174, Proctor 3203, Voul¬<0x0A>liéme: Berlin 1184.<0x0A>K 19. Prov.: B N Munich, 7. VI. 1873; M. 0.20. A l’intérieur<0x0A>du premier plat, exlibris, avec la légende suivante: Francis¬<0x0A>cus Praepositus S. Salvatoris Pollingae Anno 1744, Rel. anc.<0x0A>AGENDA parochialium ecclesiarum Argentinensis diocesis.<0x0A>(Strasbourg, J. Grüninger, après 1500?), in 4°.<0x0A>Copinger 129-159, G W 460 met Bâle, Michael Furter? ou<0x0A>Strasbourg, Grüninger.<0x0A>K 60. Prov.: Don de la B U de Heidelberg, 1871. Note mss.<0x0A>Rel. anc.<0x0A>R.<0x0A>AILLY PIERRE DE. Voir: Petrus de Alliaco.<0x0A>ALAIN DE LILLE. Voir: Alanus ab Insulis.<0x0A>ALANUS AB INSULIS: Distinctiones dictionum theologicalium.<0x0A>(Strasbourg, civis C. W., vers 1474), in-fol.<0x0A>G W 488; Hain 391, Madsen 33, Pellechet 245, Proctor 343,<0x0A>Voullième: Berlin 2188.<0x0A>K 66. Prov.: B N Munich, 12 VII. 1873, 1 M. 20. Notes mss.<0x0A>Rel. anc.<0x0A>ALBERTANUS CAUSIDICUS BRIXIENSIS: De doctrina dicendi et<0x0A>tacendi. [Strasbourg, typ. du H. Ariminensis, vers<0x0A>1476), in-fol.<0x0A>G W 532, Hain 394, Madsen 40, Pellechet 252, Proctor 304,<0x0A>Voulliéme: Berlin 2160.<0x0A>K 68a. Prov.: J. Windprecht, Augsbourg, 29 XII. 1872; 1 M. 50.<0x0A>Notes mss.<0x0A>ALBERTUS MAGNUS: Compendium theologicae veritatis.<0x0A>[Strasbourg, Martin Schott, pas avant 1481), in-fol.<0x0A>G W 602. Hain 435, Madsen 57, Pellechet 275, Pellechet: Col¬<0x0A>mar 30, Proctor 392, Schmidt II, Supplément N° 4 (dit 1483,<0x0A>postérieure au 23 août), Voulliéme: Berlin 2241.<0x0A>K 79b. Prov.; J. Baer, Francfort-s.-M., 2 XII. 1912; 120 M.<0x0A>Notes mss. Rel. anc.<0x0A>ALBERTUS MAGNUS: Compendium theologicae veritatis.<0x0A>Strasbourg (J. Prüss), 1489, in-fol.<0x0A>G W 603, Hain 442, Pellechet 280, Pellechet: Colmar 32,<0x0A>Proctor 544, Voulliéme: Berlin 2356, 3.<0x0A>K 81. Prov.: Librairie Trübner, Strasbourg, 10 V. 1887, 7 M.<0x0A>Note mss. au-dessus du titre: Sum Monasterij B. M. de Porta<0x0A>coeli. D’après L. Pfleger (Zeitschrift für kath. Theologie, 1904)<0x0A>Hugo de Strasbourg est l’auteur de cet ouvrage.<0x0A>4<0x0A>ALBERTUS MAGNUS: De laudibus Beatae Mariae Virginis.<0x0A>(Strasbourg, J. Mentelin, 1474), in-fol.<0x0A>G W 616, Hain 467, Pellechet 298, Pellechet: Colmar 41, Proc¬<0x0A>tor 228, Voulliéme: Berlin 2087; Schorbach: Mentelin N° 26:<0x0A>pas après 1473.<0x0A>K. 95. Prov.: Don de la ville de Nördlingen, 1871. Rel. anc.<0x0A>ALBERTUS MAGNUS: [Liber aggregationis.) Liber secretorum<0x0A>de virtutibus herbarum et animalium. Strasbourg,<0x0A>(J. Grüninger), 14 mars 1493, in-8°.<0x0A>G W 627, Hain 541, Proctor 464; Madsen 64, Schmidt I, N° 17.<0x0A>K 132. Prov.; L. Rosenthal, Munich, 25 IV. 1899, 24 M. Note<0x0A>mss. au verso du dernier f.<0x0A>10<0x0A>ALBERTUS MAGNUS: [Mariale). [Strasbourg. J. Mentelin, pas<0x0A>après 1474), in-fol.<0x0A>G W 680, Hain 461, Madsen 71, Pellechet 299, Proctor 229,<0x0A>Voulliéme: Berlin 2088; Schorbach: Mentelin N° 27: pas<0x0A>après 1473.<0x0A>K 90. Prov.: Don de la ville de Nördlingen, 1870. Note mss.<0x0A>disant que le livre est imprimé par J. Mentelin d’après Panzer,<0x0A>Annales typ. Vol. I, p. 73, N° 409. Rel. anc.<0x0A>11<0x0A>ALBERTUS MAGNUS: (Mariale). [Strasbourg, Mart. Schott,<0x0A>vers 1485/9), in-fol.<0x0A>G W 681, Hain 463, Pellechet 300, Madsen 72, Proctor 404,<0x0A>Voulliéme: Berlin 2241, 5.<0x0A>K 92. Prov.; BN Munich, 26 I. 1874, 25 M.<0x0A>12<0x0A>ALBERTUS MAGNUS: (Mariale). Strasbourg, Martin Flach,<0x0A>1493, in-fol.<0x0A>G W (Ergänzungen) 616/10, Hain 10.768, Madsen 63, Pellechet:<0x0A>Colmar 953. Proctor 697. Voulliéme: Berlin 2496.<0x0A>K 2519. Prov.: List et Franke, Leipzig, 13. I. 1879, 12 M.<0x0A>Au-dessous du titre: Carthusiae Gemnicensis. Rel. anc. 12a<0x0A>ALBERTUS MAGNUS: Paradisus animae. Strasbourg, Martin<0x0A>Flach, 10 juillet 1498, in-4°.<0x0A>G W 706, Hain 481, Madsen 80, Pellechet 311, Pellechet: Col¬<0x0A>mar 45, Proctor 709, Schmidt VI, 67, Voulliéme: Berlin 2508,<0x0A>3, Walter: Sélestat 7.<0x0A>K 104. Prov.: Don de la ville de Heilbronn, 1871.<0x0A>2e ex. K 104a. Prov.: Librairie Trübner (Vente Noiriel), 4 IV.<0x0A>1874, s. ind. de prix. A l’intérieur du 1er plat, armoiries avec<0x0A>la date 1587. Rel. anc.<0x0A>13<0x0A>ALBERTUS MAGNUS: De secretis mulierum. (Strasbourg

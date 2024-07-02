@@ -1,0 +1,64 @@
+Extrait en un fichier JSON les entités nommées B-PER, I-PER, B-DATE, I-DATE, B-LOC, I-LOC selon l'exemple :
+Exemple =  "HANNENBEIN, Georg . Voir: LIED (Neu Klaglied der Bauern) n° 340.
+PETRUS DE CRESCENTIS
+( WUERFELBUCH ]
+ Strasbourg , ( Christian Egenolff ), 1529 
+ Marque typ. de Chris. Egenolff. Anno M. D. LXXXII 
+ Stadtbibl. Strassburg 1192". 
+
+Réponse = 
+[
+[{'entity': 'B-PER',
+   'word': 'HANNENBEIN',
+},
+  {'entity': 'I-PER',
+   'word': ',',
+},
+  {'entity': 'I-PER',
+   'word': 'Georg',
+},
+],[
+{'entity': 'B-PER',
+   'word': 'PETRUS',
+},
+{'entity': 'I-PER',
+'word': 'DE',
+},
+{'entity': 'I-PER',
+'word': 'CRESCENTIS',
+},
+],[
+{
+'entity':'B-LOC', 
+'word': 'Strasbourg',
+},
+],[
+{
+'entity': 'B-PER',
+'word': 'Christian'
+},
+{
+'entity':'I-PER',
+'word': 'Egenolff'
+},
+],[
+{'entity': 'B-DATE',
+'word': '1529'},
+],[
+{'entity':'B-PER',
+'word': 'Chris.'},
+{'entity': 'I-PER',
+'word': 'Egenolff'},
+],[
+{'entity':'B-DATE',
+'word': 'M.'},
+{'entity': 'I-DATE', 
+'word': 'D.'},
+{'entity':'I-DATE',
+'word': 'LXXXII'},
+],[
+{'entity': 'B-LOC',
+'word': 'Strassburg'}
+]
+]
+Maintenant, extrait en JSON les entités nommées des phrases suivantes : in-fol.<0x0A>Hain 15431, Madsen 3847, Pellechet: Colmar 1232, Proctor 473,<0x0A>Schmidt I, 26, Schreiber 5331, Voulliéme: Berlin 2296, Walter:<0x0A>Sélestat 454; Schramm, Bilderschmuck XX, grav. N° 240-338.<0x0A>93<0x0A>K 3465. Prov.: Librairie Treuttel 8 Würtz, Strasbourg, 21. V.<0x0A>1885, 200 M. A l'intérieur du 1er plat, portrait de S. Brant, repro¬<0x0A>duit chez Jules Janitsch, Das Bildnis Séb. Brants von Albrecht<0x0A>Dürer. Nachtrag, Planche III. Strassburg, 1906. (Studien zur<0x0A>deutschen Kunstgeschichte, Heft 74); à l’intérieur du 2e plat,<0x0A>portrait d’une femme. Au-dessus du titre: Sum ex libris<0x0A>Joannis Steinij Sontranij. Anno Christi in carnem nati 1569.<0x0A>Constat 2. florenis.» Au bord: «Sum Pauli Geilfusij Sontrani<0x0A>Anno a nato Christo 1607.» A l’intérieur du 2e plat: «Sum<0x0A>ex libris Joan. Vitriarij Anno 1625.» Rel. anc.<0x0A>2e ex. K. 3465a. Prov.: En Echange avec Fid. Butsch, Augs¬<0x0A>bourg, 13. XI. 1877. Au bord du titre, cachet: «Bibliotheca<0x0A>Palat. Vindobonensis.» Notes mss.<0x0A>447<0x0A>TERENTIUS Afer Publius: Comoediae cum commentariis et<0x0A>per Johannem Curtum ex Eberspach redactae. Stras¬<0x0A>bourg, J. Grüninger, 11 février 1499, in-fol.<0x0A>Hain 15432, Madsen 3848, Pellechet: Colmar 1234, Proctor<0x0A>488, Schmidt I, 42, Schreiber 5332, Voulliéme: Berlin 2305.<0x0A>Schramm, Bilderschmuck XX, grav. 240-338.<0x0A>K 3466. Prov.; Klincksieck, Paris (Vente Mehl), 16. V. 1873,<0x0A>5 M. 50. Notes mss. A l’intérieur du 1er plat: «Nota. Auf<0x0A>f. CXXX folgt CXL sqq. statt CXXXI Sqq. Es fehlt nichts;<0x0A>f XXXV — XL stehen nach XLVI.»<0x0A>448<0x0A>TERENTIUS Afer Publius: Comoediae (en allemand). Stras¬<0x0A>bourg, J. Grüninger, 5 mars 1499, in-fol.<0x0A>Hain 15434, Madsen 3853, Proctor 489, Schmidt I, 43, Schrei¬<0x0A>ber 5333, Voulliéme: Berlin 2306; Reichling III, S. 197,<0x0A>Schramm, Bilderschmuck XX, grav. N° 240-338.<0x0A>K 3467. Prov.: Don du Prof. E. Martin, Strasbourg, 29. VIII.<0x0A>1884.<0x0A>449<0x0A>THOMAS DE AQUINO: De arte praedicandi. [Strasbourg,<0x0A>H. Knoblochtzer, 1479), in-fol.<0x0A>Hain 1356, Pellechet: Colmar 120, Pellechet 969, Schorbach,<0x0A>Nachträge p. 90, e.<0x0A>K 3500. Prov.: M. Spirgatis, Leipzig, 28. III. 1891, 42 M. 450<0x0A>THOMAS DE AQUINO: Summa theologiae. Ilae partis, pars IIa<0x0A>(Strasbourg, J. Mentelin, vers 1462), in-fol.<0x0A>Hain 1454. Proctor 199, Voulliéme: Berlin 2107, 5; Walter:<0x0A>Sélestat 474, Schorbach: Mentelin N° 5.<0x0A>K 3531. Prov.: Don de la ville de Heilbronn, 1871. Notes mss.<0x0A>au deux ff. de garde. (Table). Rel. anc.<0x0A>451<0x0A>94<0x0A>THOMAS DE AQUINO: Tractatus de universalibus. (Stras¬<0x0A>bourg, H. Eggestein), s. d., in-4°.<0x0A>Hain 1512, Pellechet: Colmar 151, Proctor 282, Voulliéme:<0x0A>Berlin 2159, 8.<0x0A>K 3556. Prov.: Librairie Trübner, Strasbourg, 29. X. 1883,<0x0A>10 M.<0x0A>452<0x0A>THOMAS DE AQUINO: De veritate catholicae fidei. (Stras¬<0x0A>bourg, imprimeur du H. Ariminensis, vers 1469), in-fol.<0x0A>Hain 1385, Madsen 3951, Pellechet 986, Proctor 322, Voul¬<0x0A>liéme; Berlin 2179; Walter; Sélestat: 464 dit vers 1473.<0x0A>K 3509. Prov.: Don de la ville de Heilbronn, 1871. Rel. anc.<0x0A>453<0x0A>THOMAS DE ARGENTINA: Super quatuor libros Sententiarum.<0x0A>Strasbourg, Martin Flach, 1490, 2 vol., in-fol.<0x0A>Copinger 603, Madsen 3954, Pellechet 1164, Proctor 690,<0x0A>Schmidt VI, 33, Voulliéme: Berlin 2489, Walter: Sélestat:<0x0A>478.<0x0A>K 3561. Prov.: Don de la ville de Heilbronn, 1871. Rel, anc.<0x0A>454<0x0A>THOMAS EBENDORFER DE HASELBACH: Sermones dominicales.<0x0A>(Strasbourg, H. Knoblochtzer), 13 déc. 1478, 2 vol.,<0x0A>in-fol.<0x0A>Hain 8370, Madsen 1489, Pellechet: Colmar 730, Proctor 333,<0x0A>Schorbach-Spirgatis, Knoblochtzer p. 9, Schreiber 5344,<0x0A>Voulliéme: Berlin 2209, 5.<0x0A>Schramm Bilderschmuck XIX, grav. N° 7-9.<0x0A>K 3563. Prov.: Ia Pars: Don de Fid. Butsch fils, Augsbourg,<0x0A>1872. Au recto du 1er f.; «Monasterij Ranshouen». Rel. anc.<0x0A>Ila Pars Prov.: Librairie Trübner, Strasbourg, 31. VIII. 1887,<0x0A>15 M. Notes mss, au recto du f. de garde: «Ex dono Ven¬<0x0A>erabilis domini Johannis Vilakiri (?) Capellani Basiliensis<0x0A>sed tunc temporis vitam agens in Freyburgo Anno domini<0x0A>1536 ipsa die Epiphaniae.» Rel. anc.<0x0A>455<0x0A>THOMAS A KEMPIS: De imitatione Christi. Strasbourg, Mar¬<0x0A>tin Flach, 1487, in-4°.<0x0A>Hain 9092, Madsen 2063, Pellechet: Colmar 810, Proctor 673,<0x0A>Schmidt VI, 12, Voulliéme: Berlin 2475, 15.<0x0A>K 3569. Prov.: Theodor Müller, Helmstadt, 31. VII. 1889,<0x0A>20 M. Note mss. au f. du titre avec les dates 1536 et 1545.456<0x0A>95<0x0A>THOMAS A KEMPIS: De imitatione Christi. Strasbourg,<0x0A>J. Prüss), 1489, in-8°.<0x0A>Hain 9098, Pellechet: Colmar 812, Proctor 545, Schreiber<0x0A>5345, Voulliéme: Berlin 2358.<0x0A>Schramm, Bilderschmuck XX, grav. N° 1233.<0x0A>K 3570. Prov.: Fid. Butsch fils, Augsbourg, 23. III. 1877,<0x0A>5 M.<0x0A>457<0x0A>TOLLAT VON VOCHENBERG JOHANNES: Büchlein der Arznei,<0x0A>gen. Margarita medicinae. (Strasbourg, B. Kistler),<0x0A>1500, in-4°.<0x0A>Voullième: Berlin 2554.<0x0A>K 3584. Prov.; Gilhofer Ranschburg, Vienne, 18. X. 1915,<0x0A>90 Kr.<0x0A>458<0x0A>Tractatus de contractibus et vitaliciis. Strasbourg, impr.<0x0A>du H. Ariminensis, s. d.], in-2°.<0x0A>Hain 5678, Proctor 305, V

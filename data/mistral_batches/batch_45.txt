@@ -1,0 +1,64 @@
+Extrait en un fichier JSON les entités nommées B-PER, I-PER, B-DATE, I-DATE, B-LOC, I-LOC selon l'exemple :
+Exemple =  "HANNENBEIN, Georg . Voir: LIED (Neu Klaglied der Bauern) n° 340.
+PETRUS DE CRESCENTIS
+( WUERFELBUCH ]
+ Strasbourg , ( Christian Egenolff ), 1529 
+ Marque typ. de Chris. Egenolff. Anno M. D. LXXXII 
+ Stadtbibl. Strassburg 1192". 
+
+Réponse = 
+[
+[{'entity': 'B-PER',
+   'word': 'HANNENBEIN',
+},
+  {'entity': 'I-PER',
+   'word': ',',
+},
+  {'entity': 'I-PER',
+   'word': 'Georg',
+},
+],[
+{'entity': 'B-PER',
+   'word': 'PETRUS',
+},
+{'entity': 'I-PER',
+'word': 'DE',
+},
+{'entity': 'I-PER',
+'word': 'CRESCENTIS',
+},
+],[
+{
+'entity':'B-LOC', 
+'word': 'Strasbourg',
+},
+],[
+{
+'entity': 'B-PER',
+'word': 'Christian'
+},
+{
+'entity':'I-PER',
+'word': 'Egenolff'
+},
+],[
+{'entity': 'B-DATE',
+'word': '1529'},
+],[
+{'entity':'B-PER',
+'word': 'Chris.'},
+{'entity': 'I-PER',
+'word': 'Egenolff'},
+],[
+{'entity':'B-DATE',
+'word': 'M.'},
+{'entity': 'I-DATE', 
+'word': 'D.'},
+{'entity':'I-DATE',
+'word': 'LXXXII'},
+],[
+{'entity': 'B-LOC',
+'word': 'Strassburg'}
+]
+]
+Maintenant, extrait en JSON les entités nommées des phrases suivantes :<0x0A>Petrus Lombardus: Sententiarum libri IV. 392.<0x0A>1472.<0x0A>Gratianus: Decretum. 190.<0x0A>1472. 15. 9.<0x0A>Justinianus: Institutiones. 276.<0x0A>1474.<0x0A>Ludolphus de Saxonia: Meditationes vitae Jesu<0x0A>Christi. 290.<0x0A>1474. 10. 10.<0x0A>Tudeschis Nic.: Consilia. 463.<0x0A>Lpas après 14741. Bonaventura: Soliloquium. 107.<0x0A>[vers 1474).<0x0A>Gallus: Dialogus Malogranatum. 176.<0x0A>[vers 1474).<0x0A>Gregorius I. Magnus: Dialogorum libri quatuor.<0x0A>193.<0x0A>1475.<0x0A>Andreae: Quaestiones mercuriales super regulis<0x0A>juris. 23.<0x0A>[vers 1475).<0x0A>Bernardus Clarav.: Epistolae. 76.<0x0A>[vers 14751.<0x0A>Cinus de Pistorio: Lectura super codicem. 131.<0x0A>[pas après 1475). Cyrillus (Pseudo): Speculum sapientiae. 146.<0x0A>1478.<0x0A>Innocentius IV: Apparatus super V libros decre¬<0x0A>talium. 246.<0x0A>s. d.<0x0A>Eusebius: Historia ecclesiastica. 160.<0x0A>s. d.<0x0A>Ferrariis Joh.; Practica nova judicialia. 168.<0x0A>s. d.<0x0A>Hugo Pratensis: Sermones de tempore. 240.<0x0A>s. d.<0x0A>Ludolphus de Saxonia: Descriptio terrae sanctae.<0x0A>289.<0x0A>s. d.<0x0A>Nicolaus de Hanapis: Auctoritates utriusque testa¬<0x0A>menti. 342.<0x0A>s. d.<0x0A>Nicolaus de Hanapis: Auctoritates utriusque testa¬<0x0A>menti 343.<0x0A>s. d.<0x0A>Pontanus Lud.: Singularia in causis criminalibus.<0x0A>400.<0x0A>s. d.<0x0A>Psalterium latino-germanicum. 403.<0x0A>s. d.<0x0A>s. d.<0x0A>Seneca: De forma ac honestate vitae. 430.<0x0A>Thomas de Aquino: De universalibus, 452.<0x0A>FLACH Martin<0x0A>1487.<0x0A>Marchesinus Joh.; Mammotrectus, 298.<0x0A>1487.<0x0A>Paludanus: Sermones thesauri novi quadragesi¬<0x0A>males. 351.<0x0A>1487.<0x0A>Paludanus: Sermones thesauri novi de tempore.<0x0A>362.<0x0A>1487.<0x0A>Thomas a Kempis: De imitatione Christi. 456.<0x0A>1487. 10. 5.<0x0A>Guido de Monte Rotherii: Manipulus curatorum.<0x0A>202.<0x0A>1487. 20. 9.<0x0A>Cato: Disticha Catonis, 129.<0x0A>108<0x0A>1488.<0x0A>Antoninus Florentinus, Confessionale, 33.<0x0A>1488.<0x0A>Herolt Joh.; Sermones discipuli. 225.<0x0A>1488.<0x0A>Paludanus: Sermones thesauri novi quadragesi¬<0x0A>males. 352.<0x0A>1488.<0x0A>Paludanus: Sermones thesauri novi de tempore.<0x0A>363.<0x0A>1488. 1. 10.<0x0A>Nicolaus de Blony: Tractatus sacerdotalis de<0x0A>sacramentis. 336.<0x0A>1489.<0x0A>Paludanus: Sermones thesauri novi de sanctis.<0x0A>356.<0x0A>(1489. 10. 11.<0x0A>Molitoris: De laniis et phitonicis mulieribus. 330.<0x0A>1489. 9. 2.<0x0A>Guido de Monte Rotherii: Manipulus curatorum.<0x0A>203.<0x0A>1489. 20. 3.<0x0A>Augustinus S.: Opuscula plurima. 47.<0x0A>1489. 31. 10.<0x0A>Angelus de Clavasio: Summa angelica. 26.<0x0A>1489. 31. 10.<0x0A>Bonaventura: Opuscula. 102.<0x0A>1490.<0x0A>Antoninus Florentinus: Confessionale. 34.<0x0A>1490.<0x0A>Meckenlocher Frid.: Casus in terminis sexti<0x0A>decretalium. 308.<0x0A>1490.<0x0A>Thomas de Argentina: Super IV libros Sequentia¬<0x0A>rum. 454.<0x0A>1490. 29. 5.<0x0A>Nicolaus de Blony: Tractatus sacerdotalis de<0x0A>sacramentis. 337.<0x0A>1490. 18. 10.<0x0A>Anselmus Cantuarensis: De passione Christi et de<0x0A>planctu Mariae. 31.<0x0A>1490. 18. 10.<0x0A>Sermones tres de passione, 434.<0x0A>1491.<0x0A>Paludanus: Sermones thesauri novi quadragesi¬<0x0A>males. 353.<0x0A>1491.<0x0A>Paludanus: Sermones thesauri novi de sanctis.<0x0A>357.<0x0A>1491.<0x0A>Paludanus: Sermones thesauri novi de tempore.<0x0A>364.<0x0A>1491. 11. 8.<0x0A>Augustinus S.: Opuscula plurima. 48.<0x0A>1491. 1. 12.<0x0A>Angelus de Clavasio: Summa angelica. 27.<0x0A>1492.<0x0A>Antoninus Florentinus: Confessionale. 35.<0x0A>1492.<0x0A>Herolt Joh.; Sermones discipuli. 227.<0x0A>1492.<0x0A>Nicolaus de Blony: Tractatus sacerdotalis de<0x0A>sacramentis. 338.<0x0A>1493.<0x0A>Albertus Magnus: Mariale, 12a.<0x0A>1493.<0x0A>Nicolaus de Blony: Tractatus sacerdotalis de<0x0A>sacramentis. 339.<0x0A>1493.<0x0A>Paludanus: Sermones thesauri novi de sanctis.<0x0A>358.<0x0A>1493.<0x0A>Paludanus; Sermones thesauri novi de tempore.<0x0A>365.<0x0A>1494.<0x0A>Lapide Joh.: Resolutionum dubiorum circa cele¬<0x0A>brationem missarum. 278.<0x0A>1494.<0x0A>Marchesinus Joh.: Mammotrectus, 300.<0x0A>1494. 11. 8.-12. 12Gerson: Opera. Vol. 1. 2. 4. 181.<0x0A>1495.<0x0A>Herolt Joh.: Sermones discipuli. 228.<0x0A>109<0x0A>1495. 26. 3.<0x0A>Angelus de Clavasio: Summa angelica. 28.<0x0A>1495. 31. 12.<0x0A>Gritsch Joh.: Quadragesimale. 198.<0x0A>1496.<0x0A>Antoninus Florentinus: Confessionale. 36.<0x0A>1496. 21. 1.<0x0A>Sabunde Raym.: Theologia naturalis. 421.<0x0A>1496. 12. 5.<0x0A>1496. 26. 7.<0x0A>Jacobus de Voragine: Legenda aurea. 261.<0x0A>Bernardinus de Bustis: Mariale. 72.<0x0A>1497.<0x0A>Bernardus Clarav.: Sermones super cantica can¬<0x0A>Gilbertus de Hoglandia: Sermones super cantica<0x0A>ticorum. 78.<0x0A>1497.<0x0A>canticorum 188.<0x0A>1497.<0x0A>Paludanus: Sermones thesauri novi de tempore.<0x0A>366.<0x0A>1497. 13. 11.<0x0A>Paludanus: Sermones thesauri novi de sanctis.<0x0A>359.<0x0A>1498. 15. 3.<0x0A>Angelus de Clavasio: Summa angelica. 29.<0x0A>1498. 10. 7.<0x0A>Albertus Magnus: Paradisus animae. 13.<0x0A>1498. 15. 8.<0x0A>1499.<0x0A>Bernardinus de Bustis: Mariale. 73.<0x0A>1499.<0x0A>Antoninus Florentinus: Confessionale. 37.<0x0A>Guido de Monte Rotherii: Manipulus curatorum.<0x0A>206.<0x0A>1499. 28. 8.<0x0A>Herolt Joh.: Sermones discipuli, 230.<0x0A>1500. 18.<0x0A>Guilelmus Parisiensis: Postilla. 213.<0x0A>1500. 27. 8.<0x0A>1500. 20. 9.<0x0A>Wimpheling: Adolescentia. 488.<0x0A>Johannes de Gratia Dei: De confutatione hebrai¬<0x0A>cae sectae. 262.<0x0A>s. d.<0x0A>s. d.<0x0A>Henricus de Hassia: De arte praedicandi. 218.<0x0A>Marsilius ab Inghen: Quaestiones super quatuor<0x0A>libros sententiar

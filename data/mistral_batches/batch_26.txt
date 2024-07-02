@@ -1,0 +1,64 @@
+Extrait en un fichier JSON les entités nommées B-PER, I-PER, B-DATE, I-DATE, B-LOC, I-LOC selon l'exemple :
+Exemple =  "HANNENBEIN, Georg . Voir: LIED (Neu Klaglied der Bauern) n° 340.
+PETRUS DE CRESCENTIS
+( WUERFELBUCH ]
+ Strasbourg , ( Christian Egenolff ), 1529 
+ Marque typ. de Chris. Egenolff. Anno M. D. LXXXII 
+ Stadtbibl. Strassburg 1192". 
+
+Réponse = 
+[
+[{'entity': 'B-PER',
+   'word': 'HANNENBEIN',
+},
+  {'entity': 'I-PER',
+   'word': ',',
+},
+  {'entity': 'I-PER',
+   'word': 'Georg',
+},
+],[
+{'entity': 'B-PER',
+   'word': 'PETRUS',
+},
+{'entity': 'I-PER',
+'word': 'DE',
+},
+{'entity': 'I-PER',
+'word': 'CRESCENTIS',
+},
+],[
+{
+'entity':'B-LOC', 
+'word': 'Strasbourg',
+},
+],[
+{
+'entity': 'B-PER',
+'word': 'Christian'
+},
+{
+'entity':'I-PER',
+'word': 'Egenolff'
+},
+],[
+{'entity': 'B-DATE',
+'word': '1529'},
+],[
+{'entity':'B-PER',
+'word': 'Chris.'},
+{'entity': 'I-PER',
+'word': 'Egenolff'},
+],[
+{'entity':'B-DATE',
+'word': 'M.'},
+{'entity': 'I-DATE', 
+'word': 'D.'},
+{'entity':'I-DATE',
+'word': 'LXXXII'},
+],[
+{'entity': 'B-LOC',
+'word': 'Strassburg'}
+]
+]
+Maintenant, extrait en JSON les entités nommées des phrases suivantes : du 1er f.: «Monasterij B. V. in Diessen.» Au bas du<0x0A>1er f., cachet de la B M de Trèves, au-dessus à l’encre: «Bibl.<0x0A>publ. Trev. 1805». Au verso du f. de garde: «Editio princeps<0x0A>impr. Argentor. Joh. Mentelin. cf Hain II, 1, 141». Rel. anc.<0x0A>249<0x0A>JACOBUS DE DONDIS. Voir: Dondus Jacobus.<0x0A>53<0x0A>JACOBUS DE THERAMO: [Buch Belial.) [Strasbourg, H. Knob¬<0x0A>lochtzer, 14831, in-fol.<0x0A>Schorbach K. et M. Spirgatis, Heinrich Knoblochtzer, p. 35-36<0x0A>et planche 27/28, Copinger III, 5813, Pellechet: Colmar 1230,<0x0A>Schreiber 4288, Schramm XIX, grav. N° 11-44; Voulliéme:<0x0A>Berlin, 2212.<0x0A>K 2137. Prov.: Bibl. Heitz, Strasbourg, feuille unique avec<0x0A>gravure, sign. h 3.<0x0A>250<0x0A>JACOBUS DE THERAMO: Belial. (Strasbourg, H. Knobloch¬<0x0A>tzer), 1484, in-fol.<0x0A>Madsen 2165, Proctor 373, Schorbach et Spirgatis, p. 36-37,<0x0A>N° 16, Voulliéme: Berlin 2214.<0x0A>K 2138. Proy.: Don de Fid. Butsch fils, Augsbourg, 1871. Notes<0x0A>mss. à l’intérieur du 1er et du 2° plat. Rel. anc.<0x0A>251<0x0A>JACOBUS DE VORAGINE: Legenda aurea. Historia Lombar¬<0x0A>dica. [Strasbourg, G. Husner, s. d.), in-fol.<0x0A>Copinger 6388, Voulliéme, Berlin 2204, 6; Pellechet: Colmar<0x0A>1343.<0x0A>K 2116a. Prov.: Casp. Haugg. Augsbourg, 14. IX. 1891, 10 M.<0x0A>Notes mss. à l’intérieur du 1er plat. Au bas du fol. la: «Ad<0x0A>P. P. Franciscanos Novembergij ante Sylvam. Pro Cella 1 D.»<0x0A>Rel. anc.<0x0A>252<0x0A>JACOBUS DE VORAGINE: Legenda aurea. Historia Lombar¬<0x0A>dica. Strasbourg, [G. Husner, ), 1479, in-fol.<0x0A>Copinger 6417, Madsen 2174, Proctor 359, Pellechet; Colmar<0x0A>1346.<0x0A>K 2117. Prov.: Bibliothèque W. Menzel, 19. III. 1874, avec<0x0A>l’autographe de Menzel à l’intérieur du 1er plat. Notes mss.<0x0A>Au verso du dernier, f. blanc: «Iste liber est domus sancti<0x0A>Johannis baptistae Cartus.». (Le reste illisible). Rel. anc. 253<0x0A>JACOBUS DE VORAGINE: Passional. (Strasbourg, J. Prüss,<0x0A>vers 1480). Voir; Passional, N° 371.<0x0A>JACOBUS DE VORAGINE: Legenda aurea. Historia Lombar¬<0x0A>dica, (imprimeur du Jordanus (— G. Husner)), 1483,<0x0A>in-fol.<0x0A>54<0x0A>Copinger 6430, Madsen 2183, Proctor 586, Voulliéme: Berlin<0x0A>2399, Pellechet: Colmar 1351.<0x0A>K 2120a. Prov.; Baer et Cie, Francfort-s.-M., 29. V. 1885,<0x0A>11 M. 25. Notes mss. au recto et au verso du f. du titre, avec<0x0A>la date 1565. Rel. anc.<0x0A>254<0x0A>JAÇOBUS DE VORAGINE: Legenda aurea. Historia Lombar¬<0x0A>dica. Strasbourg, (imprimeur du Jordanus (— G. Hus¬<0x0A>ner)), 17 décembre 1485, in-fol.<0x0A>Proctor 600, Voullième: Berlin 2408.<0x0A>K 2121. Prov.; Don de la ville de Marktbreit, 25. VII. 1881.<0x0A>255<0x0A>JAÇOBUS DE VORAGINE: Legenda aurea. Historia Lombar¬<0x0A>dica. Strasbourg, (impr. du Jordanus (— G. Husner)),<0x0A>18 décembre 1486, in-fol.<0x0A>Copinger 644, Madsen 2186, Proctor 608, Voulliéme: Berlin<0x0A>2414, 5.<0x0A>K 2123. Prov.: Fid. Butsch fils, Augsbourg, 1872. Rel. anc. 256<0x0A>JACOBUS DE VORAGINE: Legenda aurea. Historia Lombar¬<0x0A>dica. Strasbourg, (imprimeur du Jordanus (— G. Hus¬<0x0A>ner), 23 févr.), 1489, in-fol.<0x0A>Copinger III. 6452, Pellechet: Colmar 1354, Proctor 618, Voul¬<0x0A>liéme: Berlin 2425.<0x0A>K 2125. Prov.; B N Munich, 22. I. 1880, M. 0,50. Rel. anc. A la<0x0A>suite de Johannes Gallensis, Communiloquium, 1489, K 2191.<0x0A>257<0x0A>JACOBUS DE VORAGINE: Legenda aurea. Historia Lombar¬<0x0A>dica. Strasbourg, Timprim. du Jordanus, (— G. Hus¬<0x0A>ner)), 16 août 1490, in-fol.<0x0A>Copinger 6454, Reichling III. S. 214, Madsen 2191, Proctor 622,<0x0A>Voulliéme: Berlin 2437, 5.<0x0A>K 2126. Prov.: Don de la ville de Schweinfurt, 1872. Notes<0x0A>mss. au commencement et à la fin. A l’intérieur du 1er plat:<0x0A>Jacobus Bambergensis Canonicus et custos legatus... 1536. Au¬<0x0A>dessous du titre: «Ex Bibliotheca M. Her: Hen: Frey.» Rel, anc.<0x0A>258<0x0A>JACOBUS DE VORAGINE: Legenda aurea. Historia Lombar¬<0x0A>dica. (Haguenau, H. Gran), 1497, in-4°.<0x0A>55<0x0A>Reichlin 1423, Madsen 2196.<0x0A>K 2130. Prov, inconnue. Le commencement manque. Rel. anc.<0x0A>259<0x0A>JACOBUS DE VORAGINE: Legenda aurea. Historia Lombar¬<0x0A>dica. (Strasbourg, impr. du Jordanus (— G. Husner)),<0x0A>9 août 1492, in-fol.<0x0A>Copinger III, 6458, Proctor 624, Voulliéme: Berlin 2446, 5.<0x0A>K 2127. Prov.; Baer e Co., Francfort-s.-M., 10. XI. 1910, 48 M.<0x0A>Notes mss.<0x0A>260<0x0A>JACOBUS DE VORAGINE: Legenda aurea. Historia Lombar¬<0x0A>dica. Strasbourg, (imprimeur du Jordanus (— G. Hus¬<0x0A>ner)), 12 mai 1496, in-4°.<0x0A>Proctor 630, Pellechet: Colmar 1358, Voulliéme: Berlin 2463,<0x0A>Walter: Sélestat 511.<0x0A>K 2129. Prov.; Bibliothèque W. Menzel, 19. IIl. 1874. 261<0x0A>JANUA JOHANNES. Voir: Balbus Johannes.<0x0A>JOHANNES XXI. PAPA. Voir: Petrus Hispanus.<0x0A>JOHANNES BALBUS DE JANUA. Voir: Balbus Johannes.<0x0A>JOHANNES BAPTISTA DE GRATIA DEL: De confutatione hebrai¬<0x0A>cae sectae. Strasbourg, Mart. Flach, 20 sept., 1500,<0x0A>in-4°<0x0A>Hain 7879, Madsen 1753, Pellechet 5304, Pellechet: Colmar 668,<0x0A>Proctor 719, Voulliéme: Berlin 2511.<0x0A>K 1769. Prov.; Fürst, Strasbourg, 7. Il. 1879, 15 M. Au haut<0x0A>du titre: «Johann Reichard 1666», au bas; «A. Fürst, Jud.<0x0A>Conversus 18682,<0x0A>2e ex.: K 879, 2, Prov.: BN Munich, 16. XII. 1879, 2 M. 50. A la<0x0A>suite de Bonaventura, Vita Christi, K 879. Rel. anc. 262<0x0A>JOHANNES DE

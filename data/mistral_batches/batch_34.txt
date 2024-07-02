@@ -1,0 +1,64 @@
+Extrait en un fichier JSON les entités nommées B-PER, I-PER, B-DATE, I-DATE, B-LOC, I-LOC selon l'exemple :
+Exemple =  "HANNENBEIN, Georg . Voir: LIED (Neu Klaglied der Bauern) n° 340.
+PETRUS DE CRESCENTIS
+( WUERFELBUCH ]
+ Strasbourg , ( Christian Egenolff ), 1529 
+ Marque typ. de Chris. Egenolff. Anno M. D. LXXXII 
+ Stadtbibl. Strassburg 1192". 
+
+Réponse = 
+[
+[{'entity': 'B-PER',
+   'word': 'HANNENBEIN',
+},
+  {'entity': 'I-PER',
+   'word': ',',
+},
+  {'entity': 'I-PER',
+   'word': 'Georg',
+},
+],[
+{'entity': 'B-PER',
+   'word': 'PETRUS',
+},
+{'entity': 'I-PER',
+'word': 'DE',
+},
+{'entity': 'I-PER',
+'word': 'CRESCENTIS',
+},
+],[
+{
+'entity':'B-LOC', 
+'word': 'Strasbourg',
+},
+],[
+{
+'entity': 'B-PER',
+'word': 'Christian'
+},
+{
+'entity':'I-PER',
+'word': 'Egenolff'
+},
+],[
+{'entity': 'B-DATE',
+'word': '1529'},
+],[
+{'entity':'B-PER',
+'word': 'Chris.'},
+{'entity': 'I-PER',
+'word': 'Egenolff'},
+],[
+{'entity':'B-DATE',
+'word': 'M.'},
+{'entity': 'I-DATE', 
+'word': 'D.'},
+{'entity':'I-DATE',
+'word': 'LXXXII'},
+],[
+{'entity': 'B-LOC',
+'word': 'Strassburg'}
+]
+]
+Maintenant, extrait en JSON les entités nommées des phrases suivantes :ore.<0x0A>Strasbourg, Martin Flach, 1488, in-fol.<0x0A>Copinger 5416, Schmidt VI, 14.<0x0A>K 3305. Prov.: Don de Fid. Butsch fils, Augsbourg, 1872. Au<0x0A>haut du titre: «Monasterij Ranshouen.» A l’intérieur du<0x0A>1er plat: «Ad Bibliothecam Mathiae Weentz. Anno 1570.» Rel.<0x0A>anc. Notes mss.<0x0A>363<0x0A>76<0x0A>PALUDANUS PETRUS : Sermones thesauri novi de tempore.<0x0A>Strasbourg, Martin Flach, 1491, in-fol.<0x0A>Copinger 5417, Schmidt VI, 38, Voulliéme: Berlin 2492, 3.<0x0A>K 3300. Prov.: Don de la ville de Heilbronn, 1872. Rel. anc.<0x0A>364<0x0A>PALUDANUS PETRUS: Sermones thesauri novi de tempore.<0x0A>Strasbourg, Martin Flach, 1493, in-fol.<0x0A>Copinger 5418, Günther: Leipzig 2760, Madsen 3019, Schmidt<0x0A>VI, 46.<0x0A>K 3300a. Prov.: L. Rosenthal, Munich, 16. X. 1888, 18 M.<0x0A>Notes mss. Au bas du f. a2a: «Ex Bibliotheca S. Georgii<0x0A>Dinckelspyhlo 1704.» Notes mss. Rel. anc.<0x0A>365<0x0A>PALUDANUS PETRUS: Sermones thesauri novi de tempore.<0x0A>Strasbourg, Martin Flach, 1497, in-fol.<0x0A>Copinger 5420, Schmidt VI, 62.<0x0A>K 3302. Prov.: Don du prince de Bentheim, 1871. Notes mss.<0x0A>Incomplet, sign. g5-m2 manquent.<0x0A>366<0x0A>PANORMITANUS abbas. Voir: Tudeschis Nicolaus de.<0x0A>PARATUS: Sermones de tempore et de sanctis. (Strasbourg,<0x0A>J. Grüninger), s. d., in-fol.<0x0A>Hain 12406, Madsen 3041, Voulliéme: Berlin 2517.<0x0A>K 2811. Prov.; B N Munich, 22. L. 1880, 1 M 30. Au-dessus du<0x0A>titre: «Georgius prantb». Au-dessous: «Georgius präntellius<0x0A>parochus». Au haut du f. a2a: «Sum ex libris Mgri Caspari<0x0A>Karneri SS theol. studiosi.» Notes mss. Rel. anc.<0x0A>367<0x0A>PARATUS: Sermones de tempore et de sanctis. Strasbourg,<0x0A>impr. du Jordanus (— G. Husner)), 1er sept. 1487,in-2°.<0x0A>Hain 12411, Proctor 613.<0x0A>K 2813. Prov.; B N Munich, 22. I. 1880, 3 M.<0x0A>A la suite de Guilhelmus, Postilla, 1489. K 1865.<0x0A>368<0x0A>PARENTINIS. Voir: Bernardinus de Parentinis.<0x0A>77<0x0A>PASSIONAL oder LEBEN der Heiligen. (Strasbourg, J. Prüss,<0x0A>vers 1480), in-fol.<0x0A>Copinger 6504, Schreiber 4308, Schramm, Bilderschmuck XX,<0x0A>grav. N° 1272-1326, sous Jacobus de Voragine, où ce numéro<0x0A>devrait figurer.<0x0A>K 2349. Prov.: Don de la Bibl. Univ. de Leipzig, 1871. Au¬<0x0A>dessus du 1er f.; «1726 Dem Kloster zu Sancta Maria Magda¬<0x0A>lena ordinis S. Dominici in Speyr überlassen.» Rel. anc. 369<0x0A>PAULUS DE S. MARIA BURGENSIS: Scrutinium scripturarum.<0x0A>(Strasbourg, J. Mentelin, vers 1471), in-fol.<0x0A>Hain 10763, Pellechet: Colmar 952, Proctor 209, Voulliéme:<0x0A>Berlin 2106, 5, Schorbach: Mentelin N° 19; vers 1470.<0x0A>K 2828a. Prov.: F. Butsch, Augsbourg, 12. X. 1883, 21 M. Au<0x0A>bas du f. 1: «Carthusiae in Buxheim». Au-dessous, cachet:<0x0A>«Bibl. Buxheim». Rel. anc.<0x0A>370<0x0A>PAULUS DE S. MARIA BURGENSIS: Scrutinium scripturarum.<0x0A>(Strasbourg, J. Mentelin, vers 1474), in-fol.<0x0A>Hain 10762, Madsen 3060, Proctor 223 A, Voulliéme: Berlin<0x0A>2106, Schorbach: Mentelin N° 34.<0x0A>K 2828. Prov.: Don de la ville de Nördlingen, 1872. Au recto¬<0x0A>du f. de garde: «Vide Panzeri Annal. typographici, T. I, p. 72,<0x0A>N° 4009. Rel, anc.<0x0A>374<0x0A>PELBARTUS DE THEMESWAR: Sermones Pomerii. Haguenau,<0x0A>H. Gran, 27 juillet 1498, in-4°.<0x0A>Hain 12551, Proctor 3195, Voulliéme: Berlin 1180, 5.<0x0A>K 2839. Prov.: Don de Fid. Butsch fils, Augsbourg, 1871. Rel.<0x0A>anc.<0x0A>372<0x0A>PELBARTUS DE THEMESWAR: Sermones Pomerii. (Haguenau,<0x0A>H. Gran, 20 février 1499), in-4°.<0x0A>Hain 12555 (Pars I), Proctor 3197. Voulliéme: Trier 836, Voul¬<0x0A>liéme: Berlin 1181, 10.<0x0A>K 2842. Prov. inconnue. Notes mss. Au-dessous du titre:<0x0A>Eustachius Regner (?). Au bord: «Pelbartus Osvaldus, Hunga¬<0x0A>rus, ordinis Minorum, concionator eximius, claruit anno 1501.<0x0A>Vide. Henr. Wharton, app. H. L. Wil. Can. p. 158». Rel. anc.<0x0A>373<0x0A>78<0x0A>PELBARTUS DE THEMESWAR: Sermones Pomerii. Haguenau,<0x0A>H. Gran, 22 février 1500, in-fol.<0x0A>Hain 12.552. Pellechet: Colmar 1069. Voulliéme: Berlin 1183.<0x0A>K 2840. Prov.: Don de la ville de Heilbronn, 1871. A l'inté¬<0x0A>rieur du 1er plat: Liber Jacobi Gartlibij dicti Walsponus<0x0A>emptus 1 flor. Ex legatione praedicti. Au-dessous, exlibris,<0x0A>avec la devise: «Patientia est malorum remedium». Rel. anc.<0x0A>374<0x0A>PELBARTUS DE THEMESWAR: Pars aestivalis sermonum Pome¬<0x0A>rii. Haguenau, H. Gran, 20 février 1499, in-4°.<0x0A>Hain 12555, Proctor 3197, Voulliéme: Berlin 1181,10.<0x0A>K 2842a. Prov.: Don du prince de Bentheim, 1874, prove¬<0x0A>nant du couvent de Frenswegen. Rel. anc.<0x0A>375<0x0A>PELBARTUS DE THEMESWAR: Sermones Quadragesimales<0x0A>Pomerii. Haguenau, H. Gran, 10 nov. 1499, in-4°.<0x0A>Hain 12559, Proctor 3202, Voullième: Berlin 1182, 7.<0x0A>K 2844a. Prov.; Librairie Trübner, Strasbourg, 9/XI. 1883,<0x0A>6 M.<0x0A>376<0x0A>PELBARTUS DE THEMESWAR: Sermones Quadragesimales<0x0A>Pommerii. Haguenau, H. Gran, 10 juillet 1500, in-fol.<0x0A>Hain 12560, Voulliéme: Berlin 1186.<0x0A>K 2845. Prov.: Don de la ville de Heilbronn, 1871.<0x0A>A la suite de Pelbartus, Sermones de tempore. Haguenau,<0x0A>1500. K 2840. Rel. anc.<0x0A>377<0x0A>PELBARTUS DE THEMESWAR: Stellarium coronae beatae<0x0A>Mariae virginis. Haguenau, H. Gran, 2 mai 1498, in-fol.<0x0A>Hain 12563, Madsen 3077, Proctor 3194, Voulliéme: Berlin<0x0A>118

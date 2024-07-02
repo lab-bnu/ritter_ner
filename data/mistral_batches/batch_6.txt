@@ -1,0 +1,64 @@
+Extrait en un fichier JSON les entités nommées B-PER, I-PER, B-DATE, I-DATE, B-LOC, I-LOC selon l'exemple :
+Exemple =  "HANNENBEIN, Georg . Voir: LIED (Neu Klaglied der Bauern) n° 340.
+PETRUS DE CRESCENTIS
+( WUERFELBUCH ]
+ Strasbourg , ( Christian Egenolff ), 1529 
+ Marque typ. de Chris. Egenolff. Anno M. D. LXXXII 
+ Stadtbibl. Strassburg 1192". 
+
+Réponse = 
+[
+[{'entity': 'B-PER',
+   'word': 'HANNENBEIN',
+},
+  {'entity': 'I-PER',
+   'word': ',',
+},
+  {'entity': 'I-PER',
+   'word': 'Georg',
+},
+],[
+{'entity': 'B-PER',
+   'word': 'PETRUS',
+},
+{'entity': 'I-PER',
+'word': 'DE',
+},
+{'entity': 'I-PER',
+'word': 'CRESCENTIS',
+},
+],[
+{
+'entity':'B-LOC', 
+'word': 'Strasbourg',
+},
+],[
+{
+'entity': 'B-PER',
+'word': 'Christian'
+},
+{
+'entity':'I-PER',
+'word': 'Egenolff'
+},
+],[
+{'entity': 'B-DATE',
+'word': '1529'},
+],[
+{'entity':'B-PER',
+'word': 'Chris.'},
+{'entity': 'I-PER',
+'word': 'Egenolff'},
+],[
+{'entity':'B-DATE',
+'word': 'M.'},
+{'entity': 'I-DATE', 
+'word': 'D.'},
+{'entity':'I-DATE',
+'word': 'LXXXII'},
+],[
+{'entity': 'B-LOC',
+'word': 'Strassburg'}
+]
+]
+Maintenant, extrait en JSON les entités nommées des phrases suivantes :o¬<0x0A>sophie et les 9 muses (Schramm, vol. XX. N°2296), l’Acker¬<0x0A>mann von Böhmen 1500 (sans indication du jour) avec<0x0A>armoiries, Exceptiones legum Romahorum du 4 novembre<0x0A>*) Voir: Clauss J., Historisch-topographisches Wörterbuch des<0x0A>Elsass: Zabern, p. 914: Roppenzweiler: Ropertzwilr 1290... Rop¬<0x0A>perswyler 1540» etc<0x0A>XXII<0x0A>1500 et l’Epitome de mensuris syllabarum de Pierre Schott<0x0A>(1500).<0x0A>Jean Schott appartient principalement au 16e siècle.<0x0A>Il acquit très vite une grande renommée et c’est alors «qu’il<0x0A>adopta les armoiries de son grand père, l’imprimeur Jean<0x0A>Mentelin, pour attester sa dépendance du célèbre impri¬<0x0A>meur, qu’il qualifia, ne connaissant pas l’histoire vraie, de<0x0A>premier inventeur de l’art typographique» *). Il était encore<0x0A>en vie en 1545. Schmidt cite 145 ouvrages sortis des presses<0x0A>de Schott, auxquels viennent encore s’ajouter 32 numéros<0x0A>signalés dans le supplément du vol. Il du Répertoire de<0x0A>Schmidt, publié en 1910 par S. H. Scott.<0x0A>MATHIAS BRANT (1495-1500)<0x0A>dont la tradition prétend qu’il a été le frère du célèbre<0x0A>Sébastien Brant, ce qui n’est pas prouvé, avait sa presse<0x0A>dans la maison «Zum Rosengarten am Weinmarkt». Il n’a<0x0A>presque rien imprimé de sorte qu’on admet généralement<0x0A>que l’imprimerie n’était pour lui qu’une occupation secon¬<0x0A>daire. Nous connaissons de lui le Regimen Sanitatis (1500)<0x0A>avec une gravure empruntée au «Pestbuch» de Brunschwig<0x0A>imprimé par Grüninger en 1500 et la «Medulla Elegantia¬<0x0A>rum» de Wimpheling. Schorbach**) lui attribue en outre<0x0A>l’Histoire du Chevalier Behringer (1495) et le «Hiltebrants¬<0x0A>Lied» qui ont tous les deux la même gravure (Schramm,<0x0A>vol. XX. N° 2298).<0x0A>MATHIAS HUPFUFF (1498-1520)<0x0A>était d’origine Wurtembergeoise. Nous ne le rencontrons à<0x0A>Strasbourg qu’en 1498. D’après Voulliéme il aurait été<0x0A>l’année auparavant à Kirchheim en Alsace (— Neu (Klein)<0x0A>*) Schmidt, Répertoire Vol. II, p. VIII.<0x0A>*4) Schorbach Karl, Seltene Drucke N° 1. Leipzig, M. Spir¬<0x0A>gatis 1893. in-8°.<0x0A>XXIII<0x0A>Troja), où Marc Reinhart *), probablement frère de Jean<0x0A>Reinhart de Grüningen, avait établi sa presse en 1489. Il y<0x0A>aurait imprimé deux petits ouvrages en allemand: Voca¬<0x0A>bularius latin. — german, (1495) et S. Brandans Leben 1497.<0x0A>L’année suivante Hupfuff établit son officine à Strasbourg;<0x0A>pour la vente de ses publications il a eu un étalage sous le<0x0A>grand escalier extérieur de l’Hôtel de Ville; à partir de 1509<0x0A>il en a eu aussi un près de la cathédrale.<0x0A>Hupfuff a été marié deux fois, une première fois avec<0x0A>Elsa Klemm d’Oppershofen (diocèse de Mayence). Après la<0x0A>mort d’Elsa, atteinte de la lèpre en 1509, il épousa Brigitte<0x0A>Zorn; lui-même mourut en 1520; le dernier livre sorti de sa<0x0A>presse «Baptistae Mantuani Fastorum Libri» parut au mois<0x0A>de mars 1520.<0x0A>Il a publié de nombreux ouvrages latins et des traités<0x0A>populaires de tout genre: calendriers, chansons, livres de<0x0A>droit, sermons de Geiler, satyres de Murner, etc., la plupart<0x0A>du XVIe siècle. Une vingtaine d’entre eux remontent au<0x0A>XVe siècle, parmi lesquels quatorze sont ornés de gravures:<0x0A>Brandans Meerfahrt (1499) avec les mêmes gravures que<0x0A>dans l’édition de Kirchheim de 1497, Büchlein, wie man<0x0A>Fisch fangen soll (1498) avec trois gravures (Schramm,<0x0A>vol. XX. N° 2085-2086), Kaiser Karls Recht (1498) avec<0x0A>3 gravures (Schramm N° 2087), Amor die Liebe, 16 gravures<0x0A>(Schramm N° 2088- 2100), Lucidarius, 8 gravures (Schramm<0x0A>2102-2106), Salomon et Salomé (1499), 48 grav. (Schramm<0x0A>N° 2107-2152), Träume Daniels (1500), 2 grav. (Schramm<0x0A>2153), Dracole wajda (1500), 1 grav. (Schramm 2154), Bos¬<0x0A>man, Mirakel von einem Geist (1500), 1 grav. (Schramm<0x0A>N° 2155), Ritter von Staufenberg par Eckenolt (1500),<0x0A>20 grav. (Schramm N° 2156-2172), Roms Wunderwerke<0x0A>(1500), 12 grav. (Schramm N° 2173), König Laurin (5. sept.<0x0A>*) Marc Reinhart s’établit vers 1476 à Lyon, où il fut l’associé<0x0A>de Nic. Philippi. En 1483 il quitta Lyon et arriva à Strasbourg,<0x0A>où il travailla probablement chez son frère Jean Reinhart, alias<0x0A>Grüningen. En 1489 il s’établit à Kirchheim, où il imprima un assez<0x0A>grand nombre de livres religieux jusque vers 1494.<0x0A>XXIV<0x0A>1500), 20 grav. (Schramm N° 2176- 2191), Tondalus en alle¬<0x0A>mand (1500), 22 grav. (Schramm N° 2174 et 2192 2210).<0x0A>THOMAS ANSHELM (1488)<0x0A>est originaire de Baden-Baden. Il est immatriculé à l’Uni¬<0x0A>versité de Bâle en 1485 comme Thomas Anshelmi de «Baden<0x0A>Spirensis diocesis (Baden-Baden). Trois années plus tard<0x0A>nous le rencontrons à Strasbourg, où il imprime le 10 jan¬<0x0A>vier 1488 le Plenarium en allemand avec des gravures fort<0x0A>remarquables. (Voir Kristeller, die Strassburger Buchillu¬<0x0A>stration, Leipzig 1888, p. 24 et suiv.; Schramm, vol, XX<0x0A>N° 1697-1752.)<0x0A>Le Plenarium est la seule impression Strasbourgeoise<0x0A>qu’on connaît de Thomas Anshelm. De 1500 à 1511, il est<0x0A>établi à Pfortzheim, de 1511 à 1516 à Tubingue où il déploya<0x0A>une grande activité. En 1516 il arriva à Haguenau, où il<0x0A>imprime jusque vers 1524 environ 250 ouvrages, enrichis<0x0A>en grande partie de magnifiques gravures, dont beaucoup<0x0A>sont signées par des artistes éminents tels que Hans Baldung<0x0A>Grien et Jean Scheuffelin. Il meurt en 1523 ou 1524*).<0x0A>HENRI GRAN (1489, 1523)<0x0A>Il fut le premier et l’unique imprimeur qui imprimât<0x0A>à Haguenau au cours du quinzième siècle. Il est probable¬<0x0A>ment né à Haguenau même, dans la première moitié du<0x0A>quinzième siècle **). D’après les Annales manuscrites des<0x0A>Récollets de Haguenau, Gran aurait fondé son établissement<0x0A>en 1469, ce qui paraît fort invraisemblable vu qu’on ne<0x0A>connaît aucun ouvrage imprimé par lui avant 1489. La ville<0x0A>de Haguenau lui avait accordé l’année auparavant le pri¬<0x0A>vilè

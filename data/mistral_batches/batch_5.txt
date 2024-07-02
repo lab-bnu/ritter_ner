@@ -1,0 +1,64 @@
+Extrait en un fichier JSON les entités nommées B-PER, I-PER, B-DATE, I-DATE, B-LOC, I-LOC selon l'exemple :
+Exemple =  "HANNENBEIN, Georg . Voir: LIED (Neu Klaglied der Bauern) n° 340.
+PETRUS DE CRESCENTIS
+( WUERFELBUCH ]
+ Strasbourg , ( Christian Egenolff ), 1529 
+ Marque typ. de Chris. Egenolff. Anno M. D. LXXXII 
+ Stadtbibl. Strassburg 1192". 
+
+Réponse = 
+[
+[{'entity': 'B-PER',
+   'word': 'HANNENBEIN',
+},
+  {'entity': 'I-PER',
+   'word': ',',
+},
+  {'entity': 'I-PER',
+   'word': 'Georg',
+},
+],[
+{'entity': 'B-PER',
+   'word': 'PETRUS',
+},
+{'entity': 'I-PER',
+'word': 'DE',
+},
+{'entity': 'I-PER',
+'word': 'CRESCENTIS',
+},
+],[
+{
+'entity':'B-LOC', 
+'word': 'Strasbourg',
+},
+],[
+{
+'entity': 'B-PER',
+'word': 'Christian'
+},
+{
+'entity':'I-PER',
+'word': 'Egenolff'
+},
+],[
+{'entity': 'B-DATE',
+'word': '1529'},
+],[
+{'entity':'B-PER',
+'word': 'Chris.'},
+{'entity': 'I-PER',
+'word': 'Egenolff'},
+],[
+{'entity':'B-DATE',
+'word': 'M.'},
+{'entity': 'I-DATE', 
+'word': 'D.'},
+{'entity':'I-DATE',
+'word': 'LXXXII'},
+],[
+{'entity': 'B-LOC',
+'word': 'Strassburg'}
+]
+]
+Maintenant, extrait en JSON les entités nommées des phrases suivantes :̀ l’imprimeur Jean Knobloch qui reçut de ce fait<0x0A>le droit de bourgeoisie le 21 mai 1501 et hérita en même<0x0A>temps l’imprimerie de Flach père, de sorte que le fils Martin<0x0A>Flach junior dût quitter l’officine de son père et se pour¬<0x0A>voir ailleurs.<0x0A>Les premiers imprimés de Flach qui portent son nom<0x0A>ne datent que de l’année 1487. Tous les ouvrages que les<0x0A>bibliographes lui ont attribués avant cette date lui ont été<0x0A>faussement attribués; on a confondu l’imprimeur Martin<0x0A>Flach de Bâle avec celui de Strasbours et a attribué à ce<0x0A>dernier les impressions qui provenaient de Martin Flach de<0x0A>Bâle. On connait environ une centaine d’ouvrages sortis<0x0A>des presses de Flach, pour la plupart des ouvrages de théo¬<0x0A>logie, en outre quelques grammaires latines ainsi que quel¬<0x0A>*) Voir Schmidt, Répertoire Vol. VII, p. VIII.<0x0A>XIX<0x0A>ques ouvrages de droit canonique. La dernière publication<0x0A>est la «Confutatio judaicae sectae magistri Johannis Bap¬<0x0A>tistae», datée du 20 septembre 1500. Flach a peu d’ouvrages<0x0A>illustrés. Pour les œuvres de Gerson il a emprunté la gra¬<0x0A>vure à Prüss; Ebrardus, Modus latinitatis n’a qu’une gra¬<0x0A>vure (Schramm, vol. XX, N° 1685), de même Guillermus,<0x0A>Postilla, dont il a fait deux éditions (Schramm, N° 1686);<0x0A>l’Adolescentia de Wimpheling du 27 août 1500 en a trois<0x0A>(Schramm, N° 1687–1689). Dans le «Certi Tractatus» de<0x0A>Nicolas de Cuse il y a en outre quelques figures mathémati¬<0x0A>ques sans importance.<0x0A>PIERRE ATTENDORN (1489-1499)<0x0A>Après avoir fait des études à l’Université de Heidelberg,<0x0A>où il comptait Wimpheling parmi ses maîtres, Attendorn<0x0A>semble avoir débuté comme libraire et ne s’être occupé de<0x0A>l’impression qu’en passant, sans pouvoir prospérer. Il était<0x0A>né en Westphalie et avait acheté le droit de bourgeois Stras¬<0x0A>bourgeois le 12 mars 1476. Le 22 octobre 1482 l’imprimeur<0x0A>Rusch pria son ami Jean Amerbach de Bâle de fournir<0x0A>contre payement à Attendorn, honnête ouvrier qui ne<0x0A>demandait qu’à travailler pour entretenir sa famille, des<0x0A>caractères «pro una pressura».<0x0A>En 1489 (après le 25 octobre) parut le «Directorium<0x0A>statuum seu tribulatio seculi», qui contient des lettres de<0x0A>Wimpheling à Attendorn et une réponse de ce dernier, d’où<0x0A>il ressort qu’Attendorn est l’imprimeur du Directorium.<0x0A>Celui-ci contient trois gravures dont la première est em¬<0x0A>pruntée à J. Prüss: «Epistolae de misericordia curatorum»:<0x0A>les deux autres sont reproduites chez Schramm (Vol. XX,<0x0A>N° 1261–1262). Voulliéme lui attribue en outre les 4 numé¬<0x0A>ros (770-773) de Proctor qui a reconnu le premier la con¬<0x0A>cordance des caractères de ces ouvrages avec le Directo¬<0x0A>rium, ainsi que la Pharetra fidei, s. l. n. d. D’après le<0x0A>Gesamtkatalog der Wiegendrucke N° 1921 Attendorn a<0x0A>XX<0x0A>aussi imprimé le traité «Die Vier Angeltugenden» qui con¬<0x0A>tient six gravures imitées de l’édition de Sorg, Augsbourg<0x0A>(Schramm, N° 1690-1695).<0x0A>BARTHELEMY KISTLER (1497-1510)<0x0A>Originaire de Spire, Kistler acheta en 1486 le droit de<0x0A>bourgeoisie à Strasbourg; il était peintre de profession et<0x0A>ne commença à imprimer que vers 1497. Il avait son offi¬<0x0A>cine au Grieneck, vis-à-vis de l’Hôpital; pour la vente de<0x0A>ses livres, il avait près de la cathédrale une boutique qu’il<0x0A>céda en 1509 à l’imprimeur Hupfuff. De 1497 à 1500 il publia<0x0A>environ une vingtaine de livres populaires en langue alle¬<0x0A>mande qui sont pour la plupart ornés de gravures sur bois.<0x0A>A partir de 1509 il n’imprima plus rien; il avait probable¬<0x0A>ment renoncé à la typographie pour ne travailler que<0x0A>comme peintre. De 1517 à 1520 il fut membre du Conseil<0x0A>où il représentait la corporation de l’Echasse. En 1525 il<0x0A>n’était plus en vie. Le «Büchlein der Arznei ou Margarita<0x0A>medicinae (1500), qu’on attribua longtemps à J. Knobloch,<0x0A>a été reconnu comme une impression de Kistler, de sorte que<0x0A>Knobloch appartient exclusivement au seizième siècle.<0x0A>Les gravures qu’on rencontre dans les livres de Kistler<0x0A>sont en général assez bonnes. On en trouve un grand nombre<0x0A>dans les «Prognostica» de Lichtenberg du 31 octobre 1497<0x0A>(Schramm, vol. XX, N° 1754-1801), de même dans le «Büch¬<0x0A>lein von dem h. Job, 1498 (Schramm, N° 1805-1817), «Sankt<0x0A>Pauls Leben 1498 (Schramm, N° 1818- 1835), «Zerstörung<0x0A>Trojas (Schramm, N° 1837—1886), Itinerarius de Mande¬<0x0A>ville (Schramm, N° 1887—2045) etc.<0x0A>FRÉDÉRIC RUCH DE DUMBACH (1497-1499)<0x0A>On ne connaît presque rien de la vie de Ruch de Dum¬<0x0A>bach; on sait qu’il acheta le droit de bourgeoisie en 1495 et<0x0A>qu’il imprima le Missale Warmiense en 1497, ainsi qu’un<0x0A>XXI<0x0A>Agenda pour le diocèse de Breslau en 1499, dont le pre¬<0x0A>mier contient une gravure sur bois, représentant le Christ<0x0A>à la croix (Schramm, vol. XX, N° 2084).<0x0A>GUILLAUME SCHAFFENER (1498- 1515)<0x0A>était, d’après Schmidt, Rép. Vol. IV, p. VI originaire de<0x0A>Roppertswiller (comté de Ferrette); Voulliéme, Die deut¬<0x0A>schen Drucker des 15. Jahrhunderts, p. 159, confond<0x0A>«Ropertswilr» avec Rappoltsweiler (Ribeauvillé) *).<0x0A>Schaffener semble avoir été un imprimeur ambulant<0x0A>et n’a laissé que peu de monuments de son activité; on ne<0x0A>connaît que deux impressions de lui avant la fin du<0x0A>15e siècle, le Hortulus animae du 13 mars 1498 et une réim¬<0x0A>pression du 15 mars 1500; le premier contient 72, le deu¬<0x0A>xième 74 gravures assez remarquables (Schramm, vol. XX.<0x0A>N° 2211–2290).<0x0A>JEAN SCHOTT (1500 1544)<0x0A>Fils de Martin Schott, né le 19 juin 1477 à Strasbourg,<0x0A>Jean Schott fit des études aux Universités de Fribourg en<0x0A>Br., Heidelberg et Bâle. A la mort de son père survenue le<0x0A>22 novembre 1499 il renonça aux études pour s’adonner<0x0A>tout entier à l’imprimerie et il publia ainsi à la fin du<0x0A>15e siècle encore cinq ouvrages: Die 24 Alten d’Otto de<0x0A>Passau du 21 mars 1500 avec 25 gravures, empruntées à<0x0A>l’édition de son père de 1483, De consolatione philosophiae<0x0A>de Boëthius du 31 août 1500, qui contient trois fois<0x0A>la même gravure, Boëthius sur son lit, devant lui la

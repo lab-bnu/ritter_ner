@@ -1,0 +1,64 @@
+Extrait en un fichier JSON les entités nommées B-PER, I-PER, B-DATE, I-DATE, B-LOC, I-LOC selon l'exemple :
+Exemple =  "HANNENBEIN, Georg . Voir: LIED (Neu Klaglied der Bauern) n° 340.
+PETRUS DE CRESCENTIS
+( WUERFELBUCH ]
+ Strasbourg , ( Christian Egenolff ), 1529 
+ Marque typ. de Chris. Egenolff. Anno M. D. LXXXII 
+ Stadtbibl. Strassburg 1192". 
+
+Réponse = 
+[
+[{'entity': 'B-PER',
+   'word': 'HANNENBEIN',
+},
+  {'entity': 'I-PER',
+   'word': ',',
+},
+  {'entity': 'I-PER',
+   'word': 'Georg',
+},
+],[
+{'entity': 'B-PER',
+   'word': 'PETRUS',
+},
+{'entity': 'I-PER',
+'word': 'DE',
+},
+{'entity': 'I-PER',
+'word': 'CRESCENTIS',
+},
+],[
+{
+'entity':'B-LOC', 
+'word': 'Strasbourg',
+},
+],[
+{
+'entity': 'B-PER',
+'word': 'Christian'
+},
+{
+'entity':'I-PER',
+'word': 'Egenolff'
+},
+],[
+{'entity': 'B-DATE',
+'word': '1529'},
+],[
+{'entity':'B-PER',
+'word': 'Chris.'},
+{'entity': 'I-PER',
+'word': 'Egenolff'},
+],[
+{'entity':'B-DATE',
+'word': 'M.'},
+{'entity': 'I-DATE', 
+'word': 'D.'},
+{'entity':'I-DATE',
+'word': 'LXXXII'},
+],[
+{'entity': 'B-LOC',
+'word': 'Strassburg'}
+]
+]
+Maintenant, extrait en JSON les entités nommées des phrases suivantes :13-24.<0x0A>XII<0x0A>HENRI EGGESTEIN (1466—1484)<0x0A>Henri Eggestein, contemporain de Mentelin, avec qui<0x0A>il avait convenu de garder secret l’art de la typographie,<0x0A>était originaire de Rosheim, où l’on peut suivre sa famille<0x0A>jusque dans la première moitié du 14e siècle. Après avoir<0x0A>terminé ses études comme maître-ès-arts, il alla s’établir à<0x0A>Strasbourg, où il devint après 1427 «Sigillifer curiae prae¬<0x0A>positurae Argentinensis». En 1442 il obtint le droit de bour¬<0x0A>geoisie en qualité de post-constoffler, mais renonça à ce<0x0A>droit en 1452 pour le racheter de nouveau en 1459. Il garda<0x0A>sa fonction de sigillifer jusqu’en 1463, où il fut remplacé par<0x0A>Pierre Strube à qui il intenta un procès de diffamation.<0x0A>C’est probablement vers ce temps qu’il entra en relation<0x0A>avec Mentelin qui le prit comme associé à cause de sa<0x0A>qualité de maître ès-arts; mais l’association ne dura pas<0x0A>longtemps, car déjà le 30 avril 1466 nous voyons le Land¬<0x0A>vogt de la Basse-Alsace, Frédéric le Palatin, le prendre<0x0A>sous sa protection, lui et ses ouvriers.<0x0A>Eggestein s’était marié en 1448 avec Agnès, sœur de<0x0A>Michel Ochsensteiner, curé de Sélestat. Il posséda avec<0x0A>son frère Sifrid la maison «Zum Eggestein» dans la rue<0x0A>des Pucelles, mais demeura dès l’année 1441 dans la mai¬<0x0A>son «Zum Baumgarten» dans le Dumenloch, où il ins¬<0x0A>talla plus tard d’après Schmidt son officine *). Comme<0x0A>marque typographique il avait un écu barré, rose à cinq<0x0A>feuilles au-dessous, et son nom, Henricus Eggestein au-des¬<0x0A>sus. Les livres sortis de ses presses sont assez nombreux;<0x0A>notre Bibliothèque en possède une trentaine. Son premier<0x0A>ouvrage, qui lui valut tout de suite une grande renommée,<0x0A>fut sa Bible latine à 45 lignes (2 col.) avec 496 feuilles in-fol.,<0x0A>qui parut avant le 24 mai 1466; en effet l’exemplaire de la<0x0A>BN de Munich porte la note manuscrite: 1466. Les premiers<0x0A>*) Schorbach: Mentelin p. 126; «Schmidt verlegt Eggesteins<0x0A>Werkstatt ohne Grund in das Dumenloch (heute Thomansgasse).<0x0A>Eggestein hat aber zweifellos in dem grossen Doppelhause, wel¬<0x0A>ches er nachweislich vor 1466 besass, und das in der Jungfrauen¬<0x0A>gasse lag, seine bedeutende Offizin gehabt.»<0x0A>XIII<0x0A>ouvrages avec son nom et la date remontent à 1471; son<0x0A>dernier, la bulle de Sixte IV en faveur de l’Eglise de Séles¬<0x0A>tat est datée 31 octobre 1483, elle a donc été imprimée à<0x0A>la fin de 1483 ou au commencement de 1484; elle est ornée<0x0A>d’une gravure sur bois avec les armoiries du pape à droite<0x0A>et la sainte Vierge en prière à gauche. (Schramm, vol. XIX,<0x0A>N° 9); c’est la seule gravure qu’on rencontre dans les<0x0A>ouvrages d’Eggestein; dans le calendrier allemand pour<0x0A>l’année 1480 il y a en outre une bande d’ornement.<0x0A>(Schramm, Vol. XIX, N° 8).<0x0A>L’année de sa mort est inconnue.<0x0A>GEORGES HUSNER (1473, 1498)<0x0A>De Husner on ne connaît ni le lieu d’origine ni la date<0x0A>de naissance. Il était orfèvre et imprimeur de son métier.<0x0A>Le 17 septembre 1470 il obtint le droit de bourgeoisie à<0x0A>Strasbourg par suite de son mariage avec Agnès, fille de<0x0A>l’orfèvre Nicolas de Honau. Il travailla comme «aurifaber<0x0A>et pressor librorum» avec son beau-père et un aide, le<0x0A>clerc mayençais Jean Beckenhaub, qui servait de correc¬<0x0A>teur. Le premier livre daté qui sortit de leur presse parut<0x0A>le 22 novembre 1473; c’est le Speculum judiciale de Duran¬<0x0A>dus, où il est dit dans l’explicit: «Consummatum est et per¬<0x0A>fectum in celebri Argentinorum urbe, factoribus Georgio<0x0A>Huszner civi inibi et Johanne Beckenhub clerico Mogun¬<0x0A>tino. Anno M. CCCC. LXXIII. Mensis novembris die XXII.»<0x0A>A partir de l’année 1476 les livres ne portent plus que le<0x0A>nom de Husner. Entre les années 1479 et 1493 on ne con¬<0x0A>naît rien de lui sous son nom. Mais il est prouvé mainte¬<0x0A>nant que l’imprimeur inconnu du Jordanus de Quedlin¬<0x0A>bourg avec les nombreuses publications des années 1479<0x0A>à 1493 ainsi que l’imprimeur des Casus Breves Decreta¬<0x0A>lium ne sont autres que Georges Husner, de sorte que<0x0A>cette lacune n’existe plus aujourd’hui.<0x0A>Pour l’illustration, Husner est aussi insignifiant que ses<0x0A>prédécesseurs dont nous venons de parler. Il n’a qu’une<0x0A>XIV<0x0A>seule gravure, le maître avec deux élèves, qui revient dans<0x0A>cinq de ses livres, c’est-à-dire dans les quatre éditions de<0x0A>l’Exercitium puerorum grammaticale (1494, 1495, 1498 et<0x0A>1500) ainsi que dans la Disciplina scholarium du Pseudo¬<0x0A>Boëthius, s. d. (Voir; Schreiber-Heitz, Die deutschen<0x0A>Accipies und Magister cum discipulis, grav. N° 19 et<0x0A>Schramm, vol. 19, N° 10).<0x0A>Au seizième siècle il s’était probablement retiré des<0x0A>affaires; on le retrouve en 1508 comme représentant de la<0x0A>corporation des orfèvres dans le Conseil de la ville. Il<0x0A>mourut le 16 août 1517 d’après un ancien document qui<0x0A>dit: «Anno domini M. CCCCC. XVII... obiit Georgius Husner,<0x0A>impressor librorum, civis Argentinensis.»<0x0A>HENRI KNOBLOCHTZER (1473--1484)<0x0A>D’après le livre d’immatriculation de l’Université de<0x0A>Heidelberg, dans lequel Knoblochtzer *) fut inscrit le<0x0A>9 avril 1486 sous le recteur Jeronimus Flor de Heydelberga,<0x0A>Knoblochtzer était né à Ettenheym, Argent. dioc. (près<0x0A>Fribourg en Br.) On ne connaît presque rien sur sa vie à<0x0A>Strasbourg, nous savons seulement qu’il y exploita une<0x0A>imprimerie de 1473 à 1483 et qu’il transporta ses presses à<0x0A>Heidelberg, où il travailla avec beaucoup de succès de<0x0A>1485 environ jusqu’à 1495. Knoblochtzer fut un des premiers<0x0A>qui donna un caractère industriel et commercial à l’art<0x0A>typographique à Strasbourg et en même temps un des<0x0A>premiers, sinon le premier qui apporta plus de soin aux<0x0A>illustrations, dont il fit un grand usage. Schramm ne cite<0x0A>pas moins de 41 ouvrages à gravures de Knoblochtzer<0x0A>durant son séjour à Strasbourg (Voir Schramm XIX,<0x0A>N° 11-424), pour la plupart des livres populaires allemands<0x0A>comme Belial avec 55 gravures, Burgundische Historie<0x0A>8 gravures, Griseldis 10 grav., Buch der h. drei Könige<0x0A>58 grav., Hertzog Ernst von Bayern 32 grav., Sieben Meister<0x0A>*) Voir: Schorbach, Knoblochtzer p. 1-17.<0x0A>XV<0x0A>52 grav., Melusine 67 grav., etc. Sa première impression<0x0A>datée est de 1476; Pius II, De duobus amantibus, dont Schor¬<0x0A>bach (p. 72) dit qu’il n’a pas connu d’exemplaire; il y en a<0x0A>cependant un à la BN de Paris, un dans le British Museum<0x0A>à Londres et un a

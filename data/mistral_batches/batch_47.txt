@@ -1,0 +1,64 @@
+Extrait en un fichier JSON les entités nommées B-PER, I-PER, B-DATE, I-DATE, B-LOC, I-LOC selon l'exemple :
+Exemple =  "HANNENBEIN, Georg . Voir: LIED (Neu Klaglied der Bauern) n° 340.
+PETRUS DE CRESCENTIS
+( WUERFELBUCH ]
+ Strasbourg , ( Christian Egenolff ), 1529 
+ Marque typ. de Chris. Egenolff. Anno M. D. LXXXII 
+ Stadtbibl. Strassburg 1192". 
+
+Réponse = 
+[
+[{'entity': 'B-PER',
+   'word': 'HANNENBEIN',
+},
+  {'entity': 'I-PER',
+   'word': ',',
+},
+  {'entity': 'I-PER',
+   'word': 'Georg',
+},
+],[
+{'entity': 'B-PER',
+   'word': 'PETRUS',
+},
+{'entity': 'I-PER',
+'word': 'DE',
+},
+{'entity': 'I-PER',
+'word': 'CRESCENTIS',
+},
+],[
+{
+'entity':'B-LOC', 
+'word': 'Strasbourg',
+},
+],[
+{
+'entity': 'B-PER',
+'word': 'Christian'
+},
+{
+'entity':'I-PER',
+'word': 'Egenolff'
+},
+],[
+{'entity': 'B-DATE',
+'word': '1529'},
+],[
+{'entity':'B-PER',
+'word': 'Chris.'},
+{'entity': 'I-PER',
+'word': 'Egenolff'},
+],[
+{'entity':'B-DATE',
+'word': 'M.'},
+{'entity': 'I-DATE', 
+'word': 'D.'},
+{'entity':'I-DATE',
+'word': 'LXXXII'},
+],[
+{'entity': 'B-LOC',
+'word': 'Strassburg'}
+]
+]
+Maintenant, extrait en JSON les entités nommées des phrases suivantes :LINBOURG (— G. HUSNER)<0x0A>Jacobus de Voragine: Legenda aurea. 254.<0x0A>1483.<0x0A>Jordanus de Quedlinbourg: Sermones de tem¬<0x0A>1483.<0x0A>pore. 274.<0x0A>Nider Joh.; Praeceptorium divinae legis. 347.<0x0A>1483.<0x0A>Bernardus Parmensis: Casus longi super decre¬<0x0A>1484.<0x0A>tales. 79.<0x0A>Durandus: Rationale divinorum officiorum, 154.<0x0A>1484.<0x0A>Martinus Polonus: Sermones de tempore et de<0x0A>1484.<0x0A>sanctis. 305.<0x0A>112<0x0A>1485. 14 2.<0x0A>Bartholomaeus Anglicus: De proprietatibus rerum.<0x0A>66.<0x0A>Taprès le 24. 2.<0x0A>1485).<0x0A>Petrus Comestor: Historia scholastica. 386.<0x0A>1485. 9. 3.<0x0A>1485. 15. 6.<0x0A>Guilelmus Parisiensis: Postilla, 207.<0x0A>Hilarius Litomiricensis: Contra perfidiam aliquo¬<0x0A>rum Bohemorum. 233.<0x0A>1485. 15. 6.<0x0A>Michael de Dalen: Casus breves decretalium. 316.<0x0A>1485. 30. 7.<0x0A>Hugo de S. Victore: De sacramentis, 244.<0x0A>1485. 15. 9.<0x0A>Johannes de Verdena: Sermones dormi secure.<0x0A>270.<0x0A>1485. 28. 9.<0x0A>Turrecremata Joh.: Expositio Psalterii, 466.<0x0A>1485. 17. 12.<0x0A>1486. 1. 3.<0x0A>Jacobus de Voragine: Legenda aurea. 255.<0x0A>Guilelmus Parisiensis: Postilla. 208.<0x0A>1486. 9. 3.<0x0A>1486. 13. 7.<0x0A>Crescentiis: Opus ruralium commodorum, 145.<0x0A>1486. 16. 9.<0x0A>Durandus: Rationale divinorum officiorum, 156.<0x0A>Vocabularius utriusque juris. 485.<0x0A>1486. 9. 10.<0x0A>Columna: Historia destructionis Trojae. 135.<0x0A>1486. (14. 101.<0x0A>1486. 1. 11.<0x0A>Historia Alexandri Magni, 281.<0x0A>Martinus Polonus: Margarita decreti. 302.<0x0A>1486. 18. 12.<0x0A>Jacobus de Voragine: Legenda aurea. 256.<0x0A>[vers 14871.<0x0A>Turrecremata Joh.: Quaestiones evangeliorum.<0x0A>1487. 4. 3.<0x0A>468.<0x0A>1487. 24. 3.<0x0A>Speculum exemplorum. 439.<0x0A>Michael de Hungaria: Sermones praedicabiles.<0x0A>1487. 1. 9.<0x0A>320.<0x0A>1487. 3. 10.<0x0A>Paratus; Sermones de tempore et de sanctis. 368.<0x0A>Turrecremata Joh.: Expositio Psalterii, 467.<0x0A>1488.<0x0A>1488.<0x0A>Guilelmus Parisiensis: Postilla, 209.<0x0A>Reuchlin Joh.: Vocabularius breviloquus. 413.<0x0A>[pas après 1488). Corona Beatae Mariae Virginis, 143.<0x0A>1488. 1. 9.<0x0A>1488. 4. 9.<0x0A>Durandus: Rationale divinorum officiorum, 157.<0x0A>Johannes de Verdena: Sermones dormi secure.<0x0A>1488. 7. 9.<0x0A>271.<0x0A>Bernardus Parmensis: Casus longi super decre¬<0x0A>tales, 80.<0x0A>1488/9.<0x0A>1489. 123. 21.<0x0A>Ferrerius Vinc.: Sermones de tempore. 169.<0x0A>1489. 17. 3.<0x0A>Jacobus de Voragine: Legenda aurea. 257.<0x0A>1489. 25. 5.<0x0A>Historia Alexandri Magni, 282.<0x0A>1489. 25. 5.<0x0A>Columna: Historia destructionis Trojae, 156.<0x0A>Johannes Gallensis: Communiloquium. 265.<0x0A>1489. 13. 6.<0x0A>1489. 6. 8.<0x0A>Martinus Polonus: Margarita decreti. 303.<0x0A>1489. 14. 8.<0x0A>Gesta Romanorum. 185.<0x0A>Guilelmus Parisiensis: Postilla, 210.<0x0A>1490.<0x0A>Michael de Hungaria: Sermones praedicabiles.<0x0A>321.<0x0A>1490.<0x0A>1491. 1. 2.<0x0A>Petrus de Alliaco: Tractatus et sermones. 383.<0x0A>1490. 1. 3.<0x0A>Boëthius: De disciplina scolarium. 99.<0x0A>Speculum exemplorum. 440.<0x0A>R.8<0x0A>113<0x0A>1490. 15. 4.<0x0A>Petrus de Alliaco: Quaestiones super libros sen¬<0x0A>tentiarum. 382.<0x0A>1490. 9. 8.<0x0A>Modus legendi abbreviaturas, 327.<0x0A>1490. 16. 8.<0x0A>Jacobus de Voragine: Legenda aurea. 258.<0x0A>1490. 2. 11.<0x0A>Guilelmus Parisiensis: Postilla, 211.<0x0A>1490. 29. 11.<0x0A>Guido de Monte Rotherii: Manipulus curatorum.<0x0A>204.<0x0A>1490. 31. 12.<0x0A>Gritsch Joh.: Quadragesimale, 197.<0x0A>1491. 6. 1.<0x0A>Ockam: Quodlibeta septem. 348.<0x0A>1491. 1. 2.<0x0A>Brack: Vocabularius rerum. 110.<0x0A>1491. 11.8.<0x0A>Bartholomaeus Anglicus: De proprietatibus rerum.<0x0A>67<0x0A>1491. 29. 12.<0x0A>Regimen sanitatis. 408.<0x0A>1492. (9. 8.1.<0x0A>Jacobus de Voragine: Legenda aurea. 260.<0x0A>1493.<0x0A>Corona Beatae Mariae Virginis, 144.<0x0A>1493.<0x0A>Ferrerius Vinc.: Sermones de tempore. Pars aesti¬<0x0A>valis. 170.<0x0A>1493.<0x0A>Ferrerius Vinc.: Sermones de tempore. Pars hie¬<0x0A>malis. 171.<0x0A>1493.<0x0A>Guido de Monte Rotherii: Manipulus curatorum.<0x0A>205.<0x0A>1493. 12. 1.<0x0A>Reuchlin Joh.: Vocabularius breviloquus, 414.<0x0A>1493. 25. 1.<0x0A>Gesta Romanorum. 186.<0x0A>1493. 4. 3.<0x0A>Guilelmus Parisiensis; Postilla. 212.<0x0A>1493. 19. 7.<0x0A>Durandus: Rationale divinorum officiorum, 158.<0x0A>1493. 23. 8.<0x0A>Bernardus Parmensis: Casus longi super decre¬<0x0A>tales. 81.<0x0A>1494.<0x0A>Johannes de Verdena: Sermones dormi secure.<0x0A>273.<0x0A>1494. 26. 5.<0x0A>Historia Alexandri Magni. 283.<0x0A>1494. 21. 7.<0x0A>Modus legendi abbreviaturas. 328.<0x0A>1494. 25. 7.<0x0A>Columna: Historia destructionis Trojae. 137.<0x0A>1495. 18. 12.<0x0A>Bonaventura: Opuscula parva. 103.<0x0A>1495. 22. 11.<0x0A>Nicolaus de Blony: Sermones de tempore et de<0x0A>sanctis. 334.<0x0A>1495. 4. 12.<0x0A>Speculum exemplorum. 441.<0x0A>1495. 22. 12.<0x0A>Brack: Vocabularius rerum. 111.<0x0A>1496. 11. 2.<0x0A>Sermones tres de passione, 435.<0x0A>1496. 112. 31.<0x0A>Bonaventura: Sermones mediocres de tempore.<0x0A>106.<0x0A>1496. 12. 3.<0x0A>Gregorius I. Magnus: Pastorale. 194.<0x0A>1496. 18. 8.<0x0A>Regnierus: Casus longi Sexti et Clementinarum.<0x0A>411.<0x0A>1498. 23. 8.<0x0A>Nicolaus de Blony: Sermones de tempore

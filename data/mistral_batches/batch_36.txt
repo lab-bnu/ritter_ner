@@ -1,0 +1,64 @@
+Extrait en un fichier JSON les entités nommées B-PER, I-PER, B-DATE, I-DATE, B-LOC, I-LOC selon l'exemple :
+Exemple =  "HANNENBEIN, Georg . Voir: LIED (Neu Klaglied der Bauern) n° 340.
+PETRUS DE CRESCENTIS
+( WUERFELBUCH ]
+ Strasbourg , ( Christian Egenolff ), 1529 
+ Marque typ. de Chris. Egenolff. Anno M. D. LXXXII 
+ Stadtbibl. Strassburg 1192". 
+
+Réponse = 
+[
+[{'entity': 'B-PER',
+   'word': 'HANNENBEIN',
+},
+  {'entity': 'I-PER',
+   'word': ',',
+},
+  {'entity': 'I-PER',
+   'word': 'Georg',
+},
+],[
+{'entity': 'B-PER',
+   'word': 'PETRUS',
+},
+{'entity': 'I-PER',
+'word': 'DE',
+},
+{'entity': 'I-PER',
+'word': 'CRESCENTIS',
+},
+],[
+{
+'entity':'B-LOC', 
+'word': 'Strasbourg',
+},
+],[
+{
+'entity': 'B-PER',
+'word': 'Christian'
+},
+{
+'entity':'I-PER',
+'word': 'Egenolff'
+},
+],[
+{'entity': 'B-DATE',
+'word': '1529'},
+],[
+{'entity':'B-PER',
+'word': 'Chris.'},
+{'entity': 'I-PER',
+'word': 'Egenolff'},
+],[
+{'entity':'B-DATE',
+'word': 'M.'},
+{'entity': 'I-DATE', 
+'word': 'D.'},
+{'entity':'I-DATE',
+'word': 'LXXXII'},
+],[
+{'entity': 'B-LOC',
+'word': 'Strassburg'}
+]
+]
+Maintenant, extrait en JSON les entités nommées des phrases suivantes :orati, Georg Reysser 1475)»; plus<0x0A>bas: «Eggestein, Argentinae 1475». Rel. anc.<0x0A>391<0x0A>PETRUS LOMBARDUS: Sententiarum libri IV. (Strasbourg,<0x0A>H. Eggestein, vers 1471), in-fol.<0x0A>Hain 10.183, Pellechet: Colmar 888, Proctor 259.<0x0A>K 2918. Prov.: Albert Cohn, Berlin (Catal. 137) N° 332, 24/II.<0x0A>1881, 45 M. A l'intérieur du 1er plat: «Contenta hujus libri<0x0A>Textus librorum sententiarum. Da gloriam Deo. V. W. 14712.<0x0A>L’ouvrage a donc paru au plus tard en 1471. Rel. anc. 392<0x0A>PETRUS DE PALUDE. Voir: Paludanus Petrus.<0x0A>PHARETRA doctorum, philosophorum et poetarum. (Stras¬<0x0A>bourg, J. Mentelin, s. d.), in-fol.<0x0A>Hain 12908, Pellechet: Colmar 1091, Proctor 225, Voulliéme:<0x0A>Berlin 2107.<0x0A>K 2936a. Prov.: F. Butsch, Augsbourg, 12/x. 1883, 18 M. Au<0x0A>recto du f. de garde: «Liber Cartusien, in Buxheim, prope<0x0A>Memmingen proveniens... domino hildepranto Brandenbg de<0x0A>Bibraco». Au bas du 1er f.: Cachet: «Bibl. Buxheim». Rel. anc.<0x0A>393<0x0A>82<0x0A>PHARETRA fidei contra judaeos. (Strasbourg, (?) s. d.), in-4°.<0x0A>Hain 12911, Proctor 772, Schreiber 4940 met Ulm, Joh. Zainer<0x0A>vers 1485.<0x0A>K 2938. Prov.: Caspar Haugg, Augsbourg, 9/IV. 1887, 8 M.<0x0A>394<0x0A>PIENTINIS. Voir: Bernardinus de Pientinis.<0x0A>PISTORIO Voir: Cinus de Pistorio.<0x0A>PIUS II, PAPA: Epistolae familiares. (Strasbourg, impr. R.<0x0A>(— Ad. Rusch), vers 1470), in-fol.<0x0A>Hain 160, Madsen 3260, Pellechet: Colmar 10, Pellechet 98,<0x0A>Proctor 233, Voulliéme: Berlin 2125.<0x0A>K 40. Prov.; B N Munich, 14/IV. 1880, 1 M. Au verso du<0x0A>dernier f.: «Impress. Wittenb. 14715, rayé au crayon. 395<0x0A>PLENARIUM (en allemand). (Strasbourg, H. Knoblochtzer,<0x0A>vers 1480), in-fol.<0x0A>Copinger 2315, Kristeller 7, Schorbach et Spirgatis, Knob¬<0x0A>lochtzer 29, Schreiber 4958 met 1482 ou 1483.<0x0A>Schramm, Bilderschmuck XIX, grav. N° 370-421.<0x0A>K 2981a. Prov.: Bibliothèque Ed. Reuss, Strasbourg, 28/IV.<0x0A>1891. Incomplet, ff. 1, 2 et 230 manquent. Note mss. à l’inté¬<0x0A>rieur du 2e plat. Rel. anc.<0x0A>2e ex. 2981b. Prov.; Vente Trübner, Strasbourg, 30/x. 1886,<0x0A>154 M. ff. 191 et 192 en facsimilé.<0x0A>396<0x0A>PLENARIUM (en allemand). Strasbourg, Mart. Schott, 18 août<0x0A>1483, in-fol.<0x0A>Copinger 2326, Kristeller 23, Schmidt II, 3, Schreiber 4960.<0x0A>Schramm, Bilderschmuck XIX, grav. N° 718-771.<0x0A>K 2981. Prov.; Froemer, organiste à Lorquin, 25/VII. 1872,<0x0A>60 frs. Rel. anc.<0x0A>397<0x0A>PLUTARCHUS: Vitae virorum illustrium. (Strasbourg, impr.<0x0A>R. (— Ad. Rusch), vers 1470), 2 vol. in-fol.<0x0A>Hain 13124, Madsen 3331, Proctor 242, Voulliéme: Berlin<0x0A>2125, 5.<0x0A>K 2994. Prov.; Fid. Butsch fils, Augsbourg, 29/VI. 1878, 20 M.<0x0A>Rel. de Bozérian jeune.<0x0A>398<0x0A>83<0x0A>PONCIUS: Rhetorica. (Strasbourg, J. Grüninger), 1486, in-4°.<0x0A>Hain 13255, Madsen 3352, Proctor 445, Voulliéme: Berlin 2276.<0x0A>K 3015. Prov.: Librairie Lippert, Halle, 7/XII. 1886, sans<0x0A>indication du prix. Notes mss. Rel. anc.<0x0A>399<0x0A>PONTANUS LUDOVICUS: Singularia in causis criminalibus.<0x0A>(Strasbourg, H. Eggestein), s. d., in-fol.<0x0A>Hain 13267, Madsen 3360, Pellechet: Colmar 1123, Proctor<0x0A>293, Voulliéme: Berlin 2159, 2.<0x0A>K 3019. Prov.: A. Einsle, Vienne, 8/xIl. 1885, 10 M. Au verso<0x0A>du 1er f. de garde, fiche d’un catalogue (N° 231) donnant<0x0A>comme date 1478, «40 Bll., goth., 2 col., 60 Zeil, rubric.<0x0A>Exempl.<0x0A>400<0x0A>PORRETANUS ALANUS — Alanus de Insulis.<0x0A>PRAECORDIALE devotorum. Strasbourg, (Jean Prüss), 1489,<0x0A>in-8°.<0x0A>Hain 13318, Madsen 3367, Proctor 546, Schreiber 5012, Voul¬<0x0A>liéme: Berlin 2357; Schramm, Bilderschmuck XX, grav.<0x0A>N° 1234.<0x0A>K 3030. Prov.: B N Munich, 4/XI. 1880, 1 M. Notes mss. Rel.<0x0A>anc.<0x0A>401<0x0A>PRAECORDIALE devotorum. Strasbourg, (Jean Prüss, 20 jan¬<0x0A>vier 1490), in-8°.<0x0A>Hain 13320, Madsen 3368, Schreiber 5014, Ernst, Hildesheim<0x0A>fasc. II p. 93, N° 26.<0x0A>Schramm, Bilderschmuck XX, grav. N° 115, l’attribue à<0x0A>Grüninger.<0x0A>K 3032. Prov.: Kenda, Vienne, 29/x. 1896, 12 fl. Notes mss.<0x0A>Au-dessous du titre: «Adscribitur Bertholdo Dominicano».<0x0A>Rel. anc.<0x0A>402<0x0A>PREBUSINUS DE BRUN URBANUS. Voir: Brun Urbanus Pre¬<0x0A>businus.<0x0A>PSALTERIUM latino-germanicum. (Strasbourg, H. Eggestein,<0x0A>s. d.], in-4°.<0x0A>Hain, 13512, Proctor 294.<0x0A>K 3072a. Prov.: Albert Cohn, Berlin, 9/II. 1883, 45 M. 403<0x0A>84<0x0A>PSALTERIUM latino-germanicum. [Strasbourg, impr. du H.<0x0A>Ariminensis, s. d.), in-fol.<0x0A>Hain 13508, Pellechet: Colmar 1127, Proctor 314, Voulliéme:<0x0A>Berlin 2178.<0x0A>K 3071. Prov.: Bibliothèque Ed. Reuss, Strasbourg, 28/IV.<0x0A>1891 avec son exlibris, et l’annotation de sa main au recto<0x0A>du f. de garde: «Ex libris J. D. Brunneri 4 Jan, 1845». Au¬<0x0A>dessous, autographe de Reuss. Rel. anc.<0x0A>2e ex. K 3071a. Prov.: Directeur Halm, Munich, 28/VII. 1880,<0x0A>70 M. Notes mss. A l’intérieur du 1er plat: Catal. Föringer<0x0A>N° 2861. 70 M. Strassburg ca. 1477. Cf. Hain 13508 abwei¬<0x0A>chend: Panzer, Annalen p. 17, n° 14. In der Graf Törring'-<0x0A>schen Auction erstanden. München, 23. Okt. 1834. Fö

@@ -1,0 +1,64 @@
+Extrait en un fichier JSON les entités nommées B-PER, I-PER, B-DATE, I-DATE, B-LOC, I-LOC selon l'exemple :
+Exemple =  "HANNENBEIN, Georg . Voir: LIED (Neu Klaglied der Bauern) n° 340.
+PETRUS DE CRESCENTIS
+( WUERFELBUCH ]
+ Strasbourg , ( Christian Egenolff ), 1529 
+ Marque typ. de Chris. Egenolff. Anno M. D. LXXXII 
+ Stadtbibl. Strassburg 1192". 
+
+Réponse = 
+[
+[{'entity': 'B-PER',
+   'word': 'HANNENBEIN',
+},
+  {'entity': 'I-PER',
+   'word': ',',
+},
+  {'entity': 'I-PER',
+   'word': 'Georg',
+},
+],[
+{'entity': 'B-PER',
+   'word': 'PETRUS',
+},
+{'entity': 'I-PER',
+'word': 'DE',
+},
+{'entity': 'I-PER',
+'word': 'CRESCENTIS',
+},
+],[
+{
+'entity':'B-LOC', 
+'word': 'Strasbourg',
+},
+],[
+{
+'entity': 'B-PER',
+'word': 'Christian'
+},
+{
+'entity':'I-PER',
+'word': 'Egenolff'
+},
+],[
+{'entity': 'B-DATE',
+'word': '1529'},
+],[
+{'entity':'B-PER',
+'word': 'Chris.'},
+{'entity': 'I-PER',
+'word': 'Egenolff'},
+],[
+{'entity':'B-DATE',
+'word': 'M.'},
+{'entity': 'I-DATE', 
+'word': 'D.'},
+{'entity':'I-DATE',
+'word': 'LXXXII'},
+],[
+{'entity': 'B-LOC',
+'word': 'Strassburg'}
+]
+]
+Maintenant, extrait en JSON les entités nommées des phrases suivantes : autres; «Fratre<0x0A>a me casparo stephane chare Versus illos accipe, frater prae¬<0x0A>clare» etc. Rel. anc.<0x0A>432<0x0A>90<0x0A>SERMONES exquisiti super epistolis per anni circulum. Stras¬<0x0A>bourg, J. Grüninger, 31 mars 1489, in-fol.<0x0A>Copinger III 5402, Proctor 453, Schmidt I, 9, Voulliéme:<0x0A>Berlin 2278.<0x0A>K 3292. Prov.; Bibl. Heitz, Strasbourg. Notes mss.<0x0A>2e ex. K 2811, 2. Prov.: B N Munich 22/1. 1880. A la suite<0x0A>de Paratus, Sermones, Strasbourg, s. d., K 2811, 1.<0x0A>433<0x0A>SERMONES thesauri novi de sanctis. Voir: Paludanus<0x0A>Petrus.<0x0A>SERMONES tres de passione Christi. Strasbourg, (Martin<0x0A>Flach), 18 oct. 1490, in-4°.<0x0A>Hain 1139, Copinger III 5777, Madsen 3699, Proctor 686, Voul¬<0x0A>liéme: Berlin 2439, 5.<0x0A>K 3293. Prov.; B N Munich, 22/1. 1880, 1 M. 80. Note mss.<0x0A>au-dessous du titre: «Carmeli Arenspergani». Rel. anc. 434<0x0A>SERMONES tres de passione Christi. Strasbourg, (impr. du<0x0A>Jordanus (— G. Husner)), 11 février 1496, in-4°.<0x0A>Copinger III, 5758, Proctor 641, Voulliéme: Berlin 2460.<0x0A>K 3294. Prov.; B N Munich, 14/XIl. 1876, 1 M. 50. Note mss.<0x0A>au-dessous du titre: »Monasterij Scheyen. Guillielmi Testoris<0x0A>de Aquisgrava» (?) Rel. anc.<0x0A>435<0x0A>SIBYLLA BARTHOLOMAEUS : Speculum peregrinarum quaes¬<0x0A>tionum. Strasbourg, J. Grüninger, 19 août 1499, in-4°.<0x0A>G W 3460, Hain 14720, Madsen 566, Pellechet: Colmar 1198,<0x0A>Proctor 490, Voulliéme: Berlin 2307.<0x0A>Schramm, Bücherschmuck XX, grav. N° 569.<0x0A>K 3320. Prov.: Baer 8 Co., Francfort s. M. (provenant des<0x0A>doubles de la Bibl. de Darmstadt), 22/XI. 1878. Au-dessus du<0x0A>titre: «Conventus Wimpinensis Ordinis Fratrum Praedicato¬<0x0A>rum». Endommagé. Rel. anc.<0x0A>436<0x0A>SILVATICUS Mathaeus; Pandectae medicinae. (Strasbourg,<0x0A>impr. R. (— Ad. Rusch), vers 1475), in-fol.<0x0A>Hain 15192, Proctor 251, Voulliéme: Berlin 2128.<0x0A>K 3440. Prov.: Don de la Bibl. Univ. de Goettingue, 1871.<0x0A>Manquent 2 ff. Rel. anc.<0x0A>437<0x0A>SINTHIS. Voir: Synthen.<0x0A>91<0x0A>SIXTUS IV: Bulle sur l’indulgence en faveur de l’église de<0x0A>la Trinité de Fribours en Br. Rome le 5 janvier 1478.<0x0A>(Strasbourg, impr. du H. Ariminensis vers 1478),<0x0A>in-fol. (feuille unique).<0x0A>K 3341. Prov.: Archives de Stuttgart 16/IX. 1912, 200 M. Note<0x0A>mss. au verso.<0x0A>438<0x0A>Soccus. Voir: Conradus de Brundelsheim.<0x0A>Speculum exemplorum ab Aegidio Aurifabro collectum:<0x0A>Strasbourg, (imprimeur du Jordanus (— G. Husner)),<0x0A>4 mars 1487, in-fol.<0x0A>Hain 14917, Pellechet: Colmar 1204, Proctor 609, Voulliéme:<0x0A>Berlin 2415, Walter: Sélestat 437.<0x0A>K 3370. Prov.: Bibliothèque Heitz, Strasbourg. Au-dessus du<0x0A>titre: «Monasterij Herbipoli». Le reste est effacé. Rel. anc.<0x0A>439<0x0A>Speculum exemplorum ab Aegidio Aurifabro collectum:<0x0A>Strasbourg, (imprim. du Jordanus (— G. Husner)),<0x0A>1er mars 1490, in-fol.<0x0A>Hain 14918, Madsen 3736, Pellechet 1618, Pellechet: Colmar<0x0A>1205, Proctor 653, Voulliéme: Berlin 2435.<0x0A>K 3371. Prov.: Don de la ville de Heilbronn, 1871. Rel. anc.<0x0A>440<0x0A>Speculum exemplorum ab Aegidio Aurifabro collectum:<0x0A>Strasbourg, (imprim. du Jordanus (— G. Husner)),<0x0A>4 décembre 1495, in-fol.<0x0A>Hain 14919, Madsen 3737, Pellechet 1619, Pellechet: Colmar<0x0A>1206, Proctor 638, Voulliéme: Berlin 2457.<0x0A>K 3371a. Prov.: F. Butsch, Augsbourg, 12/x. 1883, 14 M. 50.<0x0A>Au-dessus du titre: «Cartusiae Buxiensis».<0x0A>441<0x0A>SPINA. Voir: Alphonsus de Spina.<0x0A>Statuta provincialia vetera et nova. (Strasbourg, J. Prüss,<0x0A>s. d.), in-fol.<0x0A>Hain 15041, Proctor 529, Voulliéme: Berlin 2394.<0x0A>K 3396. Prov.: Baer 8 Co., Francfort s. M., 7/I. 1913, 75 M.<0x0A>442<0x0A>92<0x0A>SUMMENHART CONRADUS: Septipertitum opus de contrac¬<0x0A>tibus. Haguenau, H. Gran, 13 oct. 1500, in-fol.<0x0A>Hain 15179, Pellechet: Colmar 1220. Voulliéme: Berlin 1187.<0x0A>K 3432. Prov.: Don de la ville de Heilbronn, 1871. A l'inté¬<0x0A>rieur du 1er plat: «Ex legato Egregij viri Artium ac sacrae<0x0A>Theol. doctoris domini Joan. krener ex. Scherding concio¬<0x0A>natoris Heylpronensis». Rel. anc.<0x0A>443<0x0A>SUMMENHART CONRADUS: Tractatulus bipartitus de decimis.<0x0A>Haguenau, H. Gran, 13 nov. 1497, in-fol.<0x0A>Hain 15177, Pellechet: Colmar 1219, Proctor 3189, Voulliéme;<0x0A>Berlin 1177, Walter: Sélestat 449.<0x0A>K. 3430. Prov.: Don de la ville de Heilbronn, 1871. A la suite<0x0A>de Summenhart, Septipertitum opus. Haguenau, 1500, K 3432.<0x0A>SUNGZELL. Voir: Sünzell.<0x0A>444<0x0A>SüNzEIL FRIDERICUS MOSELLANUS: Collecta in octo libros<0x0A>Physicorum Aristotelis. Haguenau, H. Gran pour<0x0A>Rymman, 11 mai 1499, in-4°.<0x0A>Hain 15186, Madsen 3815, Proctor 3198, Voulliéme: Berlin<0x0A>1182.<0x0A>K 3436. Prov.: Don de Fid. Butsch, Augsbourg, 1871. Au-des¬<0x0A>sus du titre; «Ranshofen».<0x0A>445<0x0A>SYLVATICUS MATTHAEUS. Voir: Silvaticus.<0x0A>SYNTHEN JOHANNES: Dicta super prima et secunda parte<0x0A>Alexandri, Strasbourg, J. Prüss, 14 mars 1499, in-8°.<0x0A>(Gravures.)<0x0A>Hain 14763 (1), Proctor 554, Schmidt III, 29, Schreiber 5268.<0x0A>K 3332. Prov.: BN Munich, 4. XI. 1880, 4 M. Au-dessous de<0x0A>la gravure du titre; attinet Tegernsee Emptus anno 1515.»<0x0A>Rel. anc.<0x0A>446<0x0A>SYNTHEN Johannes. Voir aussi: Johannes de Garlandia.<0x0A>TERENTIUS Afer Publius: Comediae cum commentariis.<0x0A>Strasbourg, J. Grüninger, 1er novembre 1496

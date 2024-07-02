@@ -1,0 +1,64 @@
+Extrait en un fichier JSON les entités nommées B-PER, I-PER, B-DATE, I-DATE, B-LOC, I-LOC selon l'exemple :
+Exemple =  "HANNENBEIN, Georg . Voir: LIED (Neu Klaglied der Bauern) n° 340.
+PETRUS DE CRESCENTIS
+( WUERFELBUCH ]
+ Strasbourg , ( Christian Egenolff ), 1529 
+ Marque typ. de Chris. Egenolff. Anno M. D. LXXXII 
+ Stadtbibl. Strassburg 1192". 
+
+Réponse = 
+[
+[{'entity': 'B-PER',
+   'word': 'HANNENBEIN',
+},
+  {'entity': 'I-PER',
+   'word': ',',
+},
+  {'entity': 'I-PER',
+   'word': 'Georg',
+},
+],[
+{'entity': 'B-PER',
+   'word': 'PETRUS',
+},
+{'entity': 'I-PER',
+'word': 'DE',
+},
+{'entity': 'I-PER',
+'word': 'CRESCENTIS',
+},
+],[
+{
+'entity':'B-LOC', 
+'word': 'Strasbourg',
+},
+],[
+{
+'entity': 'B-PER',
+'word': 'Christian'
+},
+{
+'entity':'I-PER',
+'word': 'Egenolff'
+},
+],[
+{'entity': 'B-DATE',
+'word': '1529'},
+],[
+{'entity':'B-PER',
+'word': 'Chris.'},
+{'entity': 'I-PER',
+'word': 'Egenolff'},
+],[
+{'entity':'B-DATE',
+'word': 'M.'},
+{'entity': 'I-DATE', 
+'word': 'D.'},
+{'entity':'I-DATE',
+'word': 'LXXXII'},
+],[
+{'entity': 'B-LOC',
+'word': 'Strassburg'}
+]
+]
+Maintenant, extrait en JSON les entités nommées des phrases suivantes :APUA: Directorium humanae vitae. (Stras¬<0x0A>bourg, J. Prüss, vers 1484/5), in-fol. Le dernier f.<0x0A>manque.<0x0A>Hain 4411, Madsen 2240, Proctor 558, Schreiber 3489, Voul¬<0x0A>liéme: Berlin 2381.<0x0A>K 1053. Prov.: Bibliothèque du prof. Baum, 1879. Notes mss.<0x0A>263<0x0A>56<0x0A>JOHANNES CHRYSOSTOMUS: Homiliae super Matheum.<0x0A>(Strasbourg, Joh. Mentelin, vers 1465), in-fol.<0x0A>Hain 5034, Madsen 2253, Proctor 197, Pellechet: Colmar 470,<0x0A>Voulliéme; Berlin 2103, Schorbach: Mentelin N° 8.<0x0A>K 1174. Prov.: Don de la Bibl. Univ. Goettingue, 1871. Rel.<0x0A>anc.<0x0A>264<0x0A>JOHANNES GALLENSIS: Communiloquium seu Summa colla¬<0x0A>tionum. Strasbourg, (imprimeur du Jordanus (— G.<0x0A>Husner)), 25 mai 1489, in-fol.<0x0A>Hain 7444, Madsen 2267, Pellechet: Colmar 633, Proctor 649,<0x0A>Voulliéme: Berlin 2428.<0x0A>K 2191 (1). Prov.: BN Munich, 22. I. 1880, M. 0,50. Notes mss.<0x0A>Au verso du titre, cachet de la BN de Munich. Rel. anc. 265<0x0A>JOHANNES DE GARLANDIA: Composita verborum. (Strasbourg,<0x0A>J. Prüss), 1490, in-4°.<0x0A>Hain 5579, Proctor 575, Schmidt I, 14.<0x0A>K 1310. Prov.; Don de Fidelis Butsch fils, Augsbourg, 1872.<0x0A>A la fin du livre 12 ff. mss.<0x0A>266<0x0A>JOHANNES DE GARLANDIA: Distigium seu Cornutus. Hague¬<0x0A>nau, H-Gran, 1489, in-4°.<0x0A>Hain 7470, Pellechet 4992, Proctor 3169.<0x0A>K 1672. Prov.: Librairie Trübner, 21. XI. 1884, 25 M. 267<0x0A>JOHANNES HILDESHEMIENSIS: Buch der heiligen drei Könige.<0x0A>(Strasbourg, J. Prüss, vers 1480), in-fol.<0x0A>Hain 9400, Kristeller 37, Schramm, Bilderschmuck XX,<0x0A>grav. N° 1264-1271, Schreiber 4366.<0x0A>K 2198. Prov.: Vente Trübner, Strasbourg (Catal. N° 129),<0x0A>30. x. 1886, 294 M. Rel. anc.<0x0A>268<0x0A>JOHANNES DE LAPIDE. Voir: Lapide Johannes de.<0x0A>JOHANNES PRESBYTER: De ritu et moribus Indorum. (Stras-<0x0A>bourg, H. Knoblochtzer, s. d.), in-4°.<0x0A>Hain 9429, Madsen 2303, Proctor 386, Pellechet: Colmar 831,<0x0A>Schorbach-Spirgatis, Knoblochtzer 36.<0x0A>K 2207. Prov.: O. Harrassowitz, Leipzig 30. I. 1890, 75 M. 269.<0x0A>57<0x0A>JOHANNES DE VERDENA: Sermones de sanctis dormi secure.<0x0A>Strasbourg, [imprimeur du Jordanus (— G. Husner)),<0x0A>15 sept. 1485, in-fol.<0x0A>Hain 15974, Madsen 2331, Proctor 598, Voulliéme: Berlin<0x0A>2407, 3.<0x0A>K 2220. Prov.: Don de Fidelis Butsch fils, Augsbourg, 1872.<0x0A>Notes mss. Au-dessus du titre: «Monasterij Ranshouen.» Rel.<0x0A>anc.<0x0A>270<0x0A>JOHANNES DE VERDENA: Sermones de sanctis dormi secure.<0x0A>Strasbourg, [imprimeur du Jordanus (— G. Husner)),<0x0A>4 sept. 1488, in-fol.<0x0A>Hain 15959, 2, Proctor 617, Voulliéme: Berlin 2422, 3.<0x0A>K 2216. Prov.: Don de Fidelis Butsch fils, Augsbourg, 1872.<0x0A>Au-dessus du titre: «Monasterij Ranshouen». Rel. anc. 271<0x0A>JOHANNES DE VERDENA: Sermones de sanctis dormi secure.<0x0A>(Haguenau, H. Gran), 10 janvier 1493, in-4°.<0x0A>Hain 15964, Madsen 2333, Proctor 3177, Schreiber 4397.<0x0A>K 2218a. Prov.: O. Harrassowitz, Leipzig, 26. Il. 1891, 7 M. 20.<0x0A>Notes mss. Rel. anc.<0x0A>272<0x0A>JOHANNES DE VERDENA: Sermones de sanctis dormi secure.<0x0A>Strasbourg, [imprimeur du Jordanus (— G. Husner)),<0x0A>1494, in-fol.<0x0A>Hain 15965 (1), Voullième: Berlin 2451, 5, Voulliéme: Trier<0x0A>1547.<0x0A>K 2218. Prov.; Don du Prof. E. Martin, Strasbourg, 10. II. 1911.<0x0A>Notes mss. Au-dessous du titre: «Carthusiae Gemnicensis.»<0x0A>273<0x0A>JORDANUS DE QUEDLINBOURG: Opus Postillarum et Sermo¬<0x0A>num de tempore. Strasbourg, (imprimeur du Jordanus<0x0A>(— G. Husner)), 1483, in-fol.<0x0A>Hain 9438, Pellechet: Colmar 832, Proctor 584, Voulliéme:<0x0A>Berlin 2398, Walter: Sélestat 275.<0x0A>K 2223. Prov.: Don de la ville de Heilbronn, 1871. A l'inté¬<0x0A>rieur du 1er plat: «Ex legato Egregij viri Artium ac sacrae<0x0A>Theologiae doctoris domini Joan. Krener ex Scherding. Con¬<0x0A>cionatoris Heylpronensis.» Rel. anc.<0x0A>274<0x0A>58<0x0A>JORDANUS DE QUEDLINBOURG: Sermones de sanctis. Stras¬<0x0A>bourg, J. Grüninger, 28 mars 1484, in-fol.<0x0A>Hain 9440, Madsen 2340, Pellechet: Colmar 833, Proctor 439,<0x0A>Schmidt I, 3, Voulliéme: Berlin 2270.<0x0A>K 2224. Prov.: Don de la ville de Trèves, 1871, avec le cachet<0x0A>de la B M de Trèves. Rel. anc.<0x0A>275<0x0A>JUSTINIANUS: INSTITUTIONES. Strasbourg, H. Eggestein,<0x0A>15 sept. 1472, in-fol.<0x0A>Hain 9491, Pellechet: Colmar 837. Proctor 264, Voulliéme:<0x0A>Berlin 2138.<0x0A>K 2166. Prov.: Don du prof. Witte, Halle. Au recto du f. de<0x0A>garde: «Licet careat subscriptione, est editio Argentoratensis<0x0A>Eggesteinii, anno 1472, impressa, quam Schrader in Prodroma<0x0A>sub. Nris III et XLV bis ennumeravit. Cf. Dieckium hujus libri<0x0A>donatorem in Hist. liter. p. 434.»<0x0A>276<0x0A>KALENDER (deutscher) für Strassburg auf das Jahre 14771.<0x0A>(Strasbourg, J. Mentelin, 1476), in-fol. (Einblattdruck).<0x0A>Incomplet.<0x0A>Copinger 2190-2193, Proctor 215, Schorbach: Mentelin N° 38;<0x0A>Sudhoff N° 297.<0x0A>K2281. Prov.: Baer 6́ Co, Francfort-s.-M., 27 XI. 1913, 500 M.<0x0A>Note mss. sur une fiche blanche: «Kalender, Medizinisch-astro¬<0x0A>nomischer in deutscher Sprache für das Jahr 1477. Strassburg<0x0A>(Joh. Mentelin 1476), Fol. mai, rom. char. Aus 2 Bll. zusam¬<0x0A>mengesetzt (das eine Blatt umfasst 65 Zeilen). Am Schlusse<0x0A>fehlen einige Zeilen. Von einigen Wurmstichen und gering¬<0x0A>fügigen Ausbesserungen abgesehen guterhaltener Einbl
