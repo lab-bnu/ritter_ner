@@ -10,7 +10,8 @@ import typer
 from typing import Optional
 from lxml import etree
 import os.path
-
+import json
+import inputimeout
 class Document:
 
     class_names = param_general["class_names"]
@@ -46,7 +47,6 @@ class Document:
                     self.data.append(line)
                     ents = ast.literal_eval(line[param_alignement['ents_id_colname']])
                     for x in range(len(ents)):                        
-                        print()
                         self.ents.append((ast.literal_eval(line[param_alignement['tokens_colname']])[x], self.id2label[ents[x]]))
             
             self.set_full_name()
@@ -59,7 +59,6 @@ class Document:
         name = None
         label = None
         for ent, l in self.ents:
-            print(ent, l)
             if param_general['OIB'] == True:
                 if l.startswith("B-"): 
                     full_names.append((name, label))
@@ -85,31 +84,37 @@ class Document:
     
     
     def set_idref(self):
-        url = "https://www.idref.fr/Sru/Solr?q=persname_t:"
+        base_url = "https://www.idref.fr/Sru/Solr?q=persname_t:"
         parameters = {"wt":"json"}
         for ent in self.ents:
-                if ent[1] in ['PER']:
+                if ent[1] == 'PER':
                     if ent[0].split(' '):
                         ent[0] = re.sub(" ", '%20AND%20', ent[0])
-                    url += '('+ent[0]+')'+"%20AND%20anneenaissance_dt:[1400-01-01T23:59:59.999Z TO 1650-01-01T23:59:59.999Z]"
+                    url =  base_url + '('+ent[0]+')'+"%20AND%20anneenaissance_dt:[1400-01-01T23:59:59.999Z TO 1650-01-01T23:59:59.999Z]"
                     try: 
                         response = requests.get(url, params=parameters)
                     except requests.exceptions.ConnectionError: 
-                        print(f"Skipping {ent} because too many requests sent")
+                        print(f"Skipping {ent[0]} because too many requests sent")
                         continue
-                    content = ast.literal_eval(response.content.decode('utf-8'))
-                    if content['response']['numFound'] == 1:
-                        name_info = content['response']['docs'][0]["affcourt_z"]
-                        idref = content['response']['docs'][0]['ppn_z']
-                    elif content['response']['numFound'] > 1:
+                    try:
+                        resp = ast.literal_eval(response.content.decode('utf-8'))
+                    except SyntaxError:
+                        print(f"{ent} not found")
+                    if resp['response']['numFound'] == 1:
+                        name_info = resp['response']['docs'][0]["affcourt_z"]
+                        idref = resp['response']['docs'][0]['ppn_z']
+                    elif resp['response']['numFound'] > 1:
                         print("More than one match here's the list of names with idRef :")
-                        print(*[(name['affcourt_z'], name['ppn_z']) for name in content['response']['docs']], sep='\n')
-                        idref = input(f"Entrez l'identifiant correct pour le nom {ent}")
+                        print(*[(name['affcourt_z'], name['ppn_z']) for name in resp['response']['docs']], sep='\n')
+                        try:
+                            idref = inputimeout(prompt=f"Entrez l'identifiant correct pour le nom {ent}", timeout=1)
+                        except TimeoutError:
+                            idref = ''
                         if idref == '':
                             idref = 'TBD'
-                    elif content['response']['numFound'] == 0:
+                    elif resp['response']['numFound'] == 0:
                         idref = 'TBD'
-                        print("Nom introuvable")
+                        print(f"{ent[0]} introuvable")
                     self.ents_idref.append({'entity':ent[0], 'label': ent[1], 'idref': idref })
                 else:
                     self.ents_idref.append({'entity':ent[0], 'label': ent[1], 'idref': 'TBD'})
@@ -226,9 +231,9 @@ def start(writetsv:Optional[bool]=True, writexml:Optional[bool]=True):
     """Cherche les idRef des EN d'un texte tokenisé et aligné avec les étiquettes correctes"""
     doc = Document()
     doc.set_labels()
-    print(doc.set_data())
-    print(doc.set_idref())
-    print(doc.gather_by_prov())
+    doc.set_data()
+    doc.set_idref()
+    doc.gather_by_prov()
     if writetsv == True:
         doc.write_ents_idref()
     if writexml== True:

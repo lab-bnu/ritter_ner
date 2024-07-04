@@ -12,7 +12,8 @@ params.py|gère tous les paramètres pour les programmes principaux, se référe
 creation_dataset.py|convertit les pages XML en tableurs CSV (et en document .spacy pour l'entrainement) en fonction des paramètres
 hf_ner|produit les prédictions à partir du fichier csv en fonction du modèle disponible sur HF donné en paramètre, effectue aussi l'évaluation du modèle
 regex_ner|à partir du csv généré par creation_dataset effectue la prédiction par regex depuis la _Liste alphabétique des noms de personnes_ du Ritter : ne fonctionne qu'avec ces données. 
-
+generative_models_ner| Divise en batch de texte avec le prompt en fonction du nombre de token maximal donné en paramètre
+alignement_encodage_xml|Cherche l'URI IdRef de chaque EN de personne et encode en XML le document final en XML par div ou par page
 
 Les étapes fondamentales sont aussi divisées dans des programmes courts standalone qui peuvent être utiles pour l'application sur d'autres jeux de données :
 
