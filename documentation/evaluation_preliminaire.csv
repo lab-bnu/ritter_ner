@@ -1,0 +1,11 @@
+model;NE;PERS;NE_valid_strict;PERS_valid_strict;NE_valid_cutoff90;PERS_valid_cutoff90
+spacy-en-tr_ner.csv;1362;418;73;59;81;65
+spacy-fr_ner.csv;1791;678;85;59;102;71
+spacy-multilingue_ner.csv;1478;553;105;69;117;75
+transformers_bert-base.csv;1838;869;28;19;53;42
+transformers_bert-large.csv;1709;575;58;47;73;57
+transformers_wikineural.csv;1272;443;66;56;74;63
+process_funding_grobid.csv;557;276;35;33;45;41
+entity-fishing_grobid.csv;1890;841;70;65;79;73
+mistral_extract.csv;825;236;199;199;206;203
+transformers-camembert.csv;1447;719;108;103;129;119

@@ -2,14 +2,13 @@ import re
 import csv
 from pathlib import Path
 import ast
-
 from sklearn.metrics import ConfusionMatrixDisplay, confusion_matrix, classification_report
 import matplotlib.pyplot as plt
 import typer
-
 from typing import List
 import warnings
 from typing import Optional
+import os.path
 
 from params import param_general, param_regex
 
@@ -19,19 +18,22 @@ class NerRegex:
     sentences = []
     class_names = param_general['class_names']
     table_alpha = param_regex['doc_table_alpha']
-    datadoc = param_general['datadoc']
+    datadoc = f"{param_general['datadir']}/{param_general['datadoc']}.csv"
     outdir = param_regex['outdir_regex']
+    if not os.path.exists(outdir):
+        os.mkdir(outdir)
     antidictionnaire = param_regex['antidictionnaire']
 
     def set_labels(self):
         """
         Construit le dictionnaire label2id avec IOB
         """
-        prefixes = ['B-', 'I-']
-        self.class_names = [label if label == 'O' else f"{pref}{label}" for label in self.class_names for pref in prefixes]
+        if param_general['OIB'] == True:
+            prefixes = ['B-', 'I-']
+            self.class_names = [label if label == 'O' else f"{pref}{label}" for label in self.class_names for pref in prefixes]
         self.label2id = {label : id-1 for id, label in enumerate(self.class_names)}
         self.id2label = {id:label for label, id in self.label2id.items()}
-        
+    
 
     def get_ents(self)->List[str]:
         with open(self.table_alpha, 'r', encoding='UTF-8') as f: 
@@ -54,26 +56,22 @@ class NerRegex:
 
     def regex_extract(self) -> List[dict]:
         with open(self.datadoc, newline='', encoding='UTF-8') as g:
-            reader = csv.reader(g, delimiter=';', quotechar='"')
-           
+            reader = csv.DictReader(g, delimiter=';', quotechar='"', quoting=csv.QUOTE_MINIMAL)
+            next(reader)
             for row in reader:
                 old_label = ''
-                words = ast.literal_eval(row[0])
-                labels = ast.literal_eval(row[1])
+                words = ast.literal_eval(row['text'])
+                labels = ast.literal_eval(row['tags'])
                 phr = []
                 for w in words:
                     label = 'O'
                     if w.lower() in self.ref and w.lower() not in self.antidictionnaire and w.lower() not in param_regex['LOC']:
-                            # content = re.search(rf"(.*){w}(.*)", line)
-                            # print(f"{content.group(1)}<persName>{w}</persName>{content.group(2)}")
                         label = "PER"
                         # print(w)
                     elif w.lower() in param_regex['LOC']:
-                        # content = re.search(rf"(.*){w}(.*)", line)
-                        # print(f"{content.group(1)}<placeName>{w}</placeName>{content.group(2)}")
                         label = "LOC"
                         # print("loc")
-                    # extraction des dates : chiffres romains | XIV-XVIe siècle | "Anno"
+                    # extraction des dates : chiffres romains | XV-XVIIe siècle | "Anno"
                     elif re.fullmatch(param_regex['DATE'], w, flags=re.IGNORECASE) :
                         label = 'DATE'     
                     if label != old_label :
@@ -130,7 +128,7 @@ class NerRegex:
 
 def regex(writeCoNLL:Optional[bool]=True, confmatrixnorm:Optional[bool]=True):
     regex = NerRegex()
-    regex.set_label2id()
+    regex.set_labels()
     regex.get_ents()
     regex.regex_extract()
     if confmatrixnorm == True:
