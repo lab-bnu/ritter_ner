@@ -1,3 +1,11 @@
+---
+Autrice : Alexia Schneider
+Github : @alexiaschn
+Date de création : 2024-07
+Titre : NER_Ritter
+Licence : CC BY-SA
+Description : Dépôt avec ressources logicielles et données pour la Reconnaissance d'Entités Nommées adaptée à des notices bibliographiques
+---
 # La Reconnaissance d'Entités Nommées : le Ritter augmenté comme cas d'usage
 
 Dépôt et tutoriel pour la reconnaissance d'Entités Nommées (EN) à partir des données du Répertoire bibliographique des imprimés d'Alsace des XVe et XVIe siècles de François Ritter aka le Ritter.
@@ -25,4 +33,5 @@ train_test_split.py|    *doc* : sortie en csv du programme creation_dataset.py c
 testing_hf_ner.py| *document* : document en .txt contenant le texte brut sur lequel on veut faire de la NER. *model* : nom du modèle disponible via Hugging Face.| *--outpath* : sauvegarde des EN extraits dans le document donné. | Permet de visualiser la tâche de NER à partir d'un simple document txt. 
 spacy_ner.py|*document* : document en .txt contenant le texte brut sur lequel on veut faire de la NER. *model* : nom du modèle de spaCy  |*--outpath* : sauvegarde des EN extraits. | Tâche de NER simple à partir d'un modèle de spaCy. 
 training_llm.ipynb|||Notebook pour l'affinage de modèles Transformers. 
-create_batches.py|||divise le contenu d'un ensemble de documents txt en fonction de la fenêtre contextuelle maximale du modèle employé : permet d'insérer le contenu manuellement dans le prompt via l'interface web.  |
+create_batches.py|_template.txt_ : document .txt contenant l'instruction de base à ajouter à chaque batch. _txtdir_ : dossier contenant le/s texte/s en format .txt _outdir_ : dossier de sortie des batches au format .txt||divise le contenu d'un ensemble de documents txt en fonction de la fenêtre contextuelle maximale du modèle employé : permet d'insérer le contenu manuellement dans le prompt via l'interface web.  |
+alignement.py|"nom d'une personne"|--sparql : fait une requête via l'endpoint SPARQL et non Sru | requête www.idref.fr pour obtenir l'URI d'un nom

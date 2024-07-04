@@ -1,43 +1,36 @@
 
 # paramètres commun à tous les programmes
 param_general = {
-    "tags_to_extract" :['_', 'persName', 'placeName', 'date'],
+    "tags_to_extract" :['_', 'persName', 'placeName', 'date'], # '_' servira pour les tokens Outside/non-EN.
     "class_names" :['O', 'PER', 'LOC', 'DATE'],
     'OIB' : True,
-    "datadir" : "data/dataset-split",
+    "datadir" : "data/dataset-spacy",
     "datadoc" : "data_div" ,
-
 }
 
 # paramètres pour la création du jeu de données :
 param_creation_dataset = {"by_element" : "div",# peut être None, traitera chaque page en entier
-                  "tokenizer" : "split" , # les choix sont ["spacy", "split"] ou l'URL HF d'un modèle
-                  "xml_dir" : "data/manual_encoding_ner",# dossier où se trouvent les doc XML annotés
-                "train_test_split" : True
+                        "tokenizer" : "spacy" , # les choix sont ["spacy", "split"] ou l'URL HF d'un modèle
+                        "xml_dir" : "data/manual_encoding_ner",# dossier où se trouvent les doc XML annotés
+                        "train_test_split" : True
 }
-
 
 # paramètres spécifiques au NER regex avec PER, LOC, DATE et O
 param_regex =  {
-    'antidictionnaire': 
-              ['voir', "und", "et", "de", 'poss.', "fin", "ff.", "des", "den", "der", "dem", "ein", "voir:", 'zum', 'bibl.', 'catal.', "l'auteur", 'list', 'anno' ]
-             ,
-    'LOC': ["strasbourg", "strasbourg.", "strassburg", "strazburg", "sélestat", "bâle", "franckfort", "heidelberg", "argentorati"]
-    ,
-    "DATE" : r'(M?\.?[LXI]+\.*|1[456]\d\d\.?|Anno\W?)'
-    ,
+    'antidictionnaire': ['voir', "und", "et", "de", 'poss.', "fin", "ff.", "des", "den", "der", "dem", "ein", "voir:", 'zum', 'bibl.', 'catal.', "l'auteur", 'list', 'anno' ],
+    'LOC': ["strasbourg", "strasbourg.", "strassburg", "strazburg", "sélestat", "bâle", "franckfort", "heidelberg", "argentorati"],
+    "DATE" : r'(M?\.?[LXI]+\.*|1[456]\d\d\.?|Anno\W?)',
     "doc_table_alpha" : "regex/data/table_alpha.txt",
     "outdir_regex" :'regex/out'
 }
 
-# paramètre modèles HF
-
+# paramètre modèles HF (hors compatibilité spaCy)
 param_hf = {'model': "Jean-Baptiste/camembert-ner-with-dates",
             'outdir' : "test",
-             'outdoc' : "camembert-ner-with-dates_preds",
-             'tokenized_with_model' : False,
-             'ents_annotated': True,
-             'eval': True}
+            'outdoc' : "camembert-ner-with-dates_preds",
+            'tokenized_with_model' : True,
+            'ents_annotated': True,
+            'eval': True}
 
 param_IAgen = {
     'template' : """Extrait en un fichier JSON les entités nommées B-PER, I-PER, B-DATE, I-DATE, B-LOC, I-LOC selon l'exemple :
@@ -47,7 +40,6 @@ PETRUS DE CRESCENTIS
  Strasbourg , ( Christian Egenolff ), 1529 
  Marque typ. de Chris. Egenolff. Anno M. D. LXXXII 
  Stadtbibl. Strassburg 1192". 
-
 Réponse = 
 [
 [{'entity': 'B-PER',
@@ -104,15 +96,14 @@ Réponse =
 ]
 ]
 Maintenant, extrait en JSON les entités nommées des phrases suivantes :""", 
-'model': 'mistral', # can only be either ['mistral', 'gpt'],
-'txtdir': "data/A121078-1/txt",
-'outdir': 'data/mistral_batches',
-"max_length":3000
+    'model': 'mistral', # can only be either ['mistral', 'gpt'],
+    'txtdir': "data/demo/",
+    'outdir': 'data/mistral_batches',
+    "max_length":3000
 }
 
 param_alignement = {
     "ents_doc_path" :None, #can be None : param_general['datadir']/param_general['datadoc'].csv will be used
-    
     "ents_id_colname" : 'tag_ids',
     "tokens_colname" : "text",
     'originaltext_colname' : 'originaltext', #can be same as tokens_colname

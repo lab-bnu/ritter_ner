@@ -26,6 +26,7 @@ executing==2.0.1
 filelock==3.15.4
 fonttools==4.53.0
 fr-core-news-sm @ https://github.com/explosion/spacy-models/releases/download/fr_core_news_sm-3.7.0/fr_core_news_sm-3.7.0-py3-none-any.whl#sha256=37e9f1f6a278a5138fabdabcc92cc559da917f9b24c76f0adf6758720d7eab10
+fr_camembert_ritter @ https://huggingface.co/alexiaschn/fr_camembert_ritter/resolve/main/fr_camembert_ritter-any-py3-none-any.whl#sha256=4b43f6404df016125cb8519c0aee3e5c74a58ea7cab1103133d7ef5112d50f17
 frozenlist==1.4.1
 fsspec==2024.5.0
 h11==0.14.0

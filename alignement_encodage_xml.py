@@ -107,7 +107,7 @@ class Document:
                         print("More than one match here's the list of names with idRef :")
                         print(*[(name['affcourt_z'], name['ppn_z']) for name in resp['response']['docs']], sep='\n')
                         try:
-                            idref = inputimeout(prompt=f"Entrez l'identifiant correct pour le nom {ent}", timeout=1)
+                            idref = inputimeout(prompt=f"Entrez l'identifiant correct pour le nom {ent}", timeout=5)
                         except TimeoutError:
                             idref = ''
                         if idref == '':
@@ -210,7 +210,10 @@ class Document:
                             groups = re.match(rf'(.*)({ent['entity']})(.*)', originaltext, flags=re.DOTALL)
                             if groups:
                                 div.text = groups.group(1).encode('UTF-8').decode('UTF-8')
-                                subelement = etree.SubElement(div, f"{param_general['tags_to_extract'][param_general['class_names'].index(ent['label'])]}", attrib={'idref':ent['idref']})
+                                if ent['idref'] != 'TBD':
+                                    subelement = etree.SubElement(div, f"{param_general['tags_to_extract'][param_general['class_names'].index(ent['label'])]}", attrib={'idref':ent['idref']})
+                                else:
+                                    subelement = etree.SubElement(div, f"{param_general['tags_to_extract'][param_general['class_names'].index(ent['label'])]}")
                                 subelement.text = groups.group(2)
                                 subelement.tail = groups.group(3)
 
