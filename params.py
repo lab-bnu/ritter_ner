@@ -4,14 +4,21 @@ param_general = {
     "tags_to_extract" :['_', 'persName', 'placeName', 'date'], # '_' servira pour les tokens Outside/non-EN.
     "class_names" :['O', 'PER', 'LOC', 'DATE'],
     'OIB' : True,
-    "datadir" : "data/dataset-spacy",
-    "datadoc" : "data_div" ,
+    "datadir" : "data/ritter_complet",
+    "datadoc" : "ritter_vol1" ,
+}
+
+param_chaine_prediction = {
+    "outdir" : "data/ritter_avec_en/test",
+    "csvdocname" : "ritter_test" ,
+    "xml_dir" : "data/test_xml",
+    "model_spacy" : "fr_camembert_ritter",
 }
 
 # paramètres pour la création du jeu de données :
-param_creation_dataset = {"by_element" : "div",# peut être None, traitera chaque page en entier
-                        "tokenizer" : "spacy" , # les choix sont ["spacy", "split"] ou l'URL HF d'un modèle
-                        "xml_dir" : "data/manual_encoding_ner",# dossier où se trouvent les doc XML annotés
+param_creation_dataset = {"by_element" : None,# peut être None, traitera chaque page en entier
+                        "tokenizer" : "spacy", # les choix sont ["spacy", "split"] ou l'URL HF d'un modèle
+                        "xml_dir" : "data/A121078-1/xml/export_doc50_volume_1_teixml_202404101446",# dossier où se trouvent les doc XML annotés
                         "train_test_split" : True
 }
 
