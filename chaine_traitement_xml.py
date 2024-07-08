@@ -5,14 +5,15 @@ import re
 import csv
 from typing import Optional
 from pathlib import Path
-import typer
 from params import param_general, param_chaine_prediction
 import os.path
 import ast
 import spacy
 import requests
 from lxml import etree
-
+import warnings
+warnings.filterwarnings("ignore")
+import sys
 
 class Data:
     outdir = param_chaine_prediction['outdir']
@@ -20,8 +21,10 @@ class Data:
         os.mkdir(outdir)
     outdoc = f"{outdir}/{param_chaine_prediction['csvdocname']}"
     data = []
-    nlp = spacy.load(param_chaine_prediction['model_spacy'])
-
+    try:
+        nlp = spacy.load(param_chaine_prediction['model_spacy'])
+    except OSError:
+         sys.exit(f"Télécharger le modèle en ligne de commande : spacy download {param_chaine_prediction['model_spacy']}")
 
 
     def get_files(self):
@@ -113,8 +116,6 @@ class Data:
                 idref = None
         return idref
 
-
-   
     def prettyprint(self, element, **kwargs):
         xml = etree.tostring(element, pretty_print=True, **kwargs)
         print(xml.decode(), end='')
@@ -125,68 +126,60 @@ class Data:
             root = etree.SubElement(xml, 'body')    
             div = etree.SubElement(root, 'div')                
             p = etree.SubElement(div, 'p')  
-            # p.text = page['originaltext']              
-            # for ent in page['ents']:                            
-            #     groups = re.match(rf'(.*)({re.escape(ent['entity'])})(.*)', page['originaltext'], flags=re.DOTALL)
-            #     if groups:
-            #         # p.text = groups.group(1).encode('UTF-8').decode('UTF-8')
-
-            #         subelement = etree.SubElement(p, f"{param_general['tags_to_extract'][param_general['class_names'].index(ent['label'])]}")
-            #         if "idref" in list(ent.keys()):
-            #             subelement.attrib['idref'] = ent['idref']
-            #         subelement.text = groups.group(2)
-            #         # subelement.tail = groups.group(3)
-            #         p.text = p.text[:groups.start(1)]
-                # else: 
-                    # p.text = page['originaltext']
-
+            ch = ''
             for tok in page['tokens']:
                 print(tok)
+                entity = ''                
                 if any(tok == ent['entity'].split()[i] for ent in page['ents'] for i in range(len(ent['entity'].split()))):
                     for e in page['ents']:
                         if tok == e['entity'].split()[0]:
+                            if e == entity:
+                                continue
                             entity = e
-                            print(entity)
-                    # entity = next(e for e in page['ents'] if tok == e['entity'].split()[0])
-                    # entity = next(filter(lambda e: tok == e['entity'].split()[0], page['ents']))
-                    # print(entity)
-
-                    entity_elem = etree.SubElement(p, f"{param_general['tags_to_extract'][param_general['class_names'].index(entity['label'])]}")
-                    if "idref" in list(entity.keys()):
-                        entity_elem.attrib['idref'] = entity['idref']
-                    entity_elem.text = entity['entity']
+                            try:
+                                ch = re.sub(r"\s(\W)", r"\1", ch )
+                                ch =  ch
+                                entity_elem.tail = ch
+                                ch = ''
+                            except UnboundLocalError:
+                                ch = re.sub(r"\s(\W)", r"\1", ch )
+                                p.text = ch
+                                ch = ''                            
+                            entity_elem = etree.SubElement(p, f"{param_general['tags_to_extract'][param_general['class_names'].index(entity['label'])]}")
+                            if "idref" in list(entity.keys()):
+                                entity_elem.attrib['idref'] = entity['idref']
+                            entity_elem.text = entity['entity']                            
                 else:
-                    p.text = p.text + tok
+                    # prévision de la tokenisation des modèles Transformers type camembert qui ajoutent un _ pour signaler début de mot 
+                    # tok = re.sub(r"[▁#]", r" ", tok )
+                    ch += tok + ' '
+            if ch: 
+                ch = re.sub(r"\s(\W)", r"\1", ch )
+                entity_elem.tail = ch
             tree = etree.ElementTree(xml)
-            tree.write(f"{self.outdir}/{page['prov']}", pretty_print=True, encoding='utf-8', xml_declaration=True)
-
-
-            # for tok in page['tokens']:
-
-                # if any(tok == ent['entity'].split()[i] for ent in page['ents'] for i in range(len(ent['entity'].split()))):
-                #     print(tok)
-                #     entity = next(e for e in page['ents'] if tok == e['entity'].split()[0])
-                #     entity_elem = etree.SubElement(p, f"{param_general['tags_to_extract'][param_general['class_names'].index(entity['label'])]}")
-                #     if "idref" in list(entity.keys()):
-                #         entity_elem.attrib['idref'] = entity['idref']
-                #     entity_elem.text = entity['entity']
-            
+            tree.write(f"{self.outdir}/{page['prov']}", pretty_print=True, encoding='utf-8', xml_declaration=True)           
 
     def writedata(self):
         with open(f"{self.outdoc}.csv", 'a', newline='', encoding="utf-8") as g:
             writer = csv.DictWriter(g, fieldnames=list(self.data[0].keys()), delimiter=';', quotechar='"', quoting=csv.QUOTE_MINIMAL)
             writer.writerow(self.data[-1])
 
+    def get_xml(self, file):
+        with open(file, "r", encoding="utf-8") as f:
+            tree = etree.parse(f)
+            print(etree.tostring(tree))
 
 if __name__=='__main__':
     
     files = [file for file in glob.glob(f"{param_chaine_prediction['xml_dir']}/*.xml")]
-    done = [encoded for encoded in glob.glob(f"{param_chaine_prediction['outdir']}/*.xml")]
+    done = [encoded for encoded in os.listdir(f"{param_chaine_prediction['outdir']}/")]
     for file in files:
-        if file not in done:
+        if os.path.basename(file) not in done:
             data = Data()
             data.set_data(file)
             print(data.get_data())
             data.writedata()
             data.write_xml()
-    
+            data.get_xml(file)
+        else:
+            print(f"Already done {file}")
