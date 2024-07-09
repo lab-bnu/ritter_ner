@@ -8,10 +8,10 @@ param_general = {
     "datadoc" : "ritter_vol1" ,
 }
 
-param_chaine_prediction = {
-    "outdir" : "data/ritter_avec_en/test",
-    "csvdocname" : "ritter_test" ,
-    "xml_dir" : "data/test_xml",
+param_xlm2encoded_xml_ner = {
+    "outdir" : "data/A121078-2/xml_w_ner",
+    "csvdocname" : "ritter_vol2" ,
+    "xml_dir" : "data/A121078-2/xml/export_doc57_volume_2_teixml_202404121230",
     "model_spacy" : "fr_camembert_ritter",
 }
 
