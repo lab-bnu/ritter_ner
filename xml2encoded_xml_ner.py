@@ -184,9 +184,12 @@ class Data:
                     # si le token n'est pas dans une EN : on l'ajoute à la chaîne "ch" qui recomposera le reste du texte
                     ch += tok + ' '
             if ch: 
-                # fin du texte entre la dernière EN et </p>
-                ch = re.sub(r"\s(\W)", r"\1", ch )
-                entity_elem.tail = ch
+                try:
+                    # fin du texte entre la dernière EN et </p>
+                    ch = re.sub(r"\s(\W)", r"\1", ch )
+                    entity_elem.tail = ch
+                except UnboundLocalError:
+                    p.text = ch
             # construction et enregistrement de l'arbre dans un document 
             tree = etree.ElementTree(xml)
             tree.write(f"{self.outdir}/{page['prov']}", pretty_print=True, encoding='utf-8', xml_declaration=True)           
