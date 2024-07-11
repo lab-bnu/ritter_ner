@@ -1,0 +1,63 @@
+Extrait en un fichier JSON les entités nommées B-PER, I-PER, B-DATE, I-DATE, B-LOC, I-LOC selon l'exemple :
+Exemple =  "HANNENBEIN, Georg . Voir: LIED (Neu Klaglied der Bauern) n° 340.
+PETRUS DE CRESCENTIS
+( WUERFELBUCH ]
+ Strasbourg , ( Christian Egenolff ), 1529 
+ Marque typ. de Chris. Egenolff. Anno M. D. LXXXII 
+ Stadtbibl. Strassburg 1192". 
+Réponse = 
+[
+[{'entity': 'B-PER',
+   'word': 'HANNENBEIN',
+},
+  {'entity': 'I-PER',
+   'word': ',',
+},
+  {'entity': 'I-PER',
+   'word': 'Georg',
+},
+],[
+{'entity': 'B-PER',
+   'word': 'PETRUS',
+},
+{'entity': 'I-PER',
+'word': 'DE',
+},
+{'entity': 'I-PER',
+'word': 'CRESCENTIS',
+},
+],[
+{
+'entity':'B-LOC', 
+'word': 'Strasbourg',
+},
+],[
+{
+'entity': 'B-PER',
+'word': 'Christian'
+},
+{
+'entity':'I-PER',
+'word': 'Egenolff'
+},
+],[
+{'entity': 'B-DATE',
+'word': '1529'},
+],[
+{'entity':'B-PER',
+'word': 'Chris.'},
+{'entity': 'I-PER',
+'word': 'Egenolff'},
+],[
+{'entity':'B-DATE',
+'word': 'M.'},
+{'entity': 'I-DATE', 
+'word': 'D.'},
+{'entity':'I-DATE',
+'word': 'LXXXII'},
+],[
+{'entity': 'B-LOC',
+'word': 'Strassburg'}
+]
+]
+Maintenant, extrait en JSON les entités nommées des phrases suivantes :    Copinger 5430, Schmidt VI, 63, Voulliéme: Berlin 2506, 6.  K 3309. Prov.: Don du prince de Bentheim, 1874, provenant  du couvent de Frenswegen. Rel. anc.  359  PALUDANUS PETRUS: Sermones thesauri novi de tempore.  Strasbourg, (imprimeur des Vitas Patrum), 1483, in-fol.  Copinger 5410, Pellechet: Colmar 1186, Proctor 419, Voul¬  liéme: Berlin 2251, 5.  K 3297. Prov.: Librairie Treuttel e Würtz, Strasbourg, 30. I.  1874. Au-dessous du titre: Conventus... (illisible). Ord. Praedi¬  catorum. Rel. anc.  360  PALUDANUS PETRUS: Sermones thesauri novi de tempore.  Strasbourg, (impr. des Vitas Patrum), 1484, in-fol.  Copinger III. 5411, Madsen 3017, Proctor 421, Voulliéme:  Berlin 2254.  K 3298. Prov.: Bibl. Böcking; fol. a2a; Pro Conventu B. Mariae  ad Niues Pragae Fratrum Regularis Observantiae. Notes mss.  Rel, anc.  2e ex. K 3303. Prov.: J. Bensheimer, Strasbourg, 30. VII. 1879,  15 M. Notes mss.  361  PALUDANUS PETRUS: Sermones thesauri novi de tempore.  Strasbourg, Martin Flach, 1487, in-fol.  Copinger 5414, Madsen 3018, Schmidt V, 12, Voulliéme: Ber¬  lin 4977.  K 3304. Prov.: Librairie Trübner, Strasbourg (Vente Zimber¬  lin N° 605), 29 IV. 1886, 3 M. Au haut du f. a2a; «Conventus  Colmariensis Ordinis Praedicatorum». Notes mss. f. al  manque. Rel. anc.  362  PALUDANUS PETRUS: Sermones thesauri novi de tempore.  Strasbourg, Martin Flach, 1488, in-fol.  Copinger 5416, Schmidt VI, 14.  K 3305. Prov.: Don de Fid. Butsch fils, Augsbourg, 1872. Au  haut du titre: «Monasterij Ranshouen.» A l’intérieur du  1er plat: «Ad Bibliothecam Mathiae Weentz. Anno 1570.» Rel.  anc. Notes mss.  363  76  

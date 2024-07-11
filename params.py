@@ -40,6 +40,11 @@ param_hf = {'model': "Jean-Baptiste/camembert-ner-with-dates",
             'eval': True}
 
 param_IAgen = {
+    "mode": "api", # ['manuel', "api"] avec "manuel" écriture des batches qui doivent être placées dans l'interface web ou "api" qui interroge l'API directement
+    'inputdir': "data/demo/",
+    'outdir': 'data/mistral_demo',
+    "max_length": 3000, 
+    "temperature": 0, # only if "api" mode
     'template' : """Extrait en un fichier JSON les entités nommées B-PER, I-PER, B-DATE, I-DATE, B-LOC, I-LOC selon l'exemple :
 Exemple =  "HANNENBEIN, Georg . Voir: LIED (Neu Klaglied der Bauern) n° 340.
 PETRUS DE CRESCENTIS
@@ -102,11 +107,7 @@ Réponse =
 'word': 'Strassburg'}
 ]
 ]
-Maintenant, extrait en JSON les entités nommées des phrases suivantes :""", 
-    'model': 'mistral', # can only be either ['mistral', 'gpt'],
-    'txtdir': "data/demo/",
-    'outdir': 'data/mistral_batches',
-    "max_length":3000
+Maintenant, extrait en JSON les entités nommées des phrases suivantes :"""
 }
 
 param_alignement = {

@@ -1,0 +1,63 @@
+Extrait en un fichier JSON les entités nommées B-PER, I-PER, B-DATE, I-DATE, B-LOC, I-LOC selon l'exemple :
+Exemple =  "HANNENBEIN, Georg . Voir: LIED (Neu Klaglied der Bauern) n° 340.
+PETRUS DE CRESCENTIS
+( WUERFELBUCH ]
+ Strasbourg , ( Christian Egenolff ), 1529 
+ Marque typ. de Chris. Egenolff. Anno M. D. LXXXII 
+ Stadtbibl. Strassburg 1192". 
+Réponse = 
+[
+[{'entity': 'B-PER',
+   'word': 'HANNENBEIN',
+},
+  {'entity': 'I-PER',
+   'word': ',',
+},
+  {'entity': 'I-PER',
+   'word': 'Georg',
+},
+],[
+{'entity': 'B-PER',
+   'word': 'PETRUS',
+},
+{'entity': 'I-PER',
+'word': 'DE',
+},
+{'entity': 'I-PER',
+'word': 'CRESCENTIS',
+},
+],[
+{
+'entity':'B-LOC', 
+'word': 'Strasbourg',
+},
+],[
+{
+'entity': 'B-PER',
+'word': 'Christian'
+},
+{
+'entity':'I-PER',
+'word': 'Egenolff'
+},
+],[
+{'entity': 'B-DATE',
+'word': '1529'},
+],[
+{'entity':'B-PER',
+'word': 'Chris.'},
+{'entity': 'I-PER',
+'word': 'Egenolff'},
+],[
+{'entity':'B-DATE',
+'word': 'M.'},
+{'entity': 'I-DATE', 
+'word': 'D.'},
+{'entity':'I-DATE',
+'word': 'LXXXII'},
+],[
+{'entity': 'B-LOC',
+'word': 'Strassburg'}
+]
+]
+Maintenant, extrait en JSON les entités nommées des phrases suivantes : PARATUS (Idem). — [Strasbourg, Martin Flach s. d.), in-4°.  Hain 12402, Polain 3515, Madsen 3040, Voulliéme : Berlin 2516.  554  <0x0A> PARATUS (Idem). — (Strasbourg, Martin Flach s. d.] in-4°. Hain 12403, Polain 3516, Proctor 722.  555  <0x0A>556>  PARATUS (Idem). — Strasbourg, Martin Flach s. d.), in-fol. Hain 12404; Proctor 730.  556  <0x0A> PARATUS (Idem). — Strasbourg, Martin Flach 1491, in-fol.  Copinger II, 4600.  557  <0x0A> PARATUS (Idem). — Haguenau, Henri Gran 1500, in-4°.  Copinger II, 4601.  558  
