@@ -10,15 +10,15 @@ import warnings
 from typing import Optional
 import os.path
 
-from params import param_general, param_regex
+from params import param_regex, param_regex
 
 
 class NerRegex:
     ref = []
     sentences = []
-    class_names = param_general['class_names']
+    class_names = param_regex['class_names']
     table_alpha = param_regex['doc_table_alpha']
-    datadoc = f"{param_general['datadir']}/{param_general['datadoc']}.csv"
+    datadoc = param_regex['datadoc']
     outdir = param_regex['outdir_regex']
     if not os.path.exists(outdir):
         os.mkdir(outdir)
@@ -28,7 +28,7 @@ class NerRegex:
         """
         Construit le dictionnaire label2id avec IOB
         """
-        if param_general['OIB'] == True:
+        if param_regex['OIB'] == True:
             prefixes = ['B-', 'I-']
             self.class_names = [label if label == 'O' else f"{pref}{label}" for label in self.class_names for pref in prefixes]
         self.label2id = {label : id-1 for id, label in enumerate(self.class_names)}
@@ -126,20 +126,18 @@ class NerRegex:
         plt.savefig(f"{output_dir}/regex_cm{normalized}.png", format="png")
         # plt.show()
 
-def regex(writeCoNLL:Optional[bool]=True, confmatrixnorm:Optional[bool]=True):
+
+if __name__ == '__main__': 
     regex = NerRegex()
     regex.set_labels()
     regex.get_ents()
     regex.regex_extract()
-    if confmatrixnorm == True:
+    if param_regex['confusion_matrix_normalisee'] == True:
         regex.evaluation()
     else:
         regex.evaluation(False)
-    if writeCoNLL != False:
+    if param_regex['writeCoNLL'] == True:
         regex.write2CoNLL()
-
-if __name__ == '__main__': 
-    typer.run(regex)
     
 
             

@@ -1,52 +1,66 @@
+# paramètres pour la chaîne de xml/txt non encodé à xml
+param_doc2encoded_xml_ner = {
+    "inputdir" : "data/test", # doc xml ou txt
+    "model_spacy" : "fr_camembert_ritter", # spacy download fr_camembert_ritter
+    "outdir" : "data/demo_encoded",
+    "csvdocname" : "demo" ,
+    "tags": {"PER": "persName", "LOC":'placeName', 'DATE': 'date'} # clé étiquette donnée, valeur élément xml correspondant, 
+    # NB : le programme prend en charge seul le système OIB si le modèle prédit les classes B-PER, I-PER au lieu de PER
+}
 
-# paramètres commun à tous les programmes
-param_general = {
-    "tags_to_extract" :['_', 'persName', 'placeName', 'date'], # '_' servira pour les tokens Outside/non-EN.
+# Programmes pour évaluation depuis "vérité de terrain"
+# paramètres pour la création du jeu de données XML déjà annoté :
+param_creation_dataset = {
+    "xml_dir" : "data/test", # dossier où se trouvent les doc XML annotés
+    "tags_to_extract" : ['_', 'persName', 'placeName', 'date'], # '_' servira pour les tokens Outside/non-EN.
     "class_names" :['O', 'PER', 'LOC', 'DATE'],
     'OIB' : True,
-    "datadir" : "data/ritter_complet",
-    "datadoc" : "ritter_vol1" ,
+    "datadir" : "data/ritter_complet", #document créé par creation_dataset depuis extraction d'un document xml annoté
+    "datadoc" : "test1" ,
+    "by_element" : 'div',# peut être None, traitera chaque page en entier
+    "tokenizer" : "spacy", # les choix sont ["spacy", "split"] ou l'URL HF d'un modèle
+    "train_test_split" : True,
 }
 
-param_xlm2encoded_xml_ner = {
-    "outdir" : "data/A121078-2/xml_w_ner",
-    "csvdocname" : "ritter_vol2" ,
-    "xml_dir" : "data/A121078-2/xml/export_doc57_volume_2_teixml_202404121230",
-    "model_spacy" : "fr_camembert_ritter",
-}
-
-# paramètres pour la création du jeu de données :
-param_creation_dataset = {"by_element" : None,# peut être None, traitera chaque page en entier
-                        "tokenizer" : "spacy", # les choix sont ["spacy", "split"] ou l'URL HF d'un modèle
-                        "xml_dir" : "data/A121078-1/xml/export_doc50_volume_1_teixml_202404101446",# dossier où se trouvent les doc XML annotés
-                        "train_test_split" : True
-}
-
-# paramètres spécifiques au NER regex avec PER, LOC, DATE et O
+# paramètres spécifiques au programme d'extraction des EN avec regex
 param_regex =  {
+    'datadoc' : 'data/ritter_complet/test1_test.csv', # doit etre un doc csv contenant vérité de terrain
+    "class_names" :['O', 'PER', 'LOC', 'DATE'],
+    'OIB' : True,
+    "doc_table_alpha" : "regex/data/table_alpha.txt",
     'antidictionnaire': ['voir', "und", "et", "de", 'poss.', "fin", "ff.", "des", "den", "der", "dem", "ein", "voir:", 'zum', 'bibl.', 'catal.', "l'auteur", 'list', 'anno' ],
     'LOC': ["strasbourg", "strasbourg.", "strassburg", "strazburg", "sélestat", "bâle", "franckfort", "heidelberg", "argentorati"],
     "DATE" : r'(M?\.?[LXI]+\.*|1[456]\d\d\.?|Anno\W?)',
-    "doc_table_alpha" : "regex/data/table_alpha.txt",
-    "outdir_regex" :'regex/out'
+    "outdir_regex" :'regex/out',
+    'confusion_matrix_normalisee': True,
+    'writeCoNLL': True,
+
 }
 
 # paramètre modèles HF (hors compatibilité spaCy)
-param_hf = {'model': "Jean-Baptiste/camembert-ner-with-dates",
-            'outdir' : "test",
-            'outdoc' : "camembert-ner-with-dates_preds",
-            'tokenized_with_model' : True,
-            'ents_annotated': True,
-            'eval': True}
+param_hf_ner = {
+    'datadoc' : 'data/ritter_complet/test1_test.csv', # doit etre un doc csv contenant vérité de terrain
+    "class_names" :['O', 'PER', 'LOC', 'DATE'],
+    'OIB' : True,
+    'model': "Jean-Baptiste/camembert-ner-with-dates",
+    'outdir' : "test",
+    'outdoc' : "camembert-ner-with-dates_preds10",
+    'tokenized_with_model' : True,
+    'ents_annotated': True,
+    'eval': True}
 
+
+# paramètres Mistral
 param_IAgen = {
     "mode": "api", # ['manuel', "api"] avec "manuel" écriture des batches qui doivent être placées dans l'interface web ou "api" qui interroge l'API directement
+        "class_names" :['O', 'PER', 'LOC', 'DATE'],
     'inputdir': "data/demo/",
     'outdir': 'data/mistral_demo',
     "max_length": 3000, 
     "temperature": 0, # only if "api" mode
-    'template' : """Extrait en un fichier JSON les entités nommées B-PER, I-PER, B-DATE, I-DATE, B-LOC, I-LOC selon l'exemple :
-Exemple =  "HANNENBEIN, Georg . Voir: LIED (Neu Klaglied der Bauern) n° 340.
+}
+param_IAgen['template'] = f"""Extrait en un fichier JSON les entités nommées {param_IAgen['class_names']}:
+Exemples =  "HANNENBEIN, Georg . Voir: LIED (Neu Klaglied der Bauern) n° 340.
 PETRUS DE CRESCENTIS
 ( WUERFELBUCH ]
  Strasbourg , ( Christian Egenolff ), 1529 
@@ -108,12 +122,5 @@ Réponse =
 ]
 ]
 Maintenant, extrait en JSON les entités nommées des phrases suivantes :"""
-}
 
-param_alignement = {
-    "ents_doc_path" :None, #can be None : param_general['datadir']/param_general['datadoc'].csv will be used
-    "ents_id_colname" : 'tag_ids',
-    "tokens_colname" : "text",
-    'originaltext_colname' : 'originaltext', #can be same as tokens_colname
-    "outdir": "data/test_alignement/"
-    } 
+

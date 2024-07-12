@@ -8,39 +8,39 @@ import matplotlib.pyplot as plt
 from typing import Optional
 import sys
 import warnings
+warnings.filterwarnings("ignore")
 
-from params import param_general, param_hf
+from params import param_hf_ner
 
 
 class HFpred:
 
-    class_names = param_general["class_names"]
+    class_names = param_hf_ner["class_names"]
     data = []
     
-    classifier = pipeline("ner", model=param_hf['model'], tokenizer=param_hf['model'])
+    classifier = pipeline("ner", model=param_hf_ner['model'], tokenizer=param_hf_ner['model'])
     task = "ner"
     label_all_tokens = True
-    outdir = param_hf['outdir']
+    outdir = param_hf_ner['outdir']
     if not os.path.isdir(outdir):
         os.mkdir(outdir)
-    outdoc = f"{outdir}/{param_hf['outdoc']}"
-    if param_hf['tokenized_with_model'] == False:            
-            tokenizer = AutoTokenizer.from_pretrained(param_hf['model'])
+    outdoc = f"{outdir}/{param_hf_ner['outdoc']}"          
+    tokenizer = AutoTokenizer.from_pretrained(param_hf_ner['model'])
 
     def set_data(self):
         
-            with open(f"{param_general['datadir']}/{param_general['datadoc']}.csv", 'r', newline='', encoding='UTF-8') as f: 
-                reader = csv.DictReader(f, delimiter=';', quotechar='"', quoting=csv.QUOTE_MINIMAL)
-                for row in reader:
-                    self.data.append(row)
-            self.set_labels()
+        with open(param_hf_ner['datadoc'], 'r', newline='', encoding='UTF-8') as f: 
+            reader = csv.DictReader(f, delimiter=';', quotechar='"', quoting=csv.QUOTE_MINIMAL)
+            for row in reader:
+                self.data.append(row)
+        self.set_labels()
         
 
     def set_labels(self):
         """
         Construit le dictionnaire label2id avec IOB
         """
-        if param_general['OIB'] == True:
+        if param_hf_ner['OIB'] == True:
             prefixes = ['B-', 'I-']
             self.class_names = [label if label == 'O' else f"{pref}{label}" for label in self.class_names for pref in prefixes]
         self.label2id = {label : id-1 for id, label in enumerate(self.class_names)}
@@ -98,11 +98,11 @@ class HFpred:
     def add_preds(self):
         
         for sent in self.data: 
-            if param_hf['tokenized_with_model'] == False:   
+            if param_hf_ner['tokenized_with_model'] == False:   
                 sent['text'] = self.add_tokens(sent)  
             sent['preds'] = self.process(sent)
             
-            if param_hf['eval'] == True:
+            if param_hf_ner['eval'] == True:
                 sent['tag_ids'] = self.normalize_preds(sent)
         return self.data
     
@@ -116,7 +116,7 @@ class HFpred:
 
     def evaluate(self):
         labels = list(self.label2id.keys())
-        if param_hf['ents_annotated'] == False:
+        if param_hf_ner['ents_annotated'] == False:
             sys.exit("L'évaluation n'est possible que si les données ont été annotées manuellement")
         else:
             preds_flat = [self.id2label[label] for sublist in self.data for label in sublist['preds']]
@@ -149,19 +149,13 @@ class HFpred:
         plt.savefig(f"{self.outdoc}_confmatrix{title}.png", format="png")
         # plt.show()
     
-                                     
-
-def start():
-    """Produit les prédictions pour le modèle dispo sur HF donné et les enregistre avec les données d'entrées dans un nouveau document 
-    Params:
-    --eval produit l'évaluation de la prédiction à partir du document en sortie
-    """
+if __name__ == '__main__':
+    # Produit les prédictions pour le modèle dispo sur HF donné et les enregistre avec les données d'entrées dans un nouveau document 
+    # Params:
+    # --eval produit l'évaluation de la prédiction à partir du document en sortie
     preds = HFpred()
     preds.set_data()
     preds.add_preds()
     preds.write_full()
-    if param_hf['eval'] == True:
+    if param_hf_ner['eval'] == True:
         preds.evaluate()
-
-if __name__ == '__main__':
-    typer.run(start)

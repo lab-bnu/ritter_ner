@@ -6,22 +6,23 @@ import sys
 from typing import Optional
 from pathlib import Path
 import typer
-from params import param_general, param_creation_dataset
+from params import param_creation_dataset
 import os.path
 import ast
 import warnings
+
 
 class Dataset: 
     
     files = []
     tokenizer = param_creation_dataset['tokenizer'].lower()
-    tags_to_extract = param_general['tags_to_extract']
-    class_names = param_general['class_names']
+    tags_to_extract = param_creation_dataset['tags_to_extract']
+    class_names = param_creation_dataset['class_names']
     xml_dir = param_creation_dataset['xml_dir']
-    outdir = param_general['datadir']
+    outdir = param_creation_dataset['datadir']
     if not os.path.isdir(outdir):
         os.mkdir(outdir)
-    outdoc = f"{outdir}/{param_general['datadoc']}"
+    outdoc = f"{outdir}/{param_creation_dataset['datadoc']}"
     by_element = param_creation_dataset['by_element']
     out = []
     
@@ -38,7 +39,7 @@ class Dataset:
         """
         Construit le dictionnaire label2id avec IOB
         """
-        if param_general['OIB'] == True:
+        if param_creation_dataset['OIB'] == True:
             prefixes = ['B-', 'I-']
             class_names = [label if label == 'O' else f"{pref}{label}" for label in self.class_names for pref in prefixes]
             self.label2id = {label : id-1 for id, label in enumerate(class_names)}
@@ -106,7 +107,7 @@ class Dataset:
                             # add the text in a list so that it doesn't get repeated
                             tagged.append(clean_text)
                             full_name = self.tokenize(clean_text)
-                            if param_general['OIB'] == True:                                                              
+                            if param_creation_dataset['OIB'] == True:                                                              
                                 content["text"].append(full_name[0])                    
                                 content["tags"].append(f"B-{label}")
                                 content["tag_ids"].append(self.label2id[f"B-{label}"])
@@ -224,7 +225,8 @@ class Dataset:
                 count+=1
             db.add(doc)
             count_res += len(res)
-        print(f"Nombre d'EN skipped :{count}\nNombre d'EN : {count_res}. \nRatio {(count*100)/(count_res+count):.2f}% des EN ou portion d'EN (souvent ponctuation ou espace entre deux mots d'une même).")
+        if count_res+count != 0:
+            print(f"Nombre d'EN skipped :{count}\nNombre d'EN : {count_res}. \nRatio {(count*100)/(count_res+count):.2f}% des EN ou portion d'EN (souvent ponctuation ou espace entre deux mots d'une même).")
         db.to_disk(f"{outdocname}.spacy")
 
 

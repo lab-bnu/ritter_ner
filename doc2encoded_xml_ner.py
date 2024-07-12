@@ -5,7 +5,7 @@ import re
 import csv
 from typing import Optional
 from pathlib import Path
-from params import param_general, param_xlm2encoded_xml_ner
+from params import param_doc2encoded_xml_ner
 import os.path
 import ast
 import spacy
@@ -15,21 +15,22 @@ import warnings
 warnings.filterwarnings("ignore")
 import sys
 
+
 class Data:
-    outdir = param_xlm2encoded_xml_ner['outdir']
+    outdir = param_doc2encoded_xml_ner['outdir']
     if not os.path.isdir(outdir):
         os.mkdir(outdir)
-    outdoc = f"{outdir}/{param_xlm2encoded_xml_ner['csvdocname']}"
+    outdoc = f"{outdir}/{param_doc2encoded_xml_ner['csvdocname']}"
     data = []
     try:
-        nlp = spacy.load(param_xlm2encoded_xml_ner['model_spacy'])
+        nlp = spacy.load(param_doc2encoded_xml_ner['model_spacy'])
     except OSError:
-         sys.exit(f"Télécharger le modèle en ligne de commande : spacy download {param_xlm2encoded_xml_ner['model_spacy']}")
+         sys.exit(f"Télécharger le modèle en ligne de commande : spacy download {param_doc2encoded_xml_ner['model_spacy']}")
 
 
     def get_files(self):
         """Récupère les fichiers du dossier en paramètre 'xml_dir'"""
-        self.files = [file for file in glob.glob(f"{param_xlm2encoded_xml_ner['xml_dir']}/*.xml")]
+        self.files = [file for file in glob.glob(f"{param_doc2encoded_xml_ner['inputdir']}/*")]
         return self.files
     
     def tokenize(self, text:str) -> list: 
@@ -39,13 +40,46 @@ class Data:
     
 
     def set_data(self, file:Path):
-        dictdata = self.xml2data(file)
-        self.data.append(dictdata)
+        if Path(file).suffix == ".xml":
+            dictdata = self.xml2data(file)
+            self.data.append(dictdata)
+        if Path(file).suffix == ".txt":
+            dictdata = self.txt2data(file)
+            self.data.append(dictdata)
+        else:
+            warnings.warn(f"Skipping {file} because not .xml or .txt")
+
+
+    def txt2data(self, file:Path)-> dict:
+        """Création du dictionnaire de données contenant text original, tokens et EN avec idref"""
+        content = dict()
+        with open(file, 'r', encoding='utf-8') as f:
+            txt = [line for line in f]
+        originaltext = "".join(txt)
+        originaltext = re.sub(r'(\t|)', '', originaltext)
+        originaltext = re.sub(r'(\n|\s\s+)', ' ', originaltext)
+        content['originaltext'] = originaltext
+        content['tokens'] = self.tokenize(originaltext)
+        ents =  self.predict([originaltext])  # must be a list of full sentences (in this case just one page )          
+        self.class_names = self.get_class_names(ents)
+        if self.isOIB(self.class_names) == True:                
+            full_names = self.set_list_full_name(ents)
+        else:
+            full_names = ents
+        for ent in full_names:
+            if ent['label'] == "PER":
+                idref = self.get_idref(ent['entity'])
+                if idref is not None:
+                    ent['idref'] = idref
+        content['ents'] = full_names
+        content['prov'] = os.path.basename(file)
+        return content
+
 
     def get_data(self):
         return self.data
     
-    def xml2data(self, file:Path):
+    def xml2data(self, file:Path) -> dict:
         """
         Extraction du XML et prédiction du modèle
         """
@@ -58,7 +92,11 @@ class Data:
             content['originaltext'] = originaltext
             content["tokens"] = self.tokenize(originaltext)
             ents =  self.predict([originaltext])  # must be a list of full sentences (in this case just one page )          
-            full_names = self.set_list_full_name(ents)
+            self.class_names = self.get_class_names(ents)
+            if self.isOIB(self.class_names) == True:                
+                full_names = self.set_list_full_name(ents)
+            else:
+                full_names = ents
             for ent in full_names:
                 if ent['label'] == "PER":
                     idref = self.get_idref(ent['entity'])
@@ -67,7 +105,13 @@ class Data:
             content['ents'] = full_names
             content['prov'] = os.path.basename(file)
             return content
-        
+    
+    def get_class_names(self, ents:list) -> set:
+        return {ent[1] for ent in ents}
+    
+    def isOIB(self, class_names:set) ->bool:
+        return any(label.startswith("B-") or label.startswith("I-") for label in list(class_names))
+
     def predict(self, fulltext:list) -> list:
          """"Retourne les EN sous forme de liste """
          return [[ent.text, ent.label_] for doc in self.nlp.pipe(fulltext, disable=["tok2vec", "tagger", "parser", "attribute_ruler", "lemmatizer"]) for ent in doc.ents]
@@ -172,7 +216,7 @@ class Data:
                                 # réinitialisation de la chaîne qui contient tokens hormis EN
                                 ch = ''    
                             # écriture de l'élément contenant l'EN (recherche du nom véritable de la balise avec les param_generaux)
-                            entity_elem = etree.SubElement(p, f"{param_general['tags_to_extract'][param_general['class_names'].index(entity['label'])]}")
+                            entity_elem = etree.SubElement(p, f"{param_doc2encoded_xml_ner['tags'][entity['label']]}")
                             # ajout de @idref si existant
                             if "idref" in list(entity.keys()):
                                 entity_elem.attrib['idref'] = entity['idref']
@@ -192,7 +236,8 @@ class Data:
                     p.text = ch
             # construction et enregistrement de l'arbre dans un document 
             tree = etree.ElementTree(xml)
-            tree.write(f"{self.outdir}/{page['prov']}", pretty_print=True, encoding='utf-8', xml_declaration=True)           
+            xml_docname = page['prov'].split('.')[:-1]
+            tree.write(f"{self.outdir}/{''.join(xml_docname)}.xml", pretty_print=True, encoding='utf-8', xml_declaration=True)           
 
     def writedata(self):
         """Ajout au csv de sortie les données (originaltext, tokens, ents) """
@@ -203,8 +248,8 @@ class Data:
 
 
 if __name__=='__main__':    
-    files = [file for file in glob.glob(f"{param_xlm2encoded_xml_ner['xml_dir']}/*.xml")]
-    done = [encoded for encoded in os.listdir(f"{param_xlm2encoded_xml_ner['outdir']}/")]
+    files = [file for file in glob.glob(f"{param_doc2encoded_xml_ner['inputdir']}/*")]
+    done = [encoded for encoded in os.listdir(f"{param_doc2encoded_xml_ner['outdir']}/")]
     if len(files) == len(done)-1:
         sys.exit("Dossier déjà encodé")
     else:
@@ -212,10 +257,9 @@ if __name__=='__main__':
             if os.path.basename(file) not in done:
                 data = Data()
                 data.set_data(file)
-                data.get_data()
+                # print(data.get_data())
                 data.writedata()
                 data.write_xml()
                 print(f"{file} done")
-                # data.get_xml(file)
             else:
                 print(f"Already done {file}")

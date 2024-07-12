@@ -15,14 +15,14 @@ from bs4 import BeautifulSoup
 import warnings
 warnings.filterwarnings("ignore")
 
-from params import param_general, param_IAgen
+from params import param_IAgen
 
 class Batches:
     doc = []
     batches = []
     template = param_IAgen['template']
     textdir = param_IAgen['inputdir']
-    class_names = param_general['class_names']
+    class_names = param_IAgen['class_names']
     outdir = param_IAgen['outdir']
     if not os.path.exists(outdir):
         os.mkdir(outdir)
@@ -121,9 +121,7 @@ class Batches:
             csvwriter.writerow([''.join(batch[1:]), output])
             
 
-
-def start():
-    """Traitement des données avec Mistral-small. Mode manuel écrit les batches de textes avec la requête template, mode 'api' traite directement les données"""
+if __name__=='__main__':
     batch = Batches()
     batch.set_text()
     batch.create_batches()
@@ -131,6 +129,3 @@ def start():
         batch.write_batches()
     if param_IAgen['mode'] == "api":
         print(batch.request_api())
-
-if __name__=='__main__':
-    typer.run(start)
