@@ -5,6 +5,7 @@ import typer
 from typing import Optional
 from pathlib import Path
 import sys
+warnings.filterwarnings("ignore")
 
 def ner(document:Path, model:Optional[str]="fr_core_news_sm", outpath:Optional[Path]=None): 
     """Extrait du document donné en argument les EN avec le modèle de spaCy spécifié (par défaut le modèle français). Enregistrement possible si le chemin de sortie est spécifié"""

@@ -6,7 +6,7 @@ from typing import Optional
 from pathlib import Path
 import sys
 import csv
-
+warnings.filterwarnings("ignore")
 
 def predict(document:Path, model:Optional[str]="Jean-Baptiste/camembert-ner-with-dates", outpath:Optional[Path]=None):
     """Extrait du document donné en argument les EN avec le modèle Transformers disponible via la plateforme HF. Si un chemin est donné à l'argument --outpath le résultat sera enregistré (format accepté txt/csv/tsv)"""

@@ -1,15 +1,38 @@
----
+```
 Autrice: Alexia Schneider
 Github: alexiaschn
 Date de création: 2024-07
 Titre: NER_Ritter
 Licence: CC BY-SA
 Description: Dépôt avec ressources logicielles et données pour la Reconnaissance d'Entités Nommées adaptée à des notices bibliographiques
----
-
+```
 # La Reconnaissance d'Entités Nommées : le Ritter augmenté comme cas d'usage
 
 Dépôt et tutoriel pour la reconnaissance d'Entités Nommées (EN) à partir des données du Répertoire bibliographique des imprimés d'Alsace des XVe et XVIe siècles de François Ritter aka le Ritter.
+
+## Téléchargement et mise en place 
+
+
+Pour pouvoir faire l'intégralité des manipulations : 
+
+````pip install -r requirement/all_detailed.txt```
+
+Pour la partie sur la création du jeux de données seulement : 
+
+```pip install -r requirement/common.txt```
+
+Pour faire de la NER avec des modèles spaCy :
+```pip install -r requirement/spacy.txt```
+
+Pour entraîner un modèle via spaCy : 
+
+```pip install -r requirement/spacy_entrainement.txt```
+
+Pour travailler avec Mistral : 
+
+```pip install -r requirement/mistral.txt```
+
+## Tutoriel
 
 Le tutoriel suit la [documentation](documentation/) avec les différentes étapes : [Présentation des données](documentation/1.Les_donnees.md), [OCRisation](documentation/2.OCR.md), [Création des jeux de données, de l'annotation manuelle au formatage pour l'utilisation d'algorithmes](documentation/3.Creation_jeux_de_donnees.md), puis [Présentation des différentes stratégies pour la Reconnaissance d'EN](documentation/4.Strategie_NER.md), ce qui offre la possibilité d'[Entrainer un modèle avec spaCy](documentation/5.Entrainement_modele_avec_spacy.md) ou d'[Utiliser des modèles génératifs](documentation/6.Modeles_generatif.md).
 
@@ -23,7 +46,7 @@ Pour utiliser un programme :
 programme|commentaire
 --|--
 params.py|gère tous les paramètres pour les programmes principaux, se référer à la documentation poru les étapes concernées
-xml2encoded_xml_ner | part d'un dossier de fichiers .xml et restitue un fichier de doc .xml avec les EN encodés par le modèle spaCy spécifié (avec idRef de personnes)
+doc2encoded_xml_ner | part d'un dossier de fichiers .xml et restitue un fichier de doc .xml avec les EN encodés par le modèle spaCy spécifié (avec idRef de personnes)
 creation_dataset.py|convertit les pages XML en tableurs CSV (et en document .spacy pour l'entrainement) en fonction des paramètres
 hf_ner|produit les prédictions à partir du fichier csv en fonction du modèle disponible sur HF donné en paramètre, effectue aussi l'évaluation du modèle
 regex_ner|à partir du csv généré par creation_dataset effectue la prédiction par regex depuis la _Liste alphabétique des noms de personnes_ du Ritter : ne fonctionne qu'avec ces données. 

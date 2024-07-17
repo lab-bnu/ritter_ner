@@ -14,7 +14,7 @@ from pathlib import Path
 from typing import Optional
 import sys
 import warnings
-from params import param_general, param_IAgen
+warnings.filterwarnings("ignore")
 
 class Batches:
     doc = []
