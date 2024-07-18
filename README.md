@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12771444.svg)](https://doi.org/10.5281/zenodo.12771444)
+
 ```
 Autrice: Alexia Schneider
 Github: alexiaschn
@@ -6,6 +8,9 @@ Titre: NER_Ritter
 Licence: CC BY-SA
 Description: Dépôt avec ressources logicielles et données pour la Reconnaissance d'Entités Nommées adaptée à des notices bibliographiques
 ```
+
+
+
 # La Reconnaissance d'Entités Nommées : le Ritter augmenté comme cas d'usage
 
 Dépôt et tutoriel pour la reconnaissance d'Entités Nommées (EN) à partir des données du Répertoire bibliographique des imprimés d'Alsace des XVe et XVIe siècles de François Ritter aka le Ritter.
